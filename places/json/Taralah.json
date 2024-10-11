@@ -1,0 +1,76 @@
+{
+  "id": "place:Taralah",
+  "primary_id": "place:Taralah",
+  "alternate_sources": {
+    "aquifer": [
+      "8739|Taralah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007926001001000"
+    ],
+    "tipnr": [
+      "Taralah@Jos.18.27"
+    ],
+    "vizbible": [
+      "recxunh2VeXXyNApr"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007926001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Taralah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Taralah",
+          "gloss": "Taralah",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.792733",
+      "lon": "35.196862"
+    },
+    "vizbible": {
+      "lat": "31.792733",
+      "lon": "35.196862"
+    }
+  },
+  "key_references": [
+    "06018027"
+  ],
+  "references": [
+    "06018027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180270032"
+      ]
+    ]
+  }
+}

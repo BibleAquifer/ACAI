@@ -1,0 +1,144 @@
+{
+  "id": "person:Jezaniah",
+  "primary_id": "person:Jezaniah",
+  "alternate_sources": {
+    "aquifer": [
+      "6368|Jezaniah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Azariah|Jezaniah@2Ki.25.23-Jer",
+      "Jaazaniah|Jezaniah@2Ki.25.23-Jer",
+      "Jezaniah@2Ki.25.23-Jer"
+    ],
+    "vizbible": [
+      "recv5kl7zRybrUs4G"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hoshaiah.2",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jezaniah",
+      "alternate_labels": [
+        "Azariah",
+        "Jaazaniah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jezaniah",
+          "article": "person:Jezaniah",
+          "description": "A son of Hoshaiah who opposed Gedaliah the governor and Jeremiah the prophet after the Israelite return from exile."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jaazaniah.4",
+    "person:Azariah.21"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12025023",
+    "24040008",
+    "24043002"
+  ],
+  "references": [
+    "12025023",
+    "24040008",
+    "24042001",
+    "24043002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120250230272"
+      ],
+      [
+        "o240400080192"
+      ],
+      [
+        "o240420010082"
+      ],
+      [
+        "o240430020021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o120250230301"
+      ],
+      [
+        "o240400080221"
+      ],
+      [
+        "o240400100112"
+      ],
+      [
+        "o240420020172"
+      ],
+      [
+        "o240420040232"
+      ],
+      [
+        "o240420050012"
+      ],
+      [
+        "o240420060101"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240400090111"
+      ],
+      [
+        "o240400090122"
+      ],
+      [
+        "o240400090141"
+      ],
+      [
+        "o240400090162"
+      ],
+      [
+        "o240400100121"
+      ],
+      [
+        "o240400100162"
+      ],
+      [
+        "o240400100182"
+      ],
+      [
+        "o240400100211"
+      ],
+      [
+        "o240420020012"
+      ],
+      [
+        "o240420050211"
+      ],
+      [
+        "o240420060141"
+      ],
+      [
+        "o240420060201"
+      ],
+      [
+        "o240430020111"
+      ],
+      [
+        "o240430020231"
+      ],
+      [
+        "o240430020252"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "id": "place:Gaza",
+  "primary_id": "place:Gaza",
+  "alternate_sources": {
+    "aquifer": [
+      "5383|Gaza|TyndaleBibleDictionary",
+      "26627|Gaza|UWTranslationWords"
+    ],
+    "obi": [
+      "aa8edd2"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21672"
+    ],
+    "tipnr": [
+      "Gaza@Gen.10.19-Act",
+      "Ayyah|Gaza@Gen.10.19-Act"
+    ],
+    "vizbible": [
+      "recNzNKGhPz5qS3Kc"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q47492"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gaza",
+      "alternate_labels": [
+        "Gazites",
+        "Gazite",
+        "Ayyah",
+        "Gazathites",
+        "Azzah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gaza",
+          "gloss": "Gaza",
+          "description": "A town in Philistia; one of the five cities of the Philistines."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ayyah"
+  ],
+  "nearby_places": [
+    "place:Azotus"
+  ],
+  "subregion_of": [
+    "place:Philistine"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.5248177",
+      "lon": "34.43336472"
+    },
+    "recogito": {
+      "lat": "31.503959",
+      "lon": "34.46203"
+    },
+    "vizbible": {
+      "lat": "31.503959",
+      "lon": "34.46203"
+    },
+    "biblica-maps": {
+      "lat": "31.52021",
+      "lon": "34.45172"
+    }
+  },
+  "key_references": [
+    "07001018",
+    "44008026",
+    "06010041",
+    "01010019",
+    "09006017",
+    "05002023"
+  ],
+  "references": [
+    "01010019",
+    "05002023",
+    "06010041",
+    "06011022",
+    "06013003",
+    "06015047",
+    "07001018",
+    "07006004",
+    "07016001",
+    "07016002",
+    "07016021",
+    "09006017",
+    "11005004",
+    "12018008",
+    "13007028",
+    "24025020",
+    "24047001",
+    "24047005",
+    "30001006",
+    "30001007",
+    "36002004",
+    "38009005",
+    "44008026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100190081"
+      ],
+      [
+        "o050020230051"
+      ],
+      [
+        "o060100410061"
+      ],
+      [
+        "o060110220082"
+      ],
+      [
+        "o060130030162"
+      ],
+      [
+        "o060150470041"
+      ],
+      [
+        "o070010180041"
+      ],
+      [
+        "o070060040091"
+      ],
+      [
+        "o070160010031"
+      ],
+      [
+        "o070160020012"
+      ],
+      [
+        "o070160210081"
+      ],
+      [
+        "o090060170112"
+      ],
+      [
+        "o110050040091"
+      ],
+      [
+        "o120180080061"
+      ],
+      [
+        "o130070280141"
+      ],
+      [
+        "o240250200171"
+      ],
+      [
+        "o240470010141"
+      ],
+      [
+        "o240470050041"
+      ],
+      [
+        "o300010060071"
+      ],
+      [
+        "o300010070041"
+      ],
+      [
+        "o360020040021"
+      ],
+      [
+        "o380090050042"
+      ],
+      [
+        "o380090050132"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44008026021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o300010060162"
+      ],
+      [
+        "o360020040031"
+      ],
+      [
+        "o380090050052"
+      ]
+    ]
+  }
+}

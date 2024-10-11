@@ -1,0 +1,69 @@
+{
+  "id": "realia:Sieve",
+  "primary_id": "realia:Sieve",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003235001001000",
+      "004702001003000",
+      "004858001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.1.8.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003235001001000",
+    "004702001003000",
+    "004858001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sieve",
+      "alternate_labels": [
+        "To Sieve",
+        "To Sift",
+        "Winnowing"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sieve",
+          "article": "realia:Sieve",
+          "description": "A shallow, circular container with a mesh bottom used to separate grain from chaff."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כְּבָרָה",
+      "נוף",
+      "נָפָה"
+    ]
+  },
+  "key_references": [
+    "30009009",
+    "42022031"
+  ],
+  "references": [
+    "23030028",
+    "30009009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o300090090132"
+      ],
+      [
+        "o230300280072"
+      ],
+      [
+        "o230300280092"
+      ]
+    ]
+  }
+}

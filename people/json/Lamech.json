@@ -1,0 +1,138 @@
+{
+  "id": "person:Lamech",
+  "primary_id": "person:Lamech",
+  "alternate_sources": {
+    "aquifer": [
+      "6672|Lamech|TyndaleBibleDictionary",
+      "26810|Lamech|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "003596001001000"
+    ],
+    "tipnr": [
+      "Lamech@Gen.4.18-"
+    ],
+    "vizbible": [
+      "recrXQC6zQIX97CmN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Methushael",
+  "partners": [
+    "person:Adah",
+    "person:Zillah"
+  ],
+  "offspring": [
+    "person:Jabal",
+    "person:Jubal",
+    "person:Tubal-cain",
+    "person:Naamah.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "003596001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lamech",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lamech",
+          "article": "person:Lamech",
+          "description": "A son of Methushael, descendant of Adam's son Cain, and father of Jabal, Jubal, Tubal-cain, and Naamah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לֶמֶךְ",
+      "לֶ֫מֶךְ"
+    ]
+  },
+  "key_references": [
+    "01004018",
+    "01004019",
+    "01004023"
+  ],
+  "references": [
+    "01004018",
+    "01004019",
+    "01004023",
+    "01004024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040180161"
+      ],
+      [
+        "o010040190031"
+      ],
+      [
+        "o010040230021"
+      ],
+      [
+        "o010040230091"
+      ],
+      [
+        "o010040240052"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010040230141"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010040230041",
+          "o010040230051",
+          "o010040230052",
+          "o010040230061",
+          "o010040230071",
+          "o010040230072",
+          "o010040230081",
+          "o010040230091",
+          "o010040230101",
+          "o010040230111",
+          "o010040230112",
+          "o010040230121",
+          "o010040230131",
+          "o010040230141",
+          "o010040230151",
+          "o010040230152",
+          "o010040230153",
+          "o010040230161",
+          "o010040230162",
+          "o010040230171",
+          "o010040230172",
+          "o010040230173",
+          "o010040240011",
+          "o010040240021",
+          "o010040240031",
+          "o010040240041",
+          "o010040240051",
+          "o010040240052",
+          "o010040240061",
+          "o010040240071",
+          "o010040240072"
+        ]
+      }
+    ]
+  }
+}

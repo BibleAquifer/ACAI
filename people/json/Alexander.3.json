@@ -1,0 +1,79 @@
+{
+  "id": "person:Alexander.3",
+  "primary_id": "person:Alexander.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3501|Alexander|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.17c"
+    ],
+    "tipnr": [
+      "Alexander@Act.19.33"
+    ],
+    "vizbible": [
+      "recq9MiOV10lqQuRh"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.17c"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Alexander (Acts 19:33)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Alexander (Acts 19:33)",
+          "article": "person:Alexander.3",
+          "description": "A Jewish man from Ephesus living during the New Testament, mentioned in Acts 19:33."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀλέξανδρος"
+    ]
+  },
+  "key_references": [
+    "44019033"
+  ],
+  "references": [
+    "44019033"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44019033006"
+      ],
+      [
+        "n44019033013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44019033008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44019033014"
+      ],
+      [
+        "n44019033018"
+      ],
+      [
+        "n44019034005"
+      ]
+    ]
+  }
+}

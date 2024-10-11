@@ -1,0 +1,83 @@
+{
+  "id": "person:Hophni",
+  "primary_id": "person:Hophni",
+  "alternate_sources": {
+    "aquifer": [
+      "5895|Hophni|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002443001001000"
+    ],
+    "tipnr": [
+      "Hophni@1Sa.1.3-"
+    ],
+    "vizbible": [
+      "recK83c4DLkr3yBX5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eli",
+  "siblings": [
+    "person:Phinehas.2"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "ubsdbh": [
+    "002443001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hophni",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hophni",
+          "article": "person:Hophni",
+          "description": "Hophni was a sinful priest and son of Eli at the time of the prophet Samuel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חָפְנִי",
+      "חׇפְנִי"
+    ]
+  },
+  "key_references": [
+    "09002012",
+    "09002034",
+    "09004004",
+    "09004011"
+  ],
+  "references": [
+    "09001003",
+    "09002034",
+    "09004004",
+    "09004011",
+    "09004017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090010030161"
+      ],
+      [
+        "o090020340101"
+      ],
+      [
+        "o090040040211"
+      ],
+      [
+        "o090040110081"
+      ],
+      [
+        "o090040170171"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "place:AugustaVindelicum",
+  "primary_id": "place:AugustaVindelicum",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:AugustaVindelicum",
+          "gloss": "Augusta Vindelicum",
+          "description": "A Roman city honoring Caesar Augustus; modern-day Augsburg, Germany."
+        }
+      ],
+      "preferred_label": "Augusta Vindelicum",
+      "alternate_labels": [
+        "Augsburg"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "48.36546",
+      "lon": "10.89476"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "place:Pishon.1",
+  "primary_id": "place:Pishon.1",
+  "alternate_sources": {
+    "aquifer": [
+      "7746|Pishon|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pishon.1",
+          "gloss": "Pishon",
+          "description": "A river running through the land of Havila; one of the four rivers flowing from the Garden of Eden."
+        }
+      ],
+      "preferred_label": "Pishon",
+      "alternate_labels": [
+        "Pison",
+        "Phison River"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Eden.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "river"
+    ]
+  },
+  "key_references": [
+    "01002011"
+  ]
+}

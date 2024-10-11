@@ -1,0 +1,61 @@
+{
+  "id": "person:Alvan",
+  "primary_id": "person:Alvan",
+  "alternate_sources": {
+    "aquifer": [
+      "3533|Alvan|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Alvan@Gen.36.23-1Ch"
+    ],
+    "vizbible": [
+      "recSlRUq0Y3H5qP4a"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shobal",
+  "siblings": [
+    "person:Manahath",
+    "person:Ebal",
+    "person:Shepho",
+    "person:Onam"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Alvan",
+      "alternate_labels": [
+        "Alian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Alvan",
+          "article": "person:Alvan",
+          "description": "A man living during the time of the patriarchs, son of Shobal and brother of Manahath, Ebal, Shepho, and Onam, first mentioned in Genesis 36:23."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036023",
+    "13001040"
+  ],
+  "references": [
+    "01036023",
+    "13001040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360230041"
+      ],
+      [
+        "o130010400031"
+      ]
+    ]
+  }
+}

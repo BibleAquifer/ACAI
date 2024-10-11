@@ -1,0 +1,91 @@
+{
+  "id": "person:Serug",
+  "primary_id": "person:Serug",
+  "alternate_sources": {
+    "aquifer": [
+      "8242|Serug|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Serug@Gen.11.20-Luk"
+    ],
+    "vizbible": [
+      "rec5I7GZ9sLwh0hI2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Reu",
+  "offspring": [
+    "person:Nahor"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Serug",
+      "alternate_labels": [
+        "Saruch"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Serug",
+          "article": "person:Serug",
+          "description": "The son of the patriarch Reu and father of Abraham's grandfather Nahor. He is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01011020",
+    "13001026",
+    "42003035"
+  ],
+  "references": [
+    "01011020",
+    "01011021",
+    "01011022",
+    "01011023",
+    "13001026",
+    "42003035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010110200081"
+      ],
+      [
+        "o010110210061"
+      ],
+      [
+        "o010110220021"
+      ],
+      [
+        "o010110230021"
+      ],
+      [
+        "o130010260011"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003035002"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010110220052"
+      ],
+      [
+        "o010110230092"
+      ]
+    ]
+  }
+}

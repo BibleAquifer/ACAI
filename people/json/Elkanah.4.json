@@ -1,0 +1,69 @@
+{
+  "id": "person:Elkanah.4",
+  "primary_id": "person:Elkanah.4",
+  "alternate_sources": {
+    "aquifer": [
+      "5033|Elkanah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000475001005000"
+    ],
+    "tipnr": [
+      "Elkanah@1Ch.6.26-"
+    ],
+    "vizbible": [
+      "recYt9dB3lANgvdID"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ahimoth",
+  "offspring": [
+    "person:Zuph"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000475001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elkanah (1 Chronicles 6:26)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elkanah (1 Chronicles 6:26)",
+          "article": "person:Elkanah.4",
+          "description": "Elkanah, a Levite and son of Ahimoth, lived during Israel's united kingdom and was mentioned in 1 Chronicles 6:26."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְקָנָה"
+    ]
+  },
+  "key_references": [
+    "13006011",
+    "13006020"
+  ],
+  "references": [
+    "13006011",
+    "13006020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060110011"
+      ],
+      [
+        "o130060110041"
+      ],
+      [
+        "o130060200051"
+      ]
+    ]
+  }
+}

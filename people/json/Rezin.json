@@ -1,0 +1,118 @@
+{
+  "id": "person:Rezin",
+  "primary_id": "person:Rezin",
+  "alternate_sources": {
+    "aquifer": [
+      "8025|Rezin|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006914001001000"
+    ],
+    "tipnr": [
+      "Rezin@2Ki.15.37-Isa"
+    ],
+    "vizbible": [
+      "rec1nwxpOMQgGsW7C"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Syria",
+  "ubsdbh": [
+    "006914001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rezin",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rezin",
+          "article": "person:Rezin",
+          "description": "A king of Syria during the time of the divided kingdom of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12016005",
+    "12016009",
+    "23007001"
+  ],
+  "references": [
+    "12015037",
+    "12016005",
+    "12016006",
+    "12016009",
+    "23007001",
+    "23007004",
+    "23007008",
+    "23008006",
+    "23009010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120150370071"
+      ],
+      [
+        "o120160050031"
+      ],
+      [
+        "o120160060041"
+      ],
+      [
+        "o120160090141"
+      ],
+      [
+        "o230070010111"
+      ],
+      [
+        "o230070040171"
+      ],
+      [
+        "o230070080071"
+      ],
+      [
+        "o230080060131"
+      ],
+      [
+        "o230090100051"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230070040142"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120160050132"
+      ],
+      [
+        "o120160050171"
+      ],
+      [
+        "o120160050182"
+      ],
+      [
+        "o120160060102"
+      ],
+      [
+        "o230070010231"
+      ],
+      [
+        "o230070010242"
+      ]
+    ]
+  }
+}

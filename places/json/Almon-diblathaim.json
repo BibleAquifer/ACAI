@@ -1,0 +1,103 @@
+{
+  "id": "place:Almon-diblathaim",
+  "primary_id": "place:Almon-diblathaim",
+  "alternate_sources": {
+    "aquifer": [
+      "3520|Almon-Diblathaim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aeb052c"
+    ],
+    "ubsdbh": [
+      "005474001001000"
+    ],
+    "tipnr": [
+      "Almon-diblathaim@Num.33.46"
+    ],
+    "vizbible": [
+      "recbHDxOBZIQIrqOG"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4733871"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005474001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Almon-diblathaim",
+      "alternate_labels": [
+        "Almon-Diblatayim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Almon-diblathaim",
+          "gloss": "Almon-Diblathaim",
+          "description": "A location in Moab along the route of the exodus."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Beth-diblathaim"
+  ],
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עָלֶמֶת",
+      "עָלֶ֫מֶת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.49684514",
+      "lon": "35.78284105"
+    },
+    "vizbible": {
+      "lat": "31.49684514",
+      "lon": "35.78284105"
+    }
+  },
+  "key_references": [
+    "04033047",
+    "04033046"
+  ],
+  "references": [
+    "04033046",
+    "04033047"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330460052",
+        "o040330460061"
+      ],
+      [
+        "o040330470022",
+        "o040330470031"
+      ]
+    ]
+  }
+}

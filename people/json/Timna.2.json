@@ -1,0 +1,70 @@
+{
+  "id": "person:Timna.2",
+  "primary_id": "person:Timna.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8848|Timna (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007850001002000"
+    ],
+    "tipnr": [
+      "Timna@Gen.36.22-1Ch"
+    ],
+    "vizbible": [
+      "recSIpHo7tmg0q7jL"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Seir",
+  "siblings": [
+    "person:Lotan",
+    "person:Shobal",
+    "person:Zibeon.2",
+    "person:Anah.2",
+    "person:Dishon",
+    "person:Ezer",
+    "person:Dishan"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "007850001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Timna (Genesis 36:22)",
+      "alternate_labels": [
+        "Homam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Timna (Genesis 36:22)",
+          "article": "person:Timna.2",
+          "description": "Timna, also known as Homam, was a woman living during the time of the patriarchs, mentioned in Genesis 36:22, and the daughter of Seir and sister to Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036022",
+    "13001039"
+  ],
+  "references": [
+    "01036022",
+    "13001039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360220081"
+      ],
+      [
+        "o130010390071"
+      ]
+    ]
+  }
+}

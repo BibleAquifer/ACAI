@@ -1,0 +1,91 @@
+{
+  "id": "place:Heshmon",
+  "primary_id": "place:Heshmon",
+  "alternate_sources": {
+    "aquifer": [
+      "5828|Heshmon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002603001001000"
+    ],
+    "tipnr": [
+      "Heshmon@Jos.15.27"
+    ],
+    "vizbible": [
+      "recOA4cnESZLrBj1A"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002603001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heshmon",
+      "alternate_labels": [
+        "Heshbon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Heshmon",
+          "gloss": "Heshmon",
+          "description": "A town in the southern territory of Judah, near the border of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֶשְׁמֹון",
+      "חֶשְׁמוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.215418",
+      "lon": "34.942986"
+    },
+    "vizbible": {
+      "lat": "31.215418",
+      "lon": "34.942986"
+    }
+  },
+  "key_references": [
+    "06015027"
+  ],
+  "references": [
+    "06015027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150270032"
+      ]
+    ]
+  }
+}

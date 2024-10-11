@@ -1,0 +1,50 @@
+{
+  "id": "realia:Bellows",
+  "primary_id": "realia:Bellows",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004254001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.11.1.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004254001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bellows",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bellows",
+          "article": "realia:Bellows",
+          "description": "A tool with leather and cylinders used to blow air into a furnace to make it hotter."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַפּוּחַ"
+    ]
+  },
+  "key_references": [
+    "24006029"
+  ],
+  "references": [
+    "24006029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240060290021"
+      ]
+    ]
+  }
+}

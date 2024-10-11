@@ -1,0 +1,62 @@
+{
+  "id": "person:Shomer",
+  "primary_id": "person:Shomer",
+  "alternate_sources": {
+    "aquifer": [
+      "8446|Shomer|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shomer@2Ki.12.21-2Ch",
+      "Shimrith|Shomer@2Ki.12.21-2Ch"
+    ],
+    "vizbible": [
+      "reci8SZXukI5B2duF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Jehozabad"
+  ],
+  "tribe": "group:Moab",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shomer",
+      "alternate_labels": [
+        "Shimeath",
+        "Shimrith"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shomer",
+          "article": "person:Shomer",
+          "description": "Shomer, also called Shimrith or Shimeath, was a Moabite man living during the time of the divided kingdom, first mentioned in 2 Kings 12:21."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shimrith"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12012022",
+    "14024026"
+  ],
+  "references": [
+    "12012022",
+    "14024026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120120220061"
+      ],
+      [
+        "o140240260101"
+      ]
+    ]
+  }
+}

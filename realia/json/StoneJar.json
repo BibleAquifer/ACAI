@@ -1,0 +1,78 @@
+{
+  "id": "realia:StoneJar",
+  "primary_id": "realia:StoneJar",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.127"
+    ],
+    "ubsrealia": [
+      "realia:5.18.1.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.127"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stone Jar",
+      "alternate_labels": [
+        "Pitcher",
+        "Water Jar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Stone Jar",
+          "article": "realia:StoneJar",
+          "description": "A container made of stone used to store or carry water or other liquids."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὑδρία"
+    ]
+  },
+  "key_references": [
+    "43002006",
+    "43002007",
+    "43004028"
+  ],
+  "references": [
+    "43002006",
+    "43002007",
+    "43004028"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43002006005"
+      ],
+      [
+        "n43002007007"
+      ],
+      [
+        "n43004028004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43002007011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43002006013"
+      ]
+    ]
+  }
+}

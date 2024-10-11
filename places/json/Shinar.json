@@ -1,0 +1,124 @@
+{
+  "id": "place:Shinar",
+  "primary_id": "place:Shinar",
+  "alternate_sources": {
+    "aquifer": [
+      "8423|Shinar|TyndaleBibleDictionary",
+      "27088|Shinar|UWTranslationWords"
+    ],
+    "obi": [
+      "af725b1"
+    ],
+    "ubsdbh": [
+      "007533001001000"
+    ],
+    "tipnr": [
+      "Shinar@Gen.10.10-Zec"
+    ],
+    "vizbible": [
+      "rechl3VIoaKFb2C9f"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1404297"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007533001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shinar",
+      "alternate_labels": [
+        "Babylonian",
+        "Babylon",
+        "Babylonia",
+        "Babylonish"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shinar",
+          "gloss": "Shinar",
+          "description": "A region in Mesopotamia between the Euphrates and Tigris rivers; another name for Babylonia."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Babylonia"
+  ],
+  "tribal_area": "group:Mesopotamia",
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.53650368616845",
+      "lon": "44.42088287373876"
+    },
+    "vizbible": {
+      "lat": "32.53650368616845",
+      "lon": "44.42088287373876"
+    }
+  },
+  "key_references": [
+    "38005011",
+    "01011002"
+  ],
+  "references": [
+    "01010010",
+    "01011002",
+    "01014001",
+    "01014009",
+    "06007021",
+    "23011011",
+    "27001002",
+    "38005011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100100091"
+      ],
+      [
+        "o010110020071"
+      ],
+      [
+        "o010140010051"
+      ],
+      [
+        "o010140090101"
+      ],
+      [
+        "o060070210051"
+      ],
+      [
+        "o230110110193"
+      ],
+      [
+        "o270010020141"
+      ],
+      [
+        "o380050110071"
+      ]
+    ]
+  }
+}

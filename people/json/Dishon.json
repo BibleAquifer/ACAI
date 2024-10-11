@@ -1,0 +1,87 @@
+{
+  "id": "person:Dishon",
+  "primary_id": "person:Dishon",
+  "alternate_sources": {
+    "aquifer": [
+      "4862|Dishon|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Dishon@Gen.36.21-1Ch"
+    ],
+    "vizbible": [
+      "recSb23V3EQtfldTc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Seir",
+  "offspring": [
+    "person:Hemdan",
+    "person:Eshban",
+    "person:Ithran",
+    "person:Cheran"
+  ],
+  "siblings": [
+    "person:Lotan",
+    "person:Shobal",
+    "person:Zibeon.2",
+    "person:Anah.2",
+    "person:Ezer",
+    "person:Dishan",
+    "person:Timna.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dishon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dishon",
+          "article": "person:Dishon",
+          "description": "Dishon was the son of Anah, who was a chief of the Horites. Dishon was the father of Hemdan, Eshban, Ithran, and Cheran."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036025",
+    "01036026",
+    "13001041"
+  ],
+  "references": [
+    "01036021",
+    "01036026",
+    "01036030",
+    "13001038",
+    "13001041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360210012"
+      ],
+      [
+        "o010360260031"
+      ],
+      [
+        "o010360300021"
+      ],
+      [
+        "o130010380072"
+      ],
+      [
+        "o130010410031"
+      ],
+      [
+        "o130010410051"
+      ]
+    ]
+  }
+}

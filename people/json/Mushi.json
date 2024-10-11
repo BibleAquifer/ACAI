@@ -1,0 +1,102 @@
+{
+  "id": "person:Mushi",
+  "primary_id": "person:Mushi",
+  "alternate_sources": {
+    "aquifer": [
+      "7245|Mushi, Mushite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Mushi@Exo.6.19-1Ch"
+    ],
+    "vizbible": [
+      "recErAx0r7cMOcbvP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Merari",
+  "offspring": [
+    "person:Mahli.2",
+    "person:Eder.2",
+    "person:Jerimoth.3"
+  ],
+  "siblings": [
+    "person:Mahli",
+    "person:Jaaziah"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mushi",
+      "alternate_labels": [
+        "Mushite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mushi",
+          "article": "person:Mushi",
+          "description": "One of the sons of Merari from the tribe of Levi."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Mushi"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006019",
+    "13006019"
+  ],
+  "references": [
+    "02006019",
+    "04003020",
+    "04003033",
+    "04026058",
+    "13006004",
+    "13006032",
+    "13023021",
+    "13023023",
+    "13024026",
+    "13024030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060190042"
+      ],
+      [
+        "o040030200052"
+      ],
+      [
+        "o040030330052"
+      ],
+      [
+        "o040260580112"
+      ],
+      [
+        "o130060040042"
+      ],
+      [
+        "o130060320041"
+      ],
+      [
+        "o130230210042"
+      ],
+      [
+        "o130230230021"
+      ],
+      [
+        "o130240260042"
+      ],
+      [
+        "o130240300021"
+      ]
+    ]
+  }
+}

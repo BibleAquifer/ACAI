@@ -1,0 +1,75 @@
+{
+  "id": "person:Shimron",
+  "primary_id": "person:Shimron",
+  "alternate_sources": {
+    "aquifer": [
+      "8419|Shimron (Person)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shimron@Gen.46.13-1Ch"
+    ],
+    "vizbible": [
+      "recRfHXuYOANSE5lm"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Issachar",
+  "siblings": [
+    "person:Tola",
+    "person:Puah",
+    "person:Jashub"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Issachar",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shimron",
+      "alternate_labels": [
+        "Shimronite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shimron",
+          "article": "person:Shimron",
+          "description": "A son of the patriarch Issachar. He was founder of the clam of the Shimronites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Shimron"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046013",
+    "04026024",
+    "13007001"
+  ],
+  "references": [
+    "01046013",
+    "04026024",
+    "13007001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460130062"
+      ],
+      [
+        "o040260240042"
+      ],
+      [
+        "o040260240062"
+      ],
+      [
+        "o130070010072"
+      ]
+    ]
+  }
+}

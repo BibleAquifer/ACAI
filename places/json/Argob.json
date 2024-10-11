@@ -1,0 +1,102 @@
+{
+  "id": "place:Argob",
+  "primary_id": "place:Argob",
+  "alternate_sources": {
+    "aquifer": [
+      "3731|Argob (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a42a5b2"
+    ],
+    "ubsdbh": [
+      "000652001001000"
+    ],
+    "tipnr": [
+      "Argob@Deu.3.4-1Ki"
+    ],
+    "vizbible": [
+      "recxzSPsXo0a8wMFt"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000652001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Argob",
+      "alternate_labels": [
+        "Argo"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Argob",
+          "gloss": "Argob",
+          "description": "A region in Bashan taken by the Israelites from the kingdom of Og; assigned to the half-tribe of Manasseh."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Bashan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַרְגֹּב"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.144",
+      "lon": "36.136"
+    },
+    "vizbible": {
+      "lat": "33.144",
+      "lon": "36.136"
+    }
+  },
+  "key_references": [
+    "05003013",
+    "11004013"
+  ],
+  "references": [
+    "05003004",
+    "05003013",
+    "05003014",
+    "11004013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050030040181"
+      ],
+      [
+        "o050030130132"
+      ],
+      [
+        "o050030140081"
+      ],
+      [
+        "o110040130141"
+      ]
+    ]
+  }
+}

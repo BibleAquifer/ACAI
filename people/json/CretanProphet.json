@@ -1,0 +1,48 @@
+{
+  "id": "person:CretanProphet",
+  "primary_id": "person:CretanProphet",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cretan Prophet",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cretan Prophet",
+          "description": "A prophet from Crete, later identified as Epimenides."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "56001012"
+  ],
+  "references": [
+    "56001012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n56001012007"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Quotation",
+        "words": [
+          "n56001012008",
+          "n56001012009",
+          "n56001012010",
+          "n56001012011",
+          "n56001012012",
+          "n56001012013",
+          "n56001012014"
+        ]
+      }
+    ]
+  }
+}

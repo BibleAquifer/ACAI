@@ -1,0 +1,63 @@
+{
+  "id": "person:Becher.2",
+  "primary_id": "person:Becher.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4055|Becher, Becherite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Becher@Num.26.35"
+    ],
+    "vizbible": [
+      "recQh26IgmpRKW3HS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ephraim",
+  "siblings": [
+    "person:Shuthelah",
+    "person:Tahan",
+    "person:Ezer.3",
+    "person:Elead",
+    "person:Beriah.2"
+  ],
+  "tribe": "group:Ephraim",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Becher (Numbers 26:35)",
+      "alternate_labels": [
+        "Becherite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Becher (Numbers 26:35)",
+          "article": "person:Becher.2",
+          "description": "A man of the tribe of Ephraim, living during the time of Egypt and the wilderness, mentioned in Numbers 26:35, and son of Ephraim."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Becher"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026035"
+  ],
+  "references": [
+    "04026035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260350082"
+      ],
+      [
+        "o040260350102"
+      ]
+    ]
+  }
+}

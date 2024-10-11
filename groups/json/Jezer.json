@@ -1,0 +1,57 @@
+{
+  "id": "group:Jezer",
+  "primary_id": "group:Jezer",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003050001001000"
+    ],
+    "tipnr": [
+      "Jezer@Gen.46.24-1Ch"
+    ],
+    "vizbible": [
+      "rec8rL9g71oMCW8CK"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Jezer",
+  "ubsdbh": [
+    "003050001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jezerites",
+      "alternate_labels": [
+        "Jezer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jezerites",
+          "article": "group:Jezer",
+          "description": "People descended from Jezer, son of Naphtali, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִצְרִי"
+    ]
+  },
+  "key_references": [
+    "04026049"
+  ],
+  "references": [
+    "04026049"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260490032"
+      ]
+    ]
+  }
+}

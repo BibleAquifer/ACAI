@@ -1,0 +1,93 @@
+{
+  "id": "place:Cun",
+  "primary_id": "place:Berothah",
+  "alternate_sources": {
+    "aquifer": [
+      "4709|Cun|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003264001001000"
+    ],
+    "tipnr": [
+      "Cun|Berothah@2Sa.8.8-Ezk"
+    ],
+    "vizbible": [
+      "rec871Urh3FpMXS3G"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003264001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cun",
+      "alternate_labels": [
+        "Berothah",
+        "Kun",
+        "Chun"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cun",
+          "gloss": "Cun",
+          "description": "A town in the territory of King Hadadezer of Zobah which was a major source of bronze during the time of King David (1 Chronicles 18:8)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Berothah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כּוּן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.93148",
+      "lon": "36.152049"
+    },
+    "recogito": {
+      "lat": "38.79592",
+      "lon": "115.12591"
+    },
+    "vizbible": {
+      "lat": "33.93148",
+      "lon": "36.152049"
+    }
+  },
+  "key_references": [
+    "13018008"
+  ],
+  "references": [
+    "13018008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130180080023"
+      ]
+    ]
+  }
+}

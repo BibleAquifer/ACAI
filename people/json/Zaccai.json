@@ -1,0 +1,67 @@
+{
+  "id": "person:Zaccai",
+  "primary_id": "person:Zabbai.2",
+  "alternate_sources": {
+    "aquifer": [
+      "9119|Zaccai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001977001001000"
+    ],
+    "tipnr": [
+      "Zaccai|Zabbai@Neh.3.20"
+    ],
+    "vizbible": [
+      "recBiJ6E4gOeTquNg"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Baruch"
+  ],
+  "ubsdbh": [
+    "001977001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zaccai",
+      "alternate_labels": [
+        "Zabbai (Nehemiah 3:20)",
+        "Zabbai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zabbai (Nehemiah 3:20)",
+          "article": "person:Zaccai",
+          "description": "Zaccai, also known as Zabbai, was a Levite living during the time of exile and return, and the father of Baruch, mentioned in Nehemiah 3:20."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zabbai.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זַכַּי"
+    ]
+  },
+  "key_references": [
+    "15002009",
+    "16007014"
+  ],
+  "references": [
+    "16003020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030200071"
+      ]
+    ]
+  }
+}

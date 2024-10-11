@@ -1,0 +1,123 @@
+{
+  "id": "place:Luz",
+  "primary_id": "place:Bethel",
+  "alternate_sources": {
+    "aquifer": [
+      "6796|Luz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003539002001000"
+    ],
+    "tipnr": [
+      "Luz|Bethel@Gen.12.8-Zec"
+    ],
+    "vizbible": [
+      "rec7ux6O0fwgSs7Cw"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003539002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Luz (of Israel)",
+      "alternate_labels": [
+        "Bethel",
+        "Luz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Luz.1",
+          "gloss": "Luz (of Israel)",
+          "description": "A town, later known as Bethel, on the boundary of the territories of Ephraim and Benjamin."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Bethel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "לוּז",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.93053921",
+      "lon": "35.22103275"
+    },
+    "vizbible": {
+      "lat": "31.93053921",
+      "lon": "35.22103275"
+    }
+  },
+  "key_references": [
+    "07001023",
+    "01036006",
+    "01028019"
+  ],
+  "references": [
+    "01028019",
+    "01035006",
+    "01048003",
+    "06016002",
+    "06018013",
+    "07001023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010280190091"
+      ],
+      [
+        "o010350060031"
+      ],
+      [
+        "o010480030092"
+      ],
+      [
+        "o060160020041"
+      ],
+      [
+        "o060180130041"
+      ],
+      [
+        "o060180130071"
+      ],
+      [
+        "o070010230091"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010350060071"
+      ],
+      [
+        "o060180130091"
+      ]
+    ]
+  }
+}

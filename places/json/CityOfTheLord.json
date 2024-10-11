@@ -1,0 +1,67 @@
+{
+  "id": "place:CityOfTheLord",
+  "primary_id": "place:Jerusalem",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005411001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/125609"
+    ],
+    "tipnr": [
+      "City_of_the_Lord|Jerusalem@Jos.10.1-Rev"
+    ],
+    "vizbible": [
+      "rec3SLjiyY0ddRB03"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005411001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "City of the Lord",
+      "alternate_labels": [
+        "Lord",
+        "Jerusalem"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "31.51338",
+      "lon": "50.82672"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "23060014"
+  ],
+  "references": [
+    "23060014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230600140141"
+      ]
+    ]
+  }
+}

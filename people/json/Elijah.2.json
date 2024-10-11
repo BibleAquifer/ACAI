@@ -1,0 +1,72 @@
+{
+  "id": "person:Elijah.2",
+  "primary_id": "person:Elijah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5011|Elijah|TyndaleBibleDictionary",
+      "26555|Elijah|UWTranslationWords",
+      "132432|Elijah|BiblicaStudyNotesKeyTerms",
+      "280128|elijah|FIAKeyTerms"
+    ],
+    "ubsdbh": [
+      "000415001002000"
+    ],
+    "tipnr": [
+      "Elijah@1Ch.8.27"
+    ],
+    "vizbible": [
+      "recpWVaVrZ5cXa3kj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jeroham.2",
+  "siblings": [
+    "person:Shamsherai",
+    "person:Shehariah",
+    "person:Athaliah.2",
+    "person:Jaareshiah",
+    "person:Zichri.4"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000415001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elijah (1 Chronicles 8:27)",
+      "alternate_labels": [
+        "Eliah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elijah (1 Chronicles 8:27)",
+          "article": "person:Elijah.2",
+          "description": "Elijah, also called Eliah, was a leader from the tribe of Benjamin and the son of Jeroham, mentioned in 1 Chronicles 8:27."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵלִיָּהוּ",
+      "אֵלִיָּה"
+    ]
+  },
+  "key_references": [
+    "13008027"
+  ],
+  "references": [
+    "13008027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080270022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "place:Gilgal",
+  "primary_id": "place:Galilee",
+  "alternate_sources": {
+    "aquifer": [
+      "5469|Gilgal|TyndaleBibleDictionary",
+      "26640|Gilgal|UWTranslationWords",
+      "132368|Gilgal|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001409002002000"
+    ],
+    "tipnr": [
+      "Gilgal|Galilee@Jos.12.23-Act"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001409002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gilgal (of Goiim)",
+      "alternate_labels": [
+        "Galilee",
+        "Gilgal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Galilee.2",
+          "gloss": "Gilgal (of Goiim)",
+          "description": "A region or town in northern Canaan; possibly another name for Galilee."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גִּלְגָּל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement"
+    ],
+    "acai": [
+      "region",
+      "town"
+    ]
+  },
+  "key_references": [
+    "06012023"
+  ],
+  "references": [
+    "06012023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120230082"
+      ]
+    ]
+  }
+}

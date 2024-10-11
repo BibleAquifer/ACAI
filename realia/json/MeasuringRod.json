@@ -1,0 +1,60 @@
+{
+  "id": "realia:MeasuringRod",
+  "primary_id": "realia:MeasuringRod",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.213"
+    ],
+    "ubsrealia": [
+      "realia:11.4.2.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.213"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Measuring Rod",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Measuring Rod",
+          "article": "realia:MeasuringRod",
+          "description": "A straight rod used to measure lengths."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κάλαμος"
+    ]
+  },
+  "key_references": [
+    "66011001",
+    "66021015",
+    "66021016"
+  ],
+  "references": [
+    "66011001",
+    "66021015",
+    "66021016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n66011001004"
+      ],
+      [
+        "n66021015008"
+      ],
+      [
+        "n66021016018"
+      ]
+    ]
+  }
+}

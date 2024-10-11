@@ -1,0 +1,183 @@
+{
+  "id": "place:Corinth",
+  "primary_id": "place:Corinth",
+  "alternate_sources": {
+    "aquifer": [
+      "4652|Corinth|TyndaleBibleDictionary",
+      "26470|Corinth|UWTranslationWords",
+      "132079|Corinth|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a6f437a"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/17070"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/570182"
+    ],
+    "tipnr": [
+      "Corinth@Act.18.1-2Ti",
+      "Corinthus|Corinth@Act.18.1-2Ti"
+    ],
+    "vizbible": [
+      "recQThsW3uau1oxf9"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1363688"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Corinth",
+      "alternate_labels": [
+        "Corinthian",
+        "Corinthians",
+        "[ ]",
+        "Corinthus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Corinth",
+          "gloss": "Corinth",
+          "description": "A city in Greece where Paul ministered for a year and a half (Acts 18:11); Paul wrote at least two letters to the church here."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Corinthus",
+    "group:Corinth"
+  ],
+  "nearby_places": [
+    "place:Cenchreae"
+  ],
+  "subregion_of": [
+    "place:Achaia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.90595736",
+      "lon": "22.87788176"
+    },
+    "recogito": {
+      "lat": "37.906045",
+      "lon": "22.878721"
+    },
+    "vizbible": {
+      "lat": "37.906045",
+      "lon": "22.878721"
+    },
+    "biblica-maps": {
+      "lat": "37.898",
+      "lon": "22.89998"
+    }
+  },
+  "key_references": [
+    "44018001"
+  ],
+  "references": [
+    "44018001",
+    "44018008",
+    "44018011",
+    "44018012",
+    "44018018",
+    "44019001",
+    "45016027",
+    "46001002",
+    "46016024",
+    "47001001",
+    "47001023",
+    "47006011",
+    "47010014",
+    "47013013",
+    "47013014",
+    "55004020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018001009"
+      ],
+      [
+        "n44018008016"
+      ],
+      [
+        "n44019001009"
+      ],
+      [
+        "n46001002012"
+      ],
+      [
+        "n47001001019"
+      ],
+      [
+        "n47001023017"
+      ],
+      [
+        "n47006011007"
+      ],
+      [
+        "n55004020004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44018010021"
+      ],
+      [
+        "n44018011009"
+      ],
+      [
+        "n47006011006"
+      ],
+      [
+        "n47006012010"
+      ],
+      [
+        "n47006013010"
+      ],
+      [
+        "n47006014001"
+      ],
+      [
+        "n47006016008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n47006012002"
+      ],
+      [
+        "n47006012005"
+      ],
+      [
+        "n47006014002",
+        "n47006014003"
+      ]
+    ]
+  }
+}

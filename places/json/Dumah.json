@@ -1,0 +1,83 @@
+{
+  "id": "place:Dumah",
+  "primary_id": "place:Dumah",
+  "alternate_sources": {
+    "aquifer": [
+      "4904|Dumah (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001604002002000"
+    ],
+    "tipnr": [
+      "Dumah@Isa.21.11"
+    ],
+    "vizbible": [
+      "recJdr0KdZkuEwio5"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001604002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dumah (of Arabia)",
+      "alternate_labels": [
+        "Edom",
+        "Dumah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dumah.2",
+          "gloss": "Dumah (of Arabia)",
+          "description": "A region in north-central Arabia, inhabited by an ethnic group that were regarded as descendants of Dumah, the son of Ishmael, the son of Abraham."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "דּוּמָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region",
+      "special",
+      "settlement"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "27.4",
+      "lon": "37.7"
+    },
+    "vizbible": {
+      "lat": "27.4",
+      "lon": "37.7"
+    }
+  },
+  "key_references": [
+    "23021011"
+  ],
+  "references": [
+    "23021011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230210110021"
+      ]
+    ]
+  }
+}

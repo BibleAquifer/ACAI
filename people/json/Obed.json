@@ -1,0 +1,85 @@
+{
+  "id": "person:Obed",
+  "primary_id": "person:Obed",
+  "alternate_sources": {
+    "aquifer": [
+      "7454|Obed|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Obed@Rut.4.17-Luk"
+    ],
+    "vizbible": [
+      "rectDn5oa2vLcaeVF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Boaz",
+  "mother": "person:Ruth",
+  "offspring": [
+    "person:Jesse"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Obed",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Obed",
+          "article": "person:Obed",
+          "description": "Son of Boaz and Ruth, father of Jesse, and grandfather of King David."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "08004017",
+    "13002012",
+    "40001005"
+  ],
+  "references": [
+    "08004017",
+    "08004021",
+    "08004022",
+    "13002012",
+    "40001005",
+    "42003032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o080040170111"
+      ],
+      [
+        "o080040210081"
+      ],
+      [
+        "o080040220012"
+      ],
+      [
+        "o130020120041"
+      ],
+      [
+        "o130020120052"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001005013"
+      ],
+      [
+        "n40001005017"
+      ],
+      [
+        "n42003032004"
+      ]
+    ]
+  }
+}

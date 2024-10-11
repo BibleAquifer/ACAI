@@ -1,0 +1,105 @@
+{
+  "id": "place:Canneh",
+  "primary_id": "place:Calneh",
+  "alternate_sources": {
+    "aquifer": [
+      "4412|Canneh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003345001001000"
+    ],
+    "tipnr": [
+      "Canneh|Calneh@Gen.10.10-Amo"
+    ],
+    "vizbible": [
+      "recuVHORMSQdWyeM8"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003345001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Canneh",
+      "alternate_labels": [
+        "Kanneh",
+        "Calneh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Canneh",
+          "gloss": "Canneh",
+          "description": "A town in Mesopotamia that traded with Tyre (Ezekiel 27:23)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Calneh"
+  ],
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כַּנֵּה",
+      "כַּנֶּה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.127213",
+      "lon": "45.229995"
+    },
+    "vizbible": {
+      "lat": "32.127213",
+      "lon": "45.229995"
+    }
+  },
+  "key_references": [
+    "26027023"
+  ],
+  "references": [
+    "26027023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270230022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270240011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270230081"
+      ],
+      [
+        "o260270240021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "fauna:Viper",
+  "primary_id": "fauna:Viper",
+  "alternate_sources": {
+    "aquifer": [
+      "9016|Viper|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000606001001000",
+      "006301001001000",
+      "007111001001000",
+      "007573001001000"
+    ],
+    "ubsfauna": [
+      "fauna:4.10"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Snakes and Lizards",
+  "ubsdbh": [
+    "000606001001000",
+    "006301001001000",
+    "007111001001000",
+    "007573001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Viper",
+      "alternate_labels": [
+        "Cobra",
+        "Carpet Viper"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Viper",
+          "article": "fauna:Viper",
+          "description": "An extremely poisonous snake often linked to danger, found in deserts and grasslands."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "fauna:Cobra",
+    "fauna:Snake"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶפְעֶה",
+      "צֶפַע",
+      "שָׂרָף",
+      "שְׁפִיפֹן"
+    ]
+  },
+  "key_references": [
+    "01049017",
+    "04021006",
+    "40003007"
+  ],
+  "references": [
+    "01049017",
+    "04021006",
+    "04021008",
+    "05008015",
+    "18020016",
+    "20023032",
+    "23011008",
+    "23014029",
+    "23030006",
+    "23059005",
+    "24008017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180200160061"
+      ],
+      [
+        "o230300060101"
+      ],
+      [
+        "o230590050121"
+      ],
+      [
+        "o200230320043"
+      ],
+      [
+        "o230110080081"
+      ],
+      [
+        "o230140290131"
+      ],
+      [
+        "o230590050021"
+      ],
+      [
+        "o240080170061"
+      ],
+      [
+        "o040210060062"
+      ],
+      [
+        "o040210080071"
+      ],
+      [
+        "o050080150061"
+      ],
+      [
+        "o230140290151"
+      ],
+      [
+        "o230300060112"
+      ],
+      [
+        "o010490170061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230140290143"
+      ],
+      [
+        "o240080170092"
+      ],
+      [
+        "o040210080092"
+      ],
+      [
+        "o040210080162"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230140290161"
+      ],
+      [
+        "o230300060121"
+      ]
+    ]
+  }
+}

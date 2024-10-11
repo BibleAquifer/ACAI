@@ -1,0 +1,81 @@
+{
+  "id": "person:Zadok.4",
+  "primary_id": "person:Zadok.4",
+  "alternate_sources": {
+    "aquifer": [
+      "9126|Zadok|TyndaleBibleDictionary",
+      "27223|Zadok|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006124001003000",
+      "006124001004000",
+      "006124001001000"
+    ],
+    "tipnr": [
+      "Zadok@1Ch.6.12-Neh"
+    ],
+    "vizbible": [
+      "recSXjtO22BKqBgcS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ahitub.3",
+  "offspring": [
+    "person:Shallum.7"
+  ],
+  "roles": [
+    "High Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "006124001003000",
+    "006124001004000",
+    "006124001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zadok",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zadok",
+          "article": "person:Zadok.4",
+          "description": "Grandson of Ahitub, son of Meraioth, father of Shallum, and high proiest during the Israelite return from exile."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009011",
+    "15007002",
+    "16011011"
+  ],
+  "references": [
+    "13005038",
+    "13009011",
+    "15007002",
+    "16011011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050380041"
+      ],
+      [
+        "o130050380052"
+      ],
+      [
+        "o130090110071"
+      ],
+      [
+        "o150070020041"
+      ],
+      [
+        "o160110110071"
+      ]
+    ]
+  }
+}

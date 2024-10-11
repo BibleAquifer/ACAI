@@ -1,0 +1,115 @@
+{
+  "id": "place:Zoan",
+  "primary_id": "place:Zoan",
+  "alternate_sources": {
+    "aquifer": [
+      "9249|Zoan|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac31fee"
+    ],
+    "ubsdbh": [
+      "006271001001000"
+    ],
+    "tipnr": [
+      "Zoan@Num.13.22-Ezk"
+    ],
+    "vizbible": [
+      "rechfrPEswg8S257T"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q8073157"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006271001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zoan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zoan",
+          "gloss": "Zoan",
+          "description": "A town in the Nile Delta of Egypt; Egyptian capital during the 21st and 22nd dynasties, and the administrative center of Lower Egypt."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "צַעֲנַנִּים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.97461982",
+      "lon": "31.88417307"
+    },
+    "vizbible": {
+      "lat": "30.97461982",
+      "lon": "31.88417307"
+    }
+  },
+  "key_references": [
+    "19078043",
+    "26030014",
+    "04013022"
+  ],
+  "references": [
+    "04013022",
+    "19078012",
+    "19078043",
+    "23019011",
+    "23019013",
+    "23030004",
+    "26030014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130220171"
+      ],
+      [
+        "o190780120081"
+      ],
+      [
+        "o190780430071"
+      ],
+      [
+        "o230190110041"
+      ],
+      [
+        "o230190130031"
+      ],
+      [
+        "o230300040032"
+      ],
+      [
+        "o260300140062"
+      ]
+    ]
+  }
+}

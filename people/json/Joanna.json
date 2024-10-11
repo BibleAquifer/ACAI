@@ -1,0 +1,84 @@
+{
+  "id": "person:Joanna",
+  "primary_id": "person:Joanna",
+  "alternate_sources": {
+    "aquifer": [
+      "6389|Joanna|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.188"
+    ],
+    "tipnr": [
+      "Joanna@Luk.8.3-"
+    ],
+    "vizbible": [
+      "recuT7bdXALQmFas7"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Chuza"
+  ],
+  "roles": [
+    "Disciple"
+  ],
+  "ubsdgnt": [
+    "93.188"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joanna",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joanna",
+          "article": "person:Joanna",
+          "description": "Wife of Chuza, an official of Herod Antipas. She was a follower of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰωάννα"
+    ]
+  },
+  "key_references": [
+    "42008003",
+    "42024010"
+  ],
+  "references": [
+    "42008003",
+    "42024010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42008003002"
+      ],
+      [
+        "n42024010007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42024010016"
+      ],
+      [
+        "n42024011012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42024010017"
+      ]
+    ]
+  }
+}

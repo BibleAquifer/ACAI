@@ -1,0 +1,94 @@
+{
+  "id": "person:Merab",
+  "primary_id": "person:Merab",
+  "alternate_sources": {
+    "aquifer": [
+      "7056|Merab|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Merab@1Sa.14.49-2Sa"
+    ],
+    "vizbible": [
+      "recHM6hYE0iNCs2jz"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Saul.2",
+  "mother": "person:Ahinoam",
+  "partners": [
+    "person:Adriel"
+  ],
+  "siblings": [
+    "person:Jonathan.3",
+    "person:Abinadab.2",
+    "person:Malchi-shua",
+    "person:Michal",
+    "person:Ish-bosheth",
+    "person:Armoni",
+    "person:Mephibosheth.2"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Merab",
+      "alternate_labels": [
+        "Michal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Merab",
+          "article": "person:Merab",
+          "description": "A daughter of King Saul, sister of Jonathan, and wife of Adriel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09014049",
+    "09018017",
+    "09018019"
+  ],
+  "references": [
+    "09014049",
+    "09018017",
+    "09018019",
+    "10021008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090140490131"
+      ],
+      [
+        "o090180170081"
+      ],
+      [
+        "o090180190051"
+      ],
+      [
+        "o100210080191"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090180190092"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100210080231"
+      ]
+    ]
+  }
+}

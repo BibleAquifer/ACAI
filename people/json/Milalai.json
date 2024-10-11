@@ -1,0 +1,68 @@
+{
+  "id": "person:Milalai",
+  "primary_id": "person:Milalai",
+  "alternate_sources": {
+    "aquifer": [
+      "7132|Milalai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004068001001000"
+    ],
+    "tipnr": [
+      "Milalai@Neh.12.36"
+    ],
+    "vizbible": [
+      "recvsSBks1FzL6J15"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jonathan.12",
+  "siblings": [
+    "person:Zechariah.28",
+    "person:Shemaiah.22",
+    "person:Azarel.5",
+    "person:Gilalai",
+    "person:Maai",
+    "person:Nethanel.10",
+    "person:Judah.8",
+    "person:Hanani.5"
+  ],
+  "ubsdbh": [
+    "004068001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Milalai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Milalai",
+          "article": "person:Milalai",
+          "description": "Milalai was a priest who lived during the time of the exile and return, mentioned in Nehemiah 12:36 as the son of Jonathan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִלֲלַי",
+      "מִֽלֲלַי"
+    ]
+  },
+  "key_references": [
+    "16012036"
+  ],
+  "references": [
+    "16012036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160120360041"
+      ]
+    ]
+  }
+}

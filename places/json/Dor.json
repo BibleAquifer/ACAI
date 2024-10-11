@@ -1,0 +1,128 @@
+{
+  "id": "place:Dor",
+  "primary_id": "place:Dor",
+  "alternate_sources": {
+    "aquifer": [
+      "4887|Dor|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a70c56b"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678121",
+      "http://pleiades.stoa.org/places/678121"
+    ],
+    "tipnr": [
+      "Dor@Jos.12.23-1Ch",
+      "Naphoth-dor|Dor@Jos.12.23-1Ch"
+    ],
+    "vizbible": [
+      "recvyeVO2Ex1jYF7o"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1243563"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dor",
+      "alternate_labels": [
+        "coast of Dor",
+        "region of Dor",
+        "borders of Dor",
+        "Naphath-dor",
+        "Naphoth-Dor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dor",
+          "gloss": "Dor",
+          "description": "A coastal town in the territory of West Manasseh, north of Caesarea."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Naphoth-dor"
+  ],
+  "tribal_area": "group:Manasseh",
+  "subregion_of": [
+    "place:TerritoryOfWestManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.61323618",
+      "lon": "34.91889683"
+    },
+    "recogito": {
+      "lat": "32.6163",
+      "lon": "34.91627"
+    },
+    "vizbible": {
+      "lat": "32.61323618",
+      "lon": "34.91889683"
+    },
+    "biblica-maps": {
+      "lat": "32.6174",
+      "lon": "34.92486"
+    }
+  },
+  "key_references": [
+    "06012023",
+    "06011002",
+    "07001027",
+    "11004011"
+  ],
+  "references": [
+    "06011002",
+    "06012023",
+    "06017011",
+    "07001027",
+    "11004011",
+    "13007029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110020111"
+      ],
+      [
+        "o060120230021"
+      ],
+      [
+        "o060120230041"
+      ],
+      [
+        "o060170110121"
+      ],
+      [
+        "o070010270161"
+      ],
+      [
+        "o110040110051"
+      ],
+      [
+        "o130070290121"
+      ]
+    ]
+  }
+}

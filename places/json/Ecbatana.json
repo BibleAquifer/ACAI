@@ -1,0 +1,101 @@
+{
+  "id": "place:Ecbatana",
+  "primary_id": "place:Ecbatana",
+  "alternate_sources": {
+    "aquifer": [
+      "4934|Ecbatana|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a212ef7"
+    ],
+    "ubsdbh": [
+      "000291001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/903021",
+      "http://pleiades.stoa.org/places/903021"
+    ],
+    "tipnr": [
+      "Ecbatana@Ezr.6.2"
+    ],
+    "vizbible": [
+      "recU6Ze8zYV8DqXew"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q696193"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000291001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ecbatana",
+      "alternate_labels": [
+        "Achmetha"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ecbatana",
+          "gloss": "Ecbatana",
+          "description": "The capital city of the province of Media, where a scroll containing the decrees of King Darius were found (Ezra 6)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Media"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "arc": [
+      "אַחְמְתָא"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.798311",
+      "lon": "48.514966"
+    },
+    "recogito": {
+      "lat": "34.80523",
+      "lon": "48.51696"
+    },
+    "vizbible": {
+      "lat": "34.798311",
+      "lon": "48.514966"
+    },
+    "biblica-maps": {
+      "lat": "34.79929",
+      "lon": "48.51221"
+    }
+  },
+  "key_references": [
+    "15006002"
+  ],
+  "references": [
+    "15006002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150060020022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "fauna:Skink",
+  "primary_id": "fauna:Skink",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002347001001000"
+    ],
+    "ubsfauna": [
+      "fauna:4.8"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Snakes and Lizards",
+  "ubsdbh": [
+    "002347001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Skink",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Skink",
+          "article": "fauna:Skink",
+          "description": "A small, yellowish reptile that lives in deserts and hides under stones, considered ceremonially unclean in the Bible."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֹמֶט"
+    ]
+  },
+  "key_references": [
+    "03011030"
+  ],
+  "references": [
+    "03011030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110300043"
+      ]
+    ]
+  }
+}

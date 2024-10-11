@@ -1,0 +1,62 @@
+{
+  "id": "person:Eliakim.2",
+  "primary_id": "person:Eliakim.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4996|Eliakim|TyndaleBibleDictionary",
+      "26554|Eliakim|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.108b"
+    ],
+    "tipnr": [
+      "Eliakim@Luk.3.30"
+    ],
+    "vizbible": [
+      "recIBopLF5RvOdeGH"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Melea",
+  "offspring": [
+    "person:Jonam"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.108b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliakim (Son of Melea)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliakim (Son of Melea)",
+          "article": "person:Eliakim.2",
+          "description": "Son of Melea and the father of Jonam in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἐλιακίμ"
+    ]
+  },
+  "key_references": [
+    "42003030"
+  ],
+  "references": [
+    "42003030"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003030010"
+      ]
+    ]
+  }
+}

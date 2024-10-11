@@ -1,0 +1,113 @@
+{
+  "id": "place:Phoenicia",
+  "primary_id": "place:Phoenicia",
+  "alternate_sources": {
+    "aquifer": [
+      "7721|Phoenicia, Phoenicians|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a33d53e"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678334",
+      "http://pleiades.stoa.org/places/678334"
+    ],
+    "tipnr": [
+      "Phoenicia@Act.11.19-"
+    ],
+    "vizbible": [
+      "recToD2yiguR5xCQ0"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q41642"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Phoenicia",
+      "alternate_labels": [
+        "Syrian Phoenicia",
+        "Syrophenician",
+        "Phenicia",
+        "Syro-Phoenician",
+        "Phenice"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Phoenicia",
+          "gloss": "Phoenicia",
+          "description": "A region along the coast of the Mediterranean Sea to the west and north of Palestine, and its inhabitants."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Phoenicia"
+  ],
+  "nearby_places": [
+    "place:GreatSea",
+    "place:Israel",
+    "place:Syria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.56316734135746",
+      "lon": "35.36634649354799"
+    },
+    "recogito": {
+      "lat": "33.25",
+      "lon": "35.25"
+    },
+    "vizbible": {
+      "lat": "33.25",
+      "lon": "35.25"
+    }
+  },
+  "key_references": [
+    "41007026",
+    "44015003",
+    "44021002",
+    "44011019"
+  ],
+  "references": [
+    "41007026",
+    "44011019",
+    "44015003",
+    "44021002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41007026006"
+      ],
+      [
+        "n44011019014"
+      ],
+      [
+        "n44015003011"
+      ],
+      [
+        "n44021002006"
+      ]
+    ]
+  }
+}

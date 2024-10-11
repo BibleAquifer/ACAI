@@ -1,0 +1,70 @@
+{
+  "id": "place:EzelStone",
+  "primary_id": "place:EzelStone",
+  "alternate_sources": {
+    "aquifer": [
+      "5217|Ezel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000224001001000"
+    ],
+    "tipnr": [
+      "Ezel_Stone@1Sa.20.19"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000224001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ezel",
+      "alternate_labels": [
+        "Ezel Stone"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ezel",
+          "gloss": "Ezel",
+          "description": "A stone where David and Jonathan met before David left Saul's court."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶזֶל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "special",
+      "stone heap"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "key_references": [
+    "09020041",
+    "09020019"
+  ],
+  "references": [
+    "09020019",
+    "09020041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090200190152"
+      ]
+    ]
+  }
+}

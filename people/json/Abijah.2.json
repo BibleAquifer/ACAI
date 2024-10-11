@@ -1,0 +1,72 @@
+{
+  "id": "person:Abijah.2",
+  "primary_id": "person:Abijah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3301|Abijah|TyndaleBibleDictionary",
+      "26278|Abijah|UWTranslationWords",
+      "132427|Abijah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000028001003000"
+    ],
+    "tipnr": [
+      "Abijah@1Sa.8.2-1Ch"
+    ],
+    "vizbible": [
+      "recTb6885QcBq63oY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Samuel",
+  "siblings": [
+    "person:Joel"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000028001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abijah (Son of Samuel)",
+      "alternate_labels": [
+        "Abiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abijah (Son of Samuel)",
+          "article": "person:Abijah.2",
+          "description": "The son of Samuel and brother of Joel, mentioned in 1 Samuel 8:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִיָּה",
+      "אֲבִיָּ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "09008002",
+    "13006013"
+  ],
+  "references": [
+    "09008002",
+    "13006013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090080020081"
+      ],
+      [
+        "o130060130052"
+      ]
+    ]
+  }
+}

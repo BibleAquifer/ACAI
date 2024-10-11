@@ -1,0 +1,96 @@
+{
+  "id": "place:Kishion",
+  "primary_id": "place:Kishion",
+  "alternate_sources": {
+    "aquifer": [
+      "6619|Kishion|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a20364a"
+    ],
+    "tipnr": [
+      "Kishion@Jos.19.20-1Ch",
+      "Kedesh|Kishion@Jos.19.20-1Ch"
+    ],
+    "vizbible": [
+      "recVCFDBLoj1s0eNr"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kishion",
+      "alternate_labels": [
+        "Kishon",
+        "Kedesh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kishion",
+          "gloss": "Kishion",
+          "description": "A Levitical town in the territory of Issachar, assigned to the clan of Gershon; possibly to be identified with Kedesh."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Kedesh.2"
+  ],
+  "referred_to_as": [
+    "place:Kedesh.2"
+  ],
+  "tribal_area": "group:Issachar",
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.559061",
+      "lon": "35.246206"
+    },
+    "vizbible": {
+      "lat": "32.559061",
+      "lon": "35.246206"
+    }
+  },
+  "key_references": [
+    "06021028",
+    "06019020"
+  ],
+  "references": [
+    "06019020",
+    "06021028",
+    "13006057"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190200022"
+      ],
+      [
+        "o060210280041"
+      ],
+      [
+        "o130060570041"
+      ]
+    ]
+  }
+}

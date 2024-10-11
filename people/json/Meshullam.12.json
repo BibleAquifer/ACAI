@@ -1,0 +1,65 @@
+{
+  "id": "person:Meshullam.12",
+  "primary_id": "person:Meshullam.12",
+  "alternate_sources": {
+    "aquifer": [
+      "7086|Meshullam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004503001010000"
+    ],
+    "tipnr": [
+      "Meshullam@Neh.3.4-"
+    ],
+    "vizbible": [
+      "rec39Q71KaVv2Z8Gf"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Berechiah.5",
+  "offspring": [
+    "person:DaughterOfMeshullam"
+  ],
+  "ubsdbh": [
+    "004503001010000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meshullam (Nehemiah 3:4)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Meshullam (Nehemiah 3:4)",
+          "article": "person:Meshullam.12",
+          "description": "A man living during the time of exile and return, first mentioned in Nehemiah 3:4, son of Berechiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16003004",
+    "16003030",
+    "16006018"
+  ],
+  "references": [
+    "16003004",
+    "16003030",
+    "16006018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030040121"
+      ],
+      [
+        "o160030300151"
+      ],
+      [
+        "o160060180181"
+      ]
+    ]
+  }
+}

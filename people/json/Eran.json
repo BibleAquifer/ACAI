@@ -1,0 +1,59 @@
+{
+  "id": "person:Eran",
+  "primary_id": "person:Eran",
+  "alternate_sources": {
+    "aquifer": [
+      "5132|Eran|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Eran@Num.26.36"
+    ],
+    "vizbible": [
+      "recBGM7FM6ZLFt91b"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shuthelah",
+  "siblings": [
+    "person:Bered"
+  ],
+  "tribe": "group:Ephraim",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eran",
+      "alternate_labels": [
+        "Eranite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eran",
+          "article": "person:Eran",
+          "description": "Eran, only mentioned in Numbers 26:36, was a man of the tribe of Ephraim and son of Shuthelah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Eran"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026036"
+  ],
+  "references": [
+    "04026036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260360042"
+      ],
+      [
+        "o040260360062"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "person:Sala",
+  "primary_id": "person:Salmon",
+  "alternate_sources": {
+    "aquifer": [
+      "8102|Sala|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.319a"
+    ],
+    "tipnr": [
+      "Sala|Salmon@Rut.4.20-Luk"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nahshon",
+  "partners": [
+    "person:Rahab"
+  ],
+  "offspring": [
+    "person:Boaz"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.319a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sala (Salmon)",
+      "alternate_labels": [
+        "Salmon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Salmon",
+          "article": "person:Sala",
+          "description": "Sala, also known as Salmon, was a man of the tribe of Judah, husband of Rahab, father of Boaz, and an ancestor of Jesus, mentioned in Ruth 4:20 and Luke 3:32."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Salmon"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σαλά"
+    ]
+  },
+  "key_references": [
+    "42003032"
+  ],
+  "references": [
+    "42003032"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003032008"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "place:Bozkath",
+  "primary_id": "place:Bozkath",
+  "alternate_sources": {
+    "aquifer": [
+      "4322|Bozkath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001128001001000"
+    ],
+    "tipnr": [
+      "Bozkath@Jos.15.39-2Ki"
+    ],
+    "vizbible": [
+      "recH2ShkDhPfgm2TM"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001128001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bozkath",
+      "alternate_labels": [
+        "Boscath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bozkath",
+          "gloss": "Bozkath",
+          "description": "A town in the foothills of the territory of Judah; home of Jedidah, mother of Josiah. "
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בָּצְקַת",
+      "בׇּצְקַת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.56485056116292",
+      "lon": "34.8467256730566"
+    },
+    "vizbible": {
+      "lat": "31.56485056116292",
+      "lon": "34.8467256730566"
+    }
+  },
+  "key_references": [
+    "12022001",
+    "06015019"
+  ],
+  "references": [
+    "06015039",
+    "12022001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150390022"
+      ],
+      [
+        "o120220010162"
+      ]
+    ]
+  }
+}

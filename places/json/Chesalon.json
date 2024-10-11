@@ -1,0 +1,95 @@
+{
+  "id": "place:Chesalon",
+  "primary_id": "place:Chesalon",
+  "alternate_sources": {
+    "aquifer": [
+      "4512|Chesalon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a42c452"
+    ],
+    "tipnr": [
+      "Chesalon@Jos.15.10",
+      "Jearim_Mount|Chesalon@Jos.15.10"
+    ],
+    "vizbible": [
+      "recz6C3X2ThWuRu82"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chesalon",
+      "alternate_labels": [
+        "Kesalon",
+        "Mount Jearim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chesalon",
+          "gloss": "Chesalon",
+          "description": "A town in the territory of Judah near Mount Jearim."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:JearimMount"
+  ],
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:JearimMount"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.781049",
+      "lon": "35.05113"
+    },
+    "vizbible": {
+      "lat": "31.781049",
+      "lon": "35.05113"
+    }
+  },
+  "key_references": [
+    "06015010"
+  ],
+  "references": [
+    "06015010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150100121"
+      ],
+      [
+        "o060150100151"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060150100141"
+      ]
+    ]
+  }
+}

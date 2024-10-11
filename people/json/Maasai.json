@@ -1,0 +1,61 @@
+{
+  "id": "person:Maasai",
+  "primary_id": "person:Maasai",
+  "alternate_sources": {
+    "aquifer": [
+      "6817|Maasai|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Maasai@1Ch.9.12-Neh",
+      "Amashsai|Maasai@1Ch.9.12-Neh"
+    ],
+    "vizbible": [
+      "recHrARY0CEOkgMg7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Adiel.2",
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maasai",
+      "alternate_labels": [
+        "Maasiai",
+        "Amashsai",
+        "Amashai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Maasai",
+          "article": "person:Maasai",
+          "description": "A Levite man living at the time of exile and return, mentioned in 1 Chronicles 9:12 and Nehemiah 11:13, and son of Adiel, also called Amashsai or Amashai."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Amashsai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009012",
+    "16011013"
+  ],
+  "references": [
+    "13009012",
+    "16011013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090120082"
+      ],
+      [
+        "o160110130072"
+      ]
+    ]
+  }
+}

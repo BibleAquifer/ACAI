@@ -1,0 +1,90 @@
+{
+  "id": "deity:Demons",
+  "primary_id": "deity:Demons",
+  "type": "deity",
+  "deity_type": "demon",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Demons (Evil Beings)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Demons (Evil Beings)",
+          "description": "A group of demons participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44019015"
+  ],
+  "references": [
+    "44019015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44019015004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n41003011003"
+      ],
+      [
+        "n41003011013"
+      ],
+      [
+        "n42004041004"
+      ],
+      [
+        "n42004041009"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "n41003011015",
+          "n41003011016",
+          "n41003011017",
+          "n41003011018",
+          "n41003011019",
+          "n41003011020"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "n42004041011",
+          "n42004041012",
+          "n42004041013",
+          "n42004041014",
+          "n42004041015",
+          "n42004041016"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "n44019015010",
+          "n44019015011",
+          "n44019015012",
+          "n44019015013",
+          "n44019015014",
+          "n44019015015",
+          "n44019015016",
+          "n44019015017",
+          "n44019015018",
+          "n44019015019"
+        ]
+      }
+    ]
+  }
+}

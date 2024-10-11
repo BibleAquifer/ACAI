@@ -1,0 +1,123 @@
+{
+  "id": "realia:AnimalPen",
+  "primary_id": "realia:AnimalPen",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.64"
+    ],
+    "ubsdbh": [
+      "000208001001000",
+      "000665001001000",
+      "000665001002000",
+      "004365001001000",
+      "006905001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.2.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.64"
+  ],
+  "ubsdbh": [
+    "000208001001000",
+    "000665001001000",
+    "000665001002000",
+    "004365001001000",
+    "006905001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Animal Pen",
+      "alternate_labels": [
+        "Cattle Pen",
+        "Stall"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Animal Pen",
+          "article": "realia:AnimalPen",
+          "description": "A semi-circular enclosure or stall where domestic animals are kept and fed."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "realia:Sheepfold"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲוֵרָה",
+      "אֻרְוָה",
+      "אֻרְוָה",
+      "מַרְבֵּק",
+      "רֶפֶת"
+    ],
+    "el": [
+      "φάτνη"
+    ]
+  },
+  "key_references": [
+    "14032028",
+    "42013015"
+  ],
+  "references": [
+    "09028024",
+    "11005006",
+    "14009025",
+    "14032028",
+    "24046021",
+    "30006004",
+    "35003017",
+    "39003020",
+    "42013015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140320280112"
+      ],
+      [
+        "o110050060051"
+      ],
+      [
+        "o140090250051"
+      ],
+      [
+        "o140320280062"
+      ],
+      [
+        "o090280240031"
+      ],
+      [
+        "o240460210051"
+      ],
+      [
+        "o300060040131"
+      ],
+      [
+        "o390030200121"
+      ],
+      [
+        "o350030170202"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42013015023"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140090250123"
+      ]
+    ]
+  }
+}

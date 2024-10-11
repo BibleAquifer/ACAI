@@ -1,0 +1,76 @@
+{
+  "id": "person:Kish.2",
+  "primary_id": "person:Kish.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6622|Kish|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006467001003000"
+    ],
+    "tipnr": [
+      "Kish@1Ch.23.21-"
+    ],
+    "vizbible": [
+      "rectOz9dXbxIangOy"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mahli",
+  "offspring": [
+    "person:Jerahmeel.2"
+  ],
+  "siblings": [
+    "person:Libni.2",
+    "person:Eleazar.5"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "006467001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kish (1 Chronicles 23:21)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kish (1 Chronicles 23:21)",
+          "article": "person:Kish.2",
+          "description": "A Levite man who was a son of Mahli."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13023021",
+    "13023022",
+    "13024029"
+  ],
+  "references": [
+    "13023021",
+    "13023022",
+    "13024029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230210082"
+      ],
+      [
+        "o130230220121"
+      ],
+      [
+        "o130240290012"
+      ],
+      [
+        "o130240290031"
+      ]
+    ]
+  }
+}

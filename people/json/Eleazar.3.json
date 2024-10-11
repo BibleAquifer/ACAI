@@ -1,0 +1,63 @@
+{
+  "id": "person:Eleazar.3",
+  "primary_id": "person:Eleazar.3",
+  "alternate_sources": {
+    "aquifer": [
+      "4980|Eleazar|TyndaleBibleDictionary",
+      "26552|Eleazar|UWTranslationWords",
+      "132303|Eleazar|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000464001002000"
+    ],
+    "tipnr": [
+      "Eleazar@1Sa.7.1"
+    ],
+    "vizbible": [
+      "recjUsDi54y7u977Y"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abinadab",
+  "siblings": [
+    "person:Uzzah",
+    "person:Ahio"
+  ],
+  "ubsdbh": [
+    "000464001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eleazar (1 Samuel 7:1)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eleazar (1 Samuel 7:1)",
+          "article": "person:Eleazar.3",
+          "description": "Eleazar, son of Abinadab from the tribe of Levi, lived during Israel's united kingdom and is mentioned in 1 Samuel 7:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְעָזָר"
+    ]
+  },
+  "key_references": [
+    "09007001"
+  ],
+  "references": [
+    "09007001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090070010161"
+      ]
+    ]
+  }
+}

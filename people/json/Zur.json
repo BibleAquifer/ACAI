@@ -1,0 +1,61 @@
+{
+  "id": "person:Zur",
+  "primary_id": "person:Zur",
+  "alternate_sources": {
+    "aquifer": [
+      "9269|Zur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006161004001000"
+    ],
+    "tipnr": [
+      "Zur@Num.25.15"
+    ],
+    "vizbible": [
+      "recqLtMWDJz40X2ZS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Cozbi"
+  ],
+  "ubsdbh": [
+    "006161004001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zur",
+          "article": "person:Zur",
+          "description": "Zur was a man living during the time of Egypt and the wilderness, mentioned in Numbers 25:15 as the father of Cozbi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04025015"
+  ],
+  "references": [
+    "04025015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040250150071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o040250150131"
+      ]
+    ]
+  }
+}

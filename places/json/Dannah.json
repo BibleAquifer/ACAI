@@ -1,0 +1,87 @@
+{
+  "id": "place:Dannah",
+  "primary_id": "place:Dannah",
+  "alternate_sources": {
+    "aquifer": [
+      "4750|Dannah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a65c305"
+    ],
+    "ubsdbh": [
+      "001692001001000"
+    ],
+    "tipnr": [
+      "Dannah@Jos.15.49"
+    ],
+    "vizbible": [
+      "recCV4OD8Dk6pRj1L"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001692001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dannah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dannah",
+          "gloss": "Dannah",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "דַּנָּה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.561025",
+      "lon": "34.975472"
+    },
+    "vizbible": {
+      "lat": "31.561025",
+      "lon": "34.975472"
+    }
+  },
+  "key_references": [
+    "06015049"
+  ],
+  "references": [
+    "06015049"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150490012"
+      ]
+    ]
+  }
+}

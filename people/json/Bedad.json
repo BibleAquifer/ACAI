@@ -1,0 +1,65 @@
+{
+  "id": "person:Bedad",
+  "primary_id": "person:Bedad",
+  "alternate_sources": {
+    "aquifer": [
+      "4058|Bedad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000844001001000"
+    ],
+    "tipnr": [
+      "Bedad@Gen.36.35-1Ch"
+    ],
+    "vizbible": [
+      "rec97ngbkDcdlxQ0h"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Hadad"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "000844001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bedad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bedad",
+          "article": "person:Bedad",
+          "description": "A man living during the time of the patriarchs, mentioned in Genesis 36:35, and the father of Hadad, king of Edom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בְּדַד"
+    ]
+  },
+  "key_references": [
+    "01036035",
+    "13001046"
+  ],
+  "references": [
+    "01036035",
+    "13001046"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360350071"
+      ],
+      [
+        "o130010460071"
+      ]
+    ]
+  }
+}

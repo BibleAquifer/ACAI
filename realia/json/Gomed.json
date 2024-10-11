@@ -1,0 +1,50 @@
+{
+  "id": "realia:Gomed",
+  "primary_id": "realia:Gomed",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001442001001000"
+    ],
+    "ubsrealia": [
+      "realia:11.4.1.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "001442001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gomed",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gomed",
+          "article": "realia:Gomed",
+          "description": "A unit of length, possibly shorter than a standard cubit, measuring the length of the elbow to a clenched fist."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֹּמֶד"
+    ]
+  },
+  "key_references": [
+    "07003016"
+  ],
+  "references": [
+    "07003016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070030160081"
+      ]
+    ]
+  }
+}

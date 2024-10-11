@@ -1,0 +1,84 @@
+{
+  "id": "deity:SpiritOfYahweh",
+  "primary_id": "deity:HolySpirit",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006718001001000"
+    ],
+    "tipnr": [
+      "Spirit_of_Yahweh|Holy_Spirit@Mat.1.18-Rev"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "006718001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Spirit of Yahweh (Holy Spirit)",
+      "alternate_labels": [
+        "Holy Spirit"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Holy Spirit",
+          "article": "deity:SpiritOfYahweh",
+          "description": "The Holy Spirit as an agent of God that provides wisdom, counsel, and knowledge (Isaiah 11:2)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:HolySpirit"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "23011002",
+    "33003008"
+  ],
+  "references": [
+    "14018023",
+    "23011002",
+    "23040013",
+    "23063014",
+    "33003008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140180230151"
+      ],
+      [
+        "o230110020031"
+      ],
+      [
+        "o230110020051"
+      ],
+      [
+        "o230110020081"
+      ],
+      [
+        "o230110020111"
+      ],
+      [
+        "o230400130041"
+      ],
+      [
+        "o230630140041"
+      ],
+      [
+        "o330030080061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140180230182"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "person:Mahalalel",
+  "primary_id": "person:Mahalalel",
+  "alternate_sources": {
+    "aquifer": [
+      "6863|Mahalaleel, Mahalalel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Mahalalel@Gen.5.12-Luk"
+    ],
+    "vizbible": [
+      "recGo4Uek8ZB1jrJQ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kenan",
+  "offspring": [
+    "person:Jared"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mahalalel",
+      "alternate_labels": [
+        "Mahalaleel",
+        "Mahalel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mahalalel",
+          "article": "person:Mahalalel",
+          "description": "A son of Kenan and father of Jared. He is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01005012",
+    "01005015",
+    "42003037"
+  ],
+  "references": [
+    "01005012",
+    "01005013",
+    "01005015",
+    "01005016",
+    "01005017",
+    "13001002",
+    "42003037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010050120071"
+      ],
+      [
+        "o010050130061"
+      ],
+      [
+        "o010050150021"
+      ],
+      [
+        "o010050160021"
+      ],
+      [
+        "o010050170041"
+      ],
+      [
+        "o130010020021"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003037008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010050150072"
+      ],
+      [
+        "o010050160122"
+      ],
+      [
+        "o010050170112"
+      ]
+    ]
+  }
+}

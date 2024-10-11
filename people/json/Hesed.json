@@ -1,0 +1,54 @@
+{
+  "id": "person:Hesed",
+  "primary_id": "person:Hesed",
+  "alternate_sources": {
+    "aquifer": [
+      "5826|Hesed|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001050001001000"
+    ],
+    "tipnr": [
+      "Hesed@1Ki.4.10"
+    ],
+    "vizbible": [
+      "recRK39WxuwIkRd3Q"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ben-hesed"
+  ],
+  "ubsdbh": [
+    "001050001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hesed",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hesed",
+          "article": "person:Hesed",
+          "description": "Hesed, a man from the time of Israel's united kingdom, is mentioned in 1 Kings 4:10 and was the father of Ben-Hesed."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11004010"
+  ],
+  "references": [
+    "11004010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040100021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "person:Belteshazzar",
+  "primary_id": "person:Daniel.3",
+  "alternate_sources": {
+    "aquifer": [
+      "4094|Belteshazzar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001019001001000"
+    ],
+    "tipnr": [
+      "Belteshazzar|Daniel@Ezk.14.14-Mrk"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Prophet"
+  ],
+  "ubsdbh": [
+    "001019001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Belteshazzar (Daniel)",
+      "alternate_labels": [
+        "Daniel (Prophet)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Daniel (Prophet)",
+          "article": "person:Belteshazzar",
+          "description": "A Israelite prophet during the time of Israelite exile and return of the Israelites. His Hebrew name is Daniel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Daniel.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֵּלְטְשַׁאצַּר"
+    ]
+  },
+  "key_references": [
+    "27001007",
+    "27002026",
+    "27005012"
+  ],
+  "references": [
+    "27001007",
+    "27002026",
+    "27004005",
+    "27004006",
+    "27004015",
+    "27004016",
+    "27005012",
+    "27010001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o270010070081"
+      ],
+      [
+        "o270020260071"
+      ],
+      [
+        "o270040050081"
+      ],
+      [
+        "o270040060011"
+      ],
+      [
+        "o270040150091"
+      ],
+      [
+        "o270040160051"
+      ],
+      [
+        "o270040160141"
+      ],
+      [
+        "o270040160201"
+      ],
+      [
+        "o270050120211"
+      ],
+      [
+        "o270100010121"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o270040150082"
+      ],
+      [
+        "o270040150232"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o270040060221"
+      ],
+      [
+        "o270040160212"
+      ]
+    ]
+  }
+}

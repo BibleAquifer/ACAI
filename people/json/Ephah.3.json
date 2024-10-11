@@ -1,0 +1,62 @@
+{
+  "id": "person:Ephah.3",
+  "primary_id": "person:Ephah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "5100|Ephah (Measurement)|TyndaleBibleDictionary",
+      "5101|Ephah (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005409002003000"
+    ],
+    "tipnr": [
+      "Ephah@1Ch.2.47"
+    ],
+    "vizbible": [
+      "recweFGNhPLxvydXl"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Caleb.2",
+  "mother": "person:Jahdai",
+  "siblings": [
+    "person:Regem",
+    "person:Jotham.3",
+    "person:Geshan",
+    "person:Pelet",
+    "person:Shaaph"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005409002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephah (1 Chronicles 2:47)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ephah (1 Chronicles 2:47)",
+          "article": "person:Ephah.3",
+          "description": "Ephah was a man of the tribe of Judah, mentioned in 1 Chronicles 2:47 as the son of Jahdai and Caleb, and brother of Regem, Jotham, Geshan, Pelet, and Shaaph."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002047"
+  ],
+  "references": [
+    "13002047"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020470072"
+      ]
+    ]
+  }
+}

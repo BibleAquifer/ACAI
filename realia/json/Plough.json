@@ -1,0 +1,60 @@
+{
+  "id": "realia:Plough",
+  "primary_id": "realia:Plough",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003910001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.1.9"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003910001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Plough",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Plough",
+          "article": "realia:Plough",
+          "description": "A tool with a triangular metal blade used to break up soil for farming."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַחֲרֵשָׁה"
+    ]
+  },
+  "key_references": [
+    "09013020",
+    "09013021"
+  ],
+  "references": [
+    "09013020",
+    "09013021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090130200081",
+        "o090130200082"
+      ],
+      [
+        "o090130200141",
+        "o090130200142"
+      ],
+      [
+        "o090130210042"
+      ]
+    ]
+  }
+}

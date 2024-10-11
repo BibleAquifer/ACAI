@@ -1,0 +1,33 @@
+{
+  "id": "place:WayOfTheRedSea",
+  "primary_id": "place:WayOfTheRedSea",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:WayOfTheRedSea",
+          "gloss": "Way of the Red Sea",
+          "description": "A road between the Dead Sea and the Gulf of Aqaba."
+        }
+      ],
+      "preferred_label": "Way of the Red Sea"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "road"
+    ]
+  },
+  "key_references": [
+    "04014025",
+    "05001040"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "fauna:Elephant",
+  "primary_id": "fauna:Elephant",
+  "alternate_sources": {
+    "ubsfauna": [
+      "fauna:2.14"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elephant",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elephant",
+          "article": "fauna:Elephant",
+          "description": "A large land animal with a long trunk and big ears, found in Africa and Asia."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "18040015"
+  ],
+  "references": [
+    "18040015",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180400150031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o180400160032"
+      ],
+      [
+        "o180400160043"
+      ],
+      [
+        "o180400160053"
+      ],
+      [
+        "o180400160072"
+      ],
+      [
+        "o180400170022"
+      ],
+      [
+        "o180400170072"
+      ],
+      [
+        "o180400180012"
+      ],
+      [
+        "o180400180042"
+      ],
+      [
+        "o180400190011"
+      ],
+      [
+        "o180400190053"
+      ],
+      [
+        "o180400200052"
+      ],
+      [
+        "o180400220012"
+      ],
+      [
+        "o180400220032"
+      ],
+      [
+        "o180400220042"
+      ],
+      [
+        "o180400230112"
+      ],
+      [
+        "o180400240013"
+      ],
+      [
+        "o180400240022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o180400150091"
+      ],
+      [
+        "o180400170011"
+      ],
+      [
+        "o180400210031"
+      ],
+      [
+        "o180400230051"
+      ],
+      [
+        "o180400230061"
+      ]
+    ]
+  }
+}

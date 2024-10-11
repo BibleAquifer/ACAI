@@ -1,0 +1,86 @@
+{
+  "id": "realia:TheHolyPlace",
+  "primary_id": "realia:TheHolyPlace",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.35"
+    ],
+    "ubsrealia": [
+      "realia:3.15.2.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.35"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "The Holy Place",
+      "alternate_labels": [
+        "Holy Place"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "The Holy Place",
+          "article": "realia:TheHolyPlace",
+          "description": "The inner room of the Tabernacle and Jerusalem Temple where sacred rituals were performed."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἅγιος"
+    ]
+  },
+  "key_references": [
+    "58009002",
+    "58009003",
+    "58009012"
+  ],
+  "references": [
+    "58009002",
+    "58009003",
+    "58009008",
+    "58009012",
+    "58009024",
+    "58009025",
+    "58010019",
+    "58013011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58009002021"
+      ],
+      [
+        "n58009003009"
+      ],
+      [
+        "n58009003010"
+      ],
+      [
+        "n58009008011"
+      ],
+      [
+        "n58009012016"
+      ],
+      [
+        "n58009024006"
+      ],
+      [
+        "n58009025012"
+      ],
+      [
+        "n58010019009"
+      ],
+      [
+        "n58013011011"
+      ]
+    ]
+  }
+}

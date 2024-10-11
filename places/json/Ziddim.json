@@ -1,0 +1,90 @@
+{
+  "id": "place:Ziddim",
+  "primary_id": "place:Ziddim",
+  "alternate_sources": {
+    "aquifer": [
+      "9215|Ziddim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a8248e0"
+    ],
+    "ubsdbh": [
+      "006126001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/211425277"
+    ],
+    "tipnr": [
+      "Ziddim@Jos.19.35"
+    ],
+    "vizbible": [
+      "reciPjLN4mix2lTna"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q8071489"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006126001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ziddim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ziddim",
+          "gloss": "Ziddim",
+          "description": "A fortified town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.814279",
+      "lon": "35.435872"
+    },
+    "recogito": {
+      "lat": "32.75",
+      "lon": "35.25"
+    },
+    "vizbible": {
+      "lat": "32.814279",
+      "lon": "35.435872"
+    }
+  },
+  "key_references": [
+    "06019035"
+  ],
+  "references": [
+    "06019035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190350032"
+      ]
+    ]
+  }
+}

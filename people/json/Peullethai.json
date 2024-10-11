@@ -1,0 +1,75 @@
+{
+  "id": "person:Peullethai",
+  "primary_id": "person:Peullethai",
+  "alternate_sources": {
+    "aquifer": [
+      "7685|Peullethai, Peulthai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005946001001000"
+    ],
+    "tipnr": [
+      "Peullethai@1Ch.26.5"
+    ],
+    "vizbible": [
+      "recaClxo5SWbh8PIe"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Obed-edom",
+  "siblings": [
+    "person:Shemaiah.9",
+    "person:Jehozabad.2",
+    "person:Joah.3",
+    "person:Sachar",
+    "person:Nethanel.5",
+    "person:Issachar.2",
+    "person:Ammiel.3"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005946001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Peullethai",
+      "alternate_labels": [
+        "Peulthai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Peullethai",
+          "article": "person:Peullethai",
+          "description": "Peullethai, also known as Peulthai and mentioned in 1 Chronicles 26:5, was a Levite during the time of Israel's united kingdom, the son of Obed-edom, and brother to Shemaiah, Jehozabad, Joah, Sachar, Nethanel, Issachar, and Ammiel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13026005"
+  ],
+  "references": [
+    "13026005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130260050051"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130260080021"
+      ],
+      [
+        "o130260080061"
+      ]
+    ]
+  }
+}

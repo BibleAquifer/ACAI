@@ -1,0 +1,32 @@
+{
+  "id": "place:Burdigala",
+  "primary_id": "place:Burdigala",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Burdigala",
+          "gloss": "Burdigala",
+          "description": "A Roman city in southwest France; modern-day Bordeaux."
+        }
+      ],
+      "preferred_label": "Burdigala",
+      "alternate_labels": [
+        "Bordeaux"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  }
+}

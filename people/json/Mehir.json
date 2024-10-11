@@ -1,0 +1,68 @@
+{
+  "id": "person:Mehir",
+  "primary_id": "person:Mehir",
+  "alternate_sources": {
+    "aquifer": [
+      "7019|Mehir|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003873002001000"
+    ],
+    "tipnr": [
+      "Mehir@1Ch.4.11"
+    ],
+    "vizbible": [
+      "reca5UbSVkT8FYrmf"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Chelub",
+  "offspring": [
+    "person:Eshton"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "003873002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mehir",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mehir",
+          "article": "person:Mehir",
+          "description": "A man from the tribe of Judah during the divided kingdom, son of Chelub and father of Eshton."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְחִיר"
+    ]
+  },
+  "key_references": [
+    "13004011"
+  ],
+  "references": [
+    "13004011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040110061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130040110071"
+      ]
+    ]
+  }
+}

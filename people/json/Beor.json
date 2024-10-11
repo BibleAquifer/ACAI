@@ -1,0 +1,66 @@
+{
+  "id": "person:Beor",
+  "primary_id": "person:Beor",
+  "alternate_sources": {
+    "aquifer": [
+      "4122|Beor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001075001001000"
+    ],
+    "tipnr": [
+      "Beor@Gen.36.32-1Ch"
+    ],
+    "vizbible": [
+      "recEQFL0coGYW9r6v"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Bela.2"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "001075001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Beor",
+          "article": "person:Beor",
+          "description": "A man living during the time of the patriarchs, mentioned in Genesis 36:32 as the father of Bela, an Edomite."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בְּעֹור",
+      "בְּעוֹר"
+    ]
+  },
+  "key_references": [
+    "01036032",
+    "13001043"
+  ],
+  "references": [
+    "01036032",
+    "13001043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360320051"
+      ],
+      [
+        "o130010430141"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "place:Zaanan",
+  "primary_id": "place:Zaanan",
+  "alternate_sources": {
+    "aquifer": [
+      "9110|Zaanan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006097001001000"
+    ],
+    "tipnr": [
+      "Zaanan@Mic.1.11"
+    ],
+    "vizbible": [
+      "recyCJ7F5MmhXoXkw"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006097001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zaanan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zaanan",
+          "gloss": "Zaanan",
+          "description": "A town in the territory of Judah; also known as Zenan."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Zenan"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.743719",
+      "lon": "34.694006"
+    },
+    "vizbible": {
+      "lat": "31.743719",
+      "lon": "34.694006"
+    }
+  },
+  "key_references": [
+    "33001011"
+  ],
+  "references": [
+    "33001011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o330010110101"
+      ]
+    ]
+  }
+}

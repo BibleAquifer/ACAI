@@ -1,0 +1,67 @@
+{
+  "id": "person:Merodach-baladan",
+  "primary_id": "person:Merodach-baladan",
+  "alternate_sources": {
+    "aquifer": [
+      "7071|Merodach-Baladan|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Merodach-baladan@2Ki.20.12-Isa"
+    ],
+    "vizbible": [
+      "recEC4E4f5MxGQ2R2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Baladan",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Merodach-baladan",
+      "alternate_labels": [
+        "Marduk-Baladan",
+        "Berodach-baladan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Merodach-Baladan",
+          "article": "person:Merodach-baladan",
+          "description": "A king of Babylon during the time of the divided kingdom, first mentioned in 2 Kings 20:12."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12020012",
+    "23039001"
+  ],
+  "references": [
+    "12020012",
+    "23039001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120200120041",
+        "o120200120051"
+      ],
+      [
+        "o230390010041",
+        "o230390010051"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120200120151"
+      ],
+      [
+        "o230390010142"
+      ]
+    ]
+  }
+}

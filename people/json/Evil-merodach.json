@@ -1,0 +1,89 @@
+{
+  "id": "person:Evil-merodach",
+  "primary_id": "person:Evil-merodach",
+  "alternate_sources": {
+    "aquifer": [
+      "5195|Evil-Merodach|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000187001001000"
+    ],
+    "tipnr": [
+      "Evil-merodach@2Ki.25.27-Jer"
+    ],
+    "vizbible": [
+      "reckc9bpgo2O0gxbn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Mesopotamia",
+  "ubsdbh": [
+    "000187001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Evil-merodach",
+      "alternate_labels": [
+        "Awel-Marduk"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Evil-Merodach",
+          "article": "person:Evil-merodach",
+          "description": "Evil-merodach, also known as Awel-Marduk, was a Babylonian king who reigned for two years, released King Jehoiachin, and was the son of Nebuchadnezzar."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱוִיל מְרֹדַךְ"
+    ]
+  },
+  "key_references": [
+    "12025027",
+    "24052031"
+  ],
+  "references": [
+    "12025027",
+    "24052031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120250270161",
+        "o120250270171"
+      ],
+      [
+        "o240520310161",
+        "o240520310171"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120250280012"
+      ],
+      [
+        "o120250280042"
+      ],
+      [
+        "o240520310272"
+      ],
+      [
+        "o240520320012"
+      ],
+      [
+        "o240520320042"
+      ]
+    ]
+  }
+}

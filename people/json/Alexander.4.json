@@ -1,0 +1,92 @@
+{
+  "id": "person:Alexander.4",
+  "primary_id": "person:Alexander.4",
+  "alternate_sources": {
+    "aquifer": [
+      "3501|Alexander|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.17d",
+      "93.17e"
+    ],
+    "tipnr": [
+      "Alexander@1Ti.1.20-2Ti"
+    ],
+    "vizbible": [
+      "recSP9AgOTeRwE28z"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.17d",
+    "93.17e"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Alexander (1 Timothy 1:20)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Alexander (1 Timothy 1:20)",
+          "article": "person:Alexander.4",
+          "description": "A man living during the New Testament, described as a false teacher and coppersmith who opposed Paul, mentioned in 1 Timothy 1:20."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀλέξανδρος"
+    ]
+  },
+  "key_references": [
+    "54001020",
+    "55004014"
+  ],
+  "references": [
+    "54001020",
+    "55004014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n54001020005"
+      ],
+      [
+        "n55004014001"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n54001020006"
+      ],
+      [
+        "n55004014009"
+      ],
+      [
+        "n55004014015"
+      ],
+      [
+        "n55004015001"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n54001020011"
+      ],
+      [
+        "n54001020013"
+      ],
+      [
+        "n55004015007"
+      ]
+    ]
+  }
+}

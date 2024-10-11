@@ -1,0 +1,53 @@
+{
+  "id": "person:Bazluth",
+  "primary_id": "person:Bazluth",
+  "alternate_sources": {
+    "aquifer": [
+      "4040|Bazlith, Bazluth|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Bazluth@Ezr.2.52-Neh"
+    ],
+    "vizbible": [
+      "recZTjrUdTyDPw7iq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bazluth",
+      "alternate_labels": [
+        "Bazlith"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bazluth",
+          "article": "person:Bazluth",
+          "description": "A man living during the time of exile and return, mentioned in Ezra 2:52 and Nehemiah 7:54, also called Bazlith."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002052",
+    "16007054"
+  ],
+  "references": [
+    "15002052",
+    "16007054"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020520021"
+      ],
+      [
+        "o160070540021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "place:Makaz",
+  "primary_id": "place:Makaz",
+  "alternate_sources": {
+    "aquifer": [
+      "6883|Makaz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004340001001000"
+    ],
+    "tipnr": [
+      "Makaz@1Ki.4.9"
+    ],
+    "vizbible": [
+      "recAAVbmSP94xFvOF"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004340001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Makaz",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Makaz",
+          "gloss": "Makaz",
+          "description": "A town in the territory of Judah during time of King Solomon, under the control of Ben-Deker. "
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.870364",
+      "lon": "34.981728"
+    },
+    "vizbible": {
+      "lat": "31.870364",
+      "lon": "34.981728"
+    }
+  },
+  "key_references": [
+    "11004009"
+  ],
+  "references": [
+    "11004009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040090032"
+      ]
+    ]
+  }
+}

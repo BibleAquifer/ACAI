@@ -1,0 +1,64 @@
+{
+  "id": "person:Eliezer",
+  "primary_id": "person:Eliezer",
+  "alternate_sources": {
+    "aquifer": [
+      "5007|Eliezer|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.109"
+    ],
+    "tipnr": [
+      "Eliezer@Luk.3.29"
+    ],
+    "vizbible": [
+      "recdyKSVQKEwrNPHM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jorim",
+  "offspring": [
+    "person:Joshua"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.109"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliezer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliezer",
+          "article": "person:Eliezer",
+          "description": "Son of Jorim and the father of Joshua in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἐλιέζερ"
+    ]
+  },
+  "key_references": [
+    "42003029"
+  ],
+  "references": [
+    "42003029"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003029004"
+      ]
+    ]
+  }
+}

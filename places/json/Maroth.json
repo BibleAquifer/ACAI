@@ -1,0 +1,83 @@
+{
+  "id": "place:Maroth",
+  "primary_id": "place:Maroth",
+  "alternate_sources": {
+    "aquifer": [
+      "6953|Maroth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004390001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2873226"
+    ],
+    "tipnr": [
+      "Maroth@Mic.1.12"
+    ],
+    "vizbible": [
+      "recZzrXNYy0nNSZoh"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004390001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maroth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Maroth",
+          "gloss": "Maroth",
+          "description": "A town in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.743719",
+      "lon": "34.694006"
+    },
+    "recogito": {
+      "lat": "50.57722",
+      "lon": "7.68972"
+    },
+    "vizbible": {
+      "lat": "31.743719",
+      "lon": "34.694006"
+    }
+  },
+  "key_references": [
+    "33001012"
+  ],
+  "references": [
+    "33001012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o330010120051"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "person:Zaphenath-paneah",
+  "primary_id": "person:Joseph.10",
+  "alternate_sources": {
+    "aquifer": [
+      "9137|Zaphenath-Paneah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006300001001000"
+    ],
+    "tipnr": [
+      "Zaphenath-paneah|Joseph@Gen.30.24-Rev"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Israel",
+  "mother": "person:Rachel",
+  "partners": [
+    "person:Asenath"
+  ],
+  "offspring": [
+    "person:Manasseh",
+    "person:Ephraim"
+  ],
+  "siblings": [
+    "person:Reuben",
+    "person:Simeon.5",
+    "person:Levi.3",
+    "person:Judah.4",
+    "person:Dan",
+    "person:Naphtali",
+    "person:Gad",
+    "person:Asher",
+    "person:Issachar",
+    "person:Zebulun",
+    "person:Dinah",
+    "person:Benjamin"
+  ],
+  "roles": [
+    "Patriarch",
+    "Governor"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "006300001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zaphenath-paneah (Joseph)",
+      "alternate_labels": [
+        "Joseph"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joseph",
+          "article": "person:Zaphenath-paneah",
+          "description": "Zaphenath-paneah, also known as Joseph, was Jacob's son living during the time of the patriarchs, first mentioned in Genesis 30:24."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Joseph.10"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01041045"
+  ],
+  "references": [
+    "01041045"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010410450051",
+        "o010410450061"
+      ]
+    ]
+  }
+}

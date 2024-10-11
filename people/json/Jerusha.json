@@ -1,0 +1,60 @@
+{
+  "id": "person:Jerusha",
+  "primary_id": "person:Jerusha",
+  "alternate_sources": {
+    "aquifer": [
+      "6334|Jerusha, Jerushah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jerusha@2Ki.15.33-2Ch"
+    ],
+    "vizbible": [
+      "recKNb3HobCNmQcfO"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Zadok.3",
+  "partners": [
+    "person:Uzziah"
+  ],
+  "offspring": [
+    "person:Jotham.2"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jerusha",
+      "alternate_labels": [
+        "Jerushah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jerusha",
+          "article": "person:Jerusha",
+          "description": "A woman from the time of the divided kingdom, daughter of Zadok, wife of Uzziah, and mother of Jotham, also known as Jerushah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12015033",
+    "14027001"
+  ],
+  "references": [
+    "12015033",
+    "14027001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120150330141"
+      ],
+      [
+        "o140270010141"
+      ]
+    ]
+  }
+}

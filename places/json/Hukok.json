@@ -1,0 +1,90 @@
+{
+  "id": "place:Hukok",
+  "primary_id": "place:Helkath",
+  "alternate_sources": {
+    "aquifer": [
+      "5937|Hukok|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002171001002000"
+    ],
+    "tipnr": [
+      "Hukok|Helkath@Jos.19.25-1Ch"
+    ],
+    "vizbible": [
+      "rectQfI2b5yqcGyKc"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002171001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hukok",
+      "alternate_labels": [
+        "Helkath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hukok",
+          "gloss": "Hukok",
+          "description": "A Levitical town in the territory of Asher."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Helkath"
+  ],
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חוּקֹק"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.955448",
+      "lon": "35.211971"
+    },
+    "vizbible": {
+      "lat": "32.955448",
+      "lon": "35.211971"
+    }
+  },
+  "key_references": [
+    "13006060"
+  ],
+  "references": [
+    "13006060"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060600021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "place:SeirMount.2",
+  "primary_id": "place:SeirMount.2",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007063001004000"
+    ],
+    "tipnr": [
+      "Seir_Mount@Jos.15.10"
+    ],
+    "vizbible": [
+      "recgvtDF1vFBRme85"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007063001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Seir (of Judah)",
+      "alternate_labels": [
+        "Seir",
+        "Mount Seir"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountSeir.2",
+          "gloss": "Mount Seir (of Judah)",
+          "description": "A mountain in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.783333",
+      "lon": "34.994"
+    },
+    "vizbible": {
+      "lat": "31.783333",
+      "lon": "34.994"
+    }
+  },
+  "key_references": [
+    "06015010"
+  ],
+  "references": [
+    "06015010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150100071"
+      ]
+    ]
+  }
+}

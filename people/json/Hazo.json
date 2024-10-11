@@ -1,0 +1,73 @@
+{
+  "id": "person:Hazo",
+  "primary_id": "person:Hazo",
+  "alternate_sources": {
+    "aquifer": [
+      "5743|Hazo|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002190001001000"
+    ],
+    "tipnr": [
+      "Hazo@Gen.22.22"
+    ],
+    "vizbible": [
+      "recI0HcJ88bs71cyz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nahor.2",
+  "mother": "person:Milcah",
+  "siblings": [
+    "person:Uz.2",
+    "person:Buz",
+    "person:Kemuel",
+    "person:Chesed",
+    "person:Pildash",
+    "person:Jidlaph",
+    "person:Bethuel",
+    "person:Tebah",
+    "person:Gaham",
+    "person:Tahash",
+    "person:Maacah"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "002190001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hazo",
+          "article": "person:Hazo",
+          "description": "Hazo was a man living at the time of the patriarchs, a son of Nahor and Milcah, and a brother of Bethuel, mentioned in Genesis 22:22."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֲזֹו",
+      "חֲזוֹ"
+    ]
+  },
+  "key_references": [
+    "01022022"
+  ],
+  "references": [
+    "01022022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010220220041"
+      ]
+    ]
+  }
+}

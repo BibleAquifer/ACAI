@@ -1,0 +1,65 @@
+{
+  "id": "person:Joshibiah",
+  "primary_id": "person:Joshibiah",
+  "alternate_sources": {
+    "aquifer": [
+      "6457|Joshibiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002874001001000"
+    ],
+    "tipnr": [
+      "Joshibiah@1Ch.4.35"
+    ],
+    "vizbible": [
+      "reczFLXmMCFnxRIgY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Seraiah.5",
+  "offspring": [
+    "person:Jehu.4"
+  ],
+  "tribe": "group:Simeon",
+  "ubsdbh": [
+    "002874001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joshibiah",
+      "alternate_labels": [
+        "Josibiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joshibiah",
+          "article": "person:Joshibiah",
+          "description": "A man of the tribe of Simeon in the time of the divided kingdom, son of Seraiah and father of Jehu, mentioned in 1 Chronicles 4:35."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹושִׁבְיָה",
+      "יוֹשִׁבְיָה"
+    ]
+  },
+  "key_references": [
+    "13004035"
+  ],
+  "references": [
+    "13004035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040350041"
+      ]
+    ]
+  }
+}

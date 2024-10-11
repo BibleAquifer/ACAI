@@ -1,0 +1,109 @@
+{
+  "id": "place:Akrabbim",
+  "primary_id": "place:Akrabbim",
+  "alternate_sources": {
+    "aquifer": [
+      "3490|Akrabbim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a39267b"
+    ],
+    "ubsdbh": [
+      "005635001001000 005635002001000"
+    ],
+    "tipnr": [
+      "Akrabbim@Num.34.4-Jdg"
+    ],
+    "vizbible": [
+      "recFmZuXLptgJBiwR"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005635001001000 005635002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Akrabbim",
+      "alternate_labels": [
+        "Scorpion Pass",
+        "Scorpion",
+        "Maaleh-acrabbim",
+        "Ascent of Akrabbim",
+        "Scorpions’ Ascent",
+        "Scorpion Ascent"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Akrabbim",
+          "gloss": "Akrabbim",
+          "description": "A mountain pass between the southwest corner of the Dead Sea and the wilderness of Zin, on the southern border of the territory of Judah (Joshua 15:3)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:SaltSea",
+    "place:Zin"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֶקְרֹון",
+      "עֶקְרוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "mountain pass"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "mountain pass"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.688292",
+      "lon": "35.263182"
+    },
+    "vizbible": {
+      "lat": "30.688292",
+      "lon": "35.263182"
+    }
+  },
+  "key_references": [
+    "04034004",
+    "06015003"
+  ],
+  "references": [
+    "04034004",
+    "06015003",
+    "07001036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340040061"
+      ],
+      [
+        "o060150030051"
+      ],
+      [
+        "o070010360041"
+      ]
+    ]
+  }
+}

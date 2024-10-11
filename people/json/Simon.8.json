@@ -1,0 +1,180 @@
+{
+  "id": "person:Simon.8",
+  "primary_id": "person:Simon.8",
+  "alternate_sources": {
+    "aquifer": [
+      "6860|Magus, Simon|TyndaleBibleDictionary",
+      "8511|Simon|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.341g"
+    ],
+    "tipnr": [
+      "Simon@Act.8.9-"
+    ],
+    "vizbible": [
+      "rec7mbq5BahDRoSlS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.341g"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Simon (Acts 8:9)",
+      "alternate_labels": [
+        "Simon the Sorcerer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Simon (Acts 8:9)",
+          "article": "person:Simon.8",
+          "description": "Simon, also known as Simon the Sorcerer, was a magician living in Samaria during the New Testament, first mentioned in Acts 8:9."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σίμων"
+    ]
+  },
+  "key_references": [
+    "44008009",
+    "44008018",
+    "44008024"
+  ],
+  "references": [
+    "44008009",
+    "44008018",
+    "44008024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44008009005"
+      ],
+      [
+        "n44008018004"
+      ],
+      [
+        "n44008024004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44008019003"
+      ],
+      [
+        "n44008020005"
+      ],
+      [
+        "n44008020008"
+      ],
+      [
+        "n44008020010"
+      ],
+      [
+        "n44008021003"
+      ],
+      [
+        "n44008021014"
+      ],
+      [
+        "n44008022006"
+      ],
+      [
+        "n44008022015"
+      ],
+      [
+        "n44008022020"
+      ],
+      [
+        "n44008023009"
+      ],
+      [
+        "n44008024009"
+      ],
+      [
+        "n44008024017"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44008018001"
+      ],
+      [
+        "n44008019001"
+      ],
+      [
+        "n44008019010"
+      ],
+      [
+        "n44008020019"
+      ],
+      [
+        "n44008020022"
+      ],
+      [
+        "n44008022001"
+      ],
+      [
+        "n44008022009"
+      ],
+      [
+        "n44008024001"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "n44008019002",
+          "n44008019003",
+          "n44008019004",
+          "n44008019005",
+          "n44008019006",
+          "n44008019007",
+          "n44008019008",
+          "n44008019009",
+          "n44008019010",
+          "n44008019011",
+          "n44008019012",
+          "n44008019013",
+          "n44008019014",
+          "n44008019015"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n44008024006",
+          "n44008024007",
+          "n44008024008",
+          "n44008024009",
+          "n44008024010",
+          "n44008024011",
+          "n44008024012",
+          "n44008024013",
+          "n44008024014",
+          "n44008024015",
+          "n44008024016",
+          "n44008024017",
+          "n44008024018",
+          "n44008024019"
+        ]
+      }
+    ]
+  }
+}

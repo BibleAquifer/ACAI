@@ -1,0 +1,64 @@
+{
+  "id": "person:Naam",
+  "primary_id": "person:Naam",
+  "alternate_sources": {
+    "aquifer": [
+      "7263|Naam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004839001001000"
+    ],
+    "tipnr": [
+      "Naam@1Ch.4.15"
+    ],
+    "vizbible": [
+      "recK0B6w0qXA5QK2q"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Caleb",
+  "siblings": [
+    "person:Achsah",
+    "person:Iru",
+    "person:Elah.4"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "004839001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Naam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Naam",
+          "article": "person:Naam",
+          "description": "Naam was a man from the tribe of Judah, a son of Caleb, mentioned before Israel's Monarchy in 1 Chronicles 4:15."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נַעַם",
+      "נָ֑עַם"
+    ]
+  },
+  "key_references": [
+    "13004015"
+  ],
+  "references": [
+    "13004015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040150072"
+      ]
+    ]
+  }
+}

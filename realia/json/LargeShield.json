@@ -1,0 +1,163 @@
+{
+  "id": "realia:LargeShield",
+  "primary_id": "realia:LargeShield",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.40"
+    ],
+    "ubsdbh": [
+      "006248002001000"
+    ],
+    "ubsrealia": [
+      "realia:2.10.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.40"
+  ],
+  "ubsdbh": [
+    "006248002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Large Shield",
+      "alternate_labels": [
+        "Shield",
+        "Shield Large"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Large Shield",
+          "article": "realia:LargeShield",
+          "description": "A tall, oblong shield used to protect the entire body in battle; made from wood, metal, leather, or reeds."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צִנָּה"
+    ],
+    "el": [
+      "θυρεός"
+    ]
+  },
+  "key_references": [
+    "11010016",
+    "14009015",
+    "49006016"
+  ],
+  "references": [
+    "09017007",
+    "09017041",
+    "11010016",
+    "13012009",
+    "13012025",
+    "13012035",
+    "14009015",
+    "14011012",
+    "14014007",
+    "14025005",
+    "19005013",
+    "19035002",
+    "19091004",
+    "24046003",
+    "26023024",
+    "26026008",
+    "26038004",
+    "26039009",
+    "49006016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090170070132"
+      ],
+      [
+        "o090170410092"
+      ],
+      [
+        "o110100160051"
+      ],
+      [
+        "o110100160132"
+      ],
+      [
+        "o130120090141"
+      ],
+      [
+        "o130120250041"
+      ],
+      [
+        "o130120350052"
+      ],
+      [
+        "o140090150051"
+      ],
+      [
+        "o140090150142"
+      ],
+      [
+        "o140110120041"
+      ],
+      [
+        "o140140070051"
+      ],
+      [
+        "o140250050292"
+      ],
+      [
+        "o190050130062"
+      ],
+      [
+        "o190350020032"
+      ],
+      [
+        "o190910040071"
+      ],
+      [
+        "o240460030032"
+      ],
+      [
+        "o260230240081"
+      ],
+      [
+        "o260260080131"
+      ],
+      [
+        "o260380040171"
+      ],
+      [
+        "o260390090092"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n49006016005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o110100170133"
+      ],
+      [
+        "o140090160133"
+      ],
+      [
+        "o260390090162"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n49006016009"
+      ]
+    ]
+  }
+}

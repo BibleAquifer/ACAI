@@ -1,0 +1,89 @@
+{
+  "id": "person:Meraioth",
+  "primary_id": "person:Meraioth",
+  "alternate_sources": {
+    "aquifer": [
+      "7058|Meraioth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004402001001000",
+      "004402001002000"
+    ],
+    "tipnr": [
+      "Meraioth@1Ch.6.6-Neh"
+    ],
+    "vizbible": [
+      "recOzCsvuzfpsW4k7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zerahiah",
+  "offspring": [
+    "person:Amariah"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "004402001001000",
+    "004402001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meraioth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Meraioth",
+          "article": "person:Meraioth",
+          "description": "A son of Zerahiah and father of Amariah. He was a priest during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְרָיֹות",
+      "מְרָיָה"
+    ]
+  },
+  "key_references": [
+    "13006037",
+    "13009011",
+    "15007003"
+  ],
+  "references": [
+    "13005032",
+    "13005033",
+    "13006037",
+    "13009011",
+    "15007003",
+    "16011011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050320081"
+      ],
+      [
+        "o130050330011"
+      ],
+      [
+        "o130060370011"
+      ],
+      [
+        "o130090110091"
+      ],
+      [
+        "o150070030061"
+      ],
+      [
+        "o160110110091"
+      ]
+    ]
+  }
+}

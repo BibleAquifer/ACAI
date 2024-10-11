@@ -1,0 +1,72 @@
+{
+  "id": "person:Jonathan.12",
+  "primary_id": "person:Jonathan.12",
+  "alternate_sources": {
+    "aquifer": [
+      "6432|Jonathan|TyndaleBibleDictionary",
+      "26772|Jonathan|UWTranslationWords",
+      "132403|Jonathan|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002832001012000"
+    ],
+    "tipnr": [
+      "Jonathan@Neh.12.35"
+    ],
+    "vizbible": [
+      "rec8s9uRbvw7Z4HyY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shemaiah.21",
+  "offspring": [
+    "person:Zechariah.28",
+    "person:Shemaiah.22",
+    "person:Azarel.5",
+    "person:Milalai",
+    "person:Gilalai",
+    "person:Maai",
+    "person:Nethanel.10",
+    "person:Judah.8",
+    "person:Hanani.5"
+  ],
+  "ubsdbh": [
+    "002832001012000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jonathan (Nehemiah 12:35)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jonathan (Nehemiah 12:35)",
+          "article": "person:Jonathan.12",
+          "description": "A man living at the time of exile and return, son of Shemaiah and father of many, mentioned in Nehemiah 12:35."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹונָתָן",
+      "יוֹנָתָן",
+      "יְהוֹנָתָן"
+    ]
+  },
+  "key_references": [
+    "16012035"
+  ],
+  "references": [
+    "16012035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160120350061"
+      ]
+    ]
+  }
+}

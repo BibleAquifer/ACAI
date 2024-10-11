@@ -1,0 +1,70 @@
+{
+  "id": "person:Puvah",
+  "primary_id": "person:Puah",
+  "alternate_sources": {
+    "aquifer": [
+      "7872|Puvah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005799001001000"
+    ],
+    "tipnr": [
+      "Puvah|Puah@Gen.46.13-1Ch"
+    ],
+    "vizbible": [
+      "recqt6z1Yq81Dy8j9"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Issachar",
+  "siblings": [
+    "person:Tola",
+    "person:Jashub",
+    "person:Shimron"
+  ],
+  "tribe": "group:Issachar",
+  "ubsdbh": [
+    "005799001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Puvah (Puah)",
+      "alternate_labels": [
+        "Puah",
+        "Phuvah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Puah",
+          "article": "person:Puvah",
+          "description": "Puvah, also known as Puah or Phuvah, is a man from the tribe of Issachar mentioned in Genesis 46:13 and Numbers 26:23, who lived during the time of Egypt and the wilderness as a son of Issachar and brother of Tola, Jashub, and Shimron."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Puah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046013",
+    "04026023"
+  ],
+  "references": [
+    "01046013",
+    "04026023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460130042"
+      ],
+      [
+        "o040260230072"
+      ]
+    ]
+  }
+}

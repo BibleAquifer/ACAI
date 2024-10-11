@@ -1,0 +1,89 @@
+{
+  "id": "place:En-gannim",
+  "primary_id": "place:En-gannim",
+  "alternate_sources": {
+    "aquifer": [
+      "5081|En-Gannim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005391001001000"
+    ],
+    "tipnr": [
+      "En-gannim@Jos.15.34"
+    ],
+    "vizbible": [
+      "recPjDDI3jjBfVR0y"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005391001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "En-gannim (of Judah)",
+      "alternate_labels": [
+        "En-Gannim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:En-gannim.1",
+          "gloss": "En-Gannim (of Judah)",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵין דֹּור",
+      "עֵין־דֹּר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.75",
+      "lon": "34.950106"
+    },
+    "vizbible": {
+      "lat": "31.75",
+      "lon": "34.950106"
+    }
+  },
+  "key_references": [
+    "06015034"
+  ],
+  "references": [
+    "06015034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150340022",
+        "o060150340031"
+      ]
+    ]
+  }
+}

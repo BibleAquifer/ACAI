@@ -1,0 +1,36 @@
+{
+  "id": "place:TerritoryOfReuben",
+  "primary_id": "place:TerritoryOfReuben",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TerritoryOfReuben",
+          "gloss": "Territory of Reuben",
+          "description": "The land assigned to the tribe of Reuben."
+        }
+      ],
+      "preferred_label": "Territory of Reuben"
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfJudah",
+    "place:TerritoryOfGad"
+  ],
+  "subregion_of": [
+    "place:Israel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  }
+}

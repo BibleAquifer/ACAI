@@ -1,0 +1,95 @@
+{
+  "id": "person:Agabus",
+  "primary_id": "person:Agabus",
+  "alternate_sources": {
+    "aquifer": [
+      "3415|Agabus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.8"
+    ],
+    "tipnr": [
+      "Agabus@Act.11.28-"
+    ],
+    "vizbible": [
+      "rec9U2V2vDcrrvk6v"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.8"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Agabus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Agabus",
+          "article": "person:Agabus",
+          "description": "A Christian prophet from Judea living during the New Testament period."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἅγαβος"
+    ]
+  },
+  "key_references": [
+    "44011028",
+    "44021010"
+  ],
+  "references": [
+    "44011028",
+    "44021010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44011028007"
+      ],
+      [
+        "n44021010012"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "proclaim",
+        "quote_type": "Dialogue",
+        "words": [
+          "n44021011019",
+          "n44021011020",
+          "n44021011021",
+          "n44021011022",
+          "n44021011023",
+          "n44021011024",
+          "n44021011025",
+          "n44021011026",
+          "n44021011027",
+          "n44021011028",
+          "n44021011029",
+          "n44021011030",
+          "n44021011031",
+          "n44021011032",
+          "n44021011033",
+          "n44021011034",
+          "n44021011035",
+          "n44021011036",
+          "n44021011037",
+          "n44021011038",
+          "n44021011039",
+          "n44021011040",
+          "n44021011041",
+          "n44021011042"
+        ]
+      }
+    ]
+  }
+}

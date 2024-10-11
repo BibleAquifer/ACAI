@@ -1,0 +1,95 @@
+{
+  "id": "place:Debir.2",
+  "primary_id": "place:Debir.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4785|Debir (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001548002002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/284486"
+    ],
+    "tipnr": [
+      "Debir@Jos.15.7"
+    ],
+    "vizbible": [
+      "recSDUaSxlwPGXRC9"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001548002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Debir (above Achor Valley)",
+      "alternate_labels": [
+        "Debir"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Debir.2",
+          "gloss": "Debir (above Achor Valley)",
+          "description": "A town of the territory of Judah that marks the northern boundary of the territory."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "associated_places": [
+    "place:AchorValley"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "דְּבִיר",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.816662",
+      "lon": "35.349994"
+    },
+    "recogito": {
+      "lat": "31.40967",
+      "lon": "34.97329"
+    },
+    "vizbible": {
+      "lat": "31.816662",
+      "lon": "35.349994"
+    }
+  },
+  "key_references": [
+    "06015007"
+  ],
+  "references": [
+    "06015007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150070031"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "place:Beth-haccherem",
+  "primary_id": "place:Beth-haccherem",
+  "alternate_sources": {
+    "obi": [
+      "a30f9a0"
+    ],
+    "ubsdbh": [
+      "000948001001000"
+    ],
+    "tipnr": [
+      "Beth-haccherem@Neh.3.14-Jer"
+    ],
+    "vizbible": [
+      "recKrHZjq8JfYlhkd"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4881439"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000948001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-haccherem",
+      "alternate_labels": [
+        "Beth-Haccerem",
+        "Beth-Hakkerem"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-haccherem",
+          "gloss": "Beth-Haccherem",
+          "description": "A town in the territory of Judah or Benjamin, close to Jerusalem, ruled by Malchijah."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית הַכֶּרֶם",
+      "בֵּית הַכֶּ֫רֶם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.665911",
+      "lon": "35.241516"
+    },
+    "vizbible": {
+      "lat": "31.665911",
+      "lon": "35.241516"
+    }
+  },
+  "key_references": [
+    "16003014",
+    "24006001"
+  ],
+  "references": [
+    "16003014",
+    "24006001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030140101",
+        "o160030140111"
+      ],
+      [
+        "o240060010101",
+        "o240060010111"
+      ]
+    ]
+  }
+}

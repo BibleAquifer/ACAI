@@ -1,0 +1,96 @@
+{
+  "id": "place:Tabor",
+  "primary_id": "place:Chesulloth",
+  "alternate_sources": {
+    "aquifer": [
+      "8703|Tabor (Place)|TyndaleBibleDictionary",
+      "8701|Tabor, Mount|TyndaleBibleDictionary",
+      "8702|Tabor, Oak of|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007702001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3189227"
+    ],
+    "tipnr": [
+      "Tabor|Chesulloth@Jos.19.18-1Ch"
+    ],
+    "vizbible": [
+      "recCZdm8vPvnjEex5"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007702001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tabor (of Zebulun)",
+      "alternate_labels": [
+        "Chesulloth",
+        "Tabor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tabor.2",
+          "gloss": "Tabor (of Zebulun)",
+          "description": "A Levitical town in the territory of Zebulun."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Chesulloth"
+  ],
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "mountain"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.683231",
+      "lon": "35.324694"
+    },
+    "recogito": {
+      "lat": "46.23611",
+      "lon": "15.01833"
+    },
+    "vizbible": {
+      "lat": "32.683231",
+      "lon": "35.324694"
+    }
+  },
+  "key_references": [
+    "13006062"
+  ],
+  "references": [
+    "13006062"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060620111"
+      ]
+    ]
+  }
+}

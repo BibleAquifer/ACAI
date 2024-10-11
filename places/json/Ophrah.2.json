@@ -1,0 +1,106 @@
+{
+  "id": "place:Ophrah.2",
+  "primary_id": "place:Ophrah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7510|Ophrah (Place)|TyndaleBibleDictionary"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/284559"
+    ],
+    "tipnr": [
+      "Hapharaim|Ophrah@Jdg.6.11-Jdg",
+      "Ophrah@Jdg.6.11-Jdg"
+    ],
+    "vizbible": [
+      "rec8SNX7XoTfkfbY1"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ophrah (of Manasseh)",
+      "alternate_labels": [
+        "Hapharaim",
+        "Ophrah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ophrah.2",
+          "gloss": "Ophrah (of Manasseh)",
+          "description": "A town in the territory of Manasseh."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Hapharaim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.6086827",
+      "lon": "35.28826433"
+    },
+    "recogito": {
+      "lat": "31.95388",
+      "lon": "35.2998"
+    },
+    "vizbible": {
+      "lat": "32.6086827",
+      "lon": "35.28826433"
+    }
+  },
+  "key_references": [
+    "07009005",
+    "07006011",
+    "07008027"
+  ],
+  "references": [
+    "06019019",
+    "07006011",
+    "07006024",
+    "07008027",
+    "07008032",
+    "07009005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190190012"
+      ],
+      [
+        "o070060110082"
+      ],
+      [
+        "o070060240142"
+      ],
+      [
+        "o070080270082"
+      ],
+      [
+        "o070080320112"
+      ],
+      [
+        "o070090050041"
+      ]
+    ]
+  }
+}

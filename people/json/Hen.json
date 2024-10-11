@@ -1,0 +1,71 @@
+{
+  "id": "person:Hen",
+  "primary_id": "person:Josiah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5804|Hen|TyndaleBibleDictionary",
+      "5803|Hen (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002377002001000"
+    ],
+    "tipnr": [
+      "Hen|Josiah@Zec.6.10-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zephaniah.4",
+  "ubsdbh": [
+    "002377002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hen (Josiah)",
+      "alternate_labels": [
+        "Josiah (Zechariah 6:10)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Josiah (Zechariah 6:10)",
+          "article": "person:Hen",
+          "description": "Hen, also known as Josiah, lived during the time of exile and return and is mentioned as the son of Zephaniah in Zechariah 6:10 and 6:14."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Josiah.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֵן"
+    ]
+  },
+  "key_references": [
+    "38006014"
+  ],
+  "references": [
+    "38006014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o380060140063"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o380060150062"
+      ],
+      [
+        "o380060150151"
+      ]
+    ]
+  }
+}

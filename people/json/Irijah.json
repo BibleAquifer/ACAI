@@ -1,0 +1,83 @@
+{
+  "id": "person:Irijah",
+  "primary_id": "person:Irijah",
+  "alternate_sources": {
+    "aquifer": [
+      "6047|Irijah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003085001001000"
+    ],
+    "tipnr": [
+      "Irijah@Jer.37.13-"
+    ],
+    "vizbible": [
+      "recyJWeCQQTnVBmYs"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shelemiah.9",
+  "ubsdbh": [
+    "003085001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Irijah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Irijah",
+          "article": "person:Irijah",
+          "description": "A guard in the time of the divided kingdom who arrested the prophet Jeremiah, son of Shelemiah, mentioned in Jeremiah 37:13."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִרְאִיָּיה"
+    ]
+  },
+  "key_references": [
+    "24037013",
+    "24037014"
+  ],
+  "references": [
+    "24037013",
+    "24037014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240370130091"
+      ],
+      [
+        "o240370140121"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240370140142"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240370130191",
+          "o240370130201",
+          "o240370130202",
+          "o240370130211",
+          "o240370130221"
+        ]
+      }
+    ]
+  }
+}

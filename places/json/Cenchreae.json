@@ -1,0 +1,108 @@
+{
+  "id": "place:Cenchreae",
+  "primary_id": "place:Cenchreae",
+  "alternate_sources": {
+    "aquifer": [
+      "4454|Cenchrea, Cenchreae|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aa31dd3"
+    ],
+    "ubsdgnt": [
+      "93.499"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21953"
+    ],
+    "tipnr": [
+      "Cenchreae@Act.18.18-Rom"
+    ],
+    "vizbible": [
+      "recASJJNAAnhodvWY"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1738703"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.499"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cenchreae",
+      "alternate_labels": [
+        "Cenchrea"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cenchreae",
+          "gloss": "Cenchreae",
+          "description": "A seaport of the city of Corinth; home of Phoebe who was a servant of the church there."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Corinth"
+  ],
+  "subregion_of": [
+    "place:Achaia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Κεγχρεαί"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.88460365",
+      "lon": "22.99335957"
+    },
+    "recogito": {
+      "lat": "37.88239",
+      "lon": "22.992532"
+    },
+    "vizbible": {
+      "lat": "37.88239",
+      "lon": "22.992532"
+    }
+  },
+  "key_references": [
+    "45016001",
+    "44018018"
+  ],
+  "references": [
+    "44018018",
+    "45016001",
+    "45016027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018018023"
+      ],
+      [
+        "n45016001015"
+      ]
+    ]
+  }
+}

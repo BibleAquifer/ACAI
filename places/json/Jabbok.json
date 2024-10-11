@@ -1,0 +1,117 @@
+{
+  "id": "place:Jabbok",
+  "primary_id": "place:Jabbok",
+  "alternate_sources": {
+    "aquifer": [
+      "6146|Jabbok|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aca7bd9"
+    ],
+    "ubsdbh": [
+      "002760001001000"
+    ],
+    "tipnr": [
+      "Jabbok@Gen.32.22-Jdg"
+    ],
+    "vizbible": [
+      "recDmxCwEt4vEy5RQ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q798460"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002760001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jabbok",
+      "alternate_labels": [
+        "Jabbok Valley",
+        "Jabbok River",
+        "Wadi Jabbok",
+        "River Jabbok"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jabbok",
+          "gloss": "Jabbok",
+          "description": "A river flowing west from its source near Rabbath-Ammon to empty into the Jordan River about 40 km north of the Dead Sea."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יַבֹּק"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.193237",
+      "lon": "35.676305"
+    },
+    "vizbible": {
+      "lat": "32.193237",
+      "lon": "35.676305"
+    }
+  },
+  "key_references": [
+    "05003016",
+    "01032023"
+  ],
+  "references": [
+    "01032023",
+    "04021024",
+    "05002037",
+    "05003016",
+    "06012002",
+    "07011013",
+    "07011022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010320230181"
+      ],
+      [
+        "o040210240101"
+      ],
+      [
+        "o050020370111"
+      ],
+      [
+        "o050030160131"
+      ],
+      [
+        "o060120020181"
+      ],
+      [
+        "o070110130172"
+      ],
+      [
+        "o070110220082"
+      ]
+    ]
+  }
+}

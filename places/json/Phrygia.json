@@ -1,0 +1,91 @@
+{
+  "id": "place:Phrygia",
+  "primary_id": "place:Phrygia",
+  "alternate_sources": {
+    "aquifer": [
+      "7723|Phrygia|TyndaleBibleDictionary",
+      "132069|Phrygia|BiblicaStudyNotesKeyTerms"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/991386"
+    ],
+    "tipnr": [
+      "Phrygia@Act.2.10-1Ti"
+    ],
+    "vizbible": [
+      "reco41jQa2HDPSWx2"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Phrygia",
+      "alternate_labels": [
+        "Phrygian",
+        "[ ]"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Phrygia",
+          "gloss": "Phrygia",
+          "description": "A district in central Asia Minor through which Paul traveled during his missionary journeys."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Asia",
+    "place:Galatia"
+  ],
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.76986723761415",
+      "lon": "29.06450110237073"
+    }
+  },
+  "key_references": [
+    "44016006",
+    "44002010",
+    "44018023"
+  ],
+  "references": [
+    "44002010",
+    "44016006",
+    "44018023",
+    "54006021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44002010001"
+      ],
+      [
+        "n44016006004"
+      ],
+      [
+        "n44018023012"
+      ]
+    ]
+  }
+}

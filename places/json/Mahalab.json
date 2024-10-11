@@ -1,0 +1,87 @@
+{
+  "id": "place:Mahalab",
+  "primary_id": "place:Ahlab",
+  "alternate_sources": {
+    "aquifer": [
+      "6861|Mahalab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002087001003000"
+    ],
+    "tipnr": [
+      "Mahalab|Ahlab@Jdg.1.31-Jdg"
+    ],
+    "vizbible": [
+      "rec7eWoWlxhVZAjX8"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002087001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mahalab",
+      "alternate_labels": [
+        "Ahlab",
+        "coast",
+        "region",
+        "Mehebel",
+        "Hebel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mahalab",
+          "gloss": "Mahalab",
+          "description": "A border town in the territory of Asher; sometimes not translated as a place."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ahlab"
+  ],
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.02498036",
+      "lon": "35.44544658"
+    },
+    "vizbible": {
+      "lat": "33.02498036",
+      "lon": "35.44544658"
+    }
+  },
+  "key_references": [
+    "06019029"
+  ],
+  "references": [
+    "06019029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190290152"
+      ]
+    ]
+  }
+}

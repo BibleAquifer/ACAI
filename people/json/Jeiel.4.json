@@ -1,0 +1,80 @@
+{
+  "id": "person:Jeiel.4",
+  "primary_id": "person:Jeiel.4",
+  "alternate_sources": {
+    "aquifer": [
+      "6299|Jeiel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jeiel@1Ch.15.18-",
+      "Jehiah|Jeiel@1Ch.15.18-"
+    ],
+    "vizbible": [
+      "recNbOUsXSye825Ip"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Priest"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeiel",
+      "alternate_labels": [
+        "Jehiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeiel",
+          "article": "person:Jeiel.4",
+          "description": "A liturgical musician and gatekeeper for the Ark of the Covenant who lived during the divided kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehiah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13015018",
+    "13015021",
+    "13015024",
+    "13016005"
+  ],
+  "references": [
+    "13015018",
+    "13015021",
+    "13015024",
+    "13016005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130150180182"
+      ],
+      [
+        "o130150210062"
+      ],
+      [
+        "o130150240172"
+      ],
+      [
+        "o130160050051"
+      ],
+      [
+        "o130160050132"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130150210112"
+      ]
+    ]
+  }
+}

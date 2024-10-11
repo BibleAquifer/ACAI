@@ -1,0 +1,153 @@
+{
+  "id": "person:Lazarus.2",
+  "primary_id": "person:Lazarus.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6700|Lazarus|TyndaleBibleDictionary",
+      "26818|Lazarus|UWTranslationWords",
+      "132029|Mary, Martha and Lazarus|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.225a"
+    ],
+    "tipnr": [
+      "Lazarus@Jhn.11.1-"
+    ],
+    "vizbible": [
+      "recy6ANqZT7KobHD2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:FatherOfLazarus",
+  "siblings": [
+    "person:Martha",
+    "person:Mary.3"
+  ],
+  "roles": [
+    "Disciple"
+  ],
+  "ubsdgnt": [
+    "93.225a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lazarus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lazarus",
+          "article": "person:Lazarus.2",
+          "description": "A New Testament friend of Jesus from Bethany who was the brother of Mary and Martha. He was best known for being resurrected by Jesus after being dead for four days."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Λάζαρος"
+    ]
+  },
+  "key_references": [
+    "43011001",
+    "43011043",
+    "43012001"
+  ],
+  "references": [
+    "43011001",
+    "43011002",
+    "43011005",
+    "43011011",
+    "43011014",
+    "43011043",
+    "43012001",
+    "43012002",
+    "43012009",
+    "43012010",
+    "43012017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43011001005"
+      ],
+      [
+        "n43011002020"
+      ],
+      [
+        "n43011005013"
+      ],
+      [
+        "n43011011008"
+      ],
+      [
+        "n43011014008"
+      ],
+      [
+        "n43011043007"
+      ],
+      [
+        "n43012001014"
+      ],
+      [
+        "n43012002012"
+      ],
+      [
+        "n43012009022"
+      ],
+      [
+        "n43012010008"
+      ],
+      [
+        "n43012017011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43011011017"
+      ],
+      [
+        "n43011013008"
+      ],
+      [
+        "n43011015014"
+      ],
+      [
+        "n43011017006"
+      ],
+      [
+        "n43012001015"
+      ],
+      [
+        "n43012009024"
+      ],
+      [
+        "n43012011004"
+      ],
+      [
+        "n43012017018"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43011006005"
+      ],
+      [
+        "n43011012008",
+        "n43011012009"
+      ],
+      [
+        "n43011043008"
+      ],
+      [
+        "n43011044003"
+      ]
+    ]
+  }
+}

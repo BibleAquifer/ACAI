@@ -1,0 +1,82 @@
+{
+  "id": "person:Jehoshaphat",
+  "primary_id": "person:Jehoshaphat",
+  "alternate_sources": {
+    "aquifer": [
+      "6284|Jehoshaphat (Person)|TyndaleBibleDictionary",
+      "6285|Jehoshaphat, Valley of|TyndaleBibleDictionary",
+      "26750|Jehoshaphat|UWTranslationWords",
+      "132429|Jehoshaphat|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002840001001000"
+    ],
+    "tipnr": [
+      "Jehoshaphat@2Sa.8.16-1Ch"
+    ],
+    "vizbible": [
+      "recZCo0CjM2eXOicO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ahilud",
+  "siblings": [
+    "person:Baana"
+  ],
+  "roles": [
+    "Official",
+    "Scribe"
+  ],
+  "ubsdbh": [
+    "002840001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehoshaphat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoshaphat",
+          "article": "person:Jehoshaphat",
+          "description": "A son of Ahilud and one of king David’s officials. He served as a recorder during the united kingdom of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹושָׁפָט",
+      "יְהוֹשָׁפָט"
+    ]
+  },
+  "key_references": [
+    "10008016",
+    "10020024",
+    "11004003"
+  ],
+  "references": [
+    "10008016",
+    "10020024",
+    "11004003",
+    "13018015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080160062"
+      ],
+      [
+        "o100200240042"
+      ],
+      [
+        "o110040030061"
+      ],
+      [
+        "o130180150062"
+      ]
+    ]
+  }
+}

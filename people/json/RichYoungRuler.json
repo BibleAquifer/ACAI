@@ -1,0 +1,148 @@
+{
+  "id": "person:RichYoungRuler",
+  "primary_id": "person:RichYoungRuler",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rich Young Ruler",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rich Young Ruler",
+          "description": "A rich young ruler who had a conversation with Jesus about eternal life."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "references": [
+    "40019016",
+    "40019020",
+    "41010017",
+    "41010020",
+    "42018021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40019016003"
+      ],
+      [
+        "n40019020004"
+      ],
+      [
+        "n41010017007"
+      ],
+      [
+        "n41010020001"
+      ],
+      [
+        "n42018021001"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40019016003"
+      ],
+      [
+        "n40019018001"
+      ],
+      [
+        "n42018018005"
+      ],
+      [
+        "n42018018006"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "respectful",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40019016007",
+          "n40019016008",
+          "n40019016009",
+          "n40019016010",
+          "n40019016011",
+          "n40019016012",
+          "n40019016013",
+          "n40019016014"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n40019018003"
+        ]
+      },
+      {
+        "delivery": "upset",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40019020005",
+          "n40019020006",
+          "n40019020007",
+          "n40019020008",
+          "n40019020009",
+          "n40019020010"
+        ]
+      },
+      {
+        "delivery": "respectful",
+        "quote_type": "Dialogue",
+        "words": [
+          "n41010017013",
+          "n41010017014",
+          "n41010017015",
+          "n41010017016",
+          "n41010017017",
+          "n41010017018",
+          "n41010017019",
+          "n41010017020"
+        ]
+      },
+      {
+        "delivery": "upset",
+        "quote_type": "Dialogue",
+        "words": [
+          "n41010020005",
+          "n41010020006",
+          "n41010020007",
+          "n41010020008",
+          "n41010020009",
+          "n41010020010",
+          "n41010020011"
+        ]
+      },
+      {
+        "delivery": "respectful",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42018018007",
+          "n42018018008",
+          "n42018018009",
+          "n42018018010",
+          "n42018018011",
+          "n42018018012",
+          "n42018018013"
+        ]
+      },
+      {
+        "delivery": "upset",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42018021004",
+          "n42018021005",
+          "n42018021006",
+          "n42018021007",
+          "n42018021008"
+        ]
+      }
+    ]
+  }
+}

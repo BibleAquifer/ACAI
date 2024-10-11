@@ -1,0 +1,108 @@
+{
+  "id": "place:Seleucia",
+  "primary_id": "place:Seleucia",
+  "alternate_sources": {
+    "aquifer": [
+      "8217|Seleucia|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6d306d"
+    ],
+    "ubsdgnt": [
+      "93.576"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21501"
+    ],
+    "tipnr": [
+      "Seleucia@Act.13.4"
+    ],
+    "vizbible": [
+      "recf5gqGGUdNN4pas"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1605894"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.576"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seleucia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Seleucia",
+          "gloss": "Seleucia",
+          "description": "The port city of Antioch in Syria; Paul and Barnabas departed for Cyprus from here."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:GreatSea",
+    "place:Antioch"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Σελεύκεια"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.1110175",
+      "lon": "35.92680788"
+    },
+    "recogito": {
+      "lat": "36.11705",
+      "lon": "35.93815"
+    },
+    "vizbible": {
+      "lat": "36.11705",
+      "lon": "35.93815"
+    },
+    "biblica-maps": {
+      "lat": "36.12126",
+      "lon": "35.9286"
+    }
+  },
+  "key_references": [
+    "44013004"
+  ],
+  "references": [
+    "44013004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44013004011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44013004012"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "person:Geber",
+  "primary_id": "person:Geber",
+  "alternate_sources": {
+    "aquifer": [
+      "5392|Geber|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001287004001000"
+    ],
+    "tipnr": [
+      "Geber@1Ki.4.19"
+    ],
+    "vizbible": [
+      "rec0VAUzdYVSLvFw6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uri.2",
+  "offspring": [
+    "person:Ben-geber"
+  ],
+  "ubsdbh": [
+    "001287004001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Geber",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Geber",
+          "article": "person:Geber",
+          "description": "Geber, a district governor of Gilead and son of Uri, is mentioned in 1 Kings 4:19 during the time of Israel's united kingdom under Solomon."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֶּבֶר",
+      "גֶּ֫בֶר"
+    ]
+  },
+  "key_references": [
+    "11004019"
+  ],
+  "references": [
+    "11004019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040190011"
+      ]
+    ]
+  }
+}

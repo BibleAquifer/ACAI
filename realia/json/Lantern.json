@@ -1,0 +1,52 @@
+{
+  "id": "realia:Lantern",
+  "primary_id": "realia:Lantern",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.103"
+    ],
+    "ubsrealia": [
+      "realia:5.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.103"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lantern",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lantern",
+          "article": "realia:Lantern",
+          "description": "A portable, covered light source with a small fire protected from wind and weather."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "φανός"
+    ]
+  },
+  "key_references": [
+    "43018003",
+    "66004005",
+    "66008010"
+  ],
+  "references": [
+    "43018003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43018003019"
+      ]
+    ]
+  }
+}

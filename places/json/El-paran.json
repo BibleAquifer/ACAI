@@ -1,0 +1,90 @@
+{
+  "id": "place:El-paran",
+  "primary_id": "place:El-paran",
+  "alternate_sources": {
+    "aquifer": [
+      "5051|El-Paran|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000333001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3841956"
+    ],
+    "tipnr": [
+      "El-paran@Gen.14.6"
+    ],
+    "vizbible": [
+      "rec6KmA4n3RW8cAsW"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000333001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "El-paran",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:El-paran",
+          "gloss": "El-paran",
+          "description": "A location on the edge of the wilderness up to where Kedorlaomer defeated the Horites; probably to be identified with Elath (ABD)."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Elath"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֵיל פָּארָן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "island",
+      "region"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.151667",
+      "lon": "33.541944"
+    },
+    "recogito": {
+      "lat": "-31.73197",
+      "lon": "-60.5238"
+    },
+    "vizbible": {
+      "lat": "29.151667",
+      "lon": "33.541944"
+    }
+  },
+  "key_references": [
+    "01014006"
+  ],
+  "references": [
+    "01014006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140060061",
+        "o010140060071"
+      ]
+    ]
+  }
+}

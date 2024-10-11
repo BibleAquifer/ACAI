@@ -1,0 +1,53 @@
+{
+  "id": "realia:Finger",
+  "primary_id": "realia:Finger",
+  "alternate_sources": {
+    "aquifer": [
+      "5259|Finger (Measure)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000624001003000"
+    ],
+    "ubsrealia": [
+      "realia:11.4.1.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "000624001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Finger",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Finger",
+          "article": "realia:Finger",
+          "description": "A ancient unit of measurement equal to the thickness of four fingers."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶצְבַּע"
+    ]
+  },
+  "key_references": [
+    "24052021"
+  ],
+  "references": [
+    "24052021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240520210161"
+      ]
+    ]
+  }
+}

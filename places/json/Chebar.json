@@ -1,0 +1,118 @@
+{
+  "id": "place:Chebar",
+  "primary_id": "place:Chebar",
+  "alternate_sources": {
+    "aquifer": [
+      "6527|Kebar|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a3d2f0a"
+    ],
+    "ubsdbh": [
+      "003234002001000"
+    ],
+    "tipnr": [
+      "Chebar@Ezk.1.1-"
+    ],
+    "vizbible": [
+      "recNZWcqhjsNyta44"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003234002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kebar",
+      "alternate_labels": [
+        "Chebar Canal",
+        "Kebar River",
+        "River Chebar",
+        "Chebar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chebar",
+          "gloss": "Kebar",
+          "description": "A river in Babylonia where Ezekiel received one of his visions while in exile (Ezekiel 1:1)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כְּבָר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.159129",
+      "lon": "44.06293"
+    },
+    "vizbible": {
+      "lat": "33.159129",
+      "lon": "44.06293"
+    }
+  },
+  "key_references": [
+    "26001001",
+    "26003015"
+  ],
+  "references": [
+    "26001001",
+    "26001003",
+    "26003015",
+    "26003023",
+    "26010015",
+    "26010020",
+    "26010022",
+    "26043003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260010010121"
+      ],
+      [
+        "o260010030141"
+      ],
+      [
+        "o260030150091"
+      ],
+      [
+        "o260030230151"
+      ],
+      [
+        "o260100150081"
+      ],
+      [
+        "o260100200091"
+      ],
+      [
+        "o260100220091"
+      ],
+      [
+        "o260430030181"
+      ]
+    ]
+  }
+}

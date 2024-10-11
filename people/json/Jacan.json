@@ -1,0 +1,70 @@
+{
+  "id": "person:Jacan",
+  "primary_id": "person:Jacan",
+  "alternate_sources": {
+    "aquifer": [
+      "6154|Jacan, Jachan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002995001001000"
+    ],
+    "tipnr": [
+      "Jacan@1Ch.5.13"
+    ],
+    "vizbible": [
+      "recWNlHedaApEEkkK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abihail.3",
+  "siblings": [
+    "person:Michael.2",
+    "person:Meshullam.3",
+    "person:Sheba.5",
+    "person:Jorai",
+    "person:Zia",
+    "person:Eber.2"
+  ],
+  "tribe": "group:Gad",
+  "ubsdbh": [
+    "002995001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jacan",
+      "alternate_labels": [
+        "Jakan",
+        "Jachan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jacan",
+          "article": "person:Jacan",
+          "description": "A man of the tribe of Gad during the divided kingdom, mentioned in 1 Chronicles 5:13, son of Abihail and brother to Michael, Meshullam, Sheba, Jorai, Zia, and Eber."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יַעְכָּן"
+    ]
+  },
+  "key_references": [
+    "13005013"
+  ],
+  "references": [
+    "13005013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050130082"
+      ]
+    ]
+  }
+}

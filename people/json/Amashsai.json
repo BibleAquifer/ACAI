@@ -1,0 +1,66 @@
+{
+  "id": "person:Amashsai",
+  "primary_id": "person:Maasai",
+  "alternate_sources": {
+    "aquifer": [
+      "3544|Amashai, Amashsai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005529001001000"
+    ],
+    "tipnr": [
+      "Amashsai|Maasai@1Ch.9.12-Neh"
+    ],
+    "vizbible": [
+      "recHrARY0CEOkgMg7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Adiel.2",
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005529001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amashsai (Maasai)",
+      "alternate_labels": [
+        "Maasiai",
+        "Maasai",
+        "Amashai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Maasai",
+          "article": "person:Amashsai",
+          "description": "A man of the tribe of Levi living at the time of exile and return, first mentioned in 1 Chronicles 9:12 and also called Amashai in Nehemiah 11:13."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Maasai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֲנָב"
+    ]
+  },
+  "key_references": [
+    "16011013"
+  ],
+  "references": [
+    "16011013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110130072"
+      ]
+    ]
+  }
+}

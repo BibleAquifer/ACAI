@@ -1,0 +1,71 @@
+{
+  "id": "person:Ashkenaz",
+  "primary_id": "person:Ashkenaz",
+  "alternate_sources": {
+    "aquifer": [
+      "3805|Ashkenaz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000749001001000"
+    ],
+    "tipnr": [
+      "Ashkenaz@Gen.10.3-1Ch"
+    ],
+    "vizbible": [
+      "rec5rfVTS2lfddsE6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gomer",
+  "siblings": [
+    "person:Riphath",
+    "person:Togarmah"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "000749001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ashkenaz",
+      "alternate_labels": [
+        "Ashchenaz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ashkenaz",
+          "article": "person:Ashkenaz",
+          "description": "A man from the time of the patriarchs, son of Gomer and descendant of Japheth, mentioned in Genesis 10:3."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַשְׁכֲּנַז",
+      "אַשְׁכְּנַז"
+    ]
+  },
+  "key_references": [
+    "01010003",
+    "13001006"
+  ],
+  "references": [
+    "01010003",
+    "13001006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100030031"
+      ],
+      [
+        "o130010060031"
+      ]
+    ]
+  }
+}

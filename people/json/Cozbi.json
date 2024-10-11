@@ -1,0 +1,73 @@
+{
+  "id": "person:Cozbi",
+  "primary_id": "person:Cozbi",
+  "alternate_sources": {
+    "aquifer": [
+      "4678|Cozbi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003278001001000"
+    ],
+    "tipnr": [
+      "Cozbi@Num.25.15-"
+    ],
+    "vizbible": [
+      "rec6NLgbXiucMaywE"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Zur",
+  "ubsdbh": [
+    "003278001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cozbi",
+      "alternate_labels": [
+        "Kozbi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cozbi",
+          "article": "person:Cozbi",
+          "description": "Cozbi was a Midianite woman, daughter of Zur, living during the time of Egypt and the wilderness."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כָּזְבִּי",
+      "כָּזְבִי"
+    ]
+  },
+  "key_references": [
+    "04025015",
+    "04025018"
+  ],
+  "references": [
+    "04025015",
+    "04025018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040250150051"
+      ],
+      [
+        "o040250180141"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040250180192"
+      ]
+    ]
+  }
+}

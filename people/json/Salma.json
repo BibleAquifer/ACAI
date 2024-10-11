@@ -1,0 +1,69 @@
+{
+  "id": "person:Salma",
+  "primary_id": "person:Salma",
+  "alternate_sources": {
+    "aquifer": [
+      "8108|Salma|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007045001002000"
+    ],
+    "tipnr": [
+      "Salma@1Ch.2.51-"
+    ],
+    "vizbible": [
+      "recV8oOmvulOw2wSz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hur.2",
+  "siblings": [
+    "person:Uri",
+    "person:Shobal.2",
+    "person:Hareph",
+    "person:Jezreel",
+    "person:Ishma",
+    "person:Idbash",
+    "person:Hazzelelponi",
+    "person:Penuel",
+    "person:Ezer.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007045001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Salma",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Salma",
+          "article": "person:Salma",
+          "description": "Salma, a man of the tribe of Judah living during the time of Egypt and the wilderness, was the son of Hur and is first mentioned in 1 Chronicles 2:51."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002051",
+    "13002054"
+  ],
+  "references": [
+    "13002051",
+    "13002054"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020510011"
+      ],
+      [
+        "o130020540021"
+      ]
+    ]
+  }
+}

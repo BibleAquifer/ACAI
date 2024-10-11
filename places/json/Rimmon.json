@@ -1,0 +1,96 @@
+{
+  "id": "place:Rimmon",
+  "primary_id": "place:Ain",
+  "alternate_sources": {
+    "aquifer": [
+      "8042|Rimmon (Place)|TyndaleBibleDictionary",
+      "8043|Rimmon, Rock of|TyndaleBibleDictionary",
+      "27036|Rimmon|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006818002001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/282234"
+    ],
+    "tipnr": [
+      "Rimmon|Ain@Num.34.11-Zec"
+    ],
+    "vizbible": [
+      "recZuw7dAJ1x1EUfb"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006818002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rimmon (of Simeon)",
+      "alternate_labels": [
+        "Ain",
+        "Remmon",
+        "Rimmon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rimmon.2",
+          "gloss": "Rimmon (of Simeon)",
+          "description": "A town in the territory of Simeon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ain"
+  ],
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.353071",
+      "lon": "36.385705"
+    },
+    "recogito": {
+      "lat": "31.93342",
+      "lon": "35.29821"
+    },
+    "vizbible": {
+      "lat": "34.353071",
+      "lon": "36.385705"
+    }
+  },
+  "key_references": [
+    "06015032"
+  ],
+  "references": [
+    "06015032",
+    "06019007",
+    "13004032",
+    "38014010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o380140100062"
+      ]
+    ]
+  }
+}

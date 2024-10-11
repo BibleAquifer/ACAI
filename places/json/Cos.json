@@ -1,0 +1,104 @@
+{
+  "id": "place:Cos",
+  "primary_id": "place:Cos",
+  "alternate_sources": {
+    "aquifer": [
+      "4665|Cos|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a398e5d"
+    ],
+    "ubsdgnt": [
+      "93.513"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/41156"
+    ],
+    "tipnr": [
+      "Cos@Act.21.1"
+    ],
+    "vizbible": [
+      "recgeNFbkdcvVBH0o"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q187027"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.513"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cos",
+      "alternate_labels": [
+        "Coos",
+        "Kos"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cos",
+          "gloss": "Cos",
+          "description": "An island in the Aegean Sea where Paul's ship made a stop on his journey to Jerusalem."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Rhodes"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Κώς"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "island"
+    ],
+    "vizbible": [
+      "Island"
+    ],
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.80467006",
+      "lon": "27.08994041"
+    },
+    "recogito": {
+      "lat": "36.844",
+      "lon": "27.17"
+    },
+    "vizbible": {
+      "lat": "36.844",
+      "lon": "27.17"
+    },
+    "biblica-maps": {
+      "lat": "36.84377",
+      "lon": "27.17979"
+    }
+  },
+  "key_references": [
+    "44021001"
+  ],
+  "references": [
+    "44021001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44021001013"
+      ]
+    ]
+  }
+}

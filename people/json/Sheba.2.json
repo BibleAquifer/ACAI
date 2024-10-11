@@ -1,0 +1,80 @@
+{
+  "id": "person:Sheba.2",
+  "primary_id": "person:Sheba.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8313|Sheba (Person)|TyndaleBibleDictionary",
+      "8315|Sheba, Queen of|TyndaleBibleDictionary",
+      "27080|Sheba|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007147001001000"
+    ],
+    "tipnr": [
+      "Sheba@Gen.10.28-1Ch"
+    ],
+    "vizbible": [
+      "recsAyydpaHIaPZFn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joktan",
+  "siblings": [
+    "person:Almodad",
+    "person:Sheleph",
+    "person:Hazarmaveth",
+    "person:Jerah",
+    "person:Hadoram.2",
+    "person:Uzal",
+    "person:Diklah",
+    "person:Obal",
+    "person:Abimael",
+    "person:Ophir",
+    "person:Havilah.2",
+    "person:Jobab"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "007147001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheba (Genesis 10:28)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sheba (Genesis 10:28)",
+          "article": "person:Sheba.2",
+          "description": "Sheba was a man living at the time of the patriarchs, mentioned in Genesis 10:28 as the son of Joktan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שְׁבָאִים",
+      "שְׁבָאִי"
+    ]
+  },
+  "key_references": [
+    "01010028",
+    "13001022"
+  ],
+  "references": [
+    "01010028",
+    "13001022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100280061"
+      ],
+      [
+        "o130010220061"
+      ]
+    ]
+  }
+}

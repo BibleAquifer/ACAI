@@ -1,0 +1,32 @@
+{
+  "id": "flora:StarOfBethlehem",
+  "primary_id": "flora:StarOfBethlehem",
+  "alternate_sources": {
+    "ubsflora": [
+      "flora:3.5.5"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Star of Bethlehem",
+      "alternate_labels": [
+        "Dove's Dung"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Star of Bethlehem",
+          "article": "flora:StarOfBethlehem",
+          "description": "A plant with star-shaped flowers."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12006025"
+  ]
+}

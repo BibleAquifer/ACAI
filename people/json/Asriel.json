@@ -1,0 +1,68 @@
+{
+  "id": "person:Asriel",
+  "primary_id": "person:Asriel",
+  "alternate_sources": {
+    "aquifer": [
+      "3831|Asriel, Asrielite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Asriel@Num.26.31-Jos"
+    ],
+    "vizbible": [
+      "rec9Ntsj6yJTRB6DT"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gilead",
+  "siblings": [
+    "person:Abiezer",
+    "person:Helek",
+    "person:Shechem.2",
+    "person:Shemida",
+    "person:Hepher"
+  ],
+  "tribe": "group:Manasseh",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Asriel",
+      "alternate_labels": [
+        "Asrielite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Asriel",
+          "article": "person:Asriel",
+          "description": "A son of Gilead from the tribe of Manasseh, mentioned in Numbers 26:31."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Asriel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026031",
+    "06017002"
+  ],
+  "references": [
+    "04026031",
+    "06017002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260310012"
+      ],
+      [
+        "o040260310032"
+      ],
+      [
+        "o060170020111"
+      ]
+    ]
+  }
+}

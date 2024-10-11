@@ -1,0 +1,81 @@
+{
+  "id": "place:Rakkon",
+  "primary_id": "place:Rakkon",
+  "alternate_sources": {
+    "aquifer": [
+      "7919|Rakkon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aa3e5ae"
+    ],
+    "ubsdbh": [
+      "006928001001000"
+    ],
+    "tipnr": [
+      "Rakkon@Jos.19.46"
+    ],
+    "vizbible": [
+      "recFlw9QjiTit8Kdt"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006928001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rakkon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rakkon",
+          "gloss": "Rakkon",
+          "description": "A location in the territory of Dan."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Dan",
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "river",
+      "special"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.132898",
+      "lon": "34.788144"
+    },
+    "vizbible": {
+      "lat": "32.132898",
+      "lon": "34.788144"
+    }
+  },
+  "key_references": [
+    "06019046"
+  ],
+  "references": [
+    "06019046"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190460033"
+      ]
+    ]
+  }
+}

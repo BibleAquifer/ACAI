@@ -1,0 +1,77 @@
+{
+  "id": "person:Zedekiah.6",
+  "primary_id": "person:Zedekiah.6",
+  "alternate_sources": {
+    "aquifer": [
+      "9170|Zedekiah|TyndaleBibleDictionary",
+      "27229|Zedekiah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006132001004000"
+    ],
+    "tipnr": [
+      "Zedekiah@Jer.29.21-"
+    ],
+    "vizbible": [
+      "recBialedQuyBn3jJ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Maaseiah.19",
+  "roles": [
+    "Prophet"
+  ],
+  "ubsdbh": [
+    "006132001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zedekiah (Jeremiah 29:21)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zedekiah (Jeremiah 29:21)",
+          "article": "person:Zedekiah.6",
+          "description": "Zedekiah, son of Maaseiah, was a man living during the time of the divided kingdom, mentioned in Jeremiah 29:21."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24029021",
+    "24029022"
+  ],
+  "references": [
+    "24029021",
+    "24029022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240290210121"
+      ],
+      [
+        "o240290220122"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240290210152"
+      ],
+      [
+        "o240290230031"
+      ],
+      [
+        "o240290230062"
+      ],
+      [
+        "o240290230102"
+      ]
+    ]
+  }
+}

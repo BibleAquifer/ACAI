@@ -1,0 +1,84 @@
+{
+  "id": "person:Ahilud",
+  "primary_id": "person:Ahilud",
+  "alternate_sources": {
+    "aquifer": [
+      "3446|Ahilud|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000270001001000",
+      "000270001002000"
+    ],
+    "tipnr": [
+      "Ahilud@2Sa.8.16-1Ch"
+    ],
+    "vizbible": [
+      "recGmUGFrSEiOXDnZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Jehoshaphat",
+    "person:Baana"
+  ],
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "000270001001000",
+    "000270001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahilud",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahilud",
+          "article": "person:Ahilud",
+          "description": "An official (and perhaps a recorder) during the reign of King David. He was the father of Jehoshaphat."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִילוּד"
+    ]
+  },
+  "key_references": [
+    "10008016",
+    "10020024",
+    "11004003",
+    "13018015"
+  ],
+  "references": [
+    "10008016",
+    "10020024",
+    "11004003",
+    "11004012",
+    "13018015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080160081"
+      ],
+      [
+        "o100200240061"
+      ],
+      [
+        "o110040030081"
+      ],
+      [
+        "o110040120031"
+      ],
+      [
+        "o130180150081"
+      ]
+    ]
+  }
+}

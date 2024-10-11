@@ -1,0 +1,138 @@
+{
+  "id": "realia:Cornerstone",
+  "primary_id": "realia:Cornerstone",
+  "alternate_sources": {
+    "aquifer": [
+      "4657|Cornerstone|TyndaleBibleDictionary",
+      "26472|Cornerstone|UWTranslationWords",
+      "280179|cornerstone|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "7.44",
+      "79.107"
+    ],
+    "ubsrealia": [
+      "realia:3.1.1.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.44",
+    "79.107"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cornerstone",
+      "alternate_labels": [
+        "Important Stone",
+        "Capstone",
+        "Keystone"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cornerstone",
+          "article": "realia:Cornerstone",
+          "description": "A foundation stone at the corner of a building that is essential for its structure."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀκρογωνιαῖος",
+      "κεφαλή",
+      "γωνία"
+    ]
+  },
+  "key_references": [
+    "40021042",
+    "44004011",
+    "49002020"
+  ],
+  "references": [
+    "40006005",
+    "40021042",
+    "41012010",
+    "42020017",
+    "44004011",
+    "44026026",
+    "49002020",
+    "60002006",
+    "60002007",
+    "66007001",
+    "66020008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n49002020010"
+      ],
+      [
+        "n60002006010"
+      ],
+      [
+        "n40006005017"
+      ],
+      [
+        "n40021042019"
+      ],
+      [
+        "n41012010015"
+      ],
+      [
+        "n42020017021"
+      ],
+      [
+        "n44004011015"
+      ],
+      [
+        "n44026026023"
+      ],
+      [
+        "n60002007018"
+      ],
+      [
+        "n66007001010"
+      ],
+      [
+        "n66020008010"
+      ],
+      [
+        "n40021042018"
+      ],
+      [
+        "n41012010014"
+      ],
+      [
+        "n42020017020"
+      ],
+      [
+        "n44004011014"
+      ],
+      [
+        "n60002007017"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n41012010004"
+      ],
+      [
+        "n42020017011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42020017010"
+      ]
+    ]
+  }
+}

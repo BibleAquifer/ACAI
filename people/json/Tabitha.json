@@ -1,0 +1,109 @@
+{
+  "id": "person:Tabitha",
+  "primary_id": "person:Tabitha",
+  "alternate_sources": {
+    "aquifer": [
+      "8697|Tabitha|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Dorcas|Tabitha@Act.9.36-",
+      "Tabitha@Act.9.36-"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "roles": [
+    "Disciple"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tabitha",
+      "alternate_labels": [
+        "Dorcas"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tabitha",
+          "article": "person:Tabitha",
+          "description": "A Christian woman in the New Testament known for her good works and charity. The apostle Peter raised her from the dead."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Dorcas"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44009036",
+    "44009039",
+    "44009040"
+  ],
+  "references": [
+    "44009036",
+    "44009039",
+    "44009040"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44009036008"
+      ],
+      [
+        "n44009036012"
+      ],
+      [
+        "n44009039030"
+      ],
+      [
+        "n44009040018"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44009036009"
+      ],
+      [
+        "n44009040020"
+      ],
+      [
+        "n44009040025"
+      ],
+      [
+        "n44009041003"
+      ],
+      [
+        "n44009041006"
+      ],
+      [
+        "n44009041015"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44009036010"
+      ],
+      [
+        "n44009039028"
+      ],
+      [
+        "n44009040019"
+      ],
+      [
+        "n44009040027"
+      ],
+      [
+        "n44009040030"
+      ],
+      [
+        "n44009041016"
+      ]
+    ]
+  }
+}

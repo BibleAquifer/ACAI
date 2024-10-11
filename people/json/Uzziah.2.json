@@ -1,0 +1,63 @@
+{
+  "id": "person:Uzziah.2",
+  "primary_id": "person:Uzziah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8990|Uzziah|TyndaleBibleDictionary",
+      "27189|Uzziah|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Azariah|Uzziah@1Ch.6.24-",
+      "Uzziah@1Ch.6.24-"
+    ],
+    "vizbible": [
+      "recOUKNJKdvoZk8rD"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uriel",
+  "offspring": [
+    "person:Shaul.3"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uzziah (1 Chronicles 6:24)",
+      "alternate_labels": [
+        "Azariah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uzziah (1 Chronicles 6:24)",
+          "article": "person:Uzziah.2",
+          "description": "Uzziah, also known as Azariah, was a Levite during the divided kingdom, the son of Uriel and father of Shaul."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Azariah.23"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13006009",
+    "13006021"
+  ],
+  "references": [
+    "13006009",
+    "13006021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060090051"
+      ],
+      [
+        "o130060210061"
+      ]
+    ]
+  }
+}

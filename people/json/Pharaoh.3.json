@@ -1,0 +1,137 @@
+{
+  "id": "person:Pharaoh.3",
+  "primary_id": "person:Pharaoh.3",
+  "alternate_sources": {
+    "aquifer": [
+      "7694|Pharaoh|TyndaleBibleDictionary",
+      "26952|Pharaoh|UWTranslationWords",
+      "132196|Pharaoh|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "006021001001000"
+    ],
+    "tipnr": [
+      "Pharaoh@Gen.12.15-"
+    ],
+    "vizbible": [
+      "recd1WK44ltaGtsK0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King",
+    "Ruler"
+  ],
+  "tribe": "group:Egypt",
+  "ubsdbh": [
+    "006021001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pharaoh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pharaoh",
+          "article": "person:Pharaoh.3",
+          "description": "A ruler of the Egyptians during the time of the Abram."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01012017",
+    "01012018",
+    "01012020"
+  ],
+  "references": [
+    "01012015",
+    "01012017",
+    "01012018",
+    "01012020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010120150041"
+      ],
+      [
+        "o010120150081"
+      ],
+      [
+        "o010120150121"
+      ],
+      [
+        "o010120170041"
+      ],
+      [
+        "o010120180021"
+      ],
+      [
+        "o010120200031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010120160021"
+      ],
+      [
+        "o010120180042"
+      ],
+      [
+        "o010120190052"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010120180051",
+          "o010120180061",
+          "o010120180071",
+          "o010120180081",
+          "o010120180082",
+          "o010120180091",
+          "o010120180092",
+          "o010120180101",
+          "o010120180111",
+          "o010120180121",
+          "o010120180122",
+          "o010120180131",
+          "o010120180141",
+          "o010120180142",
+          "o010120180151",
+          "o010120190011",
+          "o010120190012",
+          "o010120190021",
+          "o010120190031",
+          "o010120190032",
+          "o010120190041",
+          "o010120190051",
+          "o010120190052",
+          "o010120190061",
+          "o010120190062",
+          "o010120190071",
+          "o010120190072",
+          "o010120190081",
+          "o010120190082",
+          "o010120190091",
+          "o010120190092",
+          "o010120190101",
+          "o010120190111",
+          "o010120190112",
+          "o010120190121",
+          "o010120190131",
+          "o010120190132"
+        ]
+      }
+    ]
+  }
+}

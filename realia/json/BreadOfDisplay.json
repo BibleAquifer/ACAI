@@ -1,0 +1,98 @@
+{
+  "id": "realia:BreadOfDisplay",
+  "primary_id": "realia:BreadOfDisplay",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003565001002000"
+    ],
+    "ubsrealia": [
+      "realia:4.3.5.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003565001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bread of Display",
+      "alternate_labels": [
+        "Bread of the Presence",
+        "Sacred Bread"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bread of Display",
+          "article": "realia:BreadOfDisplay",
+          "description": "Sacred bread placed on a special table in the temple as an offering to God."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לֶחֶם"
+    ]
+  },
+  "key_references": [
+    "02025030",
+    "09021007",
+    "11007048",
+    "14013011"
+  ],
+  "references": [
+    "02025030",
+    "02035013",
+    "02039036",
+    "09021007",
+    "11007048",
+    "14004019",
+    "14013011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020250300041"
+      ],
+      [
+        "o020350130091"
+      ],
+      [
+        "o020390360071"
+      ],
+      [
+        "o090210070121"
+      ],
+      [
+        "o110070480161"
+      ],
+      [
+        "o140040190151"
+      ],
+      [
+        "o140130110111"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090210070212"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090210070142"
+      ],
+      [
+        "o090210070172"
+      ]
+    ]
+  }
+}

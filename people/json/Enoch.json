@@ -1,0 +1,72 @@
+{
+  "id": "person:Enoch",
+  "primary_id": "person:Enoch",
+  "alternate_sources": {
+    "aquifer": [
+      "5088|Enoch (Person)|TyndaleBibleDictionary",
+      "26561|Enoch|UWTranslationWords",
+      "132174|Enoch|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002381001002000"
+    ],
+    "tipnr": [
+      "Enoch@Gen.4.17-"
+    ],
+    "vizbible": [
+      "recCoSSvTtFmv69oV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Cain",
+  "offspring": [
+    "person:Irad"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "002381001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Enoch",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Enoch",
+          "article": "person:Enoch",
+          "description": "Enoch, first mentioned in Genesis 4:17, was a man before the Flood, the son of Cain and father of Irad."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֲנֹוךְ",
+      "חֲנוֹךְ"
+    ]
+  },
+  "key_references": [
+    "01004017",
+    "01004018"
+  ],
+  "references": [
+    "01004017",
+    "01004018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040170081"
+      ],
+      [
+        "o010040170171"
+      ],
+      [
+        "o010040180022"
+      ]
+    ]
+  }
+}

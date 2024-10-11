@@ -1,0 +1,117 @@
+{
+  "id": "place:SiddimValley",
+  "primary_id": "place:SiddimValley",
+  "alternate_sources": {
+    "aquifer": [
+      "9003|Valley of Siddim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a4a5cce"
+    ],
+    "ubsdbh": [
+      "006986001001000"
+    ],
+    "tipnr": [
+      "Siddim_Valley@Gen.14.3-"
+    ],
+    "vizbible": [
+      "recahMgojQ1jVPK5m"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q14325705"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006986001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Siddim",
+      "alternate_labels": [
+        "Siddim",
+        "Siddim Valley",
+        "valley of the Dead Sea",
+        "Vale of Siddim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfSiddim",
+          "gloss": "Valley of Siddim",
+          "description": "A valley, part of the Jordan Valley, where the kings of Sodom and Gomorrah and their allies came together to fight the kings from the east (Genesis 14:1–10); after Sodom and Gomorrah were destroyed this valley turned into the Salt Sea."
+        }
+      ]
+    }
+  },
+  "associated_places": [
+    "place:SaltSea"
+  ],
+  "subregion_of": [
+    "place:JordanValley"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.235341",
+      "lon": "35.517624"
+    },
+    "vizbible": {
+      "lat": "31.235341",
+      "lon": "35.517624"
+    }
+  },
+  "key_references": [
+    "01014001"
+  ],
+  "references": [
+    "01014003",
+    "01014008",
+    "01014010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140030051"
+      ],
+      [
+        "o010140030062"
+      ],
+      [
+        "o010140080182"
+      ],
+      [
+        "o010140080192"
+      ],
+      [
+        "o010140100012"
+      ],
+      [
+        "o010140100022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140030071"
+      ]
+    ]
+  }
+}

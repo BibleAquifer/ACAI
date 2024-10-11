@@ -1,0 +1,82 @@
+{
+  "id": "place:Zeboim",
+  "primary_id": "place:Zeboim",
+  "alternate_sources": {
+    "aquifer": [
+      "9160|Zeboim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a7e3823"
+    ],
+    "ubsdbh": [
+      "006116001001000"
+    ],
+    "tipnr": [
+      "Zeboim@Neh.11.34"
+    ],
+    "vizbible": [
+      "recKbrWvKRrBilVEG"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006116001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zeboim",
+      "alternate_labels": [
+        "Zeboyim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zeboim",
+          "gloss": "Zeboim",
+          "description": "A town or village in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.1018224",
+      "lon": "35.47633657"
+    },
+    "vizbible": {
+      "lat": "31.1018224",
+      "lon": "35.47633657"
+    }
+  },
+  "key_references": [
+    "16011034"
+  ],
+  "references": [
+    "16011034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110340021"
+      ]
+    ]
+  }
+}

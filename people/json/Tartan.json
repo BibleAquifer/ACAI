@@ -1,0 +1,90 @@
+{
+  "id": "person:Tartan",
+  "primary_id": "person:Tartan",
+  "alternate_sources": {
+    "aquifer": [
+      "8748|Tartan|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Tartan@2Ki.18.17-Isa",
+      "chief|Tartan@2Ki.18.17-Isa"
+    ],
+    "vizbible": [
+      "recC50Ms974i9uAX6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Military Commander",
+    "Official"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tartan",
+      "alternate_labels": [
+        "supreme commander",
+        "chief"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tartan",
+          "article": "person:Tartan",
+          "description": "Tartan, meaning supreme commander or chief, is a title of a leader mentioned in 2 Kings 18:17 and Isaiah 20:1."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Chief"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12018017",
+    "23020001"
+  ],
+  "references": [
+    "12018017",
+    "23020001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120180170051"
+      ],
+      [
+        "o230200010031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120180170202"
+      ],
+      [
+        "o120180170212"
+      ],
+      [
+        "o120180170232"
+      ],
+      [
+        "o120180170242"
+      ],
+      [
+        "o120180170252"
+      ],
+      [
+        "o120180180012"
+      ],
+      [
+        "o230200010102"
+      ],
+      [
+        "o230200010122"
+      ]
+    ]
+  }
+}

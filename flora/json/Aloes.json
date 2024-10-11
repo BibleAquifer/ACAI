@@ -1,0 +1,62 @@
+{
+  "id": "flora:Aloes",
+  "primary_id": "flora:Aloes",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.209"
+    ],
+    "ubsflora": [
+      "flora:4.2.1"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdgnt": [
+    "6.209"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aloes",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aloes",
+          "article": "flora:Aloes",
+          "description": "Aromatic plants with a resin often used for embalming and sometimes associated with healing and soothing properties."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀλόη"
+    ]
+  },
+  "key_references": [
+    "19045009",
+    "20007017",
+    "43019039"
+  ],
+  "references": [
+    "19045009",
+    "20007017",
+    "43019039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190450090022"
+      ],
+      [
+        "o200070170041"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43019039016"
+      ]
+    ]
+  }
+}

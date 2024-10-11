@@ -1,0 +1,56 @@
+{
+  "id": "realia:Quart",
+  "primary_id": "realia:Quart",
+  "alternate_sources": {
+    "aquifer": [
+      "7882|Quart|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "81.24"
+    ],
+    "ubsrealia": [
+      "realia:11.3.2.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "81.24"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Quart",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Quart",
+          "article": "realia:Quart",
+          "description": "A measure of quantity that equals about one liter."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χοῖνιξ"
+    ]
+  },
+  "key_references": [
+    "66006006"
+  ],
+  "references": [
+    "66006006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n66006006011"
+      ],
+      [
+        "n66006006016"
+      ]
+    ]
+  }
+}

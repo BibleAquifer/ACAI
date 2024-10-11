@@ -1,0 +1,64 @@
+{
+  "id": "person:Uriah.4",
+  "primary_id": "person:Uriah.4",
+  "alternate_sources": {
+    "aquifer": [
+      "8973|Uriah|TyndaleBibleDictionary",
+      "27188|Uriah|UWTranslationWords",
+      "132415|Uriah|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Uriah@Ezr.8.33-Neh"
+    ],
+    "vizbible": [
+      "rec8eWSIDdzfh0y2T"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hakkoz.3",
+  "offspring": [
+    "person:Meremoth"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uriah (Ezra 8:33)",
+      "alternate_labels": [
+        "Urijah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uriah (Ezra 8:33)",
+          "article": "person:Uriah.4",
+          "description": "Uriah was a man living during the time of exile and return, son of Hakkoz and father of Meremoth, mentioned in Ezra 8:33."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15008033",
+    "16003004",
+    "16003021"
+  ],
+  "references": [
+    "15008033",
+    "16003004",
+    "16003021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150080330131"
+      ],
+      [
+        "o160030040061"
+      ],
+      [
+        "o160030210051"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "person:KingOfAmmon",
+  "primary_id": "person:KingOfAmmon",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "King of Ammon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "King of Ammon",
+          "description": "The king of Ammon."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07011013"
+  ],
+  "references": [
+    "07011013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070110130021"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070110130081",
+          "o070110130091",
+          "o070110130101",
+          "o070110130111",
+          "o070110130121",
+          "o070110130122",
+          "o070110130131",
+          "o070110130132",
+          "o070110130133",
+          "o070110130141",
+          "o070110130142",
+          "o070110130151",
+          "o070110130152",
+          "o070110130161",
+          "o070110130162",
+          "o070110130171",
+          "o070110130172",
+          "o070110130181",
+          "o070110130182",
+          "o070110130191",
+          "o070110130192",
+          "o070110130201",
+          "o070110130202",
+          "o070110130211",
+          "o070110130212",
+          "o070110130221",
+          "o070110130222",
+          "o070110130231",
+          "o070110130232"
+        ]
+      }
+    ]
+  }
+}

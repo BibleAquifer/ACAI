@@ -1,0 +1,111 @@
+{
+  "id": "place:Shoa",
+  "primary_id": "place:Shoa",
+  "alternate_sources": {
+    "aquifer": [
+      "8437|Shoa|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007256003001000"
+    ],
+    "tipnr": [
+      "Shoa@Ezk.23.23"
+    ],
+    "vizbible": [
+      "rec4OMrlvP8YRP40o"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007256003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shoa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shoa",
+          "gloss": "Shoa",
+          "description": "A nation mentioned in Ezekiel 23:23."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "people group"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.798311",
+      "lon": "48.514966"
+    },
+    "vizbible": {
+      "lat": "34.798311",
+      "lon": "48.514966"
+    }
+  },
+  "key_references": [
+    "26023023"
+  ],
+  "references": [
+    "26023023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260230230062"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260230250131"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260230230182",
+        "o260230230191"
+      ],
+      [
+        "o260230240012"
+      ],
+      [
+        "o260230240111"
+      ],
+      [
+        "o260230240172"
+      ],
+      [
+        "o260230250042"
+      ],
+      [
+        "o260230250091"
+      ],
+      [
+        "o260230260012"
+      ],
+      [
+        "o260230260042"
+      ]
+    ]
+  }
+}

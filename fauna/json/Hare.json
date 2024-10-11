@@ -1,0 +1,99 @@
+{
+  "id": "fauna:Hare",
+  "primary_id": "fauna:Hare",
+  "alternate_sources": {
+    "aquifer": [
+      "5666|Hare|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000707001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.17"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "000707001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hare",
+      "alternate_labels": [
+        "Rabbit"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hare",
+          "article": "fauna:Hare",
+          "description": "A small, light brown animal resembling a rabbit, with long ears and strong legs for jumping; it was considered ceremonially clean to eat."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַרְנֶבֶת"
+    ]
+  },
+  "key_references": [
+    "03011006",
+    "05014007"
+  ],
+  "references": [
+    "03011006",
+    "05014007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110060022"
+      ],
+      [
+        "o050140070142"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o030110060061"
+      ],
+      [
+        "o030110060111"
+      ],
+      [
+        "o030110080013"
+      ],
+      [
+        "o030110080044"
+      ],
+      [
+        "o030110080081"
+      ],
+      [
+        "o050140070201"
+      ],
+      [
+        "o050140070251"
+      ],
+      [
+        "o050140080123"
+      ],
+      [
+        "o050140080154"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o050140070231"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "realia:CityWall",
+  "primary_id": "realia:CityWall",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.61"
+    ],
+    "ubsrealia": [
+      "realia:3.13.3.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.61"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "City Wall",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "City Wall",
+          "article": "realia:CityWall",
+          "description": "A strong permanent wall built around a city for protection."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "τεῖχος"
+    ]
+  },
+  "key_references": [
+    "06006020",
+    "16002017",
+    "66021014"
+  ],
+  "references": [
+    "44009025",
+    "47011033",
+    "58011030",
+    "66021012",
+    "66021014",
+    "66021015",
+    "66021017",
+    "66021018",
+    "66021019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44009025009"
+      ],
+      [
+        "n47011033009"
+      ],
+      [
+        "n58011030003"
+      ],
+      [
+        "n66021012002"
+      ],
+      [
+        "n66021014003"
+      ],
+      [
+        "n66021015020"
+      ],
+      [
+        "n66021017004"
+      ],
+      [
+        "n66021018005"
+      ],
+      [
+        "n66021019004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n58011030006"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "place:Judea.2",
+  "primary_id": "place:Judea.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6477|Judah, Tribe of|TyndaleBibleDictionary",
+      "26782|Judah|UWTranslationWords",
+      "132237|Judah|BiblicaStudyNotesKeyTerms"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Judea.2",
+          "gloss": "Judah (Persian Period)",
+          "description": "The territory of the tribe of Judah during the Persian period."
+        }
+      ],
+      "preferred_label": "Judah (Persian Period)",
+      "alternate_labels": [
+        "Jehud"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:TerritoryOfJudah",
+    "place:Judea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "15005008",
+    "15009009"
+  ]
+}

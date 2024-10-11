@@ -1,0 +1,57 @@
+{
+  "id": "group:Eri",
+  "primary_id": "group:Eri",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005666001001000",
+      "005666001002000"
+    ],
+    "tipnr": [
+      "Eri@Gen.46.16-Num"
+    ],
+    "vizbible": [
+      "recX87Zi04zjkPecS"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Eri",
+  "ubsdbh": [
+    "005666001001000",
+    "005666001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Erites",
+      "alternate_labels": [
+        "Eri"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Erites",
+          "article": "group:Eri",
+          "description": "People descended from Eri, son of Gad, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026016"
+  ],
+  "references": [
+    "04026016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260160042"
+      ],
+      [
+        "o040260160062"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "group:Assyria",
+  "primary_id": "group:Assyria",
+  "alternate_sources": {
+    "aquifer": [
+      "3841|Assyria, Assyrians|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000740001002000"
+    ],
+    "tipnr": [
+      "Assyria@Gen.2.14-Zec"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Assyria",
+  "ubsdbh": [
+    "000740001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Assyrians",
+      "alternate_labels": [
+        "Assyrian",
+        "Chaldean"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Assyrians",
+          "article": "group:Assyria",
+          "description": "People who live in Assyria"
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Chaldea",
+    "group:Babylon"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַשּׁוּר",
+      "אַשּׁוּר",
+      "ה"
+    ]
+  },
+  "references": [
+    "12019035",
+    "23010024",
+    "23014025",
+    "23019023",
+    "23030031",
+    "23031008",
+    "23037036",
+    "23052004",
+    "26023005",
+    "26023009",
+    "26023012",
+    "26023023",
+    "33005004",
+    "33005005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120190350091"
+      ],
+      [
+        "o230100240122"
+      ],
+      [
+        "o230140250021"
+      ],
+      [
+        "o230190230061"
+      ],
+      [
+        "o230190230081"
+      ],
+      [
+        "o230190230112"
+      ],
+      [
+        "o230190230151"
+      ],
+      [
+        "o230300310051"
+      ],
+      [
+        "o230310080021"
+      ],
+      [
+        "o230370360061"
+      ],
+      [
+        "o230520040122"
+      ],
+      [
+        "o260230050081"
+      ],
+      [
+        "o260230090071"
+      ],
+      [
+        "o260230120031"
+      ],
+      [
+        "o260230230101"
+      ],
+      [
+        "o330050040041"
+      ],
+      [
+        "o330050050041"
+      ],
+      [
+        "o330050050112"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230100240141"
+      ],
+      [
+        "o230100240161"
+      ],
+      [
+        "o230100280011"
+      ],
+      [
+        "o230100280041"
+      ],
+      [
+        "o230100280071"
+      ],
+      [
+        "o230100290011"
+      ],
+      [
+        "o230100320042",
+        "o230100320051"
+      ],
+      [
+        "o230310080102"
+      ],
+      [
+        "o330050040061"
+      ],
+      [
+        "o330050040091"
+      ],
+      [
+        "o330050050131"
+      ],
+      [
+        "o330050050161"
+      ]
+    ]
+  }
+}

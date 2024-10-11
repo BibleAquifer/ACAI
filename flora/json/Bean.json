@@ -1,0 +1,71 @@
+{
+  "id": "flora:Bean",
+  "primary_id": "flora:Bean",
+  "alternate_sources": {
+    "aquifer": [
+      "4045|Bean|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005807001001000"
+    ],
+    "ubsflora": [
+      "flora:3.3.1"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "005807001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bean",
+      "alternate_labels": [
+        "Beans"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bean",
+          "article": "flora:Bean",
+          "description": "It grows up to 1 meter tall and produces pods with 3-6 large flat beans used for food."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "פֹּול"
+    ]
+  },
+  "key_references": [
+    "10017028",
+    "26004009"
+  ],
+  "references": [
+    "10017028",
+    "26004009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100170280092"
+      ],
+      [
+        "o260040090062"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260040090112"
+      ],
+      [
+        "o260040090152"
+      ]
+    ]
+  }
+}

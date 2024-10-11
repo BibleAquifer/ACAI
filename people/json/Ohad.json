@@ -1,0 +1,72 @@
+{
+  "id": "person:Ohad",
+  "primary_id": "person:Ohad",
+  "alternate_sources": {
+    "aquifer": [
+      "7465|Ohad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000160001001000"
+    ],
+    "tipnr": [
+      "Ohad@Gen.46.10-Exo"
+    ],
+    "vizbible": [
+      "recqRZfZwTzEyT9m2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simeon.5",
+  "mother": "person:AWifeOfSimeon",
+  "siblings": [
+    "person:Jemuel",
+    "person:Jamin",
+    "person:Jachin",
+    "person:Zerah.6",
+    "person:Shaul.2"
+  ],
+  "tribe": "group:Simeon",
+  "ubsdbh": [
+    "000160001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ohad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ohad",
+          "article": "person:Ohad",
+          "description": "Ohad, first mentioned in Genesis 46:10, was a man of the tribe of Simeon during the time of Egypt and the wilderness."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֹהַד",
+      "אֹ֫הַד"
+    ]
+  },
+  "key_references": [
+    "01046010",
+    "02006015"
+  ],
+  "references": [
+    "01046010",
+    "02006015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460100052"
+      ],
+      [
+        "o020060150052"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "person:Gomer",
+  "primary_id": "person:Gomer",
+  "alternate_sources": {
+    "aquifer": [
+      "5509|Gomer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001453001001000",
+      "001453001002000"
+    ],
+    "tipnr": [
+      "Gomer@Gen.10.2-Ezk"
+    ],
+    "vizbible": [
+      "rec3qpjLAgX47JxyF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Japheth",
+  "offspring": [
+    "person:Ashkenaz",
+    "person:Riphath",
+    "person:Togarmah"
+  ],
+  "siblings": [
+    "person:Magog",
+    "person:Madai",
+    "person:Javan",
+    "person:Tubal",
+    "person:Meshech.2",
+    "person:Tiras"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "001453001001000",
+    "001453001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gomer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gomer",
+          "article": "person:Gomer",
+          "description": "A son of the patriarch Noah's son Japheth. He was father of Ashkenaz, Riphath, and Togarmah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֹּמֶר",
+      "גֹּ֫מֶר"
+    ]
+  },
+  "key_references": [
+    "01010002",
+    "13001005",
+    "26038006"
+  ],
+  "references": [
+    "01010002",
+    "01010003",
+    "13001005",
+    "13001006",
+    "26038006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100020031"
+      ],
+      [
+        "o010100030021"
+      ],
+      [
+        "o130010050031"
+      ],
+      [
+        "o130010060021"
+      ],
+      [
+        "o260380060011"
+      ]
+    ]
+  }
+}

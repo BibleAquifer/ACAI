@@ -1,0 +1,84 @@
+{
+  "id": "place:Janoah.2",
+  "primary_id": "place:Janoah.2",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002962001001000"
+    ],
+    "tipnr": [
+      "Janoah@Jos.16.6-"
+    ],
+    "vizbible": [
+      "recB4mpmdhIrF5Vhk"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002962001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Janoah (of Ephraim)",
+      "alternate_labels": [
+        "Janohah",
+        "Janoah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Janoah.1",
+          "gloss": "Janoah (of Ephraim)",
+          "description": "A town at the boundary between the territories of Ephraim and Manasseh."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.260246",
+      "lon": "35.302915"
+    },
+    "vizbible": {
+      "lat": "33.260246",
+      "lon": "35.302915"
+    }
+  },
+  "key_references": [
+    "06016006",
+    "06016007"
+  ],
+  "references": [
+    "06016006",
+    "06016007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060160060141"
+      ],
+      [
+        "o060160070022"
+      ]
+    ]
+  }
+}

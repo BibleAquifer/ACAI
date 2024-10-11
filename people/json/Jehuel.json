@@ -1,0 +1,77 @@
+{
+  "id": "person:Jehuel",
+  "primary_id": "person:Jehuel",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002902001005000"
+    ],
+    "tipnr": [
+      "Jehuel@2Ch.29.14"
+    ],
+    "vizbible": [
+      "rec8e720ASF1pUFyc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Heman.3",
+  "siblings": [
+    "person:Shimei.13"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002902001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehuel",
+      "alternate_labels": [
+        "Jehiel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehuel",
+          "article": "person:Jehuel",
+          "description": "A Levite man living during the divided kingdom, son of Heman and brother of Shimei, mentioned in 2 Chronicles 29:14 during the time of King Hezekiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְחִיאֵל"
+    ]
+  },
+  "key_references": [
+    "14029014"
+  ],
+  "references": [
+    "14029014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140290140051"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140290150012"
+      ],
+      [
+        "o140290150042"
+      ],
+      [
+        "o140290150052"
+      ],
+      [
+        "o140290150102"
+      ]
+    ]
+  }
+}

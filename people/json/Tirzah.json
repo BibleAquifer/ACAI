@@ -1,0 +1,81 @@
+{
+  "id": "person:Tirzah",
+  "primary_id": "person:Tirzah",
+  "alternate_sources": {
+    "aquifer": [
+      "8865|Tirzah (Person)|TyndaleBibleDictionary",
+      "27163|Tirzah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007949001001000"
+    ],
+    "tipnr": [
+      "Tirzah@Num.26.33-Jos"
+    ],
+    "vizbible": [
+      "recQQxfSPSO5wWdFx"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Zelophehad",
+  "siblings": [
+    "person:Mahlah",
+    "person:Noah.2",
+    "person:Hoglah",
+    "person:Milcah.2"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "007949001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tirzah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tirzah",
+          "article": "person:Tirzah",
+          "description": "A daughter of Zelophehad and sister to Mahlah, Noah, Hoglah, and Milcah. She was from the tribe of Manasseh who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026033",
+    "04027001",
+    "06017003"
+  ],
+  "references": [
+    "04026033",
+    "04027001",
+    "04036011",
+    "06017003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260330182"
+      ],
+      [
+        "o040270010232"
+      ],
+      [
+        "o040360110031"
+      ],
+      [
+        "o060170030242"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040360120061"
+      ]
+    ]
+  }
+}

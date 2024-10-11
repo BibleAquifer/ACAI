@@ -1,0 +1,77 @@
+{
+  "id": "place:Pas-dammim",
+  "primary_id": "place:Ephes-dammim",
+  "alternate_sources": {
+    "aquifer": [
+      "7597|Pas-Dammim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005924001001000"
+    ],
+    "tipnr": [
+      "Pas-dammim|Ephes-dammim@1Sa.17.1-1Ch"
+    ],
+    "vizbible": [
+      "recZWekS06dZsVfgD"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005924001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pas-dammim",
+      "alternate_labels": [
+        "Ephes-Dammim",
+        "Pas-dammim",
+        "Pas Dammim",
+        "Ephes Dammim",
+        "Ephes-dammim",
+        "Pasdammim"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ephes-dammim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.691186",
+      "lon": "34.944496"
+    },
+    "vizbible": {
+      "lat": "31.691186",
+      "lon": "34.944496"
+    }
+  },
+  "key_references": [
+    "09017001",
+    "10023009",
+    "13011013"
+  ],
+  "references": [
+    "09017001",
+    "10023009",
+    "13011013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130110130052",
+        "o130110130061"
+      ]
+    ]
+  }
+}

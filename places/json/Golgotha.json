@@ -1,0 +1,123 @@
+{
+  "id": "place:Golgotha",
+  "primary_id": "place:Golgotha",
+  "alternate_sources": {
+    "aquifer": [
+      "5507|Golgotha|TyndaleBibleDictionary",
+      "26650|Golgotha|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Skull|Golgotha@Mat.27.33-Jhn",
+      "Golgotha@Mat.27.33-Jhn"
+    ],
+    "vizbible": [
+      "recYlTJouLztJii9o"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Golgotha",
+      "alternate_labels": [
+        "The Place of the Skull",
+        "The Place of a Skull",
+        "The Skull",
+        "Calvary",
+        "Skull",
+        "Place of a Skull",
+        "Place of the Skull"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Golgotha",
+          "gloss": "Golgotha",
+          "description": "A hill near Jerusalem where executions took place and where Jesus was crucified (Matthew 27:33–44; Mark 15:21–32; John 19:16–19)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Skull"
+  ],
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "hill"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "biblica-maps": {
+      "lat": "31.77848",
+      "lon": "35.22953"
+    }
+  },
+  "key_references": [
+    "40027033",
+    "43019016",
+    "41015022"
+  ],
+  "references": [
+    "40027033",
+    "41015022",
+    "42023033",
+    "43019017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027033006"
+      ],
+      [
+        "n40027033009"
+      ],
+      [
+        "n41015022006"
+      ],
+      [
+        "n41015022011"
+      ],
+      [
+        "n42023033009"
+      ],
+      [
+        "n43019017010"
+      ],
+      [
+        "n43019017015"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40027033007"
+      ],
+      [
+        "n41015022008"
+      ]
+    ]
+  }
+}

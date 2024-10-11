@@ -1,0 +1,118 @@
+{
+  "id": "person:Vashti",
+  "primary_id": "person:Vashti",
+  "alternate_sources": {
+    "aquifer": [
+      "9006|Vashti|TyndaleBibleDictionary",
+      "27191|Vashti|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "001907001001000"
+    ],
+    "tipnr": [
+      "Vashti@Est.1.9-"
+    ],
+    "vizbible": [
+      "recX0LVuxaIsDqO6p"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Ahasuerus"
+  ],
+  "roles": [
+    "Queen"
+  ],
+  "ubsdbh": [
+    "001907001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Vashti",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Vashti",
+          "article": "person:Vashti",
+          "description": "The queen and wife of King Ahasuerus (Xerxes) of Persia who was replaced by Esther."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "וַשְׁתִּי"
+    ]
+  },
+  "key_references": [
+    "17001012",
+    "17001017",
+    "17001019"
+  ],
+  "references": [
+    "17001009",
+    "17001011",
+    "17001012",
+    "17001015",
+    "17001016",
+    "17001017",
+    "17001019",
+    "17002001",
+    "17002004",
+    "17002017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170010090021"
+      ],
+      [
+        "o170010110031"
+      ],
+      [
+        "o170010120031"
+      ],
+      [
+        "o170010150051"
+      ],
+      [
+        "o170010160121"
+      ],
+      [
+        "o170010170171"
+      ],
+      [
+        "o170010190181"
+      ],
+      [
+        "o170020010101"
+      ],
+      [
+        "o170020040081"
+      ],
+      [
+        "o170020170191"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o170010110171"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o170010170211"
+      ],
+      [
+        "o170020010131"
+      ]
+    ]
+  }
+}

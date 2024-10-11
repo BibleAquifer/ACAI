@@ -1,0 +1,123 @@
+{
+  "id": "person:Nahash",
+  "primary_id": "person:Nahash",
+  "alternate_sources": {
+    "aquifer": [
+      "7287|Nahash|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004747002001000"
+    ],
+    "tipnr": [
+      "Nahash@1Sa.11.1-"
+    ],
+    "vizbible": [
+      "rec9qYH7v18mn09Mt"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Ammon",
+  "ubsdbh": [
+    "004747002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nahash",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nahash",
+          "article": "person:Nahash",
+          "description": "An Ammonite king who lived during the time of Israel’s king Saul."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נָחָשׁ"
+    ]
+  },
+  "key_references": [
+    "09011001",
+    "09011002",
+    "09012012"
+  ],
+  "references": [
+    "09011001",
+    "09011002",
+    "09012012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090110010021"
+      ],
+      [
+        "o090110010131"
+      ],
+      [
+        "o090110020031"
+      ],
+      [
+        "o090120120031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090110010042"
+      ],
+      [
+        "o090110020061"
+      ],
+      [
+        "o090110020082"
+      ],
+      [
+        "o090110020132"
+      ],
+      [
+        "o090110030051"
+      ],
+      [
+        "o090110100072"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o090110020051",
+          "o090110020052",
+          "o090110020061",
+          "o090110020071",
+          "o090110020072",
+          "o090110020081",
+          "o090110020082",
+          "o090110020091",
+          "o090110020092",
+          "o090110020101",
+          "o090110020111",
+          "o090110020121",
+          "o090110020131",
+          "o090110020132",
+          "o090110020133",
+          "o090110020141",
+          "o090110020151",
+          "o090110020161",
+          "o090110020171"
+        ]
+      }
+    ]
+  }
+}

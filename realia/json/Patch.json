@@ -1,0 +1,98 @@
+{
+  "id": "realia:Patch",
+  "primary_id": "realia:Patch",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.157",
+      "6.152"
+    ],
+    "ubsdbh": [
+      "002690001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.5.3.12"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.157",
+    "6.152"
+  ],
+  "ubsdbh": [
+    "002690001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Patch",
+      "alternate_labels": [
+        "To Patch",
+        "To Mend"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Patch",
+          "article": "realia:Patch",
+          "description": "A piece of cloth or leather sewn on clothing to repair a hole or tear."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "טלא"
+    ],
+    "el": [
+      "ἐπίβλημα",
+      "ῥάκος"
+    ]
+  },
+  "key_references": [
+    "40009016",
+    "41002021",
+    "42005036"
+  ],
+  "references": [
+    "06009005",
+    "40009016",
+    "41002021",
+    "42005036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060090050032"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40009016004"
+      ],
+      [
+        "n41002021002"
+      ],
+      [
+        "n42005036009"
+      ],
+      [
+        "n42005036031"
+      ],
+      [
+        "n40009016005"
+      ],
+      [
+        "n41002021003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40009016014"
+      ]
+    ]
+  }
+}

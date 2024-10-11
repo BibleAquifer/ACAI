@@ -1,0 +1,110 @@
+{
+  "id": "place:Elim",
+  "primary_id": "place:Elim",
+  "alternate_sources": {
+    "aquifer": [
+      "5014|Elim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2410c1"
+    ],
+    "ubsdbh": [
+      "000341001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/5188469"
+    ],
+    "tipnr": [
+      "Elim@Exo.15.27-Num"
+    ],
+    "vizbible": [
+      "recig4cG2rhyNok31"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q629659"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000341001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Elim",
+          "gloss": "Elim",
+          "description": "A location in the Sinai Peninsula, not far from the Sea of Reeds, containing 12 springs of water and 70 palm trees; the Israelites encamped their on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֵילִם",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.306194",
+      "lon": "32.980924"
+    },
+    "recogito": {
+      "lat": "40.29785",
+      "lon": "-78.94253"
+    },
+    "vizbible": {
+      "lat": "29.306194",
+      "lon": "32.980924"
+    }
+  },
+  "key_references": [
+    "02015027",
+    "02016001"
+  ],
+  "references": [
+    "02015027",
+    "02016001",
+    "04033009",
+    "04033010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020150270021"
+      ],
+      [
+        "o020160010022"
+      ],
+      [
+        "o020160010131"
+      ],
+      [
+        "o040330090041"
+      ],
+      [
+        "o040330090053"
+      ],
+      [
+        "o040330100022"
+      ]
+    ]
+  }
+}

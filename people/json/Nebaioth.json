@@ -1,0 +1,94 @@
+{
+  "id": "person:Nebaioth",
+  "primary_id": "person:Nebaioth",
+  "alternate_sources": {
+    "aquifer": [
+      "7324|Nebaioth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004613001001000",
+      "004613001002000"
+    ],
+    "tipnr": [
+      "Nebaioth@Gen.25.13-Isa"
+    ],
+    "vizbible": [
+      "rec0H7E1EvEF1hJyF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Kedemah",
+    "person:Mahalath"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "004613001001000",
+    "004613001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nebaioth",
+      "alternate_labels": [
+        "Nebajoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nebaioth",
+          "article": "person:Nebaioth",
+          "description": "First-born son of the patriarch Ishmael."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01025013",
+    "01028009",
+    "23060007"
+  ],
+  "references": [
+    "01025013",
+    "01028009",
+    "01036003",
+    "13001029",
+    "23060007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250130091"
+      ],
+      [
+        "o010280090131"
+      ],
+      [
+        "o010360030061"
+      ],
+      [
+        "o130010290051"
+      ],
+      [
+        "o230600070071"
+      ]
+    ]
+  }
+}

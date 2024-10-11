@@ -1,0 +1,62 @@
+{
+  "id": "person:Great",
+  "primary_id": "person:Tiglath-pileser",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003086001001000"
+    ],
+    "tipnr": [
+      "great|Tiglath-pileser@2Ki.15.19-Hos"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Emperor",
+    "King"
+  ],
+  "tribe": "group:Assyria",
+  "ubsdbh": [
+    "003086001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Great (Tiglath-pileser)",
+      "alternate_labels": [
+        "Tiglath-Pileser",
+        "Jareb"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tiglath-Pileser",
+          "article": "person:Great",
+          "description": "Tiglath-Pileser, also known as Jareb, was a king during the time of the divided kingdom, mentioned in 2 Kings 15:19."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Tiglath-pileser"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "28005013",
+    "28010006"
+  ],
+  "references": [
+    "28005013",
+    "28010006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o280050130151"
+      ],
+      [
+        "o280100060071"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "person:Joanan",
+  "primary_id": "person:Joanan",
+  "alternate_sources": {
+    "aquifer": [
+      "6388|Joanan|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.187"
+    ],
+    "tipnr": [
+      "Joanan@Luk.3.27"
+    ],
+    "vizbible": [
+      "recv3FzGZHiDlcZCj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Rhesa",
+  "offspring": [
+    "person:Joda"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.187"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joanan",
+      "alternate_labels": [
+        "Joanna"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joanan",
+          "article": "person:Joanan",
+          "description": "Son of Rhesa and the father of Joda in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰωανάν"
+    ]
+  },
+  "key_references": [
+    "42003027"
+  ],
+  "references": [
+    "42003027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003027002"
+      ]
+    ]
+  }
+}

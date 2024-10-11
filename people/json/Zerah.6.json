@@ -1,0 +1,104 @@
+{
+  "id": "person:Zerah.6",
+  "primary_id": "person:Zerah.6",
+  "alternate_sources": {
+    "aquifer": [
+      "9190|Zerah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Zohar|Zerah@Gen.46.10-1Ch",
+      "Zerah@Gen.46.10-1Ch"
+    ],
+    "vizbible": [
+      "recdjCxSoKilwrxC1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simeon.5",
+  "mother": "person:AWifeOfSimeon",
+  "siblings": [
+    "person:Jemuel",
+    "person:Jamin",
+    "person:Ohad",
+    "person:Jachin",
+    "person:Shaul.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Simeon",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zerah",
+      "alternate_labels": [
+        "Zohar",
+        "Zerahite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zerah",
+          "article": "person:Zerah.6",
+          "description": "A son of the patriarch Simeon and brother of Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Zerah",
+    "person:Zohar.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046010",
+    "02006015",
+    "04026013"
+  ],
+  "references": [
+    "01046010",
+    "02006015",
+    "04026013",
+    "04026020",
+    "06007017",
+    "13004024",
+    "13027011",
+    "13027013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460100072"
+      ],
+      [
+        "o020060150072"
+      ],
+      [
+        "o040260130012"
+      ],
+      [
+        "o040260130032"
+      ],
+      [
+        "o040260200132"
+      ],
+      [
+        "o060070170082"
+      ],
+      [
+        "o060070170122"
+      ],
+      [
+        "o130040240061"
+      ],
+      [
+        "o130270110062"
+      ],
+      [
+        "o130270130062"
+      ]
+    ]
+  }
+}

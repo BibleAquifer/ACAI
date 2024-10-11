@@ -1,0 +1,57 @@
+{
+  "id": "person:Maaz",
+  "primary_id": "person:Maaz",
+  "alternate_sources": {
+    "aquifer": [
+      "6822|Maaz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004231001001000"
+    ],
+    "tipnr": [
+      "Maaz@1Ch.2.27"
+    ],
+    "vizbible": [
+      "recRzoaBt3wz9bBTN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ram.2",
+  "siblings": [
+    "person:Jamin.2",
+    "person:Eker"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "004231001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maaz",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Maaz",
+          "article": "person:Maaz",
+          "description": "A man from the tribe of Judah during the divided kingdom, mentioned in 1 Chronicles 2:27 as the son of Ram and brother of Jamin and Eker."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002027"
+  ],
+  "references": [
+    "13002027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020270061"
+      ]
+    ]
+  }
+}

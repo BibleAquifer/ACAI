@@ -1,0 +1,109 @@
+{
+  "id": "place:Beth-jeshimoth",
+  "primary_id": "place:Beth-jeshimoth",
+  "alternate_sources": {
+    "aquifer": [
+      "4183|Beth-Jeshimoth|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a30f37b"
+    ],
+    "ubsdbh": [
+      "000947001001000"
+    ],
+    "tipnr": [
+      "Beth-jeshimoth@Num.33.49-Ezk"
+    ],
+    "vizbible": [
+      "recuiTwiOIofBlMOB"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000947001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-jeshimoth",
+      "alternate_labels": [
+        "Beth-Jesimoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-jeshimoth",
+          "gloss": "Beth-Jeshimoth",
+          "description": "A town in the region of Moab allotted to the tribe of Reuben."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Reuben",
+  "subregion_of": [
+    "place:TerritoryOfReuben",
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית הַיְשִׁימֹות",
+      "בֵּית הַיְשִׁימוֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.77691135",
+      "lon": "35.59865749"
+    },
+    "vizbible": {
+      "lat": "31.77691135",
+      "lon": "35.59865749"
+    }
+  },
+  "key_references": [
+    "04033049",
+    "06012003"
+  ],
+  "references": [
+    "04033049",
+    "06012003",
+    "06013020",
+    "26025009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330490042",
+        "o040330490051"
+      ],
+      [
+        "o060120030131",
+        "o060120030141"
+      ],
+      [
+        "o060130200052",
+        "o060130200061"
+      ],
+      [
+        "o260250090121",
+        "o260250090131"
+      ]
+    ]
+  }
+}

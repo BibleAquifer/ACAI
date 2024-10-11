@@ -1,0 +1,83 @@
+{
+  "id": "person:Japhlet",
+  "primary_id": "person:Japhlet",
+  "alternate_sources": {
+    "aquifer": [
+      "6218|Japhlet|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Japhlet@Jos.16.3-1Ch"
+    ],
+    "vizbible": [
+      "recJMQc4aSfZDQbt4"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Heber",
+  "offspring": [
+    "person:Pasach",
+    "person:Bimhal",
+    "person:Ashvath"
+  ],
+  "siblings": [
+    "person:Shomer.2",
+    "person:Hotham",
+    "person:Shua.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Asher",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Japhlet",
+      "alternate_labels": [
+        "Japhletite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Japhlet",
+          "article": "person:Japhlet",
+          "description": "A son of Heber from the tribe of Asher who lived before Israel became a kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Japhlet"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "06016003",
+    "13007030",
+    "13007031",
+    "13007032",
+    "13007033",
+    "13007033"
+  ],
+  "references": [
+    "06016003",
+    "13007032",
+    "13007033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060160030052"
+      ],
+      [
+        "o130070320041"
+      ],
+      [
+        "o130070330021"
+      ],
+      [
+        "o130070330081"
+      ]
+    ]
+  }
+}

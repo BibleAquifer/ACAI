@@ -1,0 +1,76 @@
+{
+  "id": "person:Lucius",
+  "primary_id": "person:Simeon.4",
+  "alternate_sources": {
+    "aquifer": [
+      "6790|Lucius|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.235a",
+      "93.235b"
+    ],
+    "tipnr": [
+      "Lucius|Simeon@Act.13.1-Rom"
+    ],
+    "vizbible": [
+      "recJoaU9LLP6CpcRV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.235a",
+    "93.235b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lucius (Simeon)",
+      "alternate_labels": [
+        "Simeon (Acts 13:1)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Simeon (Acts 13:1)",
+          "article": "person:Lucius",
+          "description": "A teacher and prophet in Antioch during the New Testament, also called Niger, mentioned in Acts and Romans."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Simeon.4"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Λούκιος"
+    ]
+  },
+  "key_references": [
+    "44013001",
+    "45016021"
+  ],
+  "references": [
+    "44013001",
+    "45016021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44013001021"
+      ],
+      [
+        "n45016021008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n45016024005"
+      ]
+    ]
+  }
+}

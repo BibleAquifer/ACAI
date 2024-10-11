@@ -1,0 +1,85 @@
+{
+  "id": "person:John.4",
+  "primary_id": "person:John.4",
+  "alternate_sources": {
+    "aquifer": [
+      "6413|John (Person)|TyndaleBibleDictionary",
+      "6408|John, Gospel of|TyndaleBibleDictionary",
+      "6410|John, Letters of|TyndaleBibleDictionary",
+      "6414|John, the Apostle|TyndaleBibleDictionary",
+      "6416|John, the Revelation of|TyndaleBibleDictionary",
+      "6951|Mark, John|TyndaleBibleDictionary",
+      "132488|John|BiblicaStudyNotesKeyTerms",
+      "280163|john|FIAKeyTerms"
+    ],
+    "tipnr": [
+      "Jonah|John@Mat.16.17-Jhn",
+      "John@Mat.16.17-Jhn"
+    ],
+    "vizbible": [
+      "reccab93ctmXb8kHN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Peter",
+    "person:Andrew"
+  ],
+  "roles": [
+    "Disciple"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "John",
+      "alternate_labels": [
+        "Jona",
+        "Jonah",
+        "Jonas"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "John",
+          "article": "person:John.4",
+          "description": "The father of the apostles Peter and Andrew."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jonah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "43001042",
+    "43021015"
+  ],
+  "references": [
+    "40016017",
+    "43001042",
+    "43021015",
+    "43021016",
+    "43021017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40016017010"
+      ],
+      [
+        "n43001042016"
+      ],
+      [
+        "n43021015011"
+      ],
+      [
+        "n43021016006"
+      ],
+      [
+        "n43021017006"
+      ]
+    ]
+  }
+}

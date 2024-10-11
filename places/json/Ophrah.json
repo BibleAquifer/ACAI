@@ -1,0 +1,97 @@
+{
+  "id": "place:Ophrah",
+  "primary_id": "place:Ophrah",
+  "alternate_sources": {
+    "aquifer": [
+      "7510|Ophrah (Place)|TyndaleBibleDictionary"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/284559"
+    ],
+    "tipnr": [
+      "Ophrah@Jos.18.23-Mic",
+      "Beth-le-aphrah|Ophrah@Jos.18.23-Mic"
+    ],
+    "vizbible": [
+      "recgFMAc5yMeSPZvu"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ophrah (of Benjamin)",
+      "alternate_labels": [
+        "house of Aphrah",
+        "Beth Ophrah",
+        "Beth-le-aphrah",
+        "Ophrah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ophrah.1",
+          "gloss": "Ophrah (of Benjamin)",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Beth-le-aphrah"
+  ],
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.95378956",
+      "lon": "35.29913578"
+    },
+    "recogito": {
+      "lat": "31.95388",
+      "lon": "35.2998"
+    },
+    "vizbible": {
+      "lat": "31.95378956",
+      "lon": "35.29913578"
+    }
+  },
+  "key_references": [
+    "06018023",
+    "09013017"
+  ],
+  "references": [
+    "06018023",
+    "09013017",
+    "33001010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180230032"
+      ],
+      [
+        "o090130170121"
+      ],
+      [
+        "o330010100072",
+        "o330010100081"
+      ]
+    ]
+  }
+}

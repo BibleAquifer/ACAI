@@ -1,0 +1,86 @@
+{
+  "id": "person:Jozadak",
+  "primary_id": "person:Jehozadak",
+  "alternate_sources": {
+    "aquifer": [
+      "6471|Jozadak|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002836001001000"
+    ],
+    "tipnr": [
+      "Jozadak|Jehozadak@1Ch.6.14-Zec"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Seraiah.2",
+  "offspring": [
+    "person:Joshua.5"
+  ],
+  "siblings": [
+    "person:Ezra"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002836001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jozadak (Jehozadak)",
+      "alternate_labels": [
+        "Jehozadak"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehozadak",
+          "article": "person:Jozadak",
+          "description": "Father of high priest Joshua who lived during the time of Israelite exile and return."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehozadak"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹוצָדָק",
+      "יְהוֹצָדָק",
+      "יוֹצָדָק"
+    ]
+  },
+  "key_references": [
+    "15003002",
+    "15005002",
+    "16012026"
+  ],
+  "references": [
+    "15003002",
+    "15003008",
+    "15005002",
+    "16012026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150030020041"
+      ],
+      [
+        "o150030080161"
+      ],
+      [
+        "o150050020081"
+      ],
+      [
+        "o160120260071"
+      ]
+    ]
+  }
+}

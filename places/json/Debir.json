@@ -1,0 +1,146 @@
+{
+  "id": "place:Debir",
+  "primary_id": "place:Debir",
+  "alternate_sources": {
+    "aquifer": [
+      "4785|Debir (Place)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Debir@Jos.10.38-1Ch"
+    ],
+    "vizbible": [
+      "reclzdXLmXHPKYAou"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Debir (of Judah)",
+      "alternate_labels": [
+        "Kiriath-Sannah",
+        "Kirjath-Sepher",
+        "Kirjath-Sannah",
+        "Kiriath-Sepher",
+        "Kiriath Sanna",
+        "Debir"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Debir.1",
+          "gloss": "Debir (of Judah)",
+          "description": "A Levitical town in the hill country of the territory of Judah, assigned to the clan of Aaron; formerly called Kiriath-Sepher and also known as Kiriath-Sannah. It was captured by Othniel, Israel's first judge (Judges 1:11–13)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.4166696",
+      "lon": "34.96667012"
+    },
+    "vizbible": {
+      "lat": "31.4166696",
+      "lon": "34.96667012"
+    }
+  },
+  "key_references": [
+    "06010039",
+    "06010038"
+  ],
+  "references": [
+    "06010038",
+    "06010039",
+    "06011021",
+    "06012013",
+    "06015015",
+    "06015016",
+    "06015049",
+    "06021015",
+    "07001011",
+    "07001012",
+    "13006043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100380061"
+      ],
+      [
+        "o060100390242"
+      ],
+      [
+        "o060110210131"
+      ],
+      [
+        "o060120130021"
+      ],
+      [
+        "o060150150051"
+      ],
+      [
+        "o060150150071"
+      ],
+      [
+        "o060150150091",
+        "o060150150101"
+      ],
+      [
+        "o060150160061",
+        "o060150160071"
+      ],
+      [
+        "o060150490022",
+        "o060150490031"
+      ],
+      [
+        "o060150490051"
+      ],
+      [
+        "o060210150061"
+      ],
+      [
+        "o070010110051"
+      ],
+      [
+        "o070010110071"
+      ],
+      [
+        "o070010110091",
+        "o070010110101"
+      ],
+      [
+        "o070010120061",
+        "o070010120071"
+      ],
+      [
+        "o130060430061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060150490041"
+      ]
+    ]
+  }
+}

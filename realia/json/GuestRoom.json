@@ -1,0 +1,85 @@
+{
+  "id": "realia:GuestRoom",
+  "primary_id": "realia:GuestRoom",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.30",
+      "7.31"
+    ],
+    "ubsrealia": [
+      "realia:3.1.6.9"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.30",
+    "7.31"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Guest Room",
+      "alternate_labels": [
+        "Room",
+        "Quarters",
+        "Dining Room",
+        "Guestroom",
+        "Lodging for Guest",
+        "Place to Stay In"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Guest Room",
+          "article": "realia:GuestRoom",
+          "description": "A room in a large building used for dining or temporary lodging for visitors."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κατάλυμα",
+      "ξενία"
+    ]
+  },
+  "key_references": [
+    "41014014",
+    "42022011",
+    "57001022"
+  ],
+  "references": [
+    "41014014",
+    "42022011",
+    "44028023",
+    "57001022"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41014014015"
+      ],
+      [
+        "n42022011014"
+      ],
+      [
+        "n44028023010"
+      ],
+      [
+        "n57001022006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n41014014017"
+      ],
+      [
+        "n42022011015"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "person:Shebuel.2",
+  "primary_id": "person:Shebuel.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8320|Shebuel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shebuel@1Ch.25.4-",
+      "Shubael|Shebuel@1Ch.25.4-"
+    ],
+    "vizbible": [
+      "recfjdma1GKNKYoey"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Heman.3",
+  "siblings": [
+    "person:Bukkiah",
+    "person:Mattaniah.2",
+    "person:Uzziel.4",
+    "person:Jerimoth.4",
+    "person:Hananiah.3",
+    "person:Hanani.2",
+    "person:Eliathah",
+    "person:Giddalti",
+    "person:Romamti-ezer",
+    "person:Joshbekashah",
+    "person:Mallothi",
+    "person:Hothir",
+    "person:Mahazioth"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shebuel (1 Chronicles 25:4)",
+      "alternate_labels": [
+        "Shubael"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shebuel (1 Chronicles 25:4)",
+          "article": "person:Shebuel.2",
+          "description": "Shebuel, also known as Shubael, was a Levite living during the divided kingdom, mentioned in 1 Chronicles 25:4 and 1 Chronicles 25:20 as the son of Heman."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shubael.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13025004",
+    "13025020"
+  ],
+  "references": [
+    "13025004",
+    "13025020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130250040071"
+      ],
+      [
+        "o130250200031"
+      ]
+    ]
+  }
+}

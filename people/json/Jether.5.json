@@ -1,0 +1,64 @@
+{
+  "id": "person:Jether.5",
+  "primary_id": "person:Jether.5",
+  "alternate_sources": {
+    "aquifer": [
+      "6357|Jether|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003204003005000"
+    ],
+    "tipnr": [
+      "Jether@1Ch.4.17"
+    ],
+    "vizbible": [
+      "reclC4hgkANenzbQ7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ezrah",
+  "siblings": [
+    "person:Mered",
+    "person:Epher.2",
+    "person:Jalon"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "003204003005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jether (1 Chronicles 4:17)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jether (1 Chronicles 4:17)",
+          "article": "person:Jether.5",
+          "description": "A man from the tribe of Judah, son of Ezrah, and brother of Mered, Epher, and Jalon, mentioned in 1 Chronicles 4:17."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֶתֶר",
+      "יֶ֫תֶר"
+    ]
+  },
+  "key_references": [
+    "13004017"
+  ],
+  "references": [
+    "13004017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040170031"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "place:Haeleph",
+  "primary_id": "place:Haeleph",
+  "alternate_sources": {
+    "aquifer": [
+      "5580|Haeleph|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae1d208"
+    ],
+    "ubsdbh": [
+      "000469003001000"
+    ],
+    "tipnr": [
+      "Haeleph@Jos.18.28"
+    ],
+    "vizbible": [
+      "recegcIDXYN456Nlx"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000469003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Haeleph",
+      "alternate_labels": [
+        "Eleph"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Haeleph",
+          "gloss": "Haeleph",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.792733",
+      "lon": "35.196862"
+    },
+    "vizbible": {
+      "lat": "31.792733",
+      "lon": "35.196862"
+    }
+  },
+  "key_references": [
+    "06018028"
+  ],
+  "references": [
+    "06018028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180280021"
+      ]
+    ]
+  }
+}

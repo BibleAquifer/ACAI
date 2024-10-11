@@ -1,0 +1,46 @@
+{
+  "id": "group:Kenizzites",
+  "primary_id": "group:Kenizzites",
+  "alternate_sources": {
+    "aquifer": [
+      "6551|Kenizzites|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Kenizzites@Gen.15.19"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Kenaz.3",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kenizzites",
+      "alternate_labels": [
+        "Kenizzite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kenizzites",
+          "article": "group:Kenizzites",
+          "description": "People descended from Kenaz."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01015019"
+  ],
+  "references": [
+    "01015019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010150190042"
+      ]
+    ]
+  }
+}

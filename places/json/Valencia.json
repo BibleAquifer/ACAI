@@ -1,0 +1,38 @@
+{
+  "id": "place:Valencia",
+  "primary_id": "place:Valencia",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Valencia",
+          "gloss": "Valencia",
+          "description": "A seaport city on the eastern coast of Spain."
+        }
+      ],
+      "preferred_label": "Valencia",
+      "alternate_labels": [
+        "Valentia"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "39.45248",
+      "lon": "-0.38535"
+    }
+  }
+}

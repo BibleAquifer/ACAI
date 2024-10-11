@@ -1,0 +1,139 @@
+{
+  "id": "person:Perez",
+  "primary_id": "person:Perez",
+  "alternate_sources": {
+    "aquifer": [
+      "7663|Perez, Perezite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Perez@Gen.38.29-Luk"
+    ],
+    "vizbible": [
+      "recMUZkUfOwBiZ3jk"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Judah.4",
+  "mother": "person:Tamar",
+  "offspring": [
+    "person:Hezron.2",
+    "person:Hamul"
+  ],
+  "siblings": [
+    "person:Er.2",
+    "person:Onan",
+    "person:Shelah",
+    "person:Zerah.3"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Perez",
+      "alternate_labels": [
+        "Phares",
+        "Perezite",
+        "Pharez"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Perez",
+          "article": "person:Perez",
+          "description": "A son of Judah by Tamar, and brother to Zerah. He is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Perez"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01038029",
+    "04026020",
+    "40001003"
+  ],
+  "references": [
+    "01038029",
+    "01046012",
+    "04026020",
+    "04026021",
+    "08004012",
+    "08004018",
+    "13002004",
+    "13002005",
+    "13004001",
+    "13009004",
+    "13027003",
+    "16011004",
+    "16011006",
+    "40001003",
+    "42003033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380290111"
+      ],
+      [
+        "o010380290141"
+      ],
+      [
+        "o010460120062"
+      ],
+      [
+        "o010460120151"
+      ],
+      [
+        "o040260200082"
+      ],
+      [
+        "o040260200102"
+      ],
+      [
+        "o040260210031"
+      ],
+      [
+        "o080040120041"
+      ],
+      [
+        "o080040180031",
+        "o080040180041"
+      ],
+      [
+        "o130020040061"
+      ],
+      [
+        "o130020050021"
+      ],
+      [
+        "o130040010031"
+      ],
+      [
+        "o130090040131"
+      ],
+      [
+        "o130270030031"
+      ],
+      [
+        "o160110040211"
+      ],
+      [
+        "o160110060031"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001003005"
+      ],
+      [
+        "n40001003012"
+      ],
+      [
+        "n42003033010"
+      ]
+    ]
+  }
+}

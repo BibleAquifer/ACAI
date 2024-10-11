@@ -1,0 +1,58 @@
+{
+  "id": "place:Trogyllium",
+  "primary_id": "place:Trogyllium",
+  "alternate_sources": {
+    "aquifer": [
+      "8931|Trogyllium|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Trogyllium@Act.20.15"
+    ],
+    "vizbible": [
+      "recdtc3DhxF0SAJRL"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Trogyllium",
+      "alternate_labels": [
+        "[ ]"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Trogyllium",
+          "gloss": "Trogyllium",
+          "description": "A promontory and settlement near the island of Samos."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Samos"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "promontory"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "key_references": [
+    "44020015"
+  ],
+  "references": [
+    "44020015"
+  ]
+}

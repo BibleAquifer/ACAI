@@ -1,0 +1,64 @@
+{
+  "id": "flora:Mallow",
+  "primary_id": "flora:Mallow",
+  "alternate_sources": {
+    "aquifer": [
+      "6906|Mallow|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002303001001000"
+    ],
+    "ubsflora": [
+      "flora:3.5.6"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "002303001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mallow",
+      "alternate_labels": [
+        "Purslane"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mallow",
+          "article": "flora:Mallow",
+          "description": "A bushy shrub with oval leaves; its buds and young leaves are edible but not very tasty."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "flora:Orache"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חַלָּמוּת"
+    ]
+  },
+  "key_references": [
+    "18006006",
+    "18024024"
+  ],
+  "references": [
+    "18006006",
+    "18024024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180060060091"
+      ],
+      [
+        "o180240240052"
+      ]
+    ]
+  }
+}

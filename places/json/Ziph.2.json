@@ -1,0 +1,170 @@
+{
+  "id": "place:Ziph.2",
+  "primary_id": "place:Ziph.2",
+  "alternate_sources": {
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28383"
+    ],
+    "tipnr": [
+      "Ziph@Jos.15.55-Psa",
+      "Ziph@Jos.15.55-Psa",
+      "Ziph@Jos.15.55-Psa"
+    ],
+    "vizbible": [
+      "rec8Xwv1TNVXnXwNj"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wilderness of Ziph",
+      "alternate_labels": [
+        "Ziphite",
+        "Desert of Ziph",
+        "hill country of Ziph",
+        "Ziph"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:WildernessOfZiph",
+          "gloss": "Wilderness of Ziph",
+          "description": "A wilderness region surrounding a town of the same name, near Hebron in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ziph.2",
+    "group:Ziph"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "wilderness"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.4833",
+      "lon": "35.1333"
+    },
+    "recogito": {
+      "lat": "31.478252",
+      "lon": "35.140514"
+    },
+    "vizbible": {
+      "lat": "31.478252",
+      "lon": "35.140514"
+    }
+  },
+  "key_references": [
+    "09023014",
+    "09023015"
+  ],
+  "references": [
+    "06015055",
+    "09023014",
+    "09023015",
+    "09023019",
+    "09023024",
+    "09026001",
+    "09026002",
+    "19054002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150550032"
+      ],
+      [
+        "o090230140081"
+      ],
+      [
+        "o090230150111"
+      ],
+      [
+        "o090230190021"
+      ],
+      [
+        "o090230240031"
+      ],
+      [
+        "o090260010022"
+      ],
+      [
+        "o090260020061"
+      ],
+      [
+        "o090260020171"
+      ],
+      [
+        "o190540020022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090230210041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090230190062"
+      ],
+      [
+        "o090230210071"
+      ],
+      [
+        "o090230220011"
+      ],
+      [
+        "o090230220031"
+      ],
+      [
+        "o090230220052"
+      ],
+      [
+        "o090230220062"
+      ],
+      [
+        "o090230230012"
+      ],
+      [
+        "o090230230022"
+      ],
+      [
+        "o090230230082"
+      ],
+      [
+        "o090230240012"
+      ],
+      [
+        "o090230240022"
+      ],
+      [
+        "o090260010062"
+      ],
+      [
+        "o190540020032"
+      ]
+    ]
+  }
+}

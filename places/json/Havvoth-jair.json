@@ -1,0 +1,123 @@
+{
+  "id": "place:Havvoth-jair",
+  "primary_id": "place:Havvoth-jair",
+  "alternate_sources": {
+    "aquifer": [
+      "5721|Havoth-Jair, Havvoth-Jair|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Havvoth-jair@Num.32.41-1Ch"
+    ],
+    "vizbible": [
+      "recpx625y2be2c5YY"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Havvoth-jair",
+      "alternate_labels": [
+        "settlements of Jair",
+        "Towns of Jair",
+        "Havoth-Jair",
+        "Bashan-havoth-jair",
+        "Jair",
+        "Jair’s Villages",
+        "villages of Jair"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Havvoth-jair",
+          "gloss": "Havvoth-Jair",
+          "description": "Settlements in Gilead that were taken by Jair, of the tribe of Manasseh (Numbers 32:41); in certain passages associated with a person of the same name."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Gilead"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.042523",
+      "lon": "35.724241"
+    },
+    "vizbible": {
+      "lat": "32.042523",
+      "lon": "35.724241"
+    }
+  },
+  "key_references": [
+    "06013030",
+    "04032041"
+  ],
+  "references": [
+    "04032041",
+    "05003014",
+    "06013030",
+    "07010004",
+    "11004013",
+    "13002023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320410012"
+      ],
+      [
+        "o040320410071"
+      ],
+      [
+        "o040320410111"
+      ],
+      [
+        "o050030140011"
+      ],
+      [
+        "o050030140201"
+      ],
+      [
+        "o060130300131"
+      ],
+      [
+        "o070100040151"
+      ],
+      [
+        "o110040130061",
+        "o110040130071"
+      ],
+      [
+        "o130020230051",
+        "o130020230061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040320410052"
+      ],
+      [
+        "o040320410082"
+      ],
+      [
+        "o050030140132"
+      ]
+    ]
+  }
+}

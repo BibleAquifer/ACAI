@@ -1,0 +1,110 @@
+{
+  "id": "realia:Brick",
+  "primary_id": "realia:Brick",
+  "alternate_sources": {
+    "aquifer": [
+      "4336|Brick, Brick Kiln|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003510001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.8.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003510001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Brick",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Brick",
+          "article": "realia:Brick",
+          "description": "A block made of clay, either dried in the sun or baked, used as a building material."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לְבֵנָה"
+    ]
+  },
+  "key_references": [
+    "01011003",
+    "02005007",
+    "23009009",
+    "26004001"
+  ],
+  "references": [
+    "01011003",
+    "02001014",
+    "02005007",
+    "02005008",
+    "02005016",
+    "02005018",
+    "02005019",
+    "02024010",
+    "23009009",
+    "23065003",
+    "26004001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010110030071"
+      ],
+      [
+        "o010110030122"
+      ],
+      [
+        "o020010140073"
+      ],
+      [
+        "o020050070072"
+      ],
+      [
+        "o020050080032"
+      ],
+      [
+        "o020050160052"
+      ],
+      [
+        "o020050180091"
+      ],
+      [
+        "o020050190102",
+        "o020050190103"
+      ],
+      [
+        "o020240100081"
+      ],
+      [
+        "o230090090011"
+      ],
+      [
+        "o230650030112"
+      ],
+      [
+        "o260040010061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260040010082"
+      ],
+      [
+        "o260040010112"
+      ]
+    ]
+  }
+}

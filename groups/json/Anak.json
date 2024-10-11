@@ -1,0 +1,97 @@
+{
+  "id": "group:Anak",
+  "primary_id": "group:Anak",
+  "alternate_sources": {
+    "aquifer": [
+      "3588|Anak, Anakim, Anakites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005565001001000"
+    ],
+    "tipnr": [
+      "Anak@Num.13.22-Jdg"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Anak",
+  "ubsdbh": [
+    "005565001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anakim",
+      "alternate_labels": [
+        "Anak",
+        "Anakites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anakim",
+          "article": "group:Anak",
+          "description": "People descended from Anak who lived in pre-conquest Canaan. The Anakim were a race of giants."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עָנֵר"
+    ]
+  },
+  "key_references": [
+    "05009002"
+  ],
+  "references": [
+    "05001028",
+    "05002010",
+    "05002011",
+    "05002021",
+    "05009002",
+    "06011021",
+    "06011022",
+    "06014012",
+    "06014015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050010280191"
+      ],
+      [
+        "o050020100092"
+      ],
+      [
+        "o050020110052"
+      ],
+      [
+        "o050020210052"
+      ],
+      [
+        "o050090020051"
+      ],
+      [
+        "o060110210072"
+      ],
+      [
+        "o060110220031"
+      ],
+      [
+        "o060140120181"
+      ],
+      [
+        "o060140150082"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o060110220111"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "person:Saph",
+  "primary_id": "person:Saph",
+  "alternate_sources": {
+    "aquifer": [
+      "8137|Saph|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Sippai|Saph@2Sa.21.18-1Ch",
+      "Saph@2Sa.21.18-1Ch"
+    ],
+    "vizbible": [
+      "recAmQnGNpdkAod3D"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Rapha",
+  "siblings": [
+    "person:Goliath",
+    "person:Ishbi-benob",
+    "person:Lahmi",
+    "person:HugeMan"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Saph",
+      "alternate_labels": [
+        "Sippai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Saph",
+          "article": "person:Saph",
+          "description": "Saph, also known as Sippai, was a giant living at the time of Israel's united kingdom, first mentioned in 2 Samuel 21:18, and was the son of Rapha and brother of Goliath, Ishbi-benob, Lahmi, and another huge man."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Sippai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10021018",
+    "13020004"
+  ],
+  "references": [
+    "10021018",
+    "13020004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100210180151"
+      ],
+      [
+        "o130200040141"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o100210220031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100210220072"
+      ]
+    ]
+  }
+}

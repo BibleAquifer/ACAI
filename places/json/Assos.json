@@ -1,0 +1,114 @@
+{
+  "id": "place:Assos",
+  "primary_id": "place:Assos",
+  "alternate_sources": {
+    "aquifer": [
+      "3837|Assos|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a0a2ca7"
+    ],
+    "ubsdgnt": [
+      "93.417"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21199"
+    ],
+    "tipnr": [
+      "Assos@Act.20.13-"
+    ],
+    "vizbible": [
+      "recRYZ3EbNAloBZSA"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q744631"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.417"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Assos",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Assos",
+          "gloss": "Assos",
+          "description": "A seaport city of Mysia where Paul met up with Luke during his third missionary journey."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Troas"
+  ],
+  "subregion_of": [
+    "place:Mysia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἆσσος"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "39.48955031",
+      "lon": "26.33586734"
+    },
+    "recogito": {
+      "lat": "39.490601",
+      "lon": "26.337061"
+    },
+    "vizbible": {
+      "lat": "39.490601",
+      "lon": "26.337061"
+    },
+    "biblica-maps": {
+      "lat": "39.49358",
+      "lon": "26.33809"
+    }
+  },
+  "key_references": [
+    "44020013"
+  ],
+  "references": [
+    "44020013",
+    "44020014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44020013010"
+      ],
+      [
+        "n44020014007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44020013011"
+      ]
+    ]
+  }
+}

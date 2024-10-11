@@ -1,0 +1,78 @@
+{
+  "id": "person:Hazarmaveth",
+  "primary_id": "person:Hazarmaveth",
+  "alternate_sources": {
+    "aquifer": [
+      "5730|Hazarmaveth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002493001001000"
+    ],
+    "tipnr": [
+      "Hazarmaveth@Gen.10.26-1Ch"
+    ],
+    "vizbible": [
+      "recRXVxC1fI6jSxfS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joktan",
+  "siblings": [
+    "person:Almodad",
+    "person:Sheleph",
+    "person:Jerah",
+    "person:Hadoram.2",
+    "person:Uzal",
+    "person:Diklah",
+    "person:Obal",
+    "person:Abimael",
+    "person:Sheba.2",
+    "person:Ophir",
+    "person:Havilah.2",
+    "person:Jobab"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "002493001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazarmaveth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hazarmaveth",
+          "article": "person:Hazarmaveth",
+          "description": "Hazarmaveth was a man living at the time of the patriarchs, a son of Joktan and a descendant of Shem, mentioned in Genesis 10:26."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֲצַרְמָוֶת",
+      "חֲצַרְמָ֫וֶת"
+    ]
+  },
+  "key_references": [
+    "01010026",
+    "13001020"
+  ],
+  "references": [
+    "01010026",
+    "13001020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100260081"
+      ],
+      [
+        "o130010200081"
+      ]
+    ]
+  }
+}

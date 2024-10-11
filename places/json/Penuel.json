@@ -1,0 +1,102 @@
+{
+  "id": "place:Penuel",
+  "primary_id": "place:Penuel",
+  "alternate_sources": {
+    "aquifer": [
+      "7649|Penuel (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a8a9ff9"
+    ],
+    "tipnr": [
+      "Penuel@Gen.32.30-1Ki"
+    ],
+    "vizbible": [
+      "recKsSsPEDA3H2QXE"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q733822"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Penuel",
+      "alternate_labels": [
+        "Peniel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Penuel",
+          "gloss": "Penuel",
+          "description": "A town on the Jabbok River; also known as Peniel."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.18437278",
+      "lon": "35.70287003"
+    },
+    "vizbible": {
+      "lat": "32.18437278",
+      "lon": "35.70287003"
+    }
+  },
+  "key_references": [
+    "01032032",
+    "01032031"
+  ],
+  "references": [
+    "01032031",
+    "01032032",
+    "07008008",
+    "07008009",
+    "07008017",
+    "11012025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010320310051"
+      ],
+      [
+        "o010320320071"
+      ],
+      [
+        "o070080080031"
+      ],
+      [
+        "o070080080101"
+      ],
+      [
+        "o070080090041"
+      ],
+      [
+        "o070080170031"
+      ],
+      [
+        "o110120250131"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "place:Gederothaim",
+  "primary_id": "place:Gederothaim",
+  "alternate_sources": {
+    "aquifer": [
+      "5399|Gederothaim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001332001001000"
+    ],
+    "tipnr": [
+      "Gederothaim@Jos.15.36"
+    ],
+    "vizbible": [
+      "recINyglIMH5HJ6yW"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001332001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gederothaim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gederothaim",
+          "gloss": "Gederothaim",
+          "description": "A town in the foothills of the territory of Judah; possibly identical to Gederah."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Gederah"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גְּדֵרֹתַיִם",
+      "גְּדֵרֹתָ֑יִם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.823337",
+      "lon": "34.777779"
+    },
+    "vizbible": {
+      "lat": "31.823337",
+      "lon": "34.777779"
+    }
+  },
+  "key_references": [
+    "06015036"
+  ],
+  "references": [
+    "06015036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150360042"
+      ]
+    ]
+  }
+}

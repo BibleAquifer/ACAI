@@ -1,0 +1,270 @@
+{
+  "id": "place:Beersheba",
+  "primary_id": "place:Beersheba",
+  "alternate_sources": {
+    "aquifer": [
+      "4072|Beersheba|TyndaleBibleDictionary",
+      "26377|Beersheba|UWTranslationWords",
+      "132241|Beersheba|BiblicaStudyNotesKeyTerms"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/687846"
+    ],
+    "tipnr": [
+      "Beersheba@Gen.21.14-Amo",
+      "Shibah|Beersheba@Gen.21.14-Amo",
+      "Sheba|Beersheba@Gen.21.14-Amo"
+    ],
+    "vizbible": [
+      "rectrAkGtrZH5LMp8"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beersheba (in the Negev)",
+      "alternate_labels": [
+        "Shibah",
+        "Sheba",
+        "Beer-Sheba"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beersheba.1",
+          "gloss": "Beersheba (in the Negev)",
+          "description": "A town located in the Negev, at the southern border of Judah; used especially in combination with Dan at the northern border of Israel to refer to all Israel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Sheba",
+    "place:Shibah"
+  ],
+  "tribal_area": "group:Judah",
+  "associated_places": [
+    "place:Dan"
+  ],
+  "subregion_of": [
+    "place:Negeb",
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.24495217",
+      "lon": "34.84088858"
+    },
+    "recogito": {
+      "lat": "31.245",
+      "lon": "34.84068"
+    },
+    "vizbible": {
+      "lat": "31.245",
+      "lon": "34.84068"
+    }
+  },
+  "key_references": [
+    "01021031"
+  ],
+  "references": [
+    "01021014",
+    "01021031",
+    "01021032",
+    "01021033",
+    "01022019",
+    "01026023",
+    "01026033",
+    "01028010",
+    "01046001",
+    "01046005",
+    "06015028",
+    "06019002",
+    "07020001",
+    "09003020",
+    "09008002",
+    "10003010",
+    "10017011",
+    "10024002",
+    "10024007",
+    "10024015",
+    "11005005",
+    "11019003",
+    "12012002",
+    "12023008",
+    "13004028",
+    "13021002",
+    "14019004",
+    "14024001",
+    "14030005",
+    "16011027",
+    "16011030",
+    "30005005",
+    "30008014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010210140201",
+        "o010210140211"
+      ],
+      [
+        "o010210310061",
+        "o010210310071"
+      ],
+      [
+        "o010210320032",
+        "o010210320041"
+      ],
+      [
+        "o010210330032",
+        "o010210330041"
+      ],
+      [
+        "o010220190091",
+        "o010220190101"
+      ],
+      [
+        "o010220190132",
+        "o010220190141"
+      ],
+      [
+        "o010260230031",
+        "o010260230041"
+      ],
+      [
+        "o010260330031"
+      ],
+      [
+        "o010260330081",
+        "o010260330091"
+      ],
+      [
+        "o010280100032",
+        "o010280100041"
+      ],
+      [
+        "o010460010071"
+      ],
+      [
+        "o010460010081"
+      ],
+      [
+        "o010460050032",
+        "o010460050041"
+      ],
+      [
+        "o060150280032",
+        "o060150280041"
+      ],
+      [
+        "o060190020041",
+        "o060190020051"
+      ],
+      [
+        "o060190020062"
+      ],
+      [
+        "o070200010111",
+        "o070200010121"
+      ],
+      [
+        "o090030200061",
+        "o090030200071"
+      ],
+      [
+        "o090080020102",
+        "o090080020111"
+      ],
+      [
+        "o100030100151",
+        "o100030100161"
+      ],
+      [
+        "o100170110101",
+        "o100170110111"
+      ],
+      [
+        "o100240020161",
+        "o100240020171"
+      ],
+      [
+        "o100240070121",
+        "o100240070131"
+      ],
+      [
+        "o100240150141",
+        "o100240150151"
+      ],
+      [
+        "o110050050121",
+        "o110050050131"
+      ],
+      [
+        "o110190030071",
+        "o110190030081"
+      ],
+      [
+        "o120120020132",
+        "o120120020141"
+      ],
+      [
+        "o120230080161",
+        "o120230080171"
+      ],
+      [
+        "o130040280022",
+        "o130040280031"
+      ],
+      [
+        "o130210020122",
+        "o130210020131"
+      ],
+      [
+        "o140190040072",
+        "o140190040081"
+      ],
+      [
+        "o140240010132",
+        "o140240010141"
+      ],
+      [
+        "o140300050072",
+        "o140300050081"
+      ],
+      [
+        "o160110270033",
+        "o160110270041"
+      ],
+      [
+        "o160110300092",
+        "o160110300101"
+      ],
+      [
+        "o300050050082",
+        "o300050050091"
+      ],
+      [
+        "o300080140101",
+        "o300080140111"
+      ]
+    ]
+  }
+}

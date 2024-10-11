@@ -1,0 +1,64 @@
+{
+  "id": "person:Jonam",
+  "primary_id": "person:Jonam",
+  "alternate_sources": {
+    "aquifer": [
+      "6430|Jonam, Jonan|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.196"
+    ],
+    "tipnr": [
+      "Jonam@Luk.3.30"
+    ],
+    "vizbible": [
+      "rec3qojm35Re7WKoh"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliakim.2",
+  "offspring": [
+    "person:Joseph.8"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.196"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jonam",
+      "alternate_labels": [
+        "Jonan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jonam",
+          "article": "person:Jonam",
+          "description": "Son of Eliakim and the father of Joseph in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰωνάμ"
+    ]
+  },
+  "key_references": [
+    "42003030"
+  ],
+  "references": [
+    "42003030"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003030008"
+      ]
+    ]
+  }
+}

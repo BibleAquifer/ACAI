@@ -1,0 +1,65 @@
+{
+  "id": "person:Azarel.5",
+  "primary_id": "person:Azarel.5",
+  "alternate_sources": {
+    "aquifer": [
+      "3900|Azarel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005353001006000"
+    ],
+    "tipnr": [
+      "Azarel@Neh.12.36"
+    ],
+    "vizbible": [
+      "recvuL6bhc3XX2SFy"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jonathan.12",
+  "siblings": [
+    "person:Zechariah.28",
+    "person:Shemaiah.22",
+    "person:Milalai",
+    "person:Gilalai",
+    "person:Maai",
+    "person:Nethanel.10",
+    "person:Judah.8",
+    "person:Hanani.5"
+  ],
+  "ubsdbh": [
+    "005353001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azarel (Nehemiah 12:36)",
+      "alternate_labels": [
+        "Azarael"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azarel (Nehemiah 12:36)",
+          "article": "person:Azarel.5",
+          "description": "A man from the time of exile and return, son of Jonathan, mentioned in Nehemiah 12:36."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16012036"
+  ],
+  "references": [
+    "16012036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160120360032"
+      ]
+    ]
+  }
+}

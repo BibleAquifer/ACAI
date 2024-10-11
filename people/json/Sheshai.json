@@ -1,0 +1,66 @@
+{
+  "id": "person:Sheshai",
+  "primary_id": "person:Sheshai",
+  "alternate_sources": {
+    "aquifer": [
+      "8376|Sheshai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007660001001000"
+    ],
+    "tipnr": [
+      "Sheshai@Num.13.22-Jdg"
+    ],
+    "vizbible": [
+      "recYI8GwhUiwlzWZu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Anak",
+  "siblings": [
+    "person:Ahiman",
+    "person:Talmai"
+  ],
+  "ubsdbh": [
+    "007660001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheshai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sheshai",
+          "article": "person:Sheshai",
+          "description": "Sheshai, a man living during the time of Egypt and the wilderness, is first mentioned in Numbers 13:22 as the son of Anak."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04013022",
+    "06015014",
+    "07001010"
+  ],
+  "references": [
+    "04013022",
+    "06015014",
+    "07001010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130220081"
+      ],
+      [
+        "o060150140091"
+      ],
+      [
+        "o070010100141"
+      ]
+    ]
+  }
+}

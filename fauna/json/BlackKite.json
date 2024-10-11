@@ -1,0 +1,110 @@
+{
+  "id": "fauna:BlackKite",
+  "primary_id": "fauna:BlackKite",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001539001001000",
+      "001630001001000",
+      "006635001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.14"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "001539001001000",
+    "001630001001000",
+    "006635001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Black Kite",
+      "alternate_labels": [
+        "Kite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Black Kite",
+          "article": "fauna:BlackKite",
+          "description": "A dark brown bird of prey with a greyish head and a V-shaped tail that eats insects, frogs, and dead animals. It was considered ceremonially unclean to eat."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דָּאָה",
+      "דַּיָּה",
+      "רָאָה"
+    ]
+  },
+  "key_references": [
+    "03011014",
+    "05014013",
+    "23034015"
+  ],
+  "references": [
+    "03011014",
+    "05014013",
+    "23034015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110140022"
+      ],
+      [
+        "o050140130043"
+      ],
+      [
+        "o230340150111"
+      ],
+      [
+        "o050140130013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o050140130053"
+      ],
+      [
+        "o230340150121"
+      ],
+      [
+        "o230340160072"
+      ],
+      [
+        "o230340160101"
+      ],
+      [
+        "o230340160202"
+      ],
+      [
+        "o230340170032"
+      ],
+      [
+        "o230340170072"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230340160131"
+      ],
+      [
+        "o230340170111"
+      ],
+      [
+        "o230340170141"
+      ]
+    ]
+  }
+}

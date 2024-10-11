@@ -1,0 +1,91 @@
+{
+  "id": "place:Zererah",
+  "primary_id": "place:Zarethan",
+  "alternate_sources": {
+    "aquifer": [
+      "9195|Zererah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006341001001000"
+    ],
+    "tipnr": [
+      "Zererah|Zarethan@Jos.3.16-2Ch"
+    ],
+    "vizbible": [
+      "recBysc3TP9gezHu2"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006341001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zererah",
+      "alternate_labels": [
+        "Zererath",
+        "Zarethan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zererah",
+          "gloss": "Zererah",
+          "description": "A town in the Jordan Valley, in the territory of Ephraim, toward which the Midianites fled from Gideon and his army."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Zarethan",
+    "place:Zeredah"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:JordanValley",
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "צֶרֶת",
+      "צֶ֫רֶת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.267821",
+      "lon": "35.576613"
+    },
+    "vizbible": {
+      "lat": "32.267821",
+      "lon": "35.576613"
+    }
+  },
+  "key_references": [
+    "07007022"
+  ],
+  "references": [
+    "07007022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070070220181"
+      ]
+    ]
+  }
+}

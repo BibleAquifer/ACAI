@@ -1,0 +1,114 @@
+{
+  "id": "place:Decapolis",
+  "primary_id": "place:Decapolis",
+  "alternate_sources": {
+    "aquifer": [
+      "4790|Decapolis|TyndaleBibleDictionary",
+      "280112|decapolis|FIAKeyTerms"
+    ],
+    "obi": [
+      "ae733a2"
+    ],
+    "ubsdgnt": [
+      "93.460"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678116",
+      "http://pleiades.stoa.org/places/678224"
+    ],
+    "tipnr": [
+      "Decapolis@Mat.4.25-Mrk"
+    ],
+    "vizbible": [
+      "recmKQbYJdJMGjw23"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q823244"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.460"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Decapolis",
+      "alternate_labels": [
+        "Ten Towns"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Decapolis",
+          "gloss": "Decapolis",
+          "description": "A league of ten cities in a region southeast of the Sea of Galilee, where Jesus healed a deaf man (Matthew 27:31–37; Mark 15:21–32)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Trachonitis",
+    "place:Samaria.2",
+    "place:GalileeSea",
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Δεκάπολις"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.519299",
+      "lon": "36.31344999999999"
+    },
+    "recogito": {
+      "lat": "32.599424",
+      "lon": "35.858544"
+    },
+    "vizbible": {
+      "lat": "33.519299",
+      "lon": "36.31344999999999"
+    }
+  },
+  "key_references": [
+    "41007031",
+    "40004025",
+    "41005020"
+  ],
+  "references": [
+    "40004025",
+    "41005020",
+    "41007031"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40004025010"
+      ],
+      [
+        "n41005020008"
+      ],
+      [
+        "n41007031020"
+      ]
+    ]
+  }
+}

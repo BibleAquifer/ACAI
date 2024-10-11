@@ -1,0 +1,78 @@
+{
+  "id": "person:Justus.3",
+  "primary_id": "person:Justus.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6505|Justus|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jesus|Justus@Col.4.11",
+      "Justus@Col.4.11"
+    ],
+    "vizbible": [
+      "recVsteZcT2Gr0Ah2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Disciple"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Justus (Colossians 4:11)",
+      "alternate_labels": [
+        "Jesus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Justus (Colossians 4:11)",
+          "article": "person:Justus.3",
+          "description": "A man called Jesus, also known as Justus, mentioned in Colossians 4:11."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jesus.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "51004011"
+  ],
+  "references": [
+    "51004011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n51004011002"
+      ],
+      [
+        "n51004011005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n51004011010"
+      ],
+      [
+        "n51004011018"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n51004011004"
+      ],
+      [
+        "n51004011007"
+      ]
+    ]
+  }
+}

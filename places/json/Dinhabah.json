@@ -1,0 +1,96 @@
+{
+  "id": "place:Dinhabah",
+  "primary_id": "place:Dinhabah",
+  "alternate_sources": {
+    "aquifer": [
+      "4850|Dinhabah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae28fc7"
+    ],
+    "ubsdbh": [
+      "001693001001000"
+    ],
+    "tipnr": [
+      "Dinhabah@Gen.36.32-1Ch"
+    ],
+    "vizbible": [
+      "recCUWlaj24StC6GY"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5278308"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001693001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dinhabah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dinhabah",
+          "gloss": "Dinhabah",
+          "description": "A town in Edom ruled by Bela, son of Beor."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Edom",
+  "subregion_of": [
+    "place:Edom"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "דִּנְהָבָה",
+      "דִּנְהָ֑בָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.336614",
+      "lon": "35.529889"
+    },
+    "vizbible": {
+      "lat": "30.336614",
+      "lon": "35.529889"
+    }
+  },
+  "key_references": [
+    "01036032",
+    "13001043"
+  ],
+  "references": [
+    "01036032",
+    "13001043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360320081"
+      ],
+      [
+        "o130010430171"
+      ]
+    ]
+  }
+}

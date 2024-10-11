@@ -1,0 +1,84 @@
+{
+  "id": "place:Hazor.5",
+  "primary_id": "place:Hazor.5",
+  "alternate_sources": {
+    "aquifer": [
+      "5742|Hazor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002466001004000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/779967430"
+    ],
+    "tipnr": [
+      "Hazor@Jer.49.28-"
+    ],
+    "vizbible": [
+      "recCTS6dFI952Sd1m"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002466001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazor (of Jeremiah)",
+      "alternate_labels": [
+        "Hazor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hazor.5",
+          "gloss": "Hazor (of Jeremiah)",
+          "description": "A kingdom destroyed by Nebuchadnezzar."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "recogito": {
+      "lat": "33.01746212803129",
+      "lon": "35.56813718"
+    }
+  },
+  "key_references": [
+    "24049033",
+    "24049028",
+    "24049030"
+  ],
+  "references": [
+    "24049028",
+    "24049030",
+    "24049033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240490280031"
+      ],
+      [
+        "o240490300071"
+      ],
+      [
+        "o240490330021"
+      ]
+    ]
+  }
+}

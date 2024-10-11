@@ -1,0 +1,82 @@
+{
+  "id": "person:Hezron",
+  "primary_id": "person:Hezron",
+  "alternate_sources": {
+    "aquifer": [
+      "5838|Hezron (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002489001001000"
+    ],
+    "tipnr": [
+      "Hezron@Gen.46.9-1Ch"
+    ],
+    "vizbible": [
+      "recGyiKSySYMve0Cx"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Reuben",
+  "siblings": [
+    "person:Hanoch.2",
+    "person:Pallu",
+    "person:Carmi.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Reuben",
+  "ubsdbh": [
+    "002489001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hezron",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hezron",
+          "article": "person:Hezron",
+          "description": "Son of the patriarch Rueben who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites He was founder of the Hezronite clan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶצְרֹון",
+      "חֶצְרוֹן"
+    ]
+  },
+  "key_references": [
+    "01046009",
+    "02006014",
+    "04026006"
+  ],
+  "references": [
+    "01046009",
+    "02006014",
+    "04026006",
+    "13005003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460090052"
+      ],
+      [
+        "o020060140111"
+      ],
+      [
+        "o040260060012"
+      ],
+      [
+        "o130050030071"
+      ]
+    ]
+  }
+}

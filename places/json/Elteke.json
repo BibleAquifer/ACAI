@@ -1,0 +1,75 @@
+{
+  "id": "place:Elteke",
+  "primary_id": "place:Eltekeh",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000478001001000"
+    ],
+    "tipnr": [
+      "Elteke|Eltekeh@Jos.19.44-"
+    ],
+    "vizbible": [
+      "recvLZB9Y6g5zrtse"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000478001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elteke",
+      "alternate_labels": [
+        "Eltekeh"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Eltekeh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶלְתְּקֵא"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.869521",
+      "lon": "35.06688"
+    },
+    "vizbible": {
+      "lat": "31.869521",
+      "lon": "35.06688"
+    }
+  },
+  "key_references": [
+    "06019044",
+    "06021023"
+  ],
+  "references": [
+    "06019044",
+    "06021023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060210230041"
+      ]
+    ]
+  }
+}

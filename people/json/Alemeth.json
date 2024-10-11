@@ -1,0 +1,66 @@
+{
+  "id": "person:Alemeth",
+  "primary_id": "person:Alemeth",
+  "alternate_sources": {
+    "aquifer": [
+      "3497|Alemeth (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005475001002000"
+    ],
+    "tipnr": [
+      "Alemeth@1Ch.7.8"
+    ],
+    "vizbible": [
+      "recpICK1Sw7QwVxUd"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Becher",
+  "siblings": [
+    "person:Zemirah",
+    "person:Joash.7",
+    "person:Eliezer.4",
+    "person:Elioenai.3",
+    "person:Omri.2",
+    "person:Jeremoth",
+    "person:Abijah.5",
+    "person:Anathoth"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005475001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Alemeth",
+      "alternate_labels": [
+        "Alameth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Alemeth",
+          "article": "person:Alemeth",
+          "description": "A man of the tribe of Benjamin living during the time of Egypt and the wilderness, mentioned in 1 Chronicles 7:8."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007008"
+  ],
+  "references": [
+    "13007008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070080112"
+      ]
+    ]
+  }
+}

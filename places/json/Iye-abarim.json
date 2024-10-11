@@ -1,0 +1,88 @@
+{
+  "id": "place:Iye-abarim",
+  "primary_id": "place:Iye-abarim",
+  "alternate_sources": {
+    "aquifer": [
+      "6121|Iye-Abarim, Iyim|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Iye-abarim@Num.21.11-"
+    ],
+    "vizbible": [
+      "recr2LdyigJIb8bvj"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Iye-abarim",
+      "alternate_labels": [
+        "Iye",
+        "Ijim",
+        "Ije-Abarim",
+        "Iim",
+        "Iyim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Iye-abarim",
+          "gloss": "Iye-Abarim",
+          "description": "A location east of Moab, along the route of the exodus; also known as Iim."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Iim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.49684513710609",
+      "lon": "35.78284105296996"
+    },
+    "vizbible": {
+      "lat": "31.49684513710609",
+      "lon": "35.78284105296996"
+    }
+  },
+  "key_references": [
+    "04021011",
+    "04033044",
+    "04033045"
+  ],
+  "references": [
+    "04021011",
+    "04033044",
+    "04033045"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210110042",
+        "o040210110051"
+      ],
+      [
+        "o040330440042",
+        "o040330440051"
+      ],
+      [
+        "o040330450022"
+      ]
+    ]
+  }
+}

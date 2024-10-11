@@ -1,0 +1,92 @@
+{
+  "id": "place:Pithom",
+  "primary_id": "place:Pithom",
+  "alternate_sources": {
+    "aquifer": [
+      "7753|Pithom|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a3870fe"
+    ],
+    "ubsdbh": [
+      "006083001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/727124",
+      "http://pleiades.stoa.org/places/727124"
+    ],
+    "tipnr": [
+      "Pithom@Exo.1.11"
+    ],
+    "vizbible": [
+      "rec9Z4Z0YEILCz2D6"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1630019"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006083001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pithom",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pithom",
+          "gloss": "Pithom",
+          "description": "A town in Egypt; one of the two cities for storage that had to be built by the Hebrew slaves."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.59385133",
+      "lon": "32.18555803"
+    },
+    "recogito": {
+      "lat": "30.55278",
+      "lon": "32.09944"
+    },
+    "vizbible": {
+      "lat": "30.59385133",
+      "lon": "32.18555803"
+    }
+  },
+  "key_references": [
+    "02001011"
+  ],
+  "references": [
+    "02001011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020010110131"
+      ]
+    ]
+  }
+}

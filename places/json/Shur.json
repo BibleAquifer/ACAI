@@ -1,0 +1,104 @@
+{
+  "id": "place:Shur",
+  "primary_id": "place:Shur",
+  "alternate_sources": {
+    "obi": [
+      "acdbce0"
+    ],
+    "ubsdbh": [
+      "007269003001000"
+    ],
+    "tipnr": [
+      "Shur@Gen.16.7-1Sa"
+    ],
+    "vizbible": [
+      "recKc1ulr0DPuFTnO"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q7505200"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007269003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shur",
+      "alternate_labels": [
+        "Desert of Shur",
+        "Wilderness of Shur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shur",
+          "gloss": "Shur",
+          "description": "A wilderness east of Egypt."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement"
+    ],
+    "acai": [
+      "wilderness"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.2354",
+      "lon": "33.247"
+    },
+    "vizbible": {
+      "lat": "30.2354",
+      "lon": "33.247"
+    }
+  },
+  "key_references": [
+    "02015022",
+    "01020001"
+  ],
+  "references": [
+    "01016007",
+    "01020001",
+    "01025018",
+    "02015022",
+    "09015007",
+    "09027008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010160070111"
+      ],
+      [
+        "o010200010101"
+      ],
+      [
+        "o010250180041"
+      ],
+      [
+        "o020150220101"
+      ],
+      [
+        "o090150070071"
+      ],
+      [
+        "o090270080171"
+      ]
+    ]
+  }
+}

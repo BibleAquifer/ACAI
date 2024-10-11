@@ -1,0 +1,61 @@
+{
+  "id": "person:Joiada",
+  "primary_id": "person:Joiada",
+  "alternate_sources": {
+    "aquifer": [
+      "6417|Joiada|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002826001003000"
+    ],
+    "tipnr": [
+      "Joiada@Neh.3.6"
+    ],
+    "vizbible": [
+      "recFrsvUACpR5YGfG"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Paseah.3",
+  "ubsdbh": [
+    "002826001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joiada",
+      "alternate_labels": [
+        "Jehoiada"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joiada",
+          "article": "person:Joiada",
+          "description": "A man, son of Paseah, who helped repair the wall of Jerusalem after the exile, mentioned in Nehemiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹויָדָע",
+      "יוֹיָדָע"
+    ]
+  },
+  "key_references": [
+    "16003006"
+  ],
+  "references": [
+    "16003006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030060051"
+      ]
+    ]
+  }
+}

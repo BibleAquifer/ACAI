@@ -1,0 +1,80 @@
+{
+  "id": "place:Shahazumah",
+  "primary_id": "place:Shahazumah",
+  "alternate_sources": {
+    "aquifer": [
+      "8262|Shahazumah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007297001001000"
+    ],
+    "tipnr": [
+      "Shahazumah@Jos.19.22"
+    ],
+    "vizbible": [
+      "receepwWdZe3c7HEy"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007297001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shahazumah",
+      "alternate_labels": [
+        "Shahazimah",
+        "Ketiv. Qere"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shahazumah",
+          "gloss": "Shahazumah",
+          "description": "A town in the territory of Issachar."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Issachar",
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.406430",
+      "lon": "35.504628"
+    },
+    "vizbible": {
+      "lat": "32.406430",
+      "lon": "35.504628"
+    }
+  },
+  "key_references": [
+    "06019022"
+  ],
+  "references": [
+    "06019022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190220052"
+      ]
+    ]
+  }
+}

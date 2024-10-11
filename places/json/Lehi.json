@@ -1,0 +1,103 @@
+{
+  "id": "place:Lehi",
+  "primary_id": "place:Lehi",
+  "alternate_sources": {
+    "aquifer": [
+      "6717|Lehi|TyndaleBibleDictionary"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/5777224"
+    ],
+    "tipnr": [
+      "Lehi@Jdg.15.9-2Sa"
+    ],
+    "vizbible": [
+      "recNowoUM11x2dhdR"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lehi",
+      "alternate_labels": [
+        "a troop",
+        "in the jaw",
+        "a place"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lehi",
+          "gloss": "Lehi",
+          "description": "A location near Judah's border with Philistia where Samson killed many Philistines with a donkey jawbone."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.75274835811488",
+      "lon": "34.97660913147738"
+    },
+    "recogito": {
+      "lat": "40.39162",
+      "lon": "-111.85077"
+    },
+    "vizbible": {
+      "lat": "31.75274835811488",
+      "lon": "34.97660913147738"
+    }
+  },
+  "key_references": [
+    "07015009",
+    "07015019"
+  ],
+  "references": [
+    "07015009",
+    "07015014",
+    "07015019",
+    "10023011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070150090062"
+      ],
+      [
+        "o070150140041"
+      ],
+      [
+        "o070150190062"
+      ],
+      [
+        "o070150190212"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o070150170092"
+      ]
+    ]
+  }
+}

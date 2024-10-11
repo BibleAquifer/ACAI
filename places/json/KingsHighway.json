@@ -1,0 +1,96 @@
+{
+  "id": "place:KingsHighway",
+  "primary_id": "place:KingsHighway",
+  "alternate_sources": {
+    "aquifer": [
+      "6592|King’s Highway|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004048001001000",
+      "001719001010000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/7262515"
+    ],
+    "tipnr": [
+      "King's_Highway@Num.20.17"
+    ],
+    "vizbible": [
+      "recy4WNqnI13AMRFp"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004048001001000",
+    "001719001010000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "King’s Highway",
+      "alternate_labels": [
+        "Highway",
+        "King's Highway"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:KingsHighway",
+          "gloss": "King’s Highway",
+          "description": "A road leading through the Transjordan along the desert border, connecting Damascus with the Gulf of Aqabah."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "road"
+    ],
+    "acai": [
+      "road"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.18132579594509",
+      "lon": "35.70214779044711"
+    },
+    "recogito": {
+      "lat": "46.18399",
+      "lon": "-122.91715"
+    },
+    "vizbible": {
+      "lat": "31.18132579594509",
+      "lon": "35.70214779044711"
+    }
+  },
+  "key_references": [
+    "04021022",
+    "04020017"
+  ],
+  "references": [
+    "04020017",
+    "04021022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040200170121"
+      ],
+      [
+        "o040200170132"
+      ],
+      [
+        "o040210220112"
+      ],
+      [
+        "o040210220122"
+      ]
+    ]
+  }
+}

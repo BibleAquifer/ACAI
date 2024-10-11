@@ -1,0 +1,68 @@
+{
+  "id": "person:Zimmah",
+  "primary_id": "person:Zimmah",
+  "alternate_sources": {
+    "aquifer": [
+      "9226|Zimmah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001992002001000",
+      "001992002002000"
+    ],
+    "tipnr": [
+      "Zimmah@1Ch.6.20-"
+    ],
+    "vizbible": [
+      "rec6xPagcodrrJGxT"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shimei.2",
+  "offspring": [
+    "person:Joah.2"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "001992002001000",
+    "001992002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zimmah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zimmah",
+          "article": "person:Zimmah",
+          "description": "Zimmah was a man from the tribe of Levi, living during the time of the divided kingdom, mentioned in 1 Chronicles 6:20 as the son of Shimei and ancestor of Asaph."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זִמָּה"
+    ]
+  },
+  "key_references": [
+    "13006005",
+    "13006027"
+  ],
+  "references": [
+    "13006005",
+    "13006027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060050061"
+      ],
+      [
+        "o130060270041"
+      ]
+    ]
+  }
+}

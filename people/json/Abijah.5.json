@@ -1,0 +1,74 @@
+{
+  "id": "person:Abijah.5",
+  "primary_id": "person:Abijah.5",
+  "alternate_sources": {
+    "aquifer": [
+      "3301|Abijah|TyndaleBibleDictionary",
+      "26278|Abijah|UWTranslationWords",
+      "132427|Abijah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000028001001000"
+    ],
+    "tipnr": [
+      "Abijah@1Ch.7.8"
+    ],
+    "vizbible": [
+      "rec7W6d7aiN2eqPCh"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Becher",
+  "siblings": [
+    "person:Zemirah",
+    "person:Joash.7",
+    "person:Eliezer.4",
+    "person:Elioenai.3",
+    "person:Omri.2",
+    "person:Jeremoth",
+    "person:Anathoth",
+    "person:Alemeth"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000028001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abijah (1 Chronicles 7:8)",
+      "alternate_labels": [
+        "Abiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abijah (1 Chronicles 7:8)",
+          "article": "person:Abijah.5",
+          "description": "The son of Becher from the tribe of Benjamin, mentioned in 1 Chronicles 7:8."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִיָּה",
+      "אֲבִיָּ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "13007008"
+  ],
+  "references": [
+    "13007008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070080092"
+      ]
+    ]
+  }
+}

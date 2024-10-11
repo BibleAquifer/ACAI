@@ -1,0 +1,73 @@
+{
+  "id": "deity:Artemis",
+  "primary_id": "deity:Artemis",
+  "alternate_sources": {
+    "aquifer": [
+      "3768|Artemis|TyndaleBibleDictionary",
+      "132083|Artemis|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.43"
+    ],
+    "tipnr": [
+      "Artemis@Act.19.24-"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdgnt": [
+    "93.43"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Artemis",
+      "alternate_labels": [
+        "Diana"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Artemis",
+          "article": "deity:Artemis",
+          "description": "A Greek fertility goddess associated with Ephesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἄρτεμις"
+    ]
+  },
+  "key_references": [
+    "44019024"
+  ],
+  "references": [
+    "44019024",
+    "44019027",
+    "44019028",
+    "44019034",
+    "44019035"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44019024009"
+      ],
+      [
+        "n44019027018"
+      ],
+      [
+        "n44019028011"
+      ],
+      [
+        "n44019034018"
+      ],
+      [
+        "n44019035024"
+      ]
+    ]
+  }
+}

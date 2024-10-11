@@ -1,0 +1,80 @@
+{
+  "id": "person:Hosah",
+  "primary_id": "person:Hosah",
+  "alternate_sources": {
+    "aquifer": [
+      "5914|Hosah (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002414001001000"
+    ],
+    "tipnr": [
+      "Hosah@1Ch.16.38-"
+    ],
+    "vizbible": [
+      "recafAi8oLYuyjRHa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Shimri.3",
+    "person:Hilkiah.4",
+    "person:Tebaliah",
+    "person:Zechariah.7"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "ubsdbh": [
+    "002414001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hosah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hosah",
+          "article": "person:Hosah",
+          "description": "A descendant of Merari from the tribe of Levi. King David made him a gatekeeper. Hosah was the father of Shimri, Hilkiah, Tebaliah, and Zechariah. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֹסָה"
+    ]
+  },
+  "key_references": [
+    "13016038",
+    "13026010",
+    "13026011",
+    "13026016"
+  ],
+  "references": [
+    "13016038",
+    "13026010",
+    "13026011",
+    "13026016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130160380102"
+      ],
+      [
+        "o130260100013"
+      ],
+      [
+        "o130260110102"
+      ],
+      [
+        "o130260160023"
+      ]
+    ]
+  }
+}

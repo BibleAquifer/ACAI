@@ -1,0 +1,106 @@
+{
+  "id": "place:Antipatris",
+  "primary_id": "place:Antipatris",
+  "alternate_sources": {
+    "aquifer": [
+      "3643|Antipatris|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.407"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21684"
+    ],
+    "tipnr": [
+      "Antipatris@Act.23.31"
+    ],
+    "vizbible": [
+      "recHrXj4CZl6AH9TQ"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.407"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Antipatris",
+      "alternate_labels": [
+        "Aphek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Antipatris",
+          "gloss": "Antipatris",
+          "description": "A city rebuilt by Herod the Great, east of Joppa; Aphek in the Old Testament."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Aphek"
+  ],
+  "nearby_places": [
+    "place:Joppa"
+  ],
+  "subregion_of": [
+    "place:Sharon.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "lemmas": {
+    "el": [
+      "Ἀντιπατρίς"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.10043793",
+      "lon": "34.94650939"
+    },
+    "recogito": {
+      "lat": "32.10478",
+      "lon": "34.93078"
+    },
+    "vizbible": {
+      "lat": "32.10478",
+      "lon": "34.93078"
+    },
+    "biblica-maps": {
+      "lat": "32.11064",
+      "lon": "34.93238"
+    }
+  },
+  "key_references": [
+    "44023031"
+  ],
+  "references": [
+    "06012018",
+    "09004001",
+    "09029001",
+    "44023031"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44023031017"
+      ]
+    ]
+  }
+}

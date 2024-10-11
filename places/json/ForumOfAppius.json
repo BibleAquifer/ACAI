@@ -1,0 +1,111 @@
+{
+  "id": "place:ForumOfAppius",
+  "primary_id": "place:ForumOfAppius",
+  "alternate_sources": {
+    "obi": [
+      "a121d5e"
+    ],
+    "ubsdgnt": [
+      "93.409"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/22182"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/422927"
+    ],
+    "tipnr": [
+      "Forum_of_Appius@Act.28.15"
+    ],
+    "vizbible": [
+      "recL30tpeUpd8vHsg"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3748871"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.409"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Forum of Appius",
+      "alternate_labels": [
+        "Market of Appius",
+        "Appii Forum",
+        "Forum on the Appian Way"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ForumOfAppius",
+          "gloss": "Forum of Appius",
+          "description": "A market town south of Rome which Paul visited on his way to Rome."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:ThreeTaverns",
+    "place:Rome"
+  ],
+  "subregion_of": [
+    "place:Italy"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἀππίου Φόρον",
+      "Ἀππίου",
+      "Φόρον"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "41.468706",
+      "lon": "12.993929"
+    },
+    "recogito": {
+      "lat": "41.46801",
+      "lon": "12.99372"
+    },
+    "vizbible": {
+      "lat": "41.46801",
+      "lon": "12.99372"
+    },
+    "biblica-maps": {
+      "lat": "41.46706",
+      "lon": "12.99769"
+    }
+  },
+  "key_references": [
+    "44028015"
+  ],
+  "references": [
+    "44028015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44028015014"
+      ]
+    ]
+  }
+}

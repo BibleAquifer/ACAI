@@ -1,0 +1,84 @@
+{
+  "id": "person:Jediael",
+  "primary_id": "person:Jediael",
+  "alternate_sources": {
+    "aquifer": [
+      "6258|Jediael|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002803001001000"
+    ],
+    "tipnr": [
+      "Jediael@1Ch.7.6-"
+    ],
+    "vizbible": [
+      "rectiEWboEiukIAhX"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "offspring": [
+    "person:Bilhan.2"
+  ],
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Rosh",
+    "person:Muppim",
+    "person:Huppim",
+    "person:Ard",
+    "person:Ahiram"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "002803001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jediael",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jediael",
+          "article": "person:Jediael",
+          "description": "A man from the tribe of Benjamin living during the time of Egypt and the wilderness, mentioned in 1 Chronicles 7:6, and the father of Bilhan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְדִיעֲאֵל"
+    ]
+  },
+  "key_references": [
+    "13007006",
+    "13007010",
+    "13007011"
+  ],
+  "references": [
+    "13007006",
+    "13007010",
+    "13007011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070060042"
+      ],
+      [
+        "o130070100021"
+      ],
+      [
+        "o130070110041"
+      ]
+    ]
+  }
+}

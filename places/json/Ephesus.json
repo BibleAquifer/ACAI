@@ -1,0 +1,195 @@
+{
+  "id": "place:Ephesus",
+  "primary_id": "place:Ephesus",
+  "alternate_sources": {
+    "aquifer": [
+      "5106|Ephesus|TyndaleBibleDictionary",
+      "26564|Ephesus|UWTranslationWords",
+      "132081|Ephesus|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a5feb15"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21155"
+    ],
+    "tipnr": [
+      "Ephesus@Act.18.19-Rev"
+    ],
+    "vizbible": [
+      "recBYO9ocr5Gssb47"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q47611"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephesus",
+      "alternate_labels": [
+        "Ephesian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ephesus",
+          "gloss": "Ephesus",
+          "description": "A seaport in the western part of the Roman province of Asia; one of the seven cities addressed in Revelation. The letter of Ephesians was addressed to the church there."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Ephesus"
+  ],
+  "nearby_places": [
+    "place:Smyrna",
+    "place:Miletus"
+  ],
+  "subregion_of": [
+    "place:Lydia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.95331434",
+      "lon": "27.36782512"
+    },
+    "recogito": {
+      "lat": "37.941944",
+      "lon": "27.339722"
+    },
+    "vizbible": {
+      "lat": "37.941944",
+      "lon": "27.339722"
+    },
+    "biblica-maps": {
+      "lat": "37.93932",
+      "lon": "27.34077"
+    }
+  },
+  "key_references": [
+    "66001011",
+    "66002001",
+    "44020016",
+    "44019001",
+    "49001001"
+  ],
+  "references": [
+    "44018019",
+    "44018021",
+    "44018024",
+    "44018027",
+    "44019001",
+    "44019017",
+    "44019023",
+    "44019026",
+    "44019028",
+    "44019034",
+    "44019035",
+    "44020016",
+    "44020017",
+    "44021029",
+    "46015032",
+    "46016008",
+    "49001001",
+    "49006024",
+    "54001003",
+    "55001018",
+    "55004012",
+    "55004022",
+    "66001011",
+    "66002001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018019004"
+      ],
+      [
+        "n44018021015"
+      ],
+      [
+        "n44018024013"
+      ],
+      [
+        "n44019001017"
+      ],
+      [
+        "n44019017013"
+      ],
+      [
+        "n44019026008"
+      ],
+      [
+        "n44019028012"
+      ],
+      [
+        "n44019034019"
+      ],
+      [
+        "n44019035009"
+      ],
+      [
+        "n44019035018"
+      ],
+      [
+        "n44020016007"
+      ],
+      [
+        "n44020017007"
+      ],
+      [
+        "n44021029006"
+      ],
+      [
+        "n46015032006"
+      ],
+      [
+        "n46016008004"
+      ],
+      [
+        "n49001001013"
+      ],
+      [
+        "n54001003006"
+      ],
+      [
+        "n55001018016"
+      ],
+      [
+        "n55004012005"
+      ],
+      [
+        "n66001011013"
+      ],
+      [
+        "n66002001005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44018019007"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "place:Jeshimon",
+  "primary_id": "place:Jeshimon",
+  "alternate_sources": {
+    "aquifer": [
+      "6340|Jeshimon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003160001001000"
+    ],
+    "tipnr": [
+      "Jeshimon@1Sa.23.19-"
+    ],
+    "vizbible": [
+      "recrlHhIVY61kUrxt"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003160001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeshimon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jeshimon",
+          "gloss": "Jeshimon",
+          "description": "A desert area visible from Mount Pisgah."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "wilderness"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.46152536164766",
+      "lon": "35.39241108242345"
+    },
+    "vizbible": {
+      "lat": "31.46152536164766",
+      "lon": "35.39241108242345"
+    }
+  },
+  "key_references": [
+    "09023019",
+    "04023028"
+  ],
+  "references": [
+    "04021020",
+    "04023028",
+    "09023019",
+    "09023024",
+    "09026001",
+    "09026003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090230190172"
+      ],
+      [
+        "o090230240132"
+      ],
+      [
+        "o090260010142"
+      ],
+      [
+        "o090260030082"
+      ]
+    ]
+  }
+}

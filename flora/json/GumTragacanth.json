@@ -1,0 +1,58 @@
+{
+  "id": "flora:GumTragacanth",
+  "primary_id": "flora:GumTragacanth",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004790001001000"
+    ],
+    "ubsflora": [
+      "flora:4.2.7"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "004790001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gum Tragacanth",
+      "alternate_labels": [
+        "Tragacanth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gum Tragacanth",
+          "article": "flora:GumTragacanth",
+          "description": "A sticky substance from the Astragalus plant, used in medicine and food."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נְכֹאת"
+    ]
+  },
+  "key_references": [
+    "01037025",
+    "01043011"
+  ],
+  "references": [
+    "01037025",
+    "01043011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010370250141"
+      ],
+      [
+        "o010430110211"
+      ]
+    ]
+  }
+}

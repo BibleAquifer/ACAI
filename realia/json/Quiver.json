@@ -1,0 +1,79 @@
+{
+  "id": "realia:Quiver",
+  "primary_id": "realia:Quiver",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000764001001000",
+      "007818001001000"
+    ],
+    "ubsrealia": [
+      "realia:2.14.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "000764001001000",
+    "007818001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Quiver",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Quiver",
+          "article": "realia:Quiver",
+          "description": "A long, narrow container used for holding arrows."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַשְׁפָּה",
+      "תְּלִי"
+    ]
+  },
+  "key_references": [
+    "01027003",
+    "23049002",
+    "24005016"
+  ],
+  "references": [
+    "01027003",
+    "18039023",
+    "19127005",
+    "23022006",
+    "23049002",
+    "24005016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180390230031"
+      ],
+      [
+        "o191270050061",
+        "o191270050062"
+      ],
+      [
+        "o230220060031"
+      ],
+      [
+        "o230490020112",
+        "o230490020113"
+      ],
+      [
+        "o240050160011",
+        "o240050160012"
+      ],
+      [
+        "o010270030051",
+        "o010270030052"
+      ]
+    ]
+  }
+}

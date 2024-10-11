@@ -1,0 +1,110 @@
+{
+  "id": "place:Ur",
+  "primary_id": "place:Ur",
+  "alternate_sources": {
+    "aquifer": [
+      "8980|Ur (Place)|TyndaleBibleDictionary",
+      "27187|Ur|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "000206002001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/22335"
+    ],
+    "tipnr": [
+      "Ur@Gen.11.28-Neh"
+    ],
+    "vizbible": [
+      "recgQtoCtBjbsPwAw"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000206002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ur (Town)",
+      "alternate_labels": [
+        "Ur of the Chaldees",
+        "Ur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ur.1",
+          "gloss": "Ur (Town)",
+          "description": "A town on the Euphrates River in southern Mesopotamia, where Abraham and his family used to live before moving to Haran."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אוּר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "region"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.96205205",
+      "lon": "46.10374196"
+    },
+    "recogito": {
+      "lat": "30.9625",
+      "lon": "46.103056"
+    },
+    "vizbible": {
+      "lat": "30.9625",
+      "lon": "46.103056"
+    }
+  },
+  "key_references": [
+    "01011031",
+    "01015078",
+    "01011028"
+  ],
+  "references": [
+    "01011028",
+    "01011031",
+    "01015007",
+    "16009007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010110280092"
+      ],
+      [
+        "o010110310202"
+      ],
+      [
+        "o010150070072"
+      ],
+      [
+        "o160090070092"
+      ]
+    ]
+  }
+}

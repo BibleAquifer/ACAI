@@ -1,0 +1,69 @@
+{
+  "id": "person:Abdon.4",
+  "primary_id": "person:Achbor.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3273|Abdon (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005196001005000"
+    ],
+    "tipnr": [
+      "Abdon|Achbor@2Ki.22.12-Jer"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Micaiah.3",
+  "offspring": [
+    "person:Elnathan.5"
+  ],
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "005196001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abdon (Achbor)",
+      "alternate_labels": [
+        "Achbor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Achbor",
+          "article": "person:Abdon.4",
+          "description": "A man of the divided kingdom, son of Micaiah and father of Elnathan, called Achbor in 2 Kings 22:12 and Abdon in 2 Chronicles 34:20."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Achbor.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "14034020"
+  ],
+  "references": [
+    "14034020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140340200101"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140340210011",
+        "o140340210021"
+      ]
+    ]
+  }
+}

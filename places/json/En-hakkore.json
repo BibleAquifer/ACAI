@@ -1,0 +1,92 @@
+{
+  "id": "place:En-hakkore",
+  "primary_id": "place:En-hakkore",
+  "alternate_sources": {
+    "aquifer": [
+      "5085|En-Hakkore|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005393001001000",
+      "005393001001000 005393001001000 006556001001000"
+    ],
+    "tipnr": [
+      "En-hakkore@Jdg.15.19"
+    ],
+    "vizbible": [
+      "recFbn1s6i5rDKxhf"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005393001001000",
+    "005393001001000 005393001001000 006556001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "En-hakkore",
+      "alternate_labels": [
+        "The Spring of the One Who Cried Out",
+        "Hakkore Spring",
+        "The Spring of Ha-Qore"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:En-hakkore",
+          "gloss": "En-Hakkore",
+          "description": "A spring at Lehi from which Samson drank."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Lehi"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵין הַתַּנִּין"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "spring",
+      "special"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "spring"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.75274835811488",
+      "lon": "34.97660913147738"
+    },
+    "vizbible": {
+      "lat": "31.75274835811488",
+      "lon": "34.97660913147738"
+    }
+  },
+  "key_references": [
+    "07015019"
+  ],
+  "references": [
+    "07015019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070150190181",
+        "o070150190191"
+      ]
+    ]
+  }
+}

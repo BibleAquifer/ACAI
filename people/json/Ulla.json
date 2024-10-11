@@ -1,0 +1,76 @@
+{
+  "id": "person:Ulla",
+  "primary_id": "person:Shual",
+  "alternate_sources": {
+    "aquifer": [
+      "8957|Ulla|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005439001001000"
+    ],
+    "tipnr": [
+      "Ulla|Shual@1Ch.7.36-"
+    ],
+    "vizbible": [
+      "recjCEJz0rX1EZp6a"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zophah",
+  "offspring": [
+    "person:Arah",
+    "person:Hanniel.2",
+    "person:Rizia"
+  ],
+  "siblings": [
+    "person:Suah",
+    "person:Harnepher",
+    "person:Beri",
+    "person:Imrah",
+    "person:Bezer",
+    "person:Hod",
+    "person:Shamma",
+    "person:Shilshah",
+    "person:Ithran.2",
+    "person:Beera"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "005439001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ulla (Shual)",
+      "alternate_labels": [
+        "Shual"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shual",
+          "article": "person:Ulla",
+          "description": "Ulla, also known as Shual, was a man from the tribe of Asher during the divided kingdom, the son of Zophah and father of Arah, Hanniel, and Rizia, first mentioned in 1 Chronicles 7:36."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shual"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007039"
+  ],
+  "references": [
+    "13007039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070390021"
+      ]
+    ]
+  }
+}

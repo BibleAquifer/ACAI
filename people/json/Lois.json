@@ -1,0 +1,62 @@
+{
+  "id": "person:Lois",
+  "primary_id": "person:Lois",
+  "alternate_sources": {
+    "aquifer": [
+      "6773|Lois|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.239"
+    ],
+    "tipnr": [
+      "Lois@2Ti.1.5"
+    ],
+    "vizbible": [
+      "recoZJo1aMyOFpEFC"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:FatherOfEunice"
+  ],
+  "offspring": [
+    "person:Eunice"
+  ],
+  "ubsdgnt": [
+    "93.239"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lois",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lois",
+          "article": "person:Lois",
+          "description": "The grandmother of Timothy, mentioned in 2 Timothy 1:5."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Λωΐς"
+    ]
+  },
+  "key_references": [
+    "55001005"
+  ],
+  "references": [
+    "55001005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n55001005015"
+      ]
+    ]
+  }
+}

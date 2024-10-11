@@ -1,0 +1,68 @@
+{
+  "id": "person:Segub.2",
+  "primary_id": "person:Segub.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8209|Segub|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006980001002000"
+    ],
+    "tipnr": [
+      "Segub@1Ch.2.21-"
+    ],
+    "vizbible": [
+      "recweWO3J8N1k6Xzs"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hezron.2",
+  "mother": "person:DaughterOfMachir",
+  "offspring": [
+    "person:Jair.2"
+  ],
+  "siblings": [
+    "person:Ram",
+    "person:Jerahmeel",
+    "person:Caleb.2",
+    "person:Ashhur"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "006980001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Segub (1 Chronicles 2:21)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Segub (1 Chronicles 2:21)",
+          "article": "person:Segub.2",
+          "description": "Segub, mentioned in 1 Chronicles 2:21, was a man from the tribe of Judah before Israel's Monarchy and the father of Jair."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002021",
+    "13002022"
+  ],
+  "references": [
+    "13002021",
+    "13002022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020210181"
+      ],
+      [
+        "o130020220012"
+      ]
+    ]
+  }
+}

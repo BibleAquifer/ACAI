@@ -1,0 +1,53 @@
+{
+  "id": "place:Israel",
+  "primary_id": "place:Israel",
+  "alternate_sources": {
+    "aquifer": [
+      "6095|Israel (Place)|TyndaleBibleDictionary",
+      "6092|Israel, History of|TyndaleBibleDictionary",
+      "26737|Israel|UWTranslationWords",
+      "132226|Israel|BiblicaStudyNotesKeyTerms",
+      "280207|israel|FIAKeyTerms"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Israel",
+          "gloss": "Israel",
+          "description": "The land inhabited by the Israelites."
+        }
+      ],
+      "preferred_label": "Israel",
+      "alternate_labels": [
+        "Jacob",
+        "Northern Kingdom"
+      ]
+    }
+  },
+  "associated_places": [
+    "place:Canaan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": true,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "13013001",
+    "26011017",
+    "26020038",
+    "26020042",
+    "26037012",
+    "40002019"
+  ]
+}

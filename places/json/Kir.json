@@ -1,0 +1,142 @@
+{
+  "id": "place:Kir",
+  "primary_id": "place:Kir",
+  "alternate_sources": {
+    "aquifer": [
+      "6618|Kir|TyndaleBibleDictionary"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/250624"
+    ],
+    "tipnr": [
+      "Mizpeh|Kir@1Sa.22.3-Amo",
+      "Kir@1Sa.22.3-Amo"
+    ],
+    "vizbible": [
+      "receagvMif63k28fg"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kir (Region)",
+      "alternate_labels": [
+        "Kir-Hareseth",
+        "Mizpeh",
+        "Kir"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kir.1",
+          "gloss": "Kir (Region)",
+          "description": "A region of Assyria to which Syrians were taken as captives."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Mizpeh"
+  ],
+  "subregion_of": [
+    "place:Assyria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "region",
+      "valley",
+      "special",
+      "mountain range"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.1813258",
+      "lon": "35.70214779"
+    },
+    "recogito": {
+      "lat": "31.18248",
+      "lon": "35.69999"
+    },
+    "vizbible": {
+      "lat": "31.1813258",
+      "lon": "35.70214779"
+    }
+  },
+  "key_references": [
+    "30001005",
+    "12016009"
+  ],
+  "references": [
+    "09022003",
+    "12003025",
+    "12016009",
+    "23015001",
+    "23016007",
+    "23016011",
+    "23022006",
+    "24048031",
+    "24048036",
+    "30001005",
+    "30009007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090220030041"
+      ],
+      [
+        "o120030250212",
+        "o120030250221"
+      ],
+      [
+        "o120160090121"
+      ],
+      [
+        "o230150010121"
+      ],
+      [
+        "o230160070081",
+        "o230160070091"
+      ],
+      [
+        "o230160110082",
+        "o230160110091"
+      ],
+      [
+        "o230220060072"
+      ],
+      [
+        "o240480310111",
+        "o240480310121"
+      ],
+      [
+        "o240480360101",
+        "o240480360111"
+      ],
+      [
+        "o300010050151"
+      ],
+      [
+        "o300090070192"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230150010141"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "group:Elam",
+  "primary_id": "group:Elam",
+  "alternate_sources": {
+    "aquifer": [
+      "4965|Elam (Place), Elamites|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.465"
+    ],
+    "ubsdbh": [
+      "005473001001000"
+    ],
+    "tipnr": [
+      "Elam@Gen.14.1-Act"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Elam",
+  "ubsdgnt": [
+    "93.465"
+  ],
+  "ubsdbh": [
+    "005473001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elamites",
+      "alternate_labels": [
+        "Elam",
+        "Elamite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elamites",
+          "article": "group:Elam",
+          "description": "People who live in Elam."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַלְמֹן דִּבְלָתָיְמָה",
+      "ה"
+    ],
+    "el": [
+      "Ἐλαμίτης"
+    ]
+  },
+  "key_references": [
+    "01010022",
+    "44002009"
+  ],
+  "references": [
+    "15004009",
+    "44002009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150040090191"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44002009005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44002011012"
+      ]
+    ]
+  }
+}

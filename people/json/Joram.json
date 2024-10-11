@@ -1,0 +1,139 @@
+{
+  "id": "person:Joram",
+  "primary_id": "person:Jehoram",
+  "alternate_sources": {
+    "aquifer": [
+      "6438|Joram|TyndaleBibleDictionary",
+      "26774|Joram|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002837001002000"
+    ],
+    "tipnr": [
+      "Joram|Jehoram@1Ki.22.50-Mat"
+    ],
+    "vizbible": [
+      "recsyU2HqpyE9PeTo"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoshaphat.3",
+  "partners": [
+    "person:Athaliah"
+  ],
+  "offspring": [
+    "person:Ahaziah.2",
+    "person:Jehosheba"
+  ],
+  "siblings": [
+    "person:Azariah.12",
+    "person:Jehiel.4",
+    "person:Zechariah.11",
+    "person:Azariahu",
+    "person:Michael.9",
+    "person:Shephatiah.5"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ],
+    "death_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "002837001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joram (Jehoram)",
+      "alternate_labels": [
+        "Jehoram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoram",
+          "article": "person:Joram",
+          "description": "A king of Judah during the divided kingdom, son of Jehoshaphat and husband of Athaliah. He is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehoram"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹורָם",
+      "יְהוֹרָם",
+      "יוֹרָם"
+    ]
+  },
+  "key_references": [
+    "12008021",
+    "12008024",
+    "13003011",
+    "40001008"
+  ],
+  "references": [
+    "12008021",
+    "12008023",
+    "12008024",
+    "12011002",
+    "13003011",
+    "40001008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120080210021"
+      ],
+      [
+        "o120080230031"
+      ],
+      [
+        "o120080240021"
+      ],
+      [
+        "o120110020051"
+      ],
+      [
+        "o130030110011"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001008010",
+        "n40001008011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o120080210081"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120080210112"
+      ],
+      [
+        "o120080230061"
+      ],
+      [
+        "o120080240052"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "person:Shobal.2",
+  "primary_id": "person:Shobal.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8441|Shobal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007232001002000"
+    ],
+    "tipnr": [
+      "Shobal@1Ch.2.50-"
+    ],
+    "vizbible": [
+      "rec2Tj73plMEoM5sG"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hur.2",
+  "offspring": [
+    "person:Haroeh"
+  ],
+  "siblings": [
+    "person:Uri",
+    "person:Salma",
+    "person:Hareph",
+    "person:Jezreel",
+    "person:Ishma",
+    "person:Idbash",
+    "person:Hazzelelponi",
+    "person:Penuel",
+    "person:Ezer.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007232001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shobal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shobal",
+          "article": "person:Shobal.2",
+          "description": "A son of the patriarch Judah who lived during the time of the Egyptian slavery and wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002050",
+    "13004001",
+    "13004002"
+  ],
+  "references": [
+    "13002050",
+    "13002052",
+    "13004001",
+    "13004002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020500091"
+      ],
+      [
+        "o130020520032"
+      ],
+      [
+        "o130040010072"
+      ],
+      [
+        "o130040020031"
+      ]
+    ]
+  }
+}

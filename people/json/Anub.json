@@ -1,0 +1,58 @@
+{
+  "id": "person:Anub",
+  "primary_id": "person:Anub",
+  "alternate_sources": {
+    "aquifer": [
+      "3648|Anub|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005542001001000"
+    ],
+    "tipnr": [
+      "Anub@1Ch.4.8"
+    ],
+    "vizbible": [
+      "recGidk9owcM2TGtt"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Koz",
+  "siblings": [
+    "person:Zobebah",
+    "person:Harum",
+    "person:Jabez"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005542001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anub",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anub",
+          "article": "person:Anub",
+          "description": "A man from the tribe of Judah during the time of the divided kingdom, mentioned in 1 Chronicles 4:8 as the son of Koz."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004008"
+  ],
+  "references": [
+    "13004008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040080041"
+      ]
+    ]
+  }
+}

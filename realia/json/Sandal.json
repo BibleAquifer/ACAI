@@ -1,0 +1,106 @@
+{
+  "id": "realia:Sandal",
+  "primary_id": "realia:Sandal",
+  "alternate_sources": {
+    "aquifer": [
+      "27055|Sandal|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "6.183",
+      "6.182"
+    ],
+    "ubsrealia": [
+      "realia:6.13"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.183",
+    "6.182"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sandal",
+      "alternate_labels": [
+        "Shoe"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sandal",
+          "article": "realia:Sandal",
+          "description": "A type of footwear made of a leather or wooden sole, secured to the foot with thongs or straps."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σανδάλιον",
+      "ὑπόδημα"
+    ]
+  },
+  "key_references": [
+    "02003005",
+    "05025009",
+    "08004008",
+    "40003011"
+  ],
+  "references": [
+    "40003011",
+    "40010010",
+    "41001007",
+    "41006009",
+    "42003016",
+    "42010004",
+    "42015022",
+    "42022035",
+    "43001027",
+    "44007033",
+    "44012008",
+    "44013025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41006009003"
+      ],
+      [
+        "n44012008011"
+      ],
+      [
+        "n40003011022"
+      ],
+      [
+        "n40010010009"
+      ],
+      [
+        "n41001007019"
+      ],
+      [
+        "n42003016024"
+      ],
+      [
+        "n42010004007"
+      ],
+      [
+        "n42015022025"
+      ],
+      [
+        "n42022035012"
+      ],
+      [
+        "n43001027015"
+      ],
+      [
+        "n44007033008"
+      ],
+      [
+        "n44013025025"
+      ]
+    ]
+  }
+}

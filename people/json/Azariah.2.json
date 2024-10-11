@@ -1,0 +1,73 @@
+{
+  "id": "person:Azariah.2",
+  "primary_id": "person:Azariah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3902|Azariah|TyndaleBibleDictionary",
+      "3901|Azariah, Prayer of|TyndaleBibleDictionary",
+      "26354|Azariah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005358001001000",
+      "005358001005000"
+    ],
+    "tipnr": [
+      "Azariah@1Ki.4.2-1Ch"
+    ],
+    "vizbible": [
+      "recMkq3jkmCv6Zu42"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ahimaaz.2",
+  "offspring": [
+    "person:Johanan.7"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005358001001000",
+    "005358001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azariah (1 Kings 4:2)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azariah (1 Kings 4:2)",
+          "article": "person:Azariah.2",
+          "description": "A priest from the tribe of Levi during Israel's united kingdom, mentioned in 1 Kings 4:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַזְרִיקָם"
+    ]
+  },
+  "key_references": [
+    "11004002",
+    "13005035"
+  ],
+  "references": [
+    "11004002",
+    "13005035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040020051"
+      ],
+      [
+        "o130050350041"
+      ],
+      [
+        "o130050350052"
+      ]
+    ]
+  }
+}

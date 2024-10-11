@@ -1,0 +1,82 @@
+{
+  "id": "person:Akkub.2",
+  "primary_id": "person:Akkub.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3488|Akkub|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005626001002000",
+      "005626001003000"
+    ],
+    "tipnr": [
+      "Akkub@1Ch.9.17-Neh"
+    ],
+    "vizbible": [
+      "recoj57O7iDij8BF0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Official"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005626001002000",
+    "005626001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Akkub (Gatekeeper)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Akkub (Gatekeeper)",
+          "article": "person:Akkub.2",
+          "description": "A gatekeeper after the return from the Babylonian exile."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009017",
+    "16007045",
+    "16012025"
+  ],
+  "references": [
+    "13009017",
+    "15002042",
+    "16007045",
+    "16011019",
+    "16012025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090170032"
+      ],
+      [
+        "o150020420101"
+      ],
+      [
+        "o160070450091"
+      ],
+      [
+        "o160110190021"
+      ],
+      [
+        "o160120250061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130090180061"
+      ]
+    ]
+  }
+}

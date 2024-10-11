@@ -1,0 +1,75 @@
+{
+  "id": "person:Lahmi",
+  "primary_id": "person:Lahmi",
+  "alternate_sources": {
+    "aquifer": [
+      "6664|Lahmi|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Bethlehemite|Lahmi@2Sa.21.19-1Ch",
+      "Lahmi@2Sa.21.19-1Ch"
+    ],
+    "vizbible": [
+      "receD1TBlY9DqUcpP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Rapha",
+  "siblings": [
+    "person:Goliath",
+    "person:Ishbi-benob",
+    "person:Saph",
+    "person:HugeMan"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lahmi",
+      "alternate_labels": [
+        "[brother of] Goliath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lahmi",
+          "article": "person:Lahmi",
+          "description": "A giant living during the time of Israel's united kingdom, mentioned in 2 Samuel 21:19 as the brother of Goliath and son of Rapha."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Bethlehemite"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10021016",
+    "13020005"
+  ],
+  "references": [
+    "10021016",
+    "13020005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130200050121"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130200080011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130200080052"
+      ]
+    ]
+  }
+}

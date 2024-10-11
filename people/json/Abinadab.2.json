@@ -1,0 +1,86 @@
+{
+  "id": "person:Abinadab.2",
+  "primary_id": "person:Abinadab.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3306|Abinadab|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ishvi|Abinadab@1Sa.14.49-1Ch",
+      "Abinadab@1Sa.14.49-1Ch"
+    ],
+    "vizbible": [
+      "rec3SwVidUvKEF2Zy"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Saul.2",
+  "mother": "person:Ahinoam",
+  "siblings": [
+    "person:Jonathan.3",
+    "person:Malchi-shua",
+    "person:Merab",
+    "person:Michal",
+    "person:Ish-bosheth",
+    "person:Armoni",
+    "person:Mephibosheth.2"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abinadab (Son of Saul)",
+      "alternate_labels": [
+        "Ishvi",
+        "Ishui"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abinadab (Son of Saul)",
+          "article": "person:Abinadab.2",
+          "description": "Son of King Saul."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ishvi"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09031002",
+    "13009039",
+    "13010002"
+  ],
+  "references": [
+    "09014049",
+    "09031002",
+    "13008033",
+    "13009039",
+    "13010002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090140490052"
+      ],
+      [
+        "o090310020121"
+      ],
+      [
+        "o130080330171"
+      ],
+      [
+        "o130090390171"
+      ],
+      [
+        "o130100020121"
+      ]
+    ]
+  }
+}

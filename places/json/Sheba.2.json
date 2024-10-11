@@ -1,0 +1,138 @@
+{
+  "id": "place:Sheba.2",
+  "primary_id": "place:Sheba.2",
+  "alternate_sources": {
+    "tipnr": [
+      "Sheba@1Ki.10.1-Luk",
+      "Sheba@1Ki.10.1-Luk",
+      "South|Sheba@1Ki.10.1-Luk"
+    ],
+    "vizbible": [
+      "recPLjuDonDk53ED5"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheba (of Arabia)",
+      "alternate_labels": [
+        "Arabia",
+        "Sabeans",
+        "South",
+        "Seba",
+        "Sheba"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sheba.1",
+          "gloss": "Sheba (of Arabia)",
+          "description": "A country known for its wealth and actively involved in trading; regarded as descendants of a man with the same name; its queen visited King Solomon; exact location unknown."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Sheba.2",
+    "place:South.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "9.022736",
+      "lon": "38.746799"
+    },
+    "vizbible": {
+      "lat": "9.022736",
+      "lon": "38.746799"
+    }
+  },
+  "key_references": [
+    "23060006",
+    "11010001"
+  ],
+  "references": [
+    "11010010",
+    "11010013",
+    "14009001",
+    "14009003",
+    "14009009",
+    "14009012",
+    "18006019",
+    "19072010",
+    "19072015",
+    "23060006",
+    "24006020",
+    "26027022",
+    "26027023",
+    "26038013",
+    "42011031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110100100211"
+      ],
+      [
+        "o110100130051"
+      ],
+      [
+        "o140090010021"
+      ],
+      [
+        "o140090030031"
+      ],
+      [
+        "o140090090191"
+      ],
+      [
+        "o140090120051"
+      ],
+      [
+        "o180060190051"
+      ],
+      [
+        "o190720100071"
+      ],
+      [
+        "o190720150051"
+      ],
+      [
+        "o230600060082"
+      ],
+      [
+        "o240060200052"
+      ],
+      [
+        "o260270220021"
+      ],
+      [
+        "o260270230051"
+      ],
+      [
+        "o260380130011"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42011031002"
+      ]
+    ]
+  }
+}

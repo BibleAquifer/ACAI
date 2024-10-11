@@ -1,0 +1,55 @@
+{
+  "id": "group:Bichri",
+  "primary_id": "group:Bichri",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001182001001000"
+    ],
+    "tipnr": [
+      "Bichri@2Sa.20.1-"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Bichri",
+  "ubsdbh": [
+    "001182001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bichrites",
+      "alternate_labels": [
+        "Bikrites",
+        "Bichri"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bichrites",
+          "article": "group:Bichri",
+          "description": "People descended from Bichri."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֵּרִים"
+    ]
+  },
+  "key_references": [
+    "10020014"
+  ],
+  "references": [
+    "10020014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100200140092"
+      ]
+    ]
+  }
+}

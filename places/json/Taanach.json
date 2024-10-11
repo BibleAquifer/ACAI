@@ -1,0 +1,123 @@
+{
+  "id": "place:Taanach",
+  "primary_id": "place:Taanach",
+  "alternate_sources": {
+    "aquifer": [
+      "8688|Taanach|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6f05f6"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28298"
+    ],
+    "tipnr": [
+      "Taanach@Jos.12.21-1Ch",
+      "Aner|Taanach@Jos.12.21-1Ch"
+    ],
+    "vizbible": [
+      "recyS1I7gkQt8hvRD"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2920206"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Taanach",
+      "alternate_labels": [
+        "Aner",
+        "Tanach"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Taanach",
+          "gloss": "Taanach",
+          "description": "A Levitical town in the territory of Manasseh, west of the Jordan River; assigned to the clan of Kohath."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Aner"
+  ],
+  "tribal_area": "group:Manasseh",
+  "subregion_of": [
+    "place:TerritoryOfWestManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.51723976",
+      "lon": "35.21632509"
+    },
+    "recogito": {
+      "lat": "32.52193",
+      "lon": "35.2195"
+    },
+    "vizbible": {
+      "lat": "32.52193",
+      "lon": "35.2195"
+    }
+  },
+  "key_references": [
+    "06012021",
+    "07001027"
+  ],
+  "references": [
+    "06012021",
+    "06017011",
+    "06021025",
+    "07001027",
+    "07005019",
+    "11004012",
+    "13006055",
+    "13007029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120210021"
+      ],
+      [
+        "o060170110191"
+      ],
+      [
+        "o060210250051"
+      ],
+      [
+        "o070010270101"
+      ],
+      [
+        "o070050190082"
+      ],
+      [
+        "o110040120041"
+      ],
+      [
+        "o130060550051"
+      ],
+      [
+        "o130070290081"
+      ]
+    ]
+  }
+}

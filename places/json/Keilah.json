@@ -1,0 +1,151 @@
+{
+  "id": "place:Keilah",
+  "primary_id": "place:Keilah",
+  "alternate_sources": {
+    "aquifer": [
+      "6535|Keilah (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ad9df93"
+    ],
+    "ubsdbh": [
+      "006521001001000"
+    ],
+    "tipnr": [
+      "Keilah@Jos.15.44-Neh"
+    ],
+    "vizbible": [
+      "recx87l11nQaxjy4N"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2076708"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006521001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Keilah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Keilah",
+          "gloss": "Keilah",
+          "description": "A fortified town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.614175",
+      "lon": "35.002752"
+    },
+    "vizbible": {
+      "lat": "31.614175",
+      "lon": "35.002752"
+    }
+  },
+  "key_references": [
+    "09023001"
+  ],
+  "references": [
+    "06015044",
+    "09023001",
+    "09023002",
+    "09023003",
+    "09023004",
+    "09023005",
+    "09023006",
+    "09023007",
+    "09023008",
+    "09023010",
+    "09023011",
+    "09023012",
+    "09023013",
+    "13004019",
+    "16003017",
+    "16003018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150440012"
+      ],
+      [
+        "o090230010072"
+      ],
+      [
+        "o090230020181"
+      ],
+      [
+        "o090230030131"
+      ],
+      [
+        "o090230040111"
+      ],
+      [
+        "o090230050051"
+      ],
+      [
+        "o090230050191"
+      ],
+      [
+        "o090230060081"
+      ],
+      [
+        "o090230070061"
+      ],
+      [
+        "o090230080081"
+      ],
+      [
+        "o090230100141"
+      ],
+      [
+        "o090230110031"
+      ],
+      [
+        "o090230120051"
+      ],
+      [
+        "o090230130082"
+      ],
+      [
+        "o090230130172"
+      ],
+      [
+        "o130040190071"
+      ],
+      [
+        "o160030170141"
+      ],
+      [
+        "o160030180101"
+      ]
+    ]
+  }
+}

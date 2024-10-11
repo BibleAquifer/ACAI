@@ -1,0 +1,57 @@
+{
+  "id": "person:Ir",
+  "primary_id": "person:Ir",
+  "alternate_sources": {
+    "aquifer": [
+      "6057|Ir|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005411003001000"
+    ],
+    "tipnr": [
+      "Ir@1Ch.7.12"
+    ],
+    "vizbible": [
+      "recoWWY8pXZcysXwk"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Shuppim",
+    "person:Huppim.2",
+    "person:Maacah.5"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005411003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ir",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ir",
+          "article": "person:Ir",
+          "description": "A man of the tribe of Benjamin during the time of the patriarchs, mentioned in 1 Chronicles 7:12, and father of Shuppim, Huppim, and Maacah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007012"
+  ],
+  "references": [
+    "13007012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070120041"
+      ]
+    ]
+  }
+}

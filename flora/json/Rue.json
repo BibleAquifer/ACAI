@@ -1,0 +1,53 @@
+{
+  "id": "flora:Rue",
+  "primary_id": "flora:Rue",
+  "alternate_sources": {
+    "aquifer": [
+      "8068|Rue|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "3.22"
+    ],
+    "ubsflora": [
+      "flora:3.5.11"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdgnt": [
+    "3.22"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rue",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rue",
+          "article": "flora:Rue",
+          "description": "An evergreen aromatic plant with small yellow flowers, often used for seasoning."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "πήγανον"
+    ]
+  },
+  "key_references": [
+    "42011042"
+  ],
+  "references": [
+    "42011042"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42011042012"
+      ]
+    ]
+  }
+}

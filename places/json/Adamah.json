@@ -1,0 +1,90 @@
+{
+  "id": "place:Adamah",
+  "primary_id": "place:Adamah",
+  "alternate_sources": {
+    "aquifer": [
+      "3361|Adamah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "afe1143"
+    ],
+    "ubsdbh": [
+      "000128002001000"
+    ],
+    "tipnr": [
+      "Adamah@Jos.19.36"
+    ],
+    "vizbible": [
+      "recRBrjsT4oGwbZ2a"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2605670"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000128002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adamah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Adamah",
+          "gloss": "Adamah",
+          "description": "A fortified town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲדָמָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.7253",
+      "lon": "35.4382"
+    },
+    "vizbible": {
+      "lat": "32.7253",
+      "lon": "35.4382"
+    }
+  },
+  "key_references": [
+    "06019036"
+  ],
+  "references": [
+    "06019036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190360012"
+      ]
+    ]
+  }
+}

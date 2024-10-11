@@ -1,0 +1,196 @@
+{
+  "id": "person:Ehud",
+  "primary_id": "person:Ehud",
+  "alternate_sources": {
+    "aquifer": [
+      "4957|Ehud|TyndaleBibleDictionary",
+      "132378|Ehud|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Ehud@Jdg.3.15-1Ch"
+    ],
+    "vizbible": [
+      "recyOsE7tW60nOWh3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gera",
+  "offspring": [
+    "person:Naaman.4",
+    "person:Ahijah.5",
+    "person:Gera.4",
+    "person:Uzza",
+    "person:Ahihud.2"
+  ],
+  "roles": [
+    "Judge"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ehud",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ehud",
+          "article": "person:Ehud",
+          "description": "A son of Gera from the tribe of Benjamin who was judge of Israel when Eglon was king of Moab."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07003015",
+    "07003021",
+    "13008006"
+  ],
+  "references": [
+    "07003015",
+    "07003016",
+    "07003020",
+    "07003021",
+    "07003023",
+    "07003026",
+    "07004001",
+    "13008006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070030150111"
+      ],
+      [
+        "o070030160031"
+      ],
+      [
+        "o070030200012"
+      ],
+      [
+        "o070030200121"
+      ],
+      [
+        "o070030210021"
+      ],
+      [
+        "o070030230021"
+      ],
+      [
+        "o070030260012"
+      ],
+      [
+        "o070040010082"
+      ],
+      [
+        "o130080060031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o070030190012"
+      ],
+      [
+        "o070030240012"
+      ],
+      [
+        "o070030260052"
+      ],
+      [
+        "o070030270132"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070030160102"
+      ],
+      [
+        "o070030170012"
+      ],
+      [
+        "o070030180031"
+      ],
+      [
+        "o070030180042"
+      ],
+      [
+        "o070030180072"
+      ],
+      [
+        "o070030190082"
+      ],
+      [
+        "o070030210062"
+      ],
+      [
+        "o070030210122"
+      ],
+      [
+        "o070030220121"
+      ],
+      [
+        "o070030220152"
+      ],
+      [
+        "o070030230042"
+      ],
+      [
+        "o070030230082"
+      ],
+      [
+        "o070030260092"
+      ],
+      [
+        "o070030270032"
+      ],
+      [
+        "o070030280012"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070030190151"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070030200131",
+          "o070030200141",
+          "o070030200151",
+          "o070030200152",
+          "o070030200161",
+          "o070030200162"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070030280031",
+          "o070030280041",
+          "o070030280042",
+          "o070030280051",
+          "o070030280061",
+          "o070030280071",
+          "o070030280081",
+          "o070030280091",
+          "o070030280092",
+          "o070030280101",
+          "o070030280111",
+          "o070030280121",
+          "o070030280122",
+          "o070030280123"
+        ]
+      }
+    ]
+  }
+}

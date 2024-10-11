@@ -1,0 +1,67 @@
+{
+  "id": "person:Zetham",
+  "primary_id": "person:Zetham",
+  "alternate_sources": {
+    "aquifer": [
+      "9205|Zetham|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002068001001000"
+    ],
+    "tipnr": [
+      "Zetham@1Ch.23.8-"
+    ],
+    "vizbible": [
+      "recX5ExLI3ulwMqgR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Libni",
+  "siblings": [
+    "person:Jehiel.2",
+    "person:Joel.9"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002068001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zetham",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zetham",
+          "article": "person:Zetham",
+          "description": "Zetham was a Levite living during the time of King David, son of Ladan, and first mentioned in 1 Chronicles 23:8."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זֵתָם"
+    ]
+  },
+  "key_references": [
+    "13023008",
+    "13026022"
+  ],
+  "references": [
+    "13023008",
+    "13026022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230080052"
+      ],
+      [
+        "o130260220031"
+      ]
+    ]
+  }
+}

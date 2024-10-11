@@ -1,0 +1,66 @@
+{
+  "id": "realia:Stater",
+  "primary_id": "realia:Stater",
+  "alternate_sources": {
+    "aquifer": [
+      "8620|Stater|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.80"
+    ],
+    "ubsrealia": [
+      "realia:11.6.2.8"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.80"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stater",
+      "alternate_labels": [
+        "Coin",
+        "Athens"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Stater",
+          "article": "realia:Stater",
+          "description": "A silver coin used in ancient times, worth two didrachma or about four denarii."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "στατήρ"
+    ]
+  },
+  "key_references": [
+    "40017027",
+    "44017016",
+    "44018001"
+  ],
+  "references": [
+    "40017027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40017027023"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40017027024"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "place:Jotbathah",
+  "primary_id": "place:Jotbathah",
+  "alternate_sources": {
+    "aquifer": [
+      "6465|Jotbathah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002921001001000"
+    ],
+    "tipnr": [
+      "Jotbathah@Num.33.33-Deu"
+    ],
+    "vizbible": [
+      "reczp1sM9khY2Ahbc"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002921001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jotbathah",
+      "alternate_labels": [
+        "Jotbath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jotbathah",
+          "gloss": "Jotbathah",
+          "description": "A location in the Sinai Peninsula, between Hor-Haggidgad and Abronah, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָטְבָתָה",
+      "יׇטְבָ֫תָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "spring"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.75804307645581",
+      "lon": "35.0306017443078"
+    },
+    "vizbible": {
+      "lat": "29.75804307645581",
+      "lon": "35.0306017443078"
+    }
+  },
+  "key_references": [
+    "04033033",
+    "04033034",
+    "05010007"
+  ],
+  "references": [
+    "04033033",
+    "04033034",
+    "05010007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330330052"
+      ],
+      [
+        "o040330340022"
+      ],
+      [
+        "o050100070061"
+      ]
+    ]
+  }
+}

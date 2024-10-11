@@ -1,0 +1,105 @@
+{
+  "id": "place:Bethphage",
+  "primary_id": "place:Bethphage",
+  "alternate_sources": {
+    "aquifer": [
+      "4197|Bethphage|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "abff59d"
+    ],
+    "ubsdgnt": [
+      "93.433"
+    ],
+    "tipnr": [
+      "Bethphage@Mat.21.1-Luk"
+    ],
+    "vizbible": [
+      "recxyaXbeYBWpi02k"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2193088"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.433"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bethphage",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bethphage",
+          "gloss": "Bethphage",
+          "description": "A village east of Bethany (on the Mount of Olives), where Jesus sent two of his disciples to retrieve a donkey for him to ride upon as he entered Jerusalem (Matthew 21:1–11; Mark 11:1–11; Luke 19:28–40)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jerusalem",
+    "place:Bethany",
+    "place:OlivesMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Βηθφαγή"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.79038301",
+      "lon": "35.25667232"
+    },
+    "vizbible": {
+      "lat": "31.79038301",
+      "lon": "35.25667232"
+    },
+    "biblica-maps": {
+      "lat": "31.77754",
+      "lon": "35.2508"
+    }
+  },
+  "key_references": [
+    "40021001",
+    "41011001",
+    "42019029"
+  ],
+  "references": [
+    "40021001",
+    "41011001",
+    "42019029"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40021001009"
+      ],
+      [
+        "n41011001007"
+      ],
+      [
+        "n42019029006"
+      ]
+    ]
+  }
+}

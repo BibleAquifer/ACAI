@@ -1,0 +1,89 @@
+{
+  "id": "place:Beth-emek",
+  "primary_id": "place:Beth-emek",
+  "alternate_sources": {
+    "aquifer": [
+      "4171|Beth-Emek|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a587ea0"
+    ],
+    "ubsdbh": [
+      "000951001001000"
+    ],
+    "tipnr": [
+      "Beth-emek@Jos.19.27"
+    ],
+    "vizbible": [
+      "recqu74TtJfZmjeB8"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000951001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-emek",
+      "alternate_labels": [
+        "Beth Emeck"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-emek",
+          "gloss": "Beth-Emek",
+          "description": "A town in the territory of Asher."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית הָעֵמֶק",
+      "בֵּית הָעֵ֫מֶק"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.978855",
+      "lon": "35.167096"
+    },
+    "vizbible": {
+      "lat": "32.978855",
+      "lon": "35.167096"
+    }
+  },
+  "key_references": [
+    "06019027"
+  ],
+  "references": [
+    "06019027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190270121",
+        "o060190270131"
+      ]
+    ]
+  }
+}

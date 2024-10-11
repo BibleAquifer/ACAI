@@ -1,0 +1,127 @@
+{
+  "id": "group:Galilee",
+  "primary_id": "group:Galilee",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.445"
+    ],
+    "tipnr": [
+      "Galilee@Jos.12.23-Act"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Galilee",
+  "ubsdgnt": [
+    "93.445"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Galileans",
+      "alternate_labels": [
+        "Galilee"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Galileans",
+          "article": "group:Galilee",
+          "description": "People who live in the region of Galilee."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Γαλιλαῖος"
+    ]
+  },
+  "key_references": [
+    "43004045",
+    "44001011",
+    "44002007"
+  ],
+  "references": [
+    "40026069",
+    "41014070",
+    "42013001",
+    "42013002",
+    "42022059",
+    "42023006",
+    "43004045",
+    "44001011",
+    "44002007",
+    "44005037"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40026069021"
+      ],
+      [
+        "n41014070020"
+      ],
+      [
+        "n42013001012"
+      ],
+      [
+        "n42013002008"
+      ],
+      [
+        "n42013002014"
+      ],
+      [
+        "n42022059019"
+      ],
+      [
+        "n42023006008"
+      ],
+      [
+        "n43004045010"
+      ],
+      [
+        "n44001011005"
+      ],
+      [
+        "n44002007013"
+      ],
+      [
+        "n44005037006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42013001013"
+      ],
+      [
+        "n42013001021"
+      ],
+      [
+        "n42013002009"
+      ],
+      [
+        "n43004045021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42013002018"
+      ],
+      [
+        "n43004045012"
+      ],
+      [
+        "n43004048012"
+      ],
+      [
+        "n43004048015"
+      ]
+    ]
+  }
+}

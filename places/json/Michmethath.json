@@ -1,0 +1,96 @@
+{
+  "id": "place:Michmethath",
+  "primary_id": "place:Michmethath",
+  "alternate_sources": {
+    "aquifer": [
+      "7115|Michmethath|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2f0a70"
+    ],
+    "ubsdbh": [
+      "003990001001000"
+    ],
+    "tipnr": [
+      "Michmethath@Jos.16.6-"
+    ],
+    "vizbible": [
+      "recF69CdVAagFerl9"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003990001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Michmethath",
+      "alternate_labels": [
+        "Micmethath",
+        "Michmethah",
+        "Mikmethath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Michmethath",
+          "gloss": "Michmethath",
+          "description": "A town on the border of the territories of Ephraim and Manasseh."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מִכְמְתָת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "mountain",
+      "river",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.183333",
+      "lon": "35.283333"
+    },
+    "vizbible": {
+      "lat": "32.183333",
+      "lon": "35.283333"
+    }
+  },
+  "key_references": [
+    "06017007",
+    "06016006"
+  ],
+  "references": [
+    "06016006",
+    "06017007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060160060042"
+      ],
+      [
+        "o060170070052"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "place:Haran",
+  "primary_id": "place:Haran",
+  "alternate_sources": {
+    "aquifer": [
+      "5659|Haran (Place)|TyndaleBibleDictionary",
+      "26677|Haran|UWTranslationWords"
+    ],
+    "obi": [
+      "a6d9af3"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/312531"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/658427"
+    ],
+    "tipnr": [
+      "Haran@Gen.11.31-Act"
+    ],
+    "vizbible": [
+      "recyuzIRhPm1IFEu0"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q199547"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Haran",
+      "alternate_labels": [
+        "Charran",
+        "Harran"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Haran",
+          "gloss": "Haran",
+          "description": "A town in northern Mesopotamia where Abraham's father settled when coming from Ur, and where his relatives continued to live. It was later destroyed by Assyria and was a trading partner of Tyre."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.86386408",
+      "lon": "39.03219672"
+    },
+    "recogito": {
+      "lat": "36.86",
+      "lon": "39.03139"
+    },
+    "vizbible": {
+      "lat": "36.86",
+      "lon": "39.03139"
+    },
+    "biblica-maps": {
+      "lat": "36.87151",
+      "lon": "39.02517"
+    }
+  },
+  "key_references": [
+    "01011031",
+    "26027023",
+    "01012004"
+  ],
+  "references": [
+    "01011031",
+    "01011032",
+    "01012004",
+    "01012005",
+    "01027043",
+    "01028010",
+    "01029004",
+    "12019012",
+    "23037012",
+    "26027023",
+    "44007002",
+    "44007004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010110310271"
+      ],
+      [
+        "o010110320102"
+      ],
+      [
+        "o010120040172"
+      ],
+      [
+        "o010120050192"
+      ],
+      [
+        "o010270430111"
+      ],
+      [
+        "o010280100061"
+      ],
+      [
+        "o010290040082"
+      ],
+      [
+        "o120190120111"
+      ],
+      [
+        "o230370120111"
+      ],
+      [
+        "o260270230011"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44007002027"
+      ],
+      [
+        "n44007004008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270240011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270230081"
+      ],
+      [
+        "o260270240021"
+      ]
+    ]
+  }
+}

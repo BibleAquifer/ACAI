@@ -1,0 +1,115 @@
+{
+  "id": "place:Naphoth-dor",
+  "primary_id": "place:Dor",
+  "alternate_sources": {
+    "aquifer": [
+      "7303|Naphoth-Dor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001613003001000"
+    ],
+    "tipnr": [
+      "Naphoth-dor|Dor@Jos.12.23-1Ch"
+    ],
+    "vizbible": [
+      "rectNTiLmcS0hcEZ3"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001613003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Naphoth-dor",
+      "alternate_labels": [
+        "coast of Dor",
+        "Napheth",
+        "region of Dor",
+        "borders of Dor",
+        "Naphath-Dor",
+        "Naphat of Dor",
+        "regions of Dor",
+        "Dor",
+        "hills of Dor",
+        "Naphoth",
+        "heights of Dor",
+        "Slopes of Dor",
+        "Naphath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Naphoth-dor",
+          "gloss": "Naphoth-Dor",
+          "description": "A town in the territory of Manasseh."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Dor"
+  ],
+  "tribal_area": "group:Manasseh",
+  "subregion_of": [
+    "place:TerritoryOfWestManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "דֹּור",
+      "דֹּאר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "region"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.61323618",
+      "lon": "34.91889683"
+    },
+    "vizbible": {
+      "lat": "32.61323618",
+      "lon": "34.91889683"
+    }
+  },
+  "key_references": [
+    "06012023",
+    "06011002",
+    "11004011"
+  ],
+  "references": [
+    "06011002",
+    "06012023",
+    "06017011",
+    "11004011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110020111"
+      ],
+      [
+        "o060120230021"
+      ],
+      [
+        "o060120230041"
+      ],
+      [
+        "o110040110051"
+      ]
+    ]
+  }
+}

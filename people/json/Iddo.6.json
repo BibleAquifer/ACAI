@@ -1,0 +1,68 @@
+{
+  "id": "person:Iddo.6",
+  "primary_id": "person:Iddo.6",
+  "alternate_sources": {
+    "aquifer": [
+      "5985|Iddo|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005243001004000"
+    ],
+    "tipnr": [
+      "Iddo@Ezr.5.1-Zec"
+    ],
+    "vizbible": [
+      "rec7omomYowoHNrAR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Berechiah.6"
+  ],
+  "ubsdbh": [
+    "005243001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Iddo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Iddo",
+          "article": "person:Iddo.6",
+          "description": "Grandfather of Zechariah the prophet and father of Berechiah who lived during the time of Israelite exile and return."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15005001",
+    "38001001",
+    "38001007"
+  ],
+  "references": [
+    "15005001",
+    "15006014",
+    "38001001",
+    "38001007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150050010071"
+      ],
+      [
+        "o150060140111"
+      ],
+      [
+        "o380010010141"
+      ],
+      [
+        "o380010070211"
+      ]
+    ]
+  }
+}

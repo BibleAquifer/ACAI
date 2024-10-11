@@ -1,0 +1,65 @@
+{
+  "id": "person:Obadiah.5",
+  "primary_id": "person:Obadiah.5",
+  "alternate_sources": {
+    "aquifer": [
+      "7450|Obadiah (Person)|TyndaleBibleDictionary",
+      "26917|Obadiah|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Obadiah@1Ch.9.16-Neh",
+      "Abda|Obadiah@1Ch.9.16-Neh"
+    ],
+    "vizbible": [
+      "recuVvlOxDOFtHF3S"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shemaiah.6",
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Obadiah (1 Chronicles 9:16)",
+      "alternate_labels": [
+        "Abda"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Obadiah (1 Chronicles 9:16)",
+          "article": "person:Obadiah.5",
+          "description": "Obadiah, also called Abda, mentioned in 1 Chronicles 9:16, was a man from the tribe of Levi living during the time of exile and return."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Abda.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009016",
+    "16011017",
+    "16012025"
+  ],
+  "references": [
+    "13009016",
+    "16011017",
+    "16012025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090160012"
+      ],
+      [
+        "o160110170152"
+      ],
+      [
+        "o160120250031"
+      ]
+    ]
+  }
+}

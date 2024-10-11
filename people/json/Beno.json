@@ -1,0 +1,63 @@
+{
+  "id": "person:Beno",
+  "primary_id": "person:Beno",
+  "alternate_sources": {
+    "aquifer": [
+      "4117|Beno|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001040001001000"
+    ],
+    "tipnr": [
+      "Beno@1Ch.24.26-"
+    ],
+    "vizbible": [
+      "recHVZNjHgj3RS0H6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jaaziah",
+  "siblings": [
+    "person:Shoham",
+    "person:Zaccur.3",
+    "person:Ibri"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "001040001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beno",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Beno",
+          "article": "person:Beno",
+          "description": "A Levite living during the divided kingdom, mentioned in 1 Chronicles 24:26."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13024026",
+    "13024027"
+  ],
+  "references": [
+    "13024026",
+    "13024027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130240260071"
+      ],
+      [
+        "o130240270041"
+      ]
+    ]
+  }
+}

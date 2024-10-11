@@ -1,0 +1,136 @@
+{
+  "id": "place:Kedesh",
+  "primary_id": "place:Kedesh",
+  "alternate_sources": {
+    "aquifer": [
+      "6531|Kedesh|TyndaleBibleDictionary",
+      "26793|Kedesh|UWTranslationWords"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/33327"
+    ],
+    "tipnr": [
+      "Kedesh@Jos.12.22-1Ch",
+      "Kedesh-naphtali|Kedesh@Jos.12.22-1Ch"
+    ],
+    "vizbible": [
+      "rec6G3mRvN9MpCyjT"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kedesh (in Upper Galilee)",
+      "alternate_labels": [
+        "Kedesh in Naphtali",
+        "Kedesh-naphtali",
+        "Kedesh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kedesh.1",
+          "gloss": "Kedesh (in Upper Galilee)",
+          "description": "A town in Upper Galilee, in the territory of Naphtali; assigned to the clan of Gershon of tribe of Levi as a town of refuge (Joshua 21:31); later captured by Tiglath-Pileser."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Kedesh-naphtali"
+  ],
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali",
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.11298357",
+      "lon": "35.53361334"
+    },
+    "recogito": {
+      "lat": "33.11312",
+      "lon": "35.52869"
+    },
+    "vizbible": {
+      "lat": "33.11312",
+      "lon": "35.52869"
+    },
+    "biblica-maps": {
+      "lat": "33.11011",
+      "lon": "35.53096"
+    }
+  },
+  "key_references": [
+    "13006061",
+    "06021032"
+  ],
+  "references": [
+    "06012022",
+    "06019037",
+    "06020007",
+    "06021032",
+    "07004006",
+    "07004009",
+    "07004010",
+    "07004011",
+    "12015029",
+    "13006061"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120220021"
+      ],
+      [
+        "o060190370012"
+      ],
+      [
+        "o060200070031"
+      ],
+      [
+        "o060210320081"
+      ],
+      [
+        "o070040060062",
+        "o070040060071"
+      ],
+      [
+        "o070040060251"
+      ],
+      [
+        "o070040090271"
+      ],
+      [
+        "o070040100071"
+      ],
+      [
+        "o070040110171"
+      ],
+      [
+        "o120150290201"
+      ],
+      [
+        "o130060610041"
+      ]
+    ]
+  }
+}

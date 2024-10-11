@@ -1,0 +1,87 @@
+{
+  "id": "place:HorseGate",
+  "primary_id": "place:HorseGate",
+  "alternate_sources": {
+    "aquifer": [
+      "5911|Horse Gate|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005023001003000"
+    ],
+    "tipnr": [
+      "Horse_Gate@Neh.3.28-Jer"
+    ],
+    "vizbible": [
+      "reckka7zs9Q7wDsVH"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005023001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Horse Gate",
+      "alternate_labels": [
+        "Horse",
+        "Gate of the Horses",
+        " Gate"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:HorseGate",
+          "gloss": "Horse Gate",
+          "description": "A gate in Jerusalem, near the palace, where Queen Athaliah was killed (2 Chronicles23:15)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "14023015",
+    "24031040",
+    "16003028"
+  ],
+  "references": [
+    "14023015",
+    "16003028",
+    "24031040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030280032"
+      ],
+      [
+        "o240310400142"
+      ]
+    ]
+  }
+}

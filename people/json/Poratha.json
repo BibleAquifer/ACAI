@@ -1,0 +1,64 @@
+{
+  "id": "person:Poratha",
+  "primary_id": "person:Poratha",
+  "alternate_sources": {
+    "aquifer": [
+      "7779|Poratha|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005818001001000"
+    ],
+    "tipnr": [
+      "Poratha@Est.9.8"
+    ],
+    "vizbible": [
+      "recJwaOfcNuv29pdg"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Haman",
+  "mother": "person:Zeresh",
+  "siblings": [
+    "person:Parshandatha",
+    "person:Dalphon",
+    "person:Aspatha",
+    "person:Adalia",
+    "person:Aridatha",
+    "person:Parmashta",
+    "person:Arisai",
+    "person:Aridai",
+    "person:Vaizatha"
+  ],
+  "ubsdbh": [
+    "005818001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Poratha",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Poratha",
+          "article": "person:Poratha",
+          "description": "Poratha was the son of Haman, living during the time of exile and return, and is mentioned in Esther 9:8."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "17009008"
+  ],
+  "references": [
+    "17009008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170090080021"
+      ]
+    ]
+  }
+}

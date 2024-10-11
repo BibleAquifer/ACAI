@@ -1,0 +1,67 @@
+{
+  "id": "person:Hadar",
+  "primary_id": "person:Hadad.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5571|Hadar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001772002001000"
+    ],
+    "tipnr": [
+      "Hadar|Hadad@Gen.36.39-1Ch"
+    ],
+    "vizbible": [
+      "recsg1hkKVChVUrO0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Mehetabel"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "001772002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadar (Hadad)",
+      "alternate_labels": [
+        "Hadad (Genesis 36:39)",
+        "Hadad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hadad (Genesis 36:39)",
+          "article": "person:Hadar",
+          "description": "Hadar, also known as Hadad, was an Edomite king, son of Baal Hanan and married to Mehetabel, living during the time of the patriarchs as mentioned in Genesis 36:39."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hadad.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֲדַר"
+    ]
+  },
+  "key_references": [
+    "01036039"
+  ],
+  "references": [
+    "01036039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360390081"
+      ]
+    ]
+  }
+}

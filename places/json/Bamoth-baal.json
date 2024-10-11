@@ -1,0 +1,98 @@
+{
+  "id": "place:Bamoth-baal",
+  "primary_id": "place:Bamoth-baal",
+  "alternate_sources": {
+    "aquifer": [
+      "3987|Bamoth, Bamoth-Baal|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Bamoth-baal@Num.22.41-Jos",
+      "Baal-bamoth|Bamoth-baal@Num.22.41-Jos"
+    ],
+    "vizbible": [
+      "rec48Xqy5594zh8gV"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bamoth-baal",
+      "alternate_labels": [
+        "lords of the high places",
+        "high places of Baal",
+        "heights",
+        "citizens of heights of"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bamoth-baal",
+          "gloss": "Bamoth-Baal",
+          "description": "A location in Moab from where Balaam was to curse the Israelites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Baal-bamoth"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.76503129703305",
+      "lon": "35.71856575741812"
+    },
+    "vizbible": {
+      "lat": "31.76503129703305",
+      "lon": "35.71856575741812"
+    }
+  },
+  "key_references": [
+    "04022041",
+    "06013017"
+  ],
+  "references": [
+    "04021028",
+    "04022041",
+    "06013017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210280111",
+        "o040210280121"
+      ],
+      [
+        "o040220410081",
+        "o040220410091"
+      ],
+      [
+        "o060130170072",
+        "o060130170081"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o040230010072"
+      ],
+      [
+        "o040230010122"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "place:Seville",
+  "primary_id": "place:Seville",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Seville",
+          "gloss": "Seville",
+          "description": "A Roman city in southwestern Spain."
+        }
+      ],
+      "preferred_label": "Seville",
+      "alternate_labels": [
+        "Hispalis",
+        "Colonia Iulia Romula",
+        "Sevilla"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "37.38083",
+      "lon": "-5.98667"
+    }
+  }
+}

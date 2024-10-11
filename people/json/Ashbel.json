@@ -1,0 +1,82 @@
+{
+  "id": "person:Ashbel",
+  "primary_id": "person:Ashbel",
+  "alternate_sources": {
+    "aquifer": [
+      "3793|Ashbel, Ashbelite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ashbel@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "rec7cMHJL3LqeKyth"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Gera",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Rosh",
+    "person:Muppim",
+    "person:Huppim",
+    "person:Ard",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ashbel",
+      "alternate_labels": [
+        "Ashbelite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ashbel",
+          "article": "person:Ashbel",
+          "description": "The second born son of the patriarch Benjamin."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Ashbel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046021",
+    "04026038",
+    "13008001"
+  ],
+  "references": [
+    "01046021",
+    "04026038",
+    "13008001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460210052"
+      ],
+      [
+        "o040260380072"
+      ],
+      [
+        "o040260380092"
+      ],
+      [
+        "o130080010061"
+      ]
+    ]
+  }
+}

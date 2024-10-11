@@ -1,0 +1,87 @@
+{
+  "id": "person:Chileab",
+  "primary_id": "person:Chileab",
+  "alternate_sources": {
+    "aquifer": [
+      "4526|Chileab|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Daniel|Chileab@2Sa.3.3-1Ch",
+      "Chileab@2Sa.3.3-1Ch"
+    ],
+    "vizbible": [
+      "recyu5kO1cOOs8qIx"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:Abigail",
+  "siblings": [
+    "person:Amnon",
+    "person:Absalom",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shammua.2",
+    "person:Shobab",
+    "person:Nathan",
+    "person:Solomon",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Nepheg.2",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliada",
+    "person:Eliphelet",
+    "person:Tamar.2",
+    "person:Elpelet",
+    "person:Nogah",
+    "person:Jerimoth.6"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Hebron"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chileab",
+      "alternate_labels": [
+        "Daniel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Chileab",
+          "article": "person:Chileab",
+          "description": "Chileab, also called Daniel, was David's son born to him and Abigail during the time of Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Daniel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10003003",
+    "13003001"
+  ],
+  "references": [
+    "10003003",
+    "13003001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100030030021"
+      ],
+      [
+        "o130030010141"
+      ]
+    ]
+  }
+}

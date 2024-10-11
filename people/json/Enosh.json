@@ -1,0 +1,106 @@
+{
+  "id": "person:Enosh",
+  "primary_id": "person:Enosh",
+  "alternate_sources": {
+    "aquifer": [
+      "5090|Enosh|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Enosh@Gen.4.26-Luk"
+    ],
+    "vizbible": [
+      "reco5AjdpK6pP1m0n"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Seth",
+  "offspring": [
+    "person:Kenan"
+  ],
+  "roles": [
+    "Patriarch",
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Enosh",
+      "alternate_labels": [
+        "Enos"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Enosh",
+          "article": "person:Enosh",
+          "description": "Grandson of Adam, son of Seth, and father of Kenan. He is mentioned in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01004026",
+    "01005006",
+    "01005007",
+    "01005008",
+    "01005009",
+    "01005010",
+    "42003038"
+  ],
+  "references": [
+    "01004026",
+    "01005006",
+    "01005007",
+    "01005009",
+    "01005010",
+    "01005011",
+    "13001001",
+    "42003038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040260091"
+      ],
+      [
+        "o010050060091"
+      ],
+      [
+        "o010050070061"
+      ],
+      [
+        "o010050090021"
+      ],
+      [
+        "o010050100021"
+      ],
+      [
+        "o010050110041"
+      ],
+      [
+        "o130010010031"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003038002"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010050090052"
+      ],
+      [
+        "o010050100132"
+      ],
+      [
+        "o010050110102"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "place:Atroth-shophan",
+  "primary_id": "place:Atroth-shophan",
+  "alternate_sources": {
+    "aquifer": [
+      "3869|Atroth-Shophan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005374001001000"
+    ],
+    "tipnr": [
+      "Atroth-shophan@Num.32.35"
+    ],
+    "vizbible": [
+      "recNvpHUqXj8mL7iN"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005374001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Atroth-shophan",
+      "alternate_labels": [
+        "Shophan",
+        "Atroth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Atroth-shophan",
+          "gloss": "Atroth-Shophan",
+          "description": "A town in the territory of Gad, east of the Jordan River."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Gad",
+  "subregion_of": [
+    "place:TerritoryOfGad"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.9617",
+      "lon": "35.9115"
+    },
+    "vizbible": {
+      "lat": "31.9617",
+      "lon": "35.9115"
+    }
+  },
+  "key_references": [
+    "04032035"
+  ],
+  "references": [
+    "04032035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320350021",
+        "o040320350031"
+      ]
+    ]
+  }
+}

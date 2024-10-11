@@ -1,0 +1,106 @@
+{
+  "id": "place:Adramyttium",
+  "primary_id": "place:Adramyttium",
+  "alternate_sources": {
+    "aquifer": [
+      "3399|Adramyttium|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a184f3a"
+    ],
+    "ubsdgnt": [
+      "93.390"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21543"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/550403"
+    ],
+    "tipnr": [
+      "Adramyttium@Act.27.2"
+    ],
+    "vizbible": [
+      "recdx9jGjxLSDKDOw"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3605584"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.390"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adramyttium",
+      "alternate_labels": [
+        "Adramyttian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Adramyttium",
+          "gloss": "Adramyttium",
+          "description": "A seaport town in Mysia."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Mysia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἀδραμυττηνός"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "39.5748",
+      "lon": "26.9367"
+    },
+    "recogito": {
+      "lat": "39.504028",
+      "lon": "26.934551"
+    },
+    "vizbible": {
+      "lat": "39.504028",
+      "lon": "26.934551"
+    },
+    "biblica-maps": {
+      "lat": "39.50236",
+      "lon": "26.93632"
+    }
+  },
+  "key_references": [
+    "44027002"
+  ],
+  "references": [
+    "44027002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027002004"
+      ]
+    ]
+  }
+}

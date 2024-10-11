@@ -1,0 +1,36 @@
+{
+  "id": "person:WifeOfCaiaphas",
+  "primary_id": "person:WifeOfCaiaphas",
+  "alternate_sources": {
+    "tipnr": [
+      "wife_of_Caiaphas@Jhn.18.13"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Annas",
+  "partners": [
+    "person:Caiaphas"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wife of Caiaphas",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wife of Caiaphas",
+          "article": "person:WifeOfCaiaphas",
+          "description": "Wife of Caiaphas the high priest."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "43018013"
+  ],
+  "references": [
+    "43018013"
+  ]
+}

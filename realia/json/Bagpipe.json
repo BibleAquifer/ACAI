@@ -1,0 +1,67 @@
+{
+  "id": "realia:Bagpipe",
+  "primary_id": "realia:Bagpipe",
+  "alternate_sources": {
+    "aquifer": [
+      "3967|Bagpipe|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005021001001000"
+    ],
+    "ubsrealia": [
+      "realia:7.3.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "005021001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bagpipe",
+      "alternate_labels": [
+        "Drum",
+        "Music"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bagpipe",
+          "article": "realia:Bagpipe",
+          "description": "A musical instrument with two pipes connected to an air bag, which is inflated by a third pipe."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סוּמְפֹּנְיָה"
+    ]
+  },
+  "key_references": [
+    "27003005",
+    "27003010",
+    "27003015"
+  ],
+  "references": [
+    "27003005",
+    "27003010",
+    "27003015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o270030050111"
+      ],
+      [
+        "o270030100192"
+      ],
+      [
+        "o270030150162"
+      ]
+    ]
+  }
+}

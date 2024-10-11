@@ -1,0 +1,145 @@
+{
+  "id": "person:Jehoiada",
+  "primary_id": "person:Jehoiada",
+  "alternate_sources": {
+    "aquifer": [
+      "6277|Jehoiada|TyndaleBibleDictionary",
+      "26747|Jehoiada|UWTranslationWords",
+      "132438|Jehoiada|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002826001001000"
+    ],
+    "tipnr": [
+      "Jehoiada@2Sa.8.18-1Ch"
+    ],
+    "vizbible": [
+      "recYyeczKVbq0DLzk"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Benaiah"
+  ],
+  "ubsdbh": [
+    "002826001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehoiada",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoiada",
+          "article": "person:Jehoiada",
+          "description": "Father of the military commander Benaiah, who served under the kings David and Solomon."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹויָדָע",
+      "יְהוֹיָדָע"
+    ]
+  },
+  "key_references": [
+    "10023020",
+    "11001032",
+    "11002035",
+    "13011024"
+  ],
+  "references": [
+    "10008018",
+    "10020023",
+    "10023020",
+    "10023022",
+    "11001008",
+    "11001026",
+    "11001032",
+    "11001036",
+    "11001038",
+    "11001044",
+    "11002025",
+    "11002029",
+    "11002034",
+    "11002035",
+    "11002046",
+    "11004004",
+    "13011022",
+    "13011024",
+    "13012028",
+    "13018017",
+    "13027005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080180031"
+      ],
+      [
+        "o100200230081"
+      ],
+      [
+        "o100230200031"
+      ],
+      [
+        "o100230220051"
+      ],
+      [
+        "o110010080051"
+      ],
+      [
+        "o110010260081"
+      ],
+      [
+        "o110010320121"
+      ],
+      [
+        "o110010360041"
+      ],
+      [
+        "o110010380081"
+      ],
+      [
+        "o110010440121"
+      ],
+      [
+        "o110020250071"
+      ],
+      [
+        "o110020290181"
+      ],
+      [
+        "o110020340041"
+      ],
+      [
+        "o110020350061"
+      ],
+      [
+        "o110020460061"
+      ],
+      [
+        "o110040040031"
+      ],
+      [
+        "o130110220031"
+      ],
+      [
+        "o130110240051"
+      ],
+      [
+        "o130120280012"
+      ],
+      [
+        "o130180170031"
+      ],
+      [
+        "o130270050081"
+      ]
+    ]
+  }
+}

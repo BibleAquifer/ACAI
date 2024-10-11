@@ -1,0 +1,72 @@
+{
+  "id": "person:Ishmael.3",
+  "primary_id": "person:Ishmael.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6072|Ishmael|TyndaleBibleDictionary",
+      "26736|Ishmael|UWTranslationWords",
+      "132208|Ishmael|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003167001003000"
+    ],
+    "tipnr": [
+      "Ishmael@1Ch.8.38-"
+    ],
+    "vizbible": [
+      "rec9gq6rTYbTMbQPe"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Azel",
+  "siblings": [
+    "person:Azrikam.2",
+    "person:Bocheru",
+    "person:Sheariah",
+    "person:Obadiah.4",
+    "person:Hanan.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "003167001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ishmael (1 Chronicles 8:38)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ishmael (1 Chronicles 8:38)",
+          "article": "person:Ishmael.3",
+          "description": "A man from the tribe of Benjamin living during the time of the divided kingdom, mentioned in 1 Chronicles 8:38 as the son of Azel and brother to Azrikam, Bocheru, Sheariah, Obadiah, and Hanan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִשְׁמָעֵאל"
+    ]
+  },
+  "key_references": [
+    "13008038",
+    "13009044"
+  ],
+  "references": [
+    "13008038",
+    "13009044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080380082"
+      ],
+      [
+        "o130090440082"
+      ]
+    ]
+  }
+}

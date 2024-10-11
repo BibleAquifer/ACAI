@@ -1,0 +1,84 @@
+{
+  "id": "person:Azariah",
+  "primary_id": "person:Ahaziah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3902|Azariah|TyndaleBibleDictionary",
+      "3901|Azariah, Prayer of|TyndaleBibleDictionary",
+      "26354|Azariah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005358001003000"
+    ],
+    "tipnr": [
+      "Azariah|Ahaziah@2Ki.8.24-2Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoram",
+  "mother": "person:Athaliah",
+  "partners": [
+    "person:Zibiah"
+  ],
+  "offspring": [
+    "person:Joash.3"
+  ],
+  "siblings": [
+    "person:Jehosheba"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005358001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azariah (Ahaziah)",
+      "alternate_labels": [
+        "Ahaziah (Son of Jehoram)",
+        "Ahaziah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahaziah (Son of Jehoram)",
+          "article": "person:Azariah",
+          "description": "A king of Judah during the divided kingdom, son of Jehoram and Athaliah, also called Ahaziah, mentioned in 2 Kings 8:24 and 2 Chronicles 21:17."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ahaziah.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַזְרִיקָם"
+    ]
+  },
+  "key_references": [
+    "14022006"
+  ],
+  "references": [
+    "14022006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140220060142"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140220060202"
+      ]
+    ]
+  }
+}

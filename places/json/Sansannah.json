@@ -1,0 +1,82 @@
+{
+  "id": "place:Sansannah",
+  "primary_id": "place:Sansannah",
+  "alternate_sources": {
+    "aquifer": [
+      "8135|Sansannah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005119001001000"
+    ],
+    "tipnr": [
+      "Sansannah@Jos.15.31"
+    ],
+    "vizbible": [
+      "rec79hwpJ5VGCC9JF"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005119001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sansannah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sansannah",
+          "gloss": "Sansannah",
+          "description": "A town in the southern territory of Judah, near the border of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.391668",
+      "lon": "34.940502"
+    },
+    "vizbible": {
+      "lat": "31.391668",
+      "lon": "34.940502"
+    }
+  },
+  "key_references": [
+    "06015031"
+  ],
+  "references": [
+    "06015031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150310032"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "place:Ithlah",
+  "primary_id": "place:Ithlah",
+  "alternate_sources": {
+    "aquifer": [
+      "6108|Ithlah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "abf8060"
+    ],
+    "ubsdbh": [
+      "003199001001000"
+    ],
+    "tipnr": [
+      "Ithlah@Jos.19.42"
+    ],
+    "vizbible": [
+      "recBqx0nW5YhJsINd"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003199001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ithlah",
+      "alternate_labels": [
+        "Jethlah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ithlah",
+          "gloss": "Ithlah",
+          "description": "A town in the territory of Dan."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יִתְלָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.823593",
+      "lon": "35.075769"
+    },
+    "vizbible": {
+      "lat": "31.823593",
+      "lon": "35.075769"
+    }
+  },
+  "key_references": [
+    "06019042"
+  ],
+  "references": [
+    "06019042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190420032"
+      ]
+    ]
+  }
+}

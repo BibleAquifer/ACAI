@@ -1,0 +1,135 @@
+{
+  "id": "person:Gallio",
+  "primary_id": "person:Gallio",
+  "alternate_sources": {
+    "aquifer": [
+      "5357|Gallio|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.84"
+    ],
+    "tipnr": [
+      "Gallio@Act.18.12-"
+    ],
+    "vizbible": [
+      "recrCz8fr3Xs1Ckc1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Governor"
+  ],
+  "ubsdgnt": [
+    "93.84"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gallio",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gallio",
+          "article": "person:Gallio",
+          "description": "Gallio, a Roman proconsul of Achaia during the New Testament period, is mentioned in Acts 18:12."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Γαλλίων"
+    ]
+  },
+  "key_references": [
+    "44018012",
+    "44018014",
+    "44018017"
+  ],
+  "references": [
+    "44018012",
+    "44018014",
+    "44018017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018012001"
+      ],
+      [
+        "n44018014010"
+      ],
+      [
+        "n44018017015"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44018015017"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44018014027"
+      ],
+      [
+        "n44018015021"
+      ],
+      [
+        "n44018016002"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "sternly",
+        "quote_type": "Dialogue",
+        "words": [
+          "n44018014014",
+          "n44018014015",
+          "n44018014016",
+          "n44018014017",
+          "n44018014018",
+          "n44018014019",
+          "n44018014020",
+          "n44018014021",
+          "n44018014022",
+          "n44018014023",
+          "n44018014024",
+          "n44018014025",
+          "n44018014026",
+          "n44018014027",
+          "n44018014028",
+          "n44018015001",
+          "n44018015002",
+          "n44018015003",
+          "n44018015004",
+          "n44018015005",
+          "n44018015006",
+          "n44018015007",
+          "n44018015008",
+          "n44018015009",
+          "n44018015010",
+          "n44018015011",
+          "n44018015012",
+          "n44018015013",
+          "n44018015014",
+          "n44018015015",
+          "n44018015016",
+          "n44018015017",
+          "n44018015018",
+          "n44018015019",
+          "n44018015020",
+          "n44018015021"
+        ]
+      }
+    ]
+  }
+}

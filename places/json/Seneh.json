@@ -1,0 +1,84 @@
+{
+  "id": "place:Seneh",
+  "primary_id": "place:Seneh",
+  "alternate_sources": {
+    "aquifer": [
+      "8222|Seneh|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a311f80"
+    ],
+    "ubsdbh": [
+      "005114001001000"
+    ],
+    "tipnr": [
+      "Seneh@1Sa.14.4"
+    ],
+    "vizbible": [
+      "recHY6HweDEcJC6v0"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005114001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seneh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Seneh",
+          "gloss": "Seneh",
+          "description": "A steep rock face near Michmash, facing another rock named Bozez."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Bozez",
+    "place:Michmash"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "סְנוּאָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "cliff"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.85309428",
+      "lon": "35.28616917"
+    },
+    "vizbible": {
+      "lat": "31.85309428",
+      "lon": "35.28616917"
+    }
+  },
+  "key_references": [
+    "09014004"
+  ],
+  "references": [
+    "09014004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090140040231"
+      ]
+    ]
+  }
+}

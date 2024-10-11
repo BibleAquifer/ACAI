@@ -1,0 +1,105 @@
+{
+  "id": "place:JezreelValley",
+  "primary_id": "place:JezreelValley",
+  "alternate_sources": {
+    "aquifer": [
+      "9000|Valley of Jezreel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002888001002000"
+    ],
+    "tipnr": [
+      "Jezreel_Valley@Jos.17.16-Hos"
+    ],
+    "vizbible": [
+      "rec6JzzIhK5VzoDuJ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002888001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Jezreel",
+      "alternate_labels": [
+        "Jezreel Valley"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfJezreel",
+          "gloss": "Valley of Jezreel",
+          "description": "A valley in northern Israel."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jezreel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יִזְרְעֶאל",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.5559631396043",
+      "lon": "35.33078927843792"
+    },
+    "vizbible": {
+      "lat": "32.5559631396043",
+      "lon": "35.33078927843792"
+    }
+  },
+  "key_references": [
+    "28001005",
+    "07006033",
+    "06017016"
+  ],
+  "references": [
+    "06017016",
+    "07006033",
+    "09031007",
+    "13010007",
+    "28001005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060170160142"
+      ],
+      [
+        "o060170160202",
+        "o060170160211"
+      ],
+      [
+        "o070060330102",
+        "o070060330111"
+      ],
+      [
+        "o280010050082",
+        "o280010050091"
+      ]
+    ]
+  }
+}

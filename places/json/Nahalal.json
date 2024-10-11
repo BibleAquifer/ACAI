@@ -1,0 +1,93 @@
+{
+  "id": "place:Nahalal",
+  "primary_id": "place:Nahalal",
+  "alternate_sources": {
+    "aquifer": [
+      "7280|Nahalal|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac69561"
+    ],
+    "tipnr": [
+      "Nahalal@Jdg.1.30-Jdg"
+    ],
+    "vizbible": [
+      "recemJEsxfDEoBRUE"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1724338"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nahalal",
+      "alternate_labels": [
+        "Nahalol",
+        "Nahallal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nahalal",
+          "gloss": "Nahalal",
+          "description": "A Levitical town in the territory of Zebulun, assigned to the clan of Merari; also known as Nahalol."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.722209",
+      "lon": "35.35282"
+    },
+    "vizbible": {
+      "lat": "32.722209",
+      "lon": "35.35282"
+    }
+  },
+  "key_references": [
+    "06021035",
+    "07001030",
+    "06019015"
+  ],
+  "references": [
+    "06019015",
+    "06021035",
+    "07001030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190150022"
+      ],
+      [
+        "o060210350061"
+      ],
+      [
+        "o070010300091"
+      ]
+    ]
+  }
+}

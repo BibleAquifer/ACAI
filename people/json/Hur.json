@@ -1,0 +1,60 @@
+{
+  "id": "person:Hur",
+  "primary_id": "person:Hur",
+  "alternate_sources": {
+    "aquifer": [
+      "5954|Hur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001047001001000"
+    ],
+    "tipnr": [
+      "Hur@1Ki.4.8"
+    ],
+    "vizbible": [
+      "recn5xePz9NNSU3Kd"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ben-hur"
+  ],
+  "ubsdbh": [
+    "001047001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hur",
+          "article": "person:Hur",
+          "description": "Hur, an official during the time of Israel's united kingdom, fathered Ben-hur and is mentioned in 1 Kings."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּן־חוּר"
+    ]
+  },
+  "key_references": [
+    "11004008"
+  ],
+  "references": [
+    "11004008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040080031",
+        "o110040080041"
+      ]
+    ]
+  }
+}

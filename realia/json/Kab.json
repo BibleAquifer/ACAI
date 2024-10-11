@@ -1,0 +1,53 @@
+{
+  "id": "realia:Kab",
+  "primary_id": "realia:Kab",
+  "alternate_sources": {
+    "aquifer": [
+      "6509|Kab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006348001001000"
+    ],
+    "ubsrealia": [
+      "realia:11.3.1.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006348001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kab",
+          "article": "realia:Kab",
+          "description": "A unit of dry measure, roughly equal to 2 liters."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קַב"
+    ]
+  },
+  "key_references": [
+    "12006025"
+  ],
+  "references": [
+    "12006025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120060250152"
+      ]
+    ]
+  }
+}

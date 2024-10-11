@@ -1,0 +1,62 @@
+{
+  "id": "person:Ahiam",
+  "primary_id": "person:Ahiam",
+  "alternate_sources": {
+    "aquifer": [
+      "3440|Ahiam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000263001001000"
+    ],
+    "tipnr": [
+      "Ahiam@2Sa.23.33-1Ch"
+    ],
+    "vizbible": [
+      "recxvh5ItI9x40XfO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Sharar",
+  "ubsdbh": [
+    "000263001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahiam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahiam",
+          "article": "person:Ahiam",
+          "description": "A warrior from the time of Israel's united kingdom, son of Sharar, mentioned in 2 Samuel 23:33."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִיאָם"
+    ]
+  },
+  "key_references": [
+    "10023033",
+    "13011035"
+  ],
+  "references": [
+    "10023033",
+    "13011035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230330031"
+      ],
+      [
+        "o130110350011"
+      ]
+    ]
+  }
+}

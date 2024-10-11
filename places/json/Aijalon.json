@@ -1,0 +1,139 @@
+{
+  "id": "place:Aijalon",
+  "primary_id": "place:Aijalon",
+  "alternate_sources": {
+    "aquifer": [
+      "3475|Aijalon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000337001001000",
+      "000337001002000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28317"
+    ],
+    "tipnr": [
+      "Aijalon@Jos.10.12-2Ch"
+    ],
+    "vizbible": [
+      "recAW3NovSbgdfNfk"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000337001001000",
+    "000337001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aijalon (of Dan)",
+      "alternate_labels": [
+        "Ajalon",
+        "Aijalon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aijalon.1",
+          "gloss": "Aijalon (of Dan)",
+          "description": "A Levitical town in the territory of Dan, assigned to the clan of Kohath. It was later held by the tribe of Benjamin (1 Chronicles 8:13)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Dan",
+  "subregion_of": [
+    "place:TerritoryOfDan",
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַיָּלֹון",
+      "אַיָּלוֹן",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.84117377",
+      "lon": "35.02537927"
+    },
+    "recogito": {
+      "lat": "31.844883",
+      "lon": "35.031267"
+    },
+    "vizbible": {
+      "lat": "31.844883",
+      "lon": "35.031267"
+    }
+  },
+  "key_references": [
+    "06021024",
+    "06019042",
+    "13008013",
+    "13006054"
+  ],
+  "references": [
+    "06010012",
+    "06019042",
+    "06021024",
+    "07001035",
+    "07012012",
+    "09014031",
+    "13006054",
+    "13008013",
+    "14011010",
+    "14028018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100120211"
+      ],
+      [
+        "o060190420022"
+      ],
+      [
+        "o060210240021"
+      ],
+      [
+        "o070010350062"
+      ],
+      [
+        "o070120120052"
+      ],
+      [
+        "o090140310061"
+      ],
+      [
+        "o130060540021"
+      ],
+      [
+        "o130080130071"
+      ],
+      [
+        "o140110100041"
+      ],
+      [
+        "o140280180121"
+      ]
+    ]
+  }
+}

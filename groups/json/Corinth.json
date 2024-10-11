@@ -1,0 +1,102 @@
+{
+  "id": "group:Corinth",
+  "primary_id": "group:Corinth",
+  "alternate_sources": {
+    "aquifer": [
+      "4650|Corinthians, First Letter to the|TyndaleBibleDictionary",
+      "4651|Corinthians, Second Letter to the|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.505"
+    ],
+    "tipnr": [
+      "Corinth@Act.18.1-2Ti"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Corinth",
+  "ubsdgnt": [
+    "93.505"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Corinthians",
+      "alternate_labels": [
+        "Corinth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Corinthians",
+          "article": "group:Corinth",
+          "description": "People who live in Corinth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Κορίνθιος"
+    ]
+  },
+  "key_references": [
+    "44018008",
+    "47006011"
+  ],
+  "references": [
+    "44018008",
+    "46016024",
+    "47006011",
+    "47013013",
+    "47013014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018008016"
+      ],
+      [
+        "n47006011007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44018011009"
+      ],
+      [
+        "n47006011006"
+      ],
+      [
+        "n47006012010"
+      ],
+      [
+        "n47006013010"
+      ],
+      [
+        "n47006014001"
+      ],
+      [
+        "n47006016008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n47006012002"
+      ],
+      [
+        "n47006012005"
+      ],
+      [
+        "n47006014002",
+        "n47006014003"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "place:LeptisMagna",
+  "primary_id": "place:LeptisMagna",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:LeptisMagna",
+          "gloss": "Leptis Magna",
+          "description": "A city on the northern coast of Africa. It was originally a Phoenician settlement and later became a Roman colony."
+        }
+      ],
+      "preferred_label": "Leptis Magna",
+      "alternate_labels": [
+        "Leptis",
+        "Lepcis Magna",
+        "Neapolis"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.63565",
+      "lon": "14.28922"
+    }
+  }
+}

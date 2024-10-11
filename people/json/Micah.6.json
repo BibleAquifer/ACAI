@@ -1,0 +1,134 @@
+{
+  "id": "person:Micah.6",
+  "primary_id": "person:Micah.6",
+  "alternate_sources": {
+    "aquifer": [
+      "7106|Micah (Person)|TyndaleBibleDictionary",
+      "26874|Micah|UWTranslationWords",
+      "132522|Micah|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Micah@Jer.26.18-Mic"
+    ],
+    "vizbible": [
+      "rec1End7yLK1mCvu6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Prophet"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Micah (Jeremiah 26:18)",
+      "alternate_labels": [
+        "Micaiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Micah (Jeremiah 26:18)",
+          "article": "person:Micah.6",
+          "description": "Micah, also known as Micaiah, was a prophet living during the divided kingdom, first mentioned in Jeremiah 26:18."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24026018",
+    "33001001"
+  ],
+  "references": [
+    "24026018",
+    "33001001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240260180021"
+      ],
+      [
+        "o330010010061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o330030080021"
+      ],
+      [
+        "o330040050082"
+      ],
+      [
+        "o330070070012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240260180051"
+      ],
+      [
+        "o240260180102"
+      ],
+      [
+        "o240260180152"
+      ],
+      [
+        "o330010010151"
+      ],
+      [
+        "o330010080031"
+      ],
+      [
+        "o330010080042",
+        "o330010080051"
+      ],
+      [
+        "o330010080091"
+      ],
+      [
+        "o330020060021"
+      ],
+      [
+        "o330020060051"
+      ],
+      [
+        "o330030080102"
+      ],
+      [
+        "o330050040112"
+      ],
+      [
+        "o330070010041"
+      ],
+      [
+        "o330070010112"
+      ],
+      [
+        "o330070070041"
+      ],
+      [
+        "o330070080061",
+        "o330070080071"
+      ],
+      [
+        "o330070080091"
+      ],
+      [
+        "o330070090031"
+      ],
+      [
+        "o330070090051"
+      ],
+      [
+        "o330070090151"
+      ]
+    ]
+  }
+}

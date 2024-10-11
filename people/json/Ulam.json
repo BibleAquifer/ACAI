@@ -1,0 +1,69 @@
+{
+  "id": "person:Ulam",
+  "primary_id": "person:Ulam",
+  "alternate_sources": {
+    "aquifer": [
+      "8955|Ulam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000191002001000"
+    ],
+    "tipnr": [
+      "Ulam@1Ch.7.16-"
+    ],
+    "vizbible": [
+      "reczaq5SZodNvSVSV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Sheresh",
+  "offspring": [
+    "person:Bedan"
+  ],
+  "siblings": [
+    "person:Rakem"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "000191002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ulam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ulam",
+          "article": "person:Ulam",
+          "description": "Ulam, a man from the tribe of Manasseh living during the divided kingdom, was the son of Peresh and the father of Bedan, first mentioned in 1 Chronicles 7:16."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אוּלָם"
+    ]
+  },
+  "key_references": [
+    "13007016",
+    "13007017"
+  ],
+  "references": [
+    "13007016",
+    "13007017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070160131"
+      ],
+      [
+        "o130070170021"
+      ]
+    ]
+  }
+}

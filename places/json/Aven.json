@@ -1,0 +1,95 @@
+{
+  "id": "place:Aven",
+  "primary_id": "place:Bethel",
+  "alternate_sources": {
+    "aquifer": [
+      "3885|Aven|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000194001001000 000194001004000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2986286"
+    ],
+    "tipnr": [
+      "Aven|Bethel@Gen.12.8-Zec"
+    ],
+    "vizbible": [
+      "reci4G5xtsAv4FRwr"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000194001001000 000194001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aven",
+      "alternate_labels": [
+        "wickedness",
+        "Bethel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aven",
+          "gloss": "Aven",
+          "description": "A town and cult center in the territory of Ephraim, near the border of Benjamin; normally referred to as Bethel or Beth-Aven. It is probably a pun featuring the meaning of אָוֶן \"evil, iniquity\" because of the idolatry that was practiced in this town. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Beth-aven.2",
+    "place:Bethel"
+  ],
+  "tribal_area": "group:Ephraim",
+  "nearby_places": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.93053921",
+      "lon": "35.22103275"
+    },
+    "recogito": {
+      "lat": "47.85",
+      "lon": "-3.75"
+    },
+    "vizbible": {
+      "lat": "31.93053921",
+      "lon": "35.22103275"
+    }
+  },
+  "key_references": [
+    "28010008"
+  ],
+  "references": [
+    "28010008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o280100080031"
+      ]
+    ]
+  }
+}

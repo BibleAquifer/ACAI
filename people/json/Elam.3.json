@@ -1,0 +1,67 @@
+{
+  "id": "person:Elam.3",
+  "primary_id": "person:Elam.3",
+  "alternate_sources": {
+    "aquifer": [
+      "4964|Elam (Person)|TyndaleBibleDictionary",
+      "4965|Elam (Place), Elamites|TyndaleBibleDictionary",
+      "26550|Elam|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005386001003000"
+    ],
+    "tipnr": [
+      "Elam@1Ch.8.24"
+    ],
+    "vizbible": [
+      "reclcU3g8jvFke7BK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shashak",
+  "siblings": [
+    "person:Ishpan",
+    "person:Eber.4",
+    "person:Eliel.3",
+    "person:Abdon.2",
+    "person:Zichri.3",
+    "person:Hanan",
+    "person:Hananiah.2",
+    "person:Anthothijah",
+    "person:Iphdeiah",
+    "person:Penuel.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005386001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elam (1 Chronicles 8:24)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elam (1 Chronicles 8:24)",
+          "article": "person:Elam.3",
+          "description": "Elam was a man of the tribe of Benjamin, son of Shashak, living during the time of the divided kingdom, mentioned in 1 Chronicles 8:24."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008024"
+  ],
+  "references": [
+    "13008024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080240022"
+      ]
+    ]
+  }
+}

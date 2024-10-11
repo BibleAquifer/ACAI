@@ -1,0 +1,74 @@
+{
+  "id": "flora:Myrtle",
+  "primary_id": "flora:Myrtle",
+  "alternate_sources": {
+    "aquifer": [
+      "7254|Myrtle|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001768001001000"
+    ],
+    "ubsflora": [
+      "flora:1.15"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "001768001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Myrtle",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Myrtle",
+          "article": "flora:Myrtle",
+          "description": "An evergreen bush with dark glossy leaves and white or pink flowers that give off a pleasant smell."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֲדַס"
+    ]
+  },
+  "key_references": [
+    "16008015",
+    "38001008"
+  ],
+  "references": [
+    "16008015",
+    "23041019",
+    "23055013",
+    "38001008",
+    "38001010",
+    "38001011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160080150181"
+      ],
+      [
+        "o230410190052"
+      ],
+      [
+        "o230550130091"
+      ],
+      [
+        "o380010080122"
+      ],
+      [
+        "o380010100052"
+      ],
+      [
+        "o380010110072"
+      ]
+    ]
+  }
+}

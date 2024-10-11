@@ -1,0 +1,41 @@
+{
+  "id": "place:Machaerus",
+  "primary_id": "place:Machaerus",
+  "alternate_sources": {
+    "aquifer": [
+      "6831|Machaerus|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Machaerus",
+          "gloss": "Machaerus",
+          "description": "A hilltop fortress east of the Dead Sea, where John the Baptist may have been imprisoned and beheaded."
+        }
+      ],
+      "preferred_label": "Machaerus"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "fortification",
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "31.56737",
+      "lon": "35.62411"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "person:Beor.2",
+  "primary_id": "person:Beor.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4122|Beor|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Beor@Num.22.5-2Pe"
+    ],
+    "vizbible": [
+      "reckWFql9mjdmyQ8e"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Balaam"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beor",
+      "alternate_labels": [
+        "Bezer",
+        "Bosor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Beor",
+          "article": "person:Beor.2",
+          "description": "A man living during the time of the Egyptian slavery and wilderness wandering of the Israelites. He was the father of the prophet Balaam."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04022005",
+    "04024003",
+    "06013022",
+    "61002015"
+  ],
+  "references": [
+    "04022005",
+    "04024003",
+    "04024015",
+    "04031008",
+    "05023005",
+    "06013022",
+    "06024009",
+    "33006005",
+    "61002015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040220050061"
+      ],
+      [
+        "o040240030071"
+      ],
+      [
+        "o040240150071"
+      ],
+      [
+        "o040310080231"
+      ],
+      [
+        "o050230050181"
+      ],
+      [
+        "o060130220041"
+      ],
+      [
+        "o060240090131"
+      ],
+      [
+        "o330060050141"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n61002015011"
+      ]
+    ]
+  }
+}

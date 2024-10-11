@@ -1,0 +1,105 @@
+{
+  "id": "person:Shishak",
+  "primary_id": "person:Shishak",
+  "alternate_sources": {
+    "aquifer": [
+      "8430|Shishak|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shishak@1Ki.11.40-2Ch"
+    ],
+    "vizbible": [
+      "recLWdpsJvt4MWqTe"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Egypt",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shishak",
+      "alternate_labels": [
+        "Shushak"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shishak",
+          "article": "person:Shishak",
+          "description": "A ruler of Egypt during the time of kings Solomon and Rehoboam of Judah. He attacked Jerusalem and captured many treasures from the Temple and king's house."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11011040",
+    "11014025",
+    "14012009"
+  ],
+  "references": [
+    "11011040",
+    "11014025",
+    "14012002",
+    "14012005",
+    "14012007",
+    "14012009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110110400111"
+      ],
+      [
+        "o110140250081"
+      ],
+      [
+        "o140120020071"
+      ],
+      [
+        "o140120050131"
+      ],
+      [
+        "o140120050271"
+      ],
+      [
+        "o140120070231"
+      ],
+      [
+        "o140120090021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110140260012"
+      ],
+      [
+        "o110140260121"
+      ],
+      [
+        "o110140260132"
+      ],
+      [
+        "o140120040012"
+      ],
+      [
+        "o140120040072"
+      ],
+      [
+        "o140120090072"
+      ],
+      [
+        "o140120090181"
+      ],
+      [
+        "o140120090192"
+      ]
+    ]
+  }
+}

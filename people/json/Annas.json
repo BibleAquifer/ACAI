@@ -1,0 +1,163 @@
+{
+  "id": "person:Annas",
+  "primary_id": "person:Annas",
+  "alternate_sources": {
+    "aquifer": [
+      "3618|Annas|TyndaleBibleDictionary",
+      "26319|Annas|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.28"
+    ],
+    "tipnr": [
+      "Annas@Luk.3.2-Act"
+    ],
+    "vizbible": [
+      "recGotpPx4VIXOGPr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:WifeOfCaiaphas"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "ubsdgnt": [
+    "93.28"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Annas",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Annas",
+          "article": "person:Annas",
+          "description": "A Jewish high priest during the New Testament period. He was the father-in-law of Caiaphas, who was the high priest during the trial of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἅννας"
+    ]
+  },
+  "key_references": [
+    "42003002",
+    "43018013",
+    "44004006"
+  ],
+  "references": [
+    "42003002",
+    "43018013",
+    "43018024",
+    "44004006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003002003"
+      ],
+      [
+        "n43018013004"
+      ],
+      [
+        "n43018024005"
+      ],
+      [
+        "n44004006002"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44004008008"
+      ],
+      [
+        "n44004015010"
+      ],
+      [
+        "n44004019009"
+      ],
+      [
+        "n44004019016"
+      ],
+      [
+        "n44004021001"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43018013006"
+      ],
+      [
+        "n44004007002"
+      ],
+      [
+        "n44004007007"
+      ],
+      [
+        "n44004013001"
+      ],
+      [
+        "n44004013010"
+      ],
+      [
+        "n44004013017",
+        "n44004013018"
+      ],
+      [
+        "n44004014004"
+      ],
+      [
+        "n44004014011",
+        "n44004014012"
+      ],
+      [
+        "n44004015001"
+      ],
+      [
+        "n44004015008"
+      ],
+      [
+        "n44004016001"
+      ],
+      [
+        "n44004016003"
+      ],
+      [
+        "n44004016022",
+        "n44004016023"
+      ],
+      [
+        "n44004017010"
+      ],
+      [
+        "n44004018002"
+      ],
+      [
+        "n44004018004"
+      ],
+      [
+        "n44004019022"
+      ],
+      [
+        "n44004021003"
+      ],
+      [
+        "n44004021007"
+      ],
+      [
+        "n44004021010"
+      ]
+    ]
+  }
+}

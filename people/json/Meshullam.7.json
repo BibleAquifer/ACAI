@@ -1,0 +1,63 @@
+{
+  "id": "person:Meshullam.7",
+  "primary_id": "person:Meshullam.7",
+  "alternate_sources": {
+    "aquifer": [
+      "7086|Meshullam|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ahzai|Meshullam@1Ch.9.12-Neh",
+      "Meshullam@1Ch.9.12-Neh"
+    ],
+    "vizbible": [
+      "rec5mR4pG3eJN9air"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Meshillemith",
+  "offspring": [
+    "person:Jahzerah"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meshullam (1 Chronicles 9:12)",
+      "alternate_labels": [
+        "Ahasai",
+        "Ahzai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Meshullam (1 Chronicles 9:12)",
+          "article": "person:Meshullam.7",
+          "description": "A man of the tribe of Levi living during the time of exile and return, son of Meshillemith and father of Jahzerah, also called Ahzai or Ahasai, mentioned in 1 Chronicles 9:12 and Nehemiah 11:13."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ahzai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009012",
+    "16011013"
+  ],
+  "references": [
+    "13009012",
+    "16011013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090120141"
+      ],
+      [
+        "o160110130111"
+      ]
+    ]
+  }
+}

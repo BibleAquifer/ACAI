@@ -1,0 +1,90 @@
+{
+  "id": "place:Ezem",
+  "primary_id": "place:Ezem",
+  "alternate_sources": {
+    "aquifer": [
+      "5218|Ezem|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005608002001000"
+    ],
+    "tipnr": [
+      "Ezem@Jos.15.29-1Ch"
+    ],
+    "vizbible": [
+      "recNerBj6ADOpYbfh"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005608002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ezem",
+      "alternate_labels": [
+        "Azem"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ezem",
+          "gloss": "Ezem",
+          "description": "A town in the territory of Judah and later assigned to Simeon."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon",
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    },
+    "vizbible": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    }
+  },
+  "key_references": [
+    "13004029",
+    "06019003",
+    "06015029"
+  ],
+  "references": [
+    "06015029",
+    "06019003",
+    "13004029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150290032"
+      ],
+      [
+        "o060190030042"
+      ],
+      [
+        "o130040290023"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "realia:Censer",
+  "primary_id": "realia:Censer",
+  "alternate_sources": {
+    "aquifer": [
+      "4456|Censer|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.138"
+    ],
+    "ubsrealia": [
+      "realia:4.4.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.138"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Censer",
+      "alternate_labels": [
+        "Censer",
+        "Firepan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Censer",
+          "article": "realia:Censer",
+          "description": "A bowl used for burning incense or moving hot coals."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "λιβανωτός"
+    ]
+  },
+  "key_references": [
+    "03016012",
+    "04016017",
+    "66008003"
+  ],
+  "references": [
+    "66008003",
+    "66008005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n66008003011"
+      ],
+      [
+        "n66008005006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n66008005009"
+      ]
+    ]
+  }
+}

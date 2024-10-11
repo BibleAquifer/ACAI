@@ -1,0 +1,60 @@
+{
+  "id": "group:Girzites",
+  "primary_id": "group:Girzites",
+  "alternate_sources": {
+    "aquifer": [
+      "5477|Girzites|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Girzites@1Sa.27.8"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Girzites",
+      "alternate_labels": [
+        "Girzite",
+        "Gezrite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Girzites",
+          "article": "group:Girzites",
+          "description": "A group of people located between Philistia and Egypt that were attacked by David (1 Samuel 27:8)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09027008"
+  ],
+  "references": [
+    "09027008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090270080083"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090270080111"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090270080121"
+      ]
+    ]
+  }
+}

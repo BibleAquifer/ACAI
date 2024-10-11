@@ -1,0 +1,59 @@
+{
+  "id": "person:Ribai",
+  "primary_id": "person:Ribai",
+  "alternate_sources": {
+    "aquifer": [
+      "8032|Ribai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006782001001000"
+    ],
+    "tipnr": [
+      "Ribai@2Sa.23.29-1Ch"
+    ],
+    "vizbible": [
+      "rec76bDolo4oqslzM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ittai.2"
+  ],
+  "ubsdbh": [
+    "006782001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ribai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ribai",
+          "article": "person:Ribai",
+          "description": "Ribai, father of Ittai, was a man living during the time of Israel's united kingdom, mentioned in 2 Samuel 23:29."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023029",
+    "13011031"
+  ],
+  "references": [
+    "10023029",
+    "13011031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230290071"
+      ],
+      [
+        "o130110310031"
+      ]
+    ]
+  }
+}

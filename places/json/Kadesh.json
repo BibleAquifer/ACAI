@@ -1,0 +1,76 @@
+{
+  "id": "place:Kadesh",
+  "primary_id": "place:Kadesh",
+  "alternate_sources": {
+    "aquifer": [
+      "8719|Tahtim-Hodshi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007782001001000"
+    ],
+    "tipnr": [
+      "Kadesh@2Sa.24.6"
+    ],
+    "vizbible": [
+      "rec6mT2pj9WJ7X7tP"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007782001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tahtim-hodshi",
+      "alternate_labels": [
+        "Kadesh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kadesh.2",
+          "gloss": "Tahtim-Hodshi",
+          "description": "A location between Gilead and Dan-Jaan visited by David's military commanders during the census."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.558327",
+      "lon": "36.522943"
+    },
+    "vizbible": {
+      "lat": "34.558327",
+      "lon": "36.522943"
+    }
+  },
+  "key_references": [
+    "10024006"
+  ],
+  "references": [
+    "10024006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100240060051",
+        "o100240060061"
+      ]
+    ]
+  }
+}

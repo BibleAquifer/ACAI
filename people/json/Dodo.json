@@ -1,0 +1,60 @@
+{
+  "id": "person:Dodo",
+  "primary_id": "person:Dodo",
+  "alternate_sources": {
+    "aquifer": [
+      "4877|Dodo|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001595001001000"
+    ],
+    "tipnr": [
+      "Dodo@Jdg.10.1"
+    ],
+    "vizbible": [
+      "recx6sUiQ9ePMRAgm"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Puah.2"
+  ],
+  "ubsdbh": [
+    "001595001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dodo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dodo",
+          "article": "person:Dodo",
+          "description": "Dodo, mentioned in Judges 10:1, was the father of Puah and an ancestor of Tola, a judge of Israel, living before Israel's monarchy."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דֹּודֹו",
+      "דּוֹדוֹ"
+    ]
+  },
+  "key_references": [
+    "07010001"
+  ],
+  "references": [
+    "07010001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070100010111"
+      ]
+    ]
+  }
+}

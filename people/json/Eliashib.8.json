@@ -1,0 +1,87 @@
+{
+  "id": "person:Eliashib.8",
+  "primary_id": "person:Eliashib.8",
+  "alternate_sources": {
+    "aquifer": [
+      "4999|Eliashib|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000439001004000"
+    ],
+    "tipnr": [
+      "Eliashib@Neh.12.10-"
+    ],
+    "vizbible": [
+      "recrPM9qBUr51Uvl3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joiakim",
+  "offspring": [
+    "person:Joiada.2"
+  ],
+  "roles": [
+    "High Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000439001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliashib",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliashib",
+          "article": "person:Eliashib.8",
+          "description": "Son of Joiakim and father of Joiada and high priest living during the time of the Israelite return from exile. He aided Tobiah, who Nehemiah opposed."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְיָשִׁיב"
+    ]
+  },
+  "key_references": [
+    "16012010",
+    "16012022",
+    "16013004",
+    "16013005",
+    "16013006",
+    "16013007",
+    "16013008",
+    "16013009",
+    "16013028"
+  ],
+  "references": [
+    "16012010",
+    "16012022",
+    "16012023",
+    "16013028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160120100081"
+      ],
+      [
+        "o160120100092"
+      ],
+      [
+        "o160120220031"
+      ],
+      [
+        "o160120230141"
+      ],
+      [
+        "o160130280041"
+      ]
+    ]
+  }
+}

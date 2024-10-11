@@ -1,0 +1,78 @@
+{
+  "id": "person:Gazez",
+  "primary_id": "person:Gazez",
+  "alternate_sources": {
+    "aquifer": [
+      "5386|Gazez|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001370001001000",
+      "001370001002000"
+    ],
+    "tipnr": [
+      "Gazez@1Ch.2.46a"
+    ],
+    "vizbible": [
+      "rec9lhwsGBV6HX3ot"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Caleb.2",
+  "mother": "person:Ephah.2",
+  "siblings": [
+    "person:Hur.2",
+    "person:Jesher",
+    "person:Shobab.2",
+    "person:Ardon",
+    "person:Mareshah",
+    "person:Haran.3",
+    "person:Moza",
+    "person:Sheber",
+    "person:Tirhanah",
+    "person:Shaaph.2",
+    "person:Sheva.2",
+    "person:Achsah.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "001370001001000",
+    "001370001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gazez",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gazez",
+          "article": "person:Gazez",
+          "description": "Gazez, a man from the tribe of Judah and son of Caleb and Ephah, is first mentioned in 1 Chronicles 2:46a during the time of Egypt and the wilderness."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גָּזֵז"
+    ]
+  },
+  "key_references": [
+    "13002046"
+  ],
+  "references": [
+    "13002046"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020460101"
+      ],
+      [
+        "o130020460141"
+      ]
+    ]
+  }
+}

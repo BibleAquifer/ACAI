@@ -1,0 +1,85 @@
+{
+  "id": "person:Ammihud",
+  "primary_id": "person:Ammihud",
+  "alternate_sources": {
+    "aquifer": [
+      "3560|Ammihud|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005495001001000"
+    ],
+    "tipnr": [
+      "Ammihud@Num.1.10-1Ch"
+    ],
+    "vizbible": [
+      "recceqSlJUCba6VY5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ladan",
+  "offspring": [
+    "person:Elishama"
+  ],
+  "tribe": "group:Ephraim",
+  "ubsdbh": [
+    "005495001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ammihud",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ammihud",
+          "article": "person:Ammihud",
+          "description": "A son of Ladan, from the tribe of Ephraim, and the great-grandfather of the Israelite leader Joshua, son of Nun."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַמִּיזָבָד"
+    ]
+  },
+  "key_references": [
+    "04001010",
+    "04002018",
+    "04010022",
+    "13007026",
+    "13007027"
+  ],
+  "references": [
+    "04001010",
+    "04002018",
+    "04007048",
+    "04007053",
+    "04010022",
+    "13007026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010100061"
+      ],
+      [
+        "o040020180111"
+      ],
+      [
+        "o040070480081"
+      ],
+      [
+        "o040070530171"
+      ],
+      [
+        "o040100220111"
+      ],
+      [
+        "o130070260031"
+      ]
+    ]
+  }
+}

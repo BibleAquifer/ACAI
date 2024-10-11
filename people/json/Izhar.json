@@ -1,0 +1,126 @@
+{
+  "id": "person:Izhar",
+  "primary_id": "person:Izhar",
+  "alternate_sources": {
+    "aquifer": [
+      "6124|Izhar|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Amminadab|Izhar@Exo.6.18-1Ch",
+      "Izhar@Exo.6.18-1Ch"
+    ],
+    "vizbible": [
+      "rec1Mcw3l21ibjdOf"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kohath",
+  "offspring": [
+    "person:Korah.3",
+    "person:Nepheg",
+    "person:Zichri",
+    "person:Shelomith"
+  ],
+  "siblings": [
+    "person:Amram",
+    "person:Hebron",
+    "person:Uzziel"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader",
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Izhar",
+      "alternate_labels": [
+        "Izehar",
+        "Izharite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Izhar",
+          "article": "person:Izhar",
+          "description": "A son of Kohath a clan leader of the Levites and father of Korah. He lived during the time of Egyptian slavery and the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Izhar",
+    "person:Amminadab.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006018",
+    "04003019",
+    "13023012"
+  ],
+  "references": [
+    "02006018",
+    "02006021",
+    "04003019",
+    "04003027",
+    "04016001",
+    "13005028",
+    "13006003",
+    "13006007",
+    "13006023",
+    "13023012",
+    "13023018",
+    "13024022",
+    "13026023",
+    "13026029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060180042"
+      ],
+      [
+        "o020060210021"
+      ],
+      [
+        "o040030190052"
+      ],
+      [
+        "o040030270052"
+      ],
+      [
+        "o040160010041"
+      ],
+      [
+        "o130050280041"
+      ],
+      [
+        "o130060030042"
+      ],
+      [
+        "o130060070031"
+      ],
+      [
+        "o130060230021"
+      ],
+      [
+        "o130230120041"
+      ],
+      [
+        "o130230180021"
+      ],
+      [
+        "o130240220012"
+      ],
+      [
+        "o130260230022"
+      ],
+      [
+        "o130260290012"
+      ]
+    ]
+  }
+}

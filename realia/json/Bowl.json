@@ -1,0 +1,105 @@
+{
+  "id": "realia:Bowl",
+  "primary_id": "realia:Bowl",
+  "alternate_sources": {
+    "aquifer": [
+      "4317|Bowl|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.122"
+    ],
+    "ubsdbh": [
+      "005133001001000"
+    ],
+    "ubsrealia": [
+      "realia:5.16"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.122"
+  ],
+  "ubsdbh": [
+    "005133001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bowl",
+      "alternate_labels": [
+        "Basin",
+        "Washbasin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bowl",
+          "article": "realia:Bowl",
+          "description": "A large deep dish used for washing or religious purposes, often made of metal or clay."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סַף"
+    ],
+    "el": [
+      "νιπτήρ"
+    ]
+  },
+  "key_references": [
+    "02012022",
+    "11007050",
+    "24052019",
+    "43013005"
+  ],
+  "references": [
+    "02012022",
+    "10017028",
+    "11007050",
+    "12012014",
+    "24052019",
+    "38012002",
+    "43013005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020120220072"
+      ],
+      [
+        "o020120220172"
+      ],
+      [
+        "o100170280022"
+      ],
+      [
+        "o110070500013"
+      ],
+      [
+        "o120120140061"
+      ],
+      [
+        "o240520190022"
+      ],
+      [
+        "o380120020061"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43013005006"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o380120020141"
+      ]
+    ]
+  }
+}

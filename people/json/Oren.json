@@ -1,0 +1,67 @@
+{
+  "id": "person:Oren",
+  "primary_id": "person:Oren",
+  "alternate_sources": {
+    "aquifer": [
+      "7515|Oren|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000706002001000"
+    ],
+    "tipnr": [
+      "Oren@1Ch.2.25"
+    ],
+    "vizbible": [
+      "recKGRC8vUP5GDFiq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jerahmeel",
+  "mother": "person:WifeOfJerahmeel",
+  "siblings": [
+    "person:Ram.2",
+    "person:Bunah",
+    "person:Ozem.2",
+    "person:Ahijah.4",
+    "person:Onam.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000706002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Oren",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Oren",
+          "article": "person:Oren",
+          "description": "Oren is a man from the tribe of Judah, living during Israel's united kingdom, mentioned in 1 Chronicles 2:25 as the son of Jerahmeel and brother of Ram, Bunah, Ozem, Ahijah, and Onam."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֹרֶן",
+      "אֹ֫רֶן"
+    ]
+  },
+  "key_references": [
+    "13002025"
+  ],
+  "references": [
+    "13002025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020250092"
+      ]
+    ]
+  }
+}

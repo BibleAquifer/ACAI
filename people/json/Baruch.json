@@ -1,0 +1,65 @@
+{
+  "id": "person:Baruch",
+  "primary_id": "person:Baruch",
+  "alternate_sources": {
+    "aquifer": [
+      "4019|Baruch|TyndaleBibleDictionary",
+      "26367|Baruch|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "001165001001000"
+    ],
+    "tipnr": [
+      "Baruch@Neh.3.20"
+    ],
+    "vizbible": [
+      "rec3vNGn61Qm6eyUs"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zabbai.2",
+  "ubsdbh": [
+    "001165001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baruch",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Baruch",
+          "article": "person:Baruch",
+          "description": "A Levite living at the time of exile and return, son of Zabbai, mentioned in Nehemiah 3:20."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בָּרוּךְ"
+    ]
+  },
+  "key_references": [
+    "16003020"
+  ],
+  "references": [
+    "16003020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030200041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o160030200021"
+      ]
+    ]
+  }
+}

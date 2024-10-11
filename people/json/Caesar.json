@@ -1,0 +1,70 @@
+{
+  "id": "person:Caesar",
+  "primary_id": "person:Augustus",
+  "alternate_sources": {
+    "aquifer": [
+      "26420|Caesar|UWTranslationWords",
+      "131980|Caesar|BiblicaStudyNotesKeyTerms",
+      "280161|caesar|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "37.74 93.208"
+    ],
+    "tipnr": [
+      "Caesar|Augustus@Luk.2.1-Act"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Emperor"
+  ],
+  "tribe": "group:Italy",
+  "ubsdgnt": [
+    "37.74 93.208"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Caesar (Augustus)",
+      "alternate_labels": [
+        "Augustus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Augustus",
+          "article": "person:Caesar",
+          "description": "Augustus was a Roman Emperor during the New Testament time, first mentioned in Luke 2:1."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Augustus"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Καῖσαρ"
+    ]
+  },
+  "key_references": [
+    "42002001",
+    "42003001"
+  ],
+  "references": [
+    "42002001",
+    "42003001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42002001010"
+      ],
+      [
+        "n42003001008"
+      ]
+    ]
+  }
+}

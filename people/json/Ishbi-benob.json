@@ -1,0 +1,88 @@
+{
+  "id": "person:Ishbi-benob",
+  "primary_id": "person:Ishbi-benob",
+  "alternate_sources": {
+    "aquifer": [
+      "6065|Ishbi-Benob|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003141001001000"
+    ],
+    "tipnr": [
+      "Ishbi-benob@2Sa.21.16"
+    ],
+    "vizbible": [
+      "recOpskVkwWUxKHuT"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Rapha",
+  "siblings": [
+    "person:Goliath",
+    "person:Saph",
+    "person:Lahmi",
+    "person:HugeMan"
+  ],
+  "roles": [
+    "Warrior"
+  ],
+  "ubsdbh": [
+    "003141001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ishbi-benob",
+      "alternate_labels": [
+        "Ishbo-benob"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ishbi-Benob",
+          "article": "person:Ishbi-benob",
+          "description": "A giant and descendant of Rapha, mentioned in 2 Samuel 21:16, living during Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִשְׁבִּי בְּנֹב",
+      "יִשְׁבּוֹ בְּנֹב"
+    ]
+  },
+  "key_references": [
+    "10021016"
+  ],
+  "references": [
+    "10021016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100210160022",
+        "o100210160031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o100210160132"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100210160162"
+      ],
+      [
+        "o100210160172"
+      ]
+    ]
+  }
+}

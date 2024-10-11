@@ -1,0 +1,77 @@
+{
+  "id": "place:Taberah",
+  "primary_id": "place:Taberah",
+  "alternate_sources": {
+    "aquifer": [
+      "8694|Taberah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007711001001000"
+    ],
+    "tipnr": [
+      "Taberah@Num.11.3-Deu"
+    ],
+    "vizbible": [
+      "recQ251kc77r3HetT"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007711001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Taberah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Taberah",
+          "gloss": "Taberah",
+          "description": "A location along the route of the exodus."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.916667",
+      "lon": "34.500000"
+    },
+    "vizbible": {
+      "lat": "28.916667",
+      "lon": "34.500000"
+    }
+  },
+  "key_references": [
+    "04011003",
+    "05009022"
+  ],
+  "references": [
+    "04011003",
+    "05009022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040110030051"
+      ],
+      [
+        "o050090220013"
+      ]
+    ]
+  }
+}

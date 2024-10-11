@@ -1,0 +1,135 @@
+{
+  "id": "place:Mamre",
+  "primary_id": "place:Mamre",
+  "alternate_sources": {
+    "aquifer": [
+      "6912|Mamre (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aeb9e97"
+    ],
+    "ubsdbh": [
+      "004089001002000",
+      "004089001001000"
+    ],
+    "tipnr": [
+      "Mamre@Gen.13.18-"
+    ],
+    "vizbible": [
+      "recQea8xEa8yZBFdt"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2143048"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004089001002000",
+    "004089001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mamre",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mamre",
+          "gloss": "Mamre",
+          "description": "A location with oak trees near Hebron, where Abraham pitched his tents."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Hebron"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מַמְרֵא"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.54909872",
+      "lon": "35.09356062"
+    },
+    "vizbible": {
+      "lat": "31.54909872",
+      "lon": "35.09356062"
+    }
+  },
+  "key_references": [
+    "01023017",
+    "01035027"
+  ],
+  "references": [
+    "01013018",
+    "01014013",
+    "01014024",
+    "01018001",
+    "01023017",
+    "01023019",
+    "01025009",
+    "01035027",
+    "01049030",
+    "01050013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010130180061"
+      ],
+      [
+        "o010140130091"
+      ],
+      [
+        "o010140240132"
+      ],
+      [
+        "o010180010051"
+      ],
+      [
+        "o010230170081"
+      ],
+      [
+        "o010230190141"
+      ],
+      [
+        "o010250090181"
+      ],
+      [
+        "o010350270061"
+      ],
+      [
+        "o010490300081"
+      ],
+      [
+        "o010500130231"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140130152"
+      ],
+      [
+        "o010230190151"
+      ]
+    ]
+  }
+}

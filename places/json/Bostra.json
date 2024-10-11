@@ -1,0 +1,48 @@
+{
+  "id": "place:Bostra",
+  "primary_id": "place:Bostra",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bostra",
+          "gloss": "Bostra",
+          "description": "A city in Gilead, east of the Decapolis, captured by Judas Maccabeus (1 Maccabees 5:28)."
+        }
+      ],
+      "preferred_label": "Bostra",
+      "alternate_labels": [
+        "Bosra",
+        "Busra al-Sham"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Decapolis"
+  ],
+  "subregion_of": [
+    "place:Gilead"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": true,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.51783",
+      "lon": "36.48369"
+    }
+  },
+  "key_references": [
+    "78005026"
+  ]
+}

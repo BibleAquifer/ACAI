@@ -1,0 +1,100 @@
+{
+  "id": "place:Salmone",
+  "primary_id": "place:Salmone",
+  "alternate_sources": {
+    "aquifer": [
+      "8109|Salmone|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a1c44ea"
+    ],
+    "ubsdgnt": [
+      "93.567"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/31060"
+    ],
+    "tipnr": [
+      "Salmone@Act.27.7"
+    ],
+    "vizbible": [
+      "rec87ltw24GIvuFnT"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2937111"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.567"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Salmone",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Salmone",
+          "gloss": "Salmone",
+          "description": "A promontory on the northeast corner of Crete; Paul's ship sailed near here during his journey to Rome."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Crete"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Σαλμώνη"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "promontory"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "geographical feature"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.2122973",
+      "lon": "26.27449174"
+    },
+    "recogito": {
+      "lat": "37.69636",
+      "lon": "21.56999"
+    },
+    "vizbible": {
+      "lat": "37.69636",
+      "lon": "21.56999"
+    },
+    "biblica-maps": {
+      "lat": "35.3074",
+      "lon": "26.30426"
+    }
+  },
+  "key_references": [
+    "44027007"
+  ],
+  "references": [
+    "44027007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027007021"
+      ]
+    ]
+  }
+}

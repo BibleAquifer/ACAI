@@ -1,0 +1,43 @@
+{
+  "id": "place:Qumran",
+  "primary_id": "place:Qumran",
+  "alternate_sources": {
+    "aquifer": [
+      "7887|Qumran|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Qumran",
+          "gloss": "Qumran",
+          "description": "A settlement near the northwestern shore of the Dead Sea, south of Jericho. The Dead Sea Scrolls were discovered nearby within the Qumran Caves."
+        }
+      ],
+      "preferred_label": "Qumran"
+    }
+  },
+  "nearby_places": [
+    "place:SaltSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "31.74183",
+      "lon": "35.45941"
+    }
+  }
+}

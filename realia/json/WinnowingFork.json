@@ -1,0 +1,87 @@
+{
+  "id": "realia:WinnowingFork",
+  "primary_id": "realia:WinnowingFork",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.6"
+    ],
+    "ubsdbh": [
+      "003847001001000",
+      "006773001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.1.8.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.6"
+  ],
+  "ubsdbh": [
+    "003847001001000",
+    "006773001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Winnowing Fork",
+      "alternate_labels": [
+        "Winnowing Shovel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Winnowing Fork",
+          "article": "realia:WinnowingFork",
+          "description": "A wooden tool with prongs or a flat blade used to toss threshed grain into the air, allowing the wind to separate the straw and chaff from the grain."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "realia:Fork"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִזְרֶה",
+      "רַחַת"
+    ],
+    "el": [
+      "πτύον"
+    ]
+  },
+  "key_references": [
+    "40003012",
+    "08003002",
+    "24015007"
+  ],
+  "references": [
+    "23030024",
+    "24015007",
+    "40003012",
+    "42003017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230300240113"
+      ],
+      [
+        "o240150070022"
+      ],
+      [
+        "o230300240102"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40003012003"
+      ],
+      [
+        "n42003017003"
+      ]
+    ]
+  }
+}

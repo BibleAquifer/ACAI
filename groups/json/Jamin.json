@@ -1,0 +1,58 @@
+{
+  "id": "group:Jamin",
+  "primary_id": "group:Jamin",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002951001001000"
+    ],
+    "tipnr": [
+      "Jamin@Gen.46.10-1Ch"
+    ],
+    "vizbible": [
+      "recQcPBfi7QsKj2qR"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Jamin",
+  "ubsdbh": [
+    "002951001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jaminites",
+      "alternate_labels": [
+        "Jamin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jaminites",
+          "article": "group:Jamin",
+          "description": "People descended from Jamin, son of Simeon, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָמִינִי",
+      "יָֽמִינִי"
+    ]
+  },
+  "key_references": [
+    "04026012"
+  ],
+  "references": [
+    "04026012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260120092"
+      ]
+    ]
+  }
+}

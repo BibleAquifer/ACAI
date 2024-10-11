@@ -1,0 +1,101 @@
+{
+  "id": "place:En-dor",
+  "primary_id": "place:En-dor",
+  "alternate_sources": {
+    "aquifer": [
+      "5078|Endor|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aca444b"
+    ],
+    "ubsdbh": [
+      "005392001001000"
+    ],
+    "tipnr": [
+      "En-dor@Jos.17.11-Psa"
+    ],
+    "vizbible": [
+      "rectZ9CHWAIqw2hu2"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q431722"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005392001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Endor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:En-dor",
+          "gloss": "Endor",
+          "description": "A town in the territory of Issachar but allotted to Manasseh, where Saul consulted with a medium (1 Samuel 28:7–25)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Issachar",
+  "subregion_of": [
+    "place:TerritoryOfIssachar",
+    "place:TerritoryOfWestManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵין הַקֹּורֵא",
+      "עֵין הַקּוֹרֵא"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.62570021",
+      "lon": "35.38566744"
+    },
+    "vizbible": {
+      "lat": "32.62570021",
+      "lon": "35.38566744"
+    }
+  },
+  "key_references": [
+    "09028007",
+    "06017011"
+  ],
+  "references": [
+    "06017011",
+    "09028007",
+    "19083011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060170110151",
+        "o060170110161"
+      ],
+      [
+        "o090280070202",
+        "o090280070211"
+      ],
+      [
+        "o190830110022",
+        "o190830110031"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "group:Babylon",
+  "primary_id": "group:Babylon",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000832001001000"
+    ],
+    "tipnr": [
+      "Babylon@Gen.10.10-Rev"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Babylon",
+  "ubsdbh": [
+    "000832001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Babylonians",
+      "alternate_labels": [
+        "Babylon",
+        "Babylonians"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Babylonians",
+          "article": "group:Babylon",
+          "description": "People who live in Babylon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Chaldea",
+    "group:Assyria"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "arc": [
+      "בָּבְלָי",
+      "בָּֽבְלַי"
+    ]
+  },
+  "key_references": [
+    "15004009"
+  ],
+  "references": [
+    "15004009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150040090151"
+      ]
+    ]
+  }
+}

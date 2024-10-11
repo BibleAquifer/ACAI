@@ -1,0 +1,78 @@
+{
+  "id": "group:Hori",
+  "primary_id": "group:Hori",
+  "alternate_sources": {
+    "aquifer": [
+      "5903|Horites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002534002001000"
+    ],
+    "tipnr": [
+      "Hori@Gen.36.22-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Hori",
+  "ubsdbh": [
+    "002534002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Horites",
+      "alternate_labels": [
+        "Hori"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Horites",
+          "article": "group:Hori",
+          "description": "People descended from Hori who were driven out of Canaan by Esau's descendants."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֹרִי"
+    ]
+  },
+  "key_references": [
+    "05002012",
+    "05002022"
+  ],
+  "references": [
+    "01014006",
+    "01036020",
+    "01036021",
+    "01036029",
+    "05002012",
+    "05002022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140060022"
+      ],
+      [
+        "o010360200042"
+      ],
+      [
+        "o010360210062"
+      ],
+      [
+        "o010360290032"
+      ],
+      [
+        "o050020120032"
+      ],
+      [
+        "o050020220102"
+      ]
+    ]
+  }
+}

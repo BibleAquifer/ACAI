@@ -1,0 +1,35 @@
+{
+  "id": "place:Aquincum",
+  "primary_id": "place:Aquincum",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aquincum",
+          "gloss": "Aquincum",
+          "description": "An ancient Roman city in the region of Pannonia, in modern-day Budapest."
+        }
+      ],
+      "preferred_label": "Aquincum"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "19.04952",
+      "lon": "47.56408"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "person:Haran",
+  "primary_id": "person:Haran",
+  "alternate_sources": {
+    "aquifer": [
+      "5658|Haran (Person)|TyndaleBibleDictionary",
+      "26677|Haran|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "001887001001000"
+    ],
+    "tipnr": [
+      "Haran@Gen.11.26-"
+    ],
+    "vizbible": [
+      "recAZ1svRqs8DDACR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Terah",
+  "offspring": [
+    "person:Lot",
+    "person:Milcah",
+    "person:Iscah"
+  ],
+  "siblings": [
+    "person:Abraham",
+    "person:Nahor.2",
+    "person:Sarah"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "related_places": {
+    "birth_place": [
+      "place:Ur"
+    ],
+    "death_place": [
+      "place:Ur"
+    ]
+  },
+  "ubsdbh": [
+    "001887001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Haran",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Haran",
+          "article": "person:Haran",
+          "description": "A son of Terah and brother of Abraham. He was the father of Lot, Milcah, and Iscah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הָרָן"
+    ]
+  },
+  "key_references": [
+    "01011027",
+    "01011028",
+    "01011029",
+    "01011030",
+    "01011031"
+  ],
+  "references": [
+    "01011026",
+    "01011027",
+    "01011028",
+    "01011029",
+    "01011031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010110260111"
+      ],
+      [
+        "o010110270111"
+      ],
+      [
+        "o010110270122"
+      ],
+      [
+        "o010110280021"
+      ],
+      [
+        "o010110290151"
+      ],
+      [
+        "o010110310091"
+      ]
+    ]
+  }
+}

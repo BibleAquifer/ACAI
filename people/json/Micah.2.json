@@ -1,0 +1,85 @@
+{
+  "id": "person:Micah.2",
+  "primary_id": "person:Micah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7106|Micah (Person)|TyndaleBibleDictionary",
+      "26874|Micah|UWTranslationWords",
+      "132522|Micah|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Mica|Micah@2Sa.9.12-1Ch",
+      "Micah@2Sa.9.12-1Ch"
+    ],
+    "vizbible": [
+      "rec4y48gZDv5QeEH2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mephibosheth",
+  "offspring": [
+    "person:Pithon",
+    "person:Melech",
+    "person:Tarea",
+    "person:Ahaz.2"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Micah",
+      "alternate_labels": [
+        "Micha",
+        "Mika",
+        "Mica"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Micah",
+          "article": "person:Micah.2",
+          "description": "A grandson of King Saul and son of Mephibosheth."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Mica.4"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10009012",
+    "13008034",
+    "13009040"
+  ],
+  "references": [
+    "10009012",
+    "13008034",
+    "13008035",
+    "13009040",
+    "13009041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100090120051"
+      ],
+      [
+        "o130080340091"
+      ],
+      [
+        "o130080350021"
+      ],
+      [
+        "o130090400091"
+      ],
+      [
+        "o130090410021"
+      ]
+    ]
+  }
+}

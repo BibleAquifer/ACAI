@@ -1,0 +1,99 @@
+{
+  "id": "place:Migdal-gad",
+  "primary_id": "place:Migdal-gad",
+  "alternate_sources": {
+    "aquifer": [
+      "7125|Migdal-Gad|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a571ca0"
+    ],
+    "ubsdbh": [
+      "003688001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/295620"
+    ],
+    "tipnr": [
+      "Migdal-gad@Jos.15.37"
+    ],
+    "vizbible": [
+      "recyQGM1uIJP1RvAI"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q11936724"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003688001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Migdal-gad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Migdal-gad",
+          "gloss": "Migdal-Gad",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מִגְדַּל־גָּד",
+      "מִגְדַּל־גַּד"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.666667",
+      "lon": "34.583333"
+    },
+    "recogito": {
+      "lat": "31.66926",
+      "lon": "34.57149"
+    },
+    "vizbible": {
+      "lat": "31.666667",
+      "lon": "34.583333"
+    }
+  },
+  "key_references": [
+    "06015037"
+  ],
+  "references": [
+    "06015037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150370032",
+        "o060150370041"
+      ]
+    ]
+  }
+}

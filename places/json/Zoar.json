@@ -1,0 +1,148 @@
+{
+  "id": "place:Zoar",
+  "primary_id": "place:Zoar",
+  "alternate_sources": {
+    "aquifer": [
+      "9250|Zoar|TyndaleBibleDictionary",
+      "27234|Zoar|UWTranslationWords"
+    ],
+    "obi": [
+      "aacfcda"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/697768"
+    ],
+    "tipnr": [
+      "Zoar@Gen.13.10-Jer",
+      "Zair|Zoar@Gen.13.10-Jer",
+      "Bela|Zoar@Gen.13.10-Jer"
+    ],
+    "vizbible": [
+      "reciwuMXIVWYdwnZw"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q218016"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zoar",
+      "alternate_labels": [
+        "Zair",
+        "Bela"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zoar",
+          "gloss": "Zoar",
+          "description": "A town in the southern Jericho Valley, on the south bank of the Wadi Zered in Edomite territory."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Bela",
+    "place:Zair"
+  ],
+  "subregion_of": [
+    "place:Edom"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.92652253",
+      "lon": "35.41906069"
+    },
+    "vizbible": {
+      "lat": "30.92652253",
+      "lon": "35.41906069"
+    }
+  },
+  "key_references": [
+    "23015005",
+    "01019022"
+  ],
+  "references": [
+    "01013010",
+    "01014002",
+    "01014008",
+    "01019022",
+    "01019023",
+    "01019030",
+    "05034003",
+    "12008021",
+    "23015005",
+    "24048034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010130100251"
+      ],
+      [
+        "o010140020191"
+      ],
+      [
+        "o010140020211"
+      ],
+      [
+        "o010140080121"
+      ],
+      [
+        "o010140080141"
+      ],
+      [
+        "o010190220171"
+      ],
+      [
+        "o010190230071"
+      ],
+      [
+        "o010190300032"
+      ],
+      [
+        "o010190300122"
+      ],
+      [
+        "o050340030101"
+      ],
+      [
+        "o120080210031"
+      ],
+      [
+        "o230150050061"
+      ],
+      [
+        "o240480340092"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140020201"
+      ],
+      [
+        "o010140080131"
+      ]
+    ]
+  }
+}

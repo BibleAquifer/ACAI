@@ -1,0 +1,211 @@
+{
+  "id": "place:Capernaum",
+  "primary_id": "place:Capernaum",
+  "alternate_sources": {
+    "aquifer": [
+      "4415|Capernaum|TyndaleBibleDictionary",
+      "26431|Capernaum|UWTranslationWords",
+      "132038|Capernaum|BiblicaStudyNotesKeyTerms",
+      "280138|capernaum|FIAKeyTerms"
+    ],
+    "obi": [
+      "af2161c"
+    ],
+    "ubsdgnt": [
+      "93.498"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/33337"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678231"
+    ],
+    "tipnr": [
+      "Capernaum@Mat.4.13-Jhn"
+    ],
+    "vizbible": [
+      "recGkTmeTOeg38tLo"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q59174"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.498"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Capernaum",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Capernaum",
+          "gloss": "Capernaum",
+          "description": "A city on the northwest coast of the Sea of Galilee. After leaving Nazareth, Jesus moved here where he did much of his ministry."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:GalileeSea"
+  ],
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Καφαρναούμ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.88059413",
+      "lon": "35.57515767"
+    },
+    "recogito": {
+      "lat": "32.88093",
+      "lon": "35.57543"
+    },
+    "vizbible": {
+      "lat": "32.88093",
+      "lon": "35.57543"
+    },
+    "biblica-maps": {
+      "lat": "32.88089",
+      "lon": "35.57589"
+    }
+  },
+  "key_references": [
+    "42004031",
+    "41001021",
+    "43006016",
+    "40001012",
+    "43006059",
+    "41002001"
+  ],
+  "references": [
+    "40004013",
+    "40008005",
+    "40011023",
+    "40017024",
+    "41001021",
+    "41002001",
+    "41009033",
+    "41010001",
+    "42004023",
+    "42004031",
+    "42007001",
+    "42010015",
+    "43002012",
+    "43004046",
+    "43004047",
+    "43006017",
+    "43006024",
+    "43006059"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40004013008"
+      ],
+      [
+        "n40008005005"
+      ],
+      [
+        "n40011023003"
+      ],
+      [
+        "n40017024005"
+      ],
+      [
+        "n41001021004"
+      ],
+      [
+        "n41002001005"
+      ],
+      [
+        "n41009033004"
+      ],
+      [
+        "n42004023019"
+      ],
+      [
+        "n42004031004"
+      ],
+      [
+        "n42007001014"
+      ],
+      [
+        "n42010015003"
+      ],
+      [
+        "n43002012005"
+      ],
+      [
+        "n43004046023"
+      ],
+      [
+        "n43006017010"
+      ],
+      [
+        "n43006024023"
+      ],
+      [
+        "n43006059007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40011023002"
+      ],
+      [
+        "n40011023021"
+      ],
+      [
+        "n40011024003"
+      ],
+      [
+        "n40011024013"
+      ],
+      [
+        "n41010001002"
+      ],
+      [
+        "n42010015002"
+      ],
+      [
+        "n43002012019"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40011023010"
+      ],
+      [
+        "n42010015011"
+      ]
+    ]
+  }
+}

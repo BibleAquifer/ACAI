@@ -1,0 +1,120 @@
+{
+  "id": "realia:Plaster",
+  "primary_id": "realia:Plaster",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002685001001000",
+      "002715001001000",
+      "007023001001000",
+      "007024001002000",
+      "007896001002000"
+    ],
+    "ubsrealia": [
+      "realia:1.8.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "002685001001000",
+    "002715001001000",
+    "007023001001000",
+    "007024001002000",
+    "007896001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Plaster",
+      "alternate_labels": [
+        "To Whitewash",
+        "Whitewash",
+        "To Smear",
+        "Lime",
+        "Painted Plaster"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Plaster",
+          "article": "realia:Plaster",
+          "description": "A mixture of lime and water painted on walls to cover rough surfaces and make them white."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "טִיחַ",
+      "טפל",
+      "שׂיד",
+      "שִׂיד",
+      "תָּפֵל"
+    ]
+  },
+  "key_references": [
+    "03014042",
+    "05027002",
+    "26013010",
+    "40023027"
+  ],
+  "references": [
+    "05027002",
+    "05027004",
+    "18013004",
+    "19119069",
+    "26013010",
+    "26013011",
+    "26013012",
+    "26013014",
+    "26013015",
+    "26022028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260130120082"
+      ],
+      [
+        "o180130040031"
+      ],
+      [
+        "o180130040031"
+      ],
+      [
+        "o191190690011"
+      ],
+      [
+        "o191190690011"
+      ],
+      [
+        "o050270020182"
+      ],
+      [
+        "o050270040162"
+      ],
+      [
+        "o050270020202"
+      ],
+      [
+        "o050270040182"
+      ],
+      [
+        "o260130100161"
+      ],
+      [
+        "o260130110041"
+      ],
+      [
+        "o260130140061"
+      ],
+      [
+        "o260130150071"
+      ],
+      [
+        "o260220280041"
+      ]
+    ]
+  }
+}

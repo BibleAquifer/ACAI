@@ -1,0 +1,55 @@
+{
+  "id": "fauna:Partridge",
+  "primary_id": "fauna:Partridge",
+  "alternate_sources": {
+    "aquifer": [
+      "7593|Partridge|TyndaleBibleDictionary"
+    ],
+    "ubsfauna": [
+      "fauna:3.18"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Partridge",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Partridge",
+          "article": "fauna:Partridge",
+          "description": "Likely a rock partridge."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09026020",
+    "24017011"
+  ],
+  "references": [
+    "09026020",
+    "24017011",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090260200192"
+      ],
+      [
+        "o240170110011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240170110041"
+      ]
+    ]
+  }
+}

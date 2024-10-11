@@ -1,0 +1,86 @@
+{
+  "id": "place:Iim",
+  "primary_id": "place:Iim",
+  "alternate_sources": {
+    "aquifer": [
+      "5993|Iim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005384001002000"
+    ],
+    "tipnr": [
+      "Iim@Jos.15.29"
+    ],
+    "vizbible": [
+      "recIwErv710ydIveN"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005384001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Iim",
+      "alternate_labels": [
+        "Iyim",
+        "Ijim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Iim",
+          "gloss": "Iim",
+          "description": "A town in the southern territory of Judah, near the border of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    },
+    "vizbible": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    }
+  },
+  "key_references": [
+    "06015029"
+  ],
+  "references": [
+    "06015029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150290022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "person:Julius",
+  "primary_id": "person:Julius",
+  "alternate_sources": {
+    "aquifer": [
+      "6499|Julius|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.176"
+    ],
+    "tipnr": [
+      "Julius@Act.27.1-"
+    ],
+    "vizbible": [
+      "reclOIbdzOMEvWssM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Official"
+  ],
+  "ubsdgnt": [
+    "93.176"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Julius",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Julius",
+          "article": "person:Julius",
+          "description": "A Roman centurion from the New Testament, first mentioned in Acts 27:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰούλιος"
+    ]
+  },
+  "key_references": [
+    "44027001",
+    "44027003"
+  ],
+  "references": [
+    "44027001",
+    "44027003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027001020"
+      ],
+      [
+        "n44027003010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44027003013"
+      ],
+      [
+        "n44027004002",
+        "n44027004003"
+      ],
+      [
+        "n44027005010",
+        "n44027005011"
+      ]
+    ]
+  }
+}

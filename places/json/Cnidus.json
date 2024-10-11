@@ -1,0 +1,100 @@
+{
+  "id": "place:Cnidus",
+  "primary_id": "place:Cnidus",
+  "alternate_sources": {
+    "aquifer": [
+      "4601|Cnidus|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ab793ce"
+    ],
+    "ubsdgnt": [
+      "93.503"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21190"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/707539"
+    ],
+    "tipnr": [
+      "Cnidus@Act.27.7"
+    ],
+    "vizbible": [
+      "recP4vOUr0U8xrio6"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q690575"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.503"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cnidus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cnidus",
+          "gloss": "Cnidus",
+          "description": "A seaport on the southwest coast of Asia Minor; Paul and his companions stopped here during the voyage to Rome, prior to encountering the storm at sea."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Κνίδος"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.68502256",
+      "lon": "27.37439432"
+    },
+    "recogito": {
+      "lat": "36.686188",
+      "lon": "27.37404"
+    },
+    "vizbible": {
+      "lat": "36.686188",
+      "lon": "27.37404"
+    },
+    "biblica-maps": {
+      "lat": "36.6861",
+      "lon": "27.37406"
+    }
+  },
+  "key_references": [
+    "44027007"
+  ],
+  "references": [
+    "44027007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027007011"
+      ]
+    ]
+  }
+}

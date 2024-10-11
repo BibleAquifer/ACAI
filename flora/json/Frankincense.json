@@ -1,0 +1,156 @@
+{
+  "id": "flora:Frankincense",
+  "primary_id": "flora:Frankincense",
+  "alternate_sources": {
+    "aquifer": [
+      "5304|Frankincense|TyndaleBibleDictionary",
+      "26615|Frankincense|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "003504001001000"
+    ],
+    "ubsflora": [
+      "flora:4.1.6"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "003504001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Frankincense",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Frankincense",
+          "article": "flora:Frankincense",
+          "description": "It comes from the resin of the Boswellia tree, which grows up to 3 meters tall and has small greenish or white flowers; the resin is used to make incense."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לְבֹונָה"
+    ]
+  },
+  "key_references": [
+    "02030034",
+    "03024007",
+    "40002011"
+  ],
+  "references": [
+    "02030034",
+    "03002001",
+    "03002002",
+    "03002015",
+    "03002016",
+    "03005011",
+    "03006008",
+    "03024007",
+    "04005015",
+    "13009029",
+    "16013005",
+    "16013009",
+    "22003006",
+    "22004006",
+    "22004014",
+    "23043023",
+    "23060006",
+    "23066003",
+    "24006020",
+    "24017026",
+    "24041005",
+    "40002011",
+    "41016018",
+    "66018013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020300340122"
+      ],
+      [
+        "o030020010151"
+      ],
+      [
+        "o030020020141",
+        "o030020020142"
+      ],
+      [
+        "o030020150061"
+      ],
+      [
+        "o030020160091",
+        "o030020160092"
+      ],
+      [
+        "o030050110271"
+      ],
+      [
+        "o030060080092"
+      ],
+      [
+        "o030240070041"
+      ],
+      [
+        "o040050150221"
+      ],
+      [
+        "o130090290133"
+      ],
+      [
+        "o160130050112"
+      ],
+      [
+        "o160130090113"
+      ],
+      [
+        "o220030060102"
+      ],
+      [
+        "o220040060132"
+      ],
+      [
+        "o220040140081"
+      ],
+      [
+        "o230430230142"
+      ],
+      [
+        "o230600060112"
+      ],
+      [
+        "o230660030141"
+      ],
+      [
+        "o240060200041"
+      ],
+      [
+        "o240170260182"
+      ],
+      [
+        "o240410050142"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40002011028"
+      ],
+      [
+        "n66018013010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o030240070062"
+      ]
+    ]
+  }
+}

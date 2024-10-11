@@ -1,0 +1,99 @@
+{
+  "id": "place:Chilmad",
+  "primary_id": "place:Chilmad",
+  "alternate_sources": {
+    "aquifer": [
+      "4528|Chilmad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003332001001000"
+    ],
+    "tipnr": [
+      "Chilmad@Ezk.27.23"
+    ],
+    "vizbible": [
+      "recEzWVEnIV04srGN"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003332001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chilmad",
+      "alternate_labels": [
+        "Kilmad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chilmad",
+          "gloss": "Chilmad",
+          "description": "A town, possibly in Mesopotamia, that traded with Tyre (Ezekiel 27:23)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כִּלְמַד",
+      "כִּלְמָד"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.359410",
+      "lon": "43.152887"
+    },
+    "vizbible": {
+      "lat": "36.359410",
+      "lon": "43.152887"
+    }
+  },
+  "key_references": [
+    "26027023"
+  ],
+  "references": [
+    "26027023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270230071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270240011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270230081"
+      ],
+      [
+        "o260270240021"
+      ]
+    ]
+  }
+}

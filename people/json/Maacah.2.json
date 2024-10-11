@@ -1,0 +1,62 @@
+{
+  "id": "person:Maacah.2",
+  "primary_id": "person:Maacah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6808|Maacah, Maachah (Person)|TyndaleBibleDictionary",
+      "26843|Maacah|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Maacah@2Sa.3.3-1Ch"
+    ],
+    "vizbible": [
+      "recA4tXUHqbDfzT8o"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Talmai.2",
+  "partners": [
+    "person:David"
+  ],
+  "offspring": [
+    "person:Absalom"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maacah (2 Samuel 3:3)",
+      "alternate_labels": [
+        "Maakah",
+        "Maachah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Maacah (2 Samuel 3:3)",
+          "article": "person:Maacah.2",
+          "description": "A woman from the time of Israel's united kingdom, daughter of Talmai, married to David, and mother of Absalom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10003003",
+    "13003002"
+  ],
+  "references": [
+    "10003003",
+    "13003002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100030030111"
+      ],
+      [
+        "o130030020041"
+      ]
+    ]
+  }
+}

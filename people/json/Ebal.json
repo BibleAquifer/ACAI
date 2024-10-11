@@ -1,0 +1,72 @@
+{
+  "id": "person:Ebal",
+  "primary_id": "person:Ebal",
+  "alternate_sources": {
+    "aquifer": [
+      "4923|Ebal|TyndaleBibleDictionary",
+      "4922|Ebal, Mount|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005377001001000"
+    ],
+    "tipnr": [
+      "Ebal@Gen.36.23-1Ch"
+    ],
+    "vizbible": [
+      "recvyn2DzXG14PDnY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shobal",
+  "siblings": [
+    "person:Alvan",
+    "person:Manahath",
+    "person:Shepho",
+    "person:Onam"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "005377001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ebal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ebal",
+          "article": "person:Ebal",
+          "description": "Ebal, son of Shobal and a man living at the time of the patriarchs, is mentioned in Genesis 36:23."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַיָּה",
+      "עַזָּה",
+      "עַי"
+    ]
+  },
+  "key_references": [
+    "01036023",
+    "13001040"
+  ],
+  "references": [
+    "01036023",
+    "13001040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360230062"
+      ],
+      [
+        "o130010400052"
+      ]
+    ]
+  }
+}

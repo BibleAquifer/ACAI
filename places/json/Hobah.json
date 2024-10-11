@@ -1,0 +1,85 @@
+{
+  "id": "place:Hobah",
+  "primary_id": "place:Hobah",
+  "alternate_sources": {
+    "aquifer": [
+      "5867|Hobah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6779cd"
+    ],
+    "ubsdbh": [
+      "002150001001000"
+    ],
+    "tipnr": [
+      "Hobah@Gen.14.15"
+    ],
+    "vizbible": [
+      "recgHZ6TrLjBDpvWM"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q16919660"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002150001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hobah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hobah",
+          "gloss": "Hobah",
+          "description": "A town north of Damascus to where Abraham routed Chedorlaomer's army."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֹובָה",
+      "חוֹבָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "region"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.5",
+      "lon": "36.466667"
+    },
+    "vizbible": {
+      "lat": "33.5",
+      "lon": "36.466667"
+    }
+  },
+  "key_references": [
+    "01014015"
+  ],
+  "references": [
+    "01014015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140150091"
+      ]
+    ]
+  }
+}

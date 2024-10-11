@@ -1,0 +1,44 @@
+{
+  "id": "place:Pella",
+  "primary_id": "place:Pella",
+  "alternate_sources": {
+    "aquifer": [
+      "7637|Pella|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pella",
+          "gloss": "Pella",
+          "description": "A city south of the Sea of Galilee and east of the Jordan River."
+        }
+      ],
+      "preferred_label": "Pella",
+      "alternate_labels": [
+        "Berenice",
+        "Philippeia"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.44941",
+      "lon": "35.61506"
+    }
+  }
+}

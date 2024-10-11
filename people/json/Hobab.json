@@ -1,0 +1,116 @@
+{
+  "id": "person:Hobab",
+  "primary_id": "person:Hobab",
+  "alternate_sources": {
+    "aquifer": [
+      "5866|Hobab|TyndaleBibleDictionary",
+      "132333|Hobab|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002073001001000"
+    ],
+    "tipnr": [
+      "Hobab@Num.10.29-Jdg"
+    ],
+    "vizbible": [
+      "recXh4jHJ12FBDKJj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jethro",
+  "siblings": [
+    "person:Zipporah",
+    "person:Eliasaph"
+  ],
+  "ubsdbh": [
+    "002073001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hobab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hobab",
+          "article": "person:Hobab",
+          "description": "Hobab was a man living during the time of the Exodus and wilderness period, first mentioned in Numbers 10:29, and was the son of Jethro and the brother of Zipporah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֹבָב"
+    ]
+  },
+  "key_references": [
+    "04010029",
+    "07004011"
+  ],
+  "references": [
+    "04010029",
+    "07004011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040100290032"
+      ],
+      [
+        "o070040110061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040100290191"
+      ],
+      [
+        "o040100300012"
+      ],
+      [
+        "o040100300041"
+      ],
+      [
+        "o040100300111"
+      ],
+      [
+        "o040100310041"
+      ],
+      [
+        "o040100310091"
+      ],
+      [
+        "o040100310122"
+      ],
+      [
+        "o040100320031"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o040100300031",
+          "o040100300041",
+          "o040100300051",
+          "o040100300061",
+          "o040100300071",
+          "o040100300081",
+          "o040100300082",
+          "o040100300091",
+          "o040100300092",
+          "o040100300101",
+          "o040100300102",
+          "o040100300111"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "place:Hali",
+  "primary_id": "place:Hali",
+  "alternate_sources": {
+    "aquifer": [
+      "5609|Hali|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002291002001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/828266"
+    ],
+    "tipnr": [
+      "Hali@Jos.19.25"
+    ],
+    "vizbible": [
+      "recAaSopoyGJdiCvF"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002291002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hali",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hali",
+          "gloss": "Hali",
+          "description": "A town in the territory of Asher."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲלִי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.934736",
+      "lon": "35.270799"
+    },
+    "vizbible": {
+      "lat": "32.934736",
+      "lon": "35.270799"
+    }
+  },
+  "key_references": [
+    "06019025"
+  ],
+  "references": [
+    "06019025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190250042"
+      ]
+    ]
+  }
+}

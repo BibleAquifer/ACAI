@@ -1,0 +1,58 @@
+{
+  "id": "deity:Baal.2",
+  "primary_id": "deity:Lord",
+  "alternate_sources": {
+    "aquifer": [
+      "3937|Baal (Idol)|TyndaleBibleDictionary",
+      "26355|Baal|UWTranslationWords",
+      "132347|Baal|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001082001001000"
+    ],
+    "tipnr": [
+      "Baal|LORD@Gen.1.1-Heb"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "001082001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baal (LORD)",
+      "alternate_labels": [
+        "LORD",
+        "Baali",
+        "Master"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "LORD",
+          "article": "deity:Baal.2",
+          "description": "A use of the Hebrew term “Baali” in reference to the Lord found in Hos 2:16."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Lord"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "28002018"
+  ],
+  "references": [
+    "28002018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o280020180121"
+      ]
+    ]
+  }
+}

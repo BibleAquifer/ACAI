@@ -1,0 +1,114 @@
+{
+  "id": "place:Baalath-beer",
+  "primary_id": "place:Baalath-beer",
+  "alternate_sources": {
+    "aquifer": [
+      "3928|Baalath-Beer|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a03cc2d"
+    ],
+    "tipnr": [
+      "Bealoth|Baalath-beer@Jos.19.8-1Ch",
+      "Baalath-beer@Jos.19.8-1Ch",
+      "Baal|Baalath-beer@Jos.19.8-1Ch",
+      "Ramoth|Baalath-beer@Jos.19.8-1Ch"
+    ],
+    "vizbible": [
+      "recGvmVzGXwM0gcuz"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4837134"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baalath-beer",
+      "alternate_labels": [
+        "Baal",
+        "Ballath",
+        "Ramoth",
+        "Baalath",
+        "Bealoth",
+        "Baalat-Beor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baalath-beer",
+          "gloss": "Baalath-Beer",
+          "description": "A village in the territory of Simeon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Bealoth",
+    "place:Baal",
+    "place:Ramoth"
+  ],
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    },
+    "vizbible": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    }
+  },
+  "key_references": [
+    "06019008",
+    "13004033"
+  ],
+  "references": [
+    "06015024",
+    "06019008",
+    "09030027",
+    "11004016",
+    "13004033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150240032"
+      ],
+      [
+        "o060190080081",
+        "o060190080091"
+      ],
+      [
+        "o090300270052"
+      ],
+      [
+        "o110040160052"
+      ],
+      [
+        "o130040330081"
+      ]
+    ]
+  }
+}

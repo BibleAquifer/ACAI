@@ -1,0 +1,43 @@
+{
+  "id": "place:MountAthos",
+  "primary_id": "place:MountAthos",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountAthos",
+          "gloss": "Mount Athos",
+          "description": "A mountain on a peninsula in northern Greece; an important location for Christian monasticism. "
+        }
+      ],
+      "preferred_label": "Mount Athos",
+      "alternate_labels": [
+        "Holy Mountain",
+        "Áthos Óros",
+        "Áyion Óros"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Greece"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "40.26309",
+      "lon": "24.23044"
+    }
+  }
+}

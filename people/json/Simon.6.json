@@ -1,0 +1,108 @@
+{
+  "id": "person:Simon.6",
+  "primary_id": "person:Simon.6",
+  "alternate_sources": {
+    "aquifer": [
+      "6860|Magus, Simon|TyndaleBibleDictionary",
+      "8511|Simon|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.341i"
+    ],
+    "tipnr": [
+      "Simon@Luk.7.40-"
+    ],
+    "vizbible": [
+      "rec04sGSKA1kdTxYY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.341i"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Simon (Pharisee)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Simon (Pharisee)",
+          "article": "person:Simon.6",
+          "description": "Pharisee who invited Jesus to eat at his house. Jesus told the parable of two debtors while at Simon's home."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σίμων"
+    ]
+  },
+  "key_references": [
+    "42007040",
+    "42007043",
+    "42007044"
+  ],
+  "references": [
+    "42007040",
+    "42007043",
+    "42007044"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42007040008"
+      ],
+      [
+        "n42007043002"
+      ],
+      [
+        "n42007044007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42007040010"
+      ],
+      [
+        "n42007043013"
+      ],
+      [
+        "n42007044014"
+      ],
+      [
+        "n42007047004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42007043001"
+      ],
+      [
+        "n42007043004"
+      ],
+      [
+        "n42007043015"
+      ],
+      [
+        "n42007044009"
+      ],
+      [
+        "n42007044023"
+      ],
+      [
+        "n42007045004"
+      ],
+      [
+        "n42007046006"
+      ]
+    ]
+  }
+}

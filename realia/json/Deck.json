@@ -1,0 +1,51 @@
+{
+  "id": "realia:Deck",
+  "primary_id": "realia:Deck",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006606001002000"
+    ],
+    "ubsrealia": [
+      "realia:8.1.11"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006606001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Deck",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Deck",
+          "article": "realia:Deck",
+          "description": "A flat platform made of wooden planks that forms the floor of a ship."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קֶרֶשׁ"
+    ]
+  },
+  "key_references": [
+    "26027006"
+  ],
+  "references": [
+    "26027006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270060051",
+        "o260270060052"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "person:Abijah",
+  "primary_id": "person:Abi",
+  "alternate_sources": {
+    "aquifer": [
+      "3301|Abijah|TyndaleBibleDictionary",
+      "26278|Abijah|UWTranslationWords",
+      "132427|Abijah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000028001007000"
+    ],
+    "tipnr": [
+      "Abijah|Abi@2Ki.18.2-2Ch"
+    ],
+    "vizbible": [
+      "reck2X1F3OBtxfauF"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Zechariah.4",
+  "partners": [
+    "person:Ahaz"
+  ],
+  "offspring": [
+    "person:Hezekiah"
+  ],
+  "ubsdbh": [
+    "000028001007000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abijah (Mother of Hezekiah)",
+      "alternate_labels": [
+        "Abi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abi",
+          "article": "person:Abijah",
+          "description": "A woman, daughter of Zechariah, wife of Ahaz, and mother of King Hezekiah, mentioned in 2 Kings 18:2 and 2 Chronicles 29:1."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Abi"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִיָּה",
+      "אֲבִיָּ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "14029001"
+  ],
+  "references": [
+    "14029001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140290010141"
+      ]
+    ]
+  }
+}

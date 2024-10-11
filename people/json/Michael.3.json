@@ -1,0 +1,63 @@
+{
+  "id": "person:Michael.3",
+  "primary_id": "person:Michael.3",
+  "alternate_sources": {
+    "aquifer": [
+      "7109|Michael|TyndaleBibleDictionary",
+      "26875|Michael|UWTranslationWords",
+      "132511|Michael|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003945001004000"
+    ],
+    "tipnr": [
+      "Michael@1Ch.5.14"
+    ],
+    "vizbible": [
+      "recpzZmYYOru64I2u"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jeshishai",
+  "offspring": [
+    "person:Gilead.3"
+  ],
+  "tribe": "group:Gad",
+  "ubsdbh": [
+    "003945001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Michael (1 Chronicles 5:14)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Michael (1 Chronicles 5:14)",
+          "article": "person:Michael.3",
+          "description": "Michael was a man from the tribe of Gad, living during the time of the divided kingdom, mentioned in 1 Chronicles 5:14 as the son of Jeshishai and father of Gilead."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִיכָאֵל"
+    ]
+  },
+  "key_references": [
+    "13005014"
+  ],
+  "references": [
+    "13005014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050140111"
+      ]
+    ]
+  }
+}

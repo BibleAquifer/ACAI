@@ -1,0 +1,77 @@
+{
+  "id": "place:Rissah",
+  "primary_id": "place:Rissah",
+  "alternate_sources": {
+    "aquifer": [
+      "8046|Rissah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006842001001000"
+    ],
+    "tipnr": [
+      "Rissah@Num.33.21-"
+    ],
+    "vizbible": [
+      "rec06r9EJW86Wzac7"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006842001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rissah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rissah",
+          "gloss": "Rissah",
+          "description": "A location in the Sinai Peninsula, between Libnah and Kehelathah, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    },
+    "vizbible": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    }
+  },
+  "key_references": [
+    "04033022",
+    "04033021"
+  ],
+  "references": [
+    "04033021",
+    "04033022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330210042"
+      ],
+      [
+        "o040330220022"
+      ]
+    ]
+  }
+}

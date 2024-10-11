@@ -1,0 +1,95 @@
+{
+  "id": "place:Javan",
+  "primary_id": "place:Greece",
+  "alternate_sources": {
+    "aquifer": [
+      "6242|Javan (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002857001002000"
+    ],
+    "tipnr": [
+      "Javan|Greece@Isa.66.19-Act"
+    ],
+    "vizbible": [
+      "recwvS6ztRKFrA9rK"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002857001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Javan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Javan",
+          "gloss": "Javan",
+          "description": "A nation usually identified with Greece; considered descendants of Japheth through his son Javan."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Greece"
+  ],
+  "tribal_area": "group:Greek",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.95331433666365",
+      "lon": "27.36782511573013"
+    },
+    "vizbible": {
+      "lat": "37.95331433666365",
+      "lon": "27.36782511573013"
+    }
+  },
+  "key_references": [
+    "26027013",
+    "23066019"
+  ],
+  "references": [
+    "23066019",
+    "26027013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230660190152"
+      ],
+      [
+        "o260270130011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270130041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270130051"
+      ],
+      [
+        "o260270130101"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "person:Agur",
+  "primary_id": "person:Agur",
+  "alternate_sources": {
+    "aquifer": [
+      "3427|Agur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000095001001000"
+    ],
+    "tipnr": [
+      "Agur@Pro.30.1"
+    ],
+    "vizbible": [
+      "reckOl2eiImdo5by5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jakeh",
+  "ubsdbh": [
+    "000095001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Agur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Agur",
+          "article": "person:Agur",
+          "description": "A wise man from Israel's united kingdom period, son of Jakeh, mentioned in Proverbs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָגוּר"
+    ]
+  },
+  "key_references": [
+    "20030001"
+  ],
+  "references": [
+    "20030001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o200300010021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o200300020031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o200300030021"
+      ],
+      [
+        "o200300030061"
+      ],
+      [
+        "o200300070021"
+      ],
+      [
+        "o200300070081"
+      ],
+      [
+        "o200300090021"
+      ],
+      [
+        "o200300090032"
+      ],
+      [
+        "o200300090042"
+      ],
+      [
+        "o200300090081"
+      ],
+      [
+        "o200300090092"
+      ],
+      [
+        "o200300090102"
+      ],
+      [
+        "o200300180081"
+      ]
+    ]
+  }
+}

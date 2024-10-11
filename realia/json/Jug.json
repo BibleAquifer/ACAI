@@ -1,0 +1,88 @@
+{
+  "id": "realia:Jug",
+  "primary_id": "realia:Jug",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006618001001000"
+    ],
+    "ubsrealia": [
+      "realia:4.4.10"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006618001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jug",
+      "alternate_labels": [
+        "Jar",
+        "Flagon",
+        "Pitcher",
+        "Libation"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jug",
+          "article": "realia:Jug",
+          "description": "A container often with a handle, used for storing and pouring liquids."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קַשְׂוָה"
+    ]
+  },
+  "key_references": [
+    "02025029",
+    "02029040",
+    "04015005",
+    "04028007"
+  ],
+  "references": [
+    "02025029",
+    "02037016",
+    "04004007",
+    "13028017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020250290042",
+        "o020250290043"
+      ],
+      [
+        "o020370160142"
+      ],
+      [
+        "o040040070161"
+      ],
+      [
+        "o130280170033"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020250290082"
+      ],
+      [
+        "o020250290122"
+      ],
+      [
+        "o020370160172"
+      ],
+      [
+        "o040040080022"
+      ]
+    ]
+  }
+}

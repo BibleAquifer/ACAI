@@ -1,0 +1,62 @@
+{
+  "id": "person:Abigibeon",
+  "primary_id": "person:Abiel.2",
+  "alternate_sources": {
+    "tipnr": [
+      "Abigibeon|Abiel@1Sa.9.1-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zeror",
+  "partners": [
+    "person:Maacah.6"
+  ],
+  "offspring": [
+    "person:Kish",
+    "person:Ner.2",
+    "person:Abdon.3",
+    "person:Zur.3",
+    "person:Baal",
+    "person:Nadab.4",
+    "person:Gedor",
+    "person:Ahio.3",
+    "person:Zecher",
+    "person:Mikloth"
+  ],
+  "roles": [
+    "Patriarch",
+    "Royal Family Member"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abigibeon (Abiel)",
+      "alternate_labels": [
+        "father of Gibeon",
+        "Abiel (Grandfather of King Saul)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abiel (Grandfather of King Saul)",
+          "article": "person:Abigibeon",
+          "description": "A Benjaminite known as Abiel, grandfather of King Saul, and father of Kish and Ner, mentioned in 1 Samuel 9:1."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Abiel.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008029",
+    "13009035"
+  ],
+  "references": [
+    "13008029",
+    "13009035"
+  ]
+}

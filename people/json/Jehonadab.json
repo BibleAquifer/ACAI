@@ -1,0 +1,102 @@
+{
+  "id": "person:Jehonadab",
+  "primary_id": "person:Jonadab",
+  "alternate_sources": {
+    "aquifer": [
+      "6280|Jehonadab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002831001002000"
+    ],
+    "tipnr": [
+      "Jehonadab|Jonadab@2Ki.10.15-Jer"
+    ],
+    "vizbible": [
+      "recTIBe3HYxgnmy9D"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Rechab.2",
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002831001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehonadab (Jonadab)",
+      "alternate_labels": [
+        "Jonadab"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jonadab",
+          "article": "person:Jehonadab",
+          "description": "A man from the divided kingdom period, son of Rechab, and ancestor of the Rechabites, mentioned in 2 Kings 10:15."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jonadab"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹונָדָב",
+      "יְהוֹנָדָב",
+      "יוֹנָדָב"
+    ]
+  },
+  "key_references": [
+    "12010015",
+    "12010023"
+  ],
+  "references": [
+    "12010015",
+    "12010023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120100150051"
+      ],
+      [
+        "o120100150211"
+      ],
+      [
+        "o120100230032"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120100150082"
+      ],
+      [
+        "o120100150241"
+      ],
+      [
+        "o120100150272"
+      ],
+      [
+        "o120100160021"
+      ],
+      [
+        "o120100160042"
+      ],
+      [
+        "o120100240012"
+      ],
+      [
+        "o120100240022"
+      ]
+    ]
+  }
+}

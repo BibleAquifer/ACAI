@@ -1,0 +1,89 @@
+{
+  "id": "flora:Nettle",
+  "primary_id": "flora:Nettle",
+  "alternate_sources": {
+    "aquifer": [
+      "7375|Nettle|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005176001001000",
+      "006496001001000"
+    ],
+    "ubsflora": [
+      "flora:6.2.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Flowers, Thorns, and Weeds",
+  "ubsdbh": [
+    "005176001001000",
+    "006496001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nettle",
+      "alternate_labels": [
+        "Nettles",
+        "Thornbush"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nettle",
+          "article": "flora:Nettle",
+          "description": "A plant with stinging hairs that can cause pain and is often considered a weed."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סִרְפָּד",
+      "קִמֹּושׂ"
+    ]
+  },
+  "key_references": [
+    "23055013",
+    "28009006",
+    "26002006"
+  ],
+  "references": [
+    "18030007",
+    "20024031",
+    "23034013",
+    "23055013",
+    "26002006",
+    "28009006",
+    "36002009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230550130072"
+      ],
+      [
+        "o200240310041"
+      ],
+      [
+        "o230340130041"
+      ],
+      [
+        "o280090060111"
+      ],
+      [
+        "o180300070051"
+      ],
+      [
+        "o200240310071"
+      ],
+      [
+        "o260020060111"
+      ],
+      [
+        "o360020090171"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "place:Aphekah",
+  "primary_id": "place:Aphek",
+  "alternate_sources": {
+    "aquifer": [
+      "3654|Aphekah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000610001001000"
+    ],
+    "tipnr": [
+      "Aphekah|Aphek@Jos.12.18-1Sa"
+    ],
+    "vizbible": [
+      "rectQkLOmxxcMv1kQ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000610001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aphekah",
+      "alternate_labels": [
+        "Aphek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aphekah",
+          "gloss": "Aphekah",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Aphek"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲפֵקָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.10471266",
+      "lon": "34.93197921"
+    },
+    "vizbible": {
+      "lat": "32.10471266",
+      "lon": "34.93197921"
+    }
+  },
+  "key_references": [
+    "06015053"
+  ],
+  "references": [
+    "06015053"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150530052"
+      ]
+    ]
+  }
+}

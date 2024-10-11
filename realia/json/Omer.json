@@ -1,0 +1,85 @@
+{
+  "id": "realia:Omer",
+  "primary_id": "realia:Omer",
+  "alternate_sources": {
+    "aquifer": [
+      "7488|Omer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005522001002000"
+    ],
+    "ubsrealia": [
+      "realia:11.3.1.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "005522001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Omer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Omer",
+          "article": "realia:Omer",
+          "description": "A unit of dry measure equal to about 2.2 liters or 2 quarts."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֹמֶר"
+    ]
+  },
+  "key_references": [
+    "02016016",
+    "02016032",
+    "02016036"
+  ],
+  "references": [
+    "02016016",
+    "02016018",
+    "02016022",
+    "02016032",
+    "02016033",
+    "02016036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020160160111"
+      ],
+      [
+        "o020160180022"
+      ],
+      [
+        "o020160220082"
+      ],
+      [
+        "o020160320092"
+      ],
+      [
+        "o020160330112"
+      ],
+      [
+        "o020160360013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020160160011"
+      ],
+      [
+        "o020160360041"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "person:Zabad.2",
+  "primary_id": "person:Zabad.2",
+  "alternate_sources": {
+    "aquifer": [
+      "9112|Zabad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001911001001000"
+    ],
+    "tipnr": [
+      "Zabad@1Ch.2.36-"
+    ],
+    "vizbible": [
+      "receK2HJsZYHY66u7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nathan.4",
+  "offspring": [
+    "person:Ephlal"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "001911001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zabad (1 Chronicles 2:36)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zabad (1 Chronicles 2:36)",
+          "article": "person:Zabad.2",
+          "description": "Zabad, mentioned in 1 Chronicles 2:36, is a man from the tribe of Judah and the father of Ephlal."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זָבָד"
+    ]
+  },
+  "key_references": [
+    "13002036",
+    "13002037"
+  ],
+  "references": [
+    "13002036",
+    "13002037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020360081"
+      ],
+      [
+        "o130020370012"
+      ]
+    ]
+  }
+}

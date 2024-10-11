@@ -1,0 +1,47 @@
+{
+  "id": "place:Nimrod",
+  "primary_id": "place:Nimrod",
+  "alternate_sources": {
+    "aquifer": [
+      "7407|Nimrod|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nimrod",
+          "gloss": "Nimrod (Nation)",
+          "description": "A kingdom in Mesopotamia; most likely another name for Assyria."
+        }
+      ],
+      "preferred_label": "Nimrod (Nation)",
+      "alternate_labels": [
+        "Land of Nimrod",
+        "Assyria"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Assyria"
+  ],
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "nation"
+    ]
+  },
+  "key_references": [
+    "33005005"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "realia:JudgmentSeat",
+  "primary_id": "realia:JudgmentSeat",
+  "alternate_sources": {
+    "aquifer": [
+      "6494|Judgment Seat|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "7.63"
+    ],
+    "ubsrealia": [
+      "realia:3.19"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.63"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Judgment Seat",
+      "alternate_labels": [
+        "Judgement Seat",
+        "Judgment Place"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Judgment Seat",
+          "article": "realia:JudgmentSeat",
+          "description": "A raised platform with a seat where officials sit to make decisions and judgments."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βῆμα"
+    ]
+  },
+  "key_references": [
+    "40027019",
+    "44018012",
+    "45014010"
+  ],
+  "references": [
+    "40027019",
+    "43019013",
+    "44012021",
+    "44018012",
+    "44018016",
+    "44018017",
+    "44025006",
+    "44025010",
+    "44025017",
+    "45014010",
+    "47005010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027019006"
+      ],
+      [
+        "n43019013015"
+      ],
+      [
+        "n44012021013"
+      ],
+      [
+        "n44018012018"
+      ],
+      [
+        "n44018016006"
+      ],
+      [
+        "n44018017010"
+      ],
+      [
+        "n44025006019"
+      ],
+      [
+        "n44025010007"
+      ],
+      [
+        "n44025017012"
+      ],
+      [
+        "n45014010020"
+      ],
+      [
+        "n47005010009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44025010011"
+      ]
+    ]
+  }
+}

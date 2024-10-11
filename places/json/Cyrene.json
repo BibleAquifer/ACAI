@@ -1,0 +1,121 @@
+{
+  "id": "place:Cyrene",
+  "primary_id": "place:Cyrene",
+  "alternate_sources": {
+    "aquifer": [
+      "4728|Cyrene, Cyrenians|TyndaleBibleDictionary",
+      "26496|Cyrene|UWTranslationWords"
+    ],
+    "obi": [
+      "a81cdb5"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21126"
+    ],
+    "tipnr": [
+      "Cyrene@Mat.27.32-Act"
+    ],
+    "vizbible": [
+      "recZNlnoE1DDb6iiz"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q44112"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cyrene",
+      "alternate_labels": [
+        "Cyrenian",
+        "Cyrenians"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cyrene",
+          "gloss": "Cyrene",
+          "description": "A city on the coast of North Africa and its people; home of Simon, who was forced to carry the cross of Christ (Matthew 27:32–44). "
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Libya"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": true,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.824979",
+      "lon": "21.858301"
+    },
+    "recogito": {
+      "lat": "32.818736",
+      "lon": "21.856169"
+    },
+    "vizbible": {
+      "lat": "32.818736",
+      "lon": "21.856169"
+    },
+    "biblica-maps": {
+      "lat": "32.82035",
+      "lon": "21.85655"
+    }
+  },
+  "key_references": [
+    "44002010",
+    "41015021",
+    "40027032",
+    "42023026"
+  ],
+  "references": [
+    "40027032",
+    "41015021",
+    "42023026",
+    "44002010",
+    "44006009",
+    "44011020",
+    "44013001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027032005"
+      ],
+      [
+        "n41015021006"
+      ],
+      [
+        "n42023026008"
+      ],
+      [
+        "n44002010013"
+      ],
+      [
+        "n44006009012"
+      ],
+      [
+        "n44011020009"
+      ],
+      [
+        "n44013001023"
+      ]
+    ]
+  }
+}

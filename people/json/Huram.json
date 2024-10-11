@@ -1,0 +1,115 @@
+{
+  "id": "person:Huram",
+  "primary_id": "person:Hiram",
+  "alternate_sources": {
+    "aquifer": [
+      "5951|Huram|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002177001002000"
+    ],
+    "tipnr": [
+      "Huram|Hiram@2Sa.5.11-2Ch"
+    ],
+    "vizbible": [
+      "recT4NuU7ta6hhcTv"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Syria",
+  "ubsdbh": [
+    "002177001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Huram (Hiram)",
+      "alternate_labels": [
+        "Hiram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hiram",
+          "article": "person:Huram",
+          "description": "The king of Tyre during the reigns of David and Solomon, providing materials and support for building projects."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hiram"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חוּרָם",
+      "חִירָם"
+    ]
+  },
+  "key_references": [
+    "14002011",
+    "14008018",
+    "14009010"
+  ],
+  "references": [
+    "14002002",
+    "14002010",
+    "14002011",
+    "14008002",
+    "14008018",
+    "14009010",
+    "14009021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140020020041"
+      ],
+      [
+        "o140020100021"
+      ],
+      [
+        "o140020110021"
+      ],
+      [
+        "o140080020041"
+      ],
+      [
+        "o140080180031"
+      ],
+      [
+        "o140090100041"
+      ],
+      [
+        "o140090210081"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140020020091"
+      ],
+      [
+        "o140020020132"
+      ],
+      [
+        "o140020060021"
+      ],
+      [
+        "o140020070012"
+      ],
+      [
+        "o140020100062"
+      ],
+      [
+        "o140020120021"
+      ]
+    ]
+  }
+}

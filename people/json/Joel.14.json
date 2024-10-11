@@ -1,0 +1,61 @@
+{
+  "id": "person:Joel.14",
+  "primary_id": "person:Joel.14",
+  "alternate_sources": {
+    "aquifer": [
+      "6401|Joel (Person)|TyndaleBibleDictionary",
+      "26767|Joel|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Joel@Jol.1.1-Act"
+    ],
+    "vizbible": [
+      "reckEj8sJo3TSIHXr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Pethuel",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joel (Joel 1:1)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joel (Joel 1:1)",
+          "article": "person:Joel.14",
+          "description": "A prophet during the time of the divided kingdom, son of Pethuel, first mentioned in Joel 1:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "29001001",
+    "44002016"
+  ],
+  "references": [
+    "29001001",
+    "44002016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o290010010061"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44002016009"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o290010190031"
+      ]
+    ]
+  }
+}

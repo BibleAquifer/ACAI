@@ -1,0 +1,78 @@
+{
+  "id": "person:Meremoth",
+  "primary_id": "person:Meremoth",
+  "alternate_sources": {
+    "aquifer": [
+      "7066|Meremoth|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Meremoth@Ezr.8.33-Neh",
+      "Meraioth|Meremoth@Ezr.8.33-Neh"
+    ],
+    "vizbible": [
+      "recGymD4RKSBpX2Zo"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uriah.4",
+  "roles": [
+    "Priest"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meremoth",
+      "alternate_labels": [
+        "Meraioth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Meremoth",
+          "article": "person:Meremoth",
+          "description": "A son of Uriah who lived during the time of Israelite exile and return."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Meraioth.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15008033",
+    "16003004",
+    "16012003"
+  ],
+  "references": [
+    "15008033",
+    "16003004",
+    "16003021",
+    "16010006",
+    "16012003",
+    "16012015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150080330111"
+      ],
+      [
+        "o160030040041"
+      ],
+      [
+        "o160030210031"
+      ],
+      [
+        "o160100060021"
+      ],
+      [
+        "o160120030031"
+      ],
+      [
+        "o160120150032"
+      ]
+    ]
+  }
+}

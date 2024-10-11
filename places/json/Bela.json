@@ -1,0 +1,102 @@
+{
+  "id": "place:Bela",
+  "primary_id": "place:Zoar",
+  "alternate_sources": {
+    "aquifer": [
+      "4086|Bela (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001027002001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/1276574"
+    ],
+    "tipnr": [
+      "Bela|Zoar@Gen.13.10-Jer"
+    ],
+    "vizbible": [
+      "recz7g41dLAYpgPhB"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001027002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bela",
+      "alternate_labels": [
+        "Zoar"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Zoar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֶּלַע",
+      "בֶּ֫לַע"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.92652253",
+      "lon": "35.41906069"
+    },
+    "recogito": {
+      "lat": "25.92058",
+      "lon": "81.99629"
+    },
+    "vizbible": {
+      "lat": "30.92652253",
+      "lon": "35.41906069"
+    }
+  },
+  "references": [
+    "01013010",
+    "01014002",
+    "01014008",
+    "01019022",
+    "01019023",
+    "01019030",
+    "05034003",
+    "23015005",
+    "24048034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140020191"
+      ],
+      [
+        "o010140080121"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140020201"
+      ],
+      [
+        "o010140080131"
+      ]
+    ]
+  }
+}

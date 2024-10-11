@@ -1,0 +1,66 @@
+{
+  "id": "person:Calcol",
+  "primary_id": "person:Calcol",
+  "alternate_sources": {
+    "aquifer": [
+      "4387|Calcol|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003328001001000"
+    ],
+    "tipnr": [
+      "Calcol@1Ki.4.31"
+    ],
+    "vizbible": [
+      "rechfWpsm8xGCDbYs"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mahol",
+  "siblings": [
+    "person:Ethan",
+    "person:Heman",
+    "person:Darda"
+  ],
+  "ubsdbh": [
+    "003328001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Calcol",
+      "alternate_labels": [
+        "Chalcol",
+        "Kalkol"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Calcol",
+          "article": "person:Calcol",
+          "description": "Calcol, also known as Kalkol or Chalcol, was a wise man living during Israel's united kingdom, mentioned in 1 Kings 4:31."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כַּלְכֹּל"
+    ]
+  },
+  "key_references": [
+    "11005011"
+  ],
+  "references": [
+    "11005011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110050110072"
+      ]
+    ]
+  }
+}

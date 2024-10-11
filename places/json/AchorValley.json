@@ -1,0 +1,120 @@
+{
+  "id": "place:AchorValley",
+  "primary_id": "place:AchorValley",
+  "alternate_sources": {
+    "obi": [
+      "a31492f"
+    ],
+    "ubsdbh": [
+      "005427001001000",
+      "005518001001000"
+    ],
+    "tipnr": [
+      "Achor_Valley@Jos.7.24-Hos"
+    ],
+    "vizbible": [
+      "recQ97smru5JVjpNG"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005427001001000",
+    "005518001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Achor",
+      "alternate_labels": [
+        "Valley of Disaster",
+        "Valley of Trouble"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfAchor",
+          "gloss": "Valley of Achor",
+          "description": "A valley on the northern border of the territory of Judah where Achan, who \"caused trouble for Israel,\" was stoned and buried (Joshua 7:24–26); associated with trouble and punishment."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עָכָן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.83689",
+      "lon": "35.399737"
+    },
+    "vizbible": {
+      "lat": "31.83689",
+      "lon": "35.399737"
+    }
+  },
+  "key_references": [
+    "06015007",
+    "06007024",
+    "28002017"
+  ],
+  "references": [
+    "06007024",
+    "06007026",
+    "06015007",
+    "23065010",
+    "28002017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060070240351",
+        "o060070240361"
+      ],
+      [
+        "o060070260191",
+        "o060070260201"
+      ],
+      [
+        "o060150070042",
+        "o060150070051"
+      ],
+      [
+        "o230650100052",
+        "o230650100061"
+      ],
+      [
+        "o280020170071",
+        "o280020170081"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060070260182"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "place:Ramah.1",
+  "primary_id": "place:Ramah.1",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ramah.1",
+          "gloss": "Ramah (of Benjamin)",
+          "description": "A town in the territory of Benjamin, northwest of Jerusalem, where the prophetess Deborah would judge Israel (Judges 4:5)."
+        }
+      ],
+      "preferred_label": "Ramah (of Benjamin)",
+      "alternate_labels": [
+        "Ramah",
+        "Rama"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.03962",
+      "lon": "35.02353"
+    }
+  },
+  "key_references": [
+    "06018025",
+    "07004005"
+  ]
+}

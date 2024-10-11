@@ -1,0 +1,77 @@
+{
+  "id": "person:KinsmanRedeemer",
+  "primary_id": "person:KinsmanRedeemer",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kinsman Redeemer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kinsman Redeemer",
+          "description": "A relative who has right of redemption of the household of a dead relative."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "08004006",
+    "08004008"
+  ],
+  "references": [
+    "08004006",
+    "08004008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o080040060021"
+      ],
+      [
+        "o080040080021"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o080040060031",
+          "o080040060041",
+          "o080040060061",
+          "o080040060062",
+          "o080040060071",
+          "o080040060072",
+          "o080040060081",
+          "o080040060091",
+          "o080040060101",
+          "o080040060111",
+          "o080040060112",
+          "o080040060121",
+          "o080040060131",
+          "o080040060132",
+          "o080040060141",
+          "o080040060151",
+          "o080040060161",
+          "o080040060162",
+          "o080040060171",
+          "o080040060181",
+          "o080040060191",
+          "o080040060201",
+          "o080040060202"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o080040080041",
+          "o080040080051",
+          "o080040080052"
+        ]
+      }
+    ]
+  }
+}

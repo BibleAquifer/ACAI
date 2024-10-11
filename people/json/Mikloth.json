@@ -1,0 +1,88 @@
+{
+  "id": "person:Mikloth",
+  "primary_id": "person:Mikloth",
+  "alternate_sources": {
+    "aquifer": [
+      "7129|Mikloth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004333001001000"
+    ],
+    "tipnr": [
+      "Mikloth@1Ch.8.32-"
+    ],
+    "vizbible": [
+      "recWU3X45yMr7uH8D"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abiel.2",
+  "mother": "person:Maacah.6",
+  "offspring": [
+    "person:Shimeah"
+  ],
+  "siblings": [
+    "person:Kish",
+    "person:Ner.2",
+    "person:Abdon.3",
+    "person:Zur.3",
+    "person:Baal",
+    "person:Nadab.4",
+    "person:Gedor",
+    "person:Ahio.3",
+    "person:Zecher"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "004333001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mikloth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mikloth",
+          "article": "person:Mikloth",
+          "description": "Mikloth was a man from the tribe of Benjamin, living at the time of Israel's united kingdom, mentioned in 1 Chronicles 8:32 as the son of Abiel and Maacah, and the father of Shimeah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008032",
+    "13009037",
+    "13009038"
+  ],
+  "references": [
+    "13008032",
+    "13009037",
+    "13009038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080320012"
+      ],
+      [
+        "o130090370042"
+      ],
+      [
+        "o130090380012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130080320061"
+      ],
+      [
+        "o130090380061"
+      ]
+    ]
+  }
+}

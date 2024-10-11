@@ -1,0 +1,64 @@
+{
+  "id": "person:Dara",
+  "primary_id": "person:Dara",
+  "alternate_sources": {
+    "aquifer": [
+      "4755|Dara, Darda|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001722001001000"
+    ],
+    "tipnr": [
+      "Dara@1Ch.2.6"
+    ],
+    "vizbible": [
+      "rec52FdLYspsHTz6O"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zerah.3",
+  "siblings": [
+    "person:Zabdi",
+    "person:Ethan.2",
+    "person:Heman.2",
+    "person:Calcol.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "001722001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dara",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dara",
+          "article": "person:Dara",
+          "description": "Dara was a man from the tribe of Judah, son of Zerah, and mentioned in 1 Chronicles 2:6."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דָּרַע"
+    ]
+  },
+  "key_references": [
+    "13002006"
+  ],
+  "references": [
+    "13002006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020060072"
+      ]
+    ]
+  }
+}

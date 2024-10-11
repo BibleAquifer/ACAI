@@ -1,0 +1,103 @@
+{
+  "id": "person:Nathan",
+  "primary_id": "person:Nathan",
+  "alternate_sources": {
+    "aquifer": [
+      "7313|Nathan|TyndaleBibleDictionary",
+      "26901|Nathan|UWTranslationWords",
+      "132416|Nathan|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Nathan@2Sa.5.14-Luk"
+    ],
+    "vizbible": [
+      "recn2SX3r73jFJWhF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:Bathsheba",
+  "offspring": [
+    "person:Mattatha"
+  ],
+  "siblings": [
+    "person:Amnon",
+    "person:Chileab",
+    "person:Absalom",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shammua.2",
+    "person:Shobab",
+    "person:Solomon",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Nepheg.2",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliada",
+    "person:Eliphelet",
+    "person:Tamar.2",
+    "person:Elpelet",
+    "person:Nogah",
+    "person:Jerimoth.6"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nathan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nathan",
+          "article": "person:Nathan",
+          "description": "A son of King David by Bathsheba. He is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10005014",
+    "13003005",
+    "42003031"
+  ],
+  "references": [
+    "10005014",
+    "13003005",
+    "13014004",
+    "38012012",
+    "42003031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100050140082"
+      ],
+      [
+        "o130030050072"
+      ],
+      [
+        "o130140040101"
+      ],
+      [
+        "o380120120141"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003031008"
+      ]
+    ]
+  }
+}

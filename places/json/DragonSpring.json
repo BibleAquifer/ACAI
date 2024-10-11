@@ -1,0 +1,83 @@
+{
+  "id": "place:DragonSpring",
+  "primary_id": "place:DragonSpring",
+  "alternate_sources": {
+    "tipnr": [
+      "Dragon_Spring@Neh.2.13"
+    ],
+    "vizbible": [
+      "recQEK5O1aaM5Y2FK"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dragon Spring",
+      "alternate_labels": [
+        "dragon well",
+        "Well of the Dragons",
+        "Jackal Well",
+        "Serpent Well",
+        "Jackal’s Well",
+        "Dragon’s Spring",
+        "Serpent’s Well"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:DragonSpring",
+          "gloss": "Dragon Spring",
+          "description": "A spring outside Jerusalem between the Valley Gate and the Dung Gate. "
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:DungGate",
+    "place:ValleyGate"
+  ],
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "spring"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "spring"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16002013"
+  ],
+  "references": [
+    "16002013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160020130071",
+        "o160020130081"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "realia:Loop",
+  "primary_id": "realia:Loop",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003552001001000",
+      "006596001001000"
+    ],
+    "ubsrealia": [
+      "realia:3.15.2.3.6.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003552001001000",
+    "006596001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Loop",
+      "alternate_labels": [
+        "Hook",
+        "Clasp",
+        "Loop and Hook"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Loop",
+          "article": "realia:Loop",
+          "description": "A piece of thread, cord, or metal used to join pieces of cloth together, often with a hook or other fastener."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לוּלָאָה",
+      "קֶרֶס"
+    ]
+  },
+  "key_references": [
+    "02026004",
+    "02026005",
+    "02026010"
+  ],
+  "references": [
+    "02026004",
+    "02026005",
+    "02026006",
+    "02026010",
+    "02026011",
+    "02026033",
+    "02035011",
+    "02036011",
+    "02036012",
+    "02036013",
+    "02036017",
+    "02036018",
+    "02039033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020260040021"
+      ],
+      [
+        "o020260050021"
+      ],
+      [
+        "o020260050071"
+      ],
+      [
+        "o020260050152"
+      ],
+      [
+        "o020260100031"
+      ],
+      [
+        "o020260100111"
+      ],
+      [
+        "o020260110082"
+      ],
+      [
+        "o020360110021"
+      ],
+      [
+        "o020360120021"
+      ],
+      [
+        "o020360120071"
+      ],
+      [
+        "o020360120152"
+      ],
+      [
+        "o020360170021"
+      ],
+      [
+        "o020360170101"
+      ],
+      [
+        "o020260060031"
+      ],
+      [
+        "o020260060112"
+      ],
+      [
+        "o020260110021"
+      ],
+      [
+        "o020260110072"
+      ],
+      [
+        "o020260330052"
+      ],
+      [
+        "o020350110081",
+        "o020350110082"
+      ],
+      [
+        "o020360130031"
+      ],
+      [
+        "o020360130112"
+      ],
+      [
+        "o020360180021"
+      ],
+      [
+        "o020390330111",
+        "o020390330112"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020260050161"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020360180052"
+      ]
+    ]
+  }
+}

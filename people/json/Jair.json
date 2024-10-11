@@ -1,0 +1,61 @@
+{
+  "id": "person:Jair",
+  "primary_id": "person:Jaare-oregim",
+  "alternate_sources": {
+    "aquifer": [
+      "6190|Jair|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002993001001000"
+    ],
+    "tipnr": [
+      "Jair|Jaare-oregim@2Sa.21.19-1Ch"
+    ],
+    "vizbible": [
+      "recH8OSHPyrDcUDR4"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Elhanan"
+  ],
+  "ubsdbh": [
+    "002993001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jair (Jaare-oregim)",
+      "alternate_labels": [
+        "Jaare-Oregim",
+        "Jaur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jaare-Oregim",
+          "article": "person:Jair",
+          "description": "A man living during the time of Israel's united kingdom, father of Elhanan, first mentioned in 2 Samuel 21:19."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jaare-oregim"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13020005"
+  ],
+  "references": [
+    "13020005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130200050101"
+      ]
+    ]
+  }
+}

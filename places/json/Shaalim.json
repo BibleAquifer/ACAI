@@ -1,0 +1,79 @@
+{
+  "id": "place:Shaalim",
+  "primary_id": "place:Shaalim",
+  "alternate_sources": {
+    "aquifer": [
+      "8252|Shaalim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007546001001000"
+    ],
+    "tipnr": [
+      "Shaalim@1Sa.9.4"
+    ],
+    "vizbible": [
+      "recKFef2G2d4kxjXh"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007546001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaalim",
+      "alternate_labels": [
+        "Shalim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shaalim",
+          "gloss": "Shaalim",
+          "description": "A region in the territory of Benjamin where Saul looked for his father's donkeys (1 Samuel 9:4)"
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.84684772753698",
+      "lon": "35.18491237777512"
+    },
+    "vizbible": {
+      "lat": "31.84684772753698",
+      "lon": "35.18491237777512"
+    }
+  },
+  "key_references": [
+    "09009004"
+  ],
+  "references": [
+    "09009004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090090040111"
+      ]
+    ]
+  }
+}

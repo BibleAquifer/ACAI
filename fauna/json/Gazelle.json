@@ -1,0 +1,132 @@
+{
+  "id": "fauna:Gazelle",
+  "primary_id": "fauna:Gazelle",
+  "alternate_sources": {
+    "aquifer": [
+      "5384|Gazelle|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006102001001000",
+      "006109002001000",
+      "006111001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.15"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "006102001001000",
+    "006109002001000",
+    "006111001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gazelle",
+      "alternate_labels": [
+        "Impala"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gazelle",
+          "article": "fauna:Gazelle",
+          "description": "A small, graceful antelope with long legs, known for its speed and jumping ability."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צְבָאָה",
+      "צְבִי",
+      "צְבִיָּה"
+    ]
+  },
+  "key_references": [
+    "05012015",
+    "23013014",
+    "11005003"
+  ],
+  "references": [
+    "05012015",
+    "05012022",
+    "05014005",
+    "05015022",
+    "10002018",
+    "11005003",
+    "13012009",
+    "20006005",
+    "22002007",
+    "22002009",
+    "22002017",
+    "22003005",
+    "22004005",
+    "22007004",
+    "22008014",
+    "23013014",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o220020070052"
+      ],
+      [
+        "o220030050052"
+      ],
+      [
+        "o050120150192"
+      ],
+      [
+        "o050120220052"
+      ],
+      [
+        "o050140050022"
+      ],
+      [
+        "o050150220062"
+      ],
+      [
+        "o100020180132"
+      ],
+      [
+        "o110050030112"
+      ],
+      [
+        "o130120090193"
+      ],
+      [
+        "o200060050022"
+      ],
+      [
+        "o220020090032"
+      ],
+      [
+        "o220020170102"
+      ],
+      [
+        "o220080140052"
+      ],
+      [
+        "o230130140022"
+      ],
+      [
+        "o220040050061"
+      ],
+      [
+        "o220070040061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230130140031"
+      ]
+    ]
+  }
+}

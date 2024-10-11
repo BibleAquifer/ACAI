@@ -1,0 +1,75 @@
+{
+  "id": "person:Joram.2",
+  "primary_id": "person:Joram.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6438|Joram|TyndaleBibleDictionary",
+      "26774|Joram|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Hadoram|Joram@2Sa.8.10-1Ch",
+      "Joram@2Sa.8.10-1Ch"
+    ],
+    "vizbible": [
+      "rec5P9Tsj0F4ksO0H"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Toi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joram (2 Samuel 8:10)",
+      "alternate_labels": [
+        "Hadoram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joram (2 Samuel 8:10)",
+          "article": "person:Joram.2",
+          "description": "A man living during Israel's united kingdom, son of Toi, also called Hadoram, mentioned in 2 Samuel 8:10 and 1 Chronicles 18:10."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hadoram.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10008010",
+    "13018010"
+  ],
+  "references": [
+    "10008010",
+    "13018010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080100041"
+      ],
+      [
+        "o130180100031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100080100092"
+      ],
+      [
+        "o100080100123"
+      ],
+      [
+        "o130180100092"
+      ],
+      [
+        "o130180100123"
+      ]
+    ]
+  }
+}

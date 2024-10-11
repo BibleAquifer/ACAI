@@ -1,0 +1,59 @@
+{
+  "id": "person:Toah",
+  "primary_id": "person:Tohu",
+  "alternate_sources": {
+    "aquifer": [
+      "8875|Toah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007736001001000"
+    ],
+    "tipnr": [
+      "Toah|Tohu@1Sa.1.1-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zuph",
+  "offspring": [
+    "person:Elihu"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "007736001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Toah (Tohu)",
+      "alternate_labels": [
+        "Tohu"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tohu",
+          "article": "person:Toah",
+          "description": "Toah, also called Tohu or Nahath, was a man from the tribe of Levi living during the time of Israel's united kingdom, mentioned in 1 Samuel 1:1 and 1 Chronicles 6:26, and was the son of Zuph and the father of Elihu."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Tohu"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13006019"
+  ],
+  "references": [
+    "13006019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060190081"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "person:Zimri.4",
+  "primary_id": "person:Zimri.4",
+  "alternate_sources": {
+    "aquifer": [
+      "9228|Zimri (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002006001004000"
+    ],
+    "tipnr": [
+      "Zimri@1Ch.8.36-"
+    ],
+    "vizbible": [
+      "recWwSdvnoCGTbqkf"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoaddah",
+  "offspring": [
+    "person:Moza.2"
+  ],
+  "siblings": [
+    "person:Alemeth.2",
+    "person:Azmaveth.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "002006001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zimri (1 Chronicles 8:36)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zimri (1 Chronicles 8:36)",
+          "article": "person:Zimri.4",
+          "description": "A son of Jehoaddah and father of Moza from the tribe of Benjamin who lived during the time of the divided kingdom of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זִמְרִי"
+    ]
+  },
+  "key_references": [
+    "13008036",
+    "13009042"
+  ],
+  "references": [
+    "13008036",
+    "13009042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080360121"
+      ],
+      [
+        "o130080360132"
+      ],
+      [
+        "o130090420121"
+      ],
+      [
+        "o130090420132"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "id": "place:Caesarea",
+  "primary_id": "place:Caesarea",
+  "alternate_sources": {
+    "aquifer": [
+      "4378|Caesarea|TyndaleBibleDictionary",
+      "26421|Caesarea|UWTranslationWords",
+      "132084|Caesarea|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a58735e"
+    ],
+    "ubsdgnt": [
+      "93.492a"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21149"
+    ],
+    "tipnr": [
+      "Caesarea@Act.8.40-"
+    ],
+    "vizbible": [
+      "recKrSp5YmwkgRKv0"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q319242"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.492a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Caesarea",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Caesarea",
+          "gloss": "Caesarea",
+          "description": "A seaport on the coast of Palestine, south of Mount Carmel; home of Philip the evangelist."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:GreatSea",
+    "place:Dor",
+    "place:Joppa",
+    "place:CarmelMount"
+  ],
+  "subregion_of": [
+    "place:Sharon.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Καισάρεια"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.49954461",
+      "lon": "34.89218498"
+    },
+    "recogito": {
+      "lat": "32.4987775",
+      "lon": "34.8912663"
+    },
+    "vizbible": {
+      "lat": "32.4987775",
+      "lon": "34.8912663"
+    },
+    "biblica-maps": {
+      "lat": "32.50184",
+      "lon": "34.89643"
+    }
+  },
+  "key_references": [
+    "44025001",
+    "44021008"
+  ],
+  "references": [
+    "44008040",
+    "44009030",
+    "44010001",
+    "44010024",
+    "44011011",
+    "44012019",
+    "44018022",
+    "44021008",
+    "44021016",
+    "44023023",
+    "44023032",
+    "44023033",
+    "44024001",
+    "44025001",
+    "44025004",
+    "44025006",
+    "44025013",
+    "44025024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44008040017"
+      ],
+      [
+        "n44009030008"
+      ],
+      [
+        "n44010001005"
+      ],
+      [
+        "n44010024007"
+      ],
+      [
+        "n44011011015"
+      ],
+      [
+        "n44012019019"
+      ],
+      [
+        "n44018022004"
+      ],
+      [
+        "n44021008007"
+      ],
+      [
+        "n44021016007"
+      ],
+      [
+        "n44023023014"
+      ],
+      [
+        "n44023033005"
+      ],
+      [
+        "n44025001013"
+      ],
+      [
+        "n44025004010"
+      ],
+      [
+        "n44025006013"
+      ],
+      [
+        "n44025013012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44025014006"
+      ],
+      [
+        "n44025017003"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "person:Ibri",
+  "primary_id": "person:Ibri",
+  "alternate_sources": {
+    "aquifer": [
+      "5978|Ibri|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005216001002000"
+    ],
+    "tipnr": [
+      "Ibri@1Ch.24.27"
+    ],
+    "vizbible": [
+      "rectd5gXnzLMLwNgs"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jaaziah",
+  "siblings": [
+    "person:Beno",
+    "person:Shoham",
+    "person:Zaccur.3"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005216001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ibri",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ibri",
+          "article": "person:Ibri",
+          "description": "A Levite living during the divided kingdom, mentioned in 1 Chronicles 24:27."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13024027"
+  ],
+  "references": [
+    "13024027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130240270072"
+      ]
+    ]
+  }
+}

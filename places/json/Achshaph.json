@@ -1,0 +1,104 @@
+{
+  "id": "place:Achshaph",
+  "primary_id": "place:Achshaph",
+  "alternate_sources": {
+    "aquifer": [
+      "3345|Achshaph|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a8ce5c4"
+    ],
+    "ubsdbh": [
+      "000381001001000"
+    ],
+    "tipnr": [
+      "Achshaph@Jos.11.1-"
+    ],
+    "vizbible": [
+      "recpWpZY3f2mu4MUh"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4157407"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000381001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Achshaph",
+      "alternate_labels": [
+        "Acshaph",
+        "Achshaph NIV= Akshaph)",
+        "Akshaph"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Achshaph",
+          "gloss": "Achshaph",
+          "description": "A town in Canaan which was later part of an alliance under Jabin, king of Hazor, against the Israelites (Joshua 11:1). It was later part of the territory of Asher (Joshua 19:25). "
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַכְשָׁף"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.95182083",
+      "lon": "35.17382658"
+    },
+    "vizbible": {
+      "lat": "32.95182083",
+      "lon": "35.17382658"
+    }
+  },
+  "key_references": [
+    "06011001",
+    "06019025"
+  ],
+  "references": [
+    "06011001",
+    "06012020",
+    "06019025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110010161"
+      ],
+      [
+        "o060120200061"
+      ],
+      [
+        "o060190250062"
+      ]
+    ]
+  }
+}

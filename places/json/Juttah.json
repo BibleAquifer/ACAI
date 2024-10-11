@@ -1,0 +1,97 @@
+{
+  "id": "place:Juttah",
+  "primary_id": "place:Juttah",
+  "alternate_sources": {
+    "aquifer": [
+      "6507|Juttah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "acc7184"
+    ],
+    "ubsdbh": [
+      "002922001001000"
+    ],
+    "tipnr": [
+      "Juttah@Jos.15.55-"
+    ],
+    "vizbible": [
+      "rec90EhaDwucT0tm2"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2904837"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002922001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Juttah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Juttah",
+          "gloss": "Juttah",
+          "description": "A Levitical town in the hill country of the territory of Judah; assigned to the clan of Aaron."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יֻטָּה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.45",
+      "lon": "35.083333"
+    },
+    "vizbible": {
+      "lat": "31.45",
+      "lon": "35.083333"
+    }
+  },
+  "key_references": [
+    "06015055",
+    "06021016",
+    "13006044"
+  ],
+  "references": [
+    "06015055",
+    "06021016",
+    "13006044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150550042"
+      ],
+      [
+        "o060210160061"
+      ]
+    ]
+  }
+}

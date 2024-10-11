@@ -1,0 +1,56 @@
+{
+  "id": "person:Gestas",
+  "primary_id": "person:Gestas",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Criminal on the Cross (Gestas)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Criminal on the Cross (Gestas)",
+          "description": "The criminal crucified next to Jesus who insulted him. Tradition gives him the name \"Gestas.\""
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "42023039",
+    "42023039"
+  ],
+  "references": [
+    "42023039",
+    "42023039"
+  ],
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42023039001"
+      ],
+      [
+        "n42023039008"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "insulting",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42023039009",
+          "n42023039010",
+          "n42023039011",
+          "n42023039012",
+          "n42023039013",
+          "n42023039014",
+          "n42023039015",
+          "n42023039016",
+          "n42023039017"
+        ]
+      }
+    ]
+  }
+}

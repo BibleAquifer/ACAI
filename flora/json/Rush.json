@@ -1,0 +1,68 @@
+{
+  "id": "flora:Rush",
+  "primary_id": "flora:Rush",
+  "alternate_sources": {
+    "aquifer": [
+      "8074|Rush|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000101001001000"
+    ],
+    "ubsflora": [
+      "flora:5.1.5"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Plants for Everyday Use",
+  "ubsdbh": [
+    "000101001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rush",
+      "alternate_labels": [
+        "Bulrush"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rush",
+          "article": "flora:Rush",
+          "description": "A plant with flexible stems that grows in rivers and marshes, commonly used for making ropes."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַגְמֹון"
+    ]
+  },
+  "key_references": [
+    "18041012",
+    "23058005",
+    "41011008"
+  ],
+  "references": [
+    "18041012",
+    "23058005",
+    "41011008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180410120062"
+      ],
+      [
+        "o230580050102"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n41011008012"
+      ]
+    ]
+  }
+}

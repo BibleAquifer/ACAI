@@ -1,0 +1,98 @@
+{
+  "id": "realia:Train",
+  "primary_id": "realia:Train",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007245001001000"
+    ],
+    "ubsrealia": [
+      "realia:6.2.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "007245001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Train",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Train",
+          "article": "realia:Train",
+          "description": "The part of a coat or dress that hangs down from the waist."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שׁוּל"
+    ]
+  },
+  "key_references": [
+    "02028033",
+    "23006001",
+    "25001009"
+  ],
+  "references": [
+    "02028033",
+    "02028034",
+    "02039024",
+    "02039025",
+    "02039026",
+    "23006001",
+    "24013022",
+    "24013026",
+    "25001009",
+    "34003005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020280330031",
+        "o020280330032"
+      ],
+      [
+        "o020280330101",
+        "o020280330102"
+      ],
+      [
+        "o020280340081"
+      ],
+      [
+        "o020390240031"
+      ],
+      [
+        "o020390250111"
+      ],
+      [
+        "o020390260061"
+      ],
+      [
+        "o230060010132",
+        "o230060010133"
+      ],
+      [
+        "o240130220101",
+        "o240130220102"
+      ],
+      [
+        "o240130260041",
+        "o240130260042"
+      ],
+      [
+        "o250010090022",
+        "o250010090023"
+      ],
+      [
+        "o340030050071",
+        "o340030050072"
+      ]
+    ]
+  }
+}

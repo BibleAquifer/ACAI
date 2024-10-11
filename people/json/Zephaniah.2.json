@@ -1,0 +1,161 @@
+{
+  "id": "person:Zephaniah.2",
+  "primary_id": "person:Zephaniah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "9183|Zephaniah (Person)|TyndaleBibleDictionary",
+      "27230|Zephaniah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006299001002000"
+    ],
+    "tipnr": [
+      "Zephaniah@2Ki.25.18-Jer"
+    ],
+    "vizbible": [
+      "recZBfXD2bxyCKO6f"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Maaseiah.18",
+  "roles": [
+    "Priest"
+  ],
+  "ubsdbh": [
+    "006299001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zephaniah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zephaniah",
+          "article": "person:Zephaniah.2",
+          "description": "A son of Maaseiah who lived during the time of Jeremiah the prophet."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12025018",
+    "24021001",
+    "24037003"
+  ],
+  "references": [
+    "12025018",
+    "24021001",
+    "24029025",
+    "24029029",
+    "24037003",
+    "24052024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120250180091"
+      ],
+      [
+        "o240210010171"
+      ],
+      [
+        "o240290250201"
+      ],
+      [
+        "o240290290021"
+      ],
+      [
+        "o240370030091"
+      ],
+      [
+        "o240520240091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240210030051"
+      ],
+      [
+        "o240290260072"
+      ],
+      [
+        "o240290260152"
+      ],
+      [
+        "o240290270041"
+      ],
+      [
+        "o240370030162"
+      ],
+      [
+        "o240370070071"
+      ],
+      [
+        "o240370070142"
+      ],
+      [
+        "o240370090051"
+      ],
+      [
+        "o240370090072"
+      ],
+      [
+        "o240370100031"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240210020011",
+          "o240210020021",
+          "o240210020031",
+          "o240210020032",
+          "o240210020041",
+          "o240210020051",
+          "o240210020061",
+          "o240210020071",
+          "o240210020081",
+          "o240210020091",
+          "o240210020101",
+          "o240210020111",
+          "o240210020112",
+          "o240210020121",
+          "o240210020131",
+          "o240210020141",
+          "o240210020151",
+          "o240210020152",
+          "o240210020161",
+          "o240210020162",
+          "o240210020171",
+          "o240210020172",
+          "o240210020181",
+          "o240210020182",
+          "o240210020191",
+          "o240210020192",
+          "o240210020193"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240370030171",
+          "o240370030181",
+          "o240370030191",
+          "o240370030192",
+          "o240370030201",
+          "o240370030211",
+          "o240370030221",
+          "o240370030222"
+        ]
+      }
+    ]
+  }
+}

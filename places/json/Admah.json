@@ -1,0 +1,110 @@
+{
+  "id": "place:Admah",
+  "primary_id": "place:Admah",
+  "alternate_sources": {
+    "aquifer": [
+      "3384|Admah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a41a054"
+    ],
+    "ubsdbh": [
+      "000129001001000"
+    ],
+    "tipnr": [
+      "Admah@Gen.10.19-Hos"
+    ],
+    "vizbible": [
+      "recqAEHPEI3gAP9H8"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2605670"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000129001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Admah",
+      "alternate_labels": [
+        "Adman"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Admah",
+          "gloss": "Admah",
+          "description": "A town near the Dead Sea destroyed with Sodom and Gomorrah (Deuteronomy 29:23)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:SaltSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַדְמָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.1194227",
+      "lon": "35.41253049"
+    },
+    "vizbible": {
+      "lat": "31.1194227",
+      "lon": "35.41253049"
+    }
+  },
+  "key_references": [
+    "05029022",
+    "01010010",
+    "28011008"
+  ],
+  "references": [
+    "01010019",
+    "01014002",
+    "01014008",
+    "05029022",
+    "28011008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100190122"
+      ],
+      [
+        "o010140020131"
+      ],
+      [
+        "o010140080071"
+      ],
+      [
+        "o050290220181"
+      ],
+      [
+        "o280110080082"
+      ]
+    ]
+  }
+}

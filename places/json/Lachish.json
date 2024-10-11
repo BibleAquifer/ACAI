@@ -1,0 +1,199 @@
+{
+  "id": "place:Lachish",
+  "primary_id": "place:Lachish",
+  "alternate_sources": {
+    "aquifer": [
+      "6658|Lachish|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a3cc590"
+    ],
+    "ubsdbh": [
+      "003590001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28359"
+    ],
+    "tipnr": [
+      "Lachish@Jos.10.3-Mic"
+    ],
+    "vizbible": [
+      "recH30EhVzvnkXBTl"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q848509"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003590001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lachish",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lachish",
+          "gloss": "Lachish",
+          "description": "A fortified town in the foothills of the territory of Judah, where Amaziah, king of Judah, was assassinated."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "לָכִישׁ",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.56485056",
+      "lon": "34.84672567"
+    },
+    "recogito": {
+      "lat": "31.56522",
+      "lon": "34.84907"
+    },
+    "vizbible": {
+      "lat": "31.56522",
+      "lon": "34.84907"
+    }
+  },
+  "key_references": [
+    "24034007",
+    "12014019"
+  ],
+  "references": [
+    "06010003",
+    "06010005",
+    "06010023",
+    "06010031",
+    "06010032",
+    "06010033",
+    "06010034",
+    "06010035",
+    "06012011",
+    "06015039",
+    "12014019",
+    "12018014",
+    "12018017",
+    "12019008",
+    "14011009",
+    "14025027",
+    "14032009",
+    "16011030",
+    "23036002",
+    "23037008",
+    "24034007",
+    "33001013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100030171"
+      ],
+      [
+        "o060100050131"
+      ],
+      [
+        "o060100230221"
+      ],
+      [
+        "o060100310071"
+      ],
+      [
+        "o060100320041"
+      ],
+      [
+        "o060100330081"
+      ],
+      [
+        "o060100340062"
+      ],
+      [
+        "o060100350182"
+      ],
+      [
+        "o060120110051"
+      ],
+      [
+        "o060150390011"
+      ],
+      [
+        "o120140190061"
+      ],
+      [
+        "o120140190091"
+      ],
+      [
+        "o120180140081"
+      ],
+      [
+        "o120180170131"
+      ],
+      [
+        "o120190080152"
+      ],
+      [
+        "o140110090041"
+      ],
+      [
+        "o140250270121"
+      ],
+      [
+        "o140250270151"
+      ],
+      [
+        "o140320090111"
+      ],
+      [
+        "o160110300041"
+      ],
+      [
+        "o230360020072"
+      ],
+      [
+        "o230370080152"
+      ],
+      [
+        "o240340070131"
+      ],
+      [
+        "o330010130051"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o240340070171"
+      ],
+      [
+        "o330010130081"
+      ]
+    ]
+  }
+}

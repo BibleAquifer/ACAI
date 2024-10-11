@@ -1,0 +1,101 @@
+{
+  "id": "place:Tishbe",
+  "primary_id": "place:Tishbe",
+  "alternate_sources": {
+    "aquifer": [
+      "8867|Tishbe|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Tishbe@1Ki.17.1-2Ki",
+      "Tishbite@1Ki.17.1"
+    ],
+    "vizbible": [
+      "recLMzdtXiHskli2K"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tishbe",
+      "alternate_labels": [
+        "Tishbite",
+        "inhabitants"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tishbe",
+          "gloss": "Tishbe",
+          "description": "A place in Gilead; home of the prophet Elijah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Tishbite"
+  ],
+  "subregion_of": [
+    "place:Gilead"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "special",
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.01718199667929",
+      "lon": "35.56804856758258"
+    },
+    "vizbible": {
+      "lat": "33.01718199667929",
+      "lon": "35.56804856758258"
+    }
+  },
+  "key_references": [
+    "11017001"
+  ],
+  "references": [
+    "11017001",
+    "11021017",
+    "11021028",
+    "12001003",
+    "12001008",
+    "12009036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110170010032"
+      ],
+      [
+        "o110170010042"
+      ],
+      [
+        "o110210170062"
+      ],
+      [
+        "o110210280062"
+      ],
+      [
+        "o120010030062"
+      ],
+      [
+        "o120010080122"
+      ],
+      [
+        "o120090360132"
+      ]
+    ]
+  }
+}

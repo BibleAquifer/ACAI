@@ -1,0 +1,101 @@
+{
+  "id": "person:Elah.2",
+  "primary_id": "person:Elah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4963|Elah|TyndaleBibleDictionary",
+      "4962|Elah, Valley of|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000393002003000"
+    ],
+    "tipnr": [
+      "Elah@1Ki.16.6-"
+    ],
+    "vizbible": [
+      "recFexGOO6Xag0jw7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Baasha",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "000393002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elah",
+          "article": "person:Elah.2",
+          "description": "A son of Baasha who was king of the northern kingdom of Israel during the divided kingdom. He was assassinated by Zimri, one of his military officials."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵלָה"
+    ]
+  },
+  "key_references": [
+    "11016006",
+    "11016008",
+    "11016009",
+    "11016010",
+    "11016011"
+  ],
+  "references": [
+    "11016006",
+    "11016008",
+    "11016013",
+    "11016014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110160060081"
+      ],
+      [
+        "o110160080091"
+      ],
+      [
+        "o110160130061"
+      ],
+      [
+        "o110160140031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o110160090082"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110160130091"
+      ],
+      [
+        "o110160130111"
+      ],
+      [
+        "o110160130142"
+      ],
+      [
+        "o110160140061"
+      ]
+    ]
+  }
+}

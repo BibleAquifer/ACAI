@@ -1,0 +1,181 @@
+{
+  "id": "person:Amon.3",
+  "primary_id": "person:Amon.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3569|Amon (Person)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Amon@2Ki.21.18-Mat",
+      "Amos|Amon@2Ki.21.18-Mat"
+    ],
+    "vizbible": [
+      "rectyCDQXPV0r8tal"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Manasseh.2",
+  "mother": "person:Meshullemeth",
+  "partners": [
+    "person:Jedidah"
+  ],
+  "offspring": [
+    "person:Josiah"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ],
+    "death_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amon (Son of Manasseh)",
+      "alternate_labels": [
+        "Amos"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Amon (Son of Manasseh)",
+          "article": "person:Amon.3",
+          "description": "King of Judah during the divided kingdom. He was a son of Manasseh and Meshullemeth and father of King Josiah. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Amos"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12021018",
+    "12021019",
+    "14033020",
+    "40001010"
+  ],
+  "references": [
+    "12021018",
+    "12021019",
+    "12021023",
+    "12021024",
+    "12021025",
+    "13003014",
+    "14033020",
+    "14033021",
+    "14033022",
+    "14033023",
+    "14033025",
+    "24001002",
+    "24025003",
+    "36001001",
+    "40001010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120210180111"
+      ],
+      [
+        "o120210190051"
+      ],
+      [
+        "o120210230031"
+      ],
+      [
+        "o120210240091"
+      ],
+      [
+        "o120210250031"
+      ],
+      [
+        "o130030140011"
+      ],
+      [
+        "o140330200081"
+      ],
+      [
+        "o140330210051"
+      ],
+      [
+        "o140330220161"
+      ],
+      [
+        "o140330230101"
+      ],
+      [
+        "o140330250091"
+      ],
+      [
+        "o240010020091"
+      ],
+      [
+        "o240250030071"
+      ],
+      [
+        "o360010010181"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001010010",
+        "n40001010011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140330230091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120210190091"
+      ],
+      [
+        "o120210200012"
+      ],
+      [
+        "o120210210012"
+      ],
+      [
+        "o120210210072"
+      ],
+      [
+        "o120210210132"
+      ],
+      [
+        "o120210220012"
+      ],
+      [
+        "o120210220071"
+      ],
+      [
+        "o120210250051"
+      ],
+      [
+        "o140330210091"
+      ],
+      [
+        "o140330220012"
+      ],
+      [
+        "o140330220172"
+      ],
+      [
+        "o140330230021"
+      ]
+    ]
+  }
+}

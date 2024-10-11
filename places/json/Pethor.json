@@ -1,0 +1,83 @@
+{
+  "id": "place:Pethor",
+  "primary_id": "place:Pethor",
+  "alternate_sources": {
+    "aquifer": [
+      "7682|Pethor|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aa9e754"
+    ],
+    "ubsdbh": [
+      "006068001001000"
+    ],
+    "tipnr": [
+      "Pethor@Num.22.5-Deu"
+    ],
+    "vizbible": [
+      "reclTXq2VglIrbWTt"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q7178322"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006068001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pethor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pethor",
+          "gloss": "Pethor",
+          "description": "A town north of Mesopotamia; home of Balaam."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.654616",
+      "lon": "38.068879"
+    },
+    "vizbible": {
+      "lat": "36.654616",
+      "lon": "38.068879"
+    }
+  },
+  "key_references": [
+    "04022005",
+    "05023005"
+  ],
+  "references": [
+    "04022005",
+    "05023005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040220050071"
+      ],
+      [
+        "o050230050192"
+      ]
+    ]
+  }
+}

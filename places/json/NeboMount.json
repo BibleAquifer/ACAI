@@ -1,0 +1,122 @@
+{
+  "id": "place:NeboMount",
+  "primary_id": "place:NeboMount",
+  "alternate_sources": {
+    "aquifer": [
+      "7227|Mount Nebo|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aefaa2d"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/563265622",
+      "http://pleiades.stoa.org/places/563265622"
+    ],
+    "tipnr": [
+      "Nebo_Mount@Deu.32.49-Jer",
+      "Abarim|Nebo_Mount@Deu.32.49-Jer"
+    ],
+    "vizbible": [
+      "recUMD4PyAqIzCkc0"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q680161"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Nebo",
+      "alternate_labels": [
+        "Nebo",
+        "Abarim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountNebo",
+          "gloss": "Mount Nebo",
+          "description": "A mountain in Moab, near Jericho, where Moses had a view of the promised land before he died (Deuteronomy 34:1–4)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Abarim"
+  ],
+  "nearby_places": [
+    "place:Jericho"
+  ],
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.7613578",
+      "lon": "35.74614824"
+    },
+    "recogito": {
+      "lat": "31.766667",
+      "lon": "35.725"
+    },
+    "vizbible": {
+      "lat": "31.7613578",
+      "lon": "35.74614824"
+    }
+  },
+  "key_references": [
+    "05032049",
+    "04033047",
+    "05034001"
+  ],
+  "references": [
+    "04027012",
+    "04033047",
+    "04033048",
+    "05032049",
+    "05034001",
+    "24022020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040270120082"
+      ],
+      [
+        "o040330470062"
+      ],
+      [
+        "o040330480032"
+      ],
+      [
+        "o050320490042"
+      ],
+      [
+        "o050320490071"
+      ],
+      [
+        "o050340010071"
+      ],
+      [
+        "o240220200082"
+      ]
+    ]
+  }
+}

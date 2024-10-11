@@ -1,0 +1,66 @@
+{
+  "id": "person:Eliakim",
+  "primary_id": "person:Eliakim",
+  "alternate_sources": {
+    "aquifer": [
+      "4996|Eliakim|TyndaleBibleDictionary",
+      "26554|Eliakim|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.108a"
+    ],
+    "tipnr": [
+      "Eliakim@Mat.1.13"
+    ],
+    "vizbible": [
+      "recXuNF2yQWVO3DRE"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abiud",
+  "offspring": [
+    "person:Azor"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.108a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliakim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliakim",
+          "article": "person:Eliakim",
+          "description": "Son of Abiud and the father of Azor in Jesus's family tree according to Matthew's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἐλιακίμ"
+    ]
+  },
+  "key_references": [
+    "40001013"
+  ],
+  "references": [
+    "40001013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40001013010",
+        "n40001013011"
+      ]
+    ]
+  }
+}

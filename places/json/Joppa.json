@@ -1,0 +1,150 @@
+{
+  "id": "place:Joppa",
+  "primary_id": "place:Joppa",
+  "alternate_sources": {
+    "aquifer": [
+      "6435|Joppa|TyndaleBibleDictionary",
+      "26773|Joppa|UWTranslationWords"
+    ],
+    "obi": [
+      "ae023a9"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21683"
+    ],
+    "tipnr": [
+      "Joppa@Jos.19.46-Act"
+    ],
+    "vizbible": [
+      "recIeuZZMsolnZA6n"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q180294"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joppa",
+      "alternate_labels": [
+        "Japho"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Joppa",
+          "gloss": "Joppa",
+          "description": "A seaport town in the territory of Dan."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Dan",
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.05351968",
+      "lon": "34.75042606"
+    },
+    "recogito": {
+      "lat": "32.053722",
+      "lon": "34.752119"
+    },
+    "vizbible": {
+      "lat": "32.053722",
+      "lon": "34.752119"
+    },
+    "biblica-maps": {
+      "lat": "32.05308",
+      "lon": "34.74993"
+    }
+  },
+  "key_references": [
+    "44009036",
+    "14002015",
+    "32001003"
+  ],
+  "references": [
+    "06019046",
+    "14002015",
+    "15003007",
+    "32001003",
+    "44009036",
+    "44009038",
+    "44009042",
+    "44009043",
+    "44010005",
+    "44010008",
+    "44010023",
+    "44010032",
+    "44011005",
+    "44011013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190460071"
+      ],
+      [
+        "o140020150131"
+      ],
+      [
+        "o150030070171"
+      ],
+      [
+        "o320010030081"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44009036002"
+      ],
+      [
+        "n44009038006"
+      ],
+      [
+        "n44009042007"
+      ],
+      [
+        "n44009043007"
+      ],
+      [
+        "n44010005006"
+      ],
+      [
+        "n44010008009"
+      ],
+      [
+        "n44010023018"
+      ],
+      [
+        "n44010032004"
+      ],
+      [
+        "n44011005005"
+      ],
+      [
+        "n44011013017"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "person:DaughterOfHerodias",
+  "primary_id": "person:DaughterOfHerodias",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Daughter of Herodias",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Daughter of Herodias",
+          "description": "An unnamed daughter of Herodias."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40014008",
+    "41006024"
+  ],
+  "references": [
+    "40014008",
+    "41006024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40014008001"
+      ],
+      [
+        "n41006024009"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n41006022021"
+      ],
+      [
+        "n41006025010"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "n40014008008",
+          "n40014008009",
+          "n40014008010",
+          "n40014008011",
+          "n40014008012",
+          "n40014008013",
+          "n40014008014",
+          "n40014008015",
+          "n40014008016",
+          "n40014008017",
+          "n40014008018"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n41006024012",
+          "n41006024013",
+          "n41006024014",
+          "n41006024015",
+          "n41006024016"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n41006025011",
+          "n41006025012",
+          "n41006025013",
+          "n41006025014",
+          "n41006025015",
+          "n41006025016",
+          "n41006025017",
+          "n41006025018",
+          "n41006025019",
+          "n41006025020",
+          "n41006025021",
+          "n41006025022"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "person:Ahab.2",
+  "primary_id": "person:Ahab.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3428|Ahab|TyndaleBibleDictionary",
+      "26296|Ahab|UWTranslationWords",
+      "132430|Ahab|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000240001002000",
+      "000240001002000 000241001001000"
+    ],
+    "tipnr": [
+      "Ahab@Jer.29.21-"
+    ],
+    "vizbible": [
+      "recgKArbigTNGvUaH"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kolaiah.2",
+  "ubsdbh": [
+    "000240001002000",
+    "000240001002000 000241001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahab (Jeremiah 29:21)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahab (Jeremiah 29:21)",
+          "article": "person:Ahab.2",
+          "description": "A false prophet from the time of the divided kingdom, mentioned in Jeremiah, son of Kolaiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַחְאָב"
+    ]
+  },
+  "key_references": [
+    "24029021",
+    "24029022"
+  ],
+  "references": [
+    "24029021",
+    "24029022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240290210081"
+      ],
+      [
+        "o240290220133"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240290210152"
+      ],
+      [
+        "o240290230031"
+      ],
+      [
+        "o240290230062"
+      ],
+      [
+        "o240290230102"
+      ]
+    ]
+  }
+}

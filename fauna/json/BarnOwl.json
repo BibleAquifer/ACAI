@@ -1,0 +1,58 @@
+{
+  "id": "fauna:BarnOwl",
+  "primary_id": "fauna:BarnOwl",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007872001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.17.8"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "007872001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Barn Owl",
+      "alternate_labels": [
+        "Owl"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Barn Owl",
+          "article": "fauna:BarnOwl",
+          "description": "A pale-colored owl with a heart-shaped face, known to live in barns and eat small nocturnal animals."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תִּנְשֶׁמֶת"
+    ]
+  },
+  "key_references": [
+    "03011018",
+    "05014016"
+  ],
+  "references": [
+    "03011018",
+    "05014016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110180022"
+      ],
+      [
+        "o050140160053"
+      ]
+    ]
+  }
+}

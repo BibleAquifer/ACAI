@@ -1,0 +1,78 @@
+{
+  "id": "place:Shelah",
+  "primary_id": "place:Siloam",
+  "alternate_sources": {
+    "aquifer": [
+      "8334|Shelah|TyndaleBibleDictionary",
+      "8333|Shelah, Pool of|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007388003001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2640102"
+    ],
+    "tipnr": [
+      "Shelah|Siloam@Neh.3.15-Jhn"
+    ],
+    "vizbible": [
+      "recbJJLMTzLRSP2PI"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007388003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shelah",
+      "alternate_labels": [
+        "Siloam",
+        "Pool",
+        "Siloah",
+        "Pool of Shelah"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Siloam"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "vizbible": [
+      "Landmark"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "53.9",
+      "lon": "-1.61667"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16003015"
+  ],
+  "references": [
+    "16003015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030150232"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "place:Shallecheth",
+  "primary_id": "place:Shallecheth",
+  "alternate_sources": {
+    "aquifer": [
+      "8265|Shallecheth, Shalleketh, Gate of|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shallecheth@1Ch.26.16"
+    ],
+    "vizbible": [
+      "recWnxvGvhTaH6YBZ"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shallecheth",
+      "alternate_labels": [
+        "Shallecheth Gate",
+        "Shalleketh",
+        "Shalleketh Gate"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shallecheth",
+          "gloss": "Shallecheth",
+          "description": "A gate on the western side of the temple in Jerusalem; also known as the West Gate."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:WestGate"
+  ],
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "13026016"
+  ],
+  "references": [
+    "13026016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130260160061"
+      ]
+    ]
+  }
+}

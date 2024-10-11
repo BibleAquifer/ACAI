@@ -1,0 +1,67 @@
+{
+  "id": "person:Johanan.6",
+  "primary_id": "person:Johanan.6",
+  "alternate_sources": {
+    "aquifer": [
+      "6406|Johanan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002825001002000"
+    ],
+    "tipnr": [
+      "Johanan@1Ch.3.24"
+    ],
+    "vizbible": [
+      "reccWtmXBJtPD6LIC"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Elioenai",
+  "siblings": [
+    "person:Hodaviah",
+    "person:Eliashib",
+    "person:Pelaiah.2",
+    "person:Akkub",
+    "person:Delaiah",
+    "person:Anani"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002825001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Johanan (1 Chronicles 3:24)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Johanan (1 Chronicles 3:24)",
+          "article": "person:Johanan.6",
+          "description": "A descendant of Zerubbabel from the tribe of Judah, mentioned in 1 Chronicles 3:24."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹוחָנָן",
+      "יוֹחָנָן"
+    ]
+  },
+  "key_references": [
+    "13003024"
+  ],
+  "references": [
+    "13003024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030240082"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "place:Pi-beseth",
+  "primary_id": "place:Pi-beseth",
+  "alternate_sources": {
+    "aquifer": [
+      "7730|Pi-Beseth|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2cd991"
+    ],
+    "ubsdbh": [
+      "005844001001000"
+    ],
+    "tipnr": [
+      "Pi-beseth@Ezk.30.17"
+    ],
+    "vizbible": [
+      "recNvtwLvWVBU6RL6"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q603841"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005844001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pi-beseth",
+      "alternate_labels": [
+        "Bubastis"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pi-beseth",
+          "gloss": "Pi-beseth",
+          "description": "A town in Egypt, better known as Bubastis."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "פִּי הַחִירֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.583333",
+      "lon": "31.5"
+    },
+    "vizbible": {
+      "lat": "30.583333",
+      "lon": "31.5"
+    }
+  },
+  "key_references": [
+    "26030017"
+  ],
+  "references": [
+    "26030017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260300170032",
+        "o260300170041"
+      ]
+    ]
+  }
+}

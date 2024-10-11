@@ -1,0 +1,97 @@
+{
+  "id": "place:India",
+  "primary_id": "place:India",
+  "alternate_sources": {
+    "aquifer": [
+      "6019|India|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a878481"
+    ],
+    "ubsdbh": [
+      "001762001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/50004",
+      "http://pleiades.stoa.org/places/50004"
+    ],
+    "tipnr": [
+      "India@Est.1.1-"
+    ],
+    "vizbible": [
+      "recxCz0P7YIE6Jp40"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q16001607"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001762001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "India",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:India",
+          "gloss": "India",
+          "description": "A land located east of Persia, which formed the eastern boundary of the kingdom ruled by Ahasuerus (Esther 1:1)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "הֹדּוּ",
+      "הֹ֫דּוּ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "22",
+      "lon": "77"
+    },
+    "recogito": {
+      "lat": "22.5",
+      "lon": "77.5"
+    },
+    "vizbible": {
+      "lat": "22",
+      "lon": "77"
+    }
+  },
+  "key_references": [
+    "17001001",
+    "17008009"
+  ],
+  "references": [
+    "17001001",
+    "17008009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170010010072"
+      ],
+      [
+        "o170080090272"
+      ]
+    ]
+  }
+}

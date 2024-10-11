@@ -1,0 +1,87 @@
+{
+  "id": "place:Naamah",
+  "primary_id": "place:Naamah",
+  "alternate_sources": {
+    "aquifer": [
+      "7259|Naamah (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004841001003000"
+    ],
+    "tipnr": [
+      "Naamah@Jos.15.41"
+    ],
+    "vizbible": [
+      "reclHmej6pogXwsdV"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004841001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Naamah (of Judah)",
+      "alternate_labels": [
+        "Naamah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Naamah.1",
+          "gloss": "Naamah (of Judah)",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נַעֲמָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.871782",
+      "lon": "34.871894"
+    },
+    "vizbible": {
+      "lat": "31.871782",
+      "lon": "34.871894"
+    }
+  },
+  "key_references": [
+    "06015041"
+  ],
+  "references": [
+    "06015041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150410042"
+      ]
+    ]
+  }
+}

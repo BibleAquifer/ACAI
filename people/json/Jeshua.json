@@ -1,0 +1,65 @@
+{
+  "id": "person:Jeshua",
+  "primary_id": "person:Jeshua",
+  "alternate_sources": {
+    "aquifer": [
+      "6344|Jeshua (Person)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jeshua@1Ch.24.11-Neh"
+    ],
+    "vizbible": [
+      "recYvmsgtgT6N4zBI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jozadak.2",
+  "roles": [
+    "Priest"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeshua",
+      "alternate_labels": [
+        "Jeshuah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeshua",
+          "article": "person:Jeshua",
+          "description": "Son of Jedaiah and priest living during the Israelite return from exile."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002036",
+    "16007039"
+  ],
+  "references": [
+    "13024011",
+    "15002036",
+    "15010018",
+    "16007039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130240110012"
+      ],
+      [
+        "o150020360051"
+      ],
+      [
+        "o150100180091"
+      ],
+      [
+        "o160070390051"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "place:Tiberias",
+  "primary_id": "place:Tiberias",
+  "alternate_sources": {
+    "aquifer": [
+      "8832|Tiberias|TyndaleBibleDictionary",
+      "8831|Tiberias, Sea of|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac9adc9"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/293322"
+    ],
+    "tipnr": [
+      "Tiberias@Jos.19.35-Jhn",
+      "Rakkath|Tiberias@Jos.19.35-Jhn"
+    ],
+    "vizbible": [
+      "recJ5Vr9vsvg72UIz"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q151920"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tiberias",
+      "alternate_labels": [
+        "Rakkath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tiberias",
+          "gloss": "Tiberias",
+          "description": "A city on the west shore of the Sea of Galilee, south of Magdala."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Rakkath"
+  ],
+  "nearby_places": [
+    "place:Magdala",
+    "place:GalileeSea"
+  ],
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.79553799",
+      "lon": "35.5292204"
+    },
+    "recogito": {
+      "lat": "32.79221",
+      "lon": "35.53124"
+    },
+    "vizbible": {
+      "lat": "32.79553799",
+      "lon": "35.5292204"
+    },
+    "biblica-maps": {
+      "lat": "32.78769",
+      "lon": "35.54229"
+    }
+  },
+  "key_references": [
+    "43006023"
+  ],
+  "references": [
+    "06019035",
+    "43006023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190350061"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43006023005"
+      ]
+    ]
+  }
+}

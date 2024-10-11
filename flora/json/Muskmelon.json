@@ -1,0 +1,68 @@
+{
+  "id": "flora:Muskmelon",
+  "primary_id": "flora:Muskmelon",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004349002001000",
+      "006611001001000"
+    ],
+    "ubsflora": [
+      "flora:3.4.1"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "004349002001000",
+    "006611001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Muskmelon",
+      "alternate_labels": [
+        "Melon Field",
+        "Cantaloupe"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Muskmelon",
+          "article": "flora:Muskmelon",
+          "description": "A vine-growing fruit with round leaves, yellow flowers, and it becomes yellowish or light green when ripe."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִקְשָׁה",
+      "קִשֻּׁאָה"
+    ]
+  },
+  "key_references": [
+    "04011005",
+    "23001008",
+    "24010005"
+  ],
+  "references": [
+    "04011005",
+    "23001008",
+    "24010005",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230010080072"
+      ],
+      [
+        "o240100050021"
+      ],
+      [
+        "o040110050092"
+      ]
+    ]
+  }
+}

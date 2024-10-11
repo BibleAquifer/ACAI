@@ -1,0 +1,118 @@
+{
+  "id": "group:Kohath",
+  "primary_id": "group:Kohath",
+  "alternate_sources": {
+    "aquifer": [
+      "6637|Kohath, Kohathites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006404001001000"
+    ],
+    "tipnr": [
+      "Kohath@Gen.46.11-2Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Kohath",
+  "ubsdbh": [
+    "006404001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kohathites",
+      "alternate_labels": [
+        "Kohath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kohathites",
+          "article": "group:Kohath",
+          "description": "People descended from Kohath, son of Levi and grandfather of Moses."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046011",
+    "02006018",
+    "04007009",
+    "04010021"
+  ],
+  "references": [
+    "04003027",
+    "04003030",
+    "04004018",
+    "04004034",
+    "04004037",
+    "04010021",
+    "04026057",
+    "06021004",
+    "06021010",
+    "13006018",
+    "13006039",
+    "13009032",
+    "14020019",
+    "14029012",
+    "14034012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040030270132"
+      ],
+      [
+        "o040030300052"
+      ],
+      [
+        "o040040180062"
+      ],
+      [
+        "o040040340082"
+      ],
+      [
+        "o040040370042"
+      ],
+      [
+        "o040100210022"
+      ],
+      [
+        "o040260570102"
+      ],
+      [
+        "o060210040042"
+      ],
+      [
+        "o060210100052"
+      ],
+      [
+        "o130060180052"
+      ],
+      [
+        "o130060390082"
+      ],
+      [
+        "o130090320032"
+      ],
+      [
+        "o140200190052"
+      ],
+      [
+        "o140290120112"
+      ],
+      [
+        "o140340120172"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040100210031"
+      ]
+    ]
+  }
+}

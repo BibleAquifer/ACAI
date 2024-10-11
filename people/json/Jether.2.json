@@ -1,0 +1,70 @@
+{
+  "id": "person:Jether.2",
+  "primary_id": "person:Jether.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6357|Jether|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003204003002000"
+    ],
+    "tipnr": [
+      "Jether@Jdg.8.20"
+    ],
+    "vizbible": [
+      "recUoURurGRTnhD4Z"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gideon",
+  "siblings": [
+    "person:Abimelech.2",
+    "person:Jotham"
+  ],
+  "ubsdbh": [
+    "003204003002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jether (Judges 8:20)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jether (Judges 8:20)",
+          "article": "person:Jether.2",
+          "description": "The son of Gideon, mentioned in Judges 8:20, living before Israel's Monarchy."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֶתֶר",
+      "יֶ֫תֶר"
+    ]
+  },
+  "key_references": [
+    "07008020"
+  ],
+  "references": [
+    "07008020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070080200022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070080200041",
+        "o070080200051"
+      ]
+    ]
+  }
+}

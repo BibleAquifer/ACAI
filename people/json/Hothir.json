@@ -1,0 +1,79 @@
+{
+  "id": "person:Hothir",
+  "primary_id": "person:Hothir",
+  "alternate_sources": {
+    "aquifer": [
+      "5927|Hothir|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001800001001000"
+    ],
+    "tipnr": [
+      "Hothir@1Ch.25.4-"
+    ],
+    "vizbible": [
+      "recAKsAhysOFyYsim"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Heman.3",
+  "siblings": [
+    "person:Bukkiah",
+    "person:Mattaniah.2",
+    "person:Uzziel.4",
+    "person:Shebuel.2",
+    "person:Jerimoth.4",
+    "person:Hananiah.3",
+    "person:Hanani.2",
+    "person:Eliathah",
+    "person:Giddalti",
+    "person:Romamti-ezer",
+    "person:Joshbekashah",
+    "person:Mallothi",
+    "person:Mahazioth"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "001800001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hothir",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hothir",
+          "article": "person:Hothir",
+          "description": "Hothir, a son of Heman and a temple singer, was a man from the tribe of Levi living during King David's reign."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֹותִיר",
+      "הוֹתִיר"
+    ]
+  },
+  "key_references": [
+    "13025004",
+    "13025028"
+  ],
+  "references": [
+    "13025004",
+    "13025028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130250040171"
+      ],
+      [
+        "o130250280032"
+      ]
+    ]
+  }
+}

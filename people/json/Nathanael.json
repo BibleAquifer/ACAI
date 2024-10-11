@@ -1,0 +1,211 @@
+{
+  "id": "person:Nathanael",
+  "primary_id": "person:Nathanael",
+  "alternate_sources": {
+    "aquifer": [
+      "7311|Nathanael|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.270"
+    ],
+    "tipnr": [
+      "Nathanael@Jhn.1.45-"
+    ],
+    "vizbible": [
+      "recd33WGbx9DkJuTk"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Apostle",
+    "Disciple",
+    "Church Leader"
+  ],
+  "ubsdgnt": [
+    "93.270"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nathanael",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nathanael",
+          "article": "person:Nathanael",
+          "description": "One of the twelve apostles of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ναθαναήλ"
+    ]
+  },
+  "key_references": [
+    "43001045",
+    "43001046",
+    "43021002",
+    "40010003"
+  ],
+  "references": [
+    "43001045",
+    "43001046",
+    "43001047",
+    "43001048",
+    "43001049",
+    "43021002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43001045004"
+      ],
+      [
+        "n43001046004"
+      ],
+      [
+        "n43001047005"
+      ],
+      [
+        "n43001048003"
+      ],
+      [
+        "n43001049003"
+      ],
+      [
+        "n43021002011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43001045007"
+      ],
+      [
+        "n43001046012"
+      ],
+      [
+        "n43001047012"
+      ],
+      [
+        "n43001048005"
+      ],
+      [
+        "n43001048011"
+      ],
+      [
+        "n43001048014"
+      ],
+      [
+        "n43001048022"
+      ],
+      [
+        "n43001050005"
+      ],
+      [
+        "n43001050008"
+      ],
+      [
+        "n43001050011"
+      ],
+      [
+        "n43001051003"
+      ],
+      [
+        "n43001051007"
+      ],
+      [
+        "n43021003002"
+      ],
+      [
+        "n43021003011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43001046015"
+      ],
+      [
+        "n43001046017"
+      ],
+      [
+        "n43001050015"
+      ],
+      [
+        "n43001050018"
+      ],
+      [
+        "n43001051008"
+      ],
+      [
+        "n43021003007"
+      ],
+      [
+        "n43021003014"
+      ],
+      [
+        "n43021003016"
+      ],
+      [
+        "n43021003025"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n43001046005",
+          "n43001046006",
+          "n43001046007",
+          "n43001046008",
+          "n43001046009",
+          "n43001046010"
+        ]
+      },
+      {
+        "delivery": "puzzled",
+        "quote_type": "Dialogue",
+        "words": [
+          "n43001049004",
+          "n43001049005",
+          "n43001049006",
+          "n43001049007",
+          "n43001049008",
+          "n43001049009",
+          "n43001049010",
+          "n43001049011",
+          "n43001049012",
+          "n43001049013",
+          "n43001049014",
+          "n43001049015"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n43021003009",
+          "n43021003010",
+          "n43021003011",
+          "n43021003012",
+          "n43021003013"
+        ]
+      },
+      {
+        "delivery": "calling out",
+        "quote_type": "Dialogue",
+        "words": [
+          "n43021005013"
+        ]
+      }
+    ]
+  }
+}

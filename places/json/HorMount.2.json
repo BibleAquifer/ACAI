@@ -1,0 +1,98 @@
+{
+  "id": "place:HorMount.2",
+  "primary_id": "place:HorMount.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7225|Mount Hor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001869001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/697725"
+    ],
+    "tipnr": [
+      "Hor_Mount@Num.34.7-"
+    ],
+    "vizbible": [
+      "recKRQCw7nVGXU2A8"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001869001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Hor (Northern)",
+      "alternate_labels": [
+        "Mount Hor",
+        "Hor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountHor.2",
+          "gloss": "Mount Hor (Northern)",
+          "description": "A mountain marking the northern border of Israel (Numbers 34:7–8); possibly Mount Hermon."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:HermonMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "הֹר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.710069",
+      "lon": "36.188080"
+    },
+    "recogito": {
+      "lat": "30.3273975",
+      "lon": "35.4464006"
+    },
+    "vizbible": {
+      "lat": "35.710069",
+      "lon": "36.188080"
+    }
+  },
+  "key_references": [
+    "04034007"
+  ],
+  "references": [
+    "04034007",
+    "04034008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340070111"
+      ],
+      [
+        "o040340080012"
+      ]
+    ]
+  }
+}

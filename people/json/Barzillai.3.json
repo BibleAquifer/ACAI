@@ -1,0 +1,88 @@
+{
+  "id": "person:Barzillai.3",
+  "primary_id": "person:Barzillai.3",
+  "alternate_sources": {
+    "aquifer": [
+      "4020|Barzillai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001172001001000",
+      "001172001002000"
+    ],
+    "tipnr": [
+      "Barzillai@Ezr.2.61-Neh"
+    ],
+    "vizbible": [
+      "recMUwZRe8Ljt23IR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Priest"
+  ],
+  "ubsdbh": [
+    "001172001001000",
+    "001172001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Barzillai (Ezra 2:61)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Barzillai (Ezra 2:61)",
+          "article": "person:Barzillai.3",
+          "description": "A descendant of priests from the tribe of Levi who adopted the name Barzillai after marrying a descendant of Barzillai from Rogelim."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּרְזִלַּי"
+    ]
+  },
+  "key_references": [
+    "15002061",
+    "16007063"
+  ],
+  "references": [
+    "15002061",
+    "16007063"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020610081"
+      ],
+      [
+        "o150020610121"
+      ],
+      [
+        "o160070630081"
+      ],
+      [
+        "o160070630121"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o150020610101"
+      ],
+      [
+        "o150020610152"
+      ],
+      [
+        "o160070630101"
+      ],
+      [
+        "o160070630152"
+      ]
+    ]
+  }
+}

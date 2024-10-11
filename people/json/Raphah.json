@@ -1,0 +1,64 @@
+{
+  "id": "person:Raphah",
+  "primary_id": "person:Raphah",
+  "alternate_sources": {
+    "aquifer": [
+      "7944|Raphah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Rephaiah|Raphah@1Ch.8.37-",
+      "Raphah@1Ch.8.37-"
+    ],
+    "vizbible": [
+      "rectXYWrGNjKmfjUz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Binea",
+  "siblings": [
+    "person:Eleasah.2",
+    "person:Azel"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Raphah",
+      "alternate_labels": [
+        "Rapha",
+        "Rephaiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Raphah",
+          "article": "person:Raphah",
+          "description": "Raphah, also known as Rephaiah, is a man from the tribe of Benjamin, mentioned in 1 Chronicles 8:37 and 1 Chronicles 9:43, living during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Rephaiah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008037",
+    "13009043"
+  ],
+  "references": [
+    "13008037",
+    "13009043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080370051"
+      ],
+      [
+        "o130090430052"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "place:Aiath",
+  "primary_id": "place:Ai",
+  "alternate_sources": {
+    "aquifer": [
+      "3474|Aiath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005378001001000"
+    ],
+    "tipnr": [
+      "Aiath|Ai@Gen.12.8-Isa"
+    ],
+    "vizbible": [
+      "recwBcaQrg8xhl7a7"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005378001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aiath",
+      "alternate_labels": [
+        "Ai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aiath",
+          "gloss": "Aiath",
+          "description": "A town near Bethel in the territory of Ephraim; also known as Ai."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ai"
+  ],
+  "tribal_area": "group:Ephraim",
+  "nearby_places": [
+    "place:Bethel"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עִיֹּון",
+      "עִיּוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.91697812",
+      "lon": "35.26122639"
+    },
+    "vizbible": {
+      "lat": "31.91697812",
+      "lon": "35.26122639"
+    }
+  },
+  "key_references": [
+    "23010028",
+    "16011031",
+    "13007028"
+  ],
+  "references": [
+    "23010028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230100280031"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "flora:Calamus",
+  "primary_id": "flora:Calamus",
+  "alternate_sources": {
+    "aquifer": [
+      "4386|Calamus|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006507001002000"
+    ],
+    "ubsflora": [
+      "flora:4.1.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "006507001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Calamus",
+      "alternate_labels": [
+        "Fragrant Grass",
+        "Sweet Flag"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Calamus",
+          "article": "flora:Calamus",
+          "description": "A reed with stiff, fragrant leaves and scented tubers used in medicine and for making fragrances."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קָנֶה"
+    ]
+  },
+  "key_references": [
+    "22004014",
+    "23043024",
+    "26027019"
+  ],
+  "references": [
+    "02030023",
+    "22004014",
+    "23043024",
+    "24006020",
+    "26027019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020300230152"
+      ],
+      [
+        "o220040140031"
+      ],
+      [
+        "o230430240051"
+      ],
+      [
+        "o240060200072"
+      ],
+      [
+        "o260270190092"
+      ]
+    ]
+  }
+}

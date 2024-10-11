@@ -1,0 +1,60 @@
+{
+  "id": "realia:InnerRoom",
+  "primary_id": "realia:InnerRoom",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.28"
+    ],
+    "ubsrealia": [
+      "realia:3.1.6.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.28"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Inner Room",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Inner Room",
+          "article": "realia:InnerRoom",
+          "description": "A room inside a house that usually does not have windows to the outside."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ταμεῖον"
+    ]
+  },
+  "key_references": [
+    "40006006",
+    "40024026",
+    "42012003"
+  ],
+  "references": [
+    "40006006",
+    "40024026",
+    "42012003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40006006008"
+      ],
+      [
+        "n40024026015"
+      ],
+      [
+        "n42012003020"
+      ]
+    ]
+  }
+}

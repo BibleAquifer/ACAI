@@ -1,0 +1,67 @@
+{
+  "id": "person:Igal.3",
+  "primary_id": "person:Igal.3",
+  "alternate_sources": {
+    "aquifer": [
+      "5989|Igal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002768001003000"
+    ],
+    "tipnr": [
+      "Igal@1Ch.3.22"
+    ],
+    "vizbible": [
+      "rec3pI4qTggwF9xOp"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shemaiah.2",
+  "siblings": [
+    "person:Hattush",
+    "person:Bariah",
+    "person:Neariah",
+    "person:Shaphat.3"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002768001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Igal (1 Chronicles 3:22)",
+      "alternate_labels": [
+        "Igeal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Igal (1 Chronicles 3:22)",
+          "article": "person:Igal.3",
+          "description": "A man of the tribe of Judah, descendant of Zerubbabel, living during the divided kingdom, mentioned in 1 Chronicles 3:22."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִגְאָל"
+    ]
+  },
+  "key_references": [
+    "13003022"
+  ],
+  "references": [
+    "13003022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030220072"
+      ]
+    ]
+  }
+}

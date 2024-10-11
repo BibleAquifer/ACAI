@@ -1,0 +1,91 @@
+{
+  "id": "place:Janim",
+  "primary_id": "place:Janim",
+  "alternate_sources": {
+    "aquifer": [
+      "6208|Janim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a175f4b"
+    ],
+    "ubsdbh": [
+      "002963001001000"
+    ],
+    "tipnr": [
+      "Janim@Jos.15.53"
+    ],
+    "vizbible": [
+      "recgWUUTO9djSSOCa"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002963001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Janim",
+      "alternate_labels": [
+        "Janum",
+        "Ketiv. Qere"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Janim",
+          "gloss": "Janim",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָנוּם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.516667",
+      "lon": "35.166667"
+    },
+    "vizbible": {
+      "lat": "31.516667",
+      "lon": "35.166667"
+    }
+  },
+  "key_references": [
+    "06015053"
+  ],
+  "references": [
+    "06015053"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150530022"
+      ]
+    ]
+  }
+}

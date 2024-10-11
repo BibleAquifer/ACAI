@@ -1,0 +1,92 @@
+{
+  "id": "place:Moresheth-gath",
+  "primary_id": "place:Moresheth-gath",
+  "alternate_sources": {
+    "aquifer": [
+      "7204|Moresheth-Gath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003817001001000"
+    ],
+    "tipnr": [
+      "Moresheth-gath@Mic.1.14"
+    ],
+    "vizbible": [
+      "recbTYTiQORyjUXHN"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003817001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Moresheth-gath",
+      "alternate_labels": [
+        "Morasthite",
+        "Morashtite",
+        "Moreshite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Moresheth-gath",
+          "gloss": "Moresheth-Gath",
+          "description": "A town in the territory of Judah where the prophet Micah came from."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מֹורֶשֶׁת גַּת",
+      "מוֹרֶ֫שֶׁת גַּת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.60393321295081",
+      "lon": "34.90237777777779"
+    },
+    "vizbible": {
+      "lat": "31.60393321295081",
+      "lon": "34.90237777777779"
+    }
+  },
+  "key_references": [
+    "33001014",
+    "24026018",
+    "33001001"
+  ],
+  "references": [
+    "24026018",
+    "33001001",
+    "33001014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o330010140051",
+        "o330010140061"
+      ]
+    ]
+  }
+}

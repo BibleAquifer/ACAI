@@ -1,0 +1,57 @@
+{
+  "id": "deity:Provider",
+  "primary_id": "deity:Lord",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006634001001000",
+      "006634001002000"
+    ],
+    "tipnr": [
+      "Provider|LORD@Gen.1.1-Heb"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "006634001001000",
+    "006634001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Provider (LORD)",
+      "alternate_labels": [
+        "LORD",
+        "Jireh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "LORD",
+          "article": "deity:Provider",
+          "description": "The name of God equated with “Provision” in Genesis 22:14."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Lord"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01022014"
+  ],
+  "references": [
+    "01022014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010220140071"
+      ],
+      [
+        "o010220140131"
+      ]
+    ]
+  }
+}

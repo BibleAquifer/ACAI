@@ -1,0 +1,71 @@
+{
+  "id": "person:Jezer",
+  "primary_id": "person:Jezer",
+  "alternate_sources": {
+    "aquifer": [
+      "6370|Jezer|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jezer@Gen.46.24-1Ch"
+    ],
+    "vizbible": [
+      "rec8rL9g71oMCW8CK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Naphtali",
+  "siblings": [
+    "person:Jahzeel",
+    "person:Guni",
+    "person:Shillem"
+  ],
+  "tribe": "group:Naphtali",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jezer",
+      "alternate_labels": [
+        "Jezerite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jezer",
+          "article": "person:Jezer",
+          "description": "A son of the partriarch Naphtali living during the time of the Egyptian slavery and the wilderness and the wilderness wandering of the Israelites. He was brother of Jahzeel, Guni, and Shillem."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Jezer"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046024",
+    "04026049",
+    "13007013"
+  ],
+  "references": [
+    "01046024",
+    "04026049",
+    "13007013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460240052"
+      ],
+      [
+        "o040260490012"
+      ],
+      [
+        "o040260490032"
+      ],
+      [
+        "o130070130052"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "person:Achsah",
+  "primary_id": "person:Achsah",
+  "alternate_sources": {
+    "aquifer": [
+      "3344|Achsa, Achsah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005431001001000"
+    ],
+    "tipnr": [
+      "Achsah@Jos.15.16-Jdg"
+    ],
+    "vizbible": [
+      "rechP7VPbeJka9YKZ"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Caleb",
+  "partners": [
+    "person:Othniel"
+  ],
+  "siblings": [
+    "person:Iru",
+    "person:Elah.4",
+    "person:Naam"
+  ],
+  "ubsdbh": [
+    "005431001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Achsah",
+      "alternate_labels": [
+        "Aksah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Achsah",
+          "article": "person:Achsah",
+          "description": "The daughter of Caleb and wife of the Israelite judge Othniel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "06015016",
+    "06015017",
+    "07001012",
+    "07001013"
+  ],
+  "references": [
+    "06015016",
+    "06015017",
+    "07001012",
+    "07001013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150160121"
+      ],
+      [
+        "o060150170101"
+      ],
+      [
+        "o070010120121"
+      ],
+      [
+        "o070010130121"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o060150180032"
+      ],
+      [
+        "o060150180082"
+      ],
+      [
+        "o060150190012"
+      ],
+      [
+        "o070010140032"
+      ],
+      [
+        "o070010140082"
+      ],
+      [
+        "o070010150012"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o060150190021",
+          "o060150190022",
+          "o060150190031",
+          "o060150190032",
+          "o060150190041",
+          "o060150190051",
+          "o060150190061",
+          "o060150190071",
+          "o060150190072",
+          "o060150190081",
+          "o060150190082",
+          "o060150190091",
+          "o060150190092",
+          "o060150190101",
+          "o060150190102",
+          "o060150190111",
+          "o060150190121"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070010150031",
+          "o070010150032",
+          "o070010150041",
+          "o070010150042",
+          "o070010150051",
+          "o070010150061",
+          "o070010150071",
+          "o070010150081",
+          "o070010150082",
+          "o070010150091",
+          "o070010150092",
+          "o070010150101",
+          "o070010150102",
+          "o070010150111",
+          "o070010150112",
+          "o070010150121",
+          "o070010150131"
+        ]
+      }
+    ]
+  }
+}

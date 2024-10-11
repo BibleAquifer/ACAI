@@ -1,0 +1,91 @@
+{
+  "id": "place:Jeruel",
+  "primary_id": "place:Jeruel",
+  "alternate_sources": {
+    "aquifer": [
+      "6330|Jeruel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003094001001000"
+    ],
+    "tipnr": [
+      "Jeruel@2Ch.20.16"
+    ],
+    "vizbible": [
+      "recMiSnzvWalCvvWb"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003094001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeruel",
+      "alternate_labels": [
+        "Desert of Jeruel",
+        "Wilderness of Jeruel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jeruel",
+          "gloss": "Jeruel",
+          "description": "A part of the wilderness in the territory of Judah, near the Ascent of Ziz, where the Israelites were victorious over a coalition of invading Moabites, Ammonites, Edomites, and Meunites (2 Chronicles20:16)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Ziz"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יְרוּאֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "wilderness"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.572903",
+      "lon": "35.406346"
+    },
+    "vizbible": {
+      "lat": "31.572903",
+      "lon": "35.406346"
+    }
+  },
+  "key_references": [
+    "14020016"
+  ],
+  "references": [
+    "14020016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140200160141"
+      ]
+    ]
+  }
+}

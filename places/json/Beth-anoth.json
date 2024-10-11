@@ -1,0 +1,92 @@
+{
+  "id": "place:Beth-anoth",
+  "primary_id": "place:Beth-anoth",
+  "alternate_sources": {
+    "aquifer": [
+      "4152|Beth-Anoth|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aa2fea1"
+    ],
+    "ubsdbh": [
+      "000968001001000"
+    ],
+    "tipnr": [
+      "Beth-anoth@Jos.15.59"
+    ],
+    "vizbible": [
+      "rec90EmNrsNK8XmkY"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4881428"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000968001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-anoth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-anoth",
+          "gloss": "Beth-Anoth",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית־עֲנֹות",
+      "בֵּית־עֲנוֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.558456",
+      "lon": "35.124483"
+    },
+    "vizbible": {
+      "lat": "31.558456",
+      "lon": "35.124483"
+    }
+  },
+  "key_references": [
+    "06015059"
+  ],
+  "references": [
+    "06015059"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150590022",
+        "o060150590031"
+      ]
+    ]
+  }
+}

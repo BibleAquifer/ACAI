@@ -1,0 +1,65 @@
+{
+  "id": "person:Michael.5",
+  "primary_id": "person:Michael.5",
+  "alternate_sources": {
+    "aquifer": [
+      "7109|Michael|TyndaleBibleDictionary",
+      "26875|Michael|UWTranslationWords",
+      "132511|Michael|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003945001006000"
+    ],
+    "tipnr": [
+      "Michael@1Ch.7.3"
+    ],
+    "vizbible": [
+      "recMvdM6R6pRTqYZS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Izrahiah",
+  "siblings": [
+    "person:Obadiah.3",
+    "person:Joel.6",
+    "person:Isshiah"
+  ],
+  "tribe": "group:Issachar",
+  "ubsdbh": [
+    "003945001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Michael (1 Chronicles 7:3)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Michael (1 Chronicles 7:3)",
+          "article": "person:Michael.5",
+          "description": "Michael was a man from the tribe of Issachar, living during the time of the divided kingdom, mentioned in 1 Chronicles 7:3 as the son of Izrahiah and brother of Obadiah, Joel, and Isshiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִיכָאֵל"
+    ]
+  },
+  "key_references": [
+    "13007003"
+  ],
+  "references": [
+    "13007003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070030061"
+      ]
+    ]
+  }
+}

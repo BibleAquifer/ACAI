@@ -1,0 +1,77 @@
+{
+  "id": "person:Zurishaddai",
+  "primary_id": "person:Zurishaddai",
+  "alternate_sources": {
+    "aquifer": [
+      "9268|Zurishaddai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006165001001000"
+    ],
+    "tipnr": [
+      "Zurishaddai@Num.1.6-"
+    ],
+    "vizbible": [
+      "recBLSLwxb2x0qfZF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Shelumiel"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "ubsdbh": [
+    "006165001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zurishaddai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zurishaddai",
+          "article": "person:Zurishaddai",
+          "description": "The father of the chief of the tribe of Simeon, Shelumiel, who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04001006",
+    "04002012",
+    "04010019"
+  ],
+  "references": [
+    "04001006",
+    "04002012",
+    "04007036",
+    "04007041",
+    "04010019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010060041"
+      ],
+      [
+        "o040020120101",
+        "o040020120111"
+      ],
+      [
+        "o040070360081"
+      ],
+      [
+        "o040070410171"
+      ],
+      [
+        "o040100190081",
+        "o040100190091"
+      ]
+    ]
+  }
+}

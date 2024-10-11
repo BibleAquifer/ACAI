@@ -1,0 +1,83 @@
+{
+  "id": "place:Irpeel",
+  "primary_id": "place:Irpeel",
+  "alternate_sources": {
+    "aquifer": [
+      "6053|Irpeel|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a21b934"
+    ],
+    "ubsdbh": [
+      "003125001001000"
+    ],
+    "tipnr": [
+      "Irpeel@Jos.18.27"
+    ],
+    "vizbible": [
+      "recFaDXzmsRc5psEi"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003125001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Irpeel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Irpeel",
+          "gloss": "Irpeel",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יִרְפְּאֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.869343",
+      "lon": "35.197712"
+    },
+    "vizbible": {
+      "lat": "31.869343",
+      "lon": "35.197712"
+    }
+  },
+  "key_references": [
+    "06018027"
+  ],
+  "references": [
+    "06018027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180270022"
+      ]
+    ]
+  }
+}

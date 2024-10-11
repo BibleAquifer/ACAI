@@ -1,0 +1,62 @@
+{
+  "id": "person:Lahad",
+  "primary_id": "person:Lahad",
+  "alternate_sources": {
+    "aquifer": [
+      "6661|Lahad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003524001001000"
+    ],
+    "tipnr": [
+      "Lahad@1Ch.4.2"
+    ],
+    "vizbible": [
+      "recgeOjrnCNherCMz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jahath",
+  "siblings": [
+    "person:Ahumai"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "003524001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lahad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lahad",
+          "article": "person:Lahad",
+          "description": "A man of the tribe of Judah living during the time of the divided kingdom, mentioned in 1 Chronicles 4:2, son of Jahath, and brother of Ahumai."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לָהַד",
+      "לָ֑הַד"
+    ]
+  },
+  "key_references": [
+    "13004002"
+  ],
+  "references": [
+    "13004002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040020121"
+      ]
+    ]
+  }
+}

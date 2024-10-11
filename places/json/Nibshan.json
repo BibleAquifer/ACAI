@@ -1,0 +1,79 @@
+{
+  "id": "place:Nibshan",
+  "primary_id": "place:Nibshan",
+  "alternate_sources": {
+    "aquifer": [
+      "7393|Nibshan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004624001001000"
+    ],
+    "tipnr": [
+      "Nibshan@Jos.15.62"
+    ],
+    "vizbible": [
+      "rectRNRUNhXixuDpU"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004624001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nibshan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nibshan",
+          "gloss": "Nibshan",
+          "description": "A town located in the wilderness of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.46152536164766",
+      "lon": "35.39241108242345"
+    },
+    "vizbible": {
+      "lat": "31.46152536164766",
+      "lon": "35.39241108242345"
+    }
+  },
+  "key_references": [
+    "06015062"
+  ],
+  "references": [
+    "06015062"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150620013"
+      ]
+    ]
+  }
+}

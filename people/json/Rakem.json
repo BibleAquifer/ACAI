@@ -1,0 +1,56 @@
+{
+  "id": "person:Rakem",
+  "primary_id": "person:Rakem",
+  "alternate_sources": {
+    "aquifer": [
+      "7917|Rakem|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006937001004000"
+    ],
+    "tipnr": [
+      "Rakem@1Ch.7.16"
+    ],
+    "vizbible": [
+      "recfgjyoISoTGHblO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Sheresh",
+  "siblings": [
+    "person:Ulam"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "006937001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rakem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rakem",
+          "article": "person:Rakem",
+          "description": "Rakem is a man from the tribe of Manasseh, mentioned in 1 Chronicles 7:16, living during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007016"
+  ],
+  "references": [
+    "13007016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070160142"
+      ]
+    ]
+  }
+}

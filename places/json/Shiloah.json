@@ -1,0 +1,88 @@
+{
+  "id": "place:Shiloah",
+  "primary_id": "place:Siloam",
+  "alternate_sources": {
+    "aquifer": [
+      "8396|Shiloah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007387001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3488540"
+    ],
+    "tipnr": [
+      "Shiloah|Siloam@Neh.3.15-Jhn"
+    ],
+    "vizbible": [
+      "rec4D5Z8lcPHzichv"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007387001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shiloah",
+      "alternate_labels": [
+        "Siloam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shiloah",
+          "gloss": "Shiloah",
+          "description": "A pool in Jerusalem receiving water from the Gihon Spring."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Siloam"
+  ],
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "pool"
+    ],
+    "acai": [
+      "pool"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "18.16709",
+      "lon": "-77.70348"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "23008006"
+  ],
+  "references": [
+    "23008006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230080060082"
+      ]
+    ]
+  }
+}

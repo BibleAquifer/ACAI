@@ -1,0 +1,65 @@
+{
+  "id": "person:Bered",
+  "primary_id": "person:Bered",
+  "alternate_sources": {
+    "aquifer": [
+      "4130|Bered (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001161001002000"
+    ],
+    "tipnr": [
+      "Bered@1Ch.7.20"
+    ],
+    "vizbible": [
+      "rec1S4nN14Yk7klhb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shuthelah",
+  "offspring": [
+    "person:Tahath.2"
+  ],
+  "siblings": [
+    "person:Eran"
+  ],
+  "tribe": "group:Ephraim",
+  "ubsdbh": [
+    "001161001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bered",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bered",
+          "article": "person:Bered",
+          "description": "A man from the tribe of Ephraim, mentioned in 1 Chronicles 7:20 as the son of Shuthelah and living during the time of Egypt and the wilderness."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּרֶד",
+      "בֶּ֫רֶד"
+    ]
+  },
+  "key_references": [
+    "13007020"
+  ],
+  "references": [
+    "13007020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070200042"
+      ]
+    ]
+  }
+}

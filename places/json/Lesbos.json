@@ -1,0 +1,38 @@
+{
+  "id": "place:Lesbos",
+  "primary_id": "place:Lesbos",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lesbos",
+          "gloss": "Lesbos",
+          "description": "An island in the northeastern Aegean Sea."
+        }
+      ],
+      "preferred_label": "Lesbos",
+      "alternate_labels": [
+        "Lesvos"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "39.19916",
+      "lon": "26.24623"
+    }
+  }
+}

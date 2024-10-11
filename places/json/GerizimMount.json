@@ -1,0 +1,127 @@
+{
+  "id": "place:GerizimMount",
+  "primary_id": "place:GerizimMount",
+  "alternate_sources": {
+    "aquifer": [
+      "7222|Mount Gerizim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a30e967"
+    ],
+    "ubsdbh": [
+      "001495001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678147",
+      "http://pleiades.stoa.org/places/678147"
+    ],
+    "tipnr": [
+      "Gerizim_Mount@Deu.11.29-Jdg"
+    ],
+    "vizbible": [
+      "recwOLWt1eIDGzfiI"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1288751"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001495001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Gerizim",
+      "alternate_labels": [
+        "Gerizim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountGerizim",
+          "gloss": "Mount Gerizim",
+          "description": "A mountain southwest of Shechem where the Israelites pronounced blessings (Deuteronomy 11:29); often associated with Mount Ebal to the north."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Tabbur-erez"
+  ],
+  "associated_places": [
+    "place:EbalMount"
+  ],
+  "nearby_places": [
+    "place:Shechem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גְּרִזִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.19956174",
+      "lon": "35.27285228"
+    },
+    "recogito": {
+      "lat": "32.200742",
+      "lon": "35.273414"
+    },
+    "vizbible": {
+      "lat": "32.19956174",
+      "lon": "35.27285228"
+    },
+    "biblica-maps": {
+      "lat": "32.20082",
+      "lon": "35.27326"
+    }
+  },
+  "key_references": [
+    "43004020",
+    "05027012",
+    "05011029",
+    "06008033",
+    "07009037"
+  ],
+  "references": [
+    "05011029",
+    "05027012",
+    "06008033",
+    "07009007",
+    "43004020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050110290181"
+      ],
+      [
+        "o050270120081"
+      ],
+      [
+        "o060080330231"
+      ],
+      [
+        "o070090070071"
+      ]
+    ]
+  }
+}

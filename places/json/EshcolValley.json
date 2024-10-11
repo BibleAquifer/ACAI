@@ -1,0 +1,124 @@
+{
+  "id": "place:EshcolValley",
+  "primary_id": "place:EshcolValley",
+  "alternate_sources": {
+    "obi": [
+      "a38ecff"
+    ],
+    "ubsdbh": [
+      "000748002002000",
+      "004729001001000"
+    ],
+    "tipnr": [
+      "Eshcol_Valley@Num.13.23-Deu"
+    ],
+    "vizbible": [
+      "recoY3rBC176SZA6S"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5397792"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000748002002000",
+    "004729001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Eshcol",
+      "alternate_labels": [
+        "Brook Eshcol",
+        "Eshcol",
+        "wadi of Eschol",
+        "Eshcol Valley",
+        "Eshkol",
+        "valley of Eschol",
+        "Wadi Eshcol",
+        "Valley of Eshkol"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfEshcol",
+          "gloss": "Valley of Eshcol",
+          "description": "A valley near Hebron where Israelite spies cut off a large cluster of grapes (Numbers 13:23–24)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Hebron"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶשְׁכֹּול",
+      "אֶשְׁכֹּל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.54909871686872",
+      "lon": "35.09356062020027"
+    },
+    "vizbible": {
+      "lat": "31.54909871686872",
+      "lon": "35.09356062020027"
+    }
+  },
+  "key_references": [
+    "04032009",
+    "05001024",
+    "04013023"
+  ],
+  "references": [
+    "04013023",
+    "04013024",
+    "04032009",
+    "05001024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130230031",
+        "o040130230041"
+      ],
+      [
+        "o040130240041",
+        "o040130240051"
+      ],
+      [
+        "o040320090031",
+        "o040320090041"
+      ],
+      [
+        "o050010240061",
+        "o050010240071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o040130240022"
+      ]
+    ]
+  }
+}

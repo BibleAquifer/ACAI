@@ -1,0 +1,79 @@
+{
+  "id": "place:Abronah",
+  "primary_id": "place:Abronah",
+  "alternate_sources": {
+    "aquifer": [
+      "3322|Abronah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005219001001000"
+    ],
+    "tipnr": [
+      "Abronah@Num.33.34-"
+    ],
+    "vizbible": [
+      "recfu6VEZX2Bl1rZY"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005219001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abronah",
+      "alternate_labels": [
+        "Ebronah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Abronah",
+          "gloss": "Abronah",
+          "description": "A location in the Sinai Peninsula, between Yotbathah and Ezion-Geber, where the Israelites encamped on their way from Egypt to Canaan (Numbers 33:34)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.75804307645581",
+      "lon": "35.0306017443078"
+    },
+    "vizbible": {
+      "lat": "29.75804307645581",
+      "lon": "35.0306017443078"
+    }
+  },
+  "key_references": [
+    "04033034"
+  ],
+  "references": [
+    "04033034",
+    "04033035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330340042"
+      ],
+      [
+        "o040330350022"
+      ]
+    ]
+  }
+}

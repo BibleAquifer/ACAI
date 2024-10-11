@@ -1,0 +1,101 @@
+{
+  "id": "person:Sherebiah",
+  "primary_id": "person:Sherebiah",
+  "alternate_sources": {
+    "aquifer": [
+      "8373|Sherebiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007628001001000"
+    ],
+    "tipnr": [
+      "Sherebiah@Ezr.8.18-Neh"
+    ],
+    "vizbible": [
+      "rec7WS5SFta9zG6Co"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Priest"
+  ],
+  "ubsdbh": [
+    "007628001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sherebiah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sherebiah",
+          "article": "person:Sherebiah",
+          "description": "A Levite who was called a \"man of discretion,\" and lived during the time of Israelite exile and return."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15008018",
+    "16008007",
+    "16009004"
+  ],
+  "references": [
+    "15008018",
+    "15008024",
+    "16008007",
+    "16009004",
+    "16009005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150080180152"
+      ],
+      [
+        "o150080240062"
+      ],
+      [
+        "o160080070032"
+      ],
+      [
+        "o160090040101"
+      ],
+      [
+        "o160090050071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o150080280031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o150080290011"
+      ],
+      [
+        "o150080290022"
+      ],
+      [
+        "o150080290041"
+      ],
+      [
+        "o160080080012"
+      ],
+      [
+        "o160080080062"
+      ],
+      [
+        "o160090040132"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "place:Jeshua",
+  "primary_id": "place:Jeshua",
+  "alternate_sources": {
+    "aquifer": [
+      "6345|Jeshua (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003151001008000"
+    ],
+    "tipnr": [
+      "Jeshua@Neh.11.26"
+    ],
+    "vizbible": [
+      "recBFRWm5Z4QU7Boa"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003151001008000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeshua",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jeshua",
+          "gloss": "Jeshua",
+          "description": "A town in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יֵשׁוּעַ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    },
+    "vizbible": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    }
+  },
+  "key_references": [
+    "16011026"
+  ],
+  "references": [
+    "16011026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110260013"
+      ]
+    ]
+  }
+}

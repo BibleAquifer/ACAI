@@ -1,0 +1,260 @@
+{
+  "id": "place:Gilgal.2",
+  "primary_id": "place:Gilgal.2",
+  "alternate_sources": {
+    "geonames": [
+      "http://sws.geonames.org/294634"
+    ],
+    "tipnr": [
+      "Gilgal@Deu.11.30-Mic",
+      "Gilgal@Deu.11.30-Mic",
+      "Geliloth|Gilgal@Deu.11.30-Mic",
+      "Beth-gilgal|Gilgal@Deu.11.30-Mic",
+      "Gibeath-haaraloth|Gilgal@Deu.11.30-Mic"
+    ],
+    "vizbible": [
+      "recdm9AlLF01lFAfP"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gilgal (near Shechem)",
+      "alternate_labels": [
+        "Gibeath-Haaraloth",
+        "hill of the foreskins",
+        "house of Gilgal",
+        "Beth-Gilgal",
+        "Geliloth",
+        "Gilgal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gilgal.4",
+          "gloss": "Gilgal (near Shechem)",
+          "description": "A location close to Shechem and the Oak of Moreh."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Gilgal.2",
+    "place:Geliloth",
+    "place:Beth-gilgal",
+    "place:Gibeath-haaraloth"
+  ],
+  "nearby_places": [
+    "place:Shechem",
+    "place:Moreh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.86378328",
+      "lon": "35.51854651"
+    },
+    "recogito": {
+      "lat": "32.1547",
+      "lon": "34.95372"
+    },
+    "vizbible": {
+      "lat": "32.1547",
+      "lon": "34.95372"
+    }
+  },
+  "key_references": [
+    "05011030"
+  ],
+  "references": [
+    "05011030",
+    "06004019",
+    "06004020",
+    "06005003",
+    "06005009",
+    "06005010",
+    "06009006",
+    "06010006",
+    "06010007",
+    "06010009",
+    "06010015",
+    "06010043",
+    "06014006",
+    "06015007",
+    "06018017",
+    "07002001",
+    "07003019",
+    "09007016",
+    "09010008",
+    "09011014",
+    "09011015",
+    "09013004",
+    "09013007",
+    "09013008",
+    "09013012",
+    "09013015",
+    "09015012",
+    "09015021",
+    "09015033",
+    "10019016",
+    "10019041",
+    "16012029",
+    "28004015",
+    "28009015",
+    "28012012",
+    "30004004",
+    "30005005",
+    "33006005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050110300142"
+      ],
+      [
+        "o060040190092"
+      ],
+      [
+        "o060040200122"
+      ],
+      [
+        "o060050030111"
+      ],
+      [
+        "o060050030122"
+      ],
+      [
+        "o060050090151"
+      ],
+      [
+        "o060050100042"
+      ],
+      [
+        "o060090060062"
+      ],
+      [
+        "o060100060082"
+      ],
+      [
+        "o060100070042"
+      ],
+      [
+        "o060100090092"
+      ],
+      [
+        "o060100150082"
+      ],
+      [
+        "o060100430082"
+      ],
+      [
+        "o060140060062"
+      ],
+      [
+        "o060150070092"
+      ],
+      [
+        "o060180170081"
+      ],
+      [
+        "o070020010052"
+      ],
+      [
+        "o070030190072"
+      ],
+      [
+        "o090070160083"
+      ],
+      [
+        "o090100080032"
+      ],
+      [
+        "o090110140072"
+      ],
+      [
+        "o090110150042"
+      ],
+      [
+        "o090110150112"
+      ],
+      [
+        "o090130040182"
+      ],
+      [
+        "o090130070102"
+      ],
+      [
+        "o090130080112"
+      ],
+      [
+        "o090130120062"
+      ],
+      [
+        "o090130150052"
+      ],
+      [
+        "o090150120192"
+      ],
+      [
+        "o090150210112"
+      ],
+      [
+        "o090150330172"
+      ],
+      [
+        "o100190160082"
+      ],
+      [
+        "o100190410032"
+      ],
+      [
+        "o160120290013",
+        "o160120290021"
+      ],
+      [
+        "o280040150102"
+      ],
+      [
+        "o280090150032"
+      ],
+      [
+        "o280120120072"
+      ],
+      [
+        "o300040040052"
+      ],
+      [
+        "o300050050053"
+      ],
+      [
+        "o300050050132"
+      ],
+      [
+        "o330060050182"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090070160162"
+      ]
+    ]
+  }
+}

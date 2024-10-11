@@ -1,0 +1,114 @@
+{
+  "id": "deity:Advocate",
+  "primary_id": "deity:HolySpirit",
+  "alternate_sources": {
+    "aquifer": [
+      "3408|Advocate|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "12.19",
+      "12.19"
+    ],
+    "tipnr": [
+      "Advocate|Holy_Spirit@Mat.1.18-Rev"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdgnt": [
+    "12.19",
+    "12.19"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Advocate (Holy Spirit)",
+      "alternate_labels": [
+        "Holy Spirit",
+        "Mediator",
+        "Comforter",
+        "Paraclete"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Holy Spirit",
+          "article": "deity:Advocate",
+          "description": "A term used in John's gospel to describe the Holy Spirit (John 14:16)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:HolySpirit"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "παράκλητος"
+    ]
+  },
+  "key_references": [
+    "43014016"
+  ],
+  "references": [
+    "43014016",
+    "43014026",
+    "43015026",
+    "43016007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43014016007"
+      ],
+      [
+        "n43014026003"
+      ],
+      [
+        "n43015026004"
+      ],
+      [
+        "n43016007017"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43014026016"
+      ],
+      [
+        "n43015026005"
+      ],
+      [
+        "n43015026021"
+      ],
+      [
+        "n43016007027"
+      ],
+      [
+        "n43016008003"
+      ],
+      [
+        "n43016013004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43014016011"
+      ],
+      [
+        "n43014026021"
+      ],
+      [
+        "n43016007020"
+      ],
+      [
+        "n43016008002"
+      ]
+    ]
+  }
+}

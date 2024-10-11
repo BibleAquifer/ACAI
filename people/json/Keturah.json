@@ -1,0 +1,86 @@
+{
+  "id": "person:Keturah",
+  "primary_id": "person:Keturah",
+  "alternate_sources": {
+    "aquifer": [
+      "6568|Keturah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006428001001000"
+    ],
+    "tipnr": [
+      "Keturah@Gen.25.1-1Ch"
+    ],
+    "vizbible": [
+      "recr0xWgepJBPsiGH"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Abraham"
+  ],
+  "offspring": [
+    "person:Zimran",
+    "person:Jokshan",
+    "person:Medan",
+    "person:Midian",
+    "person:Ishbak",
+    "person:Shuah"
+  ],
+  "roles": [
+    "Concubine"
+  ],
+  "ubsdbh": [
+    "006428001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Keturah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Keturah",
+          "article": "person:Keturah",
+          "description": "A woman married to the patriarch Abraham. She was the mother of Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01025001",
+    "01025004",
+    "13001032"
+  ],
+  "references": [
+    "01025001",
+    "01025004",
+    "13001032",
+    "13001033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250010061"
+      ],
+      [
+        "o010250040111"
+      ],
+      [
+        "o130010320021"
+      ],
+      [
+        "o130010330111"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130010320051"
+      ]
+    ]
+  }
+}

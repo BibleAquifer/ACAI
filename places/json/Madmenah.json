@@ -1,0 +1,84 @@
+{
+  "id": "place:Madmenah",
+  "primary_id": "place:Madmenah",
+  "alternate_sources": {
+    "aquifer": [
+      "6844|Madmenah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003734002001000"
+    ],
+    "tipnr": [
+      "Madmenah@Isa.10.31"
+    ],
+    "vizbible": [
+      "rec44WSBX7TZj0taX"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003734002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Madmenah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Madmenah",
+          "gloss": "Madmenah",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מַדְמֵנָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.800000",
+      "lon": "35.250000"
+    },
+    "vizbible": {
+      "lat": "31.800000",
+      "lon": "35.250000"
+    }
+  },
+  "key_references": [
+    "23010031"
+  ],
+  "references": [
+    "23010031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230100310021"
+      ]
+    ]
+  }
+}

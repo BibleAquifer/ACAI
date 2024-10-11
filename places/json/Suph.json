@@ -1,0 +1,87 @@
+{
+  "id": "place:Suph",
+  "primary_id": "place:Suph",
+  "alternate_sources": {
+    "aquifer": [
+      "8656|Suph|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af725bb"
+    ],
+    "ubsdbh": [
+      "005027002001000"
+    ],
+    "tipnr": [
+      "Suph@Deu.1.1"
+    ],
+    "vizbible": [
+      "recDQR7BJjcXBBSmY"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3559111"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005027002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Suph",
+      "alternate_labels": [
+        "Red sea"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Suph",
+          "gloss": "Suph",
+          "description": "A location in the wilderness facing the location where Moses was said to deliver his speech found in Deuteronomy."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "סוּף"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "body of water",
+      "settlement"
+    ],
+    "acai": [
+      "body of water"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "27.088473",
+      "lon": "34.771729"
+    },
+    "vizbible": {
+      "lat": "27.088473",
+      "lon": "34.771729"
+    }
+  },
+  "key_references": [
+    "05001001"
+  ],
+  "references": [
+    "05001001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050010010141"
+      ]
+    ]
+  }
+}

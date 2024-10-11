@@ -1,0 +1,72 @@
+{
+  "id": "place:Minni",
+  "primary_id": "place:Minni",
+  "alternate_sources": {
+    "aquifer": [
+      "7149|Minni|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004124001001000"
+    ],
+    "tipnr": [
+      "Minni@Jer.51.27"
+    ],
+    "vizbible": [
+      "recXkiCLcGAy68ZoI"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004124001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Minni",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Minni",
+          "gloss": "Minni",
+          "description": "A nation in Armenia; called in a prophecy to punish Babylon (Jer 51:27)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.6",
+      "lon": "44.6"
+    },
+    "vizbible": {
+      "lat": "40.6",
+      "lon": "44.6"
+    }
+  },
+  "key_references": [
+    "24051027"
+  ],
+  "references": [
+    "24051027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240510270141"
+      ]
+    ]
+  }
+}

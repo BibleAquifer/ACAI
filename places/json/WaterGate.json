@@ -1,0 +1,108 @@
+{
+  "id": "place:WaterGate",
+  "primary_id": "place:WaterGate",
+  "alternate_sources": {
+    "aquifer": [
+      "9036|Water Gate|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003953001002000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/190648274"
+    ],
+    "tipnr": [
+      "Water_Gate@Neh.3.26-"
+    ],
+    "vizbible": [
+      "recF7TDLi8QE5kF4P"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003953001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Water Gate",
+      "alternate_labels": [
+        "Water",
+        " Gate"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:WaterGate",
+          "gloss": "Water Gate",
+          "description": "An eastern gate in Jerusalem where Ezra read the Law before the returned exiles (Nehemiah 8:1–3)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "32.9019862",
+      "lon": "21.9661184"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16012037",
+    "16008001",
+    "16008016",
+    "16003026"
+  ],
+  "references": [
+    "16003026",
+    "16008001",
+    "16008003",
+    "16008016",
+    "16012037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030260082"
+      ],
+      [
+        "o160080010112"
+      ],
+      [
+        "o160080030082"
+      ],
+      [
+        "o160080160162"
+      ],
+      [
+        "o160120370172"
+      ]
+    ]
+  }
+}

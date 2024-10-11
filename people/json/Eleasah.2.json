@@ -1,0 +1,73 @@
+{
+  "id": "person:Eleasah.2",
+  "primary_id": "person:Eleasah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4979|Eleasah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Eshek|Eleasah@1Ch.8.37-",
+      "Eleasah@1Ch.8.37-"
+    ],
+    "vizbible": [
+      "recroNMSfAJ6r7wwF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Binea",
+  "offspring": [
+    "person:Ulam.2",
+    "person:Jeush.3",
+    "person:Eliphelet.4"
+  ],
+  "siblings": [
+    "person:Raphah",
+    "person:Azel"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eleasah (1 Chronicles 8:37)",
+      "alternate_labels": [
+        "Eshek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eleasah (1 Chronicles 8:37)",
+          "article": "person:Eleasah.2",
+          "description": "Eleasah, also called Eshek, was a man of the tribe of Benjamin who lived during the time of the divided kingdom, mentioned in 1 Chronicles 8:37."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Eshek"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008037",
+    "13008039",
+    "13009043"
+  ],
+  "references": [
+    "13008037",
+    "13008039",
+    "13009043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080370071"
+      ],
+      [
+        "o130080390021"
+      ],
+      [
+        "o130090430071"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "person:Ammiel.3",
+  "primary_id": "person:Ammiel.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3559|Ammiel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005494001004000"
+    ],
+    "tipnr": [
+      "Ammiel@1Ch.26.5"
+    ],
+    "vizbible": [
+      "recruLaPEjAv4eqmX"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Obed-edom",
+  "siblings": [
+    "person:Shemaiah.9",
+    "person:Jehozabad.2",
+    "person:Joah.3",
+    "person:Sachar",
+    "person:Nethanel.5",
+    "person:Issachar.2",
+    "person:Peullethai"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005494001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ammiel (1 Chronicles 26:5)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ammiel (1 Chronicles 26:5)",
+          "article": "person:Ammiel.3",
+          "description": "A man of the tribe of Levi living during Israel's united kingdom, mentioned in 1 Chronicles 26:5, and son of Obed-edom with several brothers."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַמִּיהוּד"
+    ]
+  },
+  "key_references": [
+    "13026005"
+  ],
+  "references": [
+    "13026005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130260050011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130260080021"
+      ],
+      [
+        "o130260080061"
+      ]
+    ]
+  }
+}

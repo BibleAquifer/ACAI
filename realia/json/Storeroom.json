@@ -1,0 +1,64 @@
+{
+  "id": "realia:Storeroom",
+  "primary_id": "realia:Storeroom",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.32"
+    ],
+    "ubsrealia": [
+      "realia:3.12"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.32"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Storeroom",
+      "alternate_labels": [
+        "Treasure Room"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Storeroom",
+          "article": "realia:Storeroom",
+          "description": "A room used for storing valuables."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "θησαυρός",
+      "ταμεῖον"
+    ]
+  },
+  "key_references": [
+    "40013052",
+    "42006045",
+    "42012024"
+  ],
+  "references": [
+    "40013052",
+    "42006045",
+    "42012024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40013052022"
+      ],
+      [
+        "n42006045007"
+      ],
+      [
+        "n42012024012"
+      ]
+    ]
+  }
+}

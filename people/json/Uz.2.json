@@ -1,0 +1,71 @@
+{
+  "id": "person:Uz.2",
+  "primary_id": "person:Uz.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8985|Uz (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005306001002000"
+    ],
+    "tipnr": [
+      "Uz@Gen.22.21"
+    ],
+    "vizbible": [
+      "recgmnMkaqehFaO02"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nahor.2",
+  "mother": "person:Milcah",
+  "siblings": [
+    "person:Buz",
+    "person:Kemuel",
+    "person:Chesed",
+    "person:Hazo",
+    "person:Pildash",
+    "person:Jidlaph",
+    "person:Bethuel",
+    "person:Tebah",
+    "person:Gaham",
+    "person:Tahash",
+    "person:Maacah"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "005306001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uz (Genesis 22:21)",
+      "alternate_labels": [
+        "Buz",
+        "Huz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uz (Genesis 22:21)",
+          "article": "person:Uz.2",
+          "description": "Uz, also known as Huz or Buz, was a man living during the time of the patriarchs, mentioned in Genesis 22:21, and was the son of Nahor and Milcah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01022021"
+  ],
+  "references": [
+    "01022021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010220210021"
+      ]
+    ]
+  }
+}

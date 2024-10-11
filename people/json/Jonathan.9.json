@@ -1,0 +1,63 @@
+{
+  "id": "person:Jonathan.9",
+  "primary_id": "person:Jonathan.9",
+  "alternate_sources": {
+    "aquifer": [
+      "6432|Jonathan|TyndaleBibleDictionary",
+      "26772|Jonathan|UWTranslationWords",
+      "132403|Jonathan|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002832001012000"
+    ],
+    "tipnr": [
+      "Jonathan@Ezr.8.6"
+    ],
+    "vizbible": [
+      "reczRXG8IwWP8gkgC"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ebed.2"
+  ],
+  "ubsdbh": [
+    "002832001012000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jonathan (Ezra 8:6)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jonathan (Ezra 8:6)",
+          "article": "person:Jonathan.9",
+          "description": "A man living during the time of the exile and return, father of Ebed, mentioned in Ezra 8:6."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹונָתָן",
+      "יוֹנָתָן",
+      "יְהוֹנָתָן"
+    ]
+  },
+  "key_references": [
+    "15008006"
+  ],
+  "references": [
+    "15008006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150080060051"
+      ]
+    ]
+  }
+}

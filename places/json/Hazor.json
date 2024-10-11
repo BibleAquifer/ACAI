@@ -1,0 +1,143 @@
+{
+  "id": "place:Hazor",
+  "primary_id": "place:Hazor",
+  "alternate_sources": {
+    "aquifer": [
+      "5742|Hazor|TyndaleBibleDictionary"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/779967430"
+    ],
+    "tipnr": [
+      "Hezron|Hazor@Jos.11.1-2Ki",
+      "Hazor@Jos.11.1-2Ki"
+    ],
+    "vizbible": [
+      "recCFbPoMSDmIyxXM"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazor (of Galilee)",
+      "alternate_labels": [
+        "Hezron",
+        "Hazor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hazor.1",
+          "gloss": "Hazor (of Galilee)",
+          "description": "A fortified town in Galilee."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Hezron"
+  ],
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.017182",
+      "lon": "35.56804857"
+    },
+    "recogito": {
+      "lat": "33.01746212803129",
+      "lon": "35.56813718"
+    },
+    "vizbible": {
+      "lat": "33.01746212803129",
+      "lon": "35.56813718"
+    }
+  },
+  "key_references": [
+    "06011011",
+    "06011010",
+    "11009015"
+  ],
+  "references": [
+    "06011001",
+    "06011010",
+    "06011011",
+    "06011013",
+    "06012019",
+    "06015003",
+    "06019036",
+    "07004002",
+    "07004017",
+    "09012009",
+    "11009015",
+    "12015029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110010051"
+      ],
+      [
+        "o060110100071"
+      ],
+      [
+        "o060110100131"
+      ],
+      [
+        "o060110110151"
+      ],
+      [
+        "o060110130121"
+      ],
+      [
+        "o060120190051"
+      ],
+      [
+        "o060150030131"
+      ],
+      [
+        "o060190360032"
+      ],
+      [
+        "o070040020092"
+      ],
+      [
+        "o070040170151"
+      ],
+      [
+        "o090120090111"
+      ],
+      [
+        "o110090150201"
+      ],
+      [
+        "o120150290221"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060110100151"
+      ]
+    ]
+  }
+}

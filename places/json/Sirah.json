@@ -1,0 +1,78 @@
+{
+  "id": "place:Sirah",
+  "primary_id": "place:Sirah",
+  "alternate_sources": {
+    "aquifer": [
+      "8527|Sirah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a63b8c7"
+    ],
+    "tipnr": [
+      "Sirah@2Sa.3.26",
+      "Cistern of Sirah|Sirah@2Sa.3.26"
+    ],
+    "vizbible": [
+      "recRCJqt4I4sIxtSk"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sirah",
+      "alternate_labels": [
+        "cistern of Sirah",
+        "Bor Hasirah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sirah",
+          "gloss": "Sirah",
+          "description": "A pit or cistern located not far from Hebron from where Abner was asked to return to Hebron by messengers from Joab."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Cistern of sirah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "well"
+    ],
+    "acai": [
+      "well"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.55",
+      "lon": "35.1"
+    },
+    "vizbible": {
+      "lat": "31.55",
+      "lon": "35.1"
+    }
+  },
+  "key_references": [
+    "10003026"
+  ],
+  "references": [
+    "10003026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100030260112",
+        "o100030260121"
+      ]
+    ]
+  }
+}

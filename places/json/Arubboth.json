@@ -1,0 +1,82 @@
+{
+  "id": "place:Arubboth",
+  "primary_id": "place:Arubboth",
+  "alternate_sources": {
+    "aquifer": [
+      "3771|Arubboth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000647001001000"
+    ],
+    "tipnr": [
+      "Arubboth@1Ki.4.10"
+    ],
+    "vizbible": [
+      "recpcRQjrSxfIULgY"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000647001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arubboth",
+      "alternate_labels": [
+        "Aruboth",
+        "Arubbot"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Arubboth",
+          "gloss": "Arubboth",
+          "description": "A town in Sharon where Ben-Hasad, one of Solomon's twelve governors, lived (1 Kings 4:10)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲרֻבֹּות",
+      "אֲרֻבּוֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.68123465358001",
+      "lon": "34.97639817516712"
+    },
+    "vizbible": {
+      "lat": "31.68123465358001",
+      "lon": "34.97639817516712"
+    }
+  },
+  "key_references": [
+    "11004010"
+  ],
+  "references": [
+    "11004010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040100032"
+      ]
+    ]
+  }
+}

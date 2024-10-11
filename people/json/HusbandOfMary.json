@@ -1,0 +1,44 @@
+{
+  "id": "person:HusbandOfMary",
+  "primary_id": "person:HusbandOfMary",
+  "alternate_sources": {
+    "tipnr": [
+      "husband_of_Mary@Act.12.12"
+    ],
+    "vizbible": [
+      "rec8Z7vWWsitSvAKJ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Mary.5"
+  ],
+  "offspring": [
+    "person:Mark"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Husband of Mary",
+      "alternate_labels": [
+        "Mary"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Husband of Mary",
+          "article": "person:HusbandOfMary",
+          "description": "The unnamed husband of Mary and father of Mark, who lived during the New Testament period."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44012012"
+  ],
+  "references": [
+    "44012012"
+  ]
+}

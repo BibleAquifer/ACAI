@@ -1,0 +1,63 @@
+{
+  "id": "person:Tokhath",
+  "primary_id": "person:Tikvah",
+  "alternate_sources": {
+    "aquifer": [
+      "8887|Tokhath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007908001001000"
+    ],
+    "tipnr": [
+      "Tokhath|Tikvah@2Ki.22.14-2Ch"
+    ],
+    "vizbible": [
+      "recEL7n9bErm6Y75Q"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Harhas",
+  "offspring": [
+    "person:Shallum.3"
+  ],
+  "ubsdbh": [
+    "007908001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tokhath (Tikvah)",
+      "alternate_labels": [
+        "Tokahath",
+        "Tikvah",
+        "Tikvath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tikvah",
+          "article": "person:Tokhath",
+          "description": "Tokhath, also known as Tikvah or Tokahath, was a man living during the time of the divided kingdom, son of Harhas and father of Shallum, first mentioned in 2 Kings 22:14."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Tikvah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "14034022"
+  ],
+  "references": [
+    "14034022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140340220121"
+      ]
+    ]
+  }
+}

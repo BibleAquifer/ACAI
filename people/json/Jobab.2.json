@@ -1,0 +1,76 @@
+{
+  "id": "person:Jobab.2",
+  "primary_id": "person:Jobab.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6393|Jobab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002849001002000"
+    ],
+    "tipnr": [
+      "Jobab@Gen.36.33-1Ch"
+    ],
+    "vizbible": [
+      "recTteg8e7OkMu4CN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zerah.2",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "002849001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jobab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jobab",
+          "article": "person:Jobab.2",
+          "description": "An Edomite king and son of Zerah of Bozrah, living at the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹובָב",
+      "יוֹבָב"
+    ]
+  },
+  "key_references": [
+    "01036033",
+    "01036034",
+    "13001044"
+  ],
+  "references": [
+    "01036033",
+    "01036034",
+    "13001044",
+    "13001045"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360330051"
+      ],
+      [
+        "o010360340021"
+      ],
+      [
+        "o130010440051"
+      ],
+      [
+        "o130010450021"
+      ]
+    ]
+  }
+}

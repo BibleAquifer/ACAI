@@ -1,0 +1,69 @@
+{
+  "id": "person:Obal",
+  "primary_id": "person:Obal",
+  "alternate_sources": {
+    "aquifer": [
+      "7451|Obal|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Obal@Gen.10.28-1Ch"
+    ],
+    "vizbible": [
+      "recdGgplGOiPIePNO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joktan",
+  "siblings": [
+    "person:Almodad",
+    "person:Sheleph",
+    "person:Hazarmaveth",
+    "person:Jerah",
+    "person:Hadoram.2",
+    "person:Uzal",
+    "person:Diklah",
+    "person:Abimael",
+    "person:Sheba.2",
+    "person:Ophir",
+    "person:Havilah.2",
+    "person:Jobab"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Obal",
+      "alternate_labels": [
+        "Ebal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Obal",
+          "article": "person:Obal",
+          "description": "Obal, also known as Ebal, was a man living at the time of the patriarchs and a son of Joktan, first mentioned in Genesis 10:28."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010028",
+    "13001022"
+  ],
+  "references": [
+    "01010028",
+    "13001022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100280021"
+      ],
+      [
+        "o130010220021"
+      ]
+    ]
+  }
+}

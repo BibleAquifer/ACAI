@@ -1,0 +1,100 @@
+{
+  "id": "place:Gaash",
+  "primary_id": "place:Gaash",
+  "alternate_sources": {
+    "aquifer": [
+      "5327|Gaash|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001474001001000"
+    ],
+    "tipnr": [
+      "Gaash@Jos.24.30-1Ch"
+    ],
+    "vizbible": [
+      "recYPNmOaWy8gnCa8"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001474001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gaash",
+      "alternate_labels": [
+        "Nahale-gaash",
+        "Mount Gaash"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gaash",
+          "gloss": "Gaash",
+          "description": "A mountainous region in the hill country of Ephraim"
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גַּעַשׁ",
+      "גַּ֫עַשׁ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "mountain",
+      "special"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.121473",
+      "lon": "35.150392"
+    },
+    "vizbible": {
+      "lat": "32.121473",
+      "lon": "35.150392"
+    }
+  },
+  "key_references": [
+    "06024030",
+    "07002009"
+  ],
+  "references": [
+    "06024030",
+    "07002009",
+    "10023030",
+    "13011032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060240300121"
+      ],
+      [
+        "o070020090111"
+      ],
+      [
+        "o100230300051"
+      ],
+      [
+        "o130110320031"
+      ]
+    ]
+  }
+}

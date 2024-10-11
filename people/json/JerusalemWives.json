@@ -1,0 +1,48 @@
+{
+  "id": "person:JerusalemWives",
+  "primary_id": "person:JerusalemWives",
+  "alternate_sources": {
+    "tipnr": [
+      "Jerusalem_wives@2Sa.5.13"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:David"
+  ],
+  "offspring": [
+    "person:Eliada",
+    "person:Eliphelet",
+    "person:Elpelet",
+    "person:Elishama.2",
+    "person:Elishua",
+    "person:Ibhar",
+    "person:Japhia.2",
+    "person:Jerimoth.6",
+    "person:Nepheg.2",
+    "person:Nogah"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jerusalem Wives",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jerusalem Wives",
+          "article": "person:JerusalemWives",
+          "description": "The wives of King David during Israel's united kingdom and mothers to several of his children including Eliada, Eliphalet, Elpelet, Elishama, Elishua, Ibhar, Japhia, Jerimoth, Nepheg, and Nogah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10005013"
+  ],
+  "references": [
+    "10005013"
+  ]
+}

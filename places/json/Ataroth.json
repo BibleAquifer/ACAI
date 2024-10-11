@@ -1,0 +1,93 @@
+{
+  "id": "place:Ataroth",
+  "primary_id": "place:Ataroth",
+  "alternate_sources": {
+    "aquifer": [
+      "3856|Ataroth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005371001001000"
+    ],
+    "tipnr": [
+      "Ataroth@Num.32.3"
+    ],
+    "vizbible": [
+      "recc5zT9liYdJJXPl"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005371001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ataroth (of Gad)",
+      "alternate_labels": [
+        "Ataroth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ataroth.1",
+          "gloss": "Ataroth (of Gad)",
+          "description": "A town in the territory of Gad, east of the Jordan River, which was captured from Sihon, king of Heshbon, and Og, king of Bashan."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Gad",
+  "subregion_of": [
+    "place:TerritoryOfGad"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עַטְרֹות אַדָּר",
+      "עַטְרוֹת אַדָּר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.6",
+      "lon": "35.7"
+    },
+    "vizbible": {
+      "lat": "31.6",
+      "lon": "35.7"
+    }
+  },
+  "key_references": [
+    "04032034",
+    "04032003"
+  ],
+  "references": [
+    "04032003",
+    "04032034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320030011"
+      ],
+      [
+        "o040320340071"
+      ]
+    ]
+  }
+}

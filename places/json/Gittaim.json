@@ -1,0 +1,91 @@
+{
+  "id": "place:Gittaim",
+  "primary_id": "place:Gittaim",
+  "alternate_sources": {
+    "aquifer": [
+      "5480|Gittaim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001529001001000"
+    ],
+    "tipnr": [
+      "Gittaim@2Sa.4.3-Neh"
+    ],
+    "vizbible": [
+      "recvmofXlg5CYLCZp"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001529001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gittaim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gittaim",
+          "gloss": "Gittaim",
+          "description": "A town in the territory of Benjamin, where the Beerothites found refuge (2 Samuel 4:2–3)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גִּתַּיִם",
+      "גִּתָּ֑יִם",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.963575",
+      "lon": "34.952536"
+    },
+    "vizbible": {
+      "lat": "31.963575",
+      "lon": "34.952536"
+    }
+  },
+  "key_references": [
+    "10004003",
+    "16011033"
+  ],
+  "references": [
+    "10004003",
+    "16011033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100040030031"
+      ],
+      [
+        "o160110330031"
+      ]
+    ]
+  }
+}

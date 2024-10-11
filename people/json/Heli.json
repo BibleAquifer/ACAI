@@ -1,0 +1,61 @@
+{
+  "id": "person:Heli",
+  "primary_id": "person:Heli",
+  "alternate_sources": {
+    "aquifer": [
+      "5783|Heli|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.141"
+    ],
+    "tipnr": [
+      "Heli@Luk.3.23"
+    ],
+    "vizbible": [
+      "recCXcEcDhygNzJY8"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Matthat",
+  "offspring": [
+    "person:Mary"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.141"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heli",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Heli",
+          "article": "person:Heli",
+          "description": "Son of Matthat and the father of Joseph, Mary's husband, in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἠλί"
+    ]
+  },
+  "key_references": [
+    "42003023"
+  ],
+  "references": [
+    "42003023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003023015"
+      ]
+    ]
+  }
+}

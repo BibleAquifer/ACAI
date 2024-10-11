@@ -1,0 +1,118 @@
+{
+  "id": "person:Hebron",
+  "primary_id": "person:Hebron",
+  "alternate_sources": {
+    "aquifer": [
+      "5761|Hebron (Person)|TyndaleBibleDictionary",
+      "26685|Hebron|UWTranslationWords",
+      "341012|hebron|FIAKeyTerms"
+    ],
+    "tipnr": [
+      "Hebron@Exo.6.18-1Ch"
+    ],
+    "vizbible": [
+      "recx7usC4ShQ2PH7M"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kohath",
+  "offspring": [
+    "person:Jeriah",
+    "person:Amariah.3",
+    "person:Jahaziel.3",
+    "person:Jekameam"
+  ],
+  "siblings": [
+    "person:Amram",
+    "person:Izhar",
+    "person:Uzziel"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hebron",
+      "alternate_labels": [
+        "Hebronite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hebron",
+          "article": "person:Hebron",
+          "description": "A Levite and son of Kohath who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites He was founder of the Hebronites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Hebron"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006018",
+    "04003019",
+    "13023012"
+  ],
+  "references": [
+    "02006018",
+    "04003019",
+    "04003027",
+    "04026058",
+    "13005028",
+    "13006003",
+    "13015009",
+    "13023012",
+    "13023019",
+    "13026023",
+    "13026030",
+    "13026031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060180052"
+      ],
+      [
+        "o040030190061"
+      ],
+      [
+        "o040030270072"
+      ],
+      [
+        "o040260580072"
+      ],
+      [
+        "o130050280052"
+      ],
+      [
+        "o130060030052"
+      ],
+      [
+        "o130150090021"
+      ],
+      [
+        "o130230120051"
+      ],
+      [
+        "o130230190021"
+      ],
+      [
+        "o130260230032"
+      ],
+      [
+        "o130260300012"
+      ],
+      [
+        "o130260310012"
+      ],
+      [
+        "o130260310042"
+      ]
+    ]
+  }
+}

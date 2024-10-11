@@ -1,0 +1,145 @@
+{
+  "id": "person:Hadadezer",
+  "primary_id": "person:Hadadezer",
+  "alternate_sources": {
+    "aquifer": [
+      "5567|Hadadezer|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hadadezer@2Sa.8.3-1Ch"
+    ],
+    "vizbible": [
+      "recJJvhT6TbC84d4p"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Rehob",
+  "roles": [
+    "King",
+    "Military Commander"
+  ],
+  "tribe": "group:Syria",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadadezer",
+      "alternate_labels": [
+        "Hadarezer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hadadezer",
+          "article": "person:Hadadezer",
+          "description": "A king of Zobah and son of Rehob, who lived during the time of Israel’s united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10008003",
+    "13018003"
+  ],
+  "references": [
+    "10008003",
+    "10008005",
+    "10008007",
+    "10008008",
+    "10008009",
+    "10008010",
+    "10008012",
+    "10010016",
+    "10010019",
+    "11011023",
+    "13018003",
+    "13018005",
+    "13018007",
+    "13018008",
+    "13018009",
+    "13018010",
+    "13019016",
+    "13019019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080030041"
+      ],
+      [
+        "o100080050052"
+      ],
+      [
+        "o100080070101"
+      ],
+      [
+        "o100080080041"
+      ],
+      [
+        "o100080090111"
+      ],
+      [
+        "o100080100162"
+      ],
+      [
+        "o100080100231"
+      ],
+      [
+        "o100080120081"
+      ],
+      [
+        "o100100160021"
+      ],
+      [
+        "o100100160141"
+      ],
+      [
+        "o100100190051"
+      ],
+      [
+        "o110110230121"
+      ],
+      [
+        "o130180030041"
+      ],
+      [
+        "o130180050052"
+      ],
+      [
+        "o130180070101"
+      ],
+      [
+        "o130180080041"
+      ],
+      [
+        "o130180090111"
+      ],
+      [
+        "o130180100162"
+      ],
+      [
+        "o130180100231"
+      ],
+      [
+        "o130190160181"
+      ],
+      [
+        "o130190190031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100080030102"
+      ],
+      [
+        "o100100160032"
+      ],
+      [
+        "o130180030092"
+      ]
+    ]
+  }
+}

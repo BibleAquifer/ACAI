@@ -1,0 +1,81 @@
+{
+  "id": "person:Bidkar",
+  "primary_id": "person:Bidkar",
+  "alternate_sources": {
+    "aquifer": [
+      "4233|Bidkar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000855001001000"
+    ],
+    "tipnr": [
+      "Bidkar@2Ki.9.25"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Warrior"
+  ],
+  "ubsdbh": [
+    "000855001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bidkar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bidkar",
+          "article": "person:Bidkar",
+          "description": "A chariot officer of King Jehu during the divided kingdom, mentioned in 2 Kings 9:25."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בִּדְקַר"
+    ]
+  },
+  "key_references": [
+    "12009025"
+  ],
+  "references": [
+    "12009025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120090250031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o120090250152"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120090250061",
+        "o120090250071"
+      ],
+      [
+        "o120090250131"
+      ],
+      [
+        "o120090250171"
+      ],
+      [
+        "o120090260201",
+        "o120090260211"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "person:Hori",
+  "primary_id": "person:Hori",
+  "alternate_sources": {
+    "aquifer": [
+      "5904|Hori|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hori@Gen.36.22-1Ch"
+    ],
+    "vizbible": [
+      "recbM49PlDElnGlEe"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Lotan",
+  "siblings": [
+    "person:Hemam"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hori",
+      "alternate_labels": [
+        "Horite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hori",
+          "article": "person:Hori",
+          "description": "A son of Lotan and brother of Hemam, who lived during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Hori"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036020",
+    "01036022",
+    "05002012"
+  ],
+  "references": [
+    "01014006",
+    "01036020",
+    "01036021",
+    "01036022",
+    "01036029",
+    "01036030",
+    "05002012",
+    "05002022",
+    "13001039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140060022"
+      ],
+      [
+        "o010360200042"
+      ],
+      [
+        "o010360210062"
+      ],
+      [
+        "o010360220041"
+      ],
+      [
+        "o010360290032"
+      ],
+      [
+        "o010360300092"
+      ],
+      [
+        "o050020120032"
+      ],
+      [
+        "o050020220102"
+      ],
+      [
+        "o130010390031"
+      ]
+    ]
+  }
+}

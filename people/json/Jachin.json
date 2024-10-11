@@ -1,0 +1,86 @@
+{
+  "id": "person:Jachin",
+  "primary_id": "person:Jachin",
+  "alternate_sources": {
+    "aquifer": [
+      "6157|Jachin|TyndaleBibleDictionary",
+      "6155|Jachin and Boaz|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jachin@Gen.46.10-1Ch",
+      "Jarib|Jachin@Gen.46.10-1Ch"
+    ],
+    "vizbible": [
+      "recq1vMzVPAJ0J2tk"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simeon.5",
+  "mother": "person:AWifeOfSimeon",
+  "siblings": [
+    "person:Jemuel",
+    "person:Jamin",
+    "person:Ohad",
+    "person:Zerah.6",
+    "person:Shaul.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Simeon",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jachin",
+      "alternate_labels": [
+        "Jarib",
+        "Jachinite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jachin",
+          "article": "person:Jachin",
+          "description": "A son of the patriarch Simeon who lived during the time of Egyptian slavery and the wilderness wandering of the Israelites. He was the founder of the clan of the Jachinites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Jachin",
+    "person:Jarib"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046010",
+    "02006015",
+    "04026012"
+  ],
+  "references": [
+    "01046010",
+    "02006015",
+    "04026012",
+    "13004024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460100062"
+      ],
+      [
+        "o020060150062"
+      ],
+      [
+        "o040260120102"
+      ],
+      [
+        "o040260120122"
+      ],
+      [
+        "o130040240051"
+      ]
+    ]
+  }
+}

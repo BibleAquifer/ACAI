@@ -1,0 +1,121 @@
+{
+  "id": "person:Simon.9",
+  "primary_id": "person:Simon.9",
+  "alternate_sources": {
+    "aquifer": [
+      "6860|Magus, Simon|TyndaleBibleDictionary",
+      "8511|Simon|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.341g",
+      "93.341f",
+      "93.341a 93.341f",
+      "93.341a"
+    ],
+    "tipnr": [
+      "Simon@Act.8.13-"
+    ],
+    "vizbible": [
+      "recTa6EpjvdBbC1Uk"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.341g",
+    "93.341f",
+    "93.341a 93.341f",
+    "93.341a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Simon",
+      "alternate_labels": [
+        "Simon the Tanner"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Simon",
+          "article": "person:Simon.9",
+          "description": "A tanner living in Joppa during the New Testament times where the apostle Peter had a vision."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σίμων"
+    ]
+  },
+  "key_references": [
+    "44009043",
+    "44010006",
+    "44010032"
+  ],
+  "references": [
+    "44008013",
+    "44009043",
+    "44010006",
+    "44010017",
+    "44010032"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44008013003"
+      ],
+      [
+        "n44009043010"
+      ],
+      [
+        "n44010006005"
+      ],
+      [
+        "n44010017027"
+      ],
+      [
+        "n44010032007"
+      ],
+      [
+        "n44010032015"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44008013005"
+      ],
+      [
+        "n44010006007"
+      ],
+      [
+        "n44010032008"
+      ],
+      [
+        "n44010032011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44008013008",
+        "n44008013009",
+        "n44008013010"
+      ],
+      [
+        "n44008013013"
+      ],
+      [
+        "n44008013020"
+      ],
+      [
+        "n44011011012"
+      ]
+    ]
+  }
+}

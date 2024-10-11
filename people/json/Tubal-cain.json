@@ -1,0 +1,71 @@
+{
+  "id": "person:Tubal-cain",
+  "primary_id": "person:Tubal-cain",
+  "alternate_sources": {
+    "aquifer": [
+      "8938|Tubal-Cain|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007730001001000"
+    ],
+    "tipnr": [
+      "Tubal-cain@Gen.4.22"
+    ],
+    "vizbible": [
+      "recoQd6Yn0SynMgUs"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Lamech",
+  "mother": "person:Zillah",
+  "siblings": [
+    "person:Jabal",
+    "person:Jubal",
+    "person:Naamah.2"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "007730001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tubal-cain",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tubal-Cain",
+          "article": "person:Tubal-cain",
+          "description": "Tubal-cain was a man living during the time of the patriarchs, a son of Lamech and Zillah, and is first mentioned in Genesis 4:22."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01004022"
+  ],
+  "references": [
+    "01004022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040220061",
+        "o010040220071"
+      ],
+      [
+        "o010040220141",
+        "o010040220151"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010040220081"
+      ]
+    ]
+  }
+}

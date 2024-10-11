@@ -1,0 +1,62 @@
+{
+  "id": "person:Darda",
+  "primary_id": "person:Darda",
+  "alternate_sources": {
+    "aquifer": [
+      "4755|Dara, Darda|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001713001001000"
+    ],
+    "tipnr": [
+      "Darda@1Ki.4.31"
+    ],
+    "vizbible": [
+      "recEUs7TIVvT8hUnj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mahol",
+  "siblings": [
+    "person:Ethan",
+    "person:Heman",
+    "person:Calcol"
+  ],
+  "ubsdbh": [
+    "001713001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Darda",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Darda",
+          "article": "person:Darda",
+          "description": "Darda was a wise man living during Israel's united kingdom, son of Mahol, and mentioned in 1 Kings 4:31."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דַּרְדַּע"
+    ]
+  },
+  "key_references": [
+    "11005011"
+  ],
+  "references": [
+    "11005011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110050110082"
+      ]
+    ]
+  }
+}

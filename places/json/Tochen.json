@@ -1,0 +1,75 @@
+{
+  "id": "place:Tochen",
+  "primary_id": "place:Tochen",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007802002001000"
+    ],
+    "tipnr": [
+      "Tochen@1Ch.4.32"
+    ],
+    "vizbible": [
+      "rec3kU3cxeTCp8t2S"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007802002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tochen",
+      "alternate_labels": [
+        "Token"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tochen",
+          "gloss": "Tochen",
+          "description": "A village in the territory of Simeon."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    },
+    "vizbible": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    }
+  },
+  "key_references": [
+    "13004032"
+  ],
+  "references": [
+    "13004032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040320052"
+      ]
+    ]
+  }
+}

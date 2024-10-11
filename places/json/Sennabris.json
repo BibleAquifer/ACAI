@@ -1,0 +1,43 @@
+{
+  "id": "place:Sennabris",
+  "primary_id": "place:Sennabris",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sennabris",
+          "gloss": "Sennabris",
+          "description": "A settlement on the southern shore of the Sea of Galilee."
+        }
+      ],
+      "preferred_label": "Sennabris",
+      "alternate_labels": [
+        "Ginnabris",
+        "Al-Sinnabra",
+        "Sinn en-Nabra"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:GalileeSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.70986",
+      "lon": "35.56604"
+    }
+  }
+}

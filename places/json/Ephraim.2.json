@@ -1,0 +1,54 @@
+{
+  "id": "place:Ephraim.2",
+  "primary_id": "place:Ephraim.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5117|Ephraim (Place)|TyndaleBibleDictionary",
+      "5112|Ephraim, Forest of|TyndaleBibleDictionary",
+      "5113|Ephraim, Gate of|TyndaleBibleDictionary",
+      "5115|Ephraim, Mount|TyndaleBibleDictionary",
+      "5118|Ephraim, Tribe of|TyndaleBibleDictionary",
+      "26566|Ephraim|UWTranslationWords",
+      "132244|Ephraim|BiblicaStudyNotesKeyTerms"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ephraim.2",
+          "gloss": "Ephraim (near the Wilderness)",
+          "description": "A city of uncertain location near the wilderness, visited by Jesus."
+        }
+      ],
+      "preferred_label": "Ephraim (near the Wilderness)",
+      "alternate_labels": [
+        "Ephron",
+        "Ophrah"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Ephraim",
+    "place:Ophrah"
+  ],
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "key_references": [
+    "43011054"
+  ]
+}

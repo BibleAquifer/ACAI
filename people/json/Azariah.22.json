@@ -1,0 +1,140 @@
+{
+  "id": "person:Azariah.22",
+  "primary_id": "person:Uzziah",
+  "alternate_sources": {
+    "aquifer": [
+      "3902|Azariah|TyndaleBibleDictionary",
+      "3901|Azariah, Prayer of|TyndaleBibleDictionary",
+      "26354|Azariah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005358001003000"
+    ],
+    "tipnr": [
+      "Azariah|Uzziah@2Ki.14.21-Mat"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Amaziah",
+  "mother": "person:Jecoliah",
+  "partners": [
+    "person:Jerusha"
+  ],
+  "offspring": [
+    "person:Jotham.2"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005358001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azariah (Uzziah)",
+      "alternate_labels": [
+        "Uzziah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uzziah",
+          "article": "person:Azariah.22",
+          "description": "A king of Judah during the divided kingdom, also known as Uzziah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Uzziah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַזְרִיקָם"
+    ]
+  },
+  "key_references": [
+    "12015001",
+    "12015006",
+    "12015007",
+    "13003012",
+    "13026001",
+    "13026002",
+    "13026003"
+  ],
+  "references": [
+    "12014021",
+    "12015001",
+    "12015006",
+    "12015007",
+    "12015008",
+    "12015017",
+    "12015023",
+    "12015027",
+    "13003012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120140210061"
+      ],
+      [
+        "o120150010091"
+      ],
+      [
+        "o120150060031"
+      ],
+      [
+        "o120150070021"
+      ],
+      [
+        "o120150080052"
+      ],
+      [
+        "o120150170052"
+      ],
+      [
+        "o120150230042"
+      ],
+      [
+        "o120150270052"
+      ],
+      [
+        "o130030120031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o120140210072"
+      ],
+      [
+        "o120140220011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120140220052"
+      ],
+      [
+        "o120150020051"
+      ],
+      [
+        "o120150020101"
+      ],
+      [
+        "o120150030012"
+      ],
+      [
+        "o120150060061"
+      ]
+    ]
+  }
+}

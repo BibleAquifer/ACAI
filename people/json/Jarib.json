@@ -1,0 +1,69 @@
+{
+  "id": "person:Jarib",
+  "primary_id": "person:Jachin",
+  "alternate_sources": {
+    "aquifer": [
+      "6225|Jarib|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003110002001000"
+    ],
+    "tipnr": [
+      "Jarib|Jachin@Gen.46.10-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simeon.5",
+  "mother": "person:AWifeOfSimeon",
+  "siblings": [
+    "person:Jemuel",
+    "person:Jamin",
+    "person:Ohad",
+    "person:Zerah.6",
+    "person:Shaul.2"
+  ],
+  "tribe": "group:Simeon",
+  "ubsdbh": [
+    "003110002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jarib (Jachin)",
+      "alternate_labels": [
+        "Jachin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jachin",
+          "article": "person:Jarib",
+          "description": "A man of the tribe of Simeon, also known as Jachin, who lived during the time of Egypt and the wilderness, mentioned in Genesis 46:10 and 1 Chronicles 4:24."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jachin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָרִיב"
+    ]
+  },
+  "key_references": [
+    "13004024"
+  ],
+  "references": [
+    "13004024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040240051"
+      ]
+    ]
+  }
+}

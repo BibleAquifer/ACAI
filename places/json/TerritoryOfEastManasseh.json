@@ -1,0 +1,36 @@
+{
+  "id": "place:TerritoryOfEastManasseh",
+  "primary_id": "place:TerritoryOfEastManasseh",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TerritoryOfEastManasseh",
+          "gloss": "Territory of East Manasseh",
+          "description": "The land assigned to the tribe of Manasseh, east of the Jordan River."
+        }
+      ],
+      "preferred_label": "Territory of East Manasseh"
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfNaphtali",
+    "place:TerritoryOfGad"
+  ],
+  "subregion_of": [
+    "place:Israel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  }
+}

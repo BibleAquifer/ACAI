@@ -1,0 +1,83 @@
+{
+  "id": "place:Bileam",
+  "primary_id": "place:Ibleam",
+  "alternate_sources": {
+    "aquifer": [
+      "4239|Bileam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001030001002000"
+    ],
+    "tipnr": [
+      "Bileam|Ibleam@Jos.17.11-1Ch"
+    ],
+    "vizbible": [
+      "rec2ngjsU0Y8MN6Nx"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001030001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bileam",
+      "alternate_labels": [
+        "Ibleam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bileam",
+          "gloss": "Bileam",
+          "description": "A Levitical town in the territory of Manasseh, assigned to the clan of the Kohathites; probably to be identified with Ibleam. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ibleam"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בִּלְעָם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.45",
+      "lon": "35.2833"
+    },
+    "vizbible": {
+      "lat": "32.45",
+      "lon": "35.2833"
+    }
+  },
+  "key_references": [
+    "13006055"
+  ],
+  "references": [
+    "13006055"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060550091"
+      ]
+    ]
+  }
+}

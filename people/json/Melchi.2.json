@@ -1,0 +1,64 @@
+{
+  "id": "person:Melchi.2",
+  "primary_id": "person:Melchi.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7032|Melchi|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.260b"
+    ],
+    "tipnr": [
+      "Melchi@Luk.3.28"
+    ],
+    "vizbible": [
+      "recwtMY51eRtrcxh4"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Addi",
+  "offspring": [
+    "person:Neri"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.260b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Melchi (Son of Addi)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Melchi (Son of Addi)",
+          "article": "person:Melchi.2",
+          "description": "Son of Addi and the father of Neri in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Μελχί"
+    ]
+  },
+  "key_references": [
+    "42003028"
+  ],
+  "references": [
+    "42003028"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003028002"
+      ]
+    ]
+  }
+}

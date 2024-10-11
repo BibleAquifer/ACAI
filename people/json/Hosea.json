@@ -1,0 +1,85 @@
+{
+  "id": "person:Hosea",
+  "primary_id": "person:Hosea",
+  "alternate_sources": {
+    "aquifer": [
+      "5918|Hosea (Person)|TyndaleBibleDictionary",
+      "26710|Hosea|UWTranslationWords",
+      "132516|Hosea|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Hosea@Hos.1.1-Rom"
+    ],
+    "vizbible": [
+      "recYvCkt5KDp2pOCz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Beeri.2",
+  "partners": [
+    "person:Gomer.2"
+  ],
+  "offspring": [
+    "person:Jezreel.2",
+    "person:Lo-ruhamah",
+    "person:Lo-ammi"
+  ],
+  "roles": [
+    "Prophet"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hosea",
+      "alternate_labels": [
+        "Osee"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hosea",
+          "article": "person:Hosea",
+          "description": "Son of Beeri and prophet during the divided kingdom of Israel. Hosea was married to Gomer, and was the father of Jezreel, Lo-ruhamah, and Lo-ammi. A book of the Old Testament is named for him, and quoted in the New Testament."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "28001001",
+    "28001002",
+    "28001003",
+    "28001004",
+    "28001005",
+    "28001006",
+    "28001007",
+    "28001008",
+    "28001009",
+    "40002015",
+    "45009025"
+  ],
+  "references": [
+    "28001001",
+    "28001002",
+    "45009025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o280010010061"
+      ],
+      [
+        "o280010020042"
+      ],
+      [
+        "o280010020081"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n45009025005"
+      ]
+    ]
+  }
+}

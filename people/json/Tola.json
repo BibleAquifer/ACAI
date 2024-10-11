@@ -1,0 +1,91 @@
+{
+  "id": "person:Tola",
+  "primary_id": "person:Tola",
+  "alternate_sources": {
+    "aquifer": [
+      "8890|Tola|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Tola@Gen.46.13-1Ch"
+    ],
+    "vizbible": [
+      "rec09ciuLItlm8eWw"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Issachar",
+  "offspring": [
+    "person:Uzzi.2",
+    "person:Rephaiah.4",
+    "person:Jeriel",
+    "person:Jahmai",
+    "person:Ibsam",
+    "person:Shemuel.2"
+  ],
+  "siblings": [
+    "person:Puah",
+    "person:Jashub",
+    "person:Shimron"
+  ],
+  "roles": [
+    "Patriach",
+    "Leader"
+  ],
+  "tribe": "group:Issachar",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tola",
+      "alternate_labels": [
+        "Tolaite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tola",
+          "article": "person:Tola",
+          "description": "A son of the patriarch Issachar and father of: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel. He was founder of the Tolaite clan."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Tola"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046013",
+    "04026023",
+    "13007001",
+    "13007002"
+  ],
+  "references": [
+    "01046013",
+    "04026023",
+    "13007001",
+    "13007002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460130031"
+      ],
+      [
+        "o040260230041"
+      ],
+      [
+        "o040260230062"
+      ],
+      [
+        "o130070010031"
+      ],
+      [
+        "o130070020021"
+      ],
+      [
+        "o130070020122"
+      ]
+    ]
+  }
+}

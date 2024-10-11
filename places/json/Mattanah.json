@@ -1,0 +1,78 @@
+{
+  "id": "place:Mattanah",
+  "primary_id": "place:Mattanah",
+  "alternate_sources": {
+    "aquifer": [
+      "6978|Mattanah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004563002001000"
+    ],
+    "tipnr": [
+      "Mattanah@Num.21.18-"
+    ],
+    "vizbible": [
+      "recJKqmAaFTsAeBXT"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004563002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mattanah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mattanah",
+          "gloss": "Mattanah",
+          "description": "A location along the route of the exodus."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.718148",
+      "lon": "35.584826"
+    },
+    "vizbible": {
+      "lat": "31.718148",
+      "lon": "35.584826"
+    }
+  },
+  "key_references": [
+    "04021019",
+    "04021018"
+  ],
+  "references": [
+    "04021018",
+    "04021019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210180101"
+      ],
+      [
+        "o040210190013"
+      ]
+    ]
+  }
+}

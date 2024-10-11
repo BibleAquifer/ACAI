@@ -1,0 +1,85 @@
+{
+  "id": "place:BacaValley",
+  "primary_id": "place:BacaValley",
+  "alternate_sources": {
+    "obi": [
+      "a1f363e"
+    ],
+    "ubsdbh": [
+      "000981001001000 000981001002000"
+    ],
+    "tipnr": [
+      "Baca_Valley@Psa.84.6"
+    ],
+    "vizbible": [
+      "recI0bhf2ewWIHMRC"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000981001001000 000981001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Baca",
+      "alternate_labels": [
+        "Baca Valley",
+        "Valley of Weeping",
+        "Baka",
+        "Valley of Baka"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfBaca",
+          "gloss": "Valley of Baca",
+          "description": "An unknown location; the name may reflect the \"weeping (= dripping)\" of balsam trees."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "special",
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.769079",
+      "lon": "35.227994"
+    },
+    "vizbible": {
+      "lat": "31.769079",
+      "lon": "35.227994"
+    }
+  },
+  "key_references": [
+    "19084007"
+  ],
+  "references": [
+    "19084007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190840070022"
+      ],
+      [
+        "o190840070032"
+      ]
+    ]
+  }
+}

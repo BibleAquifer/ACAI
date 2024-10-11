@@ -1,0 +1,71 @@
+{
+  "id": "person:Ozem",
+  "primary_id": "person:Ozem",
+  "alternate_sources": {
+    "aquifer": [
+      "7541|Ozem|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000631001001000"
+    ],
+    "tipnr": [
+      "Ozem@1Ch.2.15"
+    ],
+    "vizbible": [
+      "rec7Ya7LHpMLEROdy"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jesse",
+  "mother": "person:Nahash.3",
+  "siblings": [
+    "person:David",
+    "person:Eliab.3",
+    "person:Abinadab.3",
+    "person:Shimeah.2",
+    "person:Nethanel.2",
+    "person:Raddai",
+    "person:Elihu.4",
+    "person:Zeruiah",
+    "person:Abigail.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000631001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ozem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ozem",
+          "article": "person:Ozem",
+          "description": "Ozem, a brother of King David and son of Jesse from the tribe of Judah, is mentioned in 1 Chronicles 2:15."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֹצֶם",
+      "אֹ֫צֶם"
+    ]
+  },
+  "key_references": [
+    "13002015"
+  ],
+  "references": [
+    "13002015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020150011"
+      ]
+    ]
+  }
+}

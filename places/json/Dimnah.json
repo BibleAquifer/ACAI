@@ -1,0 +1,101 @@
+{
+  "id": "place:Dimnah",
+  "primary_id": "place:Dimnah",
+  "alternate_sources": {
+    "aquifer": [
+      "4845|Dimnah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a971a54"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/285704"
+    ],
+    "tipnr": [
+      "Rimmon|Dimnah@Jos.21.35-1Ch",
+      "Rimmono|Dimnah@Jos.21.35-1Ch",
+      "Dimnah@Jos.21.35-1Ch"
+    ],
+    "vizbible": [
+      "recdj20FESzKensp3"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dimnah",
+      "alternate_labels": [
+        "Rimmono",
+        "Rimmon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dimnah",
+          "gloss": "Dimnah",
+          "description": "A Levitical town in the territory of Zebulun assigned to the clan of Merari."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Rimmon.2",
+    "place:Rimmono"
+  ],
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.781808",
+      "lon": "35.321364"
+    },
+    "recogito": {
+      "lat": "29.33389",
+      "lon": "48.07611"
+    },
+    "vizbible": {
+      "lat": "32.781808",
+      "lon": "35.321364"
+    }
+  },
+  "key_references": [
+    "06021035"
+  ],
+  "references": [
+    "06019013",
+    "06021035",
+    "13006062"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190130101"
+      ],
+      [
+        "o060210350021"
+      ],
+      [
+        "o130060620071"
+      ]
+    ]
+  }
+}

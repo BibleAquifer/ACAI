@@ -1,0 +1,145 @@
+{
+  "id": "person:Jerubbaal",
+  "primary_id": "person:Gideon",
+  "alternate_sources": {
+    "aquifer": [
+      "6328|Jerubbaal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003087001001000"
+    ],
+    "tipnr": [
+      "Jerubbaal|Gideon@Jdg.6.11-Heb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joash",
+  "offspring": [
+    "person:Jether.2",
+    "person:Abimelech.2",
+    "person:Jotham"
+  ],
+  "roles": [
+    "Judge"
+  ],
+  "ubsdbh": [
+    "003087001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jerubbaal (Gideon)",
+      "alternate_labels": [
+        "Gideon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gideon",
+          "article": "person:Jerubbaal",
+          "description": "A son of Joash the Abiezrite from the tribe of Manasseh, who served as a judge of Israel. He was father of Jether, Abimelech, and Jotham."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Gideon"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְרֻבַּעַל",
+      "יְרֻבַּ֫עַל"
+    ]
+  },
+  "key_references": [
+    "07006011",
+    "07006032",
+    "07008031",
+    "07009005",
+    "58011032",
+    "07009020"
+  ],
+  "references": [
+    "07006032",
+    "07007001",
+    "07008029",
+    "07008035",
+    "07009001",
+    "07009002",
+    "07009005",
+    "07009016",
+    "07009019",
+    "07009024",
+    "07009028",
+    "07009057",
+    "09012011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070060320051"
+      ],
+      [
+        "o070070010021"
+      ],
+      [
+        "o070080290021"
+      ],
+      [
+        "o070080350061"
+      ],
+      [
+        "o070090010041"
+      ],
+      [
+        "o070090020161"
+      ],
+      [
+        "o070090050091"
+      ],
+      [
+        "o070090050181"
+      ],
+      [
+        "o070090160131"
+      ],
+      [
+        "o070090190061"
+      ],
+      [
+        "o070090240051"
+      ],
+      [
+        "o070090280131"
+      ],
+      [
+        "o070090570141"
+      ],
+      [
+        "o090120110041"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o070070010031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070070010092"
+      ],
+      [
+        "o070080290052"
+      ],
+      [
+        "o070080350111"
+      ]
+    ]
+  }
+}

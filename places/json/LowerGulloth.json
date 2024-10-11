@@ -1,0 +1,36 @@
+{
+  "id": "place:LowerGulloth",
+  "primary_id": "place:LowerGulloth",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:LowerGulloth",
+          "gloss": "Lower Gulloth",
+          "description": "A spring given to Achsah by her father Caleb as a wedding gift."
+        }
+      ],
+      "preferred_label": "Lower Gulloth"
+    }
+  },
+  "nearby_places": [
+    "place:UpperGulloth"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "spring"
+    ]
+  },
+  "key_references": [
+    "06015019",
+    "07001015"
+  ]
+}

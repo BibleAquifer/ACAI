@@ -1,0 +1,61 @@
+{
+  "id": "person:Shammah.4",
+  "primary_id": "person:Shammah.4",
+  "alternate_sources": {
+    "aquifer": [
+      "8280|Shammah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shammah@2Sa.23.33-1Ch",
+      "Shagee|Shammah@2Sa.23.33-1Ch"
+    ],
+    "vizbible": [
+      "recLNJ1UfXgQ2cdJj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Jonathan.5"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shammah (2 Samuel 23:33)",
+      "alternate_labels": [
+        "Shage",
+        "Shagee"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shammah (2 Samuel 23:33)",
+          "article": "person:Shammah.4",
+          "description": "Shammah, also called Shagee or Shage, was a man during Israel's united kingdom and father of Jonathan, mentioned in 2 Samuel 23:33 and 1 Chronicles 11:34."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shagee"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023033",
+    "13011034"
+  ],
+  "references": [
+    "10023033",
+    "13011034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230330011"
+      ],
+      [
+        "o130110340061"
+      ]
+    ]
+  }
+}

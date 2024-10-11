@@ -1,0 +1,84 @@
+{
+  "id": "person:Joash.5",
+  "primary_id": "person:Joash.5",
+  "alternate_sources": {
+    "aquifer": [
+      "6391|Joash|TyndaleBibleDictionary",
+      "26765|Joash|UWTranslationWords",
+      "132437|Joash|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002817001005000"
+    ],
+    "tipnr": [
+      "Joash@1Ch.4.22"
+    ],
+    "vizbible": [
+      "recVpDXNnNMs5ffrx"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shelah",
+  "siblings": [
+    "person:Er.3",
+    "person:Laadah",
+    "person:Jokim",
+    "person:Saraph"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002817001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joash (1 Chronicles 4:22)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joash (1 Chronicles 4:22)",
+          "article": "person:Joash.5",
+          "description": "A man from the tribe of Judah living at the time of Egypt and the wilderness, mentioned in 1 Chronicles 4:22."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹואָשׁ",
+      "יוֹאָשׁ"
+    ]
+  },
+  "key_references": [
+    "13004022"
+  ],
+  "references": [
+    "13004022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040220042"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130040230011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130040220071"
+      ],
+      [
+        "o130040230091"
+      ]
+    ]
+  }
+}

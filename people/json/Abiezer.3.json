@@ -1,0 +1,64 @@
+{
+  "id": "person:Abiezer.3",
+  "primary_id": "person:Abiezer.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3294|Abiezer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000044001001000"
+    ],
+    "tipnr": [
+      "Abiezer@1Ch.7.18"
+    ],
+    "vizbible": [
+      "recQrxxlG9a7vmXh5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:HusbandOfHammolecheth",
+  "mother": "person:Hammolecheth",
+  "siblings": [
+    "person:Ishhod",
+    "person:Mahlah.2"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "000044001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abiezer (Son of Hammolecheth)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abiezer (Son of Hammolecheth)",
+          "article": "person:Abiezer.3",
+          "description": "A man from the tribe of Manasseh and son of Hammolecheth, mentioned in 1 Chronicles 7:18."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִיעֶזֶר",
+      "אֲבִיעֶ֫זֶר"
+    ]
+  },
+  "key_references": [
+    "13007018"
+  ],
+  "references": [
+    "13007018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070180071"
+      ]
+    ]
+  }
+}

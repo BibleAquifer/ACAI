@@ -1,0 +1,73 @@
+{
+  "id": "person:Shimei.13",
+  "primary_id": "person:Shimei.13",
+  "alternate_sources": {
+    "aquifer": [
+      "8407|Shimei|TyndaleBibleDictionary",
+      "27087|Shimei|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007485001014000"
+    ],
+    "tipnr": [
+      "Shimei@2Ch.29.14"
+    ],
+    "vizbible": [
+      "rec5ZDEZDQYcODBDM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Heman.3",
+  "siblings": [
+    "person:Jehuel"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "007485001014000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shimei (2 Chronicles 29:14)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shimei (2 Chronicles 29:14)",
+          "article": "person:Shimei.13",
+          "description": "Shimei, a Levite mentioned in 2 Chronicles 29:14, was the son of Heman and brother of Jehuel, living during the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "14029014"
+  ],
+  "references": [
+    "14029014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140290140062"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140290150012"
+      ],
+      [
+        "o140290150042"
+      ],
+      [
+        "o140290150052"
+      ],
+      [
+        "o140290150102"
+      ]
+    ]
+  }
+}

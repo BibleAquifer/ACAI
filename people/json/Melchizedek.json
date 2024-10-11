@@ -1,0 +1,177 @@
+{
+  "id": "person:Melchizedek",
+  "primary_id": "person:Melchizedek",
+  "alternate_sources": {
+    "aquifer": [
+      "7031|Melchizedek|TyndaleBibleDictionary",
+      "26866|Melchizedek|UWTranslationWords",
+      "132198|Melchizedek|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Melchizedek@Gen.14.18-Heb"
+    ],
+    "vizbible": [
+      "recV4oVk0yumm0aol"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "High Priest",
+    "King"
+  ],
+  "tribe": "group:Canaan",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Melchizedek",
+      "alternate_labels": [
+        "Melchisedec"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Melchizedek",
+          "article": "person:Melchizedek",
+          "description": "A priest and king of Salem who lived during the time of the the patriarch Abraham."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01014018",
+    "19110004",
+    "58007001"
+  ],
+  "references": [
+    "01014018",
+    "19110004",
+    "58005006",
+    "58005010",
+    "58006020",
+    "58007001",
+    "58007010",
+    "58007011",
+    "58007015",
+    "58007017",
+    "58007021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140180012",
+        "o010140180021"
+      ],
+      [
+        "o191100040101",
+        "o191100040111"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n58005006014"
+      ],
+      [
+        "n58005010009"
+      ],
+      [
+        "n58006020010"
+      ],
+      [
+        "n58007001004"
+      ],
+      [
+        "n58007010012"
+      ],
+      [
+        "n58007011022"
+      ],
+      [
+        "n58007015010"
+      ],
+      [
+        "n58007017012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140180082"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n58005011002"
+      ],
+      [
+        "n58007002001"
+      ],
+      [
+        "n58007004004",
+        "n58007004005"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010140190012"
+      ],
+      [
+        "o010140190022"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n58007001013"
+      ],
+      [
+        "n58007001022"
+      ],
+      [
+        "n58007002010"
+      ],
+      [
+        "n58007003010",
+        "n58007003011"
+      ],
+      [
+        "n58007003017"
+      ],
+      [
+        "n58007006004"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010140190031",
+          "o010140190041",
+          "o010140190051",
+          "o010140190052",
+          "o010140190061",
+          "o010140190071",
+          "o010140190081",
+          "o010140190091",
+          "o010140190092",
+          "o010140200011",
+          "o010140200012",
+          "o010140200021",
+          "o010140200031",
+          "o010140200041",
+          "o010140200051",
+          "o010140200061",
+          "o010140200062",
+          "o010140200071",
+          "o010140200072",
+          "o010140200073"
+        ]
+      }
+    ]
+  }
+}

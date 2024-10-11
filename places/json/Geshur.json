@@ -1,0 +1,153 @@
+{
+  "id": "place:Geshur",
+  "primary_id": "place:Geshur",
+  "alternate_sources": {
+    "aquifer": [
+      "5435|Geshur, Geshurites|TyndaleBibleDictionary",
+      "26633|Geshur|UWTranslationWords"
+    ],
+    "obi": [
+      "af6c325"
+    ],
+    "tipnr": [
+      "Geshur@Jos.13.13-1Ch"
+    ],
+    "vizbible": [
+      "recLcEDJ7slqAoeKw"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2669839"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Geshur",
+      "alternate_labels": [
+        "Geshurite",
+        "Geshurites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Geshur",
+          "gloss": "Geshur",
+          "description": "A kingdom located between Gilead, Bashan, and Mount Hermon (ABD)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Geshur"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33",
+      "lon": "36.41667"
+    },
+    "vizbible": {
+      "lat": "33",
+      "lon": "36.41667"
+    }
+  },
+  "key_references": [
+    "10013003",
+    "10013037"
+  ],
+  "references": [
+    "05003014",
+    "06012005",
+    "06013002",
+    "06013011",
+    "06013013",
+    "09027008",
+    "10003003",
+    "10013037",
+    "10013038",
+    "10014023",
+    "10014032",
+    "10015008",
+    "13002023",
+    "13003002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050030140112"
+      ],
+      [
+        "o060120050092"
+      ],
+      [
+        "o060130020082"
+      ],
+      [
+        "o060130110032"
+      ],
+      [
+        "o060130130062"
+      ],
+      [
+        "o060130130101"
+      ],
+      [
+        "o090270080062"
+      ],
+      [
+        "o100030030151"
+      ],
+      [
+        "o100130370101"
+      ],
+      [
+        "o100130380041"
+      ],
+      [
+        "o100140230041"
+      ],
+      [
+        "o100140320182"
+      ],
+      [
+        "o100150080062"
+      ],
+      [
+        "o130020230021"
+      ],
+      [
+        "o130030020081"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090270080111"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090270080121"
+      ]
+    ]
+  }
+}

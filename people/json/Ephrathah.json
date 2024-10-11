@@ -1,0 +1,85 @@
+{
+  "id": "person:Ephrathah",
+  "primary_id": "person:Ephrathah",
+  "alternate_sources": {
+    "aquifer": [
+      "26567|Ephrathah|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Ephrathah@1Ch.2.19-1Ch"
+    ],
+    "vizbible": [
+      "recVQg0j4vMwon1DL"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Caleb.2"
+  ],
+  "offspring": [
+    "person:Hur.2"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephrathah",
+      "alternate_labels": [
+        "Ephrath",
+        "Ephrathite",
+        "Ephratah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ephrathah",
+          "article": "person:Ephrathah",
+          "description": "A woman of the tribe of Judah, one of the wives of Caleb the son of Hezron, and mother of Hur."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Ephrathah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "08001002",
+    "09017012",
+    "13002019"
+  ],
+  "references": [
+    "08001002",
+    "09017012",
+    "13002019",
+    "13002050",
+    "13004004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o080010020121"
+      ],
+      [
+        "o090170120041"
+      ],
+      [
+        "o130020190071"
+      ],
+      [
+        "o130020500081"
+      ],
+      [
+        "o130040040111"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130020190082"
+      ]
+    ]
+  }
+}

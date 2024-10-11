@@ -1,0 +1,80 @@
+{
+  "id": "person:Shelumiel",
+  "primary_id": "person:Shelumiel",
+  "alternate_sources": {
+    "aquifer": [
+      "8343|Shelumiel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007420001001000"
+    ],
+    "tipnr": [
+      "Shelumiel@Num.1.6-"
+    ],
+    "vizbible": [
+      "recgnotSz51vCg8Q7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zurishaddai",
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "007420001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shelumiel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shelumiel",
+          "article": "person:Shelumiel",
+          "description": "A son of Zurishaddai who was chief of the tribe of Reuben during the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שֶׁלֶמְיָה",
+      "שֶׁלֶמְיָהוּ"
+    ]
+  },
+  "key_references": [
+    "04001006",
+    "04002012",
+    "04007036"
+  ],
+  "references": [
+    "04001006",
+    "04002012",
+    "04007036",
+    "04007041",
+    "04010019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010060021"
+      ],
+      [
+        "o040020120081"
+      ],
+      [
+        "o040070360061"
+      ],
+      [
+        "o040070410151"
+      ],
+      [
+        "o040100190061"
+      ]
+    ]
+  }
+}

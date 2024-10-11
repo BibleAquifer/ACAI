@@ -1,0 +1,59 @@
+{
+  "id": "person:Bani",
+  "primary_id": "person:Bani",
+  "alternate_sources": {
+    "aquifer": [
+      "3989|Bani|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Bani@Ezr.2.10-Neh"
+    ],
+    "vizbible": [
+      "recoLSTu8w7Bx66VE"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bani",
+      "alternate_labels": [
+        "Binnui"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bani",
+          "article": "person:Bani",
+          "description": "A man living at the time of exile and return, also called Binnui, mentioned in Ezra 2:10 and Nehemiah 7:15."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002010",
+    "15008010",
+    "15010029"
+  ],
+  "references": [
+    "15002010",
+    "15008010",
+    "15010029",
+    "16007015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020100021"
+      ],
+      [
+        "o150100290021"
+      ],
+      [
+        "o160070150021"
+      ]
+    ]
+  }
+}

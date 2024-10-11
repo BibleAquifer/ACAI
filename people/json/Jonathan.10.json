@@ -1,0 +1,61 @@
+{
+  "id": "person:Jonathan.10",
+  "primary_id": "person:Jonathan.10",
+  "alternate_sources": {
+    "aquifer": [
+      "6432|Jonathan|TyndaleBibleDictionary",
+      "26772|Jonathan|UWTranslationWords",
+      "132403|Jonathan|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002832001012000"
+    ],
+    "tipnr": [
+      "Jonathan@Ezr.10.15"
+    ],
+    "vizbible": [
+      "recVADVM2KcESXxAe"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Asahel.4",
+  "ubsdbh": [
+    "002832001012000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jonathan (Ezra 10:15)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jonathan (Ezra 10:15)",
+          "article": "person:Jonathan.10",
+          "description": "A man living at the time of exile and return, son of Asahel, mentioned in Ezra 10:15."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹונָתָן",
+      "יוֹנָתָן",
+      "יְהוֹנָתָן"
+    ]
+  },
+  "key_references": [
+    "15010015"
+  ],
+  "references": [
+    "15010015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150100150021"
+      ]
+    ]
+  }
+}

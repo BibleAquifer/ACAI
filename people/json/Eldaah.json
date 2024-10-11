@@ -1,0 +1,69 @@
+{
+  "id": "person:Eldaah",
+  "primary_id": "person:Eldaah",
+  "alternate_sources": {
+    "aquifer": [
+      "4973|Eldaah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000390001001000"
+    ],
+    "tipnr": [
+      "Eldaah@Gen.25.4-1Ch"
+    ],
+    "vizbible": [
+      "recfxnvrTNNrBxoB1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Midian",
+  "siblings": [
+    "person:Ephah",
+    "person:Epher",
+    "person:Hanoch",
+    "person:Abida"
+  ],
+  "tribe": "group:Sinites",
+  "ubsdbh": [
+    "000390001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eldaah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eldaah",
+          "article": "person:Eldaah",
+          "description": "Eldaah was a son of Midian and grandson of Abraham, living at the time of the patriarchs, mentioned in Genesis 25:4."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְדָּעָה"
+    ]
+  },
+  "key_references": [
+    "01025004",
+    "13001033"
+  ],
+  "references": [
+    "01025004",
+    "13001033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250040072"
+      ],
+      [
+        "o130010330072"
+      ]
+    ]
+  }
+}

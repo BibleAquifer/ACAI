@@ -1,0 +1,128 @@
+{
+  "id": "place:Ezion-geber",
+  "primary_id": "place:Ezion-geber",
+  "alternate_sources": {
+    "aquifer": [
+      "5220|Ezion-Geber|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a8e53d5"
+    ],
+    "ubsdbh": [
+      "005601001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21749"
+    ],
+    "tipnr": [
+      "Ezion-geber@Num.33.35-2Ch"
+    ],
+    "vizbible": [
+      "recPhbU6SICXKWVJ8"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1386052"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005601001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ezion-geber",
+      "alternate_labels": [
+        "Ezion-gaber"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ezion-geber",
+          "gloss": "Ezion-Geber",
+          "description": "A seaport town on the Gulf of Aqaba, near Elath, where the Israelites camped on their journey from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Elath"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "island",
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.75804308",
+      "lon": "35.03060174"
+    },
+    "recogito": {
+      "lat": "29.530676",
+      "lon": "34.999999"
+    },
+    "vizbible": {
+      "lat": "29.530676",
+      "lon": "34.999999"
+    }
+  },
+  "key_references": [
+    "04033035",
+    "05002008",
+    "04033036"
+  ],
+  "references": [
+    "04033035",
+    "04033036",
+    "05002008",
+    "11009026",
+    "11022049",
+    "14008017",
+    "14020036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330350042",
+        "o040330350051"
+      ],
+      [
+        "o040330360022",
+        "o040330360031"
+      ],
+      [
+        "o050020080113",
+        "o050020080121"
+      ],
+      [
+        "o110090260052",
+        "o110090260061"
+      ],
+      [
+        "o110220490152",
+        "o110220490161"
+      ],
+      [
+        "o140080170042",
+        "o140080170051"
+      ],
+      [
+        "o140200360092",
+        "o140200360101"
+      ]
+    ]
+  }
+}

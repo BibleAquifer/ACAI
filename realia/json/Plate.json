@@ -1,0 +1,97 @@
+{
+  "id": "realia:Plate",
+  "primary_id": "realia:Plate",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006194001002000"
+    ],
+    "ubsrealia": [
+      "realia:4.5.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006194001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Plate",
+      "alternate_labels": [
+        "Disk",
+        "Frontlet",
+        "Medallion"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Plate",
+          "article": "realia:Plate",
+          "description": "A small gold flat dish, possibly flower-shaped, attached to the front of the high priest’s turban."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צִיץ"
+    ]
+  },
+  "key_references": [
+    "02028036",
+    "02039030",
+    "03008009"
+  ],
+  "references": [
+    "02028036",
+    "02039030",
+    "03008009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020280360021"
+      ],
+      [
+        "o020390300031"
+      ],
+      [
+        "o030080090131"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020280360062"
+      ],
+      [
+        "o020280370022"
+      ],
+      [
+        "o020390300092"
+      ],
+      [
+        "o020390310022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020280370062"
+      ],
+      [
+        "o020280370131"
+      ],
+      [
+        "o020280380012"
+      ],
+      [
+        "o020280380172"
+      ]
+    ]
+  }
+}

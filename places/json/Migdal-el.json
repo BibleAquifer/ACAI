@@ -1,0 +1,95 @@
+{
+  "id": "place:Migdal-el",
+  "primary_id": "place:Migdal-el",
+  "alternate_sources": {
+    "aquifer": [
+      "7124|Migdal-El|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5f0bc3"
+    ],
+    "ubsdbh": [
+      "003687001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/295620"
+    ],
+    "tipnr": [
+      "Migdal-el@Jos.19.38"
+    ],
+    "vizbible": [
+      "rec3HDjmH4pPdYm8X"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003687001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Migdal-el",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Migdal-el",
+          "gloss": "Migdal-El",
+          "description": "A fortified town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מִגְדַּל־אֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.232131",
+      "lon": "35.362942"
+    },
+    "recogito": {
+      "lat": "31.66926",
+      "lon": "34.57149"
+    },
+    "vizbible": {
+      "lat": "33.232131",
+      "lon": "35.362942"
+    }
+  },
+  "key_references": [
+    "06019038"
+  ],
+  "references": [
+    "06019038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190380022",
+        "o060190380031"
+      ]
+    ]
+  }
+}

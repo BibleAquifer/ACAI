@@ -1,0 +1,74 @@
+{
+  "id": "realia:Griddle",
+  "primary_id": "realia:Griddle",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003859001001000"
+    ],
+    "ubsrealia": [
+      "realia:5.13"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003859001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Griddle",
+      "alternate_labels": [
+        "Plate"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Griddle",
+          "article": "realia:Griddle",
+          "description": "A thick plate, often made of pottery or metal, used over a fire for cooking bread dough."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַחֲבַת"
+    ]
+  },
+  "key_references": [
+    "03002005",
+    "03006014",
+    "26004003"
+  ],
+  "references": [
+    "03002005",
+    "03006014",
+    "03007009",
+    "26004003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030020050042"
+      ],
+      [
+        "o030060140021"
+      ],
+      [
+        "o030070090101"
+      ],
+      [
+        "o260040030041"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260040030072"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "id": "place:RedSea",
+  "primary_id": "place:RedSea",
+  "alternate_sources": {
+    "aquifer": [
+      "7971|Red Sea|TyndaleBibleDictionary",
+      "132266|Red Sea|BiblicaStudyNotesKeyTerms"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/39290"
+    ],
+    "tipnr": [
+      "Red_Sea@Exo.10.19-Heb"
+    ],
+    "vizbible": [
+      "recDQoz6r4QxWn5E3"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Red Sea",
+      "alternate_labels": [
+        "Red",
+        " Sea"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:RedSea.1",
+          "gloss": "Red Sea",
+          "description": "A body of salt water located between Egypt and the Sinai Peninsula, which the Israelites crossed after they left Egypt."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "body of water",
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "sea "
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "27.088473",
+      "lon": "34.771729"
+    },
+    "recogito": {
+      "lat": "19.0",
+      "lon": "39.5"
+    },
+    "vizbible": {
+      "lat": "19.0",
+      "lon": "39.5"
+    }
+  },
+  "key_references": [
+    "02015004",
+    "02013018"
+  ],
+  "references": [
+    "02010019",
+    "02013018",
+    "02015004",
+    "02015022",
+    "02023031",
+    "04014025",
+    "04021004",
+    "04033008",
+    "04033010",
+    "04033011",
+    "05001040",
+    "05002001",
+    "05011004",
+    "06002010",
+    "06004023",
+    "06024006",
+    "07011016",
+    "11009026",
+    "16009009",
+    "19066006",
+    "19077017",
+    "19106007",
+    "19106009",
+    "19106022",
+    "19114003",
+    "19114005",
+    "19136013",
+    "19136015",
+    "23063011",
+    "24049021",
+    "44007036",
+    "58011029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020100190121"
+      ],
+      [
+        "o020130180081"
+      ],
+      [
+        "o020150040101"
+      ],
+      [
+        "o020150220061"
+      ],
+      [
+        "o020230310051"
+      ],
+      [
+        "o040140250121"
+      ],
+      [
+        "o040210040061"
+      ],
+      [
+        "o040330100061"
+      ],
+      [
+        "o040330110031"
+      ],
+      [
+        "o050010400081"
+      ],
+      [
+        "o050020010061"
+      ],
+      [
+        "o050110040121"
+      ],
+      [
+        "o060020100101"
+      ],
+      [
+        "o060040230161"
+      ],
+      [
+        "o060240060141"
+      ],
+      [
+        "o070110160091"
+      ],
+      [
+        "o110090260131"
+      ],
+      [
+        "o160090090111"
+      ],
+      [
+        "o191060070151"
+      ],
+      [
+        "o191060090031"
+      ],
+      [
+        "o191060220071"
+      ],
+      [
+        "o191360130031"
+      ],
+      [
+        "o191360150051"
+      ],
+      [
+        "o240490210071"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44007036013"
+      ],
+      [
+        "n58011029004"
+      ]
+    ]
+  }
+}

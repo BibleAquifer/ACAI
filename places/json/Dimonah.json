@@ -1,0 +1,88 @@
+{
+  "id": "place:Dimonah",
+  "primary_id": "place:Dimonah",
+  "alternate_sources": {
+    "aquifer": [
+      "4846|Dimonah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001633001001000"
+    ],
+    "tipnr": [
+      "Dimonah@Jos.15.22"
+    ],
+    "vizbible": [
+      "recGVFxptgdzFULdw"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001633001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dimonah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dimonah",
+          "gloss": "Dimonah",
+          "description": "A town in the southern territory of Judah, near the border of Edom; probably to be identified with Dibon."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Dibon.2"
+  ],
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "דִּימֹונָה",
+      "דִּימוֹנָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.1858",
+      "lon": "34.96745"
+    },
+    "vizbible": {
+      "lat": "31.1858",
+      "lon": "34.96745"
+    }
+  },
+  "key_references": [
+    "06015022"
+  ],
+  "references": [
+    "06015022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150220022"
+      ]
+    ]
+  }
+}

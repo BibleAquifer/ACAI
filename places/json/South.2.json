@@ -1,0 +1,77 @@
+{
+  "id": "place:South.2",
+  "primary_id": "place:Sheba.2",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "82.4"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3337406"
+    ],
+    "tipnr": [
+      "South|Sheba@1Ki.10.1-Luk"
+    ],
+    "vizbible": [
+      "recItoooL8TKSOT5p"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "82.4"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "South (Kingdom of Sheba)",
+      "alternate_labels": [
+        "Sheba",
+        "South"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:South.2",
+          "gloss": "South (Kingdom of Sheba)",
+          "description": "Another name for Sheba."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Sheba.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "recogito": {
+      "lat": "64.14620971568705",
+      "lon": "-19.17522938"
+    }
+  },
+  "key_references": [
+    "40012042",
+    "42011031"
+  ],
+  "references": [
+    "40012042",
+    "42011031"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42011031002"
+      ]
+    ]
+  }
+}

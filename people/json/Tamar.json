@@ -1,0 +1,238 @@
+{
+  "id": "person:Tamar",
+  "primary_id": "person:Tamar",
+  "alternate_sources": {
+    "aquifer": [
+      "8727|Tamar (Person)|TyndaleBibleDictionary",
+      "27137|Tamar|UWTranslationWords",
+      "132238|Tamar|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Tamar@Gen.38.6-Mat"
+    ],
+    "vizbible": [
+      "recWebxxpYTeBY93z"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Judah.4",
+    "person:Er.2"
+  ],
+  "offspring": [
+    "person:Perez",
+    "person:Zerah.3"
+  ],
+  "roles": [
+    "Matriarch",
+    "Relative of Jesus"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tamar",
+      "alternate_labels": [
+        "Thamar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tamar",
+          "article": "person:Tamar",
+          "description": "She was wife of Er, son of the patriarch Judah, and mother of Perez and Zerah. She is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01038006",
+    "01038024",
+    "40001003"
+  ],
+  "references": [
+    "01038006",
+    "01038011",
+    "01038013",
+    "01038024",
+    "08004012",
+    "13002004",
+    "40001003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380060071"
+      ],
+      [
+        "o010380110032"
+      ],
+      [
+        "o010380110211"
+      ],
+      [
+        "o010380130022"
+      ],
+      [
+        "o010380240081"
+      ],
+      [
+        "o080040120071"
+      ],
+      [
+        "o130020040012"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001003011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010380140202"
+      ],
+      [
+        "o010380160151"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010380110051"
+      ],
+      [
+        "o010380110222"
+      ],
+      [
+        "o010380140012"
+      ],
+      [
+        "o010380140052"
+      ],
+      [
+        "o010380140072"
+      ],
+      [
+        "o010380140082"
+      ],
+      [
+        "o010380140161"
+      ],
+      [
+        "o010380150061"
+      ],
+      [
+        "o010380160061"
+      ],
+      [
+        "o010380160162"
+      ],
+      [
+        "o010380170082"
+      ],
+      [
+        "o010380180072"
+      ],
+      [
+        "o010380180172"
+      ],
+      [
+        "o010380190012"
+      ],
+      [
+        "o010380190022"
+      ],
+      [
+        "o010380190032"
+      ],
+      [
+        "o010380190062"
+      ],
+      [
+        "o010380240172"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010380160171",
+          "o010380160181",
+          "o010380160191",
+          "o010380160192",
+          "o010380160201",
+          "o010380160211",
+          "o010380160221",
+          "o010380160222"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010380170091",
+          "o010380170101",
+          "o010380170111",
+          "o010380170121",
+          "o010380170131",
+          "o010380170132"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010380180081",
+          "o010380180082",
+          "o010380180091",
+          "o010380180092",
+          "o010380180093",
+          "o010380180101",
+          "o010380180102",
+          "o010380180103",
+          "o010380180111",
+          "o010380180121",
+          "o010380180122",
+          "o010380180123"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010380250081",
+          "o010380250082",
+          "o010380250091",
+          "o010380250101",
+          "o010380250111",
+          "o010380250112",
+          "o010380250121",
+          "o010380250131"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010380250151",
+          "o010380250161",
+          "o010380250171",
+          "o010380250172",
+          "o010380250181",
+          "o010380250182",
+          "o010380250191",
+          "o010380250192",
+          "o010380250193",
+          "o010380250201",
+          "o010380250202",
+          "o010380250203",
+          "o010380250211",
+          "o010380250212"
+        ]
+      }
+    ]
+  }
+}

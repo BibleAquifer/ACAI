@@ -1,0 +1,68 @@
+{
+  "id": "person:Jeriah",
+  "primary_id": "person:Jeriah",
+  "alternate_sources": {
+    "aquifer": [
+      "6319|Jeriah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003113001001000"
+    ],
+    "tipnr": [
+      "Jeriah@1Ch.23.19-"
+    ],
+    "vizbible": [
+      "recDC0essjvBtDo26"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hebron",
+  "siblings": [
+    "person:Amariah.3",
+    "person:Jahaziel.3",
+    "person:Jekameam"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "003113001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeriah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeriah",
+          "article": "person:Jeriah",
+          "description": "A Levite man, son of Hebron, who lived during the time of David and is mentioned in 1 Chronicles 23:19."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְרִיָּהוּ"
+    ]
+  },
+  "key_references": [
+    "13023019",
+    "13024023"
+  ],
+  "references": [
+    "13023019",
+    "13024023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230190031"
+      ],
+      [
+        "o130240230021"
+      ]
+    ]
+  }
+}

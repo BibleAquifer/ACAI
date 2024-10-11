@@ -1,0 +1,78 @@
+{
+  "id": "group:Shiloh",
+  "primary_id": "group:Shiloh",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007327001001000",
+      "007327002001000"
+    ],
+    "tipnr": [
+      "Shiloh@Jos.18.1-Jer"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Shiloh",
+  "ubsdbh": [
+    "007327001001000",
+    "007327002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shilonites",
+      "alternate_labels": [
+        "Shiloh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shilonites",
+          "article": "group:Shiloh",
+          "description": "People who live in Shiloh."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שִׁימֹון",
+      "שִׁימוֹן"
+    ]
+  },
+  "key_references": [
+    "13009005",
+    "11011029"
+  ],
+  "references": [
+    "11011029",
+    "11012015",
+    "11015029",
+    "13009005",
+    "14009029",
+    "14010015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110110290102"
+      ],
+      [
+        "o110120150202"
+      ],
+      [
+        "o110150290222"
+      ],
+      [
+        "o130090050022"
+      ],
+      [
+        "o140090290162"
+      ],
+      [
+        "o140100150202"
+      ]
+    ]
+  }
+}

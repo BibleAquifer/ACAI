@@ -1,0 +1,103 @@
+{
+  "id": "place:Beth-millo",
+  "primary_id": "place:Beth-millo",
+  "alternate_sources": {
+    "aquifer": [
+      "4191|Beth-Millo|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Beth-millo@Jdg.9.6-2Ki"
+    ],
+    "vizbible": [
+      "recnw5UrjW4YHoSY8"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-millo",
+      "alternate_labels": [
+        "house of Millo",
+        "house of the Millo",
+        "Millo"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-millo",
+          "gloss": "Beth-Millo",
+          "description": "A location near or in Shechem where Abimelech was crowned king."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Shechem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "structure"
+    ],
+    "acai": [
+      "fortification"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.21369123124062",
+      "lon": "35.2817986718367"
+    },
+    "vizbible": {
+      "lat": "32.21369123124062",
+      "lon": "35.2817986718367"
+    }
+  },
+  "key_references": [
+    "07009020",
+    "07009006"
+  ],
+  "references": [
+    "07009006",
+    "07009020",
+    "12012021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070090060061",
+        "o070090060071"
+      ],
+      [
+        "o070090200111",
+        "o070090200121"
+      ],
+      [
+        "o070090200173",
+        "o070090200181"
+      ],
+      [
+        "o120120210081",
+        "o120120210091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070090060082"
+      ],
+      [
+        "o070090060092"
+      ],
+      [
+        "o120120210102"
+      ]
+    ]
+  }
+}

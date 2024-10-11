@@ -1,0 +1,92 @@
+{
+  "id": "place:Tel-harsha",
+  "primary_id": "place:Tel-harsha",
+  "alternate_sources": {
+    "aquifer": [
+      "8772|Tel-Harsha|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007807001001000"
+    ],
+    "tipnr": [
+      "Tel-harsha@Ezr.2.59-Neh"
+    ],
+    "vizbible": [
+      "recjyykH1XegxAjRz"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007807001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tel-harsha",
+      "alternate_labels": [
+        "Tel-haresha",
+        "Tel-harsa"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tel-harsha",
+          "gloss": "Tel-Harsha",
+          "description": "A town in Babylon from which a group of Jews returned to Israel. "
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Babylonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "תֵּל מֶלַח",
+      "תֵּל אָבִיב"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.127213",
+      "lon": "45.229995"
+    },
+    "vizbible": {
+      "lat": "32.127213",
+      "lon": "45.229995"
+    }
+  },
+  "key_references": [
+    "15002059",
+    "16007061"
+  ],
+  "references": [
+    "15002059",
+    "16007061"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020590051",
+        "o150020590061"
+      ],
+      [
+        "o160070610051",
+        "o160070610061"
+      ]
+    ]
+  }
+}

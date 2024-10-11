@@ -1,0 +1,94 @@
+{
+  "id": "group:Carmel",
+  "primary_id": "group:Carmel",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003439001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28339"
+    ],
+    "tipnr": [
+      "Carmel@Jos.12.22-Nam"
+    ],
+    "vizbible": [
+      "reca2kSTlowovUOD4"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Carmel",
+  "ubsdbh": [
+    "003439001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Carmelites",
+      "alternate_labels": [
+        "Carmelitess",
+        "Carmelite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Carmelites",
+          "article": "group:Carmel",
+          "description": "People who live in the town of Carmel (of Judah)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כַּרְמְלִי",
+      "כַּרְמְלִית"
+    ]
+  },
+  "key_references": [
+    "30009003",
+    "23035002"
+  ],
+  "references": [
+    "06015055",
+    "09015012",
+    "09025002",
+    "09025005",
+    "09025007",
+    "09025040",
+    "09027003",
+    "09030005",
+    "10002002",
+    "10003003",
+    "10023035",
+    "13003001",
+    "13011037",
+    "14026010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090270030182"
+      ],
+      [
+        "o090300050102"
+      ],
+      [
+        "o100020020122"
+      ],
+      [
+        "o100030030072"
+      ],
+      [
+        "o100230350032"
+      ],
+      [
+        "o130030010162"
+      ],
+      [
+        "o130110370022"
+      ]
+    ]
+  }
+}

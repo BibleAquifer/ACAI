@@ -1,0 +1,79 @@
+{
+  "id": "person:Johanan",
+  "primary_id": "person:Jehoahaz.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6406|Johanan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002825001001000"
+    ],
+    "tipnr": [
+      "Johanan|Jehoahaz@2Ki.23.30-2Ch(?)"
+    ],
+    "vizbible": [
+      "recLr7DncYLE2Jnia"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Josiah",
+  "mother": "person:Hamutal",
+  "siblings": [
+    "person:Jehoiakim",
+    "person:Zedekiah.3",
+    "person:Shallum.5"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "002825001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Johanan (Jehoahaz)",
+      "alternate_labels": [
+        "Jehoahaz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoahaz",
+          "article": "person:Johanan",
+          "description": "A king of Judah, son of Josiah and Hamutal, also known as Jehoahaz, mentioned in 2 Kings 23:30."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehoahaz.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹוחָנָן",
+      "יוֹחָנָן"
+    ]
+  },
+  "key_references": [
+    "13003015"
+  ],
+  "references": [
+    "13003015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030150041"
+      ]
+    ]
+  }
+}

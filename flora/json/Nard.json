@@ -1,0 +1,84 @@
+{
+  "id": "flora:Nard",
+  "primary_id": "flora:Nard",
+  "alternate_sources": {
+    "aquifer": [
+      "7310|Nard|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004921001001000"
+    ],
+    "ubsflora": [
+      "flora:4.1.9"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "004921001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nard",
+      "alternate_labels": [
+        "Spikenard"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nard",
+          "article": "flora:Nard",
+          "description": "A fragrant plant with pink umbrella-shaped flowers and narrow leaves, used to make a strong-smelling oil."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נֵרְדְּ"
+    ]
+  },
+  "key_references": [
+    "22001012",
+    "41014003",
+    "43012003"
+  ],
+  "references": [
+    "22001012",
+    "22004013",
+    "22004014",
+    "41014003",
+    "43012003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o220010120041",
+        "o220010120042"
+      ],
+      [
+        "o220040130091"
+      ],
+      [
+        "o220040140011"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n41014003019"
+      ],
+      [
+        "n43012003007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o220010120062"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "person:Abi-albon",
+  "primary_id": "person:Abi-albon",
+  "alternate_sources": {
+    "aquifer": [
+      "3286|Abi-Albon|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Abiel|Abi-albon@2Sa.23.31-1Ch",
+      "Abi-albon@2Sa.23.31-1Ch"
+    ],
+    "vizbible": [
+      "recQomRU1vY8dtRak"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abi-albon",
+      "alternate_labels": [
+        "Abiel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abi-Albon",
+          "article": "person:Abi-albon",
+          "description": "A man from the time of Israel's united kingdom, first mentioned in 2 Samuel 23:31, also known as Abiel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Abiel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023031",
+    "13011032"
+  ],
+  "references": [
+    "10023031",
+    "13011032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230310011",
+        "o100230310021"
+      ],
+      [
+        "o130110320041"
+      ]
+    ]
+  }
+}

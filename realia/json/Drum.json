@@ -1,0 +1,120 @@
+{
+  "id": "realia:Drum",
+  "primary_id": "realia:Drum",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007889001001000"
+    ],
+    "ubsrealia": [
+      "realia:7.4.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "007889001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Drum",
+      "alternate_labels": [
+        "Hand Drum"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Drum",
+          "article": "realia:Drum",
+          "description": "A musical instrument with a skin stretched over a frame, which is hit with hands or a mallet to make sound."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תֹּף"
+    ]
+  },
+  "key_references": [
+    "02015020",
+    "09010005",
+    "19150004"
+  ],
+  "references": [
+    "01031027",
+    "02015020",
+    "07011034",
+    "09010005",
+    "09018006",
+    "10006005",
+    "13013008",
+    "18021012",
+    "19081003",
+    "19149003",
+    "19150004",
+    "23005012",
+    "23024008",
+    "23030032",
+    "24031004",
+    "26028013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010310270122"
+      ],
+      [
+        "o020150200072"
+      ],
+      [
+        "o020150200132"
+      ],
+      [
+        "o070110340102"
+      ],
+      [
+        "o090100050212"
+      ],
+      [
+        "o090180060192"
+      ],
+      [
+        "o100060050133"
+      ],
+      [
+        "o130130080123"
+      ],
+      [
+        "o180210120022"
+      ],
+      [
+        "o190810030041"
+      ],
+      [
+        "o191490030042"
+      ],
+      [
+        "o191500040022"
+      ],
+      [
+        "o230050120041"
+      ],
+      [
+        "o230240080031"
+      ],
+      [
+        "o230300320102"
+      ],
+      [
+        "o240310040081",
+        "o240310040082"
+      ],
+      [
+        "o260280130201",
+        "o260280130202"
+      ]
+    ]
+  }
+}

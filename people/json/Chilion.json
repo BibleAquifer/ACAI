@@ -1,0 +1,84 @@
+{
+  "id": "person:Chilion",
+  "primary_id": "person:Chilion",
+  "alternate_sources": {
+    "aquifer": [
+      "4527|Chilion|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003325001001000"
+    ],
+    "tipnr": [
+      "Chilion@Rut.1.2-"
+    ],
+    "vizbible": [
+      "recWzeY5izSP83047"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Elimelech",
+  "mother": "person:Naomi",
+  "partners": [
+    "person:Orpah"
+  ],
+  "siblings": [
+    "person:Mahlon"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Bethlehem"
+    ]
+  },
+  "ubsdbh": [
+    "003325001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chilion",
+      "alternate_labels": [
+        "Kilion"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Chilion",
+          "article": "person:Chilion",
+          "description": "Son of Elimelech and Naomi, and the husband of Orpah the Moabitess."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כִּלְיֹון",
+      "כִּלְיוֹן"
+    ]
+  },
+  "key_references": [
+    "08001002",
+    "08001005",
+    "08004009"
+  ],
+  "references": [
+    "08001002",
+    "08001005",
+    "08004009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o080010020112"
+      ],
+      [
+        "o080010050052"
+      ],
+      [
+        "o080040090182"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "place:Bozrah.2",
+  "primary_id": "place:Bozrah.2",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001132002001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/249842"
+    ],
+    "tipnr": [
+      "Bozrah@Gen.36.33-Amo"
+    ],
+    "vizbible": [
+      "recIfdlpmLYrfPeAv"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001132002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bozrah (of Edom)",
+      "alternate_labels": [
+        "Bozrah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bozrah.1",
+          "gloss": "Bozrah (of Edom)",
+          "description": "The capital of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Edom",
+  "subregion_of": [
+    "place:Edom"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.734691",
+      "lon": "35.60625"
+    },
+    "recogito": {
+      "lat": "30.7318",
+      "lon": "35.60983"
+    },
+    "vizbible": {
+      "lat": "30.7318",
+      "lon": "35.60983"
+    }
+  },
+  "key_references": [
+    "24049013",
+    "23034006"
+  ],
+  "references": [
+    "01036033",
+    "13001044",
+    "23034006",
+    "23063001",
+    "24049013",
+    "24049022",
+    "30001012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360330082"
+      ],
+      [
+        "o130010440082"
+      ],
+      [
+        "o230340060162"
+      ],
+      [
+        "o230630010072"
+      ],
+      [
+        "o240490130121"
+      ],
+      [
+        "o240490220081"
+      ],
+      [
+        "o300010120061"
+      ]
+    ]
+  }
+}

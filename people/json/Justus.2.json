@@ -1,0 +1,53 @@
+{
+  "id": "person:Justus.2",
+  "primary_id": "person:Justus.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6505|Justus|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Titius|Justus@Act.18.7",
+      "Justus@Act.18.7"
+    ],
+    "vizbible": [
+      "recwOtD0vLzJno5ol"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Justus (Acts 18:7)",
+      "alternate_labels": [
+        "Titius"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Justus (Acts 18:7)",
+          "article": "person:Justus.2",
+          "description": "A man called Titius Justus in the New Testament, who is mentioned in Acts 18:7."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Titius"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44018007"
+  ],
+  "references": [
+    "44018007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018007009",
+        "n44018007010"
+      ]
+    ]
+  }
+}

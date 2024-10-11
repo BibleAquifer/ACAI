@@ -1,0 +1,44 @@
+{
+  "id": "place:Latopolis",
+  "primary_id": "place:Latopolis",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Latopolis",
+          "gloss": "Latopolis",
+          "description": "A city in Upper Egypt, on the west bank of the Nile; modern-day Esna."
+        }
+      ],
+      "preferred_label": "Latopolis",
+      "alternate_labels": [
+        "Esna"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Nile"
+  ],
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "25.29367",
+      "lon": "32.5532"
+    }
+  }
+}

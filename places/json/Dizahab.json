@@ -1,0 +1,85 @@
+{
+  "id": "place:Dizahab",
+  "primary_id": "place:Dizahab",
+  "alternate_sources": {
+    "obi": [
+      "afcb77d"
+    ],
+    "ubsdbh": [
+      "001626001001000"
+    ],
+    "tipnr": [
+      "Dizahab@Deu.1.1"
+    ],
+    "vizbible": [
+      "recF2SEqVhhSpgKJa"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3616621"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001626001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dizahab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dizahab",
+          "gloss": "Dizahab",
+          "description": "A location in the Arabah, not far from the place where Moses repeated the law."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Arabah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "דִּי זָהָב"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.507836",
+      "lon": "34.516339"
+    },
+    "vizbible": {
+      "lat": "28.507836",
+      "lon": "34.516339"
+    }
+  },
+  "key_references": [
+    "05001001"
+  ],
+  "references": [
+    "05001001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050010010212",
+        "o050010010221"
+      ]
+    ]
+  }
+}

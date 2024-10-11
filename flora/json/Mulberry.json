@@ -1,0 +1,89 @@
+{
+  "id": "flora:Mulberry",
+  "primary_id": "flora:Mulberry",
+  "alternate_sources": {
+    "aquifer": [
+      "7241|Mulberry|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "3.6"
+    ],
+    "ubsflora": [
+      "flora:2.7"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Domestic Trees and Shrubs",
+  "ubsdgnt": [
+    "3.6"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mulberry",
+      "alternate_labels": [
+        "Mulberry Tree"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mulberry",
+          "article": "flora:Mulberry",
+          "description": "A tree that sheds its leaves each year and grows up to 6 meters, producing sweet black berries with reddish juice."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "συκάμινος"
+    ]
+  },
+  "key_references": [
+    "23040020",
+    "42017006"
+  ],
+  "references": [
+    "23040020",
+    "41016018",
+    "42017006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230400200012"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42017006014"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230400200102"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230400200091"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42017006016"
+      ],
+      [
+        "n42017006018"
+      ],
+      [
+        "n42017006023"
+      ]
+    ]
+  }
+}

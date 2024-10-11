@@ -1,0 +1,64 @@
+{
+  "id": "person:Mica",
+  "primary_id": "person:Mica",
+  "alternate_sources": {
+    "aquifer": [
+      "7108|Mica|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Micah|Mica@1Ch.9.15-Neh",
+      "Mica@1Ch.9.15-Neh"
+    ],
+    "vizbible": [
+      "recIz1t7x7LMO3kyz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zichri.5",
+  "offspring": [
+    "person:Mattaniah"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mica",
+      "alternate_labels": [
+        "Micah",
+        "Micha",
+        "Mika"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mica",
+          "article": "person:Mica",
+          "description": "Mica, a Levite living during the time of exile and return, is mentioned in 1 Chronicles 9:15 as the son of Zichri and father of Mattaniah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Micah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009015",
+    "16011017"
+  ],
+  "references": [
+    "13009015",
+    "16011017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090150061"
+      ],
+      [
+        "o160110170031"
+      ]
+    ]
+  }
+}

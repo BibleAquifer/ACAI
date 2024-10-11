@@ -1,0 +1,86 @@
+{
+  "id": "place:Jogbehah",
+  "primary_id": "place:Jogbehah",
+  "alternate_sources": {
+    "aquifer": [
+      "6403|Jogbehah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "acf6e00"
+    ],
+    "ubsdbh": [
+      "002771001001000"
+    ],
+    "tipnr": [
+      "Jogbehah@Num.32.35-Jdg"
+    ],
+    "vizbible": [
+      "rec1k45DfZFLO3HfC"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002771001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jogbehah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jogbehah",
+          "gloss": "Jogbehah",
+          "description": "A town on the border between the territories of Gad and Reuben, near Ammonite territory."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָגְבֳּהָה",
+      "יׇגְבְּהָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.028743",
+      "lon": "35.862887"
+    },
+    "vizbible": {
+      "lat": "32.028743",
+      "lon": "35.862887"
+    }
+  },
+  "key_references": [
+    "07008011",
+    "04032035"
+  ],
+  "references": [
+    "04032035",
+    "07008011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320350062"
+      ],
+      [
+        "o070080110082"
+      ]
+    ]
+  }
+}

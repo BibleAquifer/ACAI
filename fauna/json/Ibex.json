@@ -1,0 +1,112 @@
+{
+  "id": "fauna:Ibex",
+  "primary_id": "fauna:Ibex",
+  "alternate_sources": {
+    "aquifer": [
+      "5972|Ibex|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000636001001000",
+      "002997001001000",
+      "002999001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.21"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "000636001001000",
+    "002997001001000",
+    "002999001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ibex",
+      "alternate_labels": [
+        "Wild Goat",
+        "Mountain Goat"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ibex",
+          "article": "fauna:Ibex",
+          "description": "A large wild goat with long, curved horns, living in mountain herds and eating bushes on cliffs."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "fauna:Goat"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַקֹּו",
+      "יָעֵל",
+      "יַעֲלָה"
+    ]
+  },
+  "key_references": [
+    "05014005",
+    "09024003",
+    "18039001"
+  ],
+  "references": [
+    "05014005",
+    "18039001",
+    "19104018",
+    "20005019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050140050042"
+      ],
+      [
+        "o180390010041"
+      ],
+      [
+        "o191040180032"
+      ],
+      [
+        "o200050190032"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o180390020062"
+      ],
+      [
+        "o180390030022"
+      ],
+      [
+        "o180390030042"
+      ],
+      [
+        "o180390040022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o180390020031"
+      ],
+      [
+        "o180390030011"
+      ],
+      [
+        "o180390030031"
+      ],
+      [
+        "o180390030051"
+      ]
+    ]
+  }
+}

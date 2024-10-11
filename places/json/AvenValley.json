@@ -1,0 +1,83 @@
+{
+  "id": "place:AvenValley",
+  "primary_id": "place:AvenValley",
+  "alternate_sources": {
+    "obi": [
+      "a0c71dc"
+    ],
+    "ubsdbh": [
+      "001145001001000"
+    ],
+    "tipnr": [
+      "Aven_Valley@Amo.1.5"
+    ],
+    "vizbible": [
+      "recq3EtEjMDHDK8JM"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001145001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Aven",
+      "alternate_labels": [
+        "Plain of Aven",
+        "Aven",
+        "Wicked Valley"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfAven",
+          "gloss": "Valley of Aven",
+          "description": "A valley mentioned along with Damascus in Amos 1:5; probably to be identified with the Biqah Valley in present-day Lebanon (Andersen/Freedman)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בִּקְעַת אָוֶן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.006944",
+      "lon": "36.203889"
+    },
+    "vizbible": {
+      "lat": "34.006944",
+      "lon": "36.203889"
+    }
+  },
+  "key_references": [
+    "30001005"
+  ],
+  "references": [
+    "30001005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o300010050062",
+        "o300010050071"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "person:Hushim",
+  "primary_id": "person:Hushim",
+  "alternate_sources": {
+    "aquifer": [
+      "5960|Hushim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002183001002000"
+    ],
+    "tipnr": [
+      "Hushim@1Ch.8.8-"
+    ],
+    "vizbible": [
+      "rec5HAuK4IT3GLeeh"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Shaharaim"
+  ],
+  "offspring": [
+    "person:Abitub",
+    "person:Elpaal"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "002183001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hushim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hushim",
+          "article": "person:Hushim",
+          "description": "A woman of the tribe of Benjamin, wife of Shaharaim, and mother of Abitub and Elpaal, first mentioned in 1 Chronicles 8:8."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חוּשִׁים"
+    ]
+  },
+  "key_references": [
+    "13008008",
+    "13008011"
+  ],
+  "references": [
+    "13008008",
+    "13008011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080080081"
+      ],
+      [
+        "o130080110013"
+      ]
+    ]
+  }
+}

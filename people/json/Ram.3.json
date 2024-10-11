@@ -1,0 +1,55 @@
+{
+  "id": "person:Ram.3",
+  "primary_id": "person:Ram.3",
+  "alternate_sources": {
+    "aquifer": [
+      "7940|Ram|TyndaleBibleDictionary",
+      "7936|Ram (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006814001003000"
+    ],
+    "tipnr": [
+      "Ram@Job.32.2"
+    ],
+    "vizbible": [
+      "recWQRXYO7whx8ZeD"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "group:Buzites"
+  ],
+  "ubsdbh": [
+    "006814001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ram (Ancestor of Elihu)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ram (Ancestor of Elihu)",
+          "article": "person:Ram.3",
+          "description": "Ancestor of Elihu, who was a friend of Job."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "18032002"
+  ],
+  "references": [
+    "18032002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180320020081"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "person:Bethuel",
+  "primary_id": "person:Bethuel",
+  "alternate_sources": {
+    "aquifer": [
+      "4209|Bethuel (Person)|TyndaleBibleDictionary",
+      "26390|Bethuel|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "001226001001000"
+    ],
+    "tipnr": [
+      "Bethuel@Gen.22.22-"
+    ],
+    "vizbible": [
+      "reccN1xlFTOq0eIxu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nahor.2",
+  "mother": "person:Milcah",
+  "offspring": [
+    "person:Rebekah",
+    "person:Laban"
+  ],
+  "siblings": [
+    "person:Uz.2",
+    "person:Buz",
+    "person:Kemuel",
+    "person:Chesed",
+    "person:Hazo",
+    "person:Pildash",
+    "person:Jidlaph",
+    "person:Tebah",
+    "person:Gaham",
+    "person:Tahash",
+    "person:Maacah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "001226001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bethuel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bethuel",
+          "article": "person:Bethuel",
+          "description": "An ancestor of the patriarch Abraham. Bethuel was a son of Nahor (Abraham's brother) and Milcah, and the father of Laban and Rebekah (the patriarch Isaac's wife)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בְּתוּאֵל"
+    ]
+  },
+  "key_references": [
+    "01022023",
+    "01024015",
+    "01024047",
+    "01028002"
+  ],
+  "references": [
+    "01022022",
+    "01022023",
+    "01024015",
+    "01024024",
+    "01024047",
+    "01024050",
+    "01025020",
+    "01028002",
+    "01028005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010220220101"
+      ],
+      [
+        "o010220230012"
+      ],
+      [
+        "o010240150112"
+      ],
+      [
+        "o010240240041"
+      ],
+      [
+        "o010240470091"
+      ],
+      [
+        "o010240500032"
+      ],
+      [
+        "o010250200101"
+      ],
+      [
+        "o010280020061"
+      ],
+      [
+        "o010280050111"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010240490091"
+      ],
+      [
+        "o010240490131"
+      ],
+      [
+        "o010240500042"
+      ],
+      [
+        "o010240500091",
+        "o010240500101"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010240500051",
+          "o010240500052",
+          "o010240500061",
+          "o010240500071",
+          "o010240500072",
+          "o010240500081",
+          "o010240500091",
+          "o010240500101",
+          "o010240500111",
+          "o010240500112",
+          "o010240500121",
+          "o010240500131",
+          "o010240500141",
+          "o010240510011",
+          "o010240510021",
+          "o010240510031",
+          "o010240510032",
+          "o010240510033",
+          "o010240510041",
+          "o010240510051",
+          "o010240510052",
+          "o010240510061",
+          "o010240510062",
+          "o010240510071",
+          "o010240510081",
+          "o010240510082",
+          "o010240510091",
+          "o010240510092",
+          "o010240510101",
+          "o010240510102",
+          "o010240510111",
+          "o010240510121"
+        ]
+      }
+    ]
+  }
+}

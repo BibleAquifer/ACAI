@@ -1,0 +1,143 @@
+{
+  "id": "place:Ethiopia",
+  "primary_id": "place:Ethiopia",
+  "alternate_sources": {
+    "aquifer": [
+      "5173|Ethiopia|TyndaleBibleDictionary",
+      "26571|Ethiopia|UWTranslationWords"
+    ],
+    "obi": [
+      "ab45bd3"
+    ],
+    "tipnr": [
+      "Ethiopia@2Ch.12.3-Act"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q410453"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ethiopia",
+      "alternate_labels": [
+        "Ethiopians",
+        "Cush",
+        "Ethiopian",
+        "Cushites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ethiopia",
+          "gloss": "Ethiopia",
+          "description": "A country south of Egypt; approximately equivalent to Cush."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Ethiopia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "key_references": [
+    "44008027"
+  ],
+  "references": [
+    "10018021",
+    "10018031",
+    "14012003",
+    "14014008",
+    "14014011",
+    "14014012",
+    "14016008",
+    "14021016",
+    "17001001",
+    "17008009",
+    "18028019",
+    "24013023",
+    "24038007",
+    "24038010",
+    "24038012",
+    "24039016",
+    "30009007",
+    "44008027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140120030162"
+      ],
+      [
+        "o140140080042"
+      ],
+      [
+        "o140140110042"
+      ],
+      [
+        "o140140110102"
+      ],
+      [
+        "o140140120092"
+      ],
+      [
+        "o140160080022"
+      ],
+      [
+        "o140210160121"
+      ],
+      [
+        "o170010010091"
+      ],
+      [
+        "o170080090291"
+      ],
+      [
+        "o180280190041"
+      ],
+      [
+        "o240130230021"
+      ],
+      [
+        "o240380070042"
+      ],
+      [
+        "o240380100062"
+      ],
+      [
+        "o240380120042"
+      ],
+      [
+        "o240390160052"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44008027007"
+      ],
+      [
+        "n44008027012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140140120141"
+      ]
+    ]
+  }
+}

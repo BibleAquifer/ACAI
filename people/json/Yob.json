@@ -1,0 +1,65 @@
+{
+  "id": "person:Yob",
+  "primary_id": "person:Jashub",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002848001001000"
+    ],
+    "tipnr": [
+      "Yob|Jashub@Gen.46.13-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Issachar",
+  "siblings": [
+    "person:Tola",
+    "person:Puah",
+    "person:Shimron"
+  ],
+  "tribe": "group:Issachar",
+  "ubsdbh": [
+    "002848001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Yob (Jashub)",
+      "alternate_labels": [
+        "Job",
+        "Jashub"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jashub",
+          "article": "person:Yob",
+          "description": "Yob (Jashub), also known as Job, is a man from the tribe of Issachar mentioned in Genesis as a son of Issachar."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jashub"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹוב",
+      "יוֹב"
+    ]
+  },
+  "key_references": [
+    "01046013"
+  ],
+  "references": [
+    "01046013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460130052"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "place:Jabneel.2",
+  "primary_id": "place:Jabneel.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6152|Jabneel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002756001002000"
+    ],
+    "tipnr": [
+      "Jabneel@Jos.19.33"
+    ],
+    "vizbible": [
+      "rec7ZSxtsm2Wcs37E"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002756001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jabneel (of Naphtali)",
+      "alternate_labels": [
+        "Jabneel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jabneel.2",
+          "gloss": "Jabneel (of Naphtali)",
+          "description": "A town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יַבְנְאֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.7",
+      "lon": "35.5"
+    },
+    "vizbible": {
+      "lat": "32.7",
+      "lon": "35.5"
+    }
+  },
+  "key_references": [
+    "06019033"
+  ],
+  "references": [
+    "06019033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190330082"
+      ]
+    ]
+  }
+}

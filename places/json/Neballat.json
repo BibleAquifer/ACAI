@@ -1,0 +1,92 @@
+{
+  "id": "place:Neballat",
+  "primary_id": "place:Neballat",
+  "alternate_sources": {
+    "aquifer": [
+      "7326|Neballat|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "acd682e"
+    ],
+    "ubsdbh": [
+      "004621001001000"
+    ],
+    "tipnr": [
+      "Neballat@Neh.11.34"
+    ],
+    "vizbible": [
+      "recVkv0wgKbR8Q7b5"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4874905"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004621001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Neballat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Neballat",
+          "gloss": "Neballat",
+          "description": "A town or village in the territory of Benjamin after the exile."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נְבַלָּט",
+      "נַבְלוּת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "village",
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.992079",
+      "lon": "34.957563"
+    },
+    "vizbible": {
+      "lat": "31.992079",
+      "lon": "34.957563"
+    }
+  },
+  "key_references": [
+    "16011034"
+  ],
+  "references": [
+    "16011034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110340031"
+      ]
+    ]
+  }
+}

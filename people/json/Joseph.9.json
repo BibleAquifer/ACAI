@@ -1,0 +1,77 @@
+{
+  "id": "person:Joseph.9",
+  "primary_id": "person:Joseph.9",
+  "alternate_sources": {
+    "aquifer": [
+      "6449|Joseph|TyndaleBibleDictionary",
+      "132234|Joseph|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Justus|Joseph@Act.1.23",
+      "Barsabbas|Joseph@Act.1.23",
+      "Joseph@Act.1.23"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Disciple"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joseph (Acts 1:23)",
+      "alternate_labels": [
+        "Barsabbas",
+        "Barsabas",
+        "Justus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joseph (Acts 1:23)",
+          "article": "person:Joseph.9",
+          "description": "A man also called Barsabbas and Justus, mentioned only in Acts 1:23."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Barsabbas",
+    "person:Justus"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44001023"
+  ],
+  "references": [
+    "44001023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44001023004"
+      ],
+      [
+        "n44001023007"
+      ],
+      [
+        "n44001023010"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44001023008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44001023006"
+      ]
+    ]
+  }
+}

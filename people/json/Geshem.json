@@ -1,0 +1,168 @@
+{
+  "id": "person:Geshem",
+  "primary_id": "person:Geshem",
+  "alternate_sources": {
+    "aquifer": [
+      "5434|Geshem|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001519002001000",
+      "001521001001000"
+    ],
+    "tipnr": [
+      "Geshem@Neh.2.19-"
+    ],
+    "vizbible": [
+      "recxHwCuYM5GgWUFC"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "001519002001000",
+    "001521001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Geshem",
+      "alternate_labels": [
+        "Gashmu"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Geshem",
+          "article": "person:Geshem",
+          "description": "An Arab opponent of Nehemiah living after the Israelite exile."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֶּשֶׁם",
+      "גֶּ֫שֶׁם",
+      "גַּשְׁמוּ"
+    ]
+  },
+  "key_references": [
+    "16002019",
+    "16006001",
+    "16006002",
+    "16006006"
+  ],
+  "references": [
+    "16002019",
+    "16006001",
+    "16006002",
+    "16006006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160020190072"
+      ],
+      [
+        "o160060010063"
+      ],
+      [
+        "o160060020032"
+      ],
+      [
+        "o160060060052"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o160060020122"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o160020190092"
+      ],
+      [
+        "o160020190112"
+      ],
+      [
+        "o160020190132"
+      ],
+      [
+        "o160060020052"
+      ],
+      [
+        "o160060020072"
+      ],
+      [
+        "o160060020142"
+      ],
+      [
+        "o160060040012"
+      ],
+      [
+        "o160060090052"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "delivery": "mocking",
+        "quote_type": "Normal",
+        "words": [
+          "o160020190141",
+          "o160020190151",
+          "o160020190152",
+          "o160020190161",
+          "o160020190162",
+          "o160020190171",
+          "o160020190181",
+          "o160020190191",
+          "o160020190201",
+          "o160020190202",
+          "o160020190211",
+          "o160020190212",
+          "o160020190221",
+          "o160020190231"
+        ]
+      },
+      {
+        "delivery": "message, scheming",
+        "quote_type": "Normal",
+        "words": [
+          "o160060020061",
+          "o160060020062",
+          "o160060020071",
+          "o160060020072",
+          "o160060020081",
+          "o160060020091",
+          "o160060020091ה",
+          "o160060020092",
+          "o160060020101",
+          "o160060020102",
+          "o160060020111"
+        ]
+      },
+      {
+        "quote_type": "Quotation",
+        "words": [
+          "o160060090061",
+          "o160060090071",
+          "o160060090072",
+          "o160060090081",
+          "o160060090091",
+          "o160060090092",
+          "o160060090101",
+          "o160060090102",
+          "o160060090111"
+        ]
+      }
+    ]
+  }
+}

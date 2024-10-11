@@ -1,0 +1,51 @@
+{
+  "id": "group:Lepers",
+  "primary_id": "group:Lepers",
+  "type": "group",
+  "group_type": "other",
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Group of Lepers",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Group of Lepers",
+          "description": "A group of people with leprosy."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "42017012",
+    "42017013"
+  ],
+  "references": [
+    "42017012",
+    "42017013"
+  ],
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42017012010"
+      ],
+      [
+        "n42017013005"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n42017013006",
+          "n42017013007",
+          "n42017013008",
+          "n42017013009"
+        ]
+      }
+    ]
+  }
+}

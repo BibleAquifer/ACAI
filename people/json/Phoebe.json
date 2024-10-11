@@ -1,0 +1,76 @@
+{
+  "id": "person:Phoebe",
+  "primary_id": "person:Phoebe",
+  "alternate_sources": {
+    "aquifer": [
+      "7720|Phoebe|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Phoebe@Rom.16.1-"
+    ],
+    "vizbible": [
+      "recmnue2SMGYuS1cD"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Phoebe",
+      "alternate_labels": [
+        "Phebe"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Phoebe",
+          "article": "person:Phoebe",
+          "description": "Phoebe, also known as Phebe, was a woman mentioned in the New Testament in Romans 16:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "45016001",
+    "45016027"
+  ],
+  "references": [
+    "45016001",
+    "45016027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45016001004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n45016002002"
+      ],
+      [
+        "n45016002011"
+      ],
+      [
+        "n45016002020"
+      ],
+      [
+        "n45016009005"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n45016001008"
+      ],
+      [
+        "n45016002016"
+      ]
+    ]
+  }
+}

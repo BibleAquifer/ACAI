@@ -1,0 +1,70 @@
+{
+  "id": "person:Jahath.5",
+  "primary_id": "person:Libni",
+  "alternate_sources": {
+    "aquifer": [
+      "6172|Jahath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002918001002000"
+    ],
+    "tipnr": [
+      "Jahath|Libni@Exo.6.17-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gershon",
+  "offspring": [
+    "person:Jehiel.2",
+    "person:Zetham",
+    "person:Joel.9"
+  ],
+  "siblings": [
+    "person:Shimei.4"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002918001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jahath (Libni)",
+      "alternate_labels": [
+        "Libni"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Libni",
+          "article": "person:Jahath.5",
+          "description": "A man from the tribe of Levi, son of Gershon, and known by alternate names such as Libni and Ladan, living during the time of Egypt and the wilderness."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Libni"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יַחַת",
+      "יַ֫חַת"
+    ]
+  },
+  "key_references": [
+    "13006028"
+  ],
+  "references": [
+    "13006028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060280021"
+      ]
+    ]
+  }
+}

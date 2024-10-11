@@ -1,0 +1,58 @@
+{
+  "id": "fauna:Seagull",
+  "primary_id": "fauna:Seagull",
+  "alternate_sources": {
+    "aquifer": [
+      "8179|Seagull|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007294001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.20"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "007294001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seagull",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seagull",
+          "article": "fauna:Seagull",
+          "description": "A seabird with white and gray or black wings that feeds on fish and plankton and is considered ceremonially unclean in the Bible."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שַׁחַף"
+    ]
+  },
+  "key_references": [
+    "03011016",
+    "05014015"
+  ],
+  "references": [
+    "03011016",
+    "05014015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110160072"
+      ],
+      [
+        "o050140150072"
+      ]
+    ]
+  }
+}

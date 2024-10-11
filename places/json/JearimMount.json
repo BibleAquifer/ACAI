@@ -1,0 +1,101 @@
+{
+  "id": "place:JearimMount",
+  "primary_id": "place:Chesalon",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003375001001000"
+    ],
+    "tipnr": [
+      "Jearim_Mount|Chesalon@Jos.15.10"
+    ],
+    "vizbible": [
+      "recGREfrlC7wOAx9t"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003375001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Jearim",
+      "alternate_labels": [
+        "Chesalon",
+        "Jearim",
+        "Jearim Mount"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountJearim",
+          "gloss": "Mount Jearim",
+          "description": "A mountain between Kiriath-Jearim and Beth-Shemesh, in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Chesalon"
+  ],
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Kiriath-jearim",
+    "place:Beth-shemesh"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כְּסָלֹון",
+      "כְּסָלוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.781049",
+      "lon": "35.05113"
+    },
+    "vizbible": {
+      "lat": "31.781049",
+      "lon": "35.05113"
+    }
+  },
+  "key_references": [
+    "06015010"
+  ],
+  "references": [
+    "06015010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150100121"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060150100141"
+      ]
+    ]
+  }
+}

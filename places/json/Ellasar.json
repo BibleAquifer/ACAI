@@ -1,0 +1,92 @@
+{
+  "id": "place:Ellasar",
+  "primary_id": "place:Ellasar",
+  "alternate_sources": {
+    "aquifer": [
+      "5036|Ellasar|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6f4a6d"
+    ],
+    "ubsdbh": [
+      "000460001001000"
+    ],
+    "tipnr": [
+      "Ellasar@Gen.14.1-"
+    ],
+    "vizbible": [
+      "recLYTCe3Z3iJpczz"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2712606"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000460001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ellasar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ellasar",
+          "gloss": "Ellasar",
+          "description": "A region, the location of which is unknown, ruled by Arioch, who joined Chedorlaomer and two other kings to launch a campaign into Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶלָּסָר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.056944",
+      "lon": "40.997222"
+    },
+    "vizbible": {
+      "lat": "37.056944",
+      "lon": "40.997222"
+    }
+  },
+  "key_references": [
+    "01014009",
+    "01014001"
+  ],
+  "references": [
+    "01014001",
+    "01014009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140010081"
+      ],
+      [
+        "o010140090131"
+      ]
+    ]
+  }
+}

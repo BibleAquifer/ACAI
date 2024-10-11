@@ -1,0 +1,91 @@
+{
+  "id": "place:Dabbesheth",
+  "primary_id": "place:Dabbesheth",
+  "alternate_sources": {
+    "aquifer": [
+      "4733|Dabbesheth|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a411151"
+    ],
+    "ubsdbh": [
+      "001566002001000"
+    ],
+    "tipnr": [
+      "Dabbesheth@Jos.19.11"
+    ],
+    "vizbible": [
+      "recy0HyLOIi5C4CQQ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5207438"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001566002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dabbesheth",
+      "alternate_labels": [
+        "Dabbasheth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dabbesheth",
+          "gloss": "Dabbesheth",
+          "description": "A town in the territory of Zebulun."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "דַּבֶּשֶׁת",
+      "דַּבֶּ֫שֶׁת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33",
+      "lon": "35.266682"
+    },
+    "vizbible": {
+      "lat": "33",
+      "lon": "35.266682"
+    }
+  },
+  "key_references": [
+    "06019011"
+  ],
+  "references": [
+    "06019011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190110062"
+      ]
+    ]
+  }
+}

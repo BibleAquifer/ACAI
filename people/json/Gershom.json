@@ -1,0 +1,95 @@
+{
+  "id": "person:Gershom",
+  "primary_id": "person:Gershom",
+  "alternate_sources": {
+    "aquifer": [
+      "5430|Gershom|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001512001001000"
+    ],
+    "tipnr": [
+      "Gershom@Exo.2.22-1Ch"
+    ],
+    "vizbible": [
+      "recUmtvv9Um4TlN2d"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Moses",
+  "mother": "person:Zipporah",
+  "offspring": [
+    "person:Jonathan.2",
+    "person:Shebuel"
+  ],
+  "siblings": [
+    "person:Eliezer.3"
+  ],
+  "tribe": "group:Levi",
+  "related_places": {
+    "birth_place": [
+      "place:Midian"
+    ]
+  },
+  "ubsdbh": [
+    "001512001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gershom",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gershom",
+          "article": "person:Gershom",
+          "description": "A son of Moses and Zipporah from the tribe of Levi, who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֵּרְשֹׁום",
+      "גֵּרְשֹׁם"
+    ]
+  },
+  "key_references": [
+    "02002022",
+    "02018003",
+    "07018030",
+    "44007029"
+  ],
+  "references": [
+    "02002022",
+    "02018003",
+    "07018030",
+    "13023015",
+    "13023016",
+    "13026024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020020220061"
+      ],
+      [
+        "o020180030071"
+      ],
+      [
+        "o070180300091"
+      ],
+      [
+        "o130230150031"
+      ],
+      [
+        "o130230160021"
+      ],
+      [
+        "o130260240031"
+      ]
+    ]
+  }
+}

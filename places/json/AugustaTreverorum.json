@@ -1,0 +1,39 @@
+{
+  "id": "place:AugustaTreverorum",
+  "primary_id": "place:AugustaTreverorum",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:AugustaTreverorum",
+          "gloss": "Augusta Treverorum",
+          "description": "A Roman city honoring Caesar Augustus located on the Moselle River; modern-day Trier, Germany."
+        }
+      ],
+      "preferred_label": "Augusta Treverorum",
+      "alternate_labels": [
+        "City of Augustus in the Land of the Treveri",
+        "Trier"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "49.7505",
+      "lon": "6.63124"
+    }
+  }
+}

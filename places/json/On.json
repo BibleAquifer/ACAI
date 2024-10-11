@@ -1,0 +1,110 @@
+{
+  "id": "place:On",
+  "primary_id": "place:On",
+  "alternate_sources": {
+    "aquifer": [
+      "7502|On (Place)|TyndaleBibleDictionary"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/599943"
+    ],
+    "tipnr": [
+      "On@Gen.41.45-Ezk"
+    ],
+    "vizbible": [
+      "recK0feE032FY9Hxi"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "On",
+      "alternate_labels": [
+        "Heliopolis",
+        "Aven",
+        "temple of the sun",
+        "Beth-Shemesh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:On",
+          "gloss": "On",
+          "description": "A town in Lower-Egypt, to be identified with Heliopolis; center of worship of solar deities such as Re and Atum (ABD)."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:CityOfDestruction"
+  ],
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.108086",
+      "lon": "31.33822"
+    },
+    "recogito": {
+      "lat": "37.15168",
+      "lon": "25.28064"
+    },
+    "vizbible": {
+      "lat": "30.108086",
+      "lon": "31.33822"
+    },
+    "biblica-maps": {
+      "lat": "34.00609",
+      "lon": "36.20396"
+    }
+  },
+  "key_references": [
+    "01046020",
+    "01041045"
+  ],
+  "references": [
+    "01041045",
+    "01041050",
+    "01046020",
+    "24043013",
+    "26030017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010410450151"
+      ],
+      [
+        "o010410500171"
+      ],
+      [
+        "o010460200131"
+      ],
+      [
+        "o240430130041",
+        "o240430130051"
+      ],
+      [
+        "o260300170021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "place:Ar",
+  "primary_id": "place:Ar",
+  "alternate_sources": {
+    "aquifer": [
+      "3775|Ar|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a38ad07"
+    ],
+    "ubsdbh": [
+      "005642002001000"
+    ],
+    "tipnr": [
+      "Ar@Num.21.15-Isa"
+    ],
+    "vizbible": [
+      "recCkaxQ22JmTMMcU"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4783035"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005642002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ar",
+          "gloss": "Ar",
+          "description": "A town in Moab near the Arnon River."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Arnon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.44980942",
+      "lon": "35.59395836"
+    },
+    "vizbible": {
+      "lat": "31.44980942",
+      "lon": "35.59395836"
+    }
+  },
+  "key_references": [
+    "05002009"
+  ],
+  "references": [
+    "04021015",
+    "04021028",
+    "05002009",
+    "05002010",
+    "05002018",
+    "05002029",
+    "23015001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210150061"
+      ],
+      [
+        "o040210280091"
+      ],
+      [
+        "o050020090231"
+      ],
+      [
+        "o050020180081"
+      ],
+      [
+        "o050020290102"
+      ],
+      [
+        "o230150010061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040210150052"
+      ],
+      [
+        "o230150010081"
+      ]
+    ]
+  }
+}

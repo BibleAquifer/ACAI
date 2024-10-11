@@ -1,0 +1,85 @@
+{
+  "id": "person:Shaul.2",
+  "primary_id": "person:Shaul.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8301|Shaul|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shaul@Gen.46.10-1Ch"
+    ],
+    "vizbible": [
+      "recFevgdCvLxkaEcW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simeon.5",
+  "mother": "person:CanaaniteWoman",
+  "offspring": [
+    "person:Shallum.6"
+  ],
+  "siblings": [
+    "person:Jemuel",
+    "person:Jamin",
+    "person:Ohad",
+    "person:Jachin",
+    "person:Zerah.6"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Simeon",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaul",
+      "alternate_labels": [
+        "Shaulite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shaul",
+          "article": "person:Shaul.2",
+          "description": "The son of the partriarch Simeon and a Canaanite woman. He was founder of the Shaulite clan."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Shaul"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046010",
+    "02006015",
+    "04026013"
+  ],
+  "references": [
+    "01046010",
+    "02006015",
+    "04026013",
+    "13004024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460100082"
+      ],
+      [
+        "o020060150082"
+      ],
+      [
+        "o040260130042"
+      ],
+      [
+        "o040260130062"
+      ],
+      [
+        "o130040240071"
+      ]
+    ]
+  }
+}

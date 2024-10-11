@@ -1,0 +1,56 @@
+{
+  "id": "person:Raham",
+  "primary_id": "person:Raham",
+  "alternate_sources": {
+    "aquifer": [
+      "7911|Raham|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006760001001000"
+    ],
+    "tipnr": [
+      "Raham@1Ch.2.44"
+    ],
+    "vizbible": [
+      "recxDs613r5LdFUDt"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shema",
+  "offspring": [
+    "person:Jorkeam"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "006760001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Raham",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Raham",
+          "article": "person:Raham",
+          "description": "Raham is a man from the tribe of Judah, mentioned in 1 Chronicles 2:44, living during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002044"
+  ],
+  "references": [
+    "13002044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020440041"
+      ]
+    ]
+  }
+}

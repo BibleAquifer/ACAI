@@ -1,0 +1,45 @@
+{
+  "id": "person:MotherinlawOfPeter",
+  "primary_id": "person:MotherinlawOfPeter",
+  "alternate_sources": {
+    "tipnr": [
+      "motherInLaw_of_Peter@Mat.8.14-Luk"
+    ],
+    "vizbible": [
+      "recfDCye2qNHFp6By"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "offspring": [
+    "person:WifeOfPeter"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Peter's Mother-in-law",
+      "alternate_labels": [
+        "Mother of the Wife of Simon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Peter's Mother-in-Law",
+          "article": "person:MotherinlawOfPeter",
+          "description": "The mother of the apostle Peter's wife."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40008014",
+    "41001030",
+    "42004038"
+  ],
+  "references": [
+    "40008014",
+    "41001030",
+    "42004038"
+  ]
+}

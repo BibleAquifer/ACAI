@@ -1,0 +1,92 @@
+{
+  "id": "place:Millo",
+  "primary_id": "place:Millo",
+  "alternate_sources": {
+    "aquifer": [
+      "7141|Millo|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Akra|Millo@2Sa.5.9-2Ch",
+      "Millo@2Sa.5.9-2Ch"
+    ],
+    "vizbible": [
+      "rec0jxSkEigFIdFqj"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Millo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Millo",
+          "gloss": "Millo",
+          "description": "Exact meaning unsure; probably part of the fortifications of the City of David, often identified with the so-called \"stepped stone structure\" on the east."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Akra"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "fortification",
+      "settlement"
+    ],
+    "acai": [
+      "fortification"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "10005009"
+  ],
+  "references": [
+    "10005009",
+    "11009015",
+    "11009024",
+    "11011027",
+    "13011008",
+    "14032005",
+    "23022009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100050090122"
+      ],
+      [
+        "o110090150152"
+      ],
+      [
+        "o110090240152"
+      ],
+      [
+        "o110110270102"
+      ],
+      [
+        "o130110080052"
+      ],
+      [
+        "o140320050152"
+      ]
+    ]
+  }
+}

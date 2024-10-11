@@ -1,0 +1,66 @@
+{
+  "id": "place:Allon",
+  "primary_id": "place:Allon",
+  "alternate_sources": {
+    "aquifer": [
+      "3516|Allon (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000402001001000"
+    ],
+    "tipnr": [
+      "Allon@Jos.19.33"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000402001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Allon",
+      "alternate_labels": [
+        "large tree",
+        "oak"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Allon",
+          "gloss": "Allon",
+          "description": "An oak tree near Zaanannim that served as a landmark."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Zaanannim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "tree"
+    ],
+    "acai": [
+      "tree"
+    ]
+  },
+  "key_references": [
+    "06019033"
+  ],
+  "references": [
+    "06019033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190330042"
+      ]
+    ]
+  }
+}

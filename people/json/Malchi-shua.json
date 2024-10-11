@@ -1,0 +1,100 @@
+{
+  "id": "person:Malchi-shua",
+  "primary_id": "person:Malchi-shua",
+  "alternate_sources": {
+    "aquifer": [
+      "6898|Malchi-Shua|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004056001001000"
+    ],
+    "tipnr": [
+      "Malchi-shua@1Sa.14.49-1Ch"
+    ],
+    "vizbible": [
+      "recOssJSPIRIqtEk2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Saul.2",
+  "mother": "person:Ahinoam",
+  "siblings": [
+    "person:Jonathan.3",
+    "person:Abinadab.2",
+    "person:Merab",
+    "person:Michal",
+    "person:Ish-bosheth",
+    "person:Armoni",
+    "person:Mephibosheth.2"
+  ],
+  "roles": [
+    "Royal Family Member",
+    "Warrior"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "004056001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Malchi-shua",
+      "alternate_labels": [
+        "Melchi-shua",
+        "Malki-Shua"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Malchi-Shua",
+          "article": "person:Malchi-shua",
+          "description": "A son of King Saul, killed in battle by the Philistines."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַלְכִּי־שׁוּעַ",
+      "מַלְכִּישׁוּעַ"
+    ]
+  },
+  "key_references": [
+    "09014049",
+    "09031002",
+    "13010002"
+  ],
+  "references": [
+    "09014049",
+    "09031002",
+    "13008033",
+    "13009039",
+    "13010002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090140490062",
+        "o090140490071"
+      ],
+      [
+        "o090310020141",
+        "o090310020151"
+      ],
+      [
+        "o130080330141",
+        "o130080330151"
+      ],
+      [
+        "o130090390141",
+        "o130090390151"
+      ],
+      [
+        "o130100020141",
+        "o130100020151"
+      ]
+    ]
+  }
+}

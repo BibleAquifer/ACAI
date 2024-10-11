@@ -1,0 +1,36 @@
+{
+  "id": "place:WildernessOfMaon",
+  "primary_id": "place:WildernessOfMaon",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:WildernessOfMaon",
+          "gloss": "Wilderness of Maon",
+          "description": "A wilderness in the territory of Judah near the town of Maon."
+        }
+      ],
+      "preferred_label": "Wilderness of Maon"
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "wilderness"
+    ]
+  },
+  "key_references": [
+    "09023024",
+    "09023025"
+  ]
+}

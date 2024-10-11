@@ -1,0 +1,54 @@
+{
+  "id": "person:Salu",
+  "primary_id": "person:Salu",
+  "alternate_sources": {
+    "aquifer": [
+      "8118|Salu|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005084001001000"
+    ],
+    "tipnr": [
+      "Salu@Num.25.14"
+    ],
+    "vizbible": [
+      "recC1mHW6F7J0UXLm"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Zimri.3"
+  ],
+  "ubsdbh": [
+    "005084001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Salu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Salu",
+          "article": "person:Salu",
+          "description": "Salu was a man living during the time of Egypt and the wilderness, mentioned only in Numbers 25:14 as the father of Zimri."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04025014"
+  ],
+  "references": [
+    "04025014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040250140111"
+      ]
+    ]
+  }
+}

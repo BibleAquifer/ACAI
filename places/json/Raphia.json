@@ -1,0 +1,42 @@
+{
+  "id": "place:Raphia",
+  "primary_id": "place:Raphia",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Raphia",
+          "gloss": "Raphia",
+          "description": "A city southwest of Gaza, near the Egyptian border. It was the location of a battle between Ptolemy IV and ANtiochus III (3 Maccabees 1:1)."
+        }
+      ],
+      "preferred_label": "Raphia",
+      "alternate_labels": [
+        "Rafiah",
+        "Rafah"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": true,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "31.28905",
+      "lon": "34.24218"
+    }
+  }
+}

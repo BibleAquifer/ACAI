@@ -1,0 +1,91 @@
+{
+  "id": "place:Holon.2",
+  "primary_id": "place:Holon.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5880|Holon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002284001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/294751"
+    ],
+    "tipnr": [
+      "Holon@Jer.48.21"
+    ],
+    "vizbible": [
+      "recEvdb5Jza5GRTR3"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002284001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Holon (of Moab)",
+      "alternate_labels": [
+        "Holon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Holon.2",
+          "gloss": "Holon (of Moab)",
+          "description": "A town in Moab."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֹלֹון",
+      "חֹלוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.50100308502659",
+      "lon": "35.92063125199366"
+    },
+    "recogito": {
+      "lat": "32.01034",
+      "lon": "34.77918"
+    },
+    "vizbible": {
+      "lat": "31.50100308502659",
+      "lon": "35.92063125199366"
+    }
+  },
+  "key_references": [
+    "24048021"
+  ],
+  "references": [
+    "24048021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240480210071"
+      ]
+    ]
+  }
+}

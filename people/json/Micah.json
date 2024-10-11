@@ -1,0 +1,71 @@
+{
+  "id": "person:Micah",
+  "primary_id": "person:Mica",
+  "alternate_sources": {
+    "aquifer": [
+      "7106|Micah (Person)|TyndaleBibleDictionary",
+      "26874|Micah|UWTranslationWords",
+      "132522|Micah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003946001008000"
+    ],
+    "tipnr": [
+      "Micah|Mica@1Ch.9.15-Neh"
+    ],
+    "vizbible": [
+      "recIz1t7x7LMO3kyz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zichri.5",
+  "offspring": [
+    "person:Mattaniah"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "003946001008000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Micah (Mica)",
+      "alternate_labels": [
+        "Micha",
+        "Mika",
+        "Mica"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mica",
+          "article": "person:Micah",
+          "description": "Micah, also known as Micha, Mika, or Mica, was a Levite living during the exile and return, first mentioned in 1 Chronicles 9:15 as the son of Zichri and father of Mattaniah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Mica"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִיכָה"
+    ]
+  },
+  "key_references": [
+    "16011017"
+  ],
+  "references": [
+    "16011017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110170031"
+      ]
+    ]
+  }
+}

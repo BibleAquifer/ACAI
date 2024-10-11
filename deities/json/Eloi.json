@@ -1,0 +1,71 @@
+{
+  "id": "deity:Eloi",
+  "primary_id": "deity:Lord",
+  "alternate_sources": {
+    "aquifer": [
+      "5043|Eloi, Eloi, Lama Sabachthani?|TyndaleBibleDictionary",
+      "5043|Eloi, Eloi, Lama Sabachthani?|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "12.3"
+    ],
+    "tipnr": [
+      "Eloi|LORD@Gen.1.1-Heb"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdgnt": [
+    "12.3"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eloi (LORD)",
+      "alternate_labels": [
+        "LORD"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "LORD",
+          "article": "deity:Eloi",
+          "description": "An Aramaic name for God uttered by Jesus while on the cross."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Lord"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐλωΐ",
+      "ἠλί"
+    ]
+  },
+  "key_references": [
+    "40027046",
+    "41015034"
+  ],
+  "references": [
+    "40027046",
+    "41015034"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41015034010",
+        "n41015034011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n41015034013"
+      ]
+    ]
+  }
+}

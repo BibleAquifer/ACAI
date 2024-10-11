@@ -1,0 +1,98 @@
+{
+  "id": "place:Abilene",
+  "primary_id": "place:Abilene",
+  "alternate_sources": {
+    "aquifer": [
+      "3303|Abilene|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a498faa"
+    ],
+    "ubsdgnt": [
+      "93.389"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/677994",
+      "http://pleiades.stoa.org/places/677994"
+    ],
+    "tipnr": [
+      "Abilene@Luk.3.1"
+    ],
+    "vizbible": [
+      "recl6kK6UbFYzvDie"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1280728"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.389"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abilene",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Abilene",
+          "gloss": "Abilene",
+          "description": "A region around the city of Abila, northwest of Damascus, ruled over by Lysanias."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Abila",
+    "place:Ituraea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἀβιληνή"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.5873",
+      "lon": "36.09171"
+    },
+    "recogito": {
+      "lat": "33.75",
+      "lon": "35.75"
+    },
+    "vizbible": {
+      "lat": "33.5873",
+      "lon": "36.09171"
+    }
+  },
+  "key_references": [
+    "42003001"
+  ],
+  "references": [
+    "42003001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003001033"
+      ]
+    ]
+  }
+}

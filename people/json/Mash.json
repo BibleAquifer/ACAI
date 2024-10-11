@@ -1,0 +1,64 @@
+{
+  "id": "person:Mash",
+  "primary_id": "person:Mash",
+  "alternate_sources": {
+    "aquifer": [
+      "6965|Mash|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Meshech|Mash@Gen.10.23-1Ch",
+      "Mash@Gen.10.23-1Ch"
+    ],
+    "vizbible": [
+      "recw0MQvn8ztexlJX"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Aram",
+  "siblings": [
+    "person:Uz",
+    "person:Hul",
+    "person:Gether"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mash",
+      "alternate_labels": [
+        "Meshech"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mash",
+          "article": "person:Mash",
+          "description": "A man from the time of the patriarchs, son of Aram, and brother of Uz, Hul, and Gether, mentioned in Genesis 10:23 and called Meshech in 1 Chronicles 1:17."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Meshech"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010023",
+    "13001017"
+  ],
+  "references": [
+    "01010023",
+    "13001017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100230062"
+      ],
+      [
+        "o130010170112"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": "place:Jabesh-gilead",
+  "primary_id": "place:Jabesh-gilead",
+  "alternate_sources": {
+    "aquifer": [
+      "6147|Jabesh, Jabesh-Gilead (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af92088"
+    ],
+    "tipnr": [
+      "Jabesh-gilead@Jdg.21.8-1Ch"
+    ],
+    "vizbible": [
+      "reczL2DzDEB0XnRNv"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2905361"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jabesh-gilead",
+      "alternate_labels": [
+        "Jabesh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jabesh-gilead",
+          "gloss": "Jabesh-Gilead",
+          "description": "A town in Gilead in Transjordan."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Gilead"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.37982175",
+      "lon": "35.61158746"
+    },
+    "vizbible": {
+      "lat": "32.37982175",
+      "lon": "35.61158746"
+    }
+  },
+  "key_references": [
+    "07021008",
+    "09031011",
+    "07021012",
+    "07021010",
+    "09031012"
+  ],
+  "references": [
+    "07021008",
+    "07021009",
+    "07021010",
+    "07021012",
+    "07021014",
+    "07021022",
+    "09010027",
+    "09011001",
+    "09011003",
+    "09011005",
+    "09011009",
+    "09011010",
+    "09031011",
+    "09031012",
+    "09031013",
+    "10002004",
+    "10002005",
+    "10021012",
+    "13010011",
+    "13010012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070210080182",
+        "o070210080191"
+      ],
+      [
+        "o070210090081",
+        "o070210090091"
+      ],
+      [
+        "o070210100171",
+        "o070210100181"
+      ],
+      [
+        "o070210120031",
+        "o070210120041"
+      ],
+      [
+        "o070210140111",
+        "o070210140121"
+      ],
+      [
+        "o090110010061",
+        "o090110010071"
+      ],
+      [
+        "o090110010111"
+      ],
+      [
+        "o090110030041"
+      ],
+      [
+        "o090110050191"
+      ],
+      [
+        "o090110090071",
+        "o090110090081"
+      ],
+      [
+        "o090110090201"
+      ],
+      [
+        "o090110100031"
+      ],
+      [
+        "o090310110041",
+        "o090310110051"
+      ],
+      [
+        "o090310120191"
+      ],
+      [
+        "o090310130072"
+      ],
+      [
+        "o100020040161",
+        "o100020040171"
+      ],
+      [
+        "o100020050061",
+        "o100020050071"
+      ],
+      [
+        "o100210120131",
+        "o100210120141"
+      ],
+      [
+        "o130100110031",
+        "o130100110041"
+      ],
+      [
+        "o130100120131"
+      ],
+      [
+        "o130100120192"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090110030092"
+      ],
+      [
+        "o090110030182"
+      ]
+    ]
+  }
+}

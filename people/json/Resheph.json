@@ -1,0 +1,60 @@
+{
+  "id": "person:Resheph",
+  "primary_id": "person:Resheph",
+  "alternate_sources": {
+    "aquifer": [
+      "8009|Resheph|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006949002001000"
+    ],
+    "tipnr": [
+      "Resheph@1Ch.7.25"
+    ],
+    "vizbible": [
+      "recq1xoU6M097jizG"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Beriah.2",
+  "offspring": [
+    "person:Telah"
+  ],
+  "siblings": [
+    "person:Sheerah",
+    "person:Rephah"
+  ],
+  "tribe": "group:Ephraim",
+  "ubsdbh": [
+    "006949002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Resheph",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Resheph",
+          "article": "person:Resheph",
+          "description": "Resheph was a man from the tribe of Ephraim during the divided kingdom and the son of Beriah, mentioned only in 1 Chronicles 7:25."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007025"
+  ],
+  "references": [
+    "13007025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070250032"
+      ]
+    ]
+  }
+}

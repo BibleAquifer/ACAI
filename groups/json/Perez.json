@@ -1,0 +1,54 @@
+{
+  "id": "group:Perez",
+  "primary_id": "group:Perez",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006029001001000"
+    ],
+    "tipnr": [
+      "Perez@Gen.38.29-Luk"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Perez",
+  "ubsdbh": [
+    "006029001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Perezites",
+      "alternate_labels": [
+        "Perez"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Perezites",
+          "article": "group:Perez",
+          "description": "People descended from Perez."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "פְּרָצִים"
+    ]
+  },
+  "key_references": [
+    "04026020"
+  ],
+  "references": [
+    "04026020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260200102"
+      ]
+    ]
+  }
+}

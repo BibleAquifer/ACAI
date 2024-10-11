@@ -1,0 +1,88 @@
+{
+  "id": "person:Shobi",
+  "primary_id": "person:Shobi",
+  "alternate_sources": {
+    "aquifer": [
+      "8443|Shobi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007163001001000"
+    ],
+    "tipnr": [
+      "Shobi@2Sa.17.27"
+    ],
+    "vizbible": [
+      "recYVkYYwKuWwyUAo"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nahash.4",
+  "tribe": "group:Ammon",
+  "ubsdbh": [
+    "007163001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shobi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shobi",
+          "article": "person:Shobi",
+          "description": "Shobi was an Ammonite living during the time of Israel's united kingdom, only mentioned in 2 Samuel 17:27."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שֹׁבַי",
+      "שֹׁבָ֑י"
+    ]
+  },
+  "key_references": [
+    "10017027"
+  ],
+  "references": [
+    "10017027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100170270052"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100170290061"
+      ],
+      [
+        "o100170290131"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o100170290141",
+          "o100170290142",
+          "o100170290151",
+          "o100170290161",
+          "o100170290162",
+          "o100170290171",
+          "o100170290172",
+          "o100170290181",
+          "o100170290181ה",
+          "o100170290182"
+        ]
+      }
+    ]
+  }
+}

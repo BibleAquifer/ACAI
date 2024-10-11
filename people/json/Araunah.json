@@ -1,0 +1,109 @@
+{
+  "id": "person:Araunah",
+  "primary_id": "person:Ornan",
+  "alternate_sources": {
+    "aquifer": [
+      "3706|Araunah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000670001001000"
+    ],
+    "tipnr": [
+      "Araunah|Ornan@2Sa.24.16-2Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "000670001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Araunah (Ornan)",
+      "alternate_labels": [
+        "Ornan",
+        "Ornah",
+        "Arania"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ornan",
+          "article": "person:Araunah",
+          "description": "A Jebusite man, whose name is also spelled Orna in the LXX, living during Israel’s united kingdom. He was known for selling his threshing floor to David."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ornan"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲרַוְנָה"
+    ]
+  },
+  "key_references": [
+    "10024016",
+    "10024017",
+    "10024018",
+    "10024019",
+    "10024020",
+    "10024021",
+    "10024022",
+    "10024023",
+    "10024024"
+  ],
+  "references": [
+    "10024016",
+    "10024018",
+    "10024020",
+    "10024021",
+    "10024022",
+    "10024023",
+    "10024024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100240160242"
+      ],
+      [
+        "o100240180151"
+      ],
+      [
+        "o100240200021"
+      ],
+      [
+        "o100240200111"
+      ],
+      [
+        "o100240210021"
+      ],
+      [
+        "o100240220021"
+      ],
+      [
+        "o100240230031"
+      ],
+      [
+        "o100240230071"
+      ],
+      [
+        "o100240240041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100240200032"
+      ],
+      [
+        "o100240200122"
+      ]
+    ]
+  }
+}

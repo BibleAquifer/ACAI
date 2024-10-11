@@ -1,0 +1,89 @@
+{
+  "id": "place:Ahlab",
+  "primary_id": "place:Ahlab",
+  "alternate_sources": {
+    "aquifer": [
+      "3462|Ahlab|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a36348c"
+    ],
+    "tipnr": [
+      "Mahalab|Ahlab@Jdg.1.31-Jdg",
+      "Ahlab@Jdg.1.31-Jdg"
+    ],
+    "vizbible": [
+      "recRpCv9XP4GPVkPQ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6595658"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahlab",
+      "alternate_labels": [
+        "region",
+        "coast",
+        "Mahalab"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ahlab",
+          "gloss": "Ahlab",
+          "description": "A town in the territory of Asher."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Mahalab"
+  ],
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.02498036",
+      "lon": "35.44544658"
+    },
+    "vizbible": {
+      "lat": "33.02498036",
+      "lon": "35.44544658"
+    }
+  },
+  "key_references": [
+    "07001031"
+  ],
+  "references": [
+    "06019029",
+    "07001031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190290152"
+      ],
+      [
+        "o070010310111"
+      ]
+    ]
+  }
+}

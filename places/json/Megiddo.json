@@ -1,0 +1,148 @@
+{
+  "id": "place:Megiddo",
+  "primary_id": "place:Megiddo",
+  "alternate_sources": {
+    "aquifer": [
+      "7014|Megiddo, Megiddon|TyndaleBibleDictionary",
+      "7015|Megiddo, Waters of|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a8554e3"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21660"
+    ],
+    "tipnr": [
+      "Armageddon|Megiddo@Jos.12.21-Rev",
+      "Megiddo@Jos.12.21-Rev"
+    ],
+    "vizbible": [
+      "rechSy0aCb5vNVH3f"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q208379"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Megiddo",
+      "alternate_labels": [
+        "Plain of Megiddo",
+        "Armageddon",
+        "Valley of Megiddo",
+        "Megiddon",
+        "Waters of Megiddo"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Megiddo",
+          "gloss": "Megiddo",
+          "description": "A town in the territory of Manasseh, southwest of the Jezreel Valley, where King Josiah of Judah was killed during his battle with Pharaoh Neco; former Canaanite kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Armageddon"
+  ],
+  "tribal_area": "group:Manasseh",
+  "subregion_of": [
+    "place:TerritoryOfWestManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.58418314",
+      "lon": "35.18229166"
+    },
+    "recogito": {
+      "lat": "32.58505",
+      "lon": "35.18452"
+    },
+    "vizbible": {
+      "lat": "32.58505",
+      "lon": "35.18452"
+    }
+  },
+  "key_references": [
+    "07001027"
+  ],
+  "references": [
+    "06012021",
+    "06017011",
+    "07001027",
+    "07005019",
+    "11004012",
+    "11009015",
+    "12009027",
+    "12023029",
+    "12023030",
+    "13007029",
+    "14035022",
+    "38012011",
+    "66016016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120210051"
+      ],
+      [
+        "o060170110221"
+      ],
+      [
+        "o070010270261"
+      ],
+      [
+        "o070050190111"
+      ],
+      [
+        "o110040120052"
+      ],
+      [
+        "o110090150221"
+      ],
+      [
+        "o120090270241"
+      ],
+      [
+        "o120230290182"
+      ],
+      [
+        "o120230300042"
+      ],
+      [
+        "o130070290101"
+      ],
+      [
+        "o140350220201"
+      ],
+      [
+        "o380120110101"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n66016016010"
+      ]
+    ]
+  }
+}

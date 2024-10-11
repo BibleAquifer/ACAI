@@ -1,0 +1,39 @@
+{
+  "id": "place:Patras",
+  "primary_id": "place:Patras",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Patras",
+          "gloss": "Patras",
+          "description": "A seaport city in western Greece."
+        }
+      ],
+      "preferred_label": "Patras",
+      "alternate_labels": [
+        "Patra",
+        "Patrae"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "38.24785",
+      "lon": "21.73563"
+    }
+  }
+}

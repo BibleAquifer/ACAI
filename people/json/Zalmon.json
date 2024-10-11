@@ -1,0 +1,54 @@
+{
+  "id": "person:Zalmon",
+  "primary_id": "person:Zalmon",
+  "alternate_sources": {
+    "aquifer": [
+      "9131|Zalmon (Person)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ilai|Zalmon@2Sa.23.28-1Ch",
+      "Zalmon@2Sa.23.28-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zalmon",
+      "alternate_labels": [
+        "Ilai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zalmon",
+          "article": "person:Zalmon",
+          "description": "Zalmon, also called Ilai, was a man living during Israel's united kingdom, mentioned in 2 Samuel 23:28 and 1 Chronicles 11:29."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ilai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023028",
+    "13011029"
+  ],
+  "references": [
+    "10023028",
+    "13011029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230280011"
+      ],
+      [
+        "o130110290031"
+      ]
+    ]
+  }
+}

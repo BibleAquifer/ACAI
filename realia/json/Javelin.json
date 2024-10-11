@@ -1,0 +1,97 @@
+{
+  "id": "realia:Javelin",
+  "primary_id": "realia:Javelin",
+  "alternate_sources": {
+    "aquifer": [
+      "6243|Javelin|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003289001001000",
+      "007637001001000"
+    ],
+    "ubsrealia": [
+      "realia:2.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003289001001000",
+    "007637001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Javelin",
+      "alternate_labels": [
+        "Arrow",
+        "Dart"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Javelin",
+          "article": "realia:Javelin",
+          "description": "A light spear made of wood or reed that is thrown by hand."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כִּידֹון",
+      "שִׁרְיָה"
+    ]
+  },
+  "key_references": [
+    "06008018",
+    "09017006",
+    "24050042"
+  ],
+  "references": [
+    "06008018",
+    "06008026",
+    "09017006",
+    "09017045",
+    "18039023",
+    "18041018",
+    "18041021",
+    "24006023",
+    "24050042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060080180062"
+      ],
+      [
+        "o060080180162"
+      ],
+      [
+        "o060080260072"
+      ],
+      [
+        "o090170060052"
+      ],
+      [
+        "o090170450103"
+      ],
+      [
+        "o180390230062"
+      ],
+      [
+        "o180410210061"
+      ],
+      [
+        "o240060230022"
+      ],
+      [
+        "o240500420022"
+      ],
+      [
+        "o180410180072"
+      ]
+    ]
+  }
+}

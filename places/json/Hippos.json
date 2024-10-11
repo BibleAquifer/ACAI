@@ -1,0 +1,46 @@
+{
+  "id": "place:Hippos",
+  "primary_id": "place:Hippos",
+  "alternate_sources": {
+    "aquifer": [
+      "5858|Hippos|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hippos",
+          "gloss": "Hippos",
+          "description": "A Decapolis city in the Golan Heights, east of the Sea of Galilee."
+        }
+      ],
+      "preferred_label": "Hippos",
+      "alternate_labels": [
+        "Sussita"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Decapolis"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.77867",
+      "lon": "35.65979"
+    }
+  }
+}

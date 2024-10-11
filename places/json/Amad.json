@@ -1,0 +1,79 @@
+{
+  "id": "place:Amad",
+  "primary_id": "place:Amad",
+  "alternate_sources": {
+    "aquifer": [
+      "3534|Amad|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2f1fa1"
+    ],
+    "ubsdbh": [
+      "005512001001000"
+    ],
+    "tipnr": [
+      "Amad@Jos.19.26"
+    ],
+    "vizbible": [
+      "recQZawjLYtunaZaZ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005512001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Amad",
+          "gloss": "Amad",
+          "description": "A town in the territory of Asher."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.019337",
+      "lon": "35.173644"
+    },
+    "vizbible": {
+      "lat": "33.019337",
+      "lon": "35.173644"
+    }
+  },
+  "key_references": [
+    "06019026"
+  ],
+  "references": [
+    "06019026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190260022"
+      ]
+    ]
+  }
+}

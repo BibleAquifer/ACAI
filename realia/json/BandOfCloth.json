@@ -1,0 +1,94 @@
+{
+  "id": "realia:BandOfCloth",
+  "primary_id": "realia:BandOfCloth",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.156",
+      "6.159"
+    ],
+    "ubsrealia": [
+      "realia:10.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.156",
+    "6.159"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Band of Cloth",
+      "alternate_labels": [
+        "Strip of Cloth",
+        "Towel",
+        "Napkin",
+        "Handkerchief",
+        "Face Cloth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Band of Cloth",
+          "article": "realia:BandOfCloth",
+          "description": "A small piece of cloth used for wrapping, wiping, or cleaning."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κειρία",
+      "σουδάριον"
+    ]
+  },
+  "key_references": [
+    "43011044",
+    "43020007",
+    "44019012"
+  ],
+  "references": [
+    "42019020",
+    "43011044",
+    "43020007",
+    "44019012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43011044010"
+      ],
+      [
+        "n42019020015"
+      ],
+      [
+        "n43011044015"
+      ],
+      [
+        "n43020007003"
+      ],
+      [
+        "n44019012011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43020007004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43020007014"
+      ],
+      [
+        "n43020007017"
+      ]
+    ]
+  }
+}

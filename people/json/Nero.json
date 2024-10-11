@@ -1,0 +1,52 @@
+{
+  "id": "person:Nero",
+  "primary_id": "person:Nero",
+  "alternate_sources": {
+    "aquifer": [
+      "7368|Nero|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Caesar|Nero@Php.4.22-2Ti",
+      "Nero@Php.4.22-2Ti"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "tribe": "group:Italy",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nero",
+      "alternate_labels": [
+        "Caesar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nero",
+          "article": "person:Nero",
+          "description": "Nero, also known as Caesar, was a Roman Emperor during the time of the New Testament, mentioned in Philippians 4:22."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Caesar.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "50004022",
+    "55004022"
+  ],
+  "references": [
+    "50004022",
+    "55004022"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n50004022011"
+      ]
+    ]
+  }
+}

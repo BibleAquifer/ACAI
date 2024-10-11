@@ -1,0 +1,58 @@
+{
+  "id": "place:AsiaMinor",
+  "primary_id": "place:AsiaMinor",
+  "alternate_sources": {
+    "aquifer": [
+      "3818|Asia Minor|TyndaleBibleDictionary",
+      "132059|Asia Minor|BiblicaStudyNotesKeyTerms"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:AsiaMinor",
+          "gloss": "Asia Minor",
+          "description": "A peninsula in southwestern Asia, modern-day central and western Turkey; several letters in the New Testament are addressed to churches in this region."
+        }
+      ],
+      "preferred_label": "Asia Minor",
+      "alternate_labels": [
+        "Anatolia"
+      ]
+    }
+  },
+  "associated_places": [
+    "place:Pergamum",
+    "place:Thyatira",
+    "place:Sardis",
+    "place:Smyrna",
+    "place:Philadelphia",
+    "place:Ephesus",
+    "place:Laodicea"
+  ],
+  "nearby_places": [
+    "place:GreatSea",
+    "place:AegeanSea",
+    "place:Syria",
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": true,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "region",
+      "peninsula"
+    ]
+  },
+  "key_references": [
+    "44006009",
+    "44016006"
+  ]
+}

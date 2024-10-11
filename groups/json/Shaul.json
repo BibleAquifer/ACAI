@@ -1,0 +1,52 @@
+{
+  "id": "group:Shaul",
+  "primary_id": "group:Shaul",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007127001001000"
+    ],
+    "tipnr": [
+      "Shaul@Gen.46.10-1Ch"
+    ],
+    "vizbible": [
+      "recFevgdCvLxkaEcW"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Shaul.2",
+  "ubsdbh": [
+    "007127001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaulites",
+      "alternate_labels": [
+        "Shaul"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shaulites",
+          "article": "group:Shaul",
+          "description": "People descended from Shaul."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026013"
+  ],
+  "references": [
+    "04026013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260130062"
+      ]
+    ]
+  }
+}

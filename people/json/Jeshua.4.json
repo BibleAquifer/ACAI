@@ -1,0 +1,109 @@
+{
+  "id": "person:Jeshua.4",
+  "primary_id": "person:Jeshua.4",
+  "alternate_sources": {
+    "aquifer": [
+      "6344|Jeshua (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003151001004000"
+    ],
+    "tipnr": [
+      "Jeshua@Ezr.2.40-Neh"
+    ],
+    "vizbible": [
+      "recIkMEqklOO7bpg8"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Azaniah",
+  "roles": [
+    "Priest"
+  ],
+  "ubsdbh": [
+    "003151001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeshua",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeshua",
+          "article": "person:Jeshua.4",
+          "description": "A son of Azaniah and Levite living after the Israelite return from exile."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֵשׁוּעַ"
+    ]
+  },
+  "key_references": [
+    "15002040",
+    "15003009",
+    "16012008"
+  ],
+  "references": [
+    "15002040",
+    "15003009",
+    "16007043",
+    "16008007",
+    "16009004",
+    "16009005",
+    "16010010",
+    "16012008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020400031"
+      ],
+      [
+        "o150030090021"
+      ],
+      [
+        "o160070430031"
+      ],
+      [
+        "o160080070012"
+      ],
+      [
+        "o160090040051"
+      ],
+      [
+        "o160090050031"
+      ],
+      [
+        "o160100100022"
+      ],
+      [
+        "o160120080021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o150030090102"
+      ],
+      [
+        "o150030100062"
+      ],
+      [
+        "o160080080012"
+      ],
+      [
+        "o160080080062"
+      ],
+      [
+        "o160090040132"
+      ]
+    ]
+  }
+}

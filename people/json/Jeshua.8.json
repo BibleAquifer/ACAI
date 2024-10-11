@@ -1,0 +1,67 @@
+{
+  "id": "person:Jeshua.8",
+  "primary_id": "person:Joshua.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6344|Jeshua (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003151001007000"
+    ],
+    "tipnr": [
+      "Jeshua|Joshua@Exo.17.9-Heb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nun",
+  "roles": [
+    "Army Commander",
+    "Warrior",
+    "Tribal Chief"
+  ],
+  "tribe": "group:Ephraim",
+  "ubsdbh": [
+    "003151001007000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeshua (Joshua)",
+      "alternate_labels": [
+        "Joshua (Son of Nun)",
+        "Joshua"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joshua (Son of Nun)",
+          "article": "person:Jeshua.8",
+          "description": "A judge from the tribe of Ephraim, son of Nun, also called Joshua, who led Israel into Canaan after Moses."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Joshua.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֵשׁוּעַ"
+    ]
+  },
+  "key_references": [
+    "16008017"
+  ],
+  "references": [
+    "16008017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160080170141"
+      ]
+    ]
+  }
+}

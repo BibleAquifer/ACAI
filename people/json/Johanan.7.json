@@ -1,0 +1,67 @@
+{
+  "id": "person:Johanan.7",
+  "primary_id": "person:Johanan.7",
+  "alternate_sources": {
+    "aquifer": [
+      "6406|Johanan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002825001003000"
+    ],
+    "tipnr": [
+      "Johanan@1Ch.6.9-"
+    ],
+    "vizbible": [
+      "recc62h1X041TkrpY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Azariah.2",
+  "offspring": [
+    "person:Azariah.6"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002825001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Johanan (1 Chronicles 6:9)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Johanan (1 Chronicles 6:9)",
+          "article": "person:Johanan.7",
+          "description": "A high priest from the tribe of Levi, son of Azariah, mentioned in 1 Chronicles 6:9."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹוחָנָן",
+      "יוֹחָנָן"
+    ]
+  },
+  "key_references": [
+    "13005035",
+    "13005036"
+  ],
+  "references": [
+    "13005035",
+    "13005036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050350081"
+      ],
+      [
+        "o130050360012"
+      ]
+    ]
+  }
+}

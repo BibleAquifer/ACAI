@@ -1,0 +1,68 @@
+{
+  "id": "person:Ithran",
+  "primary_id": "person:Ithran",
+  "alternate_sources": {
+    "aquifer": [
+      "6111|Ithran|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003210001001000"
+    ],
+    "tipnr": [
+      "Ithran@Gen.36.26-1Ch"
+    ],
+    "vizbible": [
+      "recEvZ0nR0eBUJ4td"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Dishon",
+  "siblings": [
+    "person:Hemdan",
+    "person:Eshban",
+    "person:Cheran"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "003210001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ithran",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ithran",
+          "article": "person:Ithran",
+          "description": "A man living during the time of the patriarchs, son of Dishon, and a descendant of Seir, mentioned in Genesis 36:26."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִתְרָן"
+    ]
+  },
+  "key_references": [
+    "01036026",
+    "13001041"
+  ],
+  "references": [
+    "01036026",
+    "13001041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360260062"
+      ],
+      [
+        "o130010410082"
+      ]
+    ]
+  }
+}

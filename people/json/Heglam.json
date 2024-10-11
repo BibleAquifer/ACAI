@@ -1,0 +1,68 @@
+{
+  "id": "person:Heglam",
+  "primary_id": "person:Gera.4",
+  "alternate_sources": {
+    "aquifer": [
+      "5766|Heglam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001413001014000"
+    ],
+    "tipnr": [
+      "Heglam|Gera@1Ch.8.7"
+    ],
+    "vizbible": [
+      "recRoZW1tA5I5FHbr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ehud",
+  "siblings": [
+    "person:Naaman.4",
+    "person:Ahijah.5",
+    "person:Uzza",
+    "person:Ahihud.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "001413001014000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heglam (Gera)",
+      "alternate_labels": [
+        "Gera",
+        "deported",
+        "Gera (1 Chronicles 8:7)",
+        "removed"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gera (1 Chronicles 8:7)",
+          "article": "person:Heglam",
+          "description": "Heglam, also known as Gera, was a man of the tribe of Benjamin living before Israel's monarchy, mentioned only in 1 Chronicles 8:7."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Gera.4"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008007"
+  ],
+  "references": [
+    "13008007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080070051"
+      ]
+    ]
+  }
+}

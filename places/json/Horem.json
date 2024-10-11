@@ -1,0 +1,87 @@
+{
+  "id": "place:Horem",
+  "primary_id": "place:Horem",
+  "alternate_sources": {
+    "aquifer": [
+      "5900|Horem|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a9cdd53"
+    ],
+    "ubsdbh": [
+      "002543001001000"
+    ],
+    "tipnr": [
+      "Horem@Jos.19.38"
+    ],
+    "vizbible": [
+      "recNefEpU8GoCZP4t"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002543001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Horem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Horem",
+          "gloss": "Horem",
+          "description": "A fortified town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֳרֵם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.166667",
+      "lon": "35.433333"
+    },
+    "vizbible": {
+      "lat": "33.166667",
+      "lon": "35.433333"
+    }
+  },
+  "key_references": [
+    "06019038"
+  ],
+  "references": [
+    "06019038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190380041"
+      ]
+    ]
+  }
+}

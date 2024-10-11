@@ -1,0 +1,98 @@
+{
+  "id": "place:Giloh",
+  "primary_id": "place:Giloh",
+  "alternate_sources": {
+    "aquifer": [
+      "5471|Gilo, Giloh, Gilonite|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6df20a"
+    ],
+    "tipnr": [
+      "Giloh@Jos.15.51-2Sa"
+    ],
+    "vizbible": [
+      "rec3WJ6kka7RKAwZm"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5562556"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Giloh",
+      "alternate_labels": [
+        "Gilo",
+        "Gilonite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Giloh",
+          "gloss": "Giloh",
+          "description": "A town in the hill country of the territory of Judah; hometown of Ahithophel, counselor of David (2 Samuel 15:12)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Giloh"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.616667",
+      "lon": "35.083333"
+    },
+    "vizbible": {
+      "lat": "31.616667",
+      "lon": "35.083333"
+    }
+  },
+  "key_references": [
+    "10015012",
+    "06015051"
+  ],
+  "references": [
+    "06015051",
+    "10015012",
+    "10023034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150510032"
+      ],
+      [
+        "o100150120052"
+      ],
+      [
+        "o100150120092"
+      ],
+      [
+        "o100230340092"
+      ]
+    ]
+  }
+}

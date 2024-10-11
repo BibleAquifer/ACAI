@@ -1,0 +1,50 @@
+{
+  "id": "person:MotherOfJabez",
+  "primary_id": "person:MotherOfJabez",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mother of Jabez",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mother of Jabez",
+          "description": "The mother of Jabez."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004009",
+    "13004009"
+  ],
+  "references": [
+    "13004009",
+    "13004009"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130040090052"
+      ],
+      [
+        "o130040090092"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o130040090101",
+          "o130040090111",
+          "o130040090121",
+          "o130040090122"
+        ]
+      }
+    ]
+  }
+}

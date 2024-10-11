@@ -1,0 +1,73 @@
+{
+  "id": "person:Pashhur.4",
+  "primary_id": "person:Pashhur.4",
+  "alternate_sources": {
+    "aquifer": [
+      "7599|Pashhur, Pashur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006049001001000",
+      "006049001004000"
+    ],
+    "tipnr": [
+      "Pashhur@Jer.21.1-"
+    ],
+    "vizbible": [
+      "reckrRZ563an8rHfb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Malchiah",
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "006049001001000",
+    "006049001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pashhur (Jeremiah 21:1)",
+      "alternate_labels": [
+        "Pashur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pashhur (Jeremiah 21:1)",
+          "article": "person:Pashhur.4",
+          "description": "Pashhur, son of Malchiah and first mentioned in Jeremiah 21:1, lived during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24021001",
+    "24038001"
+  ],
+  "references": [
+    "24021001",
+    "24038001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240210010131"
+      ],
+      [
+        "o240380010071"
+      ],
+      [
+        "o240380010112"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240210030051"
+      ]
+    ]
+  }
+}

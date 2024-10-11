@@ -1,0 +1,68 @@
+{
+  "id": "person:Shaphat.2",
+  "primary_id": "person:Shaphat.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8288|Shaphat|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007568001002000"
+    ],
+    "tipnr": [
+      "Shaphat@1Ki.19.16-2Ki"
+    ],
+    "vizbible": [
+      "recseCiK9OD7Ufjuz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Elisha"
+  ],
+  "ubsdbh": [
+    "007568001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaphat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shaphat",
+          "article": "person:Shaphat.2",
+          "description": "The father of the prophet Elisha who lived during the divided kingdom of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11019016",
+    "11019019",
+    "12003011"
+  ],
+  "references": [
+    "11019016",
+    "11019019",
+    "12003011",
+    "12006031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110190160121"
+      ],
+      [
+        "o110190190071"
+      ],
+      [
+        "o120030110201"
+      ],
+      [
+        "o120060310131"
+      ]
+    ]
+  }
+}

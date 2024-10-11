@@ -1,0 +1,67 @@
+{
+  "id": "person:Jered",
+  "primary_id": "person:Jered",
+  "alternate_sources": {
+    "aquifer": [
+      "6311|Jered|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003091001002000"
+    ],
+    "tipnr": [
+      "Jered@1Ch.4.18"
+    ],
+    "vizbible": [
+      "rec3QtJoJ6zagFjxC"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mered",
+  "mother": "person:Jehudijah",
+  "siblings": [
+    "person:Heber.3",
+    "person:Jekuthiel",
+    "person:Miriam.2",
+    "person:Shammai.3",
+    "person:Ishbah"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "003091001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jered",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jered",
+          "article": "person:Jered",
+          "description": "A man from the tribe of Judah living during the divided kingdom, son of Mered and Jehudijah, mentioned only in 1 Chronicles 4:18."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֶרֶד",
+      "יֶ֫רֶד"
+    ]
+  },
+  "key_references": [
+    "13004018"
+  ],
+  "references": [
+    "13004018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040180051"
+      ]
+    ]
+  }
+}

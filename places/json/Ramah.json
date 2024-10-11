@@ -1,0 +1,151 @@
+{
+  "id": "place:Ramah",
+  "primary_id": "place:Ramah",
+  "alternate_sources": {
+    "aquifer": [
+      "7921|Ramah|TyndaleBibleDictionary",
+      "27010|Ramah|UWTranslationWords"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28373"
+    ],
+    "tipnr": [
+      "Ramah@1Sa.1.1-1Sa"
+    ],
+    "vizbible": [
+      "reczeMGDnN4eb0Y28"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ramah (of Ephraim)",
+      "alternate_labels": [
+        "Ramathaim",
+        "Ramathaim-zophim",
+        "Ramathaim a Zuphite",
+        "Ramah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ramah.4",
+          "gloss": "Ramah (of Ephraim)",
+          "description": "A town in the territory of Ephraim, where Samuel lived; also known as Ramathaim Zophim."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ramathaim-zophim"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.83273947",
+      "lon": "35.18016286"
+    },
+    "recogito": {
+      "lat": "32.040597",
+      "lon": "35.021578"
+    },
+    "vizbible": {
+      "lat": "32.040597",
+      "lon": "35.021578"
+    }
+  },
+  "key_references": [
+    "24031015",
+    "09001019",
+    "40002018",
+    "09001001"
+  ],
+  "references": [
+    "09001001",
+    "09001019",
+    "09002011",
+    "09007017",
+    "09008004",
+    "09015034",
+    "09016013",
+    "09019018",
+    "09019019",
+    "09019022",
+    "09019023",
+    "09020001",
+    "09025001",
+    "09028003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090010010061"
+      ],
+      [
+        "o090010190102"
+      ],
+      [
+        "o090020110032"
+      ],
+      [
+        "o090070170022"
+      ],
+      [
+        "o090080040082"
+      ],
+      [
+        "o090150340032"
+      ],
+      [
+        "o090160130212"
+      ],
+      [
+        "o090190180072"
+      ],
+      [
+        "o090190190082"
+      ],
+      [
+        "o090190220042"
+      ],
+      [
+        "o090190220202"
+      ],
+      [
+        "o090190230062"
+      ],
+      [
+        "o090190230202"
+      ],
+      [
+        "o090200010052"
+      ],
+      [
+        "o090250010102"
+      ],
+      [
+        "o090280030082"
+      ]
+    ]
+  }
+}

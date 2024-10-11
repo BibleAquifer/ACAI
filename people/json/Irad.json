@@ -1,0 +1,64 @@
+{
+  "id": "person:Irad",
+  "primary_id": "person:Irad",
+  "alternate_sources": {
+    "aquifer": [
+      "6044|Irad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005417001001000"
+    ],
+    "tipnr": [
+      "Irad@Gen.4.18"
+    ],
+    "vizbible": [
+      "rec5ZruSfa4sU2oCU"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Enoch",
+  "offspring": [
+    "person:Mehujael"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "005417001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Irad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Irad",
+          "article": "person:Irad",
+          "description": "A man living before the Flood, son of Enoch, and father of Mehujael, mentioned in Genesis 4:18."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עִירוּ"
+    ]
+  },
+  "key_references": [
+    "01004018"
+  ],
+  "references": [
+    "01004018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040180041"
+      ],
+      [
+        "o010040180052"
+      ]
+    ]
+  }
+}

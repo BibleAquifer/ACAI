@@ -1,0 +1,62 @@
+{
+  "id": "person:Shuham",
+  "primary_id": "person:Hushim.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8458|Shuham, Shuhamite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007240001001000"
+    ],
+    "tipnr": [
+      "Shuham|Hushim@Gen.46.23-Num"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Dan",
+  "tribe": "group:Dan",
+  "ubsdbh": [
+    "007240001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shuham (Hushim)",
+      "alternate_labels": [
+        "Hushim (Genesis 46:23)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hushim (Genesis 46:23)",
+          "article": "person:Shuham",
+          "description": "Shuham, also called Hushim, was a man from the tribe of Dan living during the time of Egypt and the wilderness, first mentioned in Genesis 46:23 as a son of Dan."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hushim.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שׁוּחָמִי"
+    ]
+  },
+  "key_references": [
+    "04026042",
+    "04026043"
+  ],
+  "references": [
+    "04026042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260420052"
+      ]
+    ]
+  }
+}

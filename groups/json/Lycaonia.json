@@ -1,0 +1,57 @@
+{
+  "id": "group:Lycaonia",
+  "primary_id": "group:Lycaonia",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "33.8"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/982262"
+    ],
+    "tipnr": [
+      "Lycaonia@Act.14.6-"
+    ],
+    "vizbible": [
+      "rectv2C0kvcJoF4Jg"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Lycaonia",
+  "ubsdgnt": [
+    "33.8"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lycaonians",
+      "alternate_labels": [
+        "Lycaonia"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lycaonians",
+          "article": "group:Lycaonia",
+          "description": "People who live in Lycaonia."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44014006",
+    "44014011"
+  ],
+  "references": [
+    "44014006",
+    "44014011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44014011012"
+      ]
+    ]
+  }
+}

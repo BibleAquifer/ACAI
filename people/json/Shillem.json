@@ -1,0 +1,78 @@
+{
+  "id": "person:Shillem",
+  "primary_id": "person:Shillem",
+  "alternate_sources": {
+    "aquifer": [
+      "8395|Shillem, Shillemite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shillem@Gen.46.24-1Ch",
+      "Shallum|Shillem@Gen.46.24-1Ch"
+    ],
+    "vizbible": [
+      "recquuEF4qN3GVe2c"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Naphtali",
+  "siblings": [
+    "person:Jahzeel",
+    "person:Guni",
+    "person:Jezer"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Naphtali",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shillem",
+      "alternate_labels": [
+        "Shallum",
+        "Shillemite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shillem",
+          "article": "person:Shillem",
+          "description": "A son of the patriarch Naphtali who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites. He was founder of the clan of the Shillemites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shallum.16",
+    "group:Shillem"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046024",
+    "04026049",
+    "13007013"
+  ],
+  "references": [
+    "01046024",
+    "04026049",
+    "13007013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460240062"
+      ],
+      [
+        "o040260490042"
+      ],
+      [
+        "o040260490062"
+      ],
+      [
+        "o130070130062"
+      ]
+    ]
+  }
+}

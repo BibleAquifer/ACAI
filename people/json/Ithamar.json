@@ -1,0 +1,192 @@
+{
+  "id": "person:Ithamar",
+  "primary_id": "person:Ithamar",
+  "alternate_sources": {
+    "aquifer": [
+      "6106|Ithamar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000362001001000"
+    ],
+    "tipnr": [
+      "Ithamar@Exo.6.23-Ezr"
+    ],
+    "vizbible": [
+      "recOXtCZgcG7YobCm"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Aaron",
+  "mother": "person:Elisheba",
+  "siblings": [
+    "person:Nadab",
+    "person:Abihu",
+    "person:Eleazar.2"
+  ],
+  "roles": [
+    "High Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000362001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ithamar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ithamar",
+          "article": "person:Ithamar",
+          "description": "Son of the first high priest Aaron and Elisheba and high priest mentioned during the time of the Egyptian slavery and the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אִיתָמָר"
+    ]
+  },
+  "key_references": [
+    "02006023",
+    "03010006",
+    "04003002",
+    "13024003"
+  ],
+  "references": [
+    "02006023",
+    "02028001",
+    "02038021",
+    "03010006",
+    "03010012",
+    "03010016",
+    "04003002",
+    "04003004",
+    "04004028",
+    "04004033",
+    "04007008",
+    "04026060",
+    "13005029",
+    "13024001",
+    "13024002",
+    "13024003",
+    "13024004",
+    "13024005",
+    "13024006",
+    "15008002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060230201"
+      ],
+      [
+        "o020280010192"
+      ],
+      [
+        "o020380210141"
+      ],
+      [
+        "o030100060063"
+      ],
+      [
+        "o030100120081"
+      ],
+      [
+        "o030100160131"
+      ],
+      [
+        "o040030020092"
+      ],
+      [
+        "o040030040192"
+      ],
+      [
+        "o040040280101"
+      ],
+      [
+        "o040040330111"
+      ],
+      [
+        "o040070080131"
+      ],
+      [
+        "o040260600101"
+      ],
+      [
+        "o130050290112"
+      ],
+      [
+        "o130240010092"
+      ],
+      [
+        "o130240020122"
+      ],
+      [
+        "o130240030101"
+      ],
+      [
+        "o130240040091"
+      ],
+      [
+        "o130240040191"
+      ],
+      [
+        "o130240050151"
+      ],
+      [
+        "o130240060272"
+      ],
+      [
+        "o150080020051"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o030100060101"
+      ],
+      [
+        "o030100060131"
+      ],
+      [
+        "o030100060151"
+      ],
+      [
+        "o030100070051"
+      ],
+      [
+        "o030100070071"
+      ],
+      [
+        "o030100070132"
+      ],
+      [
+        "o030100120111"
+      ],
+      [
+        "o030100120172"
+      ],
+      [
+        "o030100130012"
+      ],
+      [
+        "o030100170031"
+      ],
+      [
+        "o030100170152"
+      ],
+      [
+        "o030100170192"
+      ],
+      [
+        "o030100180101"
+      ]
+    ]
+  }
+}

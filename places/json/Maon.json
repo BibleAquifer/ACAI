@@ -1,0 +1,111 @@
+{
+  "id": "place:Maon",
+  "primary_id": "place:Maon",
+  "alternate_sources": {
+    "aquifer": [
+      "6933|Maon (Person), Maonite|TyndaleBibleDictionary",
+      "6934|Maon (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6845b1"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/687965",
+      "http://pleiades.stoa.org/places/687965"
+    ],
+    "tipnr": [
+      "Maon@Jos.15.55-1Sa"
+    ],
+    "vizbible": [
+      "recE7gMJ0r4eJWepx"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maon",
+      "alternate_labels": [
+        "Midian",
+        "Maonites",
+        "Maonite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Maon",
+          "gloss": "Maon",
+          "description": "A town in the hill country of the territory of Judah; residence of Nabal and his wife Abigail, who later married David."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.41666667",
+      "lon": "35.11666667"
+    },
+    "recogito": {
+      "lat": "31.409891",
+      "lon": "35.132746"
+    },
+    "vizbible": {
+      "lat": "31.41666667",
+      "lon": "35.11666667"
+    }
+  },
+  "key_references": [
+    "06015055",
+    "09025002",
+    "07010012"
+  ],
+  "references": [
+    "06015055",
+    "07010012",
+    "09023024",
+    "09023025",
+    "09025002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150550011"
+      ],
+      [
+        "o070100120032"
+      ],
+      [
+        "o090230240091"
+      ],
+      [
+        "o090230250111"
+      ],
+      [
+        "o090230250181"
+      ],
+      [
+        "o090250020022"
+      ]
+    ]
+  }
+}

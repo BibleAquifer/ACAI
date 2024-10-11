@@ -1,0 +1,247 @@
+{
+  "id": "person:Ishmael",
+  "primary_id": "person:Ishmael",
+  "alternate_sources": {
+    "aquifer": [
+      "6072|Ishmael|TyndaleBibleDictionary",
+      "26736|Ishmael|UWTranslationWords",
+      "132208|Ishmael|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Ishmael@Gen.16.11-Psa"
+    ],
+    "vizbible": [
+      "recvV3hxT3VINGuwx"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abraham",
+  "mother": "person:Hagar",
+  "offspring": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Kedemah",
+    "person:Mahalath"
+  ],
+  "siblings": [
+    "person:Isaac",
+    "person:Zimran",
+    "person:Jokshan",
+    "person:Medan",
+    "person:Midian",
+    "person:Ishbak",
+    "person:Shuah"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Arabia",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ishmael",
+      "alternate_labels": [
+        "Ishmaelite",
+        "Ishmeelite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ishmael",
+          "article": "person:Ishmael",
+          "description": "The patriarch Abraham’s first-born son by Hagar. He was father to twelve sons and half-brother to Isaac."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Ishmael"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01016015",
+    "01017020",
+    "01025009",
+    "13001028"
+  ],
+  "references": [
+    "01016011",
+    "01016015",
+    "01016016",
+    "01017018",
+    "01017020",
+    "01017023",
+    "01017025",
+    "01017026",
+    "01025009",
+    "01025012",
+    "01025013",
+    "01025016",
+    "01025017",
+    "01028009",
+    "01036003",
+    "01037025",
+    "01037027",
+    "01037028",
+    "01039001",
+    "07008024",
+    "10017025",
+    "13001028",
+    "13001029",
+    "13001031",
+    "13002017",
+    "13027030",
+    "19083007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010160110111"
+      ],
+      [
+        "o010160150121"
+      ],
+      [
+        "o010160160101"
+      ],
+      [
+        "o010170180061"
+      ],
+      [
+        "o010170200013"
+      ],
+      [
+        "o010170230041"
+      ],
+      [
+        "o010170250012"
+      ],
+      [
+        "o010170260062"
+      ],
+      [
+        "o010250090042"
+      ],
+      [
+        "o010250120031"
+      ],
+      [
+        "o010250130041"
+      ],
+      [
+        "o010250130081"
+      ],
+      [
+        "o010250160041"
+      ],
+      [
+        "o010250170041"
+      ],
+      [
+        "o010280090041"
+      ],
+      [
+        "o010280090091"
+      ],
+      [
+        "o010360030041"
+      ],
+      [
+        "o010370250091"
+      ],
+      [
+        "o010370270032"
+      ],
+      [
+        "o010370280142"
+      ],
+      [
+        "o010390010132"
+      ],
+      [
+        "o070080240171"
+      ],
+      [
+        "o100170250142"
+      ],
+      [
+        "o130010280042"
+      ],
+      [
+        "o130010290041"
+      ],
+      [
+        "o130010310071"
+      ],
+      [
+        "o130020170082"
+      ],
+      [
+        "o130270300042"
+      ],
+      [
+        "o190830070032"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010170200151"
+      ],
+      [
+        "o010250170112"
+      ],
+      [
+        "o010250170122"
+      ],
+      [
+        "o010250170132"
+      ],
+      [
+        "o010250180151"
+      ],
+      [
+        "o010370250171"
+      ],
+      [
+        "o010370250182"
+      ],
+      [
+        "o010390010151"
+      ],
+      [
+        "o190830130021",
+        "o190830130031"
+      ],
+      [
+        "o190830170042"
+      ],
+      [
+        "o190830180011"
+      ],
+      [
+        "o190830180022"
+      ],
+      [
+        "o190830180052"
+      ],
+      [
+        "o190830180062"
+      ],
+      [
+        "o190830190012"
+      ]
+    ]
+  }
+}

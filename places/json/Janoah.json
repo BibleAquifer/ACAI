@@ -1,0 +1,87 @@
+{
+  "id": "place:Janoah",
+  "primary_id": "place:Janoah",
+  "alternate_sources": {
+    "aquifer": [
+      "6211|Janoah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002962001002000"
+    ],
+    "tipnr": [
+      "Janoah@2Ki.15.29"
+    ],
+    "vizbible": [
+      "rec6NMdB9Jz6HdV8M"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002962001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Janoah (of Galilee)",
+      "alternate_labels": [
+        "Janoah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Janoah.2",
+          "gloss": "Janoah (of Galilee)",
+          "description": "A town in the north of Israel, in Galilee, conquered by Tiglath-Pileser, king of Assyria."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָנֹוחַ",
+      "יָנוֹחַ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.155895",
+      "lon": "35.361606"
+    },
+    "vizbible": {
+      "lat": "32.155895",
+      "lon": "35.361606"
+    }
+  },
+  "key_references": [
+    "12015029"
+  ],
+  "references": [
+    "12015029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120150290181"
+      ]
+    ]
+  }
+}

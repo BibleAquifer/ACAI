@@ -1,0 +1,73 @@
+{
+  "id": "place:Azotus",
+  "primary_id": "place:Ashdod",
+  "alternate_sources": {
+    "aquifer": [
+      "3919|Azotus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.392"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21687"
+    ],
+    "tipnr": [
+      "Azotus|Ashdod@Jos.11.22-Act"
+    ],
+    "vizbible": [
+      "recAPCFiiSX6hmHhX"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.392"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azotus",
+      "alternate_labels": [
+        "Ashdod"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Ashdod"
+  ],
+  "tribal_area": "group:Philistine",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἄζωτος"
+    ]
+  },
+  "place_types": {
+    "vizbible": [
+      "City"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.80299971",
+      "lon": "34.63511459"
+    }
+  },
+  "key_references": [
+    "44008040"
+  ],
+  "references": [
+    "44008040"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44008040005"
+      ]
+    ]
+  }
+}

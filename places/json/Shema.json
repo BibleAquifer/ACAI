@@ -1,0 +1,91 @@
+{
+  "id": "place:Shema",
+  "primary_id": "place:Shema",
+  "alternate_sources": {
+    "aquifer": [
+      "8347|Shema (Place)|TyndaleBibleDictionary",
+      "8349|Shema, the|TyndaleBibleDictionary",
+      "132360|Shema|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "007476001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/687864"
+    ],
+    "tipnr": [
+      "Shema@Jos.15.26"
+    ],
+    "vizbible": [
+      "rec1fhlBExIdvMXW9"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007476001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shema",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shema",
+          "gloss": "Shema",
+          "description": "A town in the southern territory of Judah, near the border of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    },
+    "recogito": {
+      "lat": "31.255001",
+      "lon": "34.542818"
+    },
+    "vizbible": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    }
+  },
+  "key_references": [
+    "06015026"
+  ],
+  "references": [
+    "06015026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150260022"
+      ]
+    ]
+  }
+}

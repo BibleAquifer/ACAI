@@ -1,0 +1,152 @@
+{
+  "id": "realia:SacredPillar",
+  "primary_id": "realia:SacredPillar",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004283002002000"
+    ],
+    "ubsrealia": [
+      "realia:4.6.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004283002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sacred Pillar",
+      "alternate_labels": [
+        "Pillar Memorial Stone"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sacred Pillar",
+          "article": "realia:SacredPillar",
+          "description": "A single stone column, sometimes inscribed, used in worship of false gods and often located on high places."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַצֵּבָה"
+    ]
+  },
+  "key_references": [
+    "01028018",
+    "01031045",
+    "02023024",
+    "12018004"
+  ],
+  "references": [
+    "02023024",
+    "02034013",
+    "03026001",
+    "05007005",
+    "05012003",
+    "05016022",
+    "11014023",
+    "12003002",
+    "12010026",
+    "12010027",
+    "12017010",
+    "12018004",
+    "12023014",
+    "14014002",
+    "14031001",
+    "24043013",
+    "26026011",
+    "28003004",
+    "28010001",
+    "28010002",
+    "33005012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020230240141",
+        "o020230240142"
+      ],
+      [
+        "o020340130061",
+        "o020340130062"
+      ],
+      [
+        "o030260010062"
+      ],
+      [
+        "o050070050082",
+        "o050070050083"
+      ],
+      [
+        "o050120030061",
+        "o050120030062"
+      ],
+      [
+        "o050160220041"
+      ],
+      [
+        "o110140230062"
+      ],
+      [
+        "o120030020111"
+      ],
+      [
+        "o120100260031"
+      ],
+      [
+        "o120100270031"
+      ],
+      [
+        "o120170100031"
+      ],
+      [
+        "o120180040072"
+      ],
+      [
+        "o120230140032"
+      ],
+      [
+        "o140140020082"
+      ],
+      [
+        "o140310010112"
+      ],
+      [
+        "o240430130031"
+      ],
+      [
+        "o260260110102"
+      ],
+      [
+        "o280030040141"
+      ],
+      [
+        "o280100010141"
+      ],
+      [
+        "o280100020091",
+        "o280100020092"
+      ],
+      [
+        "o330050120032",
+        "o330050120033"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o120100260063"
+      ],
+      [
+        "o120230140092"
+      ]
+    ]
+  }
+}

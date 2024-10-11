@@ -1,0 +1,44 @@
+{
+  "id": "place:Beersheba.2",
+  "primary_id": "place:Beersheba.2",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beersheba.2",
+          "gloss": "Bersabe",
+          "description": "A fortified village between Upper and Lower Galilee used during the First Jewish Revolt."
+        }
+      ],
+      "preferred_label": "Bersabe",
+      "alternate_labels": [
+        "Beersheba of Galilee",
+        "Beer Sheba of Galilee",
+        "Khirbet Beersheba",
+        "Khirbet Abu esh-Sheba' "
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.93088",
+      "lon": "35.40781"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "person:Er",
+  "primary_id": "person:Er",
+  "alternate_sources": {
+    "aquifer": [
+      "5136|Er|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.143"
+    ],
+    "tipnr": [
+      "Er@Luk.3.28"
+    ],
+    "vizbible": [
+      "recyQtaHyJNKHLUkO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joshua",
+  "offspring": [
+    "person:Elmadam"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.143"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Er",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Er",
+          "article": "person:Er",
+          "description": "Son of Joshua and the father of Elmadam in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἤρ"
+    ]
+  },
+  "key_references": [
+    "42003028"
+  ],
+  "references": [
+    "42003028"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003028010"
+      ]
+    ]
+  }
+}

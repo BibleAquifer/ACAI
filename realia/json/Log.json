@@ -1,0 +1,87 @@
+{
+  "id": "realia:Log",
+  "primary_id": "realia:Log",
+  "alternate_sources": {
+    "aquifer": [
+      "6771|Log|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003517001001000"
+    ],
+    "ubsrealia": [
+      "realia:11.3.1.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003517001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Log",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Log",
+          "article": "realia:Log",
+          "description": "A unit of liquid measure equal to about 0.3 liters."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לֹג"
+    ]
+  },
+  "key_references": [
+    "03014010",
+    "03014012",
+    "03014024"
+  ],
+  "references": [
+    "03014010",
+    "03014012",
+    "03014015",
+    "03014021",
+    "03014024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030140100182"
+      ],
+      [
+        "o030140120101"
+      ],
+      [
+        "o030140150032"
+      ],
+      [
+        "o030140210202"
+      ],
+      [
+        "o030140240071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o030140110073"
+      ],
+      [
+        "o030140120132"
+      ],
+      [
+        "o030140230022"
+      ],
+      [
+        "o030140240102"
+      ]
+    ]
+  }
+}

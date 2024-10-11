@@ -1,0 +1,90 @@
+{
+  "id": "place:Bered",
+  "primary_id": "place:Bered",
+  "alternate_sources": {
+    "aquifer": [
+      "4131|Bered (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001161001001000"
+    ],
+    "tipnr": [
+      "Bered@Gen.16.14"
+    ],
+    "vizbible": [
+      "recrLh8m0GOwaWHsf"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001161001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bered (Place)",
+      "alternate_labels": [
+        "Bered"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bered",
+          "gloss": "Bered (Place)",
+          "description": "A location near Kadesh; probably with cold water."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Beer-lahai-roi",
+    "place:Kadesh-barnea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֶּרֶד",
+      "בֶּ֫רֶד"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "mountain",
+      "region"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.68771281376111",
+      "lon": "34.49479554246946"
+    },
+    "vizbible": {
+      "lat": "30.68771281376111",
+      "lon": "34.49479554246946"
+    }
+  },
+  "key_references": [
+    "01016014"
+  ],
+  "references": [
+    "01016014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010160140121"
+      ]
+    ]
+  }
+}

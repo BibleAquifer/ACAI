@@ -1,0 +1,66 @@
+{
+  "id": "person:Amasai",
+  "primary_id": "person:Amasai",
+  "alternate_sources": {
+    "aquifer": [
+      "3542|Amasai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005528001001000"
+    ],
+    "tipnr": [
+      "Amasai@1Ch.6.25-"
+    ],
+    "vizbible": [
+      "rec6YQLF80m18dwcq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Elkanah.3",
+  "offspring": [
+    "person:Ahimoth"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005528001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amasai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Amasai",
+          "article": "person:Amasai",
+          "description": "A man of the tribe of Levi living at the time of the divided kingdom, first mentioned in 1 Chronicles 6:25 and also known as Maasai, a post-exile priest."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֲמַשְׁסַי"
+    ]
+  },
+  "key_references": [
+    "13006010",
+    "13006020"
+  ],
+  "references": [
+    "13006010",
+    "13006020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060100031"
+      ],
+      [
+        "o130060200091"
+      ]
+    ]
+  }
+}

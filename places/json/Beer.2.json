@@ -1,0 +1,105 @@
+{
+  "id": "place:Beer.2",
+  "primary_id": "place:Beeroth",
+  "alternate_sources": {
+    "aquifer": [
+      "4073|Beer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000815002002000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/687864"
+    ],
+    "tipnr": [
+      "Beer|Beeroth@Jos.9.17-Neh"
+    ],
+    "vizbible": [
+      "recZfXro4PsQ84gVp"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000815002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beer (of Benjamin)",
+      "alternate_labels": [
+        "Beeroth",
+        "Beer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beer.2",
+          "gloss": "Beer (of Benjamin)",
+          "description": "A town around ten kilometers north of Jerusalem, in the territory of Benjamin; possibly to be identified with Beeroth."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Beeroth"
+  ],
+  "referred_to_as": [
+    "place:Beeroth"
+  ],
+  "tribal_area": "group:Benjamin",
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בְּאֵר",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.90007449",
+      "lon": "35.21668801"
+    },
+    "recogito": {
+      "lat": "31.255001",
+      "lon": "34.542818"
+    },
+    "vizbible": {
+      "lat": "31.90007449",
+      "lon": "35.21668801"
+    }
+  },
+  "key_references": [
+    "07009021"
+  ],
+  "references": [
+    "07009021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070090210051"
+      ]
+    ]
+  }
+}

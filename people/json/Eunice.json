@@ -1,0 +1,64 @@
+{
+  "id": "person:Eunice",
+  "primary_id": "person:Eunice",
+  "alternate_sources": {
+    "aquifer": [
+      "5182|Eunice|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.130"
+    ],
+    "tipnr": [
+      "Eunice@2Ti.1.5"
+    ],
+    "vizbible": [
+      "recSvV4zOSeBwxXi1"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:FatherOfEunice",
+  "mother": "person:Lois",
+  "partners": [
+    "person:FatherOfTimothy"
+  ],
+  "offspring": [
+    "person:Timothy"
+  ],
+  "ubsdgnt": [
+    "93.130"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eunice",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eunice",
+          "article": "person:Eunice",
+          "description": "Eunice was a woman from the New Testament, the mother of Timothy, and the daughter of Lois."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Εὐνίκη"
+    ]
+  },
+  "key_references": [
+    "55001005"
+  ],
+  "references": [
+    "55001005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n55001005020"
+      ]
+    ]
+  }
+}

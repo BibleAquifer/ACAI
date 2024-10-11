@@ -1,0 +1,44 @@
+{
+  "id": "person:Daughter2OfLot",
+  "primary_id": "person:Daughter2OfLot",
+  "alternate_sources": {
+    "tipnr": [
+      "daughter2_of_Lot@Gen.19.38"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Lot",
+  "mother": "person:WifeOfLot",
+  "partners": [
+    "person:Lot"
+  ],
+  "offspring": [
+    "person:Ben-ammi"
+  ],
+  "siblings": [
+    "person:Daughter1OfLot"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Daughter2 of Lot",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Daughter2 of Lot",
+          "article": "person:Daughter2OfLot",
+          "description": "Daughter2 of Lot was the unnamed younger daughter of Lot, living during the time of the patriarchs, and mentioned in Genesis 19:30."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01019030"
+  ],
+  "references": [
+    "01019030"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "place:Kiriath-baal",
+  "primary_id": "place:Kiriath-jearim",
+  "alternate_sources": {
+    "aquifer": [
+      "6603|Kiriath-Baal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006584001001000"
+    ],
+    "tipnr": [
+      "Kiriath-baal|Kiriath-jearim@Jos.9.17-Jer"
+    ],
+    "vizbible": [
+      "recRJEQbrGi24OUFZ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006584001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kiriath-baal",
+      "alternate_labels": [
+        "Kiriath-baal",
+        "Kiriath-Jearim",
+        "Kiriath Baal"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Kiriath-jearim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "קִרְיַת חֻצֹות",
+      "קִרְיַת חֻצוֹת"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.771104",
+      "lon": "34.993812"
+    },
+    "vizbible": {
+      "lat": "31.771104",
+      "lon": "34.993812"
+    }
+  },
+  "key_references": [
+    "06015060",
+    "06018014"
+  ],
+  "references": [
+    "06015060",
+    "06018014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150600011",
+        "o060150600021"
+      ],
+      [
+        "o060180140191",
+        "o060180140201"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060150600031"
+      ]
+    ]
+  }
+}

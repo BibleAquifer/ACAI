@@ -1,0 +1,73 @@
+{
+  "id": "person:Hushim.2",
+  "primary_id": "person:Hushim.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5960|Hushim|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hushim@Gen.46.23-Num",
+      "Shuham|Hushim@Gen.46.23-Num"
+    ],
+    "vizbible": [
+      "recM8vhtW0bf4XfFn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Dan",
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Dan",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hushim (Genesis 46:23)",
+      "alternate_labels": [
+        "Shuhamite",
+        "Shuham"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hushim (Genesis 46:23)",
+          "article": "person:Hushim.2",
+          "description": "Grandson of the patriarch Jacob and son of Dan. Hushim was the founder of the clan of the Shuhamites. He lived during the time of the Egyptian slavery and wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shuham",
+    "group:Shuham"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046023",
+    "04026042",
+    "04026043"
+  ],
+  "references": [
+    "01046023",
+    "04026042",
+    "04026043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460230031"
+      ],
+      [
+        "o040260420052"
+      ],
+      [
+        "o040260420072"
+      ],
+      [
+        "o040260430032"
+      ]
+    ]
+  }
+}

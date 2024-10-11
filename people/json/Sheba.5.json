@@ -1,0 +1,68 @@
+{
+  "id": "person:Sheba.5",
+  "primary_id": "person:Sheba.5",
+  "alternate_sources": {
+    "aquifer": [
+      "8313|Sheba (Person)|TyndaleBibleDictionary",
+      "8315|Sheba, Queen of|TyndaleBibleDictionary",
+      "27080|Sheba|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007180002004000",
+      "007180001001000"
+    ],
+    "tipnr": [
+      "Sheba@1Ch.5.13"
+    ],
+    "vizbible": [
+      "recOKAdoAvGEek6ny"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abihail.3",
+  "siblings": [
+    "person:Michael.2",
+    "person:Meshullam.3",
+    "person:Jorai",
+    "person:Jacan",
+    "person:Zia",
+    "person:Eber.2"
+  ],
+  "tribe": "group:Gad",
+  "ubsdbh": [
+    "007180002004000",
+    "007180001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheba (1 Chronicles 5:13)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sheba (1 Chronicles 5:13)",
+          "article": "person:Sheba.5",
+          "description": "Sheba was a man of the tribe of Gad living at the time of the divided kingdom, mentioned in 1 Chronicles 5:13 as the son of Abihail."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13005013"
+  ],
+  "references": [
+    "13005013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050130062"
+      ],
+      [
+        "o130050130111"
+      ]
+    ]
+  }
+}

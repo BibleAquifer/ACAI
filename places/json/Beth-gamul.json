@@ -1,0 +1,87 @@
+{
+  "id": "place:Beth-gamul",
+  "primary_id": "place:Beth-gamul",
+  "alternate_sources": {
+    "aquifer": [
+      "4176|Beth-Gamul|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a367677"
+    ],
+    "ubsdbh": [
+      "000940001001000"
+    ],
+    "tipnr": [
+      "Beth-gamul@Jer.48.23"
+    ],
+    "vizbible": [
+      "recuzM8H3vldGHrti"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000940001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-gamul",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-gamul",
+          "gloss": "Beth-Gamul",
+          "description": "A town in the region of Moab upon which Jeremiah pronounced judgment (Jer 48:23)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית גָּמוּל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.519692",
+      "lon": "35.844714"
+    },
+    "vizbible": {
+      "lat": "31.519692",
+      "lon": "35.844714"
+    }
+  },
+  "key_references": [
+    "24048023"
+  ],
+  "references": [
+    "24048023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240480230041",
+        "o240480230051"
+      ]
+    ]
+  }
+}

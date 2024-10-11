@@ -1,0 +1,79 @@
+{
+  "id": "place:Ziphron",
+  "primary_id": "place:Ziphron",
+  "alternate_sources": {
+    "aquifer": [
+      "9241|Ziphron|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002029001001000"
+    ],
+    "tipnr": [
+      "Ziphron@Num.34.9"
+    ],
+    "vizbible": [
+      "recrZviKtXyV4rMGz"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002029001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ziphron",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ziphron",
+          "gloss": "Ziphron",
+          "description": "A location along the northern boundary of Israel."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "זִפְרֹון",
+      "זִפְרֹן",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.229499",
+      "lon": "37.240077"
+    },
+    "vizbible": {
+      "lat": "34.229499",
+      "lon": "37.240077"
+    }
+  },
+  "key_references": [
+    "04034009"
+  ],
+  "references": [
+    "04034009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340090031"
+      ]
+    ]
+  }
+}

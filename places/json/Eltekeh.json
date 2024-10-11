@@ -1,0 +1,88 @@
+{
+  "id": "place:Eltekeh",
+  "primary_id": "place:Eltekeh",
+  "alternate_sources": {
+    "aquifer": [
+      "5054|Eltekeh|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a3c4559"
+    ],
+    "tipnr": [
+      "Eltekeh@Jos.19.44-",
+      "Elteke|Eltekeh@Jos.19.44-"
+    ],
+    "vizbible": [
+      "rec2H0XhjHGTh1ivm"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eltekeh",
+      "alternate_labels": [
+        "Elteke"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eltekeh",
+          "gloss": "Eltekeh",
+          "description": "A Levitical town in the territory of Dan, assigned to the clan of Kohath."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Elteke"
+  ],
+  "tribal_area": "group:Dan",
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.869521",
+      "lon": "35.06688"
+    },
+    "vizbible": {
+      "lat": "31.869521",
+      "lon": "35.06688"
+    }
+  },
+  "key_references": [
+    "06019044",
+    "06021023"
+  ],
+  "references": [
+    "06019044",
+    "06021023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190440012"
+      ],
+      [
+        "o060210230041"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "person:Michael.2",
+  "primary_id": "person:Michael.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7109|Michael|TyndaleBibleDictionary",
+      "26875|Michael|UWTranslationWords",
+      "132511|Michael|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003945001004000"
+    ],
+    "tipnr": [
+      "Michael@1Ch.5.13"
+    ],
+    "vizbible": [
+      "recQ5dlbnLmf2G0zi"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abihail.3",
+  "siblings": [
+    "person:Meshullam.3",
+    "person:Sheba.5",
+    "person:Jorai",
+    "person:Jacan",
+    "person:Zia",
+    "person:Eber.2"
+  ],
+  "tribe": "group:Gad",
+  "ubsdbh": [
+    "003945001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Michael (1 Chronicles 5:13)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Michael (1 Chronicles 5:13)",
+          "article": "person:Michael.2",
+          "description": "Michael was a man from the tribe of Gad, living during the time of the divided kingdom, mentioned in 1 Chronicles 5:13 as the son of Abihail and brother of Meshullam, Sheba, Jorai, Jacan, Zia, and Eber."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִיכָאֵל"
+    ]
+  },
+  "key_references": [
+    "13005013"
+  ],
+  "references": [
+    "13005013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050130041"
+      ]
+    ]
+  }
+}

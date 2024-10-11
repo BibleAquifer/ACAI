@@ -1,0 +1,74 @@
+{
+  "id": "person:Hanoch",
+  "primary_id": "person:Hanoch",
+  "alternate_sources": {
+    "aquifer": [
+      "5652|Hanoch|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002381001003000"
+    ],
+    "tipnr": [
+      "Hanoch@Gen.25.4-1Ch"
+    ],
+    "vizbible": [
+      "recYTG3U5CU6c3muU"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Midian",
+  "siblings": [
+    "person:Ephah",
+    "person:Epher",
+    "person:Abida",
+    "person:Eldaah"
+  ],
+  "tribe": "group:Sinites",
+  "ubsdbh": [
+    "002381001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hanoch",
+      "alternate_labels": [
+        "Hanok",
+        "Henoch"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hanoch",
+          "article": "person:Hanoch",
+          "description": "Hanoch, a man from the Midianites and son of Midian, living during the time of the patriarchs, mentioned in Genesis 25:4."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֲנֹוךְ",
+      "חֲנוֹךְ"
+    ]
+  },
+  "key_references": [
+    "01025004",
+    "13001033"
+  ],
+  "references": [
+    "01025004",
+    "13001033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250040052"
+      ],
+      [
+        "o130010330052"
+      ]
+    ]
+  }
+}

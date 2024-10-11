@@ -1,0 +1,135 @@
+{
+  "id": "place:Gebal",
+  "primary_id": "place:Gebal",
+  "alternate_sources": {
+    "aquifer": [
+      "5390|Gebal|TyndaleBibleDictionary"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/668216"
+    ],
+    "tipnr": [
+      "Gebal@Jos.13.5-Ezk"
+    ],
+    "vizbible": [
+      "recOo6VrfkSNgeyjD"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gebal (Byblos)",
+      "alternate_labels": [
+        "Gebalite",
+        "Byblos",
+        "Gebalites",
+        "Giblites",
+        "Gebal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gebal.1",
+          "gloss": "Gebal (Byblos)",
+          "description": "A town in Phoenicia, north of Israel, and functioning as the seaport of the major city of Byblos, which used to trade with Tyre."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Gebal"
+  ],
+  "subregion_of": [
+    "place:Phoenicia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.11910361",
+      "lon": "35.64614196"
+    },
+    "recogito": {
+      "lat": "34.119026",
+      "lon": "35.645732"
+    },
+    "vizbible": {
+      "lat": "34.11910361",
+      "lon": "35.64614196"
+    }
+  },
+  "key_references": [
+    "26027009",
+    "11005032",
+    "06013005"
+  ],
+  "references": [
+    "06013005",
+    "11005032",
+    "19083008",
+    "26027009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060130050022"
+      ],
+      [
+        "o110050320063"
+      ],
+      [
+        "o190830080011"
+      ],
+      [
+        "o260270090021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110050320072"
+      ],
+      [
+        "o110050320102"
+      ],
+      [
+        "o190830130021",
+        "o190830130031"
+      ],
+      [
+        "o190830170042"
+      ],
+      [
+        "o190830180011"
+      ],
+      [
+        "o190830180022"
+      ],
+      [
+        "o190830180052"
+      ],
+      [
+        "o190830180062"
+      ],
+      [
+        "o190830190012"
+      ]
+    ]
+  }
+}

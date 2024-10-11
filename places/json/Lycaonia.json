@@ -1,0 +1,100 @@
+{
+  "id": "place:Lycaonia",
+  "primary_id": "place:Lycaonia",
+  "alternate_sources": {
+    "aquifer": [
+      "6797|Lycaonia|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a3668b6"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/1001911",
+      "http://pleiades.stoa.org/places/982262"
+    ],
+    "tipnr": [
+      "Lycaonia@Act.14.6-"
+    ],
+    "vizbible": [
+      "rectv2C0kvcJoF4Jg"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q622598"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lycaonia",
+      "alternate_labels": [
+        "Lycaonian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lycaonia",
+          "gloss": "Lycaonia",
+          "description": "A province in the interior of Asia Minor; Paul and Barnabas fled to Lystra and Derbe in this region when the people of Iconium sought to stone them."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Lycaonia"
+  ],
+  "nearby_places": [
+    "place:Galatia",
+    "place:Cappadocia"
+  ],
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.88353038890398",
+      "lon": "32.4942625657248"
+    },
+    "recogito": {
+      "lat": "37.5",
+      "lon": "32.75"
+    },
+    "vizbible": {
+      "lat": "37.5",
+      "lon": "32.75"
+    }
+  },
+  "key_references": [
+    "44014006"
+  ],
+  "references": [
+    "44014006",
+    "44014011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44014006007"
+      ],
+      [
+        "n44014011012"
+      ]
+    ]
+  }
+}

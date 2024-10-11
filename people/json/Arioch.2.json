@@ -1,0 +1,128 @@
+{
+  "id": "person:Arioch.2",
+  "primary_id": "person:Arioch.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3739|Arioch|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000683001002000"
+    ],
+    "tipnr": [
+      "Arioch@Dan.2.14-"
+    ],
+    "vizbible": [
+      "rec9DZwkAdBaMPsmY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Military Commander"
+  ],
+  "ubsdbh": [
+    "000683001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arioch",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Arioch",
+          "article": "person:Arioch.2",
+          "description": "A captain of King Nebuchadnezzar’s guard living during the time of Israel's exile to Babylon."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "arc": [
+      "אַרְיֹוךְ",
+      "אֲרְיוֹךְ"
+    ]
+  },
+  "key_references": [
+    "27002014",
+    "27002024",
+    "27002025"
+  ],
+  "references": [
+    "27002014",
+    "27002015",
+    "27002024",
+    "27002025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o270020140062"
+      ],
+      [
+        "o270020150032"
+      ],
+      [
+        "o270020150171"
+      ],
+      [
+        "o270020240071"
+      ],
+      [
+        "o270020250021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o270020140121"
+      ],
+      [
+        "o270020140132"
+      ],
+      [
+        "o270020240112"
+      ],
+      [
+        "o270020240211",
+        "o270020240221"
+      ],
+      [
+        "o270020250032",
+        "o270020250041"
+      ],
+      [
+        "o270020250091"
+      ],
+      [
+        "o270020250121"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o270020250121",
+          "o270020250131",
+          "o270020250141",
+          "o270020250151",
+          "o270020250161",
+          "o270020250162",
+          "o270020250171",
+          "o270020250181",
+          "o270020250191",
+          "o270020250201",
+          "o270020250202",
+          "o270020250211",
+          "o270020250212",
+          "o270020250213",
+          "o270020250221"
+        ]
+      }
+    ]
+  }
+}

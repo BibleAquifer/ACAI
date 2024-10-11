@@ -1,0 +1,108 @@
+{
+  "id": "person:Basemath.3",
+  "primary_id": "person:Mahalath",
+  "alternate_sources": {
+    "aquifer": [
+      "4022|Basemath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001211001001000"
+    ],
+    "tipnr": [
+      "Basemath|Mahalath@Gen.28.9-"
+    ],
+    "vizbible": [
+      "receS32JnSfTDEwQR"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Ishmael",
+  "partners": [
+    "person:Esau"
+  ],
+  "offspring": [
+    "person:Reuel.3"
+  ],
+  "siblings": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Kedemah"
+  ],
+  "roles": [
+    "Wife"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "001211001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Basemath (Mahalath)",
+      "alternate_labels": [
+        "Mahalath",
+        "Bashemath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mahalath",
+          "article": "person:Basemath.3",
+          "description": "A daughter of Ishmael and wife of Esau, known also as Mahalath"
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Mahalath"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בָּשְׂמַת",
+      "בָּֽשְׂמַת"
+    ]
+  },
+  "key_references": [
+    "01028009",
+    "01036003",
+    "01036004",
+    "01036010"
+  ],
+  "references": [
+    "01036003",
+    "01036004",
+    "01036010",
+    "01036013",
+    "01036017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360030021"
+      ],
+      [
+        "o010360040062"
+      ],
+      [
+        "o010360100121"
+      ],
+      [
+        "o010360130111"
+      ],
+      [
+        "o010360170211"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "place:Misrephoth-maim",
+  "primary_id": "place:Misrephoth-maim",
+  "alternate_sources": {
+    "aquifer": [
+      "7168|Misrephoth-Maim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5bf0bd"
+    ],
+    "ubsdbh": [
+      "004544001001000"
+    ],
+    "tipnr": [
+      "Misrephoth-maim@Jos.11.8-"
+    ],
+    "vizbible": [
+      "recwKLrXD84z6K0Oo"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004544001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Misrephoth-maim",
+      "alternate_labels": [
+        "Brook Misrephoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Misrephoth-maim",
+          "gloss": "Misrephoth-maim",
+          "description": "A location near Sidon where the Israelites stopped pursuing the Canaanite kings that had gathered to fight against them (Joshua 11:8)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Sidon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "river",
+      "spring",
+      "settlement",
+      "hill"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.118952",
+      "lon": "35.139434"
+    },
+    "vizbible": {
+      "lat": "33.118952",
+      "lon": "35.139434"
+    }
+  },
+  "key_references": [
+    "06011008",
+    "06013006"
+  ],
+  "references": [
+    "06011008",
+    "06013006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110080111",
+        "o060110080121"
+      ],
+      [
+        "o060130060071",
+        "o060130060081"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "place:Derbe",
+  "primary_id": "place:Derbe",
+  "alternate_sources": {
+    "aquifer": [
+      "4813|Derbe|TyndaleBibleDictionary",
+      "132063|Derbe|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "aa401a9"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21521"
+    ],
+    "tipnr": [
+      "Derbe@Act.14.6-"
+    ],
+    "vizbible": [
+      "recMQPFxBneofA9nV"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q20717624"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Derbe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Derbe",
+          "gloss": "Derbe",
+          "description": "A city in Lycaonia, southeast of Lystra; Paul ministered here during his missionary journeys."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Lystra"
+  ],
+  "subregion_of": [
+    "place:Lycaonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.35092017",
+      "lon": "33.2714177"
+    },
+    "recogito": {
+      "lat": "37.348569",
+      "lon": "33.361453"
+    },
+    "vizbible": {
+      "lat": "37.348569",
+      "lon": "33.361453"
+    },
+    "biblica-maps": {
+      "lat": "37.25",
+      "lon": "33.25"
+    }
+  },
+  "key_references": [
+    "44014020",
+    "44016001",
+    "44014005"
+  ],
+  "references": [
+    "44014006",
+    "44014020",
+    "44014021",
+    "44016001",
+    "44020004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44014006010"
+      ],
+      [
+        "n44014020019"
+      ],
+      [
+        "n44016001005"
+      ],
+      [
+        "n44020004014"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44014021005"
+      ]
+    ]
+  }
+}

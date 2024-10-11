@@ -1,0 +1,98 @@
+{
+  "id": "group:Bethlehem",
+  "primary_id": "group:Bethlehem",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000949001001000"
+    ],
+    "tipnr": [
+      "Bethlehem@Gen.35.16-Jhn"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Bethlehem",
+  "ubsdbh": [
+    "000949001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bethlehemites",
+      "alternate_labels": [
+        "Bethlehemite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bethlehemites",
+          "article": "group:Bethlehem",
+          "description": "People who live in Bethlehem (Judah)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֵּית הַלַּחְמִי"
+    ]
+  },
+  "key_references": [
+    "09016001",
+    "15002021"
+  ],
+  "references": [
+    "09016001",
+    "09016018",
+    "09017058",
+    "10021019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090160010231",
+        "o090160010241"
+      ],
+      [
+        "o090160180091",
+        "o090160180101"
+      ],
+      [
+        "o090170580131",
+        "o090170580141"
+      ],
+      [
+        "o100210190121",
+        "o100210190131"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o100210220031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100210220072"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "delivery": "trembled",
+        "quote_type": "Normal",
+        "words": [
+          "o090160040141",
+          "o090160040142",
+          "o090160040151"
+        ]
+      }
+    ]
+  }
+}

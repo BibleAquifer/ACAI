@@ -1,0 +1,75 @@
+{
+  "id": "person:Ammishaddai",
+  "primary_id": "person:Ammishaddai",
+  "alternate_sources": {
+    "aquifer": [
+      "3563|Ammishaddai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005501001001000"
+    ],
+    "tipnr": [
+      "Ammishaddai@Num.1.12-"
+    ],
+    "vizbible": [
+      "reclZTVG3vabmg7oP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ahiezer"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "ubsdbh": [
+    "005501001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ammishaddai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ammishaddai",
+          "article": "person:Ammishaddai",
+          "description": "Father of Ahiezer, the chief of the tribe of Dan at the time of Israel’s wilderness wandering. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04001004",
+    "04001012",
+    "04007066"
+  ],
+  "references": [
+    "04001012",
+    "04002025",
+    "04007066",
+    "04007071",
+    "04010025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010120041"
+      ],
+      [
+        "o040020250111"
+      ],
+      [
+        "o040070660081"
+      ],
+      [
+        "o040070710171"
+      ],
+      [
+        "o040100250141"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "person:Pharaohneco",
+  "primary_id": "person:Neco",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004795001001000"
+    ],
+    "tipnr": [
+      "PharaohNeco|Neco@2Ki.23.29-Jer"
+    ],
+    "vizbible": [
+      "recj4jStie8ofBOVu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Egypt",
+  "ubsdbh": [
+    "004795001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "PharaohNeco (Neco)",
+      "alternate_labels": [
+        "Neco",
+        "Pharaoh Necho",
+        "Pharaoh-nechoh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Neco",
+          "article": "person:Pharaohneco",
+          "description": "A ruler of the Egyptians during the time of the divided kingdom of Israel who killed King Josiah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Neco"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נְכֹו",
+      "פַּרְעֹה נְכֹה",
+      "נְכוֹ"
+    ]
+  },
+  "key_references": [
+    "12023035",
+    "24046017",
+    "24046025"
+  ],
+  "references": [
+    "12023029",
+    "12023033",
+    "12023034",
+    "12023035",
+    "24046002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120230290041"
+      ],
+      [
+        "o120230330031"
+      ],
+      [
+        "o120230340031"
+      ],
+      [
+        "o120230350281"
+      ],
+      [
+        "o240460020051"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "place:Apollonia-Arsuf",
+  "primary_id": "place:Apollonia-Arsuf",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Apollonia-Arsuf",
+          "gloss": "Apollonia-Arsuf",
+          "description": "An ancient city on the Mediterranean coast, south of Caesarea."
+        }
+      ],
+      "preferred_label": "Apollonia-arsuf",
+      "alternate_labels": [
+        "Arsuf",
+        "Arsur",
+        "Tel Arshaf"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Caesarea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "34.81076",
+      "lon": "32.1964"
+    }
+  }
+}

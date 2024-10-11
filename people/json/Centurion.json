@@ -1,0 +1,87 @@
+{
+  "id": "person:Centurion",
+  "primary_id": "person:Centurion",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Centurion",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Centurion",
+          "description": "A Centurion (commander of 100 men) participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44022026",
+    "44022026",
+    "44023017",
+    "44023018"
+  ],
+  "references": [
+    "44022026",
+    "44022026",
+    "44023017",
+    "44023018"
+  ],
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44022026007"
+      ],
+      [
+        "n44022026011"
+      ],
+      [
+        "n44023017005"
+      ],
+      [
+        "n44023018011"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "anxious",
+        "quote_type": "Dialogue",
+        "words": [
+          "n44022026010",
+          "n44022026011",
+          "n44022026012",
+          "n44022026013",
+          "n44022026014",
+          "n44022026015",
+          "n44022026016",
+          "n44022026017",
+          "n44022026018"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n44023018012",
+          "n44023018013",
+          "n44023018014",
+          "n44023018015",
+          "n44023018016",
+          "n44023018017",
+          "n44023018018",
+          "n44023018019",
+          "n44023018020",
+          "n44023018021",
+          "n44023018022",
+          "n44023018023",
+          "n44023018024",
+          "n44023018025",
+          "n44023018026",
+          "n44023018027"
+        ]
+      }
+    ]
+  }
+}

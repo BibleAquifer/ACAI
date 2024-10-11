@@ -1,0 +1,87 @@
+{
+  "id": "place:Jetur",
+  "primary_id": "place:Ituraea",
+  "alternate_sources": {
+    "aquifer": [
+      "6361|Jetur, Jeturites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002923001001000"
+    ],
+    "tipnr": [
+      "Jetur|Ituraea@1Ch.5.19"
+    ],
+    "vizbible": [
+      "recZFeTunxtFB8Yie"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002923001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jetur",
+      "alternate_labels": [
+        "Ituraea"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jetur",
+          "gloss": "Jetur",
+          "description": "A small province, also known as Ituraea, located to the northeast of the Sea of Galilee."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Trachonitis"
+  ],
+  "referred_to_as": [
+    "place:Ituraea"
+  ],
+  "nearby_places": [
+    "place:Trachonitis",
+    "place:Abilene"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יְטוּר"
+    ]
+  },
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.41615982399708",
+      "lon": "35.85725617635589"
+    },
+    "vizbible": {
+      "lat": "33.41615982399708",
+      "lon": "35.85725617635589"
+    }
+  },
+  "key_references": [
+    "13005019"
+  ],
+  "references": [
+    "13005019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050190052"
+      ]
+    ]
+  }
+}

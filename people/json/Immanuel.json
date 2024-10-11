@@ -1,0 +1,102 @@
+{
+  "id": "person:Immanuel",
+  "primary_id": "person:Jesus.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6003|Immanuel|TyndaleBibleDictionary",
+      "132484|Immanuel|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "005509001001000",
+      "000382001002000"
+    ],
+    "tipnr": [
+      "Immanuel|Jesus@Mat.1.1-Rev"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joseph.4",
+  "mother": "person:Mary",
+  "siblings": [
+    "person:James.3",
+    "person:Joseph.3",
+    "person:Simon.3",
+    "person:Jude"
+  ],
+  "roles": [
+    "Deity",
+    "Messiah",
+    "Priest",
+    "Prophet",
+    "King",
+    "Carpenter",
+    "Teacher"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005509001001000",
+    "000382001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Immanuel (Jesus)",
+      "alternate_labels": [
+        "Emmanuel",
+        "Jesus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jesus",
+          "article": "person:Immanuel",
+          "description": "Another name for Jesus, meaning 'God with us,' mentioned in the New Testament, son of Joseph and Mary."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jesus.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵל"
+    ]
+  },
+  "key_references": [
+    "23007014",
+    "23008008",
+    "40001023"
+  ],
+  "references": [
+    "23007014",
+    "23008008",
+    "40001023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230070140141",
+        "o230070140151"
+      ],
+      [
+        "o230080080141",
+        "o230080080151"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001023015"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40001023016"
+      ]
+    ]
+  }
+}

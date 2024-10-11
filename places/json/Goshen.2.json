@@ -1,0 +1,107 @@
+{
+  "id": "place:Goshen.2",
+  "primary_id": "place:Goshen.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5515|Goshen|TyndaleBibleDictionary",
+      "26655|Goshen|UWTranslationWords",
+      "132243|Goshen|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001522001002000",
+      "001522001003000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4920808"
+    ],
+    "tipnr": [
+      "Goshen@Jos.10.41-"
+    ],
+    "vizbible": [
+      "recEgdzRINr0lugpZ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001522001002000",
+    "001522001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Goshen (of Judah)",
+      "alternate_labels": [
+        "Goshen"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Goshen.3",
+          "gloss": "Goshen (of Judah)",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גֹּשֶׁן",
+      "גֹּ֫שֶׁן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.45",
+      "lon": "34.916667"
+    },
+    "recogito": {
+      "lat": "41.58227",
+      "lon": "-85.83444"
+    },
+    "vizbible": {
+      "lat": "31.45",
+      "lon": "34.916667"
+    }
+  },
+  "key_references": [
+    "06015051"
+  ],
+  "references": [
+    "06010041",
+    "06011016",
+    "06015051"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100410101"
+      ],
+      [
+        "o060110160142"
+      ],
+      [
+        "o060150510012"
+      ]
+    ]
+  }
+}

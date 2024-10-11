@@ -1,0 +1,80 @@
+{
+  "id": "person:Issachar.2",
+  "primary_id": "person:Issachar.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6096|Issachar (Person)|TyndaleBibleDictionary",
+      "6097|Issachar, Tribe of|TyndaleBibleDictionary",
+      "26738|Issachar|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "003194001002000"
+    ],
+    "tipnr": [
+      "Issachar@1Ch.26.5"
+    ],
+    "vizbible": [
+      "recoGUQ2zP22x8I40"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Obed-edom",
+  "siblings": [
+    "person:Shemaiah.9",
+    "person:Jehozabad.2",
+    "person:Joah.3",
+    "person:Sachar",
+    "person:Nethanel.5",
+    "person:Ammiel.3",
+    "person:Peullethai"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "003194001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Issachar (1 Chronicles 26:5)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Issachar (1 Chronicles 26:5)",
+          "article": "person:Issachar.2",
+          "description": "A Levite gatekeeper during the time of Israel's united kingdom, mentioned in 1 Chronicles 26:5."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִשָּׂשכָר",
+      "יִשָּׂשכָר"
+    ]
+  },
+  "key_references": [
+    "13026005"
+  ],
+  "references": [
+    "13026005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130260050031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130260080021"
+      ],
+      [
+        "o130260080061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "person:Peresh",
+  "primary_id": "person:Peresh",
+  "alternate_sources": {
+    "aquifer": [
+      "7661|Peresh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006037002001000"
+    ],
+    "tipnr": [
+      "Peresh@1Ch.7.16"
+    ],
+    "vizbible": [
+      "reciJYZX3sDsX2DSA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Machir",
+  "mother": "person:Maacah.5",
+  "siblings": [
+    "person:Gilead",
+    "person:DaughterOfMachir",
+    "person:Sheresh",
+    "person:Hammolecheth"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "006037002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Peresh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Peresh",
+          "article": "person:Peresh",
+          "description": "Peresh was a man of the tribe of Manasseh during the time of Egypt and the wilderness, mentioned in 1 Chronicles 7:16 as the son of Machir and Maacah, and brother to several siblings."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007016"
+  ],
+  "references": [
+    "13007016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070160081"
+      ]
+    ]
+  }
+}

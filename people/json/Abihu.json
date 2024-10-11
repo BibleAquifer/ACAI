@@ -1,0 +1,132 @@
+{
+  "id": "person:Abihu",
+  "primary_id": "person:Abihu",
+  "alternate_sources": {
+    "aquifer": [
+      "3300|Abihu|TyndaleBibleDictionary",
+      "132302|Nadab and Abihu|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000029001001000"
+    ],
+    "tipnr": [
+      "Abihu@Exo.6.23-1Ch"
+    ],
+    "vizbible": [
+      "rec2LyU5fsvL5DWDi"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Aaron",
+  "mother": "person:Elisheba",
+  "siblings": [
+    "person:Nadab",
+    "person:Eleazar.2",
+    "person:Ithamar"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000029001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abihu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abihu",
+          "article": "person:Abihu",
+          "description": "Second son of Aaron, the high priest. The Lord killed him and his brother Nadab died after they made an unauthorized offering."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִיהוּא"
+    ]
+  },
+  "key_references": [
+    "02024001",
+    "03010001",
+    "04003004",
+    "13024002"
+  ],
+  "references": [
+    "02006023",
+    "02024001",
+    "02024009",
+    "02028001",
+    "03010001",
+    "04003002",
+    "04003004",
+    "04026060",
+    "04026061",
+    "13005029",
+    "13024001",
+    "13024002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060230161"
+      ],
+      [
+        "o020240010102"
+      ],
+      [
+        "o020240090052"
+      ],
+      [
+        "o020280010172"
+      ],
+      [
+        "o030100010052"
+      ],
+      [
+        "o040030020072"
+      ],
+      [
+        "o040030040032"
+      ],
+      [
+        "o040260600061"
+      ],
+      [
+        "o040260610032"
+      ],
+      [
+        "o130050290092"
+      ],
+      [
+        "o130240010072"
+      ],
+      [
+        "o130240020032"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020240020062"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020240010142"
+      ],
+      [
+        "o020240100012"
+      ]
+    ]
+  }
+}

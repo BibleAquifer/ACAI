@@ -1,0 +1,70 @@
+{
+  "id": "person:Sapphira",
+  "primary_id": "person:Sapphira",
+  "alternate_sources": {
+    "aquifer": [
+      "8138|Sapphira|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.328"
+    ],
+    "tipnr": [
+      "Sapphira@Act.5.1"
+    ],
+    "vizbible": [
+      "recPzUsFBorefZzaf"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Ananias"
+  ],
+  "ubsdgnt": [
+    "93.328"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sapphira",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sapphira",
+          "article": "person:Sapphira",
+          "description": "Sapphira was a woman living at the time of the New Testament, mentioned in Acts 5:1, and was married to Ananias."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σάπφιρα"
+    ]
+  },
+  "key_references": [
+    "44005001"
+  ],
+  "references": [
+    "44005001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44005001007"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n44005008016",
+          "n44005008017"
+        ]
+      }
+    ]
+  }
+}

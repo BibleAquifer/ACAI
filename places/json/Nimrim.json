@@ -1,0 +1,94 @@
+{
+  "id": "place:Nimrim",
+  "primary_id": "place:Nimrim",
+  "alternate_sources": {
+    "obi": [
+      "ace3edc"
+    ],
+    "ubsdbh": [
+      "004817001001000"
+    ],
+    "tipnr": [
+      "Nimrim@Isa.15.6-Jer"
+    ],
+    "vizbible": [
+      "recmC8xfwjUX8rg1R"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q11164870"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004817001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Waters of Nimrim",
+      "alternate_labels": [
+        "Nimrim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nimrim",
+          "gloss": "Waters of Nimrim",
+          "description": "A body of water located in Moab denounced by the prophets Jeremiah and Isaiah."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נִמְרִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "wadi"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.133191",
+      "lon": "35.531138"
+    },
+    "vizbible": {
+      "lat": "31.133191",
+      "lon": "35.531138"
+    }
+  },
+  "key_references": [
+    "24048034",
+    "23015006"
+  ],
+  "references": [
+    "23015006",
+    "24048034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230150060031"
+      ],
+      [
+        "o240480340171"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "realia:ThornHedge",
+  "primary_id": "realia:ThornHedge",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.62",
+      "7.59"
+    ],
+    "ubsdbh": [
+      "004150001001000"
+    ],
+    "ubsrealia": [
+      "realia:3.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.62",
+    "7.59"
+  ],
+  "ubsdbh": [
+    "004150001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Thorn Hedge",
+      "alternate_labels": [
+        "Dividing Wall",
+        "Fence",
+        "Wall"
+      ],
+      "descriptions": []
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְסוּכָה"
+    ],
+    "el": [
+      "μεσότοιχον",
+      "φραγμός"
+    ]
+  },
+  "references": [
+    "33007004",
+    "40021033",
+    "41012001",
+    "49002014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o330070040042"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n49002014014"
+      ],
+      [
+        "n40021033011"
+      ],
+      [
+        "n41012001012"
+      ]
+    ]
+  }
+}

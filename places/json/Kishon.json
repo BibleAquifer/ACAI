@@ -1,0 +1,118 @@
+{
+  "id": "place:Kishon",
+  "primary_id": "place:Kishon",
+  "alternate_sources": {
+    "aquifer": [
+      "6621|Kishon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5a6458"
+    ],
+    "ubsdbh": [
+      "006468001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678321"
+    ],
+    "tipnr": [
+      "Kishon@Jdg.4.7-Psa"
+    ],
+    "vizbible": [
+      "recLH8aOU6qflWJw8"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1743701"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006468001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kishon",
+      "alternate_labels": [
+        "Kishon River",
+        "Brook Kishon",
+        "Kison",
+        "River Kishon",
+        "Kishon Valley",
+        "Wadi Kishon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kishon",
+          "gloss": "Kishon",
+          "description": "A river that drains the western portion of the Plain of Esdraelon from Megiddo to the Mediterranean, fed by springs from Gilboa and the foot of the Carmel range; location where Sisera was defeated and where Elijah killed the prophets of Baal."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "קִישִׁי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.761948",
+      "lon": "35.064096"
+    },
+    "vizbible": {
+      "lat": "32.761948",
+      "lon": "35.064096"
+    }
+  },
+  "key_references": [
+    "07005021",
+    "07004007",
+    "11018040"
+  ],
+  "references": [
+    "07004007",
+    "07004013",
+    "07005021",
+    "11018040",
+    "19083010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070040070051"
+      ],
+      [
+        "o070040130191"
+      ],
+      [
+        "o070050210021"
+      ],
+      [
+        "o070050210071"
+      ],
+      [
+        "o110180400171"
+      ],
+      [
+        "o190830100071"
+      ]
+    ]
+  }
+}

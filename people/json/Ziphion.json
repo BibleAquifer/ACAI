@@ -1,0 +1,69 @@
+{
+  "id": "person:Ziphion",
+  "primary_id": "person:Ziphion",
+  "alternate_sources": {
+    "tipnr": [
+      "Ziphion@Gen.46.16-Num",
+      "Zephon|Ziphion@Gen.46.16-Num"
+    ],
+    "vizbible": [
+      "recV4ZJRTOSo4pTjq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gad",
+  "siblings": [
+    "person:Haggi",
+    "person:Shuni",
+    "person:Ezbon",
+    "person:Eri",
+    "person:Arod",
+    "person:Areli"
+  ],
+  "tribe": "group:Gad",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ziphion",
+      "alternate_labels": [
+        "Zephon",
+        "Zephonite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ziphion",
+          "article": "person:Ziphion",
+          "description": "Ziphion, also called Zephon, was a man from the tribe of Gad during the time of Egypt and wilderness, son of Gad and mentioned in Genesis 46:16."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zephon",
+    "group:Zephon"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046016",
+    "04026015"
+  ],
+  "references": [
+    "01046016",
+    "04026015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460160031"
+      ],
+      [
+        "o040260150042"
+      ],
+      [
+        "o040260150062"
+      ]
+    ]
+  }
+}

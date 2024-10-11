@@ -1,0 +1,62 @@
+{
+  "id": "person:Shaul.3",
+  "primary_id": "person:Shaul.3",
+  "alternate_sources": {
+    "aquifer": [
+      "8301|Shaul|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shaul@1Ch.6.24-",
+      "Joel|Shaul@1Ch.6.24-"
+    ],
+    "vizbible": [
+      "recvlU77MyXb5w1pu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uzziah.2",
+  "offspring": [
+    "person:Elkanah.3"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaul (1 Chronicles 6:24)",
+      "alternate_labels": [
+        "Joel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shaul (1 Chronicles 6:24)",
+          "article": "person:Shaul.3",
+          "description": "Shaul, also called Joel, was a man of the tribe of Levi, the son of Uzziah and father of Elkanah, mentioned in 1 Chronicles 6:24."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Joel.15"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13006009",
+    "13006021"
+  ],
+  "references": [
+    "13006009",
+    "13006021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060090072"
+      ],
+      [
+        "o130060210041"
+      ]
+    ]
+  }
+}

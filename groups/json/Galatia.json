@@ -1,0 +1,107 @@
+{
+  "id": "group:Galatia",
+  "primary_id": "group:Galatia",
+  "alternate_sources": {
+    "aquifer": [
+      "5349|Galatians, Letter to the|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.441"
+    ],
+    "tipnr": [
+      "Galatia@Act.16.6-1Pe"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Galatia",
+  "ubsdgnt": [
+    "93.441"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Galatians",
+      "alternate_labels": [
+        "Galatia"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Galatians",
+          "article": "group:Galatia",
+          "description": "People who live in Galatia."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Γαλάτης"
+    ]
+  },
+  "key_references": [
+    "48003001",
+    "48006018"
+  ],
+  "references": [
+    "48003001",
+    "48006018"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n48003001003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n48003001005"
+      ],
+      [
+        "n48003001007"
+      ],
+      [
+        "n48003002006"
+      ],
+      [
+        "n48003005004"
+      ],
+      [
+        "n48003005011"
+      ],
+      [
+        "n48003013002"
+      ],
+      [
+        "n48003013011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n48003002012"
+      ],
+      [
+        "n48003003003",
+        "n48003003004"
+      ],
+      [
+        "n48003003008"
+      ],
+      [
+        "n48003004002"
+      ],
+      [
+        "n48003007001"
+      ],
+      [
+        "n48003014018"
+      ]
+    ]
+  }
+}

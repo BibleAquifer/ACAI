@@ -1,0 +1,35 @@
+{
+  "id": "place:Carthage",
+  "primary_id": "place:Carthage",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Carthage",
+          "gloss": "Carthage",
+          "description": "An ancient seaport city on the northern coast of Africa."
+        }
+      ],
+      "preferred_label": "Carthage"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "36.85003",
+      "lon": "10.318"
+    }
+  }
+}

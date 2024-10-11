@@ -1,0 +1,87 @@
+{
+  "id": "person:Noah.2",
+  "primary_id": "person:Noah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7413|Noah|TyndaleBibleDictionary",
+      "26913|Noah|UWTranslationWords",
+      "132176|Noah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "004831001001000"
+    ],
+    "tipnr": [
+      "Noah@Num.26.33-Jos"
+    ],
+    "vizbible": [
+      "recauQ3IPfRTuQbBj"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Zelophehad",
+  "siblings": [
+    "person:Mahlah",
+    "person:Hoglah",
+    "person:Milcah.2",
+    "person:Tirzah"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "004831001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Noah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Noah",
+          "article": "person:Noah.2",
+          "description": "A woman from the tribe of Manasseh and daughter of Zelophehad. She lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נֹעָה"
+    ]
+  },
+  "key_references": [
+    "04027001",
+    "04036011",
+    "06017003"
+  ],
+  "references": [
+    "04026033",
+    "04027001",
+    "04036011",
+    "06017003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260330152"
+      ],
+      [
+        "o040270010201"
+      ],
+      [
+        "o040360110062"
+      ],
+      [
+        "o060170030212"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040360120061"
+      ]
+    ]
+  }
+}

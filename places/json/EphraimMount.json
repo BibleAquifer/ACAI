@@ -1,0 +1,99 @@
+{
+  "id": "place:EphraimMount",
+  "primary_id": "place:EbalMount",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000615001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4948667"
+    ],
+    "tipnr": [
+      "Ephraim_Mount|Ebal_Mount@Deu.11.29-Jer"
+    ],
+    "vizbible": [
+      "rec4fn00zPmMzy1Ez"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000615001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hill Country of Ephraim",
+      "alternate_labels": [
+        "mountains of Ephraim",
+        "mountain of Ephraim",
+        "hills of Ephraim",
+        "Mount Ephraim",
+        "Mount Ebal",
+        "Ephraim",
+        "Ephraim Mount"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountEphraim",
+          "gloss": "Hill Country of Ephraim",
+          "description": "A mountainous region in the territory of Ephraim."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:EbalMount"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.23293814",
+      "lon": "35.2730418"
+    },
+    "recogito": {
+      "lat": "42.37314",
+      "lon": "-73.36761"
+    },
+    "vizbible": {
+      "lat": "32.23293814",
+      "lon": "35.2730418"
+    }
+  },
+  "key_references": [
+    "24031006",
+    "24050019",
+    "24004015"
+  ],
+  "references": [
+    "24004015",
+    "24031006",
+    "24050019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240040150081"
+      ]
+    ]
+  }
+}

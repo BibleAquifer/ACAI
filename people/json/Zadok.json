@@ -1,0 +1,69 @@
+{
+  "id": "person:Zadok",
+  "primary_id": "person:Zadok",
+  "alternate_sources": {
+    "aquifer": [
+      "9126|Zadok|TyndaleBibleDictionary",
+      "27223|Zadok|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.318"
+    ],
+    "tipnr": [
+      "Zadok@Mat.1.14"
+    ],
+    "vizbible": [
+      "recyodFnJCZMINzE6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Azor",
+  "offspring": [
+    "person:Achim"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.318"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zadok",
+      "alternate_labels": [
+        "Sadoc"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zadok",
+          "article": "person:Zadok",
+          "description": "Son of Azor and the father of Achim in Jesus's family tree according to Matthew's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σαδώκ"
+    ]
+  },
+  "key_references": [
+    "40001014"
+  ],
+  "references": [
+    "40001014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40001014005",
+        "n40001014006"
+      ]
+    ]
+  }
+}

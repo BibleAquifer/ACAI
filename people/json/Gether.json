@@ -1,0 +1,69 @@
+{
+  "id": "person:Gether",
+  "primary_id": "person:Gether",
+  "alternate_sources": {
+    "aquifer": [
+      "5436|Gether|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001531001001000"
+    ],
+    "tipnr": [
+      "Gether@Gen.10.23-1Ch"
+    ],
+    "vizbible": [
+      "rec1kYEN48GKrAXfE"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Aram",
+  "siblings": [
+    "person:Uz",
+    "person:Hul",
+    "person:Mash"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "001531001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gether",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gether",
+          "article": "person:Gether",
+          "description": "Gether was a man of the Syrians and son of Aram, living at the time of the patriarchs, mentioned in Genesis 10:23."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֶּתֶר",
+      "גֶּ֫תֶר"
+    ]
+  },
+  "key_references": [
+    "01010023",
+    "13001017"
+  ],
+  "references": [
+    "01010023",
+    "13001017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100230052"
+      ],
+      [
+        "o130010170102"
+      ]
+    ]
+  }
+}

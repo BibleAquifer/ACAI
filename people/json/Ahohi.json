@@ -1,0 +1,78 @@
+{
+  "id": "person:Ahohi",
+  "primary_id": "person:Ahoah",
+  "alternate_sources": {
+    "aquifer": [
+      "3464|Ahoah, Ahohi, Ahohite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000249001001000"
+    ],
+    "tipnr": [
+      "Ahohi|Ahoah@2Sa.23.9-1Ch"
+    ],
+    "vizbible": [
+      "recRVtFO6pohVz4Xt"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Bela",
+  "siblings": [
+    "person:Ard.2",
+    "person:Naaman.2",
+    "person:Ezbon.2",
+    "person:Uzzi.3",
+    "person:Uzziel.3",
+    "person:Jerimoth",
+    "person:Iri",
+    "person:Addar",
+    "person:Gera.3",
+    "person:Abihud",
+    "person:Abishua.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000249001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahohi (Ahoah)",
+      "alternate_labels": [
+        "Ahoah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahoah",
+          "article": "person:Ahohi",
+          "description": "A man from the tribe of Benjamin, son of Bela, also called Ahoah, mentioned in 2 Samuel 23:9 and 1 Chronicles 8:4."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ahoah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחֹוחַ",
+      "אֲחוֹחַ"
+    ]
+  },
+  "key_references": [
+    "13008004"
+  ],
+  "references": [
+    "13008004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080040032"
+      ]
+    ]
+  }
+}

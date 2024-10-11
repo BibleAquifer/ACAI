@@ -1,0 +1,39 @@
+{
+  "id": "place:South.3",
+  "primary_id": "place:South.3",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:South.3",
+          "gloss": "South (Kingdom of Ptolemy)",
+          "description": "A kingdom mentioned in the book of Daniel; probably a reference to Egypt."
+        }
+      ],
+      "preferred_label": "South (Kingdom of Ptolemy)",
+      "alternate_labels": [
+        "Egypt"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "27011005",
+    "27011011"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "person:Aniam",
+  "primary_id": "person:Aniam",
+  "alternate_sources": {
+    "aquifer": [
+      "3613|Aniam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000543001001000"
+    ],
+    "tipnr": [
+      "Aniam@1Ch.7.19"
+    ],
+    "vizbible": [
+      "recEQPKOw09kHBuE2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shemida",
+  "siblings": [
+    "person:Ahian",
+    "person:Shechem.3",
+    "person:Likhi"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "000543001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aniam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aniam",
+          "article": "person:Aniam",
+          "description": "A man from the tribe of Manasseh during the time of Egypt and the wilderness, mentioned in 1 Chronicles 7:19 as the son of Shemida."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲנִיעָם"
+    ]
+  },
+  "key_references": [
+    "13007019"
+  ],
+  "references": [
+    "13007019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070190072"
+      ]
+    ]
+  }
+}

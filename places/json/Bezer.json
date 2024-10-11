@@ -1,0 +1,103 @@
+{
+  "id": "place:Bezer",
+  "primary_id": "place:Bezer",
+  "alternate_sources": {
+    "aquifer": [
+      "4223|Bezer (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a0cd098"
+    ],
+    "tipnr": [
+      "Bezer@Deu.4.43-Jer",
+      "Bozrah|Bezer@Deu.4.43-Jer"
+    ],
+    "vizbible": [
+      "recwBsc9ohHXV6b60"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3376309"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bezer",
+      "alternate_labels": [
+        "Bozrah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bezer",
+          "gloss": "Bezer",
+          "description": "A Levitical town of refuge in the wilderness in the territory of Reuben, assigned to the clan of Merari."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Bozrah"
+  ],
+  "tribal_area": "group:Reuben",
+  "subregion_of": [
+    "place:TerritoryOfReuben"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.51613741",
+      "lon": "36.48829076"
+    },
+    "vizbible": {
+      "lat": "32.51613741",
+      "lon": "36.48829076"
+    }
+  },
+  "key_references": [
+    "06020008",
+    "05004043"
+  ],
+  "references": [
+    "05004043",
+    "06020008",
+    "06021036",
+    "13006063",
+    "24048024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050040430021"
+      ],
+      [
+        "o060200080071"
+      ],
+      [
+        "o060210360041"
+      ],
+      [
+        "o130060630091"
+      ],
+      [
+        "o240480240041"
+      ]
+    ]
+  }
+}

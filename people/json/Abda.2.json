@@ -1,0 +1,56 @@
+{
+  "id": "person:Abda.2",
+  "primary_id": "person:Obadiah.5",
+  "alternate_sources": {
+    "aquifer": [
+      "3269|Abda|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005193001002000"
+    ],
+    "tipnr": [
+      "Abda|Obadiah@1Ch.9.16-Neh"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shemaiah.6",
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005193001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abda (Obadiah)",
+      "alternate_labels": [
+        "Obadiah (1 Chronicles 9:16)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Obadiah (1 Chronicles 9:16)",
+          "article": "person:Abda.2",
+          "description": "A Levite during the time of exile and return, also called Obadiah, mentioned in 1 Chronicles 9:16 and Nehemiah 11:17."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Obadiah.5"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16011017"
+  ],
+  "references": [
+    "16011017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110170152"
+      ]
+    ]
+  }
+}

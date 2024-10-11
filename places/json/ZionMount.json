@@ -1,0 +1,204 @@
+{
+  "id": "place:ZionMount",
+  "primary_id": "place:Jerusalem",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.582a"
+    ],
+    "ubsdbh": [
+      "006189001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/15896"
+    ],
+    "tipnr": [
+      "Zion_Mount|Jerusalem@Jos.10.1-Rev"
+    ],
+    "vizbible": [
+      "rechZwu8ZbWlB6fyU"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.582a"
+  ],
+  "ubsdbh": [
+    "006189001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "MountZion",
+      "alternate_labels": [
+        "Jerusalem",
+        "mountain of the house of the Lord",
+        "mountain of the Lord’s temple",
+        "mountain of Yahweh",
+        "heights where the Temple now stands",
+        "Zion",
+        "mountain of Zion",
+        "mountain Zion",
+        "Temple Mount",
+        "Sion",
+        "Zion Mount"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountZion",
+          "gloss": "MountZion",
+          "description": "A hill in Jerusalem where the temple was built; also the location of the fortification known as the City of David (2 Samuel 6:7)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Jerusalem"
+  ],
+  "associated_places": [
+    "place:Zion",
+    "place:CityOfDavid"
+  ],
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Σιών"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "hill"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "31.776667",
+      "lon": "35.234167"
+    },
+    "vizbible": {
+      "lat": "31.776667",
+      "lon": "35.234167"
+    }
+  },
+  "key_references": [
+    "13011006",
+    "19048003",
+    "11008001",
+    "19002006",
+    "14005002",
+    "10005007"
+  ],
+  "references": [
+    "12019031",
+    "19048003",
+    "19048012",
+    "19068017",
+    "19074002",
+    "19078068",
+    "19125001",
+    "23004005",
+    "23008018",
+    "23010012",
+    "23018007",
+    "23024023",
+    "23029008",
+    "23031004",
+    "23037032",
+    "24026018",
+    "25005018",
+    "29003005",
+    "31001017",
+    "31001021",
+    "33003012",
+    "33004001",
+    "33004007",
+    "58012022",
+    "66014001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120190310071"
+      ],
+      [
+        "o190480030071"
+      ],
+      [
+        "o190480120031"
+      ],
+      [
+        "o190740020091"
+      ],
+      [
+        "o190780680071"
+      ],
+      [
+        "o191250010061"
+      ],
+      [
+        "o230040050071"
+      ],
+      [
+        "o230080180161"
+      ],
+      [
+        "o230100120091"
+      ],
+      [
+        "o230180070291"
+      ],
+      [
+        "o230240230101"
+      ],
+      [
+        "o230290080281"
+      ],
+      [
+        "o230310040301"
+      ],
+      [
+        "o230370320071"
+      ],
+      [
+        "o250050180031"
+      ],
+      [
+        "o290030050101"
+      ],
+      [
+        "o310010170021"
+      ],
+      [
+        "o310010210041"
+      ],
+      [
+        "o330040070121"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n58012022003"
+      ],
+      [
+        "n66014001011"
+      ]
+    ]
+  }
+}

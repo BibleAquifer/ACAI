@@ -1,0 +1,54 @@
+{
+  "id": "realia:HalfAMile",
+  "primary_id": "realia:HalfAMile",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "81.28"
+    ],
+    "ubsrealia": [
+      "realia:11.4.2.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "81.28"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Half a Mile",
+      "alternate_labels": [
+        "One Kilometer",
+        "Sabbath Journey"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Half a Mile",
+          "article": "realia:HalfAMile",
+          "description": "A distance of somewhat over half a mile, used to describe a short journey allowed on the Sabbath for Jews in the New Testament period."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σάββατον"
+    ]
+  },
+  "key_references": [
+    "44001012"
+  ],
+  "references": [
+    "44001012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44001012014"
+      ]
+    ]
+  }
+}

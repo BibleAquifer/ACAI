@@ -1,0 +1,85 @@
+{
+  "id": "place:Joktheel",
+  "primary_id": "place:Joktheel",
+  "alternate_sources": {
+    "aquifer": [
+      "6426|Joktheel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003080001001000"
+    ],
+    "tipnr": [
+      "Joktheel@Jos.15.38"
+    ],
+    "vizbible": [
+      "recYncMsyFtEC7kXF"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003080001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joktheel (of Judah)",
+      "alternate_labels": [
+        "Jokthe-El"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Joktheel.1",
+          "gloss": "Joktheel (of Judah)",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָקְתְאֵל",
+      "יׇקְתְאֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.56485056116292",
+      "lon": "34.8467256730566"
+    },
+    "vizbible": {
+      "lat": "31.56485056116292",
+      "lon": "34.8467256730566"
+    }
+  },
+  "key_references": [
+    "06015038"
+  ],
+  "references": [
+    "06015038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150380032"
+      ]
+    ]
+  }
+}

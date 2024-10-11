@@ -1,0 +1,89 @@
+{
+  "id": "place:Elishah",
+  "primary_id": "place:Cyprus",
+  "alternate_sources": {
+    "aquifer": [
+      "5022|Elishah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000437001002000"
+    ],
+    "tipnr": [
+      "Elishah|Cyprus@Num.24.24-Act"
+    ],
+    "vizbible": [
+      "rec9iLE1EPBSXW9He"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000437001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elishah",
+      "alternate_labels": [
+        "Cyprus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Elishah",
+          "gloss": "Elishah",
+          "description": "An island known for trading dyed cloth with Tyre; possibly another name for Cyprus."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Cyprus"
+  ],
+  "referred_to_as": [
+    "place:Cyprus"
+  ],
+  "tribal_area": "group:Cyprus",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֱלִישָׁה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "island",
+      "settlement",
+      "region"
+    ],
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.018306",
+      "lon": "33.207693"
+    },
+    "vizbible": {
+      "lat": "35.018306",
+      "lon": "33.207693"
+    }
+  },
+  "key_references": [
+    "26027007"
+  ],
+  "references": [
+    "26027007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270070121"
+      ]
+    ]
+  }
+}

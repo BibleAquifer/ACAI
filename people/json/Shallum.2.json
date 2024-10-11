@@ -1,0 +1,89 @@
+{
+  "id": "person:Shallum.2",
+  "primary_id": "person:Shallum.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8266|Shallum|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007383001001000"
+    ],
+    "tipnr": [
+      "Shallum@2Ki.15.10-"
+    ],
+    "vizbible": [
+      "receWggHu1UphF6y2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jabesh",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "007383001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shallum",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shallum",
+          "article": "person:Shallum.2",
+          "description": "The son of Jabesh who became king of the northern kingdom of Israel after he assassinated Zechariah, son of Jeroboam."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12015010",
+    "12015013",
+    "12015014"
+  ],
+  "references": [
+    "12015010",
+    "12015013",
+    "12015014",
+    "12015015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120150100031"
+      ],
+      [
+        "o120150130011"
+      ],
+      [
+        "o120150140101"
+      ],
+      [
+        "o120150150031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120150100062"
+      ],
+      [
+        "o120150100092"
+      ],
+      [
+        "o120150100102"
+      ],
+      [
+        "o120150130122"
+      ],
+      [
+        "o120150150061"
+      ]
+    ]
+  }
+}

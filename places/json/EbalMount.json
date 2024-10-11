@@ -1,0 +1,125 @@
+{
+  "id": "place:EbalMount",
+  "primary_id": "place:EbalMount",
+  "alternate_sources": {
+    "aquifer": [
+      "7220|Mount Ebal|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aa5cc66"
+    ],
+    "tipnr": [
+      "Zalmon|Ebal_Mount@Deu.11.29-Jer",
+      "Zalmon_Mount|Ebal_Mount@Deu.11.29-Jer",
+      "Ebal_Mount@Deu.11.29-Jer",
+      "Ephraim_Mount|Ebal_Mount@Deu.11.29-Jer"
+    ],
+    "vizbible": [
+      "rec2YUNAEJFFfYOXk"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1975866"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Ebal",
+      "alternate_labels": [
+        "Ebal",
+        "Mount Zalmon",
+        "Zalmon",
+        "Mount Ephraim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountEbal",
+          "gloss": "Mount Ebal",
+          "description": "A mountain north of Shechem where the Israelites pronounced curses (Deuteronomy 11:29); often associated with Mount Gerizim to the south."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:ZalmonMount",
+    "place:Zalmon",
+    "place:EphraimMount"
+  ],
+  "associated_places": [
+    "place:GerizimMount"
+  ],
+  "nearby_places": [
+    "place:Shechem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.23293814",
+      "lon": "35.2730418"
+    },
+    "vizbible": {
+      "lat": "32.23293814",
+      "lon": "35.2730418"
+    }
+  },
+  "key_references": [
+    "06008030",
+    "05011029",
+    "05027013"
+  ],
+  "references": [
+    "05011029",
+    "05027004",
+    "05027013",
+    "06008030",
+    "06008033",
+    "07009048",
+    "19068015",
+    "24004015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050110290231"
+      ],
+      [
+        "o050270040151"
+      ],
+      [
+        "o050270130061"
+      ],
+      [
+        "o060080300091"
+      ],
+      [
+        "o060080330281"
+      ],
+      [
+        "o070090480041"
+      ],
+      [
+        "o190680150062"
+      ],
+      [
+        "o240040150081"
+      ]
+    ]
+  }
+}

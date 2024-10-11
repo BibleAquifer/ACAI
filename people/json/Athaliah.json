@@ -1,0 +1,204 @@
+{
+  "id": "person:Athaliah",
+  "primary_id": "person:Athaliah",
+  "alternate_sources": {
+    "aquifer": [
+      "3860|Athaliah|TyndaleBibleDictionary",
+      "26347|Athaliah|UWTranslationWords",
+      "132436|Athaliah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "005753001001000"
+    ],
+    "tipnr": [
+      "Athaliah@2Ki.8.26-2Ch"
+    ],
+    "vizbible": [
+      "recjyWBYEzNaB2uZC"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Ahab",
+  "mother": "person:Jezebel",
+  "partners": [
+    "person:Jehoram"
+  ],
+  "offspring": [
+    "person:Ahaziah.2",
+    "person:Jehosheba"
+  ],
+  "siblings": [
+    "person:Joash.2",
+    "person:Ahaziah",
+    "person:Joram.3"
+  ],
+  "roles": [
+    "Queen"
+  ],
+  "related_places": {
+    "death_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "005753001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Athaliah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Athaliah",
+          "article": "person:Athaliah",
+          "description": "A queen during the divided kingdom, who destroyed the royal family. She was a daughter of Ahab, wife of Jehoram, and mother of Ahaziah and Jehosheba."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12008018",
+    "12011001",
+    "12011002",
+    "12011003",
+    "12011014",
+    "12008026"
+  ],
+  "references": [
+    "12008026",
+    "12011001",
+    "12011002",
+    "12011003",
+    "12011013",
+    "12011014",
+    "12011020",
+    "14022002",
+    "14022010",
+    "14022011",
+    "14022012",
+    "14023012",
+    "14023013",
+    "14023021",
+    "14024007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120080260131"
+      ],
+      [
+        "o120110010012"
+      ],
+      [
+        "o120110020271"
+      ],
+      [
+        "o120110030082"
+      ],
+      [
+        "o120110130021"
+      ],
+      [
+        "o120110140191"
+      ],
+      [
+        "o120110200081"
+      ],
+      [
+        "o140220020131"
+      ],
+      [
+        "o140220100012"
+      ],
+      [
+        "o140220110351"
+      ],
+      [
+        "o140220120082"
+      ],
+      [
+        "o140230120021"
+      ],
+      [
+        "o140230130241"
+      ],
+      [
+        "o140230210081"
+      ],
+      [
+        "o140240070021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120110010092"
+      ],
+      [
+        "o120110010102"
+      ],
+      [
+        "o120110130072"
+      ],
+      [
+        "o120110140012"
+      ],
+      [
+        "o120110140222"
+      ],
+      [
+        "o120110150251"
+      ],
+      [
+        "o120110160042"
+      ],
+      [
+        "o120110160102"
+      ],
+      [
+        "o140220100082"
+      ],
+      [
+        "o140220100092"
+      ],
+      [
+        "o140220110371"
+      ],
+      [
+        "o140230120102"
+      ],
+      [
+        "o140230130012"
+      ],
+      [
+        "o140230130272"
+      ],
+      [
+        "o140230150042"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o120110140231",
+          "o120110140241"
+        ]
+      },
+      {
+        "delivery": "angry",
+        "quote_type": "Normal",
+        "words": [
+          "o140230130281",
+          "o140230130291"
+        ]
+      }
+    ]
+  }
+}

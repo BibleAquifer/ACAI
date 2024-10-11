@@ -1,0 +1,114 @@
+{
+  "id": "person:Jehudi",
+  "primary_id": "person:Jehudi",
+  "alternate_sources": {
+    "aquifer": [
+      "6295|Jehudi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002820001003000"
+    ],
+    "tipnr": [
+      "Jehudi@Jer.36.14-"
+    ],
+    "vizbible": [
+      "recNSW71vQ2PsuT5m"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nethaniah.4",
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "002820001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehudi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehudi",
+          "article": "person:Jehudi",
+          "description": "An official and son of Nethaniah who lived during the time of King Jehoiakim of the divided kingdom. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהוּדִי"
+    ]
+  },
+  "key_references": [
+    "24036009",
+    "24036014",
+    "24036021",
+    "24036022",
+    "24036023"
+  ],
+  "references": [
+    "24036014",
+    "24036021",
+    "24036023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240360140071"
+      ],
+      [
+        "o240360210041"
+      ],
+      [
+        "o240360210131"
+      ],
+      [
+        "o240360230031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240360140142"
+      ],
+      [
+        "o240360210052"
+      ],
+      [
+        "o240360210082"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360140151",
+          "o240360140152",
+          "o240360140161",
+          "o240360140171",
+          "o240360140181",
+          "o240360140182",
+          "o240360140191",
+          "o240360140192",
+          "o240360140201",
+          "o240360140202",
+          "o240360140211",
+          "o240360140212",
+          "o240360140221",
+          "o240360140222",
+          "o240360140223",
+          "o240360140231",
+          "o240360140232"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "person:Shemaiah",
+  "primary_id": "person:Shemaiah",
+  "alternate_sources": {
+    "aquifer": [
+      "8345|Shemaiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007486001001000",
+      "007487001001000"
+    ],
+    "tipnr": [
+      "Shemaiah@1Ki.12.22-2Ch"
+    ],
+    "vizbible": [
+      "reca7COilV04EhZgr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Prophet"
+  ],
+  "ubsdbh": [
+    "007486001001000",
+    "007487001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shemaiah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shemaiah",
+          "article": "person:Shemaiah",
+          "description": "A prophet who served during the time of King Rehoboam of Judah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שְׁמַעְיָהוּ",
+      "שְׁמַעְיָ֫הוּ",
+      "שִׁמְעֹנִי"
+    ]
+  },
+  "key_references": [
+    "11012022",
+    "14012005",
+    "14012015"
+  ],
+  "references": [
+    "11012022",
+    "14011002",
+    "14012005",
+    "14012007",
+    "14012015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110120220051"
+      ],
+      [
+        "o140110020051"
+      ],
+      [
+        "o140120050012"
+      ],
+      [
+        "o140120070091"
+      ],
+      [
+        "o140120150091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110120230011"
+      ],
+      [
+        "o110120230152"
+      ],
+      [
+        "o140110030011"
+      ],
+      [
+        "o140110030132"
+      ],
+      [
+        "o140120050142"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o140120050161",
+          "o140120050171",
+          "o140120050181",
+          "o140120050191",
+          "o140120050201",
+          "o140120050211",
+          "o140120050212",
+          "o140120050221",
+          "o140120050222",
+          "o140120050231",
+          "o140120050241",
+          "o140120050251",
+          "o140120050252",
+          "o140120050261",
+          "o140120050262",
+          "o140120050271"
+        ]
+      }
+    ]
+  }
+}

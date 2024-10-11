@@ -1,0 +1,101 @@
+{
+  "id": "place:Beth-hoglah",
+  "primary_id": "place:Beth-hoglah",
+  "alternate_sources": {
+    "aquifer": [
+      "4181|Beth-Hoglah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aabd0ba"
+    ],
+    "ubsdbh": [
+      "000957001001000"
+    ],
+    "tipnr": [
+      "Beth-hoglah@Jos.15.6-"
+    ],
+    "vizbible": [
+      "recRg102TEaTaifd2"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000957001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-hoglah",
+      "alternate_labels": [
+        "Beth-hogla"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-hoglah",
+          "gloss": "Beth-Hoglah",
+          "description": "A town on the northern border of the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית חָגְלָה",
+      "בֵּית חׇגְלָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.837062",
+      "lon": "35.513151"
+    },
+    "vizbible": {
+      "lat": "31.837062",
+      "lon": "35.513151"
+    }
+  },
+  "key_references": [
+    "06018019",
+    "06015006",
+    "06018021"
+  ],
+  "references": [
+    "06015006",
+    "06018019",
+    "06018021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150060031",
+        "o060150060041"
+      ],
+      [
+        "o060180190051",
+        "o060180190061"
+      ],
+      [
+        "o060180210082",
+        "o060180210091"
+      ]
+    ]
+  }
+}

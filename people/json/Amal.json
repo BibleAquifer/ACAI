@@ -1,0 +1,63 @@
+{
+  "id": "person:Amal",
+  "primary_id": "person:Amal",
+  "alternate_sources": {
+    "aquifer": [
+      "3537|Amal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002958001001000"
+    ],
+    "tipnr": [
+      "Amal@1Ch.7.35"
+    ],
+    "vizbible": [
+      "recRMwAXMTzu8tgx6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hotham",
+  "siblings": [
+    "person:Zophah",
+    "person:Imna",
+    "person:Shelesh"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "002958001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Amal",
+          "article": "person:Amal",
+          "description": "A man from the tribe of Asher, son of Helem and brother of Zophah, Imna, and Shelesh, only mentioned in 1 Chronicles 7:35."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִמְנָע"
+    ]
+  },
+  "key_references": [
+    "13007035"
+  ],
+  "references": [
+    "13007035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070350072"
+      ]
+    ]
+  }
+}

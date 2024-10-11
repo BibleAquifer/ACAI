@@ -1,0 +1,62 @@
+{
+  "id": "person:HugeMan",
+  "primary_id": "person:HugeMan",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003720002001000",
+      "003715001002000"
+    ],
+    "tipnr": [
+      "huge_man@2Sa.21.20-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Rapha",
+  "siblings": [
+    "person:Goliath",
+    "person:Ishbi-benob",
+    "person:Saph",
+    "person:Lahmi"
+  ],
+  "ubsdbh": [
+    "003720002001000",
+    "003715001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Huge Man",
+      "alternate_labels": [
+        "great stature"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Huge Man",
+          "article": "person:HugeMan",
+          "description": "Huge Man, a giant from the time of Israel's united kingdom, was the son of Rapha and brother of Goliath, Ishbi-benob, Saph, and Lahmi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10021020",
+    "13020006"
+  ],
+  "references": [
+    "10021020",
+    "13020006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100210200081"
+      ],
+      [
+        "o130200060071"
+      ]
+    ]
+  }
+}

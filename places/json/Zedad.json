@@ -1,0 +1,86 @@
+{
+  "id": "place:Zedad",
+  "primary_id": "place:Zedad",
+  "alternate_sources": {
+    "aquifer": [
+      "9169|Zedad|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aab92ca"
+    ],
+    "ubsdbh": [
+      "006122001001000"
+    ],
+    "tipnr": [
+      "Zedad@Num.34.8-Ezk"
+    ],
+    "vizbible": [
+      "rec33RNDKwJDs9pBL"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3461076"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006122001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zedad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zedad",
+          "gloss": "Zedad",
+          "description": "A town located on the northern boundary of Israel, perhaps 105 km northeast of Damascus; part of Israel only during the reigns of David and Solomon; regarded as part of the restored nation in Ezekiel's vision."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.312571",
+      "lon": "36.925484"
+    },
+    "vizbible": {
+      "lat": "34.312571",
+      "lon": "36.925484"
+    }
+  },
+  "key_references": [
+    "04034009",
+    "26047015"
+  ],
+  "references": [
+    "04034008",
+    "26047015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340080091"
+      ],
+      [
+        "o260470150121"
+      ]
+    ]
+  }
+}

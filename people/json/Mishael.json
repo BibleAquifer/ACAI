@@ -1,0 +1,84 @@
+{
+  "id": "person:Mishael",
+  "primary_id": "person:Mishael",
+  "alternate_sources": {
+    "aquifer": [
+      "7159|Mishael|TyndaleBibleDictionary",
+      "26882|Mishael|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "003959001001000"
+    ],
+    "tipnr": [
+      "Mishael@Exo.6.22-Lev"
+    ],
+    "vizbible": [
+      "recxiKe62yUASiO5Z"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uzziel",
+  "siblings": [
+    "person:Elizaphan",
+    "person:Sithri",
+    "person:Micah.5",
+    "person:Isshiah.3"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "003959001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mishael",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mishael",
+          "article": "person:Mishael",
+          "description": "Mishael was a man from the tribe of Levi, son of Uzziel, living during the time of Egypt and the wilderness."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִישָׁאֵל"
+    ]
+  },
+  "key_references": [
+    "02006022",
+    "03010004"
+  ],
+  "references": [
+    "02006022",
+    "03010004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060220031"
+      ],
+      [
+        "o030100040041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o030100040131",
+        "o030100040141"
+      ],
+      [
+        "o030100050012"
+      ],
+      [
+        "o030100050022"
+      ]
+    ]
+  }
+}

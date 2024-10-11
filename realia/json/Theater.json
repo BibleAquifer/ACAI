@@ -1,0 +1,61 @@
+{
+  "id": "realia:Theater",
+  "primary_id": "realia:Theater",
+  "alternate_sources": {
+    "aquifer": [
+      "8809|Theater|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "7.54"
+    ],
+    "ubsrealia": [
+      "realia:3.13.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.54"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Theater",
+      "alternate_labels": [
+        "Theatre"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Theater",
+          "article": "realia:Theater",
+          "description": "A large, usually semicircular open structure where thousands of people could gather for public events."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "θέατρον"
+    ]
+  },
+  "key_references": [
+    "44019029",
+    "44019031"
+  ],
+  "references": [
+    "44019029",
+    "44019031"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44019029012"
+      ],
+      [
+        "n44019031018"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "place:Mareshah",
+  "primary_id": "place:Mareshah",
+  "alternate_sources": {
+    "aquifer": [
+      "6945|Mareshah (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5cda86"
+    ],
+    "ubsdbh": [
+      "004436001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21689"
+    ],
+    "tipnr": [
+      "Mareshah@Jos.15.44-Mic"
+    ],
+    "vizbible": [
+      "recEmcEOTObO9ztFB"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1507676"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004436001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mareshah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mareshah",
+          "gloss": "Mareshah",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מָרֵשָׁה",
+      "מְרָרִי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.60393321",
+      "lon": "34.90237778"
+    },
+    "recogito": {
+      "lat": "31.592963",
+      "lon": "34.898241"
+    },
+    "vizbible": {
+      "lat": "31.592963",
+      "lon": "34.898241"
+    }
+  },
+  "key_references": [
+    "14014009",
+    "06015044"
+  ],
+  "references": [
+    "06015044",
+    "14011008",
+    "14014008",
+    "14014009",
+    "14020037",
+    "33001015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150440032"
+      ],
+      [
+        "o140110080041"
+      ],
+      [
+        "o140140080131"
+      ],
+      [
+        "o140140090082"
+      ],
+      [
+        "o140200370052"
+      ],
+      [
+        "o330010150061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "person:James.4",
+  "primary_id": "person:James.4",
+  "alternate_sources": {
+    "aquifer": [
+      "6202|James (Person)|TyndaleBibleDictionary",
+      "6201|James, Letter of|TyndaleBibleDictionary",
+      "132065|James|BiblicaStudyNotesKeyTerms",
+      "280118|james|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.158d"
+    ],
+    "tipnr": [
+      "James@Mat.27.56-Mrk"
+    ],
+    "vizbible": [
+      "rectKmSGswWg5Hx4b"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:HusbandOfMary.2",
+  "mother": "person:Mary.2",
+  "siblings": [
+    "person:Joseph.5",
+    "person:Salome"
+  ],
+  "ubsdgnt": [
+    "93.158d"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "James (Son of Mary)",
+      "alternate_labels": [
+        "Joses"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "James (Son of Mary)",
+          "article": "person:James.4",
+          "description": "Son of Mary, one of the women who witnessed Jesus's death on the cross."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰάκωβος"
+    ]
+  },
+  "key_references": [
+    "40027056",
+    "41015040",
+    "41015047"
+  ],
+  "references": [
+    "40027056",
+    "41015040",
+    "41015047"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027056011"
+      ],
+      [
+        "n41015040017"
+      ]
+    ]
+  }
+}

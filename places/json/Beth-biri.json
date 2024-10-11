@@ -1,0 +1,86 @@
+{
+  "id": "place:Beth-biri",
+  "primary_id": "place:Beth-biri",
+  "alternate_sources": {
+    "aquifer": [
+      "4163|Beth-Biri|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000937001001000"
+    ],
+    "tipnr": [
+      "Beth-biri@1Ch.4.31"
+    ],
+    "vizbible": [
+      "recDmcDQzqC8YiyuP"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000937001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-biri",
+      "alternate_labels": [
+        "Beth-birei"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-biri",
+          "gloss": "Beth-Biri",
+          "description": "A town in the territory of Simeon until the reign of King David."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית בִּרְאִי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.391668",
+      "lon": "34.940502"
+    },
+    "vizbible": {
+      "lat": "31.391668",
+      "lon": "34.940502"
+    }
+  },
+  "key_references": [
+    "13004031"
+  ],
+  "references": [
+    "13004031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040310053",
+        "o130040310061"
+      ]
+    ]
+  }
+}

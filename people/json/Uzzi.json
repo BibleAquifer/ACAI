@@ -1,0 +1,79 @@
+{
+  "id": "person:Uzzi",
+  "primary_id": "person:Uzzi",
+  "alternate_sources": {
+    "aquifer": [
+      "8993|Uzzi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005337001001000"
+    ],
+    "tipnr": [
+      "Uzzi@1Ch.6.5-Ezr"
+    ],
+    "vizbible": [
+      "recUuMdb4xOxwoQtb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Bukki.2",
+  "offspring": [
+    "person:Zerahiah"
+  ],
+  "roles": [
+    "High Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005337001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uzzi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uzzi",
+          "article": "person:Uzzi",
+          "description": "A descendant of the high priest Aaron's son Eleazar, son of Bukki and father of Zerahiah. He is listed as an ancestor of Ezra the scribe."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֻזִיָּא",
+      "עֻזִּיָּא"
+    ]
+  },
+  "key_references": [
+    "13005031",
+    "13006036",
+    "15007004"
+  ],
+  "references": [
+    "13005031",
+    "13005032",
+    "13006036",
+    "15007004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050310081"
+      ],
+      [
+        "o130050320012"
+      ],
+      [
+        "o130060360031"
+      ],
+      [
+        "o150070040041"
+      ]
+    ]
+  }
+}

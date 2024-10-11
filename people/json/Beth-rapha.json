@@ -1,0 +1,63 @@
+{
+  "id": "person:Beth-rapha",
+  "primary_id": "person:Beth-rapha",
+  "alternate_sources": {
+    "aquifer": [
+      "4199|Beth-Rapha|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000976001001000"
+    ],
+    "tipnr": [
+      "Beth-rapha@1Ch.4.12"
+    ],
+    "vizbible": [
+      "recoQp3SjoT9hkrDN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eshton",
+  "siblings": [
+    "person:Paseah",
+    "person:Tehinnah"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000976001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-rapha",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Beth-Rapha",
+          "article": "person:Beth-rapha",
+          "description": "A man from the tribe of Judah mentioned in 1 Chronicles 4:12, who lived during the time of the divided kingdom, and was the son of Eshton."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֵּית רָפָא"
+    ]
+  },
+  "key_references": [
+    "13004012"
+  ],
+  "references": [
+    "13004012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040120041",
+        "o130040120051"
+      ]
+    ]
+  }
+}

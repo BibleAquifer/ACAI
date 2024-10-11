@@ -1,0 +1,87 @@
+{
+  "id": "person:Muppim",
+  "primary_id": "person:Muppim",
+  "alternate_sources": {
+    "aquifer": [
+      "7243|Muppim|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shephuphan|Muppim@Gen.46.21-1Ch",
+      "Shephupham|Muppim@Gen.46.21-1Ch",
+      "Muppim@Gen.46.21-1Ch",
+      "Shuphamite|Muppim@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "recO7nRQUb3uEFk6i"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Rosh",
+    "person:Huppim",
+    "person:Ard",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Muppim",
+      "alternate_labels": [
+        "Shephuphan",
+        "Shuphamite",
+        "Shupham",
+        "Shephupham"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Muppim",
+          "article": "person:Muppim",
+          "description": "A son of the patriarch Benjamin."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shephupham",
+    "person:Shephuphan",
+    "group:Shuphamite"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046021",
+    "04026039",
+    "13008005"
+  ],
+  "references": [
+    "01046021",
+    "04026039",
+    "13008005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460210101"
+      ],
+      [
+        "o040260390012"
+      ],
+      [
+        "o040260390032"
+      ],
+      [
+        "o130080050022"
+      ]
+    ]
+  }
+}

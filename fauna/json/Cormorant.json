@@ -1,0 +1,47 @@
+{
+  "id": "fauna:Cormorant",
+  "primary_id": "fauna:Cormorant",
+  "alternate_sources": {
+    "aquifer": [
+      "4653|Cormorant|TyndaleBibleDictionary"
+    ],
+    "ubsfauna": [
+      "fauna:3.4"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cormorant",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cormorant",
+          "article": "fauna:Cormorant",
+          "description": "A sea bird that often perches by the water."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "03011017",
+    "05014017"
+  ],
+  "references": [
+    "03011017",
+    "05014017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110170042"
+      ],
+      [
+        "o050140170052"
+      ]
+    ]
+  }
+}

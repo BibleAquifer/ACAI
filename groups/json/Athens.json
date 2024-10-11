@@ -1,0 +1,76 @@
+{
+  "id": "group:Athens",
+  "primary_id": "group:Athens",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.395"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/10975"
+    ],
+    "tipnr": [
+      "Athens@Act.17.15-2Th"
+    ],
+    "vizbible": [
+      "rec6n0u78dB1QOA1Z"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Athens",
+  "ubsdgnt": [
+    "93.395"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Athenians",
+      "alternate_labels": [
+        "Athenians",
+        "Athens"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Athenians",
+          "article": "group:Athens",
+          "description": "People who live in Athens."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀθηναῖος"
+    ]
+  },
+  "key_references": [
+    "44017021"
+  ],
+  "references": [
+    "44017015",
+    "44017016",
+    "44017021",
+    "44017022",
+    "44018001",
+    "52003001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44017021001"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44017021013"
+      ],
+      [
+        "n44017021016"
+      ]
+    ]
+  }
+}

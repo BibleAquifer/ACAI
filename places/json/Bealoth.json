@@ -1,0 +1,102 @@
+{
+  "id": "place:Bealoth",
+  "primary_id": "place:Baalath-beer",
+  "alternate_sources": {
+    "aquifer": [
+      "4043|Bealoth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001096001001000",
+      "001096001002000"
+    ],
+    "tipnr": [
+      "Bealoth|Baalath-beer@Jos.19.8-1Ch"
+    ],
+    "vizbible": [
+      "reciBYklvLCuVsref"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001096001001000",
+    "001096001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bealoth (of Judah)",
+      "alternate_labels": [
+        "Baalath-Beer",
+        "Bealoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bealoth.1",
+          "gloss": "Bealoth (of Judah)",
+          "description": "A town in the territory of Judah; possibly to be identified with Baalath-Beer."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Baalath-beer"
+  ],
+  "referred_to_as": [
+    "place:Baalath-beer"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בְּעָלֹות",
+      "בְּעָלוֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    },
+    "vizbible": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    }
+  },
+  "key_references": [
+    "06015024"
+  ],
+  "references": [
+    "06015024",
+    "11004016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150240032"
+      ],
+      [
+        "o110040160052"
+      ]
+    ]
+  }
+}

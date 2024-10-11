@@ -1,0 +1,80 @@
+{
+  "id": "person:Theudas",
+  "primary_id": "person:Theudas",
+  "alternate_sources": {
+    "aquifer": [
+      "8819|Theudas|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.154"
+    ],
+    "tipnr": [
+      "Theudas@Act.5.36"
+    ],
+    "vizbible": [
+      "recccnQAanNXLnK3z"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.154"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Theudas",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Theudas",
+          "article": "person:Theudas",
+          "description": "Theudas was a Jewish insurrectionist in the New Testament, mentioned in Acts 5:36."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Θευδᾶς"
+    ]
+  },
+  "key_references": [
+    "44005036"
+  ],
+  "references": [
+    "44005036"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44005036007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44005036011",
+        "n44005036012"
+      ],
+      [
+        "n44005036018"
+      ],
+      [
+        "n44005036024"
+      ],
+      [
+        "n44005037002"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44005036008"
+      ]
+    ]
+  }
+}

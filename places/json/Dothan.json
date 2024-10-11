@@ -1,0 +1,99 @@
+{
+  "id": "place:Dothan",
+  "primary_id": "place:Dothan",
+  "alternate_sources": {
+    "aquifer": [
+      "4889|Dothan|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ab635e4"
+    ],
+    "ubsdbh": [
+      "001734001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4059102"
+    ],
+    "tipnr": [
+      "Dothan@Gen.37.17-2Ki"
+    ],
+    "vizbible": [
+      "rec3JgMop7qtLBNCH"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2916407"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001734001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dothan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dothan",
+          "gloss": "Dothan",
+          "description": "A town in northern Israel, probably to be identified with Tel Dothan; Joseph went to meet his brothers there before they plotted to kill him (Genesis 37:17)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "דֹּתָן",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.42064338",
+      "lon": "35.1801983"
+    },
+    "recogito": {
+      "lat": "31.22323",
+      "lon": "-85.39049"
+    },
+    "vizbible": {
+      "lat": "32.42064338",
+      "lon": "35.1801983"
+    }
+  },
+  "key_references": [
+    "01037017",
+    "12006013"
+  ],
+  "references": [
+    "01037017",
+    "12006013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010370170091"
+      ],
+      [
+        "o010370170152"
+      ],
+      [
+        "o120060130122"
+      ]
+    ]
+  }
+}

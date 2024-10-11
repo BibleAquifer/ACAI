@@ -1,0 +1,58 @@
+{
+  "id": "flora:Mint",
+  "primary_id": "flora:Mint",
+  "alternate_sources": {
+    "aquifer": [
+      "7151|Mint|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "3.23"
+    ],
+    "ubsflora": [
+      "flora:3.5.7"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdgnt": [
+    "3.23"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mint",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mint",
+          "article": "flora:Mint",
+          "description": "A fragrant plant with soft, small leaves that have sawlike edges and is used in cooking, tea, and medicine."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἡδύοσμον"
+    ]
+  },
+  "key_references": [
+    "40023023",
+    "42011042"
+  ],
+  "references": [
+    "40023023",
+    "42011042"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40023023010"
+      ],
+      [
+        "n42011042009"
+      ]
+    ]
+  }
+}

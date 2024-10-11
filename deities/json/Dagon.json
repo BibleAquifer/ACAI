@@ -1,0 +1,101 @@
+{
+  "id": "deity:Dagon",
+  "primary_id": "deity:Dagon",
+  "alternate_sources": {
+    "aquifer": [
+      "4736|Dagon|TyndaleBibleDictionary",
+      "132392|Dagon|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001570001001000"
+    ],
+    "tipnr": [
+      "Dagon@Jdg.16.23-1Ch"
+    ],
+    "vizbible": [
+      "recUt3VRWj3MN5Pg0"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "001570001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dagon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dagon",
+          "article": "deity:Dagon",
+          "description": "The primary god of the Philistines."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דָּגֹון",
+      "דָּגוֹן"
+    ]
+  },
+  "key_references": [
+    "09005002",
+    "07016023"
+  ],
+  "references": [
+    "07016023",
+    "09005002",
+    "09005003",
+    "09005004",
+    "09005005",
+    "09005007",
+    "13010010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070160230072"
+      ],
+      [
+        "o090050020091"
+      ],
+      [
+        "o090050020131"
+      ],
+      [
+        "o090050030051"
+      ],
+      [
+        "o090050030141"
+      ],
+      [
+        "o090050040051"
+      ],
+      [
+        "o090050040131"
+      ],
+      [
+        "o090050040211"
+      ],
+      [
+        "o090050050061"
+      ],
+      [
+        "o090050050101"
+      ],
+      [
+        "o090050050131"
+      ],
+      [
+        "o090050070181"
+      ],
+      [
+        "o130100100101"
+      ]
+    ]
+  }
+}

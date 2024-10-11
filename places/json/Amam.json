@@ -1,0 +1,81 @@
+{
+  "id": "place:Amam",
+  "primary_id": "place:Amam",
+  "alternate_sources": {
+    "aquifer": [
+      "3538|Amam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000495001001000"
+    ],
+    "tipnr": [
+      "Amam@Jos.15.26"
+    ],
+    "vizbible": [
+      "rec5JrZRD4W7OiWDK"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000495001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Amam",
+          "gloss": "Amam",
+          "description": "A town in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲמָם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    },
+    "vizbible": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    }
+  },
+  "key_references": [
+    "06015026"
+  ],
+  "references": [
+    "06015026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150260011"
+      ]
+    ]
+  }
+}

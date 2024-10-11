@@ -1,0 +1,57 @@
+{
+  "id": "person:Sophereth",
+  "primary_id": "person:Sophereth",
+  "alternate_sources": {
+    "aquifer": [
+      "8579|Sophereth|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Sophereth@Ezr.2.55-Neh",
+      "Hassophereth|Sophereth@Ezr.2.55-Neh"
+    ],
+    "vizbible": [
+      "rec1E9nPHZrHNdqxY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sophereth",
+      "alternate_labels": [
+        "Hassophereth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sophereth",
+          "article": "person:Sophereth",
+          "description": "Sophereth, also called Hassophereth, was a man living during the time of the exile and return, mentioned in Ezra 2:55."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hassophereth"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002055",
+    "16007057"
+  ],
+  "references": [
+    "15002055",
+    "16007057"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020550072"
+      ],
+      [
+        "o160070570071"
+      ]
+    ]
+  }
+}

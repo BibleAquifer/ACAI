@@ -1,0 +1,115 @@
+{
+  "id": "person:Eliphaz",
+  "primary_id": "person:Eliphaz",
+  "alternate_sources": {
+    "aquifer": [
+      "5018|Eliphaz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000428001001000"
+    ],
+    "tipnr": [
+      "Eliphaz@Gen.36.4-1Ch"
+    ],
+    "vizbible": [
+      "rec5NX8uW1K4csGEj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Esau",
+  "mother": "person:Adah.2",
+  "partners": [
+    "person:Timna",
+    "person:WifeOfEliphaz"
+  ],
+  "offspring": [
+    "person:Teman",
+    "person:Omar",
+    "person:Zepho",
+    "person:Gatam",
+    "person:Kenaz",
+    "person:Amalek",
+    "person:Korah.2"
+  ],
+  "siblings": [
+    "person:Reuel.3",
+    "person:Jeush",
+    "person:Jalam",
+    "person:Korah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "000428001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliphaz",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliphaz",
+          "article": "person:Eliphaz",
+          "description": "First-born son of Esau and his wife Adah. He was the chief of the people of Edom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיפַז"
+    ]
+  },
+  "key_references": [
+    "01036004",
+    "01036015",
+    "13001036"
+  ],
+  "references": [
+    "01036004",
+    "01036010",
+    "01036011",
+    "01036012",
+    "01036015",
+    "01036016",
+    "13001035",
+    "13001036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360040051"
+      ],
+      [
+        "o010360100051"
+      ],
+      [
+        "o010360110031"
+      ],
+      [
+        "o010360120042"
+      ],
+      [
+        "o010360120082"
+      ],
+      [
+        "o010360150061"
+      ],
+      [
+        "o010360160091"
+      ],
+      [
+        "o130010350031"
+      ],
+      [
+        "o130010360021"
+      ]
+    ]
+  }
+}

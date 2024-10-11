@@ -1,0 +1,64 @@
+{
+  "id": "person:Epher",
+  "primary_id": "person:Epher",
+  "alternate_sources": {
+    "aquifer": [
+      "5103|Epher|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005582001001000"
+    ],
+    "tipnr": [
+      "Epher@Gen.25.4-1Ch"
+    ],
+    "vizbible": [
+      "recDjTCLi8owVWATN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Midian",
+  "siblings": [
+    "person:Ephah",
+    "person:Hanoch",
+    "person:Abida",
+    "person:Eldaah"
+  ],
+  "tribe": "group:Sinites",
+  "ubsdbh": [
+    "005582001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Epher",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Epher",
+          "article": "person:Epher",
+          "description": "Epher, first mentioned in Genesis 25:4, was a Midianite and son of Midian, with brothers named Ephah, Hanoch, Abida, and Eldaah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01025004",
+    "13001033"
+  ],
+  "references": [
+    "01025004",
+    "13001033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250040042"
+      ],
+      [
+        "o130010330042"
+      ]
+    ]
+  }
+}

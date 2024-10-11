@@ -1,0 +1,65 @@
+{
+  "id": "person:Abdon.2",
+  "primary_id": "person:Abdon.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3273|Abdon (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005196001003000"
+    ],
+    "tipnr": [
+      "Abdon@1Ch.8.23"
+    ],
+    "vizbible": [
+      "recJoOUIhbhMXSf5Y"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shashak",
+  "siblings": [
+    "person:Ishpan",
+    "person:Eber.4",
+    "person:Eliel.3",
+    "person:Zichri.3",
+    "person:Hanan",
+    "person:Hananiah.2",
+    "person:Elam.3",
+    "person:Anthothijah",
+    "person:Iphdeiah",
+    "person:Penuel.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005196001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abdon (Son of Shashak)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abdon (Son of Shashak)",
+          "article": "person:Abdon.2",
+          "description": "A Benjaminite from the divided kingdom, son of Shashak and brother to many siblings, mentioned in 1 Chronicles 8:23."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008023"
+  ],
+  "references": [
+    "13008023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080230012"
+      ]
+    ]
+  }
+}

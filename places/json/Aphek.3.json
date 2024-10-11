@@ -1,0 +1,96 @@
+{
+  "id": "place:Aphek.3",
+  "primary_id": "place:Aphek.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3655|Aphek|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000609001004000"
+    ],
+    "tipnr": [
+      "Aphek@1Ki.20.26-2Ki"
+    ],
+    "vizbible": [
+      "rec4zjcf8PmeLpWQi"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000609001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aphek (of Aram)",
+      "alternate_labels": [
+        "Aphek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aphek.3",
+          "gloss": "Aphek (of Aram)",
+          "description": "A town in Aram (Syria) where Ben-Hadad went to fight against Israel."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Syria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲפֵק",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.77826807",
+      "lon": "35.69874935"
+    },
+    "vizbible": {
+      "lat": "32.77826807",
+      "lon": "35.69874935"
+    }
+  },
+  "key_references": [
+    "12013017",
+    "11020026"
+  ],
+  "references": [
+    "11020026",
+    "11020030",
+    "12013017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110200260101"
+      ],
+      [
+        "o110200300031"
+      ],
+      [
+        "o120130170202"
+      ]
+    ]
+  }
+}

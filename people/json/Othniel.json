@@ -1,0 +1,108 @@
+{
+  "id": "person:Othniel",
+  "primary_id": "person:Othniel",
+  "alternate_sources": {
+    "aquifer": [
+      "7531|Othniel|TyndaleBibleDictionary",
+      "132377|Othniel|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "005756001001000"
+    ],
+    "tipnr": [
+      "Othniel@Jos.15.17-1Ch"
+    ],
+    "vizbible": [
+      "recgfx8iuSsor6yXf"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kenaz.3",
+  "partners": [
+    "person:Achsah"
+  ],
+  "offspring": [
+    "person:Hathath",
+    "person:Meonothai"
+  ],
+  "siblings": [
+    "person:Seraiah.4"
+  ],
+  "roles": [
+    "Judge",
+    "Military Commander"
+  ],
+  "ubsdbh": [
+    "005756001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Othniel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Othniel",
+          "article": "person:Othniel",
+          "description": "Othniel, the first judge of Israel and son of Kenaz."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "06015017",
+    "07003009",
+    "13027015"
+  ],
+  "references": [
+    "06015017",
+    "07001013",
+    "07003009",
+    "07003011",
+    "13004013",
+    "13027015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150170021"
+      ],
+      [
+        "o070010130021"
+      ],
+      [
+        "o070030090131"
+      ],
+      [
+        "o070030110061"
+      ],
+      [
+        "o130040130031"
+      ],
+      [
+        "o130040130061"
+      ],
+      [
+        "o130270150082"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o060150180042"
+      ],
+      [
+        "o070010140042"
+      ],
+      [
+        "o070030100052"
+      ],
+      [
+        "o070030100082"
+      ]
+    ]
+  }
+}

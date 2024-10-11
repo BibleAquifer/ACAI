@@ -1,0 +1,56 @@
+{
+  "id": "person:Phinehas.3",
+  "primary_id": "person:Phinehas.3",
+  "alternate_sources": {
+    "aquifer": [
+      "7718|Phinehas|TyndaleBibleDictionary",
+      "26959|Phinehas|UWTranslationWords",
+      "132349|Phinehas|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "005852001003000"
+    ],
+    "tipnr": [
+      "Phinehas@Ezr.8.33"
+    ],
+    "vizbible": [
+      "recTHFADp4ZJMAeSA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Eleazar.6"
+  ],
+  "ubsdbh": [
+    "005852001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Phinehas (Ezra 8:33)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Phinehas (Ezra 8:33)",
+          "article": "person:Phinehas.3",
+          "description": "Phinehas, mentioned in Ezra 8:33, was a man living during the time of exile and return."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15008033"
+  ],
+  "references": [
+    "15008033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150080330181"
+      ]
+    ]
+  }
+}

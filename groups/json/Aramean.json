@@ -1,0 +1,113 @@
+{
+  "id": "group:Aramean",
+  "primary_id": "group:Aramean",
+  "alternate_sources": {
+    "aquifer": [
+      "3695|Arameans|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000702001001000"
+    ],
+    "tipnr": [
+      "Aramean|Paddan-aram@Gen.25.20-Hos"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Paddan-aram",
+  "ubsdbh": [
+    "000702001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arameans",
+      "alternate_labels": [
+        "Paddan-Aram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Arameans",
+          "article": "group:Aramean",
+          "description": "People-groups living in Syria who share a language, Aramaic."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲרַמִּי",
+      "רַמִּי"
+    ]
+  },
+  "key_references": [
+    "07003008",
+    "10008005",
+    "10008006"
+  ],
+  "references": [
+    "01025020",
+    "01028005",
+    "01031020",
+    "01031024",
+    "05026005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250200112"
+      ],
+      [
+        "o010250200162"
+      ],
+      [
+        "o010280050122"
+      ],
+      [
+        "o010310200062"
+      ],
+      [
+        "o010310240052"
+      ],
+      [
+        "o050260050061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o050260050071"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o120070060171",
+          "o120070060181",
+          "o120070060191",
+          "o120070060192",
+          "o120070060201",
+          "o120070060211",
+          "o120070060221",
+          "o120070060231",
+          "o120070060241",
+          "o120070060242",
+          "o120070060251",
+          "o120070060252",
+          "o120070060261",
+          "o120070060271",
+          "o120070060281",
+          "o120070060282",
+          "o120070060291",
+          "o120070060292"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "deity:Teraphim",
+  "primary_id": "deity:Teraphim",
+  "alternate_sources": {
+    "aquifer": [
+      "8790|Teraphim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007948001001000"
+    ],
+    "tipnr": [
+      "Teraphim@Gen.31.19-Zec"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "other",
+  "ubsdbh": [
+    "007948001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Teraphim",
+      "alternate_labels": [
+        "images",
+        "idols",
+        "household gods",
+        "idolatry",
+        "image",
+        "idol"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Teraphim",
+          "article": "deity:Teraphim",
+          "description": "A sacred object that served as a household god."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תִּרְצָה",
+      "תִּרְעָתִים"
+    ]
+  },
+  "key_references": [
+    "01031034",
+    "07017005",
+    "12023024",
+    "38010002"
+  ],
+  "references": [
+    "01031019",
+    "01031034",
+    "01031035",
+    "07017005",
+    "07018014",
+    "07018017",
+    "07018018",
+    "07018020",
+    "09015023",
+    "09019013",
+    "09019016",
+    "12023024",
+    "26021026",
+    "28003004",
+    "38010002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010310190092"
+      ],
+      [
+        "o010310340042"
+      ],
+      [
+        "o010310350212"
+      ],
+      [
+        "o070170050082"
+      ],
+      [
+        "o070180140182"
+      ],
+      [
+        "o070180170162"
+      ],
+      [
+        "o070180180102"
+      ],
+      [
+        "o070180200082"
+      ],
+      [
+        "o090150230062"
+      ],
+      [
+        "o090190130042"
+      ],
+      [
+        "o090190160042"
+      ],
+      [
+        "o120230240072"
+      ],
+      [
+        "o260210260162"
+      ],
+      [
+        "o280030040172"
+      ],
+      [
+        "o380100020022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120230240141"
+      ]
+    ]
+  }
+}

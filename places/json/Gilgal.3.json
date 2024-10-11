@@ -1,0 +1,88 @@
+{
+  "id": "place:Gilgal.3",
+  "primary_id": "place:Gilgal.3",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001409002005000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/294634"
+    ],
+    "tipnr": [
+      "Gilgal@2Ki.2.1-"
+    ],
+    "vizbible": [
+      "recMk8e2xt1Lf5HKz"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001409002005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gilgal (near Bethel)",
+      "alternate_labels": [
+        "Gilgal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gilgal.2",
+          "gloss": "Gilgal (near Bethel)",
+          "description": "A location near Bethel associated with Elijah and Elisha."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Adummim",
+    "place:Bethel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.029737",
+      "lon": "35.222604"
+    },
+    "recogito": {
+      "lat": "32.1547",
+      "lon": "34.95372"
+    },
+    "vizbible": {
+      "lat": "32.029737",
+      "lon": "35.222604"
+    }
+  },
+  "key_references": [
+    "12004038",
+    "12002001"
+  ],
+  "references": [
+    "12002001",
+    "12004038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120020010122"
+      ],
+      [
+        "o120040380032"
+      ]
+    ]
+  }
+}

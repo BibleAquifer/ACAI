@@ -1,0 +1,77 @@
+{
+  "id": "person:Shemeber",
+  "primary_id": "person:Shemeber",
+  "alternate_sources": {
+    "aquifer": [
+      "8350|Shemeber|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007441001001000"
+    ],
+    "tipnr": [
+      "Shemeber@Gen.14.2"
+    ],
+    "vizbible": [
+      "reckdErW6hRQJZs7R"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Canaan",
+  "ubsdbh": [
+    "007441001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shemeber",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shemeber",
+          "article": "person:Shemeber",
+          "description": "Shemeber, mentioned in Genesis 14:2, was a king living at the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שִׁמְאָה"
+    ]
+  },
+  "key_references": [
+    "01014002"
+  ],
+  "references": [
+    "01014002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140020142"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140030021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010140040041"
+      ],
+      [
+        "o010140040101"
+      ]
+    ]
+  }
+}

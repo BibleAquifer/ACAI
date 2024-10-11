@@ -1,0 +1,106 @@
+{
+  "id": "place:Colossae",
+  "primary_id": "place:Colossae",
+  "alternate_sources": {
+    "aquifer": [
+      "4614|Colossae, Colosse|TyndaleBibleDictionary",
+      "26455|Colossae|UWTranslationWords",
+      "132106|Colossae|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a4e5a69"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/638811",
+      "http://pleiades.stoa.org/places/638811"
+    ],
+    "tipnr": [
+      "Colossae@Col.1.2-"
+    ],
+    "vizbible": [
+      "recg7SOb0VamKav0B"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1001370"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Colossae",
+      "alternate_labels": [
+        "Colosse",
+        "Var",
+        "[ ]",
+        "Colossians"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Colossae",
+          "gloss": "Colossae",
+          "description": "A city in Phrygia in Asia Minor near Hierapolis and Laodicea; the letter to the Colossians was addressed to the church there. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Colossae"
+  ],
+  "nearby_places": [
+    "place:Laodicea",
+    "place:Hierapolis"
+  ],
+  "subregion_of": [
+    "place:Phrygia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.78333333",
+      "lon": "29.25"
+    },
+    "recogito": {
+      "lat": "37.78671",
+      "lon": "29.2598"
+    },
+    "vizbible": {
+      "lat": "37.78333333",
+      "lon": "29.25"
+    },
+    "biblica-maps": {
+      "lat": "37.7931",
+      "lon": "29.25807"
+    }
+  },
+  "key_references": [
+    "51001002"
+  ],
+  "references": [
+    "51001002",
+    "51004018"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n51001002003"
+      ]
+    ]
+  }
+}

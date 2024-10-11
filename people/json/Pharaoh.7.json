@@ -1,0 +1,153 @@
+{
+  "id": "person:Pharaoh.7",
+  "primary_id": "person:Pharaoh.7",
+  "alternate_sources": {
+    "aquifer": [
+      "7694|Pharaoh|TyndaleBibleDictionary",
+      "26952|Pharaoh|UWTranslationWords",
+      "132196|Pharaoh|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "006021001001000"
+    ],
+    "tipnr": [
+      "Pharaoh@1Ki.3.1-Sng"
+    ],
+    "vizbible": [
+      "recM8puJim5xv2bHw"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Tahpenes"
+  ],
+  "offspring": [
+    "person:DaughterOfPharaoh.2"
+  ],
+  "roles": [
+    "King",
+    "Ruler"
+  ],
+  "tribe": "group:Egypt",
+  "ubsdbh": [
+    "006021001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pharaoh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pharaoh",
+          "article": "person:Pharaoh.7",
+          "description": "Husband of Tahpenes who ruled the Egyptians during the time of Israel’s united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11011018",
+    "11011019",
+    "11011020"
+  ],
+  "references": [
+    "11003001",
+    "11007008",
+    "11009016",
+    "11009024",
+    "11011001",
+    "11011018",
+    "11011019",
+    "11011020",
+    "11011021",
+    "11011022",
+    "14008011",
+    "22001009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110030010041"
+      ],
+      [
+        "o110030010101"
+      ],
+      [
+        "o110070080151"
+      ],
+      [
+        "o110090160011"
+      ],
+      [
+        "o110090240031"
+      ],
+      [
+        "o110110010091"
+      ],
+      [
+        "o110110180121"
+      ],
+      [
+        "o110110190051"
+      ],
+      [
+        "o110110200121"
+      ],
+      [
+        "o110110200161"
+      ],
+      [
+        "o110110200191"
+      ],
+      [
+        "o110110210171"
+      ],
+      [
+        "o110110220031"
+      ],
+      [
+        "o140080110031"
+      ],
+      [
+        "o220010090031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110090160052"
+      ],
+      [
+        "o110090160082"
+      ],
+      [
+        "o110090160141"
+      ],
+      [
+        "o110090160152"
+      ],
+      [
+        "o110110180152"
+      ],
+      [
+        "o110110180191"
+      ],
+      [
+        "o110110180221"
+      ],
+      [
+        "o110110190072"
+      ],
+      [
+        "o110110210181"
+      ],
+      [
+        "o110110220181"
+      ]
+    ]
+  }
+}

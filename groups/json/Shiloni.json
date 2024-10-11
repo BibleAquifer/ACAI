@@ -1,0 +1,52 @@
+{
+  "id": "group:Shiloni",
+  "primary_id": "group:Shiloni",
+  "alternate_sources": {
+    "aquifer": [
+      "8399|Shiloni|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shiloni@Neh.11.5"
+    ],
+    "vizbible": [
+      "recwJlMNcGKnvAQCx"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Shelah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shiloni",
+      "alternate_labels": [
+        "Shelanite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shiloni",
+          "article": "group:Shiloni",
+          "description": "People descended from Shelah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Shelanite"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16011005"
+  ],
+  "references": [
+    "16011005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110050162"
+      ]
+    ]
+  }
+}

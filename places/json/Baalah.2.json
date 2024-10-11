@@ -1,0 +1,110 @@
+{
+  "id": "place:Baalah.2",
+  "primary_id": "place:Kiriath-jearim",
+  "alternate_sources": {
+    "aquifer": [
+      "3927|Baalah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001095002001000"
+    ],
+    "tipnr": [
+      "Baalah|Kiriath-jearim@Jos.9.17-Jer"
+    ],
+    "vizbible": [
+      "recmzFZzjfqsRjkZ9"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001095002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baalah (of Judah)",
+      "alternate_labels": [
+        "Kiriath-Jearim",
+        "Baalah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baalah.2",
+          "gloss": "Baalah (of Judah)",
+          "description": "A town on the northern border of the territory of Judah; also known as Kiriath-Jearim, Kiriath-Baal, and Baale-Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Baale-judah",
+    "place:Kiriath-jearim"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בַּעֲלָה",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.771104",
+      "lon": "34.993812"
+    },
+    "vizbible": {
+      "lat": "31.771104",
+      "lon": "34.993812"
+    }
+  },
+  "key_references": [
+    "06015009",
+    "13013006",
+    "06015010"
+  ],
+  "references": [
+    "06015009",
+    "06015010",
+    "13013006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150090161"
+      ],
+      [
+        "o060150100032"
+      ],
+      [
+        "o130130060051"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060150090171"
+      ]
+    ]
+  }
+}

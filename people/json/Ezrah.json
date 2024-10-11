@@ -1,0 +1,61 @@
+{
+  "id": "person:Ezrah",
+  "primary_id": "person:Ezrah",
+  "alternate_sources": {
+    "aquifer": [
+      "5224|Ezrah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005355002001000"
+    ],
+    "tipnr": [
+      "Ezrah@1Ch.4.17"
+    ],
+    "vizbible": [
+      "recp9VY1ISuht4OWj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Jether.5",
+    "person:Mered",
+    "person:Epher.2",
+    "person:Jalon"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005355002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ezrah",
+      "alternate_labels": [
+        "Ezra"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ezrah",
+          "article": "person:Ezrah",
+          "description": "Ezrah, possibly from the tribe of Judah, lived during the time of the divided kingdom and is mentioned in 1 Chronicles 4:17."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004017"
+  ],
+  "references": [
+    "13004017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040170021"
+      ]
+    ]
+  }
+}

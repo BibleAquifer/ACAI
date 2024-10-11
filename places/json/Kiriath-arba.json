@@ -1,0 +1,141 @@
+{
+  "id": "place:Kiriath-arba",
+  "primary_id": "place:Hebron",
+  "alternate_sources": {
+    "aquifer": [
+      "6601|Kiriath-Arba|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006583001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28353"
+    ],
+    "tipnr": [
+      "Kiriath-arba|Hebron@Gen.13.18-Neh"
+    ],
+    "vizbible": [
+      "reccnARM8vn8OfAgg"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006583001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kiriath-arba",
+      "alternate_labels": [
+        "Kiriath Arba",
+        "Hebron",
+        "Kiriath-arba"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Hebron"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "קִרְיַת־בַּעַל",
+      "קִרְיַת בַּעַל"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.53577362",
+      "lon": "35.09409987"
+    },
+    "recogito": {
+      "lat": "31.524354",
+      "lon": "35.108539"
+    },
+    "vizbible": {
+      "lat": "31.524354",
+      "lon": "35.108539"
+    }
+  },
+  "references": [
+    "01023002",
+    "01035027",
+    "06014015",
+    "06015013",
+    "06015054",
+    "06020007",
+    "06021011",
+    "07001010",
+    "16011025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010230020032",
+        "o010230020041"
+      ],
+      [
+        "o010350270071",
+        "o010350270081"
+      ],
+      [
+        "o060140150041",
+        "o060140150051"
+      ],
+      [
+        "o060150130141",
+        "o060150130151"
+      ],
+      [
+        "o060150540022",
+        "o060150540031"
+      ],
+      [
+        "o060200070121",
+        "o060200070131"
+      ],
+      [
+        "o060210110041",
+        "o060210110051"
+      ],
+      [
+        "o070010100101",
+        "o070010100111"
+      ],
+      [
+        "o160110250072",
+        "o160110250081"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010230020051"
+      ],
+      [
+        "o010350270091"
+      ],
+      [
+        "o060140150091"
+      ],
+      [
+        "o060150130181"
+      ],
+      [
+        "o060150540041"
+      ],
+      [
+        "o060200070141"
+      ],
+      [
+        "o060210110081"
+      ]
+    ]
+  }
+}

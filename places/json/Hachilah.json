@@ -1,0 +1,96 @@
+{
+  "id": "place:Hachilah",
+  "primary_id": "place:Hachilah",
+  "alternate_sources": {
+    "aquifer": [
+      "5563|Hachilah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a28a7df"
+    ],
+    "ubsdbh": [
+      "002258001001000"
+    ],
+    "tipnr": [
+      "Hachilah@1Sa.23.19-"
+    ],
+    "vizbible": [
+      "recEQYY5s2c3PGUaS"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002258001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hachilah",
+      "alternate_labels": [
+        "Hakilah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hachilah",
+          "gloss": "Hachilah",
+          "description": "A hill in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲכִילָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.466604",
+      "lon": "35.216691"
+    },
+    "vizbible": {
+      "lat": "31.466604",
+      "lon": "35.216691"
+    }
+  },
+  "key_references": [
+    "09026001",
+    "09026003",
+    "09023019"
+  ],
+  "references": [
+    "09023019",
+    "09026001",
+    "09026003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090230190142"
+      ],
+      [
+        "o090260010112"
+      ],
+      [
+        "o090260030042"
+      ]
+    ]
+  }
+}

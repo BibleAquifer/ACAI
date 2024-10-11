@@ -1,0 +1,96 @@
+{
+  "id": "person:Abishalom",
+  "primary_id": "person:Absalom",
+  "alternate_sources": {
+    "aquifer": [
+      "3311|Abishalom|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000052001001000"
+    ],
+    "tipnr": [
+      "Abishalom|Absalom@2Sa.3.3-Psa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:Maacah.2",
+  "offspring": [
+    "person:Tamar.3"
+  ],
+  "siblings": [
+    "person:Amnon",
+    "person:Chileab",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shammua.2",
+    "person:Shobab",
+    "person:Nathan",
+    "person:Solomon",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Nepheg.2",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliada",
+    "person:Eliphelet",
+    "person:Tamar.2",
+    "person:Elpelet",
+    "person:Nogah",
+    "person:Jerimoth.6"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000052001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abishalom (Absalom)",
+      "alternate_labels": [
+        "Absalom"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Absalom",
+          "article": "person:Abishalom",
+          "description": "David's son, also known as Absalom, who lived during Israel's united kingdom, and father of Maacah, wife of Rehoboam."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Absalom"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִישָׁלֹום",
+      "אֲבִישָׁלוֹם"
+    ]
+  },
+  "key_references": [
+    "11015002",
+    "11015010"
+  ],
+  "references": [
+    "11015002",
+    "11015010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110150020091"
+      ],
+      [
+        "o110150100101"
+      ]
+    ]
+  }
+}

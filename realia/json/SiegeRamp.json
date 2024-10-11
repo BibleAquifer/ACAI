@@ -1,0 +1,102 @@
+{
+  "id": "realia:SiegeRamp",
+  "primary_id": "realia:SiegeRamp",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005092001001000"
+    ],
+    "ubsrealia": [
+      "realia:2.19.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "005092001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Siege Ramp",
+      "alternate_labels": [
+        "Masada"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Siege Ramp",
+          "article": "realia:SiegeRamp",
+          "description": "An dirt mound built against a city wall to help attackers climb over it."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סֹלְלָה"
+    ]
+  },
+  "key_references": [
+    "10020015",
+    "23037033",
+    "26004002"
+  ],
+  "references": [
+    "10020015",
+    "12019032",
+    "23037033",
+    "24006006",
+    "24032024",
+    "24033004",
+    "26004002",
+    "26017017",
+    "26021027",
+    "26026008",
+    "27011015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100200150081"
+      ],
+      [
+        "o120190320231"
+      ],
+      [
+        "o230370330231"
+      ],
+      [
+        "o240060060111"
+      ],
+      [
+        "o240320240022"
+      ],
+      [
+        "o240330040172"
+      ],
+      [
+        "o260040020091"
+      ],
+      [
+        "o260170170111"
+      ],
+      [
+        "o260210270181"
+      ],
+      [
+        "o260260080101"
+      ],
+      [
+        "o270110150051"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240320240052"
+      ]
+    ]
+  }
+}

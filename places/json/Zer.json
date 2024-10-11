@@ -1,0 +1,77 @@
+{
+  "id": "place:Zer",
+  "primary_id": "place:Zer",
+  "alternate_sources": {
+    "aquifer": [
+      "9204|Zer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006314001001000"
+    ],
+    "tipnr": [
+      "Zer@Jos.19.35"
+    ],
+    "vizbible": [
+      "rectJBnQ5S4JYF8Ab"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006314001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zer",
+          "gloss": "Zer",
+          "description": "A fortified town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.125828",
+      "lon": "35.165000"
+    },
+    "vizbible": {
+      "lat": "33.125828",
+      "lon": "35.165000"
+    }
+  },
+  "key_references": [
+    "06019035"
+  ],
+  "references": [
+    "06019035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190350041"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "person:Jesus",
+  "primary_id": "person:Barabbas",
+  "alternate_sources": {
+    "aquifer": [
+      "4119|Ben Sirach, Jesus|TyndaleBibleDictionary",
+      "6356|Jesus|TyndaleBibleDictionary",
+      "26758|Jesus|UWTranslationWords",
+      "132165|Jesus|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.169b"
+    ],
+    "tipnr": [
+      "Jesus|Barabbas@Mat.27.16-Jhn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Prisoner"
+  ],
+  "ubsdgnt": [
+    "93.169b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jesus (Barabbas)",
+      "alternate_labels": [
+        "Barabbas"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Barabbas",
+          "article": "person:Jesus",
+          "description": "A prisoner chosen by the people to be released instead of Jesus Christ, mentioned in the New Testament during the trial of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Barabbas"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰησοῦς"
+    ]
+  },
+  "key_references": [
+    "40027016"
+  ],
+  "references": [
+    "40027016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027016007"
+      ]
+    ]
+  }
+}

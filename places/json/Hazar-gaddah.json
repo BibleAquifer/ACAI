@@ -1,0 +1,89 @@
+{
+  "id": "place:Hazar-gaddah",
+  "primary_id": "place:Hazar-gaddah",
+  "alternate_sources": {
+    "aquifer": [
+      "5728|Hazar-Gaddah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002481001001000"
+    ],
+    "tipnr": [
+      "Hazar-gaddah@Jos.15.27"
+    ],
+    "vizbible": [
+      "reco9U3zrTHcqFxwP"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002481001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazar-gaddah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hazar-gaddah",
+          "gloss": "Hazar-Gaddah",
+          "description": "A town in the southern territory of Judah, near the border of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲצַר גַּדָּה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    },
+    "vizbible": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    }
+  },
+  "key_references": [
+    "06015027"
+  ],
+  "references": [
+    "06015027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150270012",
+        "o060150270021"
+      ]
+    ]
+  }
+}

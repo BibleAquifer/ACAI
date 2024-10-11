@@ -1,0 +1,66 @@
+{
+  "id": "person:Mary.4",
+  "primary_id": "person:Mary.4",
+  "alternate_sources": {
+    "aquifer": [
+      "6850|Magdalene, Mary|TyndaleBibleDictionary",
+      "6961|Mary|TyndaleBibleDictionary",
+      "26856|Mary|UWTranslationWords",
+      "132029|Mary, Martha and Lazarus|BiblicaStudyNotesKeyTerms",
+      "280150|mary|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.253e",
+      "93.253c"
+    ],
+    "tipnr": [
+      "Mary@Jhn.19.25"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Cleopas"
+  ],
+  "ubsdgnt": [
+    "93.253e",
+    "93.253c"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mary (Wife of Clopas)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mary (Wife of Clopas)",
+          "article": "person:Mary.4",
+          "description": "Wife of Clopas who was among the women who witnessed Jesus's death on the cross."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Μαρία",
+      "Μαριάμ"
+    ]
+  },
+  "key_references": [
+    "43019025"
+  ],
+  "references": [
+    "43019025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43019025017"
+      ],
+      [
+        "n43019025022"
+      ]
+    ]
+  }
+}

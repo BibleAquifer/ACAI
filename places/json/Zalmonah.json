@@ -1,0 +1,82 @@
+{
+  "id": "place:Zalmonah",
+  "primary_id": "place:Zalmonah",
+  "alternate_sources": {
+    "aquifer": [
+      "9130|Zalmonah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006212001001000"
+    ],
+    "tipnr": [
+      "Zalmonah@Num.33.41-"
+    ],
+    "vizbible": [
+      "reclppTjqqEBmqIkn"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006212001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zalmonah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zalmonah",
+          "gloss": "Zalmonah",
+          "description": "A location along the route of the exodus, between Mount Hor and Punon, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "צַלְמֻנָּע"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.49684513710609",
+      "lon": "35.78284105296996"
+    },
+    "vizbible": {
+      "lat": "31.49684513710609",
+      "lon": "35.78284105296996"
+    }
+  },
+  "key_references": [
+    "04033041",
+    "04033042"
+  ],
+  "references": [
+    "04033041",
+    "04033042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330410052"
+      ],
+      [
+        "o040330420022"
+      ]
+    ]
+  }
+}

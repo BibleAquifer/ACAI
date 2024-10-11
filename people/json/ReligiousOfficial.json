@@ -1,0 +1,93 @@
+{
+  "id": "person:ReligiousOfficial",
+  "primary_id": "person:ReligiousOfficial",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Religious Official",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Religious Official",
+          "description": "A religious official participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40008019",
+    "42009057",
+    "42013014"
+  ],
+  "references": [
+    "40008019",
+    "42009057",
+    "42013014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40008019004"
+      ],
+      [
+        "n42009057008"
+      ],
+      [
+        "n42013014004"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "eager",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40008019007",
+          "n40008019008",
+          "n40008019009",
+          "n40008019010",
+          "n40008019011",
+          "n40008019012"
+        ]
+      },
+      {
+        "delivery": "eager",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42009057011",
+          "n42009057012",
+          "n42009057013",
+          "n42009057014",
+          "n42009057015"
+        ]
+      },
+      {
+        "delivery": "angry",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42013014016",
+          "n42013014017",
+          "n42013014018",
+          "n42013014019",
+          "n42013014020",
+          "n42013014021",
+          "n42013014022",
+          "n42013014023",
+          "n42013014024",
+          "n42013014025",
+          "n42013014026",
+          "n42013014027",
+          "n42013014028",
+          "n42013014029",
+          "n42013014030",
+          "n42013014031",
+          "n42013014032",
+          "n42013014033"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "group:Elon",
+  "primary_id": "group:Elon",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000457001001000"
+    ],
+    "tipnr": [
+      "Elon@Gen.46.14-Num"
+    ],
+    "vizbible": [
+      "recDcJyTBzshxHqmO"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Elon.2",
+  "ubsdbh": [
+    "000457001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elonites",
+      "alternate_labels": [
+        "Elon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elonites",
+          "article": "group:Elon",
+          "description": "People descended from Elon, son of Zebulun, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵלֹנִי"
+    ]
+  },
+  "key_references": [
+    "04026026"
+  ],
+  "references": [
+    "04026026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260260092"
+      ]
+    ]
+  }
+}

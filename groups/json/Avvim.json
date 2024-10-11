@@ -1,0 +1,54 @@
+{
+  "id": "group:Avvim",
+  "primary_id": "group:Avvim",
+  "alternate_sources": {
+    "aquifer": [
+      "3890|Avvim (Persons)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Avvim@Deu.2.23-Jos"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Avvim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Avvim",
+          "article": "group:Avvim",
+          "description": "People who lived in Avva (modern Gaza)"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "05002023",
+    "06013003"
+  ],
+  "references": [
+    "05002023",
+    "06013003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050020230013"
+      ],
+      [
+        "o060130030213"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o050020230022"
+      ]
+    ]
+  }
+}

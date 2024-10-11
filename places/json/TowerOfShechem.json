@@ -1,0 +1,42 @@
+{
+  "id": "place:TowerOfShechem",
+  "primary_id": "place:TowerOfShechem",
+  "alternate_sources": {
+    "aquifer": [
+      "8901|Tower of Shechem|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TowerOfShechem",
+          "gloss": "Tower of Shechem",
+          "description": "A fortress in the town of Shechem."
+        }
+      ],
+      "preferred_label": "Tower of Shechem"
+    }
+  },
+  "subregion_of": [
+    "place:Shechem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "tower"
+    ]
+  },
+  "key_references": [
+    "07009046",
+    "07009047",
+    "07009049"
+  ]
+}

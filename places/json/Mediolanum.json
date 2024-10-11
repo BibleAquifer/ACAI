@@ -1,0 +1,35 @@
+{
+  "id": "place:Mediolanum",
+  "primary_id": "place:Mediolanum",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mediolanum",
+          "gloss": "Mediolanum",
+          "description": "A Roman city in northern Italy and center of early Christianity; modern-day Milan."
+        }
+      ],
+      "preferred_label": "Mediolanum"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "45.45742",
+      "lon": "9.17876"
+    }
+  }
+}

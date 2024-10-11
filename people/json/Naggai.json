@@ -1,0 +1,64 @@
+{
+  "id": "person:Naggai",
+  "primary_id": "person:Naggai",
+  "alternate_sources": {
+    "aquifer": [
+      "7278|Naggai, Nagge|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.268"
+    ],
+    "tipnr": [
+      "Naggai@Luk.3.25"
+    ],
+    "vizbible": [
+      "recxSRUm1Y6pXoZmu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Maath",
+  "offspring": [
+    "person:Esli"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.268"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Naggai",
+      "alternate_labels": [
+        "Nagge"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Naggai",
+          "article": "person:Naggai",
+          "description": "Son of Maath and the father of Esli in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ναγγαί"
+    ]
+  },
+  "key_references": [
+    "42003025"
+  ],
+  "references": [
+    "42003025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003025010"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "person:Shimeah",
+  "primary_id": "person:Shimeah",
+  "alternate_sources": {
+    "aquifer": [
+      "8401|Shimeah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shimeam|Shimeah@1Ch.8.32-",
+      "Shimeah@1Ch.8.32-"
+    ],
+    "vizbible": [
+      "rec7oZRt7z1j9y5Ht"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mikloth",
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shimeah",
+      "alternate_labels": [
+        "Shimeam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shimeah",
+          "article": "person:Shimeah",
+          "description": "Shimeah (also called Shimeam), a man from the tribe of Benjamin, lived during the divided kingdom and was the son of Mikloth."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shimeam"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008032",
+    "13009038"
+  ],
+  "references": [
+    "13008032",
+    "13009038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080320041"
+      ],
+      [
+        "o130090380041"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130080320061"
+      ],
+      [
+        "o130090380061"
+      ]
+    ]
+  }
+}

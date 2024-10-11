@@ -1,0 +1,92 @@
+{
+  "id": "realia:Handbreadth",
+  "primary_id": "realia:Handbreadth",
+  "alternate_sources": {
+    "aquifer": [
+      "5641|Handbreadth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002711001001000",
+      "002712001001000",
+      "002713001001000"
+    ],
+    "ubsrealia": [
+      "realia:11.4.1.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "002711001001000",
+    "002712001001000",
+    "002713001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Handbreadth",
+      "alternate_labels": [
+        "Width of a Palm"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Handbreadth",
+          "article": "realia:Handbreadth",
+          "description": "A biblical unit of measurement the width of a hand from one side to the other, about 8 centimeters or 3 inches."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "טֶפַח",
+      "טֹפַח",
+      "טַפְחָה"
+    ]
+  },
+  "key_references": [
+    "02025025",
+    "11007026",
+    "26043013"
+  ],
+  "references": [
+    "02025025",
+    "02037012",
+    "11007026",
+    "14004005",
+    "19039006",
+    "26040005",
+    "26040043",
+    "26043013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110070260021"
+      ],
+      [
+        "o140040050021"
+      ],
+      [
+        "o020250250041"
+      ],
+      [
+        "o020370120041"
+      ],
+      [
+        "o260400050142"
+      ],
+      [
+        "o260400430021"
+      ],
+      [
+        "o260430130072"
+      ],
+      [
+        "o190390060021"
+      ]
+    ]
+  }
+}

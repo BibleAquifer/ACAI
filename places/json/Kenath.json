@@ -1,0 +1,124 @@
+{
+  "id": "place:Kenath",
+  "primary_id": "place:Kenath",
+  "alternate_sources": {
+    "aquifer": [
+      "6547|Kenath|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a4f650b"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678082"
+    ],
+    "tipnr": [
+      "Nophah|Kenath@Num.21.30-1Ch",
+      "Nobah|Kenath@Num.21.30-1Ch",
+      "Kenath@Num.21.30-1Ch"
+    ],
+    "vizbible": [
+      "rec6TagODGnHaVOkU"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q763167"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kenath",
+      "alternate_labels": [
+        "Nobah",
+        "Nophah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kenath",
+          "gloss": "Kenath",
+          "description": "A town located east of the Sea of Galilee."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Nophah",
+    "place:Nobah"
+  ],
+  "nearby_places": [
+    "place:GalileeSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.756919",
+      "lon": "36.6164"
+    },
+    "vizbible": {
+      "lat": "32.756919",
+      "lon": "36.6164"
+    },
+    "biblica-maps": {
+      "lat": "32.75421",
+      "lon": "36.61836"
+    }
+  },
+  "key_references": [
+    "04032042",
+    "13002023"
+  ],
+  "references": [
+    "04021030",
+    "04032042",
+    "07008011",
+    "13002023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210300081"
+      ],
+      [
+        "o040320420012"
+      ],
+      [
+        "o040320420051"
+      ],
+      [
+        "o040320420101"
+      ],
+      [
+        "o070080110072"
+      ],
+      [
+        "o130020230091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040320420032"
+      ],
+      [
+        "o040320420082"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "place:CityOfPalms.2",
+  "primary_id": "place:CityOfPalms.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4575|City of Palms|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:CityOfPalms.2",
+          "gloss": "City of Palms",
+          "description": "A town in the territory of Judah; also known as Jericho."
+        }
+      ],
+      "preferred_label": "City of Palms",
+      "alternate_labels": [
+        "Jericho",
+        "City of Palms",
+        "City of Palm Trees"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Jericho",
+    "place:CityOfPalms"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "key_references": [
+    "07001016"
+  ]
+}

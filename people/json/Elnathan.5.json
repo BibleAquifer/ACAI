@@ -1,0 +1,146 @@
+{
+  "id": "person:Elnathan.5",
+  "primary_id": "person:Elnathan.5",
+  "alternate_sources": {
+    "aquifer": [
+      "5040|Elnathan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000459001002000"
+    ],
+    "tipnr": [
+      "Elnathan@Jer.26.22-"
+    ],
+    "vizbible": [
+      "rech651BJSAmAIfmB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Achbor.2",
+  "ubsdbh": [
+    "000459001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elnathan (Jeremiah 26:22)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elnathan (Jeremiah 26:22)",
+          "article": "person:Elnathan.5",
+          "description": "Elnathan, son of Achbor, was an official serving King Jehoiakim during the time of the divided kingdom, first mentioned in Jeremiah 26:22."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְנָתָן"
+    ]
+  },
+  "key_references": [
+    "24026022",
+    "24036012",
+    "24036025"
+  ],
+  "references": [
+    "24026022",
+    "24036012",
+    "24036025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240260220071"
+      ],
+      [
+        "o240360120172"
+      ],
+      [
+        "o240360250021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240260230012"
+      ],
+      [
+        "o240260230052"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360150031",
+          "o240360150041",
+          "o240360150051",
+          "o240360150052",
+          "o240360150053",
+          "o240360150061",
+          "o240360150062",
+          "o240360150063"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360160131",
+          "o240360160141",
+          "o240360160151",
+          "o240360160151ה",
+          "o240360160152",
+          "o240360160161",
+          "o240360160171",
+          "o240360160181",
+          "o240360160182",
+          "o240360160191",
+          "o240360160192"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360170051",
+          "o240360170061",
+          "o240360170071",
+          "o240360170072",
+          "o240360170081",
+          "o240360170091",
+          "o240360170101",
+          "o240360170111",
+          "o240360170121",
+          "o240360170122",
+          "o240360170131",
+          "o240360170132",
+          "o240360170141",
+          "o240360170142",
+          "o240360170143"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360190051",
+          "o240360190061",
+          "o240360190071",
+          "o240360190081",
+          "o240360190082",
+          "o240360190091",
+          "o240360190092",
+          "o240360190101",
+          "o240360190111",
+          "o240360190121",
+          "o240360190131"
+        ]
+      }
+    ]
+  }
+}

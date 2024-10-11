@@ -1,0 +1,68 @@
+{
+  "id": "person:Eshban",
+  "primary_id": "person:Eshban",
+  "alternate_sources": {
+    "aquifer": [
+      "5147|Eshban|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000729001001000"
+    ],
+    "tipnr": [
+      "Eshban@Gen.36.26-1Ch"
+    ],
+    "vizbible": [
+      "rechVIzbtG8RyGHIk"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Dishon",
+  "siblings": [
+    "person:Hemdan",
+    "person:Ithran",
+    "person:Cheran"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "000729001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eshban",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eshban",
+          "article": "person:Eshban",
+          "description": "Eshban, first mentioned in Genesis 36:26, was a son of Dishon and a descendant of Seir living during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶשְׁבָּן"
+    ]
+  },
+  "key_references": [
+    "01036026",
+    "13001041"
+  ],
+  "references": [
+    "01036026",
+    "13001041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360260052"
+      ],
+      [
+        "o130010410072"
+      ]
+    ]
+  }
+}

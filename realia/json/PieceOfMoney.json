@@ -1,0 +1,64 @@
+{
+  "id": "realia:PieceOfMoney",
+  "primary_id": "realia:PieceOfMoney",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006625001001000"
+    ],
+    "ubsrealia": [
+      "realia:11.6.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006625001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Piece of Money",
+      "alternate_labels": [
+        "Coin",
+        "Kesitah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Piece of Money",
+          "article": "realia:PieceOfMoney",
+          "description": "A coin of unknown value used as money."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קְשִׂיטָה"
+    ]
+  },
+  "key_references": [
+    "01033019",
+    "06024032",
+    "18042011"
+  ],
+  "references": [
+    "01033019",
+    "06024032",
+    "18042011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010330190151"
+      ],
+      [
+        "o060240320221"
+      ],
+      [
+        "o180420110291"
+      ]
+    ]
+  }
+}

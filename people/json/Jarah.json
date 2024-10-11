@@ -1,0 +1,72 @@
+{
+  "id": "person:Jarah",
+  "primary_id": "person:Jehoaddah",
+  "alternate_sources": {
+    "aquifer": [
+      "6220|Jarah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003013001001000"
+    ],
+    "tipnr": [
+      "Jarah|Jehoaddah@1Ch.8.36-"
+    ],
+    "vizbible": [
+      "reczfWbA4d37ORyZ3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ahaz.2",
+  "offspring": [
+    "person:Alemeth.2",
+    "person:Azmaveth.2",
+    "person:Zimri.4"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "003013001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jarah (Jehoaddah)",
+      "alternate_labels": [
+        "Jehoaddah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoaddah",
+          "article": "person:Jarah",
+          "description": "A man from the tribe of Benjamin at the time of the divided kingdom, also called Jehoaddah, mentioned in 1 Chronicles 8:36 and 9:42."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehoaddah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יַעְרָה"
+    ]
+  },
+  "key_references": [
+    "13009042"
+  ],
+  "references": [
+    "13009042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090420041"
+      ],
+      [
+        "o130090420052"
+      ]
+    ]
+  }
+}

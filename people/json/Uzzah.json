@@ -1,0 +1,105 @@
+{
+  "id": "person:Uzzah",
+  "primary_id": "person:Uzzah",
+  "alternate_sources": {
+    "aquifer": [
+      "8987|Uzzah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Uzzah@2Sa.6.3-1Ch",
+      "Perez-uzzah|Uzzah@2Sa.6.3-1Ch"
+    ],
+    "vizbible": [
+      "rec8DcmmtcH3rQDP8"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abinadab",
+  "siblings": [
+    "person:Eleazar.3",
+    "person:Ahio"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uzzah",
+      "alternate_labels": [
+        "Uzza",
+        "Perez-Uzzah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uzzah",
+          "article": "person:Uzzah",
+          "description": "The son of Abinadab from Kiriath-Jearim known for being killed by God for touching the ark of the covenant."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Perez-uzzah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10006006",
+    "10006007",
+    "13013010"
+  ],
+  "references": [
+    "10006003",
+    "10006006",
+    "10006007",
+    "10006008",
+    "13013007",
+    "13013009",
+    "13013010",
+    "13013011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100060030132"
+      ],
+      [
+        "o100060060061"
+      ],
+      [
+        "o100060070042"
+      ],
+      [
+        "o100060080082"
+      ],
+      [
+        "o100060080121",
+        "o100060080131"
+      ],
+      [
+        "o130130070102"
+      ],
+      [
+        "o130130090061"
+      ],
+      [
+        "o130130100042"
+      ],
+      [
+        "o130130110072"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100060070102"
+      ],
+      [
+        "o130130100081"
+      ],
+      [
+        "o130130100122"
+      ]
+    ]
+  }
+}

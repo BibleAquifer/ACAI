@@ -1,0 +1,70 @@
+{
+  "id": "place:Tahath",
+  "primary_id": "place:Tahath",
+  "alternate_sources": {
+    "aquifer": [
+      "8714|Tahath (Place)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Tahath@Num.33.26-"
+    ],
+    "vizbible": [
+      "recn5STCT0Ju40KtJ"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tahath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tahath",
+          "gloss": "Tahath",
+          "description": "A location along the route of the exodus, between Makheloth and Terah, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    },
+    "vizbible": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    }
+  },
+  "key_references": [
+    "04033026"
+  ],
+  "references": [
+    "04033026",
+    "04033027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330260042"
+      ],
+      [
+        "o040330270022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "group:Menuhoth",
+  "primary_id": "group:Menuhoth",
+  "alternate_sources": {
+    "tipnr": [
+      "Menuhoth@1Ch.2.52"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Menuhoths",
+      "alternate_labels": [
+        "Menuhoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Menuhoths",
+          "article": "group:Menuhoth",
+          "description": "People descended from Shobal (1 Chronicles 2:52), who was of the tribe of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Manahath"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002052"
+  ],
+  "references": [
+    "13002052"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020520092"
+      ]
+    ]
+  }
+}

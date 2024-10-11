@@ -1,0 +1,75 @@
+{
+  "id": "person:Elead",
+  "primary_id": "person:Elead",
+  "alternate_sources": {
+    "aquifer": [
+      "4977|Elead|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000461001001000"
+    ],
+    "tipnr": [
+      "Elead@1Ch.7.21"
+    ],
+    "vizbible": [
+      "recc94FYS7owykXeB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ephraim",
+  "siblings": [
+    "person:Shuthelah",
+    "person:Becher.2",
+    "person:Tahan",
+    "person:Ezer.3",
+    "person:Beriah.2"
+  ],
+  "tribe": "group:Ephraim",
+  "ubsdbh": [
+    "000461001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elead",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elead",
+          "article": "person:Elead",
+          "description": "Elead was a son of Ephraim and part of the tribe of Ephraim, mentioned in 1 Chronicles 7:21."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְעָד"
+    ]
+  },
+  "key_references": [
+    "13007021"
+  ],
+  "references": [
+    "13007021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070210062"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130070210131"
+      ],
+      [
+        "o130070210142"
+      ]
+    ]
+  }
+}

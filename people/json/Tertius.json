@@ -1,0 +1,76 @@
+{
+  "id": "person:Tertius",
+  "primary_id": "person:Tertius",
+  "alternate_sources": {
+    "aquifer": [
+      "8793|Tertius|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.357"
+    ],
+    "tipnr": [
+      "Tertius@Rom.16.22"
+    ],
+    "vizbible": [
+      "recpTdZlrPlahyD3a"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Scribe"
+  ],
+  "ubsdgnt": [
+    "93.357"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tertius",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tertius",
+          "article": "person:Tertius",
+          "description": "Tertius was a man living during the New Testament period, mentioned in Romans 16:22 for sending greetings."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Τέρτιος"
+    ]
+  },
+  "key_references": [
+    "45016022"
+  ],
+  "references": [
+    "45016022"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45016022004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n45016022003"
+      ],
+      [
+        "n45016024005"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n45016022006"
+      ]
+    ]
+  }
+}

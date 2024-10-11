@@ -1,0 +1,93 @@
+{
+  "id": "place:Allammelech",
+  "primary_id": "place:Allammelech",
+  "alternate_sources": {
+    "aquifer": [
+      "3509|Allammelech|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a84cafa"
+    ],
+    "ubsdbh": [
+      "000453001001000"
+    ],
+    "tipnr": [
+      "Allammelech@Jos.19.26"
+    ],
+    "vizbible": [
+      "recDTg7AAcl20LwQ4"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q28220401"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000453001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Allammelech",
+      "alternate_labels": [
+        "Allammelek",
+        "Alammelech",
+        "Allamelech"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Allammelech",
+          "gloss": "Allammelech",
+          "description": "A town in the territory of Asher."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַלַמֶּלֶךְ",
+      "אַלַּמֶּלֶךְ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.97829",
+      "lon": "35.182915"
+    },
+    "vizbible": {
+      "lat": "32.97829",
+      "lon": "35.182915"
+    }
+  },
+  "key_references": [
+    "06019026"
+  ],
+  "references": [
+    "06019026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190260012"
+      ]
+    ]
+  }
+}

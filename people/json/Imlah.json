@@ -1,0 +1,76 @@
+{
+  "id": "person:Imlah",
+  "primary_id": "person:Imlah",
+  "alternate_sources": {
+    "aquifer": [
+      "6002|Imlah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002952001001000"
+    ],
+    "tipnr": [
+      "Imlah@1Ki.22.8-2Ch"
+    ],
+    "vizbible": [
+      "rec18n8In1Q60c27A"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Micaiah.5"
+  ],
+  "ubsdbh": [
+    "002952001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Imlah",
+      "alternate_labels": [
+        "Imla"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Imlah",
+          "article": "person:Imlah",
+          "description": "Father of the Prophet Micaiah who lived during the divided kingdom of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִמְלָה"
+    ]
+  },
+  "key_references": [
+    "11022008",
+    "14018007",
+    "14018008"
+  ],
+  "references": [
+    "11022008",
+    "11022009",
+    "14018007",
+    "14018008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110220080251"
+      ],
+      [
+        "o110220090111"
+      ],
+      [
+        "o140180070271"
+      ],
+      [
+        "o140180080121"
+      ]
+    ]
+  }
+}

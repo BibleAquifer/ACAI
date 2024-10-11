@@ -1,0 +1,78 @@
+{
+  "id": "person:Elihu.4",
+  "primary_id": "person:Elihu.4",
+  "alternate_sources": {
+    "aquifer": [
+      "5010|Elihu|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000416001004000"
+    ],
+    "tipnr": [
+      "Elihu@1Ch.27.18"
+    ],
+    "vizbible": [
+      "recfxpBrF0rbWfMWu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jesse",
+  "mother": "person:Nahash.3",
+  "siblings": [
+    "person:David",
+    "person:Eliab.3",
+    "person:Abinadab.3",
+    "person:Shimeah.2",
+    "person:Nethanel.2",
+    "person:Raddai",
+    "person:Ozem",
+    "person:Zeruiah",
+    "person:Abigail.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000416001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elihu (1 Chronicles 27:18)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elihu (1 Chronicles 27:18)",
+          "article": "person:Elihu.4",
+          "description": "Elihu, the son of Jesse and brother of David, was an officer from the tribe of Judah during Israel's united kingdom, mentioned in 1 Chronicles 27:18."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיהוּא",
+      "אֱלִיהוּ"
+    ]
+  },
+  "key_references": [
+    "13027018"
+  ],
+  "references": [
+    "13027018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130270180021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130270220051"
+      ]
+    ]
+  }
+}

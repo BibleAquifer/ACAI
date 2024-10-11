@@ -1,0 +1,68 @@
+{
+  "id": "person:Mara",
+  "primary_id": "person:Naomi",
+  "alternate_sources": {
+    "aquifer": [
+      "6938|Mara|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004350002003000 004354001001000"
+    ],
+    "tipnr": [
+      "Mara|Naomi@Rut.1.2-"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Elimelech"
+  ],
+  "offspring": [
+    "person:Mahlon",
+    "person:Chilion"
+  ],
+  "ubsdbh": [
+    "004350002003000 004354001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mara (Naomi)",
+      "alternate_labels": [
+        "Naomi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Naomi",
+          "article": "person:Mara",
+          "description": "A woman living before Israel's Monarchy, married to Elimelech, mother of Mahlon and Chilion, and also called Naomi."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Naomi"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "08001020"
+  ],
+  "references": [
+    "08001020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o080010200091"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o080010210011"
+      ]
+    ]
+  }
+}

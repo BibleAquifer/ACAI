@@ -1,0 +1,112 @@
+{
+  "id": "place:Bethel.2",
+  "primary_id": "place:Bethel.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4169|Bethel (God)|TyndaleBibleDictionary",
+      "4170|Bethel (Place), Bethelite|TyndaleBibleDictionary",
+      "26387|Bethel|UWTranslationWords",
+      "132218|Bethel|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000933001001000",
+      "000933001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/5880568"
+    ],
+    "tipnr": [
+      "Bethel@Jos.12.16-1Sa"
+    ],
+    "vizbible": [
+      "recexdp2klTSY2AmR"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000933001001000",
+    "000933001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bethel (of Simeon)",
+      "alternate_labels": [
+        "Beth-El"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bethel.2",
+          "gloss": "Bethel (of Simeon)",
+          "description": "A town in the territory of Simeon; also known as Bethul and Bethuel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Bethuel",
+    "place:Bethul"
+  ],
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית־אֵל",
+      "בֵּֽיתְ־אֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    },
+    "recogito": {
+      "lat": "60.79222",
+      "lon": "-161.75583"
+    },
+    "vizbible": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    }
+  },
+  "key_references": [
+    "13004030",
+    "09030027",
+    "06019004"
+  ],
+  "references": [
+    "06012016",
+    "09030027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120160051",
+        "o060120160061"
+      ],
+      [
+        "o090300270022",
+        "o090300270031"
+      ]
+    ]
+  }
+}

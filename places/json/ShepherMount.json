@@ -1,0 +1,74 @@
+{
+  "id": "place:ShepherMount",
+  "primary_id": "place:ShepherMount",
+  "alternate_sources": {
+    "tipnr": [
+      "Shepher_Mount@Num.33.23-"
+    ],
+    "vizbible": [
+      "recdYOw02hOKb3Gg0"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Shepher",
+      "alternate_labels": [
+        "Mount Shapher",
+        "Shapher"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountShepher",
+          "gloss": "Mount Shepher",
+          "description": "A mountain on the Sinai Peninsula where the Israelites camped during their journey through the wilderness (Numbers 33:23–24)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    },
+    "vizbible": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    }
+  },
+  "key_references": [
+    "04033023"
+  ],
+  "references": [
+    "04033023",
+    "04033024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330230051"
+      ],
+      [
+        "o040330240031"
+      ]
+    ]
+  }
+}

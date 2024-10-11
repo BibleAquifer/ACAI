@@ -1,0 +1,61 @@
+{
+  "id": "realia:Pound",
+  "primary_id": "realia:Pound",
+  "alternate_sources": {
+    "aquifer": [
+      "7798|Pound|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "86.4"
+    ],
+    "ubsrealia": [
+      "realia:11.1.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "86.4"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pound",
+      "alternate_labels": [
+        "Pint"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pound",
+          "article": "realia:Pound",
+          "description": "A Roman unit of weight, about twelve ounces or 325 grams."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "λίτρα"
+    ]
+  },
+  "key_references": [
+    "43012003",
+    "43019039"
+  ],
+  "references": [
+    "43012003",
+    "43019039"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43012003005"
+      ],
+      [
+        "n43019039018"
+      ]
+    ]
+  }
+}

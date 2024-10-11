@@ -1,0 +1,121 @@
+{
+  "id": "place:Elath",
+  "primary_id": "place:Elath",
+  "alternate_sources": {
+    "aquifer": [
+      "4968|Elath|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af0ac29"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/295277"
+    ],
+    "tipnr": [
+      "Elath@Deu.2.8-2Ch"
+    ],
+    "vizbible": [
+      "recbAK2JxigPufNCM"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3721153"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elath",
+      "alternate_labels": [
+        "Eloth",
+        "Elat"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Elath",
+          "gloss": "Elath",
+          "description": "A seaport at the northern tip of the northeastern projection of the Red Sea, in Edom."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Ezion-geber",
+    "place:RedSea"
+  ],
+  "subregion_of": [
+    "place:Edom"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "island"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport",
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.528502",
+      "lon": "35.005732"
+    },
+    "recogito": {
+      "lat": "29.55805",
+      "lon": "34.94821"
+    },
+    "vizbible": {
+      "lat": "29.528502",
+      "lon": "35.005732"
+    }
+  },
+  "key_references": [
+    "12016006"
+  ],
+  "references": [
+    "05002008",
+    "11009026",
+    "12014022",
+    "12016006",
+    "14008017",
+    "14026002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050020080102"
+      ],
+      [
+        "o110090260091"
+      ],
+      [
+        "o120140220041"
+      ],
+      [
+        "o120160060081"
+      ],
+      [
+        "o120160060132"
+      ],
+      [
+        "o120160060171"
+      ],
+      [
+        "o140080170071"
+      ],
+      [
+        "o140260020041"
+      ]
+    ]
+  }
+}

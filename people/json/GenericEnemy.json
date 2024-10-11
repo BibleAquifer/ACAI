@@ -1,0 +1,51 @@
+{
+  "id": "person:GenericEnemy",
+  "primary_id": "person:GenericEnemy",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "An Enemy",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "An Enemy",
+          "description": "An enemy participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "33007010",
+    "33007010"
+  ],
+  "references": [
+    "33007010",
+    "33007010"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o330070100021"
+      ],
+      [
+        "o330070100052"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o330070100071",
+          "o330070100072",
+          "o330070100081",
+          "o330070100091",
+          "o330070100092"
+        ]
+      }
+    ]
+  }
+}

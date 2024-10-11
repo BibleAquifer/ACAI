@@ -1,0 +1,86 @@
+{
+  "id": "place:Jabneel",
+  "primary_id": "place:Jabneel",
+  "alternate_sources": {
+    "aquifer": [
+      "6152|Jabneel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jabneel@Jos.15.11-2Ch"
+    ],
+    "vizbible": [
+      "recngVYo6AIxMvxoX"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jabneel (of Judah)",
+      "alternate_labels": [
+        "Jabneh",
+        "Jabneel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jabneel.1",
+          "gloss": "Jabneel (of Judah)",
+          "description": "A town in the northwestern edge of the territory of Judah, on the coastal plain; possibly to be identified with Jabneh, "
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.865518",
+      "lon": "34.746856"
+    },
+    "vizbible": {
+      "lat": "31.865518",
+      "lon": "34.746856"
+    },
+    "biblica-maps": {
+      "lat": "31.87646",
+      "lon": "34.73842"
+    }
+  },
+  "key_references": [
+    "14026006",
+    "06015011"
+  ],
+  "references": [
+    "06015011",
+    "14026006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150110141"
+      ],
+      [
+        "o140260060101"
+      ]
+    ]
+  }
+}

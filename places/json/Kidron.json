@@ -1,0 +1,167 @@
+{
+  "id": "place:Kidron",
+  "primary_id": "place:Kidron",
+  "alternate_sources": {
+    "aquifer": [
+      "6577|Kidron|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a553110"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28349"
+    ],
+    "tipnr": [
+      "Kidron@2Sa.15.23-Jhn",
+      "Valley_of_Jehoshaphat|Kidron@2Sa.15.23-Jhn"
+    ],
+    "vizbible": [
+      "reccf5Vf48NjEXaxz"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q860532"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kidron",
+      "alternate_labels": [
+        "Cedron",
+        "Brook Kidron",
+        "Valley of Jehoshaphat",
+        "Kidron Valley",
+        "Wadi Kidron",
+        "Wadi of the Kidron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kidron",
+          "gloss": "Kidron",
+          "description": "A valley located east of Jerusalem between the ancient city and the Mount of Olives."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:ValleyOfJehoshaphat"
+  ],
+  "nearby_places": [
+    "place:Jerusalem",
+    "place:OlivesMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.772134",
+      "lon": "35.236596"
+    },
+    "recogito": {
+      "lat": "31.826142",
+      "lon": "34.775865"
+    },
+    "vizbible": {
+      "lat": "31.826142",
+      "lon": "34.775865"
+    }
+  },
+  "key_references": [
+    "12023004",
+    "43008001",
+    "11015013",
+    "12023012",
+    "14015016"
+  ],
+  "references": [
+    "10015022",
+    "10015023",
+    "11002037",
+    "11015013",
+    "12023004",
+    "12023006",
+    "12023012",
+    "14015016",
+    "14029016",
+    "14030014",
+    "14033014",
+    "16002015",
+    "24031040",
+    "29004002",
+    "29004012",
+    "43018001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100150230121"
+      ],
+      [
+        "o110020370071"
+      ],
+      [
+        "o110150130171"
+      ],
+      [
+        "o120230040291"
+      ],
+      [
+        "o120230060101"
+      ],
+      [
+        "o120230060141"
+      ],
+      [
+        "o120230120301"
+      ],
+      [
+        "o140150160191"
+      ],
+      [
+        "o140290160221"
+      ],
+      [
+        "o140300140131"
+      ],
+      [
+        "o240310400101"
+      ],
+      [
+        "o290040020071",
+        "o290040020081"
+      ],
+      [
+        "o290040120051",
+        "o290040120061"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43018001013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43018001014"
+      ]
+    ]
+  }
+}

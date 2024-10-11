@@ -1,0 +1,57 @@
+{
+  "id": "person:Peruda",
+  "primary_id": "person:Peruda",
+  "alternate_sources": {
+    "aquifer": [
+      "7676|Peruda|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Perida|Peruda@Ezr.2.55-Neh",
+      "Peruda@Ezr.2.55-Neh"
+    ],
+    "vizbible": [
+      "recg6LcEe1Y62dm9b"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Peruda",
+      "alternate_labels": [
+        "Perida"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Peruda",
+          "article": "person:Peruda",
+          "description": "Peruda, also known as Perida, was a man living during the time of exile and return, first mentioned in Ezra 2:55."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Perida"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002055",
+    "16007057"
+  ],
+  "references": [
+    "15002055",
+    "16007057"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020550091"
+      ],
+      [
+        "o160070570091"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "place:Samos",
+  "primary_id": "place:Samos",
+  "alternate_sources": {
+    "aquifer": [
+      "8124|Samos|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "acf6ec0"
+    ],
+    "ubsdgnt": [
+      "93.572"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/41142"
+    ],
+    "tipnr": [
+      "Samos@Act.20.15"
+    ],
+    "vizbible": [
+      "recBFy69KCIkfYLFS"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q156882"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.572"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Samos",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Samos",
+          "gloss": "Samos",
+          "description": "An island off the west coast of Asia Minor; Paul's ship stopped here during his third missionary journey."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Miletus",
+    "place:Chios"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Σάμος"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "island"
+    ],
+    "vizbible": [
+      "Island"
+    ],
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.715172",
+      "lon": "26.934167"
+    },
+    "recogito": {
+      "lat": "37.73",
+      "lon": "26.97616"
+    },
+    "vizbible": {
+      "lat": "37.73",
+      "lon": "26.97616"
+    },
+    "biblica-maps": {
+      "lat": "37.73",
+      "lon": "26.84"
+    }
+  },
+  "key_references": [
+    "44020015"
+  ],
+  "references": [
+    "44020015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44020015013"
+      ]
+    ]
+  }
+}

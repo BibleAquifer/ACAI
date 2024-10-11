@@ -1,0 +1,82 @@
+{
+  "id": "place:Bath-rabbim",
+  "primary_id": "place:Bath-rabbim",
+  "alternate_sources": {
+    "aquifer": [
+      "4030|Bath-Rabbim, Gate of|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001221001001000"
+    ],
+    "tipnr": [
+      "Bath-rabbim@Sng.7.4"
+    ],
+    "vizbible": [
+      "recFrGBXHGXFLDqRP"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001221001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bath-rabbim",
+      "alternate_labels": [
+        "Beth Rabbim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bath-rabbim",
+          "gloss": "Bath-rabbim",
+          "description": "A name of one of the gates of Heshbon, located near a number of pools. "
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Heshbon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.80052000870321",
+      "lon": "35.80901866717255"
+    },
+    "vizbible": {
+      "lat": "31.80052000870321",
+      "lon": "35.80901866717255"
+    }
+  },
+  "key_references": [
+    "22007005"
+  ],
+  "references": [
+    "22007005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o220070050091",
+        "o220070050101"
+      ]
+    ]
+  }
+}

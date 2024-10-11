@@ -1,0 +1,63 @@
+{
+  "id": "person:Bilgai",
+  "primary_id": "person:Bilgah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4241|Bilgai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001008001001000"
+    ],
+    "tipnr": [
+      "Bilgai|Bilgah@Neh.10.8-"
+    ],
+    "vizbible": [
+      "recVY4FhVOqXWxPax"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "001008001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bilgai (Bilgah)",
+      "alternate_labels": [
+        "Bilgah (Nehemiah 10:8)",
+        "Bilgah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bilgah (Nehemiah 10:8)",
+          "article": "person:Bilgai",
+          "description": "A man living at the time of exile and return, also known as Bilgah, a priest who signed the covenant document in Nehemiah 10:8."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Bilgah.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בִּלְגַּי"
+    ]
+  },
+  "key_references": [
+    "16010009"
+  ],
+  "references": [
+    "16010009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160100090021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "id": "person:Abednego",
+  "primary_id": "person:Azariah.20",
+  "alternate_sources": {
+    "aquifer": [
+      "3275|Abednego|TyndaleBibleDictionary",
+      "8259|Shadrach, Meshach, and Abednego|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005191001001000"
+    ],
+    "tipnr": [
+      "Abednego|Azariah@Dan.1.6-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "005191001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abednego (Azariah)",
+      "alternate_labels": [
+        "Azariah (Friend of Daniel)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azariah (Friend of Daniel)",
+          "article": "person:Abednego",
+          "description": "One of Daniel’s three friends who was thrown into a fiery furnace by the Babylonian king Nebuchadnezzar. An angel sent from God protected the three friends and they did not die."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Azariah.20"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֹבֵד אֱדֹם",
+      "עֹבֵד אֱדוֹם"
+    ]
+  },
+  "key_references": [
+    "27001006",
+    "27002049",
+    "27003019",
+    "27001019",
+    "27001020"
+  ],
+  "references": [
+    "27001007",
+    "27002049",
+    "27003012",
+    "27003013",
+    "27003014",
+    "27003016",
+    "27003019",
+    "27003020",
+    "27003022",
+    "27003023",
+    "27003026",
+    "27003028",
+    "27003029",
+    "27003030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o270010070141",
+        "o270010070151"
+      ],
+      [
+        "o270020490132",
+        "o270020490141"
+      ],
+      [
+        "o270030120132",
+        "o270030120141"
+      ],
+      [
+        "o270030130092",
+        "o270030130101"
+      ],
+      [
+        "o270030140082",
+        "o270030140091"
+      ],
+      [
+        "o270030160042",
+        "o270030160051"
+      ],
+      [
+        "o270030190122",
+        "o270030190131"
+      ],
+      [
+        "o270030200102",
+        "o270030200111"
+      ],
+      [
+        "o270030220182",
+        "o270030220191"
+      ],
+      [
+        "o270030230062",
+        "o270030230071"
+      ],
+      [
+        "o270030260122",
+        "o270030260131"
+      ],
+      [
+        "o270030260252",
+        "o270030260261"
+      ],
+      [
+        "o270030280092",
+        "o270030280101"
+      ],
+      [
+        "o270030290182",
+        "o270030290191"
+      ],
+      [
+        "o270030300062",
+        "o270030300071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o270030130131"
+      ],
+      [
+        "o270030160111"
+      ],
+      [
+        "o270030170051"
+      ],
+      [
+        "o270030210031"
+      ],
+      [
+        "o270030230021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o270030120261"
+      ],
+      [
+        "o270030120321"
+      ],
+      [
+        "o270030140191"
+      ],
+      [
+        "o270030150081"
+      ],
+      [
+        "o270030150201"
+      ],
+      [
+        "o270030150212"
+      ],
+      [
+        "o270030150271"
+      ],
+      [
+        "o270030150301"
+      ],
+      [
+        "o270030160062"
+      ],
+      [
+        "o270030160152"
+      ],
+      [
+        "o270030180191"
+      ],
+      [
+        "o270030260191"
+      ],
+      [
+        "o270030260202"
+      ]
+    ]
+  }
+}

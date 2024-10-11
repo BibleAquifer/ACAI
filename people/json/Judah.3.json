@@ -1,0 +1,70 @@
+{
+  "id": "person:Judah.3",
+  "primary_id": "person:Judah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6476|Judah (Person)|TyndaleBibleDictionary",
+      "6477|Judah, Tribe of|TyndaleBibleDictionary",
+      "26782|Judah|UWTranslationWords",
+      "132237|Judah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.173g"
+    ],
+    "tipnr": [
+      "Judah@Luk.3.30"
+    ],
+    "vizbible": [
+      "reczNfeuiML2gPGKV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joseph.8",
+  "offspring": [
+    "person:Simeon.3"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.173g"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Judah (Son of Joseph)",
+      "alternate_labels": [
+        "Juda"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Judah (Son of Joseph)",
+          "article": "person:Judah.3",
+          "description": "Son of Joseph and the father of Simeon in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰούδας"
+    ]
+  },
+  "key_references": [
+    "42003030"
+  ],
+  "references": [
+    "42003030"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003030004"
+      ]
+    ]
+  }
+}

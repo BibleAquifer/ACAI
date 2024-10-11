@@ -1,0 +1,62 @@
+{
+  "id": "realia:Saton",
+  "primary_id": "realia:Saton",
+  "alternate_sources": {
+    "aquifer": [
+      "8156|Saton|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "81.23"
+    ],
+    "ubsrealia": [
+      "realia:11.3.2.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "81.23"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Saton",
+      "alternate_labels": [
+        "Measure",
+        "Batch"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Saton",
+          "article": "realia:Saton",
+          "description": "A Hebrew measure of grain, about twelve liters or a little less than half a bushel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σάτον"
+    ]
+  },
+  "key_references": [
+    "40013033",
+    "42013021"
+  ],
+  "references": [
+    "40013033",
+    "42013021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40013033018"
+      ],
+      [
+        "n42013021010"
+      ]
+    ]
+  }
+}

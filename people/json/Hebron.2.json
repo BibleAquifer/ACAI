@@ -1,0 +1,72 @@
+{
+  "id": "person:Hebron.2",
+  "primary_id": "person:Hebron.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5761|Hebron (Person)|TyndaleBibleDictionary",
+      "26685|Hebron|UWTranslationWords",
+      "341012|hebron|FIAKeyTerms"
+    ],
+    "ubsdbh": [
+      "002104001003000"
+    ],
+    "tipnr": [
+      "Hebron@1Ch.2.42-"
+    ],
+    "vizbible": [
+      "recHd40pbWgVj2EW5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mareshah",
+  "offspring": [
+    "person:Korah.4",
+    "person:Tappuah",
+    "person:Rekem.2",
+    "person:Shema"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002104001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hebron (1 Chronicles 2:42)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hebron (1 Chronicles 2:42)",
+          "article": "person:Hebron.2",
+          "description": "Hebron from 1 Chronicles 2:42 was a man of the tribe of Judah, son of Mareshah, and a descendant of Caleb, living during the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶבְרֹון",
+      "חֶבְרוֹן"
+    ]
+  },
+  "key_references": [
+    "13002042",
+    "13002043"
+  ],
+  "references": [
+    "13002042",
+    "13002043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020420131"
+      ],
+      [
+        "o130020430021"
+      ]
+    ]
+  }
+}

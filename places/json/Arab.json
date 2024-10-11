@@ -1,0 +1,95 @@
+{
+  "id": "place:Arab",
+  "primary_id": "place:Arab",
+  "alternate_sources": {
+    "aquifer": [
+      "3689|Arab|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "adbc03e"
+    ],
+    "ubsdbh": [
+      "000641001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4830455"
+    ],
+    "tipnr": [
+      "Arab@Jos.15.52"
+    ],
+    "vizbible": [
+      "recjCpq31SPvVkiCj"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000641001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Arab",
+          "gloss": "Arab",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲרַב",
+      "אֲרָב"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.450746",
+      "lon": "35.045648"
+    },
+    "recogito": {
+      "lat": "34.31815",
+      "lon": "-86.49582"
+    },
+    "vizbible": {
+      "lat": "31.450746",
+      "lon": "35.045648"
+    }
+  },
+  "key_references": [
+    "06015052"
+  ],
+  "references": [
+    "06015052"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150520011"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "flora:Cumin",
+  "primary_id": "flora:Cumin",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "3.25"
+    ],
+    "ubsdbh": [
+      "003339001001000"
+    ],
+    "ubsflora": [
+      "flora:3.5.3"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdgnt": [
+    "3.25"
+  ],
+  "ubsdbh": [
+    "003339001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cumin",
+      "alternate_labels": [
+        "Cummin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cumin",
+          "article": "flora:Cumin",
+          "description": "A plant related to carrots that grows up to 60 cm, branching from the base with similar leaves and flowers; its seeds have a strong smell and are used in cooking and medicine."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כַּמֹּן"
+    ],
+    "el": [
+      "κύμινον"
+    ]
+  },
+  "key_references": [
+    "23028025",
+    "23028027",
+    "40023023"
+  ],
+  "references": [
+    "23028025",
+    "23028027",
+    "40023023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230280250072"
+      ],
+      [
+        "o230280270091"
+      ],
+      [
+        "o230280270152"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40023023016"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "place:RephaimValley",
+  "primary_id": "place:RephaimValley",
+  "alternate_sources": {
+    "aquifer": [
+      "9001|Valley of Rephaim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a7559e6"
+    ],
+    "ubsdbh": [
+      "006887002001000"
+    ],
+    "tipnr": [
+      "Rephaim_Valley@Jos.15.8-Isa"
+    ],
+    "vizbible": [
+      "recTdeFWjvLAXs0t3"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q446380"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006887002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Rephaim",
+      "alternate_labels": [
+        "Valley of the Rephaim",
+        "Rephaim Valley",
+        "Valley of the Rephaites",
+        "valley of Hinnom"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfRephaim",
+          "gloss": "Valley of Rephaim",
+          "description": "A valley on the boundary of the territory of Judah and the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfJudah",
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.756332",
+      "lon": "35.223059"
+    },
+    "vizbible": {
+      "lat": "31.756332",
+      "lon": "35.223059"
+    }
+  },
+  "key_references": [
+    "06015008",
+    "10015017",
+    "06018016"
+  ],
+  "references": [
+    "06015008",
+    "06018016",
+    "10005018",
+    "10005022",
+    "10023013",
+    "13011015",
+    "13014009",
+    "23017005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150080251",
+        "o060150080261"
+      ],
+      [
+        "o060180160132",
+        "o060180160141"
+      ],
+      [
+        "o100050180042",
+        "o100050180051"
+      ],
+      [
+        "o100050220062",
+        "o100050220071"
+      ],
+      [
+        "o100230130172",
+        "o100230130181"
+      ],
+      [
+        "o130110150162",
+        "o130110150171"
+      ],
+      [
+        "o130140090042",
+        "o130140090051"
+      ],
+      [
+        "o230170050112",
+        "o230170050121"
+      ]
+    ]
+  }
+}

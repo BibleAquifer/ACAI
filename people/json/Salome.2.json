@@ -1,0 +1,37 @@
+{
+  "id": "person:Salome.2",
+  "primary_id": "person:Salome.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8112|Salome|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Salome@Mat.14.6"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Philip.2",
+  "mother": "person:Herodias",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Salome (Daughter of Herodias)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Salome (Daughter of Herodias)",
+          "article": "person:Salome.2",
+          "description": "Daughter of Herodias and Philip. She is traditionally assumed to be the daughter of Herodius who danced for Herod Antipas."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40014006"
+  ],
+  "references": [
+    "40014006"
+  ]
+}

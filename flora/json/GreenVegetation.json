@@ -1,0 +1,108 @@
+{
+  "id": "flora:GreenVegetation",
+  "primary_id": "flora:GreenVegetation",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001726001001000"
+    ],
+    "ubsflora": [
+      "flora:3.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "001726001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Green Vegetation",
+      "alternate_labels": [
+        "Grass",
+        "Leafy Vegetables"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Green Vegetation",
+          "article": "flora:GreenVegetation",
+          "description": "It refers to plants that are green and leafy, often used as food for both humans and animals."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דֶּשֶׁא"
+    ]
+  },
+  "key_references": [
+    "01001011",
+    "10023004",
+    "20027025"
+  ],
+  "references": [
+    "01001011",
+    "01001012",
+    "05032002",
+    "10023004",
+    "12019026",
+    "18006005",
+    "18038027",
+    "19023002",
+    "19037002",
+    "20027025",
+    "23015006",
+    "23037027",
+    "23066014",
+    "24014005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010010110051"
+      ],
+      [
+        "o010010120031"
+      ],
+      [
+        "o050320020091"
+      ],
+      [
+        "o100230040101"
+      ],
+      [
+        "o120190260101"
+      ],
+      [
+        "o180060050041"
+      ],
+      [
+        "o180380270061"
+      ],
+      [
+        "o190230020021"
+      ],
+      [
+        "o190370020061"
+      ],
+      [
+        "o200270250041"
+      ],
+      [
+        "o230150060101"
+      ],
+      [
+        "o230370270101"
+      ],
+      [
+        "o230660140052"
+      ],
+      [
+        "o240140050101"
+      ]
+    ]
+  }
+}

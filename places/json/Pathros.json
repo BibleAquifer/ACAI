@@ -1,0 +1,111 @@
+{
+  "id": "place:Pathros",
+  "primary_id": "place:Pathros",
+  "alternate_sources": {
+    "aquifer": [
+      "7605|Pathros|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aab30ec"
+    ],
+    "ubsdbh": [
+      "006088001001000"
+    ],
+    "tipnr": [
+      "Pathros@Isa.11.11-Ezk"
+    ],
+    "vizbible": [
+      "recDNs67M688WYwUI"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q10346148"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006088001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pathros",
+      "alternate_labels": [
+        "Upper Egypt",
+        "southern Egypt"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pathros",
+          "gloss": "Pathros",
+          "description": "A region in the upper Nile area of southern Egypt."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "פַּתְרֻסִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.322364",
+      "lon": "30.692312"
+    },
+    "vizbible": {
+      "lat": "28.322364",
+      "lon": "30.692312"
+    }
+  },
+  "key_references": [
+    "26030014",
+    "24044001",
+    "26029014"
+  ],
+  "references": [
+    "23011011",
+    "24044001",
+    "24044015",
+    "26029014",
+    "26030014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230110110163"
+      ],
+      [
+        "o240440010171"
+      ],
+      [
+        "o240440150222"
+      ],
+      [
+        "o260290140081"
+      ],
+      [
+        "o260300140031"
+      ]
+    ]
+  }
+}

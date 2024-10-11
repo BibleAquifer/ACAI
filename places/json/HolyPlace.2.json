@@ -1,0 +1,42 @@
+{
+  "id": "place:HolyPlace.2",
+  "primary_id": "place:HolyPlace.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5884|Holy Place|TyndaleBibleDictionary",
+      "26701|Holy Place|UWTranslationWords"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:HolyPlace.2",
+          "gloss": "Holy Place (of the Temple)",
+          "description": "The outer sanctuary of the temple, described in terms of its holiness."
+        }
+      ],
+      "preferred_label": "Holy Place (of the Temple)",
+      "alternate_labels": [
+        "Inner Sanctuary"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "structure"
+    ]
+  },
+  "key_references": [
+    "11006005",
+    "11008010"
+  ]
+}

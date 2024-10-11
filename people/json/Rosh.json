@@ -1,0 +1,73 @@
+{
+  "id": "person:Rosh",
+  "primary_id": "person:Rosh",
+  "alternate_sources": {
+    "aquifer": [
+      "8066|Rosh|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Rapha|Rosh@Gen.46.21-1Ch",
+      "Rosh@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "recGa8D853cdYR4ym"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Muppim",
+    "person:Huppim",
+    "person:Ard",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rosh",
+      "alternate_labels": [
+        "Rapha",
+        "Nohah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rosh",
+          "article": "person:Rosh",
+          "description": "Rosh, also known as Rapha and Nohah, son of Benjamin and a man of the tribe of Benjamin, lived during the time of Egypt and the wilderness, mentioned in Genesis 46:21 and 1 Chronicles 8:2."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Rapha.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046021",
+    "13008002"
+  ],
+  "references": [
+    "01046021",
+    "13008002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460210092"
+      ],
+      [
+        "o130080020032"
+      ]
+    ]
+  }
+}

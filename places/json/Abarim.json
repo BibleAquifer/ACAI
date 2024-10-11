@@ -1,0 +1,110 @@
+{
+  "id": "place:Abarim",
+  "primary_id": "place:NeboMount",
+  "alternate_sources": {
+    "aquifer": [
+      "3267|Abarim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005217001001000"
+    ],
+    "tipnr": [
+      "Abarim|Nebo_Mount@Deu.32.49-Jer"
+    ],
+    "vizbible": [
+      "recXFAHDB0xkAfYwS"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005217001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abarim",
+      "alternate_labels": [
+        "Abarim Range",
+        "Mount Nebo",
+        "Mount Abarim",
+        "mountains of Moab"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Abarim",
+          "gloss": "Abarim",
+          "description": "A mountain range in Moab, northeast of the Dead Sea, where Moses was shown the promised land (Numbers 27:12; Deuteronomy 32:49)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:NeboMount"
+  ],
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֶבְרֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "mountain range"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.7613578",
+      "lon": "35.74614824"
+    },
+    "vizbible": {
+      "lat": "31.7613578",
+      "lon": "35.74614824"
+    }
+  },
+  "key_references": [
+    "05032049",
+    "04033047",
+    "04027012"
+  ],
+  "references": [
+    "04027012",
+    "04033047",
+    "04033048",
+    "05032049",
+    "24022020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040270120082"
+      ],
+      [
+        "o040330470062"
+      ],
+      [
+        "o040330480032"
+      ],
+      [
+        "o050320490042"
+      ],
+      [
+        "o240220200082"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "person:Zibia",
+  "primary_id": "person:Zibia",
+  "alternate_sources": {
+    "aquifer": [
+      "9213|Zibia|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006110001001000"
+    ],
+    "tipnr": [
+      "Zibia@1Ch.8.9"
+    ],
+    "vizbible": [
+      "recilphHULBDp6YkA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shaharaim",
+  "mother": "person:Hodesh",
+  "siblings": [
+    "person:Jobab.4",
+    "person:Mesha",
+    "person:Malcam",
+    "person:Jeuz",
+    "person:Sachia",
+    "person:Mirmah",
+    "person:Abitub",
+    "person:Elpaal"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "006110001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zibia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zibia",
+          "article": "person:Zibia",
+          "description": "Zibia was a man from the tribe of Benjamin living during the divided kingdom, mentioned in 1 Chronicles 8:9, son of Shaharaim and Hodesh, and brother of Jobab, Mesha, Malcam, Jeuz, Sachia, Mirmah, Abitub, and Elpaal."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008009"
+  ],
+  "references": [
+    "13008009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080090081"
+      ]
+    ]
+  }
+}

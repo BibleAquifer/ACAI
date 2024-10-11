@@ -1,0 +1,54 @@
+{
+  "id": "group:Nemuelite",
+  "primary_id": "group:Nemuelite",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004811001001000"
+    ],
+    "tipnr": [
+      "Nemuelite|Jemuel@Gen.46.10-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Jemuel",
+  "ubsdbh": [
+    "004811001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nemuelites",
+      "alternate_labels": [
+        "Jemuel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nemuelites",
+          "article": "group:Nemuelite",
+          "description": "People descended from Jemuel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נְמוּאֵלִי"
+    ]
+  },
+  "key_references": [
+    "04026012"
+  ],
+  "references": [
+    "04026012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260120062"
+      ]
+    ]
+  }
+}

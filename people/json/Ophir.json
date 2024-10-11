@@ -1,0 +1,78 @@
+{
+  "id": "person:Ophir",
+  "primary_id": "person:Ophir",
+  "alternate_sources": {
+    "aquifer": [
+      "7506|Ophir (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000201001001000"
+    ],
+    "tipnr": [
+      "Ophir@Gen.10.29-1Ch"
+    ],
+    "vizbible": [
+      "reclDIF1F7dgXY6zR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joktan",
+  "siblings": [
+    "person:Almodad",
+    "person:Sheleph",
+    "person:Hazarmaveth",
+    "person:Jerah",
+    "person:Hadoram.2",
+    "person:Uzal",
+    "person:Diklah",
+    "person:Obal",
+    "person:Abimael",
+    "person:Sheba.2",
+    "person:Havilah.2",
+    "person:Jobab"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "000201001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ophir",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ophir",
+          "article": "person:Ophir",
+          "description": "Ophir is a man from the time of the patriarchs, first mentioned in Genesis 10:29, who is the son of Joktan and regarded as the founder of a region named after him."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֹופִיר",
+      "אוֹפִיר"
+    ]
+  },
+  "key_references": [
+    "01010029",
+    "13001023"
+  ],
+  "references": [
+    "01010029",
+    "13001023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100290021"
+      ],
+      [
+        "o130010230021"
+      ]
+    ]
+  }
+}

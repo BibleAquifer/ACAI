@@ -1,0 +1,68 @@
+{
+  "id": "realia:PruningKnife",
+  "primary_id": "realia:PruningKnife",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003843001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.1.9.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003843001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pruning Knife",
+      "alternate_labels": [
+        "Pruning Hook"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pruning Knife",
+          "article": "realia:PruningKnife",
+          "description": "A metal blade, sometimes on a long handle, used to cut away unproductive branches from plants."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַזְמֵרָה"
+    ]
+  },
+  "key_references": [
+    "23018005",
+    "29004010",
+    "33004003"
+  ],
+  "references": [
+    "23002004",
+    "23018005",
+    "29004010",
+    "33004003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230020040112"
+      ],
+      [
+        "o230180050122"
+      ],
+      [
+        "o290040100042",
+        "o290040100043"
+      ],
+      [
+        "o330040030142"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "place:Masrekah",
+  "primary_id": "place:Masrekah",
+  "alternate_sources": {
+    "aquifer": [
+      "6970|Masrekah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004545001001000"
+    ],
+    "tipnr": [
+      "Masrekah@Gen.36.36-1Ch"
+    ],
+    "vizbible": [
+      "recdxr4An8KJNjm8R"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004545001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Masrekah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Masrekah",
+          "gloss": "Masrekah",
+          "description": "A town in Edom; residence of Samlah, king of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Edom",
+  "subregion_of": [
+    "place:Edom"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מַשְׂרֵקָה",
+      "מִשְׂרְפוֹת מַיִם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.734691",
+      "lon": "35.606250"
+    },
+    "vizbible": {
+      "lat": "30.734691",
+      "lon": "35.606250"
+    }
+  },
+  "key_references": [
+    "13001047",
+    "01036036"
+  ],
+  "references": [
+    "01036036",
+    "13001047"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360360062"
+      ],
+      [
+        "o130010470062"
+      ]
+    ]
+  }
+}

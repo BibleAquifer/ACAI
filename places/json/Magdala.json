@@ -1,0 +1,54 @@
+{
+  "id": "place:Magdala",
+  "primary_id": "place:Magdala",
+  "alternate_sources": {
+    "aquifer": [
+      "6849|Magdala|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Magdala",
+          "gloss": "Magdala",
+          "description": "A town on the western shore of the Sea of Galilee; possible hometown of Mary Magdalene and, according to the KJV, the location where Jesus sailed to after feeding the multitudes."
+        }
+      ],
+      "preferred_label": "Magdala",
+      "alternate_labels": [
+        "Tarichaea",
+        "Taricheai"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Magadan",
+    "place:Dalmanutha"
+  ],
+  "nearby_places": [
+    "place:GalileeSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.81449",
+      "lon": "35.52058"
+    }
+  },
+  "key_references": [
+    "40015039"
+  ]
+}

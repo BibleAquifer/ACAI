@@ -1,0 +1,79 @@
+{
+  "id": "person:Abishua",
+  "primary_id": "person:Abishua",
+  "alternate_sources": {
+    "aquifer": [
+      "3312|Abishua|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000049001001000"
+    ],
+    "tipnr": [
+      "Abishua@1Ch.6.4-Ezr"
+    ],
+    "vizbible": [
+      "rec7RO38bCfPYvTOb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Phinehas",
+  "offspring": [
+    "person:Bukki.2"
+  ],
+  "roles": [
+    "High Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000049001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abishua (Son of Phinehas)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abishua (Son of Phinehas)",
+          "article": "person:Abishua",
+          "description": "Son of Phinehas, who was a high priest of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִישׁוּעַ"
+    ]
+  },
+  "key_references": [
+    "10006003",
+    "10006004",
+    "13006035",
+    "15007005"
+  ],
+  "references": [
+    "13005030",
+    "13005031",
+    "13006035",
+    "15007005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050300081"
+      ],
+      [
+        "o130050310012"
+      ],
+      [
+        "o130060350081"
+      ],
+      [
+        "o150070050021"
+      ]
+    ]
+  }
+}

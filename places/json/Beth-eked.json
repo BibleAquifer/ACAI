@@ -1,0 +1,93 @@
+{
+  "id": "place:Beth-eked",
+  "primary_id": "place:Beth-eked",
+  "alternate_sources": {
+    "aquifer": [
+      "4168|Beth-Eked|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000970001001000"
+    ],
+    "tipnr": [
+      "Beth-eked@2Ki.10.12-"
+    ],
+    "vizbible": [
+      "reckYA26NlPh6Xe9R"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000970001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-eked",
+      "alternate_labels": [
+        "shearing house"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-eked",
+          "gloss": "Beth-Eked",
+          "description": "A location between Jezreel and Samaria where Jehu's men killed the relatives of Ahazaiah."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jezreel",
+    "place:Samaria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית־עֵקֶד",
+      "בֵּית־עֵ֫קֶד"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.5559631396043",
+      "lon": "35.33078927843792"
+    },
+    "vizbible": {
+      "lat": "32.5559631396043",
+      "lon": "35.33078927843792"
+    }
+  },
+  "key_references": [
+    "12010012",
+    "12010014"
+  ],
+  "references": [
+    "12010012",
+    "12010014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120100120061",
+        "o120100120071"
+      ],
+      [
+        "o120100140091",
+        "o120100140101"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "person:Sheba",
+  "primary_id": "person:Sheba",
+  "alternate_sources": {
+    "aquifer": [
+      "8313|Sheba (Person)|TyndaleBibleDictionary",
+      "8315|Sheba, Queen of|TyndaleBibleDictionary",
+      "27080|Sheba|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Sheba@Gen.10.7-Jol",
+      "Sabean|Sheba@Gen.10.7-Jol"
+    ],
+    "vizbible": [
+      "rec3vGEe1ev10AnLa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Raamah",
+  "siblings": [
+    "person:Dedan"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheba",
+      "alternate_labels": [
+        "Sabean",
+        "drunkards",
+        "ESV"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sheba",
+          "article": "person:Sheba",
+          "description": "A grandson the patriarch Cush, son of Raamah, and brother of Dedan. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Sabean"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010007",
+    "18001015",
+    "23045014"
+  ],
+  "references": [
+    "01010007",
+    "13001009",
+    "18001015",
+    "23045014",
+    "26023042",
+    "29004008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100070101"
+      ],
+      [
+        "o130010090101"
+      ],
+      [
+        "o180010150021"
+      ],
+      [
+        "o230450140082"
+      ],
+      [
+        "o260230420111"
+      ],
+      [
+        "o290040080102"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o180010150032"
+      ],
+      [
+        "o180010150061"
+      ],
+      [
+        "o230450140141"
+      ],
+      [
+        "o230450140161"
+      ],
+      [
+        "o230450140181"
+      ],
+      [
+        "o230450140201"
+      ],
+      [
+        "o230450140221"
+      ],
+      [
+        "o260230420132"
+      ],
+      [
+        "o260230430071"
+      ],
+      [
+        "o260230440012"
+      ],
+      [
+        "o260230440081"
+      ]
+    ]
+  }
+}

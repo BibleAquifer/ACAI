@@ -1,0 +1,264 @@
+{
+  "id": "place:Heshbon",
+  "primary_id": "place:Heshbon",
+  "alternate_sources": {
+    "aquifer": [
+      "5827|Heshbon|TyndaleBibleDictionary",
+      "26691|Heshbon|UWTranslationWords"
+    ],
+    "obi": [
+      "abf2fc1"
+    ],
+    "ubsdbh": [
+      "002582002001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/249095"
+    ],
+    "tipnr": [
+      "Heshbon@Num.21.25-Jer"
+    ],
+    "vizbible": [
+      "recabsaJkxxtgdUSt"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1615584"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002582002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heshbon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Heshbon",
+          "gloss": "Heshbon",
+          "description": "A Levitical town in the territory of Gad, assigned to the clan of Merari; former residence of Sihon, king of the Amorites (who had captured it from Moab); later occupied by Moab."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Gad",
+  "subregion_of": [
+    "place:TerritoryOfGad"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֶשְׁבֹּון",
+      "חֶשְׁבּוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.80052001",
+      "lon": "35.80901867"
+    },
+    "recogito": {
+      "lat": "31.79819",
+      "lon": "35.80986"
+    },
+    "vizbible": {
+      "lat": "31.79819",
+      "lon": "35.80986"
+    }
+  },
+  "key_references": [
+    "04032037",
+    "24048002"
+  ],
+  "references": [
+    "04021025",
+    "04021026",
+    "04021027",
+    "04021028",
+    "04021030",
+    "04021034",
+    "04032003",
+    "04032037",
+    "05001004",
+    "05002024",
+    "05002026",
+    "05002030",
+    "05003002",
+    "05003006",
+    "05004046",
+    "05029006",
+    "06009010",
+    "06012002",
+    "06012005",
+    "06013010",
+    "06013017",
+    "06013021",
+    "06013026",
+    "06013027",
+    "06021039",
+    "07011019",
+    "07011026",
+    "13006066",
+    "16009022",
+    "22007005",
+    "23015004",
+    "23016008",
+    "23016009",
+    "24048002",
+    "24048034",
+    "24048045",
+    "24049003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210250122"
+      ],
+      [
+        "o040210260021"
+      ],
+      [
+        "o040210270061"
+      ],
+      [
+        "o040210280042"
+      ],
+      [
+        "o040210300031"
+      ],
+      [
+        "o040210340262"
+      ],
+      [
+        "o040320030052"
+      ],
+      [
+        "o040320370051"
+      ],
+      [
+        "o050010040092"
+      ],
+      [
+        "o050020240131"
+      ],
+      [
+        "o050020260081"
+      ],
+      [
+        "o050020300051"
+      ],
+      [
+        "o050030020252"
+      ],
+      [
+        "o050030060071"
+      ],
+      [
+        "o050040460132"
+      ],
+      [
+        "o050290060081"
+      ],
+      [
+        "o060090100131"
+      ],
+      [
+        "o060120020052"
+      ],
+      [
+        "o060120050161"
+      ],
+      [
+        "o060130100082"
+      ],
+      [
+        "o060130170011"
+      ],
+      [
+        "o060130210112"
+      ],
+      [
+        "o060130260013"
+      ],
+      [
+        "o060130270121"
+      ],
+      [
+        "o060210390021"
+      ],
+      [
+        "o070110190091"
+      ],
+      [
+        "o070110260032"
+      ],
+      [
+        "o130060660021"
+      ],
+      [
+        "o160090220141"
+      ],
+      [
+        "o220070050062"
+      ],
+      [
+        "o230150040021"
+      ],
+      [
+        "o230160080031"
+      ],
+      [
+        "o230160090101"
+      ],
+      [
+        "o240480020052"
+      ],
+      [
+        "o240480340021"
+      ],
+      [
+        "o240480450021"
+      ],
+      [
+        "o240480450092"
+      ],
+      [
+        "o240490030021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o040210260071"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240480340071"
+      ],
+      [
+        "o240490030011"
+      ]
+    ]
+  }
+}

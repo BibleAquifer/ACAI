@@ -1,0 +1,98 @@
+{
+  "id": "person:Methuselah",
+  "primary_id": "person:Methuselah",
+  "alternate_sources": {
+    "aquifer": [
+      "7095|Methuselah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Methuselah@Gen.5.21-Luk"
+    ],
+    "vizbible": [
+      "recLggPghs0fnCfHB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Enoch.2",
+  "offspring": [
+    "person:Lamech.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Methuselah",
+      "alternate_labels": [
+        "Mathusala"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Methuselah",
+          "article": "person:Methuselah",
+          "description": "A son of Enoch, grandfather of Noah, and the father of Lamech."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01005021",
+    "01005027",
+    "42003037"
+  ],
+  "references": [
+    "01005021",
+    "01005022",
+    "01005025",
+    "01005026",
+    "01005027",
+    "13001003",
+    "42003037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010050210081"
+      ],
+      [
+        "o010050220081"
+      ],
+      [
+        "o010050250021"
+      ],
+      [
+        "o010050260021"
+      ],
+      [
+        "o010050270041"
+      ],
+      [
+        "o130010030021"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003037002"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010050250082"
+      ],
+      [
+        "o010050260132"
+      ],
+      [
+        "o010050270112"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "place:Hapharaim",
+  "primary_id": "place:Ophrah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5655|Hapharaim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002452001001000"
+    ],
+    "tipnr": [
+      "Hapharaim|Ophrah@Jdg.6.11-Jdg"
+    ],
+    "vizbible": [
+      "recPBAlvTZPyRnyOC"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002452001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hapharaim",
+      "alternate_labels": [
+        "Haphraim",
+        "Ophrah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hapharaim",
+          "gloss": "Hapharaim",
+          "description": "A town in the territory of Issachar."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ophrah.2"
+  ],
+  "tribal_area": "group:Issachar",
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲפָרַיִם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.6086827",
+      "lon": "35.28826433"
+    },
+    "vizbible": {
+      "lat": "32.6086827",
+      "lon": "35.28826433"
+    }
+  },
+  "key_references": [
+    "06019019"
+  ],
+  "references": [
+    "06019019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190190012"
+      ]
+    ]
+  }
+}

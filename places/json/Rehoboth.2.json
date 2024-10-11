@@ -1,0 +1,99 @@
+{
+  "id": "place:Rehoboth.2",
+  "primary_id": "place:Rehoboth.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7983|Rehoboth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006746001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3353540"
+    ],
+    "tipnr": [
+      "Rehoboth@Gen.36.37-1Ch"
+    ],
+    "vizbible": [
+      "recXyD7VeEfvtVULJ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006746001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rehoboth (on the Euphrates)",
+      "alternate_labels": [
+        "Rehoboth-on-the-River",
+        "Rehoboth-by-the-River",
+        "Rehoboth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rehoboth.2",
+          "gloss": "Rehoboth (on the Euphrates)",
+          "description": "A town located on the Euphrates River in Mesopotamia; town of King Shual of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Edom",
+  "nearby_places": [
+    "place:Euphrates"
+  ],
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.884128",
+      "lon": "35.897633"
+    },
+    "recogito": {
+      "lat": "-23.317",
+      "lon": "17.09"
+    },
+    "vizbible": {
+      "lat": "30.884128",
+      "lon": "35.897633"
+    }
+  },
+  "key_references": [
+    "01036037",
+    "13001048"
+  ],
+  "references": [
+    "01036037",
+    "13001048"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360370062"
+      ],
+      [
+        "o130010480062"
+      ]
+    ]
+  }
+}

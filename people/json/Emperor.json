@@ -1,0 +1,63 @@
+{
+  "id": "person:Emperor",
+  "primary_id": "person:Augustus",
+  "alternate_sources": {
+    "aquifer": [
+      "5074|Emperor|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "37.75"
+    ],
+    "tipnr": [
+      "emperor|Augustus@Luk.2.1-Act"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Emperor"
+  ],
+  "tribe": "group:Italy",
+  "ubsdgnt": [
+    "37.75"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Emperor (Augustus)",
+      "alternate_labels": [
+        "Augustus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Augustus",
+          "article": "person:Emperor",
+          "description": "Emperor Augustus was a Roman Emperor mentioned in the New Testament, first appearing in Luke 2:1."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Augustus"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44025021",
+    "44025025"
+  ],
+  "references": [
+    "44025021",
+    "44025025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44025021010"
+      ],
+      [
+        "n44025025014"
+      ]
+    ]
+  }
+}

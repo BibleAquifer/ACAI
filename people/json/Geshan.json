@@ -1,0 +1,69 @@
+{
+  "id": "person:Geshan",
+  "primary_id": "person:Geshan",
+  "alternate_sources": {
+    "aquifer": [
+      "5433|Geshan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005408002003000"
+    ],
+    "tipnr": [
+      "Geshan@1Ch.2.47"
+    ],
+    "vizbible": [
+      "recuImGXwBnjOkRWw"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Caleb.2",
+  "mother": "person:Jahdai",
+  "siblings": [
+    "person:Regem",
+    "person:Jotham.3",
+    "person:Pelet",
+    "person:Ephah.3",
+    "person:Shaaph"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005408002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Geshan",
+      "alternate_labels": [
+        "Gesham"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Geshan",
+          "article": "person:Geshan",
+          "description": "Geshan, also known as Gesham, was a descendant of Caleb from the tribe of Judah living during the time of the divided kingdom, mentioned in 1 Chronicles 2:47."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֵיפָה"
+    ]
+  },
+  "key_references": [
+    "13002047"
+  ],
+  "references": [
+    "13002047"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020470052"
+      ]
+    ]
+  }
+}

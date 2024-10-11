@@ -1,0 +1,75 @@
+{
+  "id": "place:Beth-azmaveth",
+  "primary_id": "place:Beth-azmaveth",
+  "alternate_sources": {
+    "aquifer": [
+      "4159|Beth-Azmaveth|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Azmaveth|Beth-azmaveth@Ezr.2.24-Neh",
+      "Beth-azmaveth@Ezr.2.24-Neh"
+    ],
+    "vizbible": [
+      "recwPACgpqabJeUvd"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-azmaveth",
+      "alternate_labels": [
+        "Beth Azmaveth",
+        "Azmaveth",
+        "Beth-azmaveth"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Azmaveth"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.834203",
+      "lon": "35.260706"
+    },
+    "vizbible": {
+      "lat": "31.834203",
+      "lon": "35.260706"
+    }
+  },
+  "key_references": [
+    "15002024",
+    "16007028",
+    "16012029"
+  ],
+  "references": [
+    "15002024",
+    "16007028",
+    "16012029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020240021"
+      ],
+      [
+        "o160070280021",
+        "o160070280031"
+      ],
+      [
+        "o160120290052"
+      ]
+    ]
+  }
+}

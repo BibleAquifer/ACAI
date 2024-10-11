@@ -1,0 +1,81 @@
+{
+  "id": "person:Ahiezer",
+  "primary_id": "person:Ahiezer",
+  "alternate_sources": {
+    "aquifer": [
+      "3442|Ahiezer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000279001001000"
+    ],
+    "tipnr": [
+      "Ahiezer@Num.1.12-"
+    ],
+    "vizbible": [
+      "rec6zcJUIrBOS66Gu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ammishaddai",
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000279001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahiezer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahiezer",
+          "article": "person:Ahiezer",
+          "description": "The chief of the tribe of Dan during the time of Moses. Ahiezer was a son of Ammishaddai."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִיעֶזֶר",
+      "אֲחִיעֶ֫זֶר"
+    ]
+  },
+  "key_references": [
+    "04001012",
+    "04002025",
+    "04007066",
+    "04010025"
+  ],
+  "references": [
+    "04001012",
+    "04002025",
+    "04007066",
+    "04007071",
+    "04010025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010120021"
+      ],
+      [
+        "o040020250091"
+      ],
+      [
+        "o040070660061"
+      ],
+      [
+        "o040070710151"
+      ],
+      [
+        "o040100250121"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "person:Shalmaneser",
+  "primary_id": "person:Shalmaneser",
+  "alternate_sources": {
+    "aquifer": [
+      "8269|Shalmaneser|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shalmaneser@2Ki.17.3-Hos",
+      "Shalman|Shalmaneser@2Ki.17.3-Hos"
+    ],
+    "vizbible": [
+      "rechyp4HYKyxnaCF1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shalmaneser",
+      "alternate_labels": [
+        "Shalman"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shalmaneser",
+          "article": "person:Shalmaneser",
+          "description": "Shalmaneser, also known as Shalman, was a king of Assyria during the divided kingdom period, mentioned in 2 Kings 17:3 and Hosea 10:14."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shalman"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12017003",
+    "12018009",
+    "28010014"
+  ],
+  "references": [
+    "12017003",
+    "12018009",
+    "28010014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120170030031"
+      ],
+      [
+        "o120180090151"
+      ],
+      [
+        "o280100140081"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120180090202"
+      ],
+      [
+        "o120180100012"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o120170270051",
+          "o120170270061",
+          "o120170270062",
+          "o120170270071",
+          "o120170270081",
+          "o120170270082",
+          "o120170270083",
+          "o120170270091",
+          "o120170270101",
+          "o120170270111",
+          "o120170270112",
+          "o120170270121",
+          "o120170270122",
+          "o120170270131",
+          "o120170270132",
+          "o120170270141",
+          "o120170270151",
+          "o120170270152",
+          "o120170270153",
+          "o120170270161",
+          "o120170270171",
+          "o120170270181",
+          "o120170270191",
+          "o120170270192"
+        ]
+      }
+    ]
+  }
+}

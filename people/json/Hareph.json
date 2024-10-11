@@ -1,0 +1,69 @@
+{
+  "id": "person:Hareph",
+  "primary_id": "person:Hareph",
+  "alternate_sources": {
+    "aquifer": [
+      "5664|Hareph|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002555001001000"
+    ],
+    "tipnr": [
+      "Hareph@1Ch.2.51"
+    ],
+    "vizbible": [
+      "recm7TVuys9gKUKgR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hur.2",
+  "siblings": [
+    "person:Uri",
+    "person:Shobal.2",
+    "person:Salma",
+    "person:Jezreel",
+    "person:Ishma",
+    "person:Idbash",
+    "person:Hazzelelponi",
+    "person:Penuel",
+    "person:Ezer.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002555001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hareph",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hareph",
+          "article": "person:Hareph",
+          "description": "Hareph, a descendant of Caleb from the tribe of Judah, mentioned in 1 Chronicles 2:51 as the founder of Beth Gader."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חָרֵף"
+    ]
+  },
+  "key_references": [
+    "13002051"
+  ],
+  "references": [
+    "13002051"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020510051"
+      ]
+    ]
+  }
+}

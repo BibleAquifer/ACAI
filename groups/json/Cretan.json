@@ -1,0 +1,89 @@
+{
+  "id": "group:Cretan",
+  "primary_id": "group:Cretan",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.507"
+    ],
+    "tipnr": [
+      "Cretan|Crete@Deu.2.23-Tit"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Crete",
+  "ubsdgnt": [
+    "93.507"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cretans",
+      "alternate_labels": [
+        "Crete"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cretans",
+          "article": "group:Cretan",
+          "description": "People who live on the island of Crete."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Κρής"
+    ]
+  },
+  "key_references": [
+    "44002011",
+    "56001012",
+    "56003015"
+  ],
+  "references": [
+    "44002011",
+    "56001012",
+    "56003015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44002011005"
+      ],
+      [
+        "n56001012008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44002011012"
+      ],
+      [
+        "n56001012004",
+        "n56001012005",
+        "n56001012006"
+      ],
+      [
+        "n56001012008"
+      ],
+      [
+        "n56001013010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n56001013013"
+      ],
+      [
+        "n56001014002"
+      ]
+    ]
+  }
+}

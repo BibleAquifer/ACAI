@@ -1,0 +1,41 @@
+{
+  "id": "place:MountColzim",
+  "primary_id": "place:MountColzim",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountColzim",
+          "gloss": "Mount Colzim",
+          "description": "A mountain in Egypt, west of the Gulf of Suez, associated with Saint Anthony the Great."
+        }
+      ],
+      "preferred_label": "Mount Colzim",
+      "alternate_labels": [
+        "Inner Mountain of Saint Anthony"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "28.91426",
+      "lon": "32.33698"
+    }
+  }
+}

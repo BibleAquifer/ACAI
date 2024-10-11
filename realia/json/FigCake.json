@@ -1,0 +1,78 @@
+{
+  "id": "realia:FigCake",
+  "primary_id": "realia:FigCake",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001549001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.15.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "001549001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fig Cake",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Fig Cake",
+          "article": "realia:FigCake",
+          "description": "A cake made from pressed dried figs, used as food and sometimes as medicine."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "realia:RaisinCake"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דְּבֵלָה"
+    ]
+  },
+  "key_references": [
+    "09025018",
+    "09030012",
+    "13012041"
+  ],
+  "references": [
+    "09025018",
+    "09030012",
+    "12020007",
+    "13012041",
+    "23038021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090250180201"
+      ],
+      [
+        "o090300120041"
+      ],
+      [
+        "o120200070041"
+      ],
+      [
+        "o130120410161"
+      ],
+      [
+        "o230380210041"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090250270032"
+      ]
+    ]
+  }
+}

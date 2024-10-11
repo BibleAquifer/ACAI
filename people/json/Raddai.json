@@ -1,0 +1,65 @@
+{
+  "id": "person:Raddai",
+  "primary_id": "person:Raddai",
+  "alternate_sources": {
+    "aquifer": [
+      "7906|Raddai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006702001001000"
+    ],
+    "tipnr": [
+      "Raddai@1Ch.2.14"
+    ],
+    "vizbible": [
+      "recIpqB48hmjABksj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jesse",
+  "mother": "person:Nahash.3",
+  "siblings": [
+    "person:David",
+    "person:Eliab.3",
+    "person:Abinadab.3",
+    "person:Shimeah.2",
+    "person:Nethanel.2",
+    "person:Ozem",
+    "person:Elihu.4",
+    "person:Zeruiah",
+    "person:Abigail.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "006702001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Raddai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Raddai",
+          "article": "person:Raddai",
+          "description": "Raddai is David's brother, from the tribe of Judah, mentioned in 1 Chronicles 2:14, who lived during Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002014"
+  ],
+  "references": [
+    "13002014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020140031"
+      ]
+    ]
+  }
+}

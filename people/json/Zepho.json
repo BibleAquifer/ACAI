@@ -1,0 +1,69 @@
+{
+  "id": "person:Zepho",
+  "primary_id": "person:Zepho",
+  "alternate_sources": {
+    "aquifer": [
+      "9187|Zepho|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Zepho@Gen.36.11-1Ch"
+    ],
+    "vizbible": [
+      "recaDgdGwgUR3ViVq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliphaz",
+  "mother": "person:WifeOfEliphaz",
+  "siblings": [
+    "person:Teman",
+    "person:Omar",
+    "person:Gatam",
+    "person:Kenaz",
+    "person:Amalek",
+    "person:Korah.2"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zepho",
+      "alternate_labels": [
+        "Zephi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zepho",
+          "article": "person:Zepho",
+          "description": "Zepho, also called Zephi, was an Edomite man living during the time of the patriarchs, first mentioned in Genesis 36:11 as the son of Eliphaz and brother of Teman, Omar, Gatam, Kenaz, Amalek, and Korah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036011",
+    "01036015",
+    "13001036"
+  ],
+  "references": [
+    "01036011",
+    "01036015",
+    "13001036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360110061"
+      ],
+      [
+        "o010360150141"
+      ],
+      [
+        "o130010360051"
+      ]
+    ]
+  }
+}

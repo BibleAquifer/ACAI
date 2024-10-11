@@ -1,0 +1,67 @@
+{
+  "id": "realia:Strap",
+  "primary_id": "realia:Strap",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.20"
+    ],
+    "ubsrealia": [
+      "realia:6.13.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.20"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Strap",
+      "alternate_labels": [
+        "Thong"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Strap",
+          "article": "realia:Strap",
+          "description": "A leather strip used for binding sandals or as a part of a whip."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἱμάς"
+    ]
+  },
+  "key_references": [
+    "41001007",
+    "42003016",
+    "43001027"
+  ],
+  "references": [
+    "41001007",
+    "42003016",
+    "43001027",
+    "44022025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41001007017"
+      ],
+      [
+        "n42003016022"
+      ],
+      [
+        "n43001027013"
+      ],
+      [
+        "n44022025006"
+      ]
+    ]
+  }
+}

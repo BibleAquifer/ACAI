@@ -1,0 +1,78 @@
+{
+  "id": "person:Jedaiah.3",
+  "primary_id": "person:Jedaiah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6257|Jedaiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002808001001000",
+      "002808001003000"
+    ],
+    "tipnr": [
+      "Jedaiah@1Ch.9.10-Neh"
+    ],
+    "vizbible": [
+      "recHYfHYv6jVhXj4U"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joiarib",
+  "roles": [
+    "Priest",
+    "Leader"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002808001001000",
+    "002808001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jedaiah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jedaiah",
+          "article": "person:Jedaiah.3",
+          "description": "A Levite and head of a family of priests who returned from exile during the time of Nehemiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְדַעְיָה"
+    ]
+  },
+  "key_references": [
+    "13009010",
+    "16011010",
+    "16012006"
+  ],
+  "references": [
+    "13009010",
+    "16011010",
+    "16012006",
+    "16012019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090100031"
+      ],
+      [
+        "o160110100031"
+      ],
+      [
+        "o160120060031"
+      ],
+      [
+        "o160120190032"
+      ]
+    ]
+  }
+}

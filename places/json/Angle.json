@@ -1,0 +1,89 @@
+{
+  "id": "place:Angle",
+  "primary_id": "place:Angle",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004341001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2077719"
+    ],
+    "tipnr": [
+      "Angle@2Ch.26.9"
+    ],
+    "vizbible": [
+      "recpnCSwEBvgwIXdu"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004341001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Angle",
+      "alternate_labels": [
+        "turning"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Angle",
+          "gloss": "Angle",
+          "description": "A part of the wall of Jerusalem that Uzziah fortified with a tower."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מִקְצֹועַ",
+      "מָקַץ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "structure"
+    ],
+    "acai": [
+      "structure"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "-34.64098",
+      "lon": "138.6461"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "14026009"
+  ],
+  "references": [
+    "14026009",
+    "16003019",
+    "16003020",
+    "16003024",
+    "16003025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140260090122"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "person:Asshur",
+  "primary_id": "person:Asshur",
+  "alternate_sources": {
+    "aquifer": [
+      "3835|Asshur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000740001001000"
+    ],
+    "tipnr": [
+      "Asshur@Gen.10.22-1Ch"
+    ],
+    "vizbible": [
+      "recSlH57E2nlC5aif"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shem",
+  "siblings": [
+    "person:Elam.2",
+    "person:Arpachshad",
+    "person:Lud",
+    "person:Aram"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "000740001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Asshur",
+      "alternate_labels": [
+        "Ashur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Asshur",
+          "article": "person:Asshur",
+          "description": "A son of Shem and considered the founder of Assyria, mentioned in Genesis 10:22."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַשּׁוּר",
+      "אַשּׁוּר"
+    ]
+  },
+  "key_references": [
+    "01010022",
+    "13001017"
+  ],
+  "references": [
+    "01010022",
+    "13001017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100220042"
+      ],
+      [
+        "o130010170042"
+      ]
+    ]
+  }
+}

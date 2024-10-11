@@ -1,0 +1,45 @@
+{
+  "id": "place:JacobsWell",
+  "primary_id": "place:JacobsWell",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:JacobsWell",
+          "gloss": "Jacob's Well",
+          "description": "A well east of Shechem, associated with the patriarch Jacob, where Jesus spoke with the Samaritan woman (John 4:6)."
+        }
+      ],
+      "preferred_label": "Jacob's Well",
+      "alternate_labels": [
+        "Well of Sychar",
+        "Jacob's Fountain"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Shechem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "well"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.21436",
+      "lon": "35.28809"
+    }
+  },
+  "key_references": [
+    "43004005"
+  ]
+}

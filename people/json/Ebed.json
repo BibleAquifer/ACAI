@@ -1,0 +1,76 @@
+{
+  "id": "person:Ebed",
+  "primary_id": "person:Ebed",
+  "alternate_sources": {
+    "aquifer": [
+      "4925|Ebed|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005189002001000"
+    ],
+    "tipnr": [
+      "Ebed@Jdg.9.26-"
+    ],
+    "vizbible": [
+      "rec9nRwSP1X6tHzhG"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Gaal"
+  ],
+  "roles": [
+    "Leader",
+    "Warrior"
+  ],
+  "ubsdbh": [
+    "005189002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ebed",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ebed",
+          "article": "person:Ebed",
+          "description": "Father of Gaal, who lived during the time of the judges of Israel. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07009026",
+    "07009028",
+    "07009030"
+  ],
+  "references": [
+    "07009026",
+    "07009028",
+    "07009030",
+    "07009031",
+    "07009035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070090260041"
+      ],
+      [
+        "o070090280041"
+      ],
+      [
+        "o070090300091"
+      ],
+      [
+        "o070090310101"
+      ],
+      [
+        "o070090350041"
+      ]
+    ]
+  }
+}

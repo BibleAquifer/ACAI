@@ -1,0 +1,86 @@
+{
+  "id": "place:En-haddah",
+  "primary_id": "place:En-haddah",
+  "alternate_sources": {
+    "aquifer": [
+      "5084|En-Haddah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a009e7d"
+    ],
+    "ubsdbh": [
+      "005395001001000"
+    ],
+    "tipnr": [
+      "En-haddah@Jos.19.21"
+    ],
+    "vizbible": [
+      "recWT28kKso9Ayp7t"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005395001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "En-haddah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:En-haddah",
+          "gloss": "En-Haddah",
+          "description": "A town in the territory of Issachar."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Issachar",
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵין חָצֹור",
+      "עֵין חָצוֹר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.478425",
+      "lon": "35.254452"
+    },
+    "vizbible": {
+      "lat": "32.478425",
+      "lon": "35.254452"
+    }
+  },
+  "key_references": [
+    "06019021"
+  ],
+  "references": [
+    "06019021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190210042",
+        "o060190210051"
+      ]
+    ]
+  }
+}

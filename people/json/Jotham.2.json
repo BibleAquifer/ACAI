@@ -1,0 +1,219 @@
+{
+  "id": "person:Jotham.2",
+  "primary_id": "person:Jotham.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6466|Jotham|TyndaleBibleDictionary",
+      "26780|Jotham|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Jotham@2Ki.15.5-Mat"
+    ],
+    "vizbible": [
+      "recRMsfahAI4RmTZe"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uzziah",
+  "mother": "person:Jerusha",
+  "offspring": [
+    "person:Ahaz"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ],
+    "death_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jotham",
+      "alternate_labels": [
+        "Joatham"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jotham",
+          "article": "person:Jotham.2",
+          "description": "A king of Judah during the divided kingdom. He was a son of Uzziah by Jerusha."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12015032",
+    "14027001",
+    "23001001",
+    "40001009"
+  ],
+  "references": [
+    "12015005",
+    "12015007",
+    "12015030",
+    "12015032",
+    "12015036",
+    "12015038",
+    "12016001",
+    "13003012",
+    "13005017",
+    "14026021",
+    "14026023",
+    "14027001",
+    "14027006",
+    "14027007",
+    "14027009",
+    "23001001",
+    "23007001",
+    "28001001",
+    "33001001",
+    "40001009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120150050132"
+      ],
+      [
+        "o120150070121"
+      ],
+      [
+        "o120150300162"
+      ],
+      [
+        "o120150320091"
+      ],
+      [
+        "o120150360031"
+      ],
+      [
+        "o120150380021"
+      ],
+      [
+        "o120160010111"
+      ],
+      [
+        "o130030120051"
+      ],
+      [
+        "o130050170041"
+      ],
+      [
+        "o140260210172"
+      ],
+      [
+        "o140260230181"
+      ],
+      [
+        "o140270010051"
+      ],
+      [
+        "o140270060021"
+      ],
+      [
+        "o140270070031"
+      ],
+      [
+        "o140270090021"
+      ],
+      [
+        "o230010010121"
+      ],
+      [
+        "o230070010051"
+      ],
+      [
+        "o280010010111"
+      ],
+      [
+        "o330010010091"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001009005",
+        "n40001009006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o120150350101"
+      ],
+      [
+        "o140270030011"
+      ],
+      [
+        "o140270050012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120150050181"
+      ],
+      [
+        "o120150330051"
+      ],
+      [
+        "o120150330101"
+      ],
+      [
+        "o120150340012"
+      ],
+      [
+        "o120150340101"
+      ],
+      [
+        "o120150360051"
+      ],
+      [
+        "o120150380052"
+      ],
+      [
+        "o140260210221"
+      ],
+      [
+        "o140270010101"
+      ],
+      [
+        "o140270020012"
+      ],
+      [
+        "o140270020121"
+      ],
+      [
+        "o140270030101"
+      ],
+      [
+        "o140270040021"
+      ],
+      [
+        "o140270040061"
+      ],
+      [
+        "o140270050072"
+      ],
+      [
+        "o140270060041"
+      ],
+      [
+        "o140270080051"
+      ],
+      [
+        "o140270080101"
+      ]
+    ]
+  }
+}

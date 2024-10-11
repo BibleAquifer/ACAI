@@ -1,0 +1,122 @@
+{
+  "id": "person:Michael.11",
+  "primary_id": "person:Michael.11",
+  "alternate_sources": {
+    "aquifer": [
+      "7109|Michael|TyndaleBibleDictionary",
+      "26875|Michael|UWTranslationWords",
+      "132511|Michael|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Michael@Dan.10.13-Rev"
+    ],
+    "vizbible": [
+      "recxTXcpW5OxDDvQa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Military Commander",
+    "Ruler",
+    "Angel"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Michael",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Michael",
+          "article": "person:Michael.11",
+          "description": "A reference to the Archangel Michael."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "27010013",
+    "27012001",
+    "66012007"
+  ],
+  "references": [
+    "27010013",
+    "27010021",
+    "27012001",
+    "65001009",
+    "66012007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o270100130101"
+      ],
+      [
+        "o270100210161"
+      ],
+      [
+        "o270120010041"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n65001009003"
+      ],
+      [
+        "n66012007008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n66012007012"
+      ],
+      [
+        "n66012010021"
+      ],
+      [
+        "n66012010034"
+      ],
+      [
+        "n66012010041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o270100130152"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n65001009009",
+        "n65001009010"
+      ],
+      [
+        "n65001009018"
+      ],
+      [
+        "n65001009021"
+      ],
+      [
+        "n66012007014"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Quotation",
+        "words": [
+          "n65001009022",
+          "n65001009023",
+          "n65001009024"
+        ]
+      }
+    ]
+  }
+}

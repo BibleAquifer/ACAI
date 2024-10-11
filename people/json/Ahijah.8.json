@@ -1,0 +1,86 @@
+{
+  "id": "person:Ahijah.8",
+  "primary_id": "person:Ahimelech",
+  "alternate_sources": {
+    "aquifer": [
+      "3444|Ahijah|TyndaleBibleDictionary",
+      "26300|Ahijah|UWTranslationWords",
+      "132423|Ahijah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000265001001000"
+    ],
+    "tipnr": [
+      "Ahijah|Ahimelech@1Sa.14.3-Psa"
+    ],
+    "vizbible": [
+      "recquAR8Sw42aohg7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ahitub",
+  "offspring": [
+    "person:Abiathar"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "ubsdbh": [
+    "000265001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahijah (Ahimelech)",
+      "alternate_labels": [
+        "Ahiah",
+        "Ichabod",
+        "Ahimelech"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahimelech",
+          "article": "person:Ahijah.8",
+          "description": "A priest and son of Ahitub during Israel's united kingdom, also called Ahimelech and Ahiah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ahimelech"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִיָּה",
+      "אֲחִיָּ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "09014003",
+    "09014018"
+  ],
+  "references": [
+    "09014003",
+    "09014018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090140030012"
+      ],
+      [
+        "o090140180032"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090140180041"
+      ]
+    ]
+  }
+}

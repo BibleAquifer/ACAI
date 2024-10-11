@@ -1,0 +1,133 @@
+{
+  "id": "place:Tarsus",
+  "primary_id": "place:Tarsus",
+  "alternate_sources": {
+    "aquifer": [
+      "8746|Tarsus|TyndaleBibleDictionary",
+      "27139|Tarsus|UWTranslationWords"
+    ],
+    "obi": [
+      "a666ea0"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21245"
+    ],
+    "tipnr": [
+      "Tarsus@Act.9.11-"
+    ],
+    "vizbible": [
+      "recyT2hLNYpIFXcAs"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q134287"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tarsus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tarsus",
+          "gloss": "Tarsus",
+          "description": "The capital city of Cilicia in southeast Asia Minor; birthplace of the apostle Paul."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Tarsus"
+  ],
+  "subregion_of": [
+    "place:Cilicia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.91802695",
+      "lon": "34.89153398"
+    },
+    "recogito": {
+      "lat": "36.91242",
+      "lon": "34.89592"
+    },
+    "vizbible": {
+      "lat": "36.91242",
+      "lon": "34.89592"
+    },
+    "biblica-maps": {
+      "lat": "36.91496",
+      "lon": "34.89823"
+    }
+  },
+  "key_references": [
+    "44009030",
+    "44021039"
+  ],
+  "references": [
+    "44009011",
+    "44009030",
+    "44011025",
+    "44021039",
+    "44022003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44009011021"
+      ],
+      [
+        "n44009030013"
+      ],
+      [
+        "n44011025004"
+      ],
+      [
+        "n44021039010"
+      ],
+      [
+        "n44022003007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44009012011"
+      ],
+      [
+        "n44009013011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44009011024"
+      ],
+      [
+        "n44009012002"
+      ],
+      [
+        "n44009012014"
+      ]
+    ]
+  }
+}

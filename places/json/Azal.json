@@ -1,0 +1,82 @@
+{
+  "id": "place:Azal",
+  "primary_id": "place:Azal",
+  "alternate_sources": {
+    "aquifer": [
+      "3896|Azal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000629002001000"
+    ],
+    "tipnr": [
+      "Azal@Zec.14.5"
+    ],
+    "vizbible": [
+      "recWinU9NkCFdJl7J"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000629002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azal",
+      "alternate_labels": [
+        "Azel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Azal",
+          "gloss": "Azal",
+          "description": "An unknown location mentioned in Zech 14:5; possibly near Jerusalem."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אָצֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river",
+      "special",
+      "settlement"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.77809503341373",
+      "lon": "35.2471976093501"
+    },
+    "vizbible": {
+      "lat": "31.77809503341373",
+      "lon": "35.2471976093501"
+    }
+  },
+  "key_references": [
+    "38014005"
+  ],
+  "references": [
+    "38014005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o380140050091"
+      ]
+    ]
+  }
+}

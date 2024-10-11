@@ -1,0 +1,95 @@
+{
+  "id": "place:Cabul.2",
+  "primary_id": "place:Cabul.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4375|Cabul|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003227001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/1138957"
+    ],
+    "tipnr": [
+      "Cabul@1Ki.9.13"
+    ],
+    "vizbible": [
+      "recTQGx2SXaEJvxfD"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003227001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cabul (of Galilee)",
+      "alternate_labels": [
+        "Land of Kabul",
+        "Land of Cabul",
+        "Cabul"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cabul.2",
+          "gloss": "Cabul (of Galilee)",
+          "description": "A region in Galilee given to Hiram king of Tyre by Solomon (1 Kings 9:13)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כָּבוּל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.865661",
+      "lon": "35.211814"
+    },
+    "recogito": {
+      "lat": "34.553973017515624",
+      "lon": "69.3220394"
+    },
+    "vizbible": {
+      "lat": "32.865661",
+      "lon": "35.211814"
+    }
+  },
+  "key_references": [
+    "11009013"
+  ],
+  "references": [
+    "11009013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110090130121"
+      ]
+    ]
+  }
+}

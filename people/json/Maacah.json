@@ -1,0 +1,72 @@
+{
+  "id": "person:Maacah",
+  "primary_id": "person:Maacah",
+  "alternate_sources": {
+    "aquifer": [
+      "6808|Maacah, Maachah (Person)|TyndaleBibleDictionary",
+      "26843|Maacah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "004213001001000"
+    ],
+    "tipnr": [
+      "Maacah@Gen.22.24"
+    ],
+    "vizbible": [
+      "recdRn8HTbzFSyHkx"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nahor.2",
+  "mother": "person:Reumah",
+  "siblings": [
+    "person:Uz.2",
+    "person:Buz",
+    "person:Kemuel",
+    "person:Chesed",
+    "person:Hazo",
+    "person:Pildash",
+    "person:Jidlaph",
+    "person:Bethuel",
+    "person:Tebah",
+    "person:Gaham",
+    "person:Tahash"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "004213001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maacah",
+      "alternate_labels": [
+        "Maakah",
+        "Maachah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Maacah",
+          "article": "person:Maacah",
+          "description": "A man living at the time of the patriarchs, mentioned only in Genesis 22:24, son of Nahor and Reumah, and brother of Tebah, Gaham, and Tahash."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01022024"
+  ],
+  "references": [
+    "01022024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010220240141"
+      ]
+    ]
+  }
+}

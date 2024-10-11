@@ -1,0 +1,72 @@
+{
+  "id": "person:Archelaus",
+  "primary_id": "person:Archelaus",
+  "alternate_sources": {
+    "aquifer": [
+      "3715|Archelaus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.45"
+    ],
+    "tipnr": [
+      "Archelaus@Mat.2.22"
+    ],
+    "vizbible": [
+      "recs8mkaoHwqXZZWi"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Herod",
+  "siblings": [
+    "person:Herod.2",
+    "person:Philip.2",
+    "person:Philip.3"
+  ],
+  "roles": [
+    "Governor"
+  ],
+  "ubsdgnt": [
+    "93.45"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Archelaus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Archelaus",
+          "article": "person:Archelaus",
+          "description": "Governor of Judah, Idumea, and Samaria when Jesus's family returned from Egypt. He was the son of Herod I."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀρχέλαος"
+    ]
+  },
+  "key_references": [
+    "40002022"
+  ],
+  "references": [
+    "40002022"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40002022004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40002022011"
+      ]
+    ]
+  }
+}

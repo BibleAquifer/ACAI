@@ -1,0 +1,73 @@
+{
+  "id": "person:Mizzah",
+  "primary_id": "person:Mizzah",
+  "alternate_sources": {
+    "aquifer": [
+      "7181|Mizzah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003829001001000"
+    ],
+    "tipnr": [
+      "Mizzah@Gen.36.13-1Ch"
+    ],
+    "vizbible": [
+      "recnc5Kni1UvfLx6u"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Reuel.3",
+  "siblings": [
+    "person:Nahath",
+    "person:Zerah",
+    "person:Shammah.2"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "003829001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mizzah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mizzah",
+          "article": "person:Mizzah",
+          "description": "Mizzah was an Edomite man, the son of Reuel and grandson of Esau, mentioned in Genesis 36:13."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִזָּה"
+    ]
+  },
+  "key_references": [
+    "01036013",
+    "01036017",
+    "13001037"
+  ],
+  "references": [
+    "01036013",
+    "01036017",
+    "13001037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360130072"
+      ],
+      [
+        "o010360170131"
+      ],
+      [
+        "o130010370062"
+      ]
+    ]
+  }
+}

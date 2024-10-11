@@ -1,0 +1,66 @@
+{
+  "id": "person:Elon",
+  "primary_id": "person:Elon",
+  "alternate_sources": {
+    "aquifer": [
+      "5046|Elon (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000336001001000"
+    ],
+    "tipnr": [
+      "Elon@Gen.26.34-"
+    ],
+    "vizbible": [
+      "recOdG4WjJKYqAMug"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Adah.2"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "000336001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elon",
+          "article": "person:Elon",
+          "description": "Elon, a man living during the time of the patriarchs, is the father of Adah (or Basemath), who was a wife of Esau, first mentioned in Genesis 26:34."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵילֹון",
+      "אֵלוֹן"
+    ]
+  },
+  "key_references": [
+    "01026034",
+    "01036002"
+  ],
+  "references": [
+    "01026034",
+    "01036002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010260340161"
+      ],
+      [
+        "o010360020101"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "flora:Willow",
+  "primary_id": "flora:Willow",
+  "alternate_sources": {
+    "aquifer": [
+      "9069|Willow|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006303001001000"
+    ],
+    "ubsflora": [
+      "flora:1.26"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "006303001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Willow",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Willow",
+          "article": "flora:Willow",
+          "description": "A tree that grows by streams, has long narrow leaves, and small green flowers."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צַפְצָפָה"
+    ]
+  },
+  "key_references": [
+    "03023040",
+    "26017005"
+  ],
+  "references": [
+    "03023040",
+    "18040022",
+    "19137002",
+    "23015007",
+    "23044004",
+    "26017005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260170050111"
+      ],
+      [
+        "o030230400132"
+      ],
+      [
+        "o180400220051"
+      ],
+      [
+        "o191370020021"
+      ],
+      [
+        "o230150070082"
+      ],
+      [
+        "o230440040042"
+      ]
+    ]
+  }
+}

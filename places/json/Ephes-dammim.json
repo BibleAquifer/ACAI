@@ -1,0 +1,92 @@
+{
+  "id": "place:Ephes-dammim",
+  "primary_id": "place:Ephes-dammim",
+  "alternate_sources": {
+    "aquifer": [
+      "5104|Ephes-Dammim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aafd7c4"
+    ],
+    "tipnr": [
+      "Ephes-dammim@1Sa.17.1-1Ch",
+      "Pas-dammim|Ephes-dammim@1Sa.17.1-1Ch"
+    ],
+    "vizbible": [
+      "rec3w84nsjQvkJEE3"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5382172"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephes-dammim",
+      "alternate_labels": [
+        "Pas-Dammim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ephes-dammim",
+          "gloss": "Ephes-Dammim",
+          "description": "A location between Socoh and Azekah, in the territory of Judah, where the Philistines encamped during the battle between David and Goliath; also known as Pas-Dammim."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Pas-dammim"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.691186",
+      "lon": "34.944496"
+    },
+    "vizbible": {
+      "lat": "31.691186",
+      "lon": "34.944496"
+    }
+  },
+  "key_references": [
+    "10023009",
+    "13011013",
+    "09017001"
+  ],
+  "references": [
+    "09017001",
+    "10023009",
+    "13011013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090170010152",
+        "o090170010161"
+      ],
+      [
+        "o130110130052",
+        "o130110130061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "person:Jonathan",
+  "primary_id": "person:Jonadab.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6432|Jonathan|TyndaleBibleDictionary",
+      "26772|Jonathan|UWTranslationWords",
+      "132403|Jonathan|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002832001004000"
+    ],
+    "tipnr": [
+      "Jonathan|Jonadab@2Sa.13.3-1Ch"
+    ],
+    "vizbible": [
+      "recclamlHQiKUuV8K"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shimeah.2",
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002832001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jonathan (Jonadab)",
+      "alternate_labels": [
+        "Jonadab"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jonadab",
+          "article": "person:Jonathan",
+          "description": "David's nephew, son of Shimeah, living during Israel's united kingdom, also called Jonadab, mentioned in 2 Samuel and 1 Chronicles."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jonadab.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹונָתָן",
+      "יְהוֹנָתָן"
+    ]
+  },
+  "key_references": [
+    "10021021",
+    "13020007",
+    "13027032"
+  ],
+  "references": [
+    "10021021",
+    "13020007",
+    "13027032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100210210051"
+      ],
+      [
+        "o130200070051"
+      ],
+      [
+        "o130270320012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130270320081"
+      ]
+    ]
+  }
+}

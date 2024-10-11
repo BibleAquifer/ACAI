@@ -1,0 +1,117 @@
+{
+  "id": "place:Koa",
+  "primary_id": "place:Koa",
+  "alternate_sources": {
+    "aquifer": [
+      "6636|Koa|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "afe6972"
+    ],
+    "ubsdbh": [
+      "006416001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/40177"
+    ],
+    "tipnr": [
+      "Koa@Ezk.23.23"
+    ],
+    "vizbible": [
+      "recZOV8ortC5HMdxI"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006416001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Koa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Koa",
+          "gloss": "Koa",
+          "description": "A nation in Mesopotamia, east of the Tigris."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.798311",
+      "lon": "48.514966"
+    },
+    "vizbible": {
+      "lat": "34.798311",
+      "lon": "48.514966"
+    }
+  },
+  "key_references": [
+    "26023023"
+  ],
+  "references": [
+    "26023023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260230230072"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260230250131"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260230230182",
+        "o260230230191"
+      ],
+      [
+        "o260230240012"
+      ],
+      [
+        "o260230240111"
+      ],
+      [
+        "o260230240172"
+      ],
+      [
+        "o260230250042"
+      ],
+      [
+        "o260230250091"
+      ],
+      [
+        "o260230260012"
+      ],
+      [
+        "o260230260042"
+      ]
+    ]
+  }
+}

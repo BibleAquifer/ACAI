@@ -1,0 +1,91 @@
+{
+  "id": "person:Eliezer.3",
+  "primary_id": "person:Eliezer.3",
+  "alternate_sources": {
+    "aquifer": [
+      "5007|Eliezer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000425001002000"
+    ],
+    "tipnr": [
+      "Eliezer@Exo.18.4-1Ch"
+    ],
+    "vizbible": [
+      "recDyf7d3iDiOGDgS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Moses",
+  "mother": "person:Zipporah",
+  "offspring": [
+    "person:Rehabiah"
+  ],
+  "siblings": [
+    "person:Gershom"
+  ],
+  "tribe": "group:Levi",
+  "related_places": {
+    "birth_place": [
+      "place:Midian"
+    ]
+  },
+  "ubsdbh": [
+    "000425001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliezer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliezer",
+          "article": "person:Eliezer.3",
+          "description": "Son of the Israelite leader Moses and his wife Zipporah, and brother of Gershom. He had one son named Rehabiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיעֶזֶר",
+      "אֱלִיעֶ֫זֶר"
+    ]
+  },
+  "key_references": [
+    "02004020",
+    "02018004",
+    "13023015",
+    "13023016",
+    "13023017",
+    "13026025"
+  ],
+  "references": [
+    "02018004",
+    "13023015",
+    "13023017",
+    "13026025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020180040031"
+      ],
+      [
+        "o130230150042"
+      ],
+      [
+        "o130230170031"
+      ],
+      [
+        "o130230170082"
+      ],
+      [
+        "o130260250022"
+      ]
+    ]
+  }
+}

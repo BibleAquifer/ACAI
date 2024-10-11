@@ -1,0 +1,64 @@
+{
+  "id": "person:Ephlal",
+  "primary_id": "person:Ephlal",
+  "alternate_sources": {
+    "aquifer": [
+      "5107|Ephlal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000599001001000"
+    ],
+    "tipnr": [
+      "Ephlal@1Ch.2.37"
+    ],
+    "vizbible": [
+      "recoINhoMSeFG7zQa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zabad.2",
+  "offspring": [
+    "person:Obed.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000599001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephlal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ephlal",
+          "article": "person:Ephlal",
+          "description": "Ephlal, first mentioned in 1 Chronicles 2:37, was a man of the tribe of Judah, son of Zabad, and father of Obed."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶפְלָל"
+    ]
+  },
+  "key_references": [
+    "13002037"
+  ],
+  "references": [
+    "13002037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020370041"
+      ],
+      [
+        "o130020370052"
+      ]
+    ]
+  }
+}

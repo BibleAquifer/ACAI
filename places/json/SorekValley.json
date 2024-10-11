@@ -1,0 +1,86 @@
+{
+  "id": "place:SorekValley",
+  "primary_id": "place:SorekValley",
+  "alternate_sources": {
+    "obi": [
+      "a339971"
+    ],
+    "ubsdbh": [
+      "004729001001000"
+    ],
+    "tipnr": [
+      "Sorek_Valley@Jdg.16.4"
+    ],
+    "vizbible": [
+      "recIe4ffJFDzJDWBR"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q252254"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004729001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Sorek",
+      "alternate_labels": [
+        "Sorek Valley",
+        "wadi of Sorek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfSorek",
+          "gloss": "Valley of Sorek",
+          "description": "A valley west of Jerusalem; home of Delila, Samson's lover (Judges 16:4)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.825731",
+      "lon": "34.989013"
+    },
+    "vizbible": {
+      "lat": "31.825731",
+      "lon": "34.989013"
+    }
+  },
+  "key_references": [
+    "07016004"
+  ],
+  "references": [
+    "07016004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070160040062",
+        "o070160040071"
+      ]
+    ]
+  }
+}

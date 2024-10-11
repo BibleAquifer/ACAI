@@ -1,0 +1,51 @@
+{
+  "id": "group:Arvadites",
+  "primary_id": "group:Arvadites",
+  "alternate_sources": {
+    "tipnr": [
+      "Arvadites@Gen.10.18-1Ch"
+    ],
+    "vizbible": [
+      "rec53NDRN1UJoufjW"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Arvad",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arvadites",
+      "alternate_labels": [
+        "Arvadite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Arvadites",
+          "article": "group:Arvadites",
+          "description": "People who lived in Arvad."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010018",
+    "13001016"
+  ],
+  "references": [
+    "01010018",
+    "13001016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100180022"
+      ],
+      [
+        "o130010160022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "person:Dedan",
+  "primary_id": "person:Dedan",
+  "alternate_sources": {
+    "aquifer": [
+      "4793|Dedan (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001578001001000"
+    ],
+    "tipnr": [
+      "Dedan@Gen.10.7-1Ch"
+    ],
+    "vizbible": [
+      "recGr5LKikJh1BOPW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Raamah",
+  "siblings": [
+    "person:Sheba"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "001578001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dedan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dedan",
+          "article": "person:Dedan",
+          "description": "Dedan, mentioned in Genesis 10:7, was a Cushite, son of Raamah, and brother of Sheba, living during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דְּדָן"
+    ]
+  },
+  "key_references": [
+    "01010007",
+    "13001009"
+  ],
+  "references": [
+    "01010007",
+    "13001009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100070112"
+      ],
+      [
+        "o130010090112"
+      ]
+    ]
+  }
+}

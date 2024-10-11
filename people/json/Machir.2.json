@@ -1,0 +1,77 @@
+{
+  "id": "person:Machir.2",
+  "primary_id": "person:Machir.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6835|Machir|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003977001002000"
+    ],
+    "tipnr": [
+      "Machir@2Sa.9.4-"
+    ],
+    "vizbible": [
+      "reclgtqCkR1oswh0q"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ammiel.2",
+  "ubsdbh": [
+    "003977001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Machir (2 Samuel 9:4)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Machir (2 Samuel 9:4)",
+          "article": "person:Machir.2",
+          "description": "A man from the time of Israel's united kingdom, son of Ammiel, mentioned in 2 Samuel 9:4."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מָכִיר"
+    ]
+  },
+  "key_references": [
+    "10009004",
+    "10009005",
+    "10017027"
+  ],
+  "references": [
+    "10009004",
+    "10009005",
+    "10017027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100090040131"
+      ],
+      [
+        "o100090050061"
+      ],
+      [
+        "o100170270112"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100170290061"
+      ],
+      [
+        "o100170290131"
+      ]
+    ]
+  }
+}

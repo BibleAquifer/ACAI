@@ -1,0 +1,123 @@
+{
+  "id": "person:Jude",
+  "primary_id": "person:Jude",
+  "alternate_sources": {
+    "aquifer": [
+      "6489|Jude (Person)|TyndaleBibleDictionary",
+      "6488|Jude, Letter of|TyndaleBibleDictionary",
+      "132114|Jude|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Jude@Mat.13.55-Jud",
+      "Judas|Jude@Mat.13.55-Jud"
+    ],
+    "vizbible": [
+      "recX3d5AI72h6qGF9"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joseph.4",
+  "mother": "person:Mary",
+  "siblings": [
+    "person:Jesus.2",
+    "person:James.3",
+    "person:Joseph.3",
+    "person:Simon.3"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jude",
+      "alternate_labels": [
+        "Judas",
+        "Juda"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jude",
+          "article": "person:Jude",
+          "description": "A New Testament man, brother of Jesus, also called Judas, mentioned in Matthew 13:55 and Mark 6:3."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Judas.6"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40013055",
+    "41006003",
+    "65001001"
+  ],
+  "references": [
+    "40013055",
+    "41006003",
+    "65001001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40013055024"
+      ],
+      [
+        "n41006003016"
+      ],
+      [
+        "n65001001001"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n65001003010"
+      ],
+      [
+        "n65001004016"
+      ],
+      [
+        "n65001004027"
+      ],
+      [
+        "n65001017014"
+      ],
+      [
+        "n65001021011"
+      ],
+      [
+        "n65001025004"
+      ],
+      [
+        "n65001025010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n65001003004",
+        "n65001003005"
+      ],
+      [
+        "n65001003013",
+        "n65001003014"
+      ],
+      [
+        "n65001003016"
+      ],
+      [
+        "n65001005001"
+      ],
+      [
+        "n65001005004"
+      ]
+    ]
+  }
+}

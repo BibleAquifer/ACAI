@@ -1,0 +1,63 @@
+{
+  "id": "person:Imna",
+  "primary_id": "person:Imna",
+  "alternate_sources": {
+    "aquifer": [
+      "6008|Imna|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002958001001000"
+    ],
+    "tipnr": [
+      "Imna@1Ch.7.35"
+    ],
+    "vizbible": [
+      "rec3CORidzbPcPzM8"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hotham",
+  "siblings": [
+    "person:Zophah",
+    "person:Shelesh",
+    "person:Amal"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "002958001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Imna",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Imna",
+          "article": "person:Imna",
+          "description": "A man of the tribe of Asher during the divided kingdom, only mentioned in 1 Chronicles 7:35, son of Hotham."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִמְנָע"
+    ]
+  },
+  "key_references": [
+    "13007035"
+  ],
+  "references": [
+    "13007035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070350052"
+      ]
+    ]
+  }
+}

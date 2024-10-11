@@ -1,0 +1,175 @@
+{
+  "id": "realia:WovenOrKnittedMaterial",
+  "primary_id": "realia:WovenOrKnittedMaterial",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001658001001000",
+      "005645001001000",
+      "007668001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.5.3.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "001658001001000",
+    "005645001001000",
+    "007668001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Woven or Knitted Material",
+      "alternate_labels": [
+        "Woven Material",
+        "Weaving"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Woven or Knitted Material",
+          "article": "realia:WovenOrKnittedMaterial",
+          "description": "A type of cloth made by weaving or knitting threads together."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דַּלָּה",
+      "עֵרֶב",
+      "שְׁתִי"
+    ]
+  },
+  "key_references": [
+    "03013048",
+    "03013052",
+    "23038012"
+  ],
+  "references": [
+    "03013048",
+    "03013049",
+    "03013051",
+    "03013052",
+    "03013053",
+    "03013056",
+    "03013057",
+    "03013058",
+    "03013059",
+    "23038012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230380120102"
+      ],
+      [
+        "o030130480042"
+      ],
+      [
+        "o030130490122"
+      ],
+      [
+        "o030130510132"
+      ],
+      [
+        "o030130520092"
+      ],
+      [
+        "o030130530122"
+      ],
+      [
+        "o030130560222"
+      ],
+      [
+        "o030130570082"
+      ],
+      [
+        "o030130580052"
+      ],
+      [
+        "o030130590122"
+      ],
+      [
+        "o030130480022"
+      ],
+      [
+        "o030130490102"
+      ],
+      [
+        "o030130510112"
+      ],
+      [
+        "o030130520062"
+      ],
+      [
+        "o030130530102"
+      ],
+      [
+        "o030130560192"
+      ],
+      [
+        "o030130570062"
+      ],
+      [
+        "o030130580032"
+      ],
+      [
+        "o030130590102"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o030130520202"
+      ],
+      [
+        "o030130580132"
+      ],
+      [
+        "o030130590173"
+      ],
+      [
+        "o030130590193"
+      ],
+      [
+        "o030130520202"
+      ],
+      [
+        "o030130580132"
+      ],
+      [
+        "o030130590173"
+      ],
+      [
+        "o030130590193"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o030130520271"
+      ],
+      [
+        "o030130580152"
+      ],
+      [
+        "o030130580172"
+      ],
+      [
+        "o030130520271"
+      ],
+      [
+        "o030130580152"
+      ],
+      [
+        "o030130580172"
+      ]
+    ]
+  }
+}

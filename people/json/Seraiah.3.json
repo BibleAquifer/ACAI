@@ -1,0 +1,98 @@
+{
+  "id": "person:Seraiah.3",
+  "primary_id": "person:Seraiah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "8234|Seraiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007103001003000"
+    ],
+    "tipnr": [
+      "Seraiah@2Ki.25.23-Jer"
+    ],
+    "vizbible": [
+      "recz19cQczJ5uRvtM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Tanhumeth",
+  "ubsdbh": [
+    "007103001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seraiah (2 Kings 25:23)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seraiah (2 Kings 25:23)",
+          "article": "person:Seraiah.3",
+          "description": "Seraiah, mentioned in 2 Kings 25:23, was a man living during the time of the divided kingdom and the son of Tanhumeth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12025023",
+    "24040008"
+  ],
+  "references": [
+    "12025023",
+    "24040008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120250230232"
+      ],
+      [
+        "o240400080122"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o120250230301"
+      ],
+      [
+        "o240400080221"
+      ],
+      [
+        "o240400100112"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240400090111"
+      ],
+      [
+        "o240400090122"
+      ],
+      [
+        "o240400090141"
+      ],
+      [
+        "o240400090162"
+      ],
+      [
+        "o240400100121"
+      ],
+      [
+        "o240400100162"
+      ],
+      [
+        "o240400100182"
+      ],
+      [
+        "o240400100211"
+      ]
+    ]
+  }
+}

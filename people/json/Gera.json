@@ -1,0 +1,86 @@
+{
+  "id": "person:Gera",
+  "primary_id": "person:Gera",
+  "alternate_sources": {
+    "aquifer": [
+      "5426|Gera|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001482001001000",
+      "001482001002000"
+    ],
+    "tipnr": [
+      "Gera@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "reclLo36xBJ8COfhY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "offspring": [
+    "person:Ehud"
+  ],
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Rosh",
+    "person:Muppim",
+    "person:Huppim",
+    "person:Ard",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "001482001001000",
+    "001482001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gera",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gera",
+          "article": "person:Gera",
+          "description": "Gera, a man from the tribe of Benjamin living during the time of Egypt and the wilderness, was a son of Benjamin and the father of Ehud."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֵּרָא"
+    ]
+  },
+  "key_references": [
+    "01046021",
+    "07003015",
+    "13008005"
+  ],
+  "references": [
+    "01046021",
+    "07003015",
+    "13008005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460210061"
+      ],
+      [
+        "o070030150131"
+      ],
+      [
+        "o130080050012"
+      ]
+    ]
+  }
+}

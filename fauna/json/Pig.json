@@ -1,0 +1,205 @@
+{
+  "id": "fauna:Pig",
+  "primary_id": "fauna:Pig",
+  "alternate_sources": {
+    "aquifer": [
+      "7732|Pig|TyndaleBibleDictionary",
+      "26961|Pig|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "4.37",
+      "4.36"
+    ],
+    "ubsfauna": [
+      "fauna:2.30"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdgnt": [
+    "4.37",
+    "4.36"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pig",
+      "alternate_labels": [
+        "Sow",
+        "Hog"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pig",
+          "article": "fauna:Pig",
+          "description": "An animal that does not chew its food over and over again, eats both plants and animals. It is considered ceremonially unclean in the Bible and often seen as filthy and destructive."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "fauna:Boar"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὗς",
+      "χοῖρος"
+    ]
+  },
+  "key_references": [
+    "03011007",
+    "23066017",
+    "61002022"
+  ],
+  "references": [
+    "03011007",
+    "05014008",
+    "19080014",
+    "20011022",
+    "23065004",
+    "23066003",
+    "23066017",
+    "40007006",
+    "40008030",
+    "40008031",
+    "40008032",
+    "41005011",
+    "41005012",
+    "41005013",
+    "41005016",
+    "41016018",
+    "42008032",
+    "42008033",
+    "42015015",
+    "42015016",
+    "61002022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110070022"
+      ],
+      [
+        "o050140080022"
+      ],
+      [
+        "o200110220041"
+      ],
+      [
+        "o230650040072"
+      ],
+      [
+        "o230660030121"
+      ],
+      [
+        "o230660170112"
+      ],
+      [
+        "o190800140021"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n61002022014"
+      ],
+      [
+        "n40007006014"
+      ],
+      [
+        "n40008030007"
+      ],
+      [
+        "n40008031016"
+      ],
+      [
+        "n40008032011"
+      ],
+      [
+        "n41005011008"
+      ],
+      [
+        "n41005012009"
+      ],
+      [
+        "n41005013013"
+      ],
+      [
+        "n41005016013"
+      ],
+      [
+        "n42008032005"
+      ],
+      [
+        "n42008033011"
+      ],
+      [
+        "n42015015018"
+      ],
+      [
+        "n42015016013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o030110070061"
+      ],
+      [
+        "o030110070102"
+      ],
+      [
+        "o030110070151"
+      ],
+      [
+        "o030110080013"
+      ],
+      [
+        "o030110080044"
+      ],
+      [
+        "o030110080081"
+      ],
+      [
+        "o050140080061"
+      ],
+      [
+        "o050140080101"
+      ],
+      [
+        "o050140080123"
+      ],
+      [
+        "o050140080154"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40007006021"
+      ],
+      [
+        "n41005012012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o030110070072"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40007006016"
+      ],
+      [
+        "n40007006023"
+      ],
+      [
+        "n40007006024"
+      ]
+    ]
+  }
+}

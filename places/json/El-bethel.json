@@ -1,0 +1,70 @@
+{
+  "id": "place:El-bethel",
+  "primary_id": "place:Bethel",
+  "alternate_sources": {
+    "aquifer": [
+      "4971|El-Bethel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000382001008000"
+    ],
+    "tipnr": [
+      "El-bethel|Bethel@Gen.12.8-Zec"
+    ],
+    "vizbible": [
+      "rect9L2mkHh1K2Bka"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000382001008000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "El-bethel",
+      "alternate_labels": [
+        "El-bethel",
+        "El-beth-el",
+        "El Bethel",
+        "Bethel"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Bethel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "altar"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.93053920580005",
+      "lon": "35.22103274923676"
+    },
+    "vizbible": {
+      "lat": "31.93053920580005",
+      "lon": "35.22103274923676"
+    }
+  },
+  "key_references": [
+    "01035007"
+  ],
+  "references": [
+    "01035007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010350070061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "person:Seraiah.8",
+  "primary_id": "person:Seraiah.8",
+  "alternate_sources": {
+    "aquifer": [
+      "8234|Seraiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007103001010000"
+    ],
+    "tipnr": [
+      "Seraiah@Jer.51.59-"
+    ],
+    "vizbible": [
+      "rec1sGvoZThD9TSLb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Neriah",
+  "siblings": [
+    "person:Baruch.4"
+  ],
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "007103001010000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seraiah (Jeremiah 51:59)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seraiah (Jeremiah 51:59)",
+          "article": "person:Seraiah.8",
+          "description": "Seraiah, mentioned in Jeremiah 51:59, was a man living during the divided kingdom, the son of Neriah and brother of Baruch."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24051059",
+    "24051061"
+  ],
+  "references": [
+    "24051059",
+    "24051061"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240510590071"
+      ],
+      [
+        "o240510590212"
+      ],
+      [
+        "o240510610041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240510610072"
+      ],
+      [
+        "o240510610082"
+      ],
+      [
+        "o240510620012"
+      ],
+      [
+        "o240510630032"
+      ],
+      [
+        "o240510630071"
+      ],
+      [
+        "o240510630102"
+      ],
+      [
+        "o240510640012"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o240510620011",
+          "o240510620012",
+          "o240510620021",
+          "o240510620031",
+          "o240510620041",
+          "o240510620051",
+          "o240510620061",
+          "o240510620062",
+          "o240510620071",
+          "o240510620072",
+          "o240510620081",
+          "o240510620082",
+          "o240510620083",
+          "o240510620091",
+          "o240510620092",
+          "o240510620101",
+          "o240510620111",
+          "o240510620112",
+          "o240510620121",
+          "o240510620131",
+          "o240510620132",
+          "o240510620133",
+          "o240510620141",
+          "o240510620142",
+          "o240510620151",
+          "o240510620161",
+          "o240510620171",
+          "o240510620181",
+          "o240510620191"
+        ]
+      }
+    ]
+  }
+}

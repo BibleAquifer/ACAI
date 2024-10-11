@@ -1,0 +1,69 @@
+{
+  "id": "person:Ard.2",
+  "primary_id": "person:Ard.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3724|Ard, Ardite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ard@Num.26.40"
+    ],
+    "vizbible": [
+      "recmlWUWDW2zhOG09"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Bela",
+  "siblings": [
+    "person:Naaman.2",
+    "person:Ezbon.2",
+    "person:Uzzi.3",
+    "person:Uzziel.3",
+    "person:Jerimoth",
+    "person:Iri",
+    "person:Addar",
+    "person:Gera.3",
+    "person:Abihud",
+    "person:Abishua.2",
+    "person:Ahoah"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ard (Numbers 26:40)",
+      "alternate_labels": [
+        "Ardite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ard (Numbers 26:40)",
+          "article": "person:Ard.2",
+          "description": "A man of the tribe of Benjamin living during the time of Egypt and the wilderness, mentioned in Numbers 26:40."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Ard"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026040"
+  ],
+  "references": [
+    "04026040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260400041"
+      ],
+      [
+        "o040260400072"
+      ]
+    ]
+  }
+}

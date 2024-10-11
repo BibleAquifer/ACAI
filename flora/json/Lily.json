@@ -1,0 +1,118 @@
+{
+  "id": "flora:Lily",
+  "primary_id": "flora:Lily",
+  "alternate_sources": {
+    "aquifer": [
+      "6754|Lily|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007274001001000"
+    ],
+    "ubsflora": [
+      "flora:6.1.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Flowers, Thorns, and Weeds",
+  "ubsdbh": [
+    "007274001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lily",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lily",
+          "article": "flora:Lily",
+          "description": "Lily is a flowering plant with a stem that stands straight and long narrow leaves. It grows up to 1.5 meters high, with beautiful cone-shaped flowers."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שׁוּשַׁן"
+    ]
+  },
+  "key_references": [
+    "11007019",
+    "28014006"
+  ],
+  "references": [
+    "11007019",
+    "11007022",
+    "11007026",
+    "14004005",
+    "19045001",
+    "19060001",
+    "19069001",
+    "19080001",
+    "22002001",
+    "22002002",
+    "22002016",
+    "22004005",
+    "22005013",
+    "22006002",
+    "22006003",
+    "22007003",
+    "28014006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110070190071"
+      ],
+      [
+        "o110070220051"
+      ],
+      [
+        "o110070260081"
+      ],
+      [
+        "o140040050081"
+      ],
+      [
+        "o190450010031"
+      ],
+      [
+        "o190600010031"
+      ],
+      [
+        "o190690010031"
+      ],
+      [
+        "o190800010031"
+      ],
+      [
+        "o220020010041"
+      ],
+      [
+        "o220020020012"
+      ],
+      [
+        "o220020160062"
+      ],
+      [
+        "o220040050082"
+      ],
+      [
+        "o220050130071"
+      ],
+      [
+        "o220060020091"
+      ],
+      [
+        "o220060030062"
+      ],
+      [
+        "o220070030112"
+      ],
+      [
+        "o280140060052"
+      ]
+    ]
+  }
+}

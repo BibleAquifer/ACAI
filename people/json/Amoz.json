@@ -1,0 +1,111 @@
+{
+  "id": "person:Amoz",
+  "primary_id": "person:Amoz",
+  "alternate_sources": {
+    "aquifer": [
+      "3575|Amoz|TyndaleBibleDictionary",
+      "26314|Amoz|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "000488001001000"
+    ],
+    "tipnr": [
+      "Amoz@2Ki.19.2-Isa"
+    ],
+    "vizbible": [
+      "reclPYWgWZWK5ccsg"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Isaiah"
+  ],
+  "ubsdbh": [
+    "000488001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amoz",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Amoz",
+          "article": "person:Amoz",
+          "description": "The father of the Prophet Isaiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָמֹוץ",
+      "אָמוֹץ"
+    ]
+  },
+  "key_references": [
+    "12019002",
+    "12020001",
+    "23001001"
+  ],
+  "references": [
+    "12019002",
+    "12019020",
+    "12020001",
+    "14026022",
+    "14032020",
+    "14032032",
+    "23001001",
+    "23002001",
+    "23013001",
+    "23020002",
+    "23037002",
+    "23037021",
+    "23038001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120190020181"
+      ],
+      [
+        "o120190200041"
+      ],
+      [
+        "o120200010101"
+      ],
+      [
+        "o140260220091"
+      ],
+      [
+        "o140320200061"
+      ],
+      [
+        "o140320320101"
+      ],
+      [
+        "o230010010041"
+      ],
+      [
+        "o230020010061"
+      ],
+      [
+        "o230130010071"
+      ],
+      [
+        "o230200020081"
+      ],
+      [
+        "o230370020181"
+      ],
+      [
+        "o230370210041"
+      ],
+      [
+        "o230380010101"
+      ]
+    ]
+  }
+}

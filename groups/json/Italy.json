@@ -1,0 +1,54 @@
+{
+  "id": "group:Italy",
+  "primary_id": "group:Italy",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.490"
+    ],
+    "tipnr": [
+      "Italy@Act.18.2-Heb"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Italy",
+  "ubsdgnt": [
+    "93.490"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Italians",
+      "alternate_labels": [
+        "Italy"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Italians",
+          "article": "group:Italy",
+          "description": "People who live in Italy."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰταλικός"
+    ]
+  },
+  "key_references": [
+    "44010001"
+  ],
+  "references": [
+    "44010001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44010001013"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "group:Ludim",
+  "primary_id": "group:Ludim",
+  "alternate_sources": {
+    "aquifer": [
+      "6791|Lud, Ludim, Ludites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003536001001000"
+    ],
+    "tipnr": [
+      "Ludim|Lud@Gen.10.22-Ezk"
+    ],
+    "vizbible": [
+      "recHxtSJye0RKVzdJ"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Lud",
+  "ubsdbh": [
+    "003536001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ludim",
+      "alternate_labels": [
+        "Ludiim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ludim",
+          "article": "group:Ludim",
+          "description": "People descended from Lud."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010013",
+    "13001011"
+  ],
+  "references": [
+    "01010013",
+    "13001011",
+    "24046009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100130041"
+      ],
+      [
+        "o130010110051"
+      ],
+      [
+        "o240460090112"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240460090121",
+        "o240460090131"
+      ]
+    ]
+  }
+}

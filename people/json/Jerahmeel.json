@@ -1,0 +1,104 @@
+{
+  "id": "person:Jerahmeel",
+  "primary_id": "person:Jerahmeel",
+  "alternate_sources": {
+    "aquifer": [
+      "6309|Jerahmeel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jerahmeel@1Sa.27.10-1Ch"
+    ],
+    "vizbible": [
+      "rechPvKgcyi0fufSH"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hezron.2",
+  "mother": "person:AWifeOfHezron",
+  "partners": [
+    "person:Atarah",
+    "person:WifeOfJerahmeel"
+  ],
+  "offspring": [
+    "person:Ram.2",
+    "person:Bunah",
+    "person:Oren",
+    "person:Ozem.2",
+    "person:Ahijah.4",
+    "person:Onam.2"
+  ],
+  "siblings": [
+    "person:Ram",
+    "person:Caleb.2",
+    "person:Segub.2",
+    "person:Ashhur"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jerahmeel",
+      "alternate_labels": [
+        "Jerahmeelite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jerahmeel",
+          "article": "person:Jerahmeel",
+          "description": "First-born son of Hezron from the tribe of Judah and parent to several children. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Jerahmeel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09027010",
+    "09030029",
+    "13002009",
+    "13002025",
+    "13002026"
+  ],
+  "references": [
+    "09027010",
+    "09030029",
+    "13002009",
+    "13002025",
+    "13002026",
+    "13002027",
+    "13002033",
+    "13002042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090270100132"
+      ],
+      [
+        "o090300290052"
+      ],
+      [
+        "o130020090071"
+      ],
+      [
+        "o130020250031"
+      ],
+      [
+        "o130020260042"
+      ],
+      [
+        "o130020270051"
+      ],
+      [
+        "o130020330081"
+      ],
+      [
+        "o130020420041"
+      ]
+    ]
+  }
+}

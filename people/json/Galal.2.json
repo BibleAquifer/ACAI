@@ -1,0 +1,66 @@
+{
+  "id": "person:Galal.2",
+  "primary_id": "person:Galal.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5348|Galal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001429002002000"
+    ],
+    "tipnr": [
+      "Galal@1Ch.9.16-Neh"
+    ],
+    "vizbible": [
+      "rec6549eH7eBMJWpa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jeduthun.2",
+  "offspring": [
+    "person:Shemaiah.6"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "001429002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Galal (1 Chronicles 9:16)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Galal (1 Chronicles 9:16)",
+          "article": "person:Galal.2",
+          "description": "Galal, a Levite living at the time of exile and return, is the son of Jeduthun and father of Shemaiah, mentioned in 1 Chronicles 9:16."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גָּלָל"
+    ]
+  },
+  "key_references": [
+    "13009016",
+    "16011017"
+  ],
+  "references": [
+    "13009016",
+    "16011017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090160051"
+      ],
+      [
+        "o160110170191"
+      ]
+    ]
+  }
+}

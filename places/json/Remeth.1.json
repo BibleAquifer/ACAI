@@ -1,0 +1,40 @@
+{
+  "id": "place:Remeth.1",
+  "primary_id": "place:Remeth.1",
+  "alternate_sources": {
+    "aquifer": [
+      "7992|Remeth|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Remeth.1",
+          "gloss": "Remeth",
+          "description": "A town in the territory of Issachar."
+        }
+      ],
+      "preferred_label": "Remeth"
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "06019021"
+  ]
+}

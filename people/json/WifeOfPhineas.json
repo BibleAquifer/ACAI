@@ -1,0 +1,76 @@
+{
+  "id": "person:WifeOfPhineas",
+  "primary_id": "person:WifeOfPhineas",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wife of Phineas",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wife of Phineas",
+          "description": "The wife of Phineas the priest, also the daughter-in-law of Eli the priest."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09004019",
+    "09004021",
+    "09004019",
+    "09004022"
+  ],
+  "references": [
+    "09004019",
+    "09004021",
+    "09004019",
+    "09004022"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090040190012"
+      ],
+      [
+        "o090040210012"
+      ],
+      [
+        "o090040190012"
+      ],
+      [
+        "o090040220012"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "delivery": "mourning",
+        "quote_type": "Normal",
+        "words": [
+          "o090040210051",
+          "o090040210052",
+          "o090040210061",
+          "o090040210071"
+        ]
+      },
+      {
+        "delivery": "mourning",
+        "quote_type": "Normal",
+        "words": [
+          "o090040220021",
+          "o090040220031",
+          "o090040220041",
+          "o090040220042",
+          "o090040220051",
+          "o090040220061",
+          "o090040220071",
+          "o090040220081",
+          "o090040220082"
+        ]
+      }
+    ]
+  }
+}

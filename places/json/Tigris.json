@@ -1,0 +1,107 @@
+{
+  "id": "place:Tigris",
+  "primary_id": "place:Tigris",
+  "alternate_sources": {
+    "aquifer": [
+      "8838|Tigris River|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a38ebfd"
+    ],
+    "ubsdbh": [
+      "002139001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/912964",
+      "http://pleiades.stoa.org/places/874545"
+    ],
+    "tipnr": [
+      "Tigris@Gen.2.14-Dan"
+    ],
+    "vizbible": [
+      "rec2XOUoZFY6AaNQ4"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q35591"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002139001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tigris River",
+      "alternate_labels": [
+        "Hiddekel",
+        "Tigris"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tigris",
+          "gloss": "Tigris River",
+          "description": "A large body of flowing water in Mesopotamia; one of the four rivers that flowed out of the river from the Garden of Eden."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חִדֶּקֶל",
+      "חִדֶּ֫קֶל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.983343",
+      "lon": "43.346466"
+    },
+    "recogito": {
+      "lat": "37.8488001",
+      "lon": "41.97437877"
+    },
+    "vizbible": {
+      "lat": "35.983343",
+      "lon": "43.346466"
+    }
+  },
+  "key_references": [
+    "27010004",
+    "01002014"
+  ],
+  "references": [
+    "01002014",
+    "27010004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010020140041"
+      ],
+      [
+        "o270100040131"
+      ]
+    ]
+  }
+}

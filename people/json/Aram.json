@@ -1,0 +1,91 @@
+{
+  "id": "person:Aram",
+  "primary_id": "person:Aram",
+  "alternate_sources": {
+    "aquifer": [
+      "3700|Aram (Person)|TyndaleBibleDictionary",
+      "26329|Aram|UWTranslationWords",
+      "132380|Aram|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000695001001000",
+      "000695001002000"
+    ],
+    "tipnr": [
+      "Aram@Gen.10.22-1Ch"
+    ],
+    "vizbible": [
+      "recT8u51EoS9dm05Q"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shem",
+  "offspring": [
+    "person:Uz",
+    "person:Hul",
+    "person:Gether",
+    "person:Mash"
+  ],
+  "siblings": [
+    "person:Asshur",
+    "person:Elam.2",
+    "person:Arpachshad",
+    "person:Lud"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "000695001001000",
+    "000695001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aram",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aram",
+          "article": "person:Aram",
+          "description": "Son of Shem and grandson of Noah. He was regarded as the founder of the ethnic group and land named Aram. The land of Aram is referred to as Syria (See Genesis 28:6 in the LXX)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲרָם"
+    ]
+  },
+  "key_references": [
+    "01010022",
+    "01010023",
+    "13001017"
+  ],
+  "references": [
+    "01010022",
+    "01010023",
+    "13001017",
+    "13002023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100220072"
+      ],
+      [
+        "o010100230021"
+      ],
+      [
+        "o130010170072"
+      ],
+      [
+        "o130020230032"
+      ]
+    ]
+  }
+}

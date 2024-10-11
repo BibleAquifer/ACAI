@@ -1,0 +1,40 @@
+{
+  "id": "place:Gades",
+  "primary_id": "place:Gades",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gades",
+          "gloss": "Gades",
+          "description": "A city in Spain on the southwest Iberian Peninsula; modern-day Cádiz."
+        }
+      ],
+      "preferred_label": "Gades",
+      "alternate_labels": [
+        "Gadeira",
+        "Augusta Urbs Iulia Gaditana",
+        "Qadis"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "36.52864",
+      "lon": "-6.29296"
+    }
+  }
+}

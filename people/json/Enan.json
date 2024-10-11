@@ -1,0 +1,76 @@
+{
+  "id": "person:Enan",
+  "primary_id": "person:Enan",
+  "alternate_sources": {
+    "aquifer": [
+      "5075|Enan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005406001001000"
+    ],
+    "tipnr": [
+      "Enan@Num.1.15-"
+    ],
+    "vizbible": [
+      "rechXUhjuYlQv2MV5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ahira"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "ubsdbh": [
+    "005406001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Enan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Enan",
+          "article": "person:Enan",
+          "description": "Father of Ahira, who was chief of the tribe of Napthali during the time of the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04001015",
+    "04002029",
+    "04010027"
+  ],
+  "references": [
+    "04001015",
+    "04002029",
+    "04007078",
+    "04007083",
+    "04010027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010150041"
+      ],
+      [
+        "o040020290081"
+      ],
+      [
+        "o040070780101"
+      ],
+      [
+        "o040070830171"
+      ],
+      [
+        "o040100270081"
+      ]
+    ]
+  }
+}

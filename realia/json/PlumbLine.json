@@ -1,0 +1,86 @@
+{
+  "id": "realia:PlumbLine",
+  "primary_id": "realia:PlumbLine",
+  "alternate_sources": {
+    "aquifer": [
+      "7765|Plumb Line, Plummet|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000544001001000",
+      "000847001002000",
+      "004537001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.8.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "000544001001000",
+    "000847001002000",
+    "004537001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Plumb Line",
+      "alternate_labels": [
+        "Tin Weight > Plumb Line"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Plumb Line",
+          "article": "realia:PlumbLine",
+          "description": "A weight on a string used by builders to check if walls are straight."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲנָךְ",
+      "בְּדִיל",
+      "מִשְׁקֶלֶת"
+    ]
+  },
+  "key_references": [
+    "12021013",
+    "30007007",
+    "30007008"
+  ],
+  "references": [
+    "12021013",
+    "23028017",
+    "30007007",
+    "30007008",
+    "38004010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o300070070081"
+      ],
+      [
+        "o300070070101"
+      ],
+      [
+        "o300070080091"
+      ],
+      [
+        "o300070080141"
+      ],
+      [
+        "o380040100102"
+      ],
+      [
+        "o120210130081"
+      ],
+      [
+        "o230280170052"
+      ]
+    ]
+  }
+}

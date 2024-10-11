@@ -1,0 +1,109 @@
+{
+  "id": "person:Zebedee",
+  "primary_id": "person:Zebedee",
+  "alternate_sources": {
+    "aquifer": [
+      "9156|Zebedee|TyndaleBibleDictionary",
+      "27225|Zebedee|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.137"
+    ],
+    "tipnr": [
+      "Zebedee@Mat.4.21-Jhn"
+    ],
+    "vizbible": [
+      "rectvs8PWInJwhM9K"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:WifeOfZebedee"
+  ],
+  "offspring": [
+    "person:James",
+    "person:John.2"
+  ],
+  "ubsdgnt": [
+    "93.137"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zebedee",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zebedee",
+          "article": "person:Zebedee",
+          "description": "Zebedee was the father of the apostles James and John, living during the New Testament period."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ζεβεδαῖος"
+    ]
+  },
+  "key_references": [
+    "40004021",
+    "40027056",
+    "41001019"
+  ],
+  "references": [
+    "40004021",
+    "40010002",
+    "40020020",
+    "40026037",
+    "40027056",
+    "41001019",
+    "41001020",
+    "41003017",
+    "41010035",
+    "42005010",
+    "43021002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40004021011"
+      ],
+      [
+        "n40004021021"
+      ],
+      [
+        "n40010002022"
+      ],
+      [
+        "n40020020008"
+      ],
+      [
+        "n40026037009"
+      ],
+      [
+        "n40027056020"
+      ],
+      [
+        "n41001019008"
+      ],
+      [
+        "n41001020010"
+      ],
+      [
+        "n41003017005"
+      ],
+      [
+        "n41010035009"
+      ],
+      [
+        "n42005010008"
+      ],
+      [
+        "n43021002020"
+      ]
+    ]
+  }
+}

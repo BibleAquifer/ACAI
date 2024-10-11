@@ -1,0 +1,70 @@
+{
+  "id": "place:Karnaim",
+  "primary_id": "place:Ashteroth-karnaim",
+  "alternate_sources": {
+    "aquifer": [
+      "6523|Karnaim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006594001001000"
+    ],
+    "tipnr": [
+      "Karnaim|Ashteroth-karnaim@Gen.14.5-Amo"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006594001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Karnaim",
+      "alternate_labels": [
+        "Ashteroth-Karnaim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Karnaim",
+          "gloss": "Karnaim",
+          "description": "A town in Bashan; possibly to be identified with Beeshterah, Ashtaroth, and Ashteroth-Karnaim."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Beeshterah",
+    "place:Ashtaroth",
+    "place:Ashteroth-karnaim"
+  ],
+  "referred_to_as": [
+    "place:Ashteroth-karnaim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "30006013"
+  ],
+  "references": [
+    "30006013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o300060130091"
+      ]
+    ]
+  }
+}

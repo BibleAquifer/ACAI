@@ -1,0 +1,103 @@
+{
+  "id": "person:Abiezer",
+  "primary_id": "person:Abiezer",
+  "alternate_sources": {
+    "aquifer": [
+      "3294|Abiezer|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Iezer|Abiezer@Num.26.30-Jdg",
+      "Abiezer@Num.26.30-Jdg"
+    ],
+    "vizbible": [
+      "rece9Qep7oMQHf1WS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gilead",
+  "siblings": [
+    "person:Helek",
+    "person:Asriel",
+    "person:Shechem.2",
+    "person:Shemida",
+    "person:Hepher"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Manasseh",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abiezer",
+      "alternate_labels": [
+        "Iezer",
+        "Abiezrite",
+        "Jeezer",
+        "Iezerite",
+        "Jeezerites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abiezer",
+          "article": "person:Abiezer",
+          "description": "Descendant of Manasseh, and the leader of one of the clans that settled west of the Jordan River."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Iezer",
+    "group:Abiezer",
+    "group:Iezer"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026030",
+    "06017002",
+    "07006011",
+    "07008002"
+  ],
+  "references": [
+    "04026030",
+    "06017002",
+    "07006011",
+    "07006024",
+    "07006034",
+    "07008002",
+    "07008032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260300041"
+      ],
+      [
+        "o040260300062"
+      ],
+      [
+        "o060170020071"
+      ],
+      [
+        "o070060110111",
+        "o070060110121"
+      ],
+      [
+        "o070060240151",
+        "o070060240161"
+      ],
+      [
+        "o070060340091"
+      ],
+      [
+        "o070080020121"
+      ],
+      [
+        "o070080320121",
+        "o070080320131"
+      ]
+    ]
+  }
+}

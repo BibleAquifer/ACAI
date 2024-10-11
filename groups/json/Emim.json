@@ -1,0 +1,65 @@
+{
+  "id": "group:Emim",
+  "primary_id": "group:Emim",
+  "alternate_sources": {
+    "aquifer": [
+      "5070|Emim, Emites|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Emim@Gen.14.5-Deu"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Emim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Emim",
+          "article": "group:Emim",
+          "description": "People who inhabited Moab. They were known as giants."
+        }
+      ],
+      "alternate_labels": [
+        "Emites"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Rephaim"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01014005",
+    "05002010",
+    "05002011"
+  ],
+  "references": [
+    "01014005",
+    "05002010",
+    "05002011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140050182"
+      ],
+      [
+        "o050020100012"
+      ],
+      [
+        "o050020110091"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o050020110041"
+      ]
+    ]
+  }
+}

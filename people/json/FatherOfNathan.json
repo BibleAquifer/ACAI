@@ -1,0 +1,42 @@
+{
+  "id": "person:FatherOfNathan",
+  "primary_id": "person:FatherOfNathan",
+  "alternate_sources": {
+    "tipnr": [
+      "father_of_Nathan@1Ch.11.38"
+    ],
+    "vizbible": [
+      "recydePOGrRUHWCHh"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Nathan.3",
+    "person:Joel.7"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Father of Nathan",
+      "alternate_labels": [
+        "Nathan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Father of Nathan",
+          "article": "person:FatherOfNathan",
+          "description": "The Father of Nathan is an unnamed man from the united kingdom period, recognized as the father of Nathan and Joel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13011038"
+  ],
+  "references": [
+    "13011038"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "realia:Water-tunnel",
+  "primary_id": "realia:Water-tunnel",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006251001001000"
+    ],
+    "ubsrealia": [
+      "realia:3.11"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006251001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Water-Tunnel",
+      "alternate_labels": [
+        "Conduit"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Water-Tunnel",
+          "article": "realia:Water-tunnel",
+          "description": "A channel cut in rock to bring water from a spring into a city."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צִנֹּור"
+    ]
+  },
+  "key_references": [
+    "10005008"
+  ],
+  "references": [
+    "10005008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100050080092"
+      ]
+    ]
+  }
+}

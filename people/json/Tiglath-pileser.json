@@ -1,0 +1,136 @@
+{
+  "id": "person:Tiglath-pileser",
+  "primary_id": "person:Tiglath-pileser",
+  "alternate_sources": {
+    "aquifer": [
+      "8837|Tiglath-Pileser|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Pul|Tiglath-pileser@2Ki.15.19-Hos",
+      "Tiglath-pileser@2Ki.15.19-Hos",
+      "great|Tiglath-pileser@2Ki.15.19-Hos"
+    ],
+    "vizbible": [
+      "reck8CctXspLk0VZZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Emperor",
+    "King"
+  ],
+  "tribe": "group:Assyria",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tiglath-pileser",
+      "alternate_labels": [
+        "Pul",
+        "Jareb",
+        "great",
+        "Tilgath-pilneser"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tiglath-Pileser",
+          "article": "person:Tiglath-pileser",
+          "description": "An Assyrian king who took captive much the northern kingdom of Israel during the time of King Pekah of Israel and King Ahaz of Judah. He also protected Judah from Syrian and Israelite attacks."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Great",
+    "person:Pul"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12015029",
+    "12016007",
+    "13005026"
+  ],
+  "references": [
+    "12015019",
+    "12015029",
+    "12016007",
+    "12016010",
+    "13005006",
+    "13005026",
+    "14028020",
+    "28005013",
+    "28010006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120150190021"
+      ],
+      [
+        "o120150190092"
+      ],
+      [
+        "o120150290061",
+        "o120150290071"
+      ],
+      [
+        "o120160070051",
+        "o120160070061"
+      ],
+      [
+        "o120160100051",
+        "o120160100061"
+      ],
+      [
+        "o130050060051",
+        "o130050060061"
+      ],
+      [
+        "o130050260061"
+      ],
+      [
+        "o130050260111",
+        "o130050260121"
+      ],
+      [
+        "o140280200031",
+        "o140280200041"
+      ],
+      [
+        "o280050130151"
+      ],
+      [
+        "o280100060071"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120150290102"
+      ],
+      [
+        "o120150290302"
+      ],
+      [
+        "o120160070131"
+      ],
+      [
+        "o120160070142"
+      ],
+      [
+        "o130050260152"
+      ],
+      [
+        "o130050260212"
+      ],
+      [
+        "o140280200072"
+      ],
+      [
+        "o140280200101"
+      ]
+    ]
+  }
+}

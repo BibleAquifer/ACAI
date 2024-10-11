@@ -1,0 +1,105 @@
+{
+  "id": "place:Ebenezer",
+  "primary_id": "place:Ebenezer",
+  "alternate_sources": {
+    "aquifer": [
+      "4926|Ebenezer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000070001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4670074"
+    ],
+    "tipnr": [
+      "Ebenezer@1Sa.4.1-"
+    ],
+    "vizbible": [
+      "recpk7ZvL6JuKqCqA"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000070001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ebenezer (Place)",
+      "alternate_labels": [
+        "Eben-Ezer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ebenezer.1",
+          "gloss": "Ebenezer (Place)",
+          "description": "A location near Aphek where the Israelites encamped before battling the Philistines (1 Samuel 4:1)."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Ebenezer.2"
+  ],
+  "nearby_places": [
+    "place:Aphek"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶבֶן הָעֵזֶר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.83273947023218",
+      "lon": "35.1801628605877"
+    },
+    "recogito": {
+      "lat": "26.18369",
+      "lon": "-98.12306"
+    },
+    "vizbible": {
+      "lat": "31.83273947023218",
+      "lon": "35.1801628605877"
+    }
+  },
+  "key_references": [
+    "09005001",
+    "09004001"
+  ],
+  "references": [
+    "09004001",
+    "09005001",
+    "09007012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090040010132",
+        "o090040010141"
+      ],
+      [
+        "o090050010072",
+        "o090050010081"
+      ],
+      [
+        "o090070120131",
+        "o090070120141"
+      ]
+    ]
+  }
+}

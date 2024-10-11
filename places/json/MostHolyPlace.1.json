@@ -1,0 +1,38 @@
+{
+  "id": "place:MostHolyPlace.1",
+  "primary_id": "place:MostHolyPlace.1",
+  "alternate_sources": {
+    "aquifer": [
+      "7217|Most Holy Place|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MostHolyPlace.1",
+          "gloss": "Most Holy Place (of the Tabernacle)",
+          "description": "The innermost room at the back of the tabernacle; location of the ark of the covenant; regarded as the holiest place."
+        }
+      ],
+      "preferred_label": "Most Holy Place (of the Tabernacle)"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "structure"
+    ]
+  },
+  "key_references": [
+    "02026033",
+    "02026034"
+  ]
+}

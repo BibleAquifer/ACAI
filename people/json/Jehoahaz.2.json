@@ -1,0 +1,130 @@
+{
+  "id": "person:Jehoahaz.2",
+  "primary_id": "person:Jehoahaz.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6273|Jehoahaz|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jehoahaz@2Ki.10.35-2Ch"
+    ],
+    "vizbible": [
+      "recwbEMJCh71vCprI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehu.2",
+  "offspring": [
+    "person:Joash.4"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Israel",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehoahaz",
+      "alternate_labels": [
+        "Joahaz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoahaz",
+          "article": "person:Jehoahaz.2",
+          "description": "A king of the northern kingdom of Israel during the divided kingdom. He was a son of Jehu and father of Joash."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12013001",
+    "12013004",
+    "12013009",
+    "12014001"
+  ],
+  "references": [
+    "12010035",
+    "12013001",
+    "12013004",
+    "12013007",
+    "12013008",
+    "12013009",
+    "12013010",
+    "12013022",
+    "12013025",
+    "12014001",
+    "12014008",
+    "12014017",
+    "14025017",
+    "14025025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120100350091"
+      ],
+      [
+        "o120130010111"
+      ],
+      [
+        "o120130040021"
+      ],
+      [
+        "o120130070042"
+      ],
+      [
+        "o120130080031"
+      ],
+      [
+        "o120130090021"
+      ],
+      [
+        "o120130100111"
+      ],
+      [
+        "o120130220091"
+      ],
+      [
+        "o120130250041"
+      ],
+      [
+        "o120130250161"
+      ],
+      [
+        "o120140010051"
+      ],
+      [
+        "o120140080081"
+      ],
+      [
+        "o120140170111"
+      ],
+      [
+        "o140250170091"
+      ],
+      [
+        "o140250250111"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120130020012"
+      ],
+      [
+        "o120130020052"
+      ],
+      [
+        "o120130020161"
+      ],
+      [
+        "o120130080061"
+      ]
+    ]
+  }
+}

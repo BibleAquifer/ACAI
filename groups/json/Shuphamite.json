@@ -1,0 +1,53 @@
+{
+  "id": "group:Shuphamite",
+  "primary_id": "group:Shuphamite",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007263001001000"
+    ],
+    "tipnr": [
+      "Shuphamite|Muppim@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "recO7nRQUb3uEFk6i"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Muppim",
+  "ubsdbh": [
+    "007263001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shuphamites",
+      "alternate_labels": [
+        "Muppim",
+        "Shupham"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shuphamites",
+          "article": "group:Shuphamite",
+          "description": "People descended from Muppim, also known as Shephupham, of the tribe of Benjamin."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026039"
+  ],
+  "references": [
+    "04026039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260390032"
+      ]
+    ]
+  }
+}

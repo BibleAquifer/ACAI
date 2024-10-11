@@ -1,0 +1,179 @@
+{
+  "id": "place:Shephelah",
+  "primary_id": "place:Shephelah",
+  "alternate_sources": {
+    "aquifer": [
+      "8365|Shephelah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af084cf"
+    ],
+    "ubsdbh": [
+      "007584001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/688026",
+      "http://pleiades.stoa.org/places/688026"
+    ],
+    "tipnr": [
+      "Shephelah@Deu.1.7-Zec"
+    ],
+    "vizbible": [
+      "recc5WQixfPBowmwE"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2066007"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007584001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shephelah",
+      "alternate_labels": [
+        "plain",
+        "foothills of Judah",
+        "Judean foothills",
+        "Lowland",
+        "foothills"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shephelah",
+          "gloss": "Shephelah",
+          "description": "The area between the hill country and the coastal plain, which consists of foothills; literally \"the lowland,\" named thus by the Israelites who occupied the hill country; known for its olive trees and sycamore trees."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.77761410537458",
+      "lon": "34.85214575880509"
+    },
+    "recogito": {
+      "lat": "31.75",
+      "lon": "34.75"
+    },
+    "vizbible": {
+      "lat": "31.75",
+      "lon": "34.75"
+    }
+  },
+  "key_references": [
+    "14028018",
+    "11010027"
+  ],
+  "references": [
+    "05001007",
+    "06009001",
+    "06010040",
+    "06011002",
+    "06011016",
+    "06012008",
+    "06015033",
+    "07001009",
+    "11010027",
+    "13027028",
+    "14001015",
+    "14009027",
+    "14026010",
+    "14028018",
+    "24017026",
+    "24032044",
+    "24033013",
+    "31001019",
+    "38007007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050010070123"
+      ],
+      [
+        "o060090010093"
+      ],
+      [
+        "o060100400083"
+      ],
+      [
+        "o060110020093"
+      ],
+      [
+        "o060110160162"
+      ],
+      [
+        "o060110160222"
+      ],
+      [
+        "o060120080023"
+      ],
+      [
+        "o060150330012"
+      ],
+      [
+        "o070010090103"
+      ],
+      [
+        "o110100270122"
+      ],
+      [
+        "o130270280052"
+      ],
+      [
+        "o140010150142"
+      ],
+      [
+        "o140090270122"
+      ],
+      [
+        "o140260100123"
+      ],
+      [
+        "o140280180042"
+      ],
+      [
+        "o240170260092"
+      ],
+      [
+        "o240320440182"
+      ],
+      [
+        "o240330130042"
+      ],
+      [
+        "o310010190063"
+      ],
+      [
+        "o380070070173"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o310010190092"
+      ]
+    ]
+  }
+}

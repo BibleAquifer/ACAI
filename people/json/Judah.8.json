@@ -1,0 +1,70 @@
+{
+  "id": "person:Judah.8",
+  "primary_id": "person:Judah.8",
+  "alternate_sources": {
+    "aquifer": [
+      "6476|Judah (Person)|TyndaleBibleDictionary",
+      "6477|Judah, Tribe of|TyndaleBibleDictionary",
+      "26782|Judah|UWTranslationWords",
+      "132237|Judah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002819001006000"
+    ],
+    "tipnr": [
+      "Judah@Neh.12.36"
+    ],
+    "vizbible": [
+      "rec6Y8VNONArxkkJZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jonathan.12",
+  "siblings": [
+    "person:Zechariah.28",
+    "person:Shemaiah.22",
+    "person:Azarel.5",
+    "person:Milalai",
+    "person:Gilalai",
+    "person:Maai",
+    "person:Nethanel.10",
+    "person:Hanani.5"
+  ],
+  "ubsdbh": [
+    "002819001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Judah (Nehemiah 12:36)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Judah (Nehemiah 12:36)",
+          "article": "person:Judah.8",
+          "description": "A priest and trumpeter who participated in the dedication of the post-exilic temple, mentioned in Nehemiah 12:36."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהוּדָה"
+    ]
+  },
+  "key_references": [
+    "16012036"
+  ],
+  "references": [
+    "16012036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160120360082"
+      ]
+    ]
+  }
+}

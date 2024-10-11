@@ -1,0 +1,58 @@
+{
+  "id": "fauna:Hoopoe",
+  "primary_id": "fauna:Hoopoe",
+  "alternate_sources": {
+    "aquifer": [
+      "5893|Hoopoe|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001603001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.12"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "001603001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hoopoe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hoopoe",
+          "article": "fauna:Hoopoe",
+          "description": "A bird with a crown of feathers, black and white wings, and a curved beak that eats insects; it was considered ceremonially unclean to eat."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דּוּכִיפַת"
+    ]
+  },
+  "key_references": [
+    "03011019",
+    "05014018"
+  ],
+  "references": [
+    "03011019",
+    "05014018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110190062"
+      ],
+      [
+        "o050140180043"
+      ]
+    ]
+  }
+}

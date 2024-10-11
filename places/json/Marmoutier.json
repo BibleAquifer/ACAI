@@ -1,0 +1,35 @@
+{
+  "id": "place:Marmoutier",
+  "primary_id": "place:Marmoutier",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Marmoutier",
+          "gloss": "Marmoutier",
+          "description": "A town in northeastern France where Marmoutier Abbey is located."
+        }
+      ],
+      "preferred_label": "Marmoutier"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "48.6899",
+      "lon": "7.38167"
+    }
+  }
+}

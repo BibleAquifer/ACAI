@@ -1,0 +1,150 @@
+{
+  "id": "group:Mede",
+  "primary_id": "group:Mede",
+  "alternate_sources": {
+    "aquifer": [
+      "7009|Medes, Media, Median|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003727001002000"
+    ],
+    "tipnr": [
+      "Mede|Medan@Gen.25.2-Act"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Medan",
+  "ubsdbh": [
+    "003727001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Medes",
+      "alternate_labels": [
+        "Medan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Medes",
+          "article": "group:Mede",
+          "description": "People who live in the region of Media. The home of Darius (Daniel 11:1) who conquered Babylon."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "arc": [
+      "מָדַי"
+    ]
+  },
+  "key_references": [
+    "27005031",
+    "12017006"
+  ],
+  "references": [
+    "12017006",
+    "12018011",
+    "17001019",
+    "23013017",
+    "24051011",
+    "24051028",
+    "27005028",
+    "27006001",
+    "27006009",
+    "27006013",
+    "27006016",
+    "27009001",
+    "27011001",
+    "44002009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120170060201"
+      ],
+      [
+        "o120180110131"
+      ],
+      [
+        "o170010190122"
+      ],
+      [
+        "o230130170051"
+      ],
+      [
+        "o240510110101"
+      ],
+      [
+        "o240510280061"
+      ],
+      [
+        "o270050280052"
+      ],
+      [
+        "o270060010021"
+      ],
+      [
+        "o270060090111"
+      ],
+      [
+        "o270060130361"
+      ],
+      [
+        "o270060160132"
+      ],
+      [
+        "o270090010071"
+      ],
+      [
+        "o270110010052"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44002009003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44002011012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230130170091"
+      ],
+      [
+        "o230130170121"
+      ],
+      [
+        "o230130180071"
+      ],
+      [
+        "o240510110011"
+      ],
+      [
+        "o240510110031"
+      ],
+      [
+        "o240510120041"
+      ],
+      [
+        "o240510120061"
+      ],
+      [
+        "o240510120081"
+      ],
+      [
+        "o240510120101"
+      ]
+    ]
+  }
+}

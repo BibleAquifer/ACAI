@@ -1,0 +1,101 @@
+{
+  "id": "person:Jonathan.13",
+  "primary_id": "person:Jonathan.13",
+  "alternate_sources": {
+    "aquifer": [
+      "6432|Jonathan|TyndaleBibleDictionary",
+      "26772|Jonathan|UWTranslationWords",
+      "132403|Jonathan|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002832001011000"
+    ],
+    "tipnr": [
+      "Jonathan@Jer.40.8"
+    ],
+    "vizbible": [
+      "recyoJTtPJ09QRF38"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kareah",
+  "siblings": [
+    "person:Johanan.5"
+  ],
+  "ubsdbh": [
+    "002832001011000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jonathan (Jeremiah 40:8)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jonathan (Jeremiah 40:8)",
+          "article": "person:Jonathan.13",
+          "description": "A man living at the time of the divided kingdom, son of Kareah and brother of Johanan, mentioned in Jeremiah 40:8."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹונָתָן",
+      "יוֹנָתָן"
+    ]
+  },
+  "key_references": [
+    "24040008"
+  ],
+  "references": [
+    "24040008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240400080092"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o240400080221"
+      ],
+      [
+        "o240400100112"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240400090111"
+      ],
+      [
+        "o240400090122"
+      ],
+      [
+        "o240400090141"
+      ],
+      [
+        "o240400090162"
+      ],
+      [
+        "o240400100121"
+      ],
+      [
+        "o240400100162"
+      ],
+      [
+        "o240400100182"
+      ],
+      [
+        "o240400100211"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "group:Geshur",
+  "primary_id": "group:Geshur",
+  "alternate_sources": {
+    "aquifer": [
+      "5435|Geshur, Geshurites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001516001001000",
+      "001516001002000"
+    ],
+    "tipnr": [
+      "Geshur@Jos.13.13-1Ch"
+    ],
+    "vizbible": [
+      "recLcEDJ7slqAoeKw"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Geshur",
+  "ubsdbh": [
+    "001516001001000",
+    "001516001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Geshurites",
+      "alternate_labels": [
+        "Geshur",
+        "Geshurites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Geshurites",
+          "article": "group:Geshur",
+          "description": "People who live in Geshur, located within the territory of the half-tribe of Manasseh."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גְּשׁוּרִי"
+    ]
+  },
+  "key_references": [
+    "06013011",
+    "05003014"
+  ],
+  "references": [
+    "05003014",
+    "06012005",
+    "06013002",
+    "06013011",
+    "06013013",
+    "09027008",
+    "10003003",
+    "10013037",
+    "10013038",
+    "10014023",
+    "10014032",
+    "10015008",
+    "13002023",
+    "13003002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050030140112"
+      ],
+      [
+        "o060120050092"
+      ],
+      [
+        "o060130020082"
+      ],
+      [
+        "o060130110032"
+      ],
+      [
+        "o060130130062"
+      ],
+      [
+        "o090270080062"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090270080111"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090270080121"
+      ]
+    ]
+  }
+}

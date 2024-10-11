@@ -1,0 +1,96 @@
+{
+  "id": "flora:CastorOil",
+  "primary_id": "flora:CastorOil",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006460001001000"
+    ],
+    "ubsflora": [
+      "flora:4.2.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "006460001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Castor Oil",
+      "alternate_labels": [
+        "Castor Oil Plant",
+        "Castor Bean Plant"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Castor Oil",
+          "article": "flora:CastorOil",
+          "description": "Known for its quick growth, this plant provides shade and produces seeds used to make castor oil."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קִיקָיֹון"
+    ]
+  },
+  "key_references": [
+    "32004006",
+    "32004007"
+  ],
+  "references": [
+    "32004006",
+    "32004007",
+    "32004009",
+    "32004010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o320040060041"
+      ],
+      [
+        "o320040060182"
+      ],
+      [
+        "o320040070092"
+      ],
+      [
+        "o320040090092"
+      ],
+      [
+        "o320040100062"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o320040100102"
+      ],
+      [
+        "o320040100122"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o320040060082"
+      ],
+      [
+        "o320040070102"
+      ],
+      [
+        "o320040100151"
+      ],
+      [
+        "o320040100181"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "place:Bethany",
+  "primary_id": "place:Bethany",
+  "alternate_sources": {
+    "aquifer": [
+      "4153|Bethany|TyndaleBibleDictionary",
+      "26386|Bethany|UWTranslationWords",
+      "132021|Bethany|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.427a"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/285111"
+    ],
+    "tipnr": [
+      "Bethany@Mat.21.17-Jhn"
+    ],
+    "vizbible": [
+      "recLDF53uVzhhlyux"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.427a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bethany (on the Mount of Olives)",
+      "alternate_labels": [
+        "Bethany"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bethany.1",
+          "gloss": "Bethany (on the Mount of Olives)",
+          "description": "A village on the Mount of Olives, where Mary, Martha, and Lazarus lived (John 11:1)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jerusalem",
+    "place:Bethphage",
+    "place:OlivesMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Βηθανία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.77166591",
+      "lon": "35.26212204"
+    },
+    "recogito": {
+      "lat": "31.77078",
+      "lon": "35.26917"
+    },
+    "vizbible": {
+      "lat": "31.77078",
+      "lon": "35.26917"
+    },
+    "biblica-maps": {
+      "lat": "31.77315",
+      "lon": "35.25959"
+    }
+  },
+  "key_references": [
+    "42024050",
+    "41014003",
+    "42019029",
+    "43011001",
+    "43011018",
+    "40026006",
+    "41011001"
+  ],
+  "references": [
+    "40021017",
+    "40026006",
+    "41011001",
+    "41011011",
+    "41011012",
+    "41014003",
+    "42019029",
+    "42024050",
+    "43011001",
+    "43011017",
+    "43011018",
+    "43011028",
+    "43012001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40021017009"
+      ],
+      [
+        "n40026006006"
+      ],
+      [
+        "n41011001009"
+      ],
+      [
+        "n41011011018"
+      ],
+      [
+        "n41011012007"
+      ],
+      [
+        "n41014003005"
+      ],
+      [
+        "n42019029008"
+      ],
+      [
+        "n42024050006"
+      ],
+      [
+        "n43011001007"
+      ],
+      [
+        "n43011018004"
+      ],
+      [
+        "n43012001011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40021017012"
+      ],
+      [
+        "n43012001012"
+      ],
+      [
+        "n43012002005"
+      ],
+      [
+        "n43012009009"
+      ]
+    ]
+  }
+}

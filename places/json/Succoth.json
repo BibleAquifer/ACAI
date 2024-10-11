@@ -1,0 +1,148 @@
+{
+  "id": "place:Succoth",
+  "primary_id": "place:Succoth",
+  "alternate_sources": {
+    "aquifer": [
+      "8643|Succoth|TyndaleBibleDictionary",
+      "27129|Succoth|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005063001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/249693"
+    ],
+    "tipnr": [
+      "Succoth@Gen.33.17-Psa"
+    ],
+    "vizbible": [
+      "recFcRV7goLrcQm17"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005063001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Succoth (of Gad)",
+      "alternate_labels": [
+        "Sukkoth",
+        "Succoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Succoth.1",
+          "gloss": "Succoth (of Gad)",
+          "description": "A town in the territory of Gad."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Gad",
+  "subregion_of": [
+    "place:TerritoryOfGad"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "סֻכֹּות בְּנֹות",
+      "סֻכּוֹת בְּנוֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.19998299",
+      "lon": "35.63331303"
+    },
+    "recogito": {
+      "lat": "32.19571",
+      "lon": "35.62161"
+    },
+    "vizbible": {
+      "lat": "32.19571",
+      "lon": "35.62161"
+    }
+  },
+  "key_references": [
+    "06013027",
+    "01033017"
+  ],
+  "references": [
+    "01033017",
+    "06013027",
+    "07008005",
+    "07008006",
+    "07008008",
+    "07008014",
+    "07008015",
+    "07008016",
+    "11007046",
+    "14004017",
+    "19060008",
+    "19108008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010330170031"
+      ],
+      [
+        "o010330170151"
+      ],
+      [
+        "o060130270062"
+      ],
+      [
+        "o070080050031"
+      ],
+      [
+        "o070080060031"
+      ],
+      [
+        "o070080080141"
+      ],
+      [
+        "o070080140041"
+      ],
+      [
+        "o070080140101"
+      ],
+      [
+        "o070080150041"
+      ],
+      [
+        "o070080160141"
+      ],
+      [
+        "o110070460081"
+      ],
+      [
+        "o140040170081"
+      ],
+      [
+        "o190600080081"
+      ],
+      [
+        "o191080080081"
+      ]
+    ]
+  }
+}

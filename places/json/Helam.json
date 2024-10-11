@@ -1,0 +1,84 @@
+{
+  "id": "place:Helam",
+  "primary_id": "place:Helam",
+  "alternate_sources": {
+    "aquifer": [
+      "5770|Helam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002246001001000"
+    ],
+    "tipnr": [
+      "Helam@2Sa.10.16-"
+    ],
+    "vizbible": [
+      "recv86e7sLNhPrVFJ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002246001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Helam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Helam",
+          "gloss": "Helam",
+          "description": "A location near the Jordan River where David defeated the Arameans."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jordan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֵילָם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.1843727808126",
+      "lon": "35.70287002746794"
+    },
+    "vizbible": {
+      "lat": "32.1843727808126",
+      "lon": "35.70287002746794"
+    }
+  },
+  "key_references": [
+    "10010016"
+  ],
+  "references": [
+    "10010016",
+    "10010017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100100160101"
+      ],
+      [
+        "o100100170111"
+      ]
+    ]
+  }
+}

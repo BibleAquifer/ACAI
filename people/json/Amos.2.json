@@ -1,0 +1,63 @@
+{
+  "id": "person:Amos.2",
+  "primary_id": "person:Amos.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3574|Amos (Person)|TyndaleBibleDictionary",
+      "26313|Amos|UWTranslationWords",
+      "132508|Amos|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.23b"
+    ],
+    "tipnr": [
+      "Amos@Luk.3.25"
+    ],
+    "vizbible": [
+      "recdbRKAKFLW0gNC0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nahum",
+  "offspring": [
+    "person:Mattathias"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.23b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amos (Son of Nahum)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Amos (Son of Nahum)",
+          "article": "person:Amos.2",
+          "description": "Son of Nahum and the father of Matthathias in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀμώς"
+    ]
+  },
+  "key_references": [
+    "42003025"
+  ],
+  "references": [
+    "42003025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003025004"
+      ]
+    ]
+  }
+}

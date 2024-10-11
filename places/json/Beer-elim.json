@@ -1,0 +1,86 @@
+{
+  "id": "place:Beer-elim",
+  "primary_id": "place:Beer-elim",
+  "alternate_sources": {
+    "aquifer": [
+      "4066|Beer-Elim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000816001001000"
+    ],
+    "tipnr": [
+      "Beer-elim@Isa.15.8"
+    ],
+    "vizbible": [
+      "recgHRXfPTqW94gKC"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000816001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beer-elim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beer-elim",
+          "gloss": "Beer-Elim",
+          "description": "A location in Moab, perhaps in the north, in contrast to Eglaim in the south (Isa 15:8)."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Beer"
+  ],
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בְּאֵר אֵילִים",
+      "בְּאֵר אֵלִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite",
+      "settlement"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.998062",
+      "lon": "35.498547"
+    },
+    "vizbible": {
+      "lat": "30.998062",
+      "lon": "35.498547"
+    }
+  },
+  "key_references": [
+    "23015008"
+  ],
+  "references": [
+    "23015008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230150080102",
+        "o230150080111"
+      ]
+    ]
+  }
+}

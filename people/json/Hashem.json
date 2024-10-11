@@ -1,0 +1,62 @@
+{
+  "id": "person:Hashem",
+  "primary_id": "person:Jashen",
+  "alternate_sources": {
+    "aquifer": [
+      "5696|Hashem|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001891001001000"
+    ],
+    "tipnr": [
+      "Hashem|Jashen@2Sa.23.32-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:SonOfJashen"
+  ],
+  "ubsdbh": [
+    "001891001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hashem (Jashen)",
+      "alternate_labels": [
+        "Jashen"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jashen",
+          "article": "person:Hashem",
+          "description": "Hashem, also known as Jashen, was a warrior during the time of King David, mentioned in 2 Samuel 23:32 and 1 Chronicles 11:34."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jashen"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הָשֵׁם"
+    ]
+  },
+  "key_references": [
+    "13011034"
+  ],
+  "references": [
+    "13011034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130110340021"
+      ]
+    ]
+  }
+}

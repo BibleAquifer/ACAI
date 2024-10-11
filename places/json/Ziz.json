@@ -1,0 +1,90 @@
+{
+  "id": "place:Ziz",
+  "primary_id": "place:Ziz",
+  "alternate_sources": {
+    "obi": [
+      "a4446f1"
+    ],
+    "ubsdbh": [
+      "006194003001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/462410"
+    ],
+    "tipnr": [
+      "Ziz@2Ch.20.16"
+    ],
+    "vizbible": [
+      "recYz5P1O33tANP8j"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006194003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ascent of Ziz",
+      "alternate_labels": [
+        "Pass of Ziz",
+        "Ziz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ziz",
+          "gloss": "Ascent of Ziz",
+          "description": "A steep mountain pass in southern Judah near En-Gedi, the shortest route from Moab to Judah, near Tekoa; used by the Moabites, Ammonites, and Meunites to attack king Jehoshaphat and his forces (2 Chronicles20:16)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Engedi"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "wadi",
+      "region"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "mountain pass"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.572903",
+      "lon": "35.406346"
+    },
+    "recogito": {
+      "lat": "38.11564",
+      "lon": "13.3614059"
+    },
+    "vizbible": {
+      "lat": "31.572903",
+      "lon": "35.406346"
+    }
+  },
+  "key_references": [
+    "14020016"
+  ],
+  "references": [
+    "14020016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140200160072"
+      ]
+    ]
+  }
+}

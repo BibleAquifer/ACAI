@@ -1,0 +1,98 @@
+{
+  "id": "place:Hauran",
+  "primary_id": "place:Hauran",
+  "alternate_sources": {
+    "aquifer": [
+      "5718|Hauran|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a0e8903"
+    ],
+    "ubsdbh": [
+      "002178001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/678295"
+    ],
+    "tipnr": [
+      "Hauran@Ezk.47.16-"
+    ],
+    "vizbible": [
+      "rec6L2oZnYNMgEeR6"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1589883"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002178001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hauran",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hauran",
+          "gloss": "Hauran",
+          "description": "A region northeast of Israel mentioned in Ezekiel's description of Israel's borders."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חַוְרָן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.80007552505443",
+      "lon": "35.93730130476259"
+    },
+    "recogito": {
+      "lat": "33.023251",
+      "lon": "36.025648"
+    },
+    "vizbible": {
+      "lat": "32.80007552505443",
+      "lon": "35.93730130476259"
+    }
+  },
+  "key_references": [
+    "26047016",
+    "26047018"
+  ],
+  "references": [
+    "26047016",
+    "26047018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260470160161"
+      ],
+      [
+        "o260470180041"
+      ]
+    ]
+  }
+}

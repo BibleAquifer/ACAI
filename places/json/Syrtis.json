@@ -1,0 +1,97 @@
+{
+  "id": "place:Syrtis",
+  "primary_id": "place:Syrtis",
+  "alternate_sources": {
+    "obi": [
+      "ad36371"
+    ],
+    "ubsdgnt": [
+      "93.592"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/344491",
+      "http://pleiades.stoa.org/places/344491"
+    ],
+    "tipnr": [
+      "Syrtis@Act.27.17"
+    ],
+    "vizbible": [
+      "rec6H5AYVxAT8ixmx"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q187274"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.592"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "the Syrtis",
+      "alternate_labels": [
+        "Syrtis"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Syrtis",
+          "gloss": "the Syrtis",
+          "description": "Two shallow and treacherous Mediterranean gulfs along the North African coastline; Paul's ship was wrecked on Malta after attempting to avoid running aground here."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:GreatSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Σύρτις"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "body of water"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "body of water"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.766667",
+      "lon": "18.505556"
+    },
+    "recogito": {
+      "lat": "31.5",
+      "lon": "18"
+    },
+    "vizbible": {
+      "lat": "31.5",
+      "lon": "18"
+    }
+  },
+  "key_references": [
+    "44027017"
+  ],
+  "references": [
+    "44027017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027017013"
+      ]
+    ]
+  }
+}

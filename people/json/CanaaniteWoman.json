@@ -1,0 +1,67 @@
+{
+  "id": "person:CanaaniteWoman",
+  "primary_id": "person:CanaaniteWoman",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003357001001000"
+    ],
+    "tipnr": [
+      "Canaanite_woman@Gen.46.10-Exo"
+    ],
+    "vizbible": [
+      "recit51ZTps1Xj2BF"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Simeon.5"
+  ],
+  "offspring": [
+    "person:Shaul.2"
+  ],
+  "ubsdbh": [
+    "003357001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Canaanite Woman",
+      "alternate_labels": [
+        "Canaanitish woman"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Canaanite Woman",
+          "article": "person:CanaaniteWoman",
+          "description": "The Canaanite Woman, also called Canaanitish Woman, lived at the time of the patriarchs and was the mother of Shaul, first mentioned in Genesis 46:10."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כְּנַעֲנִי"
+    ]
+  },
+  "key_references": [
+    "01046010",
+    "02006015"
+  ],
+  "references": [
+    "01046010",
+    "02006015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460100102"
+      ],
+      [
+        "o020060150102"
+      ]
+    ]
+  }
+}

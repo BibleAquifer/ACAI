@@ -1,0 +1,82 @@
+{
+  "id": "place:Luhith",
+  "primary_id": "place:Luhith",
+  "alternate_sources": {
+    "aquifer": [
+      "6792|Luhith|TyndaleBibleDictionary"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/699902"
+    ],
+    "tipnr": [
+      "Luhith@Isa.15.5-Jer"
+    ],
+    "vizbible": [
+      "rec6SbCLgE1pnIMgt"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Luhith",
+      "alternate_labels": [
+        "Luhoth",
+        "Ascent of Luhith",
+        "Qere. Ketiv"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Luhith",
+          "gloss": "Luhith",
+          "description": "A town located in Moab at a relatively high elevation."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.288056",
+      "lon": "35.515000"
+    },
+    "vizbible": {
+      "lat": "31.288056",
+      "lon": "35.515000"
+    }
+  },
+  "key_references": [
+    "24048005",
+    "23015005"
+  ],
+  "references": [
+    "23015005",
+    "24048005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230150050112"
+      ],
+      [
+        "o240480050042"
+      ]
+    ]
+  }
+}

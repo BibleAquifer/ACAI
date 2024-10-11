@@ -1,0 +1,40 @@
+{
+  "id": "place:Daphne",
+  "primary_id": "place:Daphne",
+  "alternate_sources": {
+    "aquifer": [
+      "4754|Daphne|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Daphne",
+          "gloss": "Daphne",
+          "description": "A town near Antioch on the Orontes."
+        }
+      ],
+      "preferred_label": "Daphne"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": true,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "33.23013",
+      "lon": "35.63917"
+    }
+  }
+}

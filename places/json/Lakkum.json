@@ -1,0 +1,84 @@
+{
+  "id": "place:Lakkum",
+  "primary_id": "place:Lakkum",
+  "alternate_sources": {
+    "aquifer": [
+      "6669|Lakkum, Lakum|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003613001001000"
+    ],
+    "tipnr": [
+      "Lakkum@Jos.19.33"
+    ],
+    "vizbible": [
+      "recnfxMzJmRCjlEnB"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003613001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lakkum",
+      "alternate_labels": [
+        "Lakum"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lakkum",
+          "gloss": "Lakkum",
+          "description": "A town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "לַקּוּם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.68695640243183",
+      "lon": "35.39091304299688"
+    },
+    "vizbible": {
+      "lat": "32.68695640243183",
+      "lon": "35.39091304299688"
+    }
+  },
+  "key_references": [
+    "06019033"
+  ],
+  "references": [
+    "06019033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190330101"
+      ]
+    ]
+  }
+}

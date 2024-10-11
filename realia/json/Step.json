@@ -1,0 +1,60 @@
+{
+  "id": "realia:Step",
+  "primary_id": "realia:Step",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.52"
+    ],
+    "ubsrealia": [
+      "realia:3.1.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.52"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Step",
+      "alternate_labels": [
+        "Flight of Steps",
+        "Stairs",
+        "Steps"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Step",
+          "article": "realia:Step",
+          "description": "A flat surface you step on as part of a staircase."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀναβαθμός"
+    ]
+  },
+  "key_references": [
+    "44021035",
+    "44021040"
+  ],
+  "references": [
+    "44021035",
+    "44021040"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44021035006"
+      ],
+      [
+        "n44021040009"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "place:Madon",
+  "primary_id": "place:Madon",
+  "alternate_sources": {
+    "aquifer": [
+      "6846|Madon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6c2936"
+    ],
+    "ubsdbh": [
+      "003720003001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3035313"
+    ],
+    "tipnr": [
+      "Madon@Jos.11.1-"
+    ],
+    "vizbible": [
+      "recdTF3sn93RU32tX"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003720003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Madon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Madon",
+          "gloss": "Madon",
+          "description": "A town in Canaan that fought with Jabin, king of Hazor, against the Israelites at the Waters of Merom."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Canaan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מָדֹון",
+      "מָדוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.799879",
+      "lon": "35.459506"
+    },
+    "recogito": {
+      "lat": "48.58807",
+      "lon": "6.09582"
+    },
+    "vizbible": {
+      "lat": "32.799879",
+      "lon": "35.459506"
+    }
+  },
+  "key_references": [
+    "06011001",
+    "06012019"
+  ],
+  "references": [
+    "06011001",
+    "06012019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110010101"
+      ],
+      [
+        "o060120190021"
+      ]
+    ]
+  }
+}

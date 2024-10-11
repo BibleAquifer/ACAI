@@ -1,0 +1,56 @@
+{
+  "id": "person:Shiphi",
+  "primary_id": "person:Shiphi",
+  "alternate_sources": {
+    "aquifer": [
+      "8425|Shiphi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007594001001000"
+    ],
+    "tipnr": [
+      "Shiphi@1Ch.4.37"
+    ],
+    "vizbible": [
+      "rec9SVXzUmvzJJI1p"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Allon",
+  "offspring": [
+    "person:Ziza"
+  ],
+  "tribe": "group:Simeon",
+  "ubsdbh": [
+    "007594001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shiphi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shiphi",
+          "article": "person:Shiphi",
+          "description": "Shiphi was a man of the tribe of Simeon living during the divided kingdom, mentioned in 1 Chronicles."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004037"
+  ],
+  "references": [
+    "13004037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040370031"
+      ]
+    ]
+  }
+}

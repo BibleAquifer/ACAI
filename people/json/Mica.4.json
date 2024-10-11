@@ -1,0 +1,69 @@
+{
+  "id": "person:Mica.4",
+  "primary_id": "person:Micah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7108|Mica|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003944001001000"
+    ],
+    "tipnr": [
+      "Mica|Micah@2Sa.9.12-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mephibosheth",
+  "offspring": [
+    "person:Pithon",
+    "person:Melech",
+    "person:Tarea",
+    "person:Ahaz.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "003944001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mica (Micah)",
+      "alternate_labels": [
+        "Micah",
+        "Micha",
+        "Mika"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Micah",
+          "article": "person:Mica.4",
+          "description": "Mica, a man from the tribe of Benjamin during Israel's united kingdom, is mentioned in 2 Samuel 9:12 as the son of Mephibosheth and father of Pithon, Melech, Tarea, and Ahaz."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Micah.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִיכָא"
+    ]
+  },
+  "key_references": [
+    "10009012"
+  ],
+  "references": [
+    "10009012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100090120051"
+      ]
+    ]
+  }
+}

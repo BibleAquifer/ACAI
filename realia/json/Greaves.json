@@ -1,0 +1,56 @@
+{
+  "id": "realia:Greaves",
+  "primary_id": "realia:Greaves",
+  "alternate_sources": {
+    "aquifer": [
+      "5536|Greaves|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004301001001000"
+    ],
+    "ubsrealia": [
+      "realia:2.11"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004301001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Greaves",
+      "alternate_labels": [
+        "Armor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Greaves",
+          "article": "realia:Greaves",
+          "description": "Metal coverings for the lower legs used by soldiers for protection."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִצְחָה"
+    ]
+  },
+  "key_references": [
+    "09017006"
+  ],
+  "references": [
+    "09017006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090170060012"
+      ]
+    ]
+  }
+}

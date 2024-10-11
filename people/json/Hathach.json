@@ -1,0 +1,96 @@
+{
+  "id": "person:Hathach",
+  "primary_id": "person:Hathach",
+  "alternate_sources": {
+    "aquifer": [
+      "5710|Hatach, Hathach|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001894001001000"
+    ],
+    "tipnr": [
+      "Hathach@Est.4.5-"
+    ],
+    "vizbible": [
+      "recFKJDFVcBU8akyW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "001894001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hathach",
+      "alternate_labels": [
+        "Hathak",
+        "Hatach"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hathach",
+          "article": "person:Hathach",
+          "description": "A eunuch and servant of King Ahasuerus who served as a personal attendant to Queen Esther."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֲתָךְ"
+    ]
+  },
+  "key_references": [
+    "17004005",
+    "17004006",
+    "17004009"
+  ],
+  "references": [
+    "17004005",
+    "17004006",
+    "17004009",
+    "17004010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170040050032"
+      ],
+      [
+        "o170040060021"
+      ],
+      [
+        "o170040090021"
+      ],
+      [
+        "o170040100032"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o170040050122"
+      ],
+      [
+        "o170040080112"
+      ],
+      [
+        "o170040080143"
+      ],
+      [
+        "o170040080163"
+      ],
+      [
+        "o170040090032"
+      ]
+    ]
+  }
+}

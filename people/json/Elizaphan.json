@@ -1,0 +1,97 @@
+{
+  "id": "person:Elizaphan",
+  "primary_id": "person:Elizaphan",
+  "alternate_sources": {
+    "aquifer": [
+      "5030|Elizaphan|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Elizaphan@Exo.6.22-2Ch",
+      "Elzaphan|Elizaphan@Exo.6.22-2Ch"
+    ],
+    "vizbible": [
+      "recLuAdoqN5YiW32l"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uzziel",
+  "siblings": [
+    "person:Mishael",
+    "person:Sithri",
+    "person:Micah.5",
+    "person:Isshiah.3"
+  ],
+  "roles": [
+    "Priest",
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elizaphan",
+      "alternate_labels": [
+        "Elzaphan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elizaphan",
+          "article": "person:Elizaphan",
+          "description": "Son of Uzziel and cousin of the high priest Aaron. He was a levitival priest and chief of the clan of the Kohathites. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Elzaphan"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006022",
+    "03010004",
+    "04003030"
+  ],
+  "references": [
+    "02006022",
+    "03010004",
+    "04003030",
+    "13015008",
+    "14029013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060220042"
+      ],
+      [
+        "o030100040061"
+      ],
+      [
+        "o040030300061"
+      ],
+      [
+        "o130150080021"
+      ],
+      [
+        "o140290130031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o030100040131",
+        "o030100040141"
+      ],
+      [
+        "o030100050012"
+      ],
+      [
+        "o030100050022"
+      ]
+    ]
+  }
+}

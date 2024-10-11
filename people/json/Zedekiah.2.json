@@ -1,0 +1,176 @@
+{
+  "id": "person:Zedekiah.2",
+  "primary_id": "person:Zedekiah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "9170|Zedekiah|TyndaleBibleDictionary",
+      "27229|Zedekiah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006132001001000"
+    ],
+    "tipnr": [
+      "Zedekiah@1Ki.22.11-2Ch"
+    ],
+    "vizbible": [
+      "recCrIW9D4Qzh5zff"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Chenaanah",
+  "roles": [
+    "Prophet"
+  ],
+  "ubsdbh": [
+    "006132001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zedekiah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zedekiah",
+          "article": "person:Zedekiah.2",
+          "description": "A son of Chenaanah and false prohet who living during the time of the divided kingdom of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11022011",
+    "11022024",
+    "14018023"
+  ],
+  "references": [
+    "11022011",
+    "11022024",
+    "14018010",
+    "14018023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110220110031"
+      ],
+      [
+        "o110220240021"
+      ],
+      [
+        "o140180100031"
+      ],
+      [
+        "o140180230021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110220110082"
+      ],
+      [
+        "o110220240052"
+      ],
+      [
+        "o110220240102"
+      ],
+      [
+        "o110220250081"
+      ],
+      [
+        "o110220250112"
+      ],
+      [
+        "o140180100082"
+      ],
+      [
+        "o140180230052"
+      ],
+      [
+        "o140180230102"
+      ],
+      [
+        "o140180240081"
+      ],
+      [
+        "o140180240112"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o110220110091",
+          "o110220110101",
+          "o110220110111",
+          "o110220110121",
+          "o110220110122",
+          "o110220110131",
+          "o110220110141",
+          "o110220110151",
+          "o110220110161",
+          "o110220110171",
+          "o110220110172"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o110220240111",
+          "o110220240121",
+          "o110220240131",
+          "o110220240141",
+          "o110220240151",
+          "o110220240161",
+          "o110220240162",
+          "o110220240163",
+          "o110220240171",
+          "o110220240172",
+          "o110220240181",
+          "o110220240182"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o140180100091",
+          "o140180100101",
+          "o140180100111",
+          "o140180100121",
+          "o140180100122",
+          "o140180100131",
+          "o140180100141",
+          "o140180100151",
+          "o140180100161",
+          "o140180100171",
+          "o140180100172"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o140180230111",
+          "o140180230121",
+          "o140180230131",
+          "o140180230132",
+          "o140180230141",
+          "o140180230151",
+          "o140180230161",
+          "o140180230171",
+          "o140180230172",
+          "o140180230173",
+          "o140180230181",
+          "o140180230182",
+          "o140180230191",
+          "o140180230192"
+        ]
+      }
+    ]
+  }
+}

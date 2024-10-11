@@ -1,0 +1,50 @@
+{
+  "id": "realia:EyeSalve",
+  "primary_id": "realia:EyeSalve",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.203"
+    ],
+    "ubsrealia": [
+      "realia:1.15.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.203"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eye Salve",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eye Salve",
+          "article": "realia:EyeSalve",
+          "description": "A healing ointment used for the eyes."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κολλούριον"
+    ]
+  },
+  "key_references": [
+    "66003018"
+  ],
+  "references": [
+    "66003018"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n66003018026"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "place:Pit",
+  "primary_id": "place:Hell",
+  "alternate_sources": {
+    "aquifer": [
+      "7756|Pit|TyndaleBibleDictionary",
+      "26964|Pit|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Pit|Hell@Gen.37.35-Rev"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pit (Hell)",
+      "alternate_labels": [
+        "Hell",
+        "or pit"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Hell"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "references": [
+    "18033018",
+    "18033022",
+    "18033024",
+    "18033028",
+    "18033030",
+    "19016010",
+    "19030010",
+    "19049010",
+    "19055024",
+    "19103004",
+    "23038017",
+    "23051014",
+    "26028008",
+    "32002007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180330180041"
+      ],
+      [
+        "o180330220022"
+      ],
+      [
+        "o180330240051"
+      ],
+      [
+        "o180330280052"
+      ],
+      [
+        "o180330300041"
+      ],
+      [
+        "o190160100101"
+      ],
+      [
+        "o190300100061"
+      ],
+      [
+        "o190490100062"
+      ],
+      [
+        "o190550240051"
+      ],
+      [
+        "o191030040022"
+      ],
+      [
+        "o230380170092"
+      ],
+      [
+        "o230510140062"
+      ],
+      [
+        "o260280080012"
+      ],
+      [
+        "o320020070092"
+      ]
+    ]
+  }
+}

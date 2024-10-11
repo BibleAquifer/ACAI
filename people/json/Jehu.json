@@ -1,0 +1,134 @@
+{
+  "id": "person:Jehu",
+  "primary_id": "person:Jehu",
+  "alternate_sources": {
+    "aquifer": [
+      "6298|Jehu|TyndaleBibleDictionary",
+      "26751|Jehu|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002815001002000"
+    ],
+    "tipnr": [
+      "Jehu@1Ki.16.1-2Ch"
+    ],
+    "vizbible": [
+      "recD0WTn8jytakSeJ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hanani",
+  "roles": [
+    "Prophet"
+  ],
+  "ubsdbh": [
+    "002815001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehu",
+          "article": "person:Jehu",
+          "description": "A prophet, son of Hanani, living during the time of kings Baasha and Jehoshaphat."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֵהוּא"
+    ]
+  },
+  "key_references": [
+    "11016001",
+    "11016012",
+    "14019002"
+  ],
+  "references": [
+    "11016001",
+    "11016007",
+    "11016012",
+    "14019002",
+    "14020034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110160010051"
+      ],
+      [
+        "o110160070031"
+      ],
+      [
+        "o110160120141"
+      ],
+      [
+        "o140190020041"
+      ],
+      [
+        "o140200340091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140190020082"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o140190020123",
+          "o140190020131",
+          "o140190020132",
+          "o140190020141",
+          "o140190020142",
+          "o140190020143",
+          "o140190020151",
+          "o140190020161",
+          "o140190020171",
+          "o140190020172",
+          "o140190020173",
+          "o140190020181",
+          "o140190020182",
+          "o140190020191",
+          "o140190020201",
+          "o140190020202",
+          "o140190020203",
+          "o140190020211",
+          "o140190030011",
+          "o140190030021",
+          "o140190030031",
+          "o140190030041",
+          "o140190030051",
+          "o140190030052",
+          "o140190030061",
+          "o140190030071",
+          "o140190030081",
+          "o140190030082",
+          "o140190030091",
+          "o140190030101",
+          "o140190030102",
+          "o140190030111",
+          "o140190030112",
+          "o140190030121",
+          "o140190030122",
+          "o140190030131",
+          "o140190030132",
+          "o140190030141",
+          "o140190030142"
+        ]
+      }
+    ]
+  }
+}

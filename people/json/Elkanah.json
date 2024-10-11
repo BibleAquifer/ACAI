@@ -1,0 +1,67 @@
+{
+  "id": "person:Elkanah",
+  "primary_id": "person:Elkanah",
+  "alternate_sources": {
+    "aquifer": [
+      "5033|Elkanah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000475001001000"
+    ],
+    "tipnr": [
+      "Elkanah@Exo.6.24-1Ch"
+    ],
+    "vizbible": [
+      "recZId7tBNmcg6pDZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Korah.3",
+  "siblings": [
+    "person:Assir",
+    "person:Ebiasaph"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000475001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elkanah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elkanah",
+          "article": "person:Elkanah",
+          "description": "Elkanah, a Levite descendant of Kohath living during the time of Egypt and the wilderness, is first mentioned in Exodus 6:24."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְקָנָה"
+    ]
+  },
+  "key_references": [
+    "02006024",
+    "13006008"
+  ],
+  "references": [
+    "02006024",
+    "13006008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060240042"
+      ],
+      [
+        "o130060080011"
+      ]
+    ]
+  }
+}

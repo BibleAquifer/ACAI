@@ -1,0 +1,100 @@
+{
+  "id": "place:Mysia",
+  "primary_id": "place:Mysia",
+  "alternate_sources": {
+    "aquifer": [
+      "7255|Mysia|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.535"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/511328"
+    ],
+    "tipnr": [
+      "Mysia@Act.16.7-"
+    ],
+    "vizbible": [
+      "recZa3ykkleK0kwMp"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.535"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mysia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mysia",
+          "gloss": "Mysia",
+          "description": "A province in northwest Asia Minor where Paul passed through during his second missionary journey."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Bithynia",
+    "place:Lydia",
+    "place:Galatia",
+    "place:Phrygia"
+  ],
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Μυσία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "39.50664305923271",
+      "lon": "26.08059270470616"
+    },
+    "recogito": {
+      "lat": "40.25",
+      "lon": "27.75"
+    },
+    "vizbible": {
+      "lat": "40.25",
+      "lon": "27.75"
+    }
+  },
+  "key_references": [
+    "44016007"
+  ],
+  "references": [
+    "44016007",
+    "44016008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44016007005"
+      ],
+      [
+        "n44016008004"
+      ]
+    ]
+  }
+}

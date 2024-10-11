@@ -1,0 +1,183 @@
+{
+  "id": "place:Crete",
+  "primary_id": "place:Crete",
+  "alternate_sources": {
+    "aquifer": [
+      "4691|Crete|TyndaleBibleDictionary",
+      "26484|Crete|UWTranslationWords",
+      "132109|Crete|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a26aa94"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/6697802"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/1001897"
+    ],
+    "tipnr": [
+      "Caphtor|Crete@Deu.2.23-Tit",
+      "Crete@Deu.2.23-Tit",
+      "Cretan|Crete@Deu.2.23-Tit"
+    ],
+    "vizbible": [
+      "rec6yittVQwxJlpye"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q34374"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Crete",
+      "alternate_labels": [
+        "Cherethites",
+        "Kerethite",
+        "Philistines",
+        "Caphtor",
+        "Cretans",
+        "Cretan",
+        "Kerethites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Crete",
+          "gloss": "Crete",
+          "description": "An island in the Mediterranean Sea, south of Greece, where Titus ministered (Tit 1:5)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Caphtor",
+    "group:Cretan"
+  ],
+  "subregion_of": [
+    "place:GreatSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "island"
+    ],
+    "vizbible": [
+      "Island"
+    ],
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.171239",
+      "lon": "25.007204"
+    },
+    "recogito": {
+      "lat": "35.23102579604995",
+      "lon": "24.85162918"
+    },
+    "vizbible": {
+      "lat": "35.23102579604995",
+      "lon": "24.85162918"
+    }
+  },
+  "key_references": [
+    "44027007",
+    "44027013",
+    "56001005"
+  ],
+  "references": [
+    "05002023",
+    "24047004",
+    "30009007",
+    "36002005",
+    "44002011",
+    "44027007",
+    "44027008",
+    "44027012",
+    "44027013",
+    "44027014",
+    "44027021",
+    "56001005",
+    "56001012",
+    "56003015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050020230082"
+      ],
+      [
+        "o240470040211"
+      ],
+      [
+        "o300090070172"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44002011005"
+      ],
+      [
+        "n44027007019"
+      ],
+      [
+        "n44027012023"
+      ],
+      [
+        "n44027013012"
+      ],
+      [
+        "n44027021023"
+      ],
+      [
+        "n56001005006"
+      ],
+      [
+        "n56001012008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44002011012"
+      ],
+      [
+        "n44027008004"
+      ],
+      [
+        "n44027014007"
+      ],
+      [
+        "n56001012004",
+        "n56001012005",
+        "n56001012006"
+      ],
+      [
+        "n56001012008"
+      ],
+      [
+        "n56001013010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n56001013013"
+      ],
+      [
+        "n56001014002"
+      ]
+    ]
+  }
+}

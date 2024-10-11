@@ -1,0 +1,108 @@
+{
+  "id": "place:Kerioth",
+  "primary_id": "place:Kiriathaim",
+  "alternate_sources": {
+    "aquifer": [
+      "6558|Kerioth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006581001001000 006582001001000",
+      "006582001001000"
+    ],
+    "tipnr": [
+      "Kerioth|Kiriathaim@Gen.14.5-Amo"
+    ],
+    "vizbible": [
+      "recj5Vo2Mp3zHCXA6"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006581001001000 006582001001000",
+    "006582001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kerioth",
+      "alternate_labels": [
+        "Kiriathaim",
+        "cities"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kerioth",
+          "gloss": "Kerioth",
+          "description": "A fortified city in Moab."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Kiriathaim"
+  ],
+  "referred_to_as": [
+    "place:Kiriathaim"
+  ],
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "קְרִיֹּות",
+      "קְרִיּוֹת",
+      "קִרְיַת אַרְבַּע"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.58333333",
+      "lon": "35.7"
+    },
+    "vizbible": {
+      "lat": "31.58333333",
+      "lon": "35.7"
+    }
+  },
+  "key_references": [
+    "30002002",
+    "24048041",
+    "24048024"
+  ],
+  "references": [
+    "24048024",
+    "24048041",
+    "30002002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240480240021"
+      ],
+      [
+        "o240480410022"
+      ],
+      [
+        "o300020020062"
+      ]
+    ]
+  }
+}

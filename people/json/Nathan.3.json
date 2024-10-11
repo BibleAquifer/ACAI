@@ -1,0 +1,72 @@
+{
+  "id": "person:Nathan.3",
+  "primary_id": "person:Nathan.3",
+  "alternate_sources": {
+    "aquifer": [
+      "7313|Nathan|TyndaleBibleDictionary",
+      "26901|Nathan|UWTranslationWords",
+      "132416|Nathan|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "004959001003000",
+      "004959001007000"
+    ],
+    "tipnr": [
+      "Nathan@2Sa.23.36-1Ch"
+    ],
+    "vizbible": [
+      "recydePOGrRUHWCHh"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:FatherOfNathan",
+  "offspring": [
+    "person:Igal.2"
+  ],
+  "siblings": [
+    "person:Joel.7"
+  ],
+  "ubsdbh": [
+    "004959001003000",
+    "004959001007000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nathan (2 Samuel 23:36)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nathan (2 Samuel 23:36)",
+          "article": "person:Nathan.3",
+          "description": "Nathan, living during Israel's united kingdom, was the father of the warrior Igal and brother of Joel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נָתָן"
+    ]
+  },
+  "key_references": [
+    "10023036",
+    "13011038"
+  ],
+  "references": [
+    "10023036",
+    "13011038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230360031"
+      ],
+      [
+        "o130110380031"
+      ]
+    ]
+  }
+}

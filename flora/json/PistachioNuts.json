@@ -1,0 +1,50 @@
+{
+  "id": "flora:PistachioNuts",
+  "primary_id": "flora:PistachioNuts",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000922001001000"
+    ],
+    "ubsflora": [
+      "flora:2.9"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Domestic Trees and Shrubs",
+  "ubsdbh": [
+    "000922001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pistachio Nuts",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pistachio Nuts",
+          "article": "flora:PistachioNuts",
+          "description": "Edible green seeds inside a hard shell, coming from a small tree that loses its leaves in the winter."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בָּטְנִים"
+    ]
+  },
+  "key_references": [
+    "01043011"
+  ],
+  "references": [
+    "01043011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010430110231"
+      ]
+    ]
+  }
+}

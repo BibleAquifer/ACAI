@@ -1,0 +1,70 @@
+{
+  "id": "person:Bilhan.2",
+  "primary_id": "person:Bilhan.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4244|Bilhan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001016001002000"
+    ],
+    "tipnr": [
+      "Bilhan@1Ch.7.10"
+    ],
+    "vizbible": [
+      "recAlHbvQ871DhVtX"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jediael",
+  "offspring": [
+    "person:Jeush.2",
+    "person:Benjamin.2",
+    "person:Ehud.2",
+    "person:Chenaanah.2",
+    "person:Zethan",
+    "person:Tarshish.2",
+    "person:Ahishahar"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "001016001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bilhan (1 Chronicles 7:10)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bilhan (1 Chronicles 7:10)",
+          "article": "person:Bilhan.2",
+          "description": "A man from the tribe of Benjamin, son of Jediael, and father of several sons, mentioned in 1 Chronicles 7:10."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בִּלְהָן"
+    ]
+  },
+  "key_references": [
+    "13007010"
+  ],
+  "references": [
+    "13007010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070100031"
+      ],
+      [
+        "o130070100051"
+      ]
+    ]
+  }
+}

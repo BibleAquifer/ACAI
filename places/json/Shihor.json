@@ -1,0 +1,107 @@
+{
+  "id": "place:Shihor",
+  "primary_id": "place:BrookOfEgypt",
+  "alternate_sources": {
+    "aquifer": [
+      "8391|Shihor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007323001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/1256343"
+    ],
+    "tipnr": [
+      "Shihor|Brook_of_Egypt@Num.34.5-Ezk"
+    ],
+    "vizbible": [
+      "recC23N5Tc2A2DvIi"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007323001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shihor",
+      "alternate_labels": [
+        "Brook of Egypt",
+        "River",
+        "Sihor",
+        "Egypt"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shihor.1",
+          "gloss": "Shihor",
+          "description": "A river in the northeastern delta region of Egypt."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:BrookOfEgypt"
+  ],
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "שִׁיחֹור לִבְנָת",
+      "שִׁיחוֹר לִבְנָת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river",
+      "special"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.032047",
+      "lon": "33.854957"
+    },
+    "recogito": {
+      "lat": "21.71134",
+      "lon": "71.96179"
+    },
+    "vizbible": {
+      "lat": "31.032047",
+      "lon": "33.854957"
+    }
+  },
+  "key_references": [
+    "13013005",
+    "23023003",
+    "06013003"
+  ],
+  "references": [
+    "06013003",
+    "23023003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060130030022"
+      ],
+      [
+        "o230230030041"
+      ]
+    ]
+  }
+}

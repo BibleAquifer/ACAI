@@ -1,0 +1,119 @@
+{
+  "id": "person:Shelah",
+  "primary_id": "person:Shelah",
+  "alternate_sources": {
+    "aquifer": [
+      "8334|Shelah|TyndaleBibleDictionary",
+      "8333|Shelah, Pool of|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shelanite|Shelah@Gen.38.5-1Ch",
+      "Shelah@Gen.38.5-1Ch"
+    ],
+    "vizbible": [
+      "recxH9O2y9AMy6TDM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Judah.4",
+  "mother": "person:Bath-shua",
+  "offspring": [
+    "person:Er.3",
+    "person:Laadah",
+    "person:Jokim",
+    "person:Joash.5",
+    "person:Saraph"
+  ],
+  "siblings": [
+    "person:Er.2",
+    "person:Onan",
+    "person:Perez",
+    "person:Zerah.3"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Chezib"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shelah",
+      "alternate_labels": [
+        "Shelanite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shelah",
+          "article": "person:Shelah",
+          "description": "A son of the patriarch Judah by Shua, brother of Er and Onan, and half-brother of Perez and Zerah. He was the father of Er, Laadah, Jokim, Joash, and Saraph."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Shelanite"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01038005",
+    "01038026",
+    "13004021",
+    "13004022"
+  ],
+  "references": [
+    "01038005",
+    "01038011",
+    "01038014",
+    "01038026",
+    "01046012",
+    "04026020",
+    "13002003",
+    "13004021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380050081"
+      ],
+      [
+        "o010380110111"
+      ],
+      [
+        "o010380140191"
+      ],
+      [
+        "o010380260112"
+      ],
+      [
+        "o010460120052"
+      ],
+      [
+        "o040260200052"
+      ],
+      [
+        "o040260200072"
+      ],
+      [
+        "o130020030052"
+      ],
+      [
+        "o130040210021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010380110181"
+      ]
+    ]
+  }
+}

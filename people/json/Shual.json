@@ -1,0 +1,77 @@
+{
+  "id": "person:Shual",
+  "primary_id": "person:Shual",
+  "alternate_sources": {
+    "aquifer": [
+      "8453|Shual (Person)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shual@1Ch.7.36-",
+      "Ulla|Shual@1Ch.7.36-"
+    ],
+    "vizbible": [
+      "recXL28rWpTqcGeVq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zophah",
+  "offspring": [
+    "person:Arah",
+    "person:Hanniel.2",
+    "person:Rizia"
+  ],
+  "siblings": [
+    "person:Suah",
+    "person:Harnepher",
+    "person:Beri",
+    "person:Imrah",
+    "person:Bezer",
+    "person:Hod",
+    "person:Shamma",
+    "person:Shilshah",
+    "person:Ithran.2",
+    "person:Beera"
+  ],
+  "tribe": "group:Asher",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shual",
+      "alternate_labels": [
+        "Ulla",
+        "Suah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shual",
+          "article": "person:Shual",
+          "description": "Shual, also known as Ulla or Suah, was a man from the tribe of Asher living during the time of the divided kingdom, first mentioned in 1 Chronicles 7:36."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ulla"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007036",
+    "13007039"
+  ],
+  "references": [
+    "13007036",
+    "13007039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070360052"
+      ],
+      [
+        "o130070390021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "person:Jorim",
+  "primary_id": "person:Jorim",
+  "alternate_sources": {
+    "aquifer": [
+      "6440|Jorim|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.199"
+    ],
+    "tipnr": [
+      "Jorim@Luk.3.29"
+    ],
+    "vizbible": [
+      "recpHoZBJxJLA065O"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Matthat.2",
+  "offspring": [
+    "person:Eliezer"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.199"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jorim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jorim",
+          "article": "person:Jorim",
+          "description": "Son of Matthat and the father of Eliezer in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰωρίμ"
+    ]
+  },
+  "key_references": [
+    "42003029"
+  ],
+  "references": [
+    "42003029"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003029006"
+      ]
+    ]
+  }
+}

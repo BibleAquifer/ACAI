@@ -1,0 +1,55 @@
+{
+  "id": "flora:LotusPlants",
+  "primary_id": "flora:LotusPlants",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006095001001000"
+    ],
+    "ubsflora": [
+      "flora:1.14"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "006095001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lotus Plant",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lotus Plant",
+          "article": "flora:LotusPlants",
+          "description": "Lotus Plant is a thorny plant about 1.5 meters high, with small yellow fruit, found in the northern Jordan Valley and Samaria."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צֶאֱלִים"
+    ]
+  },
+  "key_references": [
+    "18040021",
+    "18040022"
+  ],
+  "references": [
+    "18040021",
+    "18040022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180400210021"
+      ],
+      [
+        "o180400220021"
+      ]
+    ]
+  }
+}

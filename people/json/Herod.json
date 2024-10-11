@@ -1,0 +1,181 @@
+{
+  "id": "person:Herod",
+  "primary_id": "person:Herod",
+  "alternate_sources": {
+    "aquifer": [
+      "5821|Herod, Herodian Family|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.144a"
+    ],
+    "tipnr": [
+      "Herod@Mat.2.1-Act"
+    ],
+    "vizbible": [
+      "recz5ADicu9ijfZju"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Archelaus",
+    "person:Herod.2",
+    "person:Philip.2",
+    "person:Philip.3"
+  ],
+  "roles": [
+    "King",
+    "Ruler",
+    "Royal Family Member"
+  ],
+  "tribe": "group:Canaan",
+  "ubsdgnt": [
+    "93.144a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Herod",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Herod",
+          "article": "person:Herod",
+          "description": "King of Judah during the birth of Jesus. He was the father of several rulers including: Herod Antipas and Herod Archelaus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἡρῴδης"
+    ]
+  },
+  "key_references": [
+    "40002001",
+    "40002003",
+    "42001005"
+  ],
+  "references": [
+    "40002001",
+    "40002003",
+    "40002007",
+    "40002012",
+    "40002013",
+    "40002015",
+    "40002016",
+    "40002019",
+    "40002022",
+    "42001005",
+    "44023035"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40002001011"
+      ],
+      [
+        "n40002003005"
+      ],
+      [
+        "n40002007002"
+      ],
+      [
+        "n40002012008"
+      ],
+      [
+        "n40002013034"
+      ],
+      [
+        "n40002015007"
+      ],
+      [
+        "n40002016002"
+      ],
+      [
+        "n40002019004"
+      ],
+      [
+        "n40002022012"
+      ],
+      [
+        "n42001005005"
+      ],
+      [
+        "n44023035015"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40002008017"
+      ],
+      [
+        "n40002008019"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40002007004"
+      ],
+      [
+        "n40002008002"
+      ],
+      [
+        "n40002008006"
+      ],
+      [
+        "n40002008020"
+      ],
+      [
+        "n40002013035"
+      ],
+      [
+        "n40002013039"
+      ],
+      [
+        "n40002016003"
+      ],
+      [
+        "n40002016005"
+      ],
+      [
+        "n40002016012",
+        "n40002016013"
+      ],
+      [
+        "n40002016034"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "sly",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40002008007",
+          "n40002008008",
+          "n40002008009",
+          "n40002008010",
+          "n40002008011",
+          "n40002008012",
+          "n40002008013",
+          "n40002008014",
+          "n40002008015",
+          "n40002008016",
+          "n40002008017",
+          "n40002008018",
+          "n40002008019",
+          "n40002008020",
+          "n40002008021",
+          "n40002008022"
+        ]
+      }
+    ]
+  }
+}

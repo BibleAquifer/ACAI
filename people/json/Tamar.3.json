@@ -1,0 +1,66 @@
+{
+  "id": "person:Tamar.3",
+  "primary_id": "person:Tamar.3",
+  "alternate_sources": {
+    "aquifer": [
+      "8727|Tamar (Person)|TyndaleBibleDictionary",
+      "27137|Tamar|UWTranslationWords",
+      "132238|Tamar|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "007854002003000"
+    ],
+    "tipnr": [
+      "Tamar@2Sa.14.27"
+    ],
+    "vizbible": [
+      "rechWXNTz4Lf906rK"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Absalom",
+  "partners": [
+    "person:Uriel.3"
+  ],
+  "offspring": [
+    "person:Maacah.3"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "007854002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tamar (2 Samuel 14:27)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tamar (2 Samuel 14:27)",
+          "article": "person:Tamar.3",
+          "description": "Tamar, only mentioned in 2 Samuel 14:27, was the daughter of Absalom and lived during the time of Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10014027"
+  ],
+  "references": [
+    "10014027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100140270081"
+      ]
+    ]
+  }
+}

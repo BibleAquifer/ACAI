@@ -1,0 +1,118 @@
+{
+  "id": "place:Topheth",
+  "primary_id": "place:Topheth",
+  "alternate_sources": {
+    "aquifer": [
+      "8896|Topheth|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ad81b79"
+    ],
+    "tipnr": [
+      "Topheth@2Ki.23.10-Jer"
+    ],
+    "vizbible": [
+      "rec4usYdsZVP42UId"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1298788"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Topheth",
+      "alternate_labels": [
+        "Tophet",
+        "burning-place"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Topheth",
+          "gloss": "Topheth",
+          "description": "A location in the valley of Hinnom associated with child sacrifices to Molech."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "subregion_of": [
+    "place:HinnomValley"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "altar"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.769079",
+      "lon": "35.227994"
+    },
+    "vizbible": {
+      "lat": "31.769079",
+      "lon": "35.227994"
+    }
+  },
+  "key_references": [
+    "24019006",
+    "12023010"
+  ],
+  "references": [
+    "12023010",
+    "23030033",
+    "24007031",
+    "24007032",
+    "24019006",
+    "24019011",
+    "24019012",
+    "24019013",
+    "24019014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120230100032"
+      ],
+      [
+        "o230300330041"
+      ],
+      [
+        "o240070310032"
+      ],
+      [
+        "o240070320102"
+      ],
+      [
+        "o240070320192"
+      ],
+      [
+        "o240190060122"
+      ],
+      [
+        "o240190110253"
+      ],
+      [
+        "o240190120122"
+      ],
+      [
+        "o240190130082"
+      ],
+      [
+        "o240190140033"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "person:Ram",
+  "primary_id": "person:Ram",
+  "alternate_sources": {
+    "aquifer": [
+      "7940|Ram|TyndaleBibleDictionary",
+      "7936|Ram (Person)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ram@Rut.4.19-Luk",
+      "Admin|Ram@Rut.4.19-Luk",
+      "Arni|Ram@Rut.4.19-Luk"
+    ],
+    "vizbible": [
+      "recH7JpZUIqyGxHkt"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hezron.2",
+  "mother": "person:AWifeOfHezron",
+  "offspring": [
+    "person:Amminadab"
+  ],
+  "siblings": [
+    "person:Jerahmeel",
+    "person:Caleb.2",
+    "person:Segub.2",
+    "person:Ashhur"
+  ],
+  "roles": [
+    "Patriarch",
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ram",
+      "alternate_labels": [
+        "Admin",
+        "Aram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ram",
+          "article": "person:Ram",
+          "description": "A man from the tribe of Judah. He is listed in the famiy line of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Admin",
+    "person:Arni"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "08004019",
+    "13002009",
+    "40001004"
+  ],
+  "references": [
+    "08004019",
+    "13002009",
+    "13002010",
+    "40001003",
+    "40001004",
+    "42003033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o080040190041"
+      ],
+      [
+        "o080040190052"
+      ],
+      [
+        "o130020090091"
+      ],
+      [
+        "o130020100012"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001003021"
+      ],
+      [
+        "n40001004001"
+      ],
+      [
+        "n42003033004"
+      ],
+      [
+        "n42003033006"
+      ]
+    ]
+  }
+}

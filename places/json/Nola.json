@@ -1,0 +1,38 @@
+{
+  "id": "place:Nola",
+  "primary_id": "place:Nola",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nola",
+          "gloss": "Nola",
+          "description": "A city in southern Italy where Caesar Augustus died."
+        }
+      ],
+      "preferred_label": "Nola",
+      "alternate_labels": [
+        "Nuvlana"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "40.92591",
+      "lon": "14.52994"
+    }
+  }
+}

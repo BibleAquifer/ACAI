@@ -1,0 +1,65 @@
+{
+  "id": "person:Aram.3",
+  "primary_id": "person:Aram.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3700|Aram (Person)|TyndaleBibleDictionary",
+      "26329|Aram|UWTranslationWords",
+      "132380|Aram|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000695001004000"
+    ],
+    "tipnr": [
+      "Aram@1Ch.7.34"
+    ],
+    "vizbible": [
+      "recfvxrvKo004gSzB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shomer.2",
+  "siblings": [
+    "person:Ahi.2",
+    "person:Rohgah",
+    "person:Jehubbah"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "000695001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aram (1 Chronicles 7:34)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aram (1 Chronicles 7:34)",
+          "article": "person:Aram.3",
+          "description": "A man from the tribe of Asher during the time of the divided kingdom, son of Shomer, mentioned in 1 Chronicles 7:34."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲרָם"
+    ]
+  },
+  "key_references": [
+    "13007034"
+  ],
+  "references": [
+    "13007034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070340082"
+      ]
+    ]
+  }
+}

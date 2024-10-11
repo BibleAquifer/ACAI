@@ -1,0 +1,63 @@
+{
+  "id": "person:Sheba.3",
+  "primary_id": "person:Sheba.3",
+  "alternate_sources": {
+    "aquifer": [
+      "8313|Sheba (Person)|TyndaleBibleDictionary",
+      "8315|Sheba, Queen of|TyndaleBibleDictionary",
+      "27080|Sheba|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007147001003000"
+    ],
+    "tipnr": [
+      "Sheba@Gen.25.3-1Ch"
+    ],
+    "vizbible": [
+      "recrNqWaSpudQRdXr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jokshan",
+  "siblings": [
+    "person:Dedan.2"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "007147001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheba (Genesis 25:3)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sheba (Genesis 25:3)",
+          "article": "person:Sheba.3",
+          "description": "Sheba was a man living at the time of the patriarchs, mentioned in Genesis 25:3 as the son of Jokshan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01025003",
+    "13001032"
+  ],
+  "references": [
+    "01025003",
+    "13001032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250030041"
+      ],
+      [
+        "o130010320151"
+      ]
+    ]
+  }
+}

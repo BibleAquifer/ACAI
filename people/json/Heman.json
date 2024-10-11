@@ -1,0 +1,113 @@
+{
+  "id": "person:Heman",
+  "primary_id": "person:Heman",
+  "alternate_sources": {
+    "aquifer": [
+      "5794|Heman|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001812001001000",
+      "001812001003000"
+    ],
+    "tipnr": [
+      "Heman@1Ki.4.31-Psa"
+    ],
+    "vizbible": [
+      "rec7o331lOLb6v5cn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mahol",
+  "siblings": [
+    "person:Ethan",
+    "person:Calcol",
+    "person:Darda"
+  ],
+  "ubsdbh": [
+    "001812001001000",
+    "001812001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Heman",
+          "article": "person:Heman",
+          "description": "Heman, recognized as a wise man and a temple singer during the time of Israel's united kingdom, is mentioned as the son of Mahol and Joel in 1 Kings 4:31 and Chronicles."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֵימָן"
+    ]
+  },
+  "key_references": [
+    "11005011",
+    "19088002"
+  ],
+  "references": [
+    "11005011",
+    "19088001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110050110062"
+      ],
+      [
+        "o190880010102"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o190880140012"
+      ],
+      [
+        "o190880160021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o190880020051"
+      ],
+      [
+        "o190880050011"
+      ],
+      [
+        "o190880050051"
+      ],
+      [
+        "o190880090071"
+      ],
+      [
+        "o190880090091"
+      ],
+      [
+        "o190880100051"
+      ],
+      [
+        "o190880100091"
+      ],
+      [
+        "o190880160032"
+      ],
+      [
+        "o190880160051"
+      ],
+      [
+        "o190880160071"
+      ]
+    ]
+  }
+}

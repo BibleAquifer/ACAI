@@ -1,0 +1,60 @@
+{
+  "id": "flora:CitronTree",
+  "primary_id": "flora:CitronTree",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001774002001000"
+    ],
+    "ubsflora": [
+      "flora:2.4"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Domestic Trees and Shrubs",
+  "ubsdbh": [
+    "001774002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Citron",
+      "alternate_labels": [
+        "Lemon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Citron",
+          "article": "flora:CitronTree",
+          "description": "A citrus tree that grows up to 9 meters, with sour yellow fruit, thorns, fragrant white flowers, and dark leaves; its peel and oil are used in flavorings, perfumes, and medicines."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הָדָר"
+    ]
+  },
+  "key_references": [
+    "03023040",
+    "66018012"
+  ],
+  "references": [
+    "03023040",
+    "66018012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030230400071"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n66018012021"
+      ]
+    ]
+  }
+}

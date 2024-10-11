@@ -1,0 +1,70 @@
+{
+  "id": "person:Mary.5",
+  "primary_id": "person:Mary.5",
+  "alternate_sources": {
+    "aquifer": [
+      "6850|Magdalene, Mary|TyndaleBibleDictionary",
+      "6961|Mary|TyndaleBibleDictionary",
+      "26856|Mary|UWTranslationWords",
+      "132029|Mary, Martha and Lazarus|BiblicaStudyNotesKeyTerms",
+      "280150|mary|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.253f"
+    ],
+    "tipnr": [
+      "Mary@Act.12.12"
+    ],
+    "vizbible": [
+      "rec8Z7vWWsitSvAKJ"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:FatherOfBarnabas",
+  "partners": [
+    "person:HusbandOfMary"
+  ],
+  "offspring": [
+    "person:Mark"
+  ],
+  "siblings": [
+    "person:Barnabas"
+  ],
+  "ubsdgnt": [
+    "93.253f"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mary (Acts 12:12)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mary (Acts 12:12)",
+          "article": "person:Mary.5",
+          "description": "A woman in the New Testament, mother of John Mark and relative of Barnabas, mentioned in Acts 12:12."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Μαρία"
+    ]
+  },
+  "key_references": [
+    "44012012"
+  ],
+  "references": [
+    "44012012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44012012008"
+      ]
+    ]
+  }
+}

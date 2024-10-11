@@ -1,0 +1,116 @@
+{
+  "id": "person:Jabez",
+  "primary_id": "person:Jabez",
+  "alternate_sources": {
+    "aquifer": [
+      "6149|Jabez (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002978002001000"
+    ],
+    "tipnr": [
+      "Jabez@1Ch.4.9-"
+    ],
+    "vizbible": [
+      "recZ4IIeeSI0zhP0p"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Koz",
+  "siblings": [
+    "person:Anub",
+    "person:Zobebah",
+    "person:Harum"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002978002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jabez",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jabez",
+          "article": "person:Jabez",
+          "description": "A man from the tribe of Judah during the divided kingdom, known for his prayer and whose name means 'pain,' mentioned in 1 Chronicles 4:9."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יַעְבֵּץ"
+    ]
+  },
+  "key_references": [
+    "13004009",
+    "13004010"
+  ],
+  "references": [
+    "13004009",
+    "13004010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040090021"
+      ],
+      [
+        "o130040090081"
+      ],
+      [
+        "o130040100021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130040090031"
+      ],
+      [
+        "o130040100052"
+      ],
+      [
+        "o130040100231"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o130040100061",
+          "o130040100071",
+          "o130040100081",
+          "o130040100082",
+          "o130040100091",
+          "o130040100092",
+          "o130040100101",
+          "o130040100111",
+          "o130040100112",
+          "o130040100121",
+          "o130040100122",
+          "o130040100131",
+          "o130040100132",
+          "o130040100141",
+          "o130040100142",
+          "o130040100151",
+          "o130040100152",
+          "o130040100161",
+          "o130040100162",
+          "o130040100171",
+          "o130040100172",
+          "o130040100181",
+          "o130040100182"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "person:Moab",
+  "primary_id": "person:Moab",
+  "alternate_sources": {
+    "aquifer": [
+      "7184|Moab, Moabites|TyndaleBibleDictionary",
+      "26884|Moab|UWTranslationWords",
+      "132343|Moab|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003765001001000",
+      "003765001002000"
+    ],
+    "tipnr": [
+      "Moab@Gen.19.37"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Lot",
+  "mother": "person:Daughter1OfLot",
+  "siblings": [
+    "person:Ben-ammi"
+  ],
+  "tribe": "group:Moab",
+  "ubsdbh": [
+    "003765001001000",
+    "003765001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Moab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Moab",
+          "article": "person:Moab",
+          "description": "Moab was the son of Lot and his eldest daughter, mentioned in Genesis 19:37, and is considered the founder of the nation of Moab."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מֹואָב",
+      "מוֹאָב"
+    ]
+  },
+  "key_references": [
+    "01019037"
+  ],
+  "references": [
+    "01019037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010190370061"
+      ],
+      [
+        "o010190370091"
+      ]
+    ]
+  }
+}

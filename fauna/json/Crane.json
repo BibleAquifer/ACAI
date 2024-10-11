@@ -1,0 +1,68 @@
+{
+  "id": "fauna:Crane",
+  "primary_id": "fauna:Crane",
+  "alternate_sources": {
+    "aquifer": [
+      "4682|Crane|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005226001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.5"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "005226001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Crane",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Crane",
+          "article": "fauna:Crane",
+          "description": "A large water bird with long legs and neck, known for its loud, sad cry and migratory habits."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עָגוּר"
+    ]
+  },
+  "key_references": [
+    "23038014",
+    "24008007"
+  ],
+  "references": [
+    "23038014",
+    "24008007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230380140021"
+      ],
+      [
+        "o240080070092"
+      ],
+      [
+        "o240080070091"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o240080070132"
+      ]
+    ]
+  }
+}

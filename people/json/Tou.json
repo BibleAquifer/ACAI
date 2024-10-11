@@ -1,0 +1,76 @@
+{
+  "id": "person:Tou",
+  "primary_id": "person:Toi",
+  "alternate_sources": {
+    "aquifer": [
+      "8899|Tou|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007875001001000"
+    ],
+    "tipnr": [
+      "Tou|Toi@2Sa.8.9-1Ch"
+    ],
+    "vizbible": [
+      "recfaD41wcZQbKiUa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Joram.2"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Syria",
+  "ubsdbh": [
+    "007875001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tou (Toi)",
+      "alternate_labels": [
+        "Toi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Toi",
+          "article": "person:Tou",
+          "description": "Tou, also known as Toi, was a king living during Israel's united kingdom, father of Joram, and is mentioned in 2 Samuel 8:9 and 1 Chronicles 18:9-10."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Toi"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13018009",
+    "13018010"
+  ],
+  "references": [
+    "13018009",
+    "13018010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130180090021"
+      ],
+      [
+        "o130180100211"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130180100012"
+      ]
+    ]
+  }
+}

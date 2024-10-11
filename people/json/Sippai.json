@@ -1,0 +1,64 @@
+{
+  "id": "person:Sippai",
+  "primary_id": "person:Saph",
+  "alternate_sources": {
+    "aquifer": [
+      "8526|Sippai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005138001001000"
+    ],
+    "tipnr": [
+      "Sippai|Saph@2Sa.21.18-1Ch"
+    ],
+    "vizbible": [
+      "recAmQnGNpdkAod3D"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Rapha",
+  "siblings": [
+    "person:Goliath",
+    "person:Ishbi-benob",
+    "person:Lahmi",
+    "person:HugeMan"
+  ],
+  "ubsdbh": [
+    "005138001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sippai (Saph)",
+      "alternate_labels": [
+        "Saph"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Saph",
+          "article": "person:Sippai",
+          "description": "Sippai, also known as Saph, was a giant during Israel's united kingdom, first mentioned in 2 Samuel 21:18."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Saph"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13020004"
+  ],
+  "references": [
+    "13020004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130200040141"
+      ]
+    ]
+  }
+}

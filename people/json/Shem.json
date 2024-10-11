@@ -1,0 +1,169 @@
+{
+  "id": "person:Shem",
+  "primary_id": "person:Shem",
+  "alternate_sources": {
+    "aquifer": [
+      "8357|Shem|TyndaleBibleDictionary",
+      "27083|Shem|UWTranslationWords",
+      "132187|Shem|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Shem@Gen.5.32-Luk"
+    ],
+    "vizbible": [
+      "recOCbR2kuXoxyvkq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Noah",
+  "offspring": [
+    "person:Asshur",
+    "person:Elam.2",
+    "person:Arpachshad",
+    "person:Lud",
+    "person:Aram"
+  ],
+  "siblings": [
+    "person:Ham",
+    "person:Japheth"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shem",
+      "alternate_labels": [
+        "Sem"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shem",
+          "article": "person:Shem",
+          "description": "The son of the patriarch Noah, brother of Ham and Japheth. He was the father of Asshur, Elam, Arpachshad, Lud, and Aram. He is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01005032",
+    "01010001",
+    "01010021",
+    "01010022",
+    "42003036"
+  ],
+  "references": [
+    "01005032",
+    "01006010",
+    "01007013",
+    "01009018",
+    "01009023",
+    "01009026",
+    "01009027",
+    "01010001",
+    "01010021",
+    "01010022",
+    "01010031",
+    "01011010",
+    "01011011",
+    "13001004",
+    "13001017",
+    "13001024",
+    "42003036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010050320101"
+      ],
+      [
+        "o010060100061"
+      ],
+      [
+        "o010070130062"
+      ],
+      [
+        "o010090180071"
+      ],
+      [
+        "o010090230021"
+      ],
+      [
+        "o010090260051"
+      ],
+      [
+        "o010090270061"
+      ],
+      [
+        "o010100010051"
+      ],
+      [
+        "o010100210013"
+      ],
+      [
+        "o010100220021"
+      ],
+      [
+        "o010100310031"
+      ],
+      [
+        "o010110100031",
+        "o010110100041"
+      ],
+      [
+        "o010110110021"
+      ],
+      [
+        "o130010040021"
+      ],
+      [
+        "o130010170021"
+      ],
+      [
+        "o130010240011"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003036006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010090190021"
+      ],
+      [
+        "o010100210041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010090230062"
+      ],
+      [
+        "o010090230102"
+      ],
+      [
+        "o010090230122"
+      ],
+      [
+        "o010090230211"
+      ],
+      [
+        "o010110100082"
+      ],
+      [
+        "o010110110102"
+      ]
+    ]
+  }
+}

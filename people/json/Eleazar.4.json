@@ -1,0 +1,96 @@
+{
+  "id": "person:Eleazar.4",
+  "primary_id": "person:Eleazar.4",
+  "alternate_sources": {
+    "aquifer": [
+      "4980|Eleazar|TyndaleBibleDictionary",
+      "26552|Eleazar|UWTranslationWords",
+      "132303|Eleazar|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000464001003000"
+    ],
+    "tipnr": [
+      "Eleazar@2Sa.23.9-1Ch"
+    ],
+    "vizbible": [
+      "recwxW741zdzz3BY5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Dodo.2",
+  "roles": [
+    "Warrior"
+  ],
+  "ubsdbh": [
+    "000464001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eleazar (2 Samuel 23:9)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eleazar (2 Samuel 23:9)",
+          "article": "person:Eleazar.4",
+          "description": "Eleazar, son of Dodo, was a warrior during King David's time, mentioned in 2 Samuel 23:9."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְעָזָר"
+    ]
+  },
+  "key_references": [
+    "10023009",
+    "13011012"
+  ],
+  "references": [
+    "10023009",
+    "13011012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230090031"
+      ],
+      [
+        "o130110120021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o100230100011"
+      ],
+      [
+        "o130110120061"
+      ],
+      [
+        "o130110130011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100230100032"
+      ],
+      [
+        "o130110140012"
+      ],
+      [
+        "o130110140042"
+      ],
+      [
+        "o130110140052"
+      ]
+    ]
+  }
+}

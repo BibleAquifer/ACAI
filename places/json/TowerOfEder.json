@@ -1,0 +1,112 @@
+{
+  "id": "place:TowerOfEder",
+  "primary_id": "place:TowerOfEder",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003689001001000",
+      "003689001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2958438"
+    ],
+    "tipnr": [
+      "Tower_of_Eder@Gen.35.21-Mic"
+    ],
+    "vizbible": [
+      "recyacFMClQixXsNi"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003689001001000",
+    "003689001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tower of Eder",
+      "alternate_labels": [
+        "Migdal-Eder",
+        "Edar",
+        "tower of Edar",
+        "Eder"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eder.1",
+          "gloss": "Tower of Eder",
+          "description": "A location near Jerusalem and Bethlehem, possibly a somewhat elevated place from which one could overlook a relatively large area of land. "
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jerusalem",
+    "place:Bethlehem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מִגְדַּל־עֵדֶר",
+      "מִגְדַּל־עֵ֫דֶר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "tower"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.70536129174666",
+      "lon": "35.21026630105202"
+    },
+    "recogito": {
+      "lat": "51.02995",
+      "lon": "8.67232"
+    },
+    "vizbible": {
+      "lat": "31.70536129174666",
+      "lon": "35.21026630105202"
+    }
+  },
+  "key_references": [
+    "01035021"
+  ],
+  "references": [
+    "01035021",
+    "33004008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010350210062",
+        "o010350210071"
+      ],
+      [
+        "o330040080021",
+        "o330040080031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010350220052"
+      ],
+      [
+        "o330040080012",
+        "o330040080021",
+        "o330040080031"
+      ]
+    ]
+  }
+}

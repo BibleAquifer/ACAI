@@ -1,0 +1,69 @@
+{
+  "id": "person:Eri",
+  "primary_id": "person:Eri",
+  "alternate_sources": {
+    "aquifer": [
+      "5135|Eri|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Eri@Gen.46.16-Num"
+    ],
+    "vizbible": [
+      "recX87Zi04zjkPecS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gad",
+  "siblings": [
+    "person:Ziphion",
+    "person:Haggi",
+    "person:Shuni",
+    "person:Ezbon",
+    "person:Arod",
+    "person:Areli"
+  ],
+  "tribe": "group:Gad",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eri",
+      "alternate_labels": [
+        "Erite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eri",
+          "article": "person:Eri",
+          "description": "Eri, first mentioned in Genesis 46:16, was a man of the tribe of Gad and son of Gad."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Eri"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046016",
+    "04026016"
+  ],
+  "references": [
+    "01046016",
+    "04026016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460160071"
+      ],
+      [
+        "o040260160042"
+      ],
+      [
+        "o040260160062"
+      ]
+    ]
+  }
+}

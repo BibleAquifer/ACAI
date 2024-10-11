@@ -1,0 +1,62 @@
+{
+  "id": "flora:PlaneTree",
+  "primary_id": "flora:PlaneTree",
+  "alternate_sources": {
+    "aquifer": [
+      "7760|Plane Tree|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005680001001000"
+    ],
+    "ubsflora": [
+      "flora:1.19"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "005680001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Plane Tree",
+      "alternate_labels": [
+        "Oriental Plane"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Plane Tree",
+          "article": "flora:PlaneTree",
+          "description": "A large tree up to 20 meters tall, with big branches and hand-shaped leaves, known for its peeling bark and good shade."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֶרְמֹון"
+    ]
+  },
+  "key_references": [
+    "01030037",
+    "26031008"
+  ],
+  "references": [
+    "01030037",
+    "26031008",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010300370082"
+      ],
+      [
+        "o260310080112"
+      ]
+    ]
+  }
+}

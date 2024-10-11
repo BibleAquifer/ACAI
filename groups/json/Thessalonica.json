@@ -1,0 +1,84 @@
+{
+  "id": "group:Thessalonica",
+  "primary_id": "group:Thessalonica",
+  "alternate_sources": {
+    "aquifer": [
+      "8816|Thessalonians, First Letter to the|TyndaleBibleDictionary",
+      "8817|Thessalonians, Second Letter to the|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.474"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/17068"
+    ],
+    "tipnr": [
+      "Thessalonica@Act.17.1-2Ti"
+    ],
+    "vizbible": [
+      "recIc4TxQa0rpOszp"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Thessalonica",
+  "ubsdgnt": [
+    "93.474"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Thessalonians",
+      "alternate_labels": [
+        "Thessalonica",
+        "Thessalonian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Thessalonians",
+          "article": "group:Thessalonica",
+          "description": "People who live in the city of Thessalonica and recipients of two letters from the apostle Paul."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Θεσσαλονικεύς"
+    ]
+  },
+  "key_references": [
+    "44017001"
+  ],
+  "references": [
+    "44017001",
+    "44017011",
+    "44017013",
+    "44020004",
+    "44027002",
+    "50004016",
+    "52001001",
+    "52005028",
+    "53001001",
+    "53003018",
+    "55004010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44020004007"
+      ],
+      [
+        "n44027002019"
+      ],
+      [
+        "n52001001008"
+      ],
+      [
+        "n53001001008"
+      ]
+    ]
+  }
+}

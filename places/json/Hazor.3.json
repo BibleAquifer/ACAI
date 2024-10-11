@@ -1,0 +1,76 @@
+{
+  "id": "place:Hazor.3",
+  "primary_id": "place:Hazor.3",
+  "alternate_sources": {
+    "aquifer": [
+      "5742|Hazor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002466001002000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/779967430"
+    ],
+    "tipnr": [
+      "Hazor@Jos.15.25"
+    ],
+    "vizbible": [
+      "recEZk6tOBSVS51AC"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002466001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazor",
+      "descriptions": []
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חָצֹור",
+      "חָצוֹר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    },
+    "recogito": {
+      "lat": "33.01746212803129",
+      "lon": "35.56813718"
+    },
+    "vizbible": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    }
+  },
+  "key_references": [
+    "06015025"
+  ],
+  "references": [
+    "06015025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150250061"
+      ]
+    ]
+  }
+}

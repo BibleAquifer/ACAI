@@ -1,0 +1,91 @@
+{
+  "id": "place:Bezek",
+  "primary_id": "place:Bezek",
+  "alternate_sources": {
+    "aquifer": [
+      "4221|Bezek|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000895001001000"
+    ],
+    "tipnr": [
+      "Bezek@Jdg.1.4-"
+    ],
+    "vizbible": [
+      "recEqtvMaRtSLBk03"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000895001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bezek (of Manasseh)",
+      "alternate_labels": [
+        "Bezek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bezek.1",
+          "gloss": "Bezek (of Manasseh)",
+          "description": "A town in the territory of Manasseh, where the Israelites struck down 10,000 Canaanites and Perizzites (Judges 1:4)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Manasseh",
+  "subregion_of": [
+    "place:TerritoryOfWestManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֶּזֶק",
+      "בֶּ֫זֶק"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.898029",
+      "lon": "34.952878"
+    },
+    "vizbible": {
+      "lat": "31.898029",
+      "lon": "34.952878"
+    }
+  },
+  "key_references": [
+    "07001004",
+    "07001005",
+    "09011008"
+  ],
+  "references": [
+    "07001004",
+    "07001005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070010040102"
+      ],
+      [
+        "o070010050052"
+      ]
+    ]
+  }
+}

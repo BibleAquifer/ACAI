@@ -1,0 +1,38 @@
+{
+  "id": "place:Tarraco",
+  "primary_id": "place:Tarraco",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tarraco",
+          "gloss": "Tarraco",
+          "description": "A seaport city on the eastern coast of Spain; modern-day Tarragona."
+        }
+      ],
+      "preferred_label": "Tarraco",
+      "alternate_labels": [
+        "Col. Iulia Urbs Triumphalis"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "41.11614",
+      "lon": "1.25722"
+    }
+  }
+}

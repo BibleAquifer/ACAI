@@ -1,0 +1,69 @@
+{
+  "id": "place:Rimmon.2",
+  "primary_id": "place:Dimnah",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006818002002000"
+    ],
+    "tipnr": [
+      "Rimmon|Dimnah@Jos.21.35-1Ch"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006818002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rimmon (of Zebulun)",
+      "alternate_labels": [
+        "Remmon-methoar",
+        "Dimnah",
+        "Rimmon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rimmon.3",
+          "gloss": "Rimmon (of Zebulun)",
+          "description": "A Levitical town in the territory of Zebulun; also known as Rimmono."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Rimmono",
+    "place:Dimnah"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "06019013",
+    "13006062"
+  ],
+  "references": [
+    "06019013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190130101"
+      ]
+    ]
+  }
+}

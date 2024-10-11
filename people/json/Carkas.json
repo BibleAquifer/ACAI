@@ -1,0 +1,64 @@
+{
+  "id": "person:Carkas",
+  "primary_id": "person:Carkas",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003432001001000"
+    ],
+    "tipnr": [
+      "Carkas@Est.1.10"
+    ],
+    "vizbible": [
+      "recLSCbRwmUHuxOZF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "003432001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Carkas",
+      "alternate_labels": [
+        "Karkas",
+        "Carcas"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Carkas",
+          "article": "person:Carkas",
+          "description": "Carkas, also known as Carcas or Karkas, was a eunuch in the court of King Ahasuerus (Xerxes I) of Persia, mentioned in Esther 1:10."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כַּרְכַּס"
+    ]
+  },
+  "key_references": [
+    "17001010"
+  ],
+  "references": [
+    "17001010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170010100142"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o170010110012"
+      ]
+    ]
+  }
+}

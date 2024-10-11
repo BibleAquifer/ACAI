@@ -1,0 +1,76 @@
+{
+  "id": "person:Tahpenes",
+  "primary_id": "person:Tahpenes",
+  "alternate_sources": {
+    "aquifer": [
+      "8717|Tahpenes|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007774001001000"
+    ],
+    "tipnr": [
+      "Tahpenes@1Ki.11.19-"
+    ],
+    "vizbible": [
+      "recRWlez3Ns4Lmnu8"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:FatherOfTahpenes",
+  "partners": [
+    "person:Pharaoh.7"
+  ],
+  "offspring": [
+    "person:DaughterOfPharaoh.2"
+  ],
+  "siblings": [
+    "person:SisterOfTahpenes"
+  ],
+  "tribe": "group:Egypt",
+  "ubsdbh": [
+    "007774001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tahpenes",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tahpenes",
+          "article": "person:Tahpenes",
+          "description": "Tahpenes, mentioned in 1 Kings 11:19, was an Egyptian woman married to Pharaoh, living during the time of Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תַּחְרָא",
+      "תַּחְפַּנְחֵס"
+    ]
+  },
+  "key_references": [
+    "11011019",
+    "11011020"
+  ],
+  "references": [
+    "11011019",
+    "11011020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110110190141"
+      ],
+      [
+        "o110110200041"
+      ],
+      [
+        "o110110200091"
+      ]
+    ]
+  }
+}

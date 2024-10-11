@@ -1,0 +1,38 @@
+{
+  "id": "place:TerritoryOfDan",
+  "primary_id": "place:TerritoryOfDan",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TerritoryOfDan",
+          "gloss": "Territory of Dan",
+          "description": "The land assigned to the tribe of Dan."
+        }
+      ],
+      "preferred_label": "Territory of Dan"
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfEphraim",
+    "place:TerritoryOfWestManasseh",
+    "place:TerritoryOfBenjamin",
+    "place:TerritoryOfJudah"
+  ],
+  "subregion_of": [
+    "place:Israel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  }
+}

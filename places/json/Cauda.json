@@ -1,0 +1,95 @@
+{
+  "id": "place:Cauda",
+  "primary_id": "place:Cauda",
+  "alternate_sources": {
+    "aquifer": [
+      "4449|Cauda|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aca2b0a"
+    ],
+    "ubsdgnt": [
+      "93.497"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/41496"
+    ],
+    "tipnr": [
+      "Cauda@Act.27.16"
+    ],
+    "vizbible": [
+      "recFrC0435yiaHYOu"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q213895"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.497"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cauda",
+      "alternate_labels": [
+        "Clauda"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cauda",
+          "gloss": "Cauda",
+          "description": "A small island south of Crete which Paul passed on his voyage to Rome, prior to the shipwreck."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Crete"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Καῦδα"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "island"
+    ],
+    "vizbible": [
+      "Island"
+    ],
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.84351",
+      "lon": "24.091671"
+    },
+    "biblica-maps": {
+      "lat": "34.8493",
+      "lon": "24.09631"
+    }
+  },
+  "key_references": [
+    "44027016"
+  ],
+  "references": [
+    "44027016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027016006"
+      ]
+    ]
+  }
+}

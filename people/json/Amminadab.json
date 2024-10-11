@@ -1,0 +1,102 @@
+{
+  "id": "person:Amminadab",
+  "primary_id": "person:Amminadab",
+  "alternate_sources": {
+    "aquifer": [
+      "3561|Amminadab|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Amminadab@Exo.6.23-Luk"
+    ],
+    "vizbible": [
+      "recA9vgrqa7VKXAU6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ram",
+  "offspring": [
+    "person:Elisheba",
+    "person:Nahshon"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amminadab",
+      "alternate_labels": [
+        "Aminadab"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Amminadab",
+          "article": "person:Amminadab",
+          "description": "The son of Ram, and the father of Nahshon. He was an ancestor of King David and is listed as part of Jesus’s lineage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006023",
+    "04001007",
+    "40001004"
+  ],
+  "references": [
+    "02006023",
+    "04001007",
+    "04002003",
+    "04007012",
+    "04007017",
+    "04010014",
+    "08004019",
+    "08004020",
+    "13002010",
+    "40001004",
+    "42003033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060230061"
+      ],
+      [
+        "o040010070041"
+      ],
+      [
+        "o040020030131"
+      ],
+      [
+        "o040070120091"
+      ],
+      [
+        "o040070170171"
+      ],
+      [
+        "o040100140121"
+      ],
+      [
+        "o080040190081"
+      ],
+      [
+        "o080040200012"
+      ],
+      [
+        "o130020100041"
+      ],
+      [
+        "o130020100052"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001004005",
+        "n40001004006"
+      ],
+      [
+        "n42003033002"
+      ]
+    ]
+  }
+}

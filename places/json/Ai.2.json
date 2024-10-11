@@ -1,0 +1,96 @@
+{
+  "id": "place:Ai.2",
+  "primary_id": "place:Ai.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3479|Ai|TyndaleBibleDictionary",
+      "26301|Ai|UWTranslationWords",
+      "132371|Ai|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "005376001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4604411"
+    ],
+    "tipnr": [
+      "Ai@Jer.49.3"
+    ],
+    "vizbible": [
+      "recuSI1NE964vj24o"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005376001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ai (of Ammon)",
+      "alternate_labels": [
+        "Ai "
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ai.2",
+          "gloss": "Ai (of Ammon)",
+          "description": "A town in the territory of Ammon."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Ammon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵיבָל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "special",
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.80052000870321",
+      "lon": "35.80901866717255"
+    },
+    "recogito": {
+      "lat": "36.15367",
+      "lon": "-85.64359"
+    },
+    "vizbible": {
+      "lat": "31.80052000870321",
+      "lon": "35.80901866717255"
+    }
+  },
+  "key_references": [
+    "24049003"
+  ],
+  "references": [
+    "24049003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240490030051"
+      ]
+    ]
+  }
+}

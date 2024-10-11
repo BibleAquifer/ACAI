@@ -1,0 +1,108 @@
+{
+  "id": "place:Tahpanhes",
+  "primary_id": "place:Tahpanhes",
+  "alternate_sources": {
+    "aquifer": [
+      "8716|Tahpanhes|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "adb008c"
+    ],
+    "tipnr": [
+      "Tahpanhes@Jer.2.16-Ezk",
+      "Tehaphnehes|Tahpanhes@Jer.2.16-Ezk"
+    ],
+    "vizbible": [
+      "rec7RMIt09whPuuSU"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1810451"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tahpanhes",
+      "alternate_labels": [
+        "Tehaphnehes",
+        "Tahapanes"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tahpanhes",
+          "gloss": "Tahpanhes",
+          "description": "A town in Egypt on the eastern edge of the Nile Delta."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Tehaphnehes"
+  ],
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.860556",
+      "lon": "32.171389"
+    },
+    "vizbible": {
+      "lat": "30.860556",
+      "lon": "32.171389"
+    }
+  },
+  "key_references": [
+    "26030018",
+    "24043008"
+  ],
+  "references": [
+    "24002016",
+    "24043007",
+    "24043008",
+    "24043009",
+    "24044001",
+    "24046014",
+    "26030018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240020160052"
+      ],
+      [
+        "o240430070111"
+      ],
+      [
+        "o240430080062"
+      ],
+      [
+        "o240430090122"
+      ],
+      [
+        "o240440010143"
+      ],
+      [
+        "o240460140073"
+      ],
+      [
+        "o260300180013"
+      ]
+    ]
+  }
+}

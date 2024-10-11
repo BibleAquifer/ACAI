@@ -1,0 +1,76 @@
+{
+  "id": "place:CityOfPalms",
+  "primary_id": "place:Jericho",
+  "alternate_sources": {
+    "aquifer": [
+      "4575|City of Palms|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005411001001000 005414001001000"
+    ],
+    "tipnr": [
+      "City_of_Palms|Jericho@Num.22.1-Heb"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005411001001000 005414001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "City of Palms",
+      "alternate_labels": [
+        "Jericho"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:CityOfPalms.1",
+          "gloss": "City of Palms",
+          "description": "A city in the territory of Judah; also known as Jericho."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Jericho",
+    "place:CityOfPalms.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עִיר שֶׁמֶשׁ",
+      "עִיר שָׁ֑מֶשׁ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "key_references": [
+    "14028015",
+    "05034003",
+    "07003013"
+  ],
+  "references": [
+    "05034003",
+    "07003013",
+    "14028015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050340030071"
+      ]
+    ]
+  }
+}

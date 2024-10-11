@@ -1,0 +1,130 @@
+{
+  "id": "person:Amram",
+  "primary_id": "person:Amram",
+  "alternate_sources": {
+    "aquifer": [
+      "3579|Amram|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Amram@Exo.6.18-1Ch"
+    ],
+    "vizbible": [
+      "recPXtuWYdjyghv7R"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kohath",
+  "partners": [
+    "person:Jochebed"
+  ],
+  "offspring": [
+    "person:Moses",
+    "person:Aaron",
+    "person:Miriam"
+  ],
+  "siblings": [
+    "person:Izhar",
+    "person:Hebron",
+    "person:Uzziel"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Levi",
+  "related_places": {
+    "death_place": [
+      "place:Egypt"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amram",
+      "alternate_labels": [
+        "Amramite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Amram",
+          "article": "person:Amram",
+          "description": "The father of the Moses, Aaron, and Miriam."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Amram"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006020",
+    "04003027",
+    "13006003"
+  ],
+  "references": [
+    "02006018",
+    "02006020",
+    "04003019",
+    "04003027",
+    "04026058",
+    "04026059",
+    "13005028",
+    "13005029",
+    "13006003",
+    "13023012",
+    "13023013",
+    "13024020",
+    "13026023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060180031"
+      ],
+      [
+        "o020060200021"
+      ],
+      [
+        "o020060200161"
+      ],
+      [
+        "o040030190041"
+      ],
+      [
+        "o040030270032"
+      ],
+      [
+        "o040260580171"
+      ],
+      [
+        "o040260590031"
+      ],
+      [
+        "o040260590132"
+      ],
+      [
+        "o130050280031"
+      ],
+      [
+        "o130050290021"
+      ],
+      [
+        "o130060030031"
+      ],
+      [
+        "o130230120031"
+      ],
+      [
+        "o130230130021"
+      ],
+      [
+        "o130240200051"
+      ],
+      [
+        "o130260230012"
+      ]
+    ]
+  }
+}

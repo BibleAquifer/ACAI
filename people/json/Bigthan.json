@@ -1,0 +1,72 @@
+{
+  "id": "person:Bigthan",
+  "primary_id": "person:Bigthan",
+  "alternate_sources": {
+    "aquifer": [
+      "4235|Bigthan, Bigthana|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Bigthan@Est.2.21-"
+    ],
+    "vizbible": [
+      "recN5b0tN1tbnQV0h"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Official"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bigthan",
+      "alternate_labels": [
+        "Bigthana"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bigthan",
+          "article": "person:Bigthan",
+          "description": "A eunuch in the court of King Ahasuerus during the exile and return, mentioned in Esther as Bigthan in 2:21 and Bigthana in 6:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "17002021",
+    "17006002"
+  ],
+  "references": [
+    "17002021",
+    "17006002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170020210081"
+      ],
+      [
+        "o170060020071"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o170020210152"
+      ],
+      [
+        "o170020210162"
+      ],
+      [
+        "o170060020151"
+      ],
+      [
+        "o170060020162"
+      ]
+    ]
+  }
+}

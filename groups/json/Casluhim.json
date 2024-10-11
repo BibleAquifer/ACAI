@@ -1,0 +1,55 @@
+{
+  "id": "group:Casluhim",
+  "primary_id": "group:Casluhim",
+  "alternate_sources": {
+    "aquifer": [
+      "4441|Casluhim, Casluhites|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Casluhim@Gen.10.14-1Ch"
+    ],
+    "vizbible": [
+      "reczCNpUoLpJhVJES"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Egypt",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Casluhim",
+      "alternate_labels": [
+        "Kasluhites",
+        "Casluhites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Casluhim",
+          "article": "group:Casluhim",
+          "description": "People descended from Egypt, a son of Ham (Genesis 10:6), a son of Noah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010014",
+    "13001012"
+  ],
+  "references": [
+    "01010014",
+    "13001012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100140041"
+      ],
+      [
+        "o130010120041"
+      ]
+    ]
+  }
+}

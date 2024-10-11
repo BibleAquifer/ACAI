@@ -1,0 +1,84 @@
+{
+  "id": "place:Betonim",
+  "primary_id": "place:Betonim",
+  "alternate_sources": {
+    "aquifer": [
+      "4216|Betonim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a079478"
+    ],
+    "ubsdbh": [
+      "000921001001000"
+    ],
+    "tipnr": [
+      "Betonim@Jos.13.26"
+    ],
+    "vizbible": [
+      "reclU35dQBp3Hbg9P"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000921001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Betonim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Betonim",
+          "gloss": "Betonim",
+          "description": "A town east of the Jordan River in the territory of Gad."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Gad",
+  "subregion_of": [
+    "place:TerritoryOfGad"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בְּטֹנִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.0105",
+      "lon": "35.706297"
+    },
+    "vizbible": {
+      "lat": "32.0105",
+      "lon": "35.706297"
+    }
+  },
+  "key_references": [
+    "06013026"
+  ],
+  "references": [
+    "06013026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060130260052"
+      ]
+    ]
+  }
+}

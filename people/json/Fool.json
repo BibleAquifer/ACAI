@@ -1,0 +1,81 @@
+{
+  "id": "person:Fool",
+  "primary_id": "person:Fool",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Fool",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Fool",
+          "description": "A foolish person participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "19014001",
+    "19053002"
+  ],
+  "references": [
+    "19014001",
+    "19053002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190140010041"
+      ],
+      [
+        "o190530020021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o210120120031"
+      ],
+      [
+        "o210070100021"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o190140010061",
+          "o190140010071"
+        ]
+      },
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o190530020041",
+          "o190530020051"
+        ]
+      },
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o210070100031",
+          "o210070100041",
+          "o210070100051",
+          "o210070100052",
+          "o210070100053",
+          "o210070100061",
+          "o210070100062",
+          "o210070100071",
+          "o210070100081",
+          "o210070100091",
+          "o210070100092"
+        ]
+      }
+    ]
+  }
+}

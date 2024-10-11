@@ -1,0 +1,75 @@
+{
+  "id": "place:PeoplesGate",
+  "primary_id": "place:PeoplesGate",
+  "alternate_sources": {
+    "tipnr": [
+      "People's_Gate@Jer.17.19"
+    ],
+    "vizbible": [
+      "rec8064V4gSQu7kT9"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "People’s Gate",
+      "alternate_labels": [
+        "People's( Gate)",
+        "Gate of the People",
+        "Gate of the Children of the People",
+        "people"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:People’sGate",
+          "gloss": "People’s Gate",
+          "description": "A gate in the walls of Jerusalem."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "24017019"
+  ],
+  "references": [
+    "24017019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240170190102"
+      ]
+    ]
+  }
+}

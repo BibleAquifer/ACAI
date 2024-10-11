@@ -1,0 +1,51 @@
+{
+  "id": "deity:Merodach",
+  "primary_id": "deity:Merodach",
+  "alternate_sources": {
+    "aquifer": [
+      "7072|Merodach|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004375001001000"
+    ],
+    "tipnr": [
+      "Merodach@Jer.50.2"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "004375001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Merodach",
+      "alternate_labels": [
+        "Marduk"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Merodach",
+          "article": "deity:Merodach",
+          "description": "The primary god of Babylon."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24050002"
+  ],
+  "references": [
+    "24050002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240500020151"
+      ]
+    ]
+  }
+}

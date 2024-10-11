@@ -1,0 +1,77 @@
+{
+  "id": "place:Makheloth",
+  "primary_id": "place:Makheloth",
+  "alternate_sources": {
+    "aquifer": [
+      "6884|Makheloth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004321001001000"
+    ],
+    "tipnr": [
+      "Makheloth@Num.33.25-"
+    ],
+    "vizbible": [
+      "rec31Re0o2h9DhFS2"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004321001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Makheloth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Makheloth",
+          "gloss": "Makheloth",
+          "description": "A location in the Sinai Peninsula, between Haradah and Tahath, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    },
+    "vizbible": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    }
+  },
+  "key_references": [
+    "04033026",
+    "04033025"
+  ],
+  "references": [
+    "04033025",
+    "04033026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330250042"
+      ],
+      [
+        "o040330260022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "place:Timnah.2",
+  "primary_id": "place:Timnah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8847|Timnah (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007848001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/746825"
+    ],
+    "tipnr": [
+      "Timnah@Jos.15.57"
+    ],
+    "vizbible": [
+      "receQFsm4ho89MI7O"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007848001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Timnah (of Judah)",
+      "alternate_labels": [
+        "Timnah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Timnah.2",
+          "gloss": "Timnah (of Judah)",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.699323",
+      "lon": "35.040359"
+    },
+    "recogito": {
+      "lat": "29.761686",
+      "lon": "34.963689"
+    },
+    "vizbible": {
+      "lat": "31.699323",
+      "lon": "35.040359"
+    }
+  },
+  "key_references": [
+    "06015057"
+  ],
+  "references": [
+    "06015057"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150570032"
+      ]
+    ]
+  }
+}

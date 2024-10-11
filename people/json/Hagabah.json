@@ -1,0 +1,57 @@
+{
+  "id": "person:Hagabah",
+  "primary_id": "person:Hagabah",
+  "alternate_sources": {
+    "aquifer": [
+      "5581|Hagaba, Hagabah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hagabah@Ezr.2.45-Neh",
+      "Hagaba|Hagabah@Ezr.2.45-Neh"
+    ],
+    "vizbible": [
+      "recFnoNg6ZyJM2OWz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hagabah",
+      "alternate_labels": [
+        "Hagaba"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hagabah",
+          "article": "person:Hagabah",
+          "description": "Hagabah, also known as Hagaba, was a man who lived during the time of exile and return, as mentioned in Ezra 2:45 and Nehemiah 7:48."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hagaba"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002045",
+    "16007048"
+  ],
+  "references": [
+    "15002045",
+    "16007048"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020450041"
+      ],
+      [
+        "o160070480041"
+      ]
+    ]
+  }
+}

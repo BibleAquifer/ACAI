@@ -1,0 +1,88 @@
+{
+  "id": "place:Chephar-ammoni",
+  "primary_id": "place:Chephar-ammoni",
+  "alternate_sources": {
+    "aquifer": [
+      "4505|Chephar-Ammoni, Chephar-Haammonai|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2cb16b"
+    ],
+    "ubsdbh": [
+      "003410001001000"
+    ],
+    "tipnr": [
+      "Chephar-ammoni@Jos.18.24"
+    ],
+    "vizbible": [
+      "rec9WinQK7lA6PSWj"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003410001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chephar-ammoni",
+      "alternate_labels": [
+        "Ketiv. Qere",
+        "Chephar-haammonai",
+        "Chephar-Haammoni",
+        "Kephar-Ammoni",
+        "Chephar-ammonah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chephar-ammoni",
+          "gloss": "Chephar-Ammoni",
+          "description": "A city in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.966667",
+      "lon": "35.25"
+    },
+    "vizbible": {
+      "lat": "31.966667",
+      "lon": "35.25"
+    }
+  },
+  "key_references": [
+    "06018024"
+  ],
+  "references": [
+    "06018024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180240012",
+        "o060180240031"
+      ]
+    ]
+  }
+}

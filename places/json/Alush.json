@@ -1,0 +1,86 @@
+{
+  "id": "place:Alush",
+  "primary_id": "place:Alush",
+  "alternate_sources": {
+    "aquifer": [
+      "3531|Alush|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000405001001000"
+    ],
+    "tipnr": [
+      "Alush@Num.33.13-"
+    ],
+    "vizbible": [
+      "rechIcKjYna1HSS8d"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000405001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Alush",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Alush",
+          "gloss": "Alush",
+          "description": "A location in the Sinai Peninsula, between Dophkah and Rephidim, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Dophkah",
+    "place:Rephidim",
+    "place:Sin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אָלוּשׁ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.770015",
+      "lon": "33.400460"
+    },
+    "vizbible": {
+      "lat": "28.770015",
+      "lon": "33.400460"
+    }
+  },
+  "key_references": [
+    "04033013"
+  ],
+  "references": [
+    "04033013",
+    "04033014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330130042"
+      ],
+      [
+        "o040330140022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "place:ZephathahValley",
+  "primary_id": "place:ZephathahValley",
+  "alternate_sources": {
+    "obi": [
+      "a6bf8d4"
+    ],
+    "ubsdbh": [
+      "006311001001000",
+      "001390001008000"
+    ],
+    "tipnr": [
+      "Zephathah_Valley@2Ch.14.10"
+    ],
+    "vizbible": [
+      "rec1cz9Ftp0zE3jJK"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006311001001000",
+    "001390001008000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Zephathah",
+      "alternate_labels": [
+        "valley of Zepah",
+        "Zephathah Valley"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfZephathah",
+          "gloss": "Valley of Zephathah",
+          "description": "A valley near Mareshah in the Shephelah where Asa fought with Zerah the Cushite (2 Chronicles 14:9)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Mareshah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "צִקְלַג",
+      "גַּיְא"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley",
+      "special"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.615198",
+      "lon": "34.910085"
+    },
+    "vizbible": {
+      "lat": "31.615198",
+      "lon": "34.910085"
+    }
+  },
+  "key_references": [
+    "14014009"
+  ],
+  "references": [
+    "14014009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140140090062",
+        "o140140090071"
+      ]
+    ]
+  }
+}

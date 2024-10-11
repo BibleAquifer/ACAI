@@ -1,0 +1,96 @@
+{
+  "id": "place:Beth-dagon.2",
+  "primary_id": "place:Beth-dagon.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4165|Beth-Dagon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000942001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/687852"
+    ],
+    "tipnr": [
+      "Beth-dagon@Jos.19.27"
+    ],
+    "vizbible": [
+      "recjgY0m1tj2lUfHI"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000942001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-dagon (of Asher)",
+      "alternate_labels": [
+        "Beth-Dagon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-dagon.2",
+          "gloss": "Beth-Dagon (of Asher)",
+          "description": "A town in the territory of Asher."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית־דָּגֹון",
+      "בֵּית־דָּגוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.899561",
+      "lon": "35.107928"
+    },
+    "recogito": {
+      "lat": "32.010099",
+      "lon": "34.832044"
+    },
+    "vizbible": {
+      "lat": "32.899561",
+      "lon": "35.107928"
+    }
+  },
+  "key_references": [
+    "06019027"
+  ],
+  "references": [
+    "06019027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190270041",
+        "o060190270051"
+      ]
+    ]
+  }
+}

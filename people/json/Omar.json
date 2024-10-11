@@ -1,0 +1,78 @@
+{
+  "id": "person:Omar",
+  "primary_id": "person:Omar",
+  "alternate_sources": {
+    "aquifer": [
+      "7485|Omar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000193001001000"
+    ],
+    "tipnr": [
+      "Omar@Gen.36.11-1Ch"
+    ],
+    "vizbible": [
+      "rec0Ctdb2a8sMOozt"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliphaz",
+  "mother": "person:WifeOfEliphaz",
+  "siblings": [
+    "person:Teman",
+    "person:Zepho",
+    "person:Gatam",
+    "person:Kenaz",
+    "person:Amalek",
+    "person:Korah.2"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "000193001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Omar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Omar",
+          "article": "person:Omar",
+          "description": "Omar, first mentioned in Genesis 36:11, is a man from the time of the patriarchs who is the son of Eliphaz and grandson of Esau, belonging to the Edomites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֹומָר",
+      "אוֹמָר"
+    ]
+  },
+  "key_references": [
+    "01036011",
+    "01036015",
+    "13001036"
+  ],
+  "references": [
+    "01036011",
+    "01036015",
+    "13001036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360110051"
+      ],
+      [
+        "o010360150121"
+      ],
+      [
+        "o130010360042"
+      ]
+    ]
+  }
+}

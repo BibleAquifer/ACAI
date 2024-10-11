@@ -1,0 +1,110 @@
+{
+  "id": "place:Meribah.2",
+  "primary_id": "place:Meribah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6971|Massah and Meribah|TyndaleBibleDictionary",
+      "7069|Meribah|TyndaleBibleDictionary",
+      "132340|Meribah|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Meribah-kadesh|Meribah@Num.20.13-Psa",
+      "Meribah@Num.20.13-Psa"
+    ],
+    "vizbible": [
+      "rec1irrySVGkYieCr"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meribah",
+      "alternate_labels": [
+        "Waters of Meribah-kadesh",
+        "waters of strife in Kadesh",
+        "Waters of Meribah",
+        "Meribah Kadesh",
+        "Meribah-kadesh",
+        "Meribah at Kadesh",
+        "Meribah by Kadesh",
+        "Meribot Kadesh",
+        "strife in Kadesh",
+        "Meribath-kadesh",
+        "Waters of Meribath-kadesh",
+        "Meribath Kadesh"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Meribah-kadesh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Landmark"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.68771281376111",
+      "lon": "34.49479554246946"
+    },
+    "vizbible": {
+      "lat": "30.68771281376111",
+      "lon": "34.49479554246946"
+    }
+  },
+  "references": [
+    "04020013",
+    "04020024",
+    "04027014",
+    "05032051",
+    "05033002",
+    "19081008",
+    "19106032",
+    "26047019",
+    "26048028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040200130031"
+      ],
+      [
+        "o040200240201"
+      ],
+      [
+        "o040270140062"
+      ],
+      [
+        "o040270140131"
+      ],
+      [
+        "o050320510091",
+        "o050320510101"
+      ],
+      [
+        "o190810080101"
+      ],
+      [
+        "o191060320041"
+      ],
+      [
+        "o260470190071",
+        "o260470190081"
+      ],
+      [
+        "o260480280121",
+        "o260480280131"
+      ]
+    ]
+  }
+}

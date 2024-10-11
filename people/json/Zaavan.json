@@ -1,0 +1,70 @@
+{
+  "id": "person:Zaavan",
+  "primary_id": "person:Zaavan",
+  "alternate_sources": {
+    "aquifer": [
+      "9111|Zaavan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002019001001000"
+    ],
+    "tipnr": [
+      "Zaavan@Gen.36.27-1Ch"
+    ],
+    "vizbible": [
+      "recYd2uMuWHrctoFp"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ezer",
+  "siblings": [
+    "person:Bilhan",
+    "person:Akan"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "002019001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zaavan",
+      "alternate_labels": [
+        "Zavan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zaavan",
+          "article": "person:Zaavan",
+          "description": "Zaavan, also known as Zavan, is a man from the time of the patriarchs, a son of Ezer, mentioned in Genesis."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זַעֲוָן"
+    ]
+  },
+  "key_references": [
+    "01036027",
+    "13001042"
+  ],
+  "references": [
+    "01036027",
+    "13001042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360270052"
+      ],
+      [
+        "o130010420042"
+      ]
+    ]
+  }
+}

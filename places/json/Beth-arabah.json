@@ -1,0 +1,107 @@
+{
+  "id": "place:Beth-arabah",
+  "primary_id": "place:Beth-arabah",
+  "alternate_sources": {
+    "aquifer": [
+      "4154|Beth-Arabah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a3f8916"
+    ],
+    "tipnr": [
+      "Beth-arabah@Jos.15.6-1Ch",
+      "Arbathite|Beth-arabah@Jos.15.6-1Ch"
+    ],
+    "vizbible": [
+      "rec72wlsoWnXTzVfy"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-arabah",
+      "alternate_labels": [
+        "Arbathite",
+        "Arabah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-arabah",
+          "gloss": "Beth-Arabah",
+          "description": "A town in the wilderness on the boundary between the territories of Judah and Benjamin."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Arbathite"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.843320",
+      "lon": "35.506490"
+    },
+    "vizbible": {
+      "lat": "31.843320",
+      "lon": "35.506490"
+    }
+  },
+  "key_references": [
+    "06015006",
+    "06018018"
+  ],
+  "references": [
+    "06015006",
+    "06015061",
+    "06018018",
+    "06018022",
+    "10023031",
+    "13011032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150060072",
+        "o060150060081"
+      ],
+      [
+        "o060150610021",
+        "o060150610031"
+      ],
+      [
+        "o060180180052"
+      ],
+      [
+        "o060180180082"
+      ],
+      [
+        "o060180220012",
+        "o060180220021"
+      ],
+      [
+        "o100230310032"
+      ],
+      [
+        "o130110320052"
+      ]
+    ]
+  }
+}

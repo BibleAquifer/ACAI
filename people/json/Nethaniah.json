@@ -1,0 +1,131 @@
+{
+  "id": "person:Nethaniah",
+  "primary_id": "person:Nethaniah",
+  "alternate_sources": {
+    "aquifer": [
+      "7372|Nethaniah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004962001001000",
+      "004963001004000"
+    ],
+    "tipnr": [
+      "Nethaniah@2Ki.25.23-Jer"
+    ],
+    "vizbible": [
+      "recUaYP1sfourCAWn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Elishama.3",
+  "offspring": [
+    "person:Ishmael.2"
+  ],
+  "roles": [
+    "Military Commander",
+    "Warrior"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "004962001001000",
+    "004963001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nethaniah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nethaniah",
+          "article": "person:Nethaniah",
+          "description": "A son of Elishama and father of Ishmael, who opposed Governor Gedaliah during the time of the Prophet Jeremiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נְתַנְיָה",
+      "נְתַנְיָ֫הוּ",
+      "נְתַנְיָהוּ"
+    ]
+  },
+  "key_references": [
+    "12025023",
+    "24040008",
+    "24041001"
+  ],
+  "references": [
+    "12025023",
+    "12025025",
+    "24040008",
+    "24040014",
+    "24040015",
+    "24041001",
+    "24041002",
+    "24041006",
+    "24041007",
+    "24041009",
+    "24041010",
+    "24041011",
+    "24041012",
+    "24041015",
+    "24041016",
+    "24041018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120250230191"
+      ],
+      [
+        "o120250250071"
+      ],
+      [
+        "o240400080071"
+      ],
+      [
+        "o240400140141"
+      ],
+      [
+        "o240400150161"
+      ],
+      [
+        "o240410010071"
+      ],
+      [
+        "o240410020041"
+      ],
+      [
+        "o240410060041"
+      ],
+      [
+        "o240410070091"
+      ],
+      [
+        "o240410090271"
+      ],
+      [
+        "o240410100291"
+      ],
+      [
+        "o240410110171"
+      ],
+      [
+        "o240410120101"
+      ],
+      [
+        "o240410150031"
+      ],
+      [
+        "o240410160191"
+      ],
+      [
+        "o240410180101"
+      ]
+    ]
+  }
+}

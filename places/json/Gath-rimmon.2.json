@@ -1,0 +1,96 @@
+{
+  "id": "place:Gath-rimmon.2",
+  "primary_id": "place:Ibleam",
+  "alternate_sources": {
+    "aquifer": [
+      "5378|Gath-Rimmon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001527001001000"
+    ],
+    "tipnr": [
+      "Gath-rimmon|Ibleam@Jos.17.11-1Ch"
+    ],
+    "vizbible": [
+      "recDCYv3vAHJFz0BC"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001527001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gath-rimmon (of Manasseh)",
+      "alternate_labels": [
+        "Gath-Rimmon",
+        "Ibleam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gath-rimmon.2",
+          "gloss": "Gath-Rimmon (of Manasseh)",
+          "description": "A Levitical town in the territory of Manasseh, west of the Jordan River."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Bileam"
+  ],
+  "referred_to_as": [
+    "place:Ibleam"
+  ],
+  "tribal_area": "group:Manasseh",
+  "subregion_of": [
+    "place:TerritoryOfWestManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "lemmas": {
+    "he": [
+      "גַּת־רִמֹּון",
+      "גַּת־רִמּוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.45",
+      "lon": "35.2833"
+    },
+    "vizbible": {
+      "lat": "32.45",
+      "lon": "35.2833"
+    }
+  },
+  "key_references": [
+    "06021025"
+  ],
+  "references": [
+    "06021025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060210250091",
+        "o060210250101"
+      ]
+    ]
+  }
+}

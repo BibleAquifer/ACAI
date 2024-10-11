@@ -1,0 +1,63 @@
+{
+  "id": "person:Elam.4",
+  "primary_id": "person:Elam.4",
+  "alternate_sources": {
+    "aquifer": [
+      "4964|Elam (Person)|TyndaleBibleDictionary",
+      "4965|Elam (Place), Elamites|TyndaleBibleDictionary",
+      "26550|Elam|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005386001004000"
+    ],
+    "tipnr": [
+      "Elam@1Ch.26.3"
+    ],
+    "vizbible": [
+      "rec5ulwCAVOCVTByn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Meshelemiah",
+  "siblings": [
+    "person:Zechariah.2",
+    "person:Jediael.4",
+    "person:Zebadiah.4",
+    "person:Jathniel",
+    "person:Jehohanan",
+    "person:Eliehoenai"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005386001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elam (1 Chronicles 26:3)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elam (1 Chronicles 26:3)",
+          "article": "person:Elam.4",
+          "description": "Elam was a son of Meshelemiah and brother to Zechariah, Jediael, Zebadiah, Jathniel, Jehohanan, and Eliehoenai, living during the time of the divided kingdom, mentioned in 1 Chronicles 26:3."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13026003"
+  ],
+  "references": [
+    "13026003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130260030011"
+      ]
+    ]
+  }
+}

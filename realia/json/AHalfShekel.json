@@ -1,0 +1,58 @@
+{
+  "id": "realia:AHalfShekel",
+  "primary_id": "realia:AHalfShekel",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001143001001000"
+    ],
+    "ubsrealia": [
+      "realia:11.1.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "001143001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Half Shekel",
+      "alternate_labels": [
+        "Beka"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Half Shekel",
+          "article": "realia:AHalfShekel",
+          "description": "A weight of about 5.75 grams, equal to 10 gerahs, used for measuring gold and silver."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּקַע"
+    ]
+  },
+  "key_references": [
+    "01024022",
+    "02038026"
+  ],
+  "references": [
+    "01024022",
+    "02038026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010240220101"
+      ],
+      [
+        "o020380260011"
+      ]
+    ]
+  }
+}

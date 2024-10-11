@@ -1,0 +1,104 @@
+{
+  "id": "place:Achzib",
+  "primary_id": "place:Achzib",
+  "alternate_sources": {
+    "aquifer": [
+      "3346|Achzib|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Cozeba|Achzib@Jos.15.44-Mic",
+      "Achzib@Jos.15.44-Mic",
+      "Chezib|Achzib@Jos.15.44-Mic"
+    ],
+    "vizbible": [
+      "recrmEKu11xT3oWQd"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Achzib (of Judah)",
+      "alternate_labels": [
+        "Kozeba",
+        "Aczib",
+        "Akzib",
+        "Chozeba",
+        "Cozeba",
+        "Chezib",
+        "Achzib"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Achzib.1",
+          "gloss": "Achzib (of Judah)",
+          "description": "A town in the western foothills of the territory of Judah; possibly another name for Chezib."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Chezib"
+  ],
+  "referred_to_as": [
+    "place:Chezib",
+    "place:Cozeba"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.7",
+      "lon": "35"
+    },
+    "vizbible": {
+      "lat": "31.7",
+      "lon": "35"
+    }
+  },
+  "key_references": [
+    "33001014",
+    "06015044"
+  ],
+  "references": [
+    "01038005",
+    "06015044",
+    "13004022",
+    "33001014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380050102"
+      ],
+      [
+        "o060150440022"
+      ],
+      [
+        "o130040220031"
+      ],
+      [
+        "o330010140081"
+      ]
+    ]
+  }
+}

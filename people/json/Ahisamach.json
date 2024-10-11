@@ -1,0 +1,72 @@
+{
+  "id": "person:Ahisamach",
+  "primary_id": "person:Ahisamach",
+  "alternate_sources": {
+    "aquifer": [
+      "3456|Ahisamach|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000278001001000"
+    ],
+    "tipnr": [
+      "Ahisamach@Exo.31.6-"
+    ],
+    "vizbible": [
+      "recm2lw9m64Y7ATo9"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Oholiab"
+  ],
+  "ubsdbh": [
+    "000278001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahisamach",
+      "alternate_labels": [
+        "Ahisamak"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahisamach",
+          "article": "person:Ahisamach",
+          "description": "A man from the tribe of Dan, father of Oholiab, mentioned during the time of Egypt and the wilderness in Exodus 31:6."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִיסָמָךְ"
+    ]
+  },
+  "key_references": [
+    "02031006",
+    "02035034",
+    "02038023"
+  ],
+  "references": [
+    "02031006",
+    "02035034",
+    "02038023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020310060081"
+      ],
+      [
+        "o020350340071"
+      ],
+      [
+        "o020380230041"
+      ]
+    ]
+  }
+}

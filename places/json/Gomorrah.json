@@ -1,0 +1,209 @@
+{
+  "id": "place:Gomorrah",
+  "primary_id": "place:Gomorrah",
+  "alternate_sources": {
+    "aquifer": [
+      "5510|Gomorrah|TyndaleBibleDictionary",
+      "8557|Sodom and Gomorrah|TyndaleBibleDictionary",
+      "26652|Gomorrah|UWTranslationWords",
+      "132195|Sodom and Gomorrah|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "aa572e2"
+    ],
+    "tipnr": [
+      "Gomorrah@Gen.10.19-Jud"
+    ],
+    "vizbible": [
+      "rec34nlC2Rt0dlYyu"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gomorrah",
+      "alternate_labels": [
+        "Gomorrha",
+        "[ ]"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gomorrah",
+          "gloss": "Gomorrah",
+          "description": "A town near the Dead Sea that was destroyed with Sodom."
+        }
+      ]
+    }
+  },
+  "associated_places": [
+    "place:Sodom"
+  ],
+  "nearby_places": [
+    "place:SaltSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.15724867",
+      "lon": "35.47395433"
+    },
+    "vizbible": {
+      "lat": "31.15724867",
+      "lon": "35.47395433"
+    }
+  },
+  "key_references": [
+    "01018020",
+    "01010019",
+    "01019024",
+    "01014008"
+  ],
+  "references": [
+    "01010019",
+    "01013010",
+    "01014002",
+    "01014008",
+    "01014010",
+    "01014011",
+    "01018020",
+    "01019024",
+    "01019028",
+    "05029022",
+    "05032032",
+    "23001009",
+    "23001010",
+    "23013019",
+    "24023014",
+    "24049018",
+    "24050040",
+    "30004011",
+    "36002009",
+    "40010015",
+    "41006011",
+    "45009029",
+    "61002006",
+    "65001007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100190112"
+      ],
+      [
+        "o010130100191"
+      ],
+      [
+        "o010140020101"
+      ],
+      [
+        "o010140080051"
+      ],
+      [
+        "o010140100092"
+      ],
+      [
+        "o010140110062"
+      ],
+      [
+        "o010180200052"
+      ],
+      [
+        "o010190240061"
+      ],
+      [
+        "o010190280052"
+      ],
+      [
+        "o050290220172"
+      ],
+      [
+        "o050320320061"
+      ],
+      [
+        "o230010090102"
+      ],
+      [
+        "o230010100101"
+      ],
+      [
+        "o230130190131"
+      ],
+      [
+        "o240230140202"
+      ],
+      [
+        "o240490180032"
+      ],
+      [
+        "o240500400061"
+      ],
+      [
+        "o300040110081"
+      ],
+      [
+        "o360020090152"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40010015009"
+      ],
+      [
+        "n45009029018"
+      ],
+      [
+        "n61002006005"
+      ],
+      [
+        "n65001007004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010190250042"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n65001007008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010180210071"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n65001007014"
+      ],
+      [
+        "n65001007016"
+      ],
+      [
+        "n65001007025"
+      ]
+    ]
+  }
+}

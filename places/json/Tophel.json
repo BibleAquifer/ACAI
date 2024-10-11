@@ -1,0 +1,85 @@
+{
+  "id": "place:Tophel",
+  "primary_id": "place:Tophel",
+  "alternate_sources": {
+    "aquifer": [
+      "8895|Tophel|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a7ecf6c"
+    ],
+    "ubsdbh": [
+      "007897001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/250198"
+    ],
+    "tipnr": [
+      "Tophel@Deu.1.1"
+    ],
+    "vizbible": [
+      "recvRJEpbtYG2ErL5"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2910732"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007897001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tophel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tophel",
+          "gloss": "Tophel",
+          "description": "A location in the Arabah not far from the place where Moses repeated the law. "
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.936991",
+      "lon": "35.61687"
+    },
+    "recogito": {
+      "lat": "30.83752",
+      "lon": "35.60442"
+    },
+    "vizbible": {
+      "lat": "30.936991",
+      "lon": "35.61687"
+    }
+  },
+  "key_references": [
+    "05001001"
+  ],
+  "references": [
+    "05001001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050010010181"
+      ]
+    ]
+  }
+}

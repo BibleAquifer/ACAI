@@ -1,0 +1,35 @@
+{
+  "id": "place:Montecassino",
+  "primary_id": "place:Montecassino",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Montecassino",
+          "gloss": "Montecassion",
+          "description": "A hilltop in central Italy, southeast of Rome, where the Montecassino Abbey is located. The abbey was founded by Saint Benedict in the sixth century."
+        }
+      ],
+      "preferred_label": "Montecassion"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "41.49034",
+      "lon": "13.81389"
+    }
+  }
+}

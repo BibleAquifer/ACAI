@@ -1,0 +1,98 @@
+{
+  "id": "place:Pirathon",
+  "primary_id": "place:Pirathon",
+  "alternate_sources": {
+    "aquifer": [
+      "7744|Pirathon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a40647c"
+    ],
+    "tipnr": [
+      "Pirathon@Jdg.12.15-1Ch"
+    ],
+    "vizbible": [
+      "recuKYVxx1PqOEsiB"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2946726"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pirathon",
+      "alternate_labels": [
+        "Pirathonite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pirathon",
+          "gloss": "Pirathon",
+          "description": "A town in the hill country of Ephraim."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.286022",
+      "lon": "35.022944"
+    },
+    "vizbible": {
+      "lat": "32.286022",
+      "lon": "35.022944"
+    }
+  },
+  "key_references": [
+    "07012015"
+  ],
+  "references": [
+    "07012013",
+    "07012015",
+    "10023030",
+    "13011031",
+    "13027014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070120130082"
+      ],
+      [
+        "o070120150052"
+      ],
+      [
+        "o070120150072"
+      ],
+      [
+        "o100230300021"
+      ],
+      [
+        "o130110310082"
+      ],
+      [
+        "o130270140072"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "group:Eran",
+  "primary_id": "group:Eran",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005682001001000"
+    ],
+    "tipnr": [
+      "Eran@Num.26.36"
+    ],
+    "vizbible": [
+      "recBGM7FM6ZLFt91b"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Eran",
+  "ubsdbh": [
+    "005682001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eranites",
+      "alternate_labels": [
+        "Eran"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eranites",
+          "article": "group:Eran",
+          "description": "People descended from Eran, of the tribe of Ephraim."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַרְעֹור",
+      "עֲרֹעֵר"
+    ]
+  },
+  "key_references": [
+    "04026036"
+  ],
+  "references": [
+    "04026036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260360062"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "person:Nogah",
+  "primary_id": "person:Nogah",
+  "alternate_sources": {
+    "aquifer": [
+      "7421|Nogah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004630002001000"
+    ],
+    "tipnr": [
+      "Nogah@1Ch.3.7-"
+    ],
+    "vizbible": [
+      "recPb6u81qAX46CYI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:JerusalemWives",
+  "siblings": [
+    "person:Amnon",
+    "person:Chileab",
+    "person:Absalom",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shammua.2",
+    "person:Shobab",
+    "person:Nathan",
+    "person:Solomon",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Nepheg.2",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliada",
+    "person:Eliphelet",
+    "person:Tamar.2",
+    "person:Elpelet",
+    "person:Jerimoth.6"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "004630002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nogah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nogah",
+          "article": "person:Nogah",
+          "description": "Nogah was a son of David from the tribe of Judah during Israel's united kingdom, first mentioned in 1 Chronicles 3:7."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13003007",
+    "13014006"
+  ],
+  "references": [
+    "13003007",
+    "13014006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030070012"
+      ],
+      [
+        "o130140060012"
+      ]
+    ]
+  }
+}

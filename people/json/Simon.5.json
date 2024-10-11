@@ -1,0 +1,88 @@
+{
+  "id": "person:Simon.5",
+  "primary_id": "person:Simon.5",
+  "alternate_sources": {
+    "aquifer": [
+      "6860|Magus, Simon|TyndaleBibleDictionary",
+      "8511|Simon|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.341d"
+    ],
+    "tipnr": [
+      "Simon@Mat.27.32-Luk"
+    ],
+    "vizbible": [
+      "recrxBjuAgqdAeTfn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Alexander",
+    "person:Rufus"
+  ],
+  "ubsdgnt": [
+    "93.341d"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Simon (of Cyrene)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Simon (of Cyrene)",
+          "article": "person:Simon.5",
+          "description": "A man from Cyrene who was forced to carry the cross of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σίμων"
+    ]
+  },
+  "key_references": [
+    "40027032",
+    "41015021",
+    "42023026"
+  ],
+  "references": [
+    "40027032",
+    "41015021",
+    "42023026"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027032007"
+      ],
+      [
+        "n41015021005"
+      ],
+      [
+        "n42023026006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42023026013"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42023026009"
+      ],
+      [
+        "n42023026016"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "person:Ethan.2",
+  "primary_id": "person:Ethan.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5170|Ethan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000363002002000"
+    ],
+    "tipnr": [
+      "Ethan@1Ch.2.6-"
+    ],
+    "vizbible": [
+      "reclpVrP60tMPGpdQ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zerah.3",
+  "offspring": [
+    "person:Azariah.4"
+  ],
+  "siblings": [
+    "person:Zabdi",
+    "person:Heman.2",
+    "person:Calcol.2",
+    "person:Dara"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000363002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ethan (1 Chronicles 2:6)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ethan (1 Chronicles 2:6)",
+          "article": "person:Ethan.2",
+          "description": "Ethan, first mentioned in 1 Chronicles 2:6, was a man from the tribe of Judah before Israel's Monarchy and the son of Zerah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵיתָן"
+    ]
+  },
+  "key_references": [
+    "13002006",
+    "13002008"
+  ],
+  "references": [
+    "13002006",
+    "13002008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020060042"
+      ],
+      [
+        "o130020080021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "realia:Footstool",
+  "primary_id": "realia:Footstool",
+  "alternate_sources": {
+    "aquifer": [
+      "5287|Footstool|TyndaleBibleDictionary",
+      "26607|Footstool|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "6.117"
+    ],
+    "ubsrealia": [
+      "realia:5.8"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.117"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Footstool",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Footstool",
+          "article": "realia:Footstool",
+          "description": "A small piece of furniture used to rest one’s feet."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὑποπόδιον"
+    ]
+  },
+  "key_references": [
+    "13028002",
+    "23066001",
+    "40005035"
+  ],
+  "references": [
+    "40005035",
+    "42020043",
+    "44002035",
+    "44007049",
+    "58001013",
+    "58010013",
+    "59002003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40005035006"
+      ],
+      [
+        "n42020043007"
+      ],
+      [
+        "n44002035007"
+      ],
+      [
+        "n44007049008"
+      ],
+      [
+        "n58001013018"
+      ],
+      [
+        "n58010013009"
+      ],
+      [
+        "n59002003027"
+      ]
+    ]
+  }
+}

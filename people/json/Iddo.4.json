@@ -1,0 +1,59 @@
+{
+  "id": "person:Iddo.4",
+  "primary_id": "person:Iddo.4",
+  "alternate_sources": {
+    "aquifer": [
+      "5985|Iddo|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Adaiah|Iddo@1Ch.6.21-",
+      "Iddo@1Ch.6.21-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joah.2",
+  "offspring": [
+    "person:Zerah.4"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Iddo (1 Chronicles 6:21)",
+      "alternate_labels": [
+        "Adaiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Iddo (1 Chronicles 6:21)",
+          "article": "person:Iddo.4",
+          "description": "A man of the tribe of Levi, son of Joah, father of Zerah, also called Adaiah, living during the time of the divided kingdom, and first mentioned in 1 Chronicles 6:21."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Adaiah.8"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13006006",
+    "13006026"
+  ],
+  "references": [
+    "13006006",
+    "13006026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060060031"
+      ],
+      [
+        "o130060260061"
+      ]
+    ]
+  }
+}

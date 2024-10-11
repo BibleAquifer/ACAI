@@ -1,0 +1,70 @@
+{
+  "id": "person:Hadassah",
+  "primary_id": "person:Esther",
+  "alternate_sources": {
+    "aquifer": [
+      "5573|Hadassah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001769001001000"
+    ],
+    "tipnr": [
+      "Hadassah|Esther@Est.2.7-"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Abihail.5",
+  "roles": [
+    "Queen"
+  ],
+  "ubsdbh": [
+    "001769001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadassah (Esther)",
+      "alternate_labels": [
+        "Esther"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Esther",
+          "article": "person:Hadassah",
+          "description": "Hadassah, better known as Esther, was the daughter of Abihail and the wife of King Ahasuerus, becoming queen of Persia during the time of the exile and return as mentioned in Esther 2:7."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Esther"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֲדַסָּה"
+    ]
+  },
+  "key_references": [
+    "17002007"
+  ],
+  "references": [
+    "17002007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170020070041"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o170020070051"
+      ]
+    ]
+  }
+}

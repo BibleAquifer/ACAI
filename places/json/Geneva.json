@@ -1,0 +1,35 @@
+{
+  "id": "place:Geneva",
+  "primary_id": "place:Geneva",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Geneva",
+          "gloss": "Geneva",
+          "description": "A city in southwest Switzerland occupied by the Romans in the first century AD. It was a center of the Protestant Reformation in the sixteenth century."
+        }
+      ],
+      "preferred_label": "Geneva"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "46.19351",
+      "lon": "6.13982"
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "person:SyrophonecianWoman",
+  "primary_id": "person:SyrophonecianWoman",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Syrophonecian Woman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Syrophonecian Woman",
+          "description": "A woman who asks Jesus to deliver her daughter from demon possession."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40015027"
+  ],
+  "references": [
+    "40015027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40015027001"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40015022003"
+      ],
+      [
+        "n40015022011"
+      ],
+      [
+        "n40015022003"
+      ],
+      [
+        "n40015025006"
+      ],
+      [
+        "n41007026003"
+      ],
+      [
+        "n41007028005"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "pleading",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40015022012",
+          "n40015022013",
+          "n40015022014",
+          "n40015022015",
+          "n40015022016",
+          "n40015022017",
+          "n40015022018",
+          "n40015022019",
+          "n40015022020",
+          "n40015022021"
+        ]
+      },
+      {
+        "delivery": "pleading",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40015025007",
+          "n40015025008",
+          "n40015025009"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n40015027004",
+          "n40015027005",
+          "n40015027006",
+          "n40015027007",
+          "n40015027008",
+          "n40015027009",
+          "n40015027010",
+          "n40015027011",
+          "n40015027012",
+          "n40015027013",
+          "n40015027014",
+          "n40015027015",
+          "n40015027016",
+          "n40015027017",
+          "n40015027018",
+          "n40015027019",
+          "n40015027020",
+          "n40015027021"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n41007028007",
+          "n41007028008",
+          "n41007028009",
+          "n41007028010",
+          "n41007028011",
+          "n41007028012",
+          "n41007028013",
+          "n41007028014",
+          "n41007028015",
+          "n41007028016",
+          "n41007028017",
+          "n41007028018",
+          "n41007028019"
+        ]
+      }
+    ]
+  }
+}

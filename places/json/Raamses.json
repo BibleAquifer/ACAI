@@ -1,0 +1,65 @@
+{
+  "id": "place:Raamses",
+  "primary_id": "place:Raamses",
+  "alternate_sources": {
+    "aquifer": [
+      "7891|Raamses|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006875001001000"
+    ],
+    "tipnr": [
+      "Raamses@Exo.1.11"
+    ],
+    "vizbible": [
+      "recFKDaCksomouPcF"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006875001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Raamses",
+      "alternate_labels": [
+        "Rameses"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.59385132817632",
+      "lon": "32.18555803140015"
+    },
+    "vizbible": {
+      "lat": "30.59385132817632",
+      "lon": "32.18555803140015"
+    }
+  },
+  "references": [
+    "01047011",
+    "02001011",
+    "02012037",
+    "04033003",
+    "04033005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020010110151"
+      ]
+    ]
+  }
+}

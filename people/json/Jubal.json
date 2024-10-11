@@ -1,0 +1,65 @@
+{
+  "id": "person:Jubal",
+  "primary_id": "person:Jubal",
+  "alternate_sources": {
+    "aquifer": [
+      "6472|Jubal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002850002001000"
+    ],
+    "tipnr": [
+      "Jubal@Gen.4.21"
+    ],
+    "vizbible": [
+      "recVhnKz7p6Itqx94"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Lamech",
+  "mother": "person:Adah",
+  "siblings": [
+    "person:Jabal",
+    "person:Tubal-cain",
+    "person:Naamah.2"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "002850002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jubal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jubal",
+          "article": "person:Jubal",
+          "description": "A man living before the Flood, son of Lamech and Adah, and ancestor of those who play harps and flutes, mentioned in Genesis 4:21."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יוּבַל",
+      "יוּבָ֑ל"
+    ]
+  },
+  "key_references": [
+    "01004021"
+  ],
+  "references": [
+    "01004021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040210031"
+      ]
+    ]
+  }
+}

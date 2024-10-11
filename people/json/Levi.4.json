@@ -1,0 +1,106 @@
+{
+  "id": "person:Levi.4",
+  "primary_id": "person:Matthew",
+  "alternate_sources": {
+    "aquifer": [
+      "6729|Levi (Person)|TyndaleBibleDictionary",
+      "6734|Levi, Tribe of|TyndaleBibleDictionary",
+      "132329|Levi|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.231a",
+      "93.231a 93.232"
+    ],
+    "tipnr": [
+      "Levi|Matthew@Mat.9.9-Act"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Alphaeus.2",
+  "roles": [
+    "Apostle",
+    "Tax Collector"
+  ],
+  "ubsdgnt": [
+    "93.231a",
+    "93.231a 93.232"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Levi (Matthew)",
+      "alternate_labels": [
+        "Matthew"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Matthew",
+          "article": "person:Levi.4",
+          "description": "A tax collector who became one of the twelve apostles, also called Matthew."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Matthew"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Λευί",
+      "Λευίς"
+    ]
+  },
+  "key_references": [
+    "41002014",
+    "42005027",
+    "42005029"
+  ],
+  "references": [
+    "41002014",
+    "42005027",
+    "42005029"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41002014004"
+      ],
+      [
+        "n42005027009"
+      ],
+      [
+        "n42005029005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n41002014014"
+      ],
+      [
+        "n41002015008"
+      ],
+      [
+        "n42005029010"
+      ],
+      [
+        "n42005029021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n41002014015"
+      ],
+      [
+        "n41002014018",
+        "n41002014019"
+      ]
+    ]
+  }
+}

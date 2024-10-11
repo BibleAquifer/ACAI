@@ -1,0 +1,99 @@
+{
+  "id": "place:En-tappuah",
+  "primary_id": "place:Tappuah",
+  "alternate_sources": {
+    "aquifer": [
+      "5095|En-Tappuah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005403001001000"
+    ],
+    "tipnr": [
+      "En-tappuah|Tappuah@Jos.12.17-"
+    ],
+    "vizbible": [
+      "recSySWSC0EoRsqIB"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005403001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "En-tappuah",
+      "alternate_labels": [
+        "Tappuah",
+        "spring of Tappuah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:En-tappuah",
+          "gloss": "En-Tappuah",
+          "description": "A spring on the boundary between the territories of Judah and Benjamin."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Tappuah"
+  ],
+  "referred_to_as": [
+    "place:Tappuah"
+  ],
+  "nearby_places": [
+    "place:Tappuah"
+  ],
+  "subregion_of": [
+    "place:Shephelah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵינַיִם",
+      "עֵינָם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "spring"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "spring"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.11666667",
+      "lon": "35.23333333"
+    },
+    "vizbible": {
+      "lat": "32.11666667",
+      "lon": "35.23333333"
+    }
+  },
+  "key_references": [
+    "06017007"
+  ],
+  "references": [
+    "06017007",
+    "06017009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060170070161",
+        "o060170070171"
+      ]
+    ]
+  }
+}

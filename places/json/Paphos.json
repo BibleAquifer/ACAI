@@ -1,0 +1,108 @@
+{
+  "id": "place:Paphos",
+  "primary_id": "place:Paphos",
+  "alternate_sources": {
+    "aquifer": [
+      "7571|Paphos|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a314765"
+    ],
+    "ubsdgnt": [
+      "93.549"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/22716"
+    ],
+    "tipnr": [
+      "Paphos@Act.13.6-"
+    ],
+    "vizbible": [
+      "recwmQgLTTKcYdJjk"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q180918"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.549"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Paphos",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Paphos",
+          "gloss": "Paphos",
+          "description": "A seaport city on the southwest coast of the island of Cyprus, where Paul and Barnabas encountered Elymas the sorcerer (Acts 13:6–12)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Salamis"
+  ],
+  "subregion_of": [
+    "place:Cyprus"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Πάφος"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.75410576",
+      "lon": "32.40016213"
+    },
+    "recogito": {
+      "lat": "34.707147",
+      "lon": "32.573711"
+    },
+    "vizbible": {
+      "lat": "34.707147",
+      "lon": "32.573711"
+    },
+    "biblica-maps": {
+      "lat": "34.75721",
+      "lon": "32.40659"
+    }
+  },
+  "key_references": [
+    "44013006",
+    "44013013"
+  ],
+  "references": [
+    "44013006",
+    "44013013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44013006007"
+      ],
+      [
+        "n44013013005"
+      ]
+    ]
+  }
+}

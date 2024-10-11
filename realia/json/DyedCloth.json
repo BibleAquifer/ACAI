@@ -1,0 +1,93 @@
+{
+  "id": "realia:DyedCloth",
+  "primary_id": "realia:DyedCloth",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000123001002000",
+      "006114001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.5.3.14"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "000123001002000",
+    "006114001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dyed Cloth",
+      "alternate_labels": [
+        "To Paint Red",
+        "To Dye Red"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dyed Cloth",
+          "article": "realia:DyedCloth",
+          "description": "Cloth that has been colored by humans, often highly valued."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אדם",
+      "צֶבַע"
+    ]
+  },
+  "key_references": [
+    "02025005",
+    "02035023",
+    "07005030"
+  ],
+  "references": [
+    "02025005",
+    "02026014",
+    "02035007",
+    "02035023",
+    "02036019",
+    "02039034",
+    "07005030",
+    "34002004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020250050031"
+      ],
+      [
+        "o020260140061"
+      ],
+      [
+        "o020350070031"
+      ],
+      [
+        "o020350230141"
+      ],
+      [
+        "o020360190061"
+      ],
+      [
+        "o020390340052"
+      ],
+      [
+        "o340020040031"
+      ],
+      [
+        "o070050300101"
+      ],
+      [
+        "o070050300131"
+      ],
+      [
+        "o070050300151"
+      ]
+    ]
+  }
+}

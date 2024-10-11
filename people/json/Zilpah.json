@@ -1,0 +1,102 @@
+{
+  "id": "person:Zilpah",
+  "primary_id": "person:Zilpah",
+  "alternate_sources": {
+    "aquifer": [
+      "9224|Zilpah|TyndaleBibleDictionary",
+      "27232|Zilpah|UWTranslationWords",
+      "132236|Zilpah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001991001001000"
+    ],
+    "tipnr": [
+      "Zilpah@Gen.29.24-"
+    ],
+    "vizbible": [
+      "recFLDH19XTo80Gpr"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Israel"
+  ],
+  "offspring": [
+    "person:Gad",
+    "person:Asher"
+  ],
+  "roles": [
+    "Matriarch",
+    "Concubine"
+  ],
+  "ubsdbh": [
+    "001991001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zilpah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zilpah",
+          "article": "person:Zilpah",
+          "description": "A slave of the matriarch Leah and concubine of the patriarch Jacob, and the mother of Gad and Asher."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זִלְפָּה"
+    ]
+  },
+  "key_references": [
+    "01030009",
+    "01030010",
+    "01046018"
+  ],
+  "references": [
+    "01029024",
+    "01030009",
+    "01030010",
+    "01030012",
+    "01035026",
+    "01037002",
+    "01046018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010290240051"
+      ],
+      [
+        "o010300090081"
+      ],
+      [
+        "o010300100021"
+      ],
+      [
+        "o010300120021"
+      ],
+      [
+        "o010350260021"
+      ],
+      [
+        "o010370020211"
+      ],
+      [
+        "o010460180031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010460180092"
+      ]
+    ]
+  }
+}

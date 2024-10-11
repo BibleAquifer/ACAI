@@ -1,0 +1,38 @@
+{
+  "id": "person:FatherOfTimothy",
+  "primary_id": "person:FatherOfTimothy",
+  "alternate_sources": {
+    "tipnr": [
+      "father_of_Timothy@Act.16.1-Heb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Eunice"
+  ],
+  "offspring": [
+    "person:Timothy"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Father of Timothy",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Father of Timothy",
+          "article": "person:FatherOfTimothy",
+          "description": "The Father of Timothy is an unnamed man from the New Testament period, known as the father of Timothy."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44016001"
+  ],
+  "references": [
+    "44016001"
+  ]
+}

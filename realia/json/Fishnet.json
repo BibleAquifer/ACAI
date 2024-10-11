@@ -1,0 +1,147 @@
+{
+  "id": "realia:Fishnet",
+  "primary_id": "realia:Fishnet",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.11"
+    ],
+    "ubsdbh": [
+      "004291001002000"
+    ],
+    "ubsrealia": [
+      "realia:1.3.1.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.11"
+  ],
+  "ubsdbh": [
+    "004291001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fishnet",
+      "alternate_labels": [
+        "Net"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Fishnet",
+          "article": "realia:Fishnet",
+          "description": "A net with small and large mesh layers, held by floats and weights, used to catch fish by trapping them in the water."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "realia:CastingNet",
+    "realia:Dragnet"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מָצֹוד"
+    ],
+    "el": [
+      "δίκτυον"
+    ]
+  },
+  "key_references": [
+    "40004020",
+    "18019006",
+    "35001015"
+  ],
+  "references": [
+    "18019006",
+    "19066011",
+    "21007026",
+    "21009012",
+    "26012013",
+    "26017020",
+    "40004020",
+    "40004021",
+    "41001018",
+    "41001019",
+    "42005002",
+    "42005004",
+    "42005005",
+    "42005006",
+    "43021006",
+    "43021008",
+    "43021011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180190060062",
+        "o180190060063"
+      ],
+      [
+        "o190660110022"
+      ],
+      [
+        "o210070260091"
+      ],
+      [
+        "o210090120102"
+      ],
+      [
+        "o260120130062",
+        "o260120130063"
+      ],
+      [
+        "o260170200052",
+        "o260170200053"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40004020006"
+      ],
+      [
+        "n40004021027"
+      ],
+      [
+        "n41001018005"
+      ],
+      [
+        "n41001019021"
+      ],
+      [
+        "n42005002017"
+      ],
+      [
+        "n42005004016"
+      ],
+      [
+        "n42005005019"
+      ],
+      [
+        "n42005006011"
+      ],
+      [
+        "n43021006013"
+      ],
+      [
+        "n43021008022"
+      ],
+      [
+        "n43021011008"
+      ],
+      [
+        "n43021011024"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43021006020"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "realia:Needle",
+  "primary_id": "realia:Needle",
+  "alternate_sources": {
+    "aquifer": [
+      "7339|Needle|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.215",
+      "6.216"
+    ],
+    "ubsrealia": [
+      "realia:5.21.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.215",
+    "6.216"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Needle",
+      "alternate_labels": [
+        "Hole",
+        "Needles"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Needle",
+          "article": "realia:Needle",
+          "description": "A small, pointed tool with a hole for thread, used for sewing."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βελόνη",
+      "ῥαφίς",
+      "τρῆμα"
+    ]
+  },
+  "key_references": [
+    "40019024",
+    "41010025",
+    "42018025"
+  ],
+  "references": [
+    "40019024",
+    "41010025",
+    "42018025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42018025007"
+      ],
+      [
+        "n40019024010"
+      ],
+      [
+        "n41010025008"
+      ],
+      [
+        "n42018025006"
+      ]
+    ]
+  }
+}

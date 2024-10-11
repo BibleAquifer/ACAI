@@ -1,0 +1,82 @@
+{
+  "id": "realia:Capital",
+  "primary_id": "realia:Capital",
+  "alternate_sources": {
+    "aquifer": [
+      "4420|Capital|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "7.45"
+    ],
+    "ubsdbh": [
+      "003415001002000"
+    ],
+    "ubsrealia": [
+      "realia:3.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.45"
+  ],
+  "ubsdbh": [
+    "003415001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Capital",
+      "alternate_labels": [
+        "Pillar",
+        "Column"
+      ],
+      "descriptions": []
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כַּפְתֹּור"
+    ],
+    "el": [
+      "στῦλος"
+    ]
+  },
+  "references": [
+    "30009001",
+    "36002014",
+    "54003015",
+    "66003012",
+    "66010001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o300090010092"
+      ],
+      [
+        "o360020140112",
+        "o360020140113"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n54003015017"
+      ],
+      [
+        "n66003012005"
+      ],
+      [
+        "n66010001031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o300090010123"
+      ]
+    ]
+  }
+}

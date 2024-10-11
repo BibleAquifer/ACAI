@@ -1,0 +1,52 @@
+{
+  "id": "group:Tahan",
+  "primary_id": "group:Tahan",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007771001001000"
+    ],
+    "tipnr": [
+      "Tahan@Num.26.35"
+    ],
+    "vizbible": [
+      "rec1WrurVFg2qHArC"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Tahan",
+  "ubsdbh": [
+    "007771001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tahanites",
+      "alternate_labels": [
+        "Tahan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tahanites",
+          "article": "group:Tahan",
+          "description": "People descended from Tahan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026035"
+  ],
+  "references": [
+    "04026035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260350132"
+      ]
+    ]
+  }
+}

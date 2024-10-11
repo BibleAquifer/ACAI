@@ -1,0 +1,63 @@
+{
+  "id": "fauna:Snail",
+  "primary_id": "fauna:Snail",
+  "alternate_sources": {
+    "aquifer": [
+      "8548|Snail|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007173001001000"
+    ],
+    "ubsfauna": [
+      "fauna:5.4"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Fish, Frogs and Mollusks",
+  "ubsdbh": [
+    "007173001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Snail",
+      "alternate_labels": [
+        "Slug"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Snail",
+          "article": "fauna:Snail",
+          "description": "A land mollusk with a spiral shell and a slimy body used for movement."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שַׁבְּלוּל"
+    ]
+  },
+  "key_references": [
+    "19058009"
+  ],
+  "references": [
+    "19058009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190580090021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o190580090041"
+      ]
+    ]
+  }
+}

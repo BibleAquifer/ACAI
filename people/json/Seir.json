@@ -1,0 +1,99 @@
+{
+  "id": "person:Seir",
+  "primary_id": "person:Seir",
+  "alternate_sources": {
+    "aquifer": [
+      "8211|Seir (Person)|TyndaleBibleDictionary",
+      "27068|Seir|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007063001001000"
+    ],
+    "tipnr": [
+      "Seir@Gen.36.20-1Ch"
+    ],
+    "vizbible": [
+      "recOX7bzog0NALtK7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Lotan",
+    "person:Shobal",
+    "person:Zibeon.2",
+    "person:Anah.2",
+    "person:Dishon",
+    "person:Ezer",
+    "person:Dishan",
+    "person:Timna.2"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "007063001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seir",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seir",
+          "article": "person:Seir",
+          "description": "Seir, mentioned in Genesis 36:20, was a man living during the time of the patriarchs and the father of several children including Lotan and Shobal."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036020",
+    "01036021",
+    "13001038"
+  ],
+  "references": [
+    "01036020",
+    "01036021",
+    "13001038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360200031"
+      ],
+      [
+        "o010360210081"
+      ],
+      [
+        "o130010380021"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o260250080011",
+          "o260250080021",
+          "o260250080031",
+          "o260250080032",
+          "o260250080041",
+          "o260250080051",
+          "o260250080061",
+          "o260250080071",
+          "o260250080081",
+          "o260250080082",
+          "o260250080091",
+          "o260250080101",
+          "o260250080102",
+          "o260250080111",
+          "o260250080112",
+          "o260250080121",
+          "o260250080131"
+        ]
+      }
+    ]
+  }
+}

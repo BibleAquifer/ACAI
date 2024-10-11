@@ -1,0 +1,51 @@
+{
+  "id": "realia:Hoe",
+  "primary_id": "realia:Hoe",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004190001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.1.9.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004190001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hoe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hoe",
+          "article": "realia:Hoe",
+          "description": "A tool with a flat metal blade and a long wooden handle, used for loosening soil and removing weeds."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַעְדֵּר"
+    ]
+  },
+  "key_references": [
+    "23007025",
+    "09013020"
+  ],
+  "references": [
+    "23007025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230070250042"
+      ]
+    ]
+  }
+}

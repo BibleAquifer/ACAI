@@ -1,0 +1,85 @@
+{
+  "id": "place:Lebaoth",
+  "primary_id": "place:Lebaoth",
+  "alternate_sources": {
+    "aquifer": [
+      "6707|Lebaoth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003497001001000"
+    ],
+    "tipnr": [
+      "Lebaoth@Jos.15.32"
+    ],
+    "vizbible": [
+      "recUtMwho4a5xqTCQ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003497001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lebaoth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lebaoth",
+          "gloss": "Lebaoth",
+          "description": "A town in the territory of Simeon; also referred to as Beth-Leboath."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Beth-lebaoth"
+  ],
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "לְבָאֹות",
+      "לְבָאוֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.391668",
+      "lon": "34.940502"
+    },
+    "vizbible": {
+      "lat": "31.391668",
+      "lon": "34.940502"
+    }
+  },
+  "key_references": [
+    "06015032"
+  ],
+  "references": [
+    "06015032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150320012"
+      ]
+    ]
+  }
+}

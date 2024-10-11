@@ -1,0 +1,150 @@
+{
+  "id": "realia:Reed",
+  "primary_id": "realia:Reed",
+  "alternate_sources": {
+    "aquifer": [
+      "7974|Reed|TyndaleBibleDictionary",
+      "27021|Reed|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "003715001006000",
+      "006507001003000"
+    ],
+    "ubsrealia": [
+      "realia:11.4.1.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003715001006000",
+    "006507001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Reed",
+      "alternate_labels": [
+        "Measuring Reed",
+        "Measuring Stick"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Reed",
+          "article": "realia:Reed",
+          "description": "A long plant stem used as a measuring stick, equal to about 3.1 meters."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִדָּה",
+      "קָנֶה"
+    ]
+  },
+  "key_references": [
+    "26040003",
+    "26040005",
+    "26042016"
+  ],
+  "references": [
+    "26040003",
+    "26040005",
+    "26040006",
+    "26040007",
+    "26040008",
+    "26041008",
+    "26042016",
+    "26042017",
+    "26042018",
+    "26042019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260400030132"
+      ],
+      [
+        "o260400050102"
+      ],
+      [
+        "o260420160052"
+      ],
+      [
+        "o260420160112"
+      ],
+      [
+        "o260420170082"
+      ],
+      [
+        "o260420180092"
+      ],
+      [
+        "o260420190102"
+      ],
+      [
+        "o260400030122"
+      ],
+      [
+        "o260400050091"
+      ],
+      [
+        "o260400050191"
+      ],
+      [
+        "o260400050221"
+      ],
+      [
+        "o260400060151"
+      ],
+      [
+        "o260400060211"
+      ],
+      [
+        "o260400070021"
+      ],
+      [
+        "o260400070052"
+      ],
+      [
+        "o260400070181"
+      ],
+      [
+        "o260400080061"
+      ],
+      [
+        "o260410080102"
+      ],
+      [
+        "o260420160042"
+      ],
+      [
+        "o260420160091"
+      ],
+      [
+        "o260420160102"
+      ],
+      [
+        "o260420170061"
+      ],
+      [
+        "o260420170072"
+      ],
+      [
+        "o260420180071"
+      ],
+      [
+        "o260420180082"
+      ],
+      [
+        "o260420190081"
+      ],
+      [
+        "o260420190092"
+      ]
+    ]
+  }
+}

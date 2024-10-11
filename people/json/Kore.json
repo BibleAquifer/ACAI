@@ -1,0 +1,63 @@
+{
+  "id": "person:Kore",
+  "primary_id": "person:Kore",
+  "alternate_sources": {
+    "aquifer": [
+      "6646|Kore|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006557002001000",
+      "006557002002000"
+    ],
+    "tipnr": [
+      "Kore@1Ch.9.19-"
+    ],
+    "vizbible": [
+      "recmSgF32FBkhk1Uh"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ebiasaph",
+  "siblings": [
+    "person:Assir.2"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "006557002001000",
+    "006557002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kore",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kore",
+          "article": "person:Kore",
+          "description": "A man of the tribe of Levi living during the times of Egypt and the wilderness, first mentioned in 1 Chronicles 9:19, son of Ebiasaph and brother of Assir, also known as a Korahite."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009019",
+    "13026001"
+  ],
+  "references": [
+    "13009019",
+    "13026001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090190031"
+      ],
+      [
+        "o130260010061"
+      ]
+    ]
+  }
+}

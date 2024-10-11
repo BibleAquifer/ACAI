@@ -1,0 +1,154 @@
+{
+  "id": "realia:Myrrh",
+  "primary_id": "realia:Myrrh",
+  "alternate_sources": {
+    "aquifer": [
+      "7253|Myrrh|TyndaleBibleDictionary",
+      "26895|Myrrh|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "6.205",
+      "6.208"
+    ],
+    "ubsrealia": [
+      "realia:10.6.1.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.205",
+    "6.208"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Myrrh",
+      "alternate_labels": [
+        "Perfume",
+        "Perfumed Oil"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Myrrh",
+          "article": "realia:Myrrh",
+          "description": "A sweet-smelling and costly resin used for perfume and ointment."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μύρον",
+      "σμύρνα"
+    ]
+  },
+  "key_references": [
+    "40002011",
+    "41014003",
+    "43019039"
+  ],
+  "references": [
+    "40002011",
+    "40026007",
+    "40026012",
+    "41014003",
+    "41014004",
+    "41014005",
+    "42007037",
+    "42007038",
+    "42007046",
+    "42023056",
+    "43011002",
+    "43012003",
+    "43012005",
+    "43019039",
+    "66018013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40026007006"
+      ],
+      [
+        "n40026012005"
+      ],
+      [
+        "n41014003018"
+      ],
+      [
+        "n41014004013"
+      ],
+      [
+        "n41014005005"
+      ],
+      [
+        "n42007037021"
+      ],
+      [
+        "n42007038031"
+      ],
+      [
+        "n42007046009"
+      ],
+      [
+        "n42023056006"
+      ],
+      [
+        "n43011002008"
+      ],
+      [
+        "n43012003006"
+      ],
+      [
+        "n43012003031"
+      ],
+      [
+        "n43012005005"
+      ],
+      [
+        "n66018013008"
+      ],
+      [
+        "n40002011030"
+      ],
+      [
+        "n43019039014"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40026009003"
+      ],
+      [
+        "n40026012006"
+      ],
+      [
+        "n41014005003"
+      ],
+      [
+        "n43012005003"
+      ],
+      [
+        "n43012007015"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40026009004"
+      ],
+      [
+        "n40026009007"
+      ],
+      [
+        "n41014005006"
+      ]
+    ]
+  }
+}

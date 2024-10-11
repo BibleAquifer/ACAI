@@ -1,0 +1,105 @@
+{
+  "id": "place:Moladah",
+  "primary_id": "place:Moladah",
+  "alternate_sources": {
+    "aquifer": [
+      "7187|Moladah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a03a5d0"
+    ],
+    "ubsdbh": [
+      "003776001001000"
+    ],
+    "tipnr": [
+      "Moladah@Jos.15.26-Neh"
+    ],
+    "vizbible": [
+      "recNebppBEBJdV4YY"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6895634"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003776001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Moladah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Moladah",
+          "gloss": "Moladah",
+          "description": "A town in the territory of Judah and later assigned to Simeon."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah",
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מֹולָדָה",
+      "מוֹלָדָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    },
+    "vizbible": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    }
+  },
+  "key_references": [
+    "13004028",
+    "06019002"
+  ],
+  "references": [
+    "06015026",
+    "06019002",
+    "13004028",
+    "16011026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150260032"
+      ],
+      [
+        "o060190020072"
+      ],
+      [
+        "o130040280042"
+      ],
+      [
+        "o160110260023"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "place:Senaah",
+  "primary_id": "place:Senaah",
+  "alternate_sources": {
+    "aquifer": [
+      "8221|Senaah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005111001001000"
+    ],
+    "tipnr": [
+      "Senaah@Ezr.2.35-Neh"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005111001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Senaah",
+      "alternate_labels": [
+        "Hassenaah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Senaah",
+          "gloss": "Senaah",
+          "description": "A location where some of those who returned from exile with Zerubbabel originally came from; exact meaning unsure."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "סַנְבַלַּט"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "special",
+      "settlement"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "key_references": [
+    "16007038",
+    "16003003",
+    "15002035"
+  ],
+  "references": [
+    "15002035",
+    "16003003",
+    "16007038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020350021"
+      ],
+      [
+        "o160070380021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "place:Timnath-serah",
+  "primary_id": "place:Timnath-heres",
+  "alternate_sources": {
+    "aquifer": [
+      "8849|Timnath-Heres, Timnath-Serah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007852001001000"
+    ],
+    "tipnr": [
+      "Timnath-serah|Timnath-heres@Jdg.2.9-Jdg"
+    ],
+    "vizbible": [
+      "recLqhClSrRFpvMvG"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007852001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Timnath-serah",
+      "alternate_labels": [
+        "Timnath Heres",
+        "Timnath Serah",
+        "Timnah-heres",
+        "Timnath-heres",
+        "Timnath-Heres",
+        "Timnath-serah"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Timnath-heres"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.121473",
+      "lon": "35.150392"
+    },
+    "vizbible": {
+      "lat": "32.121473",
+      "lon": "35.150392"
+    }
+  },
+  "key_references": [
+    "06019050",
+    "06024030",
+    "07002009"
+  ],
+  "references": [
+    "06019050",
+    "06024030",
+    "07002009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190500111",
+        "o060190500121"
+      ],
+      [
+        "o060240300052",
+        "o060240300061"
+      ]
+    ]
+  }
+}

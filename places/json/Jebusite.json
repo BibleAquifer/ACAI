@@ -1,0 +1,68 @@
+{
+  "id": "place:Jebusite",
+  "primary_id": "place:Jerusalem",
+  "alternate_sources": {
+    "aquifer": [
+      "6250|Jebus, Jebusite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002746001001000"
+    ],
+    "tipnr": [
+      "Jebusite|Jerusalem@Jos.10.1-Rev"
+    ],
+    "vizbible": [
+      "recC8Nf4sI5O2LSMv"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002746001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jebusite",
+      "alternate_labels": [
+        "Jerusalem"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יְבוּסִי"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "06015008"
+  ],
+  "references": [
+    "06015008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150080082"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "place:Geba",
+  "primary_id": "place:Geba",
+  "alternate_sources": {
+    "aquifer": [
+      "5391|Geba|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001278001001000"
+    ],
+    "tipnr": [
+      "Geba@Jos.18.24-Zec"
+    ],
+    "vizbible": [
+      "recE4R1DFGiDMLM5y"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001278001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Geba",
+      "alternate_labels": [
+        "Gibeah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Geba.1",
+          "gloss": "Geba",
+          "description": "A Levitical town in the territory of Benjamin, possibly to be identified with Gibeah; hometown of King Saul."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Gibeah.2"
+  ],
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גֶּבַע",
+      "גֶּ֫בַע",
+      "גִּבְעָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.85787804",
+      "lon": "35.25975522"
+    },
+    "vizbible": {
+      "lat": "31.85787804",
+      "lon": "35.25975522"
+    }
+  },
+  "key_references": [
+    "12023008",
+    "11015022"
+  ],
+  "references": [
+    "06018024",
+    "06021017",
+    "09013003",
+    "09013004",
+    "09013016",
+    "09014005",
+    "11015022",
+    "12023008",
+    "13006045",
+    "13008006",
+    "14016006",
+    "15002026",
+    "16007030",
+    "16011031",
+    "16012029",
+    "23010029",
+    "38014010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180240052"
+      ],
+      [
+        "o060210170081"
+      ],
+      [
+        "o090130030072"
+      ],
+      [
+        "o090130160082"
+      ],
+      [
+        "o090140050101"
+      ],
+      [
+        "o110150220231"
+      ],
+      [
+        "o120230080142"
+      ],
+      [
+        "o130060450041"
+      ],
+      [
+        "o130080060091"
+      ],
+      [
+        "o140160060191"
+      ],
+      [
+        "o150020260032"
+      ],
+      [
+        "o160070300032"
+      ],
+      [
+        "o160110310032"
+      ],
+      [
+        "o160120290041"
+      ],
+      [
+        "o230100290031"
+      ],
+      [
+        "o380140100052"
+      ]
+    ]
+  }
+}

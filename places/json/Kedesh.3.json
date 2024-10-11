@@ -1,0 +1,44 @@
+{
+  "id": "place:Kedesh.3",
+  "primary_id": "place:Kedesh.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6531|Kedesh|TyndaleBibleDictionary",
+      "26793|Kedesh|UWTranslationWords"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kedesh.3",
+          "gloss": "Kedesh (of Issachar)",
+          "description": "A Levitical town in the territory of Issachar, assigned to the clan of Gershon; possibly to be identified with Kishion."
+        }
+      ],
+      "preferred_label": "Kedesh (of Issachar)"
+    }
+  },
+  "possibly_same_as": [
+    "place:Kishion"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "13006057"
+  ]
+}

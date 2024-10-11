@@ -1,0 +1,64 @@
+{
+  "id": "person:ShipCaptain",
+  "primary_id": "person:ShipCaptain",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ship Captain",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ship Captain",
+          "description": "A ship's captain participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "32001006",
+    "32001006"
+  ],
+  "references": [
+    "32001006",
+    "32001006"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o320010060031"
+      ],
+      [
+        "o320010060052"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o320010060071",
+          "o320010060081",
+          "o320010060082",
+          "o320010060091",
+          "o320010060101",
+          "o320010060111",
+          "o320010060121",
+          "o320010060131",
+          "o320010060132",
+          "o320010060141",
+          "o320010060151",
+          "o320010060161",
+          "o320010060162",
+          "o320010060171",
+          "o320010060172",
+          "o320010060181",
+          "o320010060182",
+          "o320010060191"
+        ]
+      }
+    ]
+  }
+}

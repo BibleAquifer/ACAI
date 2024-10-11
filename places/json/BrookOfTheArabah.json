@@ -1,0 +1,78 @@
+{
+  "id": "place:BrookOfTheArabah",
+  "primary_id": "place:BrookOfTheArabah",
+  "alternate_sources": {
+    "aquifer": [
+      "4348|Brook of the Arabah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004729001001000"
+    ],
+    "tipnr": [
+      "Brook_of_the_Arabah@Amo.6.14"
+    ],
+    "vizbible": [
+      "recqoLWlnh3Qritdc"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004729001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Brook of the Arabah",
+      "alternate_labels": [
+        "Valley of the Arabah",
+        "valley of the Arabah",
+        "Arabah Valley",
+        "river of the wilderness",
+        "wadi of the Arabah",
+        "brook of the Arabah",
+        "Wadi Arabah",
+        "Arabah"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "river",
+      "special",
+      "wadi",
+      "body of water",
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.136204",
+      "lon": "36.749488"
+    },
+    "vizbible": {
+      "lat": "35.136204",
+      "lon": "36.749488"
+    }
+  },
+  "key_references": [
+    "30006014"
+  ],
+  "references": [
+    "30006014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o300060140171"
+      ],
+      [
+        "o300060140182"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "person:Mamre",
+  "primary_id": "person:Mamre",
+  "alternate_sources": {
+    "aquifer": [
+      "6911|Mamre (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004089001001000"
+    ],
+    "tipnr": [
+      "Mamre@Gen.14.13"
+    ],
+    "vizbible": [
+      "recjSwiGiy5p8CTUI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:FatherOfMamre",
+  "siblings": [
+    "person:Eshcol",
+    "person:Aner"
+  ],
+  "ubsdbh": [
+    "004089001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mamre",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mamre",
+          "article": "person:Mamre",
+          "description": "An Amorite man living during the time of the patriarchs, mentioned in Genesis 14:13, brother of Eshkol and Aner, and ally of Abram."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַמְרֵא"
+    ]
+  },
+  "key_references": [
+    "01014013"
+  ],
+  "references": [
+    "01014013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140130091"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140130152"
+      ]
+    ]
+  }
+}

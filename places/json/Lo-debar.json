@@ -1,0 +1,104 @@
+{
+  "id": "place:Lo-debar",
+  "primary_id": "place:Lo-debar",
+  "alternate_sources": {
+    "aquifer": [
+      "6767|Lo-Debar|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a376eed"
+    ],
+    "tipnr": [
+      "Lo-debar@Jos.13.26-Amo"
+    ],
+    "vizbible": [
+      "recVFQm1ajEWbVg5k"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6663061"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lo-debar",
+      "alternate_labels": [
+        "Debir"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lo-debar",
+          "gloss": "Lo-Debar",
+          "description": "A town east of the Jordan River, assigned to the tribe of Gad."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Gad",
+  "subregion_of": [
+    "place:TerritoryOfGad"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.662488",
+      "lon": "35.783568"
+    },
+    "vizbible": {
+      "lat": "32.662488",
+      "lon": "35.783568"
+    }
+  },
+  "key_references": [
+    "10017027",
+    "30006013",
+    "10009004"
+  ],
+  "references": [
+    "06013026",
+    "10009004",
+    "10009005",
+    "10017027",
+    "30006013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060130260091"
+      ],
+      [
+        "o100090040162",
+        "o100090040171"
+      ],
+      [
+        "o100090050092",
+        "o100090050101"
+      ],
+      [
+        "o100170270142",
+        "o100170270151"
+      ],
+      [
+        "o300060130022",
+        "o300060130031"
+      ]
+    ]
+  }
+}

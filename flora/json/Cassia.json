@@ -1,0 +1,83 @@
+{
+  "id": "flora:Cassia",
+  "primary_id": "flora:Cassia",
+  "alternate_sources": {
+    "aquifer": [
+      "4443|Cassia|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006368001001000",
+      "006542001001000"
+    ],
+    "ubsflora": [
+      "flora:4.1.3"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "006368001001000",
+    "006542001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cassia",
+      "alternate_labels": [
+        "Cassia Tree"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cassia",
+          "article": "flora:Cassia",
+          "description": "Found in India and Sri Lanka, it has fragrant bark used for spices, perfume, and anointing oil, with buds that flavor food."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קִדָּה",
+      "קְצִיעָה"
+    ]
+  },
+  "key_references": [
+    "02030024",
+    "19045009",
+    "26027019"
+  ],
+  "references": [
+    "02030024",
+    "19045009",
+    "26027019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020300240012"
+      ],
+      [
+        "o260270190081"
+      ],
+      [
+        "o190450090031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020300250022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020300250131"
+      ]
+    ]
+  }
+}

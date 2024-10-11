@@ -1,0 +1,86 @@
+{
+  "id": "place:Almon",
+  "primary_id": "place:Alemeth",
+  "alternate_sources": {
+    "aquifer": [
+      "3522|Almon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005471001001000"
+    ],
+    "tipnr": [
+      "Almon|Alemeth@Jos.21.18-1Ch"
+    ],
+    "vizbible": [
+      "recwuQfjxyqSHBpeN"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005471001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Almon",
+      "alternate_labels": [
+        "Alemeth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Almon",
+          "gloss": "Almon",
+          "description": "A Levitical town in the territory of Benjamin; also known as Alemeth. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Alemeth"
+  ],
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.828406",
+      "lon": "35.287637"
+    },
+    "vizbible": {
+      "lat": "31.828406",
+      "lon": "35.287637"
+    }
+  },
+  "key_references": [
+    "13006045",
+    "06021018"
+  ],
+  "references": [
+    "06021018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060210180061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "place:Alexandria",
+  "primary_id": "place:Alexandria",
+  "alternate_sources": {
+    "aquifer": [
+      "3503|Alexandria|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aee7248"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/15898"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/727070"
+    ],
+    "tipnr": [
+      "Alexandria@Act.6.9-"
+    ],
+    "vizbible": [
+      "recBH7NuHKP1aJEqF"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q87"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Alexandria",
+      "alternate_labels": [
+        "Alexandrians",
+        "Alexandrian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Alexandria",
+          "gloss": "Alexandria",
+          "description": "A major city in Egypt located on the Mediterranean coast. It was founded by Alexander the Great. The city had a large Jewish population and later became a center of early Christianity."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Alexandria"
+  ],
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.22784148",
+      "lon": "29.95692427"
+    },
+    "recogito": {
+      "lat": "31.195371",
+      "lon": "29.904133"
+    },
+    "vizbible": {
+      "lat": "31.195371",
+      "lon": "29.904133"
+    },
+    "biblica-maps": {
+      "lat": "31.20144",
+      "lon": "29.90977"
+    }
+  },
+  "key_references": [
+    "44018024",
+    "44027006",
+    "44028011",
+    "44006009"
+  ],
+  "references": [
+    "44006009",
+    "44018024",
+    "44027006",
+    "44028011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44006009014"
+      ],
+      [
+        "n44018024006"
+      ],
+      [
+        "n44027006006"
+      ],
+      [
+        "n44028011012"
+      ]
+    ]
+  }
+}

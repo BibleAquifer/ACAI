@@ -1,0 +1,58 @@
+{
+  "id": "group:Dodanim",
+  "primary_id": "group:Dodanim",
+  "alternate_sources": {
+    "aquifer": [
+      "4875|Dodanim|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Dodanim@Gen.10.4-1Ch",
+      "Rodanim|Dodanim@Gen.10.4-1Ch"
+    ],
+    "vizbible": [
+      "recjKzpDbTTRHsKft"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dodanim",
+      "alternate_labels": [
+        "Rodanim",
+        "Rodanites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dodanim",
+          "article": "group:Dodanim",
+          "description": "People descended from Noah's son Japheth (Genesis 10:4)"
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Rodanim"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010004",
+    "13001007"
+  ],
+  "references": [
+    "01010004",
+    "13001007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100040062"
+      ],
+      [
+        "o130010070062"
+      ]
+    ]
+  }
+}

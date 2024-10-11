@@ -1,0 +1,51 @@
+{
+  "id": "deity:Accuser",
+  "primary_id": "deity:Satan",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007014001001000"
+    ],
+    "tipnr": [
+      "accuser|Satan@Deu.13.13-Rev"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "demon",
+  "ubsdbh": [
+    "007014001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Accuser (Satan)",
+      "alternate_labels": [
+        "Satan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Satan",
+          "article": "deity:Accuser",
+          "description": "A term used to describe Satan in Psalm 109:6."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Satan"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "19109006"
+  ],
+  "references": [
+    "19109006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o191090060042"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "person:Adriel",
+  "primary_id": "person:Adriel",
+  "alternate_sources": {
+    "aquifer": [
+      "3401|Adriel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005271001001000"
+    ],
+    "tipnr": [
+      "Adriel@1Sa.18.19-2Sa"
+    ],
+    "vizbible": [
+      "recgQf0Jad1WnYSLB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Barzillai.2",
+  "partners": [
+    "person:Merab"
+  ],
+  "ubsdbh": [
+    "005271001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adriel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Adriel",
+          "article": "person:Adriel",
+          "description": "A man living during Israel's united kingdom, son of Barzillai, and married to Merab."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09018019",
+    "10021008"
+  ],
+  "references": [
+    "09018019",
+    "10021008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090180190112"
+      ],
+      [
+        "o100210080242"
+      ]
+    ]
+  }
+}

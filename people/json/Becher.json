@@ -1,0 +1,99 @@
+{
+  "id": "person:Becher",
+  "primary_id": "person:Becher",
+  "alternate_sources": {
+    "aquifer": [
+      "4055|Becher, Becherite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000995001001000"
+    ],
+    "tipnr": [
+      "Becher@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "recwifLoKvrUxJy3V"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "offspring": [
+    "person:Zemirah",
+    "person:Joash.7",
+    "person:Eliezer.4",
+    "person:Elioenai.3",
+    "person:Omri.2",
+    "person:Jeremoth",
+    "person:Abijah.5",
+    "person:Anathoth",
+    "person:Alemeth"
+  ],
+  "siblings": [
+    "person:Bela",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Rosh",
+    "person:Muppim",
+    "person:Huppim",
+    "person:Ard",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000995001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Becher",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Becher",
+          "article": "person:Becher",
+          "description": "A son of the patriarch Benjamin."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּכֶר",
+      "בֶּ֫כֶר"
+    ]
+  },
+  "key_references": [
+    "01046021",
+    "13007006",
+    "13007008"
+  ],
+  "references": [
+    "01046021",
+    "13007006",
+    "13007008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460210042"
+      ],
+      [
+        "o130070060032"
+      ],
+      [
+        "o130070080021"
+      ],
+      [
+        "o130070080151"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "person:Bar-jesus",
+  "primary_id": "person:Bar-jesus",
+  "alternate_sources": {
+    "aquifer": [
+      "4006|Bar-Jesus|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Elymas|Bar-jesus@Act.13.6-",
+      "Bar-jesus@Act.13.6-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bar-jesus",
+      "alternate_labels": [
+        "Elymas"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bar-Jesus",
+          "article": "person:Bar-jesus",
+          "description": "A man living at the time of the New Testament, also called Elymas, mentioned in Acts 13:6."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Elymas"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44013006",
+    "44013008"
+  ],
+  "references": [
+    "44013006",
+    "44013008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44013006016"
+      ],
+      [
+        "n44013008004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44013008012"
+      ],
+      [
+        "n44013009011"
+      ],
+      [
+        "n44013011021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44013008013",
+        "n44013008014"
+      ],
+      [
+        "n44013011026",
+        "n44013011027"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "realia:Awl",
+  "primary_id": "realia:Awl",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004424001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.12.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004424001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Awl",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Awl",
+          "article": "realia:Awl",
+          "description": "A hand tool with a narrow point used for making holes in wood, leather, and other materials."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַרְצֵעַ"
+    ]
+  },
+  "key_references": [
+    "02021006",
+    "05015017"
+  ],
+  "references": [
+    "02021006",
+    "05015017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020210060152"
+      ],
+      [
+        "o050150170032"
+      ]
+    ]
+  }
+}

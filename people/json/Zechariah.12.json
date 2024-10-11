@@ -1,0 +1,132 @@
+{
+  "id": "person:Zechariah.12",
+  "primary_id": "person:Zechariah.12",
+  "alternate_sources": {
+    "aquifer": [
+      "9167|Zechariah (Person)|TyndaleBibleDictionary",
+      "132457|Zechariah|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Zechariah@2Ch.24.20-Luk"
+    ],
+    "vizbible": [
+      "recLdATro2BBFgSJa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoiada.2",
+  "mother": "person:Jehosheba",
+  "roles": [
+    "Prophet"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zechariah (2 Chronicles 24:20)",
+      "alternate_labels": [
+        "Zacharias"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zechariah (2 Chronicles 24:20)",
+          "article": "person:Zechariah.12",
+          "description": "Zechariah, also known as Zacharias, was a priest and son of Jehoiada living during the divided kingdom, mentioned in 2 Chronicles 24:20."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "14024020",
+    "40023035",
+    "42011051"
+  ],
+  "references": [
+    "14024020",
+    "40023035",
+    "42011051"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140240200051"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40023035021"
+      ],
+      [
+        "n42011051006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40023035024"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140240200092"
+      ],
+      [
+        "o140240200122"
+      ],
+      [
+        "o140240220151"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42011051008"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o140240200141",
+          "o140240200151",
+          "o140240200161",
+          "o140240200162",
+          "o140240200171",
+          "o140240200172",
+          "o140240200181",
+          "o140240200191",
+          "o140240200201",
+          "o140240200211",
+          "o140240200221",
+          "o140240200231",
+          "o140240200232",
+          "o140240200241",
+          "o140240200251",
+          "o140240200261",
+          "o140240200271",
+          "o140240200281",
+          "o140240200291",
+          "o140240200292",
+          "o140240200301",
+          "o140240200302"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o140240220161",
+          "o140240220171",
+          "o140240220181",
+          "o140240220182"
+        ]
+      }
+    ]
+  }
+}

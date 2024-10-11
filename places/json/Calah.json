@@ -1,0 +1,113 @@
+{
+  "id": "place:Calah",
+  "primary_id": "place:Calah",
+  "alternate_sources": {
+    "aquifer": [
+      "4385|Calah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae1f807"
+    ],
+    "ubsdbh": [
+      "003321002001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/894019",
+      "http://pleiades.stoa.org/places/894019"
+    ],
+    "tipnr": [
+      "Calah@Gen.10.11-"
+    ],
+    "vizbible": [
+      "recormCJYTGZIW2m0"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q237614"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003321002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Calah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Calah",
+          "gloss": "Calah",
+          "description": "A town in Mesopotamia built by Nimrod after the flood."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Resen"
+  ],
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כֶּלַח",
+      "כֶּ֫לַח"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.142884",
+      "lon": "43.312178"
+    },
+    "recogito": {
+      "lat": "36.09863",
+      "lon": "43.32932"
+    },
+    "vizbible": {
+      "lat": "36.142884",
+      "lon": "43.312178"
+    }
+  },
+  "key_references": [
+    "01010012",
+    "01010011"
+  ],
+  "references": [
+    "01010011",
+    "01010012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100110131"
+      ],
+      [
+        "o010100120061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010100120071"
+      ]
+    ]
+  }
+}

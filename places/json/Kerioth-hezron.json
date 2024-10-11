@@ -1,0 +1,93 @@
+{
+  "id": "place:Kerioth-hezron",
+  "primary_id": "place:Kerioth-hezron",
+  "alternate_sources": {
+    "aquifer": [
+      "6557|Kerioth-Hezron|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006582001002000"
+    ],
+    "tipnr": [
+      "Kerioth-hezron@Jos.15.25"
+    ],
+    "vizbible": [
+      "recnzE5hzdUKE6HSX"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006582001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kerioth-hezron",
+      "alternate_labels": [
+        "Kerioth",
+        "Kerioth and Hezron",
+        "Hezron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kerioth-hezron",
+          "gloss": "Kerioth-Hezron",
+          "description": "A town between Hebron and Arad in the territory of Judah; also known as Hazor."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Hazor.2"
+  ],
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Hebron",
+    "place:Arad"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    },
+    "vizbible": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    }
+  },
+  "key_references": [
+    "06015025"
+  ],
+  "references": [
+    "06015025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150250032",
+        "o060150250041"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "person:Azor",
+  "primary_id": "person:Azor",
+  "alternate_sources": {
+    "aquifer": [
+      "3918|Azor|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.14"
+    ],
+    "tipnr": [
+      "Azor@Mat.1.13-"
+    ],
+    "vizbible": [
+      "recPOsJsYchjChPbS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliakim",
+  "offspring": [
+    "person:Zadok"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.14"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azor",
+          "article": "person:Azor",
+          "description": "Person in Jesus's family tree according to Matthew's gospel. He was the son of Eliakim, the father of Zadok, and a descendant of Zerubbabel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀζώρ"
+    ]
+  },
+  "key_references": [
+    "40001013",
+    "40001014"
+  ],
+  "references": [
+    "40001013",
+    "40001014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40001013015"
+      ],
+      [
+        "n40001014001"
+      ]
+    ]
+  }
+}

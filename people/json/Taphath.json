@@ -1,0 +1,66 @@
+{
+  "id": "person:Taphath",
+  "primary_id": "person:Taphath",
+  "alternate_sources": {
+    "aquifer": [
+      "8735|Taphath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002720001001000"
+    ],
+    "tipnr": [
+      "Taphath@1Ki.4.11"
+    ],
+    "vizbible": [
+      "recsfBxzVjwrj8Eeb"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Solomon",
+  "mother": "person:AWifeOfSolomon",
+  "partners": [
+    "person:Ben-abinadab"
+  ],
+  "siblings": [
+    "person:Basemath.2",
+    "person:Rehoboam"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002720001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Taphath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Taphath",
+          "article": "person:Taphath",
+          "description": "Taphath, mentioned in 1 Kings 4:11, was a daughter of Solomon, sister of Rehoboam, and wife of Ben-abinadab during Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "טָפַת"
+    ]
+  },
+  "key_references": [
+    "11004011"
+  ],
+  "references": [
+    "11004011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040110061"
+      ]
+    ]
+  }
+}

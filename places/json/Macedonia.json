@@ -1,0 +1,239 @@
+{
+  "id": "place:Macedonia",
+  "primary_id": "place:Macedonia",
+  "alternate_sources": {
+    "aquifer": [
+      "6830|Macedonia|TyndaleBibleDictionary",
+      "26844|Macedonia|UWTranslationWords",
+      "132071|Macedonia|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a69e1b8"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/6697801"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/981531"
+    ],
+    "tipnr": [
+      "Macedonia@Act.16.9-Tit"
+    ],
+    "vizbible": [
+      "recly2TmP9CBHh8OQ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q207497"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Macedonia",
+      "alternate_labels": [
+        "Macedonian",
+        "Macedonians"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Macedonia",
+          "gloss": "Macedonia",
+          "description": "A Roman province in Greece; Paul had a vision of a man of Macedonia who pleaded with him to come and preach the gospel (Acts 16:9–10)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Achaia",
+    "place:Illyricum"
+  ],
+  "subregion_of": [
+    "place:Greece"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.632155565205",
+      "lon": "22.9320868699276"
+    },
+    "recogito": {
+      "lat": "40.73291797607738",
+      "lon": "22.9351994"
+    },
+    "vizbible": {
+      "lat": "40.73291797607738",
+      "lon": "22.9351994"
+    }
+  },
+  "key_references": [
+    "52001007",
+    "44020001",
+    "44016009",
+    "44016012",
+    "44019021"
+  ],
+  "references": [
+    "44016009",
+    "44016010",
+    "44016012",
+    "44018005",
+    "44019021",
+    "44019022",
+    "44019029",
+    "44020001",
+    "44020003",
+    "44020006",
+    "44027002",
+    "45015026",
+    "46016005",
+    "47001016",
+    "47002013",
+    "47007005",
+    "47008001",
+    "47009002",
+    "47009004",
+    "47011009",
+    "47013013",
+    "47013014",
+    "50004015",
+    "52001007",
+    "52001008",
+    "52004010",
+    "54001003",
+    "56003015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44016009009"
+      ],
+      [
+        "n44016009020"
+      ],
+      [
+        "n44016010010"
+      ],
+      [
+        "n44016012009"
+      ],
+      [
+        "n44018005006"
+      ],
+      [
+        "n44019021013"
+      ],
+      [
+        "n44019022005"
+      ],
+      [
+        "n44019029017"
+      ],
+      [
+        "n44020001018"
+      ],
+      [
+        "n44020003021"
+      ],
+      [
+        "n44027002018"
+      ],
+      [
+        "n45015026003"
+      ],
+      [
+        "n46016005006"
+      ],
+      [
+        "n46016005008"
+      ],
+      [
+        "n47001016006"
+      ],
+      [
+        "n47001016010"
+      ],
+      [
+        "n47002013020"
+      ],
+      [
+        "n47007005006"
+      ],
+      [
+        "n47008001015"
+      ],
+      [
+        "n47009002010"
+      ],
+      [
+        "n47009004007"
+      ],
+      [
+        "n47011009019"
+      ],
+      [
+        "n50004015014"
+      ],
+      [
+        "n52001007010"
+      ],
+      [
+        "n52001008013"
+      ],
+      [
+        "n52004010013"
+      ],
+      [
+        "n54001003009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44016009022"
+      ],
+      [
+        "n44016010018"
+      ],
+      [
+        "n52001009001"
+      ],
+      [
+        "n52001010017"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n45015026008"
+      ],
+      [
+        "n45015027001"
+      ],
+      [
+        "n45015027005"
+      ],
+      [
+        "n47009004009"
+      ]
+    ]
+  }
+}

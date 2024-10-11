@@ -1,0 +1,105 @@
+{
+  "id": "person:Jabin.2",
+  "primary_id": "person:Jabin.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6151|Jabin|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002748001002000"
+    ],
+    "tipnr": [
+      "Jabin@Jdg.4.2-Psa"
+    ],
+    "vizbible": [
+      "recaK8xpsOSVcWMc2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Canaan",
+  "ubsdbh": [
+    "002748001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jabin",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jabin",
+          "article": "person:Jabin.2",
+          "description": "A Canaanite king of Hazor who lived during the time of the Deborah the judge."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָבִין"
+    ]
+  },
+  "key_references": [
+    "07004002",
+    "07004023",
+    "19083010"
+  ],
+  "references": [
+    "07004002",
+    "07004007",
+    "07004017",
+    "07004023",
+    "07004024",
+    "19083010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070040020041"
+      ],
+      [
+        "o070040070101"
+      ],
+      [
+        "o070040170131"
+      ],
+      [
+        "o070040230061"
+      ],
+      [
+        "o070040240081"
+      ],
+      [
+        "o070040240151"
+      ],
+      [
+        "o190830100052"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o070040030122"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070040020081"
+      ],
+      [
+        "o190830110011"
+      ],
+      [
+        "o190830110041"
+      ]
+    ]
+  }
+}

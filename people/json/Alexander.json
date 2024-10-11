@@ -1,0 +1,60 @@
+{
+  "id": "person:Alexander",
+  "primary_id": "person:Alexander",
+  "alternate_sources": {
+    "aquifer": [
+      "3501|Alexander|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.17a"
+    ],
+    "tipnr": [
+      "Alexander@Mrk.15.21"
+    ],
+    "vizbible": [
+      "recDhJYVloAIi775f"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simon.5",
+  "siblings": [
+    "person:Rufus"
+  ],
+  "ubsdgnt": [
+    "93.17a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Alexander",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Alexander",
+          "article": "person:Alexander",
+          "description": "Son of Simon of Cyrene."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀλέξανδρος"
+    ]
+  },
+  "key_references": [
+    "41015021"
+  ],
+  "references": [
+    "41015021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41015021012"
+      ]
+    ]
+  }
+}

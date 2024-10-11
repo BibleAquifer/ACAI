@@ -1,0 +1,94 @@
+{
+  "id": "realia:Inn",
+  "primary_id": "realia:Inn",
+  "alternate_sources": {
+    "aquifer": [
+      "6027|Inn|TyndaleBibleDictionary",
+      "280095|inn|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "7.11",
+      "7.12"
+    ],
+    "ubsrealia": [
+      "realia:3.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.11",
+    "7.12"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Inn",
+      "alternate_labels": [
+        "Innkeeper",
+        "Manager of a Hotel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Inn",
+          "article": "realia:Inn",
+          "description": "A place where travelers can stay overnight."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κατάλυμα",
+      "πανδοχεῖον",
+      "ταβέρνη",
+      "πανδοχεύς"
+    ]
+  },
+  "key_references": [
+    "42002007",
+    "42010034",
+    "42010035"
+  ],
+  "references": [
+    "42002007",
+    "42010034",
+    "42010035",
+    "44028015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42002007023"
+      ],
+      [
+        "n42010034021"
+      ],
+      [
+        "n42010035010"
+      ],
+      [
+        "n44028015017"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42010035026"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42010035013"
+      ],
+      [
+        "n42010035019"
+      ]
+    ]
+  }
+}

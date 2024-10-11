@@ -1,0 +1,117 @@
+{
+  "id": "place:CarmelMount",
+  "primary_id": "place:CarmelMount",
+  "alternate_sources": {
+    "obi": [
+      "a3e21c6"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4244967"
+    ],
+    "tipnr": [
+      "Carmel_Mount@1Ki.18.19-2Ki"
+    ],
+    "vizbible": [
+      "recE8QW1xGYrhGwR4"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q185318"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Carmel",
+      "alternate_labels": [
+        "Carmel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountCarmel",
+          "gloss": "Mount Carmel",
+          "description": "A coastal mountain range in northern Israel, west of the Jezreel Valley, where the prophet Elijah confronted the prophets of Baal (1 Kings 18:16–35)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:JezreelValley"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.72935016",
+      "lon": "35.04978957"
+    },
+    "recogito": {
+      "lat": "38.41088",
+      "lon": "-87.76142"
+    },
+    "vizbible": {
+      "lat": "32.72935016",
+      "lon": "35.04978957"
+    }
+  },
+  "key_references": [
+    "12004025",
+    "24046018",
+    "11018019",
+    "11018042"
+  ],
+  "references": [
+    "06012022",
+    "06019026",
+    "11018019",
+    "11018020",
+    "11018042",
+    "12002025",
+    "12004025",
+    "12019023",
+    "22007006",
+    "23033009",
+    "23035002",
+    "23037024",
+    "24046018",
+    "24050019",
+    "30001002",
+    "30009003",
+    "33007014",
+    "34001004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110180190102"
+      ],
+      [
+        "o110180200112"
+      ],
+      [
+        "o110180420092"
+      ],
+      [
+        "o120020250052"
+      ],
+      [
+        "o120040250082"
+      ]
+    ]
+  }
+}

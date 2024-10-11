@@ -1,0 +1,114 @@
+{
+  "id": "place:Eglon",
+  "primary_id": "place:Eglon",
+  "alternate_sources": {
+    "aquifer": [
+      "4952|Eglon (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a244d8f"
+    ],
+    "ubsdbh": [
+      "005232001001000"
+    ],
+    "tipnr": [
+      "Eglon@Jos.10.3-"
+    ],
+    "vizbible": [
+      "recncbaBT6pbrg94B"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1940256"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005232001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eglon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eglon",
+          "gloss": "Eglon",
+          "description": "A town in the foothills of the territory of Judah captured by Joshua (Joshua 10:35)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֶגְלַת שְׁלִשִׁיָּה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.5",
+      "lon": "34.7667"
+    },
+    "vizbible": {
+      "lat": "31.5",
+      "lon": "34.7667"
+    }
+  },
+  "key_references": [
+    "06010005"
+  ],
+  "references": [
+    "06010003",
+    "06010005",
+    "06010023",
+    "06010034",
+    "06010036",
+    "06010037",
+    "06012012",
+    "06015039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100030211"
+      ],
+      [
+        "o060100050151"
+      ],
+      [
+        "o060100230251"
+      ],
+      [
+        "o060100340071"
+      ],
+      [
+        "o060100360062"
+      ],
+      [
+        "o060100370212"
+      ],
+      [
+        "o060120120021"
+      ],
+      [
+        "o060150390032"
+      ]
+    ]
+  }
+}

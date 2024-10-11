@@ -1,0 +1,71 @@
+{
+  "id": "person:Jacob.2",
+  "primary_id": "person:Jacob.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6163|Jacob|TyndaleBibleDictionary",
+      "26739|Jacob|UWTranslationWords",
+      "132214|Jacob|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.157b"
+    ],
+    "tipnr": [
+      "Jacob@Mat.1.15-"
+    ],
+    "vizbible": [
+      "reco9bEDv9NKzhzvv"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Matthan",
+  "offspring": [
+    "person:Joseph.4"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.157b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jacob (Father of Joseph)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jacob (Father of Joseph)",
+          "article": "person:Jacob.2",
+          "description": "Son of Matthan and the father of Joseph, the husband of Mary."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰακώβ"
+    ]
+  },
+  "key_references": [
+    "40001015",
+    "40001016"
+  ],
+  "references": [
+    "40001015",
+    "40001016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40001015015"
+      ],
+      [
+        "n40001016001"
+      ]
+    ]
+  }
+}

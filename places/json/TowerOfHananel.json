@@ -1,0 +1,115 @@
+{
+  "id": "place:TowerOfHananel",
+  "primary_id": "place:TowerOfHananel",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002400001001000",
+      "003685001003000",
+      "003685001004000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2961129"
+    ],
+    "tipnr": [
+      "Tower_of_Hananel@Neh.3.1-Zec"
+    ],
+    "vizbible": [
+      "reczKwHT81lCIivSq"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002400001001000",
+    "003685001003000",
+    "003685001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tower of Hananel",
+      "alternate_labels": [
+        "Tower",
+        "Hananeel",
+        "tower of Hananeel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TowerOfHananel",
+          "gloss": "Tower of Hananel",
+          "description": "A tower in Jerusalem."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "structure"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "tower"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "51.91667",
+      "lon": "-8.6"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "38014010",
+    "24031038",
+    "16003001"
+  ],
+  "references": [
+    "16003001",
+    "16012039",
+    "24031038",
+    "38014010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030010161"
+      ],
+      [
+        "o160030010201",
+        "o160030010211"
+      ],
+      [
+        "o160120390102",
+        "o160120390111"
+      ],
+      [
+        "o160120390122"
+      ],
+      [
+        "o240310380092",
+        "o240310380101"
+      ],
+      [
+        "o380140100212",
+        "o380140100221"
+      ]
+    ]
+  }
+}

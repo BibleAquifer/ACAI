@@ -1,0 +1,98 @@
+{
+  "id": "person:Mattithiah.2",
+  "primary_id": "person:Mattithiah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6991|Mattithiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004577001001000",
+      "004576001002000"
+    ],
+    "tipnr": [
+      "Mattithiah@1Ch.15.18-"
+    ],
+    "vizbible": [
+      "recK3ibDanBG8P9fS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jeduthun",
+  "siblings": [
+    "person:Obed-edom",
+    "person:Gedaliah.4",
+    "person:Zeri",
+    "person:Jeshaiah.3",
+    "person:Hashabiah.3"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "004577001001000",
+    "004576001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mattithiah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mattithiah",
+          "article": "person:Mattithiah.2",
+          "description": "A son of Jeduthun from the tribe of Levi and liturgical musician during King David’s reign."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַתִּתְיָהוּ",
+      "מַתִּתְיָ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "13015016",
+    "13015017",
+    "13015018",
+    "13015021",
+    "13025003"
+  ],
+  "references": [
+    "13015018",
+    "13015021",
+    "13016005",
+    "13025003",
+    "13025021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130150180132"
+      ],
+      [
+        "o130150210012"
+      ],
+      [
+        "o130160050082"
+      ],
+      [
+        "o130250030082"
+      ],
+      [
+        "o130250210031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130150210112"
+      ]
+    ]
+  }
+}

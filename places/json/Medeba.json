@@ -1,0 +1,116 @@
+{
+  "id": "place:Medeba",
+  "primary_id": "place:Medeba",
+  "alternate_sources": {
+    "aquifer": [
+      "7008|Medeba|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af4f21c"
+    ],
+    "ubsdbh": [
+      "003941001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/248370"
+    ],
+    "tipnr": [
+      "Medeba@Num.21.30-Isa"
+    ],
+    "vizbible": [
+      "recM4YMG9qAp6yLP1"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1683958"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003941001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Medeba",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Medeba",
+          "gloss": "Medeba",
+          "description": "A town in the territory of Reuben, in Moab."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Reuben",
+  "subregion_of": [
+    "place:TerritoryOfReuben",
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מֵידְבָא"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.72045763",
+      "lon": "35.79197232"
+    },
+    "recogito": {
+      "lat": "31.71599",
+      "lon": "35.79392"
+    },
+    "vizbible": {
+      "lat": "31.72045763",
+      "lon": "35.79197232"
+    }
+  },
+  "key_references": [
+    "23015002",
+    "06013016",
+    "04021030"
+  ],
+  "references": [
+    "04021030",
+    "06013009",
+    "06013016",
+    "13019007",
+    "23015002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210300111"
+      ],
+      [
+        "o060130090131"
+      ],
+      [
+        "o060130160171"
+      ],
+      [
+        "o130190070151"
+      ],
+      [
+        "o230150020091"
+      ]
+    ]
+  }
+}

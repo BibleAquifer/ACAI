@@ -1,0 +1,62 @@
+{
+  "id": "person:Methushael",
+  "primary_id": "person:Methushael",
+  "alternate_sources": {
+    "aquifer": [
+      "7096|Methushael|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004553001001000"
+    ],
+    "tipnr": [
+      "Methushael@Gen.4.18"
+    ],
+    "vizbible": [
+      "recpC0LDC57FA04Wd"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mehujael",
+  "offspring": [
+    "person:Lamech"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "004553001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Methushael",
+      "alternate_labels": [
+        "Methusael"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Methushael",
+          "article": "person:Methushael",
+          "description": "Methushael, living before the Flood, is the son of Mehujael and the father of Lamech, first mentioned in Genesis 4:18."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01004018"
+  ],
+  "references": [
+    "01004018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040180121"
+      ],
+      [
+        "o010040180132"
+      ]
+    ]
+  }
+}

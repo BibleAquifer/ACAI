@@ -1,0 +1,50 @@
+{
+  "id": "place:Forsaken",
+  "primary_id": "place:Jerusalem",
+  "alternate_sources": {
+    "aquifer": [
+      "26612|Forsaken|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005324001004000"
+    ],
+    "tipnr": [
+      "Forsaken|Jerusalem@Jos.10.1-Rev"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005324001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Forsaken",
+      "alternate_labels": [
+        "Deserted",
+        "Jerusalem"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "key_references": [
+    "23062004"
+  ],
+  "references": [
+    "23062004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230620040051"
+      ]
+    ]
+  }
+}

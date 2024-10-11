@@ -1,0 +1,45 @@
+{
+  "id": "place:Ain.3",
+  "primary_id": "place:Ain.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3478|Ain|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ain.3",
+          "gloss": "Ain (of Simeon)",
+          "description": "A Levitical town in the territory of Simeon and Judah; possibly Ashan."
+        }
+      ],
+      "preferred_label": "Ain (of Simeon)"
+    }
+  },
+  "possibly_same_as": [
+    "place:Ain.2",
+    "place:Ashan"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfSimeon",
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "06021016"
+  ]
+}

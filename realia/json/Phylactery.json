@@ -1,0 +1,55 @@
+{
+  "id": "realia:Phylactery",
+  "primary_id": "realia:Phylactery",
+  "alternate_sources": {
+    "aquifer": [
+      "7728|Phylactery|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.195"
+    ],
+    "ubsrealia": [
+      "realia:6.11"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.195"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Phylactery",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Phylactery",
+          "article": "realia:Phylactery",
+          "description": "A small leather case or box with Old Testament verses worn on the arm and forehead by Jews during prayer."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "φυλακτήριον"
+    ]
+  },
+  "key_references": [
+    "05006008",
+    "05011018",
+    "40023005"
+  ],
+  "references": [
+    "40023005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40023005015"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "place:Uzal",
+  "primary_id": "place:Uzal",
+  "alternate_sources": {
+    "obi": [
+      "a217cc5"
+    ],
+    "ubsdbh": [
+      "000182001002000 000223002001000"
+    ],
+    "tipnr": [
+      "Uzal@Ezk.27.19"
+    ],
+    "vizbible": [
+      "recvzEeEmXAbfmLoC"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q7904500"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000182001002000 000223002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Izal",
+      "alternate_labels": [
+        "going to",
+        "Uzal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Uzal",
+          "gloss": "Izal",
+          "description": "A nation or area either to be considered founded by a person with the same name and located somewhere on the Arabian Peninsula, or to be identified with Izalla in northeastern Mesopotamia; trading partner of Tyre (ABD)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "mountain",
+      "special",
+      "region"
+    ],
+    "acai": [
+      "nation",
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "15.354879",
+      "lon": "44.215092"
+    },
+    "vizbible": {
+      "lat": "15.354879",
+      "lon": "44.215092"
+    }
+  },
+  "key_references": [
+    "26027019"
+  ],
+  "references": [
+    "26027019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270190032"
+      ]
+    ]
+  }
+}

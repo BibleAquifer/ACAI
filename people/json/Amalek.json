@@ -1,0 +1,69 @@
+{
+  "id": "person:Amalek",
+  "primary_id": "person:Amalek",
+  "alternate_sources": {
+    "aquifer": [
+      "3535|Amalek, Amalekites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005506001001000"
+    ],
+    "tipnr": [
+      "Amalek@Gen.36.12-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliphaz",
+  "mother": "person:Timna",
+  "siblings": [
+    "person:Teman",
+    "person:Omar",
+    "person:Zepho",
+    "person:Gatam",
+    "person:Kenaz",
+    "person:Korah.2"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "005506001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amalek",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Amalek",
+          "article": "person:Amalek",
+          "description": "A man from the Edomites, son of Eliphaz and Timna, and brother of Teman, Omar, Zepho, Gatam, Kenaz, and Korah, first mentioned in Genesis 36:12."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֲמָלֵקִי"
+    ]
+  },
+  "key_references": [
+    "01036012",
+    "01036016"
+  ],
+  "references": [
+    "01036012",
+    "01036016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360120101"
+      ],
+      [
+        "o010360160061"
+      ]
+    ]
+  }
+}

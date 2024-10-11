@@ -1,0 +1,94 @@
+{
+  "id": "place:Tamar.2",
+  "primary_id": "place:Tamar.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8728|Tamar (Place)|TyndaleBibleDictionary",
+      "27137|Tamar|UWTranslationWords",
+      "132238|Tamar|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "007854002004000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/79704"
+    ],
+    "tipnr": [
+      "Tamar@Ezk.47.18-"
+    ],
+    "vizbible": [
+      "recHLKp2nLWVF8Vod"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007854002004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tamar (of Ezekiel)",
+      "alternate_labels": [
+        "Tamar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tamar.2",
+          "gloss": "Tamar (of Ezekiel)",
+          "description": "A town at the southwestern end of the Dead Sea; mentioned in Ezekiel as marking the southeastern boundary of Israel."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Tamar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.024923",
+      "lon": "35.064154"
+    },
+    "recogito": {
+      "lat": "50.358333",
+      "lon": "-4.166667"
+    },
+    "vizbible": {
+      "lat": "31.024923",
+      "lon": "35.064154"
+    }
+  },
+  "key_references": [
+    "26047018",
+    "26048028",
+    "26047019"
+  ],
+  "references": [
+    "26047018",
+    "26047019",
+    "26048028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260470190042"
+      ],
+      [
+        "o260480280102"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "id": "person:Simeon",
+  "primary_id": "person:Peter",
+  "alternate_sources": {
+    "aquifer": [
+      "8501|Simeon (Person)|TyndaleBibleDictionary",
+      "8502|Simeon, Tribe of|TyndaleBibleDictionary",
+      "27096|Simeon|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.349a"
+    ],
+    "tipnr": [
+      "Simeon|Peter@Mat.4.18-2Pe"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:John.4",
+  "partners": [
+    "person:WifeOfPeter"
+  ],
+  "siblings": [
+    "person:Andrew"
+  ],
+  "roles": [
+    "Disciple",
+    "Apostle",
+    "Fisher",
+    "Martyr, "
+  ],
+  "ubsdgnt": [
+    "93.349a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Simeon (Peter)",
+      "alternate_labels": [
+        "Peter",
+        "Simon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Peter",
+          "article": "person:Simeon",
+          "description": "Simeon, also known as Peter, Simon, Cephas, and Bar-Jonah, was an apostle living at the time of the New Testament, first mentioned in Matthew 4:18."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Peter"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Συμεών"
+    ]
+  },
+  "key_references": [
+    "44015014",
+    "61001001"
+  ],
+  "references": [
+    "44015014",
+    "61001001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44015014001"
+      ],
+      [
+        "n61001001001"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n61001001017"
+      ],
+      [
+        "n61001002014"
+      ],
+      [
+        "n61001003003"
+      ],
+      [
+        "n61001003019"
+      ],
+      [
+        "n61001004007"
+      ],
+      [
+        "n61001008016"
+      ],
+      [
+        "n61001011014"
+      ],
+      [
+        "n61001014009"
+      ],
+      [
+        "n61001014014"
+      ],
+      [
+        "n61001014018"
+      ],
+      [
+        "n61001015009"
+      ],
+      [
+        "n61001016011"
+      ],
+      [
+        "n61001018005"
+      ],
+      [
+        "n61003015005"
+      ],
+      [
+        "n61003015013"
+      ],
+      [
+        "n61003018009"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n61001012002"
+      ],
+      [
+        "n61001012005"
+      ],
+      [
+        "n61001013003"
+      ],
+      [
+        "n61001013006"
+      ],
+      [
+        "n61001013011"
+      ],
+      [
+        "n61001014001"
+      ],
+      [
+        "n61001015001"
+      ],
+      [
+        "n61001015014"
+      ],
+      [
+        "n61001016005",
+        "n61001016006"
+      ],
+      [
+        "n61001016019"
+      ],
+      [
+        "n61001018012"
+      ],
+      [
+        "n61001019002"
+      ],
+      [
+        "n61003001006"
+      ],
+      [
+        "n61003001010"
+      ],
+      [
+        "n61003013011"
+      ]
+    ]
+  }
+}

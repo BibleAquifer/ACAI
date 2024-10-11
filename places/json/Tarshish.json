@@ -1,0 +1,195 @@
+{
+  "id": "place:Tarshish",
+  "primary_id": "place:Tarshish",
+  "alternate_sources": {
+    "aquifer": [
+      "8745|Tarshish (Place)|TyndaleBibleDictionary",
+      "27138|Tarshish|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007951002001000",
+      "007951002003000"
+    ],
+    "tipnr": [
+      "Tarshish@1Ki.10.22-Jon"
+    ],
+    "vizbible": [
+      "rec8hi9Ksp4awz9FJ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007951002001000",
+    "007951002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tarshish",
+      "alternate_labels": [
+        "Tharshish"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tarshish.1",
+          "gloss": "Tarshish",
+          "description": "A seaport town or maritime region probably located at the Iberian Peninsula; described as inhabited by descendants of Javan, son of Japheth; famous for its commerce."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "special",
+      "settlement",
+      "region",
+      "island"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.95299513",
+      "lon": "-6.379340234"
+    },
+    "vizbible": {
+      "lat": "36.95299513",
+      "lon": "-6.379340234"
+    }
+  },
+  "key_references": [
+    "19072010",
+    "11010022",
+    "23023001"
+  ],
+  "references": [
+    "11010022",
+    "11022049",
+    "14009021",
+    "14020036",
+    "14020037",
+    "17001014",
+    "19048008",
+    "19072010",
+    "23002016",
+    "23023001",
+    "23023006",
+    "23023010",
+    "23023014",
+    "23060009",
+    "23066019",
+    "24010009",
+    "26027012",
+    "26027025",
+    "26038013",
+    "32001003",
+    "32004002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110100220031"
+      ],
+      [
+        "o110100220141"
+      ],
+      [
+        "o110220490051"
+      ],
+      [
+        "o140090210051"
+      ],
+      [
+        "o140090210141"
+      ],
+      [
+        "o140200360061"
+      ],
+      [
+        "o140200370221"
+      ],
+      [
+        "o170010140061"
+      ],
+      [
+        "o190480080051"
+      ],
+      [
+        "o190720100021"
+      ],
+      [
+        "o230020160041"
+      ],
+      [
+        "o230230010051"
+      ],
+      [
+        "o230230060021"
+      ],
+      [
+        "o230230100051"
+      ],
+      [
+        "o230230140031"
+      ],
+      [
+        "o230600090061"
+      ],
+      [
+        "o230660190091"
+      ],
+      [
+        "o240100090032"
+      ],
+      [
+        "o260270120011"
+      ],
+      [
+        "o260270250021"
+      ],
+      [
+        "o260380130041"
+      ],
+      [
+        "o320010030041"
+      ],
+      [
+        "o320010030121"
+      ],
+      [
+        "o320010030191"
+      ],
+      [
+        "o320040020181"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o170010140141"
+      ],
+      [
+        "o170010140172"
+      ],
+      [
+        "o260270120021"
+      ],
+      [
+        "o260270120101"
+      ]
+    ]
+  }
+}

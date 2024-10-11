@@ -1,0 +1,117 @@
+{
+  "id": "fauna:Sparrow",
+  "primary_id": "fauna:Sparrow",
+  "alternate_sources": {
+    "aquifer": [
+      "8594|Sparrow|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "4.46"
+    ],
+    "ubsdbh": [
+      "006286001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.21"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdgnt": [
+    "4.46"
+  ],
+  "ubsdbh": [
+    "006286001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sparrow",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sparrow",
+          "article": "fauna:Sparrow",
+          "description": "A small, brown-speckled bird that lives in towns and feeds on grass and grain."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צִפֹּור"
+    ],
+    "el": [
+      "στρουθίον"
+    ]
+  },
+  "key_references": [
+    "01015010",
+    "21012004",
+    "40010029"
+  ],
+  "references": [
+    "19084004",
+    "20026002",
+    "20027008",
+    "28011011",
+    "40010029",
+    "40010031",
+    "41016018",
+    "42012006",
+    "42012007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190840040021"
+      ],
+      [
+        "o200260020012"
+      ],
+      [
+        "o200270080012"
+      ],
+      [
+        "o280110110022"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40010029003"
+      ],
+      [
+        "n40010031005"
+      ],
+      [
+        "n42012006003"
+      ],
+      [
+        "n42012007013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o200270080042"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40010029009"
+      ],
+      [
+        "n42012006010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o200270080021"
+      ]
+    ]
+  }
+}

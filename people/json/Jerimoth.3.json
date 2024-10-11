@@ -1,0 +1,59 @@
+{
+  "id": "person:Jerimoth.3",
+  "primary_id": "person:Jerimoth.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6324|Jerimoth|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jerimoth@1Ch.23.23-"
+    ],
+    "vizbible": [
+      "recakraFfRLaK5XLq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mushi",
+  "siblings": [
+    "person:Mahli.2",
+    "person:Eder.2"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jerimoth (1 Chronicles 23:23)",
+      "alternate_labels": [
+        "Jeremoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jerimoth (1 Chronicles 23:23)",
+          "article": "person:Jerimoth.3",
+          "description": "A Levite during the time of Egypt and the wilderness, son of Mushi and brother of Mahli and Eder, mentioned in 1 Chronicles 23:23 and also called Jeremoth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13023023",
+    "13024030"
+  ],
+  "references": [
+    "13023023",
+    "13024030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230230052"
+      ],
+      [
+        "o130240300052"
+      ]
+    ]
+  }
+}

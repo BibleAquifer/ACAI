@@ -1,0 +1,68 @@
+{
+  "id": "person:Ahinoam",
+  "primary_id": "person:Ahinoam",
+  "alternate_sources": {
+    "aquifer": [
+      "3452|Ahinoam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000277001001000"
+    ],
+    "tipnr": [
+      "Ahinoam@1Sa.14.50"
+    ],
+    "vizbible": [
+      "recL7IVebXOWxVHir"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Ahimaaz",
+  "partners": [
+    "person:Saul.2"
+  ],
+  "offspring": [
+    "person:Jonathan.3",
+    "person:Abinadab.2",
+    "person:Malchi-shua",
+    "person:Merab",
+    "person:Michal"
+  ],
+  "ubsdbh": [
+    "000277001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahinoam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahinoam",
+          "article": "person:Ahinoam",
+          "description": "The wife of Saul and mother to several children including Jonathan, mentioned in 1 Samuel 14:50."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִינֹעַם",
+      "אֲחִינֹ֫עַם"
+    ]
+  },
+  "key_references": [
+    "09014050"
+  ],
+  "references": [
+    "09014050"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090140500041"
+      ]
+    ]
+  }
+}

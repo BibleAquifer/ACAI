@@ -1,0 +1,69 @@
+{
+  "id": "person:Pedaiah.2",
+  "primary_id": "person:Pedaiah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7625|Pedaiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005786001002000"
+    ],
+    "tipnr": [
+      "Pedaiah@1Ch.3.18-"
+    ],
+    "vizbible": [
+      "recaI10eYw8BBEqFc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shealtiel.2",
+  "offspring": [
+    "person:Zerubbabel.2",
+    "person:Shimei.7"
+  ],
+  "siblings": [
+    "person:Malchiram",
+    "person:Shenazzar",
+    "person:Jekamiah.2",
+    "person:Hoshama",
+    "person:Nedabiah"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005786001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pedaiah (1 Chronicles 3:18)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pedaiah (1 Chronicles 3:18)",
+          "article": "person:Pedaiah.2",
+          "description": "Pedaiah, from the tribe of Judah mentioned in 1 Chronicles 3:18, lived during the divided kingdom, and was the father of Zerubbabel and Shimei."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13003018",
+    "13003019"
+  ],
+  "references": [
+    "13003018",
+    "13003019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030180022"
+      ],
+      [
+        "o130030190021"
+      ]
+    ]
+  }
+}

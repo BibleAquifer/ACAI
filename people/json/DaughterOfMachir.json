@@ -1,0 +1,50 @@
+{
+  "id": "person:DaughterOfMachir",
+  "primary_id": "person:DaughterOfMachir",
+  "alternate_sources": {
+    "tipnr": [
+      "daughter_of_Machir@1Ch.2.21"
+    ],
+    "vizbible": [
+      "recb8ydfs71YfctnG"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Machir",
+  "mother": "person:Maacah.5",
+  "partners": [
+    "person:Hezron.2"
+  ],
+  "offspring": [
+    "person:Segub.2"
+  ],
+  "siblings": [
+    "person:Gilead",
+    "person:Peresh",
+    "person:Sheresh",
+    "person:Hammolecheth"
+  ],
+  "tribe": "group:Manasseh",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Daughter of Machir",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Daughter of Machir",
+          "article": "person:DaughterOfMachir",
+          "description": "The Daughter of Machir was an unnamed woman from the tribe of Manasseh, mentioned in 1 Chronicles 2:21, who married Hezron and had a son named Segub."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002021"
+  ],
+  "references": [
+    "13002021"
+  ]
+}

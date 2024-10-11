@@ -1,0 +1,89 @@
+{
+  "id": "person:Uriah.3",
+  "primary_id": "person:Uriah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "8973|Uriah|TyndaleBibleDictionary",
+      "27188|Uriah|UWTranslationWords",
+      "132415|Uriah|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Uriah@2Ki.16.10-Isa"
+    ],
+    "vizbible": [
+      "rec1DfTad45xFXUe3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Priest"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uriah",
+      "alternate_labels": [
+        "Urijah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uriah",
+          "article": "person:Uriah.3",
+          "description": "Uriah was a priest during the time of King Ahaz of Judah appointed to build a new pagan altar for the Temple at Jerusalem."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12016010",
+    "12016011",
+    "12016012",
+    "12016013",
+    "12016014",
+    "12016015",
+    "12016016",
+    "23008002"
+  ],
+  "references": [
+    "12016010",
+    "12016011",
+    "12016015",
+    "12016016",
+    "23008002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120160100191"
+      ],
+      [
+        "o120160110021"
+      ],
+      [
+        "o120160110141"
+      ],
+      [
+        "o120160150061"
+      ],
+      [
+        "o120160160021"
+      ],
+      [
+        "o230080020061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120160150121"
+      ],
+      [
+        "o120160150381"
+      ]
+    ]
+  }
+}

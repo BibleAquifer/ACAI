@@ -1,0 +1,96 @@
+{
+  "id": "place:Kain",
+  "primary_id": "place:Kain",
+  "alternate_sources": {
+    "aquifer": [
+      "6513|Kain (Place)|TyndaleBibleDictionary",
+      "6514|Kain (Tribe)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a765bd8"
+    ],
+    "ubsdbh": [
+      "006453002002000",
+      "006453002003000"
+    ],
+    "tipnr": [
+      "Kain@Num.24.22-Jos"
+    ],
+    "vizbible": [
+      "recqghxo71GwSk3sh"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006453002002000",
+    "006453002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kain",
+      "alternate_labels": [
+        "Cain",
+        "Kenites",
+        "Kenite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kain",
+          "gloss": "Kain",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.5",
+      "lon": "35.166667"
+    },
+    "vizbible": {
+      "lat": "31.5",
+      "lon": "35.166667"
+    }
+  },
+  "key_references": [
+    "04024022",
+    "06015057"
+  ],
+  "references": [
+    "04024022",
+    "06015057"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040240220051"
+      ],
+      [
+        "o060150570012"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "deity:Breath",
+  "primary_id": "deity:HolySpirit",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006718001001000",
+      "006718001001000 006718001009000",
+      "006718001002000"
+    ],
+    "tipnr": [
+      "Breath|Holy_Spirit@Mat.1.18-Rev"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "006718001001000",
+    "006718001001000 006718001009000",
+    "006718001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Breath (Holy Spirit)",
+      "alternate_labels": [
+        "Holy Spirit"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Holy Spirit",
+          "article": "deity:Breath",
+          "description": "The Spirit of God is sometimes referred to as the “Breath” in the Old Testament (Numbers 27:18)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:HolySpirit"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04027018",
+    "23032015",
+    "13012018"
+  ],
+  "references": [
+    "04011025",
+    "04027018",
+    "13012019",
+    "23032015",
+    "39002015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040110250082"
+      ],
+      [
+        "o040110250192"
+      ],
+      [
+        "o040270180131"
+      ],
+      [
+        "o130120190012"
+      ],
+      [
+        "o230320150041"
+      ],
+      [
+        "o390020150051"
+      ],
+      [
+        "o390020150132"
+      ]
+    ]
+  }
+}

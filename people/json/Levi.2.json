@@ -1,0 +1,66 @@
+{
+  "id": "person:Levi.2",
+  "primary_id": "person:Levi.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6729|Levi (Person)|TyndaleBibleDictionary",
+      "6734|Levi, Tribe of|TyndaleBibleDictionary",
+      "132329|Levi|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.231d"
+    ],
+    "tipnr": [
+      "Levi@Luk.3.29"
+    ],
+    "vizbible": [
+      "recmJQ1IP1YFUwTL6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simeon.3",
+  "offspring": [
+    "person:Matthat.2"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.231d"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Levi (Son of Simeon)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Levi (Son of Simeon)",
+          "article": "person:Levi.2",
+          "description": "Son of Simeon and the father of Matthat in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Λευί"
+    ]
+  },
+  "key_references": [
+    "42003029"
+  ],
+  "references": [
+    "42003029"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003029010"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "deity:Eli",
+  "primary_id": "deity:Lord",
+  "alternate_sources": {
+    "aquifer": [
+      "5032|Eli|TyndaleBibleDictionary",
+      "5004|Eli, Eli, Lama Sabachthani?|TyndaleBibleDictionary",
+      "5004|Eli, Eli, Lama Sabachthani?|TyndaleBibleDictionary",
+      "132397|Eli|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "12.3"
+    ],
+    "tipnr": [
+      "Eli|LORD@Gen.1.1-Heb"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdgnt": [
+    "12.3"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eli (LORD)",
+      "alternate_labels": [
+        "LORD"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "LORD",
+          "article": "deity:Eli",
+          "description": "An Aramaic name for God uttered by Jesus while on the cross."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Lord"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐλωΐ",
+      "ἠλί"
+    ]
+  },
+  "key_references": [
+    "40027046",
+    "41015034"
+  ],
+  "references": [
+    "40027046",
+    "41015034"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027046012",
+        "n40027046013"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40027046015"
+      ]
+    ]
+  }
+}

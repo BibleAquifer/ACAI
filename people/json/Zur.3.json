@@ -1,0 +1,80 @@
+{
+  "id": "person:Zur.3",
+  "primary_id": "person:Zur.3",
+  "alternate_sources": {
+    "aquifer": [
+      "9269|Zur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006161004002000"
+    ],
+    "tipnr": [
+      "Zur@1Ch.8.30-"
+    ],
+    "vizbible": [
+      "rec3X9CzUvyqhJEAW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abiel.2",
+  "mother": "person:Maacah.6",
+  "siblings": [
+    "person:Kish",
+    "person:Ner.2",
+    "person:Abdon.3",
+    "person:Baal",
+    "person:Nadab.4",
+    "person:Gedor",
+    "person:Ahio.3",
+    "person:Zecher",
+    "person:Mikloth"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "006161004002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zur (1 Chronicles 8:30)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zur (1 Chronicles 8:30)",
+          "article": "person:Zur.3",
+          "description": "Zur was a man of the tribe of Benjamin during Israel's united kingdom, son of Abiel and Maacah, first mentioned in 1 Chronicles 8:30 and brother to Kish, Ner, Abdon, Baal, Nadab, Gedor, Ahio, Zecher, and Mikloth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008030",
+    "13009036"
+  ],
+  "references": [
+    "13008030",
+    "13009036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080300042"
+      ],
+      [
+        "o130090360042"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130080320061"
+      ],
+      [
+        "o130090380061"
+      ]
+    ]
+  }
+}

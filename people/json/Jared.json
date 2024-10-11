@@ -1,0 +1,98 @@
+{
+  "id": "person:Jared",
+  "primary_id": "person:Jared",
+  "alternate_sources": {
+    "aquifer": [
+      "6222|Jared|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jared@Gen.5.15-Luk"
+    ],
+    "vizbible": [
+      "rechDI5vmWFtiVmYq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mahalalel",
+  "offspring": [
+    "person:Enoch.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jared",
+      "alternate_labels": [
+        "Jered"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jared",
+          "article": "person:Jared",
+          "description": "An ancestor of the patriarch Noah, son of Mahalalel and father of Enoch. He is mentioned in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01005015",
+    "01005018",
+    "42003037"
+  ],
+  "references": [
+    "01005015",
+    "01005016",
+    "01005018",
+    "01005019",
+    "01005020",
+    "13001002",
+    "42003037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010050150091"
+      ],
+      [
+        "o010050160061"
+      ],
+      [
+        "o010050180021"
+      ],
+      [
+        "o010050190021"
+      ],
+      [
+        "o010050200041"
+      ],
+      [
+        "o130010020031"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003037006"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010050180082"
+      ],
+      [
+        "o010050190102"
+      ],
+      [
+        "o010050200112"
+      ]
+    ]
+  }
+}

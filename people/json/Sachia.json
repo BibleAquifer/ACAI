@@ -1,0 +1,67 @@
+{
+  "id": "person:Sachia",
+  "primary_id": "person:Sachia",
+  "alternate_sources": {
+    "aquifer": [
+      "8087|Sachia, Sachiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007035001001000"
+    ],
+    "tipnr": [
+      "Sachia@1Ch.8.10"
+    ],
+    "vizbible": [
+      "rec2lXNE7pQcJ05cT"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shaharaim",
+  "mother": "person:Hodesh",
+  "siblings": [
+    "person:Jobab.4",
+    "person:Zibia",
+    "person:Mesha",
+    "person:Malcam",
+    "person:Jeuz",
+    "person:Mirmah",
+    "person:Abitub",
+    "person:Elpaal"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "007035001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sachia",
+      "alternate_labels": [
+        "Shachia"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sachia",
+          "article": "person:Sachia",
+          "description": "Sachia, also known as Shachia, was a Benjaminite living during the divided kingdom, son of Shaharaim and Hodesh, mentioned in 1 Chronicles 8:10."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008010"
+  ],
+  "references": [
+    "13008010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080100041"
+      ]
+    ]
+  }
+}

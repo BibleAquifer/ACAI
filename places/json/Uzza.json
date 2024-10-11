@@ -1,0 +1,91 @@
+{
+  "id": "place:Uzza",
+  "primary_id": "place:Uzza",
+  "alternate_sources": {
+    "aquifer": [
+      "8988|Uzza|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005322001002000",
+      "001455001001000"
+    ],
+    "tipnr": [
+      "Uzza@2Ki.21.18-"
+    ],
+    "vizbible": [
+      "recdamy0rKo9jHoE1"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005322001002000",
+    "001455001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uzza",
+      "alternate_labels": [
+        "garden of Uzzah",
+        "Garden of Uzza"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Uzza",
+          "gloss": "Uzza",
+          "description": "A garden, which was part of palace compound of King Manasseh, where Manasseh and his son Amon were buried."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "garden"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "garden"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "12021018",
+    "12021026"
+  ],
+  "references": [
+    "12021018",
+    "12021026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120210180062"
+      ],
+      [
+        "o120210180082",
+        "o120210180091"
+      ],
+      [
+        "o120210260042",
+        "o120210260051"
+      ]
+    ]
+  }
+}

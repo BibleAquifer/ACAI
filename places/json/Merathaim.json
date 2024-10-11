@@ -1,0 +1,81 @@
+{
+  "id": "place:Merathaim",
+  "primary_id": "place:Babylon",
+  "alternate_sources": {
+    "aquifer": [
+      "7060|Merathaim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004438001001000"
+    ],
+    "tipnr": [
+      "Merathaim|Babylon@Gen.10.10-Rev"
+    ],
+    "vizbible": [
+      "rec2006YHGi4zadxa"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004438001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Merathaim",
+      "alternate_labels": [
+        "Babylon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Merathaim",
+          "gloss": "Merathaim",
+          "description": "A region south of Babylon; possibly a symbolic name for Babylon."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Babylon"
+  ],
+  "referred_to_as": [
+    "place:Babylon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.53650369",
+      "lon": "44.42088287"
+    },
+    "vizbible": {
+      "lat": "32.53650369",
+      "lon": "44.42088287"
+    }
+  },
+  "key_references": [
+    "24050021"
+  ],
+  "references": [
+    "24050021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240500210031"
+      ]
+    ]
+  }
+}

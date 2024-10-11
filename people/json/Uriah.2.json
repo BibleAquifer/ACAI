@@ -1,0 +1,86 @@
+{
+  "id": "person:Uriah.2",
+  "primary_id": "person:Uriah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8973|Uriah|TyndaleBibleDictionary",
+      "27188|Uriah|UWTranslationWords",
+      "132415|Uriah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000212001005000"
+    ],
+    "tipnr": [
+      "Uriah@Jer.26.20-"
+    ],
+    "vizbible": [
+      "recSFNN8BC76b4VaY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shemaiah.24",
+  "ubsdbh": [
+    "000212001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uriah (Jeremiah 26:20)",
+      "alternate_labels": [
+        "Urijah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uriah (Jeremiah 26:20)",
+          "article": "person:Uriah.2",
+          "description": "Uriah was a prophet and son of Shemaiah, living during the divided kingdom and killed by King Jehoiakim, mentioned in Jeremiah 26:20."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אוּרִיָּה",
+      "אוּרִיָּ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "24026020",
+    "24026021",
+    "24026023"
+  ],
+  "references": [
+    "24026020",
+    "24026021",
+    "24026023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240260200071"
+      ],
+      [
+        "o240260210141"
+      ],
+      [
+        "o240260230031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240260210152"
+      ],
+      [
+        "o240260210162"
+      ],
+      [
+        "o240260210172"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "person:Shephuphan",
+  "primary_id": "person:Muppim",
+  "alternate_sources": {
+    "aquifer": [
+      "8371|Shephuphan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007563001001000"
+    ],
+    "tipnr": [
+      "Shephuphan|Muppim@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "recO7nRQUb3uEFk6i"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Rosh",
+    "person:Huppim",
+    "person:Ard",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "007563001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shephuphan (Muppim)",
+      "alternate_labels": [
+        "Shupham",
+        "Muppim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Muppim",
+          "article": "person:Shephuphan",
+          "description": "Shephuphan, also known as Muppim or Shupham, is a son of Benjamin living during the time of Egypt and the wilderness, first mentioned in Genesis 46:21."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Muppim"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שְׁפֹות",
+      "שְׁפוּפָם"
+    ]
+  },
+  "key_references": [
+    "13008005"
+  ],
+  "references": [
+    "13008005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080050022"
+      ]
+    ]
+  }
+}

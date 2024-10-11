@@ -1,0 +1,65 @@
+{
+  "id": "person:Jeriel",
+  "primary_id": "person:Jeriel",
+  "alternate_sources": {
+    "aquifer": [
+      "6322|Jeriel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003109001001000"
+    ],
+    "tipnr": [
+      "Jeriel@1Ch.7.2"
+    ],
+    "vizbible": [
+      "recsdgUZW3ZkZNIWz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Tola",
+  "siblings": [
+    "person:Uzzi.2",
+    "person:Rephaiah.4",
+    "person:Jahmai",
+    "person:Ibsam",
+    "person:Shemuel.2"
+  ],
+  "tribe": "group:Issachar",
+  "ubsdbh": [
+    "003109001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeriel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeriel",
+          "article": "person:Jeriel",
+          "description": "A man from the tribe of Issachar, son of Tola, who lived during the time of Egypt and the wilderness, mentioned in 1 Chronicles 7:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְרִיאֵל"
+    ]
+  },
+  "key_references": [
+    "13007002"
+  ],
+  "references": [
+    "13007002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070020052"
+      ]
+    ]
+  }
+}

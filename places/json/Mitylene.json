@@ -1,0 +1,100 @@
+{
+  "id": "place:Mitylene",
+  "primary_id": "place:Mitylene",
+  "alternate_sources": {
+    "aquifer": [
+      "7174|Mitylene|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a33910d"
+    ],
+    "ubsdgnt": [
+      "93.533"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/256866"
+    ],
+    "tipnr": [
+      "Mitylene@Act.20.14"
+    ],
+    "vizbible": [
+      "recIaxpnDTIW0Xxx8"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q189059"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.533"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mitylene",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mitylene",
+          "gloss": "Mitylene",
+          "description": "The chief city on the island of Lesbos in the Aegean Sea."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Lesbos"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Μιτυλήνη"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "39.10033557",
+      "lon": "26.55180478"
+    },
+    "recogito": {
+      "lat": "39.10772",
+      "lon": "26.55529"
+    },
+    "vizbible": {
+      "lat": "39.10772",
+      "lon": "26.55529"
+    },
+    "biblica-maps": {
+      "lat": "39.11195",
+      "lon": "26.55586"
+    }
+  },
+  "key_references": [
+    "44020014"
+  ],
+  "references": [
+    "44020014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44020014012"
+      ]
+    ]
+  }
+}

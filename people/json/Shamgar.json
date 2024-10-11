@@ -1,0 +1,71 @@
+{
+  "id": "person:Shamgar",
+  "primary_id": "person:Shamgar",
+  "alternate_sources": {
+    "aquifer": [
+      "8275|Shamgar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007444001001000"
+    ],
+    "tipnr": [
+      "Shamgar@Jdg.3.31-"
+    ],
+    "vizbible": [
+      "recS3g2bpzNuKQAq6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Anath",
+  "ubsdbh": [
+    "007444001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shamgar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shamgar",
+          "article": "person:Shamgar",
+          "description": "Shamgar, son of Anath, was a judge who lived before Israel's Monarchy, mentioned in Judges 3:31."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07003031",
+    "07005006"
+  ],
+  "references": [
+    "07003031",
+    "07005006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070030310031"
+      ],
+      [
+        "o070050060021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o070030310161"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070030310062"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "id": "realia:Tabernacle",
+  "primary_id": "realia:Tabernacle",
+  "alternate_sources": {
+    "aquifer": [
+      "8696|Tabernacle|TyndaleBibleDictionary",
+      "27136|Tabernacle|UWTranslationWords",
+      "341017|tabernacle|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "7.18",
+      "7.17"
+    ],
+    "ubsrealia": [
+      "realia:3.15.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.18",
+    "7.17"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tabernacle",
+      "alternate_labels": [
+        "Sanctuary",
+        "Tent",
+        "Tabernacle Tent",
+        "Tabernacle Entrance"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tabernacle",
+          "article": "realia:Tabernacle",
+          "description": "A large, movable tent structure used by the Jews as a place of worship before the Temple was built."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἅγιος",
+      "σκηνή"
+    ]
+  },
+  "key_references": [
+    "02025009",
+    "02029042",
+    "04009015",
+    "58009002"
+  ],
+  "references": [
+    "40024015",
+    "44006013",
+    "44007044",
+    "44015016",
+    "44021028",
+    "58008002",
+    "58008005",
+    "58009001",
+    "58009002",
+    "58009003",
+    "58009006",
+    "58009008",
+    "58009011",
+    "58009021",
+    "58009024",
+    "58013010",
+    "66013006",
+    "66015005",
+    "66021003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40024015017"
+      ],
+      [
+        "n44006013017"
+      ],
+      [
+        "n44021028034"
+      ],
+      [
+        "n58009001010"
+      ],
+      [
+        "n58008002002"
+      ],
+      [
+        "n58009024006"
+      ],
+      [
+        "n44007044002"
+      ],
+      [
+        "n44015016007"
+      ],
+      [
+        "n58008002006"
+      ],
+      [
+        "n58008005014"
+      ],
+      [
+        "n58009002001"
+      ],
+      [
+        "n58009003006"
+      ],
+      [
+        "n58009006009"
+      ],
+      [
+        "n58009008016"
+      ],
+      [
+        "n58009011013"
+      ],
+      [
+        "n58009021003"
+      ],
+      [
+        "n58013010011"
+      ],
+      [
+        "n66013006017"
+      ],
+      [
+        "n66015005010"
+      ],
+      [
+        "n66021003011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44007044019"
+      ],
+      [
+        "n44007045001"
+      ],
+      [
+        "n44015016014"
+      ],
+      [
+        "n44015016018"
+      ],
+      [
+        "n58008002009"
+      ],
+      [
+        "n58009002007"
+      ],
+      [
+        "n58009002019"
+      ],
+      [
+        "n58009009001"
+      ],
+      [
+        "n58009009009"
+      ],
+      [
+        "n58009011016"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44015016010"
+      ],
+      [
+        "n58009003008"
+      ],
+      [
+        "n58009004002"
+      ],
+      [
+        "n66013006023"
+      ]
+    ]
+  }
+}

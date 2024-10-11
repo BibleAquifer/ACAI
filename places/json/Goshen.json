@@ -1,0 +1,134 @@
+{
+  "id": "place:Goshen",
+  "primary_id": "place:Goshen",
+  "alternate_sources": {
+    "aquifer": [
+      "5515|Goshen|TyndaleBibleDictionary",
+      "26655|Goshen|UWTranslationWords",
+      "132243|Goshen|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001522001001000"
+    ],
+    "tipnr": [
+      "Goshen@Gen.45.10-Exo"
+    ],
+    "vizbible": [
+      "recWncFFjf41531kw"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001522001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Goshen (of Egypt)",
+      "alternate_labels": [
+        "Goshen"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Goshen.1",
+          "gloss": "Goshen (of Egypt)",
+          "description": "A region in the eastern Egyptian delta where the Israelites lived from the time they settled in the country until the exodus."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גֹּשֶׁן",
+      "גֹּ֫שֶׁן",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.72850164",
+      "lon": "31.80469224"
+    },
+    "vizbible": {
+      "lat": "30.72850164",
+      "lon": "31.80469224"
+    }
+  },
+  "key_references": [
+    "01045010",
+    "01046034"
+  ],
+  "references": [
+    "01045010",
+    "01046028",
+    "01046029",
+    "01046034",
+    "01047001",
+    "01047004",
+    "01047006",
+    "01047027",
+    "01050008",
+    "02008018",
+    "02009026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010450100031"
+      ],
+      [
+        "o010460280091"
+      ],
+      [
+        "o010460280121"
+      ],
+      [
+        "o010460290081"
+      ],
+      [
+        "o010460340161"
+      ],
+      [
+        "o010470010181"
+      ],
+      [
+        "o010470040231"
+      ],
+      [
+        "o010470060141"
+      ],
+      [
+        "o010470270061"
+      ],
+      [
+        "o010500080131"
+      ],
+      [
+        "o020080180061"
+      ],
+      [
+        "o020090260031"
+      ]
+    ]
+  }
+}

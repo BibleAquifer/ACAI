@@ -1,0 +1,66 @@
+{
+  "id": "person:Aran",
+  "primary_id": "person:Aran",
+  "alternate_sources": {
+    "aquifer": [
+      "3703|Aran|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000705001001000"
+    ],
+    "tipnr": [
+      "Aran@Gen.36.28-1Ch"
+    ],
+    "vizbible": [
+      "rec4mQHE705nlOKkU"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Dishan",
+  "siblings": [
+    "person:Uz.3"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "000705001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aran",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aran",
+          "article": "person:Aran",
+          "description": "A man living at the time of the patriarchs, son of Dishan and descendant of Seir, mentioned in Genesis 36:28."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲרָן"
+    ]
+  },
+  "key_references": [
+    "01036028",
+    "13001042"
+  ],
+  "references": [
+    "01036028",
+    "13001042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360280052"
+      ],
+      [
+        "o130010420092"
+      ]
+    ]
+  }
+}

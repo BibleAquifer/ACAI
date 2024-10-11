@@ -1,0 +1,60 @@
+{
+  "id": "person:Jashen",
+  "primary_id": "person:Jashen",
+  "alternate_sources": {
+    "aquifer": [
+      "6230|Jashen|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hashem|Jashen@2Sa.23.32-1Ch",
+      "Jashen@2Sa.23.32-1Ch"
+    ],
+    "vizbible": [
+      "rec4nAtQkjG3lWrrv"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:SonOfJashen"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jashen",
+      "alternate_labels": [
+        "Hashem"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jashen",
+          "article": "person:Jashen",
+          "description": "A man living during Israel's united kingdom, also called Hashem, mentioned in 2 Samuel 23:32 and 1 Chronicles 11:34."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hashem"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023032",
+    "13011034"
+  ],
+  "references": [
+    "10023032",
+    "13011034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230320041"
+      ],
+      [
+        "o130110340021"
+      ]
+    ]
+  }
+}

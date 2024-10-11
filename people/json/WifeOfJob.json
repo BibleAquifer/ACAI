@@ -1,0 +1,51 @@
+{
+  "id": "person:WifeOfJob",
+  "primary_id": "person:WifeOfJob",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Job's Wife",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Job's Wife",
+          "description": "The wife of Job."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "18002009"
+  ],
+  "references": [
+    "18002009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180020090031"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o180020090041",
+          "o180020090042",
+          "o180020090051",
+          "o180020090061",
+          "o180020090062",
+          "o180020090063",
+          "o180020090071",
+          "o180020090081",
+          "o180020090091",
+          "o180020090092"
+        ]
+      }
+    ]
+  }
+}

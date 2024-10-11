@@ -1,0 +1,83 @@
+{
+  "id": "place:Skull",
+  "primary_id": "place:Golgotha",
+  "alternate_sources": {
+    "aquifer": [
+      "8539|Skull, Place of the|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "8.11"
+    ],
+    "tipnr": [
+      "Skull|Golgotha@Mat.27.33-Jhn"
+    ],
+    "vizbible": [
+      "recyLzZVuj6lpF5w9"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "8.11"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Skull",
+      "alternate_labels": [
+        "Golgotha",
+        "the place of the Skull",
+        "The Place of a Skull",
+        "The Place of the Skull",
+        "The Skull",
+        "Calvary",
+        "Place of a Skull",
+        "Place of the Skull"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Golgotha"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "references": [
+    "40027033",
+    "41015022",
+    "42023033",
+    "43019017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027033009"
+      ],
+      [
+        "n41015022011"
+      ],
+      [
+        "n42023033009"
+      ],
+      [
+        "n43019017010"
+      ]
+    ]
+  }
+}

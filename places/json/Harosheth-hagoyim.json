@@ -1,0 +1,104 @@
+{
+  "id": "place:Harosheth-hagoyim",
+  "primary_id": "place:Harosheth-hagoyim",
+  "alternate_sources": {
+    "obi": [
+      "a49c017"
+    ],
+    "ubsdbh": [
+      "002574001001000"
+    ],
+    "tipnr": [
+      "Harosheth-hagoyim@Jdg.4.2-"
+    ],
+    "vizbible": [
+      "recZ0LQukEPoExEIn"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2920321"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002574001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Harosheth-hagoyim",
+      "alternate_labels": [
+        "Harosheth of the Nations",
+        "Harosheth-Haggoyim",
+        "Harosheth of the Gentiles",
+        "Harosheth-ha-goiim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Harosheth-hagoyim",
+          "gloss": "Harosheth-Hagoyim",
+          "description": "A town north of Israel; residence of Sisera, army commander of Jabin, king of Hazor (Judges 4:2)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲרֹשֶׁת הַגֹּויִם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "special",
+      "settlement",
+      "region"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.691177",
+      "lon": "35.110039"
+    },
+    "vizbible": {
+      "lat": "32.691177",
+      "lon": "35.110039"
+    }
+  },
+  "key_references": [
+    "07004002",
+    "07004013",
+    "07004016"
+  ],
+  "references": [
+    "07004002",
+    "07004013",
+    "07004016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070040020152",
+        "o070040020161"
+      ],
+      [
+        "o070040130152",
+        "o070040130161"
+      ],
+      [
+        "o070040160081",
+        "o070040160091"
+      ]
+    ]
+  }
+}

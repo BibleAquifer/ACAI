@@ -1,0 +1,77 @@
+{
+  "id": "person:Reuel.2",
+  "primary_id": "person:Jethro",
+  "alternate_sources": {
+    "aquifer": [
+      "8016|Reuel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006861001002000"
+    ],
+    "tipnr": [
+      "Reuel|Jethro@Exo.2.18-Num"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Zipporah",
+    "person:Hobab"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "ubsdbh": [
+    "006861001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Reuel (Jethro)",
+      "alternate_labels": [
+        "Jethro",
+        "Raguel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jethro",
+          "article": "person:Reuel.2",
+          "description": "Reuel, also known as Jethro or Raguel, was a man living during the time of Egypt and the wilderness, the father of Zipporah and Hobab, first mentioned in Exodus 2:18."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jethro"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02002018",
+    "04010029"
+  ],
+  "references": [
+    "02002018",
+    "04010029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020020180031"
+      ],
+      [
+        "o040100290051"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020020180052"
+      ],
+      [
+        "o020020200012"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "person:Hamul",
+  "primary_id": "person:Hamul",
+  "alternate_sources": {
+    "aquifer": [
+      "5634|Hamul, Hamulite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hamul@Gen.46.12-1Ch"
+    ],
+    "vizbible": [
+      "recFRjOIqBTuq6vJc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Perez",
+  "siblings": [
+    "person:Hezron.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hamul",
+      "alternate_labels": [
+        "Hamulite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hamul",
+          "article": "person:Hamul",
+          "description": "Grandson of the patriarch Judah, a son of Perez, and the brother of Hezron who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites"
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Hamul"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046012",
+    "04026021",
+    "13002005"
+  ],
+  "references": [
+    "01046012",
+    "04026021",
+    "13002005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460120172"
+      ],
+      [
+        "o040260210072"
+      ],
+      [
+        "o040260210092"
+      ],
+      [
+        "o130020050042"
+      ]
+    ]
+  }
+}

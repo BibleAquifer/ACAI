@@ -1,0 +1,134 @@
+{
+  "id": "realia:Chain",
+  "primary_id": "realia:Chain",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.16",
+      "6.14"
+    ],
+    "ubsrealia": [
+      "realia:3.21.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.16",
+    "6.14"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chain",
+      "alternate_labels": [
+        "Bonds",
+        "Chains",
+        "Fetters"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Chain",
+          "article": "realia:Chain",
+          "description": "A series of connected metal links used to tie things together or restrain prisoners."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἅλυσις",
+      "δεσμός"
+    ]
+  },
+  "key_references": [
+    "41005003",
+    "44012006",
+    "44028020",
+    "66020001"
+  ],
+  "references": [
+    "41005003",
+    "41005004",
+    "42008029",
+    "44012006",
+    "44012007",
+    "44016026",
+    "44021033",
+    "44026029",
+    "44028020",
+    "49006020",
+    "51004018",
+    "55001016",
+    "55002009",
+    "58011036",
+    "65001006",
+    "66020001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41005003010"
+      ],
+      [
+        "n41005004007"
+      ],
+      [
+        "n41005004014"
+      ],
+      [
+        "n42008029018"
+      ],
+      [
+        "n44012006019"
+      ],
+      [
+        "n44012007028"
+      ],
+      [
+        "n44021033010"
+      ],
+      [
+        "n44028020018"
+      ],
+      [
+        "n49006020005"
+      ],
+      [
+        "n55001016014"
+      ],
+      [
+        "n66020001014"
+      ],
+      [
+        "n42008029025"
+      ],
+      [
+        "n44016026021"
+      ],
+      [
+        "n44026029032"
+      ],
+      [
+        "n51004018010"
+      ],
+      [
+        "n55002009005"
+      ],
+      [
+        "n58011036010"
+      ],
+      [
+        "n65001006018"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44026029033"
+      ]
+    ]
+  }
+}

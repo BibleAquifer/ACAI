@@ -1,0 +1,53 @@
+{
+  "id": "group:Timnites",
+  "primary_id": "group:Timnites",
+  "alternate_sources": {
+    "tipnr": [
+      "Timnites@Jdg.15.6"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Timnah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Timnites",
+      "alternate_labels": [
+        "Timnite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Timnites",
+          "article": "group:Timnites",
+          "description": "People who live in Timnah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07015006"
+  ],
+  "references": [
+    "07015006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070150060092"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070150060111"
+      ],
+      [
+        "o070150060142"
+      ]
+    ]
+  }
+}

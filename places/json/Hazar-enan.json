@@ -1,0 +1,93 @@
+{
+  "id": "place:Hazar-enan",
+  "primary_id": "place:Hazar-enan",
+  "alternate_sources": {
+    "aquifer": [
+      "5727|Hazar-Enan, Hazar-Enon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a1ce1b7"
+    ],
+    "tipnr": [
+      "Hazar-enan@Num.34.9-Ezk"
+    ],
+    "vizbible": [
+      "reci0DJ1lahPFlLir"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazar-enan",
+      "alternate_labels": [
+        "Hazar-enon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hazar-enan",
+          "gloss": "Hazar-Enan",
+          "description": "A location northeast of Israel; also known as Hazar-Enon."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.229499",
+      "lon": "37.240077"
+    },
+    "vizbible": {
+      "lat": "34.229499",
+      "lon": "37.240077"
+    }
+  },
+  "key_references": [
+    "04034009",
+    "26047017",
+    "04034010"
+  ],
+  "references": [
+    "04034009",
+    "04034010",
+    "26047017",
+    "26048001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340090061",
+        "o040340090071"
+      ],
+      [
+        "o040340100052",
+        "o040340100061"
+      ],
+      [
+        "o260470170051",
+        "o260470170061"
+      ],
+      [
+        "o260480010121",
+        "o260480010131"
+      ]
+    ]
+  }
+}

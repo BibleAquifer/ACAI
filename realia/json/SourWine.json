@@ -1,0 +1,74 @@
+{
+  "id": "realia:SourWine",
+  "primary_id": "realia:SourWine",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.201"
+    ],
+    "ubsrealia": [
+      "realia:9.1.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.201"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sour Wine",
+      "alternate_labels": [
+        "Wine Vinegar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sour Wine",
+          "article": "realia:SourWine",
+          "description": "A cheap, sour drink that was popular among poorer people and effective for quenching thirst."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὄξος"
+    ]
+  },
+  "key_references": [
+    "40027048",
+    "42023036",
+    "43019029"
+  ],
+  "references": [
+    "40027048",
+    "41015036",
+    "42023036",
+    "43019029",
+    "43019030"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027048012"
+      ],
+      [
+        "n41015036007"
+      ],
+      [
+        "n42023036008"
+      ],
+      [
+        "n43019029003"
+      ],
+      [
+        "n43019029009"
+      ],
+      [
+        "n43019030005"
+      ]
+    ]
+  }
+}

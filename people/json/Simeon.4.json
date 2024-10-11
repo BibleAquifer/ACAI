@@ -1,0 +1,86 @@
+{
+  "id": "person:Simeon.4",
+  "primary_id": "person:Simeon.4",
+  "alternate_sources": {
+    "aquifer": [
+      "8501|Simeon (Person)|TyndaleBibleDictionary",
+      "8502|Simeon, Tribe of|TyndaleBibleDictionary",
+      "27096|Simeon|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Lucius|Simeon@Act.13.1-Rom",
+      "Niger|Simeon@Act.13.1-Rom",
+      "Simeon@Act.13.1-Rom"
+    ],
+    "vizbible": [
+      "recTfg42AmArtOXRy"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Church Leader",
+    "Prophet",
+    "Teacher"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Simeon (Acts 13:1)",
+      "alternate_labels": [
+        "Niger",
+        "Lucius"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Simeon (Acts 13:1)",
+          "article": "person:Simeon.4",
+          "description": "A Christian prophet and teacher from the church of Antioch who lived lived in the New Testament times."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Niger",
+    "person:Lucius"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44013001"
+  ],
+  "references": [
+    "44013001",
+    "45016021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44013001016"
+      ],
+      [
+        "n44013001019"
+      ],
+      [
+        "n44013001021"
+      ],
+      [
+        "n45016021008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n45016024005"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44013001018"
+      ]
+    ]
+  }
+}

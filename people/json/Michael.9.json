@@ -1,0 +1,76 @@
+{
+  "id": "person:Michael.9",
+  "primary_id": "person:Michael.9",
+  "alternate_sources": {
+    "aquifer": [
+      "7109|Michael|TyndaleBibleDictionary",
+      "26875|Michael|UWTranslationWords",
+      "132511|Michael|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003945001002000"
+    ],
+    "tipnr": [
+      "Michael@2Ch.21.2"
+    ],
+    "vizbible": [
+      "recD8WDUZtmlX6anv"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoshaphat.3",
+  "siblings": [
+    "person:Jehoram",
+    "person:Azariah.12",
+    "person:Jehiel.4",
+    "person:Zechariah.11",
+    "person:Azariahu",
+    "person:Shephatiah.5"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ],
+    "death_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "003945001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Michael (2 Chronicles 21:2)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Michael (2 Chronicles 21:2)",
+          "article": "person:Michael.9",
+          "description": "Michael was a man from the tribe of Judah, living during the time of the divided kingdom and the reign of Jehoshaphat, mentioned in 2 Chronicles 21:2 as one of Jehoshaphat's sons and brother to Jehoram, Azariah, Jehiel, Zechariah, Azariahu, and Shephatiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִיכָאֵל"
+    ]
+  },
+  "key_references": [
+    "14021002"
+  ],
+  "references": [
+    "14021002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140210020092"
+      ]
+    ]
+  }
+}

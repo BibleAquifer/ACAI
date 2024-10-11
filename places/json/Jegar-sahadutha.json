@@ -1,0 +1,85 @@
+{
+  "id": "place:Jegar-sahadutha",
+  "primary_id": "place:Jegar-sahadutha",
+  "alternate_sources": {
+    "aquifer": [
+      "6263|Jegar-Sahadutha|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jegar-sahadutha@Gen.31.47-Gen"
+    ],
+    "vizbible": [
+      "reczvqcmwwjTk90i3"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jegar-sahadutha",
+      "alternate_labels": [
+        "Mizpah",
+        "Galeed"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mizpah.4",
+          "gloss": "Jegar-Sahadutha",
+          "description": "A pile of stones east of the Jordan, possibly in Gilead, erected by Jacob and Laban to commemorate their agreement."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Mizpah.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "stone heap"
+    ],
+    "acai": [
+      "structure"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.56526757",
+      "lon": "36.00555931"
+    },
+    "vizbible": {
+      "lat": "32.56526757",
+      "lon": "36.00555931"
+    }
+  },
+  "key_references": [
+    "01031047"
+  ],
+  "references": [
+    "01031047",
+    "01031048",
+    "01031049"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010310470041",
+        "o010310470051"
+      ],
+      [
+        "o010310470091"
+      ],
+      [
+        "o010310480131"
+      ],
+      [
+        "o010310490013"
+      ]
+    ]
+  }
+}

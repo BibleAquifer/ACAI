@@ -1,0 +1,74 @@
+{
+  "id": "person:Azariah.12",
+  "primary_id": "person:Azariah.12",
+  "alternate_sources": {
+    "aquifer": [
+      "3902|Azariah|TyndaleBibleDictionary",
+      "3901|Azariah, Prayer of|TyndaleBibleDictionary",
+      "26354|Azariah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005358001011000"
+    ],
+    "tipnr": [
+      "Azariah@2Ch.21.2"
+    ],
+    "vizbible": [
+      "recGM8omzST49QfAW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoshaphat.3",
+  "siblings": [
+    "person:Jehoram",
+    "person:Jehiel.4",
+    "person:Zechariah.11",
+    "person:Azariahu",
+    "person:Michael.9",
+    "person:Shephatiah.5"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ],
+    "death_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "005358001011000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azariah (2 Chronicles 21:2)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azariah (2 Chronicles 21:2)",
+          "article": "person:Azariah.12",
+          "description": "A man from the tribe of Judah during the divided kingdom, son of Jehoshaphat and brother to Jehoram, Jehiel, Zechariah, Azariahu, Michael, and Shephatiah, mentioned in 2 Chronicles 21:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "14021002"
+  ],
+  "references": [
+    "14021002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140210020051"
+      ],
+      [
+        "o140210020082"
+      ]
+    ]
+  }
+}

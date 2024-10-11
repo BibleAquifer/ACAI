@@ -1,0 +1,68 @@
+{
+  "id": "person:Hul",
+  "primary_id": "person:Hul",
+  "alternate_sources": {
+    "aquifer": [
+      "5939|Hul|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002162001001000"
+    ],
+    "tipnr": [
+      "Hul@Gen.10.23-1Ch"
+    ],
+    "vizbible": [
+      "recACHdJjz5IotFXw"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Aram",
+  "siblings": [
+    "person:Uz",
+    "person:Gether",
+    "person:Mash"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "002162001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hul",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hul",
+          "article": "person:Hul",
+          "description": "Hul, a descendant of Shem and son of Aram, was a man from the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חוּל"
+    ]
+  },
+  "key_references": [
+    "01010023",
+    "13001017"
+  ],
+  "references": [
+    "01010023",
+    "13001017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100230042"
+      ],
+      [
+        "o130010170092"
+      ]
+    ]
+  }
+}

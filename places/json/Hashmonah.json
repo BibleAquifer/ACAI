@@ -1,0 +1,82 @@
+{
+  "id": "place:Hashmonah",
+  "primary_id": "place:Hashmonah",
+  "alternate_sources": {
+    "aquifer": [
+      "5697|Hashmonah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002606001001000"
+    ],
+    "tipnr": [
+      "Hashmonah@Num.33.29-"
+    ],
+    "vizbible": [
+      "recSzJQj3klyLFo3s"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002606001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hashmonah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hashmonah",
+          "gloss": "Hashmonah",
+          "description": "A location in the Sinai Peninsula, between Mithkah and Moseroth, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חַשְׁמֹנָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    },
+    "vizbible": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    }
+  },
+  "key_references": [
+    "04033030",
+    "04033029"
+  ],
+  "references": [
+    "04033029",
+    "04033030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330290042"
+      ],
+      [
+        "o040330300022"
+      ]
+    ]
+  }
+}

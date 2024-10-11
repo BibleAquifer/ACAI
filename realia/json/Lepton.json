@@ -1,0 +1,70 @@
+{
+  "id": "realia:Lepton",
+  "primary_id": "realia:Lepton",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.79"
+    ],
+    "ubsrealia": [
+      "realia:11.6.2.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.79"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lepton",
+      "alternate_labels": [
+        "Tiny Coin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lepton",
+          "article": "realia:Lepton",
+          "description": "A very small copper or bronze coin worth 1/128 of a denarius."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "λεπτός"
+    ]
+  },
+  "key_references": [
+    "41012042",
+    "42012059",
+    "42021002"
+  ],
+  "references": [
+    "41012042",
+    "42012059",
+    "42021002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41012042007"
+      ],
+      [
+        "n42012059011"
+      ],
+      [
+        "n42021002008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n41012042009"
+      ]
+    ]
+  }
+}

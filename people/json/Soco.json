@@ -1,0 +1,55 @@
+{
+  "id": "person:Soco",
+  "primary_id": "person:Soco",
+  "alternate_sources": {
+    "aquifer": [
+      "8554|Soco (Person)|TyndaleBibleDictionary",
+      "8555|Soco (Place), Socoh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006998001002000"
+    ],
+    "tipnr": [
+      "Soco@1Ch.4.18"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Heber.3",
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "006998001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Soco",
+      "alternate_labels": [
+        "Socho",
+        "Soko"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Soco",
+          "article": "person:Soco",
+          "description": "Soco, also known as Socho or Soko, was a man of the tribe of Judah during the divided kingdom, mentioned in 1 Chronicles 4:18 as the son of Heber."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004018"
+  ],
+  "references": [
+    "13004018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040180111"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "place:Tabor.2",
+  "primary_id": "place:Tabor.2",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007702001003000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3189227"
+    ],
+    "tipnr": [
+      "Tabor@1Sa.10.3"
+    ],
+    "vizbible": [
+      "recaVtOKQW8NtFlct"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007702001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Oak of Tabor",
+      "alternate_labels": [
+        "Tabor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tabor.3",
+          "gloss": "Oak of Tabor",
+          "description": "A tree where Saul met three men shortly after having been anointed king. "
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "tree"
+    ],
+    "acai": [
+      "tree"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.93053920580005",
+      "lon": "35.22103274923676"
+    },
+    "recogito": {
+      "lat": "46.23611",
+      "lon": "15.01833"
+    },
+    "vizbible": {
+      "lat": "31.93053920580005",
+      "lon": "35.22103274923676"
+    }
+  },
+  "key_references": [
+    "09010003"
+  ],
+  "references": [
+    "09010003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090100030071"
+      ]
+    ]
+  }
+}

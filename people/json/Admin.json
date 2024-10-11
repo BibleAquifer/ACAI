@@ -1,0 +1,75 @@
+{
+  "id": "person:Admin",
+  "primary_id": "person:Ram",
+  "alternate_sources": {
+    "aquifer": [
+      "3386|Admin|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.13"
+    ],
+    "tipnr": [
+      "Admin|Ram@Rut.4.19-Luk"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hezron.2",
+  "mother": "person:AWifeOfHezron",
+  "offspring": [
+    "person:Amminadab"
+  ],
+  "siblings": [
+    "person:Jerahmeel",
+    "person:Caleb.2",
+    "person:Segub.2",
+    "person:Ashhur"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.13"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Admin (Ram)",
+      "alternate_labels": [
+        "Ram",
+        "Aram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ram",
+          "article": "person:Admin",
+          "description": "A man of the tribe of Judah living at the time of Israel's united kingdom, son of Hezron and father of Amminadab, also called Ram or Aram, and mentioned in the genealogy of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ram"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀδμίν"
+    ]
+  },
+  "key_references": [
+    "42003033"
+  ],
+  "references": [
+    "42003033"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003033004"
+      ]
+    ]
+  }
+}

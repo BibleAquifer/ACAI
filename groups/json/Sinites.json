@@ -1,0 +1,50 @@
+{
+  "id": "group:Sinites",
+  "primary_id": "group:Sinites",
+  "alternate_sources": {
+    "tipnr": [
+      "Sinites@Gen.10.17-1Ch"
+    ],
+    "vizbible": [
+      "recnuE13gAffOKArZ"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sinites",
+      "alternate_labels": [
+        "Sinite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sinites",
+          "article": "group:Sinites",
+          "description": "People from one of the nations that inhabited the land of Canaan before the Israelite conquest."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010017",
+    "13001015"
+  ],
+  "references": [
+    "01010017",
+    "13001015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100170062"
+      ],
+      [
+        "o130010150062"
+      ]
+    ]
+  }
+}

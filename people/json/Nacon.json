@@ -1,0 +1,61 @@
+{
+  "id": "person:Nacon",
+  "primary_id": "person:Nacon",
+  "alternate_sources": {
+    "aquifer": [
+      "7276|Nacon|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Chidon|Nacon@2Sa.6.6-1Ch",
+      "Nacon@2Sa.6.6-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Serug",
+  "offspring": [
+    "person:Terah"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nacon",
+      "alternate_labels": [
+        "Nachon",
+        "Nakon",
+        "Chidon",
+        "Kidon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nacon",
+          "article": "person:Nacon",
+          "description": "Nacon, also known as Nachon, Chidon, or Kidon, was a man mentioned in 2 Samuel 6:6 and 1 Chronicles 13:9 during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Chidon"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10006006",
+    "13013009"
+  ],
+  "references": [
+    "10006006",
+    "13013009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100060060041"
+      ],
+      [
+        "o130130090041"
+      ]
+    ]
+  }
+}

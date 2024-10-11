@@ -1,0 +1,76 @@
+{
+  "id": "person:Bela.2",
+  "primary_id": "person:Bela.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4085|Bela (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001027002002000"
+    ],
+    "tipnr": [
+      "Bela@Gen.36.32-1Ch"
+    ],
+    "vizbible": [
+      "recq108iK9IWsxfWI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Beor",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "001027002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bela (King of Edom)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bela (King of Edom)",
+          "article": "person:Bela.2",
+          "description": "A king of Edom living before the time of the united kingdom in Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּלַע",
+      "בֶּ֫לַע"
+    ]
+  },
+  "key_references": [
+    "01036032",
+    "01036033",
+    "13001043"
+  ],
+  "references": [
+    "01036032",
+    "01036033",
+    "13001043",
+    "13001044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360320031"
+      ],
+      [
+        "o010360330021"
+      ],
+      [
+        "o130010430121"
+      ],
+      [
+        "o130010440021"
+      ]
+    ]
+  }
+}

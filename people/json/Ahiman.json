@@ -1,0 +1,71 @@
+{
+  "id": "person:Ahiman",
+  "primary_id": "person:Ahiman",
+  "alternate_sources": {
+    "aquifer": [
+      "3448|Ahiman|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000273001001000"
+    ],
+    "tipnr": [
+      "Ahiman@Num.13.22-Jdg"
+    ],
+    "vizbible": [
+      "recRIRFGthibBMRBt"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Anak",
+  "siblings": [
+    "person:Sheshai",
+    "person:Talmai"
+  ],
+  "ubsdbh": [
+    "000273001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahiman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahiman",
+          "article": "person:Ahiman",
+          "description": "A giant and descendant of Anak living during the time of Egypt and the wilderness, mentioned in Numbers 13:22."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִימַן"
+    ]
+  },
+  "key_references": [
+    "04013022",
+    "06015014",
+    "07001010"
+  ],
+  "references": [
+    "04013022",
+    "06015014",
+    "07001010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130220071"
+      ],
+      [
+        "o060150140111"
+      ],
+      [
+        "o070010100161"
+      ]
+    ]
+  }
+}

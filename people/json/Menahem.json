@@ -1,0 +1,133 @@
+{
+  "id": "person:Menahem",
+  "primary_id": "person:Menahem",
+  "alternate_sources": {
+    "aquifer": [
+      "7044|Menahem|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004120001001000"
+    ],
+    "tipnr": [
+      "Menahem@2Ki.15.14-"
+    ],
+    "vizbible": [
+      "recxj2mVzk0u300vz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gadi",
+  "offspring": [
+    "person:Pekahiah"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "004120001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Menahem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Menahem",
+          "article": "person:Menahem",
+          "description": "Father of Pekahiah, son of Gadi, and ruler of the northern kingdom of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְנַחֵם",
+      "חֲצִי הַמְּנֻחוֹת"
+    ]
+  },
+  "key_references": [
+    "12015014",
+    "12015019",
+    "12015021",
+    "12015022"
+  ],
+  "references": [
+    "12015014",
+    "12015016",
+    "12015017",
+    "12015019",
+    "12015020",
+    "12015021",
+    "12015022",
+    "12015023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120150140021"
+      ],
+      [
+        "o120150160031"
+      ],
+      [
+        "o120150170091"
+      ],
+      [
+        "o120150190081"
+      ],
+      [
+        "o120150200021"
+      ],
+      [
+        "o120150210031"
+      ],
+      [
+        "o120150220021"
+      ],
+      [
+        "o120150230101"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120150140062"
+      ],
+      [
+        "o120150140082"
+      ],
+      [
+        "o120150140142"
+      ],
+      [
+        "o120150140152"
+      ],
+      [
+        "o120150160162"
+      ],
+      [
+        "o120150160201"
+      ],
+      [
+        "o120150180012"
+      ],
+      [
+        "o120150180061"
+      ],
+      [
+        "o120150190162"
+      ],
+      [
+        "o120150200112"
+      ],
+      [
+        "o120150210061"
+      ]
+    ]
+  }
+}

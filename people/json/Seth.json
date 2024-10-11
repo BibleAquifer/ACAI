@@ -1,0 +1,135 @@
+{
+  "id": "person:Seth",
+  "primary_id": "person:Seth",
+  "alternate_sources": {
+    "aquifer": [
+      "8247|Seth|TyndaleBibleDictionary",
+      "27076|Seth|UWTranslationWords",
+      "132170|Seth|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Seth@Gen.4.25-Luk",
+      "Sheth|Seth@Gen.4.25-Luk"
+    ],
+    "vizbible": [
+      "recdvASnxGfjfmvDM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Adam",
+  "mother": "person:Eve",
+  "offspring": [
+    "person:Enosh"
+  ],
+  "siblings": [
+    "person:Cain",
+    "person:Abel"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "related_places": {
+    "birth_place": [
+      "place:Eden"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seth",
+      "alternate_labels": [
+        "Sheth",
+        "buttock"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seth",
+          "article": "person:Seth",
+          "description": "Third son of Adam and Eve, the younger brother of Abel. He is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Sheth"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01004025",
+    "42003038"
+  ],
+  "references": [
+    "01004025",
+    "01004026",
+    "01005003",
+    "01005004",
+    "01005006",
+    "01005007",
+    "01005008",
+    "04024017",
+    "13001001",
+    "42003038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040250111"
+      ],
+      [
+        "o010040260013"
+      ],
+      [
+        "o010050030121"
+      ],
+      [
+        "o010050040071"
+      ],
+      [
+        "o010050060021"
+      ],
+      [
+        "o010050070021"
+      ],
+      [
+        "o010050080041"
+      ],
+      [
+        "o040240170191"
+      ],
+      [
+        "o130010010021"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003038004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010040260031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010040260062"
+      ],
+      [
+        "o010050060072"
+      ],
+      [
+        "o010050070122"
+      ],
+      [
+        "o010050080112"
+      ]
+    ]
+  }
+}

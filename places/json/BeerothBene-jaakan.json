@@ -1,0 +1,92 @@
+{
+  "id": "place:BeerothBene-jaakan",
+  "primary_id": "place:Bene-jaakan",
+  "alternate_sources": {
+    "aquifer": [
+      "4069|Beeroth Bene-Jaakan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000823001001000"
+    ],
+    "tipnr": [
+      "Beeroth_Bene-jaakan|Bene-jaakan@Num.33.31-Deu"
+    ],
+    "vizbible": [
+      "recoup7E1KIvzRIvR"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000823001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beeroth Bene-jaakan",
+      "alternate_labels": [
+        "wells of Bene-Yaqan",
+        "Beeroth of the children of Jaakan",
+        "wells of the people of Jaakan",
+        "wells of Bene Jaakan",
+        "Bene-Jaakan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:BeerothBene-jaakan",
+          "gloss": "Beeroth Bene-Jaakan",
+          "description": "A campsite in the Sinai Peninsula, between Moserah and Hor-Haggidad, where the Israelites encamped on their way from Egypt to Canaan; also known as Bene-Jaakan."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Bene-jaakan"
+  ],
+  "nearby_places": [
+    "place:Moseroth"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בְּאֵרֹת בְּנֵי־יַעֲקָן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    },
+    "vizbible": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    }
+  },
+  "key_references": [
+    "05010006"
+  ],
+  "references": [
+    "05010006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050100060042",
+        "o050100060051",
+        "o050100060061"
+      ]
+    ]
+  }
+}

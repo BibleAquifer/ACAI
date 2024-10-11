@@ -1,0 +1,81 @@
+{
+  "id": "place:Aija",
+  "primary_id": "place:Ai",
+  "alternate_sources": {
+    "aquifer": [
+      "3476|Aija|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005378001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3699821"
+    ],
+    "tipnr": [
+      "Aija|Ai@Gen.12.8-Isa"
+    ],
+    "vizbible": [
+      "recTnu7k5LCNvA37v"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005378001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aija",
+      "alternate_labels": [
+        "Ai"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Ai"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עִיֹּון",
+      "עִיּוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.91697812",
+      "lon": "35.26122639"
+    },
+    "recogito": {
+      "lat": "-9.78105",
+      "lon": "-77.6094"
+    },
+    "vizbible": {
+      "lat": "31.91697812",
+      "lon": "35.26122639"
+    }
+  },
+  "key_references": [
+    "16011031"
+  ],
+  "references": [
+    "16011031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110310052"
+      ]
+    ]
+  }
+}

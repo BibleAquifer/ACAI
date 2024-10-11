@@ -1,0 +1,82 @@
+{
+  "id": "place:Immer",
+  "primary_id": "place:Immer",
+  "alternate_sources": {
+    "aquifer": [
+      "6005|Immer (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000513001002000",
+      "000513001005000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2658871"
+    ],
+    "tipnr": [
+      "Immer@Ezr.2.59-Neh"
+    ],
+    "vizbible": [
+      "recMDo1B27Zp8sbBs"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000513001002000",
+    "000513001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Immer",
+      "descriptions": []
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אִמֵּר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.359410",
+      "lon": "43.152887"
+    },
+    "recogito": {
+      "lat": "47.15284",
+      "lon": "6.99692"
+    },
+    "vizbible": {
+      "lat": "36.359410",
+      "lon": "43.152887"
+    }
+  },
+  "key_references": [
+    "15002059",
+    "16007061"
+  ],
+  "references": [
+    "15002059",
+    "16007061"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020590091"
+      ],
+      [
+        "o160070610092"
+      ]
+    ]
+  }
+}

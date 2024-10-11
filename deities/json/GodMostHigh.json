@@ -1,0 +1,107 @@
+{
+  "id": "deity:GodMostHigh",
+  "primary_id": "deity:Lord",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000382001004000"
+    ],
+    "tipnr": [
+      "God_Most_High|LORD@Gen.1.1-Heb"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "000382001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "God Most High (LORD)",
+      "alternate_labels": [
+        "LORD",
+        "most high God"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "LORD",
+          "article": "deity:GodMostHigh",
+          "description": "Another name for God; Melchizedek was named as priest of “God Most High.”"
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Lord"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "19078035",
+    "01014018"
+  ],
+  "references": [
+    "01014018",
+    "01014019",
+    "01014020",
+    "01014022",
+    "19078035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140180102"
+      ],
+      [
+        "o010140190052"
+      ],
+      [
+        "o010140200021"
+      ],
+      [
+        "o010140220101"
+      ],
+      [
+        "o190780350052"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o190780380012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010140190071"
+      ],
+      [
+        "o010140200051"
+      ],
+      [
+        "o190780350071"
+      ],
+      [
+        "o190780380031"
+      ],
+      [
+        "o190780380061"
+      ],
+      [
+        "o190780380072"
+      ],
+      [
+        "o190780380082"
+      ],
+      [
+        "o190780380111"
+      ],
+      [
+        "o190780390012"
+      ]
+    ]
+  }
+}

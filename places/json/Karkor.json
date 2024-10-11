@@ -1,0 +1,79 @@
+{
+  "id": "place:Karkor",
+  "primary_id": "place:Karkor",
+  "alternate_sources": {
+    "aquifer": [
+      "6522|Karkor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006603001001000"
+    ],
+    "tipnr": [
+      "Karkor@Jdg.8.10"
+    ],
+    "vizbible": [
+      "reckq6qbK7CuwFOXD"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006603001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Karkor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Karkor",
+          "gloss": "Karkor",
+          "description": "A location east of the Jordan River, where Gideon attacked the Midianite kings Zebah and Zalmunnah."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "קַרְקֹר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "valley",
+      "special"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.1843727808126",
+      "lon": "35.70287002746794"
+    },
+    "vizbible": {
+      "lat": "32.1843727808126",
+      "lon": "35.70287002746794"
+    }
+  },
+  "key_references": [
+    "07008010"
+  ],
+  "references": [
+    "07008010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070080100032"
+      ]
+    ]
+  }
+}

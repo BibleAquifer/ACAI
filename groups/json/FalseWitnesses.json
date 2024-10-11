@@ -1,0 +1,95 @@
+{
+  "id": "group:FalseWitnesses",
+  "primary_id": "group:FalseWitnesses",
+  "type": "group",
+  "group_type": "other",
+  "localizations": {
+    "eng": {
+      "preferred_label": "False Witnesses",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "False Witnesses",
+          "description": "A group of people who give false testimony."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40026060",
+    "40026061",
+    "41014057",
+    "41014057"
+  ],
+  "references": [
+    "40026060",
+    "40026061",
+    "41014057",
+    "41014057"
+  ],
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40026060010"
+      ],
+      [
+        "n40026061001"
+      ],
+      [
+        "n41014057002"
+      ],
+      [
+        "n41014057007"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n40026061002",
+          "n40026061003",
+          "n40026061004",
+          "n40026061005",
+          "n40026061006",
+          "n40026061007",
+          "n40026061008",
+          "n40026061009",
+          "n40026061010",
+          "n40026061011",
+          "n40026061012",
+          "n40026061013",
+          "n40026061014"
+        ]
+      },
+      {
+        "delivery": "mocking",
+        "quote_type": "Dialogue",
+        "words": [
+          "n41014058002",
+          "n41014058003",
+          "n41014058004",
+          "n41014058005",
+          "n41014058006",
+          "n41014058007",
+          "n41014058008",
+          "n41014058009",
+          "n41014058010",
+          "n41014058011",
+          "n41014058012",
+          "n41014058013",
+          "n41014058014",
+          "n41014058015",
+          "n41014058016",
+          "n41014058017",
+          "n41014058018",
+          "n41014058019",
+          "n41014058020"
+        ]
+      }
+    ]
+  }
+}

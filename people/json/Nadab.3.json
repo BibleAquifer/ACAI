@@ -1,0 +1,71 @@
+{
+  "id": "person:Nadab.3",
+  "primary_id": "person:Nadab.3",
+  "alternate_sources": {
+    "aquifer": [
+      "7277|Nadab|TyndaleBibleDictionary",
+      "132302|Nadab and Abihu|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "004648001003000"
+    ],
+    "tipnr": [
+      "Nadab@1Ch.2.28-"
+    ],
+    "vizbible": [
+      "recs42HDZSHXKHQcX"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shammai",
+  "offspring": [
+    "person:Seled",
+    "person:Appaim"
+  ],
+  "siblings": [
+    "person:Abishur"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "004648001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nadab (1 Chronicles 2:28)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nadab (1 Chronicles 2:28)",
+          "article": "person:Nadab.3",
+          "description": "Nadab, son of Shammai and a member of the tribe of Judah, is mentioned in 1 Chronicles 2:28 during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נָדָב"
+    ]
+  },
+  "key_references": [
+    "13002028",
+    "13002030"
+  ],
+  "references": [
+    "13002028",
+    "13002030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020280081"
+      ],
+      [
+        "o130020300021"
+      ]
+    ]
+  }
+}

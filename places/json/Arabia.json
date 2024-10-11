@@ -1,0 +1,207 @@
+{
+  "id": "place:Arabia",
+  "primary_id": "place:Arabia",
+  "alternate_sources": {
+    "aquifer": [
+      "3688|Arabia, Arabs|TyndaleBibleDictionary",
+      "26328|Arabia|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Arabia@2Sa.23.35-Gal"
+    ],
+    "vizbible": [
+      "recmCYBlOy0l5D1eB"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arabia",
+      "alternate_labels": [
+        "Arabian",
+        "Arabs",
+        "Arbite",
+        "Arab",
+        "Arabians"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Arabia.1",
+          "gloss": "Arabia",
+          "description": "A peninsula located east and south-east of Israel, consisting primarily of steppe and desert and inhabited by nomadic tribes."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Arabia"
+  ],
+  "nearby_places": [
+    "place:Israel",
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region",
+      "peninsula"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "27.4",
+      "lon": "37.7"
+    },
+    "vizbible": {
+      "lat": "27.4",
+      "lon": "37.7"
+    }
+  },
+  "key_references": [
+    "23021013",
+    "48001017"
+  ],
+  "references": [
+    "10023035",
+    "11010015",
+    "14009014",
+    "14017011",
+    "14021016",
+    "14022001",
+    "14026007",
+    "16002001",
+    "16002019",
+    "16004001",
+    "16006001",
+    "23013020",
+    "23021013",
+    "24003002",
+    "24025024",
+    "26027021",
+    "26030005",
+    "44002011",
+    "48001017",
+    "48004025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230350052"
+      ],
+      [
+        "o110100150082"
+      ],
+      [
+        "o140090140081"
+      ],
+      [
+        "o140170110092"
+      ],
+      [
+        "o140210160083"
+      ],
+      [
+        "o140220010152"
+      ],
+      [
+        "o140260070072"
+      ],
+      [
+        "o160020190082"
+      ],
+      [
+        "o160040010063"
+      ],
+      [
+        "o160060010072"
+      ],
+      [
+        "o230130200121"
+      ],
+      [
+        "o230210130022"
+      ],
+      [
+        "o230210130042"
+      ],
+      [
+        "o240030020142"
+      ],
+      [
+        "o240250240041"
+      ],
+      [
+        "o260270210011"
+      ],
+      [
+        "o260300050052"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44002011007"
+      ],
+      [
+        "n48001017013"
+      ],
+      [
+        "n48004025009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270210051"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44002011012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140210170012"
+      ],
+      [
+        "o140210170032"
+      ],
+      [
+        "o140210170042"
+      ],
+      [
+        "o140260070082"
+      ],
+      [
+        "o160040020042"
+      ],
+      [
+        "o160040020052"
+      ],
+      [
+        "o160040020073"
+      ],
+      [
+        "o260270210061"
+      ],
+      [
+        "o260270210121"
+      ]
+    ]
+  }
+}

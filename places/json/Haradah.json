@@ -1,0 +1,82 @@
+{
+  "id": "place:Haradah",
+  "primary_id": "place:Haradah",
+  "alternate_sources": {
+    "aquifer": [
+      "5657|Haradah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002517002001000"
+    ],
+    "tipnr": [
+      "Haradah@Num.33.24-"
+    ],
+    "vizbible": [
+      "recYUWD833qc9vHTr"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002517002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Haradah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Haradah",
+          "gloss": "Haradah",
+          "description": "A location in the Sinai Peninsula, between Mount Shepher and Makheloth, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲרָדָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    },
+    "vizbible": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    }
+  },
+  "key_references": [
+    "04033024",
+    "04033025"
+  ],
+  "references": [
+    "04033024",
+    "04033025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330240052"
+      ],
+      [
+        "o040330250022"
+      ]
+    ]
+  }
+}

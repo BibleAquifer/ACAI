@@ -1,0 +1,78 @@
+{
+  "id": "person:Bukki.2",
+  "primary_id": "person:Bukki.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4357|Bukki|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001139001002000"
+    ],
+    "tipnr": [
+      "Bukki@1Ch.6.5-Ezr"
+    ],
+    "vizbible": [
+      "rechHyyuYW5Hb7kET"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abishua",
+  "offspring": [
+    "person:Uzzi"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "001139001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bukki (1 Chronicles 6:5)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bukki (1 Chronicles 6:5)",
+          "article": "person:Bukki.2",
+          "description": "A priest from the tribe of Levi, a son of Abishua and the father of Uzzi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֻּקִּי"
+    ]
+  },
+  "key_references": [
+    "13005031",
+    "13006005",
+    "13006036",
+    "15007004"
+  ],
+  "references": [
+    "13005031",
+    "13006036",
+    "15007004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050310041"
+      ],
+      [
+        "o130050310052"
+      ],
+      [
+        "o130060360011"
+      ],
+      [
+        "o150070040061"
+      ]
+    ]
+  }
+}

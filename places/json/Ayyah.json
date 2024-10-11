@@ -1,0 +1,82 @@
+{
+  "id": "place:Ayyah",
+  "primary_id": "place:Gaza",
+  "alternate_sources": {
+    "aquifer": [
+      "3893|Ayyah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005378001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/281560"
+    ],
+    "tipnr": [
+      "Ayyah|Gaza@Gen.10.19-Act"
+    ],
+    "vizbible": [
+      "recIfDBpgcDqrLwwu"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005378001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ayyah",
+      "alternate_labels": [
+        "Gaza",
+        "Aija"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Gaza"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עִיֹּון",
+      "עִיּוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.5248177",
+      "lon": "34.43336472"
+    },
+    "recogito": {
+      "lat": "32.03538",
+      "lon": "35.28564"
+    },
+    "vizbible": {
+      "lat": "31.5248177",
+      "lon": "34.43336472"
+    }
+  },
+  "key_references": [
+    "13007028"
+  ],
+  "references": [
+    "13007028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070280141"
+      ]
+    ]
+  }
+}

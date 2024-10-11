@@ -1,0 +1,75 @@
+{
+  "id": "place:Esek",
+  "primary_id": "place:Esek",
+  "alternate_sources": {
+    "aquifer": [
+      "5144|Esek|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005716001001000"
+    ],
+    "tipnr": [
+      "Esek@Gen.26.20"
+    ],
+    "vizbible": [
+      "rec1tleh7fR8tsqKa"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005716001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Esek",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Esek",
+          "gloss": "Esek",
+          "description": "A well dug by herdsmen of Isaac, which became a source of contention between them and the herdsmen of Gerar."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "well"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "well"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.39129109635703",
+      "lon": "34.56057015639144"
+    },
+    "vizbible": {
+      "lat": "31.39129109635703",
+      "lon": "34.56057015639144"
+    }
+  },
+  "key_references": [
+    "01026020"
+  ],
+  "references": [
+    "01026020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010260200131"
+      ]
+    ]
+  }
+}

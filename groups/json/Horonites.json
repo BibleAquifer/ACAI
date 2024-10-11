@@ -1,0 +1,53 @@
+{
+  "id": "group:Horonites",
+  "primary_id": "group:Horonites",
+  "alternate_sources": {
+    "tipnr": [
+      "Horonites@Neh.2.10-"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Beth-horonLower; place:Beth-horonUpper",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Horonites",
+      "alternate_labels": [
+        "Horonite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Horonites",
+          "article": "group:Horonites",
+          "description": "People associated with Sanballat, the governor of Samaria, who opposed Nehemiah's rebuilding program."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16002010",
+    "16002019",
+    "16013028"
+  ],
+  "references": [
+    "16002010",
+    "16002019",
+    "16013028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160020100032"
+      ],
+      [
+        "o160020190032"
+      ],
+      [
+        "o160130280092"
+      ]
+    ]
+  }
+}

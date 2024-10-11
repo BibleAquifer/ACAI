@@ -1,0 +1,138 @@
+{
+  "id": "realia:HouseholdIdols",
+  "primary_id": "realia:HouseholdIdols",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007948001001000"
+    ],
+    "ubsrealia": [
+      "realia:4.6.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "007948001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Household Idols",
+      "alternate_labels": [
+        "Teraphim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Household Idols",
+          "article": "realia:HouseholdIdols",
+          "description": "Small, portable figures or carved images used for worship or magic in a home."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תְּרָפִים"
+    ]
+  },
+  "key_references": [
+    "01031019",
+    "07017005",
+    "09019013",
+    "12023024"
+  ],
+  "references": [
+    "01031019",
+    "01031034",
+    "01031035",
+    "07017005",
+    "07018014",
+    "07018017",
+    "07018018",
+    "07018020",
+    "09015023",
+    "09019013",
+    "09019016",
+    "12023024",
+    "26021026",
+    "28003004",
+    "38010002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010310190092"
+      ],
+      [
+        "o010310340042"
+      ],
+      [
+        "o010310350212"
+      ],
+      [
+        "o070170050082"
+      ],
+      [
+        "o070180140182"
+      ],
+      [
+        "o070180170162"
+      ],
+      [
+        "o070180180102"
+      ],
+      [
+        "o070180200082"
+      ],
+      [
+        "o090150230062"
+      ],
+      [
+        "o090190130042"
+      ],
+      [
+        "o090190160042"
+      ],
+      [
+        "o120230240072"
+      ],
+      [
+        "o260210260162"
+      ],
+      [
+        "o280030040172"
+      ],
+      [
+        "o380100020022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010310320212"
+      ],
+      [
+        "o010310340053"
+      ],
+      [
+        "o010310340092"
+      ],
+      [
+        "o090190130122"
+      ],
+      [
+        "o090190160092"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120230240141"
+      ]
+    ]
+  }
+}

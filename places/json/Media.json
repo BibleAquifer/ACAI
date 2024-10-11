@@ -1,0 +1,126 @@
+{
+  "id": "place:Media",
+  "primary_id": "place:Media",
+  "alternate_sources": {
+    "aquifer": [
+      "7009|Medes, Media, Median|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ad2fadf"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/903080",
+      "http://pleiades.stoa.org/places/903080"
+    ],
+    "tipnr": [
+      "Media@Ezr.6.2-Dan"
+    ],
+    "vizbible": [
+      "recHQ6dZlDsEgw45z"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q8735"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Media",
+      "alternate_labels": [
+        "Medes",
+        "Median"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Media",
+          "gloss": "Media",
+          "description": "A nation and their territory; regarded as founded by Madai; the empire was consolidated in the 6th–5th BCE and stretched from Mesopotamia to Turkey."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.798311",
+      "lon": "48.514966"
+    },
+    "recogito": {
+      "lat": "34.5",
+      "lon": "46.5"
+    },
+    "vizbible": {
+      "lat": "34.5",
+      "lon": "46.5"
+    }
+  },
+  "key_references": [
+    "17001003",
+    "2700528 "
+  ],
+  "references": [
+    "15006002",
+    "17001003",
+    "17001014",
+    "17001018",
+    "17001019",
+    "17010002",
+    "23021002",
+    "24025025",
+    "24051011",
+    "24051028",
+    "27008020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150060020052"
+      ],
+      [
+        "o170010030112"
+      ],
+      [
+        "o170010140132"
+      ],
+      [
+        "o170010180062"
+      ],
+      [
+        "o170100020191"
+      ],
+      [
+        "o230210020121"
+      ],
+      [
+        "o240250250121"
+      ],
+      [
+        "o270080200071"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230210020111"
+      ]
+    ]
+  }
+}

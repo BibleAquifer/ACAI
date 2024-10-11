@@ -1,0 +1,88 @@
+{
+  "id": "realia:Mirror",
+  "primary_id": "realia:Mirror",
+  "alternate_sources": {
+    "aquifer": [
+      "7156|Mirror|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.221"
+    ],
+    "ubsdbh": [
+      "004356001002000",
+      "006641001001000"
+    ],
+    "ubsrealia": [
+      "realia:5.14"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.221"
+  ],
+  "ubsdbh": [
+    "004356001002000",
+    "006641001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mirror",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mirror",
+          "article": "realia:Mirror",
+          "description": "In the Bible, a flat piece of polished metal, like copper or bronze, used to reflect an image."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַרְאָה",
+      "רְאִי"
+    ],
+    "el": [
+      "ἔσοπτρον"
+    ]
+  },
+  "key_references": [
+    "02038008",
+    "46013012",
+    "59001023"
+  ],
+  "references": [
+    "02038008",
+    "18037018",
+    "46013012",
+    "59001023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020380080082"
+      ],
+      [
+        "o180370180052"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n46013012005"
+      ],
+      [
+        "n59001023020"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o180370180061"
+      ]
+    ]
+  }
+}

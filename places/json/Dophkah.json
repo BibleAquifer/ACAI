@@ -1,0 +1,89 @@
+{
+  "id": "place:Dophkah",
+  "primary_id": "place:Dophkah",
+  "alternate_sources": {
+    "aquifer": [
+      "4885|Dophkah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a070c7b"
+    ],
+    "ubsdbh": [
+      "001703001001000"
+    ],
+    "tipnr": [
+      "Dophkah@Num.33.12-"
+    ],
+    "vizbible": [
+      "recK01QQsA1QCvu3g"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5297313"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001703001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dophkah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dophkah",
+          "gloss": "Dophkah",
+          "description": "A location in the Sinai Peninsula between the wilderness of Sin and Alush, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "דָּפְקָה",
+      "דׇּפְקָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.770015",
+      "lon": "33.400460"
+    },
+    "vizbible": {
+      "lat": "28.770015",
+      "lon": "33.400460"
+    }
+  },
+  "key_references": [
+    "04033012",
+    "04033013"
+  ],
+  "references": [
+    "04033012",
+    "04033013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330120052"
+      ],
+      [
+        "o040330130022"
+      ]
+    ]
+  }
+}

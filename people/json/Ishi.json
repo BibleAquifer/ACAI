@@ -1,0 +1,64 @@
+{
+  "id": "person:Ishi",
+  "primary_id": "person:Ishi",
+  "alternate_sources": {
+    "aquifer": [
+      "6070|Ishi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003178001001000"
+    ],
+    "tipnr": [
+      "Ishi@1Ch.2.31"
+    ],
+    "vizbible": [
+      "recKXddkfDtqf4Anh"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Appaim",
+  "offspring": [
+    "person:Sheshan"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "003178001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ishi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ishi",
+          "article": "person:Ishi",
+          "description": "A man from the tribe of Judah living during the time of the divided kingdom, mentioned in 1 Chronicles 2:31 as the son of Appaim and father of Sheshan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִשְׁעִי"
+    ]
+  },
+  "key_references": [
+    "13002031"
+  ],
+  "references": [
+    "13002031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020310031"
+      ],
+      [
+        "o130020310051"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "person:Armoni",
+  "primary_id": "person:Armoni",
+  "alternate_sources": {
+    "aquifer": [
+      "3749|Armoni|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000704001001000"
+    ],
+    "tipnr": [
+      "Armoni@2Sa.21.8"
+    ],
+    "vizbible": [
+      "recnA6NgOhcuuTZkO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Saul.2",
+  "mother": "person:Rizpah",
+  "siblings": [
+    "person:Jonathan.3",
+    "person:Abinadab.2",
+    "person:Malchi-shua",
+    "person:Merab",
+    "person:Michal",
+    "person:Ish-bosheth",
+    "person:Mephibosheth.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000704001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Armoni",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Armoni",
+          "article": "person:Armoni",
+          "description": "A son of King Saul and Rizpah from the tribe of Benjamin, given by David to the Gibeonites to be killed, mentioned in 2 Samuel 21:8."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַרְמֹנִי"
+    ]
+  },
+  "key_references": [
+    "10021008"
+  ],
+  "references": [
+    "10021008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100210080131"
+      ]
+    ]
+  }
+}

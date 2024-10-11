@@ -1,0 +1,171 @@
+{
+  "id": "place:Philippi",
+  "primary_id": "place:Philippi",
+  "alternate_sources": {
+    "aquifer": [
+      "7711|Philippi|TyndaleBibleDictionary",
+      "26955|Philippi|UWTranslationWords",
+      "132072|Philippi|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a49e1d0"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21892"
+    ],
+    "tipnr": [
+      "Philippi@Act.16.12-1Th"
+    ],
+    "vizbible": [
+      "recv6STuRUsKfnjFn"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q379652"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Philippi",
+      "alternate_labels": [
+        "Philippian",
+        "[ ]"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Philippi",
+          "gloss": "Philippi",
+          "description": "A city in Macedonia; the letter to the Philippians was addressed to the church there."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Philippi"
+  ],
+  "nearby_places": [
+    "place:Neapolis",
+    "place:AegeanSea"
+  ],
+  "subregion_of": [
+    "place:Macedonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "41.01195948",
+      "lon": "24.28619098"
+    },
+    "recogito": {
+      "lat": "41.01316",
+      "lon": "24.28409"
+    },
+    "vizbible": {
+      "lat": "41.01316",
+      "lon": "24.28409"
+    },
+    "biblica-maps": {
+      "lat": "41.01303",
+      "lon": "24.28657"
+    }
+  },
+  "key_references": [
+    "44016012",
+    "44020005",
+    "50001001"
+  ],
+  "references": [
+    "44016012",
+    "44020006",
+    "46016024",
+    "47013013",
+    "47013014",
+    "50001001",
+    "50004015",
+    "50004023",
+    "52002002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44016012003"
+      ],
+      [
+        "n44020006010"
+      ],
+      [
+        "n50001001016"
+      ],
+      [
+        "n50004015005"
+      ],
+      [
+        "n52002002008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44016012004"
+      ],
+      [
+        "n44016012015"
+      ],
+      [
+        "n50004015004"
+      ],
+      [
+        "n50004015026"
+      ],
+      [
+        "n50004017014"
+      ],
+      [
+        "n50004018012"
+      ],
+      [
+        "n50004019008"
+      ],
+      [
+        "n50004020006"
+      ],
+      [
+        "n50004021008"
+      ],
+      [
+        "n50004022002"
+      ],
+      [
+        "n50004023010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n50004016013"
+      ],
+      [
+        "n50004021001"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "place:Gidom",
+  "primary_id": "place:Gidom",
+  "alternate_sources": {
+    "aquifer": [
+      "5459|Gidom|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001320001001000"
+    ],
+    "tipnr": [
+      "Gidom@Jdg.20.45"
+    ],
+    "vizbible": [
+      "recWRUwcUIzEghL6B"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001320001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gidom",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gidom",
+          "gloss": "Gidom",
+          "description": "A location in the territory of Benjamin where Israel struck down 2,000 Benjamites."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גִּדְעֹם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "natural area",
+      "special"
+    ],
+    "acai": [
+      "natural area"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.934660",
+      "lon": "35.297063"
+    },
+    "vizbible": {
+      "lat": "31.934660",
+      "lon": "35.297063"
+    }
+  },
+  "key_references": [
+    "07020045"
+  ],
+  "references": [
+    "07020045"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070200450151"
+      ]
+    ]
+  }
+}

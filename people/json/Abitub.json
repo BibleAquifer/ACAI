@@ -1,0 +1,69 @@
+{
+  "id": "person:Abitub",
+  "primary_id": "person:Abitub",
+  "alternate_sources": {
+    "aquifer": [
+      "3315|Abitub|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000035001001000"
+    ],
+    "tipnr": [
+      "Abitub@1Ch.8.11"
+    ],
+    "vizbible": [
+      "rec9cbKlmqxUJFf2C"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shaharaim",
+  "mother": "person:Hushim",
+  "siblings": [
+    "person:Jobab.4",
+    "person:Zibia",
+    "person:Mesha",
+    "person:Malcam",
+    "person:Jeuz",
+    "person:Sachia",
+    "person:Mirmah",
+    "person:Elpaal"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000035001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abitub",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abitub",
+          "article": "person:Abitub",
+          "description": "A man from the tribe of Benjamin, son of Shaharaim and Hushim, mentioned in 1 Chronicles 8:11."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִיטוּב"
+    ]
+  },
+  "key_references": [
+    "13008011"
+  ],
+  "references": [
+    "13008011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080110041"
+      ]
+    ]
+  }
+}

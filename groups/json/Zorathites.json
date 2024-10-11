@@ -1,0 +1,54 @@
+{
+  "id": "group:Zorathites",
+  "primary_id": "group:Zorathites",
+  "alternate_sources": {
+    "tipnr": [
+      "Zorathites@1Ch.2.53-"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Zorah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zorathites",
+      "alternate_labels": [
+        "Zorathite",
+        "Zorite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zorathites",
+          "article": "group:Zorathites",
+          "description": "People who lived in Zorah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002053",
+    "13002054",
+    "13004002"
+  ],
+  "references": [
+    "13002053",
+    "13002054",
+    "13004002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020530102"
+      ],
+      [
+        "o130020540112"
+      ],
+      [
+        "o130040020152"
+      ]
+    ]
+  }
+}

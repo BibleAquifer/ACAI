@@ -1,0 +1,85 @@
+{
+  "id": "place:Enam",
+  "primary_id": "place:Enam",
+  "alternate_sources": {
+    "obi": [
+      "a26921e"
+    ],
+    "ubsdbh": [
+      "005405001001000"
+    ],
+    "tipnr": [
+      "Enam@Jos.15.34"
+    ],
+    "vizbible": [
+      "recz39CtLtpL5XsdL"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005405001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Enam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Enam",
+          "gloss": "Enam",
+          "description": "A town in the foothills of the territory of Judah/"
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Enaim"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵינָן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.15",
+      "lon": "35.1260"
+    },
+    "vizbible": {
+      "lat": "32.15",
+      "lon": "35.1260"
+    }
+  },
+  "key_references": [
+    "06015034"
+  ],
+  "references": [
+    "06015034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150340053"
+      ]
+    ]
+  }
+}

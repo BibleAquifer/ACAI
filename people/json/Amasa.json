@@ -1,0 +1,147 @@
+{
+  "id": "person:Amasa",
+  "primary_id": "person:Amasa",
+  "alternate_sources": {
+    "aquifer": [
+      "3543|Amasa|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005527001001000"
+    ],
+    "tipnr": [
+      "Amasa@2Sa.17.25-1Ch"
+    ],
+    "vizbible": [
+      "recHaU4Mr8rb7oFGZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jether.3",
+  "mother": "person:Abigail.2",
+  "roles": [
+    "Military Commander",
+    "Warrior"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "005527001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amasa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Amasa",
+          "article": "person:Amasa",
+          "description": "A military leader who replaced Abner as general during the time of Israel’s united kingdom. He was a son of Jether and Abigail, who was King David’s sister."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֲמָשַׂי"
+    ]
+  },
+  "key_references": [
+    "10017025",
+    "10020004",
+    "11002005",
+    "13002017"
+  ],
+  "references": [
+    "10017025",
+    "10019014",
+    "10020004",
+    "10020005",
+    "10020008",
+    "10020009",
+    "10020010",
+    "10020012",
+    "11002005",
+    "11002032",
+    "13002017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100170250021"
+      ],
+      [
+        "o100170250092"
+      ],
+      [
+        "o100190140013"
+      ],
+      [
+        "o100200040041"
+      ],
+      [
+        "o100200050021"
+      ],
+      [
+        "o100200080072"
+      ],
+      [
+        "o100200090032"
+      ],
+      [
+        "o100200090121"
+      ],
+      [
+        "o100200100012"
+      ],
+      [
+        "o100200120012"
+      ],
+      [
+        "o100200120141"
+      ],
+      [
+        "o110020050203"
+      ],
+      [
+        "o110020320281"
+      ],
+      [
+        "o130020170041"
+      ],
+      [
+        "o130020170061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o100190140061"
+      ],
+      [
+        "o100200040122"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100190140171"
+      ],
+      [
+        "o100200040051"
+      ],
+      [
+        "o100200050032"
+      ],
+      [
+        "o100200050072"
+      ],
+      [
+        "o100200100182"
+      ]
+    ]
+  }
+}

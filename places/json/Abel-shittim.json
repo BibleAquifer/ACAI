@@ -1,0 +1,97 @@
+{
+  "id": "place:Abel-shittim",
+  "primary_id": "place:Shittim",
+  "alternate_sources": {
+    "aquifer": [
+      "3283|Abel-Shittim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000060001001000"
+    ],
+    "tipnr": [
+      "Abel-shittim|Shittim@Num.33.49-Mic"
+    ],
+    "vizbible": [
+      "recgfOCqzEYY932wA"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000060001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abel-shittim",
+      "alternate_labels": [
+        "Acacia Meadow",
+        "meadows of Acacia",
+        "Abel Acacia Grove"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Abel-shittim",
+          "gloss": "Abel-Shittim",
+          "description": "A location on the plains of Moab, across from Jericho, where the Israelites camped before crossing the Jordan River (Numbers 33:49); possibly another name for Shittim."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Shittim",
+    "place:Abila"
+  ],
+  "referred_to_as": [
+    "place:Shittim"
+  ],
+  "nearby_places": [
+    "place:Jericho"
+  ],
+  "subregion_of": [
+    "place:MoabPlains"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אָבֵל הַשִּׁטִּים",
+      "אָבֵל הַשִּׁטִּים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.85826218",
+      "lon": "35.64156653"
+    },
+    "vizbible": {
+      "lat": "31.85826218",
+      "lon": "35.64156653"
+    }
+  },
+  "key_references": [
+    "04033049"
+  ],
+  "references": [
+    "04033049"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330490071",
+        "o040330490081"
+      ]
+    ]
+  }
+}

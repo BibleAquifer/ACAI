@@ -1,0 +1,66 @@
+{
+  "id": "person:Naaman.4",
+  "primary_id": "person:Naaman.4",
+  "alternate_sources": {
+    "aquifer": [
+      "7260|Naaman|TyndaleBibleDictionary",
+      "26897|Naaman|UWTranslationWords",
+      "132434|Naaman|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "004844001003000"
+    ],
+    "tipnr": [
+      "Naaman@1Ch.8.7"
+    ],
+    "vizbible": [
+      "rec9h412zUK5KDqNx"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ehud",
+  "siblings": [
+    "person:Ahijah.5",
+    "person:Gera.4",
+    "person:Uzza",
+    "person:Ahihud.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "004844001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Naaman (1 Chronicles 8:7)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Naaman (1 Chronicles 8:7)",
+          "article": "person:Naaman.4",
+          "description": "Naaman, from the tribe of Benjamin, was the son of Ehud and lived before Israel's monarchy, mentioned in 1 Chronicles 8:7."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נַעֲמָן"
+    ]
+  },
+  "key_references": [
+    "13008007"
+  ],
+  "references": [
+    "13008007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080070012"
+      ]
+    ]
+  }
+}

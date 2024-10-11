@@ -1,0 +1,149 @@
+{
+  "id": "person:Hezron.2",
+  "primary_id": "person:Hezron.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5838|Hezron (Person)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hezron@Gen.46.12-Luk"
+    ],
+    "vizbible": [
+      "recAgyv9RNNafnPAg"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Perez",
+  "partners": [
+    "person:DaughterOfMachir",
+    "person:Abiah",
+    "person:AWifeOfHezron"
+  ],
+  "offspring": [
+    "person:Ram",
+    "person:Jerahmeel",
+    "person:Caleb.2",
+    "person:Segub.2",
+    "person:Ashhur"
+  ],
+  "siblings": [
+    "person:Hamul"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader",
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hezron",
+      "alternate_labels": [
+        "Hezronite",
+        "Esrom"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hezron",
+          "article": "person:Hezron.2",
+          "description": "Grandson of the patriarch Judah who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites He was a son of Perez and father of Ram, Jerahmeel, Caleb (Chelubai), Segub, and Ashhur. He was an ancestor of King David through his son Ram, and mentioned in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Hezron"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046012",
+    "08004018",
+    "13002005",
+    "40001003",
+    "42003033"
+  ],
+  "references": [
+    "01046012",
+    "04026006",
+    "04026021",
+    "08004018",
+    "08004019",
+    "13002005",
+    "13002009",
+    "13002018",
+    "13002021",
+    "13002024",
+    "13002025",
+    "13004001",
+    "40001003",
+    "42003033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460120161"
+      ],
+      [
+        "o040260060032"
+      ],
+      [
+        "o040260210042"
+      ],
+      [
+        "o040260210062"
+      ],
+      [
+        "o080040180071"
+      ],
+      [
+        "o080040190012"
+      ],
+      [
+        "o130020050031"
+      ],
+      [
+        "o130020090021"
+      ],
+      [
+        "o130020180031"
+      ],
+      [
+        "o130020210031"
+      ],
+      [
+        "o130020240031"
+      ],
+      [
+        "o130020240071"
+      ],
+      [
+        "o130020250051"
+      ],
+      [
+        "o130040010041"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001003016",
+        "n40001003017"
+      ],
+      [
+        "n42003033008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130020210092"
+      ],
+      [
+        "o130020210112"
+      ]
+    ]
+  }
+}

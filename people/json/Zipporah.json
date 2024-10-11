@@ -1,0 +1,147 @@
+{
+  "id": "person:Zipporah",
+  "primary_id": "person:Zipporah",
+  "alternate_sources": {
+    "aquifer": [
+      "9242|Zipporah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006307001001000"
+    ],
+    "tipnr": [
+      "Zipporah@Exo.2.21-"
+    ],
+    "vizbible": [
+      "recsI3r5rXZZGdGal"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Jethro",
+  "partners": [
+    "person:Moses"
+  ],
+  "offspring": [
+    "person:Gershom",
+    "person:Eliezer.3"
+  ],
+  "siblings": [
+    "person:Eliasaph",
+    "person:Hobab"
+  ],
+  "roles": [
+    "Matriarch"
+  ],
+  "ubsdbh": [
+    "006307001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zipporah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zipporah",
+          "article": "person:Zipporah",
+          "description": "Zipporah was the wife of Moses during the time of Egypt and wilderness, daughter of Jethro, and mother of Gershom and Eliezer, mentioned in Exodus 2:21."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צִפֹּרֶן",
+      "צִפֹּ֫רֶן"
+    ]
+  },
+  "key_references": [
+    "02002021",
+    "02004025",
+    "02018002"
+  ],
+  "references": [
+    "02002021",
+    "02004025",
+    "02018002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020020210081"
+      ],
+      [
+        "o020040250021"
+      ],
+      [
+        "o020180020061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020020220012"
+      ],
+      [
+        "o020040250042"
+      ],
+      [
+        "o020040250082"
+      ],
+      [
+        "o020040250102"
+      ],
+      [
+        "o020040260041"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o020020190021",
+          "o020020190031",
+          "o020020190041",
+          "o020020190042",
+          "o020020190051",
+          "o020020190052",
+          "o020020190061",
+          "o020020190062",
+          "o020020190071",
+          "o020020190072",
+          "o020020190081",
+          "o020020190091",
+          "o020020190101",
+          "o020020190102",
+          "o020020190111",
+          "o020020190112",
+          "o020020190121",
+          "o020020190131",
+          "o020020190132"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o020040250111",
+          "o020040250121",
+          "o020040250131",
+          "o020040250141",
+          "o020040250151",
+          "o020040250152"
+        ]
+      },
+      {
+        "quote_type": "Quotation",
+        "words": [
+          "o020040260051",
+          "o020040260061"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "place:Hukkok",
+  "primary_id": "place:Hukkok",
+  "alternate_sources": {
+    "aquifer": [
+      "5937|Hukok|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a901903"
+    ],
+    "ubsdbh": [
+      "002171001001000"
+    ],
+    "tipnr": [
+      "Hukkok@Jos.19.34"
+    ],
+    "vizbible": [
+      "recj54HWxfFJvfSD4"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q18608506"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002171001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hukok",
+      "alternate_labels": [
+        "Hukkok"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hukkok",
+          "gloss": "Hukok",
+          "description": "A town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חוּקֹק",
+      "חֻקֹֿק",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.882153",
+      "lon": "35.496694"
+    },
+    "vizbible": {
+      "lat": "32.882153",
+      "lon": "35.496694"
+    }
+  },
+  "key_references": [
+    "06019034"
+  ],
+  "references": [
+    "06019034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190340081"
+      ]
+    ]
+  }
+}

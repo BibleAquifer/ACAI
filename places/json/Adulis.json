@@ -1,0 +1,29 @@
+{
+  "id": "place:Adulis",
+  "primary_id": "place:Adulis",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Adulis",
+          "gloss": "Adulis",
+          "description": "A seaport city in East Africa on the coast of the Red Sea."
+        }
+      ],
+      "preferred_label": "Adulis"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "seaport"
+    ]
+  }
+}

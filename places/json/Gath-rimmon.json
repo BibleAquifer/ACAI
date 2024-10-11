@@ -1,0 +1,101 @@
+{
+  "id": "place:Gath-rimmon",
+  "primary_id": "place:Gath-rimmon",
+  "alternate_sources": {
+    "aquifer": [
+      "5378|Gath-Rimmon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001527001001000"
+    ],
+    "tipnr": [
+      "Gath-rimmon@Jos.19.45-1Ch"
+    ],
+    "vizbible": [
+      "recCLRd89XHzdfXgE"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001527001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gath-rimmon (of Dan)",
+      "alternate_labels": [
+        "Gath-Rimmon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gath-rimmon.1",
+          "gloss": "Gath-Rimmon (of Dan)",
+          "description": "A Levitical town in the territory of Dan, assigned to the clan of Koath."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Dan",
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גַּת־רִמֹּון",
+      "גַּת־רִמּוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.06972222",
+      "lon": "34.88305556"
+    },
+    "vizbible": {
+      "lat": "32.06972222",
+      "lon": "34.88305556"
+    }
+  },
+  "key_references": [
+    "06019045",
+    "06021024",
+    "13006054"
+  ],
+  "references": [
+    "06019045",
+    "06021024",
+    "13006054"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190450042",
+        "o060190450051"
+      ],
+      [
+        "o060210240061",
+        "o060210240071"
+      ],
+      [
+        "o130060540061",
+        "o130060540071"
+      ]
+    ]
+  }
+}

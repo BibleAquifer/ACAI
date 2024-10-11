@@ -1,0 +1,54 @@
+{
+  "id": "flora:Fennel",
+  "primary_id": "flora:Fennel",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002274001001000"
+    ],
+    "ubsflora": [
+      "flora:4.1.5"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "002274001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fennel",
+      "alternate_labels": [
+        "Galbanum"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Fennel",
+          "article": "flora:Fennel",
+          "description": "Fennel is a plant with feathery leaves and yellow flowers, known for its aromatic seeds and used in cooking and holy incense."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶלְבְּנָה"
+    ]
+  },
+  "key_references": [
+    "02030034"
+  ],
+  "references": [
+    "02030034",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020300340102"
+      ]
+    ]
+  }
+}

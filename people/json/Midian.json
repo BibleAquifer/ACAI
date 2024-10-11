@@ -1,0 +1,97 @@
+{
+  "id": "person:Midian",
+  "primary_id": "person:Midian",
+  "alternate_sources": {
+    "aquifer": [
+      "7122|Midian, Midianite|TyndaleBibleDictionary",
+      "26876|Midian|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "003728002001000"
+    ],
+    "tipnr": [
+      "Midian@Gen.25.2-1Ch"
+    ],
+    "vizbible": [
+      "recYnS78qsArMZfh5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abraham",
+  "mother": "person:Keturah",
+  "offspring": [
+    "person:Ephah",
+    "person:Epher",
+    "person:Hanoch",
+    "person:Abida",
+    "person:Eldaah"
+  ],
+  "siblings": [
+    "person:Ishmael",
+    "person:Isaac",
+    "person:Zimran",
+    "person:Jokshan",
+    "person:Medan",
+    "person:Ishbak",
+    "person:Shuah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Sinites",
+  "ubsdbh": [
+    "003728002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Midian",
+      "alternate_labels": [
+        "Medan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Midian",
+          "article": "person:Midian",
+          "description": "A son of Abraham by Keturah and considered the ancestor of the Midianites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִדְיָן"
+    ]
+  },
+  "key_references": [
+    "01025002",
+    "01025004",
+    "13001033"
+  ],
+  "references": [
+    "01025002",
+    "01025004",
+    "13001032",
+    "13001033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250020101"
+      ],
+      [
+        "o010250040021"
+      ],
+      [
+        "o130010320102"
+      ],
+      [
+        "o130010330021"
+      ]
+    ]
+  }
+}

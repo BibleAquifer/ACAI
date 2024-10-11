@@ -1,0 +1,73 @@
+{
+  "id": "place:Shual",
+  "primary_id": "place:Shual",
+  "alternate_sources": {
+    "aquifer": [
+      "8454|Shual (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007259002001000"
+    ],
+    "tipnr": [
+      "Shual@1Sa.13.17"
+    ],
+    "vizbible": [
+      "recEZhfK5Gw6IgmYh"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007259002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shual",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shual",
+          "gloss": "Shual",
+          "description": "A region or district in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "province",
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.95378955858199",
+      "lon": "35.29913577541004"
+    },
+    "vizbible": {
+      "lat": "31.95378955858199",
+      "lon": "35.29913577541004"
+    }
+  },
+  "key_references": [
+    "09013017"
+  ],
+  "references": [
+    "09013017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090130170151"
+      ]
+    ]
+  }
+}

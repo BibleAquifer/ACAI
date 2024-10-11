@@ -1,0 +1,65 @@
+{
+  "id": "person:Nahum",
+  "primary_id": "person:Nahum",
+  "alternate_sources": {
+    "aquifer": [
+      "7294|Nahum (Person)|TyndaleBibleDictionary",
+      "26899|Nahum|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.272"
+    ],
+    "tipnr": [
+      "Nahum@Luk.3.25"
+    ],
+    "vizbible": [
+      "recWLO40DcFORhMni"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Esli",
+  "offspring": [
+    "person:Amos.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.272"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nahum",
+      "alternate_labels": [
+        "Naum"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nahum",
+          "article": "person:Nahum",
+          "description": "Son of Esli and the father of Amos in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ναούμ"
+    ]
+  },
+  "key_references": [
+    "42003025"
+  ],
+  "references": [
+    "42003025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003025006"
+      ]
+    ]
+  }
+}

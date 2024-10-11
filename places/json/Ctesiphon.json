@@ -1,0 +1,45 @@
+{
+  "id": "place:Ctesiphon",
+  "primary_id": "place:Ctesiphon",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ctesiphon",
+          "gloss": "Ctesiphon",
+          "description": "A city in Mesopotamia on the east bank of the Tigris River, southeast of modern-day Baghdad, Iraq. It was the capital of the Parthian and Sasanian empires."
+        }
+      ],
+      "preferred_label": "Ctesiphon",
+      "alternate_labels": [
+        "Tusbun",
+        "Taysafun"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Tigris"
+  ],
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "33.0947",
+      "lon": "44.58122"
+    }
+  }
+}

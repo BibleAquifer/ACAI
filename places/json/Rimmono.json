@@ -1,0 +1,84 @@
+{
+  "id": "place:Rimmono",
+  "primary_id": "place:Dimnah",
+  "alternate_sources": {
+    "aquifer": [
+      "8039|Rimmono|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006820001001000"
+    ],
+    "tipnr": [
+      "Rimmono|Dimnah@Jos.21.35-1Ch"
+    ],
+    "vizbible": [
+      "rect6bbJb7hq2uf6t"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006820001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rimmono",
+      "alternate_labels": [
+        "Rimmon",
+        "Dimnah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rimmono",
+          "gloss": "Rimmono",
+          "description": "A Levitical town in the territory of Zebulun; also known as Rimmon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Dimnah",
+    "place:Rimmon.2"
+  ],
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.781808",
+      "lon": "35.321364"
+    },
+    "vizbible": {
+      "lat": "32.781808",
+      "lon": "35.321364"
+    }
+  },
+  "key_references": [
+    "13006062"
+  ],
+  "references": [
+    "13006062"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060620071"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "flora:BottleGourd",
+  "primary_id": "flora:BottleGourd",
+  "alternate_sources": {
+    "ubsflora": [
+      "flora:5.2.1"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Plants for Everyday Use",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bottle Gourd",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bottle Gourd",
+          "article": "flora:BottleGourd",
+          "description": "A vine plant that produces hard-shelled fruits used as containers or musical instruments."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11006018",
+    "11007024"
+  ],
+  "references": [
+    "11006018",
+    "11007024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110060180061"
+      ],
+      [
+        "o110070240012"
+      ],
+      [
+        "o110070240152"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110070240091"
+      ]
+    ]
+  }
+}

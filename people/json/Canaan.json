@@ -1,0 +1,130 @@
+{
+  "id": "person:Canaan",
+  "primary_id": "person:Canaan",
+  "alternate_sources": {
+    "aquifer": [
+      "4404|Canaan, Canaanite|TyndaleBibleDictionary",
+      "26430|Canaan|UWTranslationWords",
+      "132192|Canaan|BiblicaStudyNotesKeyTerms",
+      "341016|canaan|FIAKeyTerms"
+    ],
+    "ubsdbh": [
+      "003355001001000",
+      "003355001002000"
+    ],
+    "tipnr": [
+      "Canaan@Gen.9.18-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ham",
+  "offspring": [
+    "person:Sidon",
+    "person:Heth",
+    "group:Jebusites",
+    "group:Amorites",
+    "group:Girgashites",
+    "group:Hivites",
+    "group:Arkites",
+    "group:Sinites",
+    "group:Arvadites",
+    "group:Zemarites",
+    "group:Hamathites"
+  ],
+  "siblings": [
+    "person:Cush.2",
+    "person:Egypt",
+    "person:Put"
+  ],
+  "roles": [
+    "Patriarchl",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "003355001001000",
+    "003355001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Canaan (Son of Ham)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Canaan (Son of Ham)",
+          "article": "person:Canaan",
+          "description": "The youngest son of Ham, and a grandson of Noah. Canaan is thought to be the ancestor of the Canaanites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כְּנַעַן",
+      "כְּנַ֫עַן"
+    ]
+  },
+  "key_references": [
+    "01009020",
+    "01009021",
+    "01009022",
+    "01009023",
+    "01009024",
+    "01009025",
+    "01009026",
+    "01010006",
+    "13001013"
+  ],
+  "references": [
+    "01009018",
+    "01009022",
+    "01009025",
+    "01009026",
+    "01009027",
+    "01010006",
+    "01010015",
+    "13001008",
+    "13001013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010090180131"
+      ],
+      [
+        "o010090220041"
+      ],
+      [
+        "o010090250031"
+      ],
+      [
+        "o010090260071"
+      ],
+      [
+        "o010090270081"
+      ],
+      [
+        "o010100060062"
+      ],
+      [
+        "o010100150012"
+      ],
+      [
+        "o130010080062"
+      ],
+      [
+        "o130010130012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010090250061"
+      ]
+    ]
+  }
+}

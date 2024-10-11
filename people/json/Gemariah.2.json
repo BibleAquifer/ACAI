@@ -1,0 +1,152 @@
+{
+  "id": "person:Gemariah.2",
+  "primary_id": "person:Gemariah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5410|Gemariah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001454001001000"
+    ],
+    "tipnr": [
+      "Gemariah@Jer.36.10-"
+    ],
+    "vizbible": [
+      "reco2XWNMI7ouEqmU"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shaphan",
+  "offspring": [
+    "person:Micaiah.6"
+  ],
+  "siblings": [
+    "person:Ahikam",
+    "person:Elasah.2"
+  ],
+  "roles": [
+    "Official",
+    "Scribe"
+  ],
+  "ubsdbh": [
+    "001454001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gemariah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gemariah",
+          "article": "person:Gemariah.2",
+          "description": "A son of Shaphan who was a royal official and scribe during King Zedekiah’s reign."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גְּמַרְיָה",
+      "גְּמַרְיָ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "24036010",
+    "24036012",
+    "24036025"
+  ],
+  "references": [
+    "24036010",
+    "24036011",
+    "24036012",
+    "24036025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240360100101"
+      ],
+      [
+        "o240360110041"
+      ],
+      [
+        "o240360120202"
+      ],
+      [
+        "o240360250042"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360150031",
+          "o240360150041",
+          "o240360150051",
+          "o240360150052",
+          "o240360150053",
+          "o240360150061",
+          "o240360150062",
+          "o240360150063"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360160131",
+          "o240360160141",
+          "o240360160151",
+          "o240360160151ה",
+          "o240360160152",
+          "o240360160161",
+          "o240360160171",
+          "o240360160181",
+          "o240360160182",
+          "o240360160191",
+          "o240360160192"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360170051",
+          "o240360170061",
+          "o240360170071",
+          "o240360170072",
+          "o240360170081",
+          "o240360170091",
+          "o240360170101",
+          "o240360170111",
+          "o240360170121",
+          "o240360170122",
+          "o240360170131",
+          "o240360170132",
+          "o240360170141",
+          "o240360170142",
+          "o240360170143"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360190051",
+          "o240360190061",
+          "o240360190071",
+          "o240360190081",
+          "o240360190082",
+          "o240360190091",
+          "o240360190092",
+          "o240360190101",
+          "o240360190111",
+          "o240360190121",
+          "o240360190131"
+        ]
+      }
+    ]
+  }
+}

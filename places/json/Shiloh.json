@@ -1,0 +1,243 @@
+{
+  "id": "place:Shiloh",
+  "primary_id": "place:Shiloh",
+  "alternate_sources": {
+    "aquifer": [
+      "8397|Shiloh|TyndaleBibleDictionary",
+      "27086|Shiloh|UWTranslationWords",
+      "132399|Shiloh|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "aa4680a"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28376"
+    ],
+    "tipnr": [
+      "Shiloh@Jos.18.1-Jer"
+    ],
+    "vizbible": [
+      "recPt1Ig1xZkj2YWS"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q985542"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shiloh",
+      "alternate_labels": [
+        "Shilonite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shiloh",
+          "gloss": "Shiloh",
+          "description": "A town in the territory of Ephraim; location of the Tent of Meeting for some time."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Shiloh"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.05570051",
+      "lon": "35.2895287"
+    },
+    "recogito": {
+      "lat": "32.05617",
+      "lon": "35.28988"
+    },
+    "vizbible": {
+      "lat": "32.05617",
+      "lon": "35.28988"
+    }
+  },
+  "key_references": [
+    "09004004",
+    "01049010"
+  ],
+  "references": [
+    "01049010",
+    "06018001",
+    "06018008",
+    "06018009",
+    "06018010",
+    "06019051",
+    "06021002",
+    "06022009",
+    "06022012",
+    "07018031",
+    "07021012",
+    "07021019",
+    "07021021",
+    "09001003",
+    "09001009",
+    "09001024",
+    "09002014",
+    "09003021",
+    "09004003",
+    "09004004",
+    "09004012",
+    "09004013",
+    "09014003",
+    "11002027",
+    "11011029",
+    "11012015",
+    "11014002",
+    "11014004",
+    "11015029",
+    "13009005",
+    "14009029",
+    "14010015",
+    "19078060",
+    "24007012",
+    "24007014",
+    "24026006",
+    "24026009",
+    "24041005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180010061"
+      ],
+      [
+        "o060180080252"
+      ],
+      [
+        "o060180090161"
+      ],
+      [
+        "o060180100052"
+      ],
+      [
+        "o060190510162"
+      ],
+      [
+        "o060210020032"
+      ],
+      [
+        "o060220090132"
+      ],
+      [
+        "o060220120091"
+      ],
+      [
+        "o070180310132"
+      ],
+      [
+        "o070210120191"
+      ],
+      [
+        "o070210190052"
+      ],
+      [
+        "o070210210061"
+      ],
+      [
+        "o070210210171"
+      ],
+      [
+        "o090010030112"
+      ],
+      [
+        "o090010090052"
+      ],
+      [
+        "o090010240151"
+      ],
+      [
+        "o090020140222"
+      ],
+      [
+        "o090030210042"
+      ],
+      [
+        "o090030210102"
+      ],
+      [
+        "o090040030162"
+      ],
+      [
+        "o090040040031"
+      ],
+      [
+        "o090040120061"
+      ],
+      [
+        "o090140030122"
+      ],
+      [
+        "o110020270172"
+      ],
+      [
+        "o110110290102"
+      ],
+      [
+        "o110120150202"
+      ],
+      [
+        "o110140020151"
+      ],
+      [
+        "o110140040071"
+      ],
+      [
+        "o110150290222"
+      ],
+      [
+        "o130090050022"
+      ],
+      [
+        "o140090290162"
+      ],
+      [
+        "o140100150202"
+      ],
+      [
+        "o190780600031"
+      ],
+      [
+        "o240070120072"
+      ],
+      [
+        "o240070140182"
+      ],
+      [
+        "o240260060052"
+      ],
+      [
+        "o240260090062"
+      ],
+      [
+        "o240410050042"
+      ]
+    ]
+  }
+}

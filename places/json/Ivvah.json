@@ -1,0 +1,112 @@
+{
+  "id": "place:Ivvah",
+  "primary_id": "place:Ivvah",
+  "alternate_sources": {
+    "aquifer": [
+      "6120|Ivvah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ivvah@2Ki.17.24-Isa",
+      "Avva|Ivvah@2Ki.17.24-Isa"
+    ],
+    "vizbible": [
+      "recEQouzJnwIXnbfV"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ivvah",
+      "alternate_labels": [
+        "Ava",
+        "Avvite",
+        "Arva",
+        "Avva"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ivvah",
+          "gloss": "Ivvah",
+          "description": "A town, also known as Avvah; its inhabitants were relocated to Samaria by the king of Samaria."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Avva"
+  ],
+  "referred_to_as": [
+    "place:Avva",
+    "group:Avva"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.467725",
+      "lon": "41.964955"
+    },
+    "vizbible": {
+      "lat": "34.467725",
+      "lon": "41.964955"
+    }
+  },
+  "key_references": [
+    "12019013",
+    "12018034",
+    "23037013"
+  ],
+  "references": [
+    "12017024",
+    "12017031",
+    "12018034",
+    "12019013",
+    "23037013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120170240063"
+      ],
+      [
+        "o120170310013"
+      ],
+      [
+        "o120180340092"
+      ],
+      [
+        "o120190130102"
+      ],
+      [
+        "o230370130102"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120170240152"
+      ],
+      [
+        "o120170240182"
+      ],
+      [
+        "o120170250061"
+      ]
+    ]
+  }
+}

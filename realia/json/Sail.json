@@ -1,0 +1,85 @@
+{
+  "id": "realia:Sail",
+  "primary_id": "realia:Sail",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.49"
+    ],
+    "ubsdbh": [
+      "004273001001000",
+      "004819001003000"
+    ],
+    "ubsrealia": [
+      "realia:8.1.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.49"
+  ],
+  "ubsdbh": [
+    "004273001001000",
+    "004819001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sail",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sail",
+          "article": "realia:Sail",
+          "description": "A large piece of cloth attached to a boat to harness the wind and move the boat forward."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִפְרָשׂ",
+      "נֵס"
+    ],
+    "el": [
+      "ἀρτέμων"
+    ]
+  },
+  "key_references": [
+    "23033023",
+    "26027007",
+    "44027040"
+  ],
+  "references": [
+    "23033023",
+    "26027007",
+    "44027040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270070051",
+        "o260270070052"
+      ],
+      [
+        "o230330230091"
+      ],
+      [
+        "o260270070082"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44027040018"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270070062"
+      ]
+    ]
+  }
+}

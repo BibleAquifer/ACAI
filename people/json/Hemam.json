@@ -1,0 +1,58 @@
+{
+  "id": "person:Hemam",
+  "primary_id": "person:Hemam",
+  "alternate_sources": {
+    "aquifer": [
+      "5793|Hemam|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hemam@Gen.36.22-1Ch"
+    ],
+    "vizbible": [
+      "recSIpHo7tmg0q7jL"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Lotan",
+  "siblings": [
+    "person:Hori"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hemam",
+      "alternate_labels": [
+        "Homam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hemam",
+          "article": "person:Hemam",
+          "description": "Hemam, also known as Homam, lived during the time of the patriarchs and was the son of Lotan and brother of Hori, first mentioned in Genesis 36:22."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036022",
+    "13001039"
+  ],
+  "references": [
+    "01036022",
+    "13001039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360220052"
+      ],
+      [
+        "o130010390042"
+      ]
+    ]
+  }
+}

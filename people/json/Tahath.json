@@ -1,0 +1,66 @@
+{
+  "id": "person:Tahath",
+  "primary_id": "person:Tahath",
+  "alternate_sources": {
+    "aquifer": [
+      "8713|Tahath (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007125001004000"
+    ],
+    "tipnr": [
+      "Tahath@1Ch.6.24-"
+    ],
+    "vizbible": [
+      "recjExpZFHZDu3yps"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Assir.2",
+  "offspring": [
+    "person:Uriel"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "007125001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tahath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tahath",
+          "article": "person:Tahath",
+          "description": "Tahath, mentioned in 1 Chronicles 6:24, was a man of the tribe of Levi, son of Assir, and father of Uriel, living during the divided kingdom period."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שָׁאוּל"
+    ]
+  },
+  "key_references": [
+    "13006009",
+    "13006022"
+  ],
+  "references": [
+    "13006009",
+    "13006022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060090011"
+      ],
+      [
+        "o130060220021"
+      ]
+    ]
+  }
+}

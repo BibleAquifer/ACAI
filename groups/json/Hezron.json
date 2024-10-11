@@ -1,0 +1,62 @@
+{
+  "id": "group:Hezron",
+  "primary_id": "group:Hezron",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002490001001000",
+      "002490001002000"
+    ],
+    "tipnr": [
+      "Hezron@Gen.46.12-Luk"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Hezron; person:Hezron.2",
+  "ubsdbh": [
+    "002490001001000",
+    "002490001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hezronites",
+      "alternate_labels": [
+        "Hezron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hezronites",
+          "article": "group:Hezron",
+          "description": "People descended from Hezron, either through Hezron, son of Reuben (Numbers 26:6) or Hezron, son of Perez (Numbers 26:21)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶצְרֹונִי",
+      "חֶצְרוֹנִי"
+    ]
+  },
+  "key_references": [
+    "04026006",
+    "04026021"
+  ],
+  "references": [
+    "04026006",
+    "04026021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260060032"
+      ],
+      [
+        "o040260210062"
+      ]
+    ]
+  }
+}

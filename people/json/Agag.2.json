@@ -1,0 +1,116 @@
+{
+  "id": "person:Agag.2",
+  "primary_id": "person:Agag.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3417|Agag|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Agag@1Sa.15.8-Est"
+    ],
+    "vizbible": [
+      "recqnmaHGY0H06enn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Sinites",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Agag",
+      "alternate_labels": [
+        "Agagite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Agag",
+          "article": "person:Agag.2",
+          "description": "A king of Amalek during the time of King Saul."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Agag"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09015008",
+    "09015032",
+    "09015033",
+    "04024007"
+  ],
+  "references": [
+    "09015008",
+    "09015009",
+    "09015020",
+    "09015032",
+    "09015033",
+    "17003001",
+    "17003010",
+    "17008003",
+    "17008005",
+    "17009024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090150080031"
+      ],
+      [
+        "o090150090051"
+      ],
+      [
+        "o090150200161"
+      ],
+      [
+        "o090150320061"
+      ],
+      [
+        "o090150320111"
+      ],
+      [
+        "o090150320141"
+      ],
+      [
+        "o090150330141"
+      ],
+      [
+        "o170030010112"
+      ],
+      [
+        "o170030100112"
+      ],
+      [
+        "o170080030162"
+      ],
+      [
+        "o170080050252"
+      ],
+      [
+        "o170090240052"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o090150320031",
+          "o090150320041",
+          "o090150320042",
+          "o090150320051",
+          "o090150320061",
+          "o090150320071",
+          "o090150320081"
+        ]
+      }
+    ]
+  }
+}

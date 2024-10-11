@@ -1,0 +1,87 @@
+{
+  "id": "person:Elymas",
+  "primary_id": "person:Bar-jesus",
+  "alternate_sources": {
+    "aquifer": [
+      "5060|Elymas|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.114"
+    ],
+    "tipnr": [
+      "Elymas|Bar-jesus@Act.13.6-"
+    ],
+    "vizbible": [
+      "rec7HJs9Qvg0Oh8ZU"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.114"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elymas (Bar-jesus)",
+      "alternate_labels": [
+        "Bar-Jesus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bar-Jesus",
+          "article": "person:Elymas",
+          "description": "Elymas, also called Bar-Jesus, was a magician living during the New Testament times and is first mentioned in Acts 13:6."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Bar-jesus"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἐλύμας"
+    ]
+  },
+  "key_references": [
+    "44013008"
+  ],
+  "references": [
+    "44013008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44013008004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44013008012"
+      ],
+      [
+        "n44013009011"
+      ],
+      [
+        "n44013011021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44013008013",
+        "n44013008014"
+      ],
+      [
+        "n44013011026",
+        "n44013011027"
+      ]
+    ]
+  }
+}

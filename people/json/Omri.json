@@ -1,0 +1,157 @@
+{
+  "id": "person:Omri",
+  "primary_id": "person:Omri",
+  "alternate_sources": {
+    "aquifer": [
+      "7492|Omri|TyndaleBibleDictionary",
+      "26921|Omri|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005524001001000"
+    ],
+    "tipnr": [
+      "Omri@1Ki.16.16-Mic"
+    ],
+    "vizbible": [
+      "reck40BPIsL4eOuMr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ahab"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "005524001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Omri",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Omri",
+          "article": "person:Omri",
+          "description": "Father of King Ahab and a ruler of the northern kingdom of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַמְרָם"
+    ]
+  },
+  "key_references": [
+    "11016016",
+    "11016023",
+    "11016027"
+  ],
+  "references": [
+    "11016016",
+    "11016017",
+    "11016021",
+    "11016022",
+    "11016023",
+    "11016025",
+    "11016027",
+    "11016028",
+    "11016029",
+    "11016030",
+    "12008026",
+    "14022002",
+    "33006016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110160160151"
+      ],
+      [
+        "o110160170021"
+      ],
+      [
+        "o110160210161"
+      ],
+      [
+        "o110160220051"
+      ],
+      [
+        "o110160220161"
+      ],
+      [
+        "o110160230091"
+      ],
+      [
+        "o110160250021"
+      ],
+      [
+        "o110160270031"
+      ],
+      [
+        "o110160280021"
+      ],
+      [
+        "o110160290031"
+      ],
+      [
+        "o110160290171"
+      ],
+      [
+        "o110160300041"
+      ],
+      [
+        "o120080260151"
+      ],
+      [
+        "o140220020151"
+      ],
+      [
+        "o330060160031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110160170072"
+      ],
+      [
+        "o110160230161"
+      ],
+      [
+        "o110160240012"
+      ],
+      [
+        "o110160240092"
+      ],
+      [
+        "o110160240122"
+      ],
+      [
+        "o110160240171"
+      ],
+      [
+        "o110160250062"
+      ],
+      [
+        "o110160260012"
+      ],
+      [
+        "o110160270051"
+      ],
+      [
+        "o110160270081"
+      ],
+      [
+        "o110160280052"
+      ]
+    ]
+  }
+}

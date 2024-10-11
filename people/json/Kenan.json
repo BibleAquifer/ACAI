@@ -1,0 +1,102 @@
+{
+  "id": "person:Kenan",
+  "primary_id": "person:Kenan",
+  "alternate_sources": {
+    "aquifer": [
+      "6546|Kenan|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Cainan|Kenan@Gen.5.9-Luk",
+      "Kenan@Gen.5.9-Luk"
+    ],
+    "vizbible": [
+      "recyuyvniLPCMOZyl"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Enosh",
+  "offspring": [
+    "person:Mahalalel"
+  ],
+  "roles": [
+    "Patriarch",
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kenan",
+      "alternate_labels": [
+        "Cainan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kenan",
+          "article": "person:Kenan",
+          "description": "A son of Enosh, and father of Mahalalel. He is mentioned in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Cainan.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01005009",
+    "13001002",
+    "42003037"
+  ],
+  "references": [
+    "01005009",
+    "01005010",
+    "01005012",
+    "01005013",
+    "01005014",
+    "13001002",
+    "42003037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010050090071"
+      ],
+      [
+        "o010050100061"
+      ],
+      [
+        "o010050120021"
+      ],
+      [
+        "o010050130021"
+      ],
+      [
+        "o010050140041"
+      ],
+      [
+        "o130010020011"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003037010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010050120052"
+      ],
+      [
+        "o010050130122"
+      ],
+      [
+        "o010050140102"
+      ]
+    ]
+  }
+}

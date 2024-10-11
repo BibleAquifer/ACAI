@@ -1,0 +1,85 @@
+{
+  "id": "place:Zair",
+  "primary_id": "place:Zoar",
+  "alternate_sources": {
+    "aquifer": [
+      "9128|Zair|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006268002001000"
+    ],
+    "tipnr": [
+      "Zair|Zoar@Gen.13.10-Jer"
+    ],
+    "vizbible": [
+      "rec25eNzSTmosC7xU"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006268002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zair",
+      "alternate_labels": [
+        "Zoar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zair",
+          "gloss": "Zair",
+          "description": "A town in the territory of Judah, near the border with Edom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Zoar"
+  ],
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.92652253",
+      "lon": "35.41906069"
+    },
+    "vizbible": {
+      "lat": "30.92652253",
+      "lon": "35.41906069"
+    }
+  },
+  "key_references": [
+    "12008021"
+  ],
+  "references": [
+    "12008021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120080210031"
+      ]
+    ]
+  }
+}

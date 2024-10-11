@@ -1,0 +1,95 @@
+{
+  "id": "place:Baale-judah",
+  "primary_id": "place:Kiriath-jearim",
+  "alternate_sources": {
+    "aquifer": [
+      "3931|Baale-Judah, Baale of Judah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001097001001000"
+    ],
+    "tipnr": [
+      "Baale-judah|Kiriath-jearim@Jos.9.17-Jer"
+    ],
+    "vizbible": [
+      "recKm8gRoKw8JsNhV"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001097001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baale of Judah",
+      "alternate_labels": [
+        "Kiriath-Jearim",
+        "Baalah of Judah",
+        "Baale-Judah",
+        "Baalah in Judah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baale-judah",
+          "gloss": "Baale of Judah",
+          "description": "A town in the territory of Judah; also known as Kiriath-Jearim, Kiriath-Baal, and Baalah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Baalah.2",
+    "place:Kiriath-jearim"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בַּעֲלֵי יְהוּדָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.771104",
+      "lon": "34.993812"
+    },
+    "vizbible": {
+      "lat": "31.771104",
+      "lon": "34.993812"
+    }
+  },
+  "key_references": [
+    "10006002"
+  ],
+  "references": [
+    "10006002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100060020082",
+        "o100060020091"
+      ]
+    ]
+  }
+}

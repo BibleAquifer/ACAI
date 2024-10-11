@@ -1,0 +1,115 @@
+{
+  "id": "realia:Wheel",
+  "primary_id": "realia:Wheel",
+  "alternate_sources": {
+    "aquifer": [
+      "9056|Wheel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001249001004000",
+      "002610001001000",
+      "002612001001000",
+      "005173001001000"
+    ],
+    "ubsrealia": [
+      "realia:8.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "001249001004000",
+    "002610001001000",
+    "002612001001000",
+    "005173001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wheel",
+      "alternate_labels": [
+        "Axle",
+        "Rim",
+        "Spoke",
+        "Hub"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wheel",
+          "article": "realia:Wheel",
+          "description": "A circular object with a central hub, spokes, and a rim, designed to rotate around an axle."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גַּב",
+      "חִשֻּׁק",
+      "חִשֻּׁר",
+      "סֶרֶן"
+    ]
+  },
+  "key_references": [
+    "02014025",
+    "11007032",
+    "26001019",
+    "26010013"
+  ],
+  "references": [
+    "11007030",
+    "11007033",
+    "26001018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110070330072",
+        "o110070330073"
+      ],
+      [
+        "o260010180012",
+        "o260010180013"
+      ],
+      [
+        "o260010180062",
+        "o260010180063"
+      ],
+      [
+        "o110070330082",
+        "o110070330083"
+      ],
+      [
+        "o110070330092",
+        "o110070330093"
+      ],
+      [
+        "o110070300062"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o110070330102"
+      ],
+      [
+        "o260010180032"
+      ],
+      [
+        "o260010180052"
+      ],
+      [
+        "o260010180103"
+      ],
+      [
+        "o110070330102"
+      ],
+      [
+        "o110070330102"
+      ]
+    ]
+  }
+}

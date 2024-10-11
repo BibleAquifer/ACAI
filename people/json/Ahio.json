@@ -1,0 +1,72 @@
+{
+  "id": "person:Ahio",
+  "primary_id": "person:Ahio",
+  "alternate_sources": {
+    "aquifer": [
+      "3453|Ahio|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000267001001000"
+    ],
+    "tipnr": [
+      "Ahio@2Sa.6.3-1Ch"
+    ],
+    "vizbible": [
+      "recObNwtAQWIAASBt"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abinadab",
+  "siblings": [
+    "person:Eleazar.3",
+    "person:Uzzah"
+  ],
+  "ubsdbh": [
+    "000267001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahio",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahio",
+          "article": "person:Ahio",
+          "description": "A man from the time of Israel's united kingdom, son of Abinadab and brother of Uzzah, mentioned in 2 Samuel 6:3."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַחְיֹו",
+      "אַחְיוֹ"
+    ]
+  },
+  "key_references": [
+    "10006003",
+    "10006004",
+    "13013007"
+  ],
+  "references": [
+    "10006003",
+    "10006004",
+    "13013007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100060030142"
+      ],
+      [
+        "o100060040092"
+      ],
+      [
+        "o130130070112"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "place:Gibeah",
+  "primary_id": "place:Gibeah",
+  "alternate_sources": {
+    "aquifer": [
+      "5447|Gibeah|TyndaleBibleDictionary",
+      "26636|Gibeah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "001279002002000"
+    ],
+    "tipnr": [
+      "Gibeah@Jos.15.57-2Ch"
+    ],
+    "vizbible": [
+      "recD3RwArYl0uXo87"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001279002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gibeah (of Judah)",
+      "alternate_labels": [
+        "Gibeah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gibeah.2",
+          "gloss": "Gibeah (of Judah)",
+          "description": "A town located in the hilly country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גִּבְעָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.43333151674604",
+      "lon": "35.13333188530802"
+    },
+    "vizbible": {
+      "lat": "31.43333151674604",
+      "lon": "35.13333188530802"
+    }
+  },
+  "key_references": [
+    "14013002",
+    "06015057"
+  ],
+  "references": [
+    "06015057",
+    "14013002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150570021"
+      ],
+      [
+        "o140130020111"
+      ]
+    ]
+  }
+}

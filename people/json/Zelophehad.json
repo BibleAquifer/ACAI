@@ -1,0 +1,108 @@
+{
+  "id": "person:Zelophehad",
+  "primary_id": "person:Zelophehad",
+  "alternate_sources": {
+    "aquifer": [
+      "9174|Zelophehad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006219001001000"
+    ],
+    "tipnr": [
+      "Zelophehad@Num.26.33-1Ch"
+    ],
+    "vizbible": [
+      "rec5IfTXcDLvx6ba1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hepher",
+  "offspring": [
+    "person:Mahlah",
+    "person:Noah.2",
+    "person:Hoglah",
+    "person:Milcah.2",
+    "person:Tirzah"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "006219001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zelophehad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zelophehad",
+          "article": "person:Zelophehad",
+          "description": "Zelophehad was a man from the tribe of Manasseh who lived during the time of Egypt and the wilderness. He fathered five daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צֶלְצַח"
+    ]
+  },
+  "key_references": [
+    "04026033",
+    "04027001",
+    "06017003"
+  ],
+  "references": [
+    "04026033",
+    "04027001",
+    "04027007",
+    "04036002",
+    "04036006",
+    "04036010",
+    "04036011",
+    "06017003",
+    "13007015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260330012"
+      ],
+      [
+        "o040260330131"
+      ],
+      [
+        "o040270010031"
+      ],
+      [
+        "o040270070031"
+      ],
+      [
+        "o040360020191"
+      ],
+      [
+        "o040360060071"
+      ],
+      [
+        "o040360100091"
+      ],
+      [
+        "o040360110081"
+      ],
+      [
+        "o060170030013"
+      ],
+      [
+        "o130070150111"
+      ],
+      [
+        "o130070150132"
+      ]
+    ]
+  }
+}

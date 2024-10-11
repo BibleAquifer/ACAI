@@ -1,0 +1,85 @@
+{
+  "id": "place:Ithnan",
+  "primary_id": "place:Ithnan",
+  "alternate_sources": {
+    "aquifer": [
+      "6110|Ithnan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003202001001000"
+    ],
+    "tipnr": [
+      "Ithnan@Jos.15.23"
+    ],
+    "vizbible": [
+      "recLBHqMV8R3Zjr8k"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003202001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ithnan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ithnan",
+          "gloss": "Ithnan",
+          "description": "A town in the southern territory of Judah, near the border of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יִתְנָן",
+      "יִתְנָ֑ן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    },
+    "vizbible": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    }
+  },
+  "key_references": [
+    "06015023"
+  ],
+  "references": [
+    "06015023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150230032"
+      ]
+    ]
+  }
+}

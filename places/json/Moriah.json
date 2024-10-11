@@ -1,0 +1,43 @@
+{
+  "id": "place:Moriah",
+  "primary_id": "place:Moriah",
+  "alternate_sources": {
+    "aquifer": [
+      "7206|Moriah|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Moriah",
+          "gloss": "Moriah",
+          "description": "The land where Abraham was to sacrifice his son, Isaac, and where Solomon built the temple."
+        }
+      ],
+      "preferred_label": "Moriah",
+      "alternate_labels": [
+        "Land of Moriah"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:MoriahMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "01022002"
+  ]
+}

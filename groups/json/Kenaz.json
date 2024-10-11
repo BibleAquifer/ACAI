@@ -1,0 +1,62 @@
+{
+  "id": "group:Kenaz",
+  "primary_id": "group:Kenaz",
+  "alternate_sources": {
+    "aquifer": [
+      "6551|Kenizzites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006511001001000"
+    ],
+    "tipnr": [
+      "Kenaz@Num.32.12-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Kenaz.3",
+  "ubsdbh": [
+    "006511001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kenizzites",
+      "alternate_labels": [
+        "Kenaz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kenizzites",
+          "article": "group:Kenaz",
+          "description": "People descended from Kenaz."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04032012",
+    "06014006",
+    "06014014"
+  ],
+  "references": [
+    "04032012",
+    "06014006",
+    "06014014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320120052"
+      ],
+      [
+        "o060140060122"
+      ],
+      [
+        "o060140140082"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "place:Gethsemane",
+  "primary_id": "place:Gethsemane",
+  "alternate_sources": {
+    "aquifer": [
+      "5437|Gethsemane|TyndaleBibleDictionary",
+      "26634|Gethsemane|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.448"
+    ],
+    "tipnr": [
+      "Gethsemane@Mat.26.36-Mrk"
+    ],
+    "vizbible": [
+      "recSyQJ7fMDS4wAsm"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.448"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gethsemane",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gethsemane",
+          "gloss": "Gethsemane",
+          "description": "A garden at the foot of the Mount of Olives, where Jesus was arrested (Matthew 26:47–56; Mark 14:43–52)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:OlivesMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Γεθσημανί"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "garden"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "garden"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "40026036",
+    "41014032"
+  ],
+  "references": [
+    "40026036",
+    "41014032"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40026036010"
+      ],
+      [
+        "n41014032008"
+      ]
+    ]
+  }
+}

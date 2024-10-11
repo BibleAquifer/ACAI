@@ -1,0 +1,103 @@
+{
+  "id": "place:Amphipolis",
+  "primary_id": "place:Amphipolis",
+  "alternate_sources": {
+    "aquifer": [
+      "3576|Amphipolis|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a4bdea7"
+    ],
+    "ubsdgnt": [
+      "93.404"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21889"
+    ],
+    "tipnr": [
+      "Amphipolis@Act.17.1"
+    ],
+    "vizbible": [
+      "recjAd4VSbzamAXaB"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q217414"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.404"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amphipolis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Amphipolis",
+          "gloss": "Amphipolis",
+          "description": "The capital of southeast Macedonia; Paul and Silas passed through on their way to Thessalonica."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Apollonia"
+  ],
+  "subregion_of": [
+    "place:Macedonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἀμφίπολις"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.82322547",
+      "lon": "23.83863143"
+    },
+    "recogito": {
+      "lat": "40.818876",
+      "lon": "23.840418"
+    },
+    "vizbible": {
+      "lat": "40.818876",
+      "lon": "23.840418"
+    },
+    "biblica-maps": {
+      "lat": "40.82581",
+      "lon": "23.84158"
+    }
+  },
+  "key_references": [
+    "44017001"
+  ],
+  "references": [
+    "44017001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44017001004"
+      ]
+    ]
+  }
+}

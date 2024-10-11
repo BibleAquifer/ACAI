@@ -1,0 +1,75 @@
+{
+  "id": "person:Zuar",
+  "primary_id": "person:Zuar",
+  "alternate_sources": {
+    "aquifer": [
+      "9264|Zuar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006150001001000"
+    ],
+    "tipnr": [
+      "Zuar@Num.1.8-"
+    ],
+    "vizbible": [
+      "recb9Gl7NXl4YOASP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Nethanel"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "ubsdbh": [
+    "006150001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zuar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zuar",
+          "article": "person:Zuar",
+          "description": "The father of the chief of the tribe of Issachar, Nethanel, who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04001008",
+    "04002005",
+    "04010015"
+  ],
+  "references": [
+    "04001008",
+    "04002005",
+    "04007018",
+    "04007023",
+    "04010015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010080041"
+      ],
+      [
+        "o040020050101"
+      ],
+      [
+        "o040070180061"
+      ],
+      [
+        "o040070230171"
+      ],
+      [
+        "o040100150081"
+      ]
+    ]
+  }
+}

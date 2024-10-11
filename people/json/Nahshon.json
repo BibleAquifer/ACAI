@@ -1,0 +1,109 @@
+{
+  "id": "person:Nahshon",
+  "primary_id": "person:Nahshon",
+  "alternate_sources": {
+    "aquifer": [
+      "7292|Nahshon|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Nahshon@Exo.6.23-Luk"
+    ],
+    "vizbible": [
+      "recUDLYiodtPKHuXc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Amminadab",
+  "offspring": [
+    "person:Salmon"
+  ],
+  "siblings": [
+    "person:Elisheba"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nahshon",
+      "alternate_labels": [
+        "Naasson",
+        "Naashon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nahshon",
+          "article": "person:Nahshon",
+          "description": "A son of Amminadab, father of Salmon, and ancestor of King David."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006023",
+    "04007012",
+    "40001004"
+  ],
+  "references": [
+    "02006023",
+    "04001007",
+    "04002003",
+    "04007012",
+    "04007017",
+    "04010014",
+    "08004020",
+    "13002010",
+    "13002011",
+    "40001004",
+    "42003032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060230081"
+      ],
+      [
+        "o040010070021"
+      ],
+      [
+        "o040020030111"
+      ],
+      [
+        "o040070120071"
+      ],
+      [
+        "o040070170151"
+      ],
+      [
+        "o040100140101"
+      ],
+      [
+        "o080040200041"
+      ],
+      [
+        "o080040200052"
+      ],
+      [
+        "o130020100081"
+      ],
+      [
+        "o130020110012"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001004010",
+        "n40001004011"
+      ],
+      [
+        "n42003032010"
+      ]
+    ]
+  }
+}

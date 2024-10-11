@@ -1,0 +1,65 @@
+{
+  "id": "person:Ephah",
+  "primary_id": "person:Ephah",
+  "alternate_sources": {
+    "aquifer": [
+      "5100|Ephah (Measurement)|TyndaleBibleDictionary",
+      "5101|Ephah (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005409002001000"
+    ],
+    "tipnr": [
+      "Ephah@Gen.25.4-1Ch"
+    ],
+    "vizbible": [
+      "reciFr5Nog65vd2iV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Midian",
+  "siblings": [
+    "person:Epher",
+    "person:Hanoch",
+    "person:Abida",
+    "person:Eldaah"
+  ],
+  "tribe": "group:Sinites",
+  "ubsdbh": [
+    "005409002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ephah",
+          "article": "person:Ephah",
+          "description": "Ephah was a Midianite man living at the time of the patriarchs, mentioned in Genesis 25:4 as the son of Midian and brother of Epher, Hanoch, Abida, and Eldaah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01025004",
+    "13001033"
+  ],
+  "references": [
+    "01025004",
+    "13001033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250040031"
+      ],
+      [
+        "o130010330031"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "place:Allon-bacuth",
+  "primary_id": "place:Allon-bacuth",
+  "alternate_sources": {
+    "aquifer": [
+      "3514|Allon-Bachuth, Allon-Bacuth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000988001001000"
+    ],
+    "tipnr": [
+      "Allon-bacuth@Gen.35.8"
+    ],
+    "vizbible": [
+      "recZ2V3lwJO1fyj6I"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000988001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Allon-bachuth",
+      "alternate_labels": [
+        "Oak of Weeping",
+        "Allon-Bakuth",
+        "Allon-Bacuth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Allon-bacuth",
+          "gloss": "Allon-bachuth",
+          "description": "An oak tree near Bethel where Deborah, Rebekah's nurse, was buried (Genesis 35:8)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Bethel.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "tree"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "tree"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.93053920580005",
+      "lon": "35.22103274923676"
+    },
+    "vizbible": {
+      "lat": "31.93053920580005",
+      "lon": "35.22103274923676"
+    }
+  },
+  "key_references": [
+    "01035008"
+  ],
+  "references": [
+    "01035008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010350080141"
+      ]
+    ]
+  }
+}

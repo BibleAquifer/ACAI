@@ -1,0 +1,77 @@
+{
+  "id": "realia:SiegeTower",
+  "primary_id": "realia:SiegeTower",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000899001001000",
+      "004282001001000",
+      "004297002002000",
+      "004298001002000"
+    ],
+    "ubsrealia": [
+      "realia:2.19.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "000899001001000",
+    "004282001001000",
+    "004297002002000",
+    "004298001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Siege Tower",
+      "alternate_labels": [
+        "Siege-Works"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Siege Tower",
+          "article": "realia:SiegeTower",
+          "description": "A tall wooden structure with a platform on top, used by soldiers to attack a besieged city."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּחוּן",
+      "מֻצָּב",
+      "מָצֹור",
+      "מְצוּרָה"
+    ]
+  },
+  "key_references": [
+    "10020015",
+    "26004002",
+    "33004014",
+    "23029003"
+  ],
+  "references": [
+    "05020020",
+    "23023013",
+    "23029003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230230130131",
+        "o230230130132"
+      ],
+      [
+        "o230290030061"
+      ],
+      [
+        "o050200200141"
+      ],
+      [
+        "o230290030091"
+      ]
+    ]
+  }
+}

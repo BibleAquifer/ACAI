@@ -1,0 +1,98 @@
+{
+  "id": "place:ValleyGate",
+  "primary_id": "place:ValleyGate",
+  "alternate_sources": {
+    "aquifer": [
+      "8995|Valley Gate|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001390001009000"
+    ],
+    "tipnr": [
+      "Valley_Gate@2Ch.26.9-Neh"
+    ],
+    "vizbible": [
+      "recRShKfG3aDWnBy5"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001390001009000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley Gate",
+      "alternate_labels": [
+        "Gate of the Valley",
+        " Gate",
+        "Valley"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyGate",
+          "gloss": "Valley Gate",
+          "description": "A gate through which Nehemiah passed to inspect the walls of Jerusalem (Nehemiah 2:13)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "14026009",
+    "16002015",
+    "16002013",
+    "16003013"
+  ],
+  "references": [
+    "14026009",
+    "16002013",
+    "16002015",
+    "16003013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140260090102"
+      ],
+      [
+        "o160020130032"
+      ],
+      [
+        "o160020150112"
+      ],
+      [
+        "o160030130032"
+      ]
+    ]
+  }
+}

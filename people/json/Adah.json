@@ -1,0 +1,81 @@
+{
+  "id": "person:Adah",
+  "primary_id": "person:Adah",
+  "alternate_sources": {
+    "aquifer": [
+      "3358|Adah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005242001001000"
+    ],
+    "tipnr": [
+      "Adah@Gen.4.19-"
+    ],
+    "vizbible": [
+      "recnvCUsCVAGQNSG1"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Lamech"
+  ],
+  "offspring": [
+    "person:Jabal",
+    "person:Jubal"
+  ],
+  "ubsdbh": [
+    "005242001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Adah",
+          "article": "person:Adah",
+          "description": "A woman living before the Flood, wife of Lamech, and mother of Jabal and Jubal, first mentioned in Genesis 4:19."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עִדֹּו",
+      "עִדּוֹ"
+    ]
+  },
+  "key_references": [
+    "01004019",
+    "01004020",
+    "01004023"
+  ],
+  "references": [
+    "01004019",
+    "01004020",
+    "01004023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040190081"
+      ],
+      [
+        "o010040200021"
+      ],
+      [
+        "o010040230041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010040230061"
+      ]
+    ]
+  }
+}

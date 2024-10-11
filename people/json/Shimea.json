@@ -1,0 +1,79 @@
+{
+  "id": "person:Shimea",
+  "primary_id": "person:Shammua.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8405|Shimea|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007481001002000"
+    ],
+    "tipnr": [
+      "Shimea|Shammua@2Sa.5.14-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:Bathsheba",
+  "siblings": [
+    "person:Amnon",
+    "person:Chileab",
+    "person:Absalom",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shobab",
+    "person:Nathan",
+    "person:Solomon",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Nepheg.2",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliada",
+    "person:Eliphelet",
+    "person:Tamar.2",
+    "person:Elpelet",
+    "person:Nogah",
+    "person:Jerimoth.6"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007481001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shimea (Shammua)",
+      "alternate_labels": [
+        "Shammua (2 Samuel 5:14)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shammua (2 Samuel 5:14)",
+          "article": "person:Shimea",
+          "description": "Shimea (also called Shammua), David's son, lived during Israel's united kingdom and was the son of David and Bathsheba, and brother of Solomon, Nathan, and Shobab."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shammua.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13003005"
+  ],
+  "references": [
+    "13003005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030050051"
+      ]
+    ]
+  }
+}

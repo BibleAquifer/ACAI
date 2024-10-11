@@ -1,0 +1,52 @@
+{
+  "id": "group:Shemida",
+  "primary_id": "group:Shemida",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007458001001000"
+    ],
+    "tipnr": [
+      "Shemida@Num.26.32-1Ch"
+    ],
+    "vizbible": [
+      "reciNIKDNXsFZ43pz"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Shemida",
+  "ubsdbh": [
+    "007458001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shemidaites",
+      "alternate_labels": [
+        "Shemida"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shemidaites",
+          "article": "group:Shemida",
+          "description": "People descended from Shemida."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026032"
+  ],
+  "references": [
+    "04026032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260320032"
+      ]
+    ]
+  }
+}

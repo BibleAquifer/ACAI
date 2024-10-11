@@ -1,0 +1,66 @@
+{
+  "id": "person:KingOfJericho",
+  "primary_id": "person:KingOfJericho",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "King of Jericho",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "King of Jericho",
+          "description": "The king of Jericho."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "06002003",
+    "06002003"
+  ],
+  "references": [
+    "06002003",
+    "06002003"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o060020030021"
+      ],
+      [
+        "o060020030062"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o060020030071",
+          "o060020030081",
+          "o060020030082",
+          "o060020030091",
+          "o060020030092",
+          "o060020030101",
+          "o060020030102",
+          "o060020030111",
+          "o060020030121",
+          "o060020030131",
+          "o060020030132",
+          "o060020030133",
+          "o060020030141",
+          "o060020030151",
+          "o060020030152",
+          "o060020030161",
+          "o060020030171",
+          "o060020030181",
+          "o060020030182",
+          "o060020030191"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "person:Ichabod",
+  "primary_id": "person:Ichabod",
+  "alternate_sources": {
+    "aquifer": [
+      "5981|Ichabod|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000326001001000"
+    ],
+    "tipnr": [
+      "Ichabod@1Sa.4.21-"
+    ],
+    "vizbible": [
+      "recquAR8Sw42aohg7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Phinehas.2",
+  "siblings": [
+    "person:Ahitub"
+  ],
+  "ubsdbh": [
+    "000326001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ichabod",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ichabod",
+          "article": "person:Ichabod",
+          "description": "A man living during Israel's united kingdom, son of Phinehas, and born when the ark of the covenant was seized by the Philistines, first mentioned in 1 Samuel 4:21."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אִיכָבֹוד",
+      "אִי־כָבוֹד"
+    ]
+  },
+  "key_references": [
+    "09004021",
+    "09014003"
+  ],
+  "references": [
+    "09004021",
+    "09014003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090040210031",
+        "o090040210041"
+      ],
+      [
+        "o090140030051"
+      ]
+    ]
+  }
+}

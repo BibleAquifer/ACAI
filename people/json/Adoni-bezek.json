@@ -1,0 +1,110 @@
+{
+  "id": "person:Adoni-bezek",
+  "primary_id": "person:Adoni-bezek",
+  "alternate_sources": {
+    "aquifer": [
+      "3390|Adoni-Bezek|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000137001001000"
+    ],
+    "tipnr": [
+      "Adoni-bezek@Jdg.1.5-"
+    ],
+    "vizbible": [
+      "recpfBZr7aRz8q0KZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "000137001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adoni-bezek",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Adoni-Bezek",
+          "article": "person:Adoni-bezek",
+          "description": "A king of Bezek living during the time of the Judges, first mentioned in Judges 1:5."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲדֹנִי בֶזֶק",
+      "אֲדֹנִי־בֶ֫זֶק"
+    ]
+  },
+  "key_references": [
+    "07001005",
+    "07001006",
+    "07001007"
+  ],
+  "references": [
+    "07001005",
+    "07001006",
+    "07001007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070010050031",
+        "o070010050041"
+      ],
+      [
+        "o070010060021",
+        "o070010060031"
+      ],
+      [
+        "o070010070021",
+        "o070010070031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070010070151"
+      ],
+      [
+        "o070010070222"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070010070031",
+          "o070010070041",
+          "o070010070051",
+          "o070010070061",
+          "o070010070071",
+          "o070010070072",
+          "o070010070081",
+          "o070010070082",
+          "o070010070083",
+          "o070010070091",
+          "o070010070101",
+          "o070010070111",
+          "o070010070121",
+          "o070010070131",
+          "o070010070132",
+          "o070010070141",
+          "o070010070142",
+          "o070010070151",
+          "o070010070161",
+          "o070010070171",
+          "o070010070181"
+        ]
+      }
+    ]
+  }
+}

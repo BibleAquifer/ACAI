@@ -1,0 +1,106 @@
+{
+  "id": "place:Nicopolis",
+  "primary_id": "place:Nicopolis",
+  "alternate_sources": {
+    "aquifer": [
+      "7398|Nicopolis|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af43cde"
+    ],
+    "ubsdgnt": [
+      "93.543"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/531013",
+      "http://pleiades.stoa.org/places/658547"
+    ],
+    "tipnr": [
+      "Nicopolis@Tit.3.12-"
+    ],
+    "vizbible": [
+      "rec3M96xTBxHixX5Z"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q943637"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.543"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nicopolis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nicopolis",
+          "gloss": "Nicopolis",
+          "description": "A seaport city on the west coast of Greece, which Paul visited during his travels (Tit 3:12)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Νικόπολις"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "39.024033",
+      "lon": "20.73573"
+    },
+    "recogito": {
+      "lat": "37.027158",
+      "lon": "36.633389"
+    },
+    "vizbible": {
+      "lat": "39.024033",
+      "lon": "20.73573"
+    },
+    "biblica-maps": {
+      "lat": "39.01109",
+      "lon": "20.72917"
+    }
+  },
+  "key_references": [
+    "56003012"
+  ],
+  "references": [
+    "56003012",
+    "56003015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n56003012013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n56003012014"
+      ]
+    ]
+  }
+}

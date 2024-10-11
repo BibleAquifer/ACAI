@@ -1,0 +1,128 @@
+{
+  "id": "flora:Weed",
+  "primary_id": "flora:Weed",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "3.30"
+    ],
+    "ubsdbh": [
+      "000827001001000"
+    ],
+    "ubsflora": [
+      "flora:6.3.1"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Flowers, Thorns, and Weeds",
+  "ubsdgnt": [
+    "3.30"
+  ],
+  "ubsdbh": [
+    "000827001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Weed",
+      "alternate_labels": [
+        "Weeds",
+        "Rotten Fruit",
+        "Darnel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Weed",
+          "article": "flora:Weed",
+          "description": "An unwanted plant that looks like wheat but has poisonous seeds and is usually bad-smelling and inedible."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בָּאְשָׁה"
+    ],
+    "el": [
+      "ζιζάνιον"
+    ]
+  },
+  "key_references": [
+    "40013025",
+    "18031004"
+  ],
+  "references": [
+    "18031040",
+    "40013025",
+    "40013026",
+    "40013027",
+    "40013029",
+    "40013030",
+    "40013036",
+    "40013038",
+    "40013040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180310400071"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40013025013"
+      ],
+      [
+        "n40013026013"
+      ],
+      [
+        "n40013027021"
+      ],
+      [
+        "n40013029008"
+      ],
+      [
+        "n40013030018"
+      ],
+      [
+        "n40013036021"
+      ],
+      [
+        "n40013038019"
+      ],
+      [
+        "n40013040005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40013028018"
+      ],
+      [
+        "n40013029011"
+      ],
+      [
+        "n40013030003"
+      ],
+      [
+        "n40013030021"
+      ],
+      [
+        "n40013030027"
+      ],
+      [
+        "n40013039006"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40013040008"
+      ]
+    ]
+  }
+}

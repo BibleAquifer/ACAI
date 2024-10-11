@@ -1,0 +1,72 @@
+{
+  "id": "person:Abiasaph",
+  "primary_id": "person:Ebiasaph",
+  "alternate_sources": {
+    "aquifer": [
+      "3287|Abiasaph|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000023001001000"
+    ],
+    "tipnr": [
+      "Abiasaph|Ebiasaph@Exo.6.24-1Ch"
+    ],
+    "vizbible": [
+      "recLEYnTrXjwcPA9C"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Korah.3",
+  "offspring": [
+    "person:Assir.2",
+    "person:Kore"
+  ],
+  "siblings": [
+    "person:Assir",
+    "person:Elkanah"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000023001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abiasaph (Ebiasaph)",
+      "alternate_labels": [
+        "Ebiasaph"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ebiasaph",
+          "article": "person:Abiasaph",
+          "description": "A man of the tribe of Levi, son of Korah, father of Assir and Kore, also called Ebiasaph and Asaph, mentioned in Exodus 6:24."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ebiasaph"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִיאָסָף"
+    ]
+  },
+  "key_references": [
+    "02006024"
+  ],
+  "references": [
+    "02006024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060240052"
+      ]
+    ]
+  }
+}

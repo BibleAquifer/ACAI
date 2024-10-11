@@ -1,0 +1,73 @@
+{
+  "id": "person:Eber.4",
+  "primary_id": "person:Eber.4",
+  "alternate_sources": {
+    "aquifer": [
+      "4927|Eber|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000410001004000"
+    ],
+    "tipnr": [
+      "Eber@1Ch.8.22"
+    ],
+    "vizbible": [
+      "rec5Tng2rPc9BAFbc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shashak",
+  "siblings": [
+    "person:Ishpan",
+    "person:Eliel.3",
+    "person:Abdon.2",
+    "person:Zichri.3",
+    "person:Hanan",
+    "person:Hananiah.2",
+    "person:Elam.3",
+    "person:Anthothijah",
+    "person:Iphdeiah",
+    "person:Penuel.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000410001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eber (1 Chronicles 8:22)",
+      "alternate_labels": [
+        "Heber"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eber (1 Chronicles 8:22)",
+          "article": "person:Eber.4",
+          "description": "Eber, also known as Heber, was a man from the tribe of Benjamin during the divided kingdom, mentioned in 1 Chronicles 8:22 as the son of Shashak and brother to Ishpan, Eliel, Abdon, Zichri, Hanan, Hananiah, Elam, Anthothijah, Iphdeiah, and Penuel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיאֵל"
+    ]
+  },
+  "key_references": [
+    "13008022"
+  ],
+  "references": [
+    "13008022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080220022"
+      ]
+    ]
+  }
+}

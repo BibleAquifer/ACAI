@@ -1,0 +1,83 @@
+{
+  "id": "place:Rezeph",
+  "primary_id": "place:Rezeph",
+  "alternate_sources": {
+    "aquifer": [
+      "8023|Rezeph|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aefdac1"
+    ],
+    "ubsdbh": [
+      "006917002001000"
+    ],
+    "tipnr": [
+      "Rezeph@2Ki.19.12-Isa"
+    ],
+    "vizbible": [
+      "recsgEmgYboc9zneO"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q631407"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006917002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rezeph",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rezeph",
+          "gloss": "Rezeph",
+          "description": "A town conquered by the king of Assyria."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.95",
+      "lon": "39.016667"
+    },
+    "vizbible": {
+      "lat": "35.95",
+      "lon": "39.016667"
+    }
+  },
+  "key_references": [
+    "23037012",
+    "12019012"
+  ],
+  "references": [
+    "12019012",
+    "23037012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120190120122"
+      ],
+      [
+        "o230370120122"
+      ]
+    ]
+  }
+}

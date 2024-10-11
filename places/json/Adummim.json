@@ -1,0 +1,101 @@
+{
+  "id": "place:Adummim",
+  "primary_id": "place:Adummim",
+  "alternate_sources": {
+    "obi": [
+      "acf8790"
+    ],
+    "ubsdbh": [
+      "000132001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/687961",
+      "http://pleiades.stoa.org/places/687961"
+    ],
+    "tipnr": [
+      "Adummim@Jos.15.7-"
+    ],
+    "vizbible": [
+      "rec5SkGvGgdC9E9bf"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4685964"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000132001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ascent of Adummim",
+      "alternate_labels": [
+        "Pass of Adummim",
+        "Adummim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Adummim",
+          "gloss": "Ascent of Adummim",
+          "description": "A mountain pass between Jerusalem and Jericho."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jerusalem",
+    "place:Jericho"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲדֻמִּים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "road"
+    ],
+    "acai": [
+      "mountain pass"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.817585",
+      "lon": "35.361646"
+    },
+    "recogito": {
+      "lat": "31.816277",
+      "lon": "35.359004"
+    },
+    "vizbible": {
+      "lat": "31.817585",
+      "lon": "35.361646"
+    }
+  },
+  "key_references": [
+    "06015007",
+    "06018017"
+  ],
+  "references": [
+    "06015007",
+    "06018017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150070131"
+      ],
+      [
+        "o060180170121"
+      ]
+    ]
+  }
+}

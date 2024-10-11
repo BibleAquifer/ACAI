@@ -1,0 +1,81 @@
+{
+  "id": "place:Sahar",
+  "primary_id": "place:Sahar",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006176001001000 006176002001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/71273"
+    ],
+    "tipnr": [
+      "Sahar@Ezk.27.18"
+    ],
+    "vizbible": [
+      "recXcwiQNW3djmoRL"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006176001001000 006176002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zahar",
+      "alternate_labels": [
+        "white",
+        "Sahar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sahar",
+          "gloss": "Zahar",
+          "description": "Possibly the name of a location that traded wool with Damascus. "
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.664912",
+      "lon": "36.248576"
+    },
+    "recogito": {
+      "lat": "15.31586",
+      "lon": "44.30858"
+    },
+    "vizbible": {
+      "lat": "33.664912",
+      "lon": "36.248576"
+    }
+  },
+  "key_references": [
+    "26027018"
+  ],
+  "references": [
+    "26027018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270180111"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "place:Siloam",
+  "primary_id": "place:Siloam",
+  "alternate_sources": {
+    "aquifer": [
+      "8494|Siloam, Pool of|TyndaleBibleDictionary",
+      "8495|Siloam, Tower of|TyndaleBibleDictionary",
+      "132030|Siloam|BiblicaStudyNotesKeyTerms"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4131116"
+    ],
+    "tipnr": [
+      "Shiloah|Siloam@Neh.3.15-Jhn",
+      "Shelah|Siloam@Neh.3.15-Jhn",
+      "King's_Pool|Siloam@Neh.3.15-Jhn",
+      "Siloam@Neh.3.15-Jhn"
+    ],
+    "vizbible": [
+      "recsSXHp8TaXQVDGH"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Siloam",
+      "alternate_labels": [
+        "King's Pool",
+        "Shiloah",
+        "Shelah",
+        "Siloah",
+        "Pool of Shelah",
+        "Pool of Siloam",
+        "King’s Pool"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Siloam",
+          "gloss": "Siloam",
+          "description": "The name for a system of water supply in Jerusalem; the pool of Siloam was probably the basin into which the water flowed."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Shelah",
+    "place:Shiloah",
+    "place:KingsPool"
+  ],
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "pool"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "pool"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "36.18814",
+      "lon": "-94.5405"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "43009011",
+    "43009007"
+  ],
+  "references": [
+    "16002014",
+    "16003015",
+    "23008006",
+    "42013004",
+    "43009007",
+    "43009011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160020140061"
+      ],
+      [
+        "o160020140072"
+      ],
+      [
+        "o160030150232"
+      ],
+      [
+        "o230080060082"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42013004012"
+      ],
+      [
+        "n43009007010"
+      ],
+      [
+        "n43009011022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43009007011"
+      ]
+    ]
+  }
+}

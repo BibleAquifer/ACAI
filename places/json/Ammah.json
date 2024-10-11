@@ -1,0 +1,89 @@
+{
+  "id": "place:Ammah",
+  "primary_id": "place:Ammah",
+  "alternate_sources": {
+    "aquifer": [
+      "3557|Ammah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a8e4a15"
+    ],
+    "ubsdbh": [
+      "000482003001000"
+    ],
+    "tipnr": [
+      "Ammah@2Sa.2.24"
+    ],
+    "vizbible": [
+      "recmUHWpIrHqLCHHE"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4747106"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000482003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ammah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ammah",
+          "gloss": "Ammah",
+          "description": "A hill near Giah on the road to the wilderness of Gihon."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Giah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַמָּה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "hill"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.869005",
+      "lon": "35.343177"
+    },
+    "vizbible": {
+      "lat": "31.869005",
+      "lon": "35.343177"
+    }
+  },
+  "key_references": [
+    "10002024"
+  ],
+  "references": [
+    "10002024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100020240121"
+      ]
+    ]
+  }
+}

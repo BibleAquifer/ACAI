@@ -1,0 +1,88 @@
+{
+  "id": "place:Hadrach",
+  "primary_id": "place:Hadrach",
+  "alternate_sources": {
+    "aquifer": [
+      "5579|Hadrach|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002142001001000"
+    ],
+    "tipnr": [
+      "Hadrach@Zec.9.1"
+    ],
+    "vizbible": [
+      "recmvSKuAxrUd95O2"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002142001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadrach",
+      "alternate_labels": [
+        "Hadrak",
+        "Aram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hadrach",
+          "gloss": "Hadrach",
+          "description": "A town or area in Syria mentioned in Zech 9:1."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Syria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חַדְרָךְ",
+      "חַדְרָ֔ךְ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.519299",
+      "lon": "36.31344999999999"
+    },
+    "vizbible": {
+      "lat": "33.519299",
+      "lon": "36.31344999999999"
+    }
+  },
+  "key_references": [
+    "38009001"
+  ],
+  "references": [
+    "38009001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o380090010051"
+      ]
+    ]
+  }
+}

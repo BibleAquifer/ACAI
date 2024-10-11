@@ -1,0 +1,99 @@
+{
+  "id": "place:TowerOfTheOvens",
+  "primary_id": "place:TowerOfTheOvens",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007866001002000",
+      "003685001005000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2961129"
+    ],
+    "tipnr": [
+      "Tower_of_the_Ovens@Neh.3.11-"
+    ],
+    "vizbible": [
+      "recMhcqIQlGkgMUZU"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007866001002000",
+    "003685001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tower of the Ovens",
+      "alternate_labels": [
+        "Tower",
+        "Tower of Furnaces"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TowerOfTheOvens",
+          "gloss": "Tower of the Ovens",
+          "description": "A tower located in the bakers' quarter in northwestern Jerusalem. "
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "structure"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "tower"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "51.91667",
+      "lon": "-8.6"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16012038",
+    "16003011"
+  ],
+  "references": [
+    "16003011",
+    "16012038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030110121"
+      ],
+      [
+        "o160030110132"
+      ],
+      [
+        "o160120380122"
+      ],
+      [
+        "o160120380132"
+      ]
+    ]
+  }
+}

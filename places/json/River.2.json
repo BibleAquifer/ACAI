@@ -1,0 +1,69 @@
+{
+  "id": "place:River.2",
+  "primary_id": "place:Nile",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002737001003000",
+      "002737001001000"
+    ],
+    "tipnr": [
+      "river|Nile@Gen.41.1-Zec"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002737001003000",
+    "002737001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "River",
+      "alternate_labels": [
+        "river",
+        "Nile"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Nile"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יְאֹר",
+      "ה"
+    ]
+  },
+  "key_references": [
+    "02002003",
+    "02002005",
+    "02007019"
+  ],
+  "references": [
+    "02002003",
+    "02002005",
+    "02007019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020020030202"
+      ],
+      [
+        "o020020050062"
+      ],
+      [
+        "o020020050112"
+      ],
+      [
+        "o020070190181"
+      ]
+    ]
+  }
+}

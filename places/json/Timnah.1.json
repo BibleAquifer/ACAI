@@ -1,0 +1,41 @@
+{
+  "id": "place:Timnah.1",
+  "primary_id": "place:Timnah.1",
+  "alternate_sources": {
+    "aquifer": [
+      "8847|Timnah (Place)|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Timnah.1",
+          "gloss": "Timnah (of Dan)",
+          "description": "A town in the territory of Dan, on the northern border of the territory of Judah; occupied by the Philistines and home to wife of Samson."
+        }
+      ],
+      "preferred_label": "Timnah (of Dan)"
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "06015010",
+    "07014001"
+  ]
+}

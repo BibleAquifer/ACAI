@@ -1,0 +1,58 @@
+{
+  "id": "group:Iezer",
+  "primary_id": "group:Iezer",
+  "alternate_sources": {
+    "aquifer": [
+      "5988|Iezer, Iezerites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000352001001000"
+    ],
+    "tipnr": [
+      "Iezer|Abiezer@Num.26.30-Jdg"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Abiezer",
+  "ubsdbh": [
+    "000352001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Iezerites",
+      "alternate_labels": [
+        "Abiezer",
+        "Jeezerites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Iezerites",
+          "article": "group:Iezer",
+          "description": "People descended from Iezer, son of Gilead, of the tribe of Manasseh"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אִיעֶזְרִי"
+    ]
+  },
+  "key_references": [
+    "04026030"
+  ],
+  "references": [
+    "04026030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260300062"
+      ]
+    ]
+  }
+}

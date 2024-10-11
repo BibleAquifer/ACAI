@@ -1,0 +1,76 @@
+{
+  "id": "place:Shebarim",
+  "primary_id": "place:Shebarim",
+  "alternate_sources": {
+    "aquifer": [
+      "8316|Shebarim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007188001001000 007188002001000"
+    ],
+    "tipnr": [
+      "Shebarim@Jos.7.5"
+    ],
+    "vizbible": [
+      "recUYHFhzSaVrgLeR"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007188001001000 007188002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shebarim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shebarim",
+          "gloss": "Shebarim",
+          "description": "A location near Ai where the men of Ai chased the Israelites."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Ai"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "natural area",
+      "special"
+    ],
+    "acai": [
+      "natural area"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.91697811712517",
+      "lon": "35.26122639380886"
+    },
+    "vizbible": {
+      "lat": "31.91697811712517",
+      "lon": "35.26122639380886"
+    }
+  },
+  "key_references": [
+    "06007005"
+  ],
+  "references": [
+    "06007005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060070050122"
+      ]
+    ]
+  }
+}

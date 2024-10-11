@@ -1,0 +1,59 @@
+{
+  "id": "person:Timaeus",
+  "primary_id": "person:Timaeus",
+  "alternate_sources": {
+    "aquifer": [
+      "8843|Timaeus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.360"
+    ],
+    "tipnr": [
+      "Timaeus@Mrk.10.46"
+    ],
+    "vizbible": [
+      "recr9S4I3oay46Lyb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Bartimaeus"
+  ],
+  "ubsdgnt": [
+    "93.360"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Timaeus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Timaeus",
+          "article": "person:Timaeus",
+          "description": "Father of Bartimaeus, the blind man who was healed by Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Τιμαῖος"
+    ]
+  },
+  "key_references": [
+    "41010046"
+  ],
+  "references": [
+    "41010046"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41010046019"
+      ]
+    ]
+  }
+}

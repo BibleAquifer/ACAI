@@ -1,0 +1,100 @@
+{
+  "id": "place:Apollonia",
+  "primary_id": "place:Apollonia",
+  "alternate_sources": {
+    "aquifer": [
+      "3664|Apollonia|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ab20df9"
+    ],
+    "ubsdgnt": [
+      "93.408"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21883"
+    ],
+    "tipnr": [
+      "Apollonia@Act.17.1"
+    ],
+    "vizbible": [
+      "recHMM1wYdWhsiv6D"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2751389"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.408"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Apollonia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Apollonia",
+          "gloss": "Apollonia",
+          "description": "A city in Macedonia located on the Via Egnatia."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Macedonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἀπολλωνία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.58763251",
+      "lon": "23.35335169"
+    },
+    "recogito": {
+      "lat": "40.623703",
+      "lon": "23.469685"
+    },
+    "vizbible": {
+      "lat": "40.623703",
+      "lon": "23.469685"
+    },
+    "biblica-maps": {
+      "lat": "40.62496",
+      "lon": "23.47039"
+    }
+  },
+  "key_references": [
+    "44017001"
+  ],
+  "references": [
+    "44017001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44017001007"
+      ]
+    ]
+  }
+}

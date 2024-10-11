@@ -1,0 +1,84 @@
+{
+  "id": "person:Ahimelech.3",
+  "primary_id": "person:Ahimelech.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3449|Ahimelech|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ahimelech@2Sa.8.17-1Ch"
+    ],
+    "vizbible": [
+      "recPyfANhXbhwpJWS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abiathar",
+  "siblings": [
+    "person:Jonathan.4"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahimelech (Son of Abiathar)",
+      "alternate_labels": [
+        "Abimelech",
+        "Ahimelek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahimelech (Son of Abiathar)",
+          "article": "person:Ahimelech.3",
+          "description": "A priest living during the time of King David."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10008017",
+    "13018016",
+    "13024003"
+  ],
+  "references": [
+    "10008017",
+    "13018016",
+    "13024003",
+    "13024006",
+    "13024031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080170042"
+      ],
+      [
+        "o130180160042"
+      ],
+      [
+        "o130240030072"
+      ],
+      [
+        "o130240060132"
+      ],
+      [
+        "o130240310132"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130240040102"
+      ],
+      [
+        "o130240050012"
+      ]
+    ]
+  }
+}

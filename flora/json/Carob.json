@@ -1,0 +1,60 @@
+{
+  "id": "flora:Carob",
+  "primary_id": "flora:Carob",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "3.46"
+    ],
+    "ubsflora": [
+      "flora:2.3"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Domestic Trees and Shrubs",
+  "ubsdgnt": [
+    "3.46"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Carob",
+      "alternate_labels": [
+        "Carob Pod"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Carob",
+          "article": "flora:Carob",
+          "description": "It produces pods that look like small horns and are often used as food."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κεράτιον"
+    ]
+  },
+  "key_references": [
+    "42015016"
+  ],
+  "references": [
+    "42015016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42015016009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42015016010"
+      ]
+    ]
+  }
+}

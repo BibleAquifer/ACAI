@@ -1,0 +1,63 @@
+{
+  "id": "realia:Ink",
+  "primary_id": "realia:Ink",
+  "alternate_sources": {
+    "aquifer": [
+      "6024|Ink, Inkhorn|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.57"
+    ],
+    "ubsrealia": [
+      "realia:1.7.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.57"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ink",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ink",
+          "article": "realia:Ink",
+          "description": "A dark liquid used for writing or marking."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μέλας"
+    ]
+  },
+  "key_references": [
+    "47003003",
+    "63001012",
+    "64001013"
+  ],
+  "references": [
+    "47003003",
+    "63001012",
+    "64001013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n47003003011"
+      ],
+      [
+        "n63001012010"
+      ],
+      [
+        "n64001013009"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "place:Anab",
+  "primary_id": "place:Anab",
+  "alternate_sources": {
+    "aquifer": [
+      "3583|Anab|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a234727"
+    ],
+    "ubsdbh": [
+      "005530001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/766410"
+    ],
+    "tipnr": [
+      "Anab@Jos.11.21-"
+    ],
+    "vizbible": [
+      "recZZewoVSk3CfnPZ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4750540"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005530001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Anab",
+          "gloss": "Anab",
+          "description": "A town in the hill country of the territory of Judah where Joshua eliminated the Anakim (Joshua 11:21)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.403888",
+      "lon": "34.944185"
+    },
+    "recogito": {
+      "lat": "26.8968",
+      "lon": "33.51517"
+    },
+    "vizbible": {
+      "lat": "31.403888",
+      "lon": "34.944185"
+    }
+  },
+  "key_references": [
+    "06011021",
+    "06015050"
+  ],
+  "references": [
+    "06011021",
+    "06015050"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110210151"
+      ],
+      [
+        "o060150500012"
+      ]
+    ]
+  }
+}

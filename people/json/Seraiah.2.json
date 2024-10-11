@@ -1,0 +1,85 @@
+{
+  "id": "person:Seraiah.2",
+  "primary_id": "person:Seraiah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8234|Seraiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007103001002000",
+      "007103001004000"
+    ],
+    "tipnr": [
+      "Seraiah@2Ki.25.18-Jer"
+    ],
+    "vizbible": [
+      "recdAonAgqAfLGdz9"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Azariah.7",
+  "offspring": [
+    "person:Jehozadak",
+    "person:Ezra"
+  ],
+  "roles": [
+    "High Priest",
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "007103001002000",
+    "007103001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seraiah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seraiah",
+          "article": "person:Seraiah.2",
+          "description": "The father of Jehozadak and Ezra the scribe. Seraiah was high priest during the time of the exile and return of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12025018",
+    "15007001",
+    "16011011",
+    "24052024"
+  ],
+  "references": [
+    "12025018",
+    "13005040",
+    "15007001",
+    "16011011",
+    "24052024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120250180051"
+      ],
+      [
+        "o130050400041"
+      ],
+      [
+        "o130050400052"
+      ],
+      [
+        "o150070010101"
+      ],
+      [
+        "o160110110011"
+      ],
+      [
+        "o240520240051"
+      ]
+    ]
+  }
+}

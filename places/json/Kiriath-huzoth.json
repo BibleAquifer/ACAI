@@ -1,0 +1,85 @@
+{
+  "id": "place:Kiriath-huzoth",
+  "primary_id": "place:Kiriath-huzoth",
+  "alternate_sources": {
+    "aquifer": [
+      "6604|Kiriath-Huzoth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006585001001000"
+    ],
+    "tipnr": [
+      "Kiriath-huzoth@Num.22.39"
+    ],
+    "vizbible": [
+      "recn1YUnYvq1qw3Eq"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006585001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kiriath-huzoth",
+      "alternate_labels": [
+        "Kirjath-Huzoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kiriath-huzoth",
+          "gloss": "Kiriath-Huzoth",
+          "description": "A town in Moab where Balak made a sacrifice while traveling with Balaam (Numbers 22:39–40)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "קִרְיַת יְעָרִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.76503129703305",
+      "lon": "35.71856575741812"
+    },
+    "vizbible": {
+      "lat": "31.76503129703305",
+      "lon": "35.71856575741812"
+    }
+  },
+  "key_references": [
+    "04022039"
+  ],
+  "references": [
+    "04022039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040220390061",
+        "o040220390071"
+      ]
+    ]
+  }
+}

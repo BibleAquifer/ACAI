@@ -1,0 +1,90 @@
+{
+  "id": "place:Helkath-hazzurim",
+  "primary_id": "place:Helkath-hazzurim",
+  "alternate_sources": {
+    "aquifer": [
+      "5785|Helkath-Hazzurim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac722b9"
+    ],
+    "ubsdbh": [
+      "002323001001000"
+    ],
+    "tipnr": [
+      "Helkath-hazzurim@2Sa.2.16"
+    ],
+    "vizbible": [
+      "reccKA6gqvNOzYork"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002323001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Helkath-hazzurim",
+      "alternate_labels": [
+        "Field of Blades",
+        "Field of Swords",
+        "Field of Flints",
+        "Field of Sharp Swords"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Helkath-hazzurim",
+          "gloss": "Helkath-hazzurim",
+          "description": "A field near Gibeon where the young men from the armies of Joab and Abner battled."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Gibeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֶלְקַת הַצֻּרִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "field"
+    ],
+    "acai": [
+      "field"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.880126",
+      "lon": "35.280188"
+    },
+    "vizbible": {
+      "lat": "31.880126",
+      "lon": "35.280188"
+    }
+  },
+  "key_references": [
+    "10002016"
+  ],
+  "references": [
+    "10002016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100020160131",
+        "o100020160141"
+      ]
+    ]
+  }
+}

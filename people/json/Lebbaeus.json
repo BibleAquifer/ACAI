@@ -1,0 +1,52 @@
+{
+  "id": "person:Lebbaeus",
+  "primary_id": "person:Judas",
+  "alternate_sources": {
+    "aquifer": [
+      "6708|Lebbaeus|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Lebbaeus|Judas@Mat.10.3-Act"
+    ],
+    "vizbible": [
+      "recjr23nobw1dkYdl"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:James.2",
+  "siblings": [
+    "person:James.2"
+  ],
+  "roles": [
+    "Apostle"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lebbaeus (Thaddaeus)",
+      "alternate_labels": [
+        "Judas",
+        "Lebbaeus Thaddaeus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Judas",
+          "article": "person:Lebbaeus",
+          "description": "An apostle of Jesus mentioned in the New Testament, also known as Thaddaeus and possibly Judas, the son or brother of James."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Judas"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40010003"
+  ],
+  "references": [
+    "40010003"
+  ]
+}

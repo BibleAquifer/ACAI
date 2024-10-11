@@ -1,0 +1,78 @@
+{
+  "id": "person:Augustus",
+  "primary_id": "person:Augustus",
+  "alternate_sources": {
+    "tipnr": [
+      "Augustus@Luk.2.1-Act",
+      "Caesar|Augustus@Luk.2.1-Act",
+      "emperor|Augustus@Luk.2.1-Act"
+    ],
+    "vizbible": [
+      "recU1v1l7ZuJsuK0g"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Emperor"
+  ],
+  "tribe": "group:Italy",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Augustus",
+      "alternate_labels": [
+        "Caesar",
+        "Imperial",
+        "Augustan",
+        "emperor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Augustus",
+          "article": "person:Augustus",
+          "description": "A title of a Roman emperors. Caesar Augustus was the first emperor of Rome, during the time of the birth of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Emperor",
+    "person:Caesar"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "42002001",
+    "42003001",
+    "44025021",
+    "44027001"
+  ],
+  "references": [
+    "42002001",
+    "42003001",
+    "44025021",
+    "44025025",
+    "44027001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42002001010",
+        "n42002001011"
+      ],
+      [
+        "n42003001008"
+      ],
+      [
+        "n44025021010"
+      ],
+      [
+        "n44025025014"
+      ],
+      [
+        "n44027001022"
+      ]
+    ]
+  }
+}

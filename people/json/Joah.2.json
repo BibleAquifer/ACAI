@@ -1,0 +1,59 @@
+{
+  "id": "person:Joah.2",
+  "primary_id": "person:Joah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6387|Joah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Joah@1Ch.6.21-",
+      "Ethan|Joah@1Ch.6.21-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zimmah",
+  "offspring": [
+    "person:Iddo.4"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joah (1 Chronicles 6:21)",
+      "alternate_labels": [
+        "Ethan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joah (1 Chronicles 6:21)",
+          "article": "person:Joah.2",
+          "description": "A Levite living during the divided kingdom, son of Zimmah and father of Iddo, also called Ethan in 1 Chronicles 6:42."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ethan.4"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13006006",
+    "13006027"
+  ],
+  "references": [
+    "13006006",
+    "13006027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060060011"
+      ],
+      [
+        "o130060270021"
+      ]
+    ]
+  }
+}

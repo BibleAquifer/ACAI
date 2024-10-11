@@ -1,0 +1,54 @@
+{
+  "id": "group:Punite",
+  "primary_id": "group:Punite",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005809001001000"
+    ],
+    "tipnr": [
+      "Punite|Puah@Gen.46.13-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Puah",
+  "ubsdbh": [
+    "005809001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Punites",
+      "alternate_labels": [
+        "Puah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Punites",
+          "article": "group:Punite",
+          "description": "People descended from Puah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "פּוּנֹן"
+    ]
+  },
+  "key_references": [
+    "04026023"
+  ],
+  "references": [
+    "04026023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260230092"
+      ]
+    ]
+  }
+}

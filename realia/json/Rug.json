@@ -1,0 +1,66 @@
+{
+  "id": "realia:Rug",
+  "primary_id": "realia:Rug",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006297001001000",
+      "007055001001000"
+    ],
+    "ubsrealia": [
+      "realia:5.17"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006297001001000",
+    "007055001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rug",
+      "alternate_labels": [
+        "Cloth",
+        "Blanket",
+        "Covering",
+        "Curtain",
+        "Carpet"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rug",
+          "article": "realia:Rug",
+          "description": "A piece of cloth used for sitting on or covering things, often large enough to cover a human body."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צָפִית",
+      "שְׂמִיכָה"
+    ]
+  },
+  "key_references": [
+    "07004018",
+    "23021005",
+    "26027024"
+  ],
+  "references": [
+    "07004018",
+    "23021005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230210050042"
+      ],
+      [
+        "o070040180172"
+      ]
+    ]
+  }
+}

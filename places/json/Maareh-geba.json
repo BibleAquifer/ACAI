@@ -1,0 +1,79 @@
+{
+  "id": "place:Maareh-geba",
+  "primary_id": "place:Maareh-geba",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004238002001000"
+    ],
+    "tipnr": [
+      "Maareh-geba@Jdg.20.33"
+    ],
+    "vizbible": [
+      "recfVeeVI1Tmq58aL"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004238002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maareh-geba",
+      "alternate_labels": [
+        "plain of Geba",
+        "vicinity of Gibeah",
+        "meadows of Gibeah",
+        "west of Geba",
+        "west of Gibeah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Maareh-geba",
+          "gloss": "Maareh-Geba",
+          "description": "A location from which the Israelites led an ambush against Gibeah."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Gibeah.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "natural area"
+    ],
+    "acai": [
+      "natural area"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.82378102460309",
+      "lon": "35.23100936128631"
+    },
+    "vizbible": {
+      "lat": "31.82378102460309",
+      "lon": "35.23100936128631"
+    }
+  },
+  "key_references": [
+    "07020033"
+  ],
+  "references": [
+    "07020033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070200330132"
+      ]
+    ]
+  }
+}

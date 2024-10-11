@@ -1,0 +1,38 @@
+{
+  "id": "place:Gamala",
+  "primary_id": "place:Gamala",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gamala",
+          "gloss": "Gamala",
+          "description": "An ancient Jewish city in the Golan Heights."
+        }
+      ],
+      "preferred_label": "Gamala",
+      "alternate_labels": [
+        "Gamla"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.9014",
+      "lon": "35.73789"
+    }
+  }
+}

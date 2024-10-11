@@ -1,0 +1,99 @@
+{
+  "id": "place:Addar",
+  "primary_id": "place:Addar",
+  "alternate_sources": {
+    "aquifer": [
+      "3371|Addar (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aaee94d"
+    ],
+    "ubsdbh": [
+      "000147001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2561978"
+    ],
+    "tipnr": [
+      "Addar@Jos.15.3"
+    ],
+    "vizbible": [
+      "recG78okmLuWjXoVq"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000147001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Addar",
+      "alternate_labels": [
+        "Adar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Addar",
+          "gloss": "Addar",
+          "description": "A town on the southern border of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Hazar-addar"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַדָּר",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.9522",
+      "lon": "34.7187"
+    },
+    "recogito": {
+      "lat": "30.14111",
+      "lon": "-8.37221"
+    },
+    "vizbible": {
+      "lat": "30.9522",
+      "lon": "34.7187"
+    }
+  },
+  "key_references": [
+    "06015003"
+  ],
+  "references": [
+    "06015003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150030151"
+      ]
+    ]
+  }
+}

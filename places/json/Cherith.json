@@ -1,0 +1,93 @@
+{
+  "id": "place:Cherith",
+  "primary_id": "place:Cherith",
+  "alternate_sources": {
+    "aquifer": [
+      "4509|Cherith, the Brook|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003427001001000"
+    ],
+    "tipnr": [
+      "Cherith@1Ki.17.3-"
+    ],
+    "vizbible": [
+      "recWpPF023aprpqG2"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003427001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cherith",
+      "alternate_labels": [
+        "Kerith Brook",
+        "Kerith Ravine",
+        "Wadi Kerith",
+        "Wadi Cherith",
+        "Brook Cherith",
+        "Kerith Valley"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cherith",
+          "gloss": "Cherith",
+          "description": "A wadi east of the Jordan River where the prophet Elijah hid from king Ahab and was fed by ravens (1KI 17:2–7)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כְּרִית"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "wadi",
+      "settlement"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.309099",
+      "lon": "35.559900"
+    },
+    "vizbible": {
+      "lat": "32.309099",
+      "lon": "35.559900"
+    }
+  },
+  "key_references": [
+    "11017002"
+  ],
+  "references": [
+    "11017003",
+    "11017005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110170030081"
+      ],
+      [
+        "o110170050081"
+      ]
+    ]
+  }
+}

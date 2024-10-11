@@ -1,0 +1,65 @@
+{
+  "id": "person:Anath",
+  "primary_id": "person:Anath",
+  "alternate_sources": {
+    "aquifer": [
+      "3600|Anath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005570001001000"
+    ],
+    "tipnr": [
+      "Anath@Jdg.3.31-"
+    ],
+    "vizbible": [
+      "rec6clcn668WF9WdU"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Shamgar"
+  ],
+  "ubsdbh": [
+    "005570001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anath",
+          "article": "person:Anath",
+          "description": "A man living before Israel's Monarchy, father of Shamgar, mentioned in Judges 3:31."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֲנָתֹות",
+      "עֲנָתוֹת"
+    ]
+  },
+  "key_references": [
+    "07003031",
+    "07005006"
+  ],
+  "references": [
+    "07003031",
+    "07005006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070030310051"
+      ],
+      [
+        "o070050060041"
+      ]
+    ]
+  }
+}

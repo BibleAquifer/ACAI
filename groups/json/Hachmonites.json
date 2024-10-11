@@ -1,0 +1,52 @@
+{
+  "id": "group:Hachmonites",
+  "primary_id": "group:Hachmonites",
+  "alternate_sources": {
+    "tipnr": [
+      "Hachmonites@2Sa.23.8-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Hachmoni",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hachmonites",
+      "alternate_labels": [
+        "Hachmonite",
+        "Hakmonite",
+        "Tahchemonite",
+        "Tachmonite",
+        "Tahkemonite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hachmonites",
+          "article": "group:Hachmonites",
+          "description": "People descended from Hachmoni."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023008",
+    "13011011"
+  ],
+  "references": [
+    "10023008",
+    "13011011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230080081"
+      ],
+      [
+        "o130110110081"
+      ]
+    ]
+  }
+}

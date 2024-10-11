@@ -1,0 +1,81 @@
+{
+  "id": "person:Sidon",
+  "primary_id": "person:Sidon",
+  "alternate_sources": {
+    "aquifer": [
+      "8481|Sidon (Person)|TyndaleBibleDictionary",
+      "8482|Sidon (Place), Sidonian|TyndaleBibleDictionary",
+      "27090|Sidon|UWTranslationWords",
+      "132421|Tyre and Sidon|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "006185001001000"
+    ],
+    "tipnr": [
+      "Sidon@Gen.10.15-1Ch"
+    ],
+    "vizbible": [
+      "recVcQCNMknBd4BZF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Canaan",
+  "siblings": [
+    "person:Heth",
+    "group:Jebusites",
+    "group:Amorites",
+    "group:Girgashites",
+    "group:Hivites",
+    "group:Arkites",
+    "group:Sinites",
+    "group:Arvadites",
+    "group:Zemarites",
+    "group:Hamathites"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "006185001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sidon",
+      "alternate_labels": [
+        "Zidon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sidon",
+          "article": "person:Sidon",
+          "description": "Sidon, also known as Zidon, was a Canaanite man living at the time of the patriarchs, first mentioned in Genesis 10:15 as the son of Canaan and the brother of various tribes."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צִידֹנִי"
+    ]
+  },
+  "key_references": [
+    "01010015",
+    "13001013"
+  ],
+  "references": [
+    "01010015",
+    "13001013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100150041"
+      ],
+      [
+        "o130010130041"
+      ]
+    ]
+  }
+}

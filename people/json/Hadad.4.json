@@ -1,0 +1,74 @@
+{
+  "id": "person:Hadad.4",
+  "primary_id": "person:Hadad.4",
+  "alternate_sources": {
+    "aquifer": [
+      "5569|Hadad|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hadar|Hadad@Gen.25.15-1Ch",
+      "Hadad@Gen.25.15-1Ch"
+    ],
+    "vizbible": [
+      "recbwSV1MGyOdVFN7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Massa",
+    "person:Tema",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Kedemah",
+    "person:Mahalath"
+  ],
+  "tribe": "group:Arabia",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadad (Genesis 25:15)",
+      "alternate_labels": [
+        "Hadar",
+        "in Ben Chaim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hadad (Genesis 25:15)",
+          "article": "person:Hadad.4",
+          "description": "Hadad, also known as Hadar in Ben Chaim, was a son of Ishmael and brother to many siblings, living during the time of the patriarchs as mentioned in Genesis 25:15."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hadar.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01025015",
+    "13001030"
+  ],
+  "references": [
+    "01025015",
+    "13001030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250150011"
+      ],
+      [
+        "o130010300041"
+      ]
+    ]
+  }
+}

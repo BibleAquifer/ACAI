@@ -1,0 +1,68 @@
+{
+  "id": "deity:Zeus",
+  "primary_id": "deity:Zeus",
+  "alternate_sources": {
+    "aquifer": [
+      "9208|Zeus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.138"
+    ],
+    "tipnr": [
+      "Zeus@Act.14.12-"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdgnt": [
+    "93.138"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zeus",
+      "alternate_labels": [
+        "Jupiter"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zeus",
+          "article": "deity:Zeus",
+          "description": "The primary god of the Greeks. In Acts 14:12, Barnabas is mistakenly identified as Zeus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ζεύς"
+    ]
+  },
+  "key_references": [
+    "44014012",
+    "44014013"
+  ],
+  "references": [
+    "44014012",
+    "44014013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44014012005"
+      ],
+      [
+        "n44014013005"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44014013007"
+      ]
+    ]
+  }
+}

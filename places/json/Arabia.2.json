@@ -1,0 +1,41 @@
+{
+  "id": "place:Arabia.2",
+  "primary_id": "place:Arabia.2",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Arabia.2",
+          "gloss": "Arabia Petraea",
+          "description": "The northwestern Arabian Peninsula, Sinai Peninsula, and the former territory of Nabatea; Paul traveled here after his conversion (Galatians 1:17)."
+        }
+      ],
+      "preferred_label": "Arabia Petraea",
+      "alternate_labels": [
+        "Arabia Petrea",
+        "Arabia"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Egypt",
+    "place:Judea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "48001017",
+    "48004025"
+  ]
+}

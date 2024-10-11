@@ -1,0 +1,38 @@
+{
+  "id": "place:Vienne",
+  "primary_id": "place:Vienne",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Vienne",
+          "gloss": "Vienne",
+          "description": "A town south of Lugdunum."
+        }
+      ],
+      "preferred_label": "Vienne"
+    }
+  },
+  "nearby_places": [
+    "place:Lugdunum"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "45.52542",
+      "lon": "4.87445"
+    }
+  }
+}

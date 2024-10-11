@@ -1,0 +1,61 @@
+{
+  "id": "person:Neri",
+  "primary_id": "person:Neri",
+  "alternate_sources": {
+    "aquifer": [
+      "7367|Neri|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.277"
+    ],
+    "tipnr": [
+      "Neri@Luk.3.27"
+    ],
+    "vizbible": [
+      "recvcyxQJZhgpZHOW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Melchi.2",
+  "offspring": [
+    "person:Shealtiel"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.277"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Neri",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Neri",
+          "article": "person:Neri",
+          "description": "Son of Melchi and the father of Shealtiel in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Νηρί"
+    ]
+  },
+  "key_references": [
+    "42003027"
+  ],
+  "references": [
+    "42003027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003027010"
+      ]
+    ]
+  }
+}

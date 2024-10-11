@@ -1,0 +1,73 @@
+{
+  "id": "place:Ge-harashim",
+  "primary_id": "place:Ge-harashim",
+  "alternate_sources": {
+    "aquifer": [
+      "5404|Ge-Harashim|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ge-harashim@1Ch.4.14-Neh"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ge-harashim",
+      "alternate_labels": [
+        "Craftsmen’s Valley",
+        "valley of Charashim",
+        "Valley of the Craftsmen",
+        "Valley of Craftsmen"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ge-harashim",
+          "gloss": "Ge-Harashim",
+          "description": "A location on the coastal plain, where craftsmen settled; founded by a man named Joab, son of Seraiah, of the tribe of Judah."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "valley",
+      "special"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "key_references": [
+    "13004014",
+    "16011035"
+  ],
+  "references": [
+    "13004014",
+    "16011035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040140101",
+        "o130040140111"
+      ],
+      [
+        "o160110350031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130040140141"
+      ]
+    ]
+  }
+}

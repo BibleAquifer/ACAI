@@ -1,0 +1,58 @@
+{
+  "id": "person:Ammihur",
+  "primary_id": "person:Ammihud.4",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005495001004000"
+    ],
+    "tipnr": [
+      "Ammihur|Ammihud@2Sa.13.37"
+    ],
+    "vizbible": [
+      "rec7PbHkpE6zoFtYB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Talmai.2"
+  ],
+  "ubsdbh": [
+    "005495001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ammihur (Ammihud)",
+      "alternate_labels": [
+        "Ammihud (2 Samuel 13:37)",
+        "Ammihud"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ammihud (2 Samuel 13:37)",
+          "article": "person:Ammihur",
+          "description": "A man living during the time of Israel's united kingdom, father of Talmai, mentioned in 2 Samuel 13:37."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ammihud.4"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10013037"
+  ],
+  "references": [
+    "10013037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100130370081"
+      ]
+    ]
+  }
+}

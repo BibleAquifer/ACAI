@@ -1,0 +1,64 @@
+{
+  "id": "person:Eliel.9",
+  "primary_id": "person:Elihu",
+  "alternate_sources": {
+    "aquifer": [
+      "5005|Eliel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000410001002000"
+    ],
+    "tipnr": [
+      "Eliel|Elihu@1Sa.1.1-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Tohu",
+  "offspring": [
+    "person:Jeroham"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000410001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliel (Elihu)",
+      "alternate_labels": [
+        "Elihu"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elihu",
+          "article": "person:Eliel.9",
+          "description": "Eliel, also known as Elihu or Eliab, was a Levite and ancestor of Samuel and Heman, mentioned in 1 Samuel 1:1 and 1 Chronicles 6:27, 34."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Elihu"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיאֵל"
+    ]
+  },
+  "key_references": [
+    "13006019"
+  ],
+  "references": [
+    "13006019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060190061"
+      ]
+    ]
+  }
+}

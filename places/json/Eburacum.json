@@ -1,0 +1,39 @@
+{
+  "id": "place:Eburacum",
+  "primary_id": "place:Eburacum",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eburacum",
+          "gloss": "Eburacum",
+          "description": "A city in the Roman province of Britannia; modern-day York."
+        }
+      ],
+      "preferred_label": "Eburacum",
+      "alternate_labels": [
+        "Eboracum",
+        "York"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "53.95767",
+      "lon": "-1.0823"
+    }
+  }
+}

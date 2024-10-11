@@ -1,0 +1,103 @@
+{
+  "id": "place:Hades",
+  "primary_id": "place:Hell",
+  "alternate_sources": {
+    "aquifer": [
+      "5575|Hades|TyndaleBibleDictionary",
+      "26667|Hades|UWTranslationWords",
+      "280069|hades|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "1.19",
+      "12.50",
+      "23.108"
+    ],
+    "tipnr": [
+      "Hades|Hell@Gen.37.35-Rev"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "1.19",
+    "12.50",
+    "23.108"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hades (Hell)",
+      "alternate_labels": [
+        "Hell"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Hell"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ᾅδης"
+    ]
+  },
+  "references": [
+    "40011023",
+    "40016018",
+    "42010015",
+    "42016023",
+    "44002027",
+    "44002031",
+    "66001018",
+    "66006008",
+    "66020013",
+    "66020014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40011023009"
+      ],
+      [
+        "n40016018020"
+      ],
+      [
+        "n42010015010"
+      ],
+      [
+        "n42016023004"
+      ],
+      [
+        "n44002027008"
+      ],
+      [
+        "n44002031012"
+      ],
+      [
+        "n66001018024"
+      ],
+      [
+        "n66006008018"
+      ],
+      [
+        "n66020013015"
+      ],
+      [
+        "n66020014006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42016026022"
+      ],
+      [
+        "n42016028016"
+      ],
+      [
+        "n66020013021"
+      ]
+    ]
+  }
+}

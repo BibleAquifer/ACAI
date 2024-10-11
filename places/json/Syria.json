@@ -1,0 +1,81 @@
+{
+  "id": "place:Syria",
+  "primary_id": "place:Edom",
+  "alternate_sources": {
+    "aquifer": [
+      "8685|Syria, Syrians|TyndaleBibleDictionary",
+      "27135|Syria|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "000695001002000"
+    ],
+    "tipnr": [
+      "Syria|Edom@Gen.36.40-Mal"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000695001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Syria",
+      "alternate_labels": [
+        "Edom"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Syria.2",
+          "gloss": "Syria",
+          "description": "A region to the north and east of Palestine; known as Aram in the Old Testament."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Edom",
+    "place:Aram"
+  ],
+  "tribal_area": "group:Edom",
+  "associated_places": [
+    "place:Mesopotamia",
+    "place:Cappadocia",
+    "place:Cilicia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "nation",
+      "region"
+    ]
+  },
+  "key_references": [
+    "40004024",
+    "44015023",
+    "42002002"
+  ],
+  "references": [
+    "10008012",
+    "10008013",
+    "14020002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080120012"
+      ],
+      [
+        "o100080130071"
+      ],
+      [
+        "o140200020112"
+      ]
+    ]
+  }
+}

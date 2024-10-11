@@ -1,0 +1,134 @@
+{
+  "id": "place:Netophah",
+  "primary_id": "place:Netophah",
+  "alternate_sources": {
+    "aquifer": [
+      "7374|Netophah, Netophathite|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a9ad5ae"
+    ],
+    "tipnr": [
+      "Netophah@2Sa.23.28-Jer"
+    ],
+    "vizbible": [
+      "rec81kc1ekka6u5Ac"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6999828"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Netophah",
+      "alternate_labels": [
+        "Netophathite",
+        "Netophathites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Netophah",
+          "gloss": "Netophah",
+          "description": "A town in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Netophah"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.735465",
+      "lon": "35.220503"
+    },
+    "vizbible": {
+      "lat": "31.735465",
+      "lon": "35.220503"
+    }
+  },
+  "key_references": [
+    "15002022",
+    "16007026"
+  ],
+  "references": [
+    "10023028",
+    "10023029",
+    "12025023",
+    "13002054",
+    "13009016",
+    "13011030",
+    "13027013",
+    "13027015",
+    "15002022",
+    "16007026",
+    "16012028",
+    "24040008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230280042"
+      ],
+      [
+        "o100230290042"
+      ],
+      [
+        "o120250230262"
+      ],
+      [
+        "o130020540052"
+      ],
+      [
+        "o130090160151"
+      ],
+      [
+        "o130110300022"
+      ],
+      [
+        "o130110300062"
+      ],
+      [
+        "o130270130052"
+      ],
+      [
+        "o130270150072"
+      ],
+      [
+        "o150020220021"
+      ],
+      [
+        "o160070260042"
+      ],
+      [
+        "o160120280101"
+      ],
+      [
+        "o240400080182"
+      ]
+    ]
+  }
+}

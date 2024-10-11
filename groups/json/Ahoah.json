@@ -1,0 +1,73 @@
+{
+  "id": "group:Ahoah",
+  "primary_id": "group:Ahoah",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000250001001000"
+    ],
+    "tipnr": [
+      "Ahoah@2Sa.23.9-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Ahoah",
+  "ubsdbh": [
+    "000250001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahohites",
+      "alternate_labels": [
+        "Ahoah",
+        "Ahohite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahohites",
+          "article": "group:Ahoah",
+          "description": "People descended from Ahoah, a descendant of Benjamin, a son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחֹוחִי",
+      "אֲחוֹחִי"
+    ]
+  },
+  "key_references": [
+    "10023009",
+    "13027004"
+  ],
+  "references": [
+    "10023009",
+    "10023028",
+    "13011012",
+    "13011029",
+    "13027004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230090081"
+      ],
+      [
+        "o100230280022"
+      ],
+      [
+        "o130110120052"
+      ],
+      [
+        "o130110290042"
+      ],
+      [
+        "o130270040062"
+      ]
+    ]
+  }
+}

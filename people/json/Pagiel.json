@@ -1,0 +1,73 @@
+{
+  "id": "person:Pagiel",
+  "primary_id": "person:Pagiel",
+  "alternate_sources": {
+    "aquifer": [
+      "7550|Pagiel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005776001001000"
+    ],
+    "tipnr": [
+      "Pagiel@Num.1.13-"
+    ],
+    "vizbible": [
+      "recot3bGcKDS0NXBv"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ochran",
+  "roles": [
+    "Leader"
+  ],
+  "ubsdbh": [
+    "005776001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pagiel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pagiel",
+          "article": "person:Pagiel",
+          "description": "Son of Ochran and tribal leader of Asher."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04001013",
+    "04007072",
+    "04010026"
+  ],
+  "references": [
+    "04001013",
+    "04002027",
+    "04007072",
+    "04007077",
+    "04010026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010130021"
+      ],
+      [
+        "o040020270081"
+      ],
+      [
+        "o040070720081"
+      ],
+      [
+        "o040070770151"
+      ],
+      [
+        "o040100260061"
+      ]
+    ]
+  }
+}

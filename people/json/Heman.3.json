@@ -1,0 +1,140 @@
+{
+  "id": "person:Heman.3",
+  "primary_id": "person:Heman.3",
+  "alternate_sources": {
+    "aquifer": [
+      "5794|Heman|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001812001003000"
+    ],
+    "tipnr": [
+      "Heman@1Ch.6.33-2Ch"
+    ],
+    "vizbible": [
+      "recy4HxEvjwgHmL9G"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joel",
+  "offspring": [
+    "person:Bukkiah",
+    "person:Mattaniah.2",
+    "person:Uzziel.4",
+    "person:Shebuel.2",
+    "person:Jerimoth.4",
+    "person:Hananiah.3",
+    "person:Hanani.2",
+    "person:Eliathah",
+    "person:Giddalti",
+    "person:Romamti-ezer",
+    "person:Joshbekashah",
+    "person:Mallothi",
+    "person:Hothir",
+    "person:Mahazioth",
+    "person:Jehuel",
+    "person:Shimei.13"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "001812001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Heman",
+          "article": "person:Heman.3",
+          "description": "A son of Joel and liturgical musical directer from the tribe of Levi who lived during the time of King David. He was called the king's seer."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֵימָן"
+    ]
+  },
+  "key_references": [
+    "13015017",
+    "13025001",
+    "13025004",
+    "13025005",
+    "13025006"
+  ],
+  "references": [
+    "13006018",
+    "13015017",
+    "13015019",
+    "13016041",
+    "13016042",
+    "13025001",
+    "13025004",
+    "13025005",
+    "13025006",
+    "14005012",
+    "14029014",
+    "14035015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060180061"
+      ],
+      [
+        "o130150170041"
+      ],
+      [
+        "o130150190021"
+      ],
+      [
+        "o130160410021"
+      ],
+      [
+        "o130160420021"
+      ],
+      [
+        "o130250010082"
+      ],
+      [
+        "o130250040012"
+      ],
+      [
+        "o130250040031"
+      ],
+      [
+        "o130250050042"
+      ],
+      [
+        "o130250050132"
+      ],
+      [
+        "o130250060202"
+      ],
+      [
+        "o140050120052"
+      ],
+      [
+        "o140290140031"
+      ],
+      [
+        "o140350150092"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130060180072"
+      ],
+      [
+        "o130250080012"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "person:Mahlah",
+  "primary_id": "person:Mahlah",
+  "alternate_sources": {
+    "aquifer": [
+      "6875|Mahlah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003876001001000"
+    ],
+    "tipnr": [
+      "Mahlah@Num.26.33-Jos"
+    ],
+    "vizbible": [
+      "rect960bEp1eeQ9oy"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Zelophehad",
+  "siblings": [
+    "person:Noah.2",
+    "person:Hoglah",
+    "person:Milcah.2",
+    "person:Tirzah"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "003876001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mahlah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mahlah",
+          "article": "person:Mahlah",
+          "description": "A daughter of Zelophehad from the tribe of Manasseh, mentioned during the time of the Egyptian slavery and wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַחְלָה"
+    ]
+  },
+  "key_references": [
+    "04026033",
+    "04027001",
+    "06017003"
+  ],
+  "references": [
+    "04026033",
+    "04027001",
+    "04036011",
+    "06017003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260330141"
+      ],
+      [
+        "o040270010191"
+      ],
+      [
+        "o040360110021"
+      ],
+      [
+        "o060170030201"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040360120061"
+      ]
+    ]
+  }
+}

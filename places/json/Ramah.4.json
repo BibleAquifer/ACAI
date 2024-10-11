@@ -1,0 +1,78 @@
+{
+  "id": "place:Ramah.4",
+  "primary_id": "place:Ramah.4",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006817002004000"
+    ],
+    "tipnr": [
+      "Ramah@Jos.19.36"
+    ],
+    "vizbible": [
+      "rec1krwAWclcQ8EeG"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006817002004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ramah (of Asher)",
+      "alternate_labels": [
+        "Ramah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ramah.2",
+          "gloss": "Ramah (of Asher)",
+          "description": "A town in the territory of Asher."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.93901",
+      "lon": "35.368123"
+    },
+    "vizbible": {
+      "lat": "32.93901",
+      "lon": "35.368123"
+    }
+  },
+  "key_references": [
+    "06019029"
+  ],
+  "references": [
+    "06019036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190360023"
+      ]
+    ]
+  }
+}

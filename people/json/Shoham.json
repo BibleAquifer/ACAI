@@ -1,0 +1,58 @@
+{
+  "id": "person:Shoham",
+  "primary_id": "person:Shoham",
+  "alternate_sources": {
+    "aquifer": [
+      "8445|Shoham|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007220002001000"
+    ],
+    "tipnr": [
+      "Shoham@1Ch.24.27"
+    ],
+    "vizbible": [
+      "reczMrWxghuArzl4Y"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jaaziah",
+  "siblings": [
+    "person:Beno",
+    "person:Zaccur.3",
+    "person:Ibri"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "007220002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shoham",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shoham",
+          "article": "person:Shoham",
+          "description": "Shoham was a Levite living during the time of the divided kingdom, only mentioned in 1 Chronicles 24:27."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13024027"
+  ],
+  "references": [
+    "13024027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130240270052"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "place:Smyrna",
+  "primary_id": "place:Smyrna",
+  "alternate_sources": {
+    "aquifer": [
+      "8547|Smyrna|TyndaleBibleDictionary",
+      "132120|Smyrna|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a2e65fb"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/550893",
+      "http://pleiades.stoa.org/places/550893"
+    ],
+    "tipnr": [
+      "Smyrna@Rev.1.11-"
+    ],
+    "vizbible": [
+      "recxHVELpTN1EwU0P"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1379299"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Smyrna",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Smyrna",
+          "gloss": "Smyrna",
+          "description": "A city on the west coast of Asia Minor; one of the seven cities addressed in Revelation."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Ephesus",
+    "place:Sardis"
+  ],
+  "subregion_of": [
+    "place:Lydia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "38.45196038",
+      "lon": "27.16192105"
+    },
+    "recogito": {
+      "lat": "38.41905",
+      "lon": "27.1383"
+    },
+    "vizbible": {
+      "lat": "38.45196038",
+      "lon": "27.16192105"
+    },
+    "biblica-maps": {
+      "lat": "38.4172",
+      "lon": "27.14139"
+    }
+  },
+  "key_references": [
+    "66001011",
+    "66002008"
+  ],
+  "references": [
+    "66001011",
+    "66002008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n66001011016"
+      ],
+      [
+        "n66002008006"
+      ]
+    ]
+  }
+}

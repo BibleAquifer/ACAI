@@ -1,0 +1,90 @@
+{
+  "id": "place:Anem",
+  "primary_id": "place:En-gannim.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3607|Anem|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005551001001000"
+    ],
+    "tipnr": [
+      "Anem|En-gannim@Jos.19.21-1Ch"
+    ],
+    "vizbible": [
+      "reccHbpnFEJfJBtpy"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005551001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anem",
+      "alternate_labels": [
+        "En-Gannim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Anem",
+          "gloss": "Anem",
+          "description": "A Levitical town in the territory of Issachar, assigned to the clan of Gershon; also known as En-Gannim."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:En-gannim.2"
+  ],
+  "tribal_area": "group:Issachar",
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֲנָמִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.46349906",
+      "lon": "35.30368319"
+    },
+    "vizbible": {
+      "lat": "32.46349906",
+      "lon": "35.30368319"
+    }
+  },
+  "key_references": [
+    "13006058"
+  ],
+  "references": [
+    "13006058"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060580061"
+      ]
+    ]
+  }
+}

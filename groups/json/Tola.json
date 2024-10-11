@@ -1,0 +1,49 @@
+{
+  "id": "group:Tola",
+  "primary_id": "group:Tola",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007747001001000"
+    ],
+    "tipnr": [
+      "Tola@Gen.46.13-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Tola",
+  "ubsdbh": [
+    "007747001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tolaites",
+      "alternate_labels": [
+        "Tola"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tolaites",
+          "article": "group:Tola",
+          "description": "People descended from Tola."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026023"
+  ],
+  "references": [
+    "04026023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260230062"
+      ]
+    ]
+  }
+}

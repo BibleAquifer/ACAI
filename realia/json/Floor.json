@@ -1,0 +1,81 @@
+{
+  "id": "realia:Floor",
+  "primary_id": "realia:Floor",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006603001001000"
+    ],
+    "ubsrealia": [
+      "realia:3.1.6.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006603001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Floor",
+      "alternate_labels": [
+        "Bottom"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Floor",
+          "article": "realia:Floor",
+          "description": "The flat surface at the bottom of a room or structure where people stand or objects rest."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קַרְקַע"
+    ]
+  },
+  "key_references": [
+    "11006015",
+    "11006030",
+    "30009003"
+  ],
+  "references": [
+    "04005017",
+    "11006015",
+    "11006016",
+    "11006030",
+    "11007007",
+    "30009003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040050170112"
+      ],
+      [
+        "o110060150082"
+      ],
+      [
+        "o110060150181"
+      ],
+      [
+        "o110060160112"
+      ],
+      [
+        "o110060300021"
+      ],
+      [
+        "o110070070113"
+      ],
+      [
+        "o110070070132"
+      ],
+      [
+        "o300090030122"
+      ]
+    ]
+  }
+}

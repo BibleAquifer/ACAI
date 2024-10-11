@@ -1,0 +1,107 @@
+{
+  "id": "place:Aroer",
+  "primary_id": "place:Aroer",
+  "alternate_sources": {
+    "aquifer": [
+      "3759|Aroer|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Aroer@Num.32.34-Isa"
+    ],
+    "vizbible": [
+      "recX7O8Nba9reBG0k"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aroer (of Gad)",
+      "alternate_labels": [
+        "Aroerite",
+        "Aroer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aroer",
+          "gloss": "Aroer (of Gad)",
+          "description": "A town situated east of Rabbah in the territory of Gad."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Aroer"
+  ],
+  "tribal_area": "group:Gad",
+  "nearby_places": [
+    "place:Rabbah"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfGad"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.9617",
+      "lon": "35.9115"
+    },
+    "vizbible": {
+      "lat": "31.9617",
+      "lon": "35.9115"
+    }
+  },
+  "key_references": [
+    "06013025"
+  ],
+  "references": [
+    "04032034",
+    "06013025",
+    "07011033",
+    "10024005",
+    "13005008",
+    "13011044",
+    "23017002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320340091"
+      ],
+      [
+        "o060130250131"
+      ],
+      [
+        "o070110330022"
+      ],
+      [
+        "o100240050052"
+      ],
+      [
+        "o130050080102"
+      ],
+      [
+        "o130110440082"
+      ],
+      [
+        "o230170020031"
+      ]
+    ]
+  }
+}

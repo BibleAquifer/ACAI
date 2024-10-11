@@ -1,0 +1,100 @@
+{
+  "id": "place:Pi-hahiroth",
+  "primary_id": "place:Pi-hahiroth",
+  "alternate_sources": {
+    "aquifer": [
+      "7733|Pi-Hahiroth|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ababfd2"
+    ],
+    "tipnr": [
+      "Pi-hahiroth@Exo.14.2-Num"
+    ],
+    "vizbible": [
+      "recoDAncgjwP9jZVE"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2776756"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pi-hahiroth",
+      "alternate_labels": [
+        "Hahiroth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pi-hahiroth",
+          "gloss": "Pi-Hahiroth",
+          "description": "A location in eastern Egypt, east of Baal-Zephon and close to Migdol, where the Israelites encamped after turning back from Etham on their way from Egypt to Canaan and crossed the Sea of Reeds."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Baal-zephon",
+    "place:Migdol"
+  ],
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "natural area",
+      "settlement",
+      "mountain"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.94658",
+      "lon": "32.425144"
+    },
+    "vizbible": {
+      "lat": "29.94658",
+      "lon": "32.425144"
+    }
+  },
+  "key_references": [
+    "04033007",
+    "02014001"
+  ],
+  "references": [
+    "02014002",
+    "02014009",
+    "04033007",
+    "04033008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020140020081",
+        "o020140020091"
+      ],
+      [
+        "o020140090161",
+        "o020140090171"
+      ],
+      [
+        "o040330070051",
+        "o040330070061"
+      ],
+      [
+        "o040330080032"
+      ]
+    ]
+  }
+}

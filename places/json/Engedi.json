@@ -1,0 +1,149 @@
+{
+  "id": "place:Engedi",
+  "primary_id": "place:Engedi",
+  "alternate_sources": {
+    "aquifer": [
+      "5082|En-Gedi|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a51df0e"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28342"
+    ],
+    "tipnr": [
+      "Hazazon-tamar|Engedi@Jos.15.62-Ezk",
+      "Engedi@Jos.15.62-Ezk"
+    ],
+    "vizbible": [
+      "rec47z6GarT41J5Vh"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1011544"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "En-gedi",
+      "alternate_labels": [
+        "Wilderness of En Gedi",
+        "Hazezon-Tamar",
+        "Hazazon-tamar",
+        "Desert of En Gedi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Engedi",
+          "gloss": "En-Gedi",
+          "description": "An oasis in the wilderness of the territory of Judah, on the western shore of the Dead Sea; also known as Hazezon-Tamar."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Hazazon-tamar"
+  ],
+  "referred_to_as": [
+    "place:Hazazon-tamar"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.46152536",
+      "lon": "35.39241108"
+    },
+    "recogito": {
+      "lat": "31.46017",
+      "lon": "35.38899"
+    },
+    "vizbible": {
+      "lat": "31.46017",
+      "lon": "35.38899"
+    }
+  },
+  "key_references": [
+    "09023039",
+    "09024001"
+  ],
+  "references": [
+    "01014007",
+    "06015062",
+    "09024001",
+    "09024002",
+    "14020002",
+    "22001014",
+    "26047010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140070172",
+        "o010140070181"
+      ],
+      [
+        "o060150620042",
+        "o060150620051"
+      ],
+      [
+        "o090240010061",
+        "o090240010071"
+      ],
+      [
+        "o090240020131",
+        "o090240020141"
+      ],
+      [
+        "o140200020132",
+        "o140200020141"
+      ],
+      [
+        "o140200020161",
+        "o140200020171"
+      ],
+      [
+        "o220010140061",
+        "o220010140071"
+      ],
+      [
+        "o260470100062",
+        "o260470100071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140200020151"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260470100131"
+      ]
+    ]
+  }
+}

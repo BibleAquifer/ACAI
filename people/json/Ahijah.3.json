@@ -1,0 +1,81 @@
+{
+  "id": "person:Ahijah.3",
+  "primary_id": "person:Ahijah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3444|Ahijah|TyndaleBibleDictionary",
+      "26300|Ahijah|UWTranslationWords",
+      "132423|Ahijah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000265001004000"
+    ],
+    "tipnr": [
+      "Ahijah@1Ki.15.27-2Ki"
+    ],
+    "vizbible": [
+      "recnZlhSisoHWjDCn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Baasha"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "000265001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahijah (Father of Baasha)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahijah (Father of Baasha)",
+          "article": "person:Ahijah.3",
+          "description": "The father of Baasha, third king of the northern kingdom of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִיָּה",
+      "אֲחִיָּ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "11015027",
+    "11015033",
+    "11021022",
+    "12009009"
+  ],
+  "references": [
+    "11015027",
+    "11015033",
+    "11021022",
+    "12009009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110150270051"
+      ],
+      [
+        "o110150330091"
+      ],
+      [
+        "o110210220111"
+      ],
+      [
+        "o120090090121"
+      ]
+    ]
+  }
+}

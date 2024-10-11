@@ -1,0 +1,94 @@
+{
+  "id": "person:Bani.8",
+  "primary_id": "person:Bani.8",
+  "alternate_sources": {
+    "aquifer": [
+      "3989|Bani|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Bani@Neh.8.7-",
+      "Binnui|Bani@Neh.8.7-"
+    ],
+    "vizbible": [
+      "reck3XWLcJs6QCwRM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Priest",
+    "Scribe"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bani",
+      "alternate_labels": [
+        "Binnui"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bani",
+          "article": "person:Bani.8",
+          "description": "A Levite living at the time of exile and return of the the Israelites. He was also called Binnui."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Binnui"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16008007",
+    "16009004",
+    "16009005",
+    "16012008"
+  ],
+  "references": [
+    "16008007",
+    "16009004",
+    "16009005",
+    "16010010",
+    "16012008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160080070022"
+      ],
+      [
+        "o160090040062"
+      ],
+      [
+        "o160090040111"
+      ],
+      [
+        "o160090050051"
+      ],
+      [
+        "o160100100051"
+      ],
+      [
+        "o160120080031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o160080080012"
+      ],
+      [
+        "o160080080062"
+      ],
+      [
+        "o160090040132"
+      ],
+      [
+        "o160090040132"
+      ]
+    ]
+  }
+}

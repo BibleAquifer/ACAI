@@ -1,0 +1,63 @@
+{
+  "id": "person:Beeri",
+  "primary_id": "person:Beeri",
+  "alternate_sources": {
+    "aquifer": [
+      "4067|Beeri|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000822001001000"
+    ],
+    "tipnr": [
+      "Beeri@Gen.26.34"
+    ],
+    "vizbible": [
+      "recXt9GL2JnxTUDe0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Anah"
+  ],
+  "offspring": [
+    "person:Judith"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "000822001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beeri",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Beeri",
+          "article": "person:Beeri",
+          "description": "A Hittite man living during the time of the patriarchs, father of Judith, who married Esau, mentioned in Genesis 26:34."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בְּאֵרִי"
+    ]
+  },
+  "key_references": [
+    "01026034"
+  ],
+  "references": [
+    "01026034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010260340111"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "realia:Pinnacle",
+  "primary_id": "realia:Pinnacle",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.53"
+    ],
+    "ubsrealia": [
+      "realia:3.14.1.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.53"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pinnacle",
+      "alternate_labels": [
+        "Summit"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pinnacle",
+          "article": "realia:Pinnacle",
+          "description": "The tip or highest point of a building."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "πτερύγιον"
+    ]
+  },
+  "key_references": [
+    "40004005",
+    "42004009"
+  ],
+  "references": [
+    "40004005",
+    "42004009"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40004005015"
+      ],
+      [
+        "n42004009010"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42004009023"
+      ]
+    ]
+  }
+}

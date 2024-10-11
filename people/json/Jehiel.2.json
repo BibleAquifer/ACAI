@@ -1,0 +1,81 @@
+{
+  "id": "person:Jehiel.2",
+  "primary_id": "person:Jehiel.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6269|Jehiel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jehieli|Jehiel@1Ch.23.8-",
+      "Jehiel@1Ch.23.8-"
+    ],
+    "vizbible": [
+      "recicYomEa5bVb2nd"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Libni",
+  "offspring": [
+    "person:Shelomoth.2",
+    "person:Haziel",
+    "person:Haran.2"
+  ],
+  "siblings": [
+    "person:Zetham",
+    "person:Joel.9"
+  ],
+  "roles": [
+    "Priest",
+    "Leader"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehiel",
+      "alternate_labels": [
+        "Jehieli"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehiel",
+          "article": "person:Jehiel.2",
+          "description": "A Gershonite chief from the tribe of Levi and priest chosen by King David to serve in the Temple. He was son of Ladan, and brother of Zetham and Joel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehieli"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13023008",
+    "13026021",
+    "13029008"
+  ],
+  "references": [
+    "13023008",
+    "13026021",
+    "13026022",
+    "13029008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230080041"
+      ],
+      [
+        "o130260210101"
+      ],
+      [
+        "o130260220021"
+      ],
+      [
+        "o130290080101"
+      ]
+    ]
+  }
+}

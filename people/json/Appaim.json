@@ -1,0 +1,69 @@
+{
+  "id": "person:Appaim",
+  "primary_id": "person:Appaim",
+  "alternate_sources": {
+    "aquifer": [
+      "3673|Appaim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000593001001000"
+    ],
+    "tipnr": [
+      "Appaim@1Ch.2.30-"
+    ],
+    "vizbible": [
+      "recsSnvyQjThaF5mF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nadab.3",
+  "offspring": [
+    "person:Ishi"
+  ],
+  "siblings": [
+    "person:Seled"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000593001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Appaim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Appaim",
+          "article": "person:Appaim",
+          "description": "A man from the tribe of Judah during the divided kingdom, descended from Jerahmeel and mentioned in 1 Chronicles 2:30."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַפַּיִם"
+    ]
+  },
+  "key_references": [
+    "13002030",
+    "13002031"
+  ],
+  "references": [
+    "13002030",
+    "13002031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020300042"
+      ],
+      [
+        "o130020310021"
+      ]
+    ]
+  }
+}

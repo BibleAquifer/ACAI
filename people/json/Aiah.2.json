@@ -1,0 +1,76 @@
+{
+  "id": "person:Aiah.2",
+  "primary_id": "person:Aiah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3473|Aiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000322002002000"
+    ],
+    "tipnr": [
+      "Aiah@2Sa.3.7-"
+    ],
+    "vizbible": [
+      "recazIeshCmx7u2Rf"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Rizpah"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "ubsdbh": [
+    "000322002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aiah (Father of Rizpah)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aiah (Father of Rizpah)",
+          "article": "person:Aiah.2",
+          "description": "Father of Saul's concubine Rizpah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַיָּה"
+    ]
+  },
+  "key_references": [
+    "10003007",
+    "10021008",
+    "10021011"
+  ],
+  "references": [
+    "10003007",
+    "10021008",
+    "10021010",
+    "10021011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100030070061"
+      ],
+      [
+        "o100210080081"
+      ],
+      [
+        "o100210100041"
+      ],
+      [
+        "o100210110081"
+      ]
+    ]
+  }
+}

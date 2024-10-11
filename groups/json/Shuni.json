@@ -1,0 +1,62 @@
+{
+  "id": "group:Shuni",
+  "primary_id": "group:Shuni",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007250001001000",
+      "007250001002000"
+    ],
+    "tipnr": [
+      "Shuni@Gen.46.16-Num"
+    ],
+    "vizbible": [
+      "recQ9D19NlBxM45q3"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Shuni",
+  "ubsdbh": [
+    "007250001001000",
+    "007250001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shunites",
+      "alternate_labels": [
+        "Shuni"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shunites",
+          "article": "group:Shuni",
+          "description": "People descended from Shuni."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שׁוּנֵם"
+    ]
+  },
+  "key_references": [
+    "04026015"
+  ],
+  "references": [
+    "04026015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260150102"
+      ],
+      [
+        "o040260150122"
+      ]
+    ]
+  }
+}

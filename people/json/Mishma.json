@@ -1,0 +1,72 @@
+{
+  "id": "person:Mishma",
+  "primary_id": "person:Mishma",
+  "alternate_sources": {
+    "aquifer": [
+      "7164|Mishma|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004513002001000"
+    ],
+    "tipnr": [
+      "Mishma@Gen.25.14-1Ch"
+    ],
+    "vizbible": [
+      "recErdHXLUXtgKBIj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Dumah",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Kedemah",
+    "person:Mahalath"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "004513002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mishma",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mishma",
+          "article": "person:Mishma",
+          "description": "Mishma was a son of Ishmael and an Arab living during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01025014",
+    "13001030"
+  ],
+  "references": [
+    "01025014",
+    "13001030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250140012"
+      ],
+      [
+        "o130010300011"
+      ]
+    ]
+  }
+}

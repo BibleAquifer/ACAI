@@ -1,0 +1,63 @@
+{
+  "id": "group:Carmi",
+  "primary_id": "group:Carmi",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003436001001000",
+      "003436001004000"
+    ],
+    "tipnr": [
+      "Carmi@Gen.46.9-1Ch"
+    ],
+    "vizbible": [
+      "rec4MNqdM4NNH0eBC"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Carmi.2",
+  "ubsdbh": [
+    "003436001001000",
+    "003436001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Carmites",
+      "alternate_labels": [
+        "Carmi",
+        "Karmite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Carmites",
+          "article": "group:Carmi",
+          "description": "People descended from Carmi, son of Reuben, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כַּרְמִי"
+    ]
+  },
+  "key_references": [
+    "04026006"
+  ],
+  "references": [
+    "04026006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260060042"
+      ],
+      [
+        "o040260060062"
+      ]
+    ]
+  }
+}

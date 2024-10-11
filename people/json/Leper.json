@@ -1,0 +1,94 @@
+{
+  "id": "person:Leper",
+  "primary_id": "person:Leper",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Leper",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Leper",
+          "description": "A person with leprosy."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40008002",
+    "40008002",
+    "41001040",
+    "41001040",
+    "42005012"
+  ],
+  "references": [
+    "40008002",
+    "40008002",
+    "41001040",
+    "41001040",
+    "42005012"
+  ],
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40008002003"
+      ],
+      [
+        "n40008002007"
+      ],
+      [
+        "n41001040005"
+      ],
+      [
+        "n41001040010"
+      ],
+      [
+        "n42005012013"
+      ],
+      [
+        "n42005012025"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "pleading",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40008002008",
+          "n40008002009",
+          "n40008002010",
+          "n40008002011",
+          "n40008002012",
+          "n40008002013"
+        ]
+      },
+      {
+        "delivery": "pleading",
+        "quote_type": "Dialogue",
+        "words": [
+          "n41001040013",
+          "n41001040014",
+          "n41001040015",
+          "n41001040016",
+          "n41001040017"
+        ]
+      },
+      {
+        "delivery": "pleading",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42005012026",
+          "n42005012027",
+          "n42005012028",
+          "n42005012029",
+          "n42005012030",
+          "n42005012031"
+        ]
+      }
+    ]
+  }
+}

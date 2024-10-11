@@ -1,0 +1,94 @@
+{
+  "id": "fauna:Swallow",
+  "primary_id": "fauna:Swallow",
+  "alternate_sources": {
+    "aquifer": [
+      "8667|Swallow|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001716003001000",
+      "005023002001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.23"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "001716003001000",
+    "005023002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Swallow",
+      "alternate_labels": [
+        "Swift",
+        "Martin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Swallow",
+          "article": "fauna:Swallow",
+          "description": "A small bird with long wings that flies fast and catches insects in the air."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דְּרֹור",
+      "סוּס"
+    ]
+  },
+  "key_references": [
+    "20026002",
+    "24008007"
+  ],
+  "references": [
+    "19084004",
+    "20026002",
+    "23038014",
+    "24008007",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190840040052"
+      ],
+      [
+        "o200260020032"
+      ],
+      [
+        "o230380140012"
+      ],
+      [
+        "o240080070082"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o190840040072"
+      ],
+      [
+        "o190840040102"
+      ],
+      [
+        "o240080070132"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o190840040091"
+      ]
+    ]
+  }
+}

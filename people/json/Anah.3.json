@@ -1,0 +1,78 @@
+{
+  "id": "person:Anah.3",
+  "primary_id": "person:Anah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3586|Anah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005538001003000"
+    ],
+    "tipnr": [
+      "Anah@Gen.36.24-1Ch"
+    ],
+    "vizbible": [
+      "recwl616Y2Hx55XsA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zibeon.2",
+  "siblings": [
+    "person:Aiah"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "005538001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anah (Genesis 36:24)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anah (Genesis 36:24)",
+          "article": "person:Anah.3",
+          "description": "A man living during the time of the patriarchs, son of Zibeon and mentioned in Genesis 36:24."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036024",
+    "13001040"
+  ],
+  "references": [
+    "01036024",
+    "13001040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360240052"
+      ],
+      [
+        "o010360240071"
+      ],
+      [
+        "o130010400112"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010360240061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010360240091"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "place:Zeredah.2",
+  "primary_id": "place:Zeredah.2",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006320001001000"
+    ],
+    "tipnr": [
+      "Zeredah@1Ki.11.26"
+    ],
+    "vizbible": [
+      "recXCWnyyE7m1i7kO"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006320001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zeredah (of Jeroboam)",
+      "alternate_labels": [
+        "Zereda",
+        "Zeredah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zeredah.1",
+          "gloss": "Zeredah (of Jeroboam)",
+          "description": "A town in the territory of Ephraim; home of Jeroboam."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Zeredah"
+  ],
+  "subregion_of": [
+    "place:JordanValley",
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.23293813761263",
+      "lon": "35.27304180036391"
+    },
+    "vizbible": {
+      "lat": "32.23293813761263",
+      "lon": "35.27304180036391"
+    }
+  },
+  "key_references": [
+    "11011026"
+  ],
+  "references": [
+    "11011026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110110260062"
+      ]
+    ]
+  }
+}

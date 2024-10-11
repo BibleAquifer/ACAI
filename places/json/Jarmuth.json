@@ -1,0 +1,109 @@
+{
+  "id": "place:Jarmuth",
+  "primary_id": "place:Jarmuth",
+  "alternate_sources": {
+    "aquifer": [
+      "6226|Jarmuth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003121001001000"
+    ],
+    "tipnr": [
+      "Jarmuth@Jos.10.3-Neh"
+    ],
+    "vizbible": [
+      "recDMTimTdm1RBxd5"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003121001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jarmuth (of Judah)",
+      "alternate_labels": [
+        "Jarmuch",
+        "Jarmuth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jarmuth.1",
+          "gloss": "Jarmuth (of Judah)",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יַרְמוּת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.70926894",
+      "lon": "34.96995387"
+    },
+    "vizbible": {
+      "lat": "31.70926894",
+      "lon": "34.96995387"
+    }
+  },
+  "key_references": [
+    "06010023",
+    "06010003"
+  ],
+  "references": [
+    "06010003",
+    "06010005",
+    "06010023",
+    "06012011",
+    "06015035",
+    "16011029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100030131"
+      ],
+      [
+        "o060100050111"
+      ],
+      [
+        "o060100230191"
+      ],
+      [
+        "o060120110021"
+      ],
+      [
+        "o060150350011"
+      ],
+      [
+        "o160110290043"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "person:Zedekiah.4",
+  "primary_id": "person:Zedekiah.4",
+  "alternate_sources": {
+    "aquifer": [
+      "9170|Zedekiah|TyndaleBibleDictionary",
+      "27229|Zedekiah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006132001003000"
+    ],
+    "tipnr": [
+      "Zedekiah@1Ch.3.16"
+    ],
+    "vizbible": [
+      "recRNkRmTCTCbcGVw"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoiachin",
+  "siblings": [
+    "person:Shealtiel.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "006132001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zedekiah (1 Chronicles 3:16)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zedekiah (1 Chronicles 3:16)",
+          "article": "person:Zedekiah.4",
+          "description": "Zedekiah, son of Jehoiachin and brother of Shealtiel, was a man of the tribe of Judah living during the time of the divided kingdom, mentioned in 1 Chronicles 3:16."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13003016"
+  ],
+  "references": [
+    "13003016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030160051"
+      ]
+    ]
+  }
+}

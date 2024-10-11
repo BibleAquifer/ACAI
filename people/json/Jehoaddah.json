@@ -1,0 +1,71 @@
+{
+  "id": "person:Jehoaddah",
+  "primary_id": "person:Jehoaddah",
+  "alternate_sources": {
+    "aquifer": [
+      "6271|Jehoadah, Jehoaddah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jarah|Jehoaddah@1Ch.8.36-",
+      "Jehoaddah@1Ch.8.36-"
+    ],
+    "vizbible": [
+      "reczfWbA4d37ORyZ3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ahaz.2",
+  "offspring": [
+    "person:Alemeth.2",
+    "person:Azmaveth.2",
+    "person:Zimri.4"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehoaddah",
+      "alternate_labels": [
+        "Jarah",
+        "Jehoadah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoaddah",
+          "article": "person:Jehoaddah",
+          "description": "A Benjamite and son of Ahaz and father of Alemeth, Azmaveth, and Zimri. He lived during the time of the Israelite return from exile."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jarah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008036",
+    "13009042"
+  ],
+  "references": [
+    "13008036",
+    "13009042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080360041"
+      ],
+      [
+        "o130080360052"
+      ],
+      [
+        "o130090420041"
+      ],
+      [
+        "o130090420052"
+      ]
+    ]
+  }
+}

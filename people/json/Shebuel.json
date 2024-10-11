@@ -1,0 +1,74 @@
+{
+  "id": "person:Shebuel",
+  "primary_id": "person:Shebuel",
+  "alternate_sources": {
+    "aquifer": [
+      "8320|Shebuel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shubael|Shebuel@1Ch.23.16-",
+      "Shebuel@1Ch.23.16-"
+    ],
+    "vizbible": [
+      "recKBoE5FQS1bVG2c"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gershom",
+  "offspring": [
+    "person:Jehdeiah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shebuel",
+      "alternate_labels": [
+        "Shubael"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shebuel",
+          "article": "person:Shebuel",
+          "description": "Moses' grandson, son of Gershom, and the father of Jehdeiah. He is called chief of the Gershomites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shubael"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13023016",
+    "13024020",
+    "13026024"
+  ],
+  "references": [
+    "13023016",
+    "13024020",
+    "13026024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230160031"
+      ],
+      [
+        "o130240200061"
+      ],
+      [
+        "o130240200081"
+      ],
+      [
+        "o130260240012"
+      ]
+    ]
+  }
+}

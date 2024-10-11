@@ -1,0 +1,61 @@
+{
+  "id": "person:Obed.2",
+  "primary_id": "person:Obed.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7454|Obed|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005275001002000"
+    ],
+    "tipnr": [
+      "Obed@1Ch.2.37-"
+    ],
+    "vizbible": [
+      "recxGOm2RDeUYvESz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ephlal",
+  "offspring": [
+    "person:Jehu.3"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005275001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Obed (1 Chronicles 2:37)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Obed (1 Chronicles 2:37)",
+          "article": "person:Obed.2",
+          "description": "Obed, mentioned in 1 Chronicles 2:37, was a man of the tribe of Judah living during the time of the divided kingdom, son of Ephlal, and father of Jehu."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002037",
+    "13002038"
+  ],
+  "references": [
+    "13002037",
+    "13002038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020370081"
+      ],
+      [
+        "o130020380012"
+      ]
+    ]
+  }
+}

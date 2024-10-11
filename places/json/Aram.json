@@ -1,0 +1,112 @@
+{
+  "id": "place:Aram",
+  "primary_id": "place:Paddan-aram",
+  "alternate_sources": {
+    "aquifer": [
+      "3701|Aram (Place)|TyndaleBibleDictionary",
+      "26329|Aram|UWTranslationWords",
+      "132380|Aram|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000695001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/1150683"
+    ],
+    "tipnr": [
+      "Aram|Paddan-aram@Gen.25.20-Hos"
+    ],
+    "vizbible": [
+      "recjdhKnTnRSPWNUo"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000695001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aram",
+      "alternate_labels": [
+        "Aramean",
+        "Arameans",
+        "Paddan-Aram",
+        "Syria"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aram",
+          "gloss": "Aram",
+          "description": "A land and ethnic group located in Syria, regarded as descendants of Shem; often referred to as Syria in the Old Testament."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Syria",
+    "place:Paddan-aram"
+  ],
+  "subregion_of": [
+    "place:Syria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲרָם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.85",
+      "lon": "39.12"
+    },
+    "recogito": {
+      "lat": "15.58394",
+      "lon": "99.86089"
+    },
+    "vizbible": {
+      "lat": "34.85",
+      "lon": "39.12"
+    }
+  },
+  "key_references": [
+    "10015008"
+  ],
+  "references": [
+    "04023007",
+    "07018007",
+    "07018028",
+    "10008006",
+    "10015008",
+    "12005018",
+    "12006014",
+    "12008015",
+    "13002023",
+    "28012013",
+    "38009001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040230070051"
+      ],
+      [
+        "o280120130041"
+      ]
+    ]
+  }
+}

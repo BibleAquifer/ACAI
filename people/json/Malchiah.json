@@ -1,0 +1,63 @@
+{
+  "id": "person:Malchiah",
+  "primary_id": "person:Malchiah",
+  "alternate_sources": {
+    "aquifer": [
+      "6894|Malchiah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Malchiah@Jer.21.1-"
+    ],
+    "vizbible": [
+      "recEl8jV2D2zEQ3oT"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Pashhur.4"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Malchiah",
+      "alternate_labels": [
+        "Malkijah",
+        "Melchiah",
+        "Makijah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Malchiah",
+          "article": "person:Malchiah",
+          "description": "A man living during the time of the divided kingdom, father of Pashhur, mentioned in Jeremiah 21:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24021001",
+    "24038001",
+    "24038006"
+  ],
+  "references": [
+    "24021001",
+    "24038001",
+    "24038006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240210010151"
+      ],
+      [
+        "o240380010131"
+      ],
+      [
+        "o240380060081"
+      ]
+    ]
+  }
+}

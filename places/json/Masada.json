@@ -1,0 +1,44 @@
+{
+  "id": "place:Masada",
+  "primary_id": "place:Masada",
+  "alternate_sources": {
+    "aquifer": [
+      "6962|Masada|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Masada",
+          "gloss": "Masada",
+          "description": "A fortification on a plateau overlooking the western edge of the Dead Sea. It was sieged by the Romans during the First Jewish Revolt."
+        }
+      ],
+      "preferred_label": "Masada"
+    }
+  },
+  "nearby_places": [
+    "place:SaltSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "fortification",
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "31.31626",
+      "lon": "35.35368"
+    }
+  }
+}

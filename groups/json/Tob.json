@@ -1,0 +1,69 @@
+{
+  "id": "group:Tob",
+  "primary_id": "group:Tob",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002666002001000"
+    ],
+    "tipnr": [
+      "Tob@Jdg.11.3-2Sa"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Tob",
+  "ubsdbh": [
+    "002666002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "People of Tob",
+      "alternate_labels": [
+        "men of Tob",
+        "Ish-tob"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "People of Tob",
+          "article": "group:Tob",
+          "description": "People who live in Tob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "טֹוב",
+      "טוֹב"
+    ]
+  },
+  "key_references": [
+    "10010006",
+    "10010008"
+  ],
+  "references": [
+    "10010006",
+    "10010008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100100060251"
+      ],
+      [
+        "o100100060262",
+        "o100100060271"
+      ],
+      [
+        "o100100060311"
+      ],
+      [
+        "o100100080112",
+        "o100100080121"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "person:Didymus",
+  "primary_id": "person:Thomas",
+  "alternate_sources": {
+    "aquifer": [
+      "4840|Didymus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.95"
+    ],
+    "tipnr": [
+      "Didymus|Thomas@Mat.10.3-Act"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Apostle"
+  ],
+  "ubsdgnt": [
+    "93.95"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Didymus (Thomas)",
+      "alternate_labels": [
+        "Twin",
+        "Thomas"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Thomas",
+          "article": "person:Didymus",
+          "description": "Didymus, also known as Thomas or the Twin, was an apostle living during the New Testament times."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Thomas"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Δίδυμος"
+    ]
+  },
+  "key_references": [
+    "43011016",
+    "43020024",
+    "43021002"
+  ],
+  "references": [
+    "43011016",
+    "43020024",
+    "43021002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43011016006"
+      ],
+      [
+        "n43020024009"
+      ],
+      [
+        "n43021002009"
+      ]
+    ]
+  }
+}

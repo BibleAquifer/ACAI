@@ -1,0 +1,61 @@
+{
+  "id": "realia:Soap",
+  "primary_id": "realia:Soap",
+  "alternate_sources": {
+    "aquifer": [
+      "8551|Soap|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001186001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.16.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "001186001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Soap",
+      "alternate_labels": [
+        "Lye"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Soap",
+          "article": "realia:Soap",
+          "description": "A substance made from mixing ashes of soda plants with oils or fats, used for cleaning."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֹּרִית"
+    ]
+  },
+  "key_references": [
+    "24002022",
+    "39003002"
+  ],
+  "references": [
+    "24002022",
+    "39003002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240020220071"
+      ],
+      [
+        "o390030020133"
+      ]
+    ]
+  }
+}

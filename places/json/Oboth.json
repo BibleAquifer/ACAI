@@ -1,0 +1,93 @@
+{
+  "id": "place:Oboth",
+  "primary_id": "place:Oboth",
+  "alternate_sources": {
+    "aquifer": [
+      "7457|Oboth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000089001001000"
+    ],
+    "tipnr": [
+      "Oboth@Num.21.10-"
+    ],
+    "vizbible": [
+      "recO5G9x7IdeHH8ss"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000089001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Oboth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Oboth",
+          "gloss": "Oboth",
+          "description": "A location in Edom along the route of the exodus where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Edom"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֹבֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.49684513710609",
+      "lon": "35.78284105296996"
+    },
+    "vizbible": {
+      "lat": "31.49684513710609",
+      "lon": "35.78284105296996"
+    }
+  },
+  "key_references": [
+    "04021011",
+    "04021010"
+  ],
+  "references": [
+    "04021010",
+    "04021011",
+    "04033043",
+    "04033044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210100052"
+      ],
+      [
+        "o040210110022"
+      ],
+      [
+        "o040330430042"
+      ],
+      [
+        "o040330440022"
+      ]
+    ]
+  }
+}

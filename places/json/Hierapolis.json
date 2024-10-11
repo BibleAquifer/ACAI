@@ -1,0 +1,100 @@
+{
+  "id": "place:Hierapolis",
+  "primary_id": "place:Hierapolis",
+  "alternate_sources": {
+    "aquifer": [
+      "5843|Hierapolis|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a11bbbe"
+    ],
+    "ubsdgnt": [
+      "93.478"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/594968"
+    ],
+    "tipnr": [
+      "Hierapolis@Col.4.13"
+    ],
+    "vizbible": [
+      "recCYMC1Co51WOBEp"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q7428276"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.478"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hierapolis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hierapolis",
+          "gloss": "Hierapolis",
+          "description": "A city in Phrygia near Colossae and Laodicea."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Colossae",
+    "place:Laodicea"
+  ],
+  "subregion_of": [
+    "place:Phrygia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἱεράπολις"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.924517",
+      "lon": "29.124525"
+    },
+    "vizbible": {
+      "lat": "37.924517",
+      "lon": "29.124525"
+    },
+    "biblica-maps": {
+      "lat": "37.92712",
+      "lon": "29.12808"
+    }
+  },
+  "key_references": [
+    "51004013"
+  ],
+  "references": [
+    "51004013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n51004013017"
+      ]
+    ]
+  }
+}

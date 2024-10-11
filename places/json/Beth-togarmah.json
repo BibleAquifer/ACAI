@@ -1,0 +1,94 @@
+{
+  "id": "place:Beth-togarmah",
+  "primary_id": "place:Beth-togarmah",
+  "alternate_sources": {
+    "aquifer": [
+      "4207|Beth-Togarmah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a263e60"
+    ],
+    "ubsdbh": [
+      "000931001004000",
+      "007733001002000"
+    ],
+    "tipnr": [
+      "Beth-togarmah@Ezk.27.14-"
+    ],
+    "vizbible": [
+      "recs2AAjd7vMgu9gf"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1068499"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000931001004000",
+    "007733001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-togarmah",
+      "alternate_labels": [
+        "Togarmah",
+        "house of Togarmah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-togarmah",
+          "gloss": "Beth-Togarmah",
+          "description": "A nation located north of Israel and regarded as founded by a person with the same name; renowned for its horses and mules."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.065539",
+      "lon": "45.036328"
+    },
+    "vizbible": {
+      "lat": "40.065539",
+      "lon": "45.036328"
+    }
+  },
+  "key_references": [
+    "26038006",
+    "26027014"
+  ],
+  "references": [
+    "26027014",
+    "26038006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270140012",
+        "o260270140021"
+      ],
+      [
+        "o260380060041",
+        "o260380060051"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "place:Mephaath",
+  "primary_id": "place:Mephaath",
+  "alternate_sources": {
+    "aquifer": [
+      "7054|Mephaath|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a97cb23"
+    ],
+    "ubsdbh": [
+      "003956001001000"
+    ],
+    "tipnr": [
+      "Mephaath@Jos.13.18-Jer"
+    ],
+    "vizbible": [
+      "rec73VSeOz3XtX2ph"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003956001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mephaath",
+      "alternate_labels": [
+        "Mophaath",
+        "Qere. Ketiv"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mephaath",
+          "gloss": "Mephaath",
+          "description": "A Levitical town in the territory of Reuben, assigned to the clan of Merari; later occupied by Moab."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Reuben",
+  "subregion_of": [
+    "place:TerritoryOfReuben"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מֵיפַעַת",
+      "מֵיפַ֫עַת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.85",
+      "lon": "35.933333"
+    },
+    "vizbible": {
+      "lat": "31.85",
+      "lon": "35.933333"
+    }
+  },
+  "key_references": [
+    "24048021",
+    "06021037"
+  ],
+  "references": [
+    "06013018",
+    "06021037",
+    "13006064",
+    "24048021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060130180032"
+      ],
+      [
+        "o060210370061"
+      ],
+      [
+        "o130060640061"
+      ],
+      [
+        "o240480210121"
+      ]
+    ]
+  }
+}

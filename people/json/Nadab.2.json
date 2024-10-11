@@ -1,0 +1,95 @@
+{
+  "id": "person:Nadab.2",
+  "primary_id": "person:Nadab.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7277|Nadab|TyndaleBibleDictionary",
+      "132302|Nadab and Abihu|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "004648001002000"
+    ],
+    "tipnr": [
+      "Nadab@1Ki.14.20-"
+    ],
+    "vizbible": [
+      "reckwIXkgDob8lLJB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jeroboam",
+  "siblings": [
+    "person:Abijah.3"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "004648001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nadab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nadab",
+          "article": "person:Nadab.2",
+          "description": "A son of Jeroboam and king of Israel during the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נָדָב"
+    ]
+  },
+  "key_references": [
+    "11015025",
+    "11015027",
+    "11015031"
+  ],
+  "references": [
+    "11014020",
+    "11015025",
+    "11015027",
+    "11015031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110140200121"
+      ],
+      [
+        "o110150250012"
+      ],
+      [
+        "o110150270132"
+      ],
+      [
+        "o110150310031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110150250122"
+      ],
+      [
+        "o110150260012"
+      ],
+      [
+        "o110150260052"
+      ],
+      [
+        "o110150310061"
+      ]
+    ]
+  }
+}

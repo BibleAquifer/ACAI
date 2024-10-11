@@ -1,0 +1,57 @@
+{
+  "id": "group:Antioch",
+  "primary_id": "group:Antioch",
+  "alternate_sources": {
+    "aquifer": [
+      "3634|Antiochians|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.406"
+    ],
+    "tipnr": [
+      "Antioch@Act.6.5-Gal"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Antioch",
+  "ubsdgnt": [
+    "93.406"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Antiochians",
+      "alternate_labels": [
+        "Antioch"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Antiochians",
+          "article": "group:Antioch",
+          "description": "People who live in Antioch."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀντιοχεύς"
+    ]
+  },
+  "key_references": [
+    "44006005"
+  ],
+  "references": [
+    "44006005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44006005031"
+      ]
+    ]
+  }
+}

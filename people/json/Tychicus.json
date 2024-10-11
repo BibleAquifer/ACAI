@@ -1,0 +1,99 @@
+{
+  "id": "person:Tychicus",
+  "primary_id": "person:Tychicus",
+  "alternate_sources": {
+    "aquifer": [
+      "8947|Tychicus|TyndaleBibleDictionary",
+      "27183|Tychicus|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Tychicus@Act.20.4-Tit"
+    ],
+    "vizbible": [
+      "reciJDq0wUbyVGePr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Church Leader",
+    "Missionary"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tychicus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tychicus",
+          "article": "person:Tychicus",
+          "description": "One of the apostle Paul's fellow ministers and who served as a messenger to churches. He was from Asia Minor."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44020004",
+    "49006021",
+    "51004007"
+  ],
+  "references": [
+    "44020004",
+    "49006021",
+    "49006024",
+    "51004007",
+    "51004018",
+    "55004012",
+    "56003012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44020004019"
+      ],
+      [
+        "n49006021014"
+      ],
+      [
+        "n51004007007"
+      ],
+      [
+        "n55004012001"
+      ],
+      [
+        "n56003012007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n49006022001"
+      ],
+      [
+        "n49006022012"
+      ],
+      [
+        "n49006024009"
+      ],
+      [
+        "n51004008001"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n49006022014"
+      ],
+      [
+        "n51004008014"
+      ],
+      [
+        "n51004009014"
+      ]
+    ]
+  }
+}

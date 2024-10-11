@@ -1,0 +1,53 @@
+{
+  "id": "fauna:Leech",
+  "primary_id": "fauna:Leech",
+  "alternate_sources": {
+    "aquifer": [
+      "6712|Leech|TyndaleBibleDictionary"
+    ],
+    "ubsfauna": [
+      "fauna:6.8"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Insects, Spiders, and Worms",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Leech",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Leech",
+          "article": "fauna:Leech",
+          "description": "A worm that sucks blood, often found in water."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "20030015"
+  ],
+  "references": [
+    "20030015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o200300150012"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o200300150041",
+          "o200300150051"
+        ]
+      }
+    ]
+  }
+}

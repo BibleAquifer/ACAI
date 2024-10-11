@@ -1,0 +1,63 @@
+{
+  "id": "realia:BrickMold",
+  "primary_id": "realia:BrickMold",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004025001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.8.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004025001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Brick Mold",
+      "alternate_labels": [
+        "Brick Kiln"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Brick Mold",
+          "article": "realia:BrickMold",
+          "description": "A small, rectangular wooden container used to make bricks of equal sizes by shaping clay."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַלְבֵּן"
+    ]
+  },
+  "key_references": [
+    "01011003",
+    "02005007",
+    "10012031",
+    "34003014"
+  ],
+  "references": [
+    "10012031",
+    "34003014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100120310151"
+      ],
+      [
+        "o100120310152"
+      ],
+      [
+        "o340030140121"
+      ]
+    ]
+  }
+}

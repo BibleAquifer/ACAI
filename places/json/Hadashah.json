@@ -1,0 +1,87 @@
+{
+  "id": "place:Hadashah",
+  "primary_id": "place:Hadashah",
+  "alternate_sources": {
+    "aquifer": [
+      "5572|Hadashah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a785680"
+    ],
+    "ubsdbh": [
+      "002146001001000"
+    ],
+    "tipnr": [
+      "Hadashah@Jos.15.37"
+    ],
+    "vizbible": [
+      "recCjGRtnFseOewaX"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002146001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadashah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hadashah",
+          "gloss": "Hadashah",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲדָשָׁה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.679512",
+      "lon": "34.695903"
+    },
+    "vizbible": {
+      "lat": "31.679512",
+      "lon": "34.695903"
+    }
+  },
+  "key_references": [
+    "06015037"
+  ],
+  "references": [
+    "06015037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150370022"
+      ]
+    ]
+  }
+}

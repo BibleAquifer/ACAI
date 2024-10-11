@@ -1,0 +1,52 @@
+{
+  "id": "person:Shaphat",
+  "primary_id": "person:Shaphat",
+  "alternate_sources": {
+    "aquifer": [
+      "8288|Shaphat|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007568001001000"
+    ],
+    "tipnr": [
+      "Shaphat@Num.13.5"
+    ],
+    "vizbible": [
+      "recf4i18MxqUS52Zp"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hori.2",
+  "ubsdbh": [
+    "007568001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaphat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shaphat",
+          "article": "person:Shaphat",
+          "description": "Shaphat was a man living during the time of Egypt and the wilderness, son of Hori, mentioned only in Numbers 13:5."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04013005"
+  ],
+  "references": [
+    "04013005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130050031"
+      ]
+    ]
+  }
+}

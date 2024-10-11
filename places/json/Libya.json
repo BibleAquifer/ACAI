@@ -1,0 +1,116 @@
+{
+  "id": "place:Libya",
+  "primary_id": "place:Libya",
+  "alternate_sources": {
+    "aquifer": [
+      "6741|Libya, Libyans|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac12af9"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/716588",
+      "http://pleiades.stoa.org/places/991375"
+    ],
+    "tipnr": [
+      "Libya@2Ch.12.3-Act"
+    ],
+    "vizbible": [
+      "rec39FxmiUeVmCNUZ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2370577"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Libya",
+      "alternate_labels": [
+        "Libyans",
+        "Kub",
+        "Libyan",
+        "Chub",
+        "Lubim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Libya",
+          "gloss": "Libya",
+          "description": "A country in North Africa; Libyans were among those present at Pentecost (Acts 2:10)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.824979",
+      "lon": "21.858301"
+    },
+    "recogito": {
+      "lat": "28.91884175132798",
+      "lon": "26.5"
+    },
+    "vizbible": {
+      "lat": "28.91884175132798",
+      "lon": "26.5"
+    }
+  },
+  "key_references": [
+    "26030005",
+    "44002010"
+  ],
+  "references": [
+    "14012003",
+    "14016008",
+    "26030005",
+    "27011043",
+    "34003009",
+    "44002010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140120030141"
+      ],
+      [
+        "o140160080033"
+      ],
+      [
+        "o260300050062"
+      ],
+      [
+        "o270110430082"
+      ],
+      [
+        "o340030090072"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44002010010"
+      ]
+    ]
+  }
+}

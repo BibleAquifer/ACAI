@@ -1,0 +1,75 @@
+{
+  "id": "person:Jashobeam",
+  "primary_id": "person:Jashobeam",
+  "alternate_sources": {
+    "aquifer": [
+      "6231|Jashobeam|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jashobeam@2Sa.23.8-1Ch",
+      "Josheb-basshebet|Jashobeam@2Sa.23.8-1Ch"
+    ],
+    "vizbible": [
+      "recd6iAudehoXx4mV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zabdiel",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jashobeam",
+      "alternate_labels": [
+        "that sat in the seat",
+        "Josheb-basshebeth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jashobeam",
+          "article": "person:Jashobeam",
+          "description": "A man living during the divided kingdom, also called Josheb-basshebeth, mentioned in 2 Samuel 23:8."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Josheb-basshebet"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023008",
+    "13011011",
+    "13027002"
+  ],
+  "references": [
+    "10023008",
+    "13011011",
+    "13027002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230080061",
+        "o100230080071"
+      ],
+      [
+        "o130110110061"
+      ],
+      [
+        "o130270020061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o100230080111"
+      ],
+      [
+        "o130110110121"
+      ]
+    ]
+  }
+}

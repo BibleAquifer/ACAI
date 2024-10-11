@@ -1,0 +1,96 @@
+{
+  "id": "place:Babel",
+  "primary_id": "place:Babylon",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000831001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/698107"
+    ],
+    "tipnr": [
+      "Babel|Babylon@Gen.10.10-Rev"
+    ],
+    "vizbible": [
+      "recO7At5WvGRe0Xsu"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000831001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Babel",
+      "alternate_labels": [
+        "Babylon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Babel",
+          "gloss": "Babel",
+          "description": "A town in Mesopotamia founded by Nimrod where the tower of Babel was built; capital of the Chaldean Empire."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Babylon"
+  ],
+  "referred_to_as": [
+    "place:Babylon"
+  ],
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.53650369",
+      "lon": "44.42088287"
+    },
+    "recogito": {
+      "lat": "45.403",
+      "lon": "28.67546"
+    },
+    "vizbible": {
+      "lat": "32.53650369",
+      "lon": "44.42088287"
+    }
+  },
+  "key_references": [
+    "01010010",
+    "01011001"
+  ],
+  "references": [
+    "01010010",
+    "01011009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100100041"
+      ],
+      [
+        "o010110090051"
+      ]
+    ]
+  }
+}

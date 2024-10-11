@@ -1,0 +1,84 @@
+{
+  "id": "place:Perez-uzza",
+  "primary_id": "place:Perez-uzza",
+  "alternate_sources": {
+    "aquifer": [
+      "7664|Perez-Uzzah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006028001001000"
+    ],
+    "tipnr": [
+      "Perez-uzza@1Ch.13.11"
+    ],
+    "vizbible": [
+      "recNxQ3mwycY0rngs"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006028001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Perez-uzzah",
+      "alternate_labels": [
+        "Perez-Uzza",
+        "Outburst Against Uzzah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Perez-uzzah",
+          "gloss": "Perez-Uzzah",
+          "description": "A location near the threshing floor of Nacon, where Yahweh killed Uzzah because he touched the ark of the covenant."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "פַּרְצִי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "10006008",
+    "13013011"
+  ],
+  "references": [
+    "10006008",
+    "13013011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130130110111",
+        "o130130110121"
+      ]
+    ]
+  }
+}

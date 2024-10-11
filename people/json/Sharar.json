@@ -1,0 +1,62 @@
+{
+  "id": "person:Sharar",
+  "primary_id": "person:Sharar",
+  "alternate_sources": {
+    "aquifer": [
+      "8293|Sharar|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Sachar|Sharar@2Sa.23.33-1Ch",
+      "Sharar@2Sa.23.33-1Ch"
+    ],
+    "vizbible": [
+      "reccJl2gDZ7mHkknT"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ahiam"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sharar",
+      "alternate_labels": [
+        "Sakar",
+        "Sacar",
+        "Sachar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sharar",
+          "article": "person:Sharar",
+          "description": "Sharar, also known as Sachar, Sacar, or Sakar, was a man living during Israel's united kingdom, father of Ahiam, mentioned in 2 Samuel 23:33 and 1 Chronicles 11:35."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Sachar.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023033",
+    "13011035"
+  ],
+  "references": [
+    "10023033",
+    "13011035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230330051"
+      ],
+      [
+        "o130110350031"
+      ]
+    ]
+  }
+}

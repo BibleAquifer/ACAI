@@ -1,0 +1,129 @@
+{
+  "id": "place:Memphis",
+  "primary_id": "place:Memphis",
+  "alternate_sources": {
+    "aquifer": [
+      "7042|Memphis|TyndaleBibleDictionary",
+      "26869|Memphis|UWTranslationWords"
+    ],
+    "obi": [
+      "a8ec269"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21137"
+    ],
+    "tipnr": [
+      "Memphis@Isa.19.13-Hos"
+    ],
+    "vizbible": [
+      "recHAv7LzOUc4wj2r"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5715"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Memphis",
+      "alternate_labels": [
+        "Noph"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Memphis",
+          "gloss": "Memphis",
+          "description": "A town in Egypt; residence and capital of many of its kings (ABD)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.849632",
+      "lon": "31.253958"
+    },
+    "recogito": {
+      "lat": "29.849667",
+      "lon": "31.254278"
+    },
+    "vizbible": {
+      "lat": "29.849667",
+      "lon": "31.254278"
+    },
+    "biblica-maps": {
+      "lat": "29.84949",
+      "lon": "31.25506"
+    }
+  },
+  "key_references": [
+    "26030013",
+    "24044001"
+  ],
+  "references": [
+    "23019013",
+    "24002016",
+    "24044001",
+    "24046014",
+    "24046019",
+    "26030013",
+    "26030016",
+    "28009006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230190130061"
+      ],
+      [
+        "o240020160031"
+      ],
+      [
+        "o240440010153"
+      ],
+      [
+        "o240460140062"
+      ],
+      [
+        "o240460190091"
+      ],
+      [
+        "o260300130092"
+      ],
+      [
+        "o260300160112"
+      ],
+      [
+        "o280090060071"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240460190122"
+      ]
+    ]
+  }
+}

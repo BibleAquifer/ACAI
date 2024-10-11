@@ -1,0 +1,90 @@
+{
+  "id": "place:Harmon",
+  "primary_id": "place:Harmon",
+  "alternate_sources": {
+    "aquifer": [
+      "5674|Harmon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001886001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/26197"
+    ],
+    "tipnr": [
+      "Harmon@Amo.4.3"
+    ],
+    "vizbible": [
+      "rec6VHpWbv15YXzKg"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001886001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Harmon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Harmon",
+          "gloss": "Harmon",
+          "description": "An unknown region, where the inhabitants of Bashan were to be exiled. "
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "הַרְמֹון",
+      "הַרְמוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "mountain",
+      "settlement",
+      "natural area",
+      "special",
+      "region",
+      "mountain ridge"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.28023100000001",
+      "lon": "35.19792900000002"
+    },
+    "recogito": {
+      "lat": "52.334326",
+      "lon": "-3.4909"
+    },
+    "vizbible": {
+      "lat": "32.28023100000001",
+      "lon": "35.19792900000002"
+    }
+  },
+  "key_references": [
+    "30004003"
+  ],
+  "references": [
+    "30004003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o300040030062"
+      ]
+    ]
+  }
+}

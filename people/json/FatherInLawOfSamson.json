@@ -1,0 +1,68 @@
+{
+  "id": "person:FatherInLawOfSamson",
+  "primary_id": "person:FatherInLawOfSamson",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Father-in-Law of Samson",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Father-in-Law of Samson",
+          "description": "Samson's father-in-law."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07015002"
+  ],
+  "references": [
+    "07015002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070150020021"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070150020031",
+          "o070150020041",
+          "o070150020051",
+          "o070150020061",
+          "o070150020071",
+          "o070150020072",
+          "o070150020081",
+          "o070150020082",
+          "o070150020083",
+          "o070150020091",
+          "o070150020092",
+          "o070150020093",
+          "o070150020101",
+          "o070150020102",
+          "o070150020111",
+          "o070150020112",
+          "o070150020121",
+          "o070150020122",
+          "o070150020131",
+          "o070150020141",
+          "o070150020142",
+          "o070150020151",
+          "o070150020161",
+          "o070150020171",
+          "o070150020172",
+          "o070150020181",
+          "o070150020182"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "place:BeracahValley",
+  "primary_id": "place:BeracahValley",
+  "alternate_sources": {
+    "obi": [
+      "a71f834"
+    ],
+    "ubsdbh": [
+      "001192002002000"
+    ],
+    "tipnr": [
+      "Beracah_Valley@2Ch.20.26"
+    ],
+    "vizbible": [
+      "recdGWhuMtdY6lGDa"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4890964"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001192002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Beracah",
+      "alternate_labels": [
+        "Valley of Berakah",
+        "Valley of Blessing",
+        "Berakah",
+        "Berachah",
+        "Valley of Berachah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfBeracah",
+          "gloss": "Valley of Beracah",
+          "description": "A valley near Tekoa where King Jehoshaphat and his people gathered to bless Yahweh for their victory over a coalition of invading Moabites, Ammonites, Edomites, and Meunites (ABD)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בְּרָכָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.61065",
+      "lon": "35.165648"
+    },
+    "vizbible": {
+      "lat": "31.61065",
+      "lon": "35.165648"
+    }
+  },
+  "key_references": [
+    "14020026"
+  ],
+  "references": [
+    "14020026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140200260042",
+        "o140200260051"
+      ],
+      [
+        "o140200260181",
+        "o140200260191"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140200260172"
+      ]
+    ]
+  }
+}

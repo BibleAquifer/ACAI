@@ -1,0 +1,58 @@
+{
+  "id": "realia:Oven",
+  "primary_id": "realia:Oven",
+  "alternate_sources": {
+    "aquifer": [
+      "7536|Oven|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "7.74"
+    ],
+    "ubsrealia": [
+      "realia:5.11"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.74"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Oven",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Oven",
+          "article": "realia:Oven",
+          "description": "A dome-shaped clay structure heated with wood or dried grass to bake bread."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κλίβανος"
+    ]
+  },
+  "key_references": [
+    "40006030",
+    "42012028"
+  ],
+  "references": [
+    "40006030",
+    "42012028"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40006030012"
+      ],
+      [
+        "n42012028012"
+      ]
+    ]
+  }
+}

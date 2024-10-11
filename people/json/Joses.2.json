@@ -1,0 +1,82 @@
+{
+  "id": "person:Joses.2",
+  "primary_id": "person:Joseph.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6450|Joses|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.201a",
+      "93.201b"
+    ],
+    "tipnr": [
+      "Joses|Joseph@Mat.13.55-Mrk"
+    ],
+    "vizbible": [
+      "rectKmSGswWg5Hx4b"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joseph.4",
+  "mother": "person:Mary",
+  "siblings": [
+    "person:Jesus.2",
+    "person:James.3",
+    "person:Simon.3",
+    "person:Jude"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.201a",
+    "93.201b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joses (Joseph)",
+      "alternate_labels": [
+        "Joseph",
+        "Joseph (Brother of Jesus)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joseph (Brother of Jesus)",
+          "article": "person:Joses.2",
+          "description": "A brother of Jesus, called Joses and Joseph, first mentioned in Matthew 13:55."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Joseph.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰωσῆς"
+    ]
+  },
+  "key_references": [
+    "41006003",
+    "41015047"
+  ],
+  "references": [
+    "41006003",
+    "41015047"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41006003014"
+      ],
+      [
+        "n41015047009"
+      ]
+    ]
+  }
+}

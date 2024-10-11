@@ -1,0 +1,80 @@
+{
+  "id": "place:Waheb",
+  "primary_id": "place:Waheb",
+  "alternate_sources": {
+    "aquifer": [
+      "9026|Waheb|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001899001001000"
+    ],
+    "tipnr": [
+      "Waheb@Num.21.14"
+    ],
+    "vizbible": [
+      "recfesMknFZ653OLj"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001899001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Waheb",
+      "alternate_labels": [
+        "Zahab"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Waheb",
+          "gloss": "Waheb",
+          "description": "An unidentified location, probably in Moab near the Arnon River (ABD)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "וָהֵב"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "27.088473",
+      "lon": "34.771729"
+    },
+    "vizbible": {
+      "lat": "27.088473",
+      "lon": "34.771729"
+    }
+  },
+  "key_references": [
+    "04021014"
+  ],
+  "references": [
+    "04021014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210140081"
+      ]
+    ]
+  }
+}

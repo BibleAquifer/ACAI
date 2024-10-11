@@ -1,0 +1,74 @@
+{
+  "id": "realia:Pen",
+  "primary_id": "realia:Pen",
+  "alternate_sources": {
+    "aquifer": [
+      "7650|Pen|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.56"
+    ],
+    "ubsdbh": [
+      "005361001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.7.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.56"
+  ],
+  "ubsdbh": [
+    "005361001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pen",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pen",
+          "article": "realia:Pen",
+          "description": "A 20-centimeter reed sharpened at one end, used with ink for writing."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֵט"
+    ],
+    "el": [
+      "κάλαμος"
+    ]
+  },
+  "key_references": [
+    "19045002",
+    "24008008",
+    "64001013"
+  ],
+  "references": [
+    "19045002",
+    "24008008",
+    "64001013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190450020101"
+      ],
+      [
+        "o240080080121"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n64001013011"
+      ]
+    ]
+  }
+}

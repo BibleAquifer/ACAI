@@ -1,0 +1,47 @@
+{
+  "id": "flora:Ivy",
+  "primary_id": "flora:Ivy",
+  "alternate_sources": {
+    "ubsflora": [
+      "flora:1.10"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ivy",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ivy",
+          "article": "flora:Ivy",
+          "description": "Ivy is a climbing plant with green, lobed leaves that often covers walls and trees."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12004039"
+  ],
+  "references": [
+    "12004039",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120040390081"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o120040390112"
+      ]
+    ]
+  }
+}

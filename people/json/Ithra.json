@@ -1,0 +1,79 @@
+{
+  "id": "person:Ithra",
+  "primary_id": "person:Jether.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6112|Ithra|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003204003003000"
+    ],
+    "tipnr": [
+      "Ithra|Jether@2Sa.17.25-1Ch"
+    ],
+    "vizbible": [
+      "rectXrQPWnpiGrb9M"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Abigail.2"
+  ],
+  "offspring": [
+    "person:Amasa"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "003204003003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ithra (Jether)",
+      "alternate_labels": [
+        "Jether",
+        "Nahash"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jether",
+          "article": "person:Ithra",
+          "description": "An Ishmaelite also called Jether, father of Amasa, mentioned in 2 Samuel 17:25 during the time of Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jether.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֶתֶר",
+      "יִתְרָא",
+      "יֶ֫תֶר"
+    ]
+  },
+  "key_references": [
+    "10017025"
+  ],
+  "references": [
+    "10017025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100170250131"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100170250161"
+      ]
+    ]
+  }
+}

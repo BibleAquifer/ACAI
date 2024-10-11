@@ -1,0 +1,77 @@
+{
+  "id": "person:Uzal",
+  "primary_id": "person:Uzal",
+  "alternate_sources": {
+    "aquifer": [
+      "8983|Uzal (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000182001001000"
+    ],
+    "tipnr": [
+      "Uzal@Gen.10.27-1Ch"
+    ],
+    "vizbible": [
+      "recFdaXVBStuipt5G"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joktan",
+  "siblings": [
+    "person:Almodad",
+    "person:Sheleph",
+    "person:Hazarmaveth",
+    "person:Jerah",
+    "person:Hadoram.2",
+    "person:Diklah",
+    "person:Obal",
+    "person:Abimael",
+    "person:Sheba.2",
+    "person:Ophir",
+    "person:Havilah.2",
+    "person:Jobab"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "000182001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uzal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uzal",
+          "article": "person:Uzal",
+          "description": "Uzal, mentioned in Genesis 10:27, was a man living at the time of the patriarchs, the son of Joktan, and brother of Almodad, Sheleph, Hazarmaveth, Jerah, Hadoram, Diklah, Obal, Abimael, Sheba, Ophir, Havilah, and Jobab."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אוּזָל"
+    ]
+  },
+  "key_references": [
+    "01010027",
+    "13001021"
+  ],
+  "references": [
+    "01010027",
+    "13001021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100270041"
+      ],
+      [
+        "o130010210041"
+      ]
+    ]
+  }
+}

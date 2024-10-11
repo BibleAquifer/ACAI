@@ -1,0 +1,99 @@
+{
+  "id": "place:Naioth",
+  "primary_id": "place:Naioth",
+  "alternate_sources": {
+    "aquifer": [
+      "7296|Naioth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004777001001000"
+    ],
+    "tipnr": [
+      "Naioth@1Sa.19.18-"
+    ],
+    "vizbible": [
+      "rec3YlUMCDBYgpxsL"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004777001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Naioth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Naioth",
+          "gloss": "Naioth",
+          "description": "A location near Ramah where David and Samuel went when the former had to flee from Saul."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נָיֹות",
+      "נָוִית"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.83273947023218",
+      "lon": "35.1801628605877"
+    },
+    "vizbible": {
+      "lat": "31.83273947023218",
+      "lon": "35.1801628605877"
+    }
+  },
+  "key_references": [
+    "09019018"
+  ],
+  "references": [
+    "09019018",
+    "09019019",
+    "09019022",
+    "09019023",
+    "09020001",
+    "09021001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090190180212"
+      ],
+      [
+        "o090190190072"
+      ],
+      [
+        "o090190220192"
+      ],
+      [
+        "o090190230051"
+      ],
+      [
+        "o090190230192"
+      ],
+      [
+        "o090200010042"
+      ]
+    ]
+  }
+}

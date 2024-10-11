@@ -1,0 +1,77 @@
+{
+  "id": "deity:Righteousness",
+  "primary_id": "deity:Lord",
+  "alternate_sources": {
+    "aquifer": [
+      "8037|Righteousness|TyndaleBibleDictionary",
+      "280058|righteousness|FIAKeyTerms"
+    ],
+    "ubsdbh": [
+      "002823001001000"
+    ],
+    "tipnr": [
+      "Righteousness|LORD@Gen.1.1-Heb"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "002823001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Righteousness (LORD)",
+      "alternate_labels": [
+        "LORD",
+        "Righteous Saviour",
+        "LORD our Righteousness"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "LORD",
+          "article": "deity:Righteousness",
+          "description": "The name of God equated with “Righteousness” in Jeremiah 23:6 and 33:16."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Lord"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יהוה",
+      "יְהֹוִה",
+      "3071+",
+      "אֶל",
+      "בְּ",
+      "וְ",
+      "בּוֹא",
+      "כְּ",
+      "לְ",
+      "לֹא",
+      "נְאֻם"
+    ]
+  },
+  "key_references": [
+    "24023006",
+    "24033016"
+  ],
+  "references": [
+    "24023006",
+    "24033016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240230060111"
+      ],
+      [
+        "o240330160121"
+      ]
+    ]
+  }
+}

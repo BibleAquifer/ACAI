@@ -1,0 +1,95 @@
+{
+  "id": "flora:Flax",
+  "primary_id": "flora:Flax",
+  "alternate_sources": {
+    "aquifer": [
+      "5274|Flax|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006059001001000"
+    ],
+    "ubsflora": [
+      "flora:5.1.7"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Plants for Everyday Use",
+  "ubsdbh": [
+    "006059001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Flax",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Flax",
+          "article": "flora:Flax",
+          "description": "A plant about a meter tall with narrow leaves and bright blue flowers, known for its fibers used to make linen cloth and seeds that produce oil."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "פֵּשֶׁת"
+    ]
+  },
+  "key_references": [
+    "02028042",
+    "02009031",
+    "28002007"
+  ],
+  "references": [
+    "02009031",
+    "06002006",
+    "07015014",
+    "20031013",
+    "23019009",
+    "28002007",
+    "28002011",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020090310013"
+      ],
+      [
+        "o020090310073"
+      ],
+      [
+        "o060020060052"
+      ],
+      [
+        "o070150140172"
+      ],
+      [
+        "o200310130032"
+      ],
+      [
+        "o230190090031"
+      ],
+      [
+        "o280020070152",
+        "o280020070153"
+      ],
+      [
+        "o280020110102",
+        "o280020110103"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o060020060072"
+      ],
+      [
+        "o280020110112"
+      ]
+    ]
+  }
+}

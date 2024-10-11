@@ -1,0 +1,81 @@
+{
+  "id": "person:Azariah.7",
+  "primary_id": "person:Azariah.7",
+  "alternate_sources": {
+    "aquifer": [
+      "3902|Azariah|TyndaleBibleDictionary",
+      "3901|Azariah, Prayer of|TyndaleBibleDictionary",
+      "26354|Azariah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005358001007000",
+      "005358001009000"
+    ],
+    "tipnr": [
+      "Azariah@1Ch.6.13-Ezr"
+    ],
+    "vizbible": [
+      "recMXu59HJUXdNeAR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hilkiah.2",
+  "offspring": [
+    "person:Seraiah.2"
+  ],
+  "siblings": [
+    "person:Gemariah"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005358001007000",
+    "005358001009000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azariah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azariah",
+          "article": "person:Azariah.7",
+          "description": "A priest of the tribe of Levi during the divided kingdom, son of Hilkiah and father of Seraiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13005039",
+    "13005040",
+    "13009011",
+    "15007001"
+  ],
+  "references": [
+    "13005039",
+    "13005040",
+    "13009011",
+    "15007001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050390081"
+      ],
+      [
+        "o130050400012"
+      ],
+      [
+        "o130090110012"
+      ],
+      [
+        "o150070010121"
+      ]
+    ]
+  }
+}

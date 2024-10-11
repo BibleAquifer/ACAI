@@ -1,0 +1,92 @@
+{
+  "id": "place:Baal",
+  "primary_id": "place:Baalath-beer",
+  "alternate_sources": {
+    "aquifer": [
+      "3937|Baal (Idol)|TyndaleBibleDictionary",
+      "3944|Baal (Place)|TyndaleBibleDictionary",
+      "26355|Baal|UWTranslationWords",
+      "132347|Baal|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001082002001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/19711"
+    ],
+    "tipnr": [
+      "Baal|Baalath-beer@Jos.19.8-1Ch"
+    ],
+    "vizbible": [
+      "recEqQREaXQbx8Uuf"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001082002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baal",
+      "alternate_labels": [
+        "Ballath",
+        "Baalath-beer",
+        "Baalath",
+        "Baalath-Beer",
+        "Baalat-Beor",
+        "Baalath Beer"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Baalath-beer"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בַּעַל",
+      "בַּ֫עַל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    },
+    "recogito": {
+      "lat": "51.6121912",
+      "lon": "6.1143677"
+    },
+    "vizbible": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    }
+  },
+  "key_references": [
+    "06019008",
+    "13004033"
+  ],
+  "references": [
+    "06019008",
+    "13004033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040330081"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "realia:Quadrans",
+  "primary_id": "realia:Quadrans",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.78"
+    ],
+    "ubsrealia": [
+      "realia:11.6.2.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.78"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Quadrans",
+      "alternate_labels": [
+        "Penny"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Quadrans",
+          "article": "realia:Quadrans",
+          "description": "A small Roman copper coin worth 1/64 of a denarius, similar to a penny."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κοδράντης"
+    ]
+  },
+  "key_references": [
+    "40005026",
+    "41012041",
+    "41012042"
+  ],
+  "references": [
+    "40005026",
+    "41012042"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40005026013"
+      ],
+      [
+        "n41012042011"
+      ]
+    ]
+  }
+}

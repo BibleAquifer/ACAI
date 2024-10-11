@@ -1,0 +1,242 @@
+{
+  "id": "place:Persia",
+  "primary_id": "place:Persia",
+  "alternate_sources": {
+    "aquifer": [
+      "7674|Persia, Persians|TyndaleBibleDictionary",
+      "26949|Persia|UWTranslationWords",
+      "132455|Persia|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "ab9696f"
+    ],
+    "tipnr": [
+      "Persia@2Ch.36.20-Dan"
+    ],
+    "vizbible": [
+      "rec1TAitFuG2xVnbt"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q389688"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Persia",
+      "alternate_labels": [
+        "Apharsite",
+        "Apharsites",
+        "Persians",
+        "Persian",
+        "Paras"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Persia",
+          "gloss": "Persia",
+          "description": "A nation and its territory, which was greatly expanded during the reign of Cyrus I."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Persia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.798311",
+      "lon": "48.514966"
+    },
+    "vizbible": {
+      "lat": "34.798311",
+      "lon": "48.514966"
+    }
+  },
+  "key_references": [
+    "15001001",
+    "14036020"
+  ],
+  "references": [
+    "14036020",
+    "14036022",
+    "14036023",
+    "15001001",
+    "15001002",
+    "15001008",
+    "15003007",
+    "15004003",
+    "15004005",
+    "15004007",
+    "15004009",
+    "15004024",
+    "15006014",
+    "15007001",
+    "15009009",
+    "16012022",
+    "17001003",
+    "17001014",
+    "17001018",
+    "17001019",
+    "17010002",
+    "26027010",
+    "26038005",
+    "27005028",
+    "27006009",
+    "27006013",
+    "27006016",
+    "27006029",
+    "27008020",
+    "27010001",
+    "27010013",
+    "27010020",
+    "27011002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140360200141"
+      ],
+      [
+        "o140360220051"
+      ],
+      [
+        "o140360220171"
+      ],
+      [
+        "o140360230051"
+      ],
+      [
+        "o150010010051"
+      ],
+      [
+        "o150010010171"
+      ],
+      [
+        "o150010020051"
+      ],
+      [
+        "o150010080041"
+      ],
+      [
+        "o150030070211"
+      ],
+      [
+        "o150040030271"
+      ],
+      [
+        "o150040050101"
+      ],
+      [
+        "o150040050151"
+      ],
+      [
+        "o150040070141"
+      ],
+      [
+        "o150040090121"
+      ],
+      [
+        "o150040240161"
+      ],
+      [
+        "o150060140231"
+      ],
+      [
+        "o150070010071"
+      ],
+      [
+        "o150090090131"
+      ],
+      [
+        "o160120220142"
+      ],
+      [
+        "o170010030101"
+      ],
+      [
+        "o170010140121"
+      ],
+      [
+        "o170010180051"
+      ],
+      [
+        "o170010190111"
+      ],
+      [
+        "o170100020202"
+      ],
+      [
+        "o260270100011"
+      ],
+      [
+        "o260380050011"
+      ],
+      [
+        "o270050280062"
+      ],
+      [
+        "o270060090122"
+      ],
+      [
+        "o270060130372"
+      ],
+      [
+        "o270060160142"
+      ],
+      [
+        "o270060290091"
+      ],
+      [
+        "o270080200082"
+      ],
+      [
+        "o270100010051"
+      ],
+      [
+        "o270100130031"
+      ],
+      [
+        "o270100130211"
+      ],
+      [
+        "o270100200111"
+      ],
+      [
+        "o270110020102"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270100121"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270100101"
+      ]
+    ]
+  }
+}

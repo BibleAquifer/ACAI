@@ -1,0 +1,87 @@
+{
+  "id": "place:Gimzo",
+  "primary_id": "place:Gimzo",
+  "alternate_sources": {
+    "aquifer": [
+      "5472|Gimzo|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5dd9e3"
+    ],
+    "ubsdbh": [
+      "001447001001000"
+    ],
+    "tipnr": [
+      "Gimzo@2Ch.28.18"
+    ],
+    "vizbible": [
+      "recrFG4qB1JRyXGSu"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2613825"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001447001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gimzo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gimzo",
+          "gloss": "Gimzo",
+          "description": "A town captured by the Philistines in the days of King Ahaz; modern Jimzu, 24 kilometers east-southeast of Joppa."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גִּמְזֹו",
+      "גִּמְזוֹ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.928659",
+      "lon": "34.943219"
+    },
+    "vizbible": {
+      "lat": "31.928659",
+      "lon": "34.943219"
+    }
+  },
+  "key_references": [
+    "14028018"
+  ],
+  "references": [
+    "14028018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140280180221"
+      ]
+    ]
+  }
+}

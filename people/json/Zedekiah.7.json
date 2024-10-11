@@ -1,0 +1,122 @@
+{
+  "id": "person:Zedekiah.7",
+  "primary_id": "person:Zedekiah.7",
+  "alternate_sources": {
+    "aquifer": [
+      "9170|Zedekiah|TyndaleBibleDictionary",
+      "27229|Zedekiah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006132001005000"
+    ],
+    "tipnr": [
+      "Zedekiah@Jer.36.12"
+    ],
+    "vizbible": [
+      "recOYSO3eyz8CG0lg"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hananiah.13",
+  "ubsdbh": [
+    "006132001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zedekiah (Jeremiah 36:12)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zedekiah (Jeremiah 36:12)",
+          "article": "person:Zedekiah.7",
+          "description": "Zedekiah, son of Hananiah, was a man living during the time of the divided kingdom, mentioned in Jeremiah 36:12."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24036012"
+  ],
+  "references": [
+    "24036012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240360120232"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360150031",
+          "o240360150041",
+          "o240360150051",
+          "o240360150052",
+          "o240360150053",
+          "o240360150061",
+          "o240360150062",
+          "o240360150063"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360160131",
+          "o240360160141",
+          "o240360160151",
+          "o240360160151ה",
+          "o240360160152",
+          "o240360160161",
+          "o240360160171",
+          "o240360160181",
+          "o240360160182",
+          "o240360160191",
+          "o240360160192"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360170051",
+          "o240360170061",
+          "o240360170071",
+          "o240360170072",
+          "o240360170081",
+          "o240360170091",
+          "o240360170101",
+          "o240360170111",
+          "o240360170121",
+          "o240360170122",
+          "o240360170131",
+          "o240360170132",
+          "o240360170141",
+          "o240360170142",
+          "o240360170143"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o240360190051",
+          "o240360190061",
+          "o240360190071",
+          "o240360190081",
+          "o240360190082",
+          "o240360190091",
+          "o240360190092",
+          "o240360190101",
+          "o240360190111",
+          "o240360190121",
+          "o240360190131"
+        ]
+      }
+    ]
+  }
+}

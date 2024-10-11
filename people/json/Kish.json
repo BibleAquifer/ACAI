@@ -1,0 +1,164 @@
+{
+  "id": "person:Kish",
+  "primary_id": "person:Kish",
+  "alternate_sources": {
+    "aquifer": [
+      "6622|Kish|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Kish@1Sa.9.1-Act"
+    ],
+    "vizbible": [
+      "recz3nyrwezX2XB6C"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abiel.2",
+  "mother": "person:Maacah.6",
+  "offspring": [
+    "person:Saul.2"
+  ],
+  "siblings": [
+    "person:Ner.2",
+    "person:Abdon.3",
+    "person:Zur.3",
+    "person:Baal",
+    "person:Nadab.4",
+    "person:Gedor",
+    "person:Ahio.3",
+    "person:Zecher",
+    "person:Mikloth"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kish",
+      "alternate_labels": [
+        "Cis"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kish",
+          "article": "person:Kish",
+          "description": "Father of King Saul from the tribe of Benjamin who lived during Israel’s united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09009001",
+    "09014051",
+    "44013021"
+  ],
+  "references": [
+    "09009001",
+    "09009003",
+    "09010011",
+    "09010021",
+    "09014051",
+    "10021014",
+    "13008030",
+    "13008033",
+    "13009036",
+    "13009039",
+    "13012001",
+    "13026028",
+    "44013021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090090010071"
+      ],
+      [
+        "o090090030032"
+      ],
+      [
+        "o090090030071"
+      ],
+      [
+        "o090100110201"
+      ],
+      [
+        "o090100210131"
+      ],
+      [
+        "o090140510012"
+      ],
+      [
+        "o100210140111"
+      ],
+      [
+        "o130080300052"
+      ],
+      [
+        "o130080330041"
+      ],
+      [
+        "o130080330052"
+      ],
+      [
+        "o130090360052"
+      ],
+      [
+        "o130090390041"
+      ],
+      [
+        "o130090390052"
+      ],
+      [
+        "o130120010111"
+      ],
+      [
+        "o130260280071"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44013021012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130080320061"
+      ],
+      [
+        "o130090380061"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o090090030111",
+          "o090090030121",
+          "o090090030131",
+          "o090090030132",
+          "o090090030141",
+          "o090090030151",
+          "o090090030161",
+          "o090090030162",
+          "o090090030163",
+          "o090090030171",
+          "o090090030172",
+          "o090090030181",
+          "o090090030191",
+          "o090090030201",
+          "o090090030211",
+          "o090090030212"
+        ]
+      }
+    ]
+  }
+}

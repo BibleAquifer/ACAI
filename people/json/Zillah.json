@@ -1,0 +1,82 @@
+{
+  "id": "person:Zillah",
+  "primary_id": "person:Zillah",
+  "alternate_sources": {
+    "aquifer": [
+      "9222|Zillah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006201001001000"
+    ],
+    "tipnr": [
+      "Zillah@Gen.4.19-"
+    ],
+    "vizbible": [
+      "recQ5FX4gM2QUZg0z"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Lamech"
+  ],
+  "offspring": [
+    "person:Tubal-cain",
+    "person:Naamah.2"
+  ],
+  "ubsdbh": [
+    "006201001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zillah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zillah",
+          "article": "person:Zillah",
+          "description": "Zillah was a woman living before the Flood, married to Lamech, and mother of Tubal-cain and Naamah, first mentioned in Genesis 4:19."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01004019",
+    "01004022",
+    "01004023"
+  ],
+  "references": [
+    "01004019",
+    "01004022",
+    "01004023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040190111"
+      ],
+      [
+        "o010040220012"
+      ],
+      [
+        "o010040230052"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010040220031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010040230061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "place:Achzib.2",
+  "primary_id": "place:Achzib.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3346|Achzib|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000367001002000"
+    ],
+    "tipnr": [
+      "Achzib@Jos.19.29-Jdg"
+    ],
+    "vizbible": [
+      "recYweWcGLcvYVDDF"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000367001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Achzib (of Asher)",
+      "alternate_labels": [
+        "Aczib",
+        "Akzib",
+        "Achzib"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Achzib.2",
+          "gloss": "Achzib (of Asher)",
+          "description": "A coastal town in the territory of Asher, southwest of the city of Tyre."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asher",
+  "nearby_places": [
+    "place:Tyre"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַכְזִיב",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.04846799",
+      "lon": "35.10220253"
+    },
+    "vizbible": {
+      "lat": "33.04846799",
+      "lon": "35.10220253"
+    }
+  },
+  "key_references": [
+    "07001031",
+    "06019029"
+  ],
+  "references": [
+    "06019029",
+    "07001031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190290161"
+      ],
+      [
+        "o070010310131"
+      ]
+    ]
+  }
+}

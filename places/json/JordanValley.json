@@ -1,0 +1,36 @@
+{
+  "id": "place:JordanValley",
+  "primary_id": "place:JordanValley",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:JordanValley",
+          "gloss": "Jordan Valley",
+          "description": "The relatively flat area of land through which the Jordan River flows, from the Sea of Galilee to the Dead Sea; part of the larger Jordan Rift Valley, also known as the Great Rift Valley."
+        }
+      ],
+      "preferred_label": "Jordan Valley"
+    }
+  },
+  "associated_places": [
+    "place:Jordan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "valley"
+    ]
+  },
+  "key_references": [
+    "01013010",
+    "01019017"
+  ]
+}

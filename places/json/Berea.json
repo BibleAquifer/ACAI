@@ -1,0 +1,122 @@
+{
+  "id": "place:Berea",
+  "primary_id": "place:Berea",
+  "alternate_sources": {
+    "aquifer": [
+      "4128|Berea|TyndaleBibleDictionary",
+      "26385|Berea|UWTranslationWords",
+      "132075|Berea|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a62fe31"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/22742"
+    ],
+    "tipnr": [
+      "Berea@Act.17.10-"
+    ],
+    "vizbible": [
+      "rech04nnKCaXqzU0U"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q15712213"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Berea",
+      "alternate_labels": [
+        "Berean",
+        "Beroea"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Berea",
+          "gloss": "Berea",
+          "description": "A city in Macedonia where Paul and Silas traveled to after being driven out of Thessalonica."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Berea"
+  ],
+  "nearby_places": [
+    "place:Thessalonica"
+  ],
+  "subregion_of": [
+    "place:Macedonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.5167",
+      "lon": "22.2"
+    },
+    "recogito": {
+      "lat": "40.524528",
+      "lon": "22.204993"
+    },
+    "vizbible": {
+      "lat": "40.524528",
+      "lon": "22.204993"
+    },
+    "biblica-maps": {
+      "lat": "40.52153",
+      "lon": "22.20368"
+    }
+  },
+  "key_references": [
+    "44017010"
+  ],
+  "references": [
+    "44017010",
+    "44017011",
+    "44017013",
+    "44017014",
+    "44017015",
+    "44020004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44017010015"
+      ],
+      [
+        "n44017013013"
+      ],
+      [
+        "n44020004006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44017013023"
+      ],
+      [
+        "n44017014022"
+      ]
+    ]
+  }
+}

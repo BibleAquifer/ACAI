@@ -1,0 +1,121 @@
+{
+  "id": "person:Kareah",
+  "primary_id": "person:Kareah",
+  "alternate_sources": {
+    "aquifer": [
+      "6520|Kareah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006573001001000"
+    ],
+    "tipnr": [
+      "Kareah@2Ki.25.23-Jer"
+    ],
+    "vizbible": [
+      "rec2MkBiO7hDR5gOB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Johanan.5",
+    "person:Jonathan.13"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "ubsdbh": [
+    "006573001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kareah",
+      "alternate_labels": [
+        "Careah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kareah",
+          "article": "person:Kareah",
+          "description": "Father of the military officer Johanan who opposed the governor Gedaliah during the time of the Isrealite return from exile. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קֹרַח",
+      "קֹ֫רַח"
+    ]
+  },
+  "key_references": [
+    "12025023",
+    "24040008",
+    "24041011"
+  ],
+  "references": [
+    "12025023",
+    "24040008",
+    "24040013",
+    "24040015",
+    "24040016",
+    "24041011",
+    "24041013",
+    "24041014",
+    "24041016",
+    "24042001",
+    "24042008",
+    "24043002",
+    "24043004",
+    "24043005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120250230221"
+      ],
+      [
+        "o240400080111"
+      ],
+      [
+        "o240400130031"
+      ],
+      [
+        "o240400150031"
+      ],
+      [
+        "o240400160081"
+      ],
+      [
+        "o240410110041"
+      ],
+      [
+        "o240410130111"
+      ],
+      [
+        "o240410140141"
+      ],
+      [
+        "o240410160041"
+      ],
+      [
+        "o240420010071"
+      ],
+      [
+        "o240420080051"
+      ],
+      [
+        "o240430020071"
+      ],
+      [
+        "o240430040051"
+      ],
+      [
+        "o240430050041"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "fauna:MoleRat",
+  "primary_id": "fauna:MoleRat",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002454001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.25"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "002454001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mole Rat",
+      "alternate_labels": [
+        "Molerat",
+        "Prairie Dog"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mole Rat",
+          "article": "fauna:MoleRat",
+          "description": "A blind, underground rodent with large front teeth that makes small soil heaps on the surface."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֲפַרְפָּרָה"
+    ]
+  },
+  "key_references": [
+    "23002020"
+  ],
+  "references": [
+    "23002020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230020200161"
+      ]
+    ]
+  }
+}

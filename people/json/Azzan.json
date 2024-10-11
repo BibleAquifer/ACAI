@@ -1,0 +1,54 @@
+{
+  "id": "person:Azzan",
+  "primary_id": "person:Azzan",
+  "alternate_sources": {
+    "aquifer": [
+      "3925|Azzan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005345001001000"
+    ],
+    "tipnr": [
+      "Azzan@Num.34.26"
+    ],
+    "vizbible": [
+      "recovhzkcgIEhOYJ7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Paltiel.2"
+  ],
+  "ubsdbh": [
+    "005345001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azzan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azzan",
+          "article": "person:Azzan",
+          "description": "A man living during the time of Egypt and the wilderness, father of Paltiel, mentioned in Numbers 34:26."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04034026"
+  ],
+  "references": [
+    "04034026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340260071"
+      ]
+    ]
+  }
+}

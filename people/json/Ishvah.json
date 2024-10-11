@@ -1,0 +1,62 @@
+{
+  "id": "person:Ishvah",
+  "primary_id": "person:Ishvah",
+  "alternate_sources": {
+    "aquifer": [
+      "6085|Ishvah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ishvah@Gen.46.17-1Ch"
+    ],
+    "vizbible": [
+      "recWEHlm4JehJYbo8"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Asher",
+  "siblings": [
+    "person:Imnah",
+    "person:Ishvi.2",
+    "person:Beriah",
+    "person:Serah"
+  ],
+  "tribe": "group:Asher",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ishvah",
+      "alternate_labels": [
+        "Ishuah",
+        "Isuah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ishvah",
+          "article": "person:Ishvah",
+          "description": "A member of the tribe of Asher and son of Asher, who lived during the time of Egypt and the wilderness, mentioned in Genesis 46:17."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046017",
+    "13007030"
+  ],
+  "references": [
+    "01046017",
+    "13007030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460170042"
+      ],
+      [
+        "o130070300042"
+      ]
+    ]
+  }
+}

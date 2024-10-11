@@ -1,0 +1,63 @@
+{
+  "id": "person:Adiel.2",
+  "primary_id": "person:Adiel.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3378|Adiel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Adiel@1Ch.9.12-Neh",
+      "Azarel|Adiel@1Ch.9.12-Neh"
+    ],
+    "vizbible": [
+      "recG5YLJMenNDESxO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jahzerah",
+  "offspring": [
+    "person:Maasai"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adiel (1 Chronicles 9:12)",
+      "alternate_labels": [
+        "Azareel",
+        "Azarel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Adiel (1 Chronicles 9:12)",
+          "article": "person:Adiel.2",
+          "description": "A Levite living at the time of exile and return, son of Jahzerah and father of Maasai, also known as Azarel, mentioned in 1 Chronicles 9:12 and Nehemiah 11:13."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Azarel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009012",
+    "16011013"
+  ],
+  "references": [
+    "13009012",
+    "16011013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090120101"
+      ],
+      [
+        "o160110130091"
+      ]
+    ]
+  }
+}

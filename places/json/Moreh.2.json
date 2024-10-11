@@ -1,0 +1,85 @@
+{
+  "id": "place:Moreh.2",
+  "primary_id": "place:Moreh.2",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003812003002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/283366"
+    ],
+    "tipnr": [
+      "Moreh@Jdg.7.1"
+    ],
+    "vizbible": [
+      "recPIJiHsYlI3MX4B"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003812003002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hill of Moreh",
+      "alternate_labels": [
+        "Moreh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Moreh.2",
+          "gloss": "Hill of Moreh",
+          "description": "A hill where the Midianites encamped during time of Gideon. "
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מֹורֶה",
+      "מוֹרֶה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "hill"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.61773064",
+      "lon": "35.35737645"
+    },
+    "recogito": {
+      "lat": "32.22162",
+      "lon": "35.14471"
+    },
+    "vizbible": {
+      "lat": "32.61773064",
+      "lon": "35.35737645"
+    }
+  },
+  "key_references": [
+    "07007001"
+  ],
+  "references": [
+    "07007001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070070010192"
+      ]
+    ]
+  }
+}

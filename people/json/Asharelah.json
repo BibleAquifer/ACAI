@@ -1,0 +1,65 @@
+{
+  "id": "person:Asharelah",
+  "primary_id": "person:Asharelah",
+  "alternate_sources": {
+    "aquifer": [
+      "3791|Asharelah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jesharelah|Asharelah@1Ch.25.2-",
+      "Asharelah@1Ch.25.2-"
+    ],
+    "vizbible": [
+      "recKAGslBR8XPE2K6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Asaph.2",
+  "siblings": [
+    "person:Zaccur.4",
+    "person:Joseph.12",
+    "person:Nethaniah.2"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Asharelah",
+      "alternate_labels": [
+        "Jesharelah",
+        "Asarelah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Asharelah",
+          "article": "person:Asharelah",
+          "description": "A Levite from the divided kingdom, son of Asaph, also called Jesharelah, mentioned in 1 Chronicles 25:2 and 1 Chronicles 25:14."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jesharelah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13025002",
+    "13025014"
+  ],
+  "references": [
+    "13025002",
+    "13025014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130250020062"
+      ],
+      [
+        "o130250140021"
+      ]
+    ]
+  }
+}

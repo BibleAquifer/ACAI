@@ -1,0 +1,104 @@
+{
+  "id": "place:Sharon.2",
+  "primary_id": "place:Sharon.2",
+  "alternate_sources": {
+    "tipnr": [
+      "Sharon@1Ch.27.29-Act",
+      "Sharon@1Ch.27.29-Act",
+      "Sharon@1Ch.27.29-Act"
+    ],
+    "vizbible": [
+      "recZzd6UIbBEJciWQ"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sharon Plain",
+      "alternate_labels": [
+        "Sharonite",
+        "Saron",
+        "Sharon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sharon.1",
+          "gloss": "Sharon Plain",
+          "description": "A plain along the coast of the Mediterranean."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Sharon.2",
+    "group:Sharon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "plain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.639068",
+      "lon": "34.945929"
+    },
+    "vizbible": {
+      "lat": "32.639068",
+      "lon": "34.945929"
+    }
+  },
+  "key_references": [
+    "44009035",
+    "23035002",
+    "23033009"
+  ],
+  "references": [
+    "13027029",
+    "22002001",
+    "23033009",
+    "23035002",
+    "23065010",
+    "44009035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130270290042"
+      ],
+      [
+        "o130270290072"
+      ],
+      [
+        "o220020010032"
+      ],
+      [
+        "o230330090082"
+      ],
+      [
+        "o230350020133"
+      ],
+      [
+        "o230650100022"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44009035010"
+      ]
+    ]
+  }
+}

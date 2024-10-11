@@ -1,0 +1,97 @@
+{
+  "id": "place:Dalmatia",
+  "primary_id": "place:Dalmatia",
+  "alternate_sources": {
+    "aquifer": [
+      "4739|Dalmatia|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae86cd7"
+    ],
+    "ubsdgnt": [
+      "93.457"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/981522",
+      "http://pleiades.stoa.org/places/981522"
+    ],
+    "tipnr": [
+      "Dalmatia@2Ti.4.10"
+    ],
+    "vizbible": [
+      "rec5ngWHMuEkZ9d14"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1330965"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.457"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dalmatia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dalmatia",
+          "gloss": "Dalmatia",
+          "description": "The southern part of Illyricum."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Illyricum"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Δαλματία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "43.515484",
+      "lon": "16.071538"
+    },
+    "recogito": {
+      "lat": "42.5",
+      "lon": "17.5"
+    },
+    "vizbible": {
+      "lat": "43.515484",
+      "lon": "16.071538"
+    }
+  },
+  "key_references": [
+    "55004010"
+  ],
+  "references": [
+    "55004010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n55004010018"
+      ]
+    ]
+  }
+}

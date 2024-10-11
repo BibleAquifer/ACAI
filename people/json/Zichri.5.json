@@ -1,0 +1,63 @@
+{
+  "id": "person:Zichri.5",
+  "primary_id": "person:Zichri.5",
+  "alternate_sources": {
+    "aquifer": [
+      "9214|Zichri, Zicri|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Zabdi|Zichri@1Ch.9.15-Neh",
+      "Zichri@1Ch.9.15-Neh"
+    ],
+    "vizbible": [
+      "recyu00oPl9c6jMWp"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Asaph.3",
+  "offspring": [
+    "person:Mica"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zichri (1 Chronicles 9:15)",
+      "alternate_labels": [
+        "Zabdi",
+        "Zikri"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zichri (1 Chronicles 9:15)",
+          "article": "person:Zichri.5",
+          "description": "Zichri, also called Zikri or Zabdi, was a Levite during the time of the exile and return, mentioned in 1 Chronicles 9:15, and was the son of Asaph and the father of Mica."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zabdi.4"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009015",
+    "16011017"
+  ],
+  "references": [
+    "13009015",
+    "16011017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090150081"
+      ],
+      [
+        "o160110170051"
+      ]
+    ]
+  }
+}

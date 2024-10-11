@@ -1,0 +1,41 @@
+{
+  "id": "place:Rabbah.2",
+  "primary_id": "place:Rabbah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7893|Rabbah|TyndaleBibleDictionary",
+      "27005|Rabbah|UWTranslationWords"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rabbah.2",
+          "gloss": "Rabbah (of Judah)",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ],
+      "preferred_label": "Rabbah (of Judah)"
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "06015060"
+  ]
+}

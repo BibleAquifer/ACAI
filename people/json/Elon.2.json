@@ -1,0 +1,65 @@
+{
+  "id": "person:Elon.2",
+  "primary_id": "person:Elon.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5046|Elon (Person)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Elon@Gen.46.14-Num"
+    ],
+    "vizbible": [
+      "recDcJyTBzshxHqmO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zebulun",
+  "siblings": [
+    "person:Sered",
+    "person:Jahleel"
+  ],
+  "tribe": "group:Zebulun",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elon (Genesis 46:14)",
+      "alternate_labels": [
+        "Elonite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elon (Genesis 46:14)",
+          "article": "person:Elon.2",
+          "description": "Elon, son of Zebulun and brother of Sered and Jahleel, was a man of the tribe of Zebulun living during the time of Egypt and the wilderness, first mentioned in Genesis 46:14."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Elon"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046014",
+    "04026026"
+  ],
+  "references": [
+    "01046014",
+    "04026026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460140042"
+      ],
+      [
+        "o040260260072"
+      ],
+      [
+        "o040260260092"
+      ]
+    ]
+  }
+}

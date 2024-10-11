@@ -1,0 +1,109 @@
+{
+  "id": "place:Italy",
+  "primary_id": "place:Italy",
+  "alternate_sources": {
+    "aquifer": [
+      "6104|Italy|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a7184a7"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3175395"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/1052"
+    ],
+    "tipnr": [
+      "Italy@Act.18.2-Heb"
+    ],
+    "vizbible": [
+      "rec17BV2zJmVUdbIV"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q913582"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Italy",
+      "alternate_labels": [
+        "Italian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Italy",
+          "gloss": "Italy",
+          "description": "A peninsula in Southern Europe, surrounded by the Adriatic, Ionian, and Tyrrhenian seas."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Italy"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "41.9",
+      "lon": "12.48333333333333"
+    },
+    "recogito": {
+      "lat": "42.78740074008558",
+      "lon": "12.0810743"
+    },
+    "vizbible": {
+      "lat": "42.78740074008558",
+      "lon": "12.0810743"
+    }
+  },
+  "key_references": [
+    "58013024",
+    "44027001"
+  ],
+  "references": [
+    "44010001",
+    "44018002",
+    "44027001",
+    "44027006",
+    "58013024",
+    "58013025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44010001013"
+      ],
+      [
+        "n44018002014"
+      ],
+      [
+        "n44027001009"
+      ],
+      [
+        "n44027006010"
+      ],
+      [
+        "n58013024015"
+      ]
+    ]
+  }
+}

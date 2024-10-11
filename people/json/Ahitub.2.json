@@ -1,0 +1,82 @@
+{
+  "id": "person:Ahitub.2",
+  "primary_id": "person:Ahitub.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3460|Ahitub|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000269001002000"
+    ],
+    "tipnr": [
+      "Ahitub@2Sa.8.17-1Ch"
+    ],
+    "vizbible": [
+      "rec3XDZZ6PvilkHzB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Amariah",
+  "offspring": [
+    "person:Zadok.2"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000269001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahitub (Son of Amariah)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahitub (Son of Amariah)",
+          "article": "person:Ahitub.2",
+          "description": "A high priest and father of Zadok from the tribe of Levi, during the time of Israel’s united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִיטוּב"
+    ]
+  },
+  "key_references": [
+    "10008017",
+    "13006007",
+    "13006008"
+  ],
+  "references": [
+    "10008017",
+    "13005033",
+    "13005034",
+    "13006037",
+    "13018016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080170031"
+      ],
+      [
+        "o130050330081"
+      ],
+      [
+        "o130050340012"
+      ],
+      [
+        "o130060370051"
+      ],
+      [
+        "o130180160031"
+      ]
+    ]
+  }
+}

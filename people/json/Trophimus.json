@@ -1,0 +1,80 @@
+{
+  "id": "person:Trophimus",
+  "primary_id": "person:Trophimus",
+  "alternate_sources": {
+    "aquifer": [
+      "8932|Trophimus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.365"
+    ],
+    "tipnr": [
+      "Trophimus@Act.20.4-2Ti"
+    ],
+    "vizbible": [
+      "receoHTP3qEbiD7HB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.365"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Trophimus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Trophimus",
+          "article": "person:Trophimus",
+          "description": "Trophimus was a Christian from Ephesus and a companion of Paul during the time of the New Testament, first mentioned in Acts 20:4."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Τρόφιμος"
+    ]
+  },
+  "key_references": [
+    "44020004",
+    "44021029",
+    "55004020"
+  ],
+  "references": [
+    "44020004",
+    "44021029",
+    "55004020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44020004021"
+      ],
+      [
+        "n44021029004"
+      ],
+      [
+        "n55004020005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44021029012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n55004020010"
+      ]
+    ]
+  }
+}

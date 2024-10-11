@@ -1,0 +1,50 @@
+{
+  "id": "fauna:WildCat",
+  "primary_id": "fauna:WildCat",
+  "alternate_sources": {
+    "ubsfauna": [
+      "fauna:2.9"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wild Cat",
+      "alternate_labels": [
+        "Cat"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wild Cat",
+          "article": "fauna:WildCat",
+          "description": "A small cat often found in forests or grasslands."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "26005017"
+  ],
+  "references": [
+    "26005017",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260050170042"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260050170062"
+      ]
+    ]
+  }
+}

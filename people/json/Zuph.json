@@ -1,0 +1,68 @@
+{
+  "id": "person:Zuph",
+  "primary_id": "person:Zuph",
+  "alternate_sources": {
+    "aquifer": [
+      "9265|Zuph (Person)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Zophai|Zuph@1Sa.1.1-1Ch",
+      "Zuph@1Sa.1.1-1Ch"
+    ],
+    "vizbible": [
+      "recUn38GuMBUhJWuH"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Elkanah.4",
+  "offspring": [
+    "person:Tohu"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zuph",
+      "alternate_labels": [
+        "Ziph",
+        "Zophai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zuph",
+          "article": "person:Zuph",
+          "description": "Zuph, also known as Zophai or Ziph, was a man of the tribe of Levi during Israel's united kingdom, son of Elkanah and father of Tohu, first mentioned in 1 Samuel 1:1 and also called Zophai in 1 Chronicles 6:26."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zophai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09001001",
+    "13006011",
+    "13006020"
+  ],
+  "references": [
+    "09001001",
+    "13006011",
+    "13006020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090010010181"
+      ],
+      [
+        "o130060110051"
+      ],
+      [
+        "o130060200031"
+      ]
+    ]
+  }
+}

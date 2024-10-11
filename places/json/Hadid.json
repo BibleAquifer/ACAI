@@ -1,0 +1,101 @@
+{
+  "id": "place:Hadid",
+  "primary_id": "place:Hadid",
+  "alternate_sources": {
+    "aquifer": [
+      "5576|Hadid|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a044272"
+    ],
+    "ubsdbh": [
+      "002133001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/687913",
+      "http://pleiades.stoa.org/places/687913"
+    ],
+    "tipnr": [
+      "Hadid@Ezr.2.33-Neh"
+    ],
+    "vizbible": [
+      "recIYLT4Dm34yN17B"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2896356"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002133001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadid",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hadid",
+          "gloss": "Hadid",
+          "description": "A village in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חָדִיד"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.963575",
+      "lon": "34.952536"
+    },
+    "recogito": {
+      "lat": "31.963541",
+      "lon": "34.95178"
+    },
+    "vizbible": {
+      "lat": "31.963575",
+      "lon": "34.952536"
+    }
+  },
+  "key_references": [
+    "15002033",
+    "16011034",
+    "16007037"
+  ],
+  "references": [
+    "15002033",
+    "16007037",
+    "16011034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020330031"
+      ],
+      [
+        "o160070370031"
+      ],
+      [
+        "o160110340011"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "place:Bithynia",
+  "primary_id": "place:Bithynia",
+  "alternate_sources": {
+    "aquifer": [
+      "4259|Bithynia|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5c0cb0"
+    ],
+    "ubsdgnt": [
+      "93.436"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/991389",
+      "http://pleiades.stoa.org/places/991389"
+    ],
+    "tipnr": [
+      "Bithynia@Act.16.7-1Pe"
+    ],
+    "vizbible": [
+      "rec5XS12X23Uadj5G"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q373189"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.436"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bithynia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bithynia",
+          "gloss": "Bithynia",
+          "description": "A province in northern Asia Minor; Paul, Silas, and Timothy tried to enter while traveling through the province of Asia, but were not permitted by the Spirit of Jesus (Acts 16:7)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Asia",
+    "place:Galatia"
+  ],
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Βιθυνία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.905503",
+      "lon": "30.685778"
+    },
+    "recogito": {
+      "lat": "42.5",
+      "lon": "32.5"
+    },
+    "vizbible": {
+      "lat": "42.5",
+      "lon": "32.5"
+    }
+  },
+  "key_references": [
+    "44016007",
+    "60001001"
+  ],
+  "references": [
+    "44016007",
+    "60001001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44016007009"
+      ],
+      [
+        "n60001001013"
+      ]
+    ]
+  }
+}

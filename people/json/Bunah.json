@@ -1,0 +1,66 @@
+{
+  "id": "person:Bunah",
+  "primary_id": "person:Bunah",
+  "alternate_sources": {
+    "aquifer": [
+      "4361|Bunah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000876001001000"
+    ],
+    "tipnr": [
+      "Bunah@1Ch.2.25"
+    ],
+    "vizbible": [
+      "recZEfFW4q5Y2oQ7W"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jerahmeel",
+  "mother": "person:WifeOfJerahmeel",
+  "siblings": [
+    "person:Ram.2",
+    "person:Oren",
+    "person:Ozem.2",
+    "person:Ahijah.4",
+    "person:Onam.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000876001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bunah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bunah",
+          "article": "person:Bunah",
+          "description": "A man from the tribe of Judah, son of Jerahmeel, mentioned in 1 Chronicles 2:25 during the time of Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בּוּנָה"
+    ]
+  },
+  "key_references": [
+    "13002025"
+  ],
+  "references": [
+    "13002025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020250082"
+      ]
+    ]
+  }
+}

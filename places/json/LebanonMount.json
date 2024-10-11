@@ -1,0 +1,101 @@
+{
+  "id": "place:LebanonMount",
+  "primary_id": "place:LebanonMount",
+  "alternate_sources": {
+    "obi": [
+      "ac54760"
+    ],
+    "ubsdbh": [
+      "003514001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/5202215"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678267"
+    ],
+    "tipnr": [
+      "Lebanon_Mount@Jdg.3.3"
+    ],
+    "vizbible": [
+      "rec891ea91lcCoySC"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q333711"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003514001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Lebanon",
+      "alternate_labels": [
+        "Lebanese mountains",
+        "Lebanon mountains",
+        "Lebanon",
+        "mountains of Lebanon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountLebanon",
+          "gloss": "Mount Lebanon",
+          "description": "A range of mountains north of Israel known for the cedar and other trees growing there."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "לְבָנֹון",
+      "לְבָנוֹן",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "mountain range"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.752479",
+      "lon": "35.590804"
+    },
+    "recogito": {
+      "lat": "40.35535",
+      "lon": "-80.0495"
+    },
+    "vizbible": {
+      "lat": "33.752479",
+      "lon": "35.590804"
+    }
+  },
+  "key_references": [
+    "07003003"
+  ],
+  "references": [
+    "07003003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070030030102"
+      ]
+    ]
+  }
+}

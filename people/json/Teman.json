@@ -1,0 +1,84 @@
+{
+  "id": "person:Teman",
+  "primary_id": "person:Teman",
+  "alternate_sources": {
+    "aquifer": [
+      "8776|Teman (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007785002001000"
+    ],
+    "tipnr": [
+      "Teman@Gen.36.11-1Ch"
+    ],
+    "vizbible": [
+      "recDAmjcERkBwkg8Q"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliphaz",
+  "mother": "person:WifeOfEliphaz",
+  "siblings": [
+    "person:Omar",
+    "person:Zepho",
+    "person:Gatam",
+    "person:Kenaz",
+    "person:Amalek",
+    "person:Korah.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "007785002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Teman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Teman",
+          "article": "person:Teman",
+          "description": "Grandson of the patriarch Esau, son of Eliphaz, and a chief of the Edomites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036011",
+    "01036015",
+    "13001053"
+  ],
+  "references": [
+    "01036011",
+    "01036015",
+    "01036042",
+    "13001036",
+    "13001053"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360110041"
+      ],
+      [
+        "o010360150101"
+      ],
+      [
+        "o010360420041"
+      ],
+      [
+        "o130010360031"
+      ],
+      [
+        "o130010530041"
+      ]
+    ]
+  }
+}

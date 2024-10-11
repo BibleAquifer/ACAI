@@ -1,0 +1,137 @@
+{
+  "id": "person:Anak",
+  "primary_id": "person:Anak",
+  "alternate_sources": {
+    "aquifer": [
+      "3588|Anak, Anakim, Anakites|TyndaleBibleDictionary",
+      "26315|Anak|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Anak@Num.13.22-Jdg"
+    ],
+    "vizbible": [
+      "recorTh9mzZLSgrB5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ahiman",
+    "person:Sheshai",
+    "person:Talmai"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anak",
+      "alternate_labels": [
+        "Anakim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anak",
+          "article": "person:Anak",
+          "description": "Ancestor of a race of giants in Canaan. He was the son of Arba."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Anak"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04013022",
+    "05009002",
+    "06014015",
+    "06015013",
+    "06015014"
+  ],
+  "references": [
+    "04013022",
+    "04013028",
+    "04013033",
+    "05001028",
+    "05002010",
+    "05002011",
+    "05002021",
+    "05009002",
+    "06011021",
+    "06011022",
+    "06014012",
+    "06014015",
+    "06015013",
+    "06015014",
+    "06021011",
+    "07001020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130220112"
+      ],
+      [
+        "o040130280132"
+      ],
+      [
+        "o040130330061"
+      ],
+      [
+        "o050010280191"
+      ],
+      [
+        "o050020100092"
+      ],
+      [
+        "o050020110052"
+      ],
+      [
+        "o050020210052"
+      ],
+      [
+        "o050090020051"
+      ],
+      [
+        "o050090020151"
+      ],
+      [
+        "o060110210072"
+      ],
+      [
+        "o060110220031"
+      ],
+      [
+        "o060140120181"
+      ],
+      [
+        "o060140150082"
+      ],
+      [
+        "o060150130172"
+      ],
+      [
+        "o060150140072"
+      ],
+      [
+        "o060150140152"
+      ],
+      [
+        "o060210110072"
+      ],
+      [
+        "o070010200132"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o060110220111"
+      ]
+    ]
+  }
+}

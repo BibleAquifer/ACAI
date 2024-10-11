@@ -1,0 +1,60 @@
+{
+  "id": "person:FortuneTeller",
+  "primary_id": "person:FortuneTeller",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Fortuneteller",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Fortuneteller",
+          "description": "A fortune-telling slave girl."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44016016",
+    "44016017"
+  ],
+  "references": [
+    "44016016",
+    "44016017"
+  ],
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44016016008"
+      ],
+      [
+        "n44016017008"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n44016017009",
+          "n44016017010",
+          "n44016017011",
+          "n44016017012",
+          "n44016017013",
+          "n44016017014",
+          "n44016017015",
+          "n44016017016",
+          "n44016017017",
+          "n44016017018",
+          "n44016017019",
+          "n44016017020",
+          "n44016017021",
+          "n44016017022"
+        ]
+      }
+    ]
+  }
+}

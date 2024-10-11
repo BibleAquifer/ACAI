@@ -1,0 +1,97 @@
+{
+  "id": "place:Hena",
+  "primary_id": "place:Hena",
+  "alternate_sources": {
+    "aquifer": [
+      "5800|Hena|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aab9a5e"
+    ],
+    "ubsdbh": [
+      "001853001001000"
+    ],
+    "tipnr": [
+      "Hena@2Ki.18.34-Isa"
+    ],
+    "vizbible": [
+      "rechEDzh62P6Oq3tQ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001853001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hena",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hena",
+          "gloss": "Hena",
+          "description": "A town or area possibly located in upper Mesopotamia (ABD); conquered by the king of Assyria."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "הֵנַע"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.467725",
+      "lon": "41.964955"
+    },
+    "vizbible": {
+      "lat": "34.467725",
+      "lon": "41.964955"
+    }
+  },
+  "key_references": [
+    "12019013",
+    "12018034",
+    "23037013"
+  ],
+  "references": [
+    "12018034",
+    "12019013",
+    "23037013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120180340081"
+      ],
+      [
+        "o120190130091"
+      ],
+      [
+        "o230370130091"
+      ]
+    ]
+  }
+}

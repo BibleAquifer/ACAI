@@ -1,0 +1,110 @@
+{
+  "id": "place:Gibbethon",
+  "primary_id": "place:Gibbethon",
+  "alternate_sources": {
+    "aquifer": [
+      "5446|Gibbethon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6f048c"
+    ],
+    "ubsdbh": [
+      "001289001001000"
+    ],
+    "tipnr": [
+      "Gibbethon@Jos.19.44-1Ki"
+    ],
+    "vizbible": [
+      "recF7d7nbuyMJEUP2"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q25493256"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001289001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gibbethon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gibbethon",
+          "gloss": "Gibbethon",
+          "description": "A Levitical town in the territory of Dan, assigned to the clan of Kohath; later controlled by the Philistines. King Nadab, son of Jeroboam, of the northern tribes of Israel, was killed there by Baasha, who succeeded him as king (1Ki 15:27–28)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Dan",
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גִּבְּתֹון",
+      "גִּבְּתוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.976623",
+      "lon": "35.004896"
+    },
+    "vizbible": {
+      "lat": "31.976623",
+      "lon": "35.004896"
+    }
+  },
+  "key_references": [
+    "11015027"
+  ],
+  "references": [
+    "06019044",
+    "06021023",
+    "11015027",
+    "11016015",
+    "11016017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190440022"
+      ],
+      [
+        "o060210230081"
+      ],
+      [
+        "o110150270102"
+      ],
+      [
+        "o110150270181"
+      ],
+      [
+        "o110160150161"
+      ],
+      [
+        "o110160170062"
+      ]
+    ]
+  }
+}

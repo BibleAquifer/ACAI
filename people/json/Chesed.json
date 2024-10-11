@@ -1,0 +1,76 @@
+{
+  "id": "person:Chesed",
+  "primary_id": "person:Chesed",
+  "alternate_sources": {
+    "aquifer": [
+      "4513|Chesed|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003454001001000"
+    ],
+    "tipnr": [
+      "Chesed@Gen.22.22"
+    ],
+    "vizbible": [
+      "recabOlnMn71maXKy"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nahor.2",
+  "mother": "person:Milcah",
+  "siblings": [
+    "person:Uz.2",
+    "person:Buz",
+    "person:Kemuel",
+    "person:Hazo",
+    "person:Pildash",
+    "person:Jidlaph",
+    "person:Bethuel",
+    "person:Tebah",
+    "person:Gaham",
+    "person:Tahash",
+    "person:Maacah"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "003454001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chesed",
+      "alternate_labels": [
+        "Kesed"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Chesed",
+          "article": "person:Chesed",
+          "description": "Chesed, also known as Kesed, was a man living at the time of the patriarchs, the son of Nahor and Milcah, and possibly an ancestor of the Chaldeans, mentioned in Genesis 22:22."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כֶּשֶׂד",
+      "כֶּ֫שֶׂד"
+    ]
+  },
+  "key_references": [
+    "01022022"
+  ],
+  "references": [
+    "01022022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010220220021"
+      ]
+    ]
+  }
+}

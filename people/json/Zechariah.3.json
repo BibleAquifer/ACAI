@@ -1,0 +1,85 @@
+{
+  "id": "person:Zechariah.3",
+  "primary_id": "person:Zechariah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "9167|Zechariah (Person)|TyndaleBibleDictionary",
+      "132457|Zechariah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001985001001000",
+      "001986001001000"
+    ],
+    "tipnr": [
+      "Zechariah@2Ki.14.29-"
+    ],
+    "vizbible": [
+      "recsXoXlK7uu49Xun"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jeroboam.2",
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "001985001001000",
+    "001986001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zechariah (2 Kings 14:29)",
+      "alternate_labels": [
+        "Zachariah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zechariah (2 Kings 14:29)",
+          "article": "person:Zechariah.3",
+          "description": "Zechariah was a king of the Kingdom of Israel during the divided kingdom, mentioned in 2 Kings 14:29, and the son of Jeroboam."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זְכַרְיָה",
+      "זְכַרְיָהוּ"
+    ]
+  },
+  "key_references": [
+    "12014029",
+    "12015008",
+    "12015011"
+  ],
+  "references": [
+    "12014029",
+    "12015008",
+    "12015011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120140290091"
+      ],
+      [
+        "o120150080091"
+      ],
+      [
+        "o120150110031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120150090012"
+      ],
+      [
+        "o120150090091"
+      ]
+    ]
+  }
+}

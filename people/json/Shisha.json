@@ -1,0 +1,71 @@
+{
+  "id": "person:Shisha",
+  "primary_id": "person:Seraiah",
+  "alternate_sources": {
+    "aquifer": [
+      "8431|Shisha|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007335001001000"
+    ],
+    "tipnr": [
+      "Shisha|Seraiah@2Sa.8.17-1Ch"
+    ],
+    "vizbible": [
+      "recXnGJnbF6kmr6XK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Elihoreph",
+    "person:Ahijah"
+  ],
+  "roles": [
+    "Scribe",
+    "Priest"
+  ],
+  "ubsdbh": [
+    "007335001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shisha (Seraiah)",
+      "alternate_labels": [
+        "Seraiah",
+        "Ahiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seraiah",
+          "article": "person:Shisha",
+          "description": "Shisha, also called Seraiah or Ahiah, was an official during Israel's united kingdom and the father of Elihoreph and Ahijah, mentioned in 2 Samuel and 1 Kings."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Seraiah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שִׁישַׁק"
+    ]
+  },
+  "key_references": [
+    "11004003"
+  ],
+  "references": [
+    "11004003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040030041"
+      ]
+    ]
+  }
+}

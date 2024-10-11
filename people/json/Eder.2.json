@@ -1,0 +1,62 @@
+{
+  "id": "person:Eder.2",
+  "primary_id": "person:Eder.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4940|Eder (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005269002002000"
+    ],
+    "tipnr": [
+      "Eder@1Ch.23.23-"
+    ],
+    "vizbible": [
+      "rec1vjkkBBN6sBjro"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mushi",
+  "siblings": [
+    "person:Mahli.2",
+    "person:Jerimoth.3"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005269002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eder (1 Chronicles 23:23)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eder (1 Chronicles 23:23)",
+          "article": "person:Eder.2",
+          "description": "Eder was a Levite man living during the time of Egypt and the wilderness, mentioned in 1 Chronicles 23:23 as the son of Mushi and brother of Mahli and Jerimoth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13023023",
+    "13024030"
+  ],
+  "references": [
+    "13023023",
+    "13024030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230230042"
+      ],
+      [
+        "o130240300042"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "place:Nezib",
+  "primary_id": "place:Nezib",
+  "alternate_sources": {
+    "aquifer": [
+      "7391|Nezib|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aafe3bd"
+    ],
+    "ubsdbh": [
+      "004889004001000"
+    ],
+    "tipnr": [
+      "Nezib@Jos.15.43"
+    ],
+    "vizbible": [
+      "recXXm401lkzqKbXj"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004889004001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nezib",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nezib",
+          "gloss": "Nezib",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נְצִיב"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.58805",
+      "lon": "34.992389"
+    },
+    "vizbible": {
+      "lat": "31.58805",
+      "lon": "34.992389"
+    }
+  },
+  "key_references": [
+    "06015043"
+  ],
+  "references": [
+    "06015043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150430032"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "place:Beth-ashbea",
+  "primary_id": "place:Beth-ashbea",
+  "alternate_sources": {
+    "aquifer": [
+      "4157|Beth-Ashbea|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000931001004000",
+      "000935001001000"
+    ],
+    "tipnr": [
+      "Beth-ashbea@1Ch.4.21"
+    ],
+    "vizbible": [
+      "rec1Pp0lTvXAzY48p"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000931001004000",
+    "000935001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-ashbea",
+      "alternate_labels": [
+        "house of Ashbea",
+        "Ashbea"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-ashbea",
+          "gloss": "Beth-Ashbea",
+          "description": "A town inhabited by descendants of Judah, known for their production of linen."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "13004021"
+  ],
+  "references": [
+    "13004021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040210121"
+      ],
+      [
+        "o130040210152",
+        "o130040210161"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "person:Barachel",
+  "primary_id": "person:Barachel",
+  "alternate_sources": {
+    "aquifer": [
+      "3999|Barachel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001190001001000"
+    ],
+    "tipnr": [
+      "Barachel@Job.32.2-"
+    ],
+    "vizbible": [
+      "recFTuC2vsukM53L6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Elihu.5"
+  ],
+  "ubsdbh": [
+    "001190001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Barachel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Barachel",
+          "article": "person:Barachel",
+          "description": "A man living at the time of the patriarchs, father of Elihu, mentioned in Job 32:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּרַכְאֵל",
+      "בָּרַכְאֵל"
+    ]
+  },
+  "key_references": [
+    "18032002",
+    "18032006"
+  ],
+  "references": [
+    "18032002",
+    "18032006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180320020051"
+      ],
+      [
+        "o180320060041"
+      ]
+    ]
+  }
+}

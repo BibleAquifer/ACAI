@@ -1,0 +1,89 @@
+{
+  "id": "person:Adoram",
+  "primary_id": "person:Adoram",
+  "alternate_sources": {
+    "aquifer": [
+      "3397|Adoram|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hadoram|Adoram@2Sa.20.24-2Ch",
+      "Adoniram|Adoram@2Sa.20.24-2Ch",
+      "Adoram@2Sa.20.24-2Ch"
+    ],
+    "vizbible": [
+      "recmQCQy94vebCsiC"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abda",
+  "roles": [
+    "Official"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adoram",
+      "alternate_labels": [
+        "Hadoram",
+        "Adoniram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Adoram",
+          "article": "person:Adoram",
+          "description": "The son of Abda who was an official during the reigns of kings David, Solomon, and Rehoboam. The people killed him with stones during a rebellion against King Rehoboam."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Adoniram",
+    "person:Hadoram"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10020024",
+    "11004006",
+    "11005014",
+    "11012018",
+    "14010018"
+  ],
+  "references": [
+    "10020024",
+    "11004006",
+    "11005028",
+    "11012018",
+    "14010018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100200240012"
+      ],
+      [
+        "o110040060042"
+      ],
+      [
+        "o110050280132"
+      ],
+      [
+        "o110120180051"
+      ],
+      [
+        "o140100180051"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110120180142"
+      ],
+      [
+        "o140100180142"
+      ]
+    ]
+  }
+}

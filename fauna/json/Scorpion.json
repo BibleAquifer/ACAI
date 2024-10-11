@@ -1,0 +1,129 @@
+{
+  "id": "fauna:Scorpion",
+  "primary_id": "fauna:Scorpion",
+  "alternate_sources": {
+    "aquifer": [
+      "8169|Scorpion|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "4.56"
+    ],
+    "ubsdbh": [
+      "005635001001000"
+    ],
+    "ubsfauna": [
+      "fauna:6.11"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Insects, Spiders, and Worms",
+  "ubsdgnt": [
+    "4.56"
+  ],
+  "ubsdbh": [
+    "005635001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Scorpion",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Scorpion",
+          "article": "fauna:Scorpion",
+          "description": "The scorpion is small eight-legged animal with pincers and a painful, poisonous sting, often linked to harsh living conditions in the Bible."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַקְרָב"
+    ],
+    "el": [
+      "σκορπίος"
+    ]
+  },
+  "key_references": [
+    "05008015",
+    "11012011",
+    "42010019"
+  ],
+  "references": [
+    "04034004",
+    "05008015",
+    "06015003",
+    "07001036",
+    "11012011",
+    "11012014",
+    "14010011",
+    "14010014",
+    "26002006",
+    "41016018",
+    "42010019",
+    "42011012",
+    "66009003",
+    "66009005",
+    "66009010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340040052",
+        "o040340040061"
+      ],
+      [
+        "o050080150072"
+      ],
+      [
+        "o060150030042",
+        "o060150030051"
+      ],
+      [
+        "o070010360032",
+        "o070010360041"
+      ],
+      [
+        "o110120110182"
+      ],
+      [
+        "o110120140212"
+      ],
+      [
+        "o140100110162"
+      ],
+      [
+        "o140100140172"
+      ],
+      [
+        "o260020060151"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42010019011"
+      ],
+      [
+        "n42011012007"
+      ],
+      [
+        "n66009003018"
+      ],
+      [
+        "n66009005019"
+      ],
+      [
+        "n66009010005"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n66009005021"
+      ]
+    ]
+  }
+}

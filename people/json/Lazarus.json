@@ -1,0 +1,107 @@
+{
+  "id": "person:Lazarus",
+  "primary_id": "person:Lazarus",
+  "alternate_sources": {
+    "aquifer": [
+      "6700|Lazarus|TyndaleBibleDictionary",
+      "26818|Lazarus|UWTranslationWords",
+      "132029|Mary, Martha and Lazarus|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.225b"
+    ],
+    "tipnr": [
+      "Lazarus@Luk.16.20-"
+    ],
+    "vizbible": [
+      "recrVl4IhSEkpGwWj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.225b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lazarus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lazarus",
+          "article": "person:Lazarus",
+          "description": "A poor beggar featured in one of Jesus’ parables."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Λάζαρος"
+    ]
+  },
+  "key_references": [
+    "42016020",
+    "42016023",
+    "42016024"
+  ],
+  "references": [
+    "42016020",
+    "42016023",
+    "42016024",
+    "42016025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42016020005"
+      ],
+      [
+        "n42016023017"
+      ],
+      [
+        "n42016024011"
+      ],
+      [
+        "n42016025016"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42016024018"
+      ],
+      [
+        "n42016026004"
+      ],
+      [
+        "n42016026006"
+      ],
+      [
+        "n42016026024"
+      ],
+      [
+        "n42016027009"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42016024013"
+      ],
+      [
+        "n42016024021"
+      ],
+      [
+        "n42016025023"
+      ],
+      [
+        "n42016028006"
+      ]
+    ]
+  }
+}

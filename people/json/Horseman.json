@@ -1,0 +1,72 @@
+{
+  "id": "person:Horseman",
+  "primary_id": "person:Horseman",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Horseman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Horseman",
+          "description": "A horseman participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12009018",
+    "12009018",
+    "12009019",
+    "12009019"
+  ],
+  "references": [
+    "12009018",
+    "12009018",
+    "12009019",
+    "12009019"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120090180021"
+      ],
+      [
+        "o120090180052"
+      ],
+      [
+        "o120090190021"
+      ],
+      [
+        "o120090190072"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o120090180061",
+          "o120090180071",
+          "o120090180081",
+          "o120090180082",
+          "o120090180091",
+          "o120090180092"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o120090190081",
+          "o120090190091",
+          "o120090190101",
+          "o120090190102",
+          "o120090190111"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "person:Achbor",
+  "primary_id": "person:Achbor",
+  "alternate_sources": {
+    "aquifer": [
+      "3338|Achbor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005423001001000"
+    ],
+    "tipnr": [
+      "Achbor@Gen.36.38-1Ch"
+    ],
+    "vizbible": [
+      "reca2hKoAnJq9vfQi"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Baal-hanan"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "005423001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Achbor",
+      "alternate_labels": [
+        "Akbor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Achbor",
+          "article": "person:Achbor",
+          "description": "An Edomite king, father of Baal-hanan, first mentioned in Genesis 36:38."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036038",
+    "01036039",
+    "13001049"
+  ],
+  "references": [
+    "01036038",
+    "01036039",
+    "13001049"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360380081"
+      ],
+      [
+        "o010360390051"
+      ],
+      [
+        "o130010490081"
+      ]
+    ]
+  }
+}

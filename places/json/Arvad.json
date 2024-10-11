@@ -1,0 +1,95 @@
+{
+  "id": "place:Arvad",
+  "primary_id": "place:Arvad",
+  "alternate_sources": {
+    "aquifer": [
+      "3773|Arvad, Arvadite|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "afbf1b5"
+    ],
+    "ubsdbh": [
+      "000662001001000"
+    ],
+    "tipnr": [
+      "Arvad@Ezk.27.8-"
+    ],
+    "vizbible": [
+      "recOxPrQ5WzKnkuja"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000662001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arvad",
+      "alternate_labels": [
+        "Arvan",
+        "Arvadites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Arvad",
+          "gloss": "Arvad",
+          "description": "A town on a small island off the coast of Phoenicia; its people are considered descendants of Canaan (ABD)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Phoenicia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַרְוַד"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Island"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.856082",
+      "lon": "35.858485"
+    },
+    "vizbible": {
+      "lat": "34.856082",
+      "lon": "35.858485"
+    }
+  },
+  "key_references": [
+    "26027011",
+    "26027008"
+  ],
+  "references": [
+    "26027008",
+    "26027011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270080032"
+      ],
+      [
+        "o260270110021"
+      ]
+    ]
+  }
+}

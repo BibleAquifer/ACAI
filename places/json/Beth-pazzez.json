@@ -1,0 +1,81 @@
+{
+  "id": "place:Beth-pazzez",
+  "primary_id": "place:Beth-pazzez",
+  "alternate_sources": {
+    "aquifer": [
+      "4194|Beth-Pazzez|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000973001001000"
+    ],
+    "tipnr": [
+      "Beth-pazzez@Jos.19.21"
+    ],
+    "vizbible": [
+      "recHD6AIzyoUsNQiT"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000973001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-pazzez",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-pazzez",
+          "gloss": "Beth-Pazzez",
+          "description": "A town in the territory of Issachar."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית פַּצֵּץ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.46349905885267",
+      "lon": "35.3036831926058"
+    },
+    "vizbible": {
+      "lat": "32.46349905885267",
+      "lon": "35.3036831926058"
+    }
+  },
+  "key_references": [
+    "06019021"
+  ],
+  "references": [
+    "06019021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190210062",
+        "o060190210071"
+      ]
+    ]
+  }
+}

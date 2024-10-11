@@ -1,0 +1,52 @@
+{
+  "id": "place:Palm",
+  "primary_id": "place:Tyre",
+  "alternate_sources": {
+    "aquifer": [
+      "7562|Palm|TyndaleBibleDictionary",
+      "26930|Palm|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006316002001000"
+    ],
+    "tipnr": [
+      "palm|Tyre@Jos.19.29-Act"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006316002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Palm",
+      "alternate_labels": [
+        "palm",
+        "Tyrus",
+        "Tyre"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Tyre"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "key_references": [
+    "28009013"
+  ],
+  "references": [
+    "28009013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o280090130042"
+      ]
+    ]
+  }
+}

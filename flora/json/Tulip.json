@@ -1,0 +1,42 @@
+{
+  "id": "flora:Tulip",
+  "primary_id": "flora:Tulip",
+  "alternate_sources": {
+    "aquifer": [
+      "8940|Tulip|TyndaleBibleDictionary"
+    ],
+    "ubsflora": [
+      "flora:6.1.5"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Flowers, Thorns, and Weeds",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tulip",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tulip",
+          "article": "flora:Tulip",
+          "description": "A bulbous plant with bright, cup-shaped flowers in a variety of colors."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "22002001"
+  ],
+  "references": [
+    "22002001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o220020010021"
+      ]
+    ]
+  }
+}

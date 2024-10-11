@@ -1,0 +1,71 @@
+{
+  "id": "place:ParanMount",
+  "primary_id": "place:ParanMount",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005771001001000"
+    ],
+    "tipnr": [
+      "Paran_Mount@Deu.33.2-Hab"
+    ],
+    "vizbible": [
+      "rectcV1i4v4cA0JNn"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005771001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Paran",
+      "alternate_labels": [
+        "Paran",
+        "mount Paran"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain",
+      "special"
+    ],
+    "vizbible": [
+      "Mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.151667",
+      "lon": "33.541944"
+    },
+    "vizbible": {
+      "lat": "29.151667",
+      "lon": "33.541944"
+    }
+  },
+  "key_references": [
+    "05033002",
+    "35003003"
+  ],
+  "references": [
+    "05033002",
+    "35003003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050330020101"
+      ],
+      [
+        "o350030030061"
+      ]
+    ]
+  }
+}

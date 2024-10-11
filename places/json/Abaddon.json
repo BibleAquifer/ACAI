@@ -1,0 +1,67 @@
+{
+  "id": "place:Abaddon",
+  "primary_id": "place:Abaddon",
+  "alternate_sources": {
+    "aquifer": [
+      "3264|Abaddon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000009001001000"
+    ],
+    "tipnr": [
+      "Abaddon@Job.26.6-Pro"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000009001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abaddon",
+      "alternate_labels": [
+        "destruction"
+      ],
+      "descriptions": []
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "references": [
+    "18026006",
+    "18028022",
+    "18031012",
+    "19088012",
+    "20015011",
+    "20027020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180260060062"
+      ],
+      [
+        "o180280220011"
+      ],
+      [
+        "o180310120051"
+      ],
+      [
+        "o190880120052"
+      ],
+      [
+        "o200150110022"
+      ],
+      [
+        "o200270200032"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o180280220051"
+      ]
+    ]
+  }
+}

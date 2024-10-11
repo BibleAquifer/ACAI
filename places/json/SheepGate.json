@@ -1,0 +1,93 @@
+{
+  "id": "place:SheepGate",
+  "primary_id": "place:SheepGate",
+  "alternate_sources": {
+    "aquifer": [
+      "8327|Sheep Gate|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Sheep_Gate@Neh.3.1-Jhn"
+    ],
+    "vizbible": [
+      "recEtYuMAHI6UAK8P"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheep Gate",
+      "alternate_labels": [
+        " Gate",
+        "Sheep"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:SheepGate",
+          "gloss": "Sheep Gate",
+          "description": "A gate in the walls of Jerusalem, near the pool of Bethesda, which was rebuilt by the high priest Eliashib and his fellow priests (Nehemiah 3:1)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16012039",
+    "16003032",
+    "43005002",
+    "16003001"
+  ],
+  "references": [
+    "16003001",
+    "16003032",
+    "16012039",
+    "43005002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030010102"
+      ],
+      [
+        "o160030320052"
+      ],
+      [
+        "o160120390162"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43005002008"
+      ]
+    ]
+  }
+}

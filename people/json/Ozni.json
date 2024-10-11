@@ -1,0 +1,78 @@
+{
+  "id": "person:Ozni",
+  "primary_id": "person:Ezbon",
+  "alternate_sources": {
+    "aquifer": [
+      "7544|Ozni, Oznite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000230001001000",
+      "000230001002000"
+    ],
+    "tipnr": [
+      "Ozni|Ezbon@Gen.46.16-Num"
+    ],
+    "vizbible": [
+      "recPywmw0Czl7uOUq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gad",
+  "siblings": [
+    "person:Ziphion",
+    "person:Haggi",
+    "person:Shuni",
+    "person:Eri",
+    "person:Arod",
+    "person:Areli"
+  ],
+  "tribe": "group:Gad",
+  "ubsdbh": [
+    "000230001001000",
+    "000230001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ozni (Ezbon)",
+      "alternate_labels": [
+        "Ezbon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ezbon",
+          "article": "person:Ozni",
+          "description": "Ozni, also known as Ezbon, a son of Gad from the tribe of Gad, lived during the time of Egypt and the wilderness, first mentioned in Genesis 46:16."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ezbon"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָזְנִי",
+      "אׇזְנִי"
+    ]
+  },
+  "key_references": [
+    "04026016"
+  ],
+  "references": [
+    "04026016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260160012"
+      ],
+      [
+        "o040260160032"
+      ]
+    ]
+  }
+}

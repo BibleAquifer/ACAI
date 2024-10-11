@@ -1,0 +1,68 @@
+{
+  "id": "deity:Lucifer",
+  "primary_id": "deity:Lucifer",
+  "alternate_sources": {
+    "aquifer": [
+      "6789|Lucifer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001810001001000"
+    ],
+    "tipnr": [
+      "Lucifer@Isa.14.12"
+    ],
+    "vizbible": [
+      "recyAXuMyBe8L55mI"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "demon",
+  "ubsdbh": [
+    "001810001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lucifer",
+      "alternate_labels": [
+        "morning star",
+        "Day Star"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lucifer",
+          "article": "deity:Lucifer",
+          "description": "A name meaning “light-bearer” found in Isaiah 14:12. Early Christians read this with Luke 10:18 to associate Lucifer with the devil."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "23014012"
+  ],
+  "references": [
+    "23014012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230140120041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230140120021"
+      ],
+      [
+        "o230140120071"
+      ],
+      [
+        "o230140120091"
+      ]
+    ]
+  }
+}

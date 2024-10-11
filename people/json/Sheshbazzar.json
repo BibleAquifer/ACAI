@@ -1,0 +1,106 @@
+{
+  "id": "person:Sheshbazzar",
+  "primary_id": "person:Zerubbabel.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8378|Sheshbazzar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007657001001000"
+    ],
+    "tipnr": [
+      "Sheshbazzar|Zerubbabel@1Ch.3.19-Mat"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Pedaiah.2",
+  "offspring": [
+    "person:Meshullam.2",
+    "person:Hananiah",
+    "person:Shelomith.5",
+    "person:Hashubah",
+    "person:Ohel",
+    "person:Berechiah",
+    "person:Hasadiah",
+    "person:Jushab-hesed",
+    "person:Abiud"
+  ],
+  "siblings": [
+    "person:Shimei.7"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007657001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheshbazzar (Zerubbabel)",
+      "alternate_labels": [
+        "Zerubbabel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zerubbabel",
+          "article": "person:Sheshbazzar",
+          "description": "The son of Pedaiah and governor of Judah during the time of Israelite exile and return. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zerubbabel.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15001008",
+    "15005014",
+    "15005016"
+  ],
+  "references": [
+    "15001008",
+    "15001011",
+    "15005014",
+    "15005016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150010080102"
+      ],
+      [
+        "o150010110111"
+      ],
+      [
+        "o150050140302"
+      ],
+      [
+        "o150050160021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o150050160031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o150050150061",
+        "o150050150071",
+        "o150050150081"
+      ],
+      [
+        "o150050160051"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "person:Lamech.2",
+  "primary_id": "person:Lamech.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6672|Lamech|TyndaleBibleDictionary",
+      "26810|Lamech|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Lamech@Gen.5.25-Luk"
+    ],
+    "vizbible": [
+      "recmpe4tTxcQ9YpS5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Methuselah",
+  "offspring": [
+    "person:Noah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lamech",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lamech",
+          "article": "person:Lamech.2",
+          "description": "A son of Methuselah and the father of the patriarch Noah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01005025",
+    "01005028",
+    "42003036"
+  ],
+  "references": [
+    "01005025",
+    "01005026",
+    "01005028",
+    "01005030",
+    "01005031",
+    "13001003",
+    "42003036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010050250101"
+      ],
+      [
+        "o010050260061"
+      ],
+      [
+        "o010050280021"
+      ],
+      [
+        "o010050300021"
+      ],
+      [
+        "o010050310041"
+      ],
+      [
+        "o130010030031"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003036010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010050280082"
+      ],
+      [
+        "o010050290012"
+      ],
+      [
+        "o010050290052"
+      ],
+      [
+        "o010050300132"
+      ],
+      [
+        "o010050310112"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010050290061",
+          "o010050290071",
+          "o010050290072",
+          "o010050290081",
+          "o010050290082",
+          "o010050290083",
+          "o010050290091",
+          "o010050290092",
+          "o010050290093",
+          "o010050290101",
+          "o010050290102",
+          "o010050290111",
+          "o010050290121",
+          "o010050290122",
+          "o010050290131",
+          "o010050290141",
+          "o010050290142",
+          "o010050290151"
+        ]
+      }
+    ]
+  }
+}

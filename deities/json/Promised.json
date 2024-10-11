@@ -1,0 +1,63 @@
+{
+  "id": "deity:Promised",
+  "primary_id": "deity:HolySpirit",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "33.288"
+    ],
+    "tipnr": [
+      "Promised|Holy_Spirit@Mat.1.18-Rev"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdgnt": [
+    "33.288"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Promised (Holy Spirit)",
+      "alternate_labels": [
+        "Holy Spirit"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Holy Spirit",
+          "article": "deity:Promised",
+          "description": "The Holy Spirit referred to as the one promised by the Father."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:HolySpirit"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐπαγγελία"
+    ]
+  },
+  "key_references": [
+    "44001004"
+  ],
+  "references": [
+    "44001004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44001004012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44001004015"
+      ]
+    ]
+  }
+}

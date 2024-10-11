@@ -1,0 +1,70 @@
+{
+  "id": "person:Sabteca",
+  "primary_id": "person:Sabteca",
+  "alternate_sources": {
+    "aquifer": [
+      "8085|Sabteca|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004997001001000"
+    ],
+    "tipnr": [
+      "Sabteca@Gen.10.7-1Ch"
+    ],
+    "vizbible": [
+      "recsQgC3n44wMNpJn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Cush.2",
+  "siblings": [
+    "person:Seba",
+    "person:Havilah",
+    "person:Sabtah",
+    "person:Raamah",
+    "person:Nimrod"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "004997001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sabteca",
+      "alternate_labels": [
+        "Sabtecha",
+        "Sabteka",
+        "Sabtechah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sabteca",
+          "article": "person:Sabteca",
+          "description": "Sabteca, also known as Sabteka or Sabtechah, son of Cush and descendant of Ham, lived during the time of the patriarchs, mentioned in Genesis 10:7."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010007",
+    "13001009"
+  ],
+  "references": [
+    "01010007",
+    "13001009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100070072"
+      ],
+      [
+        "o130010090072"
+      ]
+    ]
+  }
+}

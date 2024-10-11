@@ -1,0 +1,55 @@
+{
+  "id": "realia:Apron",
+  "primary_id": "realia:Apron",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.179"
+    ],
+    "ubsrealia": [
+      "realia:6.10"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.179"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Apron",
+      "alternate_labels": [
+        "Leather Apron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Apron",
+          "article": "realia:Apron",
+          "description": "A cloth or leather garment worn around the waist to protect clothes."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σιμικίνθιον"
+    ]
+  },
+  "key_references": [
+    "44019012",
+    "26023015",
+    "40003004"
+  ],
+  "references": [
+    "44019012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44019012013"
+      ]
+    ]
+  }
+}

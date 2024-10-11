@@ -1,0 +1,109 @@
+{
+  "id": "place:Philadelphia",
+  "primary_id": "place:Philadelphia",
+  "alternate_sources": {
+    "aquifer": [
+      "7706|Philadelphia|TyndaleBibleDictionary",
+      "132126|Philadelphia|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a1c7cc1"
+    ],
+    "ubsdgnt": [
+      "93.603"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4560349"
+    ],
+    "tipnr": [
+      "Philadelphia@Rev.1.11-"
+    ],
+    "vizbible": [
+      "recOcf5hhm3JhowXg"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q138280"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.603"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Philadelphia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Philadelphia",
+          "gloss": "Philadelphia",
+          "description": "A city in the west central part of Asia Minor; one of the seven cities addressed in Revelation."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Sardis"
+  ],
+  "subregion_of": [
+    "place:Asia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Φιλαδέλφεια"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "38.34904803",
+      "lon": "28.51946209"
+    },
+    "recogito": {
+      "lat": "39.95233",
+      "lon": "-75.16379"
+    },
+    "vizbible": {
+      "lat": "38.34904803",
+      "lon": "28.51946209"
+    },
+    "biblica-maps": {
+      "lat": "38.35271",
+      "lon": "28.51508"
+    }
+  },
+  "key_references": [
+    "66001011",
+    "66003007"
+  ],
+  "references": [
+    "66001011",
+    "66003007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n66001011028"
+      ],
+      [
+        "n66003007006"
+      ]
+    ]
+  }
+}

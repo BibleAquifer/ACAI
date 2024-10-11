@@ -1,0 +1,97 @@
+{
+  "id": "place:Laban",
+  "primary_id": "place:Laban",
+  "alternate_sources": {
+    "aquifer": [
+      "6656|Laban (Place)|TyndaleBibleDictionary",
+      "26806|Laban|UWTranslationWords",
+      "132220|Laban|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003509002002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/7375664"
+    ],
+    "tipnr": [
+      "Laban@Deu.1.1"
+    ],
+    "vizbible": [
+      "recenS6TzJXjD2Nkc"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003509002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Laban",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Laban",
+          "gloss": "Laban",
+          "description": "A location in the Sinai Peninsula, between Rimmon-Perez and Rissah, where the Israelites encamped on their way from Egypt to Canaan, not far from the place where Moses repeated the law; possibly to be identified with Libnah."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Libnah"
+  ],
+  "nearby_places": [
+    "place:Rimmon-perez",
+    "place:Rissah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "לָבָן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite",
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    },
+    "recogito": {
+      "lat": "-8.1418",
+      "lon": "113.2037"
+    },
+    "vizbible": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    }
+  },
+  "key_references": [
+    "05001001"
+  ],
+  "references": [
+    "05001001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050010010192"
+      ]
+    ]
+  }
+}

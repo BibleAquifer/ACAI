@@ -1,0 +1,130 @@
+{
+  "id": "deity:Molech",
+  "primary_id": "deity:Molech",
+  "alternate_sources": {
+    "aquifer": [
+      "7188|Molech|TyndaleBibleDictionary",
+      "26887|Molech|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "004049001001000"
+    ],
+    "tipnr": [
+      "Molech@Lev.18.21-Act",
+      "Milcom|Molech@Lev.18.21-Act",
+      "Moloch|Molech@Lev.18.21-Act"
+    ],
+    "vizbible": [
+      "recM30yMa9NH5DOVq"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "004049001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Molech",
+      "alternate_labels": [
+        "Moloch",
+        "Molek",
+        "their king",
+        "Malcham",
+        "Milcom"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Molech",
+          "article": "deity:Molech",
+          "description": "A god of the Canaanites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Milcom",
+    "deity:Moloch"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מֹלֶךְ",
+      "מֹ֫לֶךְ"
+    ]
+  },
+  "key_references": [
+    "03020002",
+    "24032035"
+  ],
+  "references": [
+    "03018021",
+    "03020002",
+    "03020003",
+    "03020004",
+    "03020005",
+    "11011005",
+    "11011007",
+    "11011033",
+    "12023010",
+    "12023013",
+    "24032035",
+    "24049001",
+    "24049003",
+    "36001005",
+    "44007043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030180210052"
+      ],
+      [
+        "o030200020162"
+      ],
+      [
+        "o030200030142"
+      ],
+      [
+        "o030200040132"
+      ],
+      [
+        "o030200050162"
+      ],
+      [
+        "o110110050081"
+      ],
+      [
+        "o110110070133"
+      ],
+      [
+        "o110110330113"
+      ],
+      [
+        "o120230100172"
+      ],
+      [
+        "o120230130223"
+      ],
+      [
+        "o240320350142"
+      ],
+      [
+        "o240490010151"
+      ],
+      [
+        "o240490030151"
+      ],
+      [
+        "o360010050122"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44007043006"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "person:Bilhan",
+  "primary_id": "person:Bilhan",
+  "alternate_sources": {
+    "aquifer": [
+      "4244|Bilhan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001016001001000"
+    ],
+    "tipnr": [
+      "Bilhan@Gen.36.27-1Ch"
+    ],
+    "vizbible": [
+      "recfIoZnm5vOytt1Z"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ezer",
+  "siblings": [
+    "person:Zaavan",
+    "person:Akan"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "001016001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bilhan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bilhan",
+          "article": "person:Bilhan",
+          "description": "A man living at the time of the patriarchs, son of Ezer and descendant of Seir, mentioned in Genesis 36:27."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בִּלְהָן"
+    ]
+  },
+  "key_references": [
+    "01036027",
+    "13001042"
+  ],
+  "references": [
+    "01036027",
+    "13001042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360270041"
+      ],
+      [
+        "o130010420031"
+      ]
+    ]
+  }
+}

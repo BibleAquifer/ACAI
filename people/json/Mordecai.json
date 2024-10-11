@@ -1,0 +1,64 @@
+{
+  "id": "person:Mordecai",
+  "primary_id": "person:Mordecai",
+  "alternate_sources": {
+    "aquifer": [
+      "7201|Mordecai|TyndaleBibleDictionary",
+      "26888|Mordecai|UWTranslationWords",
+      "132466|Mordecai|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "004377001001000"
+    ],
+    "tipnr": [
+      "Mordecai@Ezr.2.2-Neh"
+    ],
+    "vizbible": [
+      "recfllsQUd2NKmHuq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "004377001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mordecai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mordecai",
+          "article": "person:Mordecai",
+          "description": "Mordecai was a man who returned from exile with Zerubbabel, first mentioned in Ezra 2:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מָרְדֳּכַי",
+      "מְרֹדַךְ בַּלְאֲדָן"
+    ]
+  },
+  "key_references": [
+    "15002002",
+    "16007007"
+  ],
+  "references": [
+    "15002002",
+    "16007007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020020091"
+      ],
+      [
+        "o160070070091"
+      ]
+    ]
+  }
+}

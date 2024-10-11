@@ -1,0 +1,134 @@
+{
+  "id": "person:Sheba.4",
+  "primary_id": "person:Sheba.4",
+  "alternate_sources": {
+    "aquifer": [
+      "8313|Sheba (Person)|TyndaleBibleDictionary",
+      "8315|Sheba, Queen of|TyndaleBibleDictionary",
+      "27080|Sheba|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007180002003000"
+    ],
+    "tipnr": [
+      "Sheba@2Sa.20.1-"
+    ],
+    "vizbible": [
+      "recAvic4lwr61PtLX"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Bichri",
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Benjamin",
+  "related_places": {
+    "death_place": [
+      "place:Abel-beth-maacah"
+    ]
+  },
+  "ubsdbh": [
+    "007180002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheba",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sheba",
+          "article": "person:Sheba.4",
+          "description": "The son of Bichri who led a rebellion against King David."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10020001",
+    "10020021",
+    "10020022"
+  ],
+  "references": [
+    "10020001",
+    "10020002",
+    "10020006",
+    "10020007",
+    "10020010",
+    "10020013",
+    "10020021",
+    "10020022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100200010061"
+      ],
+      [
+        "o100200020081"
+      ],
+      [
+        "o100200060081"
+      ],
+      [
+        "o100200070131"
+      ],
+      [
+        "o100200100241"
+      ],
+      [
+        "o100200130121"
+      ],
+      [
+        "o100200210081"
+      ],
+      [
+        "o100200220101"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100200060211"
+      ],
+      [
+        "o100200060252"
+      ],
+      [
+        "o100200140012"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o100200010141",
+          "o100200010151",
+          "o100200010152",
+          "o100200010161",
+          "o100200010171",
+          "o100200010172",
+          "o100200010181",
+          "o100200010182",
+          "o100200010191",
+          "o100200010201",
+          "o100200010202",
+          "o100200010211",
+          "o100200010212",
+          "o100200010221",
+          "o100200010231",
+          "o100200010241",
+          "o100200010242",
+          "o100200010243",
+          "o100200010251"
+        ]
+      }
+    ]
+  }
+}

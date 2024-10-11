@@ -1,0 +1,101 @@
+{
+  "id": "place:Meribah-kadesh",
+  "primary_id": "place:Meribah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7068|Meribah-Kadesh, Meribath-Kadesh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004400002001000",
+      "006394002001000"
+    ],
+    "tipnr": [
+      "Meribah-kadesh|Meribah@Num.20.13-Psa"
+    ],
+    "vizbible": [
+      "recRdCHfAquS9MQQ1"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004400002001000",
+    "006394002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meribah-kadesh",
+      "alternate_labels": [
+        "Waters of Meribah-kadesh",
+        "waters of strife in Kadesh",
+        "Waters of Meribah",
+        "Meribah Kadesh",
+        "Meribah-kadesh",
+        "Meribah at Kadesh",
+        "Meribah by Kadesh",
+        "Meribot Kadesh",
+        "strife in Kadesh",
+        "Meribath-kadesh",
+        "Waters of Meribath-kadesh",
+        "Meribath Kadesh",
+        "Meribah"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Meribah.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מְרִיבָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.68771281376111",
+      "lon": "34.49479554246946"
+    },
+    "vizbible": {
+      "lat": "30.68771281376111",
+      "lon": "34.49479554246946"
+    }
+  },
+  "references": [
+    "04020013",
+    "04020024",
+    "04027014",
+    "05032051",
+    "05033002",
+    "19081008",
+    "19106032",
+    "26047019",
+    "26048028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050320510091",
+        "o050320510101"
+      ],
+      [
+        "o260470190071",
+        "o260470190081"
+      ],
+      [
+        "o260480280121",
+        "o260480280131"
+      ]
+    ]
+  }
+}

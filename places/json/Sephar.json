@@ -1,0 +1,78 @@
+{
+  "id": "place:Sephar",
+  "primary_id": "place:Sephar",
+  "alternate_sources": {
+    "aquifer": [
+      "8230|Sephar|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a3cae2c"
+    ],
+    "ubsdbh": [
+      "005150002001000"
+    ],
+    "tipnr": [
+      "Sephar@Gen.10.30"
+    ],
+    "vizbible": [
+      "recIdWp3oamvlTdUY"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005150002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sephar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sephar",
+          "gloss": "Sephar",
+          "description": "A location, likely in South Arabia, that served as one of the boundaries of the territory belonging to the descendants of Joktan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "14.550219",
+      "lon": "44.392642"
+    },
+    "vizbible": {
+      "lat": "14.550219",
+      "lon": "44.392642"
+    }
+  },
+  "key_references": [
+    "01010030"
+  ],
+  "references": [
+    "01010030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100300051"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "person:Pelaliah",
+  "primary_id": "person:Pelaliah",
+  "alternate_sources": {
+    "aquifer": [
+      "7630|Pelaliah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005897001001000"
+    ],
+    "tipnr": [
+      "Pelaliah@Neh.11.12"
+    ],
+    "vizbible": [
+      "recpD7vg62mKYHWon"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Amzi.2",
+  "offspring": [
+    "person:Jeroham.4"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005897001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pelaliah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pelaliah",
+          "article": "person:Pelaliah",
+          "description": "Pelaliah was a man living during the time of exile and return, the son of Amzi and father of Jeroham, mentioned in Nehemiah 11:12."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16011012"
+  ],
+  "references": [
+    "16011012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110120131"
+      ]
+    ]
+  }
+}

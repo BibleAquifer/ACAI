@@ -1,0 +1,123 @@
+{
+  "id": "group:Ishmael",
+  "primary_id": "group:Ishmael",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003168001001000"
+    ],
+    "tipnr": [
+      "Ishmael@Gen.16.11-Psa"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Ishmael",
+  "ubsdbh": [
+    "003168001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ishmaelites",
+      "alternate_labels": [
+        "Ishmeelite",
+        "Ishmael"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ishmaelites",
+          "article": "group:Ishmael",
+          "description": "People descended from Ishmael, the son of Abraham."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִשְׁמְעֵאלִי"
+    ]
+  },
+  "key_references": [
+    "01037025",
+    "07008024"
+  ],
+  "references": [
+    "01037025",
+    "01037027",
+    "01037028",
+    "01039001",
+    "07008024",
+    "10017025",
+    "13002017",
+    "13027030",
+    "19083007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010370250091"
+      ],
+      [
+        "o010370270032"
+      ],
+      [
+        "o010370280142"
+      ],
+      [
+        "o010390010132"
+      ],
+      [
+        "o070080240171"
+      ],
+      [
+        "o100170250142"
+      ],
+      [
+        "o130020170082"
+      ],
+      [
+        "o130270300042"
+      ],
+      [
+        "o190830070032"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010370250171"
+      ],
+      [
+        "o010370250182"
+      ],
+      [
+        "o010390010151"
+      ],
+      [
+        "o190830130021",
+        "o190830130031"
+      ],
+      [
+        "o190830170042"
+      ],
+      [
+        "o190830180011"
+      ],
+      [
+        "o190830180022"
+      ],
+      [
+        "o190830180052"
+      ],
+      [
+        "o190830180062"
+      ],
+      [
+        "o190830190012"
+      ]
+    ]
+  }
+}

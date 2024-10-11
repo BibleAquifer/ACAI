@@ -1,0 +1,76 @@
+{
+  "id": "group:Zerah",
+  "primary_id": "group:Zerah",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002053001001000",
+      "002053001002000"
+    ],
+    "tipnr": [
+      "Zerah@Gen.46.10-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Zerah.6",
+  "ubsdbh": [
+    "002053001001000",
+    "002053001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zerahites",
+      "alternate_labels": [
+        "Zerah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zerahites",
+          "article": "group:Zerah",
+          "description": "People descended from Zerah, the son of Simeon, the son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זַרְחִי"
+    ]
+  },
+  "key_references": [
+    "04026020",
+    "06007017"
+  ],
+  "references": [
+    "04026013",
+    "04026020",
+    "06007017",
+    "13027011",
+    "13027013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260130032"
+      ],
+      [
+        "o040260200132"
+      ],
+      [
+        "o060070170082"
+      ],
+      [
+        "o060070170122"
+      ],
+      [
+        "o130270110062"
+      ],
+      [
+        "o130270130062"
+      ]
+    ]
+  }
+}

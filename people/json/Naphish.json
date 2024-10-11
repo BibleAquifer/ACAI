@@ -1,0 +1,84 @@
+{
+  "id": "person:Naphish",
+  "primary_id": "person:Naphish",
+  "alternate_sources": {
+    "aquifer": [
+      "7302|Naphish|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004863001001000",
+      "004863001002000"
+    ],
+    "tipnr": [
+      "Naphish@Gen.25.15-1Ch"
+    ],
+    "vizbible": [
+      "recy6haWtOCY2voEu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Jetur",
+    "person:Kedemah",
+    "person:Mahalath"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "004863001001000",
+    "004863001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Naphish",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Naphish",
+          "article": "person:Naphish",
+          "description": "Naphish, a man living at the time of the patriarchs, was a son of Ishmael and part of the Arab tribes."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נָפִישׁ"
+    ]
+  },
+  "key_references": [
+    "01025015",
+    "13001031",
+    "13005019"
+  ],
+  "references": [
+    "01025015",
+    "13001031",
+    "13005019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250150041"
+      ],
+      [
+        "o130010310021"
+      ],
+      [
+        "o130050190062"
+      ]
+    ]
+  }
+}

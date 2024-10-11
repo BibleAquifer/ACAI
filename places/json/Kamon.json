@@ -1,0 +1,81 @@
+{
+  "id": "place:Kamon",
+  "primary_id": "place:Kamon",
+  "alternate_sources": {
+    "aquifer": [
+      "6517|Kamon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006495001001000"
+    ],
+    "tipnr": [
+      "Kamon@Jdg.10.5"
+    ],
+    "vizbible": [
+      "rec2YQAU1yrPgME5r"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006495001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kamon",
+      "alternate_labels": [
+        "Camon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kamon",
+          "gloss": "Kamon",
+          "description": "A town in Gilead; burial place of Jair the judge."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Gilead"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.042523",
+      "lon": "35.724241"
+    },
+    "vizbible": {
+      "lat": "32.042523",
+      "lon": "35.724241"
+    }
+  },
+  "key_references": [
+    "07010005"
+  ],
+  "references": [
+    "07010005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070100050042"
+      ]
+    ]
+  }
+}

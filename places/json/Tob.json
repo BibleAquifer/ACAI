@@ -1,0 +1,108 @@
+{
+  "id": "place:Tob",
+  "primary_id": "place:Tob",
+  "alternate_sources": {
+    "aquifer": [
+      "8882|Tob|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aaff3e1"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3108042"
+    ],
+    "tipnr": [
+      "Tob@Jdg.11.3-2Sa"
+    ],
+    "vizbible": [
+      "rec4yrH3aeLayLu5Y"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3435114"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tob",
+      "alternate_labels": [
+        "men of Tob",
+        "Ish-Tob"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tob",
+          "gloss": "Tob",
+          "description": "A town or territory east of the northern Jordan River."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Tob"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "province",
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.561735",
+      "lon": "36.240494"
+    },
+    "recogito": {
+      "lat": "42.29846",
+      "lon": "-2.81399"
+    },
+    "vizbible": {
+      "lat": "32.561735",
+      "lon": "36.240494"
+    }
+  },
+  "key_references": [
+    "10010006",
+    "07011003"
+  ],
+  "references": [
+    "07011003",
+    "07011005",
+    "10010006",
+    "10010008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070110030071"
+      ],
+      [
+        "o070110050151"
+      ],
+      [
+        "o100100060251"
+      ],
+      [
+        "o100100060262",
+        "o100100060271"
+      ],
+      [
+        "o100100060311"
+      ],
+      [
+        "o100100080112",
+        "o100100080121"
+      ]
+    ]
+  }
+}

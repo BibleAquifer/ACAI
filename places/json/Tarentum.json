@@ -1,0 +1,39 @@
+{
+  "id": "place:Tarentum",
+  "primary_id": "place:Tarentum",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tarentum",
+          "gloss": "Tarentum",
+          "description": "A Greek seaport city in southern Italy."
+        }
+      ],
+      "preferred_label": "Tarentum",
+      "alternate_labels": [
+        "Taras",
+        "Neptunia"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "40.47379",
+      "lon": "17.23304"
+    }
+  }
+}

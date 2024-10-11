@@ -1,0 +1,90 @@
+{
+  "id": "place:Kibzaim",
+  "primary_id": "place:Kibzaim",
+  "alternate_sources": {
+    "aquifer": [
+      "6574|Kibzaim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5187a4"
+    ],
+    "tipnr": [
+      "Kibzaim@Jos.21.22-1Ch",
+      "Jokmeam|Kibzaim@Jos.21.22-1Ch"
+    ],
+    "vizbible": [
+      "recxIvkrjy8frb65C"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6404107"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kibzaim",
+      "alternate_labels": [
+        "Jokmeam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kibzaim",
+          "gloss": "Kibzaim",
+          "description": "A Levitical town in the territory of Ephraim, assigned to the clan of Kohath."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Jokmeam.2"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.833333",
+      "lon": "35.3"
+    },
+    "vizbible": {
+      "lat": "31.833333",
+      "lon": "35.3"
+    }
+  },
+  "key_references": [
+    "06021022"
+  ],
+  "references": [
+    "06021022",
+    "13006053"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060210220021"
+      ],
+      [
+        "o130060530021"
+      ]
+    ]
+  }
+}

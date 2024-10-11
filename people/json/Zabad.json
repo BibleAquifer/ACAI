@@ -1,0 +1,72 @@
+{
+  "id": "person:Zabad",
+  "primary_id": "person:Jozacar",
+  "alternate_sources": {
+    "aquifer": [
+      "9112|Zabad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001911001004000"
+    ],
+    "tipnr": [
+      "Zabad|Jozacar@2Ki.12.21-2Ch"
+    ],
+    "vizbible": [
+      "rectD6CkMVptyimaA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:HusbandOfShimeath",
+  "mother": "person:Shimeath",
+  "tribe": "group:Ammon",
+  "ubsdbh": [
+    "001911001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zabad (Jozacar)",
+      "alternate_labels": [
+        "Jozacar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jozacar",
+          "article": "person:Zabad",
+          "description": "Zabad, also known as Jozacar, was a servant of King Joash of Judah who, along with Jehozabad, murdered the king."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jozacar"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זָבָד"
+    ]
+  },
+  "key_references": [
+    "14024026"
+  ],
+  "references": [
+    "14024026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140240260041"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140240260012"
+      ]
+    ]
+  }
+}

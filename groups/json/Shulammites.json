@@ -1,0 +1,57 @@
+{
+  "id": "group:Shulammites",
+  "primary_id": "group:Shulammites",
+  "alternate_sources": {
+    "tipnr": [
+      "Shulammites@Sng.6.13"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shulammites",
+      "alternate_labels": [
+        "Shulammite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shulammites",
+          "article": "group:Shulammites",
+          "description": "People from an unknown territory. The woman in the Song of Solomon was a Shulammite."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "22007001"
+  ],
+  "references": [
+    "22007001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o220070010032"
+      ],
+      [
+        "o220070010102"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o220070010011",
+        "o220070010021"
+      ],
+      [
+        "o220070010041",
+        "o220070010051"
+      ]
+    ]
+  }
+}

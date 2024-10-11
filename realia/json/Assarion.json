@@ -1,0 +1,61 @@
+{
+  "id": "realia:Assarion",
+  "primary_id": "realia:Assarion",
+  "alternate_sources": {
+    "aquifer": [
+      "3832|Assarion|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.77"
+    ],
+    "ubsrealia": [
+      "realia:11.6.2.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.77"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Assarion",
+      "alternate_labels": [
+        "Penny"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Assarion",
+          "article": "realia:Assarion",
+          "description": "A small Roman copper coin worth 1/16 of a denarius."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀσσάριον"
+    ]
+  },
+  "key_references": [
+    "40010029",
+    "42012006"
+  ],
+  "references": [
+    "40010029",
+    "42012006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40010029004"
+      ],
+      [
+        "n42012006005"
+      ]
+    ]
+  }
+}

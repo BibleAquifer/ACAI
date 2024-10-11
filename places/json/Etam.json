@@ -1,0 +1,93 @@
+{
+  "id": "place:Etam",
+  "primary_id": "place:Etam",
+  "alternate_sources": {
+    "aquifer": [
+      "5164|Etam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005382001001000"
+    ],
+    "tipnr": [
+      "Etam@Jdg.15.8-"
+    ],
+    "vizbible": [
+      "recYaOsZP30QMYgJV"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005382001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Etam (of Judah)",
+      "alternate_labels": [
+        "Etam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Etam.1",
+          "gloss": "Etam (of Judah)",
+          "description": "A town in the territory of Judah; regarded as founded by a man with the same name."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עִיֵּי הָעֲבָרִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.736294",
+      "lon": "35.05485"
+    },
+    "vizbible": {
+      "lat": "31.736294",
+      "lon": "35.05485"
+    }
+  },
+  "key_references": [
+    "07015011",
+    "14011006",
+    "07015008"
+  ],
+  "references": [
+    "07015008",
+    "07015011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070150080121"
+      ],
+      [
+        "o070150110091"
+      ]
+    ]
+  }
+}

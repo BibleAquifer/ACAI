@@ -1,0 +1,85 @@
+{
+  "id": "place:Mozah",
+  "primary_id": "place:Mozah",
+  "alternate_sources": {
+    "aquifer": [
+      "7239|Mozah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af35635"
+    ],
+    "ubsdbh": [
+      "004289001001000"
+    ],
+    "tipnr": [
+      "Mozah@Jos.18.26"
+    ],
+    "vizbible": [
+      "rec64PJaj56Csp3VI"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2916387"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004289001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mozah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mozah",
+          "gloss": "Mozah",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.802641",
+      "lon": "35.158376"
+    },
+    "vizbible": {
+      "lat": "31.802641",
+      "lon": "35.158376"
+    }
+  },
+  "key_references": [
+    "06018026"
+  ],
+  "references": [
+    "06018026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180260033"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "place:Tirzah",
+  "primary_id": "place:Tirzah",
+  "alternate_sources": {
+    "aquifer": [
+      "8866|Tirzah (Place)|TyndaleBibleDictionary",
+      "27163|Tirzah|UWTranslationWords"
+    ],
+    "obi": [
+      "a80d317"
+    ],
+    "ubsdbh": [
+      "007949001002000"
+    ],
+    "tipnr": [
+      "Tirzah@Jos.12.24-Sng"
+    ],
+    "vizbible": [
+      "recj04aKt1MXd5eDY"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2002121"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007949001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tirzah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tirzah",
+          "gloss": "Tirzah",
+          "description": "A city in the territory of Manasseh; capital of the northern kingdom of Israel during the reign of King Jeroboam until the reign of King Omri, who moved the capital to Samaria."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.2713687",
+      "lon": "35.29430387"
+    },
+    "vizbible": {
+      "lat": "32.2713687",
+      "lon": "35.29430387"
+    }
+  },
+  "key_references": [
+    "11014017"
+  ],
+  "references": [
+    "06012024",
+    "11014017",
+    "11015021",
+    "11015033",
+    "11016006",
+    "11016008",
+    "11016009",
+    "11016015",
+    "11016017",
+    "11016023",
+    "12015014",
+    "12015016",
+    "22006004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120240021"
+      ],
+      [
+        "o110140170061"
+      ],
+      [
+        "o110150210092"
+      ],
+      [
+        "o110150330132"
+      ],
+      [
+        "o110160060062"
+      ],
+      [
+        "o110160080142"
+      ],
+      [
+        "o110160090092"
+      ],
+      [
+        "o110160090172"
+      ],
+      [
+        "o110160150122"
+      ],
+      [
+        "o110160170091"
+      ],
+      [
+        "o110160230152"
+      ],
+      [
+        "o120150140052"
+      ],
+      [
+        "o120150160122"
+      ],
+      [
+        "o220060040042"
+      ]
+    ]
+  }
+}

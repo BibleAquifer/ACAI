@@ -1,0 +1,200 @@
+{
+  "id": "fauna:Chameleon",
+  "primary_id": "fauna:Chameleon",
+  "alternate_sources": {
+    "aquifer": [
+      "4473|Chameleon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007872001002000"
+    ],
+    "ubsfauna": [
+      "fauna:4.3"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Snakes and Lizards",
+  "ubsdbh": [
+    "007872001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chameleon",
+      "alternate_labels": [
+        "Lizard"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Chameleon",
+          "article": "fauna:Chameleon",
+          "description": "A slow-moving lizard that can change colors and catch insects with its sticky tongue; It was considered ceremonially unclean to eat."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "fauna:Lizard",
+    "fauna:Iguana"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תִּנְשֶׁמֶת"
+    ]
+  },
+  "key_references": [
+    "03011030",
+    "03011031"
+  ],
+  "references": [
+    "01001024",
+    "01001025",
+    "01001026",
+    "01006007",
+    "01006020",
+    "01007014",
+    "01007023",
+    "01008017",
+    "01008019",
+    "03011030",
+    "11005013",
+    "19148010",
+    "26008010",
+    "26038020",
+    "28002020",
+    "35001014",
+    "44010012",
+    "44011006",
+    "45001023",
+    "59003007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110300053"
+      ],
+      [
+        "o010010240092"
+      ],
+      [
+        "o010010250121"
+      ],
+      [
+        "o010010260162"
+      ],
+      [
+        "o010060070151"
+      ],
+      [
+        "o010060200071"
+      ],
+      [
+        "o010070140092"
+      ],
+      [
+        "o010070230131"
+      ],
+      [
+        "o010080170102"
+      ],
+      [
+        "o010080190042"
+      ],
+      [
+        "o030110300013"
+      ],
+      [
+        "o030110300023"
+      ],
+      [
+        "o030110300033"
+      ],
+      [
+        "o030110300043"
+      ],
+      [
+        "o110050130192"
+      ],
+      [
+        "o191480100041"
+      ],
+      [
+        "o260080100061"
+      ],
+      [
+        "o260380200102"
+      ],
+      [
+        "o280020200122"
+      ],
+      [
+        "o350010140052"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44010012008"
+      ],
+      [
+        "n44011006016"
+      ],
+      [
+        "n45001023018"
+      ],
+      [
+        "n59003007008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010010240123"
+      ],
+      [
+        "o010010250143"
+      ],
+      [
+        "o010060070222"
+      ],
+      [
+        "o010060200093"
+      ],
+      [
+        "o010060200112"
+      ],
+      [
+        "o010070140133"
+      ],
+      [
+        "o350010140082"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44011010009"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010010260172"
+      ],
+      [
+        "o010070140102"
+      ],
+      [
+        "o010070150012"
+      ],
+      [
+        "o010080170112"
+      ],
+      [
+        "o260380200112"
+      ]
+    ]
+  }
+}

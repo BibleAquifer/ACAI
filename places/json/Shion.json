@@ -1,0 +1,82 @@
+{
+  "id": "place:Shion",
+  "primary_id": "place:Shion",
+  "alternate_sources": {
+    "aquifer": [
+      "8424|Shion|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a03f6cf"
+    ],
+    "ubsdbh": [
+      "007317001001000"
+    ],
+    "tipnr": [
+      "Shion@Jos.19.19"
+    ],
+    "vizbible": [
+      "recRtHs9OycjMit0t"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007317001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shion",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shion",
+          "gloss": "Shion",
+          "description": "A town in the territory of Issachar."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Issachar",
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.716666",
+      "lon": "35.333334"
+    },
+    "vizbible": {
+      "lat": "32.716666",
+      "lon": "35.333334"
+    }
+  },
+  "key_references": [
+    "06019019"
+  ],
+  "references": [
+    "06019019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190190022"
+      ]
+    ]
+  }
+}

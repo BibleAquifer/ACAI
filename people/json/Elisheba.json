@@ -1,0 +1,78 @@
+{
+  "id": "person:Elisheba",
+  "primary_id": "person:Elisheba",
+  "alternate_sources": {
+    "aquifer": [
+      "5026|Elisheba|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000436001001000"
+    ],
+    "tipnr": [
+      "Elisheba@Exo.6.23"
+    ],
+    "vizbible": [
+      "rec7jlnTi8vIXmZyO"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Amminadab",
+  "partners": [
+    "person:Aaron"
+  ],
+  "offspring": [
+    "person:Nadab",
+    "person:Abihu",
+    "person:Eleazar.2",
+    "person:Ithamar"
+  ],
+  "siblings": [
+    "person:Nahshon"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000436001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elisheba",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elisheba",
+          "article": "person:Elisheba",
+          "description": "Elisheba, daughter of Amminadab and wife of Aaron, lived during the time of Egypt and the wilderness, and is mentioned in Exodus 6:23."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִישֶׁבַע",
+      "אֱלִישֶׁ֫בַע"
+    ]
+  },
+  "key_references": [
+    "02006023"
+  ],
+  "references": [
+    "02006023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060230041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020060230112"
+      ]
+    ]
+  }
+}

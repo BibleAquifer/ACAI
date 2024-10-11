@@ -1,0 +1,54 @@
+{
+  "id": "realia:ReplicaTemple",
+  "primary_id": "realia:ReplicaTemple",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.100"
+    ],
+    "ubsrealia": [
+      "realia:4.6.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.100"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Replica Temple",
+      "alternate_labels": [
+        "Model of a Shrine",
+        "Shrine"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Replica Temple",
+          "article": "realia:ReplicaTemple",
+          "description": "A small model of a temple or shrine made from silver."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ναός"
+    ]
+  },
+  "key_references": [
+    "44019024"
+  ],
+  "references": [
+    "44019024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44019024007"
+      ]
+    ]
+  }
+}

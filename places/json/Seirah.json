@@ -1,0 +1,82 @@
+{
+  "id": "place:Seirah",
+  "primary_id": "place:Seirah",
+  "alternate_sources": {
+    "aquifer": [
+      "8210|Seirah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007065002001000"
+    ],
+    "tipnr": [
+      "Seirah@Jdg.3.26"
+    ],
+    "vizbible": [
+      "recS8Ru0SQirBrvIy"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007065002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seirah",
+      "alternate_labels": [
+        "Seirath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Seirah",
+          "gloss": "Seirah",
+          "description": "A town or area in the hill country of Ephraim where Ehud escaped to after he killed Eglon, king of Moab."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "natural area",
+      "special"
+    ],
+    "acai": [
+      "town",
+      "geographical feature"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.93053920580005",
+      "lon": "35.22103274923676"
+    },
+    "vizbible": {
+      "lat": "31.93053920580005",
+      "lon": "35.22103274923676"
+    }
+  },
+  "key_references": [
+    "07003026"
+  ],
+  "references": [
+    "07003026",
+    "07003027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070030260102"
+      ]
+    ]
+  }
+}

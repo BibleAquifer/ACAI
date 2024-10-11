@@ -1,0 +1,289 @@
+{
+  "id": "place:Nineveh",
+  "primary_id": "place:Nineveh",
+  "alternate_sources": {
+    "aquifer": [
+      "7409|Nineveh, Ninevite|TyndaleBibleDictionary",
+      "26912|Nineveh|UWTranslationWords",
+      "132520|Nineveh|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a70fd5d"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/874621",
+      "http://pleiades.stoa.org/places/874621"
+    ],
+    "tipnr": [
+      "Rehoboth-Ir|Nineveh@Gen.10.11-Luk",
+      "Nineveh@Gen.10.11-Luk"
+    ],
+    "vizbible": [
+      "rec5WK4QGcKa48pA6"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5680"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nineveh",
+      "alternate_labels": [
+        "Rehoboth-Ir",
+        "Huzzab",
+        "Nineve",
+        "city Rehoboth",
+        "Ninevites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nineveh",
+          "gloss": "Nineveh",
+          "description": "A town in northern Mesopotamia near Mosul, on the east bank of the Tigris River; built by Nimrod after the flood. It was the capital of Assyria; the prophet Jonah preached against the town."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Rehoboth-ir",
+    "group:Nineveh"
+  ],
+  "nearby_places": [
+    "place:Tigris"
+  ],
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.35941",
+      "lon": "43.152887"
+    },
+    "recogito": {
+      "lat": "36.34773",
+      "lon": "43.1609"
+    },
+    "vizbible": {
+      "lat": "36.34773",
+      "lon": "43.1609"
+    },
+    "biblica-maps": {
+      "lat": "36.3604",
+      "lon": "43.15302"
+    }
+  },
+  "key_references": [
+    "01010011",
+    "32003001",
+    "32001001"
+  ],
+  "references": [
+    "01010011",
+    "01010012",
+    "12019036",
+    "23037037",
+    "32001002",
+    "32003002",
+    "32003003",
+    "32003004",
+    "32003005",
+    "32003006",
+    "32003007",
+    "32004011",
+    "34001001",
+    "34001008",
+    "34001011",
+    "34001014",
+    "34002002",
+    "34002006",
+    "34002008",
+    "34002009",
+    "34002010",
+    "34002012",
+    "34003001",
+    "34003004",
+    "34003007",
+    "34003011",
+    "36002013",
+    "40012041",
+    "42011030",
+    "42011032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100110081"
+      ],
+      [
+        "o010100110101",
+        "o010100110111"
+      ],
+      [
+        "o010100120041"
+      ],
+      [
+        "o120190360082"
+      ],
+      [
+        "o230370370082"
+      ],
+      [
+        "o320010020041"
+      ],
+      [
+        "o320030020041"
+      ],
+      [
+        "o320030030051"
+      ],
+      [
+        "o320030030082"
+      ],
+      [
+        "o320030040132"
+      ],
+      [
+        "o320030050031"
+      ],
+      [
+        "o320030060051"
+      ],
+      [
+        "o320030070032"
+      ],
+      [
+        "o320040110051"
+      ],
+      [
+        "o340010010021"
+      ],
+      [
+        "o340020090012"
+      ],
+      [
+        "o340030070081"
+      ],
+      [
+        "o360020130101"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40012041002"
+      ],
+      [
+        "n42011030006"
+      ],
+      [
+        "n42011032002"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o340020010091"
+      ],
+      [
+        "o340020090051"
+      ],
+      [
+        "o340030110021"
+      ],
+      [
+        "o340030110071"
+      ],
+      [
+        "o360020150011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o340010090021"
+      ],
+      [
+        "o340010100041"
+      ],
+      [
+        "o340010100061",
+        "o340010100071"
+      ],
+      [
+        "o340010120091"
+      ],
+      [
+        "o340010120102"
+      ],
+      [
+        "o340010140051"
+      ],
+      [
+        "o340010140161"
+      ],
+      [
+        "o340020020051"
+      ],
+      [
+        "o340020020071"
+      ],
+      [
+        "o340020020091"
+      ],
+      [
+        "o340020020111"
+      ],
+      [
+        "o340030080012"
+      ],
+      [
+        "o340030110041",
+        "o340030110051"
+      ],
+      [
+        "o340030140031"
+      ],
+      [
+        "o340030140051"
+      ],
+      [
+        "o340030140071"
+      ],
+      [
+        "o340030140092"
+      ],
+      [
+        "o340030140111"
+      ],
+      [
+        "o340030150081"
+      ],
+      [
+        "o340030150101"
+      ],
+      [
+        "o340030160011"
+      ]
+    ]
+  }
+}

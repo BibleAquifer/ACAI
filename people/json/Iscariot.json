@@ -1,0 +1,112 @@
+{
+  "id": "person:Iscariot",
+  "primary_id": "person:Judas.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6062|Iscariot|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.181"
+    ],
+    "tipnr": [
+      "Iscariot|Judas@Mat.10.4-Act"
+    ],
+    "vizbible": [
+      "rec95raiD3sLuptbO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simon.7",
+  "roles": [
+    "Disciple"
+  ],
+  "ubsdgnt": [
+    "93.181"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Iscariot (Judas)",
+      "alternate_labels": [
+        "Judas",
+        "Judas Iscariot"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Judas",
+          "article": "person:Iscariot",
+          "description": "Son of Simon, one of the twelve disciples of Jesus, known for betraying Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Judas.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰσκαριώθ",
+      "Ἰσκαριώτης"
+    ]
+  },
+  "key_references": [
+    "40010004",
+    "41014010",
+    "42006016",
+    "43006071"
+  ],
+  "references": [
+    "40010004",
+    "40026014",
+    "41003019",
+    "41014010",
+    "41014043",
+    "42006016",
+    "42022003",
+    "43006071",
+    "43012004",
+    "43013002",
+    "43013026",
+    "43014022"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40010004007"
+      ],
+      [
+        "n40026014009"
+      ],
+      [
+        "n41003019003"
+      ],
+      [
+        "n41014010003"
+      ],
+      [
+        "n42006016006"
+      ],
+      [
+        "n42022003008"
+      ],
+      [
+        "n43006071006"
+      ],
+      [
+        "n43012004005"
+      ],
+      [
+        "n43013002016"
+      ],
+      [
+        "n43013026021"
+      ],
+      [
+        "n43014022006"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "person:Azaz",
+  "primary_id": "person:Azaz",
+  "alternate_sources": {
+    "aquifer": [
+      "3906|Azaz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005335001001000"
+    ],
+    "tipnr": [
+      "Azaz@1Ch.5.8"
+    ],
+    "vizbible": [
+      "recinU9Saf4v9iNlL"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shema.2",
+  "offspring": [
+    "person:Bela.3"
+  ],
+  "tribe": "group:Reuben",
+  "ubsdbh": [
+    "005335001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azaz",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azaz",
+          "article": "person:Azaz",
+          "description": "A man of the tribe of Reuben during the divided kingdom, son of Shema and father of Bela, mentioned in 1 Chronicles 5:8."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֲזַזְיָהוּ",
+      "עֲזַזְיָ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "13005008"
+  ],
+  "references": [
+    "13005008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050080031"
+      ]
+    ]
+  }
+}

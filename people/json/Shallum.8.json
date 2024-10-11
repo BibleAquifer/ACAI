@@ -1,0 +1,87 @@
+{
+  "id": "person:Shallum.8",
+  "primary_id": "person:Shallum.8",
+  "alternate_sources": {
+    "aquifer": [
+      "8266|Shallum|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007383001009000",
+      "007383001010000",
+      "007383001012000"
+    ],
+    "tipnr": [
+      "Shallum@1Ch.9.17-Neh"
+    ],
+    "vizbible": [
+      "recJ6ymHhmzPmXx1s"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Mattithiah"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "007383001009000",
+    "007383001010000",
+    "007383001012000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shallum",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shallum",
+          "article": "person:Shallum.8",
+          "description": "The father of Mattithiah and chief gatekeeper of the Temple who lived during the time of the Israelite exile and return. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009017",
+    "13009019",
+    "16007045"
+  ],
+  "references": [
+    "13009017",
+    "13009019",
+    "13009031",
+    "15002042",
+    "16007045"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090170021"
+      ],
+      [
+        "o130090170071"
+      ],
+      [
+        "o130090190012"
+      ],
+      [
+        "o130090310062"
+      ],
+      [
+        "o150020420041"
+      ],
+      [
+        "o160070450031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130090180061"
+      ]
+    ]
+  }
+}

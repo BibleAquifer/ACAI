@@ -1,0 +1,97 @@
+{
+  "id": "place:Illyricum",
+  "primary_id": "place:Illyricum",
+  "alternate_sources": {
+    "aquifer": [
+      "5999|Illyricum|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac405c0"
+    ],
+    "ubsdgnt": [
+      "93.483"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/481865",
+      "http://pleiades.stoa.org/places/481865"
+    ],
+    "tipnr": [
+      "Illyricum@Rom.15.19"
+    ],
+    "vizbible": [
+      "recZfK43XfKiSXJrv"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q753824"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.483"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Illyricum",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Illyricum",
+          "gloss": "Illyricum",
+          "description": "A district north of Macedonia."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Macedonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἰλλυρικόν"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "43.515484",
+      "lon": "16.071538"
+    },
+    "recogito": {
+      "lat": "42.42714848333334",
+      "lon": "17.96451647"
+    },
+    "vizbible": {
+      "lat": "43.515484",
+      "lon": "16.071538"
+    }
+  },
+  "key_references": [
+    "45015019"
+  ],
+  "references": [
+    "45015019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45015019017"
+      ]
+    ]
+  }
+}

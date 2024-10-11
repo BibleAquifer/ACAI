@@ -1,0 +1,97 @@
+{
+  "id": "deity:Highest",
+  "primary_id": "deity:Lord",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "12.4"
+    ],
+    "tipnr": [
+      "Highest|LORD@Gen.1.1-Heb"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdgnt": [
+    "12.4"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Highest (LORD)",
+      "alternate_labels": [
+        "LORD"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "LORD",
+          "article": "deity:Highest",
+          "description": "A title for God; one who is supreme. This is primarily a reference to status."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Lord"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὕψιστος"
+    ]
+  },
+  "key_references": [
+    "41005007",
+    "01014019",
+    "01014020"
+  ],
+  "references": [
+    "41005007",
+    "42001032",
+    "42001035",
+    "42001076",
+    "42006035",
+    "42008028",
+    "44007048",
+    "44016017",
+    "58007001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41005007015"
+      ],
+      [
+        "n42001032006"
+      ],
+      [
+        "n42001035014"
+      ],
+      [
+        "n42001076006"
+      ],
+      [
+        "n42006035021"
+      ],
+      [
+        "n42008028021"
+      ],
+      [
+        "n44007048004"
+      ],
+      [
+        "n44016017016"
+      ],
+      [
+        "n58007001011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42006035023"
+      ]
+    ]
+  }
+}

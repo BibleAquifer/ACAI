@@ -1,0 +1,83 @@
+{
+  "id": "place:Hadad-rimmon",
+  "primary_id": "place:Hadad-rimmon",
+  "alternate_sources": {
+    "aquifer": [
+      "5568|Hadad-Rimmon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a05ee76"
+    ],
+    "ubsdbh": [
+      "001759001001000 001759001002000"
+    ],
+    "tipnr": [
+      "Hadad-rimmon@Zec.12.11"
+    ],
+    "vizbible": [
+      "recbYRf2YG4TxQy1M"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1136877"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001759001001000 001759001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadad-rimmon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hadad-rimmon",
+          "gloss": "Hadad-Rimmon",
+          "description": "A deity worshipped by Arameans, whose death was ritually mourned by his followers; possibly the name of a place in the plain of Megiddo."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": true,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "special",
+      "settlement"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.524106",
+      "lon": "35.205136"
+    },
+    "vizbible": {
+      "lat": "32.524106",
+      "lon": "35.205136"
+    }
+  },
+  "key_references": [
+    "38012011"
+  ],
+  "references": [
+    "38012011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o380120110071",
+        "o380120110081"
+      ]
+    ]
+  }
+}

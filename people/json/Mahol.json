@@ -1,0 +1,63 @@
+{
+  "id": "person:Mahol",
+  "primary_id": "person:Mahol",
+  "alternate_sources": {
+    "aquifer": [
+      "6879|Mahol|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003866002001000"
+    ],
+    "tipnr": [
+      "Mahol@1Ki.4.31"
+    ],
+    "vizbible": [
+      "recQkIXW5L0ysYsxG"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ethan",
+    "person:Heman",
+    "person:Calcol",
+    "person:Darda"
+  ],
+  "ubsdbh": [
+    "003866002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mahol",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mahol",
+          "article": "person:Mahol",
+          "description": "A man from the time of Israel's united kingdom, father of Ethan, Heman, Calcol, and Darda, mentioned in 1 Kings 4:31."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מָחֹול",
+      "מָחוֹל"
+    ]
+  },
+  "key_references": [
+    "11005011"
+  ],
+  "references": [
+    "11005011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110050110101"
+      ]
+    ]
+  }
+}

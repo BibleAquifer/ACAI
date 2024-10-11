@@ -1,0 +1,67 @@
+{
+  "id": "group:Abiezer",
+  "primary_id": "group:Abiezer",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000020001001000"
+    ],
+    "tipnr": [
+      "Abiezer@Num.26.30-Jdg"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Abiezer",
+  "ubsdbh": [
+    "000020001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abiezrites",
+      "alternate_labels": [
+        "Abiezer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abiezrites",
+          "article": "group:Abiezer",
+          "description": "People descended from Abiezer, who descended from Manasseh, the son of Joseph, the son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִי הָעֶזְרִי"
+    ]
+  },
+  "key_references": [
+    "07006011",
+    "07006024",
+    "07008032"
+  ],
+  "references": [
+    "07006011",
+    "07006024",
+    "07008032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070060110111",
+        "o070060110121"
+      ],
+      [
+        "o070060240151",
+        "o070060240161"
+      ],
+      [
+        "o070080320121",
+        "o070080320131"
+      ]
+    ]
+  }
+}

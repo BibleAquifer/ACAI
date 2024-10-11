@@ -1,0 +1,42 @@
+{
+  "id": "person:DaughterOfPutiel",
+  "primary_id": "person:DaughterOfPutiel",
+  "alternate_sources": {
+    "tipnr": [
+      "daughter_of_Putiel@Exo.6.25"
+    ],
+    "vizbible": [
+      "recbVQjfMWHfGekWE"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Putiel",
+  "partners": [
+    "person:Eleazar.2"
+  ],
+  "offspring": [
+    "person:Phinehas"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Daughter of Putiel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Daughter of Putiel",
+          "article": "person:DaughterOfPutiel",
+          "description": "The Daughter of Putiel, mentioned in Exodus 6:25, was an unnamed woman who married Eleazar and was the mother of Phinehas during the time of Egypt and the wilderness."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006025"
+  ],
+  "references": [
+    "02006025"
+  ]
+}

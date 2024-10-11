@@ -1,0 +1,86 @@
+{
+  "id": "place:KingsPool",
+  "primary_id": "place:Siloam",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004048001001000",
+      "001191001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2640102"
+    ],
+    "tipnr": [
+      "King's_Pool|Siloam@Neh.3.15-Jhn"
+    ],
+    "vizbible": [
+      "recxWtyi03VqD3AFx"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004048001001000",
+    "001191001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "King's Pool",
+      "alternate_labels": [
+        "Pool",
+        "Siloah",
+        "Pool of Shelah",
+        "Pool of Siloam",
+        "Siloam",
+        "pool of Siloam",
+        "King’s Pool"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Siloam"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "pool"
+    ],
+    "vizbible": [
+      "Landmark"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "53.9",
+      "lon": "-1.61667"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "references": [
+    "16002014",
+    "16003015",
+    "42013004",
+    "43009007",
+    "43009011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160020140061"
+      ],
+      [
+        "o160020140072"
+      ]
+    ]
+  }
+}

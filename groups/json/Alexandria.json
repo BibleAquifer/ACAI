@@ -1,0 +1,68 @@
+{
+  "id": "group:Alexandria",
+  "primary_id": "group:Alexandria",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.402"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/15898"
+    ],
+    "tipnr": [
+      "Alexandria@Act.6.9-"
+    ],
+    "vizbible": [
+      "recBH7NuHKP1aJEqF"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Alexandria",
+  "ubsdgnt": [
+    "93.402"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Alexandrians",
+      "alternate_labels": [
+        "Alexandria"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Alexandrians",
+          "article": "group:Alexandria",
+          "description": "People who live in Alexandria."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀλεξανδρεύς"
+    ]
+  },
+  "key_references": [
+    "44006009",
+    "44018024",
+    "44028011"
+  ],
+  "references": [
+    "44006009",
+    "44018024",
+    "44027006",
+    "44028011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44006009014"
+      ],
+      [
+        "n44018024006"
+      ]
+    ]
+  }
+}

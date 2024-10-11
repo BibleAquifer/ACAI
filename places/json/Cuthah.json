@@ -1,0 +1,91 @@
+{
+  "id": "place:Cuthah",
+  "primary_id": "place:Cuthah",
+  "alternate_sources": {
+    "aquifer": [
+      "4722|Cuth, Cuthah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a538831"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/893977"
+    ],
+    "tipnr": [
+      "Cuth|Cuthah@2Ki.17.30",
+      "Cuthah@2Ki.17.30"
+    ],
+    "vizbible": [
+      "reckj2nMFQVOzR2E8"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1096108"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cuth",
+      "alternate_labels": [
+        "Cush",
+        "Kuthah",
+        "Cuthah"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Cuth"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.733333",
+      "lon": "44.666667"
+    },
+    "vizbible": {
+      "lat": "32.733333",
+      "lon": "44.666667"
+    }
+  },
+  "key_references": [
+    "12017024",
+    "12017030"
+  ],
+  "references": [
+    "12017024",
+    "12017030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120170240053"
+      ],
+      [
+        "o120170300081"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120170240152"
+      ],
+      [
+        "o120170240182"
+      ],
+      [
+        "o120170250061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "place:Straight",
+  "primary_id": "place:Straight",
+  "alternate_sources": {
+    "aquifer": [
+      "8633|Straight Street|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "79.88"
+    ],
+    "tipnr": [
+      "Straight@Act.9.11"
+    ],
+    "vizbible": [
+      "recF0VYuuueFj48tB"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "79.88"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Straight Street",
+      "alternate_labels": [
+        "Straight Gate",
+        "Straight"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:StraightStreet",
+          "gloss": "Straight Street",
+          "description": "A street in Damascus where the apostle Paul stayed after encountering the risen Christ."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Damascus"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "road"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "road"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.519299",
+      "lon": "36.31344999999999"
+    },
+    "vizbible": {
+      "lat": "33.519299",
+      "lon": "36.31344999999999"
+    }
+  },
+  "key_references": [
+    "44009011"
+  ],
+  "references": [
+    "44009011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44009011013"
+      ]
+    ]
+  }
+}

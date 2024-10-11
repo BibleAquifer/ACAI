@@ -1,0 +1,92 @@
+{
+  "id": "person:Beeliada",
+  "primary_id": "person:Eliada",
+  "alternate_sources": {
+    "aquifer": [
+      "4062|Beeliada|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001098001001000"
+    ],
+    "tipnr": [
+      "Beeliada|Eliada@2Sa.5.16-1Ch"
+    ],
+    "vizbible": [
+      "recLMJPw4B6G5tgZj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:JerusalemWives",
+  "siblings": [
+    "person:Amnon",
+    "person:Chileab",
+    "person:Absalom",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shammua.2",
+    "person:Shobab",
+    "person:Nathan",
+    "person:Solomon",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Nepheg.2",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliphelet",
+    "person:Tamar.2",
+    "person:Elpelet",
+    "person:Nogah",
+    "person:Jerimoth.6"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "001098001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beeliada (Eliada)",
+      "alternate_labels": [
+        "Eliada"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliada",
+          "article": "person:Beeliada",
+          "description": "A son of David, also known as Eliada, from the tribe of Judah, living during Israel's united kingdom, mentioned in 2 Samuel 5:16 and 1 Chronicles 14:7."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Eliada"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בְּעֶלְיָדָע"
+    ]
+  },
+  "key_references": [
+    "13014007"
+  ],
+  "references": [
+    "13014007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130140070022"
+      ]
+    ]
+  }
+}

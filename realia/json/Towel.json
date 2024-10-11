@@ -1,0 +1,62 @@
+{
+  "id": "realia:Towel",
+  "primary_id": "realia:Towel",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.161"
+    ],
+    "ubsrealia": [
+      "realia:10.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.161"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Towel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Towel",
+          "article": "realia:Towel",
+          "description": "A piece of cloth used for drying things, usually made of linen."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "λέντιον"
+    ]
+  },
+  "key_references": [
+    "43013004",
+    "43013005"
+  ],
+  "references": [
+    "43013004",
+    "43013005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43013004011"
+      ],
+      [
+        "n43013005017"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43013005018"
+      ]
+    ]
+  }
+}

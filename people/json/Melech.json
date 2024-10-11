@@ -1,0 +1,72 @@
+{
+  "id": "person:Melech",
+  "primary_id": "person:Melech",
+  "alternate_sources": {
+    "aquifer": [
+      "7034|Melech|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004048002001000"
+    ],
+    "tipnr": [
+      "Melech@1Ch.8.35-"
+    ],
+    "vizbible": [
+      "recqhVkrUumGtgepK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Micah.2",
+  "siblings": [
+    "person:Pithon",
+    "person:Tarea",
+    "person:Ahaz.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "004048002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Melech",
+      "alternate_labels": [
+        "Melek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Melech",
+          "article": "person:Melech",
+          "description": "A man from the tribe of Benjamin, son of Micah, living during the time of Israel's united kingdom, mentioned in 1 Chronicles 8:35."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מֶלֶךְ",
+      "מֶ֫לֶךְ"
+    ]
+  },
+  "key_references": [
+    "13008035",
+    "13009041"
+  ],
+  "references": [
+    "13008035",
+    "13009041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080350042"
+      ],
+      [
+        "o130090410042"
+      ]
+    ]
+  }
+}

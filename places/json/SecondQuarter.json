@@ -1,0 +1,92 @@
+{
+  "id": "place:SecondQuarter",
+  "primary_id": "place:SecondQuarter",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004518001005000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/433094"
+    ],
+    "tipnr": [
+      "Second_Quarter@2Ki.22.14-Zep"
+    ],
+    "vizbible": [
+      "recFXcRQrRaeVt8Wq"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004518001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Second District",
+      "alternate_labels": [
+        "second",
+        "Mishneh district",
+        "New Quarter",
+        "Second Quarter"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:SecondQuarter",
+          "gloss": "Second District",
+          "description": "A suburb in Jerusalem."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "district in settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "41.18401",
+      "lon": "14.048071"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "12022014",
+    "36001010"
+  ],
+  "references": [
+    "12022014",
+    "14034022",
+    "16011009",
+    "36001010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120220140222"
+      ],
+      [
+        "o140340220202"
+      ],
+      [
+        "o360010100122"
+      ]
+    ]
+  }
+}

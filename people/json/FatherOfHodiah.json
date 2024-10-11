@@ -1,0 +1,43 @@
+{
+  "id": "person:FatherOfHodiah",
+  "primary_id": "person:FatherOfHodiah",
+  "alternate_sources": {
+    "tipnr": [
+      "father_of_Hodiah@1Ch.4.19"
+    ],
+    "vizbible": [
+      "recZtsoHc2qS9TsrI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Hodiah",
+    "person:Naham"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Father of Hodiah",
+      "alternate_labels": [
+        "Hodiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Father of Hodiah",
+          "article": "person:FatherOfHodiah",
+          "description": "The Father of Hodiah is an unnamed man from the united kingdom period, noted as the father of Hodiah and Naham."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004019"
+  ],
+  "references": [
+    "13004019"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "realia:Porch",
+  "primary_id": "realia:Porch",
+  "alternate_sources": {
+    "aquifer": [
+      "7780|Porch|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "7.40"
+    ],
+    "ubsrealia": [
+      "realia:3.14.1.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.40"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Porch",
+      "alternate_labels": [
+        "Portico",
+        "Herods Temple"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Porch",
+          "article": "realia:Porch",
+          "description": "A covered walkway with columns, open on one side, where people could stand, sit, or walk."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "στοά"
+    ]
+  },
+  "key_references": [
+    "43010023",
+    "44003011",
+    "44005012"
+  ],
+  "references": [
+    "43005002",
+    "43010023",
+    "44003011",
+    "44005012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43005002015"
+      ],
+      [
+        "n43010023010"
+      ],
+      [
+        "n44003011017"
+      ],
+      [
+        "n44005012021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43005003002"
+      ],
+      [
+        "n43005005005"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44003011019"
+      ]
+    ]
+  }
+}

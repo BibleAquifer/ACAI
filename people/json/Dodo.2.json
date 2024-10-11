@@ -1,0 +1,66 @@
+{
+  "id": "person:Dodo.2",
+  "primary_id": "person:Dodo.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4877|Dodo|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Dodo@2Sa.23.9-1Ch",
+      "Dodai|Dodo@2Sa.23.9-1Ch"
+    ],
+    "vizbible": [
+      "recb9w4YLTsZLvXVq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Eleazar.4"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dodo (2 Samuel 23:9)",
+      "alternate_labels": [
+        "Dodi",
+        "Dodai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dodo (2 Samuel 23:9)",
+          "article": "person:Dodo.2",
+          "description": "Dodo, also known as Dodai or Dodi, was the father of Eleazar and a notable figure during the time of Israel's united kingdom, mentioned in 2 Samuel 23:9 and 1 Chronicles 27:4."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Dodai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023009",
+    "13011012",
+    "13027004"
+  ],
+  "references": [
+    "10023009",
+    "13011012",
+    "13027004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230090061"
+      ],
+      [
+        "o130110120041"
+      ],
+      [
+        "o130270040051"
+      ]
+    ]
+  }
+}

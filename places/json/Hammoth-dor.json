@@ -1,0 +1,91 @@
+{
+  "id": "place:Hammoth-dor",
+  "primary_id": "place:Hammath",
+  "alternate_sources": {
+    "aquifer": [
+      "5624|Hammoth-Dor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002375001001000"
+    ],
+    "tipnr": [
+      "Hammoth-dor|Hammath@Jos.19.35-1Ch"
+    ],
+    "vizbible": [
+      "recU0a48tvCQOFrxo"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002375001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hammoth-dor",
+      "alternate_labels": [
+        "Hammath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hammoth-dor",
+          "gloss": "Hammoth-Dor",
+          "description": "A Levitical town in the territory of Naphtali, assigned to the clan of Gershon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Hammath"
+  ],
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חַמֹּת דֹּאר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.125828",
+      "lon": "35.165"
+    },
+    "vizbible": {
+      "lat": "33.125828",
+      "lon": "35.165"
+    }
+  },
+  "key_references": [
+    "06021032"
+  ],
+  "references": [
+    "06021032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060210320131",
+        "o060210320141"
+      ]
+    ]
+  }
+}

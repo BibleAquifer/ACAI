@@ -1,0 +1,208 @@
+{
+  "id": "place:Arnon",
+  "primary_id": "place:Arnon",
+  "alternate_sources": {
+    "aquifer": [
+      "3756|Arnon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a4cc324"
+    ],
+    "ubsdbh": [
+      "000708001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/697634",
+      "http://pleiades.stoa.org/places/697634"
+    ],
+    "tipnr": [
+      "Arnon@Num.21.13-Jer"
+    ],
+    "vizbible": [
+      "rec1NgBQ2zMeIsFyT"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2120208"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000708001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arnon",
+      "alternate_labels": [
+        "Arnon River",
+        "Aaron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Arnon",
+          "gloss": "Arnon",
+          "description": "A river east of the Jordan which constitutes the border between Moab and Ammon."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Ammon",
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַרְנֹון",
+      "אַרְנוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.4288",
+      "lon": "35.677009"
+    },
+    "recogito": {
+      "lat": "31.25",
+      "lon": "35.75"
+    },
+    "vizbible": {
+      "lat": "31.25",
+      "lon": "35.75"
+    }
+  },
+  "key_references": [
+    "04022036",
+    "07011022",
+    "07011018",
+    "05003008",
+    "04021013"
+  ],
+  "references": [
+    "04021013",
+    "04021014",
+    "04021024",
+    "04021026",
+    "04021028",
+    "04022036",
+    "05002024",
+    "05002036",
+    "05003008",
+    "05003012",
+    "05003016",
+    "05004048",
+    "06012001",
+    "06012002",
+    "06013009",
+    "06013016",
+    "07011013",
+    "07011018",
+    "07011022",
+    "07011026",
+    "12010033",
+    "23016002",
+    "24048020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210130051"
+      ],
+      [
+        "o040210130121"
+      ],
+      [
+        "o040210140121"
+      ],
+      [
+        "o040210240082"
+      ],
+      [
+        "o040210260191"
+      ],
+      [
+        "o040210280131"
+      ],
+      [
+        "o040220360141"
+      ],
+      [
+        "o050020240061"
+      ],
+      [
+        "o050020360061"
+      ],
+      [
+        "o050030080141"
+      ],
+      [
+        "o050030120111"
+      ],
+      [
+        "o050030160081"
+      ],
+      [
+        "o050040480061"
+      ],
+      [
+        "o060120010161"
+      ],
+      [
+        "o060120020121"
+      ],
+      [
+        "o060130090061"
+      ],
+      [
+        "o060130160091"
+      ],
+      [
+        "o070110130152"
+      ],
+      [
+        "o070110180171"
+      ],
+      [
+        "o070110180231"
+      ],
+      [
+        "o070110220062"
+      ],
+      [
+        "o070110260121"
+      ],
+      [
+        "o120100330161"
+      ],
+      [
+        "o230160020102"
+      ],
+      [
+        "o240480200102"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040210130082"
+      ]
+    ]
+  }
+}

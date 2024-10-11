@@ -1,0 +1,90 @@
+{
+  "id": "place:Jeshanah",
+  "primary_id": "place:Jeshanah",
+  "alternate_sources": {
+    "aquifer": [
+      "6336|Jeshanah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5f5b06"
+    ],
+    "ubsdbh": [
+      "003175001001000"
+    ],
+    "tipnr": [
+      "Jeshanah@2Ch.13.19"
+    ],
+    "vizbible": [
+      "recJTCJXOo6QXJndH"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q22948654"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003175001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeshanah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jeshanah",
+          "gloss": "Jeshanah",
+          "description": "A town in the territory of Ephraim."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יְשָׁנָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.980029",
+      "lon": "35.229709"
+    },
+    "vizbible": {
+      "lat": "31.980029",
+      "lon": "35.229709"
+    }
+  },
+  "key_references": [
+    "14013019"
+  ],
+  "references": [
+    "14013019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140130190141"
+      ]
+    ]
+  }
+}

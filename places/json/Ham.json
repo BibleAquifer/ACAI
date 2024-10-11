@@ -1,0 +1,97 @@
+{
+  "id": "place:Ham",
+  "primary_id": "place:Ammon",
+  "alternate_sources": {
+    "aquifer": [
+      "5631|Ham (Place)|TyndaleBibleDictionary",
+      "26671|Ham|UWTranslationWords",
+      "132188|Ham|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001834001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3014029"
+    ],
+    "tipnr": [
+      "Ham|Ammon@Deu.2.19-Zep"
+    ],
+    "vizbible": [
+      "rec3sBoYreDR4Dskj"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001834001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ham (of Zuzim)",
+      "alternate_labels": [
+        "Ammon",
+        "Ham"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ham.1",
+          "gloss": "Ham (of Zuzim)",
+          "description": "A location inhabited by the Zuzim, which was subdued by Chedorlaomer and the allied kings."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ammon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "הָם",
+      "הָ֑ם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.95018855",
+      "lon": "35.92413136"
+    },
+    "recogito": {
+      "lat": "49.74721",
+      "lon": "3.07301"
+    },
+    "vizbible": {
+      "lat": "31.95018855",
+      "lon": "35.92413136"
+    }
+  },
+  "key_references": [
+    "01014005"
+  ],
+  "references": [
+    "01014005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140050162"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "person:Gatam",
+  "primary_id": "person:Gatam",
+  "alternate_sources": {
+    "aquifer": [
+      "5373|Gatam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001475001001000"
+    ],
+    "tipnr": [
+      "Gatam@Gen.36.11-1Ch"
+    ],
+    "vizbible": [
+      "reciDbbigGBXYc63b"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliphaz",
+  "mother": "person:WifeOfEliphaz",
+  "siblings": [
+    "person:Teman",
+    "person:Omar",
+    "person:Zepho",
+    "person:Kenaz",
+    "person:Amalek",
+    "person:Korah.2"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "001475001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gatam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gatam",
+          "article": "person:Gatam",
+          "description": "Gatam, a descendant of Esau and son of Eliphaz, is an Edomite first mentioned in Genesis 36:11 during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גַּעְתָּם"
+    ]
+  },
+  "key_references": [
+    "01036011",
+    "01036016",
+    "13001036"
+  ],
+  "references": [
+    "01036011",
+    "01036016",
+    "13001036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360110072"
+      ],
+      [
+        "o010360160041"
+      ],
+      [
+        "o130010360062"
+      ]
+    ]
+  }
+}

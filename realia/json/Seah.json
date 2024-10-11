@@ -1,0 +1,91 @@
+{
+  "id": "realia:Seah",
+  "primary_id": "realia:Seah",
+  "alternate_sources": {
+    "aquifer": [
+      "8180|Seah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004972001001000"
+    ],
+    "ubsrealia": [
+      "realia:11.3.1.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004972001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seah",
+          "article": "realia:Seah",
+          "description": "A unit of dry measurement equal to about 7.3 liters or 7 quarts."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סְאָה"
+    ]
+  },
+  "key_references": [
+    "01018006",
+    "12007001",
+    "12007016"
+  ],
+  "references": [
+    "01018006",
+    "09025018",
+    "11018032",
+    "12007001",
+    "12007016",
+    "12007018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010180060091"
+      ],
+      [
+        "o090250180151"
+      ],
+      [
+        "o110180320101"
+      ],
+      [
+        "o120070010111"
+      ],
+      [
+        "o120070010142"
+      ],
+      [
+        "o120070160081"
+      ],
+      [
+        "o120070160112"
+      ],
+      [
+        "o120070180081"
+      ],
+      [
+        "o120070180112"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090250270032"
+      ]
+    ]
+  }
+}

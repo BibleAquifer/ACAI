@@ -1,0 +1,67 @@
+{
+  "id": "person:Attai.3",
+  "primary_id": "person:Attai.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3870|Attai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005745001003000"
+    ],
+    "tipnr": [
+      "Attai@2Ch.11.20"
+    ],
+    "vizbible": [
+      "recETOArOcU47Zbug"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Rehoboam",
+  "mother": "person:Maacah.3",
+  "siblings": [
+    "person:Abijah.4",
+    "person:Jeush.5",
+    "person:Shemariah.2",
+    "person:Zaham",
+    "person:Ziza.2",
+    "person:Shelomith.3"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "005745001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Attai (2 Chronicles 11:20)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Attai (2 Chronicles 11:20)",
+          "article": "person:Attai.3",
+          "description": "A man of the tribe of Judah, son of Rehoboam and Maacah, mentioned in 2 Chronicles 11:20."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "14011020"
+  ],
+  "references": [
+    "14011020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140110200121"
+      ]
+    ]
+  }
+}

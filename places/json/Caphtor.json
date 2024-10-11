@@ -1,0 +1,103 @@
+{
+  "id": "place:Caphtor",
+  "primary_id": "place:Crete",
+  "alternate_sources": {
+    "aquifer": [
+      "4418|Caphtor, Caphtorim, Caphtorites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003415002001000"
+    ],
+    "tipnr": [
+      "Caphtor|Crete@Deu.2.23-Tit"
+    ],
+    "vizbible": [
+      "reci1kkPbg8LSQStj"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003415002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Caphtor",
+      "alternate_labels": [
+        "Caphthorim",
+        "Crete",
+        "Caphtorims",
+        "Caphtorim",
+        "Caphtorites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Caphtor",
+          "gloss": "Caphtor",
+          "description": "The land of origin of the Philistines; probably to be identified with Crete."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Crete"
+  ],
+  "referred_to_as": [
+    "place:Crete"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כַּפְתֹּור",
+      "כַּפְתּוֹר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "island",
+      "region"
+    ],
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.171239",
+      "lon": "25.007204"
+    },
+    "vizbible": {
+      "lat": "35.171239",
+      "lon": "25.007204"
+    }
+  },
+  "key_references": [
+    "24047004",
+    "05002023"
+  ],
+  "references": [
+    "01010014",
+    "05002023",
+    "13001012",
+    "24047004",
+    "30009007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050020230082"
+      ],
+      [
+        "o240470040211"
+      ],
+      [
+        "o300090070172"
+      ]
+    ]
+  }
+}

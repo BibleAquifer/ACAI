@@ -1,0 +1,103 @@
+{
+  "id": "place:Nain",
+  "primary_id": "place:Nain",
+  "alternate_sources": {
+    "aquifer": [
+      "7295|Nain|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aee679c"
+    ],
+    "ubsdgnt": [
+      "93.539"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3489344"
+    ],
+    "tipnr": [
+      "Nain@Luk.7.11"
+    ],
+    "vizbible": [
+      "recDMEtrw6FGZIJ9J"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q934904"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.539"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nain",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nain",
+          "gloss": "Nain",
+          "description": "A city in southern Galilee where Jesus raised a widow's son."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Nazareth"
+  ],
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ναΐν"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.63083337",
+      "lon": "35.34782689"
+    },
+    "recogito": {
+      "lat": "17.96526",
+      "lon": "-77.60528"
+    },
+    "vizbible": {
+      "lat": "32.63083337",
+      "lon": "35.34782689"
+    },
+    "biblica-maps": {
+      "lat": "32.6313",
+      "lon": "35.35109"
+    }
+  },
+  "key_references": [
+    "42007011"
+  ],
+  "references": [
+    "42007011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42007011010"
+      ]
+    ]
+  }
+}

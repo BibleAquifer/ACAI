@@ -1,0 +1,72 @@
+{
+  "id": "place:Cush",
+  "primary_id": "place:Cush",
+  "alternate_sources": {
+    "aquifer": [
+      "4720|Cush (Place)|TyndaleBibleDictionary",
+      "26492|Cush|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "003269001001000"
+    ],
+    "tipnr": [
+      "Cush@Gen.2.13"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003269001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cush (near Gihon)",
+      "alternate_labels": [
+        "Ethiopia",
+        "Cush"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cush.2",
+          "gloss": "Cush (near Gihon)",
+          "description": "A region of uncertain location, through which the Gihon flows (Genesis 2:13)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Gihon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כּוּשׁ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "01002013"
+  ],
+  "references": [
+    "01002013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010020130101"
+      ]
+    ]
+  }
+}

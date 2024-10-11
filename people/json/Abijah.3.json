@@ -1,0 +1,64 @@
+{
+  "id": "person:Abijah.3",
+  "primary_id": "person:Abijah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3301|Abijah|TyndaleBibleDictionary",
+      "26278|Abijah|UWTranslationWords",
+      "132427|Abijah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000028001006000"
+    ],
+    "tipnr": [
+      "Abijah@1Ki.14.1"
+    ],
+    "vizbible": [
+      "recpXWL6Hca8ZLAhS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jeroboam",
+  "siblings": [
+    "person:Nadab.2"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "000028001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abijah (Son of Jeroboam)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abijah (Son of Jeroboam)",
+          "article": "person:Abijah.3",
+          "description": "The son of Jeroboam from the Kingdom of Israel, mentioned in 1 Kings 14:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִיָּה",
+      "אֲבִיָּ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "11014001"
+  ],
+  "references": [
+    "11014001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110140010041"
+      ]
+    ]
+  }
+}

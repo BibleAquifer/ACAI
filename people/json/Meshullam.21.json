@@ -1,0 +1,64 @@
+{
+  "id": "person:Meshullam.21",
+  "primary_id": "person:Shallum.7",
+  "alternate_sources": {
+    "aquifer": [
+      "7086|Meshullam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004503001007000"
+    ],
+    "tipnr": [
+      "Meshullam|Shallum@1Ch.6.12-Neh"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zadok.4",
+  "offspring": [
+    "person:Hilkiah.2"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "004503001007000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meshullam (Shallum)",
+      "alternate_labels": [
+        "Shallum"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shallum",
+          "article": "person:Meshullam.21",
+          "description": "A Levitical priest during the divided kingdom, first mentioned in 1 Chronicles 6:12, also called Shallum, and the son of Zadok and father of Hilkiah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shallum.7"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009011",
+    "16011011"
+  ],
+  "references": [
+    "13009011",
+    "16011011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090110051"
+      ],
+      [
+        "o160110110051"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "person:Uzziah.5",
+  "primary_id": "person:Uzziah.5",
+  "alternate_sources": {
+    "aquifer": [
+      "8990|Uzziah|TyndaleBibleDictionary",
+      "27189|Uzziah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005342001005000"
+    ],
+    "tipnr": [
+      "Uzziah@Neh.11.4"
+    ],
+    "vizbible": [
+      "recM2IRzjE3pMfpWT"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zechariah.23",
+  "offspring": [
+    "person:Athaiah"
+  ],
+  "ubsdbh": [
+    "005342001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uzziah (Nehemiah 11:4)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uzziah (Nehemiah 11:4)",
+          "article": "person:Uzziah.5",
+          "description": "Uzziah, mentioned in Nehemiah 11:4, was a man living during the time of exile and return, son of Zechariah and father of Athaiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16011004"
+  ],
+  "references": [
+    "16011004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110040111"
+      ]
+    ]
+  }
+}

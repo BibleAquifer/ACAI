@@ -1,0 +1,91 @@
+{
+  "id": "person:Reu",
+  "primary_id": "person:Reu",
+  "alternate_sources": {
+    "aquifer": [
+      "8018|Reu|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Reu@Gen.11.18-Luk"
+    ],
+    "vizbible": [
+      "recmCYRmiSdCy63Fc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Peleg",
+  "offspring": [
+    "person:Serug"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Reu",
+      "alternate_labels": [
+        "Ragau"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Reu",
+          "article": "person:Reu",
+          "description": "Grandson of the patriarch Eber, son of Peleg, and father of Serug. He is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01011018",
+    "13001025",
+    "42003035"
+  ],
+  "references": [
+    "01011018",
+    "01011019",
+    "01011020",
+    "01011021",
+    "13001025",
+    "42003035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010110180071"
+      ],
+      [
+        "o010110190061"
+      ],
+      [
+        "o010110200021"
+      ],
+      [
+        "o010110210021"
+      ],
+      [
+        "o130010250031"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003035004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010110200062"
+      ],
+      [
+        "o010110210112"
+      ]
+    ]
+  }
+}

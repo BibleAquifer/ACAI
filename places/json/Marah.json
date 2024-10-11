@@ -1,0 +1,112 @@
+{
+  "id": "place:Marah",
+  "primary_id": "place:Marah",
+  "alternate_sources": {
+    "aquifer": [
+      "6935|Marah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ad3970d"
+    ],
+    "ubsdbh": [
+      "004380001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/746778"
+    ],
+    "tipnr": [
+      "Marah@Exo.15.23-Num"
+    ],
+    "vizbible": [
+      "recZiq53EXgslXLtZ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2554928"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004380001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Marah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Marah",
+          "gloss": "Marah",
+          "description": "A location in the wilderness of Etham where the Israelites encamped shortly after crossing the Sea of Reeds on their way from Egypt to Canaan; here bitter water was made drinkable."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Etham"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מָרָה",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "spring",
+      "body of water"
+    ],
+    "acai": [
+      "spring"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.35",
+      "lon": "32.933333"
+    },
+    "recogito": {
+      "lat": "29.41545",
+      "lon": "32.81844"
+    },
+    "vizbible": {
+      "lat": "29.35",
+      "lon": "32.933333"
+    }
+  },
+  "key_references": [
+    "02015023",
+    "04033008"
+  ],
+  "references": [
+    "02015023",
+    "02015025",
+    "02015027",
+    "04033008",
+    "04033009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020150230021"
+      ],
+      [
+        "o020150230072"
+      ],
+      [
+        "o020150230151"
+      ],
+      [
+        "o040330080152"
+      ],
+      [
+        "o040330090022"
+      ]
+    ]
+  }
+}

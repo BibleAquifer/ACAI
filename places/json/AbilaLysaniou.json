@@ -1,0 +1,36 @@
+{
+  "id": "place:AbilaLysaniou",
+  "primary_id": "place:AbilaLysaniou",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:AbilaLysaniou",
+          "gloss": "Abila Lysaniou",
+          "description": "A city on the Abana River, northeast of Israel; capital of ancient Abilene."
+        }
+      ],
+      "preferred_label": "Abila Lysaniou",
+      "alternate_labels": [
+        "Abila Lysaniae",
+        "Abila"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Abana"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  }
+}

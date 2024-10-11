@@ -1,0 +1,95 @@
+{
+  "id": "person:Elimelech",
+  "primary_id": "person:Elimelech",
+  "alternate_sources": {
+    "aquifer": [
+      "5013|Elimelech|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000422001001000"
+    ],
+    "tipnr": [
+      "Elimelech@Rut.1.2-"
+    ],
+    "vizbible": [
+      "recLyymGfYW0x6xK6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Caleb.2",
+  "mother": "person:Ephrathah",
+  "partners": [
+    "person:Naomi"
+  ],
+  "offspring": [
+    "person:Mahlon",
+    "person:Chilion"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Bethlehem"
+    ]
+  },
+  "ubsdbh": [
+    "000422001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elimelech",
+      "alternate_labels": [
+        "Elimelek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elimelech",
+          "article": "person:Elimelech",
+          "description": "Husband of Naomi and father-in-law of Ruth the Moabitess. He was the father of Mahlon and Chilion."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִימֶלֶךְ",
+      "אֱלִימֶ֫לֶךְ"
+    ]
+  },
+  "key_references": [
+    "08001001"
+  ],
+  "references": [
+    "08001002",
+    "08001003",
+    "08002001",
+    "08002003",
+    "08004003",
+    "08004009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o080010020031"
+      ],
+      [
+        "o080010030021"
+      ],
+      [
+        "o080020010091"
+      ],
+      [
+        "o080020030141"
+      ],
+      [
+        "o080040030072"
+      ],
+      [
+        "o080040090142"
+      ]
+    ]
+  }
+}

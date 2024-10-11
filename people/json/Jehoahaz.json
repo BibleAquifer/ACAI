@@ -1,0 +1,81 @@
+{
+  "id": "person:Jehoahaz",
+  "primary_id": "person:Ahaziah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6273|Jehoahaz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002816001003000"
+    ],
+    "tipnr": [
+      "Jehoahaz|Ahaziah@2Ki.8.24-2Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoram",
+  "mother": "person:Athaliah",
+  "partners": [
+    "person:Zibiah"
+  ],
+  "offspring": [
+    "person:Joash.3"
+  ],
+  "siblings": [
+    "person:Jehosheba"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002816001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehoahaz (Ahaziah)",
+      "alternate_labels": [
+        "Ahaziah (Son of Jehoram)",
+        "Ahaziah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahaziah (Son of Jehoram)",
+          "article": "person:Jehoahaz",
+          "description": "A king of Judah during the divided kingdom, also known as Ahaziah, son of Jehoram and Athaliah, mentioned in 2 Kings 8:24 and 2 Chronicles 21:17."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ahaziah.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹואָחָז",
+      "יְהוֹאָחָז"
+    ]
+  },
+  "key_references": [
+    "14021017",
+    "14025023"
+  ],
+  "references": [
+    "14021017",
+    "14025023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140210170201"
+      ],
+      [
+        "o140250230081"
+      ]
+    ]
+  }
+}

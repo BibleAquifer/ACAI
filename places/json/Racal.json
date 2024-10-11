@@ -1,0 +1,87 @@
+{
+  "id": "place:Racal",
+  "primary_id": "place:Carmel",
+  "alternate_sources": {
+    "aquifer": [
+      "7900|Racal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006807001001000"
+    ],
+    "tipnr": [
+      "Racal|Carmel@Jos.12.22-Nam"
+    ],
+    "vizbible": [
+      "recIlh9AAokG5yxro"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006807001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Racal",
+      "alternate_labels": [
+        "Carmel",
+        "Rachal",
+        "Rakal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Racal",
+          "gloss": "Racal",
+          "description": "A town in the territory of Judah where David sent some plunder."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Carmel"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.43333152",
+      "lon": "35.13333189"
+    },
+    "vizbible": {
+      "lat": "31.43333152",
+      "lon": "35.13333189"
+    }
+  },
+  "key_references": [
+    "09030029"
+  ],
+  "references": [
+    "09030029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090300290022"
+      ]
+    ]
+  }
+}

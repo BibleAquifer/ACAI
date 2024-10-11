@@ -1,0 +1,99 @@
+{
+  "id": "person:Neriah",
+  "primary_id": "person:Neriah",
+  "alternate_sources": {
+    "aquifer": [
+      "7366|Neriah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004922001001000"
+    ],
+    "tipnr": [
+      "Neriah@Jer.32.12-"
+    ],
+    "vizbible": [
+      "rec7Cfhlvp1bRWunV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mahseiah",
+  "offspring": [
+    "person:Baruch.4",
+    "person:Seraiah.8"
+  ],
+  "ubsdbh": [
+    "004922001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Neriah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Neriah",
+          "article": "person:Neriah",
+          "description": "The father of Baruch, Jeremiah’s scribe, as well as Seraiah, who accompanied King Zedekiah to deliver a message from Jeremiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נֵרִיָּה",
+      "נֵרִיָהוּ"
+    ]
+  },
+  "key_references": [
+    "24032012",
+    "24051059"
+  ],
+  "references": [
+    "24032012",
+    "24032016",
+    "24036004",
+    "24036008",
+    "24036014",
+    "24036032",
+    "24043003",
+    "24043006",
+    "24045001",
+    "24051059"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240320120081"
+      ],
+      [
+        "o240320160121"
+      ],
+      [
+        "o240360040061"
+      ],
+      [
+        "o240360080041"
+      ],
+      [
+        "o240360140271"
+      ],
+      [
+        "o240360320091"
+      ],
+      [
+        "o240430030041"
+      ],
+      [
+        "o240430060301"
+      ],
+      [
+        "o240450010091"
+      ],
+      [
+        "o240510590091"
+      ]
+    ]
+  }
+}

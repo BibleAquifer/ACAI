@@ -1,0 +1,35 @@
+{
+  "id": "place:MiddleGate",
+  "primary_id": "place:MiddleGate",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MiddleGate",
+          "gloss": "Middle Gate",
+          "description": "A gate in Jerusalem where the officials of Nebuchadnezzar, king of Babylon, gathered after sieging the city (Jer 39:3)."
+        }
+      ],
+      "preferred_label": "Middle Gate"
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "gate"
+    ]
+  },
+  "key_references": [
+    "24039003"
+  ]
+}

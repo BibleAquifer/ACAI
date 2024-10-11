@@ -1,0 +1,88 @@
+{
+  "id": "person:Micah.5",
+  "primary_id": "person:Micah.5",
+  "alternate_sources": {
+    "aquifer": [
+      "7106|Micah (Person)|TyndaleBibleDictionary",
+      "26874|Micah|UWTranslationWords",
+      "132522|Micah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003946001004000"
+    ],
+    "tipnr": [
+      "Micah@1Ch.23.20-"
+    ],
+    "vizbible": [
+      "recieJwi5IWpozCFK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uzziel",
+  "offspring": [
+    "person:Shamir"
+  ],
+  "siblings": [
+    "person:Mishael",
+    "person:Elizaphan",
+    "person:Sithri",
+    "person:Isshiah.3"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "003946001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Micah (1 Chronicles 23:20)",
+      "alternate_labels": [
+        "Michah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Micah (1 Chronicles 23:20)",
+          "article": "person:Micah.5",
+          "description": "A son of Uzziel and father of Shamir from the tribe of Levi who lived during the time of the Egyptian slavery and the wilderness wandering of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִיכָה"
+    ]
+  },
+  "key_references": [
+    "13023020",
+    "13024024",
+    "13024025"
+  ],
+  "references": [
+    "13023020",
+    "13024024",
+    "13024025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230200031"
+      ],
+      [
+        "o130240240031"
+      ],
+      [
+        "o130240240051"
+      ],
+      [
+        "o130240250021"
+      ]
+    ]
+  }
+}

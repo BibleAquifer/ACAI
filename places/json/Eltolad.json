@@ -1,0 +1,83 @@
+{
+  "id": "place:Eltolad",
+  "primary_id": "place:Eltolad",
+  "alternate_sources": {
+    "aquifer": [
+      "5056|Eltolad|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Eltolad@Jos.15.30-"
+    ],
+    "vizbible": [
+      "rec8l1lVhso3t7ULj"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eltolad",
+      "alternate_labels": [
+        "Tolad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eltolad",
+          "gloss": "Eltolad",
+          "description": "A town in the territory of Simeon; also known as Tolad."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    },
+    "vizbible": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    }
+  },
+  "key_references": [
+    "06019004",
+    "06015030",
+    "13004029"
+  ],
+  "references": [
+    "06015030",
+    "06019004",
+    "13004029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150300012"
+      ],
+      [
+        "o060190040012"
+      ],
+      [
+        "o130040290033"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "place:Dumah.2",
+  "primary_id": "place:Dumah.2",
+  "alternate_sources": {
+    "tipnr": [
+      "Dumah@Jos.15.52",
+      "Dumah@Jos.15.52"
+    ],
+    "vizbible": [
+      "recnjWL2bcbUvqlTA"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dumah (of Judah)",
+      "alternate_labels": [
+        "Rumah",
+        "Dumah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dumah.1",
+          "gloss": "Dumah (of Judah)",
+          "description": "A town in the hill country of the territory of Judah; possibly to be identified with Arumah."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Arumah"
+  ],
+  "referred_to_as": [
+    "place:Dumah.2"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.43827",
+      "lon": "34.982762"
+    },
+    "vizbible": {
+      "lat": "31.43827",
+      "lon": "34.982762"
+    }
+  },
+  "key_references": [
+    "06015052",
+    "12023036"
+  ],
+  "references": [
+    "06015052",
+    "12023036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150520022"
+      ],
+      [
+        "o120230360191"
+      ]
+    ]
+  }
+}

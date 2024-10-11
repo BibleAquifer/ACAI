@@ -1,0 +1,84 @@
+{
+  "id": "person:Jochebed",
+  "primary_id": "person:Jochebed",
+  "alternate_sources": {
+    "aquifer": [
+      "6396|Jochebed|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002853001001000"
+    ],
+    "tipnr": [
+      "Jochebed@Exo.6.20-Num"
+    ],
+    "vizbible": [
+      "recxqmePpZGwvUF06"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Levi.3",
+  "partners": [
+    "person:Amram"
+  ],
+  "offspring": [
+    "person:Moses",
+    "person:Aaron",
+    "person:Miriam"
+  ],
+  "siblings": [
+    "person:Gershon",
+    "person:Kohath",
+    "person:Merari"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002853001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jochebed",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jochebed",
+          "article": "person:Jochebed",
+          "description": "A woman of the tribe of Levi, mother of Moses, Aaron, and Miriam, living during the time in Egypt and the wilderness, first mentioned in Exodus 6:20."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹוכֶבֶד",
+      "יוֹכֶ֫בֶד"
+    ]
+  },
+  "key_references": [
+    "02006020",
+    "04026059"
+  ],
+  "references": [
+    "02006020",
+    "04026059"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060200041"
+      ],
+      [
+        "o040260590041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020060200082"
+      ]
+    ]
+  }
+}

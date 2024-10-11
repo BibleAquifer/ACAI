@@ -1,0 +1,134 @@
+{
+  "id": "realia:Dragnet",
+  "primary_id": "realia:Dragnet",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.13"
+    ],
+    "ubsdbh": [
+      "002544001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.3.1.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.13"
+  ],
+  "ubsdbh": [
+    "002544001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dragnet",
+      "alternate_labels": [
+        "Seine Net"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dragnet",
+          "article": "realia:Dragnet",
+          "description": "A long fishing net with floats on top and weights on the bottom, used to trap fish by drawing it together from boats or shore."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "realia:Fishnet",
+    "realia:CastingNet"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֵרֶם"
+    ],
+    "el": [
+      "σαγήνη"
+    ]
+  },
+  "key_references": [
+    "35001015",
+    "40013047"
+  ],
+  "references": [
+    "21007026",
+    "26026005",
+    "26026014",
+    "26032003",
+    "26047010",
+    "33007002",
+    "35001015",
+    "35001016",
+    "35001017",
+    "40013047"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o210070260102"
+      ],
+      [
+        "o260260050021"
+      ],
+      [
+        "o260260140051"
+      ],
+      [
+        "o260320030132",
+        "o260320030133"
+      ],
+      [
+        "o260470100122"
+      ],
+      [
+        "o330070020151"
+      ],
+      [
+        "o350010150052",
+        "o350010150053"
+      ],
+      [
+        "o350010160042",
+        "o350010160043"
+      ],
+      [
+        "o350010170041",
+        "o350010170042"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40013047008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o350010160082"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40013048001"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40013047009"
+      ],
+      [
+        "n40013047017"
+      ],
+      [
+        "n40013048003"
+      ]
+    ]
+  }
+}

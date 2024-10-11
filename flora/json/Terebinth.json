@@ -1,0 +1,157 @@
+{
+  "id": "flora:Terebinth",
+  "primary_id": "flora:Terebinth",
+  "alternate_sources": {
+    "aquifer": [
+      "8791|Terebinth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000331003001000",
+      "000393001001000",
+      "000395001001000",
+      "000922001001000"
+    ],
+    "ubsflora": [
+      "flora:1.24"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "000331003001000",
+    "000393001001000",
+    "000395001001000",
+    "000922001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Terebinth",
+      "alternate_labels": [
+        "Oak"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Terebinth",
+          "article": "flora:Terebinth",
+          "description": "A broad tree with heavy branches and aromatic resin in its stem, providing good shade. In the Bible it is often associated with worship."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַיִל",
+      "אֵלָה",
+      "אַלָּה",
+      "בָּטְנִים"
+    ]
+  },
+  "key_references": [
+    "01035004",
+    "10018009",
+    "23001029"
+  ],
+  "references": [
+    "01035004",
+    "01043011",
+    "06024026",
+    "07006011",
+    "07006019",
+    "10018009",
+    "10018010",
+    "10018014",
+    "11013014",
+    "13010012",
+    "23001029",
+    "23001030",
+    "23006013",
+    "23057005",
+    "23061003",
+    "26006013",
+    "26031014",
+    "28004013",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230010290032"
+      ],
+      [
+        "o230570050022"
+      ],
+      [
+        "o230610030201"
+      ],
+      [
+        "o260310140181",
+        "o260310140182"
+      ],
+      [
+        "o010350040182"
+      ],
+      [
+        "o070060110062"
+      ],
+      [
+        "o070060190192"
+      ],
+      [
+        "o100180090142"
+      ],
+      [
+        "o100180090182"
+      ],
+      [
+        "o100180100122"
+      ],
+      [
+        "o100180140172"
+      ],
+      [
+        "o110130140082"
+      ],
+      [
+        "o130100120182"
+      ],
+      [
+        "o230010300032"
+      ],
+      [
+        "o230060130072"
+      ],
+      [
+        "o260060130241"
+      ],
+      [
+        "o280040130112"
+      ],
+      [
+        "o060240260152"
+      ],
+      [
+        "o010430110231"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230010300052"
+      ],
+      [
+        "o280040130142"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230010300041"
+      ]
+    ]
+  }
+}

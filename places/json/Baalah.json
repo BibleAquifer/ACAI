@@ -1,0 +1,89 @@
+{
+  "id": "place:Baalah",
+  "primary_id": "place:Baalah",
+  "alternate_sources": {
+    "aquifer": [
+      "3927|Baalah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001095002002000"
+    ],
+    "tipnr": [
+      "Baalah@Jos.15.29"
+    ],
+    "vizbible": [
+      "recy8fPOXhmjgXtvo"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001095002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baalah (in the Negev)",
+      "alternate_labels": [
+        "Baalah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baalah.1",
+          "gloss": "Baalah (in the Negev)",
+          "description": "A village in the territory of Judah, in the Negev toward the border of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בַּעֲלָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "special",
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.24495217357714",
+      "lon": "34.8408885849849"
+    },
+    "vizbible": {
+      "lat": "31.24495217357714",
+      "lon": "34.8408885849849"
+    }
+  },
+  "key_references": [
+    "06015029",
+    "06015011"
+  ],
+  "references": [
+    "06015029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150290011"
+      ]
+    ]
+  }
+}

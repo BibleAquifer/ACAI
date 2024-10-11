@@ -1,0 +1,94 @@
+{
+  "id": "place:Sharuhen",
+  "primary_id": "place:Sharuhen",
+  "alternate_sources": {
+    "aquifer": [
+      "8297|Sharuhen|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a887d36"
+    ],
+    "tipnr": [
+      "Shilhim|Sharuhen@Jos.19.6-1Ch",
+      "Sharuhen@Jos.19.6-1Ch",
+      "Shaaraim|Sharuhen@Jos.19.6-1Ch"
+    ],
+    "vizbible": [
+      "recga1Xabw2DEyUv5"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1548392"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sharuhen",
+      "alternate_labels": [
+        "Shilhim",
+        "Shaaraim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sharuhen",
+          "gloss": "Sharuhen",
+          "description": "A town in the territory of Simeon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Shaaraim.2",
+    "place:Shilhim"
+  ],
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.282222",
+      "lon": "34.4825"
+    },
+    "vizbible": {
+      "lat": "31.282222",
+      "lon": "34.4825"
+    }
+  },
+  "key_references": [
+    "06019006"
+  ],
+  "references": [
+    "06015032",
+    "06019006",
+    "13004031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150320022"
+      ],
+      [
+        "o060190060032"
+      ],
+      [
+        "o130040310073"
+      ]
+    ]
+  }
+}

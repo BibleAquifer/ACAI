@@ -1,0 +1,198 @@
+{
+  "id": "place:Ekron",
+  "primary_id": "place:Ekron",
+  "alternate_sources": {
+    "aquifer": [
+      "4960|Ekron, Ekronites|TyndaleBibleDictionary",
+      "26549|Ekron|UWTranslationWords"
+    ],
+    "obi": [
+      "a3fc47a"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28341"
+    ],
+    "tipnr": [
+      "Ekron@Jos.13.3-Zec"
+    ],
+    "vizbible": [
+      "rec3gWYVMktOUkAzZ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1323557"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ekron",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ekron",
+          "gloss": "Ekron",
+          "description": "A town in Philistia; one of the five cities of the Philistines."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Philistine",
+  "nearby_places": [
+    "place:Gaza",
+    "place:Ashkelon",
+    "place:Ashdod",
+    "place:Gath"
+  ],
+  "subregion_of": [
+    "place:Philistine"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.77761411",
+      "lon": "34.85214576"
+    },
+    "recogito": {
+      "lat": "31.7776",
+      "lon": "34.85093"
+    },
+    "vizbible": {
+      "lat": "31.7776",
+      "lon": "34.85093"
+    }
+  },
+  "key_references": [
+    "07001018",
+    "06015011"
+  ],
+  "references": [
+    "06013003",
+    "06015011",
+    "06015045",
+    "06015046",
+    "06019043",
+    "07001018",
+    "09005010",
+    "09006016",
+    "09006017",
+    "09007014",
+    "09017052",
+    "12001002",
+    "12001003",
+    "12001006",
+    "12001016",
+    "24025020",
+    "30001008",
+    "36002004",
+    "38009005",
+    "38009007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060130030091"
+      ],
+      [
+        "o060130030203"
+      ],
+      [
+        "o060150110051"
+      ],
+      [
+        "o060150450011"
+      ],
+      [
+        "o060150460012"
+      ],
+      [
+        "o060190430032"
+      ],
+      [
+        "o070010180121"
+      ],
+      [
+        "o090050100051"
+      ],
+      [
+        "o090050100101"
+      ],
+      [
+        "o090050100122"
+      ],
+      [
+        "o090060160061"
+      ],
+      [
+        "o090060170172"
+      ],
+      [
+        "o090070140092"
+      ],
+      [
+        "o090170520141"
+      ],
+      [
+        "o090170520231"
+      ],
+      [
+        "o120010020181"
+      ],
+      [
+        "o120010030251"
+      ],
+      [
+        "o120010060301"
+      ],
+      [
+        "o120010160141"
+      ],
+      [
+        "o240250200191"
+      ],
+      [
+        "o300010080101"
+      ],
+      [
+        "o360020040102"
+      ],
+      [
+        "o380090050072"
+      ],
+      [
+        "o380090070142"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090050100132"
+      ],
+      [
+        "o090050110012"
+      ],
+      [
+        "o090050110022"
+      ],
+      [
+        "o090050110072"
+      ]
+    ]
+  }
+}

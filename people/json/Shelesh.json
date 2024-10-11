@@ -1,0 +1,58 @@
+{
+  "id": "person:Shelesh",
+  "primary_id": "person:Shelesh",
+  "alternate_sources": {
+    "aquifer": [
+      "8338|Shelesh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007431001001000"
+    ],
+    "tipnr": [
+      "Shelesh@1Ch.7.35"
+    ],
+    "vizbible": [
+      "recUCbB82qy2CGIdz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hotham",
+  "siblings": [
+    "person:Zophah",
+    "person:Imna",
+    "person:Amal"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "007431001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shelesh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shelesh",
+          "article": "person:Shelesh",
+          "description": "Shelesh, only mentioned in 1 Chronicles 7:35, was a man of the tribe of Asher living during the time of the divided kingdom and the son of Hotham."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007035"
+  ],
+  "references": [
+    "13007035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070350062"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "person:Ethan.4",
+  "primary_id": "person:Joah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5170|Ethan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000363002004000"
+    ],
+    "tipnr": [
+      "Ethan|Joah@1Ch.6.21-"
+    ],
+    "vizbible": [
+      "rechwwwFLrmd1LeqE"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zimmah",
+  "offspring": [
+    "person:Iddo.4"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000363002004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ethan (Joah)",
+      "alternate_labels": [
+        "Joah (1 Chronicles 6:21)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joah (1 Chronicles 6:21)",
+          "article": "person:Ethan.4",
+          "description": "Ethan, also known as Joah, was a man of the tribe of Levi during the divided kingdom and the son of Zimmah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Joah.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵיתָן"
+    ]
+  },
+  "key_references": [
+    "13006027"
+  ],
+  "references": [
+    "13006027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060270021"
+      ]
+    ]
+  }
+}

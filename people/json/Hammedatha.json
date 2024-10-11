@@ -1,0 +1,77 @@
+{
+  "id": "person:Hammedatha",
+  "primary_id": "person:Hammedatha",
+  "alternate_sources": {
+    "aquifer": [
+      "5620|Hammedatha|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001835001001000"
+    ],
+    "tipnr": [
+      "Hammedatha@Est.3.1-"
+    ],
+    "vizbible": [
+      "recsAykNGnbcLsDz3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Haman"
+  ],
+  "ubsdbh": [
+    "001835001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hammedatha",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hammedatha",
+          "article": "person:Hammedatha",
+          "description": "Hammedatha was a man living during the time of Israelite exile and return. He was the father of Haman, who attempted to exterminate all Jews in Persia."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הַמְּדָתָא"
+    ]
+  },
+  "key_references": [
+    "17003001",
+    "17008005",
+    "17009024"
+  ],
+  "references": [
+    "17003001",
+    "17003010",
+    "17008005",
+    "17009010",
+    "17009024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170030010101"
+      ],
+      [
+        "o170030100101"
+      ],
+      [
+        "o170080050241"
+      ],
+      [
+        "o170090100051"
+      ],
+      [
+        "o170090240041"
+      ]
+    ]
+  }
+}

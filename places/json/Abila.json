@@ -1,0 +1,38 @@
+{
+  "id": "place:Abila",
+  "primary_id": "place:Abila",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Abila",
+          "gloss": "Abila (of Perea)",
+          "description": "A city in Perea, north of the Dead Sea; possibly Abel-Shittim."
+        }
+      ],
+      "preferred_label": "Abila (of Perea)"
+    }
+  },
+  "possibly_same_as": [
+    "place:Abel-shittim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "31.85862",
+      "lon": "35.63541"
+    }
+  }
+}

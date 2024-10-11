@@ -1,0 +1,92 @@
+{
+  "id": "place:Elon",
+  "primary_id": "place:Elon",
+  "alternate_sources": {
+    "aquifer": [
+      "5047|Elon (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae180d8"
+    ],
+    "ubsdbh": [
+      "000336001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4465285"
+    ],
+    "tipnr": [
+      "Elon@Jos.19.43"
+    ],
+    "vizbible": [
+      "recZhFEpFG9CKHMou"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000336001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Elon",
+          "gloss": "Elon",
+          "description": "A town or village in the territory of Dan."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Dan",
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֵילֹון",
+      "אֵלוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.973818",
+      "lon": "35.116531"
+    },
+    "recogito": {
+      "lat": "36.10291",
+      "lon": "-79.50669"
+    },
+    "vizbible": {
+      "lat": "31.973818",
+      "lon": "35.116531"
+    }
+  },
+  "key_references": [
+    "06019043"
+  ],
+  "references": [
+    "06019043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190430012"
+      ]
+    ]
+  }
+}

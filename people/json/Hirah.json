@@ -1,0 +1,99 @@
+{
+  "id": "person:Hirah",
+  "primary_id": "person:Hirah",
+  "alternate_sources": {
+    "aquifer": [
+      "5859|Hirah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002252001001000"
+    ],
+    "tipnr": [
+      "Hirah@Gen.38.1"
+    ],
+    "vizbible": [
+      "recvhJcNajnTqFMSX"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "002252001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hirah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hirah",
+          "article": "person:Hirah",
+          "description": "Hirah, first mentioned in Genesis 38:1, was a man from Adullam and a friend of Judah, son of Jacob, living during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חִירָה"
+    ]
+  },
+  "key_references": [
+    "01038001",
+    "01038012"
+  ],
+  "references": [
+    "01038001",
+    "01038012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380010131"
+      ],
+      [
+        "o010380120152"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010380210061",
+          "o010380210071",
+          "o010380210072",
+          "o010380210081",
+          "o010380210091",
+          "o010380210091ה",
+          "o010380210092",
+          "o010380210101",
+          "o010380210111",
+          "o010380210112"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010380220051",
+          "o010380220061",
+          "o010380220062",
+          "o010380220071",
+          "o010380220072",
+          "o010380220081",
+          "o010380220091",
+          "o010380220092",
+          "o010380220101",
+          "o010380220111",
+          "o010380220121",
+          "o010380220131",
+          "o010380220132",
+          "o010380220141"
+        ]
+      }
+    ]
+  }
+}

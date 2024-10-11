@@ -1,0 +1,100 @@
+{
+  "id": "place:Salamis",
+  "primary_id": "place:Salamis",
+  "alternate_sources": {
+    "aquifer": [
+      "8100|Salamis|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "afa863b"
+    ],
+    "ubsdgnt": [
+      "93.564"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21562"
+    ],
+    "tipnr": [
+      "Salamis@Act.13.5"
+    ],
+    "vizbible": [
+      "recthAC8bEi71Zdg1"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q767089"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.564"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Salamis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Salamis",
+          "gloss": "Salamis",
+          "description": "A city on the southeast coast of Cyprus; Paul and Barnabas preached here during their first missionary journey."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Cyprus"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Σαλαμίς"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.17724607",
+      "lon": "33.90755213"
+    },
+    "recogito": {
+      "lat": "35.17926",
+      "lon": "33.90294"
+    },
+    "vizbible": {
+      "lat": "35.17926",
+      "lon": "33.90294"
+    },
+    "biblica-maps": {
+      "lat": "35.17995",
+      "lon": "33.90305"
+    }
+  },
+  "key_references": [
+    "44013005"
+  ],
+  "references": [
+    "44013005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44013005004"
+      ]
+    ]
+  }
+}

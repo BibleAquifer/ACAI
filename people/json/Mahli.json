@@ -1,0 +1,106 @@
+{
+  "id": "person:Mahli",
+  "primary_id": "person:Mahli",
+  "alternate_sources": {
+    "aquifer": [
+      "6877|Mahli|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Mahli@Exo.6.19-Ezr"
+    ],
+    "vizbible": [
+      "recu0Tl50RW9pmb8X"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Merari",
+  "offspring": [
+    "person:Libni.2",
+    "person:Eleazar.5",
+    "person:Kish.2"
+  ],
+  "siblings": [
+    "person:Mushi",
+    "person:Jaaziah"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mahli",
+      "alternate_labels": [
+        "Mahlite",
+        "Mahali"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mahli",
+          "article": "person:Mahli",
+          "description": "One of the sons of Merari from the tribe of Levi."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Mahli"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006019",
+    "13006019"
+  ],
+  "references": [
+    "02006019",
+    "04003020",
+    "04003033",
+    "04026058",
+    "13006004",
+    "13006014",
+    "13023021",
+    "13024026",
+    "13024028",
+    "15008018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060190031"
+      ],
+      [
+        "o040030200041"
+      ],
+      [
+        "o040030330032"
+      ],
+      [
+        "o040260580092"
+      ],
+      [
+        "o130060040031"
+      ],
+      [
+        "o130060140031"
+      ],
+      [
+        "o130230210031"
+      ],
+      [
+        "o130230210061"
+      ],
+      [
+        "o130240260031"
+      ],
+      [
+        "o130240280012"
+      ],
+      [
+        "o150080180101"
+      ]
+    ]
+  }
+}

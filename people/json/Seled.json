@@ -1,0 +1,59 @@
+{
+  "id": "person:Seled",
+  "primary_id": "person:Seled",
+  "alternate_sources": {
+    "aquifer": [
+      "8216|Seled|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005079001001000"
+    ],
+    "tipnr": [
+      "Seled@1Ch.2.30"
+    ],
+    "vizbible": [
+      "rec7lam8Wj75jGJVK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nadab.3",
+  "siblings": [
+    "person:Appaim"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005079001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seled",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seled",
+          "article": "person:Seled",
+          "description": "Seled, mentioned in 1 Chronicles 2:30, was a man from the tribe of Judah during the time of the divided kingdom and the son of Nadab."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002030"
+  ],
+  "references": [
+    "13002030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020300031"
+      ],
+      [
+        "o130020300061"
+      ]
+    ]
+  }
+}

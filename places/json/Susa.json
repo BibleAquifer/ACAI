@@ -1,0 +1,179 @@
+{
+  "id": "place:Susa",
+  "primary_id": "place:Susa",
+  "alternate_sources": {
+    "aquifer": [
+      "8664|Susa|TyndaleBibleDictionary",
+      "132463|Susa|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a033b84"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/22221"
+    ],
+    "tipnr": [
+      "Susa@Ezr.4.9-Dan"
+    ],
+    "vizbible": [
+      "receX4PMAVfHZyoCO"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q180773"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Susa",
+      "alternate_labels": [
+        "Susanchites",
+        "Susanchite",
+        "Shushan",
+        "Susians"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Susa",
+          "gloss": "Susa",
+          "description": "The capital of Persia."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Persia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.18919124",
+      "lon": "48.25788648"
+    },
+    "recogito": {
+      "lat": "32.19202",
+      "lon": "48.24854"
+    },
+    "vizbible": {
+      "lat": "32.19202",
+      "lon": "48.24854"
+    },
+    "biblica-maps": {
+      "lat": "32.18879",
+      "lon": "48.25373"
+    }
+  },
+  "key_references": [
+    "16001001",
+    "27008001"
+  ],
+  "references": [
+    "15004009",
+    "16001001",
+    "17001002",
+    "17001005",
+    "17002003",
+    "17002005",
+    "17002008",
+    "17003015",
+    "17004008",
+    "17004016",
+    "17008014",
+    "17008015",
+    "17009006",
+    "17009011",
+    "17009012",
+    "17009013",
+    "17009014",
+    "17009015",
+    "17009018",
+    "27008002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150040090161"
+      ],
+      [
+        "o160010010132"
+      ],
+      [
+        "o170010020102"
+      ],
+      [
+        "o170010050092"
+      ],
+      [
+        "o170020030151"
+      ],
+      [
+        "o170020050042"
+      ],
+      [
+        "o170020080101"
+      ],
+      [
+        "o170030150082"
+      ],
+      [
+        "o170030150151"
+      ],
+      [
+        "o170040080072"
+      ],
+      [
+        "o170040160072"
+      ],
+      [
+        "o170080140122"
+      ],
+      [
+        "o170080150161"
+      ],
+      [
+        "o170090060013"
+      ],
+      [
+        "o170090110062"
+      ],
+      [
+        "o170090120052"
+      ],
+      [
+        "o170090130122"
+      ],
+      [
+        "o170090140072"
+      ],
+      [
+        "o170090150052"
+      ],
+      [
+        "o170090150132"
+      ],
+      [
+        "o170090180042"
+      ],
+      [
+        "o270080020062"
+      ]
+    ]
+  }
+}

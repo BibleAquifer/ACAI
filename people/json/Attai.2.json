@@ -1,0 +1,72 @@
+{
+  "id": "person:Attai.2",
+  "primary_id": "person:Attai.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3870|Attai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005745001002000"
+    ],
+    "tipnr": [
+      "Attai@1Ch.12.11"
+    ],
+    "vizbible": [
+      "recgMzU6WL3J9cRCC"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "005745001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Attai (1 Chronicles 12:11)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Attai (1 Chronicles 12:11)",
+          "article": "person:Attai.2",
+          "description": "A man living during the divided kingdom, mentioned only in 1 Chronicles 12:11."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13012012"
+  ],
+  "references": [
+    "13012012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130120120011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130120150011"
+      ],
+      [
+        "o130120160011",
+        "o130120160021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130120160041"
+      ],
+      [
+        "o130120160152"
+      ]
+    ]
+  }
+}

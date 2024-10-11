@@ -1,0 +1,91 @@
+{
+  "id": "place:Azmon",
+  "primary_id": "place:Azmon",
+  "alternate_sources": {
+    "aquifer": [
+      "3916|Azmon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a8f6a28"
+    ],
+    "ubsdbh": [
+      "005611001001000"
+    ],
+    "tipnr": [
+      "Azmon@Num.34.4-Jos"
+    ],
+    "vizbible": [
+      "recWjPbc94D45lkIZ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1323804"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005611001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azmon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Azmon",
+          "gloss": "Azmon",
+          "description": "A village in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.958506",
+      "lon": "34.3805"
+    },
+    "vizbible": {
+      "lat": "30.958506",
+      "lon": "34.3805"
+    }
+  },
+  "key_references": [
+    "04034004",
+    "04034005"
+  ],
+  "references": [
+    "04034004",
+    "04034005",
+    "06015004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340040191"
+      ],
+      [
+        "o040340050032"
+      ],
+      [
+        "o060150040021"
+      ]
+    ]
+  }
+}

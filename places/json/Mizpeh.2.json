@@ -1,0 +1,76 @@
+{
+  "id": "place:Mizpeh.2",
+  "primary_id": "place:Mizpeh.2",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004308002004000"
+    ],
+    "tipnr": [
+      "Mizpeh@Jos.18.26"
+    ],
+    "vizbible": [
+      "recXRGobFRZ4nFOei"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004308002004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mizpeh (of Judah)",
+      "alternate_labels": [
+        "Mizpah",
+        "Mizpeh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mizpeh.2",
+          "gloss": "Mizpeh (of Judah)",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.83273947",
+      "lon": "35.18016286"
+    },
+    "vizbible": {
+      "lat": "31.83273947",
+      "lon": "35.18016286"
+    }
+  },
+  "key_references": [
+    "06015038"
+  ],
+  "references": [
+    "06018026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180260013"
+      ]
+    ]
+  }
+}

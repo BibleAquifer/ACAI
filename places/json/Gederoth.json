@@ -1,0 +1,88 @@
+{
+  "id": "place:Gederoth",
+  "primary_id": "place:Gederoth",
+  "alternate_sources": {
+    "aquifer": [
+      "5400|Gederoth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001328001001000"
+    ],
+    "tipnr": [
+      "Gederoth@Jos.15.41-2Ch"
+    ],
+    "vizbible": [
+      "reclDeMC2ZcL7FsyA"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001328001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gederoth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gederoth",
+          "gloss": "Gederoth",
+          "description": "A town in the foothills of the territory of Judah, conquered and occupied by the Philistines."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גְּדֵרֹות",
+      "גְּדֵרוֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.823337",
+      "lon": "34.777779"
+    },
+    "vizbible": {
+      "lat": "31.823337",
+      "lon": "34.777779"
+    }
+  },
+  "key_references": [
+    "06015041",
+    "14028018"
+  ],
+  "references": [
+    "06015041",
+    "14028018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150410012"
+      ],
+      [
+        "o140280180142"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "person:Ahio.3",
+  "primary_id": "person:Ahio.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3453|Ahio|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000267001003000"
+    ],
+    "tipnr": [
+      "Ahio@1Ch.8.31-"
+    ],
+    "vizbible": [
+      "recg4y0sq3ygaH930"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abiel.2",
+  "mother": "person:Maacah.6",
+  "siblings": [
+    "person:Kish",
+    "person:Ner.2",
+    "person:Abdon.3",
+    "person:Zur.3",
+    "person:Baal",
+    "person:Nadab.4",
+    "person:Gedor",
+    "person:Zecher",
+    "person:Mikloth"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000267001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahio (1 Chronicles 8:31)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahio (1 Chronicles 8:31)",
+          "article": "person:Ahio.3",
+          "description": "A man from the tribe of Benjamin, son of Abiel and Maacah, mentioned in 1 Chronicles 8:31."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַחְיֹו",
+      "אַחְיוֹ"
+    ]
+  },
+  "key_references": [
+    "13008031",
+    "13009037"
+  ],
+  "references": [
+    "13008031",
+    "13009037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080310022"
+      ],
+      [
+        "o130090370022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130080320061"
+      ]
+    ]
+  }
+}

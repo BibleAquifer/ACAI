@@ -1,0 +1,182 @@
+{
+  "id": "person:Ish-bosheth",
+  "primary_id": "person:Ish-bosheth",
+  "alternate_sources": {
+    "tipnr": [
+      "Eshbaal|Ish-bosheth@2Sa.2.8-1Ch",
+      "Ish-bosheth@2Sa.2.8-1Ch"
+    ],
+    "vizbible": [
+      "recWgOKa1tH3WAtfR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Saul.2",
+  "mother": "person:Ahinoam",
+  "siblings": [
+    "person:Jonathan.3",
+    "person:Abinadab.2",
+    "person:Malchi-shua",
+    "person:Merab",
+    "person:Michal",
+    "person:Armoni",
+    "person:Mephibosheth.2"
+  ],
+  "roles": [
+    "King",
+    "Royal Family Member"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ish-bosheth",
+      "alternate_labels": [
+        "Eshbaal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ish-Bosheth",
+          "article": "person:Ish-bosheth",
+          "description": "Son of King Saul who reigned two years over Israel, while David was king at Hebron over Judah. He was assassinated by Rechab and Baanah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Eshbaal"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10002008",
+    "10002009",
+    "10002010",
+    "10002011",
+    "10003008",
+    "10004005",
+    "10004006",
+    "10004007",
+    "10004008",
+    "13008033"
+  ],
+  "references": [
+    "10002008",
+    "10002010",
+    "10002012",
+    "10002015",
+    "10003008",
+    "10003014",
+    "10003015",
+    "10004005",
+    "10004008",
+    "10004012",
+    "13008033",
+    "13009039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100020080101",
+        "o100020080111"
+      ],
+      [
+        "o100020100041",
+        "o100020100051"
+      ],
+      [
+        "o100020120061",
+        "o100020120071"
+      ],
+      [
+        "o100020150073",
+        "o100020150081"
+      ],
+      [
+        "o100030080061",
+        "o100030080071"
+      ],
+      [
+        "o100030140051",
+        "o100030140061"
+      ],
+      [
+        "o100030150021",
+        "o100030150031"
+      ],
+      [
+        "o100040050121",
+        "o100040050131"
+      ],
+      [
+        "o100040080041",
+        "o100040080051"
+      ],
+      [
+        "o100040080141",
+        "o100040080151"
+      ],
+      [
+        "o100040120171",
+        "o100040120181"
+      ],
+      [
+        "o130080330191"
+      ],
+      [
+        "o130090390191"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o100040050142"
+      ],
+      [
+        "o100040070032"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100020100131"
+      ],
+      [
+        "o100030070072"
+      ],
+      [
+        "o100030080292"
+      ],
+      [
+        "o100030110021"
+      ],
+      [
+        "o100030110042"
+      ],
+      [
+        "o100030140101"
+      ],
+      [
+        "o100030150042"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o100030070101",
+          "o100030070111",
+          "o100030070121",
+          "o100030070131",
+          "o100030070141",
+          "o100030070142"
+        ]
+      }
+    ]
+  }
+}

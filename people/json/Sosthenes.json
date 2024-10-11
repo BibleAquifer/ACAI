@@ -1,0 +1,116 @@
+{
+  "id": "person:Sosthenes",
+  "primary_id": "person:Sosthenes",
+  "alternate_sources": {
+    "aquifer": [
+      "8586|Sosthenes|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.353a",
+      "93.353b"
+    ],
+    "tipnr": [
+      "Sosthenes@Act.18.17-1Co"
+    ],
+    "vizbible": [
+      "rec5Qv1iQh9VuWNsS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Leader"
+  ],
+  "ubsdgnt": [
+    "93.353a",
+    "93.353b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sosthenes",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sosthenes",
+          "article": "person:Sosthenes",
+          "description": "Sosthenes was a New Testament figure, first mentioned in Acts 18:17, who was a leader of a synagogue in Corinth and later became a Christian."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σωσθένης"
+    ]
+  },
+  "key_references": [
+    "44018017",
+    "46001001"
+  ],
+  "references": [
+    "44018017",
+    "46001001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018017004"
+      ],
+      [
+        "n46001001010"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n46001002023"
+      ],
+      [
+        "n46001002031"
+      ],
+      [
+        "n46001003008"
+      ],
+      [
+        "n46001007013"
+      ],
+      [
+        "n46001008013"
+      ],
+      [
+        "n46001009016"
+      ],
+      [
+        "n46001010010"
+      ],
+      [
+        "n46001018015"
+      ],
+      [
+        "n46001023001"
+      ],
+      [
+        "n46001030012"
+      ],
+      [
+        "n46002007018"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n46001018014"
+      ],
+      [
+        "n46002006003"
+      ],
+      [
+        "n46002007002"
+      ]
+    ]
+  }
+}

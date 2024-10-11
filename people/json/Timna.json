@@ -1,0 +1,78 @@
+{
+  "id": "person:Timna",
+  "primary_id": "person:Timna",
+  "alternate_sources": {
+    "aquifer": [
+      "8848|Timna (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007850001001000",
+      "007850001003000"
+    ],
+    "tipnr": [
+      "Timna@Gen.36.12-1Ch"
+    ],
+    "vizbible": [
+      "recxozyu7lEjszRf6"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Eliphaz"
+  ],
+  "offspring": [
+    "person:Amalek"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "007850001001000",
+    "007850001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Timna",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Timna",
+          "article": "person:Timna",
+          "description": "Timna was a woman living during the time of the patriarchs, mentioned in Genesis 36:12, married to Eliphaz, and mother of Amalek."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תִּמְנַת־חֶרֶס",
+      "תִּמְנִי"
+    ]
+  },
+  "key_references": [
+    "01036012",
+    "13001036"
+  ],
+  "references": [
+    "01036012",
+    "13001036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360120012"
+      ],
+      [
+        "o130010360082"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010360120072"
+      ]
+    ]
+  }
+}

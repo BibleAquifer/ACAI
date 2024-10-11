@@ -1,0 +1,58 @@
+{
+  "id": "person:Ittai.2",
+  "primary_id": "person:Ittai.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6116|Ittai|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ithai|Ittai@2Sa.23.29-1Ch",
+      "Ittai@2Sa.23.29-1Ch"
+    ],
+    "vizbible": [
+      "recqkrWzcVmnhSYbW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ribai",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ittai (2 Samuel 23:29)",
+      "alternate_labels": [
+        "Ithai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ittai (2 Samuel 23:29)",
+          "article": "person:Ittai.2",
+          "description": "A man from the time of Israel's united kingdom, son of Ribai, mentioned as Ittai in 2 Samuel 23:29 and as Ithai in 1 Chronicles 11:31."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ithai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023029",
+    "13011031"
+  ],
+  "references": [
+    "10023029",
+    "13011031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230290051"
+      ],
+      [
+        "o130110310011"
+      ]
+    ]
+  }
+}

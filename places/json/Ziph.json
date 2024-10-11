@@ -1,0 +1,97 @@
+{
+  "id": "place:Ziph",
+  "primary_id": "place:Ziph",
+  "alternate_sources": {
+    "aquifer": [
+      "9240|Ziph (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001966001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/688047"
+    ],
+    "tipnr": [
+      "Ziph@Jos.15.24"
+    ],
+    "vizbible": [
+      "rec8PUlnPsEnCHu4s"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001966001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ziph (of Judah)",
+      "alternate_labels": [
+        "Ziph"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ziph.2",
+          "gloss": "Ziph (of Judah)",
+          "description": "A town in the southern territory of Judah, near the border of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "זִיף"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    },
+    "recogito": {
+      "lat": "31.478252",
+      "lon": "35.140514"
+    },
+    "vizbible": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    }
+  },
+  "key_references": [
+    "06015024"
+  ],
+  "references": [
+    "06015024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150240011"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "place:Sela",
+  "primary_id": "place:Sela",
+  "alternate_sources": {
+    "aquifer": [
+      "8215|Sela|TyndaleBibleDictionary"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/573510"
+    ],
+    "tipnr": [
+      "Sela@Jdg.1.36-Isa",
+      "Joktheel|Sela@Jdg.1.36-Isa",
+      "Cliff|Sela@Jdg.1.36-Isa"
+    ],
+    "vizbible": [
+      "recq2rEmFeuPt4ouE"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sela (of the Amorites)",
+      "alternate_labels": [
+        "rock",
+        "Cliff",
+        "Joktheel",
+        "Selah",
+        "Sela"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sela.1",
+          "gloss": "Sela (of the Amorites)",
+          "description": "A location on the border of the territory of the Amorites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Cliff",
+    "place:Joktheel.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.32243571",
+      "lon": "35.45627947"
+    },
+    "vizbible": {
+      "lat": "30.32243571",
+      "lon": "35.45627947"
+    }
+  },
+  "key_references": [
+    "07001036",
+    "14025012",
+    "23016001"
+  ],
+  "references": [
+    "07001036",
+    "12014007",
+    "14025012",
+    "23016001",
+    "23042011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070010360053"
+      ],
+      [
+        "o120140070122"
+      ],
+      [
+        "o120140070171"
+      ],
+      [
+        "o140250120092"
+      ],
+      [
+        "o140250120122"
+      ],
+      [
+        "o230160010052"
+      ],
+      [
+        "o230420110091"
+      ]
+    ]
+  }
+}

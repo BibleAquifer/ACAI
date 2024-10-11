@@ -1,0 +1,110 @@
+{
+  "id": "place:Machpelah",
+  "primary_id": "place:Machpelah",
+  "alternate_sources": {
+    "aquifer": [
+      "6838|Machpelah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae00861"
+    ],
+    "ubsdbh": [
+      "003998001001000"
+    ],
+    "tipnr": [
+      "Machpelah@Gen.23.9-"
+    ],
+    "vizbible": [
+      "recmEify6uZYLj26E"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q204200"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003998001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Machpelah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Machpelah",
+          "gloss": "Machpelah",
+          "description": "A location containing a field and a cave, near Hebron, bought from Ephron the Hittite and used as a burial place for Abraham, Sarah, Isaac, Rebekah, Jacob, and Leah."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מַכְפֵּלָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.52464795",
+      "lon": "35.11073465"
+    },
+    "vizbible": {
+      "lat": "31.52464795",
+      "lon": "35.11073465"
+    }
+  },
+  "key_references": [
+    "01023009",
+    "01025009",
+    "01049032",
+    "01023008",
+    "01049030"
+  ],
+  "references": [
+    "01023009",
+    "01023017",
+    "01023019",
+    "01025009",
+    "01049030",
+    "01050013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010230090052"
+      ],
+      [
+        "o010230170052"
+      ],
+      [
+        "o010230190112"
+      ],
+      [
+        "o010250090082"
+      ],
+      [
+        "o010490300042"
+      ],
+      [
+        "o010500130102"
+      ]
+    ]
+  }
+}

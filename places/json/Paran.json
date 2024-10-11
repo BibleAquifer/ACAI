@@ -1,0 +1,124 @@
+{
+  "id": "place:Paran",
+  "primary_id": "place:Paran",
+  "alternate_sources": {
+    "aquifer": [
+      "7580|Paran|TyndaleBibleDictionary",
+      "26932|Paran|UWTranslationWords"
+    ],
+    "obi": [
+      "aa6b19b"
+    ],
+    "ubsdbh": [
+      "005771001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/23395"
+    ],
+    "tipnr": [
+      "Paran@Gen.21.21-1Ki"
+    ],
+    "vizbible": [
+      "recx2Hj4FohnwbJRY"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q912861"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005771001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Paran",
+      "alternate_labels": [
+        "Maon",
+        "Wilderness of Paran",
+        "Desert of Paran"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountParan",
+          "gloss": "Paran",
+          "description": "A mountain in the wilderness of Paran."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.151667",
+      "lon": "33.541944"
+    },
+    "recogito": {
+      "lat": "28.717525",
+      "lon": "33.609633"
+    },
+    "vizbible": {
+      "lat": "28.717525",
+      "lon": "33.609633"
+    }
+  },
+  "key_references": [
+    "01021021",
+    "04012016",
+    "04013026"
+  ],
+  "references": [
+    "01021021",
+    "04010012",
+    "04012016",
+    "04013003",
+    "04013026",
+    "05001001",
+    "09025001",
+    "11011018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010210210031"
+      ],
+      [
+        "o040100120101"
+      ],
+      [
+        "o040120160071"
+      ],
+      [
+        "o040130030051"
+      ],
+      [
+        "o040130260141"
+      ],
+      [
+        "o050010010161"
+      ],
+      [
+        "o090250010161"
+      ],
+      [
+        "o110110180041"
+      ],
+      [
+        "o110110180082"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "person:Assir",
+  "primary_id": "person:Assir",
+  "alternate_sources": {
+    "aquifer": [
+      "3836|Assir|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000563002001000"
+    ],
+    "tipnr": [
+      "Assir@Exo.6.24-1Ch"
+    ],
+    "vizbible": [
+      "recxWM1TZ5evubMVK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Korah.3",
+  "siblings": [
+    "person:Elkanah",
+    "person:Ebiasaph"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000563002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Assir",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Assir",
+          "article": "person:Assir",
+          "description": "A descendant of Kohath from the tribe of Levi, son of Korah, mentioned in Exodus 6:24."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַסִּיר"
+    ]
+  },
+  "key_references": [
+    "02006024",
+    "13006007"
+  ],
+  "references": [
+    "02006024",
+    "13006007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060240031"
+      ],
+      [
+        "o130060070071"
+      ]
+    ]
+  }
+}

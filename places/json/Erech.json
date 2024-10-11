@@ -1,0 +1,98 @@
+{
+  "id": "place:Erech",
+  "primary_id": "place:Erech",
+  "alternate_sources": {
+    "aquifer": [
+      "5134|Erech|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5db1a6"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/912986",
+      "http://pleiades.stoa.org/places/912986"
+    ],
+    "tipnr": [
+      "Erech@Gen.10.10-Ezr"
+    ],
+    "vizbible": [
+      "recMrWeiaOEOsvqsw"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q168518"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Erech",
+      "alternate_labels": [
+        "Uruk",
+        "Erechites",
+        "Archevites",
+        "Erechs",
+        "Archevite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Erech",
+          "gloss": "Erech",
+          "description": "A town near the East bank of the Euphrates on a subsidiary of that river (ABD)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Euphrates"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.322222",
+      "lon": "45.636111"
+    },
+    "recogito": {
+      "lat": "31.32216",
+      "lon": "45.63782"
+    },
+    "vizbible": {
+      "lat": "32.322222",
+      "lon": "45.636111"
+    }
+  },
+  "key_references": [
+    "01010010",
+    "15004009"
+  ],
+  "references": [
+    "01010010",
+    "15004009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100100052"
+      ],
+      [
+        "o150040090141"
+      ]
+    ]
+  }
+}

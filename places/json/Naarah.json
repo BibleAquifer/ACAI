@@ -1,0 +1,93 @@
+{
+  "id": "place:Naarah",
+  "primary_id": "place:Naaran",
+  "alternate_sources": {
+    "aquifer": [
+      "7265|Naarah (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004851002001000"
+    ],
+    "tipnr": [
+      "Naarah|Naaran@Jos.16.7-1Ch"
+    ],
+    "vizbible": [
+      "recHcEu0vJOxAQJDI"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004851002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Naarah",
+      "alternate_labels": [
+        "Naarath",
+        "Naaran"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Naarah",
+          "gloss": "Naarah",
+          "description": "A location in the Jordan Valley, in the territory of Ephraim."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Naaran"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נַעֲרָה",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.949518",
+      "lon": "35.45873"
+    },
+    "vizbible": {
+      "lat": "31.949518",
+      "lon": "35.45873"
+    }
+  },
+  "key_references": [
+    "13007028",
+    "06016007"
+  ],
+  "references": [
+    "06016007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060160070042"
+      ]
+    ]
+  }
+}

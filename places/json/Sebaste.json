@@ -1,0 +1,40 @@
+{
+  "id": "place:Sebaste",
+  "primary_id": "place:Sebaste",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sebaste",
+          "gloss": "Sebaste",
+          "description": "A city in Asia Minor where forty soldiers were martyred in the fourth century; modern-day Sivas, Turkey."
+        }
+      ],
+      "preferred_label": "Sebaste",
+      "alternate_labels": [
+        "Megalopolis",
+        "Sebasteia",
+        "Sivas"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "39.74902",
+      "lon": "37.01661"
+    }
+  }
+}

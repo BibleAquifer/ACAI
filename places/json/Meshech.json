@@ -1,0 +1,117 @@
+{
+  "id": "place:Meshech",
+  "primary_id": "place:Meshech",
+  "alternate_sources": {
+    "aquifer": [
+      "7080|Meshech|TyndaleBibleDictionary",
+      "26871|Meshech|UWTranslationWords"
+    ],
+    "obi": [
+      "a5f9092"
+    ],
+    "tipnr": [
+      "Meshech@Psa.120.5-Ezk"
+    ],
+    "vizbible": [
+      "recYCmiFv6zLQJNak"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q30973"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meshech",
+      "alternate_labels": [
+        "Meshech-Tubal",
+        "Mesech",
+        "Tubal",
+        "Meshek",
+        "Meshach"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Meshech",
+          "gloss": "Meshech",
+          "description": "A nation named after Meshech, son of Japheth and grandson of Noah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asia",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "46",
+      "lon": "47"
+    },
+    "vizbible": {
+      "lat": "46",
+      "lon": "47"
+    }
+  },
+  "key_references": [
+    "26032026",
+    "26039001"
+  ],
+  "references": [
+    "19120005",
+    "23066019",
+    "26027013",
+    "26032026",
+    "26038002",
+    "26038003",
+    "26039001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o191200050051"
+      ],
+      [
+        "o260270130032"
+      ],
+      [
+        "o260380020111"
+      ],
+      [
+        "o260380030111"
+      ],
+      [
+        "o260390010171"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270130041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270130051"
+      ],
+      [
+        "o260270130101"
+      ]
+    ]
+  }
+}

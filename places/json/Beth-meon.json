@@ -1,0 +1,91 @@
+{
+  "id": "place:Beth-meon",
+  "primary_id": "place:Baal-meon",
+  "alternate_sources": {
+    "aquifer": [
+      "4190|Beth-Meon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000964001001000"
+    ],
+    "tipnr": [
+      "Beth-meon|Baal-meon@Num.32.3-Ezk"
+    ],
+    "vizbible": [
+      "recqyPSe4athazQy4"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000964001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-meon",
+      "alternate_labels": [
+        "Baal-Meon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-meon",
+          "gloss": "Beth-Meon",
+          "description": "A town in the territory of Reuben, and later of Moab; also known as Beth-Baal-Meon, Baal-Meon, and Beon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Baal-meon",
+    "place:Beon"
+  ],
+  "tribal_area": "group:Reuben",
+  "subregion_of": [
+    "place:TerritoryOfReuben",
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית מְעֹון",
+      "בֵּית בַּ֫עַל מְעוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.679454",
+      "lon": "35.734892"
+    },
+    "vizbible": {
+      "lat": "31.679454",
+      "lon": "35.734892"
+    }
+  },
+  "key_references": [
+    "24048023"
+  ],
+  "references": [
+    "24048023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240480230071",
+        "o240480230081"
+      ]
+    ]
+  }
+}

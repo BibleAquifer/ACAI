@@ -1,0 +1,67 @@
+{
+  "id": "person:Jehohanan",
+  "primary_id": "person:Jehohanan",
+  "alternate_sources": {
+    "aquifer": [
+      "6275|Jehohanan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002825001006000"
+    ],
+    "tipnr": [
+      "Jehohanan@1Ch.26.3"
+    ],
+    "vizbible": [
+      "receMDhBJ21klQ4X7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Meshelemiah",
+  "siblings": [
+    "person:Zechariah.2",
+    "person:Jediael.4",
+    "person:Zebadiah.4",
+    "person:Jathniel",
+    "person:Elam.4",
+    "person:Eliehoenai"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002825001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehohanan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehohanan",
+          "article": "person:Jehohanan",
+          "description": "A man living during the time of the divided kingdom, son of Meshelemiah, mentioned in 1 Chronicles 26:3."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹוחָנָן",
+      "יְהוֹחָנָן"
+    ]
+  },
+  "key_references": [
+    "13026003"
+  ],
+  "references": [
+    "13026003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130260030031"
+      ]
+    ]
+  }
+}

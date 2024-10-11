@@ -1,0 +1,92 @@
+{
+  "id": "place:Hepher",
+  "primary_id": "place:Hepher",
+  "alternate_sources": {
+    "aquifer": [
+      "5807|Hepher (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2ebe1c"
+    ],
+    "ubsdbh": [
+      "002450001005000",
+      "002450001004000"
+    ],
+    "tipnr": [
+      "Hepher@Jos.12.17-1Ki"
+    ],
+    "vizbible": [
+      "recwkP0q7FjCfCOWM"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002450001005000",
+    "002450001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hepher",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hepher",
+          "gloss": "Hepher",
+          "description": "A town in the territory of West Manasseh, conquered by Joshua and the Israelites."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Manasseh",
+  "subregion_of": [
+    "place:TerritoryOfWestManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֵפֶר",
+      "חֵ֫פֶר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.3667",
+      "lon": "34.8833"
+    },
+    "vizbible": {
+      "lat": "32.3667",
+      "lon": "34.8833"
+    }
+  },
+  "key_references": [
+    "11004010",
+    "06012017"
+  ],
+  "references": [
+    "06012017",
+    "11004010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120170051"
+      ],
+      [
+        "o110040100081"
+      ]
+    ]
+  }
+}

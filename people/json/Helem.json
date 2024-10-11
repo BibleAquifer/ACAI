@@ -1,0 +1,73 @@
+{
+  "id": "person:Helem",
+  "primary_id": "person:Heldai",
+  "alternate_sources": {
+    "aquifer": [
+      "5778|Helem|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002302002001000"
+    ],
+    "tipnr": [
+      "Helem|Heldai@Zec.6.10-"
+    ],
+    "vizbible": [
+      "recmbdbsZZV2PqtP0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "002302002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Helem (Heldai)",
+      "alternate_labels": [
+        "Heldai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Heldai",
+          "article": "person:Helem",
+          "description": "Helem, also known as Heldai, was a Levite and priest who lived during the time of exile and return, first mentioned in Zechariah 6:10."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Heldai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֵלֶם",
+      "חֵ֫לֶם"
+    ]
+  },
+  "key_references": [
+    "38006014"
+  ],
+  "references": [
+    "38006014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o380060140032"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o380060150062"
+      ],
+      [
+        "o380060150151"
+      ]
+    ]
+  }
+}

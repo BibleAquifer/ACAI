@@ -1,0 +1,106 @@
+{
+  "id": "person:Shealtiel.2",
+  "primary_id": "person:Shealtiel.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8305|Shealtiel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shealtiel@1Ch.3.17-Mat"
+    ],
+    "vizbible": [
+      "recLeCDZ3zDUeKqGW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoiachin",
+  "offspring": [
+    "person:Malchiram",
+    "person:Pedaiah.2",
+    "person:Shenazzar",
+    "person:Jekamiah.2",
+    "person:Hoshama",
+    "person:Nedabiah"
+  ],
+  "siblings": [
+    "person:Zedekiah.4"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shealtiel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shealtiel",
+          "article": "person:Shealtiel.2",
+          "description": "Son of King Jeconiah from the tribe of Judah during the time of Israelite exile and return."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13003017",
+    "15003002",
+    "37001001"
+  ],
+  "references": [
+    "13003017",
+    "15003002",
+    "15003008",
+    "15005002",
+    "16012001",
+    "37001001",
+    "37001012",
+    "37001014",
+    "37002002",
+    "37002023",
+    "40001012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030170041"
+      ],
+      [
+        "o150030020091"
+      ],
+      [
+        "o150030080131"
+      ],
+      [
+        "o150050020051"
+      ],
+      [
+        "o160120010091"
+      ],
+      [
+        "o370010010191"
+      ],
+      [
+        "o370010120041"
+      ],
+      [
+        "o370010140071"
+      ],
+      [
+        "o370020020061"
+      ],
+      [
+        "o370020230091"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001012009",
+        "n40001012010"
+      ]
+    ]
+  }
+}

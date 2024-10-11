@@ -1,0 +1,88 @@
+{
+  "id": "person:Jesus.3",
+  "primary_id": "person:Justus.3",
+  "alternate_sources": {
+    "aquifer": [
+      "4119|Ben Sirach, Jesus|TyndaleBibleDictionary",
+      "6356|Jesus|TyndaleBibleDictionary",
+      "26758|Jesus|UWTranslationWords",
+      "132165|Jesus|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.169d"
+    ],
+    "tipnr": [
+      "Jesus|Justus@Col.4.11"
+    ],
+    "vizbible": [
+      "recVsteZcT2Gr0Ah2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Disciple"
+  ],
+  "ubsdgnt": [
+    "93.169d"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jesus (Justus)",
+      "alternate_labels": [
+        "Justus (Colossians 4:11)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Justus (Colossians 4:11)",
+          "article": "person:Jesus.3",
+          "description": "A companion of Paul in the New Testament, also known as Justus, mentioned in Colossians 4:11."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Justus.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰησοῦς"
+    ]
+  },
+  "key_references": [
+    "51004011"
+  ],
+  "references": [
+    "51004011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n51004011002"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n51004011010"
+      ],
+      [
+        "n51004011018"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n51004011004"
+      ],
+      [
+        "n51004011007"
+      ]
+    ]
+  }
+}

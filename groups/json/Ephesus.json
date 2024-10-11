@@ -1,0 +1,74 @@
+{
+  "id": "group:Ephesus",
+  "primary_id": "group:Ephesus",
+  "alternate_sources": {
+    "aquifer": [
+      "5105|Ephesians, Letter to the|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.469 93.470"
+    ],
+    "tipnr": [
+      "Ephesus@Act.18.19-Rev"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Ephesus",
+  "ubsdgnt": [
+    "93.469 93.470"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephesians",
+      "alternate_labels": [
+        "Ephesus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ephesians",
+          "article": "group:Ephesus",
+          "description": "People who live in Ephesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἐφέσιος"
+    ]
+  },
+  "key_references": [
+    "44019035"
+  ],
+  "references": [
+    "44019028",
+    "44019034",
+    "44019035",
+    "44021029",
+    "49006024",
+    "55004022"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44019028012"
+      ],
+      [
+        "n44019034019"
+      ],
+      [
+        "n44019035009"
+      ],
+      [
+        "n44019035018"
+      ],
+      [
+        "n44021029006"
+      ]
+    ]
+  }
+}

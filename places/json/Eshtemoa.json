@@ -1,0 +1,113 @@
+{
+  "id": "place:Eshtemoa",
+  "primary_id": "place:Eshtemoa",
+  "alternate_sources": {
+    "aquifer": [
+      "5154|Eshtemoa, Eshtemoh (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ad68510"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/284583"
+    ],
+    "tipnr": [
+      "Eshtemoh|Eshtemoa@Jos.21.14-1Ch",
+      "Eshtemoa@Jos.21.14-1Ch"
+    ],
+    "vizbible": [
+      "recNvVf6oxrh2Aqhe"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5397937"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eshtemoa",
+      "alternate_labels": [
+        "Eshtemoh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eshtemoa",
+          "gloss": "Eshtemoa",
+          "description": "A Levitical town in the hill country of the territory of Judah, assigned to the clan of Aaron; also known as Eshtemoh."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Eshtemoh"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.373521",
+      "lon": "35.074552"
+    },
+    "recogito": {
+      "lat": "31.39671",
+      "lon": "35.06611"
+    },
+    "vizbible": {
+      "lat": "31.373521",
+      "lon": "35.074552"
+    }
+  },
+  "key_references": [
+    "13006042"
+  ],
+  "references": [
+    "06015050",
+    "06021014",
+    "09030028",
+    "13004017",
+    "13004019",
+    "13006042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150500022"
+      ],
+      [
+        "o060210140061"
+      ],
+      [
+        "o090300280062"
+      ],
+      [
+        "o130040170151"
+      ],
+      [
+        "o130040190092"
+      ],
+      [
+        "o130060420161"
+      ]
+    ]
+  }
+}

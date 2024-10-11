@@ -1,0 +1,86 @@
+{
+  "id": "place:Ophni",
+  "primary_id": "place:Ophni",
+  "alternate_sources": {
+    "aquifer": [
+      "7508|Ophni|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a1f2174"
+    ],
+    "ubsdbh": [
+      "005579001001000"
+    ],
+    "tipnr": [
+      "Ophni@Jos.18.24"
+    ],
+    "vizbible": [
+      "recgg7kwUkrmxzV6Z"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q7098060"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005579001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ophni",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ophni",
+          "gloss": "Ophni",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.961989",
+      "lon": "35.215483"
+    },
+    "vizbible": {
+      "lat": "31.961989",
+      "lon": "35.215483"
+    }
+  },
+  "key_references": [
+    "06018024"
+  ],
+  "references": [
+    "06018024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180240043"
+      ]
+    ]
+  }
+}

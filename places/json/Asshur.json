@@ -1,0 +1,155 @@
+{
+  "id": "place:Asshur",
+  "primary_id": "place:Assyria",
+  "alternate_sources": {
+    "aquifer": [
+      "3835|Asshur|TyndaleBibleDictionary",
+      "3834|Asshur (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000740001002000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/727078"
+    ],
+    "tipnr": [
+      "Asshur|Assyria@Gen.2.14-Zec"
+    ],
+    "vizbible": [
+      "recAiXXgqL914wNA9"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000740001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Asshur",
+      "alternate_labels": [
+        "Assyria",
+        "Assur",
+        "Ashur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Asshur",
+          "gloss": "Asshur",
+          "description": "A city on the Tigris River and first capital of Assyria."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Assyria"
+  ],
+  "subregion_of": [
+    "place:Assyria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַשּׁוּר",
+      "אַשּׁוּר",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.359410",
+      "lon": "43.152887"
+    },
+    "recogito": {
+      "lat": "30.47056",
+      "lon": "31.18806"
+    },
+    "vizbible": {
+      "lat": "36.359410",
+      "lon": "43.152887"
+    }
+  },
+  "key_references": [
+    "04024022"
+  ],
+  "references": [
+    "04024022",
+    "04024024",
+    "19083009",
+    "26027023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040240220081"
+      ],
+      [
+        "o040240240051"
+      ],
+      [
+        "o190830090021"
+      ],
+      [
+        "o260270230061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270240011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o190830090051"
+      ],
+      [
+        "o190830130021",
+        "o190830130031"
+      ],
+      [
+        "o190830170042"
+      ],
+      [
+        "o190830180011"
+      ],
+      [
+        "o190830180022"
+      ],
+      [
+        "o190830180052"
+      ],
+      [
+        "o190830180062"
+      ],
+      [
+        "o190830190012"
+      ],
+      [
+        "o260270230081"
+      ],
+      [
+        "o260270240021"
+      ]
+    ]
+  }
+}

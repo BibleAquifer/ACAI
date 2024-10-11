@@ -1,0 +1,90 @@
+{
+  "id": "place:Beer-lahai-roi",
+  "primary_id": "place:Beer-lahai-roi",
+  "alternate_sources": {
+    "tipnr": [
+      "Beer-lahai-roi@Gen.16.14-"
+    ],
+    "vizbible": [
+      "rec1QA8OE0IHg2OPf"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beer-lahai-roi",
+      "alternate_labels": [
+        "Lahai-roi",
+        "well Lahai-roi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beer-lahai-roi",
+          "gloss": "Beer-Lahai-Roi",
+          "description": "A well between Kadesh-Barnea and Bered in the Negev, which was named by Hagar after a messenger of God spoke with her; Isaac later settled there."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Bered",
+    "place:Kadesh-barnea"
+  ],
+  "subregion_of": [
+    "place:Negeb"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "well"
+    ],
+    "acai": [
+      "well"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.68771281376111",
+      "lon": "34.49479554246946"
+    },
+    "vizbible": {
+      "lat": "30.68771281376111",
+      "lon": "34.49479554246946"
+    }
+  },
+  "key_references": [
+    "01016014",
+    "01025011",
+    "01024062"
+  ],
+  "references": [
+    "01016014",
+    "01024062",
+    "01025011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010160140051",
+        "o010160140061",
+        "o010160140071"
+      ],
+      [
+        "o010240620041",
+        "o010240620051",
+        "o010240620061"
+      ],
+      [
+        "o010250110131",
+        "o010250110141",
+        "o010250110151"
+      ]
+    ]
+  }
+}

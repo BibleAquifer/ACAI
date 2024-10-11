@@ -1,0 +1,36 @@
+{
+  "id": "place:WatersOfJericho",
+  "primary_id": "place:WatersOfJericho",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:WatersOfJericho",
+          "gloss": "Waters of Jericho",
+          "description": "A spring or river near Jericho."
+        }
+      ],
+      "preferred_label": "Waters of Jericho"
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "spring",
+      "river"
+    ]
+  },
+  "key_references": [
+    "06016001"
+  ]
+}

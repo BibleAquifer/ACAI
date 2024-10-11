@@ -1,0 +1,115 @@
+{
+  "id": "place:Perga",
+  "primary_id": "place:Perga",
+  "alternate_sources": {
+    "aquifer": [
+      "7668|Perga|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aff04b8"
+    ],
+    "ubsdgnt": [
+      "93.551"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21450"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/639048"
+    ],
+    "tipnr": [
+      "Perga@Act.13.13-"
+    ],
+    "vizbible": [
+      "recxdLVLPiSKfK2iB"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q719815"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.551"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Perga",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Perga",
+          "gloss": "Perga",
+          "description": "A city in Pamphylia, near the south coast of Asia Minor; Paul traveled here during his first missionary journey."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Attalia"
+  ],
+  "subregion_of": [
+    "place:Pamphylia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Πέργη"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.00520812",
+      "lon": "30.90494592"
+    },
+    "recogito": {
+      "lat": "36.961406",
+      "lon": "30.854274"
+    },
+    "vizbible": {
+      "lat": "36.961406",
+      "lon": "30.854274"
+    },
+    "biblica-maps": {
+      "lat": "36.96182",
+      "lon": "30.85467"
+    }
+  },
+  "key_references": [
+    "44014025",
+    "44013013"
+  ],
+  "references": [
+    "44013013",
+    "44013014",
+    "44014025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44013013011"
+      ],
+      [
+        "n44013014006"
+      ],
+      [
+        "n44014025004"
+      ]
+    ]
+  }
+}

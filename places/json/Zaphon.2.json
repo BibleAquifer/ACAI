@@ -1,0 +1,45 @@
+{
+  "id": "place:Zaphon.2",
+  "primary_id": "place:Zaphon.2",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zaphon.2",
+          "gloss": "Mount Zaphon",
+          "description": "A mountain associated with the Canaanite god Baal, located at the Syria-Turkey border near the mouth of the Orontes River."
+        }
+      ],
+      "preferred_label": "Mount Zaphon",
+      "alternate_labels": [
+        "Mount Kasios",
+        "Mount Casius",
+        "Jebel Aqra"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "35.95203",
+      "lon": "35.96916"
+    }
+  },
+  "key_references": [
+    "18026007",
+    "19048003",
+    "23014013"
+  ]
+}

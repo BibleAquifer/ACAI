@@ -1,0 +1,107 @@
+{
+  "id": "person:Eber",
+  "primary_id": "person:Eber",
+  "alternate_sources": {
+    "aquifer": [
+      "4927|Eber|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Eber@Gen.10.21-Luk"
+    ],
+    "vizbible": [
+      "recRO35quNb37mHVy"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shelah.2",
+  "offspring": [
+    "person:Peleg",
+    "person:Joktan"
+  ],
+  "roles": [
+    "Relative of Jesus",
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eber",
+      "alternate_labels": [
+        "Heber"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eber",
+          "article": "person:Eber",
+          "description": "A descendant of Noah's son Shem, and ancestor of the Hebrew people. He was a son of Shelah and the father of Peleg and Joktan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010021",
+    "01010025",
+    "42003035"
+  ],
+  "references": [
+    "01010021",
+    "01010024",
+    "01010025",
+    "01011014",
+    "01011015",
+    "01011016",
+    "01011017",
+    "04024024",
+    "13001018",
+    "13001019",
+    "13001025",
+    "42003035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100210081"
+      ],
+      [
+        "o010100240081"
+      ],
+      [
+        "o010100250013"
+      ],
+      [
+        "o010110140071"
+      ],
+      [
+        "o010110150061"
+      ],
+      [
+        "o010110160021"
+      ],
+      [
+        "o010110170021"
+      ],
+      [
+        "o040240240071"
+      ],
+      [
+        "o130010180081"
+      ],
+      [
+        "o130010190013"
+      ],
+      [
+        "o130010250011"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003035008"
+      ]
+    ]
+  }
+}

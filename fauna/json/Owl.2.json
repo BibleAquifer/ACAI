@@ -1,0 +1,66 @@
+{
+  "id": "fauna:Owl.2",
+  "primary_id": "fauna:Owl.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7538|Owl|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003266002001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.17.3"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "003266002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Owl",
+      "alternate_labels": [
+        "Little Owl"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Owl",
+          "article": "fauna:Owl.2",
+          "description": "A small owl about 25 cm long, with a short tail, feeding mainly on insects at night, and is considered ceremonially unclean in the Bible."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כֹּוס"
+    ]
+  },
+  "key_references": [
+    "03011017",
+    "05014016",
+    "19102007"
+  ],
+  "references": [
+    "03011017",
+    "05014016",
+    "19102007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110170022"
+      ],
+      [
+        "o050140160022"
+      ],
+      [
+        "o191020070052"
+      ]
+    ]
+  }
+}

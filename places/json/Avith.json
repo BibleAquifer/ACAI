@@ -1,0 +1,85 @@
+{
+  "id": "place:Avith",
+  "primary_id": "place:Avith",
+  "alternate_sources": {
+    "aquifer": [
+      "3888|Avith|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005290001001000"
+    ],
+    "tipnr": [
+      "Avith@Gen.36.35-1Ch"
+    ],
+    "vizbible": [
+      "recOXgajprNUckFFf"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005290001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Avith",
+      "alternate_labels": [
+        "Qere. Ketiv",
+        "Ayoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Avith",
+          "gloss": "Avith",
+          "description": "A town in Edom; residence of Hadad, king of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Edom",
+  "subregion_of": [
+    "place:Edom"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.734691",
+      "lon": "35.606250"
+    },
+    "vizbible": {
+      "lat": "30.734691",
+      "lon": "35.606250"
+    }
+  },
+  "key_references": [
+    "13001046",
+    "01036035"
+  ],
+  "references": [
+    "01036035",
+    "13001046"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360350151"
+      ],
+      [
+        "o130010460161"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "fauna:Dugong",
+  "primary_id": "fauna:Dugong",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007777001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.13"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "007777001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dugong",
+      "alternate_labels": [
+        "Manatee",
+        "Seal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dugong",
+          "article": "fauna:Dugong",
+          "description": "A large sea animal that swims slowly in shallow waters and feeds on underwater plants. Its exact identification is uncertain."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תַּחַשׁ"
+    ]
+  },
+  "key_references": [
+    "02025005",
+    "04004008"
+  ],
+  "references": [
+    "02025005",
+    "02026014",
+    "02035007",
+    "02035023",
+    "02036019",
+    "02039034",
+    "04004006",
+    "04004008",
+    "04004010",
+    "04004011",
+    "04004012",
+    "04004014",
+    "04004025",
+    "26016010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020250050051"
+      ],
+      [
+        "o020260140091"
+      ],
+      [
+        "o020350070051"
+      ],
+      [
+        "o020350230161"
+      ],
+      [
+        "o020360190091"
+      ],
+      [
+        "o020390340092"
+      ],
+      [
+        "o040040060051"
+      ],
+      [
+        "o040040080101"
+      ],
+      [
+        "o040040100091"
+      ],
+      [
+        "o040040110111"
+      ],
+      [
+        "o040040120181"
+      ],
+      [
+        "o040040140251"
+      ],
+      [
+        "o040040250102"
+      ],
+      [
+        "o260160100041"
+      ]
+    ]
+  }
+}

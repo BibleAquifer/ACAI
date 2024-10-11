@@ -1,0 +1,83 @@
+{
+  "id": "place:Rehob.2",
+  "primary_id": "place:Rehob.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7985|Rehob (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006751002002000"
+    ],
+    "tipnr": [
+      "Rehob@Jos.19.28"
+    ],
+    "vizbible": [
+      "recMJ37YErgueg9i2"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006751002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rehob (of Asher)",
+      "alternate_labels": [
+        "Rehob"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rehob.2",
+          "gloss": "Rehob (of Asher)",
+          "description": "A Levitical town in the territory of Asher; assigned to the clan of Gershon."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.125828",
+      "lon": "35.165000"
+    },
+    "vizbible": {
+      "lat": "33.125828",
+      "lon": "35.165000"
+    }
+  },
+  "key_references": [
+    "06019028",
+    "07001031"
+  ],
+  "references": [
+    "06019028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190280022"
+      ]
+    ]
+  }
+}

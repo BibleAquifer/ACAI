@@ -1,0 +1,147 @@
+{
+  "id": "place:Bethsaida",
+  "primary_id": "place:Bethsaida",
+  "alternate_sources": {
+    "aquifer": [
+      "4201|Bethsaida|TyndaleBibleDictionary",
+      "280098|bethsaida|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.432"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21665"
+    ],
+    "tipnr": [
+      "Bethsaida@Mat.11.21-Jhn"
+    ],
+    "vizbible": [
+      "recntv9dPBMgCWCPD"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.432"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bethsaida",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bethsaida.1",
+          "gloss": "Bethsaida",
+          "description": "A town northeast of the Sea of Galilee; hometown of Peter, Andrew, and Philip (John 1:44)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:GalileeSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Βηθσαϊδά",
+      "Βηθσαϊδάν"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.90784828",
+      "lon": "35.62697296"
+    },
+    "recogito": {
+      "lat": "32.91031",
+      "lon": "35.63067"
+    },
+    "vizbible": {
+      "lat": "32.91031",
+      "lon": "35.63067"
+    },
+    "biblica-maps": {
+      "lat": "32.89561",
+      "lon": "35.61982"
+    }
+  },
+  "key_references": [
+    "41008022",
+    "43001043",
+    "41006045"
+  ],
+  "references": [
+    "40011021",
+    "41006045",
+    "41008022",
+    "42009010",
+    "42010013",
+    "43001044",
+    "43012021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40011021006"
+      ],
+      [
+        "n41006045017"
+      ],
+      [
+        "n41008022004"
+      ],
+      [
+        "n42009010018"
+      ],
+      [
+        "n42010013006"
+      ],
+      [
+        "n43001044006"
+      ],
+      [
+        "n43012021007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40011021005"
+      ],
+      [
+        "n40011021019"
+      ],
+      [
+        "n40011022003"
+      ],
+      [
+        "n40011022013"
+      ],
+      [
+        "n42010013005"
+      ],
+      [
+        "n42010013019"
+      ],
+      [
+        "n42010014011"
+      ]
+    ]
+  }
+}

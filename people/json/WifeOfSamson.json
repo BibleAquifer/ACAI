@@ -1,0 +1,60 @@
+{
+  "id": "person:WifeOfSamson",
+  "primary_id": "person:WifeOfSamson",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wife of Samson",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wife of Samson",
+          "description": "Samson's Philistine wife."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07014016",
+    "07014016"
+  ],
+  "references": [
+    "07014016",
+    "07014016"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070140160031"
+      ],
+      [
+        "o070140160172"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070140160191",
+          "o070140160201",
+          "o070140160202",
+          "o070140160203",
+          "o070140160211",
+          "o070140160212",
+          "o070140160213",
+          "o070140160214",
+          "o070140160221",
+          "o070140160231",
+          "o070140160241",
+          "o070140160242",
+          "o070140160243",
+          "o070140160251"
+        ]
+      }
+    ]
+  }
+}

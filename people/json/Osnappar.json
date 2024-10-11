@@ -1,0 +1,66 @@
+{
+  "id": "person:Osnappar",
+  "primary_id": "person:Osnappar",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000567001001000"
+    ],
+    "tipnr": [
+      "Osnappar@Ezr.4.10"
+    ],
+    "vizbible": [
+      "recKDjSXCDhbqcySA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "000567001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Osnappar",
+      "alternate_labels": [
+        "Asnappar",
+        "Asnapper",
+        "Ashurbanipal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Osnappar",
+          "article": "person:Osnappar",
+          "description": "Osnappar, also known as Ashurbanipal, was the king of Assyria during the exile and return, mentioned in Ezra 4:10."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "arc": [
+      "אָסְנַפַּר",
+      "אָֽסְנַפַּר"
+    ]
+  },
+  "key_references": [
+    "15004010"
+  ],
+  "references": [
+    "15004010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150040100051"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o150040100082"
+      ]
+    ]
+  }
+}

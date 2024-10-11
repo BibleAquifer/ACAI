@@ -1,0 +1,102 @@
+{
+  "id": "place:Trachonitis",
+  "primary_id": "place:Trachonitis",
+  "alternate_sources": {
+    "aquifer": [
+      "8907|Trachonitis, Traconitis|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a85a60a"
+    ],
+    "ubsdgnt": [
+      "93.598"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678434",
+      "http://pleiades.stoa.org/places/678434"
+    ],
+    "tipnr": [
+      "Trachonitis@Luk.3.1"
+    ],
+    "vizbible": [
+      "recy9WHzHgTLKbsQN"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q826132"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.598"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Trachonitis",
+      "alternate_labels": [
+        "Traconitis"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Trachonitis",
+          "gloss": "Trachonitis",
+          "description": "A district south of Damascus."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Ituraea",
+    "place:Decapolis",
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Τραχωνῖτις"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.833333",
+      "lon": "36.5"
+    },
+    "recogito": {
+      "lat": "33.25",
+      "lon": "36.25"
+    },
+    "vizbible": {
+      "lat": "32.833333",
+      "lon": "36.5"
+    }
+  },
+  "key_references": [
+    "42003001"
+  ],
+  "references": [
+    "42003001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003001028"
+      ]
+    ]
+  }
+}

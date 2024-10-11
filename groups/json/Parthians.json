@@ -1,0 +1,52 @@
+{
+  "id": "group:Parthians",
+  "primary_id": "group:Parthians",
+  "alternate_sources": {
+    "aquifer": [
+      "7592|Parthia, Parthians|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Parthians@Act.2.9"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Parthians",
+      "alternate_labels": [
+        "Parthian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Parthians",
+          "article": "group:Parthians",
+          "description": "People who live in Parthia."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44002009"
+  ],
+  "references": [
+    "44002009"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44002009001"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44002011012"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "place:Anaharath",
+  "primary_id": "place:Anaharath",
+  "alternate_sources": {
+    "aquifer": [
+      "3585|Anaharath|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac07206"
+    ],
+    "ubsdbh": [
+      "000538001001000"
+    ],
+    "tipnr": [
+      "Anaharath@Jos.19.19"
+    ],
+    "vizbible": [
+      "recF3M1isU0G0L3hU"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000538001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anaharath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Anaharath",
+          "gloss": "Anaharath",
+          "description": "A town in the territory of Issachar."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Issachar",
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲנָחֲרַת",
+      "אֲנָֽחֲרָ֑ת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.607039",
+      "lon": "35.397389"
+    },
+    "vizbible": {
+      "lat": "32.607039",
+      "lon": "35.397389"
+    }
+  },
+  "key_references": [
+    "06019019"
+  ],
+  "references": [
+    "06019019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190190032"
+      ]
+    ]
+  }
+}

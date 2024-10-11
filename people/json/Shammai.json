@@ -1,0 +1,74 @@
+{
+  "id": "person:Shammai",
+  "primary_id": "person:Shammai",
+  "alternate_sources": {
+    "aquifer": [
+      "8281|Shammai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007456001001000"
+    ],
+    "tipnr": [
+      "Shammai@1Ch.2.28-"
+    ],
+    "vizbible": [
+      "rec63V9jHXmZUUoot"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Onam.2",
+  "offspring": [
+    "person:Nadab.3",
+    "person:Abishur"
+  ],
+  "siblings": [
+    "person:Jada"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007456001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shammai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shammai",
+          "article": "person:Shammai",
+          "description": "Shammai, son of Onam and father of Nadab and Abishur, was a man of the tribe of Judah living during the divided kingdom, mentioned in 1 Chronicles 2:28."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שְׁמִידָע",
+      "שְׁמִידָ֑ע"
+    ]
+  },
+  "key_references": [
+    "13002028",
+    "13002032"
+  ],
+  "references": [
+    "13002028",
+    "13002032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020280041"
+      ],
+      [
+        "o130020280071"
+      ],
+      [
+        "o130020320041"
+      ]
+    ]
+  }
+}

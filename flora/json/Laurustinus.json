@@ -1,0 +1,65 @@
+{
+  "id": "flora:Laurustinus",
+  "primary_id": "flora:Laurustinus",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007717001001000"
+    ],
+    "ubsflora": [
+      "flora:1.13"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "007717001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Laurustinus",
+      "alternate_labels": [
+        "Laurestinus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Laurustinus",
+          "article": "flora:Laurustinus",
+          "description": "Laurustinus is an evergreen shrub that grows up to 3.5 meters tall, with shiny dark green leaves, white flowers, and poisonous purple berries."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תִּדְהָר"
+    ]
+  },
+  "key_references": [
+    "23041019",
+    "23060013"
+  ],
+  "references": [
+    "23041019",
+    "23060013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230410190111"
+      ],
+      [
+        "o230600130061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230600130092"
+      ]
+    ]
+  }
+}

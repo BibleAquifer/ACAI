@@ -1,0 +1,57 @@
+{
+  "id": "group:Helek",
+  "primary_id": "group:Helek",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002318001001000"
+    ],
+    "tipnr": [
+      "Helek@Num.26.30-Jos"
+    ],
+    "vizbible": [
+      "recVi2LPI3hplPL8C"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Helek",
+  "ubsdbh": [
+    "002318001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Helekites",
+      "alternate_labels": [
+        "Helek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Helekites",
+          "article": "group:Helek",
+          "description": "People descended from Helek of the tribe of Manasseh."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶלְקִי"
+    ]
+  },
+  "key_references": [
+    "04026030"
+  ],
+  "references": [
+    "04026030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260300092"
+      ]
+    ]
+  }
+}

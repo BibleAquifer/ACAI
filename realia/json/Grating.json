@@ -1,0 +1,75 @@
+{
+  "id": "realia:Grating",
+  "primary_id": "realia:Grating",
+  "alternate_sources": {
+    "aquifer": [
+      "5528|Grate, Grating|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003969001001000"
+    ],
+    "ubsrealia": [
+      "realia:4.2.2.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003969001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Grating",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Grating",
+          "article": "realia:Grating",
+          "description": "A frame with a mesh for holding burning coals, allowing ashes to fall through and air to pass, with rings for carrying poles. In the Bible is it described as made from bronze."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִכְבָּר"
+    ]
+  },
+  "key_references": [
+    "02027004",
+    "02038004",
+    "02039039"
+  ],
+  "references": [
+    "02027004",
+    "02035016",
+    "02038004",
+    "02038005",
+    "02038030",
+    "02039039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020270040031"
+      ],
+      [
+        "o020350160051"
+      ],
+      [
+        "o020380040031"
+      ],
+      [
+        "o020380050062"
+      ],
+      [
+        "o020380300121"
+      ],
+      [
+        "o020390390051"
+      ]
+    ]
+  }
+}

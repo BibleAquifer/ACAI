@@ -1,0 +1,147 @@
+{
+  "id": "place:Gerar",
+  "primary_id": "place:Gerar",
+  "alternate_sources": {
+    "aquifer": [
+      "5424|Gerar|TyndaleBibleDictionary",
+      "26632|Gerar|UWTranslationWords"
+    ],
+    "obi": [
+      "a3f5814"
+    ],
+    "ubsdbh": [
+      "001507001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28350"
+    ],
+    "tipnr": [
+      "Gerar@Gen.10.19-2Ch"
+    ],
+    "vizbible": [
+      "recNwG4bBkZyEhAT4"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1510126"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001507001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gerar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gerar",
+          "gloss": "Gerar",
+          "description": "A town in western Negev, not far from Gaza, inhabited by the Philistines; one of the places where Abraham and Isaac sojourned."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Negeb"
+  ],
+  "tribal_area": "group:Philistine",
+  "subregion_of": [
+    "place:Gaza"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גְּרָר",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.3912911",
+      "lon": "34.56057016"
+    },
+    "recogito": {
+      "lat": "31.38176",
+      "lon": "34.60698"
+    },
+    "vizbible": {
+      "lat": "31.38176",
+      "lon": "34.60698"
+    }
+  },
+  "key_references": [
+    "01020002",
+    "01020001",
+    "01026001"
+  ],
+  "references": [
+    "01010019",
+    "01020001",
+    "01020002",
+    "01026001",
+    "01026006",
+    "01026017",
+    "01026020",
+    "01026026",
+    "14014012",
+    "14014013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100190061"
+      ],
+      [
+        "o010200010122"
+      ],
+      [
+        "o010200020111"
+      ],
+      [
+        "o010260010171"
+      ],
+      [
+        "o010260060032"
+      ],
+      [
+        "o010260170061"
+      ],
+      [
+        "o010260200031"
+      ],
+      [
+        "o010260260042"
+      ],
+      [
+        "o140140120072"
+      ],
+      [
+        "o140140130061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010200110102"
+      ]
+    ]
+  }
+}

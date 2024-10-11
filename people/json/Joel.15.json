@@ -1,0 +1,66 @@
+{
+  "id": "person:Joel.15",
+  "primary_id": "person:Shaul.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6401|Joel (Person)|TyndaleBibleDictionary",
+      "26767|Joel|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002847001005000"
+    ],
+    "tipnr": [
+      "Joel|Shaul@1Ch.6.24-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uzziah.2",
+  "offspring": [
+    "person:Elkanah.3"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002847001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joel (Shaul)",
+      "alternate_labels": [
+        "Shaul (1 Chronicles 6:24)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shaul (1 Chronicles 6:24)",
+          "article": "person:Joel.15",
+          "description": "A Levite man during the time of the divided kingdom, son of Uzziah and ancestor of Heman, also called Shaul, mentioned in 1 Chronicles 6:24 and 6:36."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shaul.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹואֵל",
+      "יוֹאֵל"
+    ]
+  },
+  "key_references": [
+    "13006021"
+  ],
+  "references": [
+    "13006021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060210041"
+      ]
+    ]
+  }
+}

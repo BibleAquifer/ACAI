@@ -1,0 +1,98 @@
+{
+  "id": "place:Yiron",
+  "primary_id": "place:Yiron",
+  "alternate_sources": {
+    "aquifer": [
+      "6052|Iron|TyndaleBibleDictionary",
+      "6050|Iron (Place)|TyndaleBibleDictionary",
+      "26733|Iron|UWTranslationWords"
+    ],
+    "obi": [
+      "a78b87e"
+    ],
+    "ubsdbh": [
+      "003084001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678452",
+      "http://pleiades.stoa.org/places/678452"
+    ],
+    "tipnr": [
+      "Yiron@Jos.19.38"
+    ],
+    "vizbible": [
+      "recpvm5bP5JLcPYhR"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003084001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Iron",
+      "alternate_labels": [
+        "Yiron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Yiron",
+          "gloss": "Iron",
+          "description": "A fortified town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יִרְאֹון",
+      "יִרְאוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.088748",
+      "lon": "35.414111"
+    },
+    "recogito": {
+      "lat": "33.083028",
+      "lon": "35.430797"
+    },
+    "vizbible": {
+      "lat": "33.088748",
+      "lon": "35.414111"
+    }
+  },
+  "key_references": [
+    "06019038"
+  ],
+  "references": [
+    "06019038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190380012"
+      ]
+    ]
+  }
+}

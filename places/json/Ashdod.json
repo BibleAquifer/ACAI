@@ -1,0 +1,223 @@
+{
+  "id": "place:Ashdod",
+  "primary_id": "place:Ashdod",
+  "alternate_sources": {
+    "aquifer": [
+      "3795|Ashdod, Ashdodite, Ashdothite|TyndaleBibleDictionary",
+      "26339|Ashdod|UWTranslationWords"
+    ],
+    "obi": [
+      "a30c937"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21687"
+    ],
+    "tipnr": [
+      "Azotus|Ashdod@Jos.11.22-Act",
+      "Ashdod@Jos.11.22-Act"
+    ],
+    "vizbible": [
+      "recN2YJFW0fYzSL9r"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q171639"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ashdod",
+      "alternate_labels": [
+        "Azotus",
+        "Ashdodite",
+        "Philistia",
+        "Ashdodites",
+        "Ashdothites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ashdod",
+          "gloss": "Ashdod",
+          "description": "A town in Philistia; one of the five cities of the Philistines."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Azotus"
+  ],
+  "tribal_area": "group:Philistine",
+  "nearby_places": [
+    "place:Ashkelon"
+  ],
+  "subregion_of": [
+    "place:Philistine"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.80299971",
+      "lon": "34.63511459"
+    },
+    "recogito": {
+      "lat": "31.756038",
+      "lon": "34.656061"
+    },
+    "vizbible": {
+      "lat": "31.756038",
+      "lon": "34.656061"
+    },
+    "biblica-maps": {
+      "lat": "31.76084",
+      "lon": "34.65407"
+    }
+  },
+  "key_references": [
+    "09005001",
+    "14026006",
+    "06015046",
+    "06013003",
+    "23020001",
+    "44008040"
+  ],
+  "references": [
+    "06011022",
+    "06013003",
+    "06015046",
+    "06015047",
+    "09005001",
+    "09005003",
+    "09005005",
+    "09005006",
+    "09005007",
+    "09006017",
+    "14026006",
+    "16004001",
+    "16013023",
+    "16013024",
+    "23020001",
+    "24025020",
+    "30001008",
+    "30003009",
+    "36002004",
+    "38009006",
+    "44008040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110220103"
+      ],
+      [
+        "o060130030173"
+      ],
+      [
+        "o060150460071"
+      ],
+      [
+        "o060150470011"
+      ],
+      [
+        "o090050010091"
+      ],
+      [
+        "o090050030021"
+      ],
+      [
+        "o090050050142"
+      ],
+      [
+        "o090050060052"
+      ],
+      [
+        "o090050060121"
+      ],
+      [
+        "o090050070031"
+      ],
+      [
+        "o090060170092"
+      ],
+      [
+        "o140260060131"
+      ],
+      [
+        "o140260060162"
+      ],
+      [
+        "o160040010083"
+      ],
+      [
+        "o160130230101"
+      ],
+      [
+        "o160130240041"
+      ],
+      [
+        "o230200010041"
+      ],
+      [
+        "o230200010112"
+      ],
+      [
+        "o240250200221"
+      ],
+      [
+        "o300010080032"
+      ],
+      [
+        "o300030090042"
+      ],
+      [
+        "o360020040071"
+      ],
+      [
+        "o380090060032"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44008040005"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090050030122"
+      ],
+      [
+        "o090050030152"
+      ],
+      [
+        "o090050040012"
+      ],
+      [
+        "o160040020042"
+      ],
+      [
+        "o160040020052"
+      ],
+      [
+        "o160040020073"
+      ]
+    ]
+  }
+}

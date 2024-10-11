@@ -1,0 +1,53 @@
+{
+  "id": "realia:AudienceHall",
+  "primary_id": "realia:AudienceHall",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.13"
+    ],
+    "ubsrealia": [
+      "realia:3.18"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.13"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Audience Hall",
+      "alternate_labels": [
+        "Auditorium"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Audience Hall",
+          "article": "realia:AudienceHall",
+          "description": "A large building used for legal hearings and other public gatherings."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀκροατήριον"
+    ]
+  },
+  "key_references": [
+    "44025023"
+  ],
+  "references": [
+    "44025023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44025023017"
+      ]
+    ]
+  }
+}

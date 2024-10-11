@@ -1,0 +1,101 @@
+{
+  "id": "place:Shaalbim",
+  "primary_id": "place:Shaalbim",
+  "alternate_sources": {
+    "aquifer": [
+      "8251|Shaalabbin, Shaalbim, Shaalbon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae89331"
+    ],
+    "tipnr": [
+      "Shaalbim@Jdg.1.35-1Ch",
+      "Shaalbonite|Shaalbim@Jdg.1.35-1Ch",
+      "Shaalabbin|Shaalbim@Jdg.1.35-1Ch"
+    ],
+    "vizbible": [
+      "recqdNdwEAEU0Hlq2"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaalbim",
+      "alternate_labels": [
+        "Shaalbonite",
+        "Shaalabbin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shaalbim",
+          "gloss": "Shaalbim",
+          "description": "A town in the territory of Dan during the time of King Solomon, under control of Ben-Deker."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Shaalabbin",
+    "group:Shaalbonite"
+  ],
+  "tribal_area": "group:Dan",
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.870364",
+      "lon": "34.981728"
+    },
+    "vizbible": {
+      "lat": "31.870364",
+      "lon": "34.981728"
+    }
+  },
+  "key_references": [
+    "11004009",
+    "06019042",
+    "07001035"
+  ],
+  "references": [
+    "06019042",
+    "07001035",
+    "10023032",
+    "11004009",
+    "13011033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190420012"
+      ],
+      [
+        "o070010350073"
+      ],
+      [
+        "o100230320022"
+      ],
+      [
+        "o110040090043"
+      ],
+      [
+        "o130110330042"
+      ]
+    ]
+  }
+}

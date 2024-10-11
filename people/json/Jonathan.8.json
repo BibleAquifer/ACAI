@@ -1,0 +1,73 @@
+{
+  "id": "person:Jonathan.8",
+  "primary_id": "person:Jonathan.8",
+  "alternate_sources": {
+    "aquifer": [
+      "6432|Jonathan|TyndaleBibleDictionary",
+      "26772|Jonathan|UWTranslationWords",
+      "132403|Jonathan|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002832001006000"
+    ],
+    "tipnr": [
+      "Jonathan@1Ch.2.32-"
+    ],
+    "vizbible": [
+      "recmdQB07c4EAhEOI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jada",
+  "offspring": [
+    "person:Peleth.2",
+    "person:Zaza"
+  ],
+  "siblings": [
+    "person:Jether.4"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002832001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jonathan (1 Chronicles 2:32)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jonathan (1 Chronicles 2:32)",
+          "article": "person:Jonathan.8",
+          "description": "A man from the tribe of Judah, the son of Jada, and father of Peleth and Zaza, mentioned in 1 Chronicles 2:32."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹונָתָן",
+      "יוֹנָתָן"
+    ]
+  },
+  "key_references": [
+    "13002032",
+    "13002033"
+  ],
+  "references": [
+    "13002032",
+    "13002033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020320062"
+      ],
+      [
+        "o130020330021"
+      ]
+    ]
+  }
+}

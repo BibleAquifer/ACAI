@@ -1,0 +1,108 @@
+{
+  "id": "person:Hegai",
+  "primary_id": "person:Hegai",
+  "alternate_sources": {
+    "aquifer": [
+      "5764|Hegai, Hege|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001746001001000 001750001001000",
+      "001750001001000"
+    ],
+    "tipnr": [
+      "Hegai@Est.2.3-"
+    ],
+    "vizbible": [
+      "recMdimT1WdayYOTt"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "001746001001000 001750001001000",
+    "001750001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hegai",
+      "alternate_labels": [
+        "Hege"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hegai",
+          "article": "person:Hegai",
+          "description": "A eunuch in charge of the harem of king Ahasuerus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֵגַי",
+      "הֵגֵא"
+    ]
+  },
+  "key_references": [
+    "17002001",
+    "17002002",
+    "17002003",
+    "17002008",
+    "17002015"
+  ],
+  "references": [
+    "17002003",
+    "17002008",
+    "17002015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170020030221"
+      ],
+      [
+        "o170020080141"
+      ],
+      [
+        "o170020080221"
+      ],
+      [
+        "o170020150231"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o170020030251"
+      ],
+      [
+        "o170020030272"
+      ],
+      [
+        "o170020080231"
+      ],
+      [
+        "o170020090072"
+      ],
+      [
+        "o170020090122"
+      ],
+      [
+        "o170020090182"
+      ],
+      [
+        "o170020090222"
+      ],
+      [
+        "o170020150261"
+      ]
+    ]
+  }
+}

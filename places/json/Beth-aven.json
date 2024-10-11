@@ -1,0 +1,125 @@
+{
+  "id": "place:Beth-aven",
+  "primary_id": "place:Beth-aven",
+  "alternate_sources": {
+    "aquifer": [
+      "4158|Beth-Aven|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000932001001000",
+      "000932001002000"
+    ],
+    "tipnr": [
+      "Beth-aven@Jos.7.2-Hos"
+    ],
+    "vizbible": [
+      "recgAmwf1FZDe8DST"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000932001001000",
+    "000932001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-aven (of Benjamin)",
+      "alternate_labels": [
+        "Wilderness of Beth Aven",
+        "Beth-Aven"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-aven.1",
+          "gloss": "Beth-Aven (of Benjamin)",
+          "description": "A town in the territory of Benjamin, near Ai and Bethel."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "associated_places": [
+    "place:Michmash",
+    "place:Ai",
+    "place:Bethel"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית אָוֶן",
+      "בֵּית אָ֫וֶן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.89571708",
+      "lon": "35.25309825"
+    },
+    "vizbible": {
+      "lat": "31.89571708",
+      "lon": "35.25309825"
+    }
+  },
+  "key_references": [
+    "06018012",
+    "06007002"
+  ],
+  "references": [
+    "06007002",
+    "06018012",
+    "09013005",
+    "09014023",
+    "28004015",
+    "28005008",
+    "28010005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060070020081",
+        "o060070020091"
+      ],
+      [
+        "o060180120211",
+        "o060180120221"
+      ],
+      [
+        "o090130050231",
+        "o090130050241"
+      ],
+      [
+        "o090140230101",
+        "o090140230111"
+      ],
+      [
+        "o280040150131",
+        "o280040150141"
+      ],
+      [
+        "o280050080071",
+        "o280050080081"
+      ],
+      [
+        "o280100050021",
+        "o280100050031"
+      ]
+    ]
+  }
+}

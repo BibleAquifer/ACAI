@@ -1,0 +1,60 @@
+{
+  "id": "person:Reuel",
+  "primary_id": "person:Deuel",
+  "alternate_sources": {
+    "aquifer": [
+      "8016|Reuel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006861001003000"
+    ],
+    "tipnr": [
+      "Reuel|Deuel@Num.1.14-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Eliasaph"
+  ],
+  "roles": [
+    "Tribal Chief"
+  ],
+  "ubsdbh": [
+    "006861001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Reuel (Deuel)",
+      "alternate_labels": [
+        "Deuel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Deuel",
+          "article": "person:Reuel",
+          "description": "Reuel, also called Deuel, was a man living during the time of Egypt and the wilderness, the father of Eliasaph, first mentioned in Numbers 1:14 and also referred to in Numbers 2:14."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Deuel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04002014"
+  ],
+  "references": [
+    "04002014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040020140081"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "person:Kenaz",
+  "primary_id": "person:Kenaz",
+  "alternate_sources": {
+    "aquifer": [
+      "6548|Kenaz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006510001001000"
+    ],
+    "tipnr": [
+      "Kenaz@Gen.36.11-1Ch"
+    ],
+    "vizbible": [
+      "receOOCNOnHaHsINB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliphaz",
+  "mother": "person:WifeOfEliphaz",
+  "siblings": [
+    "person:Teman",
+    "person:Omar",
+    "person:Zepho",
+    "person:Gatam",
+    "person:Amalek",
+    "person:Korah.2"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "006510001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kenaz",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kenaz",
+          "article": "person:Kenaz",
+          "description": "A man of the Edomites living during the time of the patriarchs, mentioned in Genesis 36:11, son of Eliphaz, and brother of Teman, Omar, Zepho, Gatam, Amalek, and Korah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קְנִזִּי"
+    ]
+  },
+  "key_references": [
+    "01036011",
+    "01036015",
+    "13001036"
+  ],
+  "references": [
+    "01036011",
+    "01036015",
+    "13001036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360110082"
+      ],
+      [
+        "o010360150161"
+      ],
+      [
+        "o130010360071"
+      ]
+    ]
+  }
+}

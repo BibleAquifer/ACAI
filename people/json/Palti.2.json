@@ -1,0 +1,64 @@
+{
+  "id": "person:Palti.2",
+  "primary_id": "person:Palti.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7566|Palti|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Paltiel|Palti@1Sa.25.44-2Sa",
+      "Palti@1Sa.25.44-2Sa"
+    ],
+    "vizbible": [
+      "rec2AyE0G07aHlpHg"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Laish",
+  "partners": [
+    "person:Michal"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Palti (1 Samuel 25:44)",
+      "alternate_labels": [
+        "Phaltiel",
+        "Phalti",
+        "Paltiel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Palti (1 Samuel 25:44)",
+          "article": "person:Palti.2",
+          "description": "Palti, also known as Phaltiel, son of Laish and husband of Michal, lived during the time of Israel's united kingdom and is first mentioned in 1 Samuel 25:44."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Paltiel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09025044",
+    "10003015"
+  ],
+  "references": [
+    "09025044",
+    "10003015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090250440082"
+      ],
+      [
+        "o100030150081"
+      ]
+    ]
+  }
+}

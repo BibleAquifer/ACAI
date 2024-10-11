@@ -1,0 +1,75 @@
+{
+  "id": "person:Mered",
+  "primary_id": "person:Mered",
+  "alternate_sources": {
+    "aquifer": [
+      "7065|Mered|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004372002001000"
+    ],
+    "tipnr": [
+      "Mered@1Ch.4.17-"
+    ],
+    "vizbible": [
+      "recmn3JwFsYdd2RxQ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ezrah",
+  "partners": [
+    "person:Bithiah",
+    "person:Jehudijah"
+  ],
+  "offspring": [
+    "person:Miriam.2",
+    "person:Shammai.3",
+    "person:Ishbah",
+    "person:Jered",
+    "person:Heber.3",
+    "person:Jekuthiel"
+  ],
+  "siblings": [
+    "person:Jether.5",
+    "person:Epher.2",
+    "person:Jalon"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "004372002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mered",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mered",
+          "article": "person:Mered",
+          "description": "A man of the tribe of Judah possibly living during the time of the divided kingdom, son of Ezrah and husband of Bithiah and Jehudijah, first mentioned in 1 Chronicles 4:17."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004017",
+    "13004018"
+  ],
+  "references": [
+    "13004017",
+    "13004018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040170042"
+      ],
+      [
+        "o130040180231"
+      ]
+    ]
+  }
+}

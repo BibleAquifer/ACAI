@@ -1,0 +1,70 @@
+{
+  "id": "realia:Pool",
+  "primary_id": "realia:Pool",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.58"
+    ],
+    "ubsrealia": [
+      "realia:3.10"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.58"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pool",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pool",
+          "article": "realia:Pool",
+          "description": "A large structure for collecting water."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κολυμβήθρα"
+    ]
+  },
+  "key_references": [
+    "12020020",
+    "23022009",
+    "43005002"
+  ],
+  "references": [
+    "43005002",
+    "43005007",
+    "43009007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43005002009"
+      ],
+      [
+        "n43005007018"
+      ],
+      [
+        "n43009007008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43005002011"
+      ],
+      [
+        "n43005002016"
+      ]
+    ]
+  }
+}

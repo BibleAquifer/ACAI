@@ -1,0 +1,61 @@
+{
+  "id": "person:Baruch.3",
+  "primary_id": "person:Baruch.3",
+  "alternate_sources": {
+    "aquifer": [
+      "4019|Baruch|TyndaleBibleDictionary",
+      "26367|Baruch|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "001165001003000"
+    ],
+    "tipnr": [
+      "Baruch@Neh.11.5"
+    ],
+    "vizbible": [
+      "recg4IjMODiWXT2mB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Col-hozeh.2",
+  "offspring": [
+    "person:Maaseiah.14"
+  ],
+  "ubsdbh": [
+    "001165001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baruch (Nehemiah 11:5)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Baruch (Nehemiah 11:5)",
+          "article": "person:Baruch.3",
+          "description": "A man from the tribe of Judah, living at the time of exile and return, son of Col-Hozeh and father of Maaseiah, mentioned in Nehemiah 11:5."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בָּרוּךְ"
+    ]
+  },
+  "key_references": [
+    "16011005"
+  ],
+  "references": [
+    "16011005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110050031"
+      ]
+    ]
+  }
+}

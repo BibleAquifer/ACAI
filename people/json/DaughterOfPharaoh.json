@@ -1,0 +1,87 @@
+{
+  "id": "person:DaughterOfPharaoh",
+  "primary_id": "person:DaughterOfPharaoh",
+  "alternate_sources": {
+    "tipnr": [
+      "daughter_of_Pharaoh@Exo.2.5"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Pharaoh.5",
+  "tribe": "group:Egypt",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Daughter of Pharaoh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Daughter of Pharaoh",
+          "article": "person:DaughterOfPharaoh",
+          "description": "The Daughter of Pharaoh, mentioned in Exodus 2:5, was an unnamed Egyptian woman who adopted Moses during the time of Egypt and the wilderness."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02002005"
+  ],
+  "references": [
+    "02002005"
+  ],
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o020020060111",
+          "o020020060112",
+          "o020020060121",
+          "o020020060122",
+          "o020020060131"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o020020080051"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o020020090051",
+          "o020020090061",
+          "o020020090071",
+          "o020020090072",
+          "o020020090081",
+          "o020020090082",
+          "o020020090091",
+          "o020020090092",
+          "o020020090093",
+          "o020020090101",
+          "o020020090102",
+          "o020020090111",
+          "o020020090112",
+          "o020020090121",
+          "o020020090131",
+          "o020020090141",
+          "o020020090142"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o020020100131",
+          "o020020100141",
+          "o020020100151",
+          "o020020100152",
+          "o020020100161",
+          "o020020100162"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "person:Deuel",
+  "primary_id": "person:Deuel",
+  "alternate_sources": {
+    "aquifer": [
+      "4822|Deuel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Reuel|Deuel@Num.1.14-",
+      "Deuel@Num.1.14-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Eliasaph"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Deuel",
+      "alternate_labels": [
+        "Reuel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Deuel",
+          "article": "person:Deuel",
+          "description": "Father of Eliasaph, a chief of the tribe of Gad. Deuel lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Reuel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04001014",
+    "04002014",
+    "04010020"
+  ],
+  "references": [
+    "04001014",
+    "04002014",
+    "04007042",
+    "04007047",
+    "04010020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010140041"
+      ],
+      [
+        "o040020140081"
+      ],
+      [
+        "o040070420081"
+      ],
+      [
+        "o040070470171"
+      ],
+      [
+        "o040100200081"
+      ]
+    ]
+  }
+}

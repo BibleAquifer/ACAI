@@ -1,0 +1,81 @@
+{
+  "id": "realia:Daric",
+  "primary_id": "realia:Daric",
+  "alternate_sources": {
+    "aquifer": [
+      "4756|Daric|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000150001001000",
+      "001720001001000"
+    ],
+    "ubsrealia": [
+      "realia:11.6.2.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "000150001001000",
+    "001720001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Daric",
+      "alternate_labels": [
+        "Drachma"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Daric",
+          "article": "realia:Daric",
+          "description": "A gold coin used in the Persian Empire."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲדַרְכֹּון",
+      "דַּרְכְּמֹון"
+    ]
+  },
+  "key_references": [
+    "13029007",
+    "15002069",
+    "15008027"
+  ],
+  "references": [
+    "13029007",
+    "15002069",
+    "15008027",
+    "16007069",
+    "16007070",
+    "16007071"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130290070092"
+      ],
+      [
+        "o150080270042"
+      ],
+      [
+        "o150020690061"
+      ],
+      [
+        "o160070690101"
+      ],
+      [
+        "o160070700071"
+      ],
+      [
+        "o160070710061"
+      ]
+    ]
+  }
+}

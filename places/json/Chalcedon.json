@@ -1,0 +1,38 @@
+{
+  "id": "place:Chalcedon",
+  "primary_id": "place:Chalcedon",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chalcedon",
+          "gloss": "Chalcedon",
+          "description": "A maritime city in the province of Bithynia, Asia Minor. Several church councils were held here, including the Fourth Ecumenical Council, the Council of Chalcedon, in 451."
+        }
+      ],
+      "preferred_label": "Chalcedon",
+      "alternate_labels": [
+        "Chalkedon"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "40.98339",
+      "lon": "29.02579"
+    }
+  }
+}

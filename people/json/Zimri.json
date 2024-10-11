@@ -1,0 +1,70 @@
+{
+  "id": "person:Zimri",
+  "primary_id": "person:Zabdi",
+  "alternate_sources": {
+    "aquifer": [
+      "9228|Zimri (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002006001003000"
+    ],
+    "tipnr": [
+      "Zimri|Zabdi@Jos.7.1-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zerah.3",
+  "offspring": [
+    "person:Carmi.3"
+  ],
+  "siblings": [
+    "person:Ethan.2",
+    "person:Heman.2",
+    "person:Calcol.2",
+    "person:Dara"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002006001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zimri (Zabdi)",
+      "alternate_labels": [
+        "Zabdi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zabdi",
+          "article": "person:Zimri",
+          "description": "Zimri, also known as Zabdi, was a man from the tribe of Judah before Israel's Monarchy, son of Zerah and father of Carmi, as mentioned in Joshua 7:1 and 1 Chronicles 2:6."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zabdi"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זִמְרִי"
+    ]
+  },
+  "key_references": [
+    "13002006"
+  ],
+  "references": [
+    "13002006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020060031"
+      ]
+    ]
+  }
+}

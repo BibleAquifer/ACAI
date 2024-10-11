@@ -1,0 +1,48 @@
+{
+  "id": "place:Ebenezer.2",
+  "primary_id": "place:Ebenezer.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4926|Ebenezer|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ebenezer.2",
+          "gloss": "Ebenezer (Monument)",
+          "description": "A rock erected by Samuel as a memorial between Mizpah and Shen."
+        }
+      ],
+      "preferred_label": "Ebenezer (Monument)",
+      "alternate_labels": [
+        "Eben-ezer",
+        "Eben-Ezer"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Ebenezer"
+  ],
+  "nearby_places": [
+    "place:Shen",
+    "place:Mizpah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "rock"
+    ]
+  },
+  "key_references": [
+    "09007012"
+  ]
+}

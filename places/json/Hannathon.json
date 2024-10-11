@@ -1,0 +1,87 @@
+{
+  "id": "place:Hannathon",
+  "primary_id": "place:Hannathon",
+  "alternate_sources": {
+    "aquifer": [
+      "5649|Hannathon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a412c43"
+    ],
+    "ubsdbh": [
+      "002409001001000"
+    ],
+    "tipnr": [
+      "Hannathon@Jos.19.14"
+    ],
+    "vizbible": [
+      "recVCr26UndrdyQVj"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5649033"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002409001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hannathon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hannathon",
+          "gloss": "Hannathon",
+          "description": "A town in the territory of Zebulun."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חַנָּתֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.916002",
+      "lon": "35.426637"
+    },
+    "vizbible": {
+      "lat": "32.916002",
+      "lon": "35.426637"
+    }
+  },
+  "key_references": [
+    "06019014"
+  ],
+  "references": [
+    "06019014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190140051"
+      ]
+    ]
+  }
+}

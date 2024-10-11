@@ -1,0 +1,65 @@
+{
+  "id": "person:Azrikam.2",
+  "primary_id": "person:Azrikam.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3921|Azrikam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005359001002000"
+    ],
+    "tipnr": [
+      "Azrikam@1Ch.8.38-"
+    ],
+    "vizbible": [
+      "reckdWglLrwzhwRy0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Azel",
+  "siblings": [
+    "person:Bocheru",
+    "person:Ishmael.3",
+    "person:Sheariah",
+    "person:Obadiah.4",
+    "person:Hanan.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005359001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azrikam (1 Chronicles 8:38)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azrikam (1 Chronicles 8:38)",
+          "article": "person:Azrikam.2",
+          "description": "A man of the tribe of Benjamin living during the divided kingdom, son of Azel and mentioned in 1 Chronicles 8:38."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008038",
+    "13009044"
+  ],
+  "references": [
+    "13008038",
+    "13009044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080380061"
+      ],
+      [
+        "o130090440061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "person:Ben-abinadab",
+  "primary_id": "person:Ben-abinadab",
+  "alternate_sources": {
+    "aquifer": [
+      "4097|Ben-Abinadab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000040001004000"
+    ],
+    "tipnr": [
+      "Ben-abinadab@1Ki.4.11"
+    ],
+    "vizbible": [
+      "recm6ZnyoETGCb9hk"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abinadab.4",
+  "partners": [
+    "person:Taphath"
+  ],
+  "ubsdbh": [
+    "000040001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ben-abinadab",
+      "alternate_labels": [
+        "Abinadab",
+        "son of Abinadab"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ben-Abinadab",
+          "article": "person:Ben-abinadab",
+          "description": "An official during Israel's united kingdom under King Solomon, married to Taphath, and mentioned in 1 Kings 4:11."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִינָדָב",
+      "בֶּן־אֲבִינָדָב"
+    ]
+  },
+  "key_references": [
+    "11004011"
+  ],
+  "references": [
+    "11004011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040110021"
+      ]
+    ]
+  }
+}

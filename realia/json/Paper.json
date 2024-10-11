@@ -1,0 +1,56 @@
+{
+  "id": "realia:Paper",
+  "primary_id": "realia:Paper",
+  "alternate_sources": {
+    "aquifer": [
+      "7570|Paper|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.58"
+    ],
+    "ubsrealia": [
+      "realia:1.7.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.58"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Paper",
+      "alternate_labels": [
+        "A Sheet of Paper"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Paper",
+          "article": "realia:Paper",
+          "description": "A sheet made of papyrus used for writing."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χάρτης"
+    ]
+  },
+  "key_references": [
+    "63001012"
+  ],
+  "references": [
+    "63001012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n63001012008"
+      ]
+    ]
+  }
+}

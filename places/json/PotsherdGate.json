@@ -1,0 +1,92 @@
+{
+  "id": "place:PotsherdGate",
+  "primary_id": "place:PotsherdGate",
+  "alternate_sources": {
+    "aquifer": [
+      "7791|Potsherd Gate|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002553001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4496582"
+    ],
+    "tipnr": [
+      "Potsherd_Gate@Jer.19.2"
+    ],
+    "vizbible": [
+      "recqMLCLLurbShHne"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002553001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Potsherd Gate",
+      "alternate_labels": [
+        "East Gate",
+        " Gate",
+        "Gate of Broken Pots",
+        "Potsherd",
+        "Gate of the Potsherd"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:PotsherdGate",
+          "gloss": "Potsherd Gate",
+          "description": "A gate in the wall of Jerusalem near the valley of Hinnom; possibly another name for the Dung Gate."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "35.03211",
+      "lon": "-78.79474"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "24019002"
+  ],
+  "references": [
+    "24019002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240190020102"
+      ]
+    ]
+  }
+}

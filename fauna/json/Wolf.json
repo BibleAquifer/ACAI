@@ -1,0 +1,149 @@
+{
+  "id": "fauna:Wolf",
+  "primary_id": "fauna:Wolf",
+  "alternate_sources": {
+    "aquifer": [
+      "9085|Wolf|TyndaleBibleDictionary",
+      "27211|Wolf|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "4.11"
+    ],
+    "ubsdbh": [
+      "001908001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.35"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdgnt": [
+    "4.11"
+  ],
+  "ubsdbh": [
+    "001908001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wolf",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wolf",
+          "article": "fauna:Wolf",
+          "description": "A large, wild dog known for being fierce and hunting livestock."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "fauna:Dog"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זְאֵב"
+    ],
+    "el": [
+      "λύκος"
+    ]
+  },
+  "key_references": [
+    "23011006",
+    "26022027",
+    "40010016"
+  ],
+  "references": [
+    "01049027",
+    "23011006",
+    "23065025",
+    "24005006",
+    "26022027",
+    "35001008",
+    "36003003",
+    "40007015",
+    "40010016",
+    "41016018",
+    "42010003",
+    "43010012",
+    "44020029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010490270021"
+      ],
+      [
+        "o230110060021"
+      ],
+      [
+        "o230650250011"
+      ],
+      [
+        "o240050060061"
+      ],
+      [
+        "o260220270032"
+      ],
+      [
+        "o350010080052"
+      ],
+      [
+        "o360030030061"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40010016009"
+      ],
+      [
+        "n42010003009"
+      ],
+      [
+        "n43010012015"
+      ],
+      [
+        "n43010012025"
+      ],
+      [
+        "n40007015015"
+      ],
+      [
+        "n44020029009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230110060162"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010490270031"
+      ],
+      [
+        "o230650250131"
+      ],
+      [
+        "o230650250151"
+      ],
+      [
+        "o260220270041"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43010012029"
+      ],
+      [
+        "n44020029014"
+      ]
+    ]
+  }
+}

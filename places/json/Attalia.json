@@ -1,0 +1,104 @@
+{
+  "id": "place:Attalia",
+  "primary_id": "place:Attalia",
+  "alternate_sources": {
+    "aquifer": [
+      "3871|Attalia|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac744c1"
+    ],
+    "ubsdgnt": [
+      "93.418"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21502"
+    ],
+    "tipnr": [
+      "Attalia@Act.14.25"
+    ],
+    "vizbible": [
+      "recgETRLKLXHedXj3"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6487"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.418"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Attalia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Attalia",
+          "gloss": "Attalia",
+          "description": "A seaport in Pamphylia where "
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Perga"
+  ],
+  "subregion_of": [
+    "place:Pamphylia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἀττάλεια"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.8808258",
+      "lon": "30.69456558"
+    },
+    "recogito": {
+      "lat": "36.8839",
+      "lon": "30.70541"
+    },
+    "vizbible": {
+      "lat": "36.8839",
+      "lon": "30.70541"
+    },
+    "biblica-maps": {
+      "lat": "36.88706",
+      "lon": "30.70568"
+    }
+  },
+  "key_references": [
+    "44014025"
+  ],
+  "references": [
+    "44014025",
+    "44014026"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44014025009"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "person:Jahzeel",
+  "primary_id": "person:Jahzeel",
+  "alternate_sources": {
+    "aquifer": [
+      "6183|Jahzeel, Jahzeelite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jahzeel@Gen.46.24-1Ch",
+      "Jahziel|Jahzeel@Gen.46.24-1Ch"
+    ],
+    "vizbible": [
+      "recAbweFk5S3ILg8s"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Naphtali",
+  "siblings": [
+    "person:Guni",
+    "person:Jezer",
+    "person:Shillem"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Naphtali",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jahzeel",
+      "alternate_labels": [
+        "Jahzeelite",
+        "Jahziel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jahzeel",
+          "article": "person:Jahzeel",
+          "description": "A son of the patriarch Naphtali and brother of Guni, Jezer, and Shillem. He was founder of the clan of the Jahzeelites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Jahzeel",
+    "person:Jahziel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046024",
+    "04026048",
+    "13007013"
+  ],
+  "references": [
+    "01046024",
+    "04026048",
+    "13007013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460240031"
+      ],
+      [
+        "o040260480042"
+      ],
+      [
+        "o040260480062"
+      ],
+      [
+        "o130070130031"
+      ]
+    ]
+  }
+}

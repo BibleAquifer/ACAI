@@ -1,0 +1,166 @@
+{
+  "id": "person:Mark",
+  "primary_id": "person:Mark",
+  "alternate_sources": {
+    "aquifer": [
+      "6950|Mark, Gospel of|TyndaleBibleDictionary",
+      "6951|Mark, John|TyndaleBibleDictionary",
+      "132015|Mark|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Mark@Act.12.12-1Pe",
+      "John|Mark@Act.12.12-1Pe"
+    ],
+    "vizbible": [
+      "rec3LAlubKgbPw9H9"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:HusbandOfMary",
+  "mother": "person:Mary.5",
+  "roles": [
+    "Disciple",
+    "Church Leader",
+    "Evangelist"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mark",
+      "alternate_labels": [
+        "John Mark",
+        "John",
+        "Marcus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mark",
+          "article": "person:Mark",
+          "description": "A fellow traveller of Paul and Barnabas he is also traditionally considered to be the author of the Gospel of Mark."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:John.5"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44012012",
+    "44012025",
+    "44015039"
+  ],
+  "references": [
+    "44012012",
+    "44012025",
+    "44013005",
+    "44013013",
+    "44015037",
+    "44015039",
+    "51004010",
+    "55004011",
+    "57001024",
+    "60005013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44012012011"
+      ],
+      [
+        "n44012012014"
+      ],
+      [
+        "n44012025012"
+      ],
+      [
+        "n44012025015"
+      ],
+      [
+        "n44013005018"
+      ],
+      [
+        "n44013013014"
+      ],
+      [
+        "n44015037007"
+      ],
+      [
+        "n44015037010"
+      ],
+      [
+        "n44015039014"
+      ],
+      [
+        "n51004010008"
+      ],
+      [
+        "n55004011006"
+      ],
+      [
+        "n57001024001"
+      ],
+      [
+        "n60005013008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n51004010013"
+      ],
+      [
+        "n51004010021"
+      ],
+      [
+        "n51004011010"
+      ],
+      [
+        "n51004011018"
+      ],
+      [
+        "n55004022010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44012012013"
+      ],
+      [
+        "n44012025014"
+      ],
+      [
+        "n44013006001"
+      ],
+      [
+        "n44013006008"
+      ],
+      [
+        "n44013013016"
+      ],
+      [
+        "n44015037009"
+      ],
+      [
+        "n44015038005"
+      ],
+      [
+        "n44015038012"
+      ],
+      [
+        "n51004010017"
+      ],
+      [
+        "n51004011007"
+      ],
+      [
+        "n55004011011"
+      ]
+    ]
+  }
+}

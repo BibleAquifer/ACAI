@@ -1,0 +1,90 @@
+{
+  "id": "deity:Abba",
+  "primary_id": "deity:Lord",
+  "alternate_sources": {
+    "aquifer": [
+      "3268|Abba|TyndaleBibleDictionary",
+      "132087|Abba|BiblicaStudyNotesKeyTerms",
+      "280140|abba|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "12.12"
+    ],
+    "tipnr": [
+      "Abba|LORD@Gen.1.1-Heb"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdgnt": [
+    "12.12"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abba (LORD)",
+      "alternate_labels": [
+        "LORD"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "LORD",
+          "article": "deity:Abba",
+          "description": "An Aramaic word meaning “father” used by Jesus as a name for God (Mark 14:36)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Lord"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀββά",
+      "πατήρ",
+      "αββα"
+    ]
+  },
+  "key_references": [
+    "41014036",
+    "45008015",
+    "48004006"
+  ],
+  "references": [
+    "41014036",
+    "45008015",
+    "48004006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41014036003"
+      ],
+      [
+        "n45008015016"
+      ],
+      [
+        "n48004006018"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n41014036008"
+      ],
+      [
+        "n41014036022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n41014036009"
+      ]
+    ]
+  }
+}

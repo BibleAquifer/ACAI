@@ -1,0 +1,129 @@
+{
+  "id": "place:Dibon",
+  "primary_id": "place:Dibon",
+  "alternate_sources": {
+    "aquifer": [
+      "4836|Dibon|TyndaleBibleDictionary"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28390"
+    ],
+    "tipnr": [
+      "Dibon@Num.21.30-Jer"
+    ],
+    "vizbible": [
+      "rechszjphdueUPvPi"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dibon (of Moab)",
+      "alternate_labels": [
+        "Dibon-Gad",
+        "Dibon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dibon.1",
+          "gloss": "Dibon (of Moab)",
+          "description": "A town in Moab said to be built by the tribe of Gad, but also attributed to the tribe of Reuben."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.49684514",
+      "lon": "35.78284105"
+    },
+    "recogito": {
+      "lat": "31.499159",
+      "lon": "35.780512"
+    },
+    "vizbible": {
+      "lat": "31.499159",
+      "lon": "35.780512"
+    }
+  },
+  "key_references": [
+    "04032034",
+    "04021030"
+  ],
+  "references": [
+    "04021030",
+    "04032003",
+    "04032034",
+    "04033045",
+    "04033046",
+    "06013009",
+    "06013017",
+    "23015002",
+    "23015009",
+    "24048018",
+    "24048022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210300051"
+      ],
+      [
+        "o040320030022"
+      ],
+      [
+        "o040320340051"
+      ],
+      [
+        "o040330450042",
+        "o040330450051"
+      ],
+      [
+        "o040330460022",
+        "o040330460031"
+      ],
+      [
+        "o060130090151"
+      ],
+      [
+        "o060130170061"
+      ],
+      [
+        "o230150020032"
+      ],
+      [
+        "o230150090031"
+      ],
+      [
+        "o230150090091"
+      ],
+      [
+        "o240480180081"
+      ],
+      [
+        "o240480220021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "realia:Key",
+  "primary_id": "realia:Key",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.220"
+    ],
+    "ubsrealia": [
+      "realia:3.1.2.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.220"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Key",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Key",
+          "article": "realia:Key",
+          "description": "An object used to lock or unlock doors and gates."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κλείς"
+    ]
+  },
+  "key_references": [
+    "40016019",
+    "66001018",
+    "66020001"
+  ],
+  "references": [
+    "40016019",
+    "66009001",
+    "66020001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40016019004"
+      ],
+      [
+        "n66009001020"
+      ],
+      [
+        "n66020001010"
+      ]
+    ]
+  }
+}

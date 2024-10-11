@@ -1,0 +1,207 @@
+{
+  "id": "person:Sarai",
+  "primary_id": "person:Sarah",
+  "alternate_sources": {
+    "aquifer": [
+      "8141|Sarai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007100001001000"
+    ],
+    "tipnr": [
+      "Sarai|Sarah@Gen.11.29-1Pe"
+    ],
+    "vizbible": [
+      "rechda7WMDuW1jBTq"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Terah",
+  "partners": [
+    "person:Abraham"
+  ],
+  "offspring": [
+    "person:Isaac"
+  ],
+  "siblings": [
+    "person:Abraham",
+    "person:Nahor.2",
+    "person:Haran"
+  ],
+  "roles": [
+    "Matriarch"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "007100001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sarai (Sarah)",
+      "alternate_labels": [
+        "Sarah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sarah",
+          "article": "person:Sarai",
+          "description": "Daughter of Terah, wife of the patriarch Abraham, and mother of Isaac."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Sarah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01017015"
+  ],
+  "references": [
+    "01011029",
+    "01011030",
+    "01011031",
+    "01012005",
+    "01012011",
+    "01012017",
+    "01016001",
+    "01016002",
+    "01016003",
+    "01016005",
+    "01016006",
+    "01016008",
+    "01017015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010110290091"
+      ],
+      [
+        "o010110300021"
+      ],
+      [
+        "o010110310131"
+      ],
+      [
+        "o010120050041"
+      ],
+      [
+        "o010120110081"
+      ],
+      [
+        "o010120170111"
+      ],
+      [
+        "o010160010012"
+      ],
+      [
+        "o010160020021"
+      ],
+      [
+        "o010160020201"
+      ],
+      [
+        "o010160030021"
+      ],
+      [
+        "o010160050021"
+      ],
+      [
+        "o010160060041"
+      ],
+      [
+        "o010160060131"
+      ],
+      [
+        "o010160080041"
+      ],
+      [
+        "o010160080121"
+      ],
+      [
+        "o010170150051"
+      ],
+      [
+        "o010170150111"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010120110171"
+      ],
+      [
+        "o010120120081"
+      ],
+      [
+        "o010120130041"
+      ],
+      [
+        "o010120180151"
+      ],
+      [
+        "o010120190041"
+      ],
+      [
+        "o010160050071"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010110310182"
+      ],
+      [
+        "o010110310222"
+      ],
+      [
+        "o010110310252"
+      ],
+      [
+        "o010110310282"
+      ],
+      [
+        "o010120050141"
+      ],
+      [
+        "o010120050181"
+      ],
+      [
+        "o010120050202"
+      ],
+      [
+        "o010120050212"
+      ],
+      [
+        "o010120050242"
+      ],
+      [
+        "o010120130011"
+      ],
+      [
+        "o010160020092"
+      ],
+      [
+        "o010160020151"
+      ],
+      [
+        "o010160030162"
+      ],
+      [
+        "o010160050142"
+      ],
+      [
+        "o010160060081"
+      ],
+      [
+        "o010170160092"
+      ]
+    ]
+  }
+}

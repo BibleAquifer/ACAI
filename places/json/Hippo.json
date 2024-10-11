@@ -1,0 +1,39 @@
+{
+  "id": "place:Hippo",
+  "primary_id": "place:Hippo",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hippo",
+          "gloss": "Hippo",
+          "description": "A Roman city, home to Saint Augustine, on the northern coast of Africa where several early church councils were held; modern-day Annaba, Algeria."
+        }
+      ],
+      "preferred_label": "Hippo",
+      "alternate_labels": [
+        "Hippo Regius",
+        "Hippone"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "36.88077",
+      "lon": "7.74956"
+    }
+  }
+}

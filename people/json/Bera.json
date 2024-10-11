@@ -1,0 +1,97 @@
+{
+  "id": "person:Bera",
+  "primary_id": "person:Bera",
+  "alternate_sources": {
+    "aquifer": [
+      "4127|Bera|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001197001001000"
+    ],
+    "tipnr": [
+      "Bera@Gen.14.2"
+    ],
+    "vizbible": [
+      "recN0zIRz9yMn1ELa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "ubsdbh": [
+    "001197001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bera",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bera",
+          "article": "person:Bera",
+          "description": "A man living during the time of the patriarchs, mentioned in Genesis 14:2 as the king of Sodom during Abram's time."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּרַע",
+      "בֶּ֫רַע"
+    ]
+  },
+  "key_references": [
+    "01014002"
+  ],
+  "references": [
+    "01014002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140020041"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140030021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010140040041"
+      ],
+      [
+        "o010140040101"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010140210061",
+          "o010140210071",
+          "o010140210072",
+          "o010140210081",
+          "o010140210082",
+          "o010140210091",
+          "o010140210092",
+          "o010140210093",
+          "o010140210101",
+          "o010140210111",
+          "o010140210112"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "fauna:Oryx",
+  "primary_id": "fauna:Oryx",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007684001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.29"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "007684001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Oryx",
+      "alternate_labels": [
+        "Gemsbok"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Oryx",
+          "article": "fauna:Oryx",
+          "description": "A medium-sized antelope or deer with long, straight horns; it is considered ceremonially unclean in the Bible."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תְּאֹו"
+    ]
+  },
+  "key_references": [
+    "05014005",
+    "23051020"
+  ],
+  "references": [
+    "05014005",
+    "23051020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050140050062"
+      ],
+      [
+        "o230510200072"
+      ]
+    ]
+  }
+}

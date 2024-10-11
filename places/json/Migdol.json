@@ -1,0 +1,116 @@
+{
+  "id": "place:Migdol",
+  "primary_id": "place:Migdol",
+  "alternate_sources": {
+    "aquifer": [
+      "7126|Migdol|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003686002001000",
+      "003686002001000 005022001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28491"
+    ],
+    "tipnr": [
+      "Migdol@Exo.14.2-Ezk"
+    ],
+    "vizbible": [
+      "rectMnL1X3mOSYKWV"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003686002001000",
+    "003686002001000 005022001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Migdol (Campsite)",
+      "alternate_labels": [
+        "Migdal",
+        "Migdol"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Migdol.1",
+          "gloss": "Migdol (Campsite)",
+          "description": "A location in eastern Egypt, near the Sea of Reeds and close to Pi-Hahiroth, where the Israelites encamped before crossing the Sea of Reeds on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מִגְדֹּל",
+      "סְוֵנֵה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.020296",
+      "lon": "32.372233"
+    },
+    "recogito": {
+      "lat": "30.97269",
+      "lon": "32.44456"
+    },
+    "vizbible": {
+      "lat": "30.97269",
+      "lon": "32.44456"
+    }
+  },
+  "key_references": [
+    "02014002",
+    "04033007",
+    "24044001"
+  ],
+  "references": [
+    "02014002",
+    "04033007",
+    "24044001",
+    "24046014",
+    "26029010",
+    "26030006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020140020111"
+      ],
+      [
+        "o040330070141"
+      ],
+      [
+        "o240440010132"
+      ],
+      [
+        "o240460140042"
+      ],
+      [
+        "o260290100132"
+      ],
+      [
+        "o260300060102"
+      ]
+    ]
+  }
+}

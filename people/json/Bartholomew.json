@@ -1,0 +1,106 @@
+{
+  "id": "person:Bartholomew",
+  "primary_id": "person:Bartholomew",
+  "alternate_sources": {
+    "aquifer": [
+      "4016|Bartholomew, the Apostle|TyndaleBibleDictionary",
+      "26366|Bartholomew|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.62"
+    ],
+    "tipnr": [
+      "Bartholomew@Mat.10.3-Act"
+    ],
+    "vizbible": [
+      "recb1JorKSXGAF6Vg"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Apostle",
+    "Church Leader"
+  ],
+  "ubsdgnt": [
+    "93.62"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bartholomew",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bartholomew",
+          "article": "person:Bartholomew",
+          "description": "One of the twelve apostles of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Βαρθολομαῖος"
+    ]
+  },
+  "key_references": [
+    "40010002",
+    "40010003",
+    "41003016",
+    "41003017",
+    "41003018",
+    "44001013"
+  ],
+  "references": [
+    "40010003",
+    "41003018",
+    "42006014",
+    "44001013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40010003003"
+      ],
+      [
+        "n41003018006"
+      ],
+      [
+        "n42006014018"
+      ],
+      [
+        "n44001013023"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40010002008"
+      ],
+      [
+        "n40010005001"
+      ],
+      [
+        "n44001014001"
+      ],
+      [
+        "n44001017005"
+      ],
+      [
+        "n44001021005"
+      ],
+      [
+        "n44001021015"
+      ],
+      [
+        "n44001022012"
+      ],
+      [
+        "n44001022018"
+      ]
+    ]
+  }
+}

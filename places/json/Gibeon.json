@@ -1,0 +1,347 @@
+{
+  "id": "place:Gibeon",
+  "primary_id": "place:Gibeon",
+  "alternate_sources": {
+    "aquifer": [
+      "5453|Gibeon, Gibeonites|TyndaleBibleDictionary",
+      "26637|Gibeon|UWTranslationWords"
+    ],
+    "obi": [
+      "aede336"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/687900",
+      "http://pleiades.stoa.org/places/687900"
+    ],
+    "tipnr": [
+      "Gibbar|Gibeon@Jos.9.3-Ezk",
+      "Bamah|Gibeon@Jos.9.3-Ezk",
+      "Geba|Gibeon@Jos.9.3-Ezk",
+      "Gibeon@Jos.9.3-Ezk"
+    ],
+    "vizbible": [
+      "recYsXWjhw6FUqHLY"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q889398"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gibeon",
+      "alternate_labels": [
+        "Wilderness of Gibeon",
+        "Gibeonite",
+        "Gibbar",
+        "Bamah",
+        "Gibeonites",
+        "Geba"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gibeon",
+          "gloss": "Gibeon",
+          "description": "A town in the territory of Benjamin; one of the four Hivite cities that made a covenant with Joshua (Joshua 9:17–18)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Gibeon",
+    "place:Geba.2",
+    "place:Gibbar",
+    "place:Bamah"
+  ],
+  "tribal_area": "group:Benjamin",
+  "associated_places": [
+    "place:Chephirah",
+    "place:Beeroth",
+    "place:Kiriath-jearim"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.84684773",
+      "lon": "35.18491238"
+    },
+    "recogito": {
+      "lat": "31.84668",
+      "lon": "35.1852"
+    },
+    "vizbible": {
+      "lat": "31.84668",
+      "lon": "35.1852"
+    }
+  },
+  "key_references": [
+    "11003004",
+    "13016039",
+    "11003005"
+  ],
+  "references": [
+    "06009003",
+    "06009017",
+    "06010001",
+    "06010002",
+    "06010004",
+    "06010005",
+    "06010006",
+    "06010007",
+    "06010010",
+    "06010012",
+    "06010041",
+    "06011019",
+    "06018025",
+    "06021017",
+    "10002012",
+    "10002013",
+    "10002016",
+    "10002024",
+    "10003030",
+    "10005025",
+    "10020008",
+    "10021001",
+    "10021002",
+    "10021003",
+    "10021004",
+    "10021009",
+    "11003004",
+    "11003005",
+    "11009002",
+    "13006045",
+    "13008029",
+    "13009035",
+    "13012004",
+    "13012005",
+    "13014016",
+    "13016039",
+    "13021029",
+    "14001003",
+    "14001005",
+    "14001013",
+    "15002020",
+    "16003007",
+    "16007025",
+    "23028021",
+    "24028001",
+    "24041012",
+    "24041016",
+    "26020029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060090030021"
+      ],
+      [
+        "o060090170101"
+      ],
+      [
+        "o060100010241"
+      ],
+      [
+        "o060100020061"
+      ],
+      [
+        "o060100040061"
+      ],
+      [
+        "o060100050211"
+      ],
+      [
+        "o060100060031"
+      ],
+      [
+        "o060100100082"
+      ],
+      [
+        "o060100120172"
+      ],
+      [
+        "o060100410121"
+      ],
+      [
+        "o060110190121"
+      ],
+      [
+        "o060180250011"
+      ],
+      [
+        "o060210170041"
+      ],
+      [
+        "o100020120111"
+      ],
+      [
+        "o100020130101"
+      ],
+      [
+        "o100020160162"
+      ],
+      [
+        "o100020240191"
+      ],
+      [
+        "o100030300122"
+      ],
+      [
+        "o100050250102"
+      ],
+      [
+        "o100200080062"
+      ],
+      [
+        "o100210010262"
+      ],
+      [
+        "o100210020032"
+      ],
+      [
+        "o100210020063"
+      ],
+      [
+        "o100210030042"
+      ],
+      [
+        "o100210040032"
+      ],
+      [
+        "o100210090032"
+      ],
+      [
+        "o110030040031"
+      ],
+      [
+        "o110030050012"
+      ],
+      [
+        "o110090020092"
+      ],
+      [
+        "o130080290013"
+      ],
+      [
+        "o130080290041"
+      ],
+      [
+        "o130090350013"
+      ],
+      [
+        "o130090350041"
+      ],
+      [
+        "o130120040022"
+      ],
+      [
+        "o130140160102"
+      ],
+      [
+        "o130160390112"
+      ],
+      [
+        "o130210290122"
+      ],
+      [
+        "o140010030082"
+      ],
+      [
+        "o140010130052"
+      ],
+      [
+        "o150020200021"
+      ],
+      [
+        "o160030070052"
+      ],
+      [
+        "o160030070091"
+      ],
+      [
+        "o160070250021"
+      ],
+      [
+        "o230280210072"
+      ],
+      [
+        "o240280010212"
+      ],
+      [
+        "o240410120172"
+      ],
+      [
+        "o240410160362"
+      ],
+      [
+        "o260200290042"
+      ],
+      [
+        "o260200290111"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060100020111"
+      ],
+      [
+        "o100210020101"
+      ],
+      [
+        "o100210040201"
+      ],
+      [
+        "o110030040071"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o060100040081"
+      ],
+      [
+        "o100210030102"
+      ],
+      [
+        "o100210040162"
+      ],
+      [
+        "o100210050012"
+      ],
+      [
+        "o100210050101"
+      ],
+      [
+        "o100210050112"
+      ],
+      [
+        "o100210060072"
+      ],
+      [
+        "o100210090042"
+      ]
+    ]
+  }
+}

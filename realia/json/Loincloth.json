@@ -1,0 +1,54 @@
+{
+  "id": "realia:Loincloth",
+  "primary_id": "realia:Loincloth",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000220001001000"
+    ],
+    "ubsrealia": [
+      "realia:6.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "000220001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Loincloth",
+      "alternate_labels": [
+        "Waistcloth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Loincloth",
+          "article": "realia:Loincloth",
+          "description": "A piece of cloth wrapped around the waist to cover the private parts, often worn by workers and those of low status."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵזֹור"
+    ]
+  },
+  "key_references": [
+    "01003007",
+    "18012018"
+  ],
+  "references": [
+    "18012018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180120180051"
+      ]
+    ]
+  }
+}

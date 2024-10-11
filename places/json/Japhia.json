@@ -1,0 +1,90 @@
+{
+  "id": "place:Japhia",
+  "primary_id": "place:Japhia",
+  "alternate_sources": {
+    "aquifer": [
+      "6216|Japhia (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ab15bb3"
+    ],
+    "ubsdbh": [
+      "003025001002000"
+    ],
+    "tipnr": [
+      "Japhia@Jos.19.12"
+    ],
+    "vizbible": [
+      "recLzkeoI6eyBaAIr"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q12408223"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003025001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Japhia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Japhia",
+          "gloss": "Japhia",
+          "description": "A town in the territory of Zebulun."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָפִיעַ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.691633",
+      "lon": "35.274955"
+    },
+    "vizbible": {
+      "lat": "32.691633",
+      "lon": "35.274955"
+    }
+  },
+  "key_references": [
+    "06019012"
+  ],
+  "references": [
+    "06019012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190120141"
+      ]
+    ]
+  }
+}

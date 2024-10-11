@@ -1,0 +1,134 @@
+{
+  "id": "person:Ner.2",
+  "primary_id": "person:Ner.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7369|Ner|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004918002001000"
+    ],
+    "tipnr": [
+      "Ner@1Sa.14.50-1Ch"
+    ],
+    "vizbible": [
+      "recrbHt1aIhDhOtMN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abiel.2",
+  "mother": "person:Maacah.6",
+  "offspring": [
+    "person:Abner"
+  ],
+  "siblings": [
+    "person:Kish",
+    "person:Abdon.3",
+    "person:Zur.3",
+    "person:Baal",
+    "person:Nadab.4",
+    "person:Gedor",
+    "person:Ahio.3",
+    "person:Zecher",
+    "person:Mikloth"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "004918002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ner",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ner",
+          "article": "person:Ner.2",
+          "description": "Father of King Saul's military commander Abner and uncle of King Saul."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נֵר"
+    ]
+  },
+  "key_references": [
+    "09014050",
+    "09014051",
+    "10002008"
+  ],
+  "references": [
+    "09014050",
+    "09014051",
+    "09026005",
+    "09026014",
+    "10002008",
+    "10002012",
+    "10003023",
+    "10003025",
+    "10003028",
+    "10003037",
+    "11002005",
+    "11002032",
+    "13009036",
+    "13026028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090140500121"
+      ],
+      [
+        "o090140510042"
+      ],
+      [
+        "o090260050201"
+      ],
+      [
+        "o090260140081"
+      ],
+      [
+        "o100020080031"
+      ],
+      [
+        "o100020120041"
+      ],
+      [
+        "o100030230131"
+      ],
+      [
+        "o100030250051"
+      ],
+      [
+        "o100030280161"
+      ],
+      [
+        "o100030370161"
+      ],
+      [
+        "o110020050191"
+      ],
+      [
+        "o110020320231"
+      ],
+      [
+        "o130090360072"
+      ],
+      [
+        "o130260280101"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130090380061"
+      ]
+    ]
+  }
+}

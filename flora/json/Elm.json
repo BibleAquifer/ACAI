@@ -1,0 +1,42 @@
+{
+  "id": "flora:Elm",
+  "primary_id": "flora:Elm",
+  "alternate_sources": {
+    "aquifer": [
+      "5038|Elm|TyndaleBibleDictionary"
+    ],
+    "ubsflora": [
+      "flora:1.8"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elm",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elm",
+          "article": "flora:Elm",
+          "description": "A tall tree with rough bark and serrated leaves, known for its strong wood and often planted along streets for shade."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "23044014"
+  ],
+  "references": [
+    "23044014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230440140132"
+      ]
+    ]
+  }
+}

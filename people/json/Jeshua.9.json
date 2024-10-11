@@ -1,0 +1,165 @@
+{
+  "id": "person:Jeshua.9",
+  "primary_id": "person:Joshua.5",
+  "alternate_sources": {
+    "aquifer": [
+      "6344|Jeshua (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003151001005000"
+    ],
+    "tipnr": [
+      "Jeshua|Joshua@Ezr.2.2-Zec"
+    ],
+    "vizbible": [
+      "recOoGi8gNVJEpNqY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehozadak",
+  "offspring": [
+    "person:Joiakim"
+  ],
+  "roles": [
+    "High Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "003151001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeshua (Joshua)",
+      "alternate_labels": [
+        "Joshua"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joshua",
+          "article": "person:Jeshua.9",
+          "description": "A son of Jehozadak and high priest from the tribe of Levi, who lived after the Israelite return from exile."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Joshua.5"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֵשׁוּעַ"
+    ]
+  },
+  "key_references": [
+    "15002002",
+    "15003002",
+    "15010018",
+    "37001001"
+  ],
+  "references": [
+    "15002002",
+    "15003002",
+    "15003008",
+    "15004003",
+    "15005002",
+    "16007007",
+    "16012001",
+    "16012007",
+    "16012010",
+    "16012026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020020051"
+      ],
+      [
+        "o150030020021"
+      ],
+      [
+        "o150030080142"
+      ],
+      [
+        "o150040030042"
+      ],
+      [
+        "o150050020062"
+      ],
+      [
+        "o160070070041"
+      ],
+      [
+        "o160120010102"
+      ],
+      [
+        "o160120070101"
+      ],
+      [
+        "o160120100012"
+      ],
+      [
+        "o160120260051"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o150040030161"
+      ],
+      [
+        "o150050040061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o150030020112"
+      ],
+      [
+        "o150030020162"
+      ],
+      [
+        "o150030030012"
+      ],
+      [
+        "o150030030112"
+      ],
+      [
+        "o150030040012"
+      ],
+      [
+        "o150030060051"
+      ],
+      [
+        "o150030060062"
+      ],
+      [
+        "o150030070012"
+      ],
+      [
+        "o150030080252"
+      ],
+      [
+        "o150050020092"
+      ],
+      [
+        "o150050020102"
+      ],
+      [
+        "o150050030212"
+      ],
+      [
+        "o150050030242"
+      ],
+      [
+        "o150050040031"
+      ]
+    ]
+  }
+}

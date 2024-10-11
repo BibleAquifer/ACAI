@@ -1,0 +1,112 @@
+{
+  "id": "place:Zered",
+  "primary_id": "place:Zered",
+  "alternate_sources": {
+    "obi": [
+      "ab5161f"
+    ],
+    "ubsdbh": [
+      "002045001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/697766",
+      "http://pleiades.stoa.org/places/697766"
+    ],
+    "tipnr": [
+      "Zered@Num.21.12-Deu"
+    ],
+    "vizbible": [
+      "rec0SjrDrVPzEPdRu"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2451612"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002045001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Zered",
+      "alternate_labels": [
+        "Valley of the Zered",
+        "Wadi Zered",
+        "Zered Valley",
+        "Zered Brook",
+        "Zered"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfZered",
+          "gloss": "Valley of Zered",
+          "description": "A valley of the wadi of the same name, located south of Moab; crossed by the Israelites, ending their 40 years of sojourn in the wilderness."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "זֶרֶד",
+      "זֶ֫רֶד"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.884128",
+      "lon": "35.897633"
+    },
+    "recogito": {
+      "lat": "30.75",
+      "lon": "35.75"
+    },
+    "vizbible": {
+      "lat": "30.884128",
+      "lon": "35.897633"
+    }
+  },
+  "key_references": [
+    "04021012",
+    "05002014",
+    "05002013"
+  ],
+  "references": [
+    "04021012",
+    "05002013",
+    "05002014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210120051"
+      ],
+      [
+        "o050020130071"
+      ],
+      [
+        "o050020130111"
+      ],
+      [
+        "o050020140111"
+      ]
+    ]
+  }
+}

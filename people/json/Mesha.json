@@ -1,0 +1,69 @@
+{
+  "id": "person:Mesha",
+  "primary_id": "person:Mesha",
+  "alternate_sources": {
+    "aquifer": [
+      "7078|Mesha (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003958001001000"
+    ],
+    "tipnr": [
+      "Mesha@1Ch.8.9"
+    ],
+    "vizbible": [
+      "recbyr2MPABm8v3Fa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shaharaim",
+  "mother": "person:Hodesh",
+  "siblings": [
+    "person:Jobab.4",
+    "person:Zibia",
+    "person:Malcam",
+    "person:Jeuz",
+    "person:Sachia",
+    "person:Mirmah",
+    "person:Abitub",
+    "person:Elpaal"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "003958001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mesha",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mesha",
+          "article": "person:Mesha",
+          "description": "A man of the tribe of Benjamin, son of Shaharaim and Hodesh, mentioned in 1 Chronicles 8:9."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מֵישָׁא"
+    ]
+  },
+  "key_references": [
+    "13008009"
+  ],
+  "references": [
+    "13008009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080090101"
+      ]
+    ]
+  }
+}

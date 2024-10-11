@@ -1,0 +1,79 @@
+{
+  "id": "person:Ben-hadad.3",
+  "primary_id": "person:Ben-hadad.3",
+  "alternate_sources": {
+    "aquifer": [
+      "4105|Ben-Hadad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001044001001000"
+    ],
+    "tipnr": [
+      "Ben-hadad@2Ki.13.3-Amo"
+    ],
+    "vizbible": [
+      "rec5IGTYdWQnHNbrX"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hazael",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Syria",
+  "ubsdbh": [
+    "001044001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ben-hadad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ben-Hadad",
+          "article": "person:Ben-hadad.3",
+          "description": "King of Syria, a son of Hazael, during the time of Israel’s divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּן־הֲדַד"
+    ]
+  },
+  "key_references": [
+    "12013003",
+    "12013024",
+    "12013025"
+  ],
+  "references": [
+    "12013003",
+    "12013024",
+    "12013025",
+    "30001004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120130030111",
+        "o120130030121"
+      ],
+      [
+        "o120130240061",
+        "o120130240071"
+      ],
+      [
+        "o120130250091",
+        "o120130250101"
+      ],
+      [
+        "o300010040071",
+        "o300010040081"
+      ]
+    ]
+  }
+}

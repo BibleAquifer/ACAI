@@ -1,0 +1,102 @@
+{
+  "id": "place:Horesh",
+  "primary_id": "place:Horesh",
+  "alternate_sources": {
+    "aquifer": [
+      "5901|Horesh|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a23db8d"
+    ],
+    "ubsdbh": [
+      "002572001001000"
+    ],
+    "tipnr": [
+      "Horesh@1Sa.23.15-"
+    ],
+    "vizbible": [
+      "rec0clRmthQIjvUHR"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002572001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Horesh",
+      "alternate_labels": [
+        "a wood"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Horesh",
+          "gloss": "Horesh",
+          "description": "A location on the hill of Hachilah in the wilderness of Ziph, in the territory of Judah; one of the places where David hid from Saul."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Hachilah",
+    "place:TerritoryOfJudah",
+    "place:Ziph"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֹרְשָׁה",
+      "חֹ֫רֶשׁ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "natural area",
+      "special"
+    ],
+    "acai": [
+      "natural area"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.45113921",
+      "lon": "35.08840337"
+    },
+    "vizbible": {
+      "lat": "31.45113921",
+      "lon": "35.08840337"
+    }
+  },
+  "key_references": [
+    "09023015"
+  ],
+  "references": [
+    "09023015",
+    "09023016",
+    "09023018",
+    "09023019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090230150122"
+      ],
+      [
+        "o090230160081"
+      ],
+      [
+        "o090230180082"
+      ],
+      [
+        "o090230190122"
+      ]
+    ]
+  }
+}

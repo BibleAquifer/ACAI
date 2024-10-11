@@ -1,0 +1,131 @@
+{
+  "id": "realia:Helmet",
+  "primary_id": "realia:Helmet",
+  "alternate_sources": {
+    "aquifer": [
+      "5790|Helmet|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.38"
+    ],
+    "ubsdbh": [
+      "003256001001000",
+      "004195001002000",
+      "006406001001000"
+    ],
+    "ubsrealia": [
+      "realia:2.9"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.38"
+  ],
+  "ubsdbh": [
+    "003256001001000",
+    "004195001002000",
+    "006406001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Helmet",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Helmet",
+          "article": "realia:Helmet",
+          "description": "A metal covering for the head used by soldiers for protection in battle."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כֹּובַע",
+      "מָעֹוז",
+      "קֹובַע"
+    ],
+    "el": [
+      "περικεφαλαία"
+    ]
+  },
+  "key_references": [
+    "09017005",
+    "23059017",
+    "49006017"
+  ],
+  "references": [
+    "09017005",
+    "09017038",
+    "14026014",
+    "19060009",
+    "19108009",
+    "23059017",
+    "24046004",
+    "26023024",
+    "26027010",
+    "26038005",
+    "49006017",
+    "52005008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090170050012"
+      ],
+      [
+        "o140260140082"
+      ],
+      [
+        "o230590170042"
+      ],
+      [
+        "o240460040062"
+      ],
+      [
+        "o260270100092"
+      ],
+      [
+        "o260380050072"
+      ],
+      [
+        "o190600090061"
+      ],
+      [
+        "o191080090061"
+      ],
+      [
+        "o090170380071"
+      ],
+      [
+        "o260230240102"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n49006017003"
+      ],
+      [
+        "n52005008012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090170390192"
+      ],
+      [
+        "o090170390233"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n49006017012"
+      ]
+    ]
+  }
+}

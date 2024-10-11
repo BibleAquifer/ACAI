@@ -1,0 +1,159 @@
+{
+  "id": "person:Zalmunna",
+  "primary_id": "person:Zalmunna",
+  "alternate_sources": {
+    "aquifer": [
+      "9133|Zalmunna|TyndaleBibleDictionary",
+      "9154|Zebah and Zalmunna|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006213001001000"
+    ],
+    "tipnr": [
+      "Zalmunna@Jdg.8.5-Psa"
+    ],
+    "vizbible": [
+      "rechXwK5tLNyMXgrM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King",
+    "Warrior"
+  ],
+  "ubsdbh": [
+    "006213001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zalmunna",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zalmunna",
+          "article": "person:Zalmunna",
+          "description": "A king of Midian during the time of the judges of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07008005",
+    "07008010",
+    "19083012"
+  ],
+  "references": [
+    "07008005",
+    "07008006",
+    "07008007",
+    "07008010",
+    "07008012",
+    "07008015",
+    "07008018",
+    "07008021",
+    "19083012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070080050182"
+      ],
+      [
+        "o070080060062"
+      ],
+      [
+        "o070080070091"
+      ],
+      [
+        "o070080100022"
+      ],
+      [
+        "o070080120032"
+      ],
+      [
+        "o070080120141"
+      ],
+      [
+        "o070080150082"
+      ],
+      [
+        "o070080150152"
+      ],
+      [
+        "o070080180051"
+      ],
+      [
+        "o070080210032"
+      ],
+      [
+        "o070080210171"
+      ],
+      [
+        "o190830120063"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070080180091"
+      ],
+      [
+        "o070080180112"
+      ],
+      [
+        "o070080190091"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070080180121",
+          "o070080180122",
+          "o070080180131",
+          "o070080180132",
+          "o070080180141",
+          "o070080180151",
+          "o070080180152",
+          "o070080180161",
+          "o070080180171",
+          "o070080180172"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070080210041",
+          "o070080210051",
+          "o070080210061",
+          "o070080210062",
+          "o070080210071",
+          "o070080210072",
+          "o070080210081",
+          "o070080210091",
+          "o070080210091ה",
+          "o070080210092",
+          "o070080210101",
+          "o070080210102"
+        ]
+      },
+      {
+        "quote_type": "Quotation",
+        "words": [
+          "o190830130031",
+          "o190830130041",
+          "o190830130042",
+          "o190830130051",
+          "o190830130061",
+          "o190830130071"
+        ]
+      }
+    ]
+  }
+}

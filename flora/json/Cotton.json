@@ -1,0 +1,61 @@
+{
+  "id": "flora:Cotton",
+  "primary_id": "flora:Cotton",
+  "alternate_sources": {
+    "aquifer": [
+      "4666|Cotton|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003445001001000"
+    ],
+    "ubsflora": [
+      "flora:5.1.6"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Plants for Everyday Use",
+  "ubsdbh": [
+    "003445001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cotton",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cotton",
+          "article": "flora:Cotton",
+          "description": "A plant that grows up to 2 meters tall, with yellow flowers and white fluffy seed capsules that are used to make cloth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כַּרְפַּס"
+    ]
+  },
+  "key_references": [
+    "17001006",
+    "23019009"
+  ],
+  "references": [
+    "17001006",
+    "23019009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170010060021"
+      ],
+      [
+        "o230190090061"
+      ],
+      [
+        "o170010060011"
+      ]
+    ]
+  }
+}

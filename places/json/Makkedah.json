@@ -1,0 +1,114 @@
+{
+  "id": "place:Makkedah",
+  "primary_id": "place:Makkedah",
+  "alternate_sources": {
+    "aquifer": [
+      "6888|Makkedah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "abf8e4e"
+    ],
+    "ubsdbh": [
+      "004318001001000"
+    ],
+    "tipnr": [
+      "Makkedah@Jos.10.10-"
+    ],
+    "vizbible": [
+      "recnWs5lsA8gKULU4"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004318001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Makkedah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Makkedah",
+          "gloss": "Makkedah",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.935117",
+      "lon": "34.781326"
+    },
+    "vizbible": {
+      "lat": "31.935117",
+      "lon": "34.781326"
+    }
+  },
+  "key_references": [
+    "06010016",
+    "06010010"
+  ],
+  "references": [
+    "06010010",
+    "06010016",
+    "06010017",
+    "06010021",
+    "06010028",
+    "06010029",
+    "06012016",
+    "06015041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100100181"
+      ],
+      [
+        "o060100160072"
+      ],
+      [
+        "o060100170092"
+      ],
+      [
+        "o060100210081"
+      ],
+      [
+        "o060100280021"
+      ],
+      [
+        "o060100280241"
+      ],
+      [
+        "o060100290062"
+      ],
+      [
+        "o060120160021"
+      ],
+      [
+        "o060150410052"
+      ]
+    ]
+  }
+}

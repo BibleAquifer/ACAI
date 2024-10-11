@@ -1,0 +1,67 @@
+{
+  "id": "person:Ishhod",
+  "primary_id": "person:Ishhod",
+  "alternate_sources": {
+    "aquifer": [
+      "6067|Ishhod|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000357001001000"
+    ],
+    "tipnr": [
+      "Ishhod@1Ch.7.18"
+    ],
+    "vizbible": [
+      "recHJwsAfBgpoAOq5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:HusbandOfHammolecheth",
+  "mother": "person:Hammolecheth",
+  "siblings": [
+    "person:Abiezer.3",
+    "person:Mahlah.2"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "000357001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ishhod",
+      "alternate_labels": [
+        "Ishod"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ishhod",
+          "article": "person:Ishhod",
+          "description": "A man from the tribe of Manasseh living during the time of the divided kingdom, son of Hammolecheth, mentioned in 1 Chronicles 7:18."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אִישְׁהֹוד",
+      "אִישְׁהוֹד"
+    ]
+  },
+  "key_references": [
+    "13007018"
+  ],
+  "references": [
+    "13007018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070180051"
+      ]
+    ]
+  }
+}

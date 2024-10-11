@@ -1,0 +1,104 @@
+{
+  "id": "person:Shemaiah.25",
+  "primary_id": "person:Shemaiah.25",
+  "alternate_sources": {
+    "aquifer": [
+      "8345|Shemaiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007487001006000",
+      "007486001012000"
+    ],
+    "tipnr": [
+      "Shemaiah@Jer.29.24-"
+    ],
+    "vizbible": [
+      "rec16njDABlwwXHGR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Prophet"
+  ],
+  "ubsdbh": [
+    "007487001006000",
+    "007486001012000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shemaiah (Jeremiah 29:24)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shemaiah (Jeremiah 29:24)",
+          "article": "person:Shemaiah.25",
+          "description": "A false prophet living during the time of Jeremiah the prophet."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24029024",
+    "24029031",
+    "24029032"
+  ],
+  "references": [
+    "24029024",
+    "24029031",
+    "24029032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240290240021"
+      ],
+      [
+        "o240290310101"
+      ],
+      [
+        "o240290310161"
+      ],
+      [
+        "o240290320081"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o240290250101"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240290250272"
+      ],
+      [
+        "o240290280101"
+      ],
+      [
+        "o240290280122"
+      ],
+      [
+        "o240290280132"
+      ],
+      [
+        "o240290280152"
+      ],
+      [
+        "o240290310202"
+      ],
+      [
+        "o240290320211"
+      ],
+      [
+        "o240290320311"
+      ]
+    ]
+  }
+}

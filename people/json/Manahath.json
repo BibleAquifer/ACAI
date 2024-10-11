@@ -1,0 +1,70 @@
+{
+  "id": "person:Manahath",
+  "primary_id": "person:Manahath",
+  "alternate_sources": {
+    "aquifer": [
+      "6914|Manahath (Person)|TyndaleBibleDictionary",
+      "6915|Manahath (Place), Manahathite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Manahath@Gen.36.23-1Ch"
+    ],
+    "vizbible": [
+      "recFgNCiF51FxNarU"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shobal",
+  "siblings": [
+    "person:Alvan",
+    "person:Ebal",
+    "person:Shepho",
+    "person:Onam"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Manahath",
+      "alternate_labels": [
+        "Manahathite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Manahath",
+          "article": "person:Manahath",
+          "description": "A man from the time of the patriarchs, the son of Shobal and brother of Alvan, Ebal, Shepho, and Onam, mentioned in Genesis 36:23."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Manahath"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036023",
+    "13001040",
+    "13002054"
+  ],
+  "references": [
+    "01036023",
+    "13001040",
+    "13002054"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360230052"
+      ],
+      [
+        "o130010400042"
+      ],
+      [
+        "o130020540102"
+      ]
+    ]
+  }
+}

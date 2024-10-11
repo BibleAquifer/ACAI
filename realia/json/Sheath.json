@@ -1,0 +1,109 @@
+{
+  "id": "realia:Sheath",
+  "primary_id": "realia:Sheath",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.119"
+    ],
+    "ubsdbh": [
+      "004660001001000",
+      "007886001002000"
+    ],
+    "ubsrealia": [
+      "realia:2.3.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.119"
+  ],
+  "ubsdbh": [
+    "004660001001000",
+    "007886001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheath",
+      "alternate_labels": [
+        "Scabbard"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sheath",
+          "article": "realia:Sheath",
+          "description": "A case for carrying a sword, often attached to a belt or strap."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נָדָן",
+      "תַּעַר"
+    ],
+    "el": [
+      "θήκη"
+    ]
+  },
+  "key_references": [
+    "09017051",
+    "26021008",
+    "43018011"
+  ],
+  "references": [
+    "09017051",
+    "10020008",
+    "13021027",
+    "24047006",
+    "26021008",
+    "26021009",
+    "26021010",
+    "26021035",
+    "43018011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130210270071",
+        "o130210270072"
+      ],
+      [
+        "o090170510102",
+        "o090170510103"
+      ],
+      [
+        "o100200080212",
+        "o100200080213"
+      ],
+      [
+        "o240470060101",
+        "o240470060102"
+      ],
+      [
+        "o260210080112",
+        "o260210080113"
+      ],
+      [
+        "o260210090102",
+        "o260210090103"
+      ],
+      [
+        "o260210100092",
+        "o260210100093"
+      ],
+      [
+        "o260210350031",
+        "o260210350032"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43018011012"
+      ]
+    ]
+  }
+}

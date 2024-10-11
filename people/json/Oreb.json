@@ -1,0 +1,78 @@
+{
+  "id": "person:Oreb",
+  "primary_id": "person:Oreb",
+  "alternate_sources": {
+    "aquifer": [
+      "7514|Oreb|TyndaleBibleDictionary",
+      "7513|Oreb, Rock of|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005312002001000"
+    ],
+    "tipnr": [
+      "Oreb@Jdg.7.25-Isa"
+    ],
+    "vizbible": [
+      "rec7dVcBSYkiLTKfA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Warrior"
+  ],
+  "ubsdbh": [
+    "005312002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Oreb",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Oreb",
+          "article": "person:Oreb",
+          "description": "A prince of Midian killed by the judge Gideon."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07007025",
+    "07008003",
+    "23010026"
+  ],
+  "references": [
+    "07007025",
+    "07008003",
+    "19083012",
+    "23010026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070070250061"
+      ],
+      [
+        "o070070250111"
+      ],
+      [
+        "o070070250131"
+      ],
+      [
+        "o070070250231"
+      ],
+      [
+        "o070080030081"
+      ],
+      [
+        "o190830120032"
+      ],
+      [
+        "o230100260091"
+      ]
+    ]
+  }
+}

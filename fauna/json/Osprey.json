@@ -1,0 +1,58 @@
+{
+  "id": "fauna:Osprey",
+  "primary_id": "fauna:Osprey",
+  "alternate_sources": {
+    "aquifer": [
+      "7526|Ospray, Osprey|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007405001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.15"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "007405001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Osprey",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Osprey",
+          "article": "fauna:Osprey",
+          "description": "An uncertain eagle-like bird with a white head and belly, brown wings, and it feeds on fish; it is considered ceremonially unclean in the Bible."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שָׁלָךְ"
+    ]
+  },
+  "key_references": [
+    "03011017",
+    "05014017"
+  ],
+  "references": [
+    "03011017",
+    "05014017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110170042"
+      ],
+      [
+        "o050140170052"
+      ]
+    ]
+  }
+}

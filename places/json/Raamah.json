@@ -1,0 +1,78 @@
+{
+  "id": "place:Raamah",
+  "primary_id": "place:Raamah",
+  "alternate_sources": {
+    "aquifer": [
+      "7889|Raama, Raamah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a57bb2e"
+    ],
+    "tipnr": [
+      "Raamah@Ezk.27.22"
+    ],
+    "vizbible": [
+      "rec67PFdQYZru7Px1"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3085764"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Raamah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Raamah",
+          "gloss": "Raamah",
+          "description": "A location in Arabia; named after Raamah, son of Cush."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Arabia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "15.68",
+      "lon": "42.78"
+    },
+    "vizbible": {
+      "lat": "15.68",
+      "lon": "42.78"
+    }
+  },
+  "key_references": [
+    "26027022"
+  ],
+  "references": [
+    "26027022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270220032"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "place:Leb-kamai",
+  "primary_id": "place:Leb-kamai",
+  "alternate_sources": {
+    "obi": [
+      "a9de8b7"
+    ],
+    "ubsdbh": [
+      "003495001006000"
+    ],
+    "tipnr": [
+      "Leb-kamai@Jer.51.1"
+    ],
+    "vizbible": [
+      "recS2NX6AGlBLfoPz"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003495001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Leb-kamai",
+      "alternate_labels": [
+        "Leb-qamai",
+        "in the midst",
+        "Babylonia"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Leb-kamai",
+          "gloss": "Leb-Kamai",
+          "description": "A cryptic name for Chaldea, a region in southern Babylonia."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Chaldea",
+    "place:Babylonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.9620520474569",
+      "lon": "46.10374195774169"
+    },
+    "vizbible": {
+      "lat": "30.9620520474569",
+      "lon": "46.10374195774169"
+    }
+  },
+  "key_references": [
+    "24051001"
+  ],
+  "references": [
+    "24051001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240510010101",
+        "o240510010111"
+      ]
+    ]
+  }
+}

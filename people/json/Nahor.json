@@ -1,0 +1,96 @@
+{
+  "id": "person:Nahor",
+  "primary_id": "person:Nahor",
+  "alternate_sources": {
+    "aquifer": [
+      "7290|Nahor (Person)|TyndaleBibleDictionary",
+      "26898|Nahor|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Nahor@Gen.11.22-Luk"
+    ],
+    "vizbible": [
+      "recyVuQvM4Ue7gOd4"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Serug",
+  "offspring": [
+    "person:Terah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nahor",
+      "alternate_labels": [
+        "Nachor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nahor",
+          "article": "person:Nahor",
+          "description": "A son of Serug, father of Terah, and the patriarch Abraham's grandfather. He is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01011023",
+    "06024002",
+    "42003034"
+  ],
+  "references": [
+    "01011022",
+    "01011023",
+    "01011024",
+    "01011025",
+    "06024002",
+    "13001026",
+    "42003034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010110220071"
+      ],
+      [
+        "o010110230061"
+      ],
+      [
+        "o010110240021"
+      ],
+      [
+        "o010110250021"
+      ],
+      [
+        "o060240020201"
+      ],
+      [
+        "o130010260021"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003034010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010110240062"
+      ],
+      [
+        "o010110250122"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "person:Huppim",
+  "primary_id": "person:Huppim",
+  "alternate_sources": {
+    "aquifer": [
+      "5948|Huppim|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hupham|Huppim@Gen.46.21-1Ch",
+      "Huram|Huppim@Gen.46.21-1Ch",
+      "Huppim@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "recSbOw5CvOehBRoG"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Rosh",
+    "person:Muppim",
+    "person:Ard",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Huppim",
+      "alternate_labels": [
+        "Huphamite",
+        "Huram",
+        "Hupham"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Huppim",
+          "article": "person:Huppim",
+          "description": "A son of the patriarch Benjamin who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites"
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hupham",
+    "person:Huram.3",
+    "group:Huppim"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046021",
+    "04026039",
+    "13008005"
+  ],
+  "references": [
+    "01046021",
+    "04026039",
+    "13008005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460210112"
+      ],
+      [
+        "o040260390042"
+      ],
+      [
+        "o040260390062"
+      ],
+      [
+        "o130080050032"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "person:Hiel",
+  "primary_id": "person:Hiel",
+  "alternate_sources": {
+    "aquifer": [
+      "5842|Hiel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002230001001000"
+    ],
+    "tipnr": [
+      "Hiel@1Ki.16.34"
+    ],
+    "vizbible": [
+      "recdXm0pquyKtBnhW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Abiram.2",
+    "person:Segub"
+  ],
+  "ubsdbh": [
+    "002230001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hiel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hiel",
+          "article": "person:Hiel",
+          "description": "Hiel was a man from Bethel who rebuilt Jericho during the time of the divided kingdom, mentioned in 1 Kings 16:34; father of Abiram and Segub."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חִיאֵל"
+    ]
+  },
+  "key_references": [
+    "11016034"
+  ],
+  "references": [
+    "11016034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110160340031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110160340101"
+      ],
+      [
+        "o110160340141"
+      ]
+    ]
+  }
+}

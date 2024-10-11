@@ -1,0 +1,90 @@
+{
+  "id": "place:Dura",
+  "primary_id": "place:Dura",
+  "alternate_sources": {
+    "aquifer": [
+      "4907|Dura, Plain of|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001614001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/893989"
+    ],
+    "tipnr": [
+      "Dura@Dan.3.1"
+    ],
+    "vizbible": [
+      "reccmD6Mj9n4h197g"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001614001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dura",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dura",
+          "gloss": "Dura",
+          "description": "A plain in Babylon where Nebuchadnezzar set up a large, golden image (Dan 3:1)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "arc": [
+      "דּוּרָא"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "natural area",
+      "district in settlement",
+      "settlement"
+    ],
+    "acai": [
+      "plain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.53650368616845",
+      "lon": "44.42088287373876"
+    },
+    "recogito": {
+      "lat": "34.459007",
+      "lon": "43.795251"
+    },
+    "vizbible": {
+      "lat": "32.53650368616845",
+      "lon": "44.42088287373876"
+    },
+    "biblica-maps": {
+      "lat": "34.74763",
+      "lon": "40.72745"
+    }
+  },
+  "key_references": [
+    "27003001"
+  ],
+  "references": [
+    "27003001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o270030010151"
+      ]
+    ]
+  }
+}

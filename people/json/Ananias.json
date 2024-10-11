@@ -1,0 +1,122 @@
+{
+  "id": "person:Ananias",
+  "primary_id": "person:Ananias",
+  "alternate_sources": {
+    "aquifer": [
+      "3593|Ananias|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.24a"
+    ],
+    "tipnr": [
+      "Ananias@Act.5.1-"
+    ],
+    "vizbible": [
+      "reciQ6JZbbGyzAk2N"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Sapphira"
+  ],
+  "ubsdgnt": [
+    "93.24a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ananias",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ananias",
+          "article": "person:Ananias",
+          "description": "A man living at the time of the New Testament, married to Sapphira, first mentioned in Acts 5:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἁνανίας"
+    ]
+  },
+  "key_references": [
+    "44005001",
+    "44005003",
+    "44005005"
+  ],
+  "references": [
+    "44005001",
+    "44005003",
+    "44005005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44005001004"
+      ],
+      [
+        "n44005003005"
+      ],
+      [
+        "n44005005004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44005003013"
+      ],
+      [
+        "n44005003015"
+      ],
+      [
+        "n44005004003"
+      ],
+      [
+        "n44005004009"
+      ],
+      [
+        "n44005004018"
+      ],
+      [
+        "n44005006006"
+      ],
+      [
+        "n44005007010"
+      ],
+      [
+        "n44005009009"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44005003021"
+      ],
+      [
+        "n44005004014"
+      ],
+      [
+        "n44005004023"
+      ],
+      [
+        "n44005005001"
+      ],
+      [
+        "n44005005008"
+      ],
+      [
+        "n44005008012"
+      ],
+      [
+        "n44005009010"
+      ]
+    ]
+  }
+}

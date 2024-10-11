@@ -1,0 +1,55 @@
+{
+  "id": "fauna:Mongoose",
+  "primary_id": "fauna:Mongoose",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002277001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.26"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "002277001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mongoose",
+      "alternate_labels": [
+        "Polecat",
+        "Weasel",
+        "Marbled Polecat"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mongoose",
+          "article": "fauna:Mongoose",
+          "description": "A small, agile, meat-eating animal that was considered ceremonially unclean to eat."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֹלֶד"
+    ]
+  },
+  "key_references": [
+    "03011029"
+  ],
+  "references": [
+    "03011029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110290082"
+      ]
+    ]
+  }
+}

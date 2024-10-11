@@ -1,0 +1,68 @@
+{
+  "id": "person:Anthothijah",
+  "primary_id": "person:Anthothijah",
+  "alternate_sources": {
+    "aquifer": [
+      "3628|Anthothijah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005573001001000"
+    ],
+    "tipnr": [
+      "Anthothijah@1Ch.8.24"
+    ],
+    "vizbible": [
+      "recdfqIES5iiiaLel"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shashak",
+  "siblings": [
+    "person:Ishpan",
+    "person:Eber.4",
+    "person:Eliel.3",
+    "person:Abdon.2",
+    "person:Zichri.3",
+    "person:Hanan",
+    "person:Hananiah.2",
+    "person:Elam.3",
+    "person:Iphdeiah",
+    "person:Penuel.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005573001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anthothijah",
+      "alternate_labels": [
+        "Antothijah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anthothijah",
+          "article": "person:Anthothijah",
+          "description": "A man from the tribe of Benjamin during the time of the divided kingdom, mentioned in 1 Chronicles 8:24 as the son of Shashak."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008024"
+  ],
+  "references": [
+    "13008024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080240032"
+      ]
+    ]
+  }
+}

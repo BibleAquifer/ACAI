@@ -1,0 +1,50 @@
+{
+  "id": "realia:Compass",
+  "primary_id": "realia:Compass",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003862001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.12.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003862001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Compass",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Compass",
+          "article": "realia:Compass",
+          "description": "A tool used for drawing circles and making measurements."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְחוּגָה"
+    ]
+  },
+  "key_references": [
+    "23044013"
+  ],
+  "references": [
+    "23044013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230440130093"
+      ]
+    ]
+  }
+}

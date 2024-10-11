@@ -1,0 +1,99 @@
+{
+  "id": "place:Tappuah",
+  "primary_id": "place:Tappuah",
+  "alternate_sources": {
+    "aquifer": [
+      "8737|Tappuah (Place)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "En-tappuah|Tappuah@Jos.12.17-",
+      "Tappuah@Jos.12.17-"
+    ],
+    "vizbible": [
+      "recBlqCdGXa2kE8T6"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tappuah (of Ephraim)",
+      "alternate_labels": [
+        "En-Tappuah",
+        "Tappuah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tappuah.1",
+          "gloss": "Tappuah (of Ephraim)",
+          "description": "A town in the territory of Ephraim on the border of the territory of Manasseh."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:En-tappuah"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.11666667",
+      "lon": "35.23333333"
+    },
+    "vizbible": {
+      "lat": "32.11666667",
+      "lon": "35.23333333"
+    }
+  },
+  "key_references": [
+    "06017008",
+    "06016008",
+    "06012017"
+  ],
+  "references": [
+    "06012017",
+    "06016008",
+    "06017007",
+    "06017008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120170021"
+      ],
+      [
+        "o060160080012"
+      ],
+      [
+        "o060170070161",
+        "o060170070171"
+      ],
+      [
+        "o060170080041"
+      ],
+      [
+        "o060170080052"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "place:Me-jarkon",
+  "primary_id": "place:Me-jarkon",
+  "alternate_sources": {
+    "aquifer": [
+      "7024|Me-Jarkon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003939001001000 003953001004000",
+      "003939001001000 003939001001000"
+    ],
+    "tipnr": [
+      "Me-jarkon@Jos.19.46"
+    ],
+    "vizbible": [
+      "rec0wrua442IGGgtN"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003939001001000 003953001004000",
+    "003939001001000 003939001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Me-jarkon",
+      "alternate_labels": [
+        "waters of Jarkon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Me-jarkon",
+          "gloss": "Me-Jarkon",
+          "description": "A stream in the territory of Dan, near Joppa."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Dan",
+  "nearby_places": [
+    "place:Joppa"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מֵי הַיַּרְקֹון",
+      "מֵי הַיַּרְקוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river",
+      "settlement"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.132898",
+      "lon": "34.788144"
+    },
+    "vizbible": {
+      "lat": "32.132898",
+      "lon": "34.788144"
+    }
+  },
+  "key_references": [
+    "06019046"
+  ],
+  "references": [
+    "06019046"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190460012",
+        "o060190460021"
+      ]
+    ]
+  }
+}

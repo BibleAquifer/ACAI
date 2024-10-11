@@ -1,0 +1,38 @@
+{
+  "id": "place:Etam.4",
+  "primary_id": "place:Etam.4",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Etam.4",
+          "gloss": "Rock of Etam",
+          "description": "A location with a cave where Samson stayed after striking down the Philistines (Judges 15:8)."
+        }
+      ],
+      "preferred_label": "Rock of Etam",
+      "alternate_labels": [
+        "Etam"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "settlement"
+    ]
+  },
+  "key_references": [
+    "06015052"
+  ]
+}

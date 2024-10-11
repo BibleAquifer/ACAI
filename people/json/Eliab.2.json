@@ -1,0 +1,85 @@
+{
+  "id": "person:Eliab.2",
+  "primary_id": "person:Eliab.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4991|Eliab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000409001002000"
+    ],
+    "tipnr": [
+      "Eliab@Num.16.1-Deu"
+    ],
+    "vizbible": [
+      "recr8Qrl4yVCFfjvU"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Pallu",
+  "offspring": [
+    "person:Dathan",
+    "person:Abiram",
+    "person:Nemuel.2"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Reuben",
+  "ubsdbh": [
+    "000409001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliab",
+          "article": "person:Eliab.2",
+          "description": "Son of Pallu from the tribe of Reuben who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites He was the father of Dathan and Abiram."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיאָב"
+    ]
+  },
+  "key_references": [
+    "04016001",
+    "04016012",
+    "04026008",
+    "05011006"
+  ],
+  "references": [
+    "04016001",
+    "04016012",
+    "04026008",
+    "04026009",
+    "05011006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040160010121"
+      ],
+      [
+        "o040160120071"
+      ],
+      [
+        "o040260080031"
+      ],
+      [
+        "o040260090021"
+      ],
+      [
+        "o050110060061"
+      ]
+    ]
+  }
+}

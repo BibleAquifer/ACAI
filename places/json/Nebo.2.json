@@ -1,0 +1,97 @@
+{
+  "id": "place:Nebo.2",
+  "primary_id": "place:Nebo.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7328|Nebo (Deity)|TyndaleBibleDictionary",
+      "7331|Nebo (Place)|TyndaleBibleDictionary",
+      "7329|Nebo, Mount|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004596001003000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/697721"
+    ],
+    "tipnr": [
+      "Nebo@Ezr.2.29-Neh"
+    ],
+    "vizbible": [
+      "recW5BCheAWsWp91F"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004596001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nebo (of Judah)",
+      "alternate_labels": [
+        "Nebo"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nebo.2",
+          "gloss": "Nebo (of Judah)",
+          "description": "A town in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.606256",
+      "lon": "35.037417"
+    },
+    "recogito": {
+      "lat": "31.7677176",
+      "lon": "35.7261818"
+    },
+    "vizbible": {
+      "lat": "31.606256",
+      "lon": "35.037417"
+    }
+  },
+  "key_references": [
+    "15002029",
+    "16007033"
+  ],
+  "references": [
+    "15002029",
+    "15010043",
+    "16007033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020290021"
+      ],
+      [
+        "o150100430021"
+      ],
+      [
+        "o160070330021"
+      ]
+    ]
+  }
+}

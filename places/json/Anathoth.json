@@ -1,0 +1,160 @@
+{
+  "id": "place:Anathoth",
+  "primary_id": "place:Anathoth",
+  "alternate_sources": {
+    "aquifer": [
+      "3599|Anathoth (Place), Anathothite|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ab34789"
+    ],
+    "tipnr": [
+      "Anathoth@Jos.21.18-Jer"
+    ],
+    "vizbible": [
+      "recOpGyXVzzKCuVs5"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2662138"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anathoth",
+      "alternate_labels": [
+        "Anethothite",
+        "Antothite",
+        "Anathothite",
+        "Anetothite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Anathoth",
+          "gloss": "Anathoth",
+          "description": "A Levitical town in the territory of Benjamin; home of the prophet Jeremiah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.81291277",
+      "lon": "35.26349894"
+    },
+    "vizbible": {
+      "lat": "31.81291277",
+      "lon": "35.26349894"
+    }
+  },
+  "key_references": [
+    "11002026"
+  ],
+  "references": [
+    "06021018",
+    "10023027",
+    "11002026",
+    "13006045",
+    "13011028",
+    "13012003",
+    "13027012",
+    "15002023",
+    "16007027",
+    "16011032",
+    "23010030",
+    "24001001",
+    "24011021",
+    "24011023",
+    "24029027",
+    "24032007",
+    "24032008",
+    "24032009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060210180021"
+      ],
+      [
+        "o100230270022"
+      ],
+      [
+        "o110020260051"
+      ],
+      [
+        "o130060450121"
+      ],
+      [
+        "o130110280062"
+      ],
+      [
+        "o130120030142"
+      ],
+      [
+        "o130270120052"
+      ],
+      [
+        "o150020230021"
+      ],
+      [
+        "o160070270021"
+      ],
+      [
+        "o160110320011"
+      ],
+      [
+        "o230100300081"
+      ],
+      [
+        "o240010010082"
+      ],
+      [
+        "o240110210071"
+      ],
+      [
+        "o240110230101"
+      ],
+      [
+        "o240290270062"
+      ],
+      [
+        "o240320070142"
+      ],
+      [
+        "o240320080182"
+      ],
+      [
+        "o240320090092"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230100300051"
+      ]
+    ]
+  }
+}

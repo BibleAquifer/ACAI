@@ -1,0 +1,83 @@
+{
+  "id": "place:Shen",
+  "primary_id": "place:Shen",
+  "alternate_sources": {
+    "aquifer": [
+      "8360|Shen|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007516002001000"
+    ],
+    "tipnr": [
+      "Shen@1Sa.7.12"
+    ],
+    "vizbible": [
+      "recF5BKPMFrHnzfVq"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007516002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shen",
+      "alternate_labels": [
+        "Jeshanah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shen",
+          "gloss": "Shen",
+          "description": "A location near where Samuel set up the Ebenezer stone, near Mizpah. "
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Mizpah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.83273947023218",
+      "lon": "35.1801628605877"
+    },
+    "recogito": {
+      "lat": "37.7177",
+      "lon": "115.62865"
+    },
+    "vizbible": {
+      "lat": "31.83273947023218",
+      "lon": "35.1801628605877"
+    }
+  },
+  "key_references": [
+    "09007012"
+  ],
+  "references": [
+    "09007012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090070120092"
+      ]
+    ]
+  }
+}

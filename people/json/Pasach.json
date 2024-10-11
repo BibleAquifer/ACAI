@@ -1,0 +1,67 @@
+{
+  "id": "person:Pasach",
+  "primary_id": "person:Pasach",
+  "alternate_sources": {
+    "aquifer": [
+      "7596|Pasach|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005933001001000"
+    ],
+    "tipnr": [
+      "Pasach@1Ch.7.33"
+    ],
+    "vizbible": [
+      "recG0ma5agy07pk1l"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Japhlet",
+  "siblings": [
+    "person:Bimhal",
+    "person:Ashvath"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "005933001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pasach",
+      "alternate_labels": [
+        "Pasak"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pasach",
+          "article": "person:Pasach",
+          "description": "Pasach, mentioned in 1 Chronicles 7:33, was a man of the tribe of Asher living before Israel's Monarchy and a son of Japhlet."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007033"
+  ],
+  "references": [
+    "13007033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070330031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130070330061"
+      ]
+    ]
+  }
+}

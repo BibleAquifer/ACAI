@@ -1,0 +1,67 @@
+{
+  "id": "realia:Acre",
+  "primary_id": "realia:Acre",
+  "alternate_sources": {
+    "aquifer": [
+      "3349|Acre|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006232001003000",
+      "006984001006000"
+    ],
+    "ubsrealia": [
+      "realia:11.5.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006232001003000",
+    "006984001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Acre",
+      "alternate_labels": [
+        "Furrow Length"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Acre",
+          "article": "realia:Acre",
+          "description": "A measure of land about the size that a pair of oxen can plow in one day, roughly 20-30 meters long."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צֶמֶד",
+      "שָׂדֶה"
+    ]
+  },
+  "key_references": [
+    "09014014",
+    "23005010"
+  ],
+  "references": [
+    "09014014",
+    "23005010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090140140131"
+      ],
+      [
+        "o230050100031"
+      ],
+      [
+        "o090140140141"
+      ]
+    ]
+  }
+}

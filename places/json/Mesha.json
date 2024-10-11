@@ -1,0 +1,88 @@
+{
+  "id": "place:Mesha",
+  "primary_id": "place:Mesha",
+  "alternate_sources": {
+    "aquifer": [
+      "7079|Mesha (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6b4fb2"
+    ],
+    "ubsdbh": [
+      "004440001001000"
+    ],
+    "tipnr": [
+      "Mesha@Gen.10.30"
+    ],
+    "vizbible": [
+      "recj67MFyFn1Bmgeq"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004440001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mesha (of Joktan)",
+      "alternate_labels": [
+        "Mesha"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mesha",
+          "gloss": "Mesha (of Joktan)",
+          "description": "One of the boundaries of the territory of the descendants of Joktan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מֵשָׁא",
+      "מַשׁ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.857260",
+      "lon": "34.859127"
+    },
+    "vizbible": {
+      "lat": "28.857260",
+      "lon": "34.859127"
+    }
+  },
+  "key_references": [
+    "01010030"
+  ],
+  "references": [
+    "01010030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100300032"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "person:Jonadab",
+  "primary_id": "person:Jonadab",
+  "alternate_sources": {
+    "aquifer": [
+      "6427|Jonadab|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jonadab@2Ki.10.15-Jer",
+      "Jehonadab|Jonadab@2Ki.10.15-Jer"
+    ],
+    "vizbible": [
+      "recTIBe3HYxgnmy9D"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Rechab.2",
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jonadab",
+      "alternate_labels": [
+        "Jehonadab"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jonadab",
+          "article": "person:Jonadab",
+          "description": "A son of Rechab who lived during the time of Jehu, son of Nimshi."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehonadab"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12010015",
+    "24035006",
+    "24035018"
+  ],
+  "references": [
+    "12010015",
+    "12010023",
+    "24035006",
+    "24035008",
+    "24035010",
+    "24035014",
+    "24035016",
+    "24035018",
+    "24035019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120100150051"
+      ],
+      [
+        "o120100150211"
+      ],
+      [
+        "o120100230032"
+      ],
+      [
+        "o240350060061"
+      ],
+      [
+        "o240350080031"
+      ],
+      [
+        "o240350100081"
+      ],
+      [
+        "o240350140041"
+      ],
+      [
+        "o240350160041"
+      ],
+      [
+        "o240350180161"
+      ],
+      [
+        "o240350190112"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120100150082"
+      ],
+      [
+        "o120100150241"
+      ],
+      [
+        "o120100150272"
+      ],
+      [
+        "o120100160021"
+      ],
+      [
+        "o120100160042"
+      ],
+      [
+        "o120100240012"
+      ],
+      [
+        "o120100240022"
+      ],
+      [
+        "o240350060122"
+      ],
+      [
+        "o240350080091"
+      ],
+      [
+        "o240350140081"
+      ],
+      [
+        "o240350180251"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "o120100150121",
+          "o120100150122",
+          "o120100150131",
+          "o120100150141",
+          "o120100150142",
+          "o120100150151",
+          "o120100150161",
+          "o120100150162",
+          "o120100150171",
+          "o120100150172",
+          "o120100150181",
+          "o120100150191",
+          "o120100150192"
+        ]
+      }
+    ]
+  }
+}

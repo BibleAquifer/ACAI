@@ -1,0 +1,121 @@
+{
+  "id": "place:KingsValley",
+  "primary_id": "place:KingsValley",
+  "alternate_sources": {
+    "aquifer": [
+      "6594|King’s Valley|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004048001001000"
+    ],
+    "tipnr": [
+      "King's_Valley@Gen.14.17"
+    ],
+    "vizbible": [
+      "recruGIaExz1GoMbG"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004048001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "King’s Valley",
+      "alternate_labels": [
+        "Valley of Shaveh",
+        "king's dale",
+        "Valley of the King",
+        "King's Valley"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:KingsValley",
+          "gloss": "King’s Valley",
+          "description": "A valley near Salem where Abraham met Melchizedek (Genesis 14:17); also known as the valley of Shaveh."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Shaveh"
+  ],
+  "nearby_places": [
+    "place:Salem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "01014017",
+    "10018018"
+  ],
+  "references": [
+    "01014017",
+    "10018018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140170021"
+      ],
+      [
+        "o010140170112"
+      ],
+      [
+        "o010140170151"
+      ],
+      [
+        "o010140170181"
+      ],
+      [
+        "o010140170192"
+      ],
+      [
+        "o100180180102"
+      ],
+      [
+        "o100180180112"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140170171"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010140170042"
+      ]
+    ]
+  }
+}

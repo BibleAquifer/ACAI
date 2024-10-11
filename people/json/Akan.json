@@ -1,0 +1,59 @@
+{
+  "id": "person:Akan",
+  "primary_id": "person:Akan",
+  "alternate_sources": {
+    "aquifer": [
+      "3482|Akan|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Akan@Gen.36.27-1Ch"
+    ],
+    "vizbible": [
+      "recjZ7LU45DM9XmtR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ezer",
+  "siblings": [
+    "person:Bilhan",
+    "person:Zaavan"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Akan",
+      "alternate_labels": [
+        "Jakan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Akan",
+          "article": "person:Akan",
+          "description": "A man from the time of the patriarchs, son of Ezer and brother of Bilhan and Zaavan, mentioned in Genesis 36:27."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036027",
+    "13001042"
+  ],
+  "references": [
+    "01036027",
+    "13001042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360270062"
+      ],
+      [
+        "o130010420051"
+      ]
+    ]
+  }
+}

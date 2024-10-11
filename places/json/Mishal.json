@@ -1,0 +1,87 @@
+{
+  "id": "place:Mishal",
+  "primary_id": "place:Mishal",
+  "alternate_sources": {
+    "aquifer": [
+      "7160|Mishal|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Mishal@Jos.19.26-"
+    ],
+    "vizbible": [
+      "recwoglv6niCugPjM"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mishal",
+      "alternate_labels": [
+        "Mashal",
+        "Misheal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mishal",
+          "gloss": "Mishal",
+          "description": "A Levitical town in the territory of Asher, assigned to the clan of Gershon; also known as Mashal."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.046264",
+      "lon": "35.172513"
+    },
+    "vizbible": {
+      "lat": "33.046264",
+      "lon": "35.172513"
+    }
+  },
+  "key_references": [
+    "06021030",
+    "06019026",
+    "13006059"
+  ],
+  "references": [
+    "06019026",
+    "06021030",
+    "13006059"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190260032"
+      ],
+      [
+        "o060210300041"
+      ],
+      [
+        "o130060590041"
+      ]
+    ]
+  }
+}

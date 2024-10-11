@@ -1,0 +1,60 @@
+{
+  "id": "person:Rufus",
+  "primary_id": "person:Rufus",
+  "alternate_sources": {
+    "aquifer": [
+      "8069|Rufus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.317a"
+    ],
+    "tipnr": [
+      "Rufus@Mrk.15.21"
+    ],
+    "vizbible": [
+      "recK9L2EqxvKAPxt2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simon.5",
+  "siblings": [
+    "person:Alexander"
+  ],
+  "ubsdgnt": [
+    "93.317a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rufus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rufus",
+          "article": "person:Rufus",
+          "description": "Son of Simon of Cyrene."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ῥοῦφος"
+    ]
+  },
+  "key_references": [
+    "41015021"
+  ],
+  "references": [
+    "41015021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41015021014"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "person:Shaul",
+  "primary_id": "person:Shaul",
+  "alternate_sources": {
+    "aquifer": [
+      "8301|Shaul|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shaul@Gen.36.37-1Ch"
+    ],
+    "vizbible": [
+      "recGegp7Q6Typb8zs"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaul",
+      "alternate_labels": [
+        "Saul"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shaul",
+          "article": "person:Shaul",
+          "description": "An Edomite king from Rehoboth during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036037",
+    "13001048"
+  ],
+  "references": [
+    "01036037",
+    "01036038",
+    "13001048",
+    "13001049"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360370051"
+      ],
+      [
+        "o010360380021"
+      ],
+      [
+        "o130010480051"
+      ],
+      [
+        "o130010490021"
+      ]
+    ]
+  }
+}

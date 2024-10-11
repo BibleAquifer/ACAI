@@ -1,0 +1,82 @@
+{
+  "id": "flora:Mandrake",
+  "primary_id": "flora:Mandrake",
+  "alternate_sources": {
+    "aquifer": [
+      "6920|Mandrake|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001593001001000"
+    ],
+    "ubsflora": [
+      "flora:5.2.3"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Plants for Everyday Use",
+  "ubsdbh": [
+    "001593001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mandrake",
+      "alternate_labels": [
+        "Love Apple"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mandrake",
+          "article": "flora:Mandrake",
+          "description": "A perennial plant with large, forked roots, purple flowers, and yellow-green fruits; it was used medicinally and believed to help with conception."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דּוּדָאִים"
+    ]
+  },
+  "key_references": [
+    "01030014",
+    "22007014"
+  ],
+  "references": [
+    "01030014",
+    "01030015",
+    "01030016",
+    "22007014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010300140071"
+      ],
+      [
+        "o010300140212"
+      ],
+      [
+        "o010300150101"
+      ],
+      [
+        "o010300150191"
+      ],
+      [
+        "o010300160152"
+      ],
+      [
+        "o220070140012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010300140102"
+      ]
+    ]
+  }
+}

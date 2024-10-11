@@ -1,0 +1,90 @@
+{
+  "id": "place:Hazor-hadattah",
+  "primary_id": "place:Hazor-hadattah",
+  "alternate_sources": {
+    "aquifer": [
+      "5741|Hazor-Hadattah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002467001001000"
+    ],
+    "tipnr": [
+      "Hazor-hadattah@Jos.15.25"
+    ],
+    "vizbible": [
+      "recIXGJ5SbRqnDFoG"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002467001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazor-hadattah",
+      "alternate_labels": [
+        "Hazor",
+        "Hadattah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hazor-hadattah",
+          "gloss": "Hazor-hadattah",
+          "description": "A village in the south of the territory of Judah, near Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חָצֹור חֲדַתָּה",
+      "חָצוֹר חֲדַתָּה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    },
+    "vizbible": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    }
+  },
+  "key_references": [
+    "06015025"
+  ],
+  "references": [
+    "06015025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150250012",
+        "o060150250021"
+      ]
+    ]
+  }
+}

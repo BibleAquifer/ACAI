@@ -1,0 +1,102 @@
+{
+  "id": "place:Nobah",
+  "primary_id": "place:Kenath",
+  "alternate_sources": {
+    "aquifer": [
+      "7416|Nobah (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004606001001000",
+      "004606001002000"
+    ],
+    "tipnr": [
+      "Nobah|Kenath@Num.21.30-1Ch"
+    ],
+    "vizbible": [
+      "recW9pJRZ4cg9A2k6"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004606001001000",
+    "004606001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nobah (of Manasseh)",
+      "alternate_labels": [
+        "Kenath",
+        "Nobah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nobah.1",
+          "gloss": "Nobah (of Manasseh)",
+          "description": "A town located east of the Jordan River and at some time part of territory of Manasseh; also known as Kenath."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Kenath"
+  ],
+  "tribal_area": "group:Manasseh",
+  "subregion_of": [
+    "place:TerritoryOfEastManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.756919",
+      "lon": "36.6164"
+    },
+    "vizbible": {
+      "lat": "32.756919",
+      "lon": "36.6164"
+    }
+  },
+  "key_references": [
+    "04032042"
+  ],
+  "references": [
+    "04032042",
+    "07008011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320420012"
+      ],
+      [
+        "o040320420101"
+      ],
+      [
+        "o070080110072"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040320420032"
+      ],
+      [
+        "o040320420082"
+      ]
+    ]
+  }
+}

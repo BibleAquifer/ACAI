@@ -1,0 +1,92 @@
+{
+  "id": "place:FairHavens",
+  "primary_id": "place:FairHavens",
+  "alternate_sources": {
+    "aquifer": [
+      "5227|Fair Havens|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aae626a"
+    ],
+    "tipnr": [
+      "Fair_Havens@Act.27.8"
+    ],
+    "vizbible": [
+      "rec9KPrYOwTjrP0jA"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q11818846"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fair Havens",
+      "alternate_labels": [
+        "The fair havens"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:FairHavens",
+          "gloss": "Fair Havens",
+          "description": "A bay on the south coast of Crete; Paul's ship sought refuge from the windy sea on his voyage to Rome."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Lasea",
+    "place:Phoenix",
+    "place:Cauda"
+  ],
+  "subregion_of": [
+    "place:Crete"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.92138419",
+      "lon": "24.73114126"
+    },
+    "vizbible": {
+      "lat": "34.92138419",
+      "lon": "24.73114126"
+    },
+    "biblica-maps": {
+      "lat": "34.91697",
+      "lon": "24.74049"
+    }
+  },
+  "key_references": [
+    "44027012",
+    "44027008"
+  ],
+  "references": [
+    "44027008",
+    "44027012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027008010"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "group:Pontus",
+  "primary_id": "group:Pontus",
+  "alternate_sources": {
+    "aquifer": [
+      "7775|Pontus|TyndaleBibleDictionary",
+      "26971|Pontus|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.554"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/857287"
+    ],
+    "tipnr": [
+      "Pontus@Act.2.9-1Pe"
+    ],
+    "vizbible": [
+      "recbCU03lFSJIIVGi"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Pontus",
+  "ubsdgnt": [
+    "93.554"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pontus",
+      "alternate_labels": [
+        "Pontus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pontus",
+          "article": "group:Pontus",
+          "description": "People who lived in Pontus. Aquila (Acts 18:2) was a native of Pontus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ποντικός"
+    ]
+  },
+  "key_references": [
+    "44002009",
+    "44018002",
+    "60001001"
+  ],
+  "references": [
+    "44002009",
+    "44018002",
+    "60001001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018002007"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "person:Ohel",
+  "primary_id": "person:Ohel",
+  "alternate_sources": {
+    "aquifer": [
+      "7466|Ohel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000166002001000"
+    ],
+    "tipnr": [
+      "Ohel@1Ch.3.20"
+    ],
+    "vizbible": [
+      "rec6Oi06Gou83vV2w"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zerubbabel.2",
+  "siblings": [
+    "person:Meshullam.2",
+    "person:Hananiah",
+    "person:Shelomith.5",
+    "person:Hashubah",
+    "person:Berechiah",
+    "person:Hasadiah",
+    "person:Jushab-hesed",
+    "person:Abiud"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000166002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ohel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ohel",
+          "article": "person:Ohel",
+          "description": "Ohel, mentioned in 1 Chronicles 3:20, was a man of the tribe of Judah and a son of Zerubbabel during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֹהֶל",
+      "אֹ֫הֶל"
+    ]
+  },
+  "key_references": [
+    "13003020"
+  ],
+  "references": [
+    "13003020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030200022"
+      ]
+    ]
+  }
+}

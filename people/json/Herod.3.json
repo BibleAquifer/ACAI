@@ -1,0 +1,172 @@
+{
+  "id": "person:Herod.3",
+  "primary_id": "person:Herod.3",
+  "alternate_sources": {
+    "aquifer": [
+      "5821|Herod, Herodian Family|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.144c"
+    ],
+    "tipnr": [
+      "Herod@Act.12.1-"
+    ],
+    "vizbible": [
+      "recGjoYsVY3r2JVso"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Agrippa"
+  ],
+  "siblings": [
+    "person:Herodias"
+  ],
+  "roles": [
+    "King",
+    "Ruler",
+    "Royal Family Member"
+  ],
+  "tribe": "group:Canaan",
+  "related_places": {
+    "death_place": [
+      "place:Caesarea"
+    ]
+  },
+  "ubsdgnt": [
+    "93.144c"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Herod",
+      "alternate_labels": [
+        "Herod Agrippa I"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Herod",
+          "article": "person:Herod.3",
+          "description": "Grandson of Herod the Great and tetrarch living during the New Testament times."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἡρῴδης"
+    ]
+  },
+  "key_references": [
+    "44012001",
+    "44012006",
+    "44012020"
+  ],
+  "references": [
+    "44012001",
+    "44012006",
+    "44012011",
+    "44012019",
+    "44012020",
+    "44012021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44012001007"
+      ],
+      [
+        "n44012006007"
+      ],
+      [
+        "n44012011023"
+      ],
+      [
+        "n44012019001"
+      ],
+      [
+        "n44012021005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44012020011"
+      ],
+      [
+        "n44012023004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44012001012"
+      ],
+      [
+        "n44012002001"
+      ],
+      [
+        "n44012003001"
+      ],
+      [
+        "n44012003008",
+        "n44012003009"
+      ],
+      [
+        "n44012004003",
+        "n44012004004"
+      ],
+      [
+        "n44012004007"
+      ],
+      [
+        "n44012004013"
+      ],
+      [
+        "n44012004017"
+      ],
+      [
+        "n44012006004"
+      ],
+      [
+        "n44012019003"
+      ],
+      [
+        "n44012019007",
+        "n44012019008"
+      ],
+      [
+        "n44012019014"
+      ],
+      [
+        "n44012019020"
+      ],
+      [
+        "n44012020001"
+      ],
+      [
+        "n44012020003"
+      ],
+      [
+        "n44012021006"
+      ],
+      [
+        "n44012021010"
+      ],
+      [
+        "n44012023010"
+      ],
+      [
+        "n44012023016"
+      ],
+      [
+        "n44012023018"
+      ]
+    ]
+  }
+}

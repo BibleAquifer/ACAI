@@ -1,0 +1,73 @@
+{
+  "id": "person:Rapha.2",
+  "primary_id": "person:Rosh",
+  "alternate_sources": {
+    "aquifer": [
+      "7946|Rapha|TyndaleBibleDictionary",
+      "27013|Rapha|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006885001002000"
+    ],
+    "tipnr": [
+      "Rapha|Rosh@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "recvNPov4G2KhXmQE"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Muppim",
+    "person:Huppim",
+    "person:Ard",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "006885001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rapha (Rosh)",
+      "alternate_labels": [
+        "Rosh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rosh",
+          "article": "person:Rapha.2",
+          "description": "Rapha, also known as Rosh, is a man from the tribe of Benjamin, mentioned in Genesis 46:21 and 1 Chronicles 8:2, living during the time of Egypt and the wilderness."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Rosh"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008002"
+  ],
+  "references": [
+    "13008002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080020032"
+      ]
+    ]
+  }
+}

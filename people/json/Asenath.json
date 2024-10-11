@@ -1,0 +1,75 @@
+{
+  "id": "person:Asenath",
+  "primary_id": "person:Asenath",
+  "alternate_sources": {
+    "aquifer": [
+      "3788|Asenath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000568001001000"
+    ],
+    "tipnr": [
+      "Asenath@Gen.41.45-"
+    ],
+    "vizbible": [
+      "recNkoJz33pFlgcn2"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Potiphera",
+  "partners": [
+    "person:Joseph.10"
+  ],
+  "offspring": [
+    "person:Manasseh",
+    "person:Ephraim"
+  ],
+  "ubsdbh": [
+    "000568001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Asenath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Asenath",
+          "article": "person:Asenath",
+          "description": "A woman from the time of the patriarchs, daughter of Potiphera, wife of Joseph, and mother of Manasseh and Ephraim, mentioned in Genesis 41:45."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָסְנַת",
+      "אָֽסְנַת"
+    ]
+  },
+  "key_references": [
+    "01041045",
+    "01041050",
+    "01046020"
+  ],
+  "references": [
+    "01041045",
+    "01041050",
+    "01046020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010410450101"
+      ],
+      [
+        "o010410500121"
+      ],
+      [
+        "o010460200081"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "person:Adbeel",
+  "primary_id": "person:Adbeel",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000111001001000"
+    ],
+    "tipnr": [
+      "Adbeel@Gen.25.13-1Ch"
+    ],
+    "vizbible": [
+      "recIEzV6TtXbcF6vd"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Kedemah",
+    "person:Mahalath"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "000111001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adbeel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Adbeel",
+          "article": "person:Adbeel",
+          "description": "A man living at the time of the patriarchs, son of Ishmael and brother to many, mentioned in Genesis 25:13."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַדְבְּאֵל"
+    ]
+  },
+  "key_references": [
+    "01025013",
+    "13001029"
+  ],
+  "references": [
+    "01025013",
+    "13001029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250130112"
+      ],
+      [
+        "o130010290072"
+      ]
+    ]
+  }
+}

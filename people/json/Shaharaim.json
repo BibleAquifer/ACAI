@@ -1,0 +1,78 @@
+{
+  "id": "person:Shaharaim",
+  "primary_id": "person:Shaharaim",
+  "alternate_sources": {
+    "aquifer": [
+      "8261|Shaharaim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007306001001000"
+    ],
+    "tipnr": [
+      "Shaharaim@1Ch.8.8"
+    ],
+    "vizbible": [
+      "rec5qxI5hlJEsFxtF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Hushim",
+    "person:Baara",
+    "person:Hodesh"
+  ],
+  "offspring": [
+    "person:Jobab.4",
+    "person:Zibia",
+    "person:Mesha",
+    "person:Malcam",
+    "person:Jeuz",
+    "person:Sachia",
+    "person:Mirmah",
+    "person:Abitub",
+    "person:Elpaal"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "007306001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaharaim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shaharaim",
+          "article": "person:Shaharaim",
+          "description": "Shaharaim was a man of the tribe of Benjamin living during the divided kingdom, mentioned in 1 Chronicles 8:8, and he was married to Hushim, Baara, and Hodesh with several children."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008008"
+  ],
+  "references": [
+    "13008008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080080012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130080090012"
+      ],
+      [
+        "o130080110021"
+      ]
+    ]
+  }
+}

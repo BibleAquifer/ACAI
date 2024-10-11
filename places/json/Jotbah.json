@@ -1,0 +1,82 @@
+{
+  "id": "place:Jotbah",
+  "primary_id": "place:Jotbah",
+  "alternate_sources": {
+    "aquifer": [
+      "6464|Jotbah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002920001001000"
+    ],
+    "tipnr": [
+      "Jotbah@2Ki.21.19"
+    ],
+    "vizbible": [
+      "recgcRR8lIX8T7Tr7"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002920001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jotbah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jotbah",
+          "gloss": "Jotbah",
+          "description": "A town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָטְבָה",
+      "יׇטְבָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.75804307645581",
+      "lon": "35.0306017443078"
+    },
+    "vizbible": {
+      "lat": "29.75804307645581",
+      "lon": "35.0306017443078"
+    }
+  },
+  "key_references": [
+    "12021019"
+  ],
+  "references": [
+    "12021019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120210190171"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "person:Shaphat.5",
+  "primary_id": "person:Shaphat.5",
+  "alternate_sources": {
+    "aquifer": [
+      "8288|Shaphat|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007568001005000"
+    ],
+    "tipnr": [
+      "Shaphat@1Ch.27.29"
+    ],
+    "vizbible": [
+      "recSghP9TRvmOHjfT"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Adlai",
+  "ubsdbh": [
+    "007568001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaphat (1 Chronicles 27:29)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shaphat (1 Chronicles 27:29)",
+          "article": "person:Shaphat.5",
+          "description": "Shaphat was a man living during the divided kingdom, son of Adlai, mentioned only in 1 Chronicles 27:29."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13027029"
+  ],
+  "references": [
+    "13027029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130270290111"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130270310061"
+      ]
+    ]
+  }
+}

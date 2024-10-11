@@ -1,0 +1,56 @@
+{
+  "id": "person:Riphath",
+  "primary_id": "person:Riphath",
+  "alternate_sources": {
+    "aquifer": [
+      "8045|Riphath|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Riphath@Gen.10.3-1Ch"
+    ],
+    "vizbible": [
+      "recGeBDHbdX0YjQIQ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gomer",
+  "siblings": [
+    "person:Ashkenaz",
+    "person:Togarmah"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Riphath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Riphath",
+          "article": "person:Riphath",
+          "description": "Riphath, son of Gomer and brother of Ashkenaz and Togarmah, was a man living during the time of the patriarchs, mentioned in Genesis 10:3."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010003",
+    "13001006"
+  ],
+  "references": [
+    "01010003",
+    "13001006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100030042"
+      ],
+      [
+        "o130010060042"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "place:Geder",
+  "primary_id": "place:Gedor",
+  "alternate_sources": {
+    "aquifer": [
+      "5401|Geder|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001325001001000"
+    ],
+    "tipnr": [
+      "Geder|Gedor@Jos.12.13-1Ch"
+    ],
+    "vizbible": [
+      "recpukEDeQV7MqzNA"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001325001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Geder",
+      "alternate_labels": [
+        "Gedor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Geder",
+          "gloss": "Geder",
+          "description": "A town in the territory of Judah, conquered by Joshua and the Israelites; probably to be identified with Beth-Gader."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Beth-gader"
+  ],
+  "referred_to_as": [
+    "place:Gedor"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גֶּדֶר",
+      "גֶּ֫דֶר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.63333",
+      "lon": "35.083333"
+    },
+    "vizbible": {
+      "lat": "31.63333",
+      "lon": "35.083333"
+    }
+  },
+  "key_references": [
+    "06012013",
+    "13027028"
+  ],
+  "references": [
+    "06012013",
+    "13027028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120130051"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "person:Amnon.2",
+  "primary_id": "person:Amnon.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3567|Amnon|TyndaleBibleDictionary",
+      "26311|Amnon|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "000503001002000"
+    ],
+    "tipnr": [
+      "Amnon@1Ch.4.20"
+    ],
+    "vizbible": [
+      "recbvaIiUCtxB5cmP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shimon",
+  "siblings": [
+    "person:Rinnah",
+    "person:Ben-hanan",
+    "person:Tilon"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000503001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amnon (1 Chronicles 4:20)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Amnon (1 Chronicles 4:20)",
+          "article": "person:Amnon.2",
+          "description": "A man of the tribe of Judah living during the time of the divided kingdom, son of Shimon and brother of Rinnah, Ben-hanan, and Tilon, mentioned in 1 Chronicles 4:20."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַמְנֹון",
+      "אַמְנוֹן"
+    ]
+  },
+  "key_references": [
+    "13004020"
+  ],
+  "references": [
+    "13004020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040200031"
+      ]
+    ]
+  }
+}

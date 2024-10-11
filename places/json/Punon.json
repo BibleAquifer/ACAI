@@ -1,0 +1,82 @@
+{
+  "id": "place:Punon",
+  "primary_id": "place:Punon",
+  "alternate_sources": {
+    "aquifer": [
+      "7859|Punon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005810001001000"
+    ],
+    "tipnr": [
+      "Punon@Num.33.42-"
+    ],
+    "vizbible": [
+      "recwuZjxsXkzLUvxH"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005810001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Punon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Punon",
+          "gloss": "Punon",
+          "description": "A location along the route of the exodus where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "פּוּעָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.49684513710609",
+      "lon": "35.78284105296996"
+    },
+    "vizbible": {
+      "lat": "31.49684513710609",
+      "lon": "35.78284105296996"
+    }
+  },
+  "key_references": [
+    "04033043",
+    "04033042"
+  ],
+  "references": [
+    "04033042",
+    "04033043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330420042"
+      ],
+      [
+        "o040330430022"
+      ]
+    ]
+  }
+}

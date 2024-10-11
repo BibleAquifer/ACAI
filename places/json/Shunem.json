@@ -1,0 +1,116 @@
+{
+  "id": "place:Shunem",
+  "primary_id": "place:Shunem",
+  "alternate_sources": {
+    "aquifer": [
+      "8463|Shunem|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac86af5"
+    ],
+    "ubsdbh": [
+      "007251001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/293449"
+    ],
+    "tipnr": [
+      "Shunem@Jos.19.18-2Ki"
+    ],
+    "vizbible": [
+      "recyWwiJB7OnchiIG"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2916070"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007251001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shunem",
+      "alternate_labels": [
+        "Shunnamite",
+        "Shunammite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shunem",
+          "gloss": "Shunem",
+          "description": "A town in the territory of Issachar."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Issachar",
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "שׁוּנַמִּית"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.60563102",
+      "lon": "35.33430586"
+    },
+    "recogito": {
+      "lat": "32.60606",
+      "lon": "35.33408"
+    },
+    "vizbible": {
+      "lat": "32.60563102",
+      "lon": "35.33430586"
+    }
+  },
+  "key_references": [
+    "09028004",
+    "11001003"
+  ],
+  "references": [
+    "06019018",
+    "09028004",
+    "11001003",
+    "11002017",
+    "11002021",
+    "12004008",
+    "12004011",
+    "12004012",
+    "12004025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190180052"
+      ],
+      [
+        "o090280040052"
+      ],
+      [
+        "o120040080061"
+      ]
+    ]
+  }
+}

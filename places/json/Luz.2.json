@@ -1,0 +1,95 @@
+{
+  "id": "place:Luz.2",
+  "primary_id": "place:Luz.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6796|Luz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003539002001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3458333"
+    ],
+    "tipnr": [
+      "Luz@Jdg.1.26"
+    ],
+    "vizbible": [
+      "recqnd8SROV0Sqh6J"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003539002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Luz (of the Hittites)",
+      "alternate_labels": [
+        "Luz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Luz.2",
+          "gloss": "Luz (of the Hittites)",
+          "description": "A town in the territory of the Hittites founded by a man who helped the Israelites conquer Bethel."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "lemmas": {
+    "he": [
+      "לוּז",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37",
+      "lon": "36.57"
+    },
+    "recogito": {
+      "lat": "-19.80139",
+      "lon": "-45.68556"
+    },
+    "vizbible": {
+      "lat": "37",
+      "lon": "36.57"
+    }
+  },
+  "key_references": [
+    "07001026"
+  ],
+  "references": [
+    "07001026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070010260091"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o070010260101"
+      ]
+    ]
+  }
+}

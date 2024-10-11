@@ -1,0 +1,41 @@
+{
+  "id": "place:TerritoryOfWestManasseh",
+  "primary_id": "place:TerritoryOfWestManasseh",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TerritoryOfWestManasseh",
+          "gloss": "Territory of West Manasseh",
+          "description": "The land assigned to the tribe of Manasseh, west of the Jordan River."
+        }
+      ],
+      "preferred_label": "Territory of West Manasseh"
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfAsher",
+    "place:TerritoryOfZebulun",
+    "place:TerritoryOfIssachar",
+    "place:TerritoryOfGad",
+    "place:TerritoryOfEphraim",
+    "place:TerritoryOfBenjamin",
+    "place:TerritoryOfDan"
+  ],
+  "subregion_of": [
+    "place:Israel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  }
+}

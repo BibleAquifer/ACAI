@@ -1,0 +1,104 @@
+{
+  "id": "place:IphtahelValley",
+  "primary_id": "place:IphtahelValley",
+  "alternate_sources": {
+    "obi": [
+      "a3e0180"
+    ],
+    "ubsdbh": [
+      "003034001001000",
+      "001390001007000"
+    ],
+    "tipnr": [
+      "Iphtahel_Valley@Jos.19.14-"
+    ],
+    "vizbible": [
+      "recqTSGbQtBjp7MGu"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6065117"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003034001001000",
+    "001390001007000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Iphtahel",
+      "alternate_labels": [
+        "Valley of Jiphthah-El",
+        "Iphtah-el Valley",
+        "Jiphthah-el",
+        "valley of Yiptah-El"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfIphtahel",
+          "gloss": "Valley of Iphtahel",
+          "description": "A valley located on the boundary between the territories of Zebulun and Asher."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfZebulun",
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יִפְתַּח־אֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.832774",
+      "lon": "35.277225"
+    },
+    "vizbible": {
+      "lat": "32.832774",
+      "lon": "35.277225"
+    }
+  },
+  "key_references": [
+    "06019027",
+    "06019014"
+  ],
+  "references": [
+    "06019014",
+    "06019027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190140081",
+        "o060190140091",
+        "o060190140101"
+      ],
+      [
+        "o060190270083",
+        "o060190270091",
+        "o060190270101"
+      ]
+    ]
+  }
+}

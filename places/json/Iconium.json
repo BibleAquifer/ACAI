@@ -1,0 +1,134 @@
+{
+  "id": "place:Iconium",
+  "primary_id": "place:Iconium",
+  "alternate_sources": {
+    "aquifer": [
+      "5982|Iconium|TyndaleBibleDictionary",
+      "26720|Iconium|UWTranslationWords",
+      "132061|Iconium|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "ae425aa"
+    ],
+    "ubsdgnt": [
+      "93.482"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21444"
+    ],
+    "tipnr": [
+      "Iconium@Act.13.51-2Ti"
+    ],
+    "vizbible": [
+      "recy6BBIMIGwmihwL"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q79857"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.482"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Iconium",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Iconium",
+          "gloss": "Iconium",
+          "description": "A city in Lycaonia, in southern Asia Minor; Paul and Barnabas traveled here during Paul's first missionary journey."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Lystra"
+  ],
+  "subregion_of": [
+    "place:Lycaonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἰκόνιον"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.88353039",
+      "lon": "32.49426257"
+    },
+    "recogito": {
+      "lat": "38.1910079",
+      "lon": "32.3745104"
+    },
+    "vizbible": {
+      "lat": "38.1910079",
+      "lon": "32.3745104"
+    },
+    "biblica-maps": {
+      "lat": "37.8722",
+      "lon": "32.49233"
+    }
+  },
+  "key_references": [
+    "44014021",
+    "44014001",
+    "55003010"
+  ],
+  "references": [
+    "44013051",
+    "44014001",
+    "44014019",
+    "44014021",
+    "44016002",
+    "55003011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44013051012"
+      ],
+      [
+        "n44014001004"
+      ],
+      [
+        "n44014019006"
+      ],
+      [
+        "n44014021015"
+      ],
+      [
+        "n44016002008"
+      ],
+      [
+        "n55003011011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44016003020"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "person:Hadad",
+  "primary_id": "person:Hadad",
+  "alternate_sources": {
+    "aquifer": [
+      "5569|Hadad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001758001001000"
+    ],
+    "tipnr": [
+      "Hadad@Gen.36.35-1Ch"
+    ],
+    "vizbible": [
+      "recmnUFvMWZNuvltg"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Bedad",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "001758001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hadad",
+          "article": "person:Hadad",
+          "description": "An Edomite king and son of Bedad from Avith, who lived before the Israelite kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֲדַד"
+    ]
+  },
+  "key_references": [
+    "01036035",
+    "01036036",
+    "13001046"
+  ],
+  "references": [
+    "01036035",
+    "01036036",
+    "13001046",
+    "13001047"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360350051"
+      ],
+      [
+        "o010360360021"
+      ],
+      [
+        "o130010460051"
+      ],
+      [
+        "o130010470021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010360350082"
+      ],
+      [
+        "o130010460082"
+      ]
+    ]
+  }
+}

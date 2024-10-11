@@ -1,0 +1,105 @@
+{
+  "id": "place:Hazeroth",
+  "primary_id": "place:Hazeroth",
+  "alternate_sources": {
+    "aquifer": [
+      "5738|Hazeroth|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a1b6474"
+    ],
+    "ubsdbh": [
+      "002491001001000"
+    ],
+    "tipnr": [
+      "Hazeroth@Num.11.35-Deu"
+    ],
+    "vizbible": [
+      "recUD3AjGYUKz6ob7"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3381072"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002491001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazeroth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hazeroth",
+          "gloss": "Hazeroth",
+          "description": "A location in the Sinai Peninsula, between Kibroth-Hattaavah and Rithmah, where the Israelites encamped on their way from Egypt to Canaan; not far from the place where Moses repeated the law."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲצֵרֹות",
+      "חֲצֵרוֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.916667",
+      "lon": "34.5"
+    },
+    "vizbible": {
+      "lat": "28.916667",
+      "lon": "34.5"
+    }
+  },
+  "key_references": [
+    "05001001",
+    "04011035"
+  ],
+  "references": [
+    "04011035",
+    "04012001",
+    "04012016",
+    "04033017",
+    "04033018",
+    "05001001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040110350051"
+      ],
+      [
+        "o040110350072"
+      ],
+      [
+        "o040120160042"
+      ],
+      [
+        "o040330170052"
+      ],
+      [
+        "o040330180022"
+      ],
+      [
+        "o050010010202"
+      ]
+    ]
+  }
+}

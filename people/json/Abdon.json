@@ -1,0 +1,67 @@
+{
+  "id": "person:Abdon",
+  "primary_id": "person:Abdon",
+  "alternate_sources": {
+    "aquifer": [
+      "3273|Abdon (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005196001002000"
+    ],
+    "tipnr": [
+      "Abdon@Jdg.12.13-"
+    ],
+    "vizbible": [
+      "recbW7lsoVIceD25y"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hillel",
+  "ubsdbh": [
+    "005196001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abdon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abdon",
+          "article": "person:Abdon",
+          "description": "A judge of Israel before the monarchy, son of Hillel, mentioned in Judges 12:13."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07012013",
+    "07012015"
+  ],
+  "references": [
+    "07012013",
+    "07012015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070120130051"
+      ],
+      [
+        "o070120150021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070120140122"
+      ],
+      [
+        "o070120150062"
+      ]
+    ]
+  }
+}

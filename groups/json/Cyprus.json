@@ -1,0 +1,64 @@
+{
+  "id": "group:Cyprus",
+  "primary_id": "group:Cyprus",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.509"
+    ],
+    "tipnr": [
+      "Cyprus@Num.24.24-Act"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Cyprus",
+  "ubsdgnt": [
+    "93.509"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cypriots",
+      "alternate_labels": [
+        "Cypriot"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cypriots",
+          "article": "group:Cyprus",
+          "description": "People who live in Cyprus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Κύπριος"
+    ]
+  },
+  "key_references": [
+    "44004036",
+    "44011020",
+    "44021016"
+  ],
+  "references": [
+    "44004036",
+    "44011020",
+    "44021016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44004036015"
+      ],
+      [
+        "n44011020007"
+      ],
+      [
+        "n44021016016"
+      ]
+    ]
+  }
+}

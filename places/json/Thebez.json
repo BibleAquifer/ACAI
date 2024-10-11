@@ -1,0 +1,95 @@
+{
+  "id": "place:Thebez",
+  "primary_id": "place:Thebez",
+  "alternate_sources": {
+    "aquifer": [
+      "8811|Thebez|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5d1690"
+    ],
+    "ubsdbh": [
+      "007712001001000"
+    ],
+    "tipnr": [
+      "Thebez@Jdg.9.50-2Sa"
+    ],
+    "vizbible": [
+      "recnzCSf7YaO4Ajq4"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q275919"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007712001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Thebez",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Thebez",
+          "gloss": "Thebez",
+          "description": "A town near Shechem; captured by Abimelech, son of Gideon."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Shechem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "תבר",
+      "תַּבְעֵרָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.32410245",
+      "lon": "35.36825276"
+    },
+    "vizbible": {
+      "lat": "32.32410245",
+      "lon": "35.36825276"
+    }
+  },
+  "key_references": [
+    "10011021",
+    "07009050"
+  ],
+  "references": [
+    "07009050",
+    "10011021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070090500041"
+      ],
+      [
+        "o070090500062"
+      ],
+      [
+        "o100110210162"
+      ]
+    ]
+  }
+}

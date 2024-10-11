@@ -1,0 +1,82 @@
+{
+  "id": "place:Shamir",
+  "primary_id": "place:Shamir",
+  "alternate_sources": {
+    "aquifer": [
+      "8278|Shamir (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007462003001000"
+    ],
+    "tipnr": [
+      "Shamir@Jos.15.48"
+    ],
+    "vizbible": [
+      "rech0hELdCMmKx1Il"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007462003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shamir (of Judah)",
+      "alternate_labels": [
+        "Shamir"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shamir.1",
+          "gloss": "Shamir (of Judah)",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.416667",
+      "lon": "34.933333"
+    },
+    "vizbible": {
+      "lat": "31.416667",
+      "lon": "34.933333"
+    }
+  },
+  "key_references": [
+    "06015048"
+  ],
+  "references": [
+    "06015048"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150480021"
+      ]
+    ]
+  }
+}

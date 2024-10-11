@@ -1,0 +1,120 @@
+{
+  "id": "place:MoabPlains",
+  "primary_id": "place:MoabPlains",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003765001002000"
+    ],
+    "tipnr": [
+      "Moab_Plains@Num.22.1-Jos"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003765001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Plains of Moab",
+      "alternate_labels": [
+        "Desert-Plateau of Moab",
+        "desert-plateaus of Moab",
+        "rift valley plains by Moab",
+        "Moab Plains"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Moab.2",
+          "gloss": "Plains of Moab",
+          "description": "The region north of the Dead Sea and east of the Jordan River, where Moses deilvered his final message to the Israelites."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Moab",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "05001001",
+    "04022001"
+  ],
+  "references": [
+    "04022001",
+    "04026003",
+    "04026063",
+    "04031012",
+    "04033048",
+    "04033049",
+    "04033050",
+    "04035001",
+    "04036013",
+    "05034001",
+    "05034008",
+    "06013032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040220010052",
+        "o040220010061"
+      ],
+      [
+        "o040260030062",
+        "o040260030071"
+      ],
+      [
+        "o040260630112",
+        "o040260630121"
+      ],
+      [
+        "o040310120201",
+        "o040310120211"
+      ],
+      [
+        "o040330480052",
+        "o040330480061"
+      ],
+      [
+        "o040330490092",
+        "o040330490101"
+      ],
+      [
+        "o040330500052",
+        "o040330500061"
+      ],
+      [
+        "o040350010052",
+        "o040350010061"
+      ],
+      [
+        "o040360130122",
+        "o040360130131"
+      ],
+      [
+        "o050340010032",
+        "o050340010041"
+      ],
+      [
+        "o050340080062",
+        "o050340080071"
+      ],
+      [
+        "o060130320052",
+        "o060130320061"
+      ]
+    ]
+  }
+}

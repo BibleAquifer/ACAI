@@ -1,0 +1,120 @@
+{
+  "id": "person:Uzziel",
+  "primary_id": "person:Uzziel",
+  "alternate_sources": {
+    "aquifer": [
+      "8992|Uzziel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Uzziel@Exo.6.18-1Ch"
+    ],
+    "vizbible": [
+      "recWNVpNGdTSb2lAK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kohath",
+  "offspring": [
+    "person:Mishael",
+    "person:Elizaphan",
+    "person:Sithri",
+    "person:Micah.5",
+    "person:Isshiah.3"
+  ],
+  "siblings": [
+    "person:Amram",
+    "person:Izhar",
+    "person:Hebron"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uzziel",
+      "alternate_labels": [
+        "Uzzielite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uzziel",
+          "article": "person:Uzziel",
+          "description": "A son of the patriarch Kohath and father of Mishael, Elizaphan, Sithri, Micha, Isshiah. He was uncle of the high priest Aaron."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Uzziel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006018",
+    "03010004",
+    "13023012",
+    "13024024"
+  ],
+  "references": [
+    "02006018",
+    "02006022",
+    "03010004",
+    "04003019",
+    "04003027",
+    "04003030",
+    "13005028",
+    "13006003",
+    "13015010",
+    "13023012",
+    "13023020",
+    "13024024",
+    "13026023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060180062"
+      ],
+      [
+        "o020060220021"
+      ],
+      [
+        "o030100040081"
+      ],
+      [
+        "o040030190072"
+      ],
+      [
+        "o040030270092"
+      ],
+      [
+        "o040030300081"
+      ],
+      [
+        "o130050280062"
+      ],
+      [
+        "o130060030062"
+      ],
+      [
+        "o130150100021"
+      ],
+      [
+        "o130230120062"
+      ],
+      [
+        "o130230200021"
+      ],
+      [
+        "o130240240021"
+      ],
+      [
+        "o130260230042"
+      ]
+    ]
+  }
+}

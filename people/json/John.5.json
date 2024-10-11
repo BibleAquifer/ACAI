@@ -1,0 +1,123 @@
+{
+  "id": "person:John.5",
+  "primary_id": "person:Mark",
+  "alternate_sources": {
+    "aquifer": [
+      "6413|John (Person)|TyndaleBibleDictionary",
+      "6408|John, Gospel of|TyndaleBibleDictionary",
+      "6410|John, Letters of|TyndaleBibleDictionary",
+      "6414|John, the Apostle|TyndaleBibleDictionary",
+      "6416|John, the Revelation of|TyndaleBibleDictionary",
+      "6951|Mark, John|TyndaleBibleDictionary",
+      "132488|John|BiblicaStudyNotesKeyTerms",
+      "280163|john|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.190d"
+    ],
+    "tipnr": [
+      "John|Mark@Act.12.12-1Pe"
+    ],
+    "vizbible": [
+      "rec3LAlubKgbPw9H9"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:HusbandOfMary",
+  "mother": "person:Mary.5",
+  "roles": [
+    "Disciple",
+    "Church Leader",
+    "Evangelist"
+  ],
+  "ubsdgnt": [
+    "93.190d"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "John (Mark)",
+      "alternate_labels": [
+        "John Mark",
+        "Mark"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mark",
+          "article": "person:John.5",
+          "description": "A companion of the apostle Paul, also called Mark. Traditionally considered to be the author of the Gospel of Mark."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Mark"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰωάννης"
+    ]
+  },
+  "key_references": [
+    "44012012",
+    "44012025",
+    "44013005"
+  ],
+  "references": [
+    "44012012",
+    "44012025",
+    "44013005",
+    "44013013",
+    "44015037"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44012012011"
+      ],
+      [
+        "n44012025012"
+      ],
+      [
+        "n44013005018"
+      ],
+      [
+        "n44013013014"
+      ],
+      [
+        "n44015037007"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44012012013"
+      ],
+      [
+        "n44012025014"
+      ],
+      [
+        "n44013006001"
+      ],
+      [
+        "n44013006008"
+      ],
+      [
+        "n44013013016"
+      ],
+      [
+        "n44015037009"
+      ],
+      [
+        "n44015038005"
+      ],
+      [
+        "n44015038012"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "place:Pergamum",
+  "primary_id": "place:Pergamum",
+  "alternate_sources": {
+    "aquifer": [
+      "7667|Pergamos, Pergamum|TyndaleBibleDictionary",
+      "132122|Pergamum|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a75d2c1"
+    ],
+    "ubsdgnt": [
+      "93.550"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/550812",
+      "http://pleiades.stoa.org/places/550812"
+    ],
+    "tipnr": [
+      "Pergamum@Rev.1.11-"
+    ],
+    "vizbible": [
+      "recPu1c3sMV5j5UJq"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q18986"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.550"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pergamum",
+      "alternate_labels": [
+        "Pergamos"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pergamum",
+          "gloss": "Pergamum",
+          "description": "An important city in northwest Asia Minor; one of the seven cities addressed in Revelation."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Thyatira"
+  ],
+  "subregion_of": [
+    "place:Asia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Πέργαμος"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "39.11894592",
+      "lon": "27.1651261"
+    },
+    "recogito": {
+      "lat": "39.1325",
+      "lon": "27.184167"
+    },
+    "vizbible": {
+      "lat": "39.11894592",
+      "lon": "27.1651261"
+    },
+    "biblica-maps": {
+      "lat": "39.13214",
+      "lon": "27.18381"
+    }
+  },
+  "key_references": [
+    "66002012",
+    "66001011"
+  ],
+  "references": [
+    "66001011",
+    "66002012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n66001011019"
+      ],
+      [
+        "n66002012006"
+      ]
+    ]
+  }
+}

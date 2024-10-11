@@ -1,0 +1,77 @@
+{
+  "id": "flora:Cinnamon",
+  "primary_id": "flora:Cinnamon",
+  "alternate_sources": {
+    "aquifer": [
+      "4564|Cinnamon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006513001001000"
+    ],
+    "ubsflora": [
+      "flora:4.1.4"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "006513001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cinnamon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cinnamon",
+          "article": "flora:Cinnamon",
+          "description": "A fragrant spice made from the inner bark of a tree, used in perfumes, anointing oils, and cooking."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קִנָּמֹון"
+    ]
+  },
+  "key_references": [
+    "02030023",
+    "20007017",
+    "66018013"
+  ],
+  "references": [
+    "02030023",
+    "20007017",
+    "22004014",
+    "41016018",
+    "66018013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020300230102"
+      ],
+      [
+        "o200070170052"
+      ],
+      [
+        "o220040140042"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n66018013002"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020300230122"
+      ]
+    ]
+  }
+}

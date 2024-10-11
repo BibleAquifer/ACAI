@@ -1,0 +1,99 @@
+{
+  "id": "place:Areopagus",
+  "primary_id": "place:Areopagus",
+  "alternate_sources": {
+    "aquifer": [
+      "3728|Areopagus|TyndaleBibleDictionary"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/31203"
+    ],
+    "tipnr": [
+      "Areopagus@Act.17.19-"
+    ],
+    "vizbible": [
+      "recaLSmBP3GuhC5ip"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Areopagus",
+      "alternate_labels": [
+        "Mars Hill",
+        "Areopagite",
+        "Mars’ hill"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Areopagus",
+          "gloss": "Areopagus",
+          "description": "The location of an Athenian court, traditionally associated with a rocky hill close to the Acropolis, though probably located in the marketplace at the foot of the hill; literally \"hill of Mars.\""
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Areopagus"
+  ],
+  "subregion_of": [
+    "place:Athens"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "hill"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.98333333333333",
+      "lon": "23.73333333333333"
+    },
+    "recogito": {
+      "lat": "37.958593",
+      "lon": "23.711133"
+    },
+    "vizbible": {
+      "lat": "37.958593",
+      "lon": "23.711133"
+    }
+  },
+  "key_references": [
+    "44017019",
+    "44017022"
+  ],
+  "references": [
+    "44017019",
+    "44017022",
+    "44017033",
+    "44017034"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44017019006",
+        "n44017019007"
+      ],
+      [
+        "n44017022007",
+        "n44017022008"
+      ],
+      [
+        "n44017034012"
+      ]
+    ]
+  }
+}

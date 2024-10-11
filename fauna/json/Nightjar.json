@@ -1,0 +1,69 @@
+{
+  "id": "fauna:Nightjar",
+  "primary_id": "fauna:Nightjar",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007767001001000",
+      "007767001002000"
+    ],
+    "ubsfauna": [
+      "fauna:3.17.7"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "007767001001000",
+    "007767001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nightjar",
+      "alternate_labels": [
+        "Short-Eared Owl",
+        "Nighthawk",
+        "Owl"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nightjar",
+          "article": "fauna:Nightjar",
+          "description": "A medium-sized, brown bird that flies at night, makes strange sounds, and is considered ceremonially unclean in the Bible."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תַּחְמָס",
+      "תַּחְמָס"
+    ]
+  },
+  "key_references": [
+    "03011016",
+    "05014015"
+  ],
+  "references": [
+    "03011016",
+    "05014015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110160052"
+      ],
+      [
+        "o050140150052"
+      ],
+      [
+        "o030110160052"
+      ],
+      [
+        "o050140150052"
+      ]
+    ]
+  }
+}

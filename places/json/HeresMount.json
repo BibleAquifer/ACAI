@@ -1,0 +1,94 @@
+{
+  "id": "place:HeresMount",
+  "primary_id": "place:Beth-shemesh",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002552003001000"
+    ],
+    "tipnr": [
+      "Heres_Mount|Beth-shemesh@Jos.15.10-2Ch"
+    ],
+    "vizbible": [
+      "recqTxaRekULVrdMC"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002552003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Heres",
+      "alternate_labels": [
+        "Heres",
+        "Har-Heres",
+        "Beth-Shemesh",
+        "Heres Mount"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountHeres",
+          "gloss": "Mount Heres",
+          "description": "A mountain range located east of south-east of Aijalon; territory of Dan."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Beth-shemesh"
+  ],
+  "tribal_area": "group:Dan",
+  "nearby_places": [
+    "place:Aijalon"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֶרֶס",
+      "חֶ֫רֶס"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.75274836",
+      "lon": "34.97660913"
+    },
+    "vizbible": {
+      "lat": "31.75274836",
+      "lon": "34.97660913"
+    }
+  },
+  "key_references": [
+    "07001035"
+  ],
+  "references": [
+    "07001035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070010350051"
+      ]
+    ]
+  }
+}

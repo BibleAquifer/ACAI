@@ -1,0 +1,90 @@
+{
+  "id": "place:AdriaticSea",
+  "primary_id": "place:AdriaticSea",
+  "alternate_sources": {
+    "obi": [
+      "adc77fb"
+    ],
+    "ubsdgnt": [
+      "93.391"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/1004"
+    ],
+    "tipnr": [
+      "Adriatic_Sea@Act.27.27"
+    ],
+    "vizbible": [
+      "recnaZntafDFrVRTN"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q13924"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.391"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adriatic Sea",
+      "alternate_labels": [
+        "Adria",
+        "Sea of Adria"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:AdriaticSea",
+          "gloss": "Adriatic Sea",
+          "description": "A body of water between Italy and the Balkan Peninsula."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἀδρίας"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "body of water"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "sea"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "42.415",
+      "lon": "16.3735"
+    },
+    "vizbible": {
+      "lat": "42.415",
+      "lon": "16.3735"
+    }
+  },
+  "key_references": [
+    "44027027"
+  ],
+  "references": [
+    "44027027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027027010"
+      ]
+    ]
+  }
+}

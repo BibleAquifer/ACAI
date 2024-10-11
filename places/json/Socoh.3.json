@@ -1,0 +1,81 @@
+{
+  "id": "place:Socoh.3",
+  "primary_id": "place:Socoh.3",
+  "alternate_sources": {
+    "aquifer": [
+      "8555|Soco (Place), Socoh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006998001003000"
+    ],
+    "tipnr": [
+      "Socoh@1Ki.4.10"
+    ],
+    "vizbible": [
+      "recpcRQjrSxfIULgY"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006998001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Socoh (in the Sharon Plain)",
+      "alternate_labels": [
+        "Sokoh",
+        "Sochoh",
+        "Arubboth",
+        "Socoh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Socoh.3",
+          "gloss": "Socoh (in the Sharon Plain)",
+          "description": "A town in one of Solomon's districts, in the Sharon Plain."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Sharon.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.68123465358001",
+      "lon": "34.97639817516712"
+    },
+    "vizbible": {
+      "lat": "31.68123465358001",
+      "lon": "34.97639817516712"
+    }
+  },
+  "key_references": [
+    "11004010"
+  ],
+  "references": [
+    "11004010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040100051"
+      ]
+    ]
+  }
+}

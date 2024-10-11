@@ -1,0 +1,65 @@
+{
+  "id": "realia:Kor.2",
+  "primary_id": "realia:Kor.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6648|Kor|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "81.20",
+      "81.21"
+    ],
+    "ubsrealia": [
+      "realia:11.3.2.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "81.20",
+    "81.21"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kor",
+      "alternate_labels": [
+        "Bath",
+        "Cor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kor",
+          "article": "realia:Kor.2",
+          "description": "A Hebrew measure for liquids or dry goods, about 35 liters for liquids or 390 liters for dry goods."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βάτος",
+      "κόρος"
+    ]
+  },
+  "key_references": [
+    "42016006",
+    "42016007"
+  ],
+  "references": [
+    "42016006",
+    "42016007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42016006005"
+      ],
+      [
+        "n42016007012"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "person:Maacah.4",
+  "primary_id": "person:Maacah.4",
+  "alternate_sources": {
+    "aquifer": [
+      "6808|Maacah, Maachah (Person)|TyndaleBibleDictionary",
+      "26843|Maacah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "004213001006000"
+    ],
+    "tipnr": [
+      "Maacah@1Ch.2.48"
+    ],
+    "vizbible": [
+      "recv5MvwBX1vX81YQ"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Caleb.2"
+  ],
+  "offspring": [
+    "person:Sheber",
+    "person:Tirhanah",
+    "person:Shaaph.2",
+    "person:Sheva.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "004213001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maacah (1 Chronicles 2:48)",
+      "alternate_labels": [
+        "Maakah",
+        "Maachah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Maacah (1 Chronicles 2:48)",
+          "article": "person:Maacah.4",
+          "description": "A woman from the tribe of Judah during the divided kingdom, married to Caleb, and mother of Sheber, Tirhanah, Shaaph, and Sheva."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002048"
+  ],
+  "references": [
+    "13002048"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020480031"
+      ]
+    ]
+  }
+}

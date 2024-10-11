@@ -1,0 +1,130 @@
+{
+  "id": "place:Kiriathaim",
+  "primary_id": "place:Kiriathaim",
+  "alternate_sources": {
+    "aquifer": [
+      "6600|Kiriathaim|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Kiriathaim@Gen.14.5-Amo",
+      "Kerioth|Kiriathaim@Gen.14.5-Amo",
+      "Shaveh-kiriathaim|Kiriathaim@Gen.14.5-Amo"
+    ],
+    "vizbible": [
+      "receKKjJVBBYJWFPx"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kiriathaim (of Reuben)",
+      "alternate_labels": [
+        "Shaveh Kiriathaim",
+        "cities",
+        "Kirjathaim",
+        "Kerioth",
+        "Kiriathaim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kiriathaim.1",
+          "gloss": "Kiriathaim (of Reuben)",
+          "description": "A town in the territory of Reuben; later part of Moab."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Kerioth"
+  ],
+  "referred_to_as": [
+    "place:Kerioth",
+    "place:Shaveh-kiriathaim"
+  ],
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.58333333",
+      "lon": "35.7"
+    },
+    "vizbible": {
+      "lat": "31.58333333",
+      "lon": "35.7"
+    }
+  },
+  "key_references": [
+    "26025009",
+    "04032037",
+    "24048001"
+  ],
+  "references": [
+    "01014005",
+    "04032037",
+    "06013019",
+    "24048001",
+    "24048023",
+    "24048024",
+    "24048041",
+    "26025009",
+    "30002002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140050192",
+        "o010140050201"
+      ],
+      [
+        "o040320370091"
+      ],
+      [
+        "o060130190012"
+      ],
+      [
+        "o240480010151"
+      ],
+      [
+        "o240480230021"
+      ],
+      [
+        "o240480240021"
+      ],
+      [
+        "o240480410022"
+      ],
+      [
+        "o260250090172"
+      ],
+      [
+        "o300020020062"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240480010131"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "group:Beth-shemesh",
+  "primary_id": "group:Beth-shemesh",
+  "type": "group",
+  "group_type": "other",
+  "localizations": {
+    "eng": {
+      "preferred_label": "People From Beth-Shemesh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "People From Beth-Shemesh",
+          "description": "People who live in Beth-shemesh."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09006020"
+  ],
+  "references": [
+    "09006020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090060200021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090060210041"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o090060200041",
+          "o090060200051",
+          "o090060200061",
+          "o090060200071",
+          "o090060200072",
+          "o090060200081",
+          "o090060200082",
+          "o090060200091",
+          "o090060200101",
+          "o090060200102",
+          "o090060200111",
+          "o090060200112",
+          "o090060200121",
+          "o090060200122",
+          "o090060200131",
+          "o090060200132",
+          "o090060200141",
+          "o090060200151"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o090060210071",
+          "o090060210072",
+          "o090060210081",
+          "o090060210091",
+          "o090060210101",
+          "o090060210111",
+          "o090060210121",
+          "o090060210131",
+          "o090060210141",
+          "o090060210151",
+          "o090060210152"
+        ]
+      }
+    ]
+  }
+}

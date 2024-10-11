@@ -1,0 +1,72 @@
+{
+  "id": "person:Adoniram",
+  "primary_id": "person:Adoram",
+  "alternate_sources": {
+    "aquifer": [
+      "3393|Adoniram|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000142001001000"
+    ],
+    "tipnr": [
+      "Adoniram|Adoram@2Sa.20.24-2Ch"
+    ],
+    "vizbible": [
+      "recDz3OHWVWZqjrOR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abda",
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "000142001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adoniram (Adoram)",
+      "alternate_labels": [
+        "Adoram",
+        "Abda"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Adoram",
+          "article": "person:Adoniram",
+          "description": "A man, also known as Adoram and Hadoram, who was an official during the time of David, Solomon, and Rehoboam, and was stoned by the people during a rebellion against Rehoboam."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Adoram"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲדֹנִירָם"
+    ]
+  },
+  "key_references": [
+    "11004006",
+    "11005028"
+  ],
+  "references": [
+    "11004006",
+    "11005028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040060042"
+      ],
+      [
+        "o110050280132"
+      ]
+    ]
+  }
+}

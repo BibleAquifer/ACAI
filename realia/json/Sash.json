@@ -1,0 +1,98 @@
+{
+  "id": "realia:Sash",
+  "primary_id": "realia:Sash",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000072001001000"
+    ],
+    "ubsrealia": [
+      "realia:4.5.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "000072001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sash",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sash",
+          "article": "realia:Sash",
+          "description": "A strip of cloth worn around the waist to secure a garment."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַבְנֵט"
+    ]
+  },
+  "key_references": [
+    "02028004",
+    "02029009",
+    "23022021"
+  ],
+  "references": [
+    "02028004",
+    "02028039",
+    "02028040",
+    "02029009",
+    "02039029",
+    "03008007",
+    "03008013",
+    "03016004",
+    "23022021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020280040112"
+      ],
+      [
+        "o020280390072"
+      ],
+      [
+        "o020280400071"
+      ],
+      [
+        "o020290090031"
+      ],
+      [
+        "o020390290022"
+      ],
+      [
+        "o030080070072"
+      ],
+      [
+        "o030080130101"
+      ],
+      [
+        "o030160040103"
+      ],
+      [
+        "o230220210032",
+        "o230220210033"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020280410022"
+      ],
+      [
+        "o030160040181"
+      ],
+      [
+        "o030160040233"
+      ]
+    ]
+  }
+}

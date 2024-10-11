@@ -1,0 +1,133 @@
+{
+  "id": "place:Troas",
+  "primary_id": "place:Troas",
+  "alternate_sources": {
+    "aquifer": [
+      "8930|Troas|TyndaleBibleDictionary",
+      "27177|Troas|UWTranslationWords"
+    ],
+    "obi": [
+      "a91c509"
+    ],
+    "ubsdgnt": [
+      "93.599"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21154"
+    ],
+    "tipnr": [
+      "Troas@Act.16.8-2Ti"
+    ],
+    "vizbible": [
+      "recOEIhMwampGbSqk"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1393407"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.599"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Troas",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Troas",
+          "gloss": "Troas",
+          "description": "A city and region in the northwest corner of Asia Minor; Paul had a vision while visiting there (Acts 16:8–9)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Τρῳάς"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "region",
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "39.50664306",
+      "lon": "26.0805927"
+    },
+    "recogito": {
+      "lat": "39.75135",
+      "lon": "26.15765"
+    },
+    "vizbible": {
+      "lat": "39.75135",
+      "lon": "26.15765"
+    },
+    "biblica-maps": {
+      "lat": "39.75647",
+      "lon": "26.15475"
+    }
+  },
+  "key_references": [
+    "44016008",
+    "44020005"
+  ],
+  "references": [
+    "44016008",
+    "44016011",
+    "44020005",
+    "44020006",
+    "47002012",
+    "55004013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44016008007"
+      ],
+      [
+        "n44016011004"
+      ],
+      [
+        "n44020005007"
+      ],
+      [
+        "n44020006017"
+      ],
+      [
+        "n47002012005"
+      ],
+      [
+        "n55004013006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44020006021"
+      ],
+      [
+        "n47002013017"
+      ]
+    ]
+  }
+}

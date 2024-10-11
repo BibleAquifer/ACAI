@@ -1,0 +1,98 @@
+{
+  "id": "place:Chesulloth",
+  "primary_id": "place:Chesulloth",
+  "alternate_sources": {
+    "aquifer": [
+      "4516|Chesulloth|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac3d92d"
+    ],
+    "tipnr": [
+      "Tabor|Chesulloth@Jos.19.18-1Ch",
+      "Chisloth-tabor|Chesulloth@Jos.19.18-1Ch",
+      "Chesulloth@Jos.19.18-1Ch"
+    ],
+    "vizbible": [
+      "recQ8DF0pj7A20FyQ"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chesulloth",
+      "alternate_labels": [
+        "Chisloth-tabor",
+        "Kisloth Tabor",
+        "Kesulloth",
+        "Tabor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chesulloth",
+          "gloss": "Chesulloth",
+          "description": "A town in the territory of Issachar; also known as Chisloth-Tabor."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Chisloth-tabor",
+    "place:Tabor"
+  ],
+  "tribal_area": "group:Issachar",
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.683231",
+      "lon": "35.324694"
+    },
+    "vizbible": {
+      "lat": "32.683231",
+      "lon": "35.324694"
+    }
+  },
+  "key_references": [
+    "06019018",
+    "06019012"
+  ],
+  "references": [
+    "06019012",
+    "06019018",
+    "13006062"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190120081",
+        "o060190120091"
+      ],
+      [
+        "o060190180043"
+      ],
+      [
+        "o130060620111"
+      ]
+    ]
+  }
+}

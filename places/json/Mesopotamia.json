@@ -1,0 +1,127 @@
+{
+  "id": "place:Mesopotamia",
+  "primary_id": "place:Mesopotamia",
+  "alternate_sources": {
+    "aquifer": [
+      "7089|Mesopotamia|TyndaleBibleDictionary",
+      "26872|Mesopotamia|UWTranslationWords",
+      "132190|Mesopotamia|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a43f60f"
+    ],
+    "tipnr": [
+      "Mesopotamia@Gen.24.10-Act"
+    ],
+    "vizbible": [
+      "rec8Dy0OPNtiTqsoS"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q11767"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mesopotamia",
+      "alternate_labels": [
+        "Aram-Naharaim",
+        "Armon Haraim",
+        "Armon",
+        "Aram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mesopotamia",
+          "gloss": "Mesopotamia",
+          "description": "A region between the Tigris and Euphrates Rivers; the Garden of Eden was located here."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Mesopotamia"
+  ],
+  "nearby_places": [
+    "place:Assyria",
+    "place:Babylonia",
+    "place:Media"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.53650368616845",
+      "lon": "44.42088287373876"
+    },
+    "vizbible": {
+      "lat": "32.53650368616845",
+      "lon": "44.42088287373876"
+    }
+  },
+  "key_references": [
+    "44007002",
+    "01002010"
+  ],
+  "references": [
+    "01024010",
+    "05023005",
+    "07003008",
+    "07003010",
+    "13019006",
+    "19060002",
+    "44002009",
+    "44007002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010240100151",
+        "o010240100161"
+      ],
+      [
+        "o050230050201",
+        "o050230050211"
+      ],
+      [
+        "o070030080101",
+        "o070030080111"
+      ],
+      [
+        "o070030100171"
+      ],
+      [
+        "o130190060181",
+        "o130190060191"
+      ],
+      [
+        "o190600020031",
+        "o190600020041"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44002009010"
+      ],
+      [
+        "n44007002021"
+      ]
+    ]
+  }
+}

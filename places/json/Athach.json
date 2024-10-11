@@ -1,0 +1,75 @@
+{
+  "id": "place:Athach",
+  "primary_id": "place:Athach",
+  "alternate_sources": {
+    "aquifer": [
+      "3858|Athach|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005751001001000"
+    ],
+    "tipnr": [
+      "Athach@1Sa.30.30"
+    ],
+    "vizbible": [
+      "recwsdmX36Vbc84ii"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005751001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Athach",
+      "alternate_labels": [
+        "Athak"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Athach",
+          "gloss": "Athach",
+          "description": "A town in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עַתְלָי",
+      "עַתְלַי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "09030030"
+  ],
+  "references": [
+    "09030030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090300300072"
+      ]
+    ]
+  }
+}

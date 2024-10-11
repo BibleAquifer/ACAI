@@ -1,0 +1,112 @@
+{
+  "id": "flora:WildFlower",
+  "primary_id": "flora:WildFlower",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "3.56",
+      "3.32"
+    ],
+    "ubsflora": [
+      "flora:6.1.1"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Flowers, Thorns, and Weeds",
+  "ubsdgnt": [
+    "3.56",
+    "3.32"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wild Flower",
+      "alternate_labels": [
+        "Anemone"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wild Flower",
+          "article": "flora:WildFlower",
+          "description": "A flower that grows naturally without cultivation. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἄνθος",
+      "κρίνον"
+    ]
+  },
+  "key_references": [
+    "40006028",
+    "42012027"
+  ],
+  "references": [
+    "40006028",
+    "41016018",
+    "42012027",
+    "59001010",
+    "59001011",
+    "60001024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n59001010010"
+      ],
+      [
+        "n59001011014"
+      ],
+      [
+        "n60001024011"
+      ],
+      [
+        "n60001024018"
+      ],
+      [
+        "n40006028008"
+      ],
+      [
+        "n42012027003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n59001011022"
+      ],
+      [
+        "n40006029015"
+      ],
+      [
+        "n42012027023"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40006028012"
+      ],
+      [
+        "n40006028014"
+      ],
+      [
+        "n40006028016"
+      ],
+      [
+        "n42012027005"
+      ],
+      [
+        "n42012027007"
+      ],
+      [
+        "n42012027009"
+      ]
+    ]
+  }
+}

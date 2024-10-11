@@ -1,0 +1,148 @@
+{
+  "id": "realia:Doorpost",
+  "primary_id": "realia:Doorpost",
+  "alternate_sources": {
+    "aquifer": [
+      "26538|Doorpost|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "003832001001000",
+      "003832001002000",
+      "003832001003000"
+    ],
+    "ubsrealia": [
+      "realia:3.1.2.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003832001001000",
+    "003832001002000",
+    "003832001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Doorpost",
+      "alternate_labels": [
+        "Entrance",
+        "Doorway",
+        "Threshold and Doorpost > House"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Doorpost",
+          "article": "realia:Doorpost",
+          "description": "The upright part of a door frame marking the entrance to a building, sometimes including the horizontal elements."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְזוּזָה",
+      "מְזוּזָה",
+      "מְזוּזָה"
+    ]
+  },
+  "key_references": [
+    "02012007",
+    "05006009",
+    "07016003"
+  ],
+  "references": [
+    "02012007",
+    "02012022",
+    "02012023",
+    "02021006",
+    "05006009",
+    "05011020",
+    "07016003",
+    "09001009",
+    "11006031",
+    "11006033",
+    "11007005",
+    "20008034",
+    "23057008",
+    "26041021",
+    "26043008",
+    "26045019",
+    "26046002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020120070072"
+      ],
+      [
+        "o020120220132"
+      ],
+      [
+        "o020120230132"
+      ],
+      [
+        "o020210060102"
+      ],
+      [
+        "o050060090031"
+      ],
+      [
+        "o050110200031"
+      ],
+      [
+        "o070160030142"
+      ],
+      [
+        "o090010090141"
+      ],
+      [
+        "o110060310091"
+      ],
+      [
+        "o110060330051"
+      ],
+      [
+        "o110070050033"
+      ],
+      [
+        "o230570080033"
+      ],
+      [
+        "o260410210021"
+      ],
+      [
+        "o260450190071"
+      ],
+      [
+        "o260450190151"
+      ],
+      [
+        "o260460020091"
+      ],
+      [
+        "o200080340111"
+      ],
+      [
+        "o260430080052",
+        "o260430080053"
+      ],
+      [
+        "o260430080071",
+        "o260430080072"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o070160030153"
+      ],
+      [
+        "o070160030213"
+      ]
+    ]
+  }
+}

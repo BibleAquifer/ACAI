@@ -1,0 +1,88 @@
+{
+  "id": "place:Libnah",
+  "primary_id": "place:Libnah",
+  "alternate_sources": {
+    "aquifer": [
+      "6738|Libnah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003513001001000"
+    ],
+    "tipnr": [
+      "Libnah@Num.33.20-"
+    ],
+    "vizbible": [
+      "recFZ697FdVaWTxsm"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003513001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Libnah (Campsite)",
+      "alternate_labels": [
+        "Libnah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Libnah.2",
+          "gloss": "Libnah (Campsite)",
+          "description": "A location in the Sinai Peninsula, between Rimmon-Perez and Rissah, where the Israelites encamped on their way from Egypt to Canaan; possibly to be identified with Laban."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Laban"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "לִבְנָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    },
+    "vizbible": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    }
+  },
+  "key_references": [
+    "04033020",
+    "04033021"
+  ],
+  "references": [
+    "04033020",
+    "04033021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330200052"
+      ],
+      [
+        "o040330210022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "place:Puteoli",
+  "primary_id": "place:Puteoli",
+  "alternate_sources": {
+    "aquifer": [
+      "7867|Puteoli|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a4488e9"
+    ],
+    "ubsdgnt": [
+      "93.556"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/16721"
+    ],
+    "tipnr": [
+      "Puteoli@Act.28.13"
+    ],
+    "vizbible": [
+      "recxF6Nx69b2BrqS7"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q72425"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.556"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Puteoli",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Puteoli",
+          "gloss": "Puteoli",
+          "description": "A city on the coast of Italy, south of Rome; visited by Paul on his journey to Rome."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:ForumOfAppius",
+    "place:ThreeTaverns",
+    "place:Rome"
+  ],
+  "subregion_of": [
+    "place:Italy"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ποτίολοι"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.83563065",
+      "lon": "14.26774387"
+    },
+    "recogito": {
+      "lat": "40.827957",
+      "lon": "14.121869"
+    },
+    "vizbible": {
+      "lat": "40.827957",
+      "lon": "14.121869"
+    },
+    "biblica-maps": {
+      "lat": "40.82584",
+      "lon": "14.12174"
+    }
+  },
+  "key_references": [
+    "44028013"
+  ],
+  "references": [
+    "44028013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44028013015"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44028014001"
+      ]
+    ]
+  }
+}

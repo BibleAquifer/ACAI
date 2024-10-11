@@ -1,0 +1,59 @@
+{
+  "id": "deity:HolyOne",
+  "primary_id": "deity:HolySpirit",
+  "alternate_sources": {
+    "aquifer": [
+      "26700|Holy One|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "88.24"
+    ],
+    "tipnr": [
+      "Holy_One|Holy_Spirit@Mat.1.18-Rev"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdgnt": [
+    "88.24"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Holy One (Holy Spirit)",
+      "alternate_labels": [
+        "Holy Spirit"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Holy Spirit",
+          "article": "deity:HolyOne",
+          "description": "A reference to the Holy Spirit found in 1 John 2:20."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:HolySpirit"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἅγιος"
+    ]
+  },
+  "key_references": [
+    "62002020"
+  ],
+  "references": [
+    "62002020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n62002020007"
+      ]
+    ]
+  }
+}

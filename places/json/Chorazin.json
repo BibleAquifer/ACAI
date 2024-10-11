@@ -1,0 +1,141 @@
+{
+  "id": "place:Chorazin",
+  "primary_id": "place:Chorazin",
+  "alternate_sources": {
+    "aquifer": [
+      "4544|Chorazin|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a593a48"
+    ],
+    "ubsdgnt": [
+      "93.615"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678091",
+      "http://pleiades.stoa.org/places/678091"
+    ],
+    "tipnr": [
+      "Chorazin@Mat.11.21-Luk"
+    ],
+    "vizbible": [
+      "recqRfuwwNuMvCGxj"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2456076"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.615"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chorazin",
+      "alternate_labels": [
+        "Korazin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chorazin",
+          "gloss": "Chorazin",
+          "description": "A city in Galilee on which Jesus pronounced woe due to its inhabitants lack of repentance."
+        }
+      ]
+    }
+  },
+  "associated_places": [
+    "place:Bethsaida"
+  ],
+  "nearby_places": [
+    "place:Capernaum",
+    "place:Bethsaida"
+  ],
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Χοραζίν"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.90909169",
+      "lon": "35.55292324"
+    },
+    "recogito": {
+      "lat": "32.911712",
+      "lon": "35.564075"
+    },
+    "vizbible": {
+      "lat": "32.90909169",
+      "lon": "35.55292324"
+    },
+    "biblica-maps": {
+      "lat": "32.91139",
+      "lon": "35.56409"
+    }
+  },
+  "key_references": [
+    "40011021",
+    "42010013"
+  ],
+  "references": [
+    "40011021",
+    "42010013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40011021003"
+      ],
+      [
+        "n42010013003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40011021002"
+      ],
+      [
+        "n40011021019"
+      ],
+      [
+        "n40011022003"
+      ],
+      [
+        "n40011022013"
+      ],
+      [
+        "n42010013002"
+      ],
+      [
+        "n42010013019"
+      ],
+      [
+        "n42010014011"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "group:FarmWorkers",
+  "primary_id": "group:FarmWorkers",
+  "type": "group",
+  "group_type": "other",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Farm Workers",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Farm Workers",
+          "description": "A group of farm workers (or harvesters, or reapers) participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "08002004",
+    "08002004"
+  ],
+  "references": [
+    "08002004",
+    "08002004"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o080020040063"
+      ],
+      [
+        "o080020040102"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o080020040111",
+          "o080020040112",
+          "o080020040121"
+        ]
+      }
+    ]
+  }
+}

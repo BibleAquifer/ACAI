@@ -1,0 +1,115 @@
+{
+  "id": "group:Jezreel",
+  "primary_id": "group:Jezreel",
+  "alternate_sources": {
+    "aquifer": [
+      "26763|Jezreel|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002889001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21150"
+    ],
+    "tipnr": [
+      "Jezreel@Jos.19.18-Hos"
+    ],
+    "vizbible": [
+      "recdU0shMzVelyTiU"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Jezreel.2",
+  "ubsdbh": [
+    "002889001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jezreel (of Judah)",
+      "alternate_labels": [
+        "Jezreel",
+        "Jezreelitess",
+        "Jezreelite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jezreel (of Judah)",
+          "article": "group:Jezreel",
+          "description": "People who live in Jezreel (of Judah), the home of Ahinoam, one of King David's wives."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִזְרְעֵאלִי",
+      "יִזְרְעֵאלִית"
+    ]
+  },
+  "key_references": [
+    "09025043"
+  ],
+  "references": [
+    "09025043",
+    "09027003",
+    "09030005",
+    "10002002",
+    "10003002",
+    "11021001",
+    "11021004",
+    "11021006",
+    "11021007",
+    "11021015",
+    "11021016",
+    "12009021",
+    "12009025",
+    "13003001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090270030142"
+      ],
+      [
+        "o090300050062"
+      ],
+      [
+        "o100020020082"
+      ],
+      [
+        "o100030020102"
+      ],
+      [
+        "o110210010082"
+      ],
+      [
+        "o110210040132"
+      ],
+      [
+        "o110210060072"
+      ],
+      [
+        "o110210070222"
+      ],
+      [
+        "o110210150172"
+      ],
+      [
+        "o110210160132"
+      ],
+      [
+        "o120090210212"
+      ],
+      [
+        "o120090250112"
+      ],
+      [
+        "o130030010122"
+      ]
+    ]
+  }
+}

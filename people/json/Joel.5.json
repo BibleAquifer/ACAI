@@ -1,0 +1,73 @@
+{
+  "id": "person:Joel.5",
+  "primary_id": "person:Joel.5",
+  "alternate_sources": {
+    "aquifer": [
+      "6401|Joel (Person)|TyndaleBibleDictionary",
+      "26767|Joel|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002847001004000"
+    ],
+    "tipnr": [
+      "Joel@1Ch.5.12"
+    ],
+    "vizbible": [
+      "recirc8AaVbEi836e"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "tribe": "group:Gad",
+  "ubsdbh": [
+    "002847001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joel (1 Chronicles 5:12)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joel (1 Chronicles 5:12)",
+          "article": "person:Joel.5",
+          "description": "A man from the tribe of Gad living during the time of the divided kingdom, mentioned in 1 Chronicles 5:12."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹואֵל",
+      "יוֹאֵל"
+    ]
+  },
+  "key_references": [
+    "13005012"
+  ],
+  "references": [
+    "13005012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050120011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130050140011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130050160012"
+      ]
+    ]
+  }
+}

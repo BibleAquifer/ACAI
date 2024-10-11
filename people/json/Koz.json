@@ -1,0 +1,72 @@
+{
+  "id": "person:Koz",
+  "primary_id": "person:Koz",
+  "alternate_sources": {
+    "aquifer": [
+      "6649|Koz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006419002001000"
+    ],
+    "tipnr": [
+      "Koz@1Ch.4.8"
+    ],
+    "vizbible": [
+      "recPUD6rcrPGJ63xV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ashhur",
+  "mother": "person:Helah",
+  "offspring": [
+    "person:Anub",
+    "person:Zobebah",
+    "person:Harum",
+    "person:Jabez"
+  ],
+  "siblings": [
+    "person:Ahuzzam",
+    "person:Hepher.2",
+    "person:Temeni",
+    "person:Haahashtari",
+    "person:Zereth",
+    "person:Izhar.2",
+    "person:Ethnan"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "006419002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Koz",
+      "alternate_labels": [
+        "Coz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Koz",
+          "article": "person:Koz",
+          "description": "A man of the tribe of Judah living during the times of Egypt and the wilderness, mentioned only in 1 Chronicles 4:8, son of Ashhur and Helah, having several brothers and half-brothers, and father to Anub, Zobebah, Harum, and possibly Jabez."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004008"
+  ],
+  "references": [
+    "13004008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040080012"
+      ]
+    ]
+  }
+}

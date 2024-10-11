@@ -1,0 +1,70 @@
+{
+  "id": "person:Tahash",
+  "primary_id": "person:Tahash",
+  "alternate_sources": {
+    "aquifer": [
+      "8712|Tahash|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007777002001000"
+    ],
+    "tipnr": [
+      "Tahash@Gen.22.24"
+    ],
+    "vizbible": [
+      "rec33vtPNx94YonY7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nahor.2",
+  "mother": "person:Reumah",
+  "siblings": [
+    "person:Uz.2",
+    "person:Buz",
+    "person:Kemuel",
+    "person:Chesed",
+    "person:Hazo",
+    "person:Pildash",
+    "person:Jidlaph",
+    "person:Bethuel",
+    "person:Tebah",
+    "person:Gaham",
+    "person:Maacah"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "007777002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tahash",
+      "alternate_labels": [
+        "Thahash"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tahash",
+          "article": "person:Tahash",
+          "description": "Tahash, mentioned in Genesis 22:24, was a son of Nahor and Reumah, and lived during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01022024"
+  ],
+  "references": [
+    "01022024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010220240121"
+      ]
+    ]
+  }
+}

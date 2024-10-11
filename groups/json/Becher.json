@@ -1,0 +1,57 @@
+{
+  "id": "group:Becher",
+  "primary_id": "group:Becher",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001000001001000"
+    ],
+    "tipnr": [
+      "Becher@Num.26.35"
+    ],
+    "vizbible": [
+      "recQh26IgmpRKW3HS"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Becher.2",
+  "ubsdbh": [
+    "001000001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Becherites",
+      "alternate_labels": [
+        "Becher"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Becherites",
+          "article": "group:Becher",
+          "description": "People descended from Becher of the tribe of Ephraim."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּכְרִי"
+    ]
+  },
+  "key_references": [
+    "04026035"
+  ],
+  "references": [
+    "04026035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260350102"
+      ]
+    ]
+  }
+}

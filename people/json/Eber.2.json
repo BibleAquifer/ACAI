@@ -1,0 +1,58 @@
+{
+  "id": "person:Eber.2",
+  "primary_id": "person:Eber.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4927|Eber|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Eber@1Ch.5.13"
+    ],
+    "vizbible": [
+      "recfjPlKSPB9atn9r"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abihail.3",
+  "siblings": [
+    "person:Michael.2",
+    "person:Meshullam.3",
+    "person:Sheba.5",
+    "person:Jorai",
+    "person:Jacan",
+    "person:Zia"
+  ],
+  "tribe": "group:Gad",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eber (1 Chronicles 5:13)",
+      "alternate_labels": [
+        "Heber"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eber (1 Chronicles 5:13)",
+          "article": "person:Eber.2",
+          "description": "Eber, also known as Heber, was a man of the tribe of Gad living during the divided kingdom, mentioned in 1 Chronicles 5:13 as the son of Abihail and brother to Michael, Meshullam, Sheba, Jorai, Jacan, and Zia."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13005013"
+  ],
+  "references": [
+    "13005013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050130102"
+      ]
+    ]
+  }
+}

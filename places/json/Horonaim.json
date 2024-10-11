@@ -1,0 +1,91 @@
+{
+  "id": "place:Horonaim",
+  "primary_id": "place:Horonaim",
+  "alternate_sources": {
+    "aquifer": [
+      "5909|Horonaim|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Horonaim@Isa.15.5-Jer"
+    ],
+    "vizbible": [
+      "recoMMN7G2f7qaQuj"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Horonaim (of Moab)",
+      "alternate_labels": [
+        "Horonaim [LXX]",
+        "–",
+        "Horonaim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Horonaim.1",
+          "gloss": "Horonaim (of Moab)",
+          "description": "A town in Moab mentioned in prophetic oracles against Moab (Isa 15:5; Jer 48:3–5; Jer 48:34)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.288056",
+      "lon": "35.515"
+    },
+    "vizbible": {
+      "lat": "31.288056",
+      "lon": "35.515"
+    }
+  },
+  "key_references": [
+    "24048005",
+    "23015005"
+  ],
+  "references": [
+    "10013034",
+    "23015005",
+    "24048003",
+    "24048005",
+    "24048034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230150050171"
+      ],
+      [
+        "o240480030032"
+      ],
+      [
+        "o240480050101"
+      ],
+      [
+        "o240480340111"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "person:Shemaiah.19",
+  "primary_id": "person:Shemaiah.19",
+  "alternate_sources": {
+    "aquifer": [
+      "8345|Shemaiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007486001011000"
+    ],
+    "tipnr": [
+      "Shemaiah@Neh.6.10"
+    ],
+    "vizbible": [
+      "recKeZqfwhvjXKUUS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Delaiah.4",
+  "ubsdbh": [
+    "007486001011000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shemaiah (Nehemiah 6:10)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shemaiah (Nehemiah 6:10)",
+          "article": "person:Shemaiah.19",
+          "description": "Shemaiah, mentioned in Nehemiah 6:10, was a man living during the time of exile and return and the son of Delaiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16006010"
+  ],
+  "references": [
+    "16006010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160060100041"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o160060130031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o160060100112",
+        "o160060100121"
+      ],
+      [
+        "o160060100192"
+      ],
+      [
+        "o160060120081"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o160060100121",
+          "o160060100131",
+          "o160060100141",
+          "o160060100151",
+          "o160060100152",
+          "o160060100161",
+          "o160060100171",
+          "o160060100181",
+          "o160060100182",
+          "o160060100191",
+          "o160060100192",
+          "o160060100201",
+          "o160060100211",
+          "o160060100212",
+          "o160060100221",
+          "o160060100231",
+          "o160060100241",
+          "o160060100242",
+          "o160060100243",
+          "o160060100251",
+          "o160060100252",
+          "o160060100261",
+          "o160060100271",
+          "o160060100272",
+          "o160060100273"
+        ]
+      }
+    ]
+  }
+}

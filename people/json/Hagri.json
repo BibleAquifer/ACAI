@@ -1,0 +1,104 @@
+{
+  "id": "person:Hagri",
+  "primary_id": "person:Hagri",
+  "alternate_sources": {
+    "aquifer": [
+      "5595|Hagri|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hagri@1Ch.5.10-Psa"
+    ],
+    "vizbible": [
+      "recczovVR9pRtmr1j"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Mibhar"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hagri",
+      "alternate_labels": [
+        "Haggeri",
+        "Hagrite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hagri",
+          "article": "person:Hagri",
+          "description": "The father of Mibhar, one of King David's mighty men. Hagri was founder of the Hagrites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13005010",
+    "13005019",
+    "13011026",
+    "13011038"
+  ],
+  "references": [
+    "13005010",
+    "13005019",
+    "13005020",
+    "13011038",
+    "13027031",
+    "19083007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050100062"
+      ],
+      [
+        "o130050190042"
+      ],
+      [
+        "o130050200052"
+      ],
+      [
+        "o130110380061"
+      ],
+      [
+        "o130270310042"
+      ],
+      [
+        "o190830070052"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130050100072"
+      ],
+      [
+        "o190830130021",
+        "o190830130031"
+      ],
+      [
+        "o190830170042"
+      ],
+      [
+        "o190830180011"
+      ],
+      [
+        "o190830180022"
+      ],
+      [
+        "o190830180052"
+      ],
+      [
+        "o190830180062"
+      ],
+      [
+        "o190830190012"
+      ]
+    ]
+  }
+}

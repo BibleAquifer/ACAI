@@ -1,0 +1,70 @@
+{
+  "id": "person:Imrah",
+  "primary_id": "person:Imrah",
+  "alternate_sources": {
+    "aquifer": [
+      "6013|Imrah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002960001001000"
+    ],
+    "tipnr": [
+      "Imrah@1Ch.7.36"
+    ],
+    "vizbible": [
+      "recjIwaUnKvnbjNl1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zophah",
+  "siblings": [
+    "person:Suah",
+    "person:Harnepher",
+    "person:Shual",
+    "person:Beri",
+    "person:Bezer",
+    "person:Hod",
+    "person:Shamma",
+    "person:Shilshah",
+    "person:Ithran.2",
+    "person:Beera"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "002960001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Imrah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Imrah",
+          "article": "person:Imrah",
+          "description": "A man of the tribe of Asher during the divided kingdom, son of Zophah, mentioned only in 1 Chronicles 7:36."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִמְרָה"
+    ]
+  },
+  "key_references": [
+    "13007036"
+  ],
+  "references": [
+    "13007036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070360072"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "person:Jahath",
+  "primary_id": "person:Jahath",
+  "alternate_sources": {
+    "aquifer": [
+      "6172|Jahath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002918001001000"
+    ],
+    "tipnr": [
+      "Jahath@1Ch.4.2"
+    ],
+    "vizbible": [
+      "rec6C5q2B1DglS5AO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Haroeh",
+  "offspring": [
+    "person:Ahumai",
+    "person:Lahad"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002918001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jahath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jahath",
+          "article": "person:Jahath",
+          "description": "A man from the tribe of Judah, son of Reaiah, and living during the time of the divided kingdom, mentioned in 1 Chronicles 4:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יַחַת",
+      "יַ֫חַת"
+    ]
+  },
+  "key_references": [
+    "13004002"
+  ],
+  "references": [
+    "13004002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040020061"
+      ],
+      [
+        "o130040020072"
+      ]
+    ]
+  }
+}

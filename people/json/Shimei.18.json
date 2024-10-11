@@ -1,0 +1,57 @@
+{
+  "id": "person:Shimei.18",
+  "primary_id": "person:Shimei.18",
+  "alternate_sources": {
+    "aquifer": [
+      "8407|Shimei|TyndaleBibleDictionary",
+      "27087|Shimei|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007485001016000"
+    ],
+    "tipnr": [
+      "Shimei@Est.2.5"
+    ],
+    "vizbible": [
+      "reclm4sqYreXlcDUK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kish.4",
+  "offspring": [
+    "person:Jair.4"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "007485001016000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shimei (Esther 2:5)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shimei (Esther 2:5)",
+          "article": "person:Shimei.18",
+          "description": "Shimei, mentioned in Esther 2:5, was a man living during the time of exile and return, son of Kish and father of Jair."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "17002005"
+  ],
+  "references": [
+    "17002005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170020050111"
+      ]
+    ]
+  }
+}

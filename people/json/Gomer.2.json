@@ -1,0 +1,162 @@
+{
+  "id": "person:Gomer.2",
+  "primary_id": "person:Gomer.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5509|Gomer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001453001003000"
+    ],
+    "tipnr": [
+      "Gomer@Hos.1.3"
+    ],
+    "vizbible": [
+      "rec9IxtCluFRXyfwn"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Diblaim",
+  "partners": [
+    "person:Hosea"
+  ],
+  "offspring": [
+    "person:Jezreel.2",
+    "person:Lo-ruhamah",
+    "person:Lo-ammi"
+  ],
+  "ubsdbh": [
+    "001453001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gomer (Hosea 1:3)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gomer (Hosea 1:3)",
+          "article": "person:Gomer.2",
+          "description": "Gomer was a woman from the time of the divided kingdom, daughter of Diblaim, wife of Hosea, and mother of Jezreel, Lo-ruhamah, and Lo-ammi, mentioned in Hosea 1:3."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֹּמֶר",
+      "גֹּ֫מֶר"
+    ]
+  },
+  "key_references": [
+    "28001003"
+  ],
+  "references": [
+    "28001003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o280010030041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o280010030072"
+      ],
+      [
+        "o280010030082"
+      ],
+      [
+        "o280010060012"
+      ],
+      [
+        "o280010060032"
+      ],
+      [
+        "o280010080012"
+      ],
+      [
+        "o280010080052"
+      ],
+      [
+        "o280010080062"
+      ],
+      [
+        "o280030030051"
+      ],
+      [
+        "o280030030081"
+      ],
+      [
+        "o280030030101"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o280020070081",
+          "o280020070091",
+          "o280020070101",
+          "o280020070102",
+          "o280020070111",
+          "o280020070121",
+          "o280020070122",
+          "o280020070131",
+          "o280020070132",
+          "o280020070133",
+          "o280020070141",
+          "o280020070142",
+          "o280020070151",
+          "o280020070152",
+          "o280020070153",
+          "o280020070161",
+          "o280020070162",
+          "o280020070171",
+          "o280020070172",
+          "o280020070173"
+        ]
+      },
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o280020090122",
+          "o280020090131",
+          "o280020090141",
+          "o280020090142",
+          "o280020090151",
+          "o280020090152",
+          "o280020090161",
+          "o280020090171",
+          "o280020090181",
+          "o280020090182",
+          "o280020090191",
+          "o280020090201",
+          "o280020090202"
+        ]
+      },
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o280020140061",
+          "o280020140071",
+          "o280020140081",
+          "o280020140082",
+          "o280020140091",
+          "o280020140101",
+          "o280020140111",
+          "o280020140112",
+          "o280020140121",
+          "o280020140122"
+        ]
+      }
+    ]
+  }
+}

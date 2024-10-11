@@ -1,0 +1,74 @@
+{
+  "id": "person:Shammah",
+  "primary_id": "person:Shammah",
+  "alternate_sources": {
+    "aquifer": [
+      "8280|Shammah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007440001001000"
+    ],
+    "tipnr": [
+      "Shammah@2Sa.23.11"
+    ],
+    "vizbible": [
+      "rec0x9EcJrIaOIE65"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Agee",
+  "roles": [
+    "Warrior"
+  ],
+  "ubsdbh": [
+    "007440001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shammah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shammah",
+          "article": "person:Shammah",
+          "description": "Shammah, son of Agee, was a man during Israel's united kingdom mentioned in 2 Samuel 23:11 and also a king of Zeboiim during the time of Abraham."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שֶׁמְאֵבֶר",
+      "שֶׁמְאֵ֫בֶר"
+    ]
+  },
+  "key_references": [
+    "10023011"
+  ],
+  "references": [
+    "10023011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230110021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100230120012"
+      ],
+      [
+        "o100230120042"
+      ],
+      [
+        "o100230120052"
+      ]
+    ]
+  }
+}

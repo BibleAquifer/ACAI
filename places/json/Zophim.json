@@ -1,0 +1,88 @@
+{
+  "id": "place:Zophim",
+  "primary_id": "place:Zophim",
+  "alternate_sources": {
+    "aquifer": [
+      "9260|Zophim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae7f7b5"
+    ],
+    "ubsdbh": [
+      "006279001004000 006985001001000"
+    ],
+    "tipnr": [
+      "Zophim@Num.23.14"
+    ],
+    "vizbible": [
+      "reczNduQiSZFkIuxo"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006279001004000 006985001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zophim",
+      "alternate_labels": [
+        "Lookout Field"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zophim",
+          "gloss": "Zophim",
+          "description": "A field at the top of Mount Pisgah in Moab; one of the places from where Balaam was to curse Israel."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Pisgah",
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "שִׂדִּים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "natural area",
+      "special"
+    ],
+    "acai": [
+      "natural area"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.767811",
+      "lon": "35.725296"
+    },
+    "vizbible": {
+      "lat": "31.767811",
+      "lon": "35.725296"
+    }
+  },
+  "key_references": [
+    "04023014"
+  ],
+  "references": [
+    "04023014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040230140031"
+      ]
+    ]
+  }
+}

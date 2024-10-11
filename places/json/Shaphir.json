@@ -1,0 +1,86 @@
+{
+  "id": "place:Shaphir",
+  "primary_id": "place:Shaphir",
+  "alternate_sources": {
+    "aquifer": [
+      "8290|Shaphir|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a7b3f5d"
+    ],
+    "ubsdbh": [
+      "007575001001000"
+    ],
+    "tipnr": [
+      "Shaphir@Mic.1.11"
+    ],
+    "vizbible": [
+      "recdMxFAi6fN9Dn24"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007575001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaphir",
+      "alternate_labels": [
+        "Saphir"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shaphir",
+          "gloss": "Shaphir",
+          "description": "A town in the territory of Ephraim."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.743719",
+      "lon": "34.694006"
+    },
+    "vizbible": {
+      "lat": "31.743719",
+      "lon": "34.694006"
+    }
+  },
+  "key_references": [
+    "33001011"
+  ],
+  "references": [
+    "33001011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o330010110041"
+      ]
+    ]
+  }
+}

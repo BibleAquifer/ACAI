@@ -1,0 +1,71 @@
+{
+  "id": "realia:WritingCase",
+  "primary_id": "realia:WritingCase",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001631001001000",
+      "006520001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.7.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "001631001001000",
+    "006520001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Writing Case",
+      "alternate_labels": [
+        "Ink",
+        "Pen"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Writing Case",
+          "article": "realia:WritingCase",
+          "description": "A small box, often wooden, used to carry pens and ink for writing, usually hanging from the owner’s belt."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דְּיֹו",
+      "קֶסֶת"
+    ]
+  },
+  "key_references": [
+    "24036018",
+    "26009002",
+    "64001013"
+  ],
+  "references": [
+    "24036018",
+    "26009002",
+    "26009003",
+    "26009011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240360180152"
+      ],
+      [
+        "o260090020202"
+      ],
+      [
+        "o260090030191"
+      ],
+      [
+        "o260090110062"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "person:Peninnah",
+  "primary_id": "person:Peninnah",
+  "alternate_sources": {
+    "aquifer": [
+      "7643|Peninnah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005921001001000"
+    ],
+    "tipnr": [
+      "Peninnah@1Sa.1.2-"
+    ],
+    "vizbible": [
+      "reccMF4Gq4bVYM1q4"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Elkanah.2"
+  ],
+  "ubsdbh": [
+    "005921001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Peninnah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Peninnah",
+          "article": "person:Peninnah",
+          "description": "Peninnah was a woman living during the time of Israel's united kingdom, married to Elkanah, first mentioned in 1 Samuel 1:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09001002",
+    "09001004"
+  ],
+  "references": [
+    "09001002",
+    "09001004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090010020091"
+      ],
+      [
+        "o090010020112"
+      ],
+      [
+        "o090010040062"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090010190012"
+      ],
+      [
+        "o090010190032"
+      ],
+      [
+        "o090010190062"
+      ],
+      [
+        "o090010190072"
+      ]
+    ]
+  }
+}

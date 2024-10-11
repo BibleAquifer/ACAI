@@ -1,0 +1,73 @@
+{
+  "id": "group:TaxCollectors",
+  "primary_id": "group:TaxCollectors",
+  "type": "group",
+  "group_type": "other",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tax Collectors",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tax Collectors",
+          "description": "A group of tax collectors participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40017024",
+    "40017024",
+    "42003012",
+    "42003012"
+  ],
+  "references": [
+    "40017024",
+    "40017024",
+    "42003012",
+    "42003012"
+  ],
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40017024010"
+      ],
+      [
+        "n40017024014"
+      ],
+      [
+        "n42003012004"
+      ],
+      [
+        "n42003012007"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "demanding",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40017024016",
+          "n40017024017",
+          "n40017024018",
+          "n40017024019",
+          "n40017024020",
+          "n40017024021"
+        ]
+      },
+      {
+        "delivery": "calling out",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42003012010",
+          "n42003012011",
+          "n42003012012"
+        ]
+      }
+    ]
+  }
+}

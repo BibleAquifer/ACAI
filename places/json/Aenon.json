@@ -1,0 +1,105 @@
+{
+  "id": "place:Aenon",
+  "primary_id": "place:Aenon",
+  "alternate_sources": {
+    "aquifer": [
+      "3411|Aenon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a112fe3"
+    ],
+    "ubsdgnt": [
+      "93.400"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/678003"
+    ],
+    "tipnr": [
+      "Aenon@Jhn.3.23"
+    ],
+    "vizbible": [
+      "recckyGBmpZrViOUw"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5977371"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.400"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aenon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aenon",
+          "gloss": "Aenon",
+          "description": "A town near Salim and the Jordan River where John the Baptist was baptizing (John 3:23)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Salim",
+    "place:Jordan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Αἰνών"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.398936",
+      "lon": "35.54351"
+    },
+    "recogito": {
+      "lat": "32.388639",
+      "lon": "35.531839"
+    },
+    "vizbible": {
+      "lat": "32.398936",
+      "lon": "35.54351"
+    },
+    "biblica-maps": {
+      "lat": "32.38864",
+      "lon": "35.53184"
+    }
+  },
+  "key_references": [
+    "43003023"
+  ],
+  "references": [
+    "43003023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43003023008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43003023016"
+      ]
+    ]
+  }
+}

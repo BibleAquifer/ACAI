@@ -1,0 +1,98 @@
+{
+  "id": "person:Oholibamah",
+  "primary_id": "person:Oholibamah",
+  "alternate_sources": {
+    "aquifer": [
+      "7469|Oholibamah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000171001001000"
+    ],
+    "tipnr": [
+      "Oholibamah@Gen.36.2-"
+    ],
+    "vizbible": [
+      "recpvQCt0PY7dySM7"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Beeri",
+  "mother": "person:Anah",
+  "partners": [
+    "person:Esau"
+  ],
+  "offspring": [
+    "person:Jeush",
+    "person:Jalam",
+    "person:Korah"
+  ],
+  "roles": [
+    "Matriarch"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "000171001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Oholibamah",
+      "alternate_labels": [
+        "Aholibamah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Oholibamah",
+          "article": "person:Oholibamah",
+          "description": "A Canaanite and daughter of Anah, wife of Esau, and mother of Jeush, Jalam, and Korah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָהֳלִיבָמָה",
+      "אׇהֳלִיבָמָה"
+    ]
+  },
+  "key_references": [
+    "01036002",
+    "01036005",
+    "01036014"
+  ],
+  "references": [
+    "01036002",
+    "01036005",
+    "01036014",
+    "01036018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360020131"
+      ],
+      [
+        "o010360050012"
+      ],
+      [
+        "o010360140041"
+      ],
+      [
+        "o010360180031"
+      ],
+      [
+        "o010360180141"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010360140112"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "realia:Sling",
+  "primary_id": "realia:Sling",
+  "alternate_sources": {
+    "aquifer": [
+      "8545|Sling, Slinger|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004368001001000",
+      "006488001001000",
+      "006489001001000",
+      "006490001001000"
+    ],
+    "ubsrealia": [
+      "realia:2.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004368001001000",
+    "006488001001000",
+    "006489001001000",
+    "006490001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sling",
+      "alternate_labels": [
+        "To Shoot With a Slingshot",
+        "Slingshot",
+        "Slinger"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sling",
+          "article": "realia:Sling",
+          "description": "A weapon with two strings and a pouch in the middle used to throw stones for hunting or fighting."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַרְגֵּמָה",
+      "קלע",
+      "קֶלַע",
+      "קַלָּע"
+    ]
+  },
+  "key_references": [
+    "07020016",
+    "09017040",
+    "14026014"
+  ],
+  "references": [
+    "07020016",
+    "09017040",
+    "09017049",
+    "09017050",
+    "09025029",
+    "12003025",
+    "14026014",
+    "18041020",
+    "20026008",
+    "24010018",
+    "38009015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o200260080032"
+      ],
+      [
+        "o070200160131"
+      ],
+      [
+        "o090170490102"
+      ],
+      [
+        "o090250290191",
+        "o090250290192"
+      ],
+      [
+        "o240100180061"
+      ],
+      [
+        "o090170400182",
+        "o090170400183"
+      ],
+      [
+        "o090170500052"
+      ],
+      [
+        "o090250290222"
+      ],
+      [
+        "o140260140121"
+      ],
+      [
+        "o180410200091"
+      ],
+      [
+        "o380090150081"
+      ],
+      [
+        "o120030250242"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "place:TaborMount",
+  "primary_id": "place:TaborMount",
+  "alternate_sources": {
+    "aquifer": [
+      "7236|Mount Tabor|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "acd63ee"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678419",
+      "http://pleiades.stoa.org/places/678419"
+    ],
+    "tipnr": [
+      "Tabor_Mount@Jdg.4.6-Hos"
+    ],
+    "vizbible": [
+      "recbTmIWQ3GZPZxdA"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q193785"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Tabor",
+      "alternate_labels": [
+        "Tabor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountTabor",
+          "gloss": "Mount Tabor",
+          "description": "A mountain in the territory of Naphtali, northeast of the Jezreel Valley, where Deborah and Barak launched an attack against Sisera's army (Judges 4:12–16)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "nearby_places": [
+    "place:JezreelValley"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.6869564",
+      "lon": "35.39091304"
+    },
+    "recogito": {
+      "lat": "32.687114",
+      "lon": "35.390383"
+    },
+    "vizbible": {
+      "lat": "32.6869564",
+      "lon": "35.39091304"
+    },
+    "biblica-maps": {
+      "lat": "32.68711",
+      "lon": "35.38962"
+    }
+  },
+  "key_references": [
+    "07004014",
+    "07008018",
+    "07004006"
+  ],
+  "references": [
+    "06019022",
+    "07004006",
+    "07004012",
+    "07004014",
+    "07005013",
+    "07008018",
+    "19089013",
+    "24046018",
+    "28005001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190220032"
+      ],
+      [
+        "o070040060181"
+      ],
+      [
+        "o070040120091"
+      ],
+      [
+        "o070040140221"
+      ],
+      [
+        "o070080180102"
+      ],
+      [
+        "o190890130051"
+      ],
+      [
+        "o240460180092"
+      ],
+      [
+        "o280050010201"
+      ]
+    ]
+  }
+}

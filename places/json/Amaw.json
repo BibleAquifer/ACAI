@@ -1,0 +1,76 @@
+{
+  "id": "place:Amaw",
+  "primary_id": "place:Amaw",
+  "alternate_sources": {
+    "aquifer": [
+      "3546|Amaw|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Amaw@Num.22.5"
+    ],
+    "vizbible": [
+      "recQNLOzIxLGrzclD"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amaw",
+      "alternate_labels": [
+        "people"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Amaw",
+          "gloss": "Amaw",
+          "description": "A region near the Euphrates River where Pethor, Balaam's hometown, was located."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Euphrates"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region",
+      "special"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.654616",
+      "lon": "38.068879"
+    },
+    "vizbible": {
+      "lat": "36.654616",
+      "lon": "38.068879"
+    }
+  },
+  "key_references": [
+    "04022005"
+  ],
+  "references": [
+    "04022005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040220050131"
+      ],
+      [
+        "o040220050181"
+      ]
+    ]
+  }
+}

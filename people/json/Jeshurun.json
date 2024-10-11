@@ -1,0 +1,141 @@
+{
+  "id": "person:Jeshurun",
+  "primary_id": "person:Israel",
+  "alternate_sources": {
+    "aquifer": [
+      "6346|Jeshurun|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003192001001000"
+    ],
+    "tipnr": [
+      "Jeshurun|Israel@Gen.25.26-Rev"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Isaac",
+  "mother": "person:Rebekah",
+  "partners": [
+    "person:Rachel",
+    "person:Leah",
+    "person:Zilpah",
+    "person:Bilhah"
+  ],
+  "offspring": [
+    "person:Reuben",
+    "person:Simeon.5",
+    "person:Levi.3",
+    "person:Judah.4",
+    "person:Dan",
+    "person:Naphtali",
+    "person:Gad",
+    "person:Asher",
+    "person:Issachar",
+    "person:Zebulun",
+    "person:Dinah",
+    "person:Joseph.10",
+    "person:Benjamin"
+  ],
+  "siblings": [
+    "person:Esau"
+  ],
+  "roles": [
+    "Patriarch",
+    "Shepherd"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "003192001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeshurun (Israel)",
+      "alternate_labels": [
+        "Israel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Israel",
+          "article": "person:Jeshurun",
+          "description": "A poetic name for the patriarch Jacob (Israel)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Israel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְשֻׁרוּן"
+    ]
+  },
+  "key_references": [
+    "05032015",
+    "05033005",
+    "23044002"
+  ],
+  "references": [
+    "05032015",
+    "05033005",
+    "05033026",
+    "23044002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050320150021"
+      ],
+      [
+        "o050330050022"
+      ],
+      [
+        "o050330260031"
+      ],
+      [
+        "o230440020122"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o050320150032",
+        "o050320150041",
+        "o050320150051",
+        "o050320150061"
+      ],
+      [
+        "o050320150072"
+      ],
+      [
+        "o050320150102"
+      ],
+      [
+        "o050320160011"
+      ],
+      [
+        "o050320160041"
+      ],
+      [
+        "o050320170011"
+      ],
+      [
+        "o050320170071"
+      ],
+      [
+        "o050320180031"
+      ],
+      [
+        "o050320180042"
+      ],
+      [
+        "o050330270111"
+      ]
+    ]
+  }
+}

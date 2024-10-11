@@ -1,0 +1,66 @@
+{
+  "id": "person:Ahi.2",
+  "primary_id": "person:Ahi.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3461|Ahi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000261001002000"
+    ],
+    "tipnr": [
+      "Ahi@1Ch.7.34"
+    ],
+    "vizbible": [
+      "recCM0c6trW9z7q1Z"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shomer.2",
+  "siblings": [
+    "person:Rohgah",
+    "person:Jehubbah",
+    "person:Aram.3"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "000261001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahi (1 Chronicles 7:34)",
+      "alternate_labels": [
+        "brother"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahi (1 Chronicles 7:34)",
+          "article": "person:Ahi.2",
+          "description": "A man from the tribe of Asher during the divided kingdom, son of Shomer and brother of Rohgah, Jehubbah, and Aram."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִי"
+    ]
+  },
+  "key_references": [
+    "13007034"
+  ],
+  "references": [
+    "13007034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070340031"
+      ]
+    ]
+  }
+}

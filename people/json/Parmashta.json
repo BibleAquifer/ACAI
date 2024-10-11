@@ -1,0 +1,69 @@
+{
+  "id": "person:Parmashta",
+  "primary_id": "person:Parmashta",
+  "alternate_sources": {
+    "aquifer": [
+      "7585|Parmashta|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006010001001000"
+    ],
+    "tipnr": [
+      "Parmashta@Est.9.9"
+    ],
+    "vizbible": [
+      "recfapM6hZBCdABO5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Haman",
+  "mother": "person:Zeresh",
+  "siblings": [
+    "person:Parshandatha",
+    "person:Dalphon",
+    "person:Aspatha",
+    "person:Poratha",
+    "person:Adalia",
+    "person:Aridatha",
+    "person:Arisai",
+    "person:Aridai",
+    "person:Vaizatha"
+  ],
+  "ubsdbh": [
+    "006010001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Parmashta",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Parmashta",
+          "article": "person:Parmashta",
+          "description": "Parmashta, son of Haman, lived during the time of exile and return and is mentioned in Esther 9:9."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "פַּרְנָךְ"
+    ]
+  },
+  "key_references": [
+    "17009009"
+  ],
+  "references": [
+    "17009009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170090090021"
+      ]
+    ]
+  }
+}

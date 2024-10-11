@@ -1,0 +1,61 @@
+{
+  "id": "person:Abdi",
+  "primary_id": "person:Abdi",
+  "alternate_sources": {
+    "aquifer": [
+      "3272|Abdi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005198001001000"
+    ],
+    "tipnr": [
+      "Abdi@1Ch.6.44"
+    ],
+    "vizbible": [
+      "recCkdqG3oAlsPbjr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Malluch",
+  "offspring": [
+    "person:Kishi"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005198001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abdi (Son of Malluch)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abdi (Son of Malluch)",
+          "article": "person:Abdi",
+          "description": "A Levite from the time of the divided kingdom, son of Malluch and father of Kishi, mentioned in 1 Chronicles 6:44."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַבְדִּיאֵל"
+    ]
+  },
+  "key_references": [
+    "13006029"
+  ],
+  "references": [
+    "13006029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060290101"
+      ]
+    ]
+  }
+}

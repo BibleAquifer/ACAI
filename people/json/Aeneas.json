@@ -1,0 +1,81 @@
+{
+  "id": "person:Aeneas",
+  "primary_id": "person:Aeneas",
+  "alternate_sources": {
+    "aquifer": [
+      "3410|Aeneas|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.15"
+    ],
+    "tipnr": [
+      "Aeneas@Act.9.33-"
+    ],
+    "vizbible": [
+      "reccGvYVWC07oP72J"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.15"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aeneas",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aeneas",
+          "article": "person:Aeneas",
+          "description": "A man living during the New Testament period who was healed by Peter."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Αἰνέας"
+    ]
+  },
+  "key_references": [
+    "44009033",
+    "44009034"
+  ],
+  "references": [
+    "44009033",
+    "44009034"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44009033007"
+      ],
+      [
+        "n44009034006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44009034008"
+      ],
+      [
+        "n44009034014"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44009034011"
+      ],
+      [
+        "n44009034013"
+      ]
+    ]
+  }
+}

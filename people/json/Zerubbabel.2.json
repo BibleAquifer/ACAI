@@ -1,0 +1,319 @@
+{
+  "id": "person:Zerubbabel.2",
+  "primary_id": "person:Zerubbabel.2",
+  "alternate_sources": {
+    "aquifer": [
+      "9202|Zerubbabel|TyndaleBibleDictionary",
+      "27231|Zerubbabel|UWTranslationWords",
+      "132454|Joshua and Zerubbabel|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Zerubbabel@1Ch.3.19-Mat",
+      "Sheshbazzar|Zerubbabel@1Ch.3.19-Mat"
+    ],
+    "vizbible": [
+      "rec0lXwCB3xvWjTVN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Pedaiah.2",
+  "offspring": [
+    "person:Meshullam.2",
+    "person:Hananiah",
+    "person:Shelomith.5",
+    "person:Hashubah",
+    "person:Ohel",
+    "person:Berechiah",
+    "person:Hasadiah",
+    "person:Jushab-hesed",
+    "person:Abiud"
+  ],
+  "siblings": [
+    "person:Shimei.7"
+  ],
+  "roles": [
+    "Leader",
+    "Royal Family Member",
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zerubbabel",
+      "alternate_labels": [
+        "Sheshbazzar",
+        "Zorobabel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zerubbabel",
+          "article": "person:Zerubbabel.2",
+          "description": "A son of Shealtiel/Pedaiah and father of Meshullam and Hananiah. He was a governor of the tribe of Judah during the time of Israelite return from exile. He is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Sheshbazzar"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15003002",
+    "37001012",
+    "38004009",
+    "13003019",
+    "40001012",
+    "40001013"
+  ],
+  "references": [
+    "13003019",
+    "15001008",
+    "15001011",
+    "15002002",
+    "15003002",
+    "15003008",
+    "15004002",
+    "15004003",
+    "15005002",
+    "15005014",
+    "15005016",
+    "16007007",
+    "16012001",
+    "16012047",
+    "37001001",
+    "37001012",
+    "37001014",
+    "37002002",
+    "37002004",
+    "37002021",
+    "37002023",
+    "38004006",
+    "38004007",
+    "38004009",
+    "38004010",
+    "40001012",
+    "40001013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030190031"
+      ],
+      [
+        "o130030190061"
+      ],
+      [
+        "o150010080102"
+      ],
+      [
+        "o150010110111"
+      ],
+      [
+        "o150020020041"
+      ],
+      [
+        "o150030020072"
+      ],
+      [
+        "o150030080111"
+      ],
+      [
+        "o150040020031"
+      ],
+      [
+        "o150040030031"
+      ],
+      [
+        "o150050020031"
+      ],
+      [
+        "o150050140302"
+      ],
+      [
+        "o150050160021"
+      ],
+      [
+        "o160070070031"
+      ],
+      [
+        "o160120010071"
+      ],
+      [
+        "o160120470041"
+      ],
+      [
+        "o370010010171"
+      ],
+      [
+        "o370010120021"
+      ],
+      [
+        "o370010140051"
+      ],
+      [
+        "o370020020041"
+      ],
+      [
+        "o370020040031"
+      ],
+      [
+        "o370020210031"
+      ],
+      [
+        "o370020230071"
+      ],
+      [
+        "o380040060091"
+      ],
+      [
+        "o380040070061"
+      ],
+      [
+        "o380040090021"
+      ],
+      [
+        "o380040100121"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001012014"
+      ],
+      [
+        "n40001013001"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o150040030161"
+      ],
+      [
+        "o150050040061"
+      ],
+      [
+        "o150050160031"
+      ],
+      [
+        "o370020030121"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o150030020112"
+      ],
+      [
+        "o150030020162"
+      ],
+      [
+        "o150030030012"
+      ],
+      [
+        "o150030030112"
+      ],
+      [
+        "o150030040012"
+      ],
+      [
+        "o150030060051"
+      ],
+      [
+        "o150030060062"
+      ],
+      [
+        "o150030070012"
+      ],
+      [
+        "o150030080252"
+      ],
+      [
+        "o150050020092"
+      ],
+      [
+        "o150050020102"
+      ],
+      [
+        "o150050030212"
+      ],
+      [
+        "o150050030242"
+      ],
+      [
+        "o150050040031"
+      ],
+      [
+        "o150050150061",
+        "o150050150071",
+        "o150050150081"
+      ],
+      [
+        "o150050160051"
+      ],
+      [
+        "o370010140222"
+      ],
+      [
+        "o370010140232"
+      ],
+      [
+        "o370020040021"
+      ],
+      [
+        "o370020040182"
+      ],
+      [
+        "o370020050121"
+      ],
+      [
+        "o380040070082"
+      ],
+      [
+        "o380040090082"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o150040030091",
+          "o150040030101",
+          "o150040030102",
+          "o150040030111",
+          "o150040030112",
+          "o150040030113",
+          "o150040030121",
+          "o150040030122",
+          "o150040030131",
+          "o150040030141",
+          "o150040030142",
+          "o150040030143",
+          "o150040030151",
+          "o150040030161",
+          "o150040030171",
+          "o150040030181",
+          "o150040030191",
+          "o150040030192",
+          "o150040030201",
+          "o150040030211",
+          "o150040030221",
+          "o150040030222",
+          "o150040030231",
+          "o150040030232",
+          "o150040030241",
+          "o150040030242",
+          "o150040030251",
+          "o150040030261",
+          "o150040030271"
+        ]
+      }
+    ]
+  }
+}

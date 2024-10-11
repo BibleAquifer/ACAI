@@ -1,0 +1,83 @@
+{
+  "id": "person:Shallum",
+  "primary_id": "person:Jehoiachin",
+  "alternate_sources": {
+    "aquifer": [
+      "8266|Shallum|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007383001005000"
+    ],
+    "tipnr": [
+      "Shallum|Jehoiachin@2Ki.24.6-Mat(?)"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoiakim",
+  "mother": "person:Nehushta",
+  "offspring": [
+    "person:Zedekiah.4",
+    "person:Shealtiel.2"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007383001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shallum (Jehoiachin)",
+      "alternate_labels": [
+        "Jehoiachin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoiachin",
+          "article": "person:Shallum",
+          "description": "Shallum, also called Jehoiachin, was a king of Judah during the divided kingdom, mentioned in 2 Kings 24:6, son of Jehoiakim and Nehushta, and father of Zedekiah and Shealtiel; he is also known as Jeconiah and Coniah in various biblical references."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehoiachin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24022011"
+  ],
+  "references": [
+    "24022011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240220110061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240220110112"
+      ],
+      [
+        "o240220110161"
+      ],
+      [
+        "o240220110211"
+      ],
+      [
+        "o240220120071"
+      ],
+      [
+        "o240220120121"
+      ]
+    ]
+  }
+}

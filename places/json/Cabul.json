@@ -1,0 +1,99 @@
+{
+  "id": "place:Cabul",
+  "primary_id": "place:Cabul",
+  "alternate_sources": {
+    "aquifer": [
+      "4375|Cabul|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003227001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/1138957"
+    ],
+    "tipnr": [
+      "Cabul@Jos.19.27"
+    ],
+    "vizbible": [
+      "recdybmplJR4qJKgH"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003227001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cabul (of Asher)",
+      "alternate_labels": [
+        "Kabul",
+        "Cabul"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cabul.1",
+          "gloss": "Cabul (of Asher)",
+          "description": "A town in the territory of Asher."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כָּבוּל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.865661",
+      "lon": "35.211814"
+    },
+    "recogito": {
+      "lat": "34.553973017515624",
+      "lon": "69.3220394"
+    },
+    "vizbible": {
+      "lat": "32.865661",
+      "lon": "35.211814"
+    },
+    "biblica-maps": {
+      "lat": "32.86872",
+      "lon": "35.2046"
+    }
+  },
+  "key_references": [
+    "06019027"
+  ],
+  "references": [
+    "06019027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190270171"
+      ]
+    ]
+  }
+}

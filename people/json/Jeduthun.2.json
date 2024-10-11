@@ -1,0 +1,57 @@
+{
+  "id": "person:Jeduthun.2",
+  "primary_id": "person:Jeduthun.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6261|Jeduthun|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jeduthun@1Ch.9.16-Neh"
+    ],
+    "vizbible": [
+      "recNdSQRHW020IwwH"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Galal.2"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeduthun (1 Chronicles 9:16)",
+      "alternate_labels": [
+        "Jedithun"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeduthun (1 Chronicles 9:16)",
+          "article": "person:Jeduthun.2",
+          "description": "A man from the tribe of Levi living during the time of exile and return, mentioned in 1 Chronicles 9:16, and father of Galal."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009016",
+    "16011017"
+  ],
+  "references": [
+    "13009016",
+    "16011017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090160071"
+      ],
+      [
+        "o160110170221"
+      ]
+    ]
+  }
+}

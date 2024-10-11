@@ -1,0 +1,96 @@
+{
+  "id": "place:Shihor-libnath",
+  "primary_id": "place:Shihor-libnath",
+  "alternate_sources": {
+    "aquifer": [
+      "8390|Shihor-Libnath|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac6b338"
+    ],
+    "ubsdbh": [
+      "007324001001000"
+    ],
+    "tipnr": [
+      "Shihor-libnath@Jos.19.26"
+    ],
+    "vizbible": [
+      "recb7xEqTVCOEEI2n"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q7496481"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007324001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shihor-libnath",
+      "alternate_labels": [
+        "Brook Shihor Libnath",
+        "Shihor-Libnat"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shihor-libnath",
+          "gloss": "Shihor-Libnath",
+          "description": "A small river running northeast of the Carmel range and forming the western boundary of the territory of Asher."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asher",
+  "nearby_places": [
+    "place:CarmelMount"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "natural area",
+      "settlement",
+      "region",
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.538496",
+      "lon": "34.907697"
+    },
+    "vizbible": {
+      "lat": "32.538496",
+      "lon": "34.907697"
+    }
+  },
+  "key_references": [
+    "06019026"
+  ],
+  "references": [
+    "06019026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190260073",
+        "o060190260081"
+      ]
+    ]
+  }
+}

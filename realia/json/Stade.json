@@ -1,0 +1,68 @@
+{
+  "id": "realia:Stade",
+  "primary_id": "realia:Stade",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "81.27"
+    ],
+    "ubsrealia": [
+      "realia:11.4.2.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "81.27"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stade",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Stade",
+          "article": "realia:Stade",
+          "description": "A unit of distance measuring about 600 feet or 185 meters."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "στάδιος"
+    ]
+  },
+  "key_references": [
+    "42024013",
+    "43006019",
+    "66014020"
+  ],
+  "references": [
+    "40014024",
+    "42024013",
+    "43006019",
+    "43011018",
+    "66014020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40014024005"
+      ],
+      [
+        "n42024013015"
+      ],
+      [
+        "n43006019004"
+      ],
+      [
+        "n43011018010"
+      ],
+      [
+        "n66014020020"
+      ]
+    ]
+  }
+}

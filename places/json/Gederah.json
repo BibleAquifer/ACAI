@@ -1,0 +1,100 @@
+{
+  "id": "place:Gederah",
+  "primary_id": "place:Gederah",
+  "alternate_sources": {
+    "aquifer": [
+      "5398|Gederah, Gederathites|TyndaleBibleDictionary"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/295064"
+    ],
+    "tipnr": [
+      "Gederah@Jos.15.36-1Ch"
+    ],
+    "vizbible": [
+      "recF5IgX3dVt18Azk"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gederah (of Judah)",
+      "alternate_labels": [
+        "Gederite",
+        "Gederah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gederah.1",
+          "gloss": "Gederah (of Judah)",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Gederah"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.823337",
+      "lon": "34.777779"
+    },
+    "recogito": {
+      "lat": "31.81456",
+      "lon": "34.77998"
+    },
+    "vizbible": {
+      "lat": "31.823337",
+      "lon": "34.777779"
+    }
+  },
+  "key_references": [
+    "06015036",
+    "13004023"
+  ],
+  "references": [
+    "06015036",
+    "13004023",
+    "13012005",
+    "13027028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150360033"
+      ],
+      [
+        "o130040230052"
+      ],
+      [
+        "o130120050052"
+      ],
+      [
+        "o130270280082"
+      ]
+    ]
+  }
+}

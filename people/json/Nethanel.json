@@ -1,0 +1,88 @@
+{
+  "id": "person:Nethanel",
+  "primary_id": "person:Nethanel",
+  "alternate_sources": {
+    "aquifer": [
+      "7371|Nethaneel, Nethanel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004961001001000"
+    ],
+    "tipnr": [
+      "Nethanel@Num.1.8-"
+    ],
+    "vizbible": [
+      "recHeO9bMLw3koukq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zuar",
+  "roles": [
+    "Leader"
+  ],
+  "ubsdbh": [
+    "004961001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nethanel",
+      "alternate_labels": [
+        "Nethaneel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nethanel",
+          "article": "person:Nethanel",
+          "description": "A son of Zuar and a chief from the tribe of Issachar during the time of Moses."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נְתַנְאֵל"
+    ]
+  },
+  "key_references": [
+    "04001008",
+    "04002005",
+    "04007018"
+  ],
+  "references": [
+    "04001008",
+    "04002005",
+    "04007018",
+    "04007023",
+    "04010015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010080021"
+      ],
+      [
+        "o040020050081"
+      ],
+      [
+        "o040070180041"
+      ],
+      [
+        "o040070230151"
+      ],
+      [
+        "o040100150061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040070190011"
+      ]
+    ]
+  }
+}

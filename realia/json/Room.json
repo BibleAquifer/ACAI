@@ -1,0 +1,115 @@
+{
+  "id": "realia:Room",
+  "primary_id": "realia:Room",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006216001003000"
+    ],
+    "ubsrealia": [
+      "realia:3.1.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006216001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Room",
+      "alternate_labels": [
+        "Storey"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Room",
+          "article": "realia:Room",
+          "description": "A section inside a building, usually with walls, used for specific activities like sleeping, eating, or working."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צֵלָע"
+    ]
+  },
+  "key_references": [
+    "11006005",
+    "26041006",
+    "26041011"
+  ],
+  "references": [
+    "11006005",
+    "11006008",
+    "26041005",
+    "26041006",
+    "26041007",
+    "26041008",
+    "26041009",
+    "26041011",
+    "26041026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110060050151"
+      ],
+      [
+        "o110060080022"
+      ],
+      [
+        "o260410050072"
+      ],
+      [
+        "o260410060013"
+      ],
+      [
+        "o260410060021"
+      ],
+      [
+        "o260410060041"
+      ],
+      [
+        "o260410060122"
+      ],
+      [
+        "o260410070052"
+      ],
+      [
+        "o260410080082"
+      ],
+      [
+        "o260410090042"
+      ],
+      [
+        "o260410090121"
+      ],
+      [
+        "o260410110022"
+      ],
+      [
+        "o260410260092"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260410060082"
+      ],
+      [
+        "o260410060152"
+      ],
+      [
+        "o260410070012"
+      ],
+      [
+        "o260410070022"
+      ]
+    ]
+  }
+}

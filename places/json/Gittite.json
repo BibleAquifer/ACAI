@@ -1,0 +1,107 @@
+{
+  "id": "place:Gittite",
+  "primary_id": "place:Gath",
+  "alternate_sources": {
+    "aquifer": [
+      "5481|Gittite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001528001001000"
+    ],
+    "tipnr": [
+      "Gittite|Gath@Jos.11.22-Mic"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001528001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gittite",
+      "alternate_labels": [
+        "Gath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gath.3",
+          "gloss": "Gittite",
+          "description": "An inhabitant of Gath."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Gath"
+  ],
+  "referred_to_as": [
+    "place:Gath"
+  ],
+  "tribal_area": "group:Philistine",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": true,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גִּתִּי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "people group"
+    ]
+  },
+  "key_references": [
+    "13013013",
+    "10006010"
+  ],
+  "references": [
+    "10006010",
+    "10006011",
+    "10015018",
+    "10015019",
+    "10015022",
+    "10018002",
+    "10021019",
+    "13013013",
+    "13020005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100060100172"
+      ],
+      [
+        "o100060110072"
+      ],
+      [
+        "o100150180112"
+      ],
+      [
+        "o100150190052"
+      ],
+      [
+        "o100150220092"
+      ],
+      [
+        "o100180020182"
+      ],
+      [
+        "o100210190162"
+      ],
+      [
+        "o130130130152"
+      ],
+      [
+        "o130200050152"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "deity:Peor",
+  "primary_id": "deity:Baal",
+  "alternate_sources": {
+    "aquifer": [
+      "7655|Peor (Deity)|TyndaleBibleDictionary",
+      "26943|Peor|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "001090001001000"
+    ],
+    "tipnr": [
+      "Peor|Baal@Num.22.41-Rom"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "001090001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Peor (Baal)",
+      "alternate_labels": [
+        "Baal of Peor",
+        "Baal-peor",
+        "ESV",
+        "Baal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Baal",
+          "article": "deity:Peor",
+          "description": "A Moabite form of the Canaanite god Baal."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Baal"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּעַל פְּעֹור",
+      "בַּ֫עַל פְּעוֹר"
+    ]
+  },
+  "key_references": [
+    "04025003",
+    "05004003",
+    "19106028"
+  ],
+  "references": [
+    "04025003",
+    "04025005",
+    "05004003",
+    "19106028",
+    "28009010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040250030032",
+        "o040250030041"
+      ],
+      [
+        "o040250050102",
+        "o040250050111"
+      ],
+      [
+        "o050040030072",
+        "o050040030081"
+      ],
+      [
+        "o050040030151",
+        "o050040030161"
+      ],
+      [
+        "o191060280022",
+        "o191060280031"
+      ],
+      [
+        "o280090100121",
+        "o280090100131"
+      ]
+    ]
+  }
+}

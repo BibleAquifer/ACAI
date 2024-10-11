@@ -1,0 +1,209 @@
+{
+  "id": "place:Mizpah",
+  "primary_id": "place:Mizpah",
+  "alternate_sources": {
+    "aquifer": [
+      "7177|Mizpah|TyndaleBibleDictionary",
+      "26883|Mizpah|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Mizpah@1Ki.15.22-Jer"
+    ],
+    "vizbible": [
+      "recGdQVod5SbLO87Z"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mizpah (of Benjamin)",
+      "alternate_labels": [
+        "Mizpeh",
+        "Mizpah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mizpah.3",
+          "gloss": "Mizpah (of Benjamin)",
+          "description": "A town in the territory of Benjamin where Israel assembled after the atrocity that was committed in Gibeah, and where Israel assembled during the time of Samuel's leadership; residence of the governor Gedaliah after the destruction of Jerusalem."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.83273947",
+      "lon": "35.18016286"
+    },
+    "vizbible": {
+      "lat": "31.83273947",
+      "lon": "35.18016286"
+    }
+  },
+  "key_references": [
+    "07020001",
+    "07020003"
+  ],
+  "references": [
+    "07020001",
+    "07020003",
+    "07021001",
+    "07021005",
+    "07021008",
+    "09007005",
+    "09007006",
+    "09007007",
+    "09007011",
+    "09007012",
+    "09007016",
+    "09010017",
+    "11015022",
+    "12025023",
+    "12025025",
+    "14016006",
+    "16003007",
+    "16003015",
+    "16003019",
+    "24040006",
+    "24040008",
+    "24040010",
+    "24040012",
+    "24040013",
+    "24040015",
+    "24041001",
+    "24041003",
+    "24041006",
+    "24041009",
+    "24041010",
+    "24041014",
+    "24041016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070200010172"
+      ],
+      [
+        "o070200030082"
+      ],
+      [
+        "o070210010042"
+      ],
+      [
+        "o070210050232"
+      ],
+      [
+        "o070210080112"
+      ],
+      [
+        "o090070050072"
+      ],
+      [
+        "o090070060022"
+      ],
+      [
+        "o090070060202"
+      ],
+      [
+        "o090070070072"
+      ],
+      [
+        "o090070110052"
+      ],
+      [
+        "o090070120072"
+      ],
+      [
+        "o090070160093"
+      ],
+      [
+        "o090100170072"
+      ],
+      [
+        "o110150220262"
+      ],
+      [
+        "o120250230162"
+      ],
+      [
+        "o120250250262"
+      ],
+      [
+        "o140160060212"
+      ],
+      [
+        "o160030070103"
+      ],
+      [
+        "o160030150112"
+      ],
+      [
+        "o160030190082"
+      ],
+      [
+        "o240400060072"
+      ],
+      [
+        "o240400080042"
+      ],
+      [
+        "o240400100042"
+      ],
+      [
+        "o240400120142"
+      ],
+      [
+        "o240400130122"
+      ],
+      [
+        "o240400150082"
+      ],
+      [
+        "o240410010212"
+      ],
+      [
+        "o240410010262"
+      ],
+      [
+        "o240410030092"
+      ],
+      [
+        "o240410060072"
+      ],
+      [
+        "o240410100082"
+      ],
+      [
+        "o240410100162"
+      ],
+      [
+        "o240410140082"
+      ],
+      [
+        "o240410160212"
+      ]
+    ]
+  }
+}

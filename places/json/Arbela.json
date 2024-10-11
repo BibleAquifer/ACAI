@@ -1,0 +1,35 @@
+{
+  "id": "place:Arbela",
+  "primary_id": "place:Arbela",
+  "alternate_sources": {
+    "aquifer": [
+      "3711|Arbela|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Arbela",
+          "gloss": "Arbela",
+          "description": "A city in Galilee captured by Demetrius I Soter."
+        }
+      ],
+      "preferred_label": "Arbela"
+    }
+  },
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": true,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "key_references": [
+    "78009002"
+  ]
+}

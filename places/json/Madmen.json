@@ -1,0 +1,90 @@
+{
+  "id": "place:Madmen",
+  "primary_id": "place:Madmen",
+  "alternate_sources": {
+    "aquifer": [
+      "6845|Madmen|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003733001001000"
+    ],
+    "tipnr": [
+      "Madmen@Jer.48.2"
+    ],
+    "vizbible": [
+      "recQCdxZzUuCjYJVC"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003733001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Madmen",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Madmen",
+          "gloss": "Madmen",
+          "description": "A town in Moab mentioned in Jer 48:2."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מַדְמֵן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.49684514",
+      "lon": "35.78284105"
+    },
+    "vizbible": {
+      "lat": "31.49684514",
+      "lon": "35.78284105"
+    }
+  },
+  "key_references": [
+    "24048002"
+  ],
+  "references": [
+    "24048002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240480020131"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240480020141"
+      ]
+    ]
+  }
+}

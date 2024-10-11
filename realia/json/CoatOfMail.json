@@ -1,0 +1,81 @@
+{
+  "id": "realia:CoatOfMail",
+  "primary_id": "realia:CoatOfMail",
+  "alternate_sources": {
+    "aquifer": [
+      "4603|Coat of Mail|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006626001002000",
+      "007638001002000"
+    ],
+    "ubsrealia": [
+      "realia:2.13"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006626001002000",
+    "007638001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Coat of Mail",
+      "alternate_labels": [
+        "Armor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Coat of Mail",
+          "article": "realia:CoatOfMail",
+          "description": "A vest made of small metal scales sewn onto cloth or leather, used as armor for protection in battle."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קַשְׂקֶשֶׂת",
+      "שִׁרְיֹון"
+    ]
+  },
+  "key_references": [
+    "09017005",
+    "09017038",
+    "49006011"
+  ],
+  "references": [
+    "09017005",
+    "09017038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090170050061"
+      ],
+      [
+        "o090170050052"
+      ],
+      [
+        "o090170050102"
+      ],
+      [
+        "o090170380131"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090170390192"
+      ],
+      [
+        "o090170390233"
+      ]
+    ]
+  }
+}

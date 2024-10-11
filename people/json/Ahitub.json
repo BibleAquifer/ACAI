@@ -1,0 +1,84 @@
+{
+  "id": "person:Ahitub",
+  "primary_id": "person:Ahitub",
+  "alternate_sources": {
+    "aquifer": [
+      "3460|Ahitub|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000269001001000"
+    ],
+    "tipnr": [
+      "Ahitub@1Sa.14.3-"
+    ],
+    "vizbible": [
+      "recUZL2WZci60QUJA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Phinehas.2",
+  "offspring": [
+    "person:Ahimelech"
+  ],
+  "siblings": [
+    "person:Ichabod"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "ubsdbh": [
+    "000269001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahitub",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahitub",
+          "article": "person:Ahitub",
+          "description": "A priest from the tribe of Levi at the time of Israel’s united kingdom. He was the son of Phinehas and grandson of Eli."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִיטוּב"
+    ]
+  },
+  "key_references": [
+    "09014003",
+    "09022009",
+    "09022020"
+  ],
+  "references": [
+    "09014003",
+    "09022009",
+    "09022011",
+    "09022012",
+    "09022020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090140030031"
+      ],
+      [
+        "o090220090191"
+      ],
+      [
+        "o090220110071"
+      ],
+      [
+        "o090220120061"
+      ],
+      [
+        "o090220200061"
+      ]
+    ]
+  }
+}

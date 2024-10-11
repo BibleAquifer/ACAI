@@ -1,0 +1,58 @@
+{
+  "id": "person:Ahi",
+  "primary_id": "person:Ahi",
+  "alternate_sources": {
+    "aquifer": [
+      "3461|Ahi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000261001001000"
+    ],
+    "tipnr": [
+      "Ahi@1Ch.5.15"
+    ],
+    "vizbible": [
+      "recc8mlmgccQhrecb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abdiel",
+  "tribe": "group:Gad",
+  "ubsdbh": [
+    "000261001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahi",
+          "article": "person:Ahi",
+          "description": "A man from the tribe of Gad during the divided kingdom, son of Abdiel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִי"
+    ]
+  },
+  "key_references": [
+    "13005015"
+  ],
+  "references": [
+    "13005015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050150011"
+      ]
+    ]
+  }
+}

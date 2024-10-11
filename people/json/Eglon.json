@@ -1,0 +1,121 @@
+{
+  "id": "person:Eglon",
+  "primary_id": "person:Eglon",
+  "alternate_sources": {
+    "aquifer": [
+      "4951|Eglon (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005232001002000"
+    ],
+    "tipnr": [
+      "Eglon@Jdg.3.12-"
+    ],
+    "vizbible": [
+      "reciyUNQrtUIFnVpj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Moab",
+  "ubsdbh": [
+    "005232001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eglon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eglon",
+          "article": "person:Eglon",
+          "description": "King of Moab during the time of the judges of Israel. He oppressed Israel and was killed by the judge Ehud."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07003012",
+    "07003014",
+    "07003015"
+  ],
+  "references": [
+    "07003012",
+    "07003014",
+    "07003015",
+    "07003017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070030120111"
+      ],
+      [
+        "o070030140051"
+      ],
+      [
+        "o070030150252"
+      ],
+      [
+        "o070030170042"
+      ],
+      [
+        "o070030170072"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o070030200042"
+      ],
+      [
+        "o070030240131"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070030130012"
+      ],
+      [
+        "o070030130072"
+      ],
+      [
+        "o070030130082"
+      ],
+      [
+        "o070030130112"
+      ],
+      [
+        "o070030190142"
+      ],
+      [
+        "o070030200172"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070030190091",
+          "o070030190101",
+          "o070030190111",
+          "o070030190112",
+          "o070030190121",
+          "o070030190122",
+          "o070030190131",
+          "o070030190132"
+        ]
+      }
+    ]
+  }
+}

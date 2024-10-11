@@ -1,0 +1,114 @@
+{
+  "id": "place:Chinnereth",
+  "primary_id": "place:Chinnereth",
+  "alternate_sources": {
+    "aquifer": [
+      "4530|Chinnereth, Chinneroth|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2bb265"
+    ],
+    "ubsdbh": [
+      "003360001001000"
+    ],
+    "tipnr": [
+      "Chinnereth@Jos.11.2-1Ki"
+    ],
+    "vizbible": [
+      "recEKsQvYiMeFJgdN"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5533392"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003360001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chinnereth",
+      "alternate_labels": [
+        "Sea of Kinnereth",
+        "Sea of Galilee",
+        "Chinneroth",
+        "Cinneroth",
+        "Kinnereth",
+        "Galilee"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chinnereth",
+          "gloss": "Chinnereth",
+          "description": "A town in the territory of Naphtali at the Sea of Galilee."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "nearby_places": [
+    "place:Jordan",
+    "place:GalileeSea"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כִּנֶּרֶת",
+      "כִּנֶּ֫רֶת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "body of water"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.80677586",
+      "lon": "35.58936053"
+    },
+    "vizbible": {
+      "lat": "32.80677586",
+      "lon": "35.58936053"
+    }
+  },
+  "key_references": [
+    "11015020",
+    "05003017"
+  ],
+  "references": [
+    "05003017",
+    "06011002",
+    "06019035",
+    "11015020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050030170042"
+      ],
+      [
+        "o060110020081"
+      ],
+      [
+        "o060190350072"
+      ],
+      [
+        "o110150200271"
+      ]
+    ]
+  }
+}

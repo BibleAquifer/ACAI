@@ -1,0 +1,94 @@
+{
+  "id": "place:Adami-nekeb",
+  "primary_id": "place:Adami-nekeb",
+  "alternate_sources": {
+    "aquifer": [
+      "3362|Adami, Adami-Nekeb|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2c780b"
+    ],
+    "ubsdbh": [
+      "000131001001000"
+    ],
+    "tipnr": [
+      "Adami-nekeb@Jos.19.33"
+    ],
+    "vizbible": [
+      "recJIedE5uUUhMaMx"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4680139"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000131001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adami-nekeb",
+      "alternate_labels": [
+        "Nekeb",
+        "Adami"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Adami-nekeb",
+          "gloss": "Adami-Nekeb",
+          "description": "A border town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲדָמִי הַנֶּקֶב"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.6105",
+      "lon": "35.54289"
+    },
+    "vizbible": {
+      "lat": "32.6105",
+      "lon": "35.54289"
+    }
+  },
+  "key_references": [
+    "06019033"
+  ],
+  "references": [
+    "06019033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190330062"
+      ]
+    ]
+  }
+}

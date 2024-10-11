@@ -1,0 +1,39 @@
+{
+  "id": "place:Batanea",
+  "primary_id": "place:Batanea",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Batanea",
+          "gloss": "Batanea",
+          "description": "A Roman province northeast of the Jordan River; known as Bashan in the Old Testament."
+        }
+      ],
+      "preferred_label": "Batanea",
+      "alternate_labels": [
+        "Batanaea",
+        "Bashan"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Bashan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  },
+  "key_references": [
+    "05032014"
+  ]
+}

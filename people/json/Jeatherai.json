@@ -1,0 +1,63 @@
+{
+  "id": "person:Jeatherai",
+  "primary_id": "person:Jeatherai",
+  "alternate_sources": {
+    "aquifer": [
+      "6248|Jeaterai, Jeatherai|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jeatherai@1Ch.6.21-",
+      "Ethni|Jeatherai@1Ch.6.21-"
+    ],
+    "vizbible": [
+      "recG1plErUS9XkqAf"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zerah.4",
+  "offspring": [
+    "person:Malchijah"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeatherai",
+      "alternate_labels": [
+        "Ethni",
+        "Jeaterai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeatherai",
+          "article": "person:Jeatherai",
+          "description": "A Levite during the divided kingdom, also called Ethni, mentioned in 1 Chronicles 6:21 and 6:41."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ethni"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13006006",
+    "13006026"
+  ],
+  "references": [
+    "13006006",
+    "13006026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060060071"
+      ],
+      [
+        "o130060260021"
+      ]
+    ]
+  }
+}

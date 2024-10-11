@@ -1,0 +1,68 @@
+{
+  "id": "person:Isshiah.3",
+  "primary_id": "person:Isshiah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6098|Isshiah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Isshiah@1Ch.23.20-"
+    ],
+    "vizbible": [
+      "rec2dmXQ0vLMDkN4O"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uzziel",
+  "offspring": [
+    "person:Zechariah.6"
+  ],
+  "siblings": [
+    "person:Mishael",
+    "person:Elizaphan",
+    "person:Sithri",
+    "person:Micah.5"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Isshiah (1 Chronicles 23:20)",
+      "alternate_labels": [
+        "Ishiah",
+        "Jesiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Isshiah (1 Chronicles 23:20)",
+          "article": "person:Isshiah.3",
+          "description": "A Levite from the time of Egypt and the wilderness, son of Uzziel, mentioned in 1 Chronicles 23:20."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13023020",
+    "13024025"
+  ],
+  "references": [
+    "13023020",
+    "13024025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230200052"
+      ],
+      [
+        "o130240250031"
+      ],
+      [
+        "o130240250051"
+      ]
+    ]
+  }
+}

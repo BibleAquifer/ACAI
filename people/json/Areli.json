@@ -1,0 +1,66 @@
+{
+  "id": "person:Areli",
+  "primary_id": "person:Areli",
+  "alternate_sources": {
+    "aquifer": [
+      "3726|Areli, Arelite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Areli@Gen.46.16-Num"
+    ],
+    "vizbible": [
+      "recOjWIMdBW4mqhOm"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gad",
+  "siblings": [
+    "person:Ziphion",
+    "person:Haggi",
+    "person:Shuni",
+    "person:Ezbon",
+    "person:Eri",
+    "person:Arod"
+  ],
+  "tribe": "group:Gad",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Areli",
+      "alternate_labels": [
+        "Arelite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Areli",
+          "article": "person:Areli",
+          "description": "A man of the tribe of Gad living during the time of Egypt and the wilderness, mentioned in Genesis 46:16."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046016",
+    "04026017"
+  ],
+  "references": [
+    "01046016",
+    "04026017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460160092"
+      ],
+      [
+        "o040260170042"
+      ],
+      [
+        "o040260170062"
+      ]
+    ]
+  }
+}

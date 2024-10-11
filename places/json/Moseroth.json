@@ -1,0 +1,88 @@
+{
+  "id": "place:Moseroth",
+  "primary_id": "place:Moseroth",
+  "alternate_sources": {
+    "aquifer": [
+      "7210|Moserah, Moseroth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003790001001000"
+    ],
+    "tipnr": [
+      "Moseroth@Num.33.30-"
+    ],
+    "vizbible": [
+      "recO5BBYiV9XXKwT5"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003790001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Moseroth",
+      "alternate_labels": [
+        "Mosera"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Moseroth",
+          "gloss": "Moseroth",
+          "description": "A location in the Sinai Peninsula, between Hashmonah and Bene-Jaakan, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מֹוסֵרֹות",
+      "מֹסֵרוֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    },
+    "vizbible": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    }
+  },
+  "key_references": [
+    "04033030",
+    "04033031",
+    "05010006"
+  ],
+  "references": [
+    "04033030",
+    "04033031",
+    "05010006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330300042"
+      ],
+      [
+        "o040330310022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "place:Jarmuth.2",
+  "primary_id": "place:Jarmuth.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6226|Jarmuth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003121001002000"
+    ],
+    "tipnr": [
+      "Jarmuth@Jos.21.29"
+    ],
+    "vizbible": [
+      "recX34t6DBnNyI2Uz"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003121001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jarmuth (of Issachar)",
+      "alternate_labels": [
+        "Jarmuth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jarmuth.2",
+          "gloss": "Jarmuth (of Issachar)",
+          "description": "A Levitical town in the territory of Issachar, assigned to the clan of Gershon."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Issachar",
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יַרְמוּת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.5559631396043",
+      "lon": "35.33078927843792"
+    },
+    "vizbible": {
+      "lat": "32.5559631396043",
+      "lon": "35.33078927843792"
+    }
+  },
+  "key_references": [
+    "06021029"
+  ],
+  "references": [
+    "06021029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060210290021"
+      ]
+    ]
+  }
+}

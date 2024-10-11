@@ -1,0 +1,133 @@
+{
+  "id": "place:Lystra",
+  "primary_id": "place:Lystra",
+  "alternate_sources": {
+    "aquifer": [
+      "6807|Lystra|TyndaleBibleDictionary",
+      "26842|Lystra|UWTranslationWords",
+      "132062|Lystra|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "af0719d"
+    ],
+    "ubsdgnt": [
+      "93.521"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21522"
+    ],
+    "tipnr": [
+      "Lystra@Act.14.6-2Ti"
+    ],
+    "vizbible": [
+      "recbm5ZBUjTQ5uAGT"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q535982"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.521"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lystra",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lystra",
+          "gloss": "Lystra",
+          "description": "A city in Lycaonia in Asia Minor, northwest of Derbe; Paul met Timothy there."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Lycaonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Λύστρα"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.57813498",
+      "lon": "32.45318283"
+    },
+    "recogito": {
+      "lat": "37.60196",
+      "lon": "32.33849"
+    },
+    "vizbible": {
+      "lat": "37.60196",
+      "lon": "32.33849"
+    },
+    "biblica-maps": {
+      "lat": "37.58828",
+      "lon": "32.34447"
+    }
+  },
+  "key_references": [
+    "44014004",
+    "44016001"
+  ],
+  "references": [
+    "44014006",
+    "44014008",
+    "44014021",
+    "44016001",
+    "44016002",
+    "55003011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44014006008"
+      ],
+      [
+        "n44014008006"
+      ],
+      [
+        "n44014021012"
+      ],
+      [
+        "n44016001008"
+      ],
+      [
+        "n44016002006"
+      ],
+      [
+        "n55003011013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44016001014"
+      ],
+      [
+        "n44016003020"
+      ]
+    ]
+  }
+}

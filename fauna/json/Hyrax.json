@@ -1,0 +1,110 @@
+{
+  "id": "fauna:Hyrax",
+  "primary_id": "fauna:Hyrax",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007591001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.20"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "007591001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hyrax",
+      "alternate_labels": [
+        "Rock Badger"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hyrax",
+          "article": "fauna:Hyrax",
+          "description": "A small, tailless animal with short legs and round ears, known for climbing rocks and trees easily and eating leaves and herbs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שָׁפָן"
+    ]
+  },
+  "key_references": [
+    "03011005",
+    "19104018"
+  ],
+  "references": [
+    "03011005",
+    "05014007",
+    "19104018",
+    "20030026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110050022"
+      ],
+      [
+        "o050140070162"
+      ],
+      [
+        "o191040180062"
+      ],
+      [
+        "o200300260011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o030110050061"
+      ],
+      [
+        "o030110050111"
+      ],
+      [
+        "o030110080013"
+      ],
+      [
+        "o030110080044"
+      ],
+      [
+        "o030110080081"
+      ],
+      [
+        "o050140070201"
+      ],
+      [
+        "o050140070251"
+      ],
+      [
+        "o050140080123"
+      ],
+      [
+        "o050140080154"
+      ],
+      [
+        "o200300260072"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o050140070231"
+      ],
+      [
+        "o200300260052"
+      ]
+    ]
+  }
+}

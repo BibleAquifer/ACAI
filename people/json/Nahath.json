@@ -1,0 +1,74 @@
+{
+  "id": "person:Nahath",
+  "primary_id": "person:Nahath",
+  "alternate_sources": {
+    "aquifer": [
+      "7288|Nahath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004753003001000"
+    ],
+    "tipnr": [
+      "Nahath@Gen.36.13-1Ch"
+    ],
+    "vizbible": [
+      "recqJ7AbYRj6GkX6P"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Reuel.3",
+  "siblings": [
+    "person:Zerah",
+    "person:Shammah.2",
+    "person:Mizzah"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "004753003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nahath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nahath",
+          "article": "person:Nahath",
+          "description": "Nahath was an Edomite chief, son of Reuel and grandson of Esau, mentioned in Genesis 36:13."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נַחַת",
+      "נַ֫חַת"
+    ]
+  },
+  "key_references": [
+    "01036013",
+    "01036017",
+    "13001037"
+  ],
+  "references": [
+    "01036013",
+    "01036017",
+    "13001037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360130041"
+      ],
+      [
+        "o010360170071"
+      ],
+      [
+        "o130010370031"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "place:Enaim",
+  "primary_id": "place:Enaim",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005404001001000"
+    ],
+    "tipnr": [
+      "Enaim@Gen.38.14-"
+    ],
+    "vizbible": [
+      "rech43If99HRZHsfB"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005404001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Enaim",
+      "alternate_labels": [
+        "Eynayim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Enaim",
+          "gloss": "Enaim",
+          "description": "A town on the way to Timnah, in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Enam"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵינָם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.784368",
+      "lon": "34.909680"
+    },
+    "vizbible": {
+      "lat": "31.784368",
+      "lon": "34.909680"
+    }
+  },
+  "key_references": [
+    "01038014",
+    "01038021"
+  ],
+  "references": [
+    "01038014",
+    "01038021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380140101"
+      ],
+      [
+        "o010380210092"
+      ]
+    ]
+  }
+}

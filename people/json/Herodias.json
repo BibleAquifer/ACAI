@@ -1,0 +1,135 @@
+{
+  "id": "person:Herodias",
+  "primary_id": "person:Herodias",
+  "alternate_sources": {
+    "aquifer": [
+      "5823|Herodias|TyndaleBibleDictionary",
+      "26689|Herodias|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.145"
+    ],
+    "tipnr": [
+      "Herodias@Mat.14.3-Luk"
+    ],
+    "vizbible": [
+      "recP9mHoD9qFMGnMt"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Herod.2",
+    "person:Philip.2"
+  ],
+  "offspring": [
+    "person:Salome.2"
+  ],
+  "siblings": [
+    "person:Herod.3"
+  ],
+  "roles": [
+    "Queen",
+    "Royal Family Member"
+  ],
+  "ubsdgnt": [
+    "93.145"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Herodias",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Herodias",
+          "article": "person:Herodias",
+          "description": "Wife of Herod Philip, tetrarch of the region of Ituraea and Trachonitis. She unlawfully married his brother Herod Antipas. She instigated the beheading of John the Baptist."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἡρῳδιάς"
+    ]
+  },
+  "key_references": [
+    "40014003",
+    "40014004",
+    "40014005",
+    "40014006",
+    "40014007",
+    "40014008",
+    "41006017",
+    "42003019"
+  ],
+  "references": [
+    "40014003",
+    "40014006",
+    "41006017",
+    "41006019",
+    "41006022",
+    "42003019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40014003014"
+      ],
+      [
+        "n40014006010"
+      ],
+      [
+        "n41006017015"
+      ],
+      [
+        "n41006019003"
+      ],
+      [
+        "n41006022007"
+      ],
+      [
+        "n42003019010"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40014004010"
+      ],
+      [
+        "n41006017023"
+      ],
+      [
+        "n41006022005"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n41006019007"
+      ],
+      [
+        "n41006019009"
+      ],
+      [
+        "n41006019012"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n41006024007",
+          "n41006024008"
+        ]
+      }
+    ]
+  }
+}

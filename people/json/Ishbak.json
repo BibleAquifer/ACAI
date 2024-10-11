@@ -1,0 +1,73 @@
+{
+  "id": "person:Ishbak",
+  "primary_id": "person:Ishbak",
+  "alternate_sources": {
+    "aquifer": [
+      "6064|Ishbak|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003144001001000"
+    ],
+    "tipnr": [
+      "Ishbak@Gen.25.2-1Ch"
+    ],
+    "vizbible": [
+      "recYca3Z27jXAn2tE"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abraham",
+  "mother": "person:Keturah",
+  "siblings": [
+    "person:Ishmael",
+    "person:Isaac",
+    "person:Zimran",
+    "person:Jokshan",
+    "person:Medan",
+    "person:Midian",
+    "person:Shuah"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "003144001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ishbak",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ishbak",
+          "article": "person:Ishbak",
+          "description": "A son of Abraham and Keturah living during the time of the patriarchs, first mentioned in Genesis 25:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִשְׁבָּק"
+    ]
+  },
+  "key_references": [
+    "01025002",
+    "13001032"
+  ],
+  "references": [
+    "01025002",
+    "13001032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250020121"
+      ],
+      [
+        "o130010320112"
+      ]
+    ]
+  }
+}

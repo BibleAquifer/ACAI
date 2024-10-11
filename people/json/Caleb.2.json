@@ -1,0 +1,125 @@
+{
+  "id": "person:Caleb.2",
+  "primary_id": "person:Caleb.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4390|Caleb|TyndaleBibleDictionary",
+      "26424|Caleb|UWTranslationWords",
+      "132336|Caleb|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Caleb@1Ch.2.9-",
+      "Chelubai|Caleb@1Ch.2.9-",
+      "Carmi|Caleb@1Ch.2.9-(?)"
+    ],
+    "vizbible": [
+      "recdUEBr1HD0OmXeR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hezron.2",
+  "mother": "person:AWifeOfHezron",
+  "partners": [
+    "person:Azubah.2",
+    "person:Jerioth",
+    "person:Ephrathah",
+    "person:Ephah.2",
+    "person:Maacah.4",
+    "person:Jahdai"
+  ],
+  "offspring": [
+    "person:Hur.2",
+    "person:Jesher",
+    "person:Shobab.2",
+    "person:Ardon",
+    "person:Mareshah",
+    "person:Haran.3",
+    "person:Moza",
+    "person:Gazez",
+    "person:Sheber",
+    "person:Tirhanah",
+    "person:Shaaph.2",
+    "person:Sheva.2",
+    "person:Achsah.2"
+  ],
+  "siblings": [
+    "person:Ram",
+    "person:Jerahmeel",
+    "person:Segub.2",
+    "person:Ashhur"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Caleb",
+      "alternate_labels": [
+        "Karmi",
+        "Chelubai",
+        "Carmi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Caleb",
+          "article": "person:Caleb.2",
+          "description": "A son of Hezron, an ancestor of King David. He is sometimes called Karmi, Carmi, or Chelubai."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Carmi",
+    "person:Chelubai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002009",
+    "13002018",
+    "13002042",
+    "13002049"
+  ],
+  "references": [
+    "13002009",
+    "13002018",
+    "13002019",
+    "13002042",
+    "13002046",
+    "13002048",
+    "13002049",
+    "13002050",
+    "13004001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020090111"
+      ],
+      [
+        "o130020180012"
+      ],
+      [
+        "o130020190051"
+      ],
+      [
+        "o130020420021"
+      ],
+      [
+        "o130020460031"
+      ],
+      [
+        "o130020480021"
+      ],
+      [
+        "o130020490121"
+      ],
+      [
+        "o130020500041"
+      ],
+      [
+        "o130040010052"
+      ]
+    ]
+  }
+}

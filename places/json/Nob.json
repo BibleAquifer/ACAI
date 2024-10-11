@@ -1,0 +1,113 @@
+{
+  "id": "place:Nob",
+  "primary_id": "place:Nob",
+  "alternate_sources": {
+    "aquifer": [
+      "7417|Nob|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "afdda14"
+    ],
+    "ubsdbh": [
+      "004594001001000"
+    ],
+    "tipnr": [
+      "Nob@1Sa.21.1-Isa"
+    ],
+    "vizbible": [
+      "recMP5JBFhn8uytTx"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q11991625"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004594001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nob",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nob",
+          "gloss": "Nob",
+          "description": "A town in the territory of Benjamin; important religious center where many priests lived."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נֹב",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.799605",
+      "lon": "35.23298"
+    },
+    "vizbible": {
+      "lat": "31.799605",
+      "lon": "35.23298"
+    }
+  },
+  "key_references": [
+    "23010032",
+    "09021002"
+  ],
+  "references": [
+    "09021002",
+    "09022009",
+    "09022011",
+    "09022019",
+    "10021016",
+    "16011032",
+    "23010032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090210020031"
+      ],
+      [
+        "o090220090151"
+      ],
+      [
+        "o090220110152"
+      ],
+      [
+        "o090220190021"
+      ],
+      [
+        "o160110320021"
+      ],
+      [
+        "o230100320032"
+      ]
+    ]
+  }
+}

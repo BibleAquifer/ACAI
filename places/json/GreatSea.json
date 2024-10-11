@@ -1,0 +1,197 @@
+{
+  "id": "place:GreatSea",
+  "primary_id": "place:GreatSea",
+  "alternate_sources": {
+    "aquifer": [
+      "7012|Mediterranean Sea|TyndaleBibleDictionary",
+      "132521|Mediterranean Sea|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "aa805fb"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/1043",
+      "http://pleiades.stoa.org/places/1043"
+    ],
+    "tipnr": [
+      "Philistines_Sea|Great_Sea@Num.34.6-Ezk",
+      "Great_Sea@Num.34.6-Ezk"
+    ],
+    "vizbible": [
+      "recn47IzNNlhvTtXK"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4918"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mediterranean Sea",
+      "alternate_labels": [
+        "Great( Sea)",
+        "Western Sea",
+        "Philistia",
+        "Sea",
+        "border",
+        "Sea of the Philistines",
+        "Mediterranean",
+        "the great sea",
+        "Qere. Ketiv"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:GreatSea",
+          "gloss": "Mediterranean Sea",
+          "description": "A large body of water located between southern Europe, northern Africa, and western Asia, which borders Palestine on the west."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:PhilistinesSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "body of water"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "sea"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.24",
+      "lon": "33.47"
+    },
+    "recogito": {
+      "lat": "36.58019792933332",
+      "lon": "17.11536173"
+    },
+    "vizbible": {
+      "lat": "36.58019792933332",
+      "lon": "17.11536173"
+    }
+  },
+  "key_references": [
+    "05011024",
+    "04034006",
+    "26047020",
+    "02023031",
+    "06001004"
+  ],
+  "references": [
+    "02023031",
+    "04013029",
+    "04034005",
+    "04034006",
+    "04034007",
+    "05011024",
+    "05034002",
+    "06001004",
+    "06005001",
+    "06009001",
+    "06015004",
+    "06015011",
+    "06015012",
+    "06015047",
+    "06016003",
+    "06016006",
+    "06016008",
+    "06017009",
+    "06017010",
+    "06019029",
+    "06023004",
+    "11005023",
+    "14002015",
+    "15003007",
+    "19080012",
+    "23011011",
+    "24047005",
+    "26047010",
+    "26047015",
+    "26047017",
+    "26047019",
+    "26047020",
+    "26048028",
+    "27007002",
+    "29002020",
+    "38014008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020230310081"
+      ],
+      [
+        "o040340060062"
+      ],
+      [
+        "o040340070082"
+      ],
+      [
+        "o060010040062"
+      ],
+      [
+        "o060010040142"
+      ],
+      [
+        "o060090010132"
+      ],
+      [
+        "o060150120042"
+      ],
+      [
+        "o060150470122"
+      ],
+      [
+        "o060230040172"
+      ],
+      [
+        "o260470100192"
+      ],
+      [
+        "o260470150082"
+      ],
+      [
+        "o260470190122"
+      ],
+      [
+        "o260470200042"
+      ],
+      [
+        "o260480280172"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o230230040091",
+          "o230230040101",
+          "o230230040111",
+          "o230230040112",
+          "o230230040121",
+          "o230230040131",
+          "o230230040132",
+          "o230230040141",
+          "o230230040151",
+          "o230230040161",
+          "o230230040171"
+        ]
+      }
+    ]
+  }
+}

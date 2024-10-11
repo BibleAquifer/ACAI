@@ -1,0 +1,106 @@
+{
+  "id": "person:Achbor.2",
+  "primary_id": "person:Achbor.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3338|Achbor|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Achbor@2Ki.22.12-Jer",
+      "Abdon|Achbor@2Ki.22.12-Jer"
+    ],
+    "vizbible": [
+      "recSD9bSgNTLAUbgP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Micaiah.3",
+  "offspring": [
+    "person:Elnathan.5"
+  ],
+  "roles": [
+    "Official"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Achbor",
+      "alternate_labels": [
+        "Akbor",
+        "Abdon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Achbor",
+          "article": "person:Achbor.2",
+          "description": "An official in the court of Josiah, king of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Abdon.4"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12022012",
+    "12022014",
+    "14034020",
+    "24026022"
+  ],
+  "references": [
+    "12022012",
+    "12022014",
+    "14034020",
+    "24026022",
+    "24036012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120220120111"
+      ],
+      [
+        "o120220140052"
+      ],
+      [
+        "o140340200101"
+      ],
+      [
+        "o240260220091"
+      ],
+      [
+        "o240360120191"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120220130011",
+        "o120220130021"
+      ],
+      [
+        "o120220140232"
+      ],
+      [
+        "o120220150081"
+      ],
+      [
+        "o120220180062"
+      ],
+      [
+        "o120220180101"
+      ],
+      [
+        "o120220200212"
+      ],
+      [
+        "o140340210011",
+        "o140340210021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "group:Ishvi",
+  "primary_id": "group:Ishvi",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003150001001000",
+      "003150001003000"
+    ],
+    "tipnr": [
+      "Ishvi@Gen.46.17-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Ishvi.2",
+  "ubsdbh": [
+    "003150001001000",
+    "003150001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ishvites",
+      "alternate_labels": [
+        "Ishvi",
+        "Jesui"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ishvites",
+          "article": "group:Ishvi",
+          "description": "People descended from Ishvi, son of Asher, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִשְׁוִי"
+    ]
+  },
+  "key_references": [
+    "04026044"
+  ],
+  "references": [
+    "04026044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260440072"
+      ],
+      [
+        "o040260440092"
+      ]
+    ]
+  }
+}

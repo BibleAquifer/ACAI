@@ -1,0 +1,33 @@
+{
+  "id": "place:Goshen.3",
+  "primary_id": "place:Goshen.3",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Goshen.3",
+          "gloss": "Land of Goshen",
+          "description": "A region on the southern border of Israelite territory; conquered by Joshua."
+        }
+      ],
+      "preferred_label": "Land of Goshen"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "06010041",
+    "06011016"
+  ]
+}

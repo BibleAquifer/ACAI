@@ -1,0 +1,98 @@
+{
+  "id": "place:DungGate",
+  "primary_id": "place:DungGate",
+  "alternate_sources": {
+    "aquifer": [
+      "4906|Dung Gate|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000767001002000"
+    ],
+    "tipnr": [
+      "Dung_Gate@Neh.2.13-"
+    ],
+    "vizbible": [
+      "reco1OMEHTEdSnL1o"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000767001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dung Gate",
+      "alternate_labels": [
+        "Dung",
+        "Refuse Gate",
+        "dung port",
+        " Gate"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:DungGate",
+          "gloss": "Dung Gate",
+          "description": "A gate in the wall of Jerusalem in the time of Nehemiah."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16012031",
+    "16002013",
+    "16003013"
+  ],
+  "references": [
+    "16002013",
+    "16003013",
+    "16003014",
+    "16012031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160020130112"
+      ],
+      [
+        "o160030130192"
+      ],
+      [
+        "o160030140032"
+      ],
+      [
+        "o160120310162"
+      ]
+    ]
+  }
+}

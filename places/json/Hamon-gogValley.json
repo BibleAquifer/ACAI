@@ -1,0 +1,117 @@
+{
+  "id": "place:Hamon-gogValley",
+  "primary_id": "place:Hamon-gogValley",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001340001001000",
+      "001390001001000",
+      "001390001003000 001392001001000"
+    ],
+    "tipnr": [
+      "Hamon-gog_Valley@Ezk.39.11-"
+    ],
+    "vizbible": [
+      "recbHkRKRsfKeOQoB"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001340001001000",
+    "001390001001000",
+    "001390001003000 001392001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Hamon-gog",
+      "alternate_labels": [
+        "Hordes of Gog Valley",
+        "Travelers’ Valley",
+        "Valley of Gog’s Hordes",
+        "Hamon-gog",
+        "Valley of the Travelers",
+        "The valley of Hamon-gog"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfHamon-gog",
+          "gloss": "Valley of Hamon-gog",
+          "description": "A valley where the armies of Gog will be buried, according to a prophecy of Ezekiel (Ezekiel 39:11)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:TravelersValley"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גֹּוג",
+      "גּוֹג",
+      "גֵּיא הֲמֹון גֹּוג",
+      "הֲמוֹן גּוֹג"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley",
+      "special"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.49684513710609",
+      "lon": "35.78284105296996"
+    },
+    "vizbible": {
+      "lat": "31.49684513710609",
+      "lon": "35.78284105296996"
+    }
+  },
+  "key_references": [
+    "26039011",
+    "26039015"
+  ],
+  "references": [
+    "26039011",
+    "26039015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260390110052"
+      ],
+      [
+        "o260390110101"
+      ],
+      [
+        "o260390110211"
+      ],
+      [
+        "o260390110261"
+      ],
+      [
+        "o260390150151"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260390110151"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "group:Magi",
+  "primary_id": "group:Magi",
+  "type": "group",
+  "group_type": "other",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Magi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Magi",
+          "description": "A group of Magi (wise men from the east) traditionally named as Caspar, Melchior, and Balthazar."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40002001",
+    "40002002"
+  ],
+  "references": [
+    "40002001",
+    "40002002"
+  ],
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40002001015"
+      ],
+      [
+        "n40002002001"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n40002002002",
+          "n40002002003",
+          "n40002002004",
+          "n40002002005",
+          "n40002002006",
+          "n40002002007",
+          "n40002002008",
+          "n40002002009",
+          "n40002002010",
+          "n40002002011",
+          "n40002002012",
+          "n40002002013",
+          "n40002002014",
+          "n40002002015",
+          "n40002002016",
+          "n40002002017",
+          "n40002002018",
+          "n40002002019",
+          "n40002002020"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "person:Hymenaeus",
+  "primary_id": "person:Hymenaeus",
+  "alternate_sources": {
+    "aquifer": [
+      "5966|Hymenaeus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.370"
+    ],
+    "tipnr": [
+      "Hymenaeus@1Ti.1.20-2Ti"
+    ],
+    "vizbible": [
+      "reck1tM8WWYzlqojS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.370"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hymenaeus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hymenaeus",
+          "article": "person:Hymenaeus",
+          "description": "A man from the New Testament, mentioned in 1 Timothy 1:20, who defected from the true faith."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ὑμέναιος"
+    ]
+  },
+  "key_references": [
+    "54001020",
+    "55002017"
+  ],
+  "references": [
+    "54001020",
+    "55002017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n54001020003"
+      ],
+      [
+        "n55002017011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n54001020006"
+      ],
+      [
+        "n55002018001"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n54001020011"
+      ],
+      [
+        "n54001020013"
+      ],
+      [
+        "n55002018006"
+      ],
+      [
+        "n55002018011"
+      ]
+    ]
+  }
+}

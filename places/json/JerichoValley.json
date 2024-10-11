@@ -1,0 +1,84 @@
+{
+  "id": "place:JerichoValley",
+  "primary_id": "place:JerichoValley",
+  "alternate_sources": {
+    "pleiades": [
+      "http://pleiades.stoa.org/places/687917"
+    ],
+    "tipnr": [
+      "Jericho_Valley@Deu.34.3"
+    ],
+    "vizbible": [
+      "recTBOPSkrsX4KzJf"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Jericho",
+      "alternate_labels": [
+        "Plain",
+        "Jordan Valley",
+        "region",
+        "Jericho"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfJericho",
+          "gloss": "Valley of Jericho",
+          "description": "A valley near Jericho, north of the Dead Sea."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jericho"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.87060143818292",
+      "lon": "35.44386371224434"
+    },
+    "recogito": {
+      "lat": "31.8700465",
+      "lon": "35.443876"
+    },
+    "vizbible": {
+      "lat": "31.87060143818292",
+      "lon": "35.44386371224434"
+    }
+  },
+  "key_references": [
+    "05034003"
+  ],
+  "references": [
+    "05034003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050340030042",
+        "o050340030051",
+        "o050340030061"
+      ]
+    ]
+  }
+}

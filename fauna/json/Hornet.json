@@ -1,0 +1,84 @@
+{
+  "id": "fauna:Hornet",
+  "primary_id": "fauna:Hornet",
+  "alternate_sources": {
+    "aquifer": [
+      "5907|Hornet|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006332001001000"
+    ],
+    "ubsfauna": [
+      "fauna:6.7"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Insects, Spiders, and Worms",
+  "ubsdbh": [
+    "006332001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hornet",
+      "alternate_labels": [
+        "Wasp",
+        "Oriental Hornet"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hornet",
+          "article": "fauna:Hornet",
+          "description": "A flying insect with a painful sting that can cause fear."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "fauna:Bee"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צִרְעָה"
+    ]
+  },
+  "key_references": [
+    "02023028",
+    "05007020"
+  ],
+  "references": [
+    "02023028",
+    "05007020",
+    "06024012",
+    "19118012",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020230280032"
+      ],
+      [
+        "o050070200032"
+      ],
+      [
+        "o060240120042"
+      ],
+      [
+        "o191180120022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020230280052"
+      ],
+      [
+        "o060240120052"
+      ]
+    ]
+  }
+}

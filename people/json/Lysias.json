@@ -1,0 +1,103 @@
+{
+  "id": "person:Lysias",
+  "primary_id": "person:Lysias",
+  "alternate_sources": {
+    "aquifer": [
+      "6805|Lysias|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Lysias@Act.23.26-",
+      "Claudius|Lysias@Act.23.26-"
+    ],
+    "vizbible": [
+      "recTx6ajkAepIsmh5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Official"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lysias",
+      "alternate_labels": [
+        "Claudius",
+        "Claudius Lysias"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lysias",
+          "article": "person:Lysias",
+          "description": "A Roman commander in the New Testament, also known as Claudius, who played a role in the events involving Paul."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Claudius.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44023026",
+    "44024007",
+    "44024022"
+  ],
+  "references": [
+    "44023026",
+    "44024007",
+    "44024022"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44023026001",
+        "n44023026002"
+      ],
+      [
+        "n44024022014"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44023030003"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44023026007"
+      ],
+      [
+        "n44023027013"
+      ],
+      [
+        "n44023027017",
+        "n44023027018"
+      ],
+      [
+        "n44023028001"
+      ],
+      [
+        "n44023028003"
+      ],
+      [
+        "n44023028010"
+      ],
+      [
+        "n44023029002"
+      ],
+      [
+        "n44023030010"
+      ],
+      [
+        "n44023030013"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "place:Mahaneh-dan",
+  "primary_id": "place:Mahaneh-dan",
+  "alternate_sources": {
+    "aquifer": [
+      "6869|Mahaneh-Dan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003894001001000"
+    ],
+    "tipnr": [
+      "Mahaneh-dan@Jdg.13.25-"
+    ],
+    "vizbible": [
+      "recfnySLXqb543WAx"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003894001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mahaneh-dan",
+      "alternate_labels": [
+        "Camp of Dan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mahaneh-dan.1",
+          "gloss": "Mahaneh-Dan",
+          "description": "A location between Zorah and Eshtaol were the Danites encamped before traveling to the hill country of Ephraim; literally \"camp of Dan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מַחֲנֵה־דָן",
+      "מַחֲנֵה־דָ֑ן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite",
+      "special"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.758315",
+      "lon": "34.994252"
+    },
+    "vizbible": {
+      "lat": "31.758315",
+      "lon": "34.994252"
+    }
+  },
+  "key_references": [
+    "07018012",
+    "07013025"
+  ],
+  "references": [
+    "07013025",
+    "07018012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070130250052",
+        "o070130250061"
+      ],
+      [
+        "o070180120111",
+        "o070180120121"
+      ]
+    ]
+  }
+}

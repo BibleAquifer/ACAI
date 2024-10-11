@@ -1,0 +1,131 @@
+{
+  "id": "realia:Lot",
+  "primary_id": "realia:Lot",
+  "alternate_sources": {
+    "aquifer": [
+      "6785|Lot|TyndaleBibleDictionary",
+      "26834|Lot|UWTranslationWords",
+      "132194|Lot|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "6.219"
+    ],
+    "ubsdbh": [
+      "001361001001000",
+      "005816001001000"
+    ],
+    "ubsrealia": [
+      "realia:4.9"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.219"
+  ],
+  "ubsdbh": [
+    "001361001001000",
+    "005816001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lot",
+      "alternate_labels": [
+        "Pottery Shard Lots"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lot",
+          "article": "realia:Lot",
+          "description": "A specially marked object, like a pebble or piece of pottery, used to make decisions by chance."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֹּורָל",
+      "פּוּר"
+    ],
+    "el": [
+      "κλῆρος"
+    ]
+  },
+  "key_references": [
+    "03016008",
+    "04026055",
+    "06014002",
+    "44001026"
+  ],
+  "references": [
+    "03016008",
+    "03016009",
+    "03016010",
+    "17003007",
+    "17009024",
+    "17009026",
+    "40027035",
+    "41015024",
+    "42023034",
+    "43019024",
+    "44001026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030160080061"
+      ],
+      [
+        "o030160080071"
+      ],
+      [
+        "o030160080102"
+      ],
+      [
+        "o030160090082"
+      ],
+      [
+        "o030160100052"
+      ],
+      [
+        "o170030070121"
+      ],
+      [
+        "o170090240141"
+      ],
+      [
+        "o170090260092"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40027035009"
+      ],
+      [
+        "n41015024010"
+      ],
+      [
+        "n42023034019"
+      ],
+      [
+        "n43019024031"
+      ],
+      [
+        "n44001026003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o170030070131"
+      ],
+      [
+        "o170090240151"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "place:Emmatha",
+  "primary_id": "place:Emmatha",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Emmatha",
+          "gloss": "Emmatha",
+          "description": "A town northwest of Gadara; modern-day Hamat Gader."
+        }
+      ],
+      "preferred_label": "Emmatha",
+      "alternate_labels": [
+        "Hammat Gader",
+        "Hammath Gader"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Gadara"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "place:Dalmanutha",
+  "primary_id": "place:Magadan",
+  "alternate_sources": {
+    "aquifer": [
+      "4738|Dalmanutha|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.456"
+    ],
+    "tipnr": [
+      "Dalmanutha|Magadan@Mat.15.39-Jhn"
+    ],
+    "vizbible": [
+      "rec14G9VSYQFR0PSV"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.456"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dalmanutha",
+      "alternate_labels": [
+        "Magadan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dalmanutha",
+          "gloss": "Dalmanutha",
+          "description": "A place of uncertain location near the western shore of the Sea of Galilee, where Jesus went after feeding the 4,000 (Mark 8:10); possibly another name for Magadan."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Magadan",
+    "place:Magdala"
+  ],
+  "referred_to_as": [
+    "place:Magadan"
+  ],
+  "nearby_places": [
+    "place:GalileeSea"
+  ],
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Δαλμανουθά"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.84733495",
+      "lon": "35.52293618"
+    },
+    "vizbible": {
+      "lat": "32.84733495",
+      "lon": "35.52293618"
+    }
+  },
+  "key_references": [
+    "41008010"
+  ],
+  "references": [
+    "41008010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41008010015"
+      ]
+    ]
+  }
+}

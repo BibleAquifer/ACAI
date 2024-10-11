@@ -1,0 +1,103 @@
+{
+  "id": "place:Rhegium",
+  "primary_id": "place:Rhegium",
+  "alternate_sources": {
+    "aquifer": [
+      "8027|Rhegium|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a63bb26"
+    ],
+    "ubsdgnt": [
+      "93.559"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/16556"
+    ],
+    "tipnr": [
+      "Rhegium@Act.28.13"
+    ],
+    "vizbible": [
+      "recTvK2Bl2yXXda6Z"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3429952"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.559"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rhegium",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rhegium",
+          "gloss": "Rhegium",
+          "description": "A city on a promontory in the south of Italy; visited by Paul on his journey to Rome."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Syracuse"
+  ],
+  "subregion_of": [
+    "place:Italy"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ῥήγιον"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "38.11158003",
+      "lon": "15.64327902"
+    },
+    "recogito": {
+      "lat": "38.111146",
+      "lon": "15.649244"
+    },
+    "vizbible": {
+      "lat": "38.111146",
+      "lon": "15.649244"
+    },
+    "biblica-maps": {
+      "lat": "38.10563",
+      "lon": "15.66158"
+    }
+  },
+  "key_references": [
+    "44028013"
+  ],
+  "references": [
+    "44028013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44028013005"
+      ]
+    ]
+  }
+}

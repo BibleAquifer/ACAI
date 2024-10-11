@@ -1,0 +1,168 @@
+{
+  "id": "place:Lebo-hamath",
+  "primary_id": "place:Hamath",
+  "alternate_sources": {
+    "aquifer": [
+      "6709|Lebo-Hamath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002372001001000",
+      "002372003001000",
+      "002627001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/44506"
+    ],
+    "tipnr": [
+      "Lebo-hamath|Hamath@Num.13.21-Zec"
+    ],
+    "vizbible": [
+      "recTOELkXIVkgI0vr"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002372001001000",
+    "002372003001000",
+    "002627001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lebo-hamath",
+      "alternate_labels": [
+        "Hamath",
+        "go",
+        "Hemath",
+        "entrance to Hamath",
+        "entrance of Hamath",
+        "Hamath-Zobah",
+        "entering in of Hamath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lebo-hamath",
+          "gloss": "Lebo-Hamath",
+          "description": "A town located south of Hamath on the northern border of Canaan."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Hamath"
+  ],
+  "subregion_of": [
+    "place:Canaan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲמָת",
+      "ה",
+      "חֲמַת רַבָּה",
+      "חֶתְלֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.136204",
+      "lon": "36.749488"
+    },
+    "recogito": {
+      "lat": "34.19744",
+      "lon": "36.34204"
+    },
+    "vizbible": {
+      "lat": "34.19744",
+      "lon": "36.34204"
+    }
+  },
+  "key_references": [
+    "11008065",
+    "04013021"
+  ],
+  "references": [
+    "04013021",
+    "04034008",
+    "06013005",
+    "07003003",
+    "11008065",
+    "12014025",
+    "13013005",
+    "14007008",
+    "26047015",
+    "26047020",
+    "26048001",
+    "30006014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130210091",
+        "o040130210101"
+      ],
+      [
+        "o040340080041",
+        "o040340080051"
+      ],
+      [
+        "o060130050131",
+        "o060130050141"
+      ],
+      [
+        "o070030030151",
+        "o070030030161"
+      ],
+      [
+        "o110080650122",
+        "o110080650131"
+      ],
+      [
+        "o120140250062",
+        "o120140250071"
+      ],
+      [
+        "o130130050101",
+        "o130130050111"
+      ],
+      [
+        "o130130050122"
+      ],
+      [
+        "o140070080152",
+        "o140070080161"
+      ],
+      [
+        "o260470150111"
+      ],
+      [
+        "o260470200081",
+        "o260470200091"
+      ],
+      [
+        "o260480010101",
+        "o260480010111"
+      ],
+      [
+        "o260480010191"
+      ],
+      [
+        "o300060140151"
+      ]
+    ]
+  }
+}

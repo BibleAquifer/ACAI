@@ -1,0 +1,85 @@
+{
+  "id": "place:Sibraim",
+  "primary_id": "place:Sibraim",
+  "alternate_sources": {
+    "aquifer": [
+      "8476|Sibraim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004995001001000"
+    ],
+    "tipnr": [
+      "Sibraim@Ezk.47.16"
+    ],
+    "vizbible": [
+      "recvBdSyGAfKyhrLE"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004995001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sibraim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sibraim",
+          "gloss": "Sibraim",
+          "description": "A town between Damascus and Hamath, Syria."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Damascus",
+    "place:Hamath"
+  ],
+  "subregion_of": [
+    "place:Syria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "סִבְרַיִם",
+      "סִבְרַ֫יִם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.136204",
+      "lon": "36.749488"
+    },
+    "vizbible": {
+      "lat": "35.136204",
+      "lon": "36.749488"
+    }
+  },
+  "key_references": [
+    "26047016"
+  ],
+  "references": [
+    "26047016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260470160031"
+      ]
+    ]
+  }
+}

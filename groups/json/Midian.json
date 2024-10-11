@@ -1,0 +1,101 @@
+{
+  "id": "group:Midian",
+  "primary_id": "group:Midian",
+  "alternate_sources": {
+    "aquifer": [
+      "132249|Midianites|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003731001001000"
+    ],
+    "tipnr": [
+      "Midian@Gen.36.35-Act"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Midian",
+  "ubsdbh": [
+    "003731001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Midianites",
+      "alternate_labels": [
+        "Midian",
+        "Midianite woman"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Midianites",
+          "article": "group:Midian",
+          "description": "People who live in Midian, a region associated with Midian, a son of Abraham by Keturah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִדְיָנִי"
+    ]
+  },
+  "key_references": [
+    "01036035",
+    "07007025"
+  ],
+  "references": [
+    "01037028",
+    "01037036",
+    "04010029",
+    "04025006",
+    "04025014",
+    "04025015",
+    "04025017",
+    "04031002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010370280031"
+      ],
+      [
+        "o010370360013"
+      ],
+      [
+        "o040100290062"
+      ],
+      [
+        "o040250060102"
+      ],
+      [
+        "o040250140082"
+      ],
+      [
+        "o040250150042"
+      ],
+      [
+        "o040250170032"
+      ],
+      [
+        "o040310020062"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o040250180031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040250180071"
+      ]
+    ]
+  }
+}

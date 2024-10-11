@@ -1,0 +1,65 @@
+{
+  "id": "person:Jeshua.3",
+  "primary_id": "person:Jeshua.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6344|Jeshua (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003151001003000"
+    ],
+    "tipnr": [
+      "Jeshua@Ezr.2.6-Neh"
+    ],
+    "vizbible": [
+      "recU2ucfFvybR88ud"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Pahath-moab",
+  "siblings": [
+    "person:Joab.3"
+  ],
+  "ubsdbh": [
+    "003151001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeshua (Ezra 2:6)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeshua (Ezra 2:6)",
+          "article": "person:Jeshua.3",
+          "description": "A family head after the exile, son of Pahath-moab, mentioned in Ezra 2:6."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֵשׁוּעַ"
+    ]
+  },
+  "key_references": [
+    "15002006",
+    "16007011"
+  ],
+  "references": [
+    "15002006",
+    "16007011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020060051"
+      ],
+      [
+        "o160070110051"
+      ]
+    ]
+  }
+}

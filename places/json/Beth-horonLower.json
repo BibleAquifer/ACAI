@@ -1,0 +1,142 @@
+{
+  "id": "place:Beth-horonLower",
+  "primary_id": "place:Beth-horonLower",
+  "alternate_sources": {
+    "obi": [
+      "a094036"
+    ],
+    "tipnr": [
+      "Beth-horon_Lower@Jos.16.3-2Ch",
+      "Lower_Beth-horon@Jos.16.3-2Ch"
+    ],
+    "vizbible": [
+      "recFkoFKnoYZeBqsi"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lower Beth-horon",
+      "alternate_labels": [
+        "Beth-horon the nether",
+        "Lower",
+        "Beth-Horon",
+        "nether Beth-horon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-horonLower",
+          "gloss": "Lower Beth-Horon",
+          "description": "A Levitical town in the territory of Ephraim; assigned to the clan of Kohath."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:LowerBeth-horon"
+  ],
+  "tribal_area": "group:Ephraim",
+  "associated_places": [
+    "place:Beth-horonUpper"
+  ],
+  "nearby_places": [
+    "place:Beth-horonUpper"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.87892596",
+      "lon": "35.12356744"
+    },
+    "vizbible": {
+      "lat": "31.87892596",
+      "lon": "35.12356744"
+    }
+  },
+  "key_references": [
+    "06018014",
+    "06010011",
+    "06010010"
+  ],
+  "references": [
+    "06010010",
+    "06010011",
+    "06016003",
+    "06018013",
+    "06018014",
+    "06021022",
+    "09013018",
+    "11009017",
+    "13006053",
+    "13007024",
+    "14008005",
+    "14025013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100100121",
+        "o060100100131"
+      ],
+      [
+        "o060100110071",
+        "o060100110081"
+      ],
+      [
+        "o060160030101"
+      ],
+      [
+        "o060180130221"
+      ],
+      [
+        "o060180140121",
+        "o060180140131"
+      ],
+      [
+        "o060210220061",
+        "o060210220071"
+      ],
+      [
+        "o090130180051",
+        "o090130180061"
+      ],
+      [
+        "o110090170081"
+      ],
+      [
+        "o130060530061",
+        "o130060530071"
+      ],
+      [
+        "o130070240072"
+      ],
+      [
+        "o140080050092"
+      ],
+      [
+        "o140250130141",
+        "o140250130151"
+      ]
+    ]
+  }
+}

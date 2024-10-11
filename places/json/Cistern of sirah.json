@@ -1,0 +1,72 @@
+{
+  "id": "place:Cistern of sirah",
+  "primary_id": "place:Sirah",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000883001001000 000884001001000"
+    ],
+    "tipnr": [
+      "Cistern of Sirah|Sirah@2Sa.3.26"
+    ],
+    "vizbible": [
+      "recRCJqt4I4sIxtSk"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000883001001000 000884001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cistern of Sirah",
+      "alternate_labels": [
+        "Sirah",
+        "cistern of Sirah",
+        "Bor Hasirah"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Sirah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֹּור הַסִּרָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "well"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.55",
+      "lon": "35.1"
+    },
+    "vizbible": {
+      "lat": "31.55",
+      "lon": "35.1"
+    }
+  },
+  "key_references": [
+    "10003026"
+  ],
+  "references": [
+    "10003026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100030260112"
+      ]
+    ]
+  }
+}

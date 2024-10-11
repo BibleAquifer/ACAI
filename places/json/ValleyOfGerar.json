@@ -1,0 +1,35 @@
+{
+  "id": "place:ValleyOfGerar",
+  "primary_id": "place:ValleyOfGerar",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfGerar",
+          "gloss": "Valley of Gerar",
+          "description": "A valley near the town of Gerar, in the Negev, where Isaac settled for a time (Genesis 26:17)."
+        }
+      ],
+      "preferred_label": "Valley of Gerar"
+    }
+  },
+  "nearby_places": [
+    "place:Gerar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "valley"
+    ]
+  },
+  "key_references": [
+    "01026017"
+  ]
+}

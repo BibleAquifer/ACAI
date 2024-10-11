@@ -1,0 +1,86 @@
+{
+  "id": "person:Jemuel",
+  "primary_id": "person:Jemuel",
+  "alternate_sources": {
+    "aquifer": [
+      "6305|Jemuel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jemuel@Gen.46.10-1Ch",
+      "Nemuel|Jemuel@Gen.46.10-1Ch",
+      "Nemuelite|Jemuel@Gen.46.10-1Ch"
+    ],
+    "vizbible": [
+      "receHsiIGo9xLjgls"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simeon.5",
+  "mother": "person:AWifeOfSimeon",
+  "siblings": [
+    "person:Jamin",
+    "person:Ohad",
+    "person:Jachin",
+    "person:Zerah.6",
+    "person:Shaul.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Simeon",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jemuel",
+      "alternate_labels": [
+        "Nemuelite",
+        "Nemuel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jemuel",
+          "article": "person:Jemuel",
+          "description": "A son of the patriarch Simeon who lived during the time of the Egyptian slavery and the wilderness wandering of Israel. He was founder of the clan of the Nemuelites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Nemuel",
+    "group:Nemuelite"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046010",
+    "02006015",
+    "04026012"
+  ],
+  "references": [
+    "01046010",
+    "02006015",
+    "04026012",
+    "13004024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460100031"
+      ],
+      [
+        "o020060150031"
+      ],
+      [
+        "o040260120042"
+      ],
+      [
+        "o040260120062"
+      ],
+      [
+        "o130040240031"
+      ]
+    ]
+  }
+}

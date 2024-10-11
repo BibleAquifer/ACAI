@@ -1,0 +1,91 @@
+{
+  "id": "person:David.2",
+  "primary_id": "person:Judah.4",
+  "alternate_sources": {
+    "aquifer": [
+      "4769|David|TyndaleBibleDictionary",
+      "4766|David, City of|TyndaleBibleDictionary",
+      "4767|David, Root of|TyndaleBibleDictionary",
+      "4768|David, Tower of|TyndaleBibleDictionary",
+      "26503|David|UWTranslationWords",
+      "132395|David|BiblicaStudyNotesKeyTerms",
+      "280046|david|FIAKeyTerms"
+    ],
+    "ubsdbh": [
+      "002819001001000"
+    ],
+    "tipnr": [
+      "David|Judah@Gen.29.35-Rev"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Israel",
+  "mother": "person:Leah",
+  "partners": [
+    "person:Bath-shua",
+    "person:Tamar"
+  ],
+  "offspring": [
+    "person:Er.2",
+    "person:Onan",
+    "person:Shelah",
+    "person:Perez",
+    "person:Zerah.3"
+  ],
+  "siblings": [
+    "person:Reuben",
+    "person:Simeon.5",
+    "person:Levi.3",
+    "person:Dan",
+    "person:Naphtali",
+    "person:Gad",
+    "person:Asher",
+    "person:Issachar",
+    "person:Zebulun",
+    "person:Dinah",
+    "person:Joseph.10",
+    "person:Benjamin"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002819001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "David (Judah)",
+      "alternate_labels": [
+        "Judah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Judah",
+          "article": "person:David.2",
+          "description": "Judah, Jacob's son first mentioned in Genesis 29:35, founded the tribe of Judah and lived during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Judah.4"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "14025028"
+  ],
+  "references": [
+    "14025028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140250280091"
+      ]
+    ]
+  }
+}

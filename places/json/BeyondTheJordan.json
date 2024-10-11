@@ -1,0 +1,39 @@
+{
+  "id": "place:BeyondTheJordan",
+  "primary_id": "place:BeyondTheJordan",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:BeyondTheJordan",
+          "gloss": "Beyond the Jordan",
+          "description": "A region east of the Jordan River."
+        }
+      ],
+      "preferred_label": "Beyond the Jordan",
+      "alternate_labels": [
+        "Beyond Jordan",
+        "Transjordan"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "40004025",
+    "40019001",
+    "41010001",
+    "43001028"
+  ]
+}

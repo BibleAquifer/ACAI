@@ -1,0 +1,94 @@
+{
+  "id": "place:Ebez",
+  "primary_id": "place:Ebez",
+  "alternate_sources": {
+    "aquifer": [
+      "4928|Ebez|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "acd9b19"
+    ],
+    "ubsdbh": [
+      "000076001001000"
+    ],
+    "tipnr": [
+      "Ebez@Jos.19.20"
+    ],
+    "vizbible": [
+      "rec79ZPvnj5KL18GI"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4667268"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000076001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ebez",
+      "alternate_labels": [
+        "Abez"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ebez",
+          "gloss": "Ebez",
+          "description": "A town in the territory of Issachar."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Issachar",
+  "subregion_of": [
+    "place:TerritoryOfIssachar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶבֶץ",
+      "אֶ֫בֶץ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.261621",
+      "lon": "35.328129"
+    },
+    "vizbible": {
+      "lat": "32.261621",
+      "lon": "35.328129"
+    }
+  },
+  "key_references": [
+    "06019020"
+  ],
+  "references": [
+    "06019020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190200032"
+      ]
+    ]
+  }
+}

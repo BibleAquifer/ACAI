@@ -1,0 +1,162 @@
+{
+  "id": "place:Gezer",
+  "primary_id": "place:Gezer",
+  "alternate_sources": {
+    "aquifer": [
+      "5439|Gezer|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aed6538"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28348"
+    ],
+    "tipnr": [
+      "Gezer@Jos.10.33-1Ch",
+      "Gob|Gezer@Jos.10.33-1Ch"
+    ],
+    "vizbible": [
+      "recqxkLUTRbyks2qF"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1466687"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gezer",
+      "alternate_labels": [
+        "Gazer",
+        "Gob"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gezer",
+          "gloss": "Gezer",
+          "description": "A Levitical town in the territory of Ephraim, assigned to the clan of Kohath; possibly to be identified with Gob. It was conquered by Joshua and the Israelites but later retaken by the Canaanites."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Gob"
+  ],
+  "referred_to_as": [
+    "place:Gob"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.87611111",
+      "lon": "34.9225"
+    },
+    "recogito": {
+      "lat": "31.85958",
+      "lon": "34.92048"
+    },
+    "vizbible": {
+      "lat": "31.85958",
+      "lon": "34.92048"
+    }
+  },
+  "key_references": [
+    "06010033",
+    "07001029",
+    "10005025"
+  ],
+  "references": [
+    "06010033",
+    "06012012",
+    "06016003",
+    "06016010",
+    "06021021",
+    "07001029",
+    "10005025",
+    "10021018",
+    "10021019",
+    "11009015",
+    "11009016",
+    "11009017",
+    "13006052",
+    "13007028",
+    "13014016",
+    "13020004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100330051"
+      ],
+      [
+        "o060120120051"
+      ],
+      [
+        "o060160030121"
+      ],
+      [
+        "o060160100062"
+      ],
+      [
+        "o060210210141"
+      ],
+      [
+        "o070010290072"
+      ],
+      [
+        "o070010290112"
+      ],
+      [
+        "o100050250131"
+      ],
+      [
+        "o100210180072"
+      ],
+      [
+        "o100210190042"
+      ],
+      [
+        "o110090150241"
+      ],
+      [
+        "o110090160071"
+      ],
+      [
+        "o110090170041"
+      ],
+      [
+        "o130060520131"
+      ],
+      [
+        "o130070280091"
+      ],
+      [
+        "o130140160121"
+      ],
+      [
+        "o130200040062"
+      ]
+    ]
+  }
+}

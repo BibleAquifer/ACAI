@@ -1,0 +1,104 @@
+{
+  "id": "place:Besor",
+  "primary_id": "place:Besor",
+  "alternate_sources": {
+    "aquifer": [
+      "4147|Besor, Brook of|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a57df09"
+    ],
+    "ubsdbh": [
+      "001206001001000"
+    ],
+    "tipnr": [
+      "Besor@1Sa.30.9-"
+    ],
+    "vizbible": [
+      "rechrCcTUdg5Em955"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2668577"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001206001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Besor",
+      "alternate_labels": [
+        "Besor Valley",
+        "Wadi Besor",
+        "Brook Besor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Besor",
+          "gloss": "Besor",
+          "description": "A stream in the territory of the Philistines where some of David's men rested while the rest continued their pursuit of those who raided Ziklag (1 Samuel 30:9–10)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Philistine"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בְּשֹׂור",
+      "בְּשׂוֹר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.398056",
+      "lon": "34.436667"
+    },
+    "vizbible": {
+      "lat": "31.398056",
+      "lon": "34.436667"
+    }
+  },
+  "key_references": [
+    "09030009",
+    "09030021"
+  ],
+  "references": [
+    "09030009",
+    "09030010",
+    "09030021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090300090122"
+      ],
+      [
+        "o090300100152"
+      ],
+      [
+        "o090300210132"
+      ]
+    ]
+  }
+}

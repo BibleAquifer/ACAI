@@ -1,0 +1,89 @@
+{
+  "id": "place:Baalath",
+  "primary_id": "place:Baalath",
+  "alternate_sources": {
+    "aquifer": [
+      "3929|Baalath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001101001001000"
+    ],
+    "tipnr": [
+      "Baalath@Jos.19.44"
+    ],
+    "vizbible": [
+      "recKM0IXdEN1RtLYi"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001101001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baalath (of Dan)",
+      "alternate_labels": [
+        "Baalath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baalath.1",
+          "gloss": "Baalath (of Dan)",
+          "description": "A town in the territory of Dan."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Dan",
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בַּעֲלָת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "mountain",
+      "hill"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.927451",
+      "lon": "35.055378"
+    },
+    "vizbible": {
+      "lat": "31.927451",
+      "lon": "35.055378"
+    }
+  },
+  "key_references": [
+    "06019044"
+  ],
+  "references": [
+    "06019044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190440032"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "person:Lebanah",
+  "primary_id": "person:Lebanah",
+  "alternate_sources": {
+    "aquifer": [
+      "6705|Lebana, Lebanah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Lebana|Lebanah@Ezr.2.45-Neh",
+      "Lebanah@Ezr.2.45-Neh"
+    ],
+    "vizbible": [
+      "recGTb5eCVI8zQtHj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lebanah",
+      "alternate_labels": [
+        "Lebana"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lebanah",
+          "article": "person:Lebanah",
+          "description": "A man who lived during the time of exile and return, mentioned in both Ezra and Nehemiah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Lebana"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002045",
+    "16007048"
+  ],
+  "references": [
+    "15002045",
+    "16007048"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020450021"
+      ],
+      [
+        "o160070480021"
+      ]
+    ]
+  }
+}

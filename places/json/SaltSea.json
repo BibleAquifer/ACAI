@@ -1,0 +1,163 @@
+{
+  "id": "place:SaltSea",
+  "primary_id": "place:SaltSea",
+  "alternate_sources": {
+    "aquifer": [
+      "4779|Dead Sea|TyndaleBibleDictionary",
+      "8174|Scrolls, Dead Sea|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "abed304"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/697709",
+      "http://pleiades.stoa.org/places/697709"
+    ],
+    "tipnr": [
+      "Salt_Sea@Gen.14.3-2Ki"
+    ],
+    "vizbible": [
+      "recN4jruK7QVakoJh"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q23883"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dead Sea",
+      "alternate_labels": [
+        "Sea of Arabah",
+        " Sea",
+        "Sea of the Arabah",
+        "Salt",
+        "sea of the plain",
+        "Salt Sea",
+        "Dead Sea Valley"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:DeadSea",
+          "gloss": "Dead Sea",
+          "description": "A large body of salt water (literally \"the sea of salt\") located in the basin of the Jordan Valley, east of Judah; the Jordan River flows from the north into the northern part of this sea. The water is so salty that no living organism inhabits it."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "body of water"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "lake"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.538593",
+      "lon": "35.482268"
+    },
+    "recogito": {
+      "lat": "31.577850349494952",
+      "lon": "35.52394311"
+    },
+    "vizbible": {
+      "lat": "31.577850349494952",
+      "lon": "35.52394311"
+    }
+  },
+  "key_references": [
+    "01014003",
+    "12014025",
+    "05003017"
+  ],
+  "references": [
+    "01014003",
+    "04034003",
+    "04034012",
+    "05003017",
+    "05004049",
+    "06003016",
+    "06012003",
+    "06015002",
+    "06015005",
+    "06018019",
+    "12014025",
+    "14020002",
+    "23016008",
+    "24048032",
+    "26039011",
+    "26047008",
+    "26047009",
+    "26047010",
+    "26047018",
+    "29002020",
+    "38014008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140030092"
+      ],
+      [
+        "o040340030162"
+      ],
+      [
+        "o040340120072"
+      ],
+      [
+        "o050030170013"
+      ],
+      [
+        "o050030170072"
+      ],
+      [
+        "o050030170092"
+      ],
+      [
+        "o050040490022"
+      ],
+      [
+        "o050040490082"
+      ],
+      [
+        "o060030160192"
+      ],
+      [
+        "o060030160212"
+      ],
+      [
+        "o060120030013"
+      ],
+      [
+        "o060120030082"
+      ],
+      [
+        "o060120030102"
+      ],
+      [
+        "o060150020072"
+      ],
+      [
+        "o060150050042"
+      ],
+      [
+        "o060180190162"
+      ],
+      [
+        "o120140250102"
+      ]
+    ]
+  }
+}

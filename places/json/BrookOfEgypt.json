@@ -1,0 +1,158 @@
+{
+  "id": "place:BrookOfEgypt",
+  "primary_id": "place:BrookOfEgypt",
+  "alternate_sources": {
+    "aquifer": [
+      "4347|Brook of Egypt|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a7a59b4"
+    ],
+    "tipnr": [
+      "Shihor|Brook_of_Egypt@Num.34.5-Ezk",
+      "Brook_of_Egypt@Num.34.5-Ezk"
+    ],
+    "vizbible": [
+      "recMFUSc6GzrLNNtt"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1252077"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Brook of Egypt",
+      "alternate_labels": [
+        "Brook",
+        "Stream of Egypt",
+        "river",
+        "river of Egypt",
+        "Egypt",
+        "Wadi of Egypt",
+        "Shihor",
+        "valley of Egypt"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:BrookOfEgypt",
+          "gloss": "Brook of Egypt",
+          "description": "A river on the southwest border of Israel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Shihor"
+  ],
+  "nearby_places": [
+    "place:Israel"
+  ],
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "river",
+      "special"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.032047",
+      "lon": "33.854957"
+    },
+    "vizbible": {
+      "lat": "31.032047",
+      "lon": "33.854957"
+    }
+  },
+  "key_references": [
+    "23027012",
+    "14007008",
+    "06015047",
+    "12024007",
+    "04034005",
+    "26047019",
+    "06015004",
+    "11008065"
+  ],
+  "references": [
+    "04034005",
+    "06013003",
+    "06015004",
+    "06015047",
+    "11008065",
+    "12024007",
+    "14007008",
+    "23023003",
+    "23027012",
+    "26047019",
+    "26048028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340050041"
+      ],
+      [
+        "o040340050051"
+      ],
+      [
+        "o060130030022"
+      ],
+      [
+        "o060150040041",
+        "o060150040051"
+      ],
+      [
+        "o060150470081",
+        "o060150470091"
+      ],
+      [
+        "o110080650151",
+        "o110080650161"
+      ],
+      [
+        "o120240070051"
+      ],
+      [
+        "o120240070122",
+        "o120240070131"
+      ],
+      [
+        "o120240070211"
+      ],
+      [
+        "o140070080181",
+        "o140070080191"
+      ],
+      [
+        "o230230030041"
+      ],
+      [
+        "o230270120091",
+        "o230270120101"
+      ],
+      [
+        "o260470190091"
+      ],
+      [
+        "o260480280141"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "person:Maher-shalal-hash-baz",
+  "primary_id": "person:Maher-shalal-hash-baz",
+  "alternate_sources": {
+    "aquifer": [
+      "6874|Maher-Shalal-Hash-Baz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003761001001000"
+    ],
+    "tipnr": [
+      "Maher-shalal-hash-baz@Isa.8.1-"
+    ],
+    "vizbible": [
+      "rectYJDwgs97iMtgQ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Isaiah",
+  "siblings": [
+    "person:Shear-jashub"
+  ],
+  "ubsdbh": [
+    "003761001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maher-shalal-hash-baz",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Maher-Shalal-Hash-Baz",
+          "article": "person:Maher-shalal-hash-baz",
+          "description": "The son of the prophet Isaiah, with a name of prophetic significance, mentioned in Isaiah 8:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַהֵר שָׁלָל חָשׁ בַּז"
+    ]
+  },
+  "key_references": [
+    "23008001",
+    "23008003"
+  ],
+  "references": [
+    "23008001",
+    "23008003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230080010122",
+        "o230080010131",
+        "o230080010141",
+        "o230080010151"
+      ],
+      [
+        "o230080030121",
+        "o230080030131",
+        "o230080030141",
+        "o230080030151"
+      ]
+    ]
+  }
+}

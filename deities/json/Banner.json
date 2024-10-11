@@ -1,0 +1,53 @@
+{
+  "id": "deity:Banner",
+  "primary_id": "deity:Lord",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004819001002000"
+    ],
+    "tipnr": [
+      "Banner|LORD@Gen.1.1-Heb"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "004819001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Banner (LORD)",
+      "alternate_labels": [
+        "LORD",
+        "Jehovah-Nissi",
+        "Nissi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "LORD",
+          "article": "deity:Banner",
+          "description": "A name of the Lord used by Moses in Exodus 17:15, “The Lord is my Banner.”"
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Lord"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02017015"
+  ],
+  "references": [
+    "02017015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020170150071"
+      ]
+    ]
+  }
+}

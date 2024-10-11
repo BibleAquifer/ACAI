@@ -1,0 +1,115 @@
+{
+  "id": "place:Ono",
+  "primary_id": "place:Ono",
+  "alternate_sources": {
+    "aquifer": [
+      "7500|Ono|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae6bfe2"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/1854026"
+    ],
+    "tipnr": [
+      "Hakkephirim|Ono@1Ch.8.12-Neh",
+      "Ono@1Ch.8.12-Neh"
+    ],
+    "vizbible": [
+      "recCnbP6ZTjAmPCnR"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q7094410"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ono",
+      "alternate_labels": [
+        "Hakkephirim",
+        "villages",
+        "Ono Valley"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ono",
+          "gloss": "Ono",
+          "description": "A town in the territory of Benjamin built by Shemed."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Hakkephirim"
+  ],
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.02222222",
+      "lon": "34.86666667"
+    },
+    "recogito": {
+      "lat": "34.85",
+      "lon": "134.93333"
+    },
+    "vizbible": {
+      "lat": "32.02222222",
+      "lon": "34.86666667"
+    }
+  },
+  "key_references": [
+    "16006002",
+    "13008012"
+  ],
+  "references": [
+    "13008012",
+    "15002033",
+    "16006002",
+    "16007037",
+    "16011035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080120091"
+      ],
+      [
+        "o150020330042"
+      ],
+      [
+        "o160060020092"
+      ],
+      [
+        "o160060020111"
+      ],
+      [
+        "o160070370042"
+      ],
+      [
+        "o160110350022"
+      ]
+    ]
+  }
+}

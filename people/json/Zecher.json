@@ -1,0 +1,80 @@
+{
+  "id": "person:Zecher",
+  "primary_id": "person:Zecher",
+  "alternate_sources": {
+    "aquifer": [
+      "9168|Zecher, Zeker|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Zecher@1Ch.8.31-",
+      "Zechariah|Zecher@1Ch.8.31-"
+    ],
+    "vizbible": [
+      "rec8WZMcnCvrweL7M"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abiel.2",
+  "mother": "person:Maacah.6",
+  "siblings": [
+    "person:Kish",
+    "person:Ner.2",
+    "person:Abdon.3",
+    "person:Zur.3",
+    "person:Baal",
+    "person:Nadab.4",
+    "person:Gedor",
+    "person:Ahio.3",
+    "person:Mikloth"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zecher",
+      "alternate_labels": [
+        "Zeker",
+        "Zechariah",
+        "Zacher"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zecher",
+          "article": "person:Zecher",
+          "description": "Zecher, also known as Zeker, Zechariah, or Zacher, was a man from the tribe of Benjamin during Israel's united kingdom, son of Abiel and Maacah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zechariah.30"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008031",
+    "13009037"
+  ],
+  "references": [
+    "13008031",
+    "13009037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080310032"
+      ],
+      [
+        "o130090370032"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130080320061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "person:Joiada.2",
+  "primary_id": "person:Joiada.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6417|Joiada|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Joiada@Neh.12.10-"
+    ],
+    "vizbible": [
+      "recfAbfAbrsckOQ2t"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliashib.8",
+  "offspring": [
+    "person:Johanan.9",
+    "person:SonOfJoiada"
+  ],
+  "roles": [
+    "High Priest"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joiada",
+      "alternate_labels": [
+        "Jehoiada"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joiada",
+          "article": "person:Joiada.2",
+          "description": "High priest during the Israelite exile and return."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16012010",
+    "16012011",
+    "16012022",
+    "16013028"
+  ],
+  "references": [
+    "16012010",
+    "16012011",
+    "16012022",
+    "16013028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160120100111"
+      ],
+      [
+        "o160120110012"
+      ],
+      [
+        "o160120220041"
+      ],
+      [
+        "o160130280021"
+      ]
+    ]
+  }
+}

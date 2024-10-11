@@ -1,0 +1,75 @@
+{
+  "id": "person:Ishvi",
+  "primary_id": "person:Abinadab.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6087|Ishvi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003150001002000"
+    ],
+    "tipnr": [
+      "Ishvi|Abinadab@1Sa.14.49-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Saul.2",
+  "mother": "person:Ahinoam",
+  "siblings": [
+    "person:Jonathan.3",
+    "person:Malchi-shua",
+    "person:Merab",
+    "person:Michal",
+    "person:Ish-bosheth",
+    "person:Armoni",
+    "person:Mephibosheth.2"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "003150001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ishvi (Abinadab)",
+      "alternate_labels": [
+        "Ishui",
+        "Abinadab (Son of Saul)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abinadab (Son of Saul)",
+          "article": "person:Ishvi",
+          "description": "A son of King Saul and Ahinoam, also known as Abinadab, who lived during Israel’s united kingdom, mentioned in 1 Samuel 14:49."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Abinadab.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִשְׁוִי"
+    ]
+  },
+  "key_references": [
+    "09014049"
+  ],
+  "references": [
+    "09014049"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090140490052"
+      ]
+    ]
+  }
+}

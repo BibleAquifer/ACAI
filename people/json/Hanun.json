@@ -1,0 +1,131 @@
+{
+  "id": "person:Hanun",
+  "primary_id": "person:Hanun",
+  "alternate_sources": {
+    "aquifer": [
+      "5654|Hanun|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002383001001000"
+    ],
+    "tipnr": [
+      "Hanun@2Sa.10.1-1Ch"
+    ],
+    "vizbible": [
+      "recuOQR11wtpYOqVr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nahash.2",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Ammon",
+  "ubsdbh": [
+    "002383001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hanun",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hanun",
+          "article": "person:Hanun",
+          "description": "An Ammonite king and son of Nahash, who humiliated King David’s ambassadors and became his enemy."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חָנוּן"
+    ]
+  },
+  "key_references": [
+    "10010001",
+    "10010002",
+    "10010003",
+    "10010004",
+    "10010005",
+    "10010006",
+    "13019001",
+    "13019002",
+    "13019003",
+    "13019004",
+    "13019005",
+    "13019006"
+  ],
+  "references": [
+    "10010001",
+    "10010002",
+    "10010003",
+    "10010004",
+    "13019002",
+    "13019003",
+    "13019004",
+    "13019006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100100010091"
+      ],
+      [
+        "o100100020061"
+      ],
+      [
+        "o100100030061"
+      ],
+      [
+        "o100100040021"
+      ],
+      [
+        "o130190020061"
+      ],
+      [
+        "o130190020281"
+      ],
+      [
+        "o130190030052"
+      ],
+      [
+        "o130190040021"
+      ],
+      [
+        "o130190060091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100100040062"
+      ],
+      [
+        "o100100040102"
+      ],
+      [
+        "o100100040162"
+      ],
+      [
+        "o130190040062"
+      ],
+      [
+        "o130190040072"
+      ],
+      [
+        "o130190040132"
+      ],
+      [
+        "o130190060152"
+      ],
+      [
+        "o130190070012"
+      ]
+    ]
+  }
+}

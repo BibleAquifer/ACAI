@@ -1,0 +1,114 @@
+{
+  "id": "person:Barabbas",
+  "primary_id": "person:Barabbas",
+  "alternate_sources": {
+    "aquifer": [
+      "3998|Barabbas|TyndaleBibleDictionary",
+      "26362|Barabbas|UWTranslationWords",
+      "132022|Barabbas|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Jesus|Barabbas@Mat.27.16-Jhn",
+      "Barabbas@Mat.27.16-Jhn"
+    ],
+    "vizbible": [
+      "recDz78J2GRUtxKWi"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Prisoner"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Barabbas",
+      "alternate_labels": [
+        "Jesus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Barabbas",
+          "article": "person:Barabbas",
+          "description": "A rebel and murderer living during the time of the New Testament. He was released from prison in place of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jesus"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "41015006",
+    "41015007",
+    "42023018",
+    "42023019"
+  ],
+  "references": [
+    "40027016",
+    "40027017",
+    "40027020",
+    "40027021",
+    "40027026",
+    "41015007",
+    "41015011",
+    "41015015",
+    "42023018",
+    "43018040"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027016007",
+        "n40027016008"
+      ],
+      [
+        "n40027017014"
+      ],
+      [
+        "n40027020013"
+      ],
+      [
+        "n40027021018"
+      ],
+      [
+        "n40027026005"
+      ],
+      [
+        "n41015007005"
+      ],
+      [
+        "n41015011010"
+      ],
+      [
+        "n41015015013"
+      ],
+      [
+        "n42023018011"
+      ],
+      [
+        "n43018040009"
+      ],
+      [
+        "n43018040013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42023019001"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42023025008"
+      ]
+    ]
+  }
+}

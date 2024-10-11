@@ -1,0 +1,105 @@
+{
+  "id": "realia:Bath",
+  "primary_id": "realia:Bath",
+  "alternate_sources": {
+    "aquifer": [
+      "4033|Bath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001220002001000"
+    ],
+    "ubsrealia": [
+      "realia:11.3.1.9"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "001220002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bath",
+          "article": "realia:Bath",
+          "description": "A unit of liquid measure in ancient times, roughly equal to 20 to 40 liters."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּת"
+    ]
+  },
+  "key_references": [
+    "11007026",
+    "14004005",
+    "26045010"
+  ],
+  "references": [
+    "11007026",
+    "11007038",
+    "14002009",
+    "14004005",
+    "23005010",
+    "26045010",
+    "26045011",
+    "26045014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110070260101"
+      ],
+      [
+        "o110070380061"
+      ],
+      [
+        "o140020090171"
+      ],
+      [
+        "o140020090211"
+      ],
+      [
+        "o140040050101"
+      ],
+      [
+        "o230050100061"
+      ],
+      [
+        "o260450100052"
+      ],
+      [
+        "o260450110023"
+      ],
+      [
+        "o260450110092"
+      ],
+      [
+        "o260450140032"
+      ],
+      [
+        "o260450140062"
+      ],
+      [
+        "o260450140102"
+      ],
+      [
+        "o260450140142"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260450110162"
+      ]
+    ]
+  }
+}

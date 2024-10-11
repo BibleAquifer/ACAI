@@ -1,0 +1,69 @@
+{
+  "id": "person:Jezreel.2",
+  "primary_id": "person:Jezreel.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6377|Jezreel (Person)|TyndaleBibleDictionary",
+      "26763|Jezreel|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002888001004000",
+      "002888001002000"
+    ],
+    "tipnr": [
+      "Jezreel@Hos.1.4"
+    ],
+    "vizbible": [
+      "recF0Gn1qLPi9NAO3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hosea",
+  "mother": "person:Gomer.2",
+  "siblings": [
+    "person:Lo-ruhamah",
+    "person:Lo-ammi"
+  ],
+  "ubsdbh": [
+    "002888001004000",
+    "002888001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jezreel (Hosea 1:4)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jezreel (Hosea 1:4)",
+          "article": "person:Jezreel.2",
+          "description": "The son of the prophet Hosea and his wife Gomer, living during the time of the divided kingdom, first mentioned in Hosea 1:4."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִזְרְעֶאל",
+      "ה"
+    ]
+  },
+  "key_references": [
+    "28001004"
+  ],
+  "references": [
+    "28001004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o280010040061"
+      ],
+      [
+        "o280010040131"
+      ]
+    ]
+  }
+}

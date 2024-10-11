@@ -1,0 +1,62 @@
+{
+  "id": "person:Eglah",
+  "primary_id": "person:Eglah",
+  "alternate_sources": {
+    "aquifer": [
+      "4948|Eglah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005231002001000"
+    ],
+    "tipnr": [
+      "Eglah@2Sa.3.5-1Ch"
+    ],
+    "vizbible": [
+      "reciEZA6wFMbOuAcS"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:David"
+  ],
+  "offspring": [
+    "person:Ithream"
+  ],
+  "ubsdbh": [
+    "005231002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eglah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eglah",
+          "article": "person:Eglah",
+          "description": "Eglah was a woman living during Israel's united kingdom, mentioned in 2 Samuel 3:5 as a wife of David and mother of Ithream."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10003005",
+    "13003003"
+  ],
+  "references": [
+    "10003005",
+    "13003003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100030050032"
+      ],
+      [
+        "o130030030062"
+      ]
+    ]
+  }
+}

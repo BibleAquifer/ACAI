@@ -1,0 +1,87 @@
+{
+  "id": "place:Chezib",
+  "primary_id": "place:Achzib",
+  "alternate_sources": {
+    "aquifer": [
+      "4517|Chezib|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003279001001000"
+    ],
+    "tipnr": [
+      "Chezib|Achzib@Jos.15.44-Mic"
+    ],
+    "vizbible": [
+      "recU8xLJc1yFmRk7p"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003279001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chezib",
+      "alternate_labels": [
+        "Achzib",
+        "Kezib"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chezib",
+          "gloss": "Chezib",
+          "description": "The place where Shua, wife of Judah, gave birth to her son Shelah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Achzib"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כְּזִיב"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.7",
+      "lon": "35"
+    },
+    "vizbible": {
+      "lat": "31.7",
+      "lon": "35"
+    }
+  },
+  "key_references": [
+    "01038005"
+  ],
+  "references": [
+    "01038005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380050102"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "place:Beth-zur",
+  "primary_id": "place:Beth-zur",
+  "alternate_sources": {
+    "aquifer": [
+      "4214|Beth-Zur|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "addba2a"
+    ],
+    "ubsdbh": [
+      "000974001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/687859"
+    ],
+    "tipnr": [
+      "Beth-zur@Jos.15.58-Neh"
+    ],
+    "vizbible": [
+      "rec8BjFsbL4Of5MGn"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4897432"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000974001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-zur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-zur",
+          "gloss": "Beth-Zur",
+          "description": "A town in the territory of Judah fortified by Rehoboam; ruled by Nehemiah, son of Azbuk."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית־צוּר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.596107",
+      "lon": "35.10262"
+    },
+    "recogito": {
+      "lat": "31.580556",
+      "lon": "35.105124"
+    },
+    "vizbible": {
+      "lat": "31.596107",
+      "lon": "35.10262"
+    }
+  },
+  "key_references": [
+    "13002045",
+    "06015058"
+  ],
+  "references": [
+    "06015058",
+    "13002045",
+    "14011007",
+    "16003016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150580021",
+        "o060150580031"
+      ],
+      [
+        "o130020450061",
+        "o130020450071"
+      ],
+      [
+        "o140110070021",
+        "o140110070031"
+      ],
+      [
+        "o160030160091",
+        "o160030160101"
+      ]
+    ]
+  }
+}

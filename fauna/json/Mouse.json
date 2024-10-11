@@ -1,0 +1,89 @@
+{
+  "id": "fauna:Mouse",
+  "primary_id": "fauna:Mouse",
+  "alternate_sources": {
+    "aquifer": [
+      "7238|Mouse|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005425001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.27"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "005425001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mouse",
+      "alternate_labels": [
+        "Rat",
+        "Gerbil",
+        "Jerboa",
+        "Vole"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mouse",
+          "article": "fauna:Mouse",
+          "description": "A small rodent, considered ceremonially unclean in the Bible and can become a pest when in large numbers."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַכְבָּר"
+    ]
+  },
+  "key_references": [
+    "03011029",
+    "09006004",
+    "23066017"
+  ],
+  "references": [
+    "03011029",
+    "09006004",
+    "09006005",
+    "09006011",
+    "09006018",
+    "23066017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110290093"
+      ],
+      [
+        "o090060040161"
+      ],
+      [
+        "o090060050061",
+        "o090060050062"
+      ],
+      [
+        "o090060110101"
+      ],
+      [
+        "o090060180012"
+      ],
+      [
+        "o230660170133"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090060050072"
+      ]
+    ]
+  }
+}

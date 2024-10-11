@@ -1,0 +1,71 @@
+{
+  "id": "person:Jeroham",
+  "primary_id": "person:Jeroham",
+  "alternate_sources": {
+    "aquifer": [
+      "6327|Jeroham|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003104001001000"
+    ],
+    "tipnr": [
+      "Jeroham@1Sa.1.1-1Ch"
+    ],
+    "vizbible": [
+      "recSMNQZ6u4BuxHfD"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Elihu",
+  "offspring": [
+    "person:Elkanah.2"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "003104001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeroham",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeroham",
+          "article": "person:Jeroham",
+          "description": "A man from the tribe of Levi during Israel's united kingdom, father of Elkanah and ancestor of Samuel, mentioned in 1 Samuel 1:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְרֹחָם"
+    ]
+  },
+  "key_references": [
+    "09001001",
+    "13006012",
+    "13006019"
+  ],
+  "references": [
+    "09001001",
+    "13006012",
+    "13006019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090010010121"
+      ],
+      [
+        "o130060120031"
+      ],
+      [
+        "o130060190041"
+      ]
+    ]
+  }
+}

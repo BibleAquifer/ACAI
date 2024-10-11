@@ -1,0 +1,205 @@
+{
+  "id": "place:River",
+  "primary_id": "place:Euphrates",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004679001001000",
+      "004680001005000"
+    ],
+    "tipnr": [
+      "River|Euphrates@Gen.2.14-Rev"
+    ],
+    "vizbible": [
+      "rec9ygL3vIbmQQtNQ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004679001001000",
+    "004680001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beyond the River",
+      "alternate_labels": [
+        "beyond the Euphrates River",
+        "River",
+        "Trans-Euphrates",
+        "west of the Euphrates River",
+        "west of the Euphrates",
+        "Euphrates"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:BeyondTheRiver",
+          "gloss": "Beyond the River",
+          "description": "The region of the Euphrates River."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Euphrates"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נָהָר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "15004010"
+  ],
+  "references": [
+    "04022005",
+    "05011024",
+    "06024003",
+    "06024014",
+    "06024015",
+    "15004010",
+    "15004011",
+    "15004016",
+    "15004017",
+    "15004020",
+    "15005003",
+    "15005006",
+    "15006006",
+    "15006008",
+    "15006013",
+    "15007021",
+    "15007025",
+    "15008036",
+    "16002007",
+    "16002009",
+    "16003007",
+    "19072008",
+    "19080012",
+    "23007020",
+    "23008007",
+    "23011015",
+    "33007012",
+    "38009010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040220050102"
+      ],
+      [
+        "o050110240142",
+        "o050110240151"
+      ],
+      [
+        "o060240030072"
+      ],
+      [
+        "o060240140162"
+      ],
+      [
+        "o060240150222"
+      ],
+      [
+        "o150040100151"
+      ],
+      [
+        "o150040110131"
+      ],
+      [
+        "o150040160151"
+      ],
+      [
+        "o150040170171"
+      ],
+      [
+        "o150040200091"
+      ],
+      [
+        "o150050030081"
+      ],
+      [
+        "o150050060081"
+      ],
+      [
+        "o150050060151"
+      ],
+      [
+        "o150060060051"
+      ],
+      [
+        "o150060060121"
+      ],
+      [
+        "o150060080201"
+      ],
+      [
+        "o150060130051"
+      ],
+      [
+        "o150070210111"
+      ],
+      [
+        "o150070250181"
+      ],
+      [
+        "o150080360092"
+      ],
+      [
+        "o160020070132"
+      ],
+      [
+        "o160020090052"
+      ],
+      [
+        "o160030070142"
+      ],
+      [
+        "o190720080053"
+      ],
+      [
+        "o190800120061"
+      ],
+      [
+        "o230070200081"
+      ],
+      [
+        "o230080070082"
+      ],
+      [
+        "o230110150102"
+      ],
+      [
+        "o330070120121"
+      ],
+      [
+        "o380090100163"
+      ]
+    ]
+  }
+}

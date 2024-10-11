@@ -1,0 +1,55 @@
+{
+  "id": "person:Aher",
+  "primary_id": "person:Aher",
+  "alternate_sources": {
+    "aquifer": [
+      "3438|Aher|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000294001001000 000294002001000"
+    ],
+    "tipnr": [
+      "Aher@1Ch.7.12"
+    ],
+    "vizbible": [
+      "recbqkpRjsV0PRvC7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Hushim.3"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000294001001000 000294002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aher",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aher",
+          "article": "person:Aher",
+          "description": "A man from the tribe of Benjamin during the divided kingdom, father of Hushim."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007012"
+  ],
+  "references": [
+    "13007012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070120071"
+      ]
+    ]
+  }
+}

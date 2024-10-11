@@ -1,0 +1,36 @@
+{
+  "id": "person:FatherOfBarnabas",
+  "primary_id": "person:FatherOfBarnabas",
+  "alternate_sources": {
+    "tipnr": [
+      "father_of_Barnabas@Col.4.10"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Barnabas",
+    "person:Mary.5"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Father of Barnabas",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Father of Barnabas",
+          "article": "person:FatherOfBarnabas",
+          "description": "The Father of Barnabas is an unnamed man living during the New Testament times, inferred to be the father of Barnabas and Mary."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "51004010"
+  ],
+  "references": [
+    "51004010"
+  ]
+}

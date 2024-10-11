@@ -1,0 +1,92 @@
+{
+  "id": "realia:Manger",
+  "primary_id": "realia:Manger",
+  "alternate_sources": {
+    "aquifer": [
+      "6922|Manger|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.137"
+    ],
+    "ubsdbh": [
+      "000015001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.2.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.137"
+  ],
+  "ubsdbh": [
+    "000015001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Manger",
+      "alternate_labels": [
+        "Crib",
+        "Feed Trough",
+        "Feed Box"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Manger",
+          "article": "realia:Manger",
+          "description": "A long container made of wood or stone, used to hold food for animals."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵבוּס"
+    ],
+    "el": [
+      "φάτνη"
+    ]
+  },
+  "key_references": [
+    "42002007",
+    "23001003",
+    "18039003"
+  ],
+  "references": [
+    "18039009",
+    "20014004",
+    "23001003",
+    "42002007",
+    "42002012",
+    "42002016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180390090071",
+        "o180390090072"
+      ],
+      [
+        "o200140040031"
+      ],
+      [
+        "o230010030051"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42002007015"
+      ],
+      [
+        "n42002012012"
+      ],
+      [
+        "n42002016018"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "person:Hamutal",
+  "primary_id": "person:Hamutal",
+  "alternate_sources": {
+    "aquifer": [
+      "5635|Hamutal|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hamutal@2Ki.23.31-Jer"
+    ],
+    "vizbible": [
+      "reckUcMdr1RcKxqfY"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Jeremiah",
+  "partners": [
+    "person:Josiah"
+  ],
+  "offspring": [
+    "person:Jehoahaz.3",
+    "person:Zedekiah.3"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hamutal",
+      "alternate_labels": [
+        "Hamital"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hamutal",
+          "article": "person:Hamutal",
+          "description": "Hamutal, also known as Hamital, was a woman living during the time of the divided kingdom, first mentioned in 2 Kings 23:31, and was the daughter of Jeremiah, married to Josiah, and the mother of Jehoahaz and Zedekiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12023031",
+    "12024018",
+    "24052001"
+  ],
+  "references": [
+    "12023031",
+    "12024018",
+    "24052001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120230310131"
+      ],
+      [
+        "o120240180151"
+      ],
+      [
+        "o240520010151"
+      ]
+    ]
+  }
+}

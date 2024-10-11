@@ -1,0 +1,87 @@
+{
+  "id": "place:Beeshterah",
+  "primary_id": "place:Ashtaroth",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001112001001000"
+    ],
+    "tipnr": [
+      "Beeshterah|Ashtaroth@Deu.1.4-1Ch"
+    ],
+    "vizbible": [
+      "recjPh8iusH2RsY0b"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001112001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beeshterah",
+      "alternate_labels": [
+        "Ashtaroth",
+        "Eshtarah",
+        "Beeshtarah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beeshterah",
+          "gloss": "Beeshterah",
+          "description": "A Levitical town assigned to the clan of Gershon in the territory of Manasseh, east of the Jordan River; possibly to be identified with Ashtaroth, Ashteroth-Karnaim, and Karnaim."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Ashtaroth",
+    "place:Ashteroth-karnaim",
+    "place:Karnaim"
+  ],
+  "referred_to_as": [
+    "place:Ashtaroth"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בְּעֶשְׁתְּרָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.83333333",
+      "lon": "36.01666667"
+    },
+    "vizbible": {
+      "lat": "32.83333333",
+      "lon": "36.01666667"
+    }
+  },
+  "key_references": [
+    "06021027"
+  ],
+  "references": [
+    "06021027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060210270191"
+      ]
+    ]
+  }
+}

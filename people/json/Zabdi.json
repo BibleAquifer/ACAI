@@ -1,0 +1,80 @@
+{
+  "id": "person:Zabdi",
+  "primary_id": "person:Zabdi",
+  "alternate_sources": {
+    "aquifer": [
+      "9116|Zabdi|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Zabdi@Jos.7.1-1Ch",
+      "Zimri|Zabdi@Jos.7.1-1Ch"
+    ],
+    "vizbible": [
+      "recpisS6mSVoCMim0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zerah.3",
+  "offspring": [
+    "person:Carmi.3"
+  ],
+  "siblings": [
+    "person:Ethan.2",
+    "person:Heman.2",
+    "person:Calcol.2",
+    "person:Dara"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zabdi",
+      "alternate_labels": [
+        "Zimri"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zabdi",
+          "article": "person:Zabdi",
+          "description": "From the tribe of Judah, a son of Zerah and grandfather of Achan who took the devoted things of God during the Israelite invasion of Ai."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zimri"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "06007001",
+    "06007017",
+    "13002006"
+  ],
+  "references": [
+    "06007001",
+    "06007017",
+    "06007018",
+    "13002006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060070010111"
+      ],
+      [
+        "o060070170151"
+      ],
+      [
+        "o060070180101"
+      ],
+      [
+        "o130020060031"
+      ]
+    ]
+  }
+}

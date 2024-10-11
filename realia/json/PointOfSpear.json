@@ -1,0 +1,55 @@
+{
+  "id": "realia:PointOfSpear",
+  "primary_id": "realia:PointOfSpear",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003521001002000",
+      "006453001001000"
+    ],
+    "ubsrealia": [
+      "realia:2.5.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003521001002000",
+    "006453001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Point of Spear",
+      "alternate_labels": [
+        "Spearhead"
+      ],
+      "descriptions": []
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לֶהָבָה",
+      "קַיִן"
+    ]
+  },
+  "key_references": [
+    "09017007",
+    "10021016"
+  ],
+  "references": [
+    "09017007",
+    "10021016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090170070062"
+      ],
+      [
+        "o100210160081",
+        "o100210160082"
+      ]
+    ]
+  }
+}

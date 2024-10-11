@@ -1,0 +1,62 @@
+{
+  "id": "person:Ara",
+  "primary_id": "person:Ara",
+  "alternate_sources": {
+    "aquifer": [
+      "3707|Ara|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000637001001000"
+    ],
+    "tipnr": [
+      "Ara@1Ch.7.38"
+    ],
+    "vizbible": [
+      "recU9XsTG0he9A5bb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ithran.2",
+  "siblings": [
+    "person:Jephunneh.2",
+    "person:Pispa"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "000637001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ara",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ara",
+          "article": "person:Ara",
+          "description": "A man from the tribe of Asher during the divided kingdom, son of Jether, mentioned in 1 Chronicles 7:38."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲרָא"
+    ]
+  },
+  "key_references": [
+    "13007038"
+  ],
+  "references": [
+    "13007038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070380052"
+      ]
+    ]
+  }
+}

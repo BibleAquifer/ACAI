@@ -1,0 +1,73 @@
+{
+  "id": "place:Rehob.3",
+  "primary_id": "place:Rehob.3",
+  "alternate_sources": {
+    "aquifer": [
+      "7985|Rehob (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006751002002000"
+    ],
+    "tipnr": [
+      "Rehob@Jos.19.30-1Ch"
+    ],
+    "vizbible": [
+      "recDsgW2rUeXNQsN9"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006751002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rehob"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.955448",
+      "lon": "35.211971"
+    },
+    "vizbible": {
+      "lat": "32.955448",
+      "lon": "35.211971"
+    }
+  },
+  "references": [
+    "06019030",
+    "06021031",
+    "07001031",
+    "13006060"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190300032"
+      ],
+      [
+        "o060210310061"
+      ],
+      [
+        "o070010310191"
+      ],
+      [
+        "o130060600061"
+      ]
+    ]
+  }
+}

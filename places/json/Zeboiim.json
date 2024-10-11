@@ -1,0 +1,93 @@
+{
+  "id": "place:Zeboiim",
+  "primary_id": "place:Zeboiim",
+  "alternate_sources": {
+    "aquifer": [
+      "9159|Zeboiim|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Zeboiim@Gen.10.19-Hos"
+    ],
+    "vizbible": [
+      "rec4vcolAuZ1BVvOs"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zeboiim",
+      "alternate_labels": [
+        "Zeboim",
+        "Zeboyim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zeboiim",
+          "gloss": "Zeboiim",
+          "description": "A town near the Dead Sea; destroyed with Sodom and Gomorrah."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:SaltSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.11942270162137",
+      "lon": "35.41253049195169"
+    },
+    "vizbible": {
+      "lat": "31.11942270162137",
+      "lon": "35.41253049195169"
+    }
+  },
+  "key_references": [
+    "05029022",
+    "01010019"
+  ],
+  "references": [
+    "01010019",
+    "01014002",
+    "01014008",
+    "05029022",
+    "28011008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100190132"
+      ],
+      [
+        "o010140020171"
+      ],
+      [
+        "o010140080101"
+      ],
+      [
+        "o050290220202"
+      ],
+      [
+        "o280110080102"
+      ]
+    ]
+  }
+}

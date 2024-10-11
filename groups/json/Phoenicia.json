@@ -1,0 +1,68 @@
+{
+  "id": "group:Phoenicia",
+  "primary_id": "group:Phoenicia",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.591"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/678334"
+    ],
+    "tipnr": [
+      "Phoenicia@Act.11.19-"
+    ],
+    "vizbible": [
+      "recToD2yiguR5xCQ0"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Phoenicia",
+  "ubsdgnt": [
+    "93.591"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Syrophoenicians",
+      "alternate_labels": [
+        "Phoenicia",
+        "Syrian Phoenicia",
+        "Phenicia",
+        "Phenice",
+        "Syrophenician",
+        "Syro-Phoenician"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Syrophoenicians",
+          "article": "group:Phoenicia",
+          "description": "People who live in Syrian Phoenicia."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Συροφοινίκισσα"
+    ]
+  },
+  "key_references": [
+    "41007026"
+  ],
+  "references": [
+    "41007026",
+    "44011019",
+    "44015003",
+    "44021002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41007026006"
+      ]
+    ]
+  }
+}

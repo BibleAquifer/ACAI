@@ -1,0 +1,77 @@
+{
+  "id": "place:Tamar",
+  "primary_id": "place:Tadmor",
+  "alternate_sources": {
+    "aquifer": [
+      "8728|Tamar (Place)|TyndaleBibleDictionary",
+      "27137|Tamar|UWTranslationWords",
+      "132238|Tamar|BiblicaStudyNotesKeyTerms"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/79704"
+    ],
+    "tipnr": [
+      "Tamar|Tadmor@1Ki.9.18-2Ch"
+    ],
+    "vizbible": [
+      "recGwBS5vf8v2OCVU"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tamar (in the Wilderness)",
+      "alternate_labels": [
+        "Tadmor",
+        "Ketiv. Qere",
+        "Tamar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tamar.1",
+          "gloss": "Tamar (in the Wilderness)",
+          "description": "A town rebuilt by Solomon in the wilderness; possibly in the territory of Judah. "
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Tadmor",
+    "place:Tamar.2"
+  ],
+  "referred_to_as": [
+    "place:Tadmor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.55404917",
+      "lon": "38.26590497"
+    },
+    "recogito": {
+      "lat": "50.358333",
+      "lon": "-4.166667"
+    },
+    "vizbible": {
+      "lat": "34.55404917",
+      "lon": "38.26590497"
+    }
+  },
+  "key_references": [
+    "11009018"
+  ],
+  "references": [
+    "11009018"
+  ]
+}

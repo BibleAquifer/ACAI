@@ -1,0 +1,74 @@
+{
+  "id": "person:Dedan.2",
+  "primary_id": "person:Dedan.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4793|Dedan (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001578001002000"
+    ],
+    "tipnr": [
+      "Dedan@Gen.25.3-1Ch"
+    ],
+    "vizbible": [
+      "recYupIiXa7PA5gPu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jokshan",
+  "offspring": [
+    "group:Asshurim",
+    "group:Letushim",
+    "group:Leummim"
+  ],
+  "siblings": [
+    "person:Sheba.3"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "001578001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dedan (Genesis 25:3)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dedan (Genesis 25:3)",
+          "article": "person:Dedan.2",
+          "description": "Dedan, mentioned in Genesis 25:3, was the son of Jokshan, brother of Sheba, and father of Asshurim, Letushim, and Leummim, living during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דְּדָן"
+    ]
+  },
+  "key_references": [
+    "01025003",
+    "13001032"
+  ],
+  "references": [
+    "01025003",
+    "13001032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250030061"
+      ],
+      [
+        "o010250030081"
+      ],
+      [
+        "o130010320162"
+      ]
+    ]
+  }
+}

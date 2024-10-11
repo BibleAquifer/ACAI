@@ -1,0 +1,113 @@
+{
+  "id": "place:CityOfDestruction",
+  "primary_id": "place:CityOfDestruction",
+  "alternate_sources": {
+    "aquifer": [
+      "4574|City of Destruction|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "adca4b1"
+    ],
+    "ubsdbh": [
+      "001889001001000 002552002002000",
+      "005411001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/690549463"
+    ],
+    "tipnr": [
+      "City_of_Destruction@Isa.19.18"
+    ],
+    "vizbible": [
+      "recZ1bQRi7RutQSYV"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001889001001000 002552002002000",
+    "005411001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "City of Destruction",
+      "alternate_labels": [
+        "City of the Sun",
+        "Heliopolis",
+        "The city of destruction",
+        "Destruction"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:CityOfDestruction",
+          "gloss": "City of Destruction",
+          "description": "An Egyptian city referenced in Isa 19:18; possibly a reference to the city of Heliopolis."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:On"
+  ],
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.108086",
+      "lon": "31.33822"
+    },
+    "recogito": {
+      "lat": "40.7497382",
+      "lon": "14.4898822"
+    },
+    "vizbible": {
+      "lat": "30.108086",
+      "lon": "31.33822"
+    }
+  },
+  "key_references": [
+    "23019018"
+  ],
+  "references": [
+    "23019018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230190180051"
+      ],
+      [
+        "o230190180141"
+      ],
+      [
+        "o230190180152"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230190180081"
+      ],
+      [
+        "o230190180112"
+      ]
+    ]
+  }
+}

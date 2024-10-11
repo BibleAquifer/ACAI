@@ -1,0 +1,77 @@
+{
+  "id": "person:Eshcol",
+  "primary_id": "person:Eshcol",
+  "alternate_sources": {
+    "aquifer": [
+      "5148|Eshcol (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000748002001000"
+    ],
+    "tipnr": [
+      "Eshcol@Gen.14.13-"
+    ],
+    "vizbible": [
+      "rec9xUjJh4H6OZ18O"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:FatherOfMamre",
+  "siblings": [
+    "person:Mamre",
+    "person:Aner"
+  ],
+  "ubsdbh": [
+    "000748002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eshcol",
+      "alternate_labels": [
+        "Eshkol"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eshcol",
+          "article": "person:Eshcol",
+          "description": "Eshcol, first mentioned in Genesis 14:13, was an Amorite who lived during the time of the patriarchs and was an ally of Abram."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶשְׁכֹּול",
+      "אֶשְׁכֹּל"
+    ]
+  },
+  "key_references": [
+    "01014013",
+    "01014024"
+  ],
+  "references": [
+    "01014013",
+    "01014024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140130121"
+      ],
+      [
+        "o010140240121"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140130152"
+      ]
+    ]
+  }
+}

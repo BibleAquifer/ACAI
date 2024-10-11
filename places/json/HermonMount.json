@@ -1,0 +1,217 @@
+{
+  "id": "place:HermonMount",
+  "primary_id": "place:HermonMount",
+  "alternate_sources": {
+    "aquifer": [
+      "7223|Mount Hermon|TyndaleBibleDictionary",
+      "26891|Mount Hermon|UWTranslationWords"
+    ],
+    "obi": [
+      "a341fe8"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/41235"
+    ],
+    "tipnr": [
+      "Baal-hamon|Hermon_Mount@Deu.3.8-Ezk",
+      "Hermon_Mount@Deu.3.8-Ezk",
+      "Baal-gad|Hermon_Mount@Deu.3.8-Ezk",
+      "Baal-hermon|Hermon_Mount@Deu.3.8-Ezk",
+      "Senir|Hermon_Mount@Deu.3.8-Ezk"
+    ],
+    "vizbible": [
+      "rec1ET3TBR0oBaWJu"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q215471"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Hermon",
+      "alternate_labels": [
+        "Baal-Hamon",
+        "field",
+        "Baal-Gad",
+        "Mount Baal-hermon",
+        "Mount Siyon",
+        "Mount Sirion",
+        "Hermon",
+        "Baal-Hermon",
+        "slope",
+        "Lebanon",
+        "Hermonites",
+        "Sion",
+        "Mount Sion",
+        "Sirion",
+        "Senir"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountHermon",
+          "gloss": "Mount Hermon",
+          "description": "A mountain in the Anti-Lebanon range, northeast of Israel; also known as Senir, Sion, and Sirion."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Baal-hamon",
+    "place:Senir",
+    "place:Baal-gad",
+    "place:Baal-hermon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.41615982",
+      "lon": "35.85725618"
+    },
+    "recogito": {
+      "lat": "33.416111",
+      "lon": "35.8575"
+    },
+    "vizbible": {
+      "lat": "33.416111",
+      "lon": "35.8575"
+    }
+  },
+  "key_references": [
+    "05003008",
+    "22004008",
+    "13005023",
+    "05003009"
+  ],
+  "references": [
+    "05003008",
+    "05003009",
+    "05004048",
+    "06011003",
+    "06011017",
+    "06012001",
+    "06012005",
+    "06012007",
+    "06013005",
+    "06013011",
+    "07003003",
+    "13005023",
+    "19029006",
+    "19042007",
+    "19089013",
+    "19133003",
+    "22004008",
+    "22008011",
+    "24018014",
+    "26027005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050030080171"
+      ],
+      [
+        "o050030090032",
+        "o050030090041"
+      ],
+      [
+        "o050030090081"
+      ],
+      [
+        "o050040480091"
+      ],
+      [
+        "o050040480111"
+      ],
+      [
+        "o060110030111"
+      ],
+      [
+        "o060110170071",
+        "o060110170081"
+      ],
+      [
+        "o060110170131"
+      ],
+      [
+        "o060120010191"
+      ],
+      [
+        "o060120050031"
+      ],
+      [
+        "o060120070122",
+        "o060120070131"
+      ],
+      [
+        "o060130050072",
+        "o060130050081"
+      ],
+      [
+        "o060130050111"
+      ],
+      [
+        "o060130110071"
+      ],
+      [
+        "o070030030121",
+        "o070030030131"
+      ],
+      [
+        "o130050230091",
+        "o130050230101"
+      ],
+      [
+        "o130050230112"
+      ],
+      [
+        "o130050230131"
+      ],
+      [
+        "o190290060052"
+      ],
+      [
+        "o190420070102"
+      ],
+      [
+        "o190890130062"
+      ],
+      [
+        "o191330030021"
+      ],
+      [
+        "o220040080111"
+      ],
+      [
+        "o220040080122"
+      ],
+      [
+        "o220080110042",
+        "o220080110051"
+      ],
+      [
+        "o240180140031"
+      ],
+      [
+        "o260270050022"
+      ]
+    ]
+  }
+}

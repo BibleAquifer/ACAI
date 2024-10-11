@@ -1,0 +1,38 @@
+{
+  "id": "place:TerritoryOfZebulun",
+  "primary_id": "place:TerritoryOfZebulun",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TerritoryOfZebulun",
+          "gloss": "Territory of Zebulun",
+          "description": "The land assigned to the tribe of Zebulun."
+        }
+      ],
+      "preferred_label": "Territory of Zebulun"
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfAsher",
+    "place:TerritoryOfNaphtali",
+    "place:TerritoryOfWestManasseh",
+    "place:TerritoryOfIssachar"
+  ],
+  "subregion_of": [
+    "place:Israel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "realia:Sheepfold",
+  "primary_id": "realia:Sheepfold",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.56"
+    ],
+    "ubsdbh": [
+      "001132001001000",
+      "001327001002000",
+      "003980001001000",
+      "004529001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.2.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.56"
+  ],
+  "ubsdbh": [
+    "001132001001000",
+    "001327001002000",
+    "003980001001000",
+    "004529001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheepfold",
+      "alternate_labels": [
+        "Sheep Pen",
+        "Courtyard"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sheepfold",
+          "article": "realia:Sheepfold",
+          "description": "An enclosed area of walls for keeping sheep safe at night."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "realia:AnimalPen"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בָּצְרָה",
+      "גְּדֵרָה",
+      "מִכְלָא",
+      "מִשְׁפְּתַיִם"
+    ],
+    "el": [
+      "αὐλή"
+    ]
+  },
+  "key_references": [
+    "04032016",
+    "43010001"
+  ],
+  "references": [
+    "01049014",
+    "04032016",
+    "04032024",
+    "04032036",
+    "07005016",
+    "09024004",
+    "19050009",
+    "19078070",
+    "24049003",
+    "33002012",
+    "35003017",
+    "36002006",
+    "43010001",
+    "43010016",
+    "66011002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o330020120121"
+      ],
+      [
+        "o040320160041"
+      ],
+      [
+        "o040320240052"
+      ],
+      [
+        "o040320360092"
+      ],
+      [
+        "o090240040031"
+      ],
+      [
+        "o240490030132"
+      ],
+      [
+        "o360020060072"
+      ],
+      [
+        "o190500090052",
+        "o190500090053"
+      ],
+      [
+        "o190780700052"
+      ],
+      [
+        "o350030170162"
+      ],
+      [
+        "o010490140062"
+      ],
+      [
+        "o070050160042"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43010001013"
+      ],
+      [
+        "n43010016010"
+      ],
+      [
+        "n66011002003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n66011002012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n66011002015"
+      ]
+    ]
+  }
+}

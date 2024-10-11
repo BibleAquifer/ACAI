@@ -1,0 +1,103 @@
+{
+  "id": "place:Pisidia",
+  "primary_id": "place:Pisidia",
+  "alternate_sources": {
+    "aquifer": [
+      "7747|Pisidia|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.553",
+      "93.552"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/639060"
+    ],
+    "tipnr": [
+      "Pisidia@Act.13.14-"
+    ],
+    "vizbible": [
+      "rec6u7A9chuSPypVx"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.553",
+    "93.552"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pisidia",
+      "alternate_labels": [
+        "Pisidian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pisidia",
+          "gloss": "Pisidia",
+          "description": "A region in the province of Galatia, in southern Asia Minor."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Pamphylia",
+    "place:Lycaonia",
+    "place:Asia"
+  ],
+  "subregion_of": [
+    "place:Galatia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Πισίδιος",
+      "Πισιδία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "38.31643056393041",
+      "lon": "31.17948683048973"
+    },
+    "recogito": {
+      "lat": "37.25",
+      "lon": "30.75"
+    },
+    "vizbible": {
+      "lat": "37.25",
+      "lon": "30.75"
+    }
+  },
+  "key_references": [
+    "44014024",
+    "4401314 "
+  ],
+  "references": [
+    "44013014",
+    "44014024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44013014011"
+      ],
+      [
+        "n44014024004"
+      ]
+    ]
+  }
+}

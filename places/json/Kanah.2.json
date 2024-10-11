@@ -1,0 +1,88 @@
+{
+  "id": "place:Kanah.2",
+  "primary_id": "place:Kanah.2",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006508001001000"
+    ],
+    "tipnr": [
+      "Kanah@Jos.16.8-"
+    ],
+    "vizbible": [
+      "recUm3S3DtGCksvug"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006508001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kanah (Brook)",
+      "alternate_labels": [
+        "Brook Kanah",
+        "Valley of Kanah",
+        "Brook of Kanah",
+        "Wadi Kanah",
+        "Kanah Ravine",
+        "Kanah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kanah.1",
+          "gloss": "Kanah (Brook)",
+          "description": "A brook or wadi marking the boundary of the territory of Ephraim, separating it from Manasseh, 8 km southwest of Shechem."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.138219",
+      "lon": "35.038971"
+    },
+    "vizbible": {
+      "lat": "32.138219",
+      "lon": "35.038971"
+    }
+  },
+  "key_references": [
+    "06017009",
+    "06016008"
+  ],
+  "references": [
+    "06016008",
+    "06017009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060160080061"
+      ],
+      [
+        "o060170090041"
+      ]
+    ]
+  }
+}

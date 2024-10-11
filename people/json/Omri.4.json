@@ -1,0 +1,60 @@
+{
+  "id": "person:Omri.4",
+  "primary_id": "person:Omri.4",
+  "alternate_sources": {
+    "aquifer": [
+      "7492|Omri|TyndaleBibleDictionary",
+      "26921|Omri|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005524001004000"
+    ],
+    "tipnr": [
+      "Omri@1Ch.27.18"
+    ],
+    "vizbible": [
+      "rec051PgzHdDqHZYQ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Michael.8",
+  "ubsdbh": [
+    "005524001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Omri (1 Chronicles 27:18)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Omri (1 Chronicles 27:18)",
+          "article": "person:Omri.4",
+          "description": "Omri, mentioned in 1 Chronicles 27:18, is a man living during the time of the divided kingdom who is the son of Michael."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13027018"
+  ],
+  "references": [
+    "13027018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130270180061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130270220051"
+      ]
+    ]
+  }
+}

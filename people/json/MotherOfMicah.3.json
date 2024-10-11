@@ -1,0 +1,80 @@
+{
+  "id": "person:MotherOfMicah.3",
+  "primary_id": "person:MotherOfMicah.3",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mother of Micah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mother of Micah",
+          "description": "The mother of Micah the priest (Judges 17)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07017002",
+    "07017003"
+  ],
+  "references": [
+    "07017002",
+    "07017003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070170020211"
+      ],
+      [
+        "o070170030081"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070170020221",
+          "o070170020231",
+          "o070170020232",
+          "o070170020241",
+          "o070170020242"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070170030091",
+          "o070170030101",
+          "o070170030111",
+          "o070170030121",
+          "o070170030122",
+          "o070170030131",
+          "o070170030132",
+          "o070170030141",
+          "o070170030142",
+          "o070170030143",
+          "o070170030151",
+          "o070170030152",
+          "o070170030153",
+          "o070170030161",
+          "o070170030162",
+          "o070170030171",
+          "o070170030181",
+          "o070170030182",
+          "o070170030191",
+          "o070170030192",
+          "o070170030201",
+          "o070170030202",
+          "o070170030211",
+          "o070170030212"
+        ]
+      }
+    ]
+  }
+}

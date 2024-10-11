@@ -1,0 +1,120 @@
+{
+  "id": "realia:Barn",
+  "primary_id": "realia:Barn",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.25"
+    ],
+    "ubsdbh": [
+      "000565001001000",
+      "003630001001000",
+      "004078001001000"
+    ],
+    "ubsrealia": [
+      "realia:3.12.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.25"
+  ],
+  "ubsdbh": [
+    "000565001001000",
+    "003630001001000",
+    "004078001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Barn",
+      "alternate_labels": [
+        "Granary",
+        "Storehouse",
+        "Grain-Store"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Barn",
+          "article": "realia:Barn",
+          "description": "A building used to store harvested crops or grain."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָסָם",
+      "מַאֲבוּס",
+      "מַמְּגוּרָה"
+    ],
+    "el": [
+      "ἀποθήκη"
+    ]
+  },
+  "key_references": [
+    "05028008",
+    "20003010",
+    "42012018"
+  ],
+  "references": [
+    "05028008",
+    "20003010",
+    "24050026",
+    "29001017",
+    "40003012",
+    "40006026",
+    "40013030",
+    "42003017",
+    "42012018",
+    "42012024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050280080062",
+        "o050280080063"
+      ],
+      [
+        "o200030100021",
+        "o200030100022"
+      ],
+      [
+        "o240500260051",
+        "o240500260052"
+      ],
+      [
+        "o290010170081"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40003012020"
+      ],
+      [
+        "n40006026015"
+      ],
+      [
+        "n40013030034"
+      ],
+      [
+        "n42003017018"
+      ],
+      [
+        "n42012018008"
+      ],
+      [
+        "n42012024014"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42012018010"
+      ]
+    ]
+  }
+}

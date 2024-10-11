@@ -1,0 +1,90 @@
+{
+  "id": "person:Phinehas.2",
+  "primary_id": "person:Phinehas.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7718|Phinehas|TyndaleBibleDictionary",
+      "26959|Phinehas|UWTranslationWords",
+      "132349|Phinehas|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "005852001002000"
+    ],
+    "tipnr": [
+      "Phinehas@1Sa.1.3-"
+    ],
+    "vizbible": [
+      "recrRAVkDKZCXTSl7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eli",
+  "offspring": [
+    "person:Ichabod",
+    "person:Ahitub"
+  ],
+  "siblings": [
+    "person:Hophni"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "ubsdbh": [
+    "005852001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Phinehas",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Phinehas",
+          "article": "person:Phinehas.2",
+          "description": "A sinful priest and son of Eli at the time of the prophet Samuel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09001003",
+    "09004011",
+    "09014003"
+  ],
+  "references": [
+    "09001003",
+    "09002034",
+    "09004004",
+    "09004011",
+    "09004017",
+    "09004019",
+    "09014003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090010030172"
+      ],
+      [
+        "o090020340112"
+      ],
+      [
+        "o090040040222"
+      ],
+      [
+        "o090040110092"
+      ],
+      [
+        "o090040170182"
+      ],
+      [
+        "o090040190031"
+      ],
+      [
+        "o090140030071"
+      ]
+    ]
+  }
+}

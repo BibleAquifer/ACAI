@@ -1,0 +1,78 @@
+{
+  "id": "person:Malachi",
+  "primary_id": "person:Malachi",
+  "alternate_sources": {
+    "aquifer": [
+      "6891|Malachi (Person)|TyndaleBibleDictionary",
+      "26849|Malachi|UWTranslationWords",
+      "132524|Malachi|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "004022001001000"
+    ],
+    "tipnr": [
+      "Malachi@Mal.1.1"
+    ],
+    "vizbible": [
+      "recKOhwkuN60TpUcm"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Prophet"
+  ],
+  "ubsdbh": [
+    "004022001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Malachi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Malachi",
+          "article": "person:Malachi",
+          "description": "A prophet from the time of exile and return, mentioned in Malachi 1:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַלְאָכִי"
+    ]
+  },
+  "key_references": [
+    "39001001"
+  ],
+  "references": [
+    "39001001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o390010010071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o390020100111"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o390020100101"
+      ],
+      [
+        "o390020100132"
+      ]
+    ]
+  }
+}

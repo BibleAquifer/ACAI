@@ -1,0 +1,90 @@
+{
+  "id": "person:Jokshan",
+  "primary_id": "person:Jokshan",
+  "alternate_sources": {
+    "aquifer": [
+      "6424|Jokshan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003079001001000"
+    ],
+    "tipnr": [
+      "Jokshan@Gen.25.2-1Ch"
+    ],
+    "vizbible": [
+      "recmpdfUzrmaZA843"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abraham",
+  "mother": "person:Keturah",
+  "offspring": [
+    "person:Sheba.3",
+    "person:Dedan.2"
+  ],
+  "siblings": [
+    "person:Ishmael",
+    "person:Isaac",
+    "person:Zimran",
+    "person:Medan",
+    "person:Midian",
+    "person:Ishbak",
+    "person:Shuah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "003079001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jokshan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jokshan",
+          "article": "person:Jokshan",
+          "description": "A son of the patriarch Abraham by Keturah, and father of Sheba and Dedan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָקְשָׁן",
+      "יׇקְשָׁן"
+    ]
+  },
+  "key_references": [
+    "01025002",
+    "01025003",
+    "13001032"
+  ],
+  "references": [
+    "01025002",
+    "01025003",
+    "13001032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250020061"
+      ],
+      [
+        "o010250030012"
+      ],
+      [
+        "o130010320082"
+      ],
+      [
+        "o130010320141"
+      ]
+    ]
+  }
+}

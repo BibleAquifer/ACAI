@@ -1,0 +1,78 @@
+{
+  "id": "person:Nimshi",
+  "primary_id": "person:Nimshi",
+  "alternate_sources": {
+    "aquifer": [
+      "7408|Nimshi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004818001001000"
+    ],
+    "tipnr": [
+      "Nimshi@1Ki.19.16-2Ch"
+    ],
+    "vizbible": [
+      "rec8zm7uv7YK8gY8D"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Jehoshaphat.4"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "004818001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nimshi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nimshi",
+          "article": "person:Nimshi",
+          "description": "Nimshi was the grandfather of Jehu, the king of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נִמְשִׁי"
+    ]
+  },
+  "key_references": [
+    "11019016",
+    "12009002",
+    "14022007"
+  ],
+  "references": [
+    "11019016",
+    "12009002",
+    "12009014",
+    "12009020",
+    "14022007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110190160041"
+      ],
+      [
+        "o120090020091"
+      ],
+      [
+        "o120090140061"
+      ],
+      [
+        "o120090200131"
+      ],
+      [
+        "o140220070151"
+      ]
+    ]
+  }
+}

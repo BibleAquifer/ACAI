@@ -1,0 +1,85 @@
+{
+  "id": "place:MoriahMount",
+  "primary_id": "place:MoriahMount",
+  "alternate_sources": {
+    "aquifer": [
+      "132451|Mount Moriah|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "aac1fcf"
+    ],
+    "tipnr": [
+      "Moriah_Mount@Gen.22.2-2Ch"
+    ],
+    "vizbible": [
+      "rec7WtUEqNx0gZrTa"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q193163"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Moriah",
+      "alternate_labels": [
+        "Moriah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountMoriah",
+          "gloss": "Mount Moriah",
+          "description": "A hill in Jerusalem where Solomon built the temple."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "hill"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.77759385",
+      "lon": "35.23525141"
+    },
+    "vizbible": {
+      "lat": "31.77759385",
+      "lon": "35.23525141"
+    }
+  },
+  "key_references": [
+    "14003001"
+  ],
+  "references": [
+    "01022002",
+    "14003001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010220020162"
+      ],
+      [
+        "o140030010092"
+      ]
+    ]
+  }
+}

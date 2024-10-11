@@ -1,0 +1,80 @@
+{
+  "id": "place:Etam.2",
+  "primary_id": "place:Etam.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5164|Etam|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Etam@1Ch.4.3-"
+    ],
+    "vizbible": [
+      "recq4U0h8NhK2RFFH"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Etam (of Simeon)",
+      "alternate_labels": [
+        "Etam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Etam.2",
+          "gloss": "Etam (of Simeon)",
+          "description": "A village in the territory of Simeon."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.370835",
+      "lon": "34.860665"
+    },
+    "vizbible": {
+      "lat": "31.370835",
+      "lon": "34.860665"
+    }
+  },
+  "key_references": [
+    "13004032"
+  ],
+  "references": [
+    "13004003",
+    "13004032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040030031"
+      ],
+      [
+        "o130040320021"
+      ]
+    ]
+  }
+}

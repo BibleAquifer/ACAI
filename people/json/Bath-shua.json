@@ -1,0 +1,63 @@
+{
+  "id": "person:Bath-shua",
+  "primary_id": "person:Bath-shua",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001223001001000"
+    ],
+    "tipnr": [
+      "Bath-shua@Gen.38.2-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Shua",
+  "partners": [
+    "person:Judah.4"
+  ],
+  "offspring": [
+    "person:Er.2",
+    "person:Onan",
+    "person:Shelah"
+  ],
+  "ubsdbh": [
+    "001223001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bath-shua",
+      "alternate_labels": [
+        "daughter of Shua"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bath-Shua",
+          "article": "person:Bath-shua",
+          "description": "A daughter of Shua and wife of Judah, mentioned in Genesis 38:2, mother of Er, Onan, and Shelah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּת־שׁוּעַ"
+    ]
+  },
+  "key_references": [
+    "13002003"
+  ],
+  "references": [
+    "13002003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020030092",
+        "o130020030101"
+      ]
+    ]
+  }
+}

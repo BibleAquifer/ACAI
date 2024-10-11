@@ -1,0 +1,75 @@
+{
+  "id": "place:Sitnah",
+  "primary_id": "place:Sitnah",
+  "alternate_sources": {
+    "aquifer": [
+      "8535|Sitnah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007015002001000"
+    ],
+    "tipnr": [
+      "Sitnah@Gen.26.21"
+    ],
+    "vizbible": [
+      "recDNxYH4BhZWW7rS"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007015002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sitnah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sitnah",
+          "gloss": "Sitnah",
+          "description": "A well dug by herdsmen of Isaac, which became a source of contention between them and the herdsmen of Gerar."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:ValleyOfGerar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "well"
+    ],
+    "acai": [
+      "well"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.39129109635703",
+      "lon": "34.56057015639144"
+    },
+    "vizbible": {
+      "lat": "31.39129109635703",
+      "lon": "34.56057015639144"
+    }
+  },
+  "key_references": [
+    "01026021"
+  ],
+  "references": [
+    "01026021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010260210091"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "person:Arodi",
+  "primary_id": "person:Arod",
+  "alternate_sources": {
+    "aquifer": [
+      "3757|Arod, Arodi, Arodite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000663001001000"
+    ],
+    "tipnr": [
+      "Arodi|Arod@Gen.46.16-Num"
+    ],
+    "vizbible": [
+      "recOE8azA8qN08QRq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gad",
+  "siblings": [
+    "person:Ziphion",
+    "person:Haggi",
+    "person:Shuni",
+    "person:Ezbon",
+    "person:Eri",
+    "person:Areli"
+  ],
+  "tribe": "group:Gad",
+  "ubsdbh": [
+    "000663001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arodi (Arod)",
+      "alternate_labels": [
+        "Arod"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Arod",
+          "article": "person:Arodi",
+          "description": "A son of Gad from the tribe of Gad, also called Arod, mentioned in Genesis 46:16 and Numbers 26:17."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Arod"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲרֹודִי",
+      "אֲרוֹדִי"
+    ]
+  },
+  "key_references": [
+    "01046016"
+  ],
+  "references": [
+    "01046016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460160082"
+      ]
+    ]
+  }
+}

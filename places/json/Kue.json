@@ -1,0 +1,104 @@
+{
+  "id": "place:Kue",
+  "primary_id": "place:Kue",
+  "alternate_sources": {
+    "aquifer": [
+      "6651|Kue|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af133c0"
+    ],
+    "ubsdbh": [
+      "006408001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/1529355"
+    ],
+    "tipnr": [
+      "Kue@1Ki.10.28-2Ch"
+    ],
+    "vizbible": [
+      "rec5S2a0FVulB61s7"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q823862"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006408001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kue",
+      "alternate_labels": [
+        "Cilicia",
+        "Que",
+        "Keveh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kue",
+          "gloss": "Kue",
+          "description": "A kingdom located in southeastern Turkey, known as Cilicia in Greco-Roman period; famous for its horses."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Cilicia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.91802695356275",
+      "lon": "34.89153398422567"
+    },
+    "recogito": {
+      "lat": "44.42707",
+      "lon": "84.90069"
+    },
+    "vizbible": {
+      "lat": "36.91802695356275",
+      "lon": "34.89153398422567"
+    }
+  },
+  "key_references": [
+    "11010028",
+    "14001016"
+  ],
+  "references": [
+    "11010028",
+    "14001016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110100280063"
+      ],
+      [
+        "o110100280102"
+      ],
+      [
+        "o140010160063"
+      ],
+      [
+        "o140010160092"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "place:Kir.2",
+  "primary_id": "place:Kir.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6618|Kir|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kir.2",
+          "gloss": "Kir (of Moab)",
+          "description": "A town in Moab; probably to be identified with Kir-Hareseth."
+        }
+      ],
+      "preferred_label": "Kir (of Moab)",
+      "alternate_labels": [
+        "Kir-Moab"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Kir-hareseth"
+  ],
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "23015001"
+  ]
+}

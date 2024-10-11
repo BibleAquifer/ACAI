@@ -1,0 +1,52 @@
+{
+  "id": "group:Sered",
+  "primary_id": "group:Sered",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005165001001000"
+    ],
+    "tipnr": [
+      "Sered@Gen.46.14-Num"
+    ],
+    "vizbible": [
+      "recoRJK3ReuIPIsUc"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Sered",
+  "ubsdbh": [
+    "005165001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seredites",
+      "alternate_labels": [
+        "Sered"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seredites",
+          "article": "group:Sered",
+          "description": "People descended from Sered, of the tribe of Zebulun."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026026"
+  ],
+  "references": [
+    "04026026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260260062"
+      ]
+    ]
+  }
+}

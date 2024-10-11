@@ -1,0 +1,35 @@
+{
+  "id": "place:RedSea.2",
+  "primary_id": "place:RedSea.2",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:RedSea.2",
+          "gloss": "Gulf of Aqaba",
+          "description": "The northeastern arm of the Red Sea."
+        }
+      ],
+      "preferred_label": "Gulf of Aqaba",
+      "alternate_labels": [
+        "Red Sea"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "sea"
+    ]
+  },
+  "key_references": [
+    "11009026"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "person:Gera.2",
+  "primary_id": "person:Gera.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5426|Gera|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001482001003000"
+    ],
+    "tipnr": [
+      "Gera@2Sa.16.5-1Ki"
+    ],
+    "vizbible": [
+      "recFwUNeLQfVZZmCd"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Shimei.5"
+  ],
+  "ubsdbh": [
+    "001482001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gera",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gera",
+          "article": "person:Gera.2",
+          "description": "A man from the tribe of Benjamin and father of Shimei, who lived during the time of Israel’s united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֵּרָא"
+    ]
+  },
+  "key_references": [
+    "10016005",
+    "10019017",
+    "11002008"
+  ],
+  "references": [
+    "10016005",
+    "10019017",
+    "10019019",
+    "11002008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100160050161"
+      ],
+      [
+        "o100190170041"
+      ],
+      [
+        "o100190190131"
+      ],
+      [
+        "o110020080051"
+      ]
+    ]
+  }
+}

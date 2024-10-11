@@ -1,0 +1,50 @@
+{
+  "id": "place:Caesarea.2",
+  "primary_id": "place:Caesarea.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4378|Caesarea|TyndaleBibleDictionary",
+      "26421|Caesarea|UWTranslationWords",
+      "132084|Caesarea|BiblicaStudyNotesKeyTerms"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Caesarea.2",
+          "gloss": "Caesarea (of Cappadocia)",
+          "description": "The capital city of Cappadocia; modern-day Kayseri, Turkey."
+        }
+      ],
+      "preferred_label": "Caesarea (of Cappadocia)",
+      "alternate_labels": [
+        "Mazaka",
+        "Mazaca",
+        "Eusebeia"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Cappadocia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "38.72803",
+      "lon": "35.48499"
+    }
+  }
+}

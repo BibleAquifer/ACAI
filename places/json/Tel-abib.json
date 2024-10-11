@@ -1,0 +1,89 @@
+{
+  "id": "place:Tel-abib",
+  "primary_id": "place:Tel-abib",
+  "alternate_sources": {
+    "aquifer": [
+      "8766|Tel-Abib|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007806001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/464208933"
+    ],
+    "tipnr": [
+      "Tel-abib@Ezk.3.15"
+    ],
+    "vizbible": [
+      "recVhNCUeAS0F4spM"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007806001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tel-abib",
+      "alternate_labels": [
+        "Tel Aviv"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tel-abib",
+          "gloss": "Tel-Abib",
+          "description": "A location near the Chebar River in Babylonia."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Chebar"
+  ],
+  "subregion_of": [
+    "place:Babylonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.127213",
+      "lon": "45.229995"
+    },
+    "recogito": {
+      "lat": "32.5",
+      "lon": "32.5"
+    },
+    "vizbible": {
+      "lat": "32.127213",
+      "lon": "45.229995"
+    }
+  },
+  "key_references": [
+    "26003015"
+  ],
+  "references": [
+    "26003015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260030150041",
+        "o260030150051"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "place:En-hazor",
+  "primary_id": "place:En-hazor",
+  "alternate_sources": {
+    "aquifer": [
+      "5086|En-Hazor|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a156070"
+    ],
+    "ubsdbh": [
+      "005396001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/779967430"
+    ],
+    "tipnr": [
+      "En-hazor@Jos.19.37"
+    ],
+    "vizbible": [
+      "recNr91lpkTslxF4f"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5374924"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005396001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "En-hazor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:En-hazor",
+          "gloss": "En-Hazor",
+          "description": "A fortified town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵין חֲרֹד"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.1",
+      "lon": "35.35"
+    },
+    "recogito": {
+      "lat": "33.01746212803129",
+      "lon": "35.56813718"
+    },
+    "vizbible": {
+      "lat": "33.1",
+      "lon": "35.35"
+    }
+  },
+  "key_references": [
+    "06019037"
+  ],
+  "references": [
+    "06019037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190370032",
+        "o060190370041"
+      ]
+    ]
+  }
+}

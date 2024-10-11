@@ -1,0 +1,135 @@
+{
+  "id": "place:Zorah",
+  "primary_id": "place:Zorah",
+  "alternate_sources": {
+    "aquifer": [
+      "9261|Zorah, Zorathite|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a08174b"
+    ],
+    "ubsdbh": [
+      "006333001001000"
+    ],
+    "tipnr": [
+      "Zorah@Jos.15.33-Neh"
+    ],
+    "vizbible": [
+      "recTzP6VykOhwetgm"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2916162"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006333001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zorah",
+      "alternate_labels": [
+        "Zareathites",
+        "Zareah",
+        "Zorathites",
+        "Zoreah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zorah",
+          "gloss": "Zorah",
+          "description": "A town in the foothills of the territory of Dan."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Dan",
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "צָרְעִי",
+      "צׇרְעָתִי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.762141",
+      "lon": "34.969319"
+    },
+    "vizbible": {
+      "lat": "31.762141",
+      "lon": "34.969319"
+    }
+  },
+  "key_references": [
+    "07013025",
+    "07013002"
+  ],
+  "references": [
+    "06015033",
+    "06019041",
+    "07013002",
+    "07013025",
+    "07016031",
+    "07018002",
+    "07018008",
+    "07018011",
+    "13002053",
+    "14011010",
+    "16011029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150330032"
+      ],
+      [
+        "o060190410041"
+      ],
+      [
+        "o070130020042"
+      ],
+      [
+        "o070130250081"
+      ],
+      [
+        "o070160310121"
+      ],
+      [
+        "o070180020112"
+      ],
+      [
+        "o070180080041"
+      ],
+      [
+        "o070180110052"
+      ],
+      [
+        "o140110100021"
+      ],
+      [
+        "o160110290033"
+      ]
+    ]
+  }
+}

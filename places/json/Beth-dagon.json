@@ -1,0 +1,96 @@
+{
+  "id": "place:Beth-dagon",
+  "primary_id": "place:Beth-dagon",
+  "alternate_sources": {
+    "aquifer": [
+      "4165|Beth-Dagon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000942001002000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/687852"
+    ],
+    "tipnr": [
+      "Beth-dagon@Jos.15.41"
+    ],
+    "vizbible": [
+      "recVUQZf8yesqvaiQ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000942001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-dagon (of Judah)",
+      "alternate_labels": [
+        "Beth-Dagon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-dagon.1",
+          "gloss": "Beth-Dagon (of Judah)",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית־דָּגֹון",
+      "בֵּית־דָּגוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.908",
+      "lon": "34.775"
+    },
+    "recogito": {
+      "lat": "32.010099",
+      "lon": "34.832044"
+    },
+    "vizbible": {
+      "lat": "31.908",
+      "lon": "34.775"
+    }
+  },
+  "key_references": [
+    "06015041"
+  ],
+  "references": [
+    "06015041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150410021",
+        "o060150410031"
+      ]
+    ]
+  }
+}

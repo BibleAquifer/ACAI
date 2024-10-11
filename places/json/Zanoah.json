@@ -1,0 +1,104 @@
+{
+  "id": "place:Zanoah",
+  "primary_id": "place:Zanoah",
+  "alternate_sources": {
+    "aquifer": [
+      "9136|Zanoah (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002013001001000",
+      "002013001002000"
+    ],
+    "tipnr": [
+      "Zanoah@Jos.15.34-Neh"
+    ],
+    "vizbible": [
+      "recSeEZP5e1RMhWEM"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002013001001000",
+    "002013001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zanoah (in the Shephelah)",
+      "alternate_labels": [
+        "Zanoah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zanoah.1",
+          "gloss": "Zanoah (in the Shephelah)",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "זָנֹוחַ",
+      "זָנוֹחַ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.716667",
+      "lon": "35"
+    },
+    "vizbible": {
+      "lat": "31.716667",
+      "lon": "35"
+    }
+  },
+  "key_references": [
+    "16011030",
+    "06015034",
+    "16003013"
+  ],
+  "references": [
+    "06015034",
+    "13004018",
+    "16003013",
+    "16011030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150340012"
+      ],
+      [
+        "o130040180151"
+      ],
+      [
+        "o160030130071"
+      ],
+      [
+        "o160110300011"
+      ]
+    ]
+  }
+}

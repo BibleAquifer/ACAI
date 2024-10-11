@@ -1,0 +1,38 @@
+{
+  "id": "place:Tingi",
+  "primary_id": "place:Tingi",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tingi",
+          "gloss": "Tingi",
+          "description": "A seaport city on the northwestern coast of Africa; modern-day Tangier, Morocco."
+        }
+      ],
+      "preferred_label": "Tingi",
+      "alternate_labels": [
+        "Tingis"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "35.78755",
+      "lon": "-5.81023"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "place:Eglaim",
+  "primary_id": "place:Eglaim",
+  "alternate_sources": {
+    "aquifer": [
+      "4949|Eglaim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000098001001000"
+    ],
+    "tipnr": [
+      "Eglaim@Isa.15.8"
+    ],
+    "vizbible": [
+      "recgwRE0rDnmS39ba"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000098001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eglaim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eglaim",
+          "gloss": "Eglaim",
+          "description": "A town in Moab mentioned in Isa 15:8."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶגְלַיִם",
+      "אֶגְלַ֫יִם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "spring",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.998062",
+      "lon": "35.498547"
+    },
+    "vizbible": {
+      "lat": "30.998062",
+      "lon": "35.498547"
+    }
+  },
+  "key_references": [
+    "23015008"
+  ],
+  "references": [
+    "23015008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230150080081"
+      ]
+    ]
+  }
+}

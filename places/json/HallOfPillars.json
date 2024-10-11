@@ -1,0 +1,90 @@
+{
+  "id": "place:HallOfPillars",
+  "primary_id": "place:HallOfPillars",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005489001001000",
+      "000342001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/658511"
+    ],
+    "tipnr": [
+      "Hall_of_Pillars@1Ki.7.6"
+    ],
+    "vizbible": [
+      "recjCJINpI08QY5oX"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005489001001000",
+    "000342001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hall of Pillars",
+      "alternate_labels": [
+        "Pillars"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:HallOfPillars",
+          "gloss": "Hall of Pillars",
+          "description": "A building in Solomon's palace complex."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "hall"
+    ],
+    "acai": [
+      "hall"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "36.670271",
+      "lon": "36.220709"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "11007006"
+  ],
+  "references": [
+    "11007006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110070060021"
+      ],
+      [
+        "o110070060032"
+      ],
+      [
+        "o110070060112"
+      ],
+      [
+        "o110070060142"
+      ]
+    ]
+  }
+}

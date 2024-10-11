@@ -1,0 +1,99 @@
+{
+  "id": "person:Er.2",
+  "primary_id": "person:Er.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5136|Er|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005641002001000"
+    ],
+    "tipnr": [
+      "Er@Gen.38.3-1Ch"
+    ],
+    "vizbible": [
+      "rechBzMEecm1fl5MJ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Judah.4",
+  "mother": "person:Bath-shua",
+  "partners": [
+    "person:Tamar"
+  ],
+  "siblings": [
+    "person:Onan",
+    "person:Shelah",
+    "person:Perez",
+    "person:Zerah.3"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005641002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Er",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Er",
+          "article": "person:Er.2",
+          "description": "First-born son of the patriarch Judah and Bath-shua, and husband of Tamar. Er was put to death by YHWH."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עָר"
+    ]
+  },
+  "key_references": [
+    "01038006",
+    "01038007",
+    "13002003"
+  ],
+  "references": [
+    "01038003",
+    "01038006",
+    "01038007",
+    "01046012",
+    "04026019",
+    "13002003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380030071"
+      ],
+      [
+        "o010380060042"
+      ],
+      [
+        "o010380070021"
+      ],
+      [
+        "o010460120031"
+      ],
+      [
+        "o010460120091"
+      ],
+      [
+        "o040260190031"
+      ],
+      [
+        "o040260190061"
+      ],
+      [
+        "o130020030031"
+      ],
+      [
+        "o130020030131"
+      ]
+    ]
+  }
+}

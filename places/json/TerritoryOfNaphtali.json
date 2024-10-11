@@ -1,0 +1,39 @@
+{
+  "id": "place:TerritoryOfNaphtali",
+  "primary_id": "place:TerritoryOfNaphtali",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TerritoryOfNaphtali",
+          "gloss": "Territory of Naphtali",
+          "description": "The land assigned to the tribe of Naphtali."
+        }
+      ],
+      "preferred_label": "Territory of Naphtali"
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfAsher",
+    "place:TerritoryOfZebulun",
+    "place:TerritoryOfIssachar",
+    "place:TerritoryOfEastManasseh",
+    "place:TerritoryOfGad"
+  ],
+  "subregion_of": [
+    "place:Israel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  }
+}

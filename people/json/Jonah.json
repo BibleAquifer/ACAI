@@ -1,0 +1,69 @@
+{
+  "id": "person:Jonah",
+  "primary_id": "person:John.4",
+  "alternate_sources": {
+    "aquifer": [
+      "6429|Jonah (Person)|TyndaleBibleDictionary",
+      "26771|Jonah|UWTranslationWords",
+      "132519|Jonah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.64"
+    ],
+    "tipnr": [
+      "Jonah|John@Mat.16.17-Jhn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Peter",
+    "person:Andrew"
+  ],
+  "roles": [
+    "Disciple"
+  ],
+  "ubsdgnt": [
+    "93.64"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jonah (John)",
+      "alternate_labels": [
+        "John",
+        "Jona"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "John",
+          "article": "person:Jonah",
+          "description": "A man living at the time of the New Testament, father of Peter and Andrew, also called Jona or John, mentioned in Matthew."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:John.4"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Βαριωνᾶ"
+    ]
+  },
+  "key_references": [
+    "40016017"
+  ],
+  "references": [
+    "40016017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40016017010"
+      ]
+    ]
+  }
+}

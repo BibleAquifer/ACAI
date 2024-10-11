@@ -1,0 +1,89 @@
+{
+  "id": "place:EphraimGate",
+  "primary_id": "place:EphraimGate",
+  "alternate_sources": {
+    "tipnr": [
+      "Ephraim_Gate@2Ki.14.13-2Ch"
+    ],
+    "vizbible": [
+      "recAaf40EEWyTLYmo"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephraim Gate",
+      "alternate_labels": [
+        "Gate of Ephraim",
+        " Gate",
+        "Ephraim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:EphraimGate",
+          "gloss": "Ephraim Gate",
+          "description": "A gate in the wall of Jerusalem which Jehoash destroyed (2 Kings 14:13)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16012039",
+    "12014013",
+    "14025023",
+    "16008016"
+  ],
+  "references": [
+    "12014013",
+    "14025023",
+    "16008016",
+    "16012039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120140130221"
+      ],
+      [
+        "o140250230211"
+      ],
+      [
+        "o160080160191"
+      ],
+      [
+        "o160120390031"
+      ]
+    ]
+  }
+}

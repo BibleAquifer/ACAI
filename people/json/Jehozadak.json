@@ -1,0 +1,113 @@
+{
+  "id": "person:Jehozadak",
+  "primary_id": "person:Jehozadak",
+  "alternate_sources": {
+    "aquifer": [
+      "6291|Jehozadak|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jehozadak@1Ch.6.14-Zec",
+      "Jozadak|Jehozadak@1Ch.6.14-Zec"
+    ],
+    "vizbible": [
+      "recct2wfzlUslVipr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Seraiah.2",
+  "offspring": [
+    "person:Joshua.5"
+  ],
+  "siblings": [
+    "person:Ezra"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehozadak",
+      "alternate_labels": [
+        "Josedech",
+        "Jozadak"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehozadak",
+          "article": "person:Jehozadak",
+          "description": "A priest exiled during the Babylonian captivity of Israel. He was a son of Seraiah and father of Joshua, who became high priest after the Israelite return from exile."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jozadak"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13006014",
+    "13006015",
+    "15003002",
+    "37001001",
+    "37001014",
+    "38006011"
+  ],
+  "references": [
+    "13005040",
+    "13005041",
+    "15003002",
+    "15003008",
+    "15005002",
+    "16012026",
+    "37001001",
+    "37001012",
+    "37001014",
+    "37002002",
+    "37002004",
+    "38006011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050400081"
+      ],
+      [
+        "o130050410012"
+      ],
+      [
+        "o150030020041"
+      ],
+      [
+        "o150030080161"
+      ],
+      [
+        "o150050020081"
+      ],
+      [
+        "o160120260071"
+      ],
+      [
+        "o370010010251"
+      ],
+      [
+        "o370010120071"
+      ],
+      [
+        "o370010140141"
+      ],
+      [
+        "o370020020121"
+      ],
+      [
+        "o370020040091"
+      ],
+      [
+        "o380060110101"
+      ]
+    ]
+  }
+}

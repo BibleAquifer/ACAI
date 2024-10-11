@@ -1,0 +1,107 @@
+{
+  "id": "place:Shittim",
+  "primary_id": "place:Shittim",
+  "alternate_sources": {
+    "aquifer": [
+      "8434|Shittim (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a51d1fa"
+    ],
+    "tipnr": [
+      "Abel-shittim|Shittim@Num.33.49-Mic",
+      "Shittim@Num.33.49-Mic"
+    ],
+    "vizbible": [
+      "recgfOCqzEYY932wA"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2236536"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shittim",
+      "alternate_labels": [
+        "Acacia Meadow",
+        "Abel-Shittim",
+        "meadows of Acacia",
+        "Abel Acacia Grove"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shittim",
+          "gloss": "Shittim",
+          "description": "A location on the plains of Moab, across from Jericho, where the Israelites camped before crossing the Jordan River (JOS 3:1)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Abel-shittim"
+  ],
+  "nearby_places": [
+    "place:Jericho"
+  ],
+  "subregion_of": [
+    "place:MoabPlains"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.85826218",
+      "lon": "35.64156653"
+    },
+    "vizbible": {
+      "lat": "31.85826218",
+      "lon": "35.64156653"
+    }
+  },
+  "key_references": [
+    "0600301 ",
+    "06002001",
+    "04025001"
+  ],
+  "references": [
+    "04025001",
+    "04033049",
+    "06002001",
+    "06003001",
+    "33006005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040250010032"
+      ],
+      [
+        "o040330490071",
+        "o040330490081"
+      ],
+      [
+        "o060020010062"
+      ],
+      [
+        "o060030010053"
+      ],
+      [
+        "o330060050162"
+      ]
+    ]
+  }
+}

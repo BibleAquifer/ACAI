@@ -1,0 +1,89 @@
+{
+  "id": "place:Hethlon",
+  "primary_id": "place:Hethlon",
+  "alternate_sources": {
+    "aquifer": [
+      "5829|Hethlon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a1ab517"
+    ],
+    "ubsdbh": [
+      "002627001001000"
+    ],
+    "tipnr": [
+      "Hethlon@Ezk.47.15-"
+    ],
+    "vizbible": [
+      "recYdhWfoaUqWje4m"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q16891908"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002627001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hethlon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hethlon",
+          "gloss": "Hethlon",
+          "description": "A town or village at the northern boundary of Israel."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֶתְלֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.73799",
+      "lon": "36.340918"
+    },
+    "vizbible": {
+      "lat": "34.73799",
+      "lon": "36.340918"
+    }
+  },
+  "key_references": [
+    "26047015",
+    "26048001"
+  ],
+  "references": [
+    "26047015",
+    "26048001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260470150101"
+      ],
+      [
+        "o260480010091"
+      ]
+    ]
+  }
+}

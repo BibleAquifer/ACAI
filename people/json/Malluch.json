@@ -1,0 +1,64 @@
+{
+  "id": "person:Malluch",
+  "primary_id": "person:Malluch",
+  "alternate_sources": {
+    "aquifer": [
+      "6908|Malluch|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004029001001000"
+    ],
+    "tipnr": [
+      "Malluch@1Ch.6.44"
+    ],
+    "vizbible": [
+      "recaQLt7sbhOASTtF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hashabiah",
+  "offspring": [
+    "person:Abdi"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "004029001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Malluch",
+      "alternate_labels": [
+        "Malluk"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Malluch",
+          "article": "person:Malluch",
+          "description": "A man of the tribe of Levi living during the divided kingdom, mentioned in 1 Chronicles 6:44, son of Hashabiah and father of Abdi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַלּוּךְ"
+    ]
+  },
+  "key_references": [
+    "13006029"
+  ],
+  "references": [
+    "13006029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060290121"
+      ]
+    ]
+  }
+}

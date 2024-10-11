@@ -1,0 +1,111 @@
+{
+  "id": "group:Herodian",
+  "primary_id": "group:Herodian",
+  "alternate_sources": {
+    "aquifer": [
+      "5822|Herodians|TyndaleBibleDictionary",
+      "132008|Herodians|BiblicaStudyNotesKeyTerms",
+      "280200|herodians|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "11.87"
+    ],
+    "tipnr": [
+      "Herodian@Mat.22.16"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Herod.2",
+  "ubsdgnt": [
+    "11.87"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Herodians",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Herodians",
+          "article": "group:Herodian",
+          "description": "A group loyal to the house of Herod who supported the Pharisees against Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἡρῳδιανοί"
+    ]
+  },
+  "key_references": [
+    "40022016",
+    "41003006",
+    "41012013"
+  ],
+  "references": [
+    "40022016",
+    "41003006",
+    "41012013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40022016009"
+      ],
+      [
+        "n41003006008"
+      ],
+      [
+        "n41012013010"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40022017003"
+      ],
+      [
+        "n40022018007"
+      ],
+      [
+        "n40022019007"
+      ],
+      [
+        "n40022020003"
+      ],
+      [
+        "n40022021006"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40022016012"
+      ],
+      [
+        "n40022021001"
+      ],
+      [
+        "n40022021007"
+      ],
+      [
+        "n40022022002",
+        "n40022022003"
+      ],
+      [
+        "n40022022005"
+      ],
+      [
+        "n40022022007"
+      ],
+      [
+        "n41003006015"
+      ]
+    ]
+  }
+}

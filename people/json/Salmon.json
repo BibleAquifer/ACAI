@@ -1,0 +1,88 @@
+{
+  "id": "person:Salmon",
+  "primary_id": "person:Salmon",
+  "alternate_sources": {
+    "aquifer": [
+      "8110|Salmon (Person)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Salmon@Rut.4.20-Luk",
+      "Sala|Salmon@Rut.4.20-Luk"
+    ],
+    "vizbible": [
+      "recWqKsXPDazPbzss"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nahshon",
+  "partners": [
+    "person:Rahab"
+  ],
+  "offspring": [
+    "person:Boaz"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Salmon",
+      "alternate_labels": [
+        "Salma",
+        "Sala"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Salmon",
+          "article": "person:Salmon",
+          "description": "Husband of Rahab the prostitute, the father of Boaz, and son of Nahshon. He is in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Sala"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "08004021",
+    "40001004",
+    "42003032"
+  ],
+  "references": [
+    "08004020",
+    "08004021",
+    "13002011",
+    "40001004",
+    "40001005",
+    "42003032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o080040200081"
+      ],
+      [
+        "o080040210012"
+      ],
+      [
+        "o130020110041"
+      ],
+      [
+        "o130020110052"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001004015"
+      ],
+      [
+        "n40001005001"
+      ],
+      [
+        "n42003032008"
+      ]
+    ]
+  }
+}

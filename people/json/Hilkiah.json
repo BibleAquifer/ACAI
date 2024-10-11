@@ -1,0 +1,113 @@
+{
+  "id": "person:Hilkiah",
+  "primary_id": "person:Hilkiah",
+  "alternate_sources": {
+    "aquifer": [
+      "5852|Hilkiah|TyndaleBibleDictionary",
+      "26695|Hilkiah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002320001001000",
+      "002320001002000"
+    ],
+    "tipnr": [
+      "Hilkiah@2Ki.18.18-Isa"
+    ],
+    "vizbible": [
+      "recdkG8F8ni1mBHRD"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Eliakim.3"
+  ],
+  "ubsdbh": [
+    "002320001001000",
+    "002320001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hilkiah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hilkiah",
+          "article": "person:Hilkiah",
+          "description": "The father of Eliakim, King Hezekiah's household manager."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חִלְקִיָּה",
+      "חִלְקִיָּהוּ"
+    ]
+  },
+  "key_references": [
+    "12018018",
+    "12018026",
+    "23022020"
+  ],
+  "references": [
+    "12018018",
+    "12018026",
+    "12018037",
+    "23022020",
+    "23036003",
+    "23036022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120180180081"
+      ],
+      [
+        "o120180260041"
+      ],
+      [
+        "o120180370041"
+      ],
+      [
+        "o230220200081"
+      ],
+      [
+        "o230360030051"
+      ],
+      [
+        "o230360220041"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o120220080081",
+          "o120220080091",
+          "o120220080092",
+          "o120220080101",
+          "o120220080111",
+          "o120220080112",
+          "o120220080121"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o140340150071",
+          "o140340150081",
+          "o140340150082",
+          "o140340150091",
+          "o140340150101",
+          "o140340150102",
+          "o140340150111"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "person:Akkub",
+  "primary_id": "person:Akkub",
+  "alternate_sources": {
+    "aquifer": [
+      "3488|Akkub|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005626001001000"
+    ],
+    "tipnr": [
+      "Akkub@1Ch.3.24"
+    ],
+    "vizbible": [
+      "recboZGfTTYJizR9G"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Elioenai",
+  "siblings": [
+    "person:Hodaviah",
+    "person:Eliashib",
+    "person:Pelaiah.2",
+    "person:Johanan.6",
+    "person:Delaiah",
+    "person:Anani"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005626001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Akkub",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Akkub",
+          "article": "person:Akkub",
+          "description": "A man of the tribe of Judah living during the time of the divided kingdom, mentioned in 1 Chronicles 3:24."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13003024"
+  ],
+  "references": [
+    "13003024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030240072"
+      ]
+    ]
+  }
+}

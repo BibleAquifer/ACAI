@@ -1,0 +1,61 @@
+{
+  "id": "person:Shepho",
+  "primary_id": "person:Shepho",
+  "alternate_sources": {
+    "aquifer": [
+      "8369|Shephi, Shepho|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shepho@Gen.36.23-1Ch"
+    ],
+    "vizbible": [
+      "recrcFmXLXwhyjYtC"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shobal",
+  "siblings": [
+    "person:Alvan",
+    "person:Manahath",
+    "person:Ebal",
+    "person:Onam"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shepho",
+      "alternate_labels": [
+        "Shephi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shepho",
+          "article": "person:Shepho",
+          "description": "Shepho, also known as Shephi, is a man from the time of the patriarchs mentioned in Genesis 36:23 as the son of Shobal and brother of Alvan, Manahath, Ebal, and Onam."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036023",
+    "13001040"
+  ],
+  "references": [
+    "01036023",
+    "13001040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360230071"
+      ],
+      [
+        "o130010400061"
+      ]
+    ]
+  }
+}

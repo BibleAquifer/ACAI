@@ -1,0 +1,87 @@
+{
+  "id": "place:Suphah",
+  "primary_id": "place:Suphah",
+  "alternate_sources": {
+    "aquifer": [
+      "8655|Suphah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a88bcb2"
+    ],
+    "ubsdbh": [
+      "005029002001000"
+    ],
+    "tipnr": [
+      "Suphah@Num.21.14"
+    ],
+    "vizbible": [
+      "reczgVg7mPEze1G1R"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005029002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Suphah",
+      "alternate_labels": [
+        "Red sea"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Suphah",
+          "gloss": "Suphah",
+          "description": "A location in Moab mentioned in Numbers 21:14."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "סוּפָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "body of water"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "27.088473",
+      "lon": "34.771729"
+    },
+    "vizbible": {
+      "lat": "27.088473",
+      "lon": "34.771729"
+    }
+  },
+  "key_references": [
+    "04021014"
+  ],
+  "references": [
+    "04021014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210140092"
+      ]
+    ]
+  }
+}

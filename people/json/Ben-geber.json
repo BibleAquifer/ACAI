@@ -1,0 +1,62 @@
+{
+  "id": "person:Ben-geber",
+  "primary_id": "person:Ben-geber",
+  "alternate_sources": {
+    "aquifer": [
+      "4104|Ben-Geber|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001042001001000 001287004001000"
+    ],
+    "tipnr": [
+      "Ben-Geber@1Ki.4.13"
+    ],
+    "vizbible": [
+      "recdwshVE2IP1IgRp"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Geber",
+  "ubsdbh": [
+    "001042001001000 001287004001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ben-geber",
+      "alternate_labels": [
+        "son of Geber",
+        "Geber"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ben-Geber",
+          "article": "person:Ben-geber",
+          "description": "District governor of Gilead under King Solomon, son of Geber, mentioned in 1 Kings 4:13."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֶּבֶר",
+      "גֶּ֫בֶר"
+    ]
+  },
+  "key_references": [
+    "11004013"
+  ],
+  "references": [
+    "11004013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040130021"
+      ]
+    ]
+  }
+}

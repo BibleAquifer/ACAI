@@ -1,0 +1,102 @@
+{
+  "id": "place:Phoenix",
+  "primary_id": "place:Phoenix",
+  "alternate_sources": {
+    "aquifer": [
+      "7722|Phoenix|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a9ee958"
+    ],
+    "ubsdgnt": [
+      "93.607"
+    ],
+    "tipnr": [
+      "Phoenix@Act.27.12"
+    ],
+    "vizbible": [
+      "recPxaops7Ly4tP4B"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2088586"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.607"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Phoenix",
+      "alternate_labels": [
+        "Phenice"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Phoenix",
+          "gloss": "Phoenix",
+          "description": "A seaport on the south coast of Crete where Paul and his shipmates hoped to harbor for the winter before continuing on to Rome."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Cauda",
+    "place:FairHavens",
+    "place:Lasea",
+    "place:GreatSea"
+  ],
+  "subregion_of": [
+    "place:Crete"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Φοῖνιξ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.19888577",
+      "lon": "24.08098202"
+    },
+    "vizbible": {
+      "lat": "35.19888577",
+      "lon": "24.08098202"
+    },
+    "biblica-maps": {
+      "lat": "35.19914",
+      "lon": "24.07837"
+    }
+  },
+  "key_references": [
+    "44027012"
+  ],
+  "references": [
+    "44027012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027012019"
+      ]
+    ]
+  }
+}

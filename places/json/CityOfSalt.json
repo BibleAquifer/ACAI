@@ -1,0 +1,89 @@
+{
+  "id": "place:CityOfSalt",
+  "primary_id": "place:CityOfSalt",
+  "alternate_sources": {
+    "aquifer": [
+      "4576|City of Salt|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005413001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3110983"
+    ],
+    "tipnr": [
+      "City_of_Salt@Jos.15.62"
+    ],
+    "vizbible": [
+      "recC86IzmexcQRTDL"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005413001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "City of Salt",
+      "alternate_labels": [
+        "Salt"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:CityOfSalt",
+          "gloss": "City of Salt",
+          "description": "A town in the wilderness of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.46152536164766",
+      "lon": "35.39241108242345"
+    },
+    "recogito": {
+      "lat": "41.97489",
+      "lon": "2.79281"
+    },
+    "vizbible": {
+      "lat": "31.46152536164766",
+      "lon": "35.39241108242345"
+    }
+  },
+  "key_references": [
+    "06015062"
+  ],
+  "references": [
+    "06015062"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150620032"
+      ]
+    ]
+  }
+}

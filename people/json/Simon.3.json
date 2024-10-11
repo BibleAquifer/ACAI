@@ -1,0 +1,74 @@
+{
+  "id": "person:Simon.3",
+  "primary_id": "person:Simon.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6860|Magus, Simon|TyndaleBibleDictionary",
+      "8511|Simon|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.341c"
+    ],
+    "tipnr": [
+      "Simon@Mat.13.55-Mrk"
+    ],
+    "vizbible": [
+      "rec8R7Os9hEDyuTkI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joseph.4",
+  "mother": "person:Mary",
+  "siblings": [
+    "person:Jesus.2",
+    "person:James.3",
+    "person:Joseph.3",
+    "person:Jude"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.341c"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Simon (Brother of Jesus)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Simon (Brother of Jesus)",
+          "article": "person:Simon.3",
+          "description": "One of the brothers of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σίμων"
+    ]
+  },
+  "key_references": [
+    "40013055",
+    "41006003"
+  ],
+  "references": [
+    "40013055",
+    "41006003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40013055022"
+      ],
+      [
+        "n41006003018"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "person:Shemed",
+  "primary_id": "person:Shemed",
+  "alternate_sources": {
+    "aquifer": [
+      "8351|Shemed|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007446001001000"
+    ],
+    "tipnr": [
+      "Shemed@1Ch.8.12"
+    ],
+    "vizbible": [
+      "recG2QrHzFh7L212C"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Elpaal",
+  "siblings": [
+    "person:Eber.3",
+    "person:Misham",
+    "person:Beriah.3",
+    "person:Shema.3",
+    "person:Zebadiah.2",
+    "person:Meshullam.4",
+    "person:Hizki",
+    "person:Heber.4",
+    "person:Ishmerai",
+    "person:Izliah",
+    "person:Jobab.5"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "007446001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shemed",
+      "alternate_labels": [
+        "Shamed"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shemed",
+          "article": "person:Shemed",
+          "description": "Shemed, also known as Shamed, was a man of the tribe of Benjamin during the divided kingdom, mentioned in 1 Chronicles 8:12."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008012"
+  ],
+  "references": [
+    "13008012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080120052"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130080120061"
+      ]
+    ]
+  }
+}

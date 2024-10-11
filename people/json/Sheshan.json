@@ -1,0 +1,82 @@
+{
+  "id": "person:Sheshan",
+  "primary_id": "person:Sheshan",
+  "alternate_sources": {
+    "aquifer": [
+      "8377|Sheshan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007663001001000"
+    ],
+    "tipnr": [
+      "Sheshan@1Ch.2.31-"
+    ],
+    "vizbible": [
+      "recO9sxAjyVP4tKe9"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishi",
+  "offspring": [
+    "person:Ahlai"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007663001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheshan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sheshan",
+          "article": "person:Sheshan",
+          "description": "The son of Ishi and the father of Ahlai from the tribe of Judah who lived during the time of the divided kingdom of Israel. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שָׁשָׁק",
+      "שֵׁשַׁךְ"
+    ]
+  },
+  "key_references": [
+    "13002003",
+    "13002031",
+    "13002034",
+    "13002035"
+  ],
+  "references": [
+    "13002031",
+    "13002034",
+    "13002035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020310061"
+      ],
+      [
+        "o130020310081"
+      ],
+      [
+        "o130020340032"
+      ],
+      [
+        "o130020340083"
+      ],
+      [
+        "o130020350021"
+      ]
+    ]
+  }
+}

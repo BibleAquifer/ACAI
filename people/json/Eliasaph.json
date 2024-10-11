@@ -1,0 +1,83 @@
+{
+  "id": "person:Eliasaph",
+  "primary_id": "person:Eliasaph",
+  "alternate_sources": {
+    "aquifer": [
+      "4998|Eliasaph|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000424001001000"
+    ],
+    "tipnr": [
+      "Eliasaph@Num.1.14-"
+    ],
+    "vizbible": [
+      "recyhyjo4hcihTPjZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jethro",
+  "siblings": [
+    "person:Zipporah",
+    "person:Hobab"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "ubsdbh": [
+    "000424001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliasaph",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliasaph",
+          "article": "person:Eliasaph",
+          "description": "A son of Deuel (or Reuel) who was the chief of the tribe of Gad during the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְיָסָף"
+    ]
+  },
+  "key_references": [
+    "04001014",
+    "04002014",
+    "04010020"
+  ],
+  "references": [
+    "04001014",
+    "04002014",
+    "04007042",
+    "04007047",
+    "04010020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010140021"
+      ],
+      [
+        "o040020140061"
+      ],
+      [
+        "o040070420061"
+      ],
+      [
+        "o040070470151"
+      ],
+      [
+        "o040100200061"
+      ]
+    ]
+  }
+}

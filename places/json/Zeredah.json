@@ -1,0 +1,89 @@
+{
+  "id": "place:Zeredah",
+  "primary_id": "place:Zarethan",
+  "alternate_sources": {
+    "aquifer": [
+      "9191|Zeredah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006320001002000"
+    ],
+    "tipnr": [
+      "Zeredah|Zarethan@Jos.3.16-2Ch"
+    ],
+    "vizbible": [
+      "reckGKmKPQ1J0jw8r"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006320001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zeredah (in the Jordan Valley)",
+      "alternate_labels": [
+        "Zeredathah",
+        "Zarethan",
+        "Zeredah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zeredah.2",
+          "gloss": "Zeredah (in the Jordan Valley)",
+          "description": "A town in the Jordan Valley, in the territory of Ephraim."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Zeredah"
+  ],
+  "referred_to_as": [
+    "place:Zarethan",
+    "place:Zererah"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:JordanValley",
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.267821",
+      "lon": "35.576613"
+    },
+    "vizbible": {
+      "lat": "32.267821",
+      "lon": "35.576613"
+    }
+  },
+  "key_references": [
+    "14004017"
+  ],
+  "references": [
+    "14004017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140040170101"
+      ]
+    ]
+  }
+}

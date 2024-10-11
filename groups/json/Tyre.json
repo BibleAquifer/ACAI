@@ -1,0 +1,105 @@
+{
+  "id": "group:Tyre",
+  "primary_id": "group:Tyre",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.601"
+    ],
+    "ubsdbh": [
+      "006328001001000"
+    ],
+    "tipnr": [
+      "Tyre@Jos.19.29-Act"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Tyre",
+  "ubsdgnt": [
+    "93.601"
+  ],
+  "ubsdbh": [
+    "006328001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tyrians",
+      "alternate_labels": [
+        "Tyre"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tyrians",
+          "article": "group:Tyre",
+          "description": "People who live in Tyre."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Τύριος"
+    ]
+  },
+  "key_references": [
+    "44012020"
+  ],
+  "references": [
+    "13022004",
+    "15003007",
+    "16013016",
+    "44012020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130220040083"
+      ],
+      [
+        "o150030070093"
+      ],
+      [
+        "o160130160013"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44012020004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44012020026"
+      ],
+      [
+        "n44012021016"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o160130160041"
+      ],
+      [
+        "o160130160082"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44012020009"
+      ],
+      [
+        "n44012020013"
+      ],
+      [
+        "n44012020021"
+      ]
+    ]
+  }
+}

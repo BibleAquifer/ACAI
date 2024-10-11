@@ -1,0 +1,89 @@
+{
+  "id": "place:HallOfJudgment",
+  "primary_id": "place:HallOfJudgment",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004528001002000",
+      "000342001001000"
+    ],
+    "tipnr": [
+      "Hall_of_Judgment@1Ki.7.7"
+    ],
+    "vizbible": [
+      "recTWEg8O7udCHY6q"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004528001002000",
+    "000342001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hall of Judgment",
+      "alternate_labels": [
+        "porch for the throne",
+        "Judgment",
+        "Hall of Justice"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:HallOfJudgment",
+          "gloss": "Hall of Judgment",
+          "description": "A building in Solomon's palace complex where he was to judge."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "hall"
+    ],
+    "acai": [
+      "hall"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "11007007"
+  ],
+  "references": [
+    "11007007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110070070012"
+      ],
+      [
+        "o110070070061"
+      ],
+      [
+        "o110070070072"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110070070092"
+      ]
+    ]
+  }
+}

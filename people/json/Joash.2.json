@@ -1,0 +1,82 @@
+{
+  "id": "person:Joash.2",
+  "primary_id": "person:Joash.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6391|Joash|TyndaleBibleDictionary",
+      "26765|Joash|UWTranslationWords",
+      "132437|Joash|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002817001002000"
+    ],
+    "tipnr": [
+      "Joash@1Ki.22.26-2Ch"
+    ],
+    "vizbible": [
+      "rec2m1a0sfHDWewky"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ahab",
+  "mother": "person:Jezebel",
+  "siblings": [
+    "person:Ahaziah",
+    "person:Joram.3",
+    "person:Athaliah"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "002817001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joash (1 Kings 22:26)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joash (1 Kings 22:26)",
+          "article": "person:Joash.2",
+          "description": "Son of King Ahab of Israel, living during the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹואָשׁ",
+      "יוֹאָשׁ"
+    ]
+  },
+  "key_references": [
+    "11022026",
+    "14018025"
+  ],
+  "references": [
+    "11022026",
+    "14018025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110220260131"
+      ],
+      [
+        "o140180250131"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140180260051"
+      ],
+      [
+        "o140180260092"
+      ]
+    ]
+  }
+}

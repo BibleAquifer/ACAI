@@ -1,0 +1,67 @@
+{
+  "id": "person:Joshua",
+  "primary_id": "person:Joshua",
+  "alternate_sources": {
+    "aquifer": [
+      "6459|Joshua (Person)|TyndaleBibleDictionary",
+      "26778|Joshua|UWTranslationWords",
+      "132335|Joshua|BiblicaStudyNotesKeyTerms",
+      "132454|Joshua and Zerubbabel|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.169c"
+    ],
+    "tipnr": [
+      "Joshua@Luk.3.29"
+    ],
+    "vizbible": [
+      "recacSsuz24r4pOE3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliezer",
+  "offspring": [
+    "person:Er"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.169c"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joshua (Son of Eliezer)",
+      "alternate_labels": [
+        "Jose"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joshua (Son of Eliezer)",
+          "article": "person:Joshua",
+          "description": "Son of Eliezer and the father of Er in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰησοῦς"
+    ]
+  },
+  "key_references": [
+    "42003029"
+  ],
+  "references": [
+    "42003029"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003029002"
+      ]
+    ]
+  }
+}

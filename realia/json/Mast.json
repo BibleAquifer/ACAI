@@ -1,0 +1,64 @@
+{
+  "id": "realia:Mast",
+  "primary_id": "realia:Mast",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002085001001000",
+      "007943001002000"
+    ],
+    "ubsrealia": [
+      "realia:8.1.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "002085001001000",
+    "007943001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mast",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mast",
+          "article": "realia:Mast",
+          "description": "A long wooden pole on a ship that supports the sails."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חִבֵּל",
+      "תֹּרֶן"
+    ]
+  },
+  "key_references": [
+    "20023034",
+    "23033023",
+    "26027005"
+  ],
+  "references": [
+    "20023034",
+    "23033023",
+    "26027005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o200230340071"
+      ],
+      [
+        "o230330230061",
+        "o230330230062"
+      ],
+      [
+        "o260270050121"
+      ]
+    ]
+  }
+}

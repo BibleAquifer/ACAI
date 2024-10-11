@@ -1,0 +1,109 @@
+{
+  "id": "fauna:Fly",
+  "primary_id": "fauna:Fly",
+  "alternate_sources": {
+    "aquifer": [
+      "5284|Fly|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001916001001000",
+      "005648001001000"
+    ],
+    "ubsfauna": [
+      "fauna:6.4"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Insects, Spiders, and Worms",
+  "ubsdbh": [
+    "001916001001000",
+    "005648001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fly",
+      "alternate_labels": [
+        "Swarm of Insects"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Fly",
+          "article": "fauna:Fly",
+          "description": "An insect with large eyes and one pair of wings, often seen around garbage and decaying food."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זְבוּב",
+      "עָרֹב"
+    ]
+  },
+  "key_references": [
+    "02008017",
+    "23007018"
+  ],
+  "references": [
+    "02008017",
+    "02008018",
+    "02008020",
+    "02008025",
+    "02008027",
+    "19078045",
+    "19105031",
+    "21010001",
+    "23007018",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o210100010011"
+      ],
+      [
+        "o230070180062"
+      ],
+      [
+        "o020080170142"
+      ],
+      [
+        "o020080170192"
+      ],
+      [
+        "o020080180141"
+      ],
+      [
+        "o020080200051"
+      ],
+      [
+        "o020080200172"
+      ],
+      [
+        "o020080250112"
+      ],
+      [
+        "o020080270062"
+      ],
+      [
+        "o190780450031"
+      ],
+      [
+        "o191050310031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o210100010041"
+      ],
+      [
+        "o190780450042"
+      ]
+    ]
+  }
+}

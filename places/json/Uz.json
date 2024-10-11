@@ -1,0 +1,99 @@
+{
+  "id": "place:Uz",
+  "primary_id": "place:Uz",
+  "alternate_sources": {
+    "aquifer": [
+      "8986|Uz (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a324c4d"
+    ],
+    "ubsdbh": [
+      "005306001004000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/23106"
+    ],
+    "tipnr": [
+      "Uz@Job.1.1-Lam"
+    ],
+    "vizbible": [
+      "recMLkyqKWtDeTzWm"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1967878"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005306001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uz",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Uz",
+          "gloss": "Uz",
+          "description": "The homeland of Job."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Edom",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.0334",
+      "lon": "36.44839"
+    },
+    "recogito": {
+      "lat": "39.766667",
+      "lon": "64.433333"
+    },
+    "vizbible": {
+      "lat": "30.0334",
+      "lon": "36.44839"
+    }
+  },
+  "key_references": [
+    "25004021",
+    "18001001",
+    "24025020"
+  ],
+  "references": [
+    "18001001",
+    "24025020",
+    "25004021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180010010041"
+      ],
+      [
+        "o240250200082"
+      ],
+      [
+        "o250040210081"
+      ]
+    ]
+  }
+}

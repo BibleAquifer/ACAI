@@ -1,0 +1,40 @@
+{
+  "id": "place:Hushah",
+  "primary_id": "place:Hushah",
+  "alternate_sources": {
+    "aquifer": [
+      "5957|Hushah, Hushathites|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hushah",
+          "gloss": "Hushah",
+          "description": "A location near Bethlehem."
+        }
+      ],
+      "preferred_label": "Hushah"
+    }
+  },
+  "nearby_places": [
+    "place:Bethlehem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "settlement"
+    ]
+  },
+  "key_references": [
+    "10021018"
+  ]
+}

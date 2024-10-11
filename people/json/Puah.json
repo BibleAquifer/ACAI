@@ -1,0 +1,76 @@
+{
+  "id": "person:Puah",
+  "primary_id": "person:Puah",
+  "alternate_sources": {
+    "aquifer": [
+      "7847|Puah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Puah@Gen.46.13-1Ch",
+      "Puvah|Puah@Gen.46.13-1Ch",
+      "Punite|Puah@Gen.46.13-1Ch"
+    ],
+    "vizbible": [
+      "recqt6z1Yq81Dy8j9"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Issachar",
+  "siblings": [
+    "person:Tola",
+    "person:Jashub",
+    "person:Shimron"
+  ],
+  "tribe": "group:Issachar",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Puah",
+      "alternate_labels": [
+        "Punite",
+        "Phuvah",
+        "Puvah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Puah",
+          "article": "person:Puah",
+          "description": "Son of the patriarch Issachar and clan chief of the Punites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Puvah",
+    "group:Punite"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046013",
+    "04026023",
+    "13007001"
+  ],
+  "references": [
+    "01046013",
+    "04026023",
+    "13007001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460130042"
+      ],
+      [
+        "o040260230072"
+      ],
+      [
+        "o040260230092"
+      ],
+      [
+        "o130070010042"
+      ]
+    ]
+  }
+}

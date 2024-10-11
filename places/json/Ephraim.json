@@ -1,0 +1,96 @@
+{
+  "id": "place:Ephraim",
+  "primary_id": "place:Ephraim",
+  "alternate_sources": {
+    "aquifer": [
+      "5117|Ephraim (Place)|TyndaleBibleDictionary",
+      "5112|Ephraim, Forest of|TyndaleBibleDictionary",
+      "5113|Ephraim, Gate of|TyndaleBibleDictionary",
+      "5115|Ephraim, Mount|TyndaleBibleDictionary",
+      "5118|Ephraim, Tribe of|TyndaleBibleDictionary",
+      "26566|Ephraim|UWTranslationWords",
+      "132244|Ephraim|BiblicaStudyNotesKeyTerms"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/687896"
+    ],
+    "tipnr": [
+      "Ephraim@2Sa.13.23-Jhn"
+    ],
+    "vizbible": [
+      "rec4ve9U7ZrXrnVk0"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephraim (near Baal-hazor)",
+      "alternate_labels": [
+        "Ephraim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ephraim.1",
+          "gloss": "Ephraim (near Baal-Hazor)",
+          "description": "A town near Baal-Hazor, where Absalom took revenge on Ammon."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Baal-hazor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "mountain"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.95378956",
+      "lon": "35.29913578"
+    },
+    "recogito": {
+      "lat": "31.954665",
+      "lon": "35.299196"
+    },
+    "vizbible": {
+      "lat": "31.95378956",
+      "lon": "35.29913578"
+    },
+    "biblica-maps": {
+      "lat": "31.95467",
+      "lon": "35.2992"
+    }
+  },
+  "key_references": [
+    "10013023"
+  ],
+  "references": [
+    "10013023",
+    "43011054"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100130230111"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43011054020"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "place:Sibmah",
+  "primary_id": "place:Sibmah",
+  "alternate_sources": {
+    "aquifer": [
+      "8475|Sibmah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aa10f27"
+    ],
+    "ubsdbh": [
+      "006967001001000"
+    ],
+    "tipnr": [
+      "Sibmah@Num.32.38-Jer"
+    ],
+    "vizbible": [
+      "recesqn5JDm6ZwKE5"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006967001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sibmah",
+      "alternate_labels": [
+        "Shibmah",
+        "Shebam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sibmah",
+          "gloss": "Sibmah",
+          "description": "A village in the territory of Reuben; also known as Sebam."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Reuben",
+  "subregion_of": [
+    "place:TerritoryOfReuben"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.815283",
+      "lon": "35.766738"
+    },
+    "vizbible": {
+      "lat": "31.815283",
+      "lon": "35.766738"
+    }
+  },
+  "key_references": [
+    "23016008",
+    "24048032"
+  ],
+  "references": [
+    "04032003",
+    "04032038",
+    "06013019",
+    "23016008",
+    "23016009",
+    "24048032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320380091"
+      ],
+      [
+        "o060130190022"
+      ],
+      [
+        "o230160080061"
+      ],
+      [
+        "o230160090071"
+      ],
+      [
+        "o240480320061"
+      ]
+    ]
+  }
+}

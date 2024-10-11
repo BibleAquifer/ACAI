@@ -1,0 +1,64 @@
+{
+  "id": "fauna:Bat",
+  "primary_id": "fauna:Bat",
+  "alternate_sources": {
+    "aquifer": [
+      "4037|Bat|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005367001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.5"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "005367001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bat",
+          "article": "fauna:Bat",
+          "description": "A flying mammal with wings made of skin, active at night and often found in caves and old buildings."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֲטַלֵּף"
+    ]
+  },
+  "key_references": [
+    "03011019",
+    "05014018",
+    "23002020"
+  ],
+  "references": [
+    "03011019",
+    "05014018",
+    "23002020",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110190082"
+      ],
+      [
+        "o050140180053"
+      ],
+      [
+        "o230020200173"
+      ]
+    ]
+  }
+}

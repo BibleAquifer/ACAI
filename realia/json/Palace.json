@@ -1,0 +1,89 @@
+{
+  "id": "realia:Palace",
+  "primary_id": "realia:Palace",
+  "alternate_sources": {
+    "aquifer": [
+      "7554|Palace|TyndaleBibleDictionary",
+      "26929|Palace|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "7.5",
+      "7.7"
+    ],
+    "ubsrealia": [
+      "realia:3.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.5",
+    "7.7"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Palace",
+      "alternate_labels": [
+        "Fortress"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Palace",
+          "article": "realia:Palace",
+          "description": "A large and elaborate house where a king or ruler lives."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βασίλειος",
+      "πραιτώριον"
+    ]
+  },
+  "key_references": [
+    "40026003",
+    "41015016",
+    "44023035"
+  ],
+  "references": [
+    "40027027",
+    "41015016",
+    "42007025",
+    "43018028",
+    "43018033",
+    "43019009",
+    "44023035"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42007025020"
+      ],
+      [
+        "n40027027011"
+      ],
+      [
+        "n41015016011"
+      ],
+      [
+        "n43018028010"
+      ],
+      [
+        "n43018028020"
+      ],
+      [
+        "n43018033006"
+      ],
+      [
+        "n43019009005"
+      ],
+      [
+        "n44023035013"
+      ]
+    ]
+  }
+}

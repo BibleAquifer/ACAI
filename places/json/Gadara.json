@@ -1,0 +1,87 @@
+{
+  "id": "place:Gadara",
+  "primary_id": "place:Gerasa",
+  "alternate_sources": {
+    "aquifer": [
+      "5335|Gadara, Gadarenes|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.438"
+    ],
+    "tipnr": [
+      "Gadara|Gerasa@Mat.8.28-Luk"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.438"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gadara (of the Decapolis)",
+      "alternate_labels": [
+        "Gerasa",
+        "Gadarenes",
+        "Gergesenes",
+        "Gergesene",
+        "Var",
+        "Gadara"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gadara.1",
+          "gloss": "Gadara (of the Decapolis)",
+          "description": "A Decapolis city southwest of the Sea of Galilee; modern-day Umm Qais."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Gerasa"
+  ],
+  "subregion_of": [
+    "place:Decapolis"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Γαδαρηνός"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.65592",
+      "lon": "35.67815"
+    }
+  },
+  "key_references": [
+    "40008028"
+  ],
+  "references": [
+    "40008028",
+    "41005001",
+    "42008026",
+    "42008037"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40008028011"
+      ]
+    ]
+  }
+}

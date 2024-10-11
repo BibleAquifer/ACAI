@@ -1,0 +1,58 @@
+{
+  "id": "group:Ashbel",
+  "primary_id": "group:Ashbel",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000728001001000"
+    ],
+    "tipnr": [
+      "Ashbel@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "recrdlNkfhnrb29zj"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Ashbel",
+  "ubsdbh": [
+    "000728001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ashbelites",
+      "alternate_labels": [
+        "Ahiram",
+        "Ashbel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ashbelites",
+          "article": "group:Ashbel",
+          "description": "People descended from Ashbel, son of Benjamin, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַשְׁבֵּלִי"
+    ]
+  },
+  "key_references": [
+    "04026038"
+  ],
+  "references": [
+    "04026038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260380092"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "place:ZalmonMount",
+  "primary_id": "place:EbalMount",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006210001001000"
+    ],
+    "tipnr": [
+      "Zalmon_Mount|Ebal_Mount@Deu.11.29-Jer"
+    ],
+    "vizbible": [
+      "recAcOZQZcvRajG4d"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006210001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Zalmon",
+      "alternate_labels": [
+        "Mount Ebal",
+        "Zalmon",
+        "Zalmon Mount"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountZalmon",
+          "gloss": "Mount Zalmon",
+          "description": "A mountain near Shechem where Abimelech and his men cut wood to burn the tower of Shechem (Judges 9:48)."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Zalmon"
+  ],
+  "referred_to_as": [
+    "place:EbalMount"
+  ],
+  "associated_places": [
+    "place:TowerOfShechem"
+  ],
+  "nearby_places": [
+    "place:Shechem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.23293814",
+      "lon": "35.2730418"
+    },
+    "vizbible": {
+      "lat": "32.23293814",
+      "lon": "35.2730418"
+    }
+  },
+  "key_references": [
+    "19068015",
+    "07009048"
+  ],
+  "references": [
+    "07009048"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070090480041"
+      ]
+    ]
+  }
+}

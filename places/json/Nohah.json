@@ -1,0 +1,74 @@
+{
+  "id": "place:Nohah",
+  "primary_id": "place:Manahath",
+  "alternate_sources": {
+    "aquifer": [
+      "7423|Nohah (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004111002001000"
+    ],
+    "tipnr": [
+      "Nohah|Manahath@Jdg.20.43-1Ch"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004111002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nohah",
+      "alternate_labels": [
+        "easily",
+        "Manahath",
+        "ease"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nohah",
+          "gloss": "Nohah",
+          "description": "A location west of Gibeah in the territory of Benjamin; possibly not a place name. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Manahath"
+  ],
+  "tribal_area": "group:Benjamin",
+  "nearby_places": [
+    "place:Gibeah.2"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "special"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "key_references": [
+    "07020043"
+  ],
+  "references": [
+    "07020043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070200430051"
+      ]
+    ]
+  }
+}

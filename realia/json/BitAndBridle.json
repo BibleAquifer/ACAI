@@ -1,0 +1,110 @@
+{
+  "id": "realia:BitAndBridle",
+  "primary_id": "realia:BitAndBridle",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.7"
+    ],
+    "ubsdbh": [
+      "004551001001000",
+      "006844001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.2.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.7"
+  ],
+  "ubsdbh": [
+    "004551001001000",
+    "006844001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bit and Bridle",
+      "alternate_labels": [
+        "Bridle"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bit and Bridle",
+          "article": "realia:BitAndBridle",
+          "description": "A set used to control a horse, with a metal bar placed in the mouth and straps or ropes fitted over the head."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מֶתֶג",
+      "רֶסֶן"
+    ],
+    "el": [
+      "χαλινός"
+    ]
+  },
+  "key_references": [
+    "12019028",
+    "23030028",
+    "59003003"
+  ],
+  "references": [
+    "12019028",
+    "18041005",
+    "19032009",
+    "20026003",
+    "23030028",
+    "23037029",
+    "59003003",
+    "66014020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120190280102",
+        "o120190280103"
+      ],
+      [
+        "o190320090072"
+      ],
+      [
+        "o200260030031"
+      ],
+      [
+        "o230370290102",
+        "o230370290103"
+      ],
+      [
+        "o180410050061",
+        "o180410050062"
+      ],
+      [
+        "o190320090082"
+      ],
+      [
+        "o230300280112"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n59003003006"
+      ],
+      [
+        "n66014020016"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230300280121"
+      ]
+    ]
+  }
+}

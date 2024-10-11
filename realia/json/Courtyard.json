@@ -1,0 +1,112 @@
+{
+  "id": "realia:Courtyard",
+  "primary_id": "realia:Courtyard",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.6"
+    ],
+    "ubsrealia": [
+      "realia:3.20"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.6"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Courtyard",
+      "alternate_labels": [
+        "Dwelling",
+        "Palace",
+        "Mansion",
+        "Courtyard House",
+        "Courtyard Temple"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Courtyard",
+          "article": "realia:Courtyard",
+          "description": "An open area surrounded by buildings, often found in temples, palaces, or houses."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "αὐλή"
+    ]
+  },
+  "key_references": [
+    "02027009",
+    "26040017",
+    "40026058"
+  ],
+  "references": [
+    "40026003",
+    "40026058",
+    "40026069",
+    "41014054",
+    "41014066",
+    "41015016",
+    "42011021",
+    "42022055",
+    "43018015",
+    "66011002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40026003012"
+      ],
+      [
+        "n40026058010"
+      ],
+      [
+        "n40026069008"
+      ],
+      [
+        "n41014054012"
+      ],
+      [
+        "n41014066008"
+      ],
+      [
+        "n41015016008"
+      ],
+      [
+        "n42011021008"
+      ],
+      [
+        "n42022055007"
+      ],
+      [
+        "n43018015024"
+      ],
+      [
+        "n66011002003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n41015016009"
+      ],
+      [
+        "n66011002012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n66011002015"
+      ]
+    ]
+  }
+}

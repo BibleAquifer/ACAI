@@ -1,0 +1,99 @@
+{
+  "id": "realia:UpstairsRoom",
+  "primary_id": "realia:UpstairsRoom",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.27"
+    ],
+    "ubsrealia": [
+      "realia:3.1.6.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.27"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Upstairs Room",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Upstairs Room",
+          "article": "realia:UpstairsRoom",
+          "description": "A room on a floor above the ground level."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀνάγαιον",
+      "ὑπερῷον"
+    ]
+  },
+  "key_references": [
+    "41014015",
+    "42022012",
+    "44001013"
+  ],
+  "references": [
+    "41014015",
+    "42022012",
+    "44001013",
+    "44009037",
+    "44009039",
+    "44020008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41014015005"
+      ],
+      [
+        "n42022012004"
+      ],
+      [
+        "n44001013006"
+      ],
+      [
+        "n44009037015"
+      ],
+      [
+        "n44009039011"
+      ],
+      [
+        "n44020008007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n41014015010"
+      ],
+      [
+        "n42022012007"
+      ],
+      [
+        "n44001013008"
+      ],
+      [
+        "n44020008008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n41014015007"
+      ],
+      [
+        "n42022012006"
+      ]
+    ]
+  }
+}

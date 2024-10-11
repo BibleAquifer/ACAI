@@ -1,0 +1,62 @@
+{
+  "id": "person:Porcius",
+  "primary_id": "person:Festus",
+  "alternate_sources": {
+    "aquifer": [
+      "5254|Festus, Porcius|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.300"
+    ],
+    "tipnr": [
+      "Porcius|Festus@Act.24.27-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Governor"
+  ],
+  "ubsdgnt": [
+    "93.300"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Porcius (Festus)",
+      "alternate_labels": [
+        "Festus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Festus",
+          "article": "person:Porcius",
+          "description": "Porcius Festus, a Roman governor of Palestine during the New Testament, succeeded Felix and is mentioned in Acts 24:27."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Festus"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Πόρκιος"
+    ]
+  },
+  "key_references": [
+    "44024027"
+  ],
+  "references": [
+    "44024027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44024027008"
+      ]
+    ]
+  }
+}

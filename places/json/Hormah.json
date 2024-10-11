@@ -1,0 +1,125 @@
+{
+  "id": "place:Hormah",
+  "primary_id": "place:Zephath",
+  "alternate_sources": {
+    "aquifer": [
+      "5905|Hormah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002546001001000"
+    ],
+    "tipnr": [
+      "Hormah|Zephath@Jdg.1.17-1Ch"
+    ],
+    "vizbible": [
+      "recJuXzCbm1TSujll"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002546001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hormah",
+      "alternate_labels": [
+        "Zephath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hormah",
+          "gloss": "Hormah",
+          "description": "A town where the Amalekites and the Canaanites defeated the Israelites; later conquered by the Israelites and allotted to the tribe of Simeon."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Zephath"
+  ],
+  "referred_to_as": [
+    "place:Zephath"
+  ],
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חָרְמָה",
+      "חׇרְמָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.880918",
+      "lon": "34.63062"
+    },
+    "vizbible": {
+      "lat": "30.880918",
+      "lon": "34.63062"
+    }
+  },
+  "key_references": [
+    "04021003",
+    "05001044",
+    "04014045"
+  ],
+  "references": [
+    "04014045",
+    "04021003",
+    "05001044",
+    "06012014",
+    "06015030",
+    "06019004",
+    "07001017",
+    "09030030",
+    "13004030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040140450102"
+      ],
+      [
+        "o040210030151"
+      ],
+      [
+        "o050010440161"
+      ],
+      [
+        "o060120140021"
+      ],
+      [
+        "o060150300032"
+      ],
+      [
+        "o060190040032"
+      ],
+      [
+        "o070010170171"
+      ],
+      [
+        "o090300300022"
+      ],
+      [
+        "o130040300023"
+      ]
+    ]
+  }
+}

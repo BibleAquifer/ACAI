@@ -1,0 +1,67 @@
+{
+  "id": "person:Joda",
+  "primary_id": "person:Joda",
+  "alternate_sources": {
+    "aquifer": [
+      "6397|Joda|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.193"
+    ],
+    "tipnr": [
+      "Joda@Luk.3.26"
+    ],
+    "vizbible": [
+      "rechrwDPVS9aloOF6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joanan",
+  "offspring": [
+    "person:Josech"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.193"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joda",
+      "alternate_labels": [
+        "Juda"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joda",
+          "article": "person:Joda",
+          "description": "Son of Joanan and the father of Josech in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰωδά"
+    ]
+  },
+  "key_references": [
+    "42003026"
+  ],
+  "references": [
+    "42003026"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003026010"
+      ]
+    ]
+  }
+}

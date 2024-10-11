@@ -1,0 +1,103 @@
+{
+  "id": "person:Zechariah.2",
+  "primary_id": "person:Zechariah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "9167|Zechariah (Person)|TyndaleBibleDictionary",
+      "132457|Zechariah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001985001003000",
+      "001986001003000",
+      "001986001004000",
+      "001986001005000"
+    ],
+    "tipnr": [
+      "Zechariah@1Ch.9.21-"
+    ],
+    "vizbible": [
+      "recBIyeVoVt4IinM1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Meshelemiah",
+  "siblings": [
+    "person:Jediael.4",
+    "person:Zebadiah.4",
+    "person:Jathniel",
+    "person:Elam.4",
+    "person:Jehohanan",
+    "person:Eliehoenai"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "001985001003000",
+    "001986001003000",
+    "001986001004000",
+    "001986001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zechariah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zechariah",
+          "article": "person:Zechariah.2",
+          "description": "A son of Meshelemiah and priest and gatekeeper of the Tent of Meeting during the time of King David."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זְכַרְיָה",
+      "זְכַרְיָהוּ"
+    ]
+  },
+  "key_references": [
+    "13009021",
+    "13015018",
+    "13015024"
+  ],
+  "references": [
+    "13009021",
+    "13015018",
+    "13015020",
+    "13015024",
+    "13016005",
+    "13026002",
+    "13026014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090210011"
+      ],
+      [
+        "o130150180041"
+      ],
+      [
+        "o130150200012"
+      ],
+      [
+        "o130150240052"
+      ],
+      [
+        "o130160050041"
+      ],
+      [
+        "o130260020031"
+      ],
+      [
+        "o130260140052"
+      ]
+    ]
+  }
+}

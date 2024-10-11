@@ -1,0 +1,94 @@
+{
+  "id": "place:Ain",
+  "primary_id": "place:Ain",
+  "alternate_sources": {
+    "aquifer": [
+      "3478|Ain|TyndaleBibleDictionary"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/77594"
+    ],
+    "tipnr": [
+      "Ain@Num.34.11-Zec",
+      "Rimmon|Ain@Num.34.11-Zec"
+    ],
+    "vizbible": [
+      "recwklUMuzLBEJb7Z"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ain (near the Sea of Galilee)",
+      "alternate_labels": [
+        "Rimmon",
+        "Ain"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ain.1",
+          "gloss": "Ain (near the Sea of Galilee)",
+          "description": "A town along the eastern border of Canaan near the Sea of Galilee. "
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Riblah.2"
+  ],
+  "referred_to_as": [
+    "place:Rimmon"
+  ],
+  "nearby_places": [
+    "place:GalileeSea"
+  ],
+  "subregion_of": [
+    "place:Canaan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.353071",
+      "lon": "36.385705"
+    },
+    "recogito": {
+      "lat": "14.85192",
+      "lon": "45.52904"
+    },
+    "vizbible": {
+      "lat": "34.353071",
+      "lon": "36.385705"
+    }
+  },
+  "key_references": [
+    "04034011"
+  ],
+  "references": [
+    "04034011",
+    "38014010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340110062"
+      ],
+      [
+        "o380140100062"
+      ]
+    ]
+  }
+}

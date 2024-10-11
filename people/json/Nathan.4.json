@@ -1,0 +1,66 @@
+{
+  "id": "person:Nathan.4",
+  "primary_id": "person:Nathan.4",
+  "alternate_sources": {
+    "aquifer": [
+      "7313|Nathan|TyndaleBibleDictionary",
+      "26901|Nathan|UWTranslationWords",
+      "132416|Nathan|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "004959001006000"
+    ],
+    "tipnr": [
+      "Nathan@1Ch.2.36"
+    ],
+    "vizbible": [
+      "recs485VRY8zagFCP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Attai",
+  "offspring": [
+    "person:Zabad.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "004959001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nathan (1 Chronicles 2:36)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nathan (1 Chronicles 2:36)",
+          "article": "person:Nathan.4",
+          "description": "Nathan, a descendant of Jerahmeel from the tribe of Judah during the divided kingdom, was the son of Attai and father of Zabad."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נָתָן"
+    ]
+  },
+  "key_references": [
+    "13002036"
+  ],
+  "references": [
+    "13002036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020360041"
+      ],
+      [
+        "o130020360052"
+      ]
+    ]
+  }
+}

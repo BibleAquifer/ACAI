@@ -1,0 +1,196 @@
+{
+  "id": "place:Ramoth-gilead",
+  "primary_id": "place:Ramoth-gilead",
+  "alternate_sources": {
+    "aquifer": [
+      "7932|Ramoth-Gilead|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2fe63c"
+    ],
+    "tipnr": [
+      "Ramoth-gilead@Gen.31.47-Hos",
+      "Ramah|Ramoth-gilead@Gen.31.47-Hos"
+    ],
+    "vizbible": [
+      "recp2WSSUeSBeg6rV"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2006096"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ramoth-gilead",
+      "alternate_labels": [
+        "Ramah",
+        "Ramoth",
+        "Ramoth in Gilead"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ramoth.3",
+          "gloss": "Ramoth-Gilead",
+          "description": "A Levitical town in Gilead, in the territory of Gad; assigned to the clan of Merari."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ramah.5"
+  ],
+  "tribal_area": "group:Gad",
+  "subregion_of": [
+    "place:TerritoryOfGad",
+    "place:Gilead"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.56526757",
+      "lon": "36.00555931"
+    },
+    "vizbible": {
+      "lat": "32.56526757",
+      "lon": "36.00555931"
+    }
+  },
+  "key_references": [
+    "12008029",
+    "05004043",
+    "06021038",
+    "12008028",
+    "14022006"
+  ],
+  "references": [
+    "05004043",
+    "06020008",
+    "06021038",
+    "11004013",
+    "11022003",
+    "11022004",
+    "11022006",
+    "11022012",
+    "11022015",
+    "11022020",
+    "11022029",
+    "12008028",
+    "12008029",
+    "12009001",
+    "12009004",
+    "12009014",
+    "13006065",
+    "14018002",
+    "14018003",
+    "14018005",
+    "14018011",
+    "14018014",
+    "14018019",
+    "14018028",
+    "14022005",
+    "14022006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050040430081"
+      ],
+      [
+        "o060200080131"
+      ],
+      [
+        "o060210380081"
+      ],
+      [
+        "o110040130041"
+      ],
+      [
+        "o110040130112"
+      ],
+      [
+        "o110220030101"
+      ],
+      [
+        "o110220040081"
+      ],
+      [
+        "o110220060141"
+      ],
+      [
+        "o110220120081"
+      ],
+      [
+        "o110220150111"
+      ],
+      [
+        "o110220200101"
+      ],
+      [
+        "o110220290081"
+      ],
+      [
+        "o120080280121"
+      ],
+      [
+        "o120080290112"
+      ],
+      [
+        "o120090010181"
+      ],
+      [
+        "o120090040061"
+      ],
+      [
+        "o120090140131"
+      ],
+      [
+        "o130060650041"
+      ],
+      [
+        "o140180020201"
+      ],
+      [
+        "o140180030121"
+      ],
+      [
+        "o140180050141"
+      ],
+      [
+        "o140180110081"
+      ],
+      [
+        "o140180140111"
+      ],
+      [
+        "o140180190121"
+      ],
+      [
+        "o140180280091"
+      ],
+      [
+        "o140220050171"
+      ],
+      [
+        "o140220060082"
+      ]
+    ]
+  }
+}

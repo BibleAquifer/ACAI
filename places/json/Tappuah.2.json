@@ -1,0 +1,82 @@
+{
+  "id": "place:Tappuah.2",
+  "primary_id": "place:Tappuah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8737|Tappuah (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007892002001000"
+    ],
+    "tipnr": [
+      "Tappuah@Jos.15.34"
+    ],
+    "vizbible": [
+      "recTkPNELfzoOQb1p"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007892002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tappuah (of Judah)",
+      "alternate_labels": [
+        "Tappuah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tappuah.2",
+          "gloss": "Tappuah (of Judah)",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.15",
+      "lon": "35.1260"
+    },
+    "vizbible": {
+      "lat": "32.15",
+      "lon": "35.1260"
+    }
+  },
+  "key_references": [
+    "06015034"
+  ],
+  "references": [
+    "06015034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150340041"
+      ]
+    ]
+  }
+}

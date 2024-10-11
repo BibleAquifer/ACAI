@@ -1,0 +1,88 @@
+{
+  "id": "place:Adoraim",
+  "primary_id": "place:Adoraim",
+  "alternate_sources": {
+    "aquifer": [
+      "3396|Adoraim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae16cf5"
+    ],
+    "ubsdbh": [
+      "000118001001000"
+    ],
+    "tipnr": [
+      "Adoraim@2Ch.11.9"
+    ],
+    "vizbible": [
+      "recDXs24SqEKpabD3"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6998782"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000118001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adoraim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Adoraim",
+          "gloss": "Adoraim",
+          "description": "A town in the territory of Judah that was fortified by Jeroboam (2 Chronicles 11:9)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲדֹורַיִם",
+      "אֲדוֹרַ֫יִם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.51666667",
+      "lon": "34.98333333"
+    },
+    "vizbible": {
+      "lat": "31.51666667",
+      "lon": "34.98333333"
+    }
+  },
+  "key_references": [
+    "14011009"
+  ],
+  "references": [
+    "14011009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140110090021"
+      ]
+    ]
+  }
+}

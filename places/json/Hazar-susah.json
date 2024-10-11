@@ -1,0 +1,90 @@
+{
+  "id": "place:Hazar-susah",
+  "primary_id": "place:Hazar-susah",
+  "alternate_sources": {
+    "aquifer": [
+      "5732|Hazar-Susah, Hazar-Susim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002483001001000"
+    ],
+    "tipnr": [
+      "Hazar-susah@Jos.19.5"
+    ],
+    "vizbible": [
+      "recI0tMa0vUukm1G0"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002483001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazar-susah",
+      "alternate_labels": [
+        "Hazar-Susim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hazar-susah",
+          "gloss": "Hazar-susah",
+          "description": "A location in the territory of Simeon; also known as Hazar-Susah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲצַר סוּסָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.391668",
+      "lon": "34.940502"
+    },
+    "vizbible": {
+      "lat": "31.391668",
+      "lon": "34.940502"
+    }
+  },
+  "key_references": [
+    "06019005",
+    "13004031"
+  ],
+  "references": [
+    "06019005",
+    "13004031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190050042",
+        "o060190050051"
+      ]
+    ]
+  }
+}

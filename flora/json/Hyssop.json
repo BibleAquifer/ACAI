@@ -1,0 +1,135 @@
+{
+  "id": "flora:Hyssop",
+  "primary_id": "flora:Hyssop",
+  "alternate_sources": {
+    "aquifer": [
+      "5970|Hyssop|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "3.26"
+    ],
+    "ubsdbh": [
+      "000219001001000"
+    ],
+    "ubsflora": [
+      "flora:5.2.4"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Plants for Everyday Use",
+  "ubsdgnt": [
+    "3.26"
+  ],
+  "ubsdbh": [
+    "000219001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hyssop",
+      "alternate_labels": [
+        "Marjoram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hyssop",
+          "article": "flora:Hyssop",
+          "description": "Hyssop is a small aromatic bush with strong, hairy stems and white flowers, used for sprinkling in Jewish purification rituals."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵזֹוב"
+    ],
+    "el": [
+      "ὕσσωπος"
+    ]
+  },
+  "key_references": [
+    "02012022",
+    "03014049",
+    "43019029"
+  ],
+  "references": [
+    "02012022",
+    "03014004",
+    "03014006",
+    "03014049",
+    "03014051",
+    "03014052",
+    "04019006",
+    "04019018",
+    "11005013",
+    "19051009",
+    "43019029",
+    "58009019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020120220031"
+      ],
+      [
+        "o030140040132"
+      ],
+      [
+        "o030140060132"
+      ],
+      [
+        "o030140490112"
+      ],
+      [
+        "o030140510062"
+      ],
+      [
+        "o030140520123"
+      ],
+      [
+        "o040190060052"
+      ],
+      [
+        "o040190180021"
+      ],
+      [
+        "o110050130092"
+      ],
+      [
+        "o190510090022"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43019029010"
+      ],
+      [
+        "n58009019024"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o030140060152"
+      ],
+      [
+        "o030140510142"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n58009023010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110050130111"
+      ]
+    ]
+  }
+}

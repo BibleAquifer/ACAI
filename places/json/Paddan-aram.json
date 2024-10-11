@@ -1,0 +1,190 @@
+{
+  "id": "place:Paddan-aram",
+  "primary_id": "place:Paddan-aram",
+  "alternate_sources": {
+    "aquifer": [
+      "7547|Paddan, Paddan-Aram|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a8ec7ba"
+    ],
+    "tipnr": [
+      "Aram|Paddan-aram@Gen.25.20-Hos",
+      "Paddan|Paddan-aram@Gen.25.20-Hos",
+      "Paddan-aram@Gen.25.20-Hos",
+      "Aramean|Paddan-aram@Gen.25.20-Hos"
+    ],
+    "vizbible": [
+      "recrEteYtMZW1c46t"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1257454"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Paddan-aram",
+      "alternate_labels": [
+        "Aramean",
+        "Aram",
+        "Padan",
+        "Paddan",
+        "Padan-Aram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Paddan-aram",
+          "gloss": "Paddan-Aram",
+          "description": "A region in upper Mesopotamia, located around the great bend of the Euphrates River in northern Syria; ancestral home of Abraham’s family (ABD); also known as Aram-Naharaim."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Aramean",
+    "place:Aram-naharaim",
+    "place:Aram",
+    "place:Paddan"
+  ],
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.86386407659651",
+      "lon": "39.03219672227345"
+    },
+    "vizbible": {
+      "lat": "36.86386407659651",
+      "lon": "39.03219672227345"
+    }
+  },
+  "key_references": [
+    "01025020",
+    "01024010",
+    "05023004",
+    "01048007",
+    "07003008"
+  ],
+  "references": [
+    "01025020",
+    "01028002",
+    "01028005",
+    "01028006",
+    "01028007",
+    "01031018",
+    "01031020",
+    "01031024",
+    "01033018",
+    "01035009",
+    "01035026",
+    "01046015",
+    "01048007",
+    "04023007",
+    "05026005",
+    "28012013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250200112"
+      ],
+      [
+        "o010250200122",
+        "o010250200131"
+      ],
+      [
+        "o010250200162"
+      ],
+      [
+        "o010280020031"
+      ],
+      [
+        "o010280020041"
+      ],
+      [
+        "o010280050061"
+      ],
+      [
+        "o010280050071"
+      ],
+      [
+        "o010280050122"
+      ],
+      [
+        "o010280060101"
+      ],
+      [
+        "o010280060111"
+      ],
+      [
+        "o010280070081"
+      ],
+      [
+        "o010280070091"
+      ],
+      [
+        "o010310180142",
+        "o010310180151"
+      ],
+      [
+        "o010310200062"
+      ],
+      [
+        "o010310240052"
+      ],
+      [
+        "o010330180102",
+        "o010330180111"
+      ],
+      [
+        "o010350090072",
+        "o010350090081"
+      ],
+      [
+        "o010350260132",
+        "o010350260141"
+      ],
+      [
+        "o010460150072",
+        "o010460150081"
+      ],
+      [
+        "o010480070032"
+      ],
+      [
+        "o040230070051"
+      ],
+      [
+        "o050260050061"
+      ],
+      [
+        "o280120130041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o050260050071"
+      ]
+    ]
+  }
+}

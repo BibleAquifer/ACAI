@@ -1,0 +1,90 @@
+{
+  "id": "person:Philemon",
+  "primary_id": "person:Philemon",
+  "alternate_sources": {
+    "aquifer": [
+      "7708|Philemon (Person)|TyndaleBibleDictionary",
+      "7707|Philemon, Letter to|TyndaleBibleDictionary",
+      "132110|Philemon|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Philemon@Phm.1.1-"
+    ],
+    "vizbible": [
+      "recM8NYTQiIiuZPjy"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Church Leader"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Philemon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Philemon",
+          "article": "person:Philemon",
+          "description": "Philemon, first mentioned in Philemon 1:1, was a man living during the New Testament period and the recipient of a letter from Paul."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "57001001",
+    "57001025"
+  ],
+  "references": [
+    "57001001",
+    "57001025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n57001001009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n57001002014"
+      ],
+      [
+        "n57001003002"
+      ],
+      [
+        "n57001003008"
+      ],
+      [
+        "n57001004007"
+      ],
+      [
+        "n57001005002"
+      ],
+      [
+        "n57001006006"
+      ],
+      [
+        "n57001006015"
+      ],
+      [
+        "n57001007010"
+      ],
+      [
+        "n57001007018"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n57001005009"
+      ]
+    ]
+  }
+}

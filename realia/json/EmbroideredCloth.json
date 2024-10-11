@@ -1,0 +1,129 @@
+{
+  "id": "realia:EmbroideredCloth",
+  "primary_id": "realia:EmbroideredCloth",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006936001001000",
+      "006938001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.5.3.11"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006936001001000",
+    "006938001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Embroidered Cloth",
+      "alternate_labels": [
+        "Embroiderer",
+        "Needlework",
+        "Embroidery"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Embroidered Cloth",
+          "article": "realia:EmbroideredCloth",
+          "description": "Cloth with beautiful patterns sewn into it by hand, often considered valuable."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "רקם",
+      "רִקְמָה"
+    ]
+  },
+  "key_references": [
+    "02026001",
+    "02027016",
+    "26027007"
+  ],
+  "references": [
+    "02026036",
+    "02027016",
+    "02028039",
+    "02035035",
+    "02036037",
+    "02038018",
+    "02038023",
+    "02039029",
+    "07005030",
+    "19045015",
+    "26016010",
+    "26016013",
+    "26016018",
+    "26026016",
+    "26027007",
+    "26027016",
+    "26027024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020260360121"
+      ],
+      [
+        "o020270160131"
+      ],
+      [
+        "o020280390101"
+      ],
+      [
+        "o020350350102"
+      ],
+      [
+        "o020360370121"
+      ],
+      [
+        "o020380180051"
+      ],
+      [
+        "o020380230092"
+      ],
+      [
+        "o020390290101"
+      ],
+      [
+        "o070050300141"
+      ],
+      [
+        "o070050300161"
+      ],
+      [
+        "o190450150012"
+      ],
+      [
+        "o260160100021"
+      ],
+      [
+        "o260160130082"
+      ],
+      [
+        "o260160180041",
+        "o260160180042"
+      ],
+      [
+        "o260260160121",
+        "o260260160122"
+      ],
+      [
+        "o260270070022"
+      ],
+      [
+        "o260270160072"
+      ],
+      [
+        "o260270240062"
+      ]
+    ]
+  }
+}

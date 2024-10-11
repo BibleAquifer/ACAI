@@ -1,0 +1,94 @@
+{
+  "id": "place:Hazor.4",
+  "primary_id": "place:Hazor.4",
+  "alternate_sources": {
+    "aquifer": [
+      "5742|Hazor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002466001003000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/779967430"
+    ],
+    "tipnr": [
+      "Hazor@Neh.11.33"
+    ],
+    "vizbible": [
+      "recsXv3NlKLRoJyK9"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002466001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazor (of Benjamin)",
+      "alternate_labels": [
+        "Hazor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hazor.4",
+          "gloss": "Hazor (of Benjamin)",
+          "description": "A town or village in the territory of Benjamin, after the exile."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חָצֹור",
+      "חָצוֹר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "mountain"
+    ],
+    "acai": [
+      "village",
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.833333",
+      "lon": "35.20000"
+    },
+    "recogito": {
+      "lat": "33.01746212803129",
+      "lon": "35.56813718"
+    },
+    "vizbible": {
+      "lat": "31.833333",
+      "lon": "35.20000"
+    }
+  },
+  "key_references": [
+    "16011033"
+  ],
+  "references": [
+    "16011033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110330011"
+      ]
+    ]
+  }
+}

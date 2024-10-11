@@ -1,0 +1,92 @@
+{
+  "id": "place:Beth-le-aphrah",
+  "primary_id": "place:Ophrah",
+  "alternate_sources": {
+    "aquifer": [
+      "4184|Beth-Leaphrah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000962001001000"
+    ],
+    "tipnr": [
+      "Beth-le-aphrah|Ophrah@Jos.18.23-Mic"
+    ],
+    "vizbible": [
+      "receXJK5JriKbA5I5"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000962001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-leaphrah",
+      "alternate_labels": [
+        "Aphrah",
+        "Beth Aphrah",
+        "Beth Ophrah",
+        "Ophrah",
+        "house of Aphrah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-le-aphrah",
+          "gloss": "Beth-leaphrah",
+          "description": "A place mentioned in Mic 1:10."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ophrah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית לְעַפְרָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.95378956",
+      "lon": "35.29913578"
+    },
+    "vizbible": {
+      "lat": "31.95378956",
+      "lon": "35.29913578"
+    }
+  },
+  "key_references": [
+    "33001010"
+  ],
+  "references": [
+    "33001010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o330010100072",
+        "o330010100081"
+      ]
+    ]
+  }
+}

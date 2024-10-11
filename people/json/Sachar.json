@@ -1,0 +1,66 @@
+{
+  "id": "person:Sachar",
+  "primary_id": "person:Sachar",
+  "alternate_sources": {
+    "aquifer": [
+      "8086|Sacar, Sachar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007043002002000"
+    ],
+    "tipnr": [
+      "Sachar@1Ch.26.4"
+    ],
+    "vizbible": [
+      "recnNbE1gKIHO3fqK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Obed-edom",
+  "siblings": [
+    "person:Shemaiah.9",
+    "person:Jehozabad.2",
+    "person:Joah.3",
+    "person:Nethanel.5",
+    "person:Ammiel.3",
+    "person:Issachar.2",
+    "person:Peullethai"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "007043002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sachar",
+      "alternate_labels": [
+        "Sakar",
+        "Sacar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sachar",
+          "article": "person:Sachar",
+          "description": "Sachar, also known as Sacar or Sakar, was a Levite and son of Obed-edom, living during Israel's united kingdom and mentioned in 1 Chronicles 26:4."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13026004"
+  ],
+  "references": [
+    "13026004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130260040102"
+      ]
+    ]
+  }
+}

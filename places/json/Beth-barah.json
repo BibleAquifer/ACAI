@@ -1,0 +1,95 @@
+{
+  "id": "place:Beth-barah",
+  "primary_id": "place:Beth-barah",
+  "alternate_sources": {
+    "aquifer": [
+      "4161|Beth-Barah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000938001001000"
+    ],
+    "tipnr": [
+      "Beth-Barah@Jdg.7.24"
+    ],
+    "vizbible": [
+      "recsbSnt3kftHlmU3"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000938001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-barah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-barah",
+          "gloss": "Beth-Barah",
+          "description": "A location close to the Jordan River where the men of Ephraim confronted the Midianites."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Bethabara"
+  ],
+  "nearby_places": [
+    "place:Jordan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית בָּרָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "wadi",
+      "special",
+      "settlement",
+      "region",
+      "ford"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.83632115",
+      "lon": "35.55260017"
+    },
+    "vizbible": {
+      "lat": "31.83632115",
+      "lon": "35.55260017"
+    }
+  },
+  "key_references": [
+    "07007024"
+  ],
+  "references": [
+    "07007024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070070240161",
+        "o070070240171"
+      ],
+      [
+        "o070070240281",
+        "o070070240291"
+      ]
+    ]
+  }
+}

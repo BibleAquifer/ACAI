@@ -1,0 +1,110 @@
+{
+  "id": "place:Tubal",
+  "primary_id": "place:Tubal",
+  "alternate_sources": {
+    "aquifer": [
+      "8939|Tubal|TyndaleBibleDictionary",
+      "27181|Tubal|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007705001002000"
+    ],
+    "tipnr": [
+      "Tubal@Isa.66.19-Ezk"
+    ],
+    "vizbible": [
+      "recqcq8eIh3EAz3DG"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007705001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tubal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tubal",
+          "gloss": "Tubal",
+          "description": "A nation possibly to be identified with Tabal, located in vicinity of the Black Sea; considered descendants of Japheth through his son Tubal."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.905222",
+      "lon": "37.799969"
+    },
+    "vizbible": {
+      "lat": "40.905222",
+      "lon": "37.799969"
+    }
+  },
+  "key_references": [
+    "26038002",
+    "23066019"
+  ],
+  "references": [
+    "23066019",
+    "26027013",
+    "26038002",
+    "26038003",
+    "26039001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230660190141"
+      ],
+      [
+        "o260270130021"
+      ],
+      [
+        "o260380020122"
+      ],
+      [
+        "o260380030122"
+      ],
+      [
+        "o260390010182"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270130041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270130051"
+      ],
+      [
+        "o260270130101"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "person:Shelah.2",
+  "primary_id": "person:Shelah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8334|Shelah|TyndaleBibleDictionary",
+      "8333|Shelah, Pool of|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shelah@Gen.10.24-Luk"
+    ],
+    "vizbible": [
+      "recMoCCDPVw5IzYq8"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Cainan",
+  "offspring": [
+    "person:Eber"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shelah",
+      "alternate_labels": [
+        "Salah",
+        "Sala"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shelah",
+          "article": "person:Shelah.2",
+          "description": "A son of the patriarch Arphaxad and father of Eber. He is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010024",
+    "01011012",
+    "42003035",
+    "42003036"
+  ],
+  "references": [
+    "01010024",
+    "01011012",
+    "01011013",
+    "01011014",
+    "01011015",
+    "13001018",
+    "13001024",
+    "42003035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100240041"
+      ],
+      [
+        "o010100240052"
+      ],
+      [
+        "o010110120081"
+      ],
+      [
+        "o010110130061"
+      ],
+      [
+        "o010110140012"
+      ],
+      [
+        "o010110150021"
+      ],
+      [
+        "o130010180041"
+      ],
+      [
+        "o130010180052"
+      ],
+      [
+        "o130010240031"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003035010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010110140052"
+      ],
+      [
+        "o010110150122"
+      ]
+    ]
+  }
+}

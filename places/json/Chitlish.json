@@ -1,0 +1,88 @@
+{
+  "id": "place:Chitlish",
+  "primary_id": "place:Chitlish",
+  "alternate_sources": {
+    "aquifer": [
+      "4535|Chitlish|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003473001001000"
+    ],
+    "tipnr": [
+      "Chitlish@Jos.15.40"
+    ],
+    "vizbible": [
+      "recdh9Gu8gelCiU1H"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003473001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chitlish",
+      "alternate_labels": [
+        "Kithlish",
+        "Kitlish"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chitlish",
+          "gloss": "Chitlish",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כִּתְלִישׁ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.823337",
+      "lon": "34.777779"
+    },
+    "vizbible": {
+      "lat": "31.823337",
+      "lon": "34.777779"
+    }
+  },
+  "key_references": [
+    "06015040"
+  ],
+  "references": [
+    "06015040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150400032"
+      ]
+    ]
+  }
+}

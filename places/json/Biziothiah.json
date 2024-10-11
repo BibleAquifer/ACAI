@@ -1,0 +1,85 @@
+{
+  "id": "place:Biziothiah",
+  "primary_id": "place:Biziothiah",
+  "alternate_sources": {
+    "aquifer": [
+      "4264|Biziothiah, Bizjothjah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000894001001000"
+    ],
+    "tipnr": [
+      "Biziothiah@Jos.15.28"
+    ],
+    "vizbible": [
+      "recX6Geuthxftkb51"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000894001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Biziothiah",
+      "alternate_labels": [
+        "Bizjothjah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Biziothiah",
+          "gloss": "Biziothiah",
+          "description": "A town in the southern territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בִּזְיֹותְיָה",
+      "בִּזְיוֹתְיָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.24495217357714",
+      "lon": "34.8408885849849"
+    },
+    "vizbible": {
+      "lat": "31.24495217357714",
+      "lon": "34.8408885849849"
+    }
+  },
+  "key_references": [
+    "06015028"
+  ],
+  "references": [
+    "06015028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150280052"
+      ]
+    ]
+  }
+}

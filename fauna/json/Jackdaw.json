@@ -1,0 +1,103 @@
+{
+  "id": "fauna:Jackdaw",
+  "primary_id": "fauna:Jackdaw",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006347001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.13"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "006347001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jackdaw",
+      "alternate_labels": [
+        "Desert Owl"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jackdaw",
+          "article": "fauna:Jackdaw",
+          "description": "A small black bird, often seen as polluted and linked to loneliness and destruction. Its exact identification is unclear."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קָאָת"
+    ]
+  },
+  "key_references": [
+    "03011018",
+    "05014017",
+    "23034011"
+  ],
+  "references": [
+    "03011018",
+    "05014017",
+    "19102007",
+    "23034011",
+    "36002014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110180042"
+      ],
+      [
+        "o050140170013"
+      ],
+      [
+        "o191020070022"
+      ],
+      [
+        "o230340110021"
+      ],
+      [
+        "o360020140081"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230340160072"
+      ],
+      [
+        "o230340160101"
+      ],
+      [
+        "o230340160202"
+      ],
+      [
+        "o230340170032"
+      ],
+      [
+        "o230340170072"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230340160131"
+      ],
+      [
+        "o230340170111"
+      ],
+      [
+        "o230340170141"
+      ]
+    ]
+  }
+}

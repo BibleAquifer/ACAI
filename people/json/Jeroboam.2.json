@@ -1,0 +1,147 @@
+{
+  "id": "person:Jeroboam.2",
+  "primary_id": "person:Jeroboam.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6326|Jeroboam|TyndaleBibleDictionary",
+      "26755|Jeroboam|UWTranslationWords",
+      "132422|Jeroboam|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003088001002000"
+    ],
+    "tipnr": [
+      "Jeroboam@2Ki.13.13-Amo"
+    ],
+    "vizbible": [
+      "recxkR6HLJD0xWE6R"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joash.4",
+  "offspring": [
+    "person:Zechariah.3"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "003088001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeroboam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeroboam",
+          "article": "person:Jeroboam.2",
+          "description": "A son of Joash and king of the northern kingdom of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָרָבְעָם",
+      "יָֽרָבְעָם"
+    ]
+  },
+  "key_references": [
+    "12014023",
+    "12014027",
+    "30007010"
+  ],
+  "references": [
+    "12013013",
+    "12014016",
+    "12014023",
+    "12014027",
+    "12014028",
+    "12014029",
+    "12015001",
+    "12015008",
+    "13005017",
+    "28001001",
+    "30001001",
+    "30007009",
+    "30007010",
+    "30007011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120130130052"
+      ],
+      [
+        "o120140160111"
+      ],
+      [
+        "o120140230111"
+      ],
+      [
+        "o120140270121"
+      ],
+      [
+        "o120140280031"
+      ],
+      [
+        "o120140290021"
+      ],
+      [
+        "o120150010052"
+      ],
+      [
+        "o120150080111"
+      ],
+      [
+        "o130050170081"
+      ],
+      [
+        "o280010010171"
+      ],
+      [
+        "o300010010161"
+      ],
+      [
+        "o300070090101"
+      ],
+      [
+        "o300070100071"
+      ],
+      [
+        "o300070110071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o120140250011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120140240012"
+      ],
+      [
+        "o120140240061"
+      ],
+      [
+        "o120140280061"
+      ],
+      [
+        "o120140280091"
+      ],
+      [
+        "o120140280111"
+      ]
+    ]
+  }
+}

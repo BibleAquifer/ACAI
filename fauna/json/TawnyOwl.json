@@ -1,0 +1,95 @@
+{
+  "id": "fauna:TawnyOwl",
+  "primary_id": "fauna:TawnyOwl",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002966001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.17.2"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "002966001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tawny Owl",
+      "alternate_labels": [
+        "Owl"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tawny Owl",
+          "article": "fauna:TawnyOwl",
+          "description": "A gray-brown owl with eyes that look like spectacles, often found in wooded areas."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יַנְשֹׁוף"
+    ]
+  },
+  "key_references": [
+    "03011017",
+    "05014016",
+    "23034011"
+  ],
+  "references": [
+    "03011017",
+    "05014016",
+    "23034011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110170062"
+      ],
+      [
+        "o050140160042"
+      ],
+      [
+        "o230340110042"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230340160072"
+      ],
+      [
+        "o230340160101"
+      ],
+      [
+        "o230340160202"
+      ],
+      [
+        "o230340170032"
+      ],
+      [
+        "o230340170072"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230340160131"
+      ],
+      [
+        "o230340170111"
+      ],
+      [
+        "o230340170141"
+      ]
+    ]
+  }
+}

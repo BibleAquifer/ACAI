@@ -1,0 +1,83 @@
+{
+  "id": "person:Elpelet",
+  "primary_id": "person:Elpelet",
+  "alternate_sources": {
+    "aquifer": [
+      "5052|Elpelet|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Elpelet@1Ch.3.6-",
+      "Eliphelet|Elpelet@1Ch.3.6-"
+    ],
+    "vizbible": [
+      "rec6sZKU3puN0lMBt"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:JerusalemWives",
+  "siblings": [
+    "person:Amnon",
+    "person:Chileab",
+    "person:Absalom",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shammua.2",
+    "person:Shobab",
+    "person:Nathan",
+    "person:Solomon",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Nepheg.2",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliada",
+    "person:Eliphelet",
+    "person:Tamar.2",
+    "person:Nogah",
+    "person:Jerimoth.6"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elpelet",
+      "alternate_labels": [
+        "Elpalet",
+        "Eliphelet"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elpelet",
+          "article": "person:Elpelet",
+          "description": "Elpelet, also called Eliphelet, was one of David's sons from the tribe of Judah, living during Israel's united kingdom and first mentioned in 1 Chronicles 3:6."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Eliphelet.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13003006",
+    "13014005"
+  ],
+  "references": [
+    "13003006",
+    "13014005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030060032"
+      ],
+      [
+        "o130140050032"
+      ]
+    ]
+  }
+}

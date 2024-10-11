@@ -1,0 +1,75 @@
+{
+  "id": "person:Erastus",
+  "primary_id": "person:Erastus",
+  "alternate_sources": {
+    "aquifer": [
+      "5133|Erastus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.122a",
+      "93.122b"
+    ],
+    "tipnr": [
+      "Erastus@Act.19.22-2Ti"
+    ],
+    "vizbible": [
+      "recfi3ywdyFSeO31x"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.122a",
+    "93.122b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Erastus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Erastus",
+          "article": "person:Erastus",
+          "description": "Erastus, mentioned in the New Testament, was a companion of Paul and the city treasurer."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἔραστος"
+    ]
+  },
+  "key_references": [
+    "44019022",
+    "45016023",
+    "55004020"
+  ],
+  "references": [
+    "44019022",
+    "45016023",
+    "55004020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44019022012"
+      ],
+      [
+        "n45016023013"
+      ],
+      [
+        "n55004020001"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n45016024005"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "person:Teresh",
+  "primary_id": "person:Teresh",
+  "alternate_sources": {
+    "aquifer": [
+      "8792|Teresh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007950001001000"
+    ],
+    "tipnr": [
+      "Teresh@Est.2.21-"
+    ],
+    "vizbible": [
+      "recoWAbnHOlUSLHdN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "007950001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Teresh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Teresh",
+          "article": "person:Teresh",
+          "description": "Teresh was a man living during the time of exile and return, mentioned in Esther 2:21."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תַּרְשִׁישׁ",
+      "תִּרְצָה"
+    ]
+  },
+  "key_references": [
+    "17002021",
+    "17006002"
+  ],
+  "references": [
+    "17002021",
+    "17006002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170020210092"
+      ],
+      [
+        "o170060020082"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o170020210152"
+      ],
+      [
+        "o170020210162"
+      ],
+      [
+        "o170060020151"
+      ],
+      [
+        "o170060020162"
+      ]
+    ]
+  }
+}

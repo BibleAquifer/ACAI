@@ -1,0 +1,37 @@
+{
+  "id": "place:TerritoryOfAsher",
+  "primary_id": "place:TerritoryOfAsher",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TerritoryOfAsher",
+          "gloss": "Territory of Asher",
+          "description": "The land assigned to the tribe of Asher."
+        }
+      ],
+      "preferred_label": "Territory of Asher"
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfNaphtali",
+    "place:TerritoryOfZebulun",
+    "place:TerritoryOfWestManasseh"
+  ],
+  "subregion_of": [
+    "place:Israel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "person:Ehi",
+  "primary_id": "person:Ehi",
+  "alternate_sources": {
+    "aquifer": [
+      "4956|Ehi|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Aharah|Ehi@Gen.46.21-1Ch",
+      "Ehi@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "rec8gMidv50fVGr80"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Naaman",
+    "person:Rosh",
+    "person:Muppim",
+    "person:Huppim",
+    "person:Ard",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ehi",
+      "alternate_labels": [
+        "Aharah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ehi",
+          "article": "person:Ehi",
+          "description": "Ehi, also called Aharah, was a man of the tribe of Benjamin living during the time of Egypt and the wilderness, mentioned in Genesis 46:21 as a son of Benjamin and brother to several siblings."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Aharah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046021",
+    "13008001"
+  ],
+  "references": [
+    "01046021",
+    "13008001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460210081"
+      ],
+      [
+        "o130080010082"
+      ]
+    ]
+  }
+}

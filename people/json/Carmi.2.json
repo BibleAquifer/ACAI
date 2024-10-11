@@ -1,0 +1,81 @@
+{
+  "id": "person:Carmi.2",
+  "primary_id": "person:Carmi.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4432|Carmi|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Carmi@Gen.46.9-1Ch"
+    ],
+    "vizbible": [
+      "rec4MNqdM4NNH0eBC"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Reuben",
+  "siblings": [
+    "person:Pallu",
+    "person:Hezron",
+    "person:Hanoch.2"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Reuben",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Carmi",
+      "alternate_labels": [
+        "Karmi",
+        "Karmite",
+        "Carmite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Carmi",
+          "article": "person:Carmi.2",
+          "description": "A son of the Reuben, the first-born son of the patriarch Jacob. He is also known as Karmi."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Carmi"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046009",
+    "02006014",
+    "04026006",
+    "13005003"
+  ],
+  "references": [
+    "01046009",
+    "02006014",
+    "04026006",
+    "13005003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460090062"
+      ],
+      [
+        "o020060140122"
+      ],
+      [
+        "o040260060042"
+      ],
+      [
+        "o040260060062"
+      ],
+      [
+        "o130050030082"
+      ]
+    ]
+  }
+}

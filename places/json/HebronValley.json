@@ -1,0 +1,80 @@
+{
+  "id": "place:HebronValley",
+  "primary_id": "place:HebronValley",
+  "alternate_sources": {
+    "obi": [
+      "a375f5a"
+    ],
+    "ubsdbh": [
+      "002104001001000"
+    ],
+    "tipnr": [
+      "Hebron_Valley@Gen.37.14"
+    ],
+    "vizbible": [
+      "receJZ08AoRHQmlIN"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002104001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Hebron",
+      "alternate_labels": [
+        "vale of Hebron",
+        "Hebron",
+        "Vale of Hebron",
+        "Hebron Valley",
+        "valley of Hebron"
+      ],
+      "descriptions": []
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֶבְרֹון",
+      "חֶבְרוֹן",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.54909871686872",
+      "lon": "35.09356062020027"
+    },
+    "vizbible": {
+      "lat": "31.54909871686872",
+      "lon": "35.09356062020027"
+    }
+  },
+  "key_references": [
+    "01037014"
+  ],
+  "references": [
+    "01037014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010370140152",
+        "o010370140161"
+      ]
+    ]
+  }
+}

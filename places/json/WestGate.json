@@ -1,0 +1,42 @@
+{
+  "id": "place:WestGate",
+  "primary_id": "place:WestGate",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:WestGate",
+          "gloss": "West Gate",
+          "description": "A gate on the western side of the temple in Jerusalem; also known as Shallecheth Gate."
+        }
+      ],
+      "preferred_label": "West Gate",
+      "alternate_labels": [
+        "Shallecheth",
+        "Shalleketh"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Shallecheth"
+  ],
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "gate"
+    ]
+  },
+  "key_references": [
+    "13026016"
+  ]
+}

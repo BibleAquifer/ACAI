@@ -1,0 +1,94 @@
+{
+  "id": "place:Middin",
+  "primary_id": "place:Middin",
+  "alternate_sources": {
+    "aquifer": [
+      "7121|Middin|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aec139c"
+    ],
+    "ubsdbh": [
+      "003729001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/697708"
+    ],
+    "tipnr": [
+      "Middin@Jos.15.61"
+    ],
+    "vizbible": [
+      "recdgkbqEp5YJOvZb"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003729001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Middin",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Middin",
+          "gloss": "Middin",
+          "description": "A town in the wilderness of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מִדִּין"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.743894",
+      "lon": "35.401591"
+    },
+    "recogito": {
+      "lat": "31.118419",
+      "lon": "35.729855"
+    },
+    "vizbible": {
+      "lat": "31.743894",
+      "lon": "35.401591"
+    }
+  },
+  "key_references": [
+    "06015061"
+  ],
+  "references": [
+    "06015061"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150610041"
+      ]
+    ]
+  }
+}

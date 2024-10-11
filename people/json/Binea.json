@@ -1,0 +1,68 @@
+{
+  "id": "person:Binea",
+  "primary_id": "person:Binea",
+  "alternate_sources": {
+    "aquifer": [
+      "4248|Binea|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001067001001000"
+    ],
+    "tipnr": [
+      "Binea@1Ch.8.37-"
+    ],
+    "vizbible": [
+      "rec6nuvF3cTaqJcpY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Moza.2",
+  "offspring": [
+    "person:Raphah",
+    "person:Eleasah.2",
+    "person:Azel"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "001067001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Binea",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Binea",
+          "article": "person:Binea",
+          "description": "A man from the tribe of Benjamin, son of Moza, mentioned in 1 Chronicles 8:37."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בִּנְעָא"
+    ]
+  },
+  "key_references": [
+    "13008037",
+    "13009043"
+  ],
+  "references": [
+    "13008037",
+    "13009043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080370041"
+      ],
+      [
+        "o130090430041"
+      ]
+    ]
+  }
+}

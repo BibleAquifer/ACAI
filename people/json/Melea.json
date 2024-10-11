@@ -1,0 +1,61 @@
+{
+  "id": "person:Melea",
+  "primary_id": "person:Melea",
+  "alternate_sources": {
+    "aquifer": [
+      "7033|Melea|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.259"
+    ],
+    "tipnr": [
+      "Melea@Luk.3.31"
+    ],
+    "vizbible": [
+      "recSvNy4JLZ5IGlYI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Menna",
+  "offspring": [
+    "person:Eliakim.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.259"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Melea",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Melea",
+          "article": "person:Melea",
+          "description": "Son of Menna and the father of Eliakim in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Μελεά"
+    ]
+  },
+  "key_references": [
+    "42003031"
+  ],
+  "references": [
+    "42003031"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003031002"
+      ]
+    ]
+  }
+}

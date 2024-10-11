@@ -1,0 +1,87 @@
+{
+  "id": "place:Zelzah",
+  "primary_id": "place:Zelzah",
+  "alternate_sources": {
+    "aquifer": [
+      "9176|Zelzah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a44c89d"
+    ],
+    "ubsdbh": [
+      "006220001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/5377985"
+    ],
+    "tipnr": [
+      "Zelzah@1Sa.10.2"
+    ],
+    "vizbible": [
+      "recdK2aTnuFDIx6XY"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006220001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zelzah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zelzah",
+          "gloss": "Zelzah",
+          "description": "A location in the territory of Benjamin near Rachel's tomb."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "special",
+      "settlement"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.717666",
+      "lon": "35.187019"
+    },
+    "recogito": {
+      "lat": "34.22834",
+      "lon": "-118.53675"
+    },
+    "vizbible": {
+      "lat": "31.717666",
+      "lon": "35.187019"
+    }
+  },
+  "key_references": [
+    "09010002"
+  ],
+  "references": [
+    "09010002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090100020122"
+      ]
+    ]
+  }
+}

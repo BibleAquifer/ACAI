@@ -1,0 +1,57 @@
+{
+  "id": "group:Nephilim",
+  "primary_id": "group:Nephilim",
+  "alternate_sources": {
+    "aquifer": [
+      "7356|Nephilim|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Nephilim@Gen.6.4-Num"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nephilim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nephilim",
+          "article": "group:Nephilim",
+          "description": "A race of pre-flood people who were physically large (giants), possibly progenitors to the Anakim (Numbers 13:33) and Rephaim."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01006004",
+    "04013033"
+  ],
+  "references": [
+    "01006004",
+    "04013033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010060040012"
+      ],
+      [
+        "o040130330042"
+      ],
+      [
+        "o040130330082"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010060040181"
+      ]
+    ]
+  }
+}

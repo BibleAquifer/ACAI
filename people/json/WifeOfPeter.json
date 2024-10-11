@@ -1,0 +1,38 @@
+{
+  "id": "person:WifeOfPeter",
+  "primary_id": "person:WifeOfPeter",
+  "alternate_sources": {
+    "tipnr": [
+      "wife_of_Peter@Mat.8.14-1Co"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "mother": "person:MotherinlawOfPeter",
+  "partners": [
+    "person:Peter"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wife of Peter",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wife of Peter",
+          "article": "person:WifeOfPeter",
+          "description": "Wife of the apostle Peter."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40008014",
+    "46009005"
+  ],
+  "references": [
+    "40008014",
+    "46009005"
+  ]
+}

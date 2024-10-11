@@ -1,0 +1,119 @@
+{
+  "id": "place:Sardis",
+  "primary_id": "place:Sardis",
+  "alternate_sources": {
+    "aquifer": [
+      "8145|Sardis|TyndaleBibleDictionary",
+      "132124|Sardis|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "aab4a5f"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/550867",
+      "http://pleiades.stoa.org/places/550867"
+    ],
+    "tipnr": [
+      "Sepharad|Sardis@Oba.1.20-Rev",
+      "Sardis@Oba.1.20-Rev"
+    ],
+    "vizbible": [
+      "recuZ5G51OEg5hFNo"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q232615"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sardis",
+      "alternate_labels": [
+        "Sepharad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sardis",
+          "gloss": "Sardis",
+          "description": "A city in western Asia Minor; one of the seven cities addressed in Revelation."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Sepharad"
+  ],
+  "nearby_places": [
+    "place:Philadelphia",
+    "place:Thyatira",
+    "place:Smyrna"
+  ],
+  "subregion_of": [
+    "place:Lydia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "38.4768269",
+      "lon": "28.11413119"
+    },
+    "recogito": {
+      "lat": "38.488333",
+      "lon": "28.040278"
+    },
+    "vizbible": {
+      "lat": "38.4768269",
+      "lon": "28.11413119"
+    },
+    "biblica-maps": {
+      "lat": "38.48831",
+      "lon": "28.04029"
+    }
+  },
+  "key_references": [
+    "66003001",
+    "66001011",
+    "66003004"
+  ],
+  "references": [
+    "31001020",
+    "66001011",
+    "66003001",
+    "66003004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o310010200132"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n66001011025"
+      ],
+      [
+        "n66003001006"
+      ],
+      [
+        "n66003004006"
+      ]
+    ]
+  }
+}

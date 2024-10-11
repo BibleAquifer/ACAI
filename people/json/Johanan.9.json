@@ -1,0 +1,72 @@
+{
+  "id": "person:Johanan.9",
+  "primary_id": "person:Johanan.9",
+  "alternate_sources": {
+    "aquifer": [
+      "6406|Johanan|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Johanan@Neh.12.11-"
+    ],
+    "vizbible": [
+      "recTLCjXw89h0Ojmg"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joiada.2",
+  "offspring": [
+    "person:Jaddua.2"
+  ],
+  "siblings": [
+    "person:SonOfJoiada"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Johanan (Nehemiah 12:11)",
+      "alternate_labels": [
+        "Jonathan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Johanan (Nehemiah 12:11)",
+          "article": "person:Johanan.9",
+          "description": "A priest and a son of Joiada and father of Jaddua during the time of the return from Israelite exile."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16012011",
+    "16012022",
+    "16012023"
+  ],
+  "references": [
+    "16012011",
+    "16012022",
+    "16012023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160120110041"
+      ],
+      [
+        "o160120110052"
+      ],
+      [
+        "o160120220052"
+      ],
+      [
+        "o160120230121"
+      ]
+    ]
+  }
+}

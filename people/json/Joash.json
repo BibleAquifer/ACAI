@@ -1,0 +1,152 @@
+{
+  "id": "person:Joash",
+  "primary_id": "person:Joash",
+  "alternate_sources": {
+    "aquifer": [
+      "6391|Joash|TyndaleBibleDictionary",
+      "26765|Joash|UWTranslationWords",
+      "132437|Joash|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002817001001000"
+    ],
+    "tipnr": [
+      "Joash@Jdg.6.11-"
+    ],
+    "vizbible": [
+      "recS82zs3jcwKDMse"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Gideon"
+  ],
+  "ubsdbh": [
+    "002817001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joash",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joash",
+          "article": "person:Joash",
+          "description": "Father of the judge Gideon from the tribe of Manasseh, an Abierizite."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹואָשׁ",
+      "יוֹאָשׁ"
+    ]
+  },
+  "key_references": [
+    "07006011",
+    "07006030",
+    "07006031"
+  ],
+  "references": [
+    "07006011",
+    "07006029",
+    "07006030",
+    "07006031",
+    "07007014",
+    "07008013",
+    "07008029",
+    "07008032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070060110102"
+      ],
+      [
+        "o070060290141"
+      ],
+      [
+        "o070060300051"
+      ],
+      [
+        "o070060310021"
+      ],
+      [
+        "o070070140111"
+      ],
+      [
+        "o070080130041"
+      ],
+      [
+        "o070080290041"
+      ],
+      [
+        "o070080320041"
+      ],
+      [
+        "o070080320091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070060300061"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070060310072",
+          "o070060310081",
+          "o070060310082",
+          "o070060310091",
+          "o070060310091ה",
+          "o070060310092",
+          "o070060310101",
+          "o070060310111",
+          "o070060310121",
+          "o070060310122",
+          "o070060310131",
+          "o070060310132",
+          "o070060310141",
+          "o070060310151",
+          "o070060310161",
+          "o070060310162",
+          "o070060310171",
+          "o070060310181",
+          "o070060310191",
+          "o070060310192",
+          "o070060310201",
+          "o070060310211",
+          "o070060310221",
+          "o070060310231",
+          "o070060310241",
+          "o070060310242",
+          "o070060310251",
+          "o070060310261",
+          "o070060310271",
+          "o070060310281",
+          "o070060310282"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070060320071",
+          "o070060320081",
+          "o070060320082",
+          "o070060320091",
+          "o070060320092"
+        ]
+      }
+    ]
+  }
+}

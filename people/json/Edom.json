@@ -1,0 +1,120 @@
+{
+  "id": "person:Edom",
+  "primary_id": "person:Esau",
+  "alternate_sources": {
+    "aquifer": [
+      "4944|Edom, Edomites|TyndaleBibleDictionary",
+      "26547|Edom|UWTranslationWords",
+      "132357|Edom|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000114001001000",
+      "000114001002000"
+    ],
+    "tipnr": [
+      "Edom|Esau@Gen.25.25-Heb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Isaac",
+  "mother": "person:Rebekah",
+  "partners": [
+    "person:Oholibamah",
+    "person:Judith",
+    "person:Adah.2",
+    "person:Mahalath"
+  ],
+  "offspring": [
+    "person:Eliphaz",
+    "person:Reuel.3",
+    "person:Jeush",
+    "person:Jalam",
+    "person:Korah"
+  ],
+  "siblings": [
+    "person:Israel"
+  ],
+  "roles": [
+    "Patriarch",
+    "Hunter"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "000114001001000",
+    "000114001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Edom (Esau)",
+      "alternate_labels": [
+        "Esau"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Esau",
+          "article": "person:Edom",
+          "description": "This is another name for Esau, the first-born son of the patriarch Isaac and Rebekah, and twin brother of Jacob. He was husband to several wives, and father of multiple children. He is considered the ancestor of the Edomites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Esau"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱדֹום",
+      "אֱדוֹם"
+    ]
+  },
+  "key_references": [
+    "01025023",
+    "01025024",
+    "01025025",
+    "01025026",
+    "01025027",
+    "01025028",
+    "01025029",
+    "01025030",
+    "01036001",
+    "01036008"
+  ],
+  "references": [
+    "01025030",
+    "01036001",
+    "01036008",
+    "01036019",
+    "01036021",
+    "13001051",
+    "13001054"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250300181"
+      ],
+      [
+        "o010360010051"
+      ],
+      [
+        "o010360080071"
+      ],
+      [
+        "o010360190071"
+      ],
+      [
+        "o010360210101"
+      ],
+      [
+        "o130010510051"
+      ],
+      [
+        "o130010540071"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "id": "place:Hamath",
+  "primary_id": "place:Hamath",
+  "alternate_sources": {
+    "aquifer": [
+      "5617|Hamath|TyndaleBibleDictionary",
+      "5614|Hamath, Entrance of|TyndaleBibleDictionary",
+      "26672|Hamath|UWTranslationWords"
+    ],
+    "obi": [
+      "ab6a417"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21720"
+    ],
+    "tipnr": [
+      "Lebo-hamath|Hamath@Num.13.21-Zec",
+      "Hamath_Rabbah|Hamath@Num.13.21-Zec",
+      "Hamath@Num.13.21-Zec"
+    ],
+    "vizbible": [
+      "recA34XfYsCxhyu31"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5644151"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hamath",
+      "alternate_labels": [
+        "Zobah",
+        "Hamath-Zobah",
+        "Hamath the great",
+        "Zobah-Hamath",
+        "Lebo-hamath",
+        "go",
+        "entering in of Hamath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hamath.1",
+          "gloss": "Hamath",
+          "description": "A town on the Orontes River in Syria; capital of Aramean kingdom; its inhabitants were relocated to Samaria by the king of Assyria."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:HamathRabbah",
+    "place:Lebo-hamath"
+  ],
+  "subregion_of": [
+    "place:Syria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special",
+      "region"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.136204",
+      "lon": "36.749488"
+    },
+    "recogito": {
+      "lat": "35.1359",
+      "lon": "36.7495"
+    },
+    "vizbible": {
+      "lat": "35.1359",
+      "lon": "36.7495"
+    }
+  },
+  "key_references": [
+    "10008010",
+    "14008004",
+    "10008009"
+  ],
+  "references": [
+    "04013021",
+    "04034008",
+    "06013005",
+    "07003003",
+    "10008009",
+    "11008065",
+    "12014025",
+    "12014028",
+    "12017024",
+    "12017030",
+    "12018034",
+    "12019013",
+    "12023033",
+    "12025021",
+    "13013005",
+    "13018003",
+    "13018009",
+    "14007008",
+    "14008003",
+    "14008004",
+    "23010009",
+    "23011011",
+    "23036019",
+    "23037013",
+    "24039005",
+    "24049023",
+    "24052009",
+    "24052027",
+    "26047015",
+    "26047016",
+    "26047017",
+    "26047020",
+    "26048001",
+    "30006002",
+    "30006014",
+    "38009002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130210091",
+        "o040130210101"
+      ],
+      [
+        "o040340080041",
+        "o040340080051"
+      ],
+      [
+        "o060130050131",
+        "o060130050141"
+      ],
+      [
+        "o070030030151",
+        "o070030030161"
+      ],
+      [
+        "o100080090041"
+      ],
+      [
+        "o110080650122",
+        "o110080650131"
+      ],
+      [
+        "o120140250062",
+        "o120140250071"
+      ],
+      [
+        "o120140280151"
+      ],
+      [
+        "o120170240073"
+      ],
+      [
+        "o120170300131"
+      ],
+      [
+        "o120180340031"
+      ],
+      [
+        "o120190130031"
+      ],
+      [
+        "o120230330061"
+      ],
+      [
+        "o120250210081"
+      ],
+      [
+        "o130130050101",
+        "o130130050111"
+      ],
+      [
+        "o130130050122"
+      ],
+      [
+        "o130180090041"
+      ],
+      [
+        "o140070080152",
+        "o140070080161"
+      ],
+      [
+        "o140080040112"
+      ],
+      [
+        "o230100090071"
+      ],
+      [
+        "o230110110203"
+      ],
+      [
+        "o230360190031"
+      ],
+      [
+        "o230370130031"
+      ],
+      [
+        "o240390050191"
+      ],
+      [
+        "o240490230031"
+      ],
+      [
+        "o240520090111"
+      ],
+      [
+        "o240520270081"
+      ],
+      [
+        "o260470150111"
+      ],
+      [
+        "o260470160011"
+      ],
+      [
+        "o260470160101"
+      ],
+      [
+        "o260470170121"
+      ],
+      [
+        "o260470200081",
+        "o260470200091"
+      ],
+      [
+        "o260480010101",
+        "o260480010111"
+      ],
+      [
+        "o260480010191"
+      ],
+      [
+        "o300060020061",
+        "o300060020071"
+      ],
+      [
+        "o300060140151"
+      ],
+      [
+        "o380090020021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230360200052"
+      ],
+      [
+        "o300060020142"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120170240152"
+      ],
+      [
+        "o120170240182"
+      ],
+      [
+        "o120170250061"
+      ],
+      [
+        "o240490230081",
+        "o240490230091"
+      ],
+      [
+        "o380090020031"
+      ]
+    ]
+  }
+}

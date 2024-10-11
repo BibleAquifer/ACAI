@@ -1,0 +1,90 @@
+{
+  "id": "place:Gibeath-haaraloth",
+  "primary_id": "place:Gilgal.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5449|Gibeath-Haaraloth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001279002001000"
+    ],
+    "tipnr": [
+      "Gibeath-haaraloth|Gilgal@Deu.11.30-Mic"
+    ],
+    "vizbible": [
+      "recsccGSGLU7f2qsV"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001279002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gibeath-haaraloth",
+      "alternate_labels": [
+        "Hill of the Foreskins",
+        "Gilgal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gibeath-haaraloth",
+          "gloss": "Gibeath-Haaraloth",
+          "description": "A hill near Jericho where Joshua circumcised the Israelites; literally \"hill of the foreskins.\""
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Gilgal.2"
+  ],
+  "nearby_places": [
+    "place:Jericho"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גִּבְעָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "hill"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.86378328",
+      "lon": "35.51854651"
+    },
+    "vizbible": {
+      "lat": "31.86378328",
+      "lon": "35.51854651"
+    }
+  },
+  "key_references": [
+    "06005003"
+  ],
+  "references": [
+    "06005003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060050030111"
+      ],
+      [
+        "o060050030122"
+      ]
+    ]
+  }
+}

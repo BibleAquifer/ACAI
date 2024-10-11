@@ -1,0 +1,92 @@
+{
+  "id": "place:Uphaz",
+  "primary_id": "place:Uphaz",
+  "alternate_sources": {
+    "aquifer": [
+      "8969|Uphaz|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af55829"
+    ],
+    "ubsdbh": [
+      "000200001001000"
+    ],
+    "tipnr": [
+      "Uphaz@Jer.10.9-Dan"
+    ],
+    "vizbible": [
+      "recQ3Rbzxg2nB04dj"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000200001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uphaz",
+      "alternate_labels": [
+        "Ufaz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Uphaz",
+          "gloss": "Uphaz",
+          "description": "A region known for its gold."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אוּפָז"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement",
+      "mine",
+      "island",
+      "special"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "22",
+      "lon": "77"
+    },
+    "vizbible": {
+      "lat": "22",
+      "lon": "77"
+    }
+  },
+  "key_references": [
+    "27010005",
+    "24010009"
+  ],
+  "references": [
+    "24010009",
+    "27010005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240100090062"
+      ],
+      [
+        "o270100050131"
+      ]
+    ]
+  }
+}

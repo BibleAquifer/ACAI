@@ -1,0 +1,52 @@
+{
+  "id": "person:Regem-melech",
+  "primary_id": "person:Regem-melech",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006691001001000"
+    ],
+    "tipnr": [
+      "Regem-melech@Zec.7.2"
+    ],
+    "vizbible": [
+      "rec16IbdRjP0GGgG6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "006691001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Regem-melech",
+      "alternate_labels": [
+        "Regem Melek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Regem-Melech",
+          "article": "person:Regem-melech",
+          "description": "Regem-melech, also known as Regem Melek, is a man living during the time of exile and return, only mentioned in Zechariah 7:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "38007002"
+  ],
+  "references": [
+    "38007002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o380070020062",
+        "o380070020071"
+      ]
+    ]
+  }
+}

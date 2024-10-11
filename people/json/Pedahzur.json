@@ -1,0 +1,78 @@
+{
+  "id": "person:Pedahzur",
+  "primary_id": "person:Pedahzur",
+  "alternate_sources": {
+    "aquifer": [
+      "7624|Pedahzur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005782001001000"
+    ],
+    "tipnr": [
+      "Pedahzur@Num.1.10-"
+    ],
+    "vizbible": [
+      "recetOupRHkC0Lei7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Gamaliel.2"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "ubsdbh": [
+    "005782001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pedahzur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pedahzur",
+          "article": "person:Pedahzur",
+          "description": "Father of the tribal chief of Manasseh named Gamaliel, who lived during the time of Egyptian slavery and the wilderness wandering of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04001010",
+    "04007054",
+    "04010023"
+  ],
+  "references": [
+    "04001010",
+    "04002020",
+    "04007054",
+    "04007059",
+    "04010023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010100101"
+      ],
+      [
+        "o040020200091"
+      ],
+      [
+        "o040070540081",
+        "o040070540091"
+      ],
+      [
+        "o040070590171",
+        "o040070590181"
+      ],
+      [
+        "o040100230081",
+        "o040100230091"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "person:Eleazar",
+  "primary_id": "person:Eleazar",
+  "alternate_sources": {
+    "aquifer": [
+      "4980|Eleazar|TyndaleBibleDictionary",
+      "26552|Eleazar|UWTranslationWords",
+      "132303|Eleazar|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.107"
+    ],
+    "tipnr": [
+      "Eleazar@Mat.1.15"
+    ],
+    "vizbible": [
+      "reci84bAiBZdK8AMY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliud",
+  "offspring": [
+    "person:Matthan"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.107"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eleazar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eleazar",
+          "article": "person:Eleazar",
+          "description": "Son of Eliud and the father of Matthan in Jesus's family tree according to Matthew's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἐλεάζαρ"
+    ]
+  },
+  "key_references": [
+    "40001015"
+  ],
+  "references": [
+    "40001015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40001015005",
+        "n40001015006"
+      ]
+    ]
+  }
+}

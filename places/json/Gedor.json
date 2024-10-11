@@ -1,0 +1,98 @@
+{
+  "id": "place:Gedor",
+  "primary_id": "place:Gedor",
+  "alternate_sources": {
+    "aquifer": [
+      "5403|Gedor (Place)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Gedor@Jos.12.13-1Ch",
+      "Geder|Gedor@Jos.12.13-1Ch"
+    ],
+    "vizbible": [
+      "reclg1YBA0tsZbZ6Y"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gedor (of Judah)",
+      "alternate_labels": [
+        "Geder",
+        "Gedor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gedor.1",
+          "gloss": "Gedor (of Judah)",
+          "description": "A town in the hill country of the territory of Judah; founded by Penuel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Geder"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.63333",
+      "lon": "35.083333"
+    },
+    "vizbible": {
+      "lat": "31.63333",
+      "lon": "35.083333"
+    }
+  },
+  "key_references": [
+    "13004004",
+    "06015058"
+  ],
+  "references": [
+    "06012013",
+    "06015058",
+    "13004004",
+    "13004018",
+    "13012008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120130051"
+      ],
+      [
+        "o060150580042"
+      ],
+      [
+        "o130040040031"
+      ],
+      [
+        "o130040180071"
+      ],
+      [
+        "o130120080062"
+      ]
+    ]
+  }
+}

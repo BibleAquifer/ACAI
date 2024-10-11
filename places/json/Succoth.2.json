@@ -1,0 +1,95 @@
+{
+  "id": "place:Succoth.2",
+  "primary_id": "place:Succoth.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8643|Succoth|TyndaleBibleDictionary",
+      "27129|Succoth|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005063001002000"
+    ],
+    "tipnr": [
+      "Succoth@Exo.12.37-Num"
+    ],
+    "vizbible": [
+      "recQNOLYAluyoB3WG"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005063001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Succoth (of Egypt)",
+      "alternate_labels": [
+        "Sukkoth",
+        "Succoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Succoth.2",
+          "gloss": "Succoth (of Egypt)",
+          "description": "A location in eastern Egypt, between Ramees and Etham; first campsite of the Israelites on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "campsite",
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.62077414",
+      "lon": "32.25869322"
+    },
+    "vizbible": {
+      "lat": "30.62077414",
+      "lon": "32.25869322"
+    }
+  },
+  "key_references": [
+    "02012037",
+    "02013020",
+    "04033005"
+  ],
+  "references": [
+    "02012037",
+    "02013020",
+    "04033005",
+    "04033006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020120370051"
+      ],
+      [
+        "o020130200022"
+      ],
+      [
+        "o040330050062"
+      ],
+      [
+        "o040330060022"
+      ]
+    ]
+  }
+}

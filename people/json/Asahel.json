@@ -1,0 +1,196 @@
+{
+  "id": "person:Asahel",
+  "primary_id": "person:Asahel",
+  "alternate_sources": {
+    "aquifer": [
+      "3776|Asahel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005699001001000",
+      "005699001001000 007432001001000"
+    ],
+    "tipnr": [
+      "Asahel@2Sa.2.18-1Ch"
+    ],
+    "vizbible": [
+      "recA0rj3f1qQ4llUP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:HusbandOfZeruiah",
+  "mother": "person:Zeruiah",
+  "offspring": [
+    "person:Zebadiah.5"
+  ],
+  "siblings": [
+    "person:Abishai",
+    "person:Joab"
+  ],
+  "roles": [
+    "Military Commander",
+    "Warrior",
+    "Royal Family Member"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "death_place": [
+      "place:Gibeon"
+    ]
+  },
+  "ubsdbh": [
+    "005699001001000",
+    "005699001001000 007432001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Asahel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Asahel",
+          "article": "person:Asahel",
+          "description": "One of David’s mighty men during Israel’s united kingdom. He was a son of David's sister Zeruiah, and brother of Abishai and Joab. He was also the father of Zebadiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֵשָׂו",
+      "שִׁלְשָׁה"
+    ]
+  },
+  "key_references": [
+    "10002018",
+    "10002023",
+    "10003030",
+    "13027007"
+  ],
+  "references": [
+    "10002018",
+    "10002019",
+    "10002020",
+    "10002021",
+    "10002022",
+    "10002023",
+    "10002030",
+    "10002032",
+    "10003027",
+    "10003030",
+    "10023024",
+    "13002016",
+    "13011026",
+    "13027007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100020180082"
+      ],
+      [
+        "o100020180092"
+      ],
+      [
+        "o100020190021"
+      ],
+      [
+        "o100020200071"
+      ],
+      [
+        "o100020210211"
+      ],
+      [
+        "o100020220061"
+      ],
+      [
+        "o100020230251"
+      ],
+      [
+        "o100020300152"
+      ],
+      [
+        "o100020320031"
+      ],
+      [
+        "o100030270171",
+        "o100030270181"
+      ],
+      [
+        "o100030300101"
+      ],
+      [
+        "o100230240011",
+        "o100230240021"
+      ],
+      [
+        "o130020160092",
+        "o130020160101"
+      ],
+      [
+        "o130110260031",
+        "o130110260041"
+      ],
+      [
+        "o130270070041",
+        "o130270070051"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o100020200052",
+        "o100020200061"
+      ],
+      [
+        "o100020200091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100020190061"
+      ],
+      [
+        "o100020190072"
+      ],
+      [
+        "o100020200082"
+      ],
+      [
+        "o100020210041"
+      ],
+      [
+        "o100020210112"
+      ],
+      [
+        "o100020210152"
+      ],
+      [
+        "o100020210222"
+      ],
+      [
+        "o100020220071"
+      ],
+      [
+        "o100020230012"
+      ],
+      [
+        "o100020230022"
+      ],
+      [
+        "o100020230122"
+      ],
+      [
+        "o100020230142"
+      ],
+      [
+        "o100020230262"
+      ]
+    ]
+  }
+}

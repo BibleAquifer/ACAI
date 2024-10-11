@@ -1,0 +1,35 @@
+{
+  "id": "person:KingOfBabylonIsaiah",
+  "primary_id": "person:KingOfBabylonIsaiah",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "King of Babylon (Isaiah)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "King of Babylon (Isaiah)",
+          "description": "The king of Babylon as represented in the book of Isaiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Quotation",
+        "words": [
+          "o230140140011",
+          "o230140140021",
+          "o230140140031",
+          "o230140140041",
+          "o230140140051",
+          "o230140140061",
+          "o230140140062"
+        ]
+      }
+    ]
+  }
+}

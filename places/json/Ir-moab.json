@@ -1,0 +1,40 @@
+{
+  "id": "place:Ir-moab",
+  "primary_id": "place:Ir-moab",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ir-moab",
+          "gloss": "Ir-Moab",
+          "description": "A city on the Arnon River where Balaam met with Balak."
+        }
+      ],
+      "preferred_label": "Ir-moab",
+      "alternate_labels": [
+        "City of Moab",
+        "Ir-moab",
+        "Ir Moab"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "key_references": [
+    "04022036"
+  ]
+}

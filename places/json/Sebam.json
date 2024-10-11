@@ -1,0 +1,75 @@
+{
+  "id": "place:Sebam",
+  "primary_id": "place:Sebam",
+  "alternate_sources": {
+    "aquifer": [
+      "8196|Sebam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006966001001000"
+    ],
+    "tipnr": [
+      "Sebam@Num.32.3"
+    ],
+    "vizbible": [
+      "recuAl3exVdlCg5zs"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006966001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sebam",
+      "alternate_labels": [
+        "Shibmah",
+        "Sibmah",
+        "Shebam"
+      ],
+      "descriptions": []
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "שִׂבְמָה",
+      "שְׂבָם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.815283",
+      "lon": "35.766738"
+    },
+    "vizbible": {
+      "lat": "31.815283",
+      "lon": "35.766738"
+    }
+  },
+  "references": [
+    "04032003",
+    "04032038",
+    "06013019",
+    "23016008",
+    "23016009",
+    "24048032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320030072"
+      ]
+    ]
+  }
+}

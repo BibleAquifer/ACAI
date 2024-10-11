@@ -1,0 +1,68 @@
+{
+  "id": "person:Achim",
+  "primary_id": "person:Achim",
+  "alternate_sources": {
+    "aquifer": [
+      "3339|Achim|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.55"
+    ],
+    "tipnr": [
+      "Achim@Mat.1.14"
+    ],
+    "vizbible": [
+      "rec70vtYGQf1asZoN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zadok",
+  "offspring": [
+    "person:Eliud"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.55"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Achim",
+      "alternate_labels": [
+        "Akim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Achim",
+          "article": "person:Achim",
+          "description": "Person in Jesus's family tree according to Matthew's gospel. He was the son of Zadok, the father of Eliud, and a descendant of Zerubabbel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀχίμ"
+    ]
+  },
+  "key_references": [
+    "40001014"
+  ],
+  "references": [
+    "40001014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40001014010",
+        "n40001014011"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "place:Patara",
+  "primary_id": "place:Patara",
+  "alternate_sources": {
+    "aquifer": [
+      "7604|Patara|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ade301b"
+    ],
+    "ubsdgnt": [
+      "93.547"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21460"
+    ],
+    "tipnr": [
+      "Patara@Act.21.1"
+    ],
+    "vizbible": [
+      "recYUgRXpxE62Lj08"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q233121"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.547"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Patara",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Patara",
+          "gloss": "Patara",
+          "description": "A city in Lycia on the southwest coast of Asia Minor where Paul's ship made a stop on his journey to Jerusalem."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Rhodes"
+  ],
+  "subregion_of": [
+    "place:Lycia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Πάταρα"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.27471787",
+      "lon": "29.31863783"
+    },
+    "recogito": {
+      "lat": "36.26018",
+      "lon": "29.314279"
+    },
+    "vizbible": {
+      "lat": "36.26018",
+      "lon": "29.314279"
+    },
+    "biblica-maps": {
+      "lat": "36.26097",
+      "lon": "29.3145"
+    }
+  },
+  "key_references": [
+    "44021001"
+  ],
+  "references": [
+    "44021001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44021001022"
+      ]
+    ]
+  }
+}

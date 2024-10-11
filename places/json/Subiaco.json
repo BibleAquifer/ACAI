@@ -1,0 +1,35 @@
+{
+  "id": "place:Subiaco",
+  "primary_id": "place:Subiaco",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Subiaco",
+          "gloss": "Subiaco",
+          "description": "A town in central Italy where the Abbey of Saint Scholastica, also known as Subiaco Abbey, is located. The abbey was founded by Saint Benedict of Nursia."
+        }
+      ],
+      "preferred_label": "Subiaco"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "41.92602",
+      "lon": "13.09479"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "place:TheLordWillProvide",
+  "primary_id": "place:TheLordWillProvide",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TheLordWillProvide",
+          "gloss": "The Lord Will Provide",
+          "description": "The place where Abraham sacrificed a ram instead of his son Isaac."
+        }
+      ],
+      "preferred_label": "The Lord Will Provide",
+      "alternate_labels": [
+        "YHWH Yireh"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Moriah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "other"
+    ]
+  },
+  "key_references": [
+    "01022014"
+  ]
+}

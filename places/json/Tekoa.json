@@ -1,0 +1,145 @@
+{
+  "id": "place:Tekoa",
+  "primary_id": "place:Tekoa",
+  "alternate_sources": {
+    "aquifer": [
+      "8765|Tekoa, Tekoites|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2e3aa0"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28382"
+    ],
+    "tipnr": [
+      "Tekoa@2Sa.14.2-Amo"
+    ],
+    "vizbible": [
+      "recXsf75sCapsOM68"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2448610"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tekoa",
+      "alternate_labels": [
+        "Tekoah",
+        "Desert of Tekoa",
+        "Tekoites",
+        "Tekoite",
+        "Tekoan",
+        "Wilderness of Tekoa"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tekoa",
+          "gloss": "Tekoa",
+          "description": "A town in the territory of Judah; hometown of the prophet Amos."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.63622127",
+      "lon": "35.21407722"
+    },
+    "recogito": {
+      "lat": "31.636092",
+      "lon": "35.215353"
+    },
+    "vizbible": {
+      "lat": "31.636092",
+      "lon": "35.215353"
+    }
+  },
+  "key_references": [
+    "30001001",
+    "16003005",
+    "14020020"
+  ],
+  "references": [
+    "10014002",
+    "10014004",
+    "10014009",
+    "10023026",
+    "13002024",
+    "13004005",
+    "13011028",
+    "13027009",
+    "14011006",
+    "14020020",
+    "16003005",
+    "16003027",
+    "24006001",
+    "30001001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100140020031"
+      ],
+      [
+        "o100140040032"
+      ],
+      [
+        "o100140090032"
+      ],
+      [
+        "o100230260062"
+      ],
+      [
+        "o130020240141"
+      ],
+      [
+        "o130040050031"
+      ],
+      [
+        "o130110280042"
+      ],
+      [
+        "o130270090072"
+      ],
+      [
+        "o140110060081"
+      ],
+      [
+        "o140200200051"
+      ],
+      [
+        "o160030050042"
+      ],
+      [
+        "o160030270032"
+      ],
+      [
+        "o240060010063"
+      ],
+      [
+        "o300010010062"
+      ]
+    ]
+  }
+}

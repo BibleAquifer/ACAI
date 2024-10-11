@@ -1,0 +1,78 @@
+{
+  "id": "person:Jehieli",
+  "primary_id": "person:Jehiel.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6268|Jehieli, Jehielite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002903001001000"
+    ],
+    "tipnr": [
+      "Jehieli|Jehiel@1Ch.23.8-"
+    ],
+    "vizbible": [
+      "recicYomEa5bVb2nd"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Libni",
+  "offspring": [
+    "person:Shelomoth.2",
+    "person:Haziel",
+    "person:Haran.2"
+  ],
+  "siblings": [
+    "person:Zetham",
+    "person:Joel.9"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002903001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehieli (Jehiel)",
+      "alternate_labels": [
+        "Jehiel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehiel",
+          "article": "person:Jehieli",
+          "description": "A Levite also known as Jehiel, son of Ladan, living during the time of King David and first mentioned in 1 Chronicles 23:8."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehiel.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְחִיאֵלִי"
+    ]
+  },
+  "key_references": [
+    "13026021",
+    "13026022"
+  ],
+  "references": [
+    "13026021",
+    "13026022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130260210101"
+      ],
+      [
+        "o130260220021"
+      ]
+    ]
+  }
+}

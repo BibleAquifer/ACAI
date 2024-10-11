@@ -1,0 +1,66 @@
+{
+  "id": "person:Sabtah",
+  "primary_id": "person:Sabtah",
+  "alternate_sources": {
+    "aquifer": [
+      "8084|Sabta, Sabtah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Sabta|Sabtah@Gen.10.7-1Ch",
+      "Sabtah@Gen.10.7-1Ch"
+    ],
+    "vizbible": [
+      "recJwvpap4CQkuY0k"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Cush.2",
+  "siblings": [
+    "person:Seba",
+    "person:Havilah",
+    "person:Raamah",
+    "person:Sabteca",
+    "person:Nimrod"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sabtah",
+      "alternate_labels": [
+        "Sabta"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sabtah",
+          "article": "person:Sabtah",
+          "description": "Sabtah, also known as Sabta, son of Cush and descendant of Ham, lived during the time of the patriarchs, mentioned in Genesis 10:7 and 1 Chronicles 1:9."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Sabta"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010007",
+    "13001009"
+  ],
+  "references": [
+    "01010007",
+    "13001009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100070052"
+      ],
+      [
+        "o130010090052"
+      ]
+    ]
+  }
+}

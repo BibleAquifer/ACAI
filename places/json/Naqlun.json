@@ -1,0 +1,41 @@
+{
+  "id": "place:Naqlun",
+  "primary_id": "place:Naqlun",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Naqlun",
+          "gloss": "Naqlun",
+          "description": "The location of a Coptic monastery in the Faiyum Oasis in northern Egypt."
+        }
+      ],
+      "preferred_label": "Naqlun",
+      "alternate_labels": [
+        "Monastery of the Archangel Gabriel at Naqlun"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "29.19377",
+      "lon": "30.87699"
+    }
+  }
+}

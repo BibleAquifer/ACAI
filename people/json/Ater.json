@@ -1,0 +1,64 @@
+{
+  "id": "person:Ater",
+  "primary_id": "person:Ater",
+  "alternate_sources": {
+    "aquifer": [
+      "3857|Ater|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000315001001000"
+    ],
+    "tipnr": [
+      "Ater@Ezr.2.16-Neh"
+    ],
+    "vizbible": [
+      "recdxz47LnwE64hu8"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Hezekiah.2"
+  ],
+  "ubsdbh": [
+    "000315001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ater",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ater",
+          "article": "person:Ater",
+          "description": "A family head during the time of exile and return, first mentioned in Ezra 2:16 and father of Hezekiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָטֵר"
+    ]
+  },
+  "key_references": [
+    "15002016",
+    "16007021"
+  ],
+  "references": [
+    "15002016",
+    "16007021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020160021"
+      ],
+      [
+        "o160070210021"
+      ]
+    ]
+  }
+}

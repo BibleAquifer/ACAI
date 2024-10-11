@@ -1,0 +1,78 @@
+{
+  "id": "person:Massa",
+  "primary_id": "person:Massa",
+  "alternate_sources": {
+    "aquifer": [
+      "6972|Massa|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004442003001000"
+    ],
+    "tipnr": [
+      "Massa@Gen.25.14-1Ch"
+    ],
+    "vizbible": [
+      "recTEgvUjPVObU3LE"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Kedemah",
+    "person:Mahalath"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "004442003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Massa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Massa",
+          "article": "person:Massa",
+          "description": "A man from the time of the patriarchs, son of Ishmael and grandson of Abraham, first mentioned in Genesis 25:14."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַשָּׂא",
+      "מַשָּׂא"
+    ]
+  },
+  "key_references": [
+    "01025014",
+    "13001030"
+  ],
+  "references": [
+    "01025014",
+    "13001030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250140032"
+      ],
+      [
+        "o130010300031"
+      ]
+    ]
+  }
+}

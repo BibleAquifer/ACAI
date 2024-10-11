@@ -1,0 +1,75 @@
+{
+  "id": "person:Zealot",
+  "primary_id": "person:Simon.2",
+  "alternate_sources": {
+    "aquifer": [
+      "9152|Zealot|TyndaleBibleDictionary",
+      "9151|Zealot, Simon the|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "11.88"
+    ],
+    "tipnr": [
+      "Zealot|Simon@Mat.10.4-Act"
+    ],
+    "vizbible": [
+      "recONdJVwpYA57oAi"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Apostle"
+  ],
+  "ubsdgnt": [
+    "11.88"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zealot (Simon)",
+      "alternate_labels": [
+        "Simon Zelotes",
+        "Zelotes",
+        "Simon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Simon",
+          "article": "person:Zealot",
+          "description": "Simon the Zealot, also known as Simon Zelotes, was an apostle living at the time of the New Testament, mentioned in Matthew 10:4, Luke 6:15, and Acts 1:13."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Simon.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ζηλωτής",
+      "Καναναῖος",
+      "Ζηλωτής"
+    ]
+  },
+  "key_references": [
+    "42006015",
+    "44001013"
+  ],
+  "references": [
+    "42006015",
+    "44001013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42006015012"
+      ],
+      [
+        "n44001013031"
+      ]
+    ]
+  }
+}

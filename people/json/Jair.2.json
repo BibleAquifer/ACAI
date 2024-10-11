@@ -1,0 +1,92 @@
+{
+  "id": "person:Jair.2",
+  "primary_id": "person:Jair.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6190|Jair|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jair@Num.32.41-1Ch"
+    ],
+    "vizbible": [
+      "recqTQYbMViGkKZR6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Segub.2",
+  "roles": [
+    "Patriarch",
+    "Leader",
+    "Warrior"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jair",
+      "alternate_labels": [
+        "Jairite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jair",
+          "article": "person:Jair.2",
+          "description": "Great-grandson of the patriarch Joseph and grandson of Manasseh, and son of Segub. He lived during the time of Egyptian slavery and the wilderness wandering of the Israelites. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Jair"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04027001",
+    "04032041",
+    "05003014",
+    "10020026",
+    "13002021",
+    "13002022"
+  ],
+  "references": [
+    "04032041",
+    "05003014",
+    "10020026",
+    "11004013",
+    "13002022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320410012"
+      ],
+      [
+        "o050030140011"
+      ],
+      [
+        "o100200260032"
+      ],
+      [
+        "o110040130071"
+      ],
+      [
+        "o130020220041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040320410052"
+      ],
+      [
+        "o040320410082"
+      ],
+      [
+        "o050030140132"
+      ]
+    ]
+  }
+}

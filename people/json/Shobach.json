@@ -1,0 +1,78 @@
+{
+  "id": "person:Shobach",
+  "primary_id": "person:Shobach",
+  "alternate_sources": {
+    "aquifer": [
+      "8439|Shobach|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shophach|Shobach@2Sa.10.16-1Ch",
+      "Shobach@2Sa.10.16-1Ch"
+    ],
+    "vizbible": [
+      "rec34ejKcSWQfsaMK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Military Commander"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shobach",
+      "alternate_labels": [
+        "Shophak",
+        "Shophach",
+        "Shobak"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shobach",
+          "article": "person:Shobach",
+          "description": "Syrian military commander of Hadadezer who was defeated by King David."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shophach"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10010016",
+    "10010018",
+    "13019018"
+  ],
+  "references": [
+    "10010016",
+    "10010018",
+    "13019016",
+    "13019018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100100160112"
+      ],
+      [
+        "o100100180151"
+      ],
+      [
+        "o130190160152"
+      ],
+      [
+        "o130190180161"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100100180192"
+      ]
+    ]
+  }
+}

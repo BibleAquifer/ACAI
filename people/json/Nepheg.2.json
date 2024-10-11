@@ -1,0 +1,97 @@
+{
+  "id": "person:Nepheg.2",
+  "primary_id": "person:Nepheg.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7355|Nepheg|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004857001002000"
+    ],
+    "tipnr": [
+      "Nepheg@2Sa.5.15-1Ch"
+    ],
+    "vizbible": [
+      "rechVdaexhTWffGwx"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:JerusalemWives",
+  "siblings": [
+    "person:Amnon",
+    "person:Chileab",
+    "person:Absalom",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shammua.2",
+    "person:Shobab",
+    "person:Nathan",
+    "person:Solomon",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliada",
+    "person:Eliphelet",
+    "person:Tamar.2",
+    "person:Elpelet",
+    "person:Nogah",
+    "person:Jerimoth.6"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "004857001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nepheg (2 Samuel 5:15)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nepheg (2 Samuel 5:15)",
+          "article": "person:Nepheg.2",
+          "description": "Nepheg was a son of David from the tribe of Judah, living during the time of Israel's united kingdom, mentioned in 2 Samuel 5:15."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נֶפֶג",
+      "נֶ֫פֶג"
+    ]
+  },
+  "key_references": [
+    "10005015",
+    "13003007",
+    "13014006"
+  ],
+  "references": [
+    "10005015",
+    "13003007",
+    "13014006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100050150032"
+      ],
+      [
+        "o130030070022"
+      ],
+      [
+        "o130140060022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "person:Ephron",
+  "primary_id": "person:Ephraim",
+  "alternate_sources": {
+    "aquifer": [
+      "5123|Ephron (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005587001001000"
+    ],
+    "tipnr": [
+      "Ephron|Ephraim@Gen.41.52-1Ki"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joseph.10",
+  "mother": "person:Asenath",
+  "offspring": [
+    "person:Shuthelah",
+    "person:Becher.2",
+    "person:Tahan",
+    "person:Ezer.3",
+    "person:Elead",
+    "person:Beriah.2"
+  ],
+  "siblings": [
+    "person:Manasseh"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Ephraim",
+  "ubsdbh": [
+    "005587001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephron (Ephraim)",
+      "alternate_labels": [
+        "Ephrain",
+        "Ephraim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ephraim",
+          "article": "person:Ephron",
+          "description": "Ephron, also known as Ephraim, was the son of Joseph and Asenath, brother of Manasseh, and founder of the tribe of Ephraim, first mentioned in Genesis 41:52."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ephraim"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "14013019"
+  ],
+  "references": [
+    "14013019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140130190191"
+      ]
+    ]
+  }
+}

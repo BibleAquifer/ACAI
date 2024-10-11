@@ -1,0 +1,78 @@
+{
+  "id": "person:Hupham",
+  "primary_id": "person:Huppim",
+  "alternate_sources": {
+    "aquifer": [
+      "5946|Hupham, Huphamite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002168001001000"
+    ],
+    "tipnr": [
+      "Hupham|Huppim@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "recO7nRQUb3uEFk6i"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Rosh",
+    "person:Muppim",
+    "person:Ard",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "002168001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hupham (Huppim)",
+      "alternate_labels": [
+        "Shupham",
+        "Huppim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Huppim",
+          "article": "person:Hupham",
+          "description": "Hupham, also known as Huppim or Shupham, was a son of Benjamin and lived during the time of Egypt and the wilderness."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Huppim"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חוּפָם"
+    ]
+  },
+  "key_references": [
+    "04026039"
+  ],
+  "references": [
+    "04026039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260390042"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "person:Athaliah.2",
+  "primary_id": "person:Athaliah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3860|Athaliah|TyndaleBibleDictionary",
+      "26347|Athaliah|UWTranslationWords",
+      "132436|Athaliah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "005753001002000"
+    ],
+    "tipnr": [
+      "Athaliah@1Ch.8.26"
+    ],
+    "vizbible": [
+      "rec1KVM1VQ8v6JCS9"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jeroham.2",
+  "siblings": [
+    "person:Shamsherai",
+    "person:Shehariah",
+    "person:Jaareshiah",
+    "person:Elijah.2",
+    "person:Zichri.4"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005753001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Athaliah (1 Chronicles 8:26)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Athaliah (1 Chronicles 8:26)",
+          "article": "person:Athaliah.2",
+          "description": "A man from the tribe of Benjamin living during the divided kingdom, mentioned in 1 Chronicles 8:26 as the son of Jeroham and brother of Shamsherai, Shehariah, Jaareshiah, Elijah, and Zichri."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008026"
+  ],
+  "references": [
+    "13008026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080260032"
+      ]
+    ]
+  }
+}

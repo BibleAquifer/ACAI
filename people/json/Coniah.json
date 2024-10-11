@@ -1,0 +1,124 @@
+{
+  "id": "person:Coniah",
+  "primary_id": "person:Jehoiachin",
+  "alternate_sources": {
+    "aquifer": [
+      "4633|Coniah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002827001001000"
+    ],
+    "tipnr": [
+      "Coniah|Jehoiachin@2Ki.24.6-Mat"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoiakim",
+  "mother": "person:Nehushta",
+  "offspring": [
+    "person:Zedekiah.4",
+    "person:Shealtiel.2"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002827001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Coniah (Jehoiachin)",
+      "alternate_labels": [
+        "Jehoiachin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoiachin",
+          "article": "person:Coniah",
+          "description": "Coniah, also known as Jehoiachin, was a king of Judah taken captive to Babylon by Nebuchadnezzar."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehoiachin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹויָכִין",
+      "יְהוֹיָכִין",
+      "יְכוֹנְיָה",
+      "כׇּנְיָהוּ",
+      "יוֹיָכִין"
+    ]
+  },
+  "key_references": [
+    "24022024",
+    "24022028",
+    "24037001"
+  ],
+  "references": [
+    "24022024",
+    "24022028",
+    "24037001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240220240081"
+      ],
+      [
+        "o240220280061"
+      ],
+      [
+        "o240370010071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o240220250071"
+      ],
+      [
+        "o240220270041"
+      ],
+      [
+        "o240220280052"
+      ],
+      [
+        "o240220280141"
+      ],
+      [
+        "o240220300072"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240220260121"
+      ],
+      [
+        "o240220260151"
+      ],
+      [
+        "o240220270082"
+      ],
+      [
+        "o240220270121"
+      ],
+      [
+        "o240220280162"
+      ],
+      [
+        "o240220280211"
+      ]
+    ]
+  }
+}

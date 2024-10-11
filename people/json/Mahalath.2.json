@@ -1,0 +1,74 @@
+{
+  "id": "person:Mahalath.2",
+  "primary_id": "person:Mahalath.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6865|Mahalath (Music)|TyndaleBibleDictionary",
+      "6866|Mahalath (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003887002002000"
+    ],
+    "tipnr": [
+      "Mahalath@2Ch.11.18"
+    ],
+    "vizbible": [
+      "reclB503V5brNEbjx"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Jerimoth.6",
+  "mother": "person:Abihail.4",
+  "partners": [
+    "person:Rehoboam"
+  ],
+  "offspring": [
+    "person:Jeush.5",
+    "person:Shemariah.2",
+    "person:Zaham"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "003887002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mahalath (2 Chronicles 11:18)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mahalath (2 Chronicles 11:18)",
+          "article": "person:Mahalath.2",
+          "description": "A woman from the tribe of Judah, daughter of Jerimoth and Abihail, wife of Rehoboam, and mother of Jeush, Shemariah, and Zaham, mentioned in 2 Chronicles 11:18."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מָחֲלַת",
+      "מַחֲלַת"
+    ]
+  },
+  "key_references": [
+    "14011018"
+  ],
+  "references": [
+    "14011018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140110180061"
+      ]
+    ]
+  }
+}

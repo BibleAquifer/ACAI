@@ -1,0 +1,71 @@
+{
+  "id": "person:Ard",
+  "primary_id": "person:Ard",
+  "alternate_sources": {
+    "aquifer": [
+      "3724|Ard, Ardite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000655001001000"
+    ],
+    "tipnr": [
+      "Ard@Gen.46.21"
+    ],
+    "vizbible": [
+      "recLaRXxoVqBhnr9R"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Rosh",
+    "person:Muppim",
+    "person:Huppim",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000655001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ard",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ard",
+          "article": "person:Ard",
+          "description": "A man of the tribe of Benjamin living during the time of Egypt and the wilderness, mentioned in Genesis 46:21."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַרְדְּ"
+    ]
+  },
+  "key_references": [
+    "01046021"
+  ],
+  "references": [
+    "01046021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460210122"
+      ]
+    ]
+  }
+}

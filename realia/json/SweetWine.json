@@ -1,0 +1,50 @@
+{
+  "id": "realia:SweetWine",
+  "primary_id": "realia:SweetWine",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.199"
+    ],
+    "ubsrealia": [
+      "realia:9.1.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.199"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sweet Wine",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sweet Wine",
+          "article": "realia:SweetWine",
+          "description": "A new, sweet wine that is still fermenting."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "γλεῦκος"
+    ]
+  },
+  "key_references": [
+    "44002013"
+  ],
+  "references": [
+    "44002013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44002013006"
+      ]
+    ]
+  }
+}

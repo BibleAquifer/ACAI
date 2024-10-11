@@ -1,0 +1,64 @@
+{
+  "id": "person:Matthat.2",
+  "primary_id": "person:Matthat.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6987|Matthat|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.245b"
+    ],
+    "tipnr": [
+      "Matthat@Luk.3.29"
+    ],
+    "vizbible": [
+      "recYmEy77l4REuqtF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Levi.2",
+  "offspring": [
+    "person:Jorim"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.245b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Matthat (Son of Levi)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Matthat (Son of Levi)",
+          "article": "person:Matthat.2",
+          "description": "Son of Levi and the father of Jorim in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Μαθθάτ"
+    ]
+  },
+  "key_references": [
+    "42003029"
+  ],
+  "references": [
+    "42003029"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003029008"
+      ]
+    ]
+  }
+}

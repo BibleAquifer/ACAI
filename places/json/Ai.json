@@ -1,0 +1,265 @@
+{
+  "id": "place:Ai",
+  "primary_id": "place:Ai",
+  "alternate_sources": {
+    "aquifer": [
+      "3479|Ai|TyndaleBibleDictionary",
+      "26301|Ai|UWTranslationWords",
+      "132371|Ai|BiblicaStudyNotesKeyTerms"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/665310877"
+    ],
+    "tipnr": [
+      "Aija|Ai@Gen.12.8-Isa",
+      "Aiath|Ai@Gen.12.8-Isa",
+      "Ai@Gen.12.8-Isa"
+    ],
+    "vizbible": [
+      "recedRWoiFNdeGFm4"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ai (of Ephraim)",
+      "alternate_labels": [
+        "Ketiv. Qere",
+        "Aija",
+        "Hai",
+        "Aiath",
+        "city",
+        "Ai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ai.1",
+          "gloss": "Ai (of Ephraim)",
+          "description": "A town near Bethel in the territory of Ephraim; probably to be identified with Aiath. After an initial defeat, the Canaanite town was eventually conquered by the Israelites (Joshua 7–8)."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Aiath"
+  ],
+  "referred_to_as": [
+    "place:Aija",
+    "place:Aiath"
+  ],
+  "tribal_area": "group:Ephraim",
+  "nearby_places": [
+    "place:Bethel"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.91697812",
+      "lon": "35.26122639"
+    },
+    "recogito": {
+      "lat": "31.9166759",
+      "lon": "35.2615767"
+    },
+    "vizbible": {
+      "lat": "31.9166759",
+      "lon": "35.2615767"
+    }
+  },
+  "key_references": [
+    "16011031",
+    "06007001",
+    "23010028",
+    "01012008",
+    "13007028"
+  ],
+  "references": [
+    "01012008",
+    "01013003",
+    "06007002",
+    "06007003",
+    "06007004",
+    "06007005",
+    "06008001",
+    "06008002",
+    "06008003",
+    "06008005",
+    "06008009",
+    "06008010",
+    "06008011",
+    "06008012",
+    "06008014",
+    "06008016",
+    "06008017",
+    "06008018",
+    "06008020",
+    "06008021",
+    "06008022",
+    "06008023",
+    "06008024",
+    "06008025",
+    "06008026",
+    "06008028",
+    "06008029",
+    "06009001",
+    "06009003",
+    "06010001",
+    "06010002",
+    "06012009",
+    "15002028",
+    "16007032",
+    "16011031",
+    "23010028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010120080123"
+      ],
+      [
+        "o010130030192"
+      ],
+      [
+        "o060070020052"
+      ],
+      [
+        "o060070020242"
+      ],
+      [
+        "o060070030192"
+      ],
+      [
+        "o060070040112"
+      ],
+      [
+        "o060070050042"
+      ],
+      [
+        "o060080010172"
+      ],
+      [
+        "o060080010232"
+      ],
+      [
+        "o060080020022"
+      ],
+      [
+        "o060080030072"
+      ],
+      [
+        "o060080090112"
+      ],
+      [
+        "o060080090132"
+      ],
+      [
+        "o060080100132"
+      ],
+      [
+        "o060080110132"
+      ],
+      [
+        "o060080110182"
+      ],
+      [
+        "o060080120122"
+      ],
+      [
+        "o060080140042"
+      ],
+      [
+        "o060080160062"
+      ],
+      [
+        "o060080170042"
+      ],
+      [
+        "o060080180102"
+      ],
+      [
+        "o060080200032"
+      ],
+      [
+        "o060080210182"
+      ],
+      [
+        "o060080230032"
+      ],
+      [
+        "o060080240082"
+      ],
+      [
+        "o060080240232"
+      ],
+      [
+        "o060080250142"
+      ],
+      [
+        "o060080260142"
+      ],
+      [
+        "o060080280042"
+      ],
+      [
+        "o060080290032"
+      ],
+      [
+        "o060090030093"
+      ],
+      [
+        "o060100010112"
+      ],
+      [
+        "o060100010192"
+      ],
+      [
+        "o060100020142"
+      ],
+      [
+        "o060120090052"
+      ],
+      [
+        "o150020280043"
+      ],
+      [
+        "o160070320043"
+      ],
+      [
+        "o160110310052"
+      ],
+      [
+        "o230100280031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060070030281"
+      ],
+      [
+        "o060080270052"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "group:Teman",
+  "primary_id": "group:Teman",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007787001001000"
+    ],
+    "tipnr": [
+      "Teman@Gen.36.34-Hab"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Teman",
+  "ubsdbh": [
+    "007787001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Temanites",
+      "alternate_labels": [
+        "Teman",
+        "Temanite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Temanites",
+          "article": "group:Teman",
+          "description": "People who live in Teman, the region of Eliphaz, one of Job's counselors."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תִּימָרָה",
+      "תֵּימְנִי"
+    ]
+  },
+  "key_references": [
+    "18002011"
+  ],
+  "references": [
+    "01036034",
+    "13001045",
+    "18002011",
+    "18004001",
+    "18011001",
+    "18015001",
+    "18020001",
+    "18022001",
+    "18042007",
+    "18042009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360340072"
+      ],
+      [
+        "o130010450072"
+      ],
+      [
+        "o180020110152"
+      ],
+      [
+        "o180040010032"
+      ],
+      [
+        "o180150010032"
+      ],
+      [
+        "o180220010032"
+      ],
+      [
+        "o180420070142"
+      ],
+      [
+        "o180420090032"
+      ]
+    ]
+  }
+}

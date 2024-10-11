@@ -1,0 +1,108 @@
+{
+  "id": "place:Gozan",
+  "primary_id": "place:Gozan",
+  "alternate_sources": {
+    "aquifer": [
+      "5522|Gozan|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a924b16"
+    ],
+    "ubsdbh": [
+      "001345001001000"
+    ],
+    "tipnr": [
+      "Gozan@2Ki.17.6-Isa"
+    ],
+    "vizbible": [
+      "recuNldBULsq0RoMw"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001345001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gozan",
+      "alternate_labels": [
+        "Gozan River",
+        "River of Gozan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gozan",
+          "gloss": "Gozan",
+          "description": "A town along the Habor River in Assyria; one of the places where the exiles from Samaria were relocated."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Assyria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גֹּוזָן",
+      "גּוֹזָן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.840013",
+      "lon": "40.06889"
+    },
+    "vizbible": {
+      "lat": "36.840013",
+      "lon": "40.06889"
+    }
+  },
+  "key_references": [
+    "12017006",
+    "12018011"
+  ],
+  "references": [
+    "12017006",
+    "12018011",
+    "12019012",
+    "13005026",
+    "23037012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120170060181"
+      ],
+      [
+        "o120180110111"
+      ],
+      [
+        "o120190120091"
+      ],
+      [
+        "o130050260261"
+      ],
+      [
+        "o230370120091"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "person:Hadoram",
+  "primary_id": "person:Adoram",
+  "alternate_sources": {
+    "aquifer": [
+      "5578|Hadoram|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001763001003000"
+    ],
+    "tipnr": [
+      "Hadoram|Adoram@2Sa.20.24-2Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abda",
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "001763001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadoram (Adoram)",
+      "alternate_labels": [
+        "Adoram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Adoram",
+          "article": "person:Hadoram",
+          "description": "Hadoram, also known as Adoram or Adoniram, was an official and the son of Abda who served during the time of David, Solomon, and Rehoboam, and was stoned to death during a rebellion against Rehoboam, as mentioned in 2 Samuel 20:24, 1 Kings 4:6, and 2 Chronicles 10:18."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Adoram"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֲדֹורָם",
+      "הֲדֹרָם"
+    ]
+  },
+  "key_references": [
+    "14010018"
+  ],
+  "references": [
+    "14010018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140100180051"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140100180142"
+      ]
+    ]
+  }
+}

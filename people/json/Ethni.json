@@ -1,0 +1,64 @@
+{
+  "id": "person:Ethni",
+  "primary_id": "person:Jeatherai",
+  "alternate_sources": {
+    "aquifer": [
+      "5177|Ethni|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000806001001000"
+    ],
+    "tipnr": [
+      "Ethni|Jeatherai@1Ch.6.21-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zerah.4",
+  "offspring": [
+    "person:Malchijah"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000806001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ethni (Jeatherai)",
+      "alternate_labels": [
+        "Jeatherai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeatherai",
+          "article": "person:Ethni",
+          "description": "Ethni, also called Jeatherai, was a man from the tribe of Levi, the son of Zerah, and an ancestor of Asaph during the divided kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jeatherai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶתְנִי"
+    ]
+  },
+  "key_references": [
+    "13006026"
+  ],
+  "references": [
+    "13006026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060260021"
+      ]
+    ]
+  }
+}

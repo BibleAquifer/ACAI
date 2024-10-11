@@ -1,0 +1,82 @@
+{
+  "id": "place:Zior",
+  "primary_id": "place:Zior",
+  "alternate_sources": {
+    "aquifer": [
+      "9235|Zior|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac2907d"
+    ],
+    "ubsdbh": [
+      "006193001001000"
+    ],
+    "tipnr": [
+      "Zior@Jos.15.54"
+    ],
+    "vizbible": [
+      "recyDoLzqX96n1ibY"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006193001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zior",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zior",
+          "gloss": "Zior",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.589719",
+      "lon": "35.148296"
+    },
+    "vizbible": {
+      "lat": "31.589719",
+      "lon": "35.148296"
+    }
+  },
+  "key_references": [
+    "06015054"
+  ],
+  "references": [
+    "06015054"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150540062"
+      ]
+    ]
+  }
+}

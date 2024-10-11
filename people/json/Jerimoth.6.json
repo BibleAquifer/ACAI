@@ -1,0 +1,93 @@
+{
+  "id": "person:Jerimoth.6",
+  "primary_id": "person:Jerimoth.6",
+  "alternate_sources": {
+    "aquifer": [
+      "6324|Jerimoth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003114001006000"
+    ],
+    "tipnr": [
+      "Jerimoth@2Ch.11.18"
+    ],
+    "vizbible": [
+      "recjmUPCSbEXarzei"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:JerusalemWives",
+  "partners": [
+    "person:Abihail.4"
+  ],
+  "offspring": [
+    "person:Mahalath.2"
+  ],
+  "siblings": [
+    "person:Amnon",
+    "person:Chileab",
+    "person:Absalom",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shammua.2",
+    "person:Shobab",
+    "person:Nathan",
+    "person:Solomon",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Nepheg.2",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliada",
+    "person:Eliphelet",
+    "person:Tamar.2",
+    "person:Elpelet",
+    "person:Nogah"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "003114001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jerimoth (2 Chronicles 11:18)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jerimoth (2 Chronicles 11:18)",
+          "article": "person:Jerimoth.6",
+          "description": "A son of King David from the tribe of Judah, father of Mahalath, mentioned in 2 Chronicles 11:18."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְרִימֹות",
+      "יְרֵימוֹת"
+    ]
+  },
+  "key_references": [
+    "14011018"
+  ],
+  "references": [
+    "14011018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140110180091"
+      ]
+    ]
+  }
+}

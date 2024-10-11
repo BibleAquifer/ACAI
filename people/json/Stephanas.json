@@ -1,0 +1,76 @@
+{
+  "id": "person:Stephanas",
+  "primary_id": "person:Stephanas",
+  "alternate_sources": {
+    "aquifer": [
+      "8623|Stephanas|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Stephanas@1Co.1.16-"
+    ],
+    "vizbible": [
+      "recJieElVy0AWt3OM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Leader"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stephanas",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Stephanas",
+          "article": "person:Stephanas",
+          "description": "Stephanas was a New Testament figure mentioned in 1 Corinthians 1:16 as one of the first converts in Achaia."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "46001016",
+    "46016015",
+    "46016017"
+  ],
+  "references": [
+    "46001016",
+    "46016015",
+    "46016017",
+    "46016024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46001016005"
+      ],
+      [
+        "n46016015008"
+      ],
+      [
+        "n46016017006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n46016017015"
+      ],
+      [
+        "n46016018012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n46016018001"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "person:Imnah",
+  "primary_id": "person:Imnah",
+  "alternate_sources": {
+    "aquifer": [
+      "6007|Imnah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Imnah@Gen.46.17-1Ch"
+    ],
+    "vizbible": [
+      "recxz756kqnPMbq2b"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Asher",
+  "siblings": [
+    "person:Ishvah",
+    "person:Ishvi.2",
+    "person:Beriah",
+    "person:Serah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Asher",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Imnah",
+      "alternate_labels": [
+        "Jimnah",
+        "Imnite",
+        "Jimna"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Imnah",
+          "article": "person:Imnah",
+          "description": "A son of the patriarch Asher, who lived during the time of Egyptian slavery and the wilderness wandering of the Israelites. He was founder of the clan of the Imnites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046017",
+    "04026044",
+    "13007030"
+  ],
+  "references": [
+    "01046017",
+    "04026044",
+    "13007030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460170031"
+      ],
+      [
+        "o040260440042"
+      ],
+      [
+        "o040260440062"
+      ],
+      [
+        "o130070300031"
+      ]
+    ]
+  }
+}

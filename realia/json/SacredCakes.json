@@ -1,0 +1,55 @@
+{
+  "id": "realia:SacredCakes",
+  "primary_id": "realia:SacredCakes",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003265001001000"
+    ],
+    "ubsrealia": [
+      "realia:4.6.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003265001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sacred Cakes",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sacred Cakes",
+          "article": "realia:SacredCakes",
+          "description": "Baked items made from bread dough that were offered to false gods."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כַּוָּן"
+    ]
+  },
+  "key_references": [
+    "24007018",
+    "24044019"
+  ],
+  "references": [
+    "24007018",
+    "24044019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240070180121"
+      ],
+      [
+        "o240440190131"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "place:Nicaea",
+  "primary_id": "place:Nicaea",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nicaea",
+          "gloss": "Nicaea",
+          "description": "A Greek city in northwestern Anatolia, where the First and Second Councils of Nicaea were held."
+        }
+      ],
+      "preferred_label": "Nicaea",
+      "alternate_labels": [
+        "Nicea",
+        "Nicæa",
+        "Nikala",
+        "Helikore"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "40.42909",
+      "lon": "29.71468"
+    }
+  }
+}

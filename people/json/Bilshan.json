@@ -1,0 +1,61 @@
+{
+  "id": "person:Bilshan",
+  "primary_id": "person:Bilshan",
+  "alternate_sources": {
+    "aquifer": [
+      "4245|Bilshan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001034001001000"
+    ],
+    "tipnr": [
+      "Bilshan@Ezr.2.2-Neh"
+    ],
+    "vizbible": [
+      "recIEStdFe3IQjHq0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "001034001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bilshan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bilshan",
+          "article": "person:Bilshan",
+          "description": "A man who returned from exile with Zerubbabel, mentioned in Ezra 2:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בִּלְשָׁן"
+    ]
+  },
+  "key_references": [
+    "15002002",
+    "16007007"
+  ],
+  "references": [
+    "15002002",
+    "16007007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020020101"
+      ],
+      [
+        "o160070070101"
+      ]
+    ]
+  }
+}

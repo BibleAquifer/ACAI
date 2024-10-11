@@ -1,0 +1,92 @@
+{
+  "id": "realia:Knife",
+  "primary_id": "realia:Knife",
+  "alternate_sources": {
+    "aquifer": [
+      "6634|Knife|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003642001001000",
+      "006316001002000",
+      "007036001001000"
+    ],
+    "ubsrealia": [
+      "realia:5.20.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003642001001000",
+    "006316001002000",
+    "007036001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Knife",
+      "alternate_labels": [
+        "Flint"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Knife",
+          "article": "realia:Knife",
+          "description": "A small blade with a handle, used for cutting."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַאֲכֶלֶת",
+      "צֹר",
+      "שַׂכִּין"
+    ]
+  },
+  "key_references": [
+    "01022006",
+    "02004025",
+    "06005002"
+  ],
+  "references": [
+    "01022006",
+    "01022010",
+    "02004025",
+    "06005002",
+    "06005003",
+    "07019029",
+    "20023002",
+    "20030014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010220060152"
+      ],
+      [
+        "o010220100072"
+      ],
+      [
+        "o070190290062"
+      ],
+      [
+        "o200300140042"
+      ],
+      [
+        "o020040250031"
+      ],
+      [
+        "o060050020101"
+      ],
+      [
+        "o060050030051"
+      ],
+      [
+        "o200230020021"
+      ]
+    ]
+  }
+}

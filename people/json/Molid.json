@@ -1,0 +1,63 @@
+{
+  "id": "person:Molid",
+  "primary_id": "person:Molid",
+  "alternate_sources": {
+    "aquifer": [
+      "7190|Molid|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003779001001000"
+    ],
+    "tipnr": [
+      "Molid@1Ch.2.29"
+    ],
+    "vizbible": [
+      "recIygOsFAYNSpJUj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abishur",
+  "mother": "person:Abihail.2",
+  "siblings": [
+    "person:Ahban"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "003779001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Molid",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Molid",
+          "article": "person:Molid",
+          "description": "Molid, mentioned in 1 Chronicles 2:29, was a man from the tribe of Judah and a descendant of Jerahmeel during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מֹולִיד",
+      "מוֹלִיד"
+    ]
+  },
+  "key_references": [
+    "13002029"
+  ],
+  "references": [
+    "13002029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020290101"
+      ]
+    ]
+  }
+}

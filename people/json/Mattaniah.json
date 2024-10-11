@@ -1,0 +1,90 @@
+{
+  "id": "person:Mattaniah",
+  "primary_id": "person:Mattaniah",
+  "alternate_sources": {
+    "aquifer": [
+      "6979|Mattaniah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004566001002000"
+    ],
+    "tipnr": [
+      "Mattaniah@1Ch.9.15-Neh"
+    ],
+    "vizbible": [
+      "recJO8gQkHrqrVRMM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mica",
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "004566001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mattaniah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mattaniah",
+          "article": "person:Mattaniah",
+          "description": "A son of Mica and Levite living during the time of Israelite exile and return."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַתַּנְיָה",
+      "מַתְּנַי"
+    ]
+  },
+  "key_references": [
+    "13009015",
+    "16011017",
+    "16012008"
+  ],
+  "references": [
+    "13009015",
+    "16011017",
+    "16012008",
+    "16012025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090150042"
+      ],
+      [
+        "o160110170012"
+      ],
+      [
+        "o160120080071"
+      ],
+      [
+        "o160120250011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o160120080101"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o160110170101"
+      ]
+    ]
+  }
+}

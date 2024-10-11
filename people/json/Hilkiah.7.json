@@ -1,0 +1,65 @@
+{
+  "id": "person:Hilkiah.7",
+  "primary_id": "person:Hilkiah.7",
+  "alternate_sources": {
+    "aquifer": [
+      "5852|Hilkiah|TyndaleBibleDictionary",
+      "26695|Hilkiah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002320001007000"
+    ],
+    "tipnr": [
+      "Hilkiah@Jer.1.1"
+    ],
+    "vizbible": [
+      "reclPQ1lkZGlIU5f2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:FatherOfHilkiah",
+  "offspring": [
+    "person:Jeremiah.6"
+  ],
+  "siblings": [
+    "person:Shallum.13"
+  ],
+  "ubsdbh": [
+    "002320001007000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hilkiah (Jeremiah 1:1)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hilkiah (Jeremiah 1:1)",
+          "article": "person:Hilkiah.7",
+          "description": "Hilkiah, mentioned in Jeremiah 1:1, was the father of the prophet Jeremiah and lived during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חִלְקִיָּה",
+      "חִלְקִיָּהוּ"
+    ]
+  },
+  "key_references": [
+    "24001001"
+  ],
+  "references": [
+    "24001001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240010010041"
+      ]
+    ]
+  }
+}

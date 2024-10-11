@@ -1,0 +1,60 @@
+{
+  "id": "person:Hemdan",
+  "primary_id": "person:Hemdan",
+  "alternate_sources": {
+    "aquifer": [
+      "5796|Hemdan|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hemdan@Gen.36.26-1Ch"
+    ],
+    "vizbible": [
+      "recyufwa3J3cy4GYB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Dishon",
+  "siblings": [
+    "person:Eshban",
+    "person:Ithran",
+    "person:Cheran"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hemdan",
+      "alternate_labels": [
+        "Amram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hemdan",
+          "article": "person:Hemdan",
+          "description": "Hemdan, also known as Amram, lived during the time of the patriarchs and is mentioned as the son of Dishon and brother of Eshban, Ithran, and Cheran in Genesis 36:26."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036026",
+    "13001041"
+  ],
+  "references": [
+    "01036026",
+    "13001041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360260041"
+      ],
+      [
+        "o130010410061"
+      ]
+    ]
+  }
+}

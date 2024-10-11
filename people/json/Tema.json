@@ -1,0 +1,78 @@
+{
+  "id": "person:Tema",
+  "primary_id": "person:Tema",
+  "alternate_sources": {
+    "aquifer": [
+      "8778|Tema (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007784001001000"
+    ],
+    "tipnr": [
+      "Tema@Gen.25.15-1Ch"
+    ],
+    "vizbible": [
+      "recHljmiNa6MyPKAU"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Kedemah",
+    "person:Mahalath"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "007784001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tema",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tema",
+          "article": "person:Tema",
+          "description": "Tema was an Arab man living at the time of the patriarchs, a son of Ishmael, mentioned in Genesis 25:15."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תֵּימָן",
+      "תִּילוֹן"
+    ]
+  },
+  "key_references": [
+    "01025015",
+    "13001030"
+  ],
+  "references": [
+    "01025015",
+    "13001030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250150022"
+      ],
+      [
+        "o130010300052"
+      ]
+    ]
+  }
+}

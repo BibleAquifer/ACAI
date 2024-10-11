@@ -1,0 +1,66 @@
+{
+  "id": "realia:StonePlane",
+  "primary_id": "realia:StonePlane",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003706001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.8.4.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003706001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stone Plane",
+      "alternate_labels": [
+        "Stone File"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Stone Plane",
+          "article": "realia:StonePlane",
+          "description": "A heavy metal tool with a rough surface used to smooth stones by pushing and pulling it across their surface."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְגֵרָה"
+    ]
+  },
+  "key_references": [
+    "10012031",
+    "11007009",
+    "13020003"
+  ],
+  "references": [
+    "10012031",
+    "11007009",
+    "13020003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100120310072"
+      ],
+      [
+        "o110070090082"
+      ],
+      [
+        "o130200030072"
+      ],
+      [
+        "o130200030103"
+      ]
+    ]
+  }
+}

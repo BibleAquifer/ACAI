@@ -1,0 +1,74 @@
+{
+  "id": "person:Amos",
+  "primary_id": "person:Amon.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3574|Amos (Person)|TyndaleBibleDictionary",
+      "26313|Amos|UWTranslationWords",
+      "132508|Amos|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.23a"
+    ],
+    "tipnr": [
+      "Amos|Amon@2Ki.21.18-Mat"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Manasseh.2",
+  "mother": "person:Meshullemeth",
+  "partners": [
+    "person:Jedidah"
+  ],
+  "offspring": [
+    "person:Josiah"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.23a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amos (Amon)",
+      "alternate_labels": [
+        "Amon (Son of Manasseh)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Amon (Son of Manasseh)",
+          "article": "person:Amos",
+          "description": "A king of Judah during the divided kingdom, son of Manasseh and Meshullemeth, husband of Jedidah, and father of Josiah, also called Amos, mentioned in 2 Kings 21:18 and Matthew 1:10."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Amon.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀμώς"
+    ]
+  },
+  "key_references": [
+    "40001010"
+  ],
+  "references": [
+    "40001010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40001010010",
+        "n40001010011"
+      ]
+    ]
+  }
+}

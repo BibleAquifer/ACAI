@@ -1,0 +1,74 @@
+{
+  "id": "person:Naaman",
+  "primary_id": "person:Naaman",
+  "alternate_sources": {
+    "aquifer": [
+      "7260|Naaman|TyndaleBibleDictionary",
+      "26897|Naaman|UWTranslationWords",
+      "132434|Naaman|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Nohah|Naaman@Gen.46.21-1Ch",
+      "Naaman@Gen.46.21-1Ch"
+    ],
+    "vizbible": [
+      "recGa8D853cdYR4ym"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Ehi",
+    "person:Rosh",
+    "person:Muppim",
+    "person:Huppim",
+    "person:Ard",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Naaman",
+      "alternate_labels": [
+        "Nohah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Naaman",
+          "article": "person:Naaman",
+          "description": "Naaman, also known as Nohah, was the son of Benjamin and lived during the time of Egypt and the wilderness, mentioned in Genesis 46:21 and 1 Chronicles 8:2."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Nohah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046021",
+    "13008002"
+  ],
+  "references": [
+    "01046021",
+    "13008002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460210072"
+      ],
+      [
+        "o130080020011"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "person:Imri",
+  "primary_id": "person:Imri",
+  "alternate_sources": {
+    "aquifer": [
+      "6014|Imri|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000519001001000"
+    ],
+    "tipnr": [
+      "Imri@1Ch.9.4"
+    ],
+    "vizbible": [
+      "recDVs1wvEgLymzW1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Bani.4",
+  "offspring": [
+    "person:Omri.3"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000519001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Imri",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Imri",
+          "article": "person:Imri",
+          "description": "A man of the tribe of Judah during the time of exile and return, son of Bani and father of Omri, mentioned in 1 Chronicles 9:4."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אִמְרִי"
+    ]
+  },
+  "key_references": [
+    "13009004"
+  ],
+  "references": [
+    "13009004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090040071"
+      ]
+    ]
+  }
+}

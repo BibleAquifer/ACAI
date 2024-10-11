@@ -1,0 +1,72 @@
+{
+  "id": "realia:Cubit.2",
+  "primary_id": "realia:Cubit.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4703|Cubit|TyndaleBibleDictionary",
+      "280213|cubit|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "81.25"
+    ],
+    "ubsrealia": [
+      "realia:11.4.2.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "81.25"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cubit",
+      "alternate_labels": [
+        "Eighteen Inches",
+        "Half Meter"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cubit",
+          "article": "realia:Cubit.2",
+          "description": "A unit of length based on the distance from the elbow to the fingers, about eighteen inches or half a meter."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "πῆχυς"
+    ]
+  },
+  "key_references": [
+    "40006027",
+    "42012025",
+    "66021017"
+  ],
+  "references": [
+    "40006027",
+    "42012025",
+    "43021008",
+    "66021017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40006027012"
+      ],
+      [
+        "n42012025012"
+      ],
+      [
+        "n43021008018"
+      ],
+      [
+        "n66021017009"
+      ]
+    ]
+  }
+}

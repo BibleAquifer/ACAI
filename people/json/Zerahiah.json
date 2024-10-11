@@ -1,0 +1,80 @@
+{
+  "id": "person:Zerahiah",
+  "primary_id": "person:Zerahiah",
+  "alternate_sources": {
+    "aquifer": [
+      "9188|Zerahiah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Zerahiah@1Ch.6.6-Neh",
+      "Ahitub|Zerahiah@1Ch.6.6-Neh"
+    ],
+    "vizbible": [
+      "recr8tf0HL5jsRpXH"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uzzi",
+  "offspring": [
+    "person:Meraioth"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zerahiah",
+      "alternate_labels": [
+        "Ahitub"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zerahiah",
+          "article": "person:Zerahiah",
+          "description": "A son of Uzzi and father of Meraioth, and priest who lived during the time of the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ahitub.4"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15007004",
+    "13006006"
+  ],
+  "references": [
+    "13005032",
+    "13006036",
+    "13009011",
+    "15007004",
+    "16011011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050320041"
+      ],
+      [
+        "o130050320052"
+      ],
+      [
+        "o130060360051"
+      ],
+      [
+        "o130090110111"
+      ],
+      [
+        "o150070040021"
+      ],
+      [
+        "o160110110111"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "place:Kedemoth",
+  "primary_id": "place:Kedemoth",
+  "alternate_sources": {
+    "aquifer": [
+      "6530|Kedemoth|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a416b43"
+    ],
+    "ubsdbh": [
+      "006382001001000"
+    ],
+    "tipnr": [
+      "Kedemoth@Deu.2.26-1Ch"
+    ],
+    "vizbible": [
+      "recek1GiER70Le7qh"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6382564"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006382001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kedemoth",
+      "alternate_labels": [
+        "Wilderness of Kedemoth",
+        "Desert of Kedemoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kedemoth",
+          "gloss": "Kedemoth",
+          "description": "A Levitical town in the territory of Reuben, east of the Dead Sea and north of the Arnon; former territory of the Amorites; assigned to the clan of Merari."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Reuben",
+  "subregion_of": [
+    "place:TerritoryOfReuben"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.646073",
+      "lon": "35.894537"
+    },
+    "vizbible": {
+      "lat": "31.646073",
+      "lon": "35.894537"
+    }
+  },
+  "key_references": [
+    "13006064",
+    "06021037"
+  ],
+  "references": [
+    "05002026",
+    "06013018",
+    "06021037",
+    "13006064"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050020260041"
+      ],
+      [
+        "o060130180022"
+      ],
+      [
+        "o060210370021"
+      ],
+      [
+        "o130060640021"
+      ]
+    ]
+  }
+}

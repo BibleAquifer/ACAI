@@ -1,0 +1,64 @@
+{
+  "id": "deity:Bel",
+  "primary_id": "deity:Bel",
+  "alternate_sources": {
+    "aquifer": [
+      "4095|Bel|TyndaleBibleDictionary",
+      "4084|Bel and the Dragon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001001001001000"
+    ],
+    "tipnr": [
+      "Bel@Isa.46.1-Jer"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "001001001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bel",
+          "article": "deity:Bel",
+          "description": "The primary god of the people of Babel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֵּל"
+    ]
+  },
+  "key_references": [
+    "23046001",
+    "24050002",
+    "24051044"
+  ],
+  "references": [
+    "23046001",
+    "24050002",
+    "24051044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230460010021"
+      ],
+      [
+        "o240500020131"
+      ],
+      [
+        "o240510440031"
+      ]
+    ]
+  }
+}

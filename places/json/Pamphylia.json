@@ -1,0 +1,118 @@
+{
+  "id": "place:Pamphylia",
+  "primary_id": "place:Pamphylia",
+  "alternate_sources": {
+    "aquifer": [
+      "7567|Pamphylia|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aa95188"
+    ],
+    "ubsdgnt": [
+      "93.545"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/1001913",
+      "http://pleiades.stoa.org/places/639034"
+    ],
+    "tipnr": [
+      "Pamphylia@Act.2.10-"
+    ],
+    "vizbible": [
+      "reczIMmvXFugsrx16"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q585250"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.545"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pamphylia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pamphylia",
+          "gloss": "Pamphylia",
+          "description": "A province in the southern part of Asia Minor; Paul and his companions traveled here during his first missionary journey."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Pisidia"
+  ],
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Παμφυλία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.00520811721595",
+      "lon": "30.90494591606115"
+    },
+    "recogito": {
+      "lat": "36.990721",
+      "lon": "30.98638"
+    },
+    "vizbible": {
+      "lat": "36.990721",
+      "lon": "30.98638"
+    }
+  },
+  "key_references": [
+    "44013013",
+    "44014024",
+    "44027005"
+  ],
+  "references": [
+    "44002010",
+    "44013013",
+    "44014024",
+    "44015038",
+    "44027005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44002010004"
+      ],
+      [
+        "n44013013013"
+      ],
+      [
+        "n44014024008"
+      ],
+      [
+        "n44015038009"
+      ],
+      [
+        "n44027005009"
+      ]
+    ]
+  }
+}

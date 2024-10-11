@@ -1,0 +1,161 @@
+{
+  "id": "person:Doeg",
+  "primary_id": "person:Doeg",
+  "alternate_sources": {
+    "aquifer": [
+      "4878|Doeg|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001586001001000"
+    ],
+    "tipnr": [
+      "Doeg@1Sa.21.7-Psa"
+    ],
+    "vizbible": [
+      "recp7myrx1N0Agwyd"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "001586001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Doeg",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Doeg",
+          "article": "person:Doeg",
+          "description": "An Edomite official during King Saul’s reign. Doeg betrayed where David was located and later killed the priests of YHWH."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דֹּואֵג",
+      "דֹּאֵג",
+      "לְ"
+    ]
+  },
+  "key_references": [
+    "09021008",
+    "09022009",
+    "09022018"
+  ],
+  "references": [
+    "09021008",
+    "09022009",
+    "09022018",
+    "09022022",
+    "19052002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090210080111"
+      ],
+      [
+        "o090220090021"
+      ],
+      [
+        "o090220180042"
+      ],
+      [
+        "o090220180111"
+      ],
+      [
+        "o090220220101"
+      ],
+      [
+        "o190520020021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090220090042"
+      ],
+      [
+        "o090220180061"
+      ],
+      [
+        "o090220180141"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090220090092",
+        "o090220090101"
+      ],
+      [
+        "o090220180072"
+      ],
+      [
+        "o090220180162"
+      ],
+      [
+        "o090220190051"
+      ],
+      [
+        "o090220220141"
+      ],
+      [
+        "o190520020042"
+      ],
+      [
+        "o190520020062"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o090220090101",
+          "o090220090111",
+          "o090220090121",
+          "o090220090131",
+          "o090220090141",
+          "o090220090151",
+          "o090220090152",
+          "o090220090161",
+          "o090220090171",
+          "o090220090181",
+          "o090220090191",
+          "o090220100011",
+          "o090220100012",
+          "o090220100021",
+          "o090220100022",
+          "o090220100031",
+          "o090220100032",
+          "o090220100041",
+          "o090220100042",
+          "o090220100051",
+          "o090220100061",
+          "o090220100062",
+          "o090220100071",
+          "o090220100072",
+          "o090220100081",
+          "o090220100091",
+          "o090220100101",
+          "o090220100102",
+          "o090220100111",
+          "o090220100121",
+          "o090220100122"
+        ]
+      }
+    ]
+  }
+}

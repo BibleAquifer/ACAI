@@ -1,0 +1,159 @@
+{
+  "id": "person:Salome",
+  "primary_id": "person:Salome",
+  "alternate_sources": {
+    "aquifer": [
+      "8112|Salome|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.324"
+    ],
+    "tipnr": [
+      "Salome@Mrk.15.40-"
+    ],
+    "vizbible": [
+      "recZXzlSvnyNLqQxQ"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:HusbandOfMary.2",
+  "mother": "person:Mary.2",
+  "siblings": [
+    "person:James.4",
+    "person:Joseph.5"
+  ],
+  "ubsdgnt": [
+    "93.324"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Salome",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Salome",
+          "article": "person:Salome",
+          "description": "Galilean woman who followed Jesus. She was one of the women who witnessed Jesus's death on the cross."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σαλώμη"
+    ]
+  },
+  "key_references": [
+    "41015040",
+    "41016001"
+  ],
+  "references": [
+    "41015040",
+    "41016001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41015040024"
+      ],
+      [
+        "n41016001014"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n41015041001"
+      ],
+      [
+        "n41016003004"
+      ],
+      [
+        "n41016003007"
+      ],
+      [
+        "n41016006004"
+      ],
+      [
+        "n41016008009"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n41015041010"
+      ],
+      [
+        "n41016001018",
+        "n41016001019"
+      ],
+      [
+        "n41016002008"
+      ],
+      [
+        "n41016003002"
+      ],
+      [
+        "n41016004002",
+        "n41016004003"
+      ],
+      [
+        "n41016005002"
+      ],
+      [
+        "n41016005006"
+      ],
+      [
+        "n41016005016"
+      ],
+      [
+        "n41016006006"
+      ],
+      [
+        "n41016006008"
+      ],
+      [
+        "n41016006017"
+      ],
+      [
+        "n41016007002",
+        "n41016007003"
+      ],
+      [
+        "n41016008002",
+        "n41016008003"
+      ],
+      [
+        "n41016008016",
+        "n41016008017"
+      ],
+      [
+        "n41016008028"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "n41016003005",
+          "n41016003006",
+          "n41016003007",
+          "n41016003008",
+          "n41016003009",
+          "n41016003010",
+          "n41016003011",
+          "n41016003012",
+          "n41016003013",
+          "n41016003014"
+        ]
+      }
+    ]
+  }
+}

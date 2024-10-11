@@ -1,0 +1,85 @@
+{
+  "id": "place:Shaveh",
+  "primary_id": "place:Shaveh",
+  "alternate_sources": {
+    "aquifer": [
+      "9002|Valley of Shaveh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007235001001000"
+    ],
+    "tipnr": [
+      "Shaveh@Gen.14.5-"
+    ],
+    "vizbible": [
+      "recZeNEbOWIqV0AmA"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007235001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Shaveh",
+      "alternate_labels": [
+        "Shaveh Valley",
+        "Shaveh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfShaveh",
+          "gloss": "Valley of Shaveh",
+          "description": "A valley near Salem where Abraham met Melchizedek (Genesis 14:17); also known as the King's Valley."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:KingsValley"
+  ],
+  "nearby_places": [
+    "place:Salem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "01014017"
+  ],
+  "references": [
+    "01014017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140170161"
+      ]
+    ]
+  }
+}

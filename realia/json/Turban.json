@@ -1,0 +1,130 @@
+{
+  "id": "realia:Turban",
+  "primary_id": "realia:Turban",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003681001001000",
+      "004304001001000"
+    ],
+    "ubsrealia": [
+      "realia:4.5.8"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003681001001000",
+    "004304001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Turban",
+      "alternate_labels": [
+        "Headdress"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Turban",
+          "article": "realia:Turban",
+          "description": "A headpiece made by winding a long piece of cloth many times around the head, worn by priests and kings."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִגְבָּעָה",
+      "מִצְנֶפֶת"
+    ]
+  },
+  "key_references": [
+    "02028004",
+    "02028037",
+    "03008009"
+  ],
+  "references": [
+    "02028004",
+    "02028037",
+    "02028039",
+    "02028040",
+    "02029006",
+    "02029009",
+    "02039028",
+    "02039031",
+    "03008009",
+    "03008013",
+    "03016004",
+    "26021031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020280400082"
+      ],
+      [
+        "o020290090081"
+      ],
+      [
+        "o020390280062"
+      ],
+      [
+        "o030080130131"
+      ],
+      [
+        "o020280040101"
+      ],
+      [
+        "o020280370082"
+      ],
+      [
+        "o020280370122"
+      ],
+      [
+        "o020280390051"
+      ],
+      [
+        "o020290060022"
+      ],
+      [
+        "o020290060102"
+      ],
+      [
+        "o020390280022"
+      ],
+      [
+        "o020390310072"
+      ],
+      [
+        "o030080090032"
+      ],
+      [
+        "o030080090082"
+      ],
+      [
+        "o030160040133"
+      ],
+      [
+        "o260210310062"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020280410022"
+      ],
+      [
+        "o030080090112"
+      ],
+      [
+        "o030160040181"
+      ],
+      [
+        "o030160040233"
+      ]
+    ]
+  }
+}

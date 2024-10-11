@@ -1,0 +1,83 @@
+{
+  "id": "person:Lydia",
+  "primary_id": "person:Lydia",
+  "alternate_sources": {
+    "aquifer": [
+      "6800|Lydia (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.236"
+    ],
+    "tipnr": [
+      "Lydia@Act.16.14-"
+    ],
+    "vizbible": [
+      "recL7FKDcTneTvG5r"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "ubsdgnt": [
+    "93.236"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lydia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lydia",
+          "article": "person:Lydia",
+          "description": "A merchant of purple cloth from Thyatira who converted to Christianity through Paul's teaching in the New Testament."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Λυδία"
+    ]
+  },
+  "key_references": [
+    "44016014",
+    "44016040"
+  ],
+  "references": [
+    "44016014",
+    "44016040"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44016014005"
+      ],
+      [
+        "n44016040009"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "n44016015010",
+          "n44016015011",
+          "n44016015012",
+          "n44016015013",
+          "n44016015014",
+          "n44016015015",
+          "n44016015016",
+          "n44016015017",
+          "n44016015018",
+          "n44016015019",
+          "n44016015020",
+          "n44016015021",
+          "n44016015022"
+        ]
+      }
+    ]
+  }
+}

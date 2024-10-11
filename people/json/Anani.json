@@ -1,0 +1,67 @@
+{
+  "id": "person:Anani",
+  "primary_id": "person:Anani",
+  "alternate_sources": {
+    "aquifer": [
+      "3595|Anani|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005558001001000"
+    ],
+    "tipnr": [
+      "Anani@1Ch.3.24"
+    ],
+    "vizbible": [
+      "recqcELNdVA4s3bxT"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Elioenai",
+  "siblings": [
+    "person:Hodaviah",
+    "person:Eliashib",
+    "person:Pelaiah.2",
+    "person:Akkub",
+    "person:Johanan.6",
+    "person:Delaiah"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005558001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anani",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anani",
+          "article": "person:Anani",
+          "description": "A man of the tribe of Judah during the divided kingdom, mentioned in 1 Chronicles 3:24."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֲנָנְיָה",
+      "עֲנַנְיָה"
+    ]
+  },
+  "key_references": [
+    "13003024"
+  ],
+  "references": [
+    "13003024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030240102"
+      ]
+    ]
+  }
+}

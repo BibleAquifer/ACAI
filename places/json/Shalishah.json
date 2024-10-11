@@ -1,0 +1,79 @@
+{
+  "id": "place:Shalishah",
+  "primary_id": "place:Shalishah",
+  "alternate_sources": {
+    "aquifer": [
+      "8264|Shalisha, Shalishah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007434001001000"
+    ],
+    "tipnr": [
+      "Shalishah@1Sa.9.4"
+    ],
+    "vizbible": [
+      "recNoSjEixSzHZ49q"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007434001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shalishah",
+      "alternate_labels": [
+        "Shalisha"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shalishah",
+          "gloss": "Shalishah",
+          "description": "A region in the territory of Ephraim where Saul looked for his father's donkeys (1 Samuel 9:4)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.84684772753698",
+      "lon": "35.18491237777512"
+    },
+    "vizbible": {
+      "lat": "31.84684772753698",
+      "lon": "35.18491237777512"
+    }
+  },
+  "key_references": [
+    "09009004"
+  ],
+  "references": [
+    "09009004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090090040061"
+      ]
+    ]
+  }
+}

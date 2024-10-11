@@ -1,0 +1,81 @@
+{
+  "id": "person:Joah.6",
+  "primary_id": "person:Joah.6",
+  "alternate_sources": {
+    "aquifer": [
+      "6387|Joah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002846001002000",
+      "002846001004000"
+    ],
+    "tipnr": [
+      "Joah@2Ch.29.12b"
+    ],
+    "vizbible": [
+      "rec0dfuY25pOdG6Fc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Eden"
+  ],
+  "ubsdbh": [
+    "002846001002000",
+    "002846001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joah (2 Chronicles 29:12b)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joah (2 Chronicles 29:12b)",
+          "article": "person:Joah.6",
+          "description": "A Levite living during the divided kingdom, father of Eden."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹואָח",
+      "יוֹאָח"
+    ]
+  },
+  "key_references": [
+    "14029012"
+  ],
+  "references": [
+    "14029012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140290120231"
+      ],
+      [
+        "o140290120281"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140290150012"
+      ],
+      [
+        "o140290150042"
+      ],
+      [
+        "o140290150052"
+      ],
+      [
+        "o140290150102"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "place:Gurbaal",
+  "primary_id": "place:Gurbaal",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001360001001000"
+    ],
+    "tipnr": [
+      "Gurbaal@2Ch.26.7"
+    ],
+    "vizbible": [
+      "rec25x8YYslhfvr4G"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001360001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gur-baal",
+      "alternate_labels": [
+        "Gur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gurbaal",
+          "gloss": "Gur-Baal",
+          "description": "A town in Arab territory conquered by Uzziah, king of Judah."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גּוּר־בַּעַל",
+      "בְּ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.734691",
+      "lon": "35.606250"
+    },
+    "vizbible": {
+      "lat": "30.734691",
+      "lon": "35.606250"
+    }
+  },
+  "key_references": [
+    "14026007"
+  ],
+  "references": [
+    "14026007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140260070092",
+        "o140260070101"
+      ]
+    ]
+  }
+}

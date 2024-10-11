@@ -1,0 +1,67 @@
+{
+  "id": "person:Cainan.2",
+  "primary_id": "person:Kenan",
+  "alternate_sources": {
+    "aquifer": [
+      "4382|Cainan|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.207b"
+    ],
+    "tipnr": [
+      "Cainan|Kenan@Gen.5.9-Luk"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Enosh",
+  "offspring": [
+    "person:Mahalalel"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdgnt": [
+    "93.207b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cainan (Kenan)",
+      "alternate_labels": [
+        "Kenan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kenan",
+          "article": "person:Cainan.2",
+          "description": "Kenan, also called Cainan, was the son of Enosh and lived before the Flood, first mentioned in Genesis 5:9."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Kenan"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Καϊνάμ"
+    ]
+  },
+  "key_references": [
+    "42003037"
+  ],
+  "references": [
+    "42003037"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003037010"
+      ]
+    ]
+  }
+}

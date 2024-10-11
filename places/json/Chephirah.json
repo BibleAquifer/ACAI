@@ -1,0 +1,101 @@
+{
+  "id": "place:Chephirah",
+  "primary_id": "place:Chephirah",
+  "alternate_sources": {
+    "aquifer": [
+      "4506|Chephirah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2e5054"
+    ],
+    "tipnr": [
+      "Chephirah@Jos.9.17-Neh"
+    ],
+    "vizbible": [
+      "recUKTEJITTiKkrpe"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6563685"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chephirah",
+      "alternate_labels": [
+        "Kephirah",
+        "-"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chephirah",
+          "gloss": "Chephirah",
+          "description": "A town in the territory of Benjamin; one of the four Hivite cities that made a covenant with Joshua (Joshua 9:17–18)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "associated_places": [
+    "place:Beeroth",
+    "place:Kiriath-jearim",
+    "place:Gibeon"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.836401",
+      "lon": "35.095272"
+    },
+    "vizbible": {
+      "lat": "31.836401",
+      "lon": "35.095272"
+    }
+  },
+  "key_references": [
+    "06009017",
+    "16007029"
+  ],
+  "references": [
+    "06009017",
+    "06018026",
+    "15002025",
+    "16007029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060090170113"
+      ],
+      [
+        "o060180260023"
+      ],
+      [
+        "o150020250041"
+      ],
+      [
+        "o160070290041"
+      ]
+    ]
+  }
+}

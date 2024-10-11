@@ -1,0 +1,119 @@
+{
+  "id": "realia:Weapons",
+  "primary_id": "realia:Weapons",
+  "alternate_sources": {
+    "aquifer": [
+      "3750|Armor and Weapons|TyndaleBibleDictionary",
+      "9044|Weapons|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004946001001000",
+      "007388001001000"
+    ],
+    "ubsrealia": [
+      "realia:2.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004946001001000",
+    "007388001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Weapons",
+      "alternate_labels": [
+        "Arms"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Weapons",
+          "article": "realia:Weapons",
+          "description": "Tools designed to harm others or defend oneself in conflict."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נֶשֶׁק",
+      "שֶׁלַח"
+    ]
+  },
+  "key_references": [
+    "14023010",
+    "16004017",
+    "26039009"
+  ],
+  "references": [
+    "11010025",
+    "12010002",
+    "14009024",
+    "14023010",
+    "14032005",
+    "16004011",
+    "16004017",
+    "18020024",
+    "18039021",
+    "23022008",
+    "26039009",
+    "26039010",
+    "29002008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110100250102"
+      ],
+      [
+        "o120100020143"
+      ],
+      [
+        "o230220080091"
+      ],
+      [
+        "o260390090072"
+      ],
+      [
+        "o260390100112"
+      ],
+      [
+        "o180200240022"
+      ],
+      [
+        "o180390210071"
+      ],
+      [
+        "o140090240101"
+      ],
+      [
+        "o290020080092"
+      ],
+      [
+        "o160040110122"
+      ],
+      [
+        "o160040170141",
+        "o160040170142"
+      ],
+      [
+        "o140230100061",
+        "o140230100062"
+      ],
+      [
+        "o140320050191"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260390090162"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "place:Ether.2",
+  "primary_id": "place:Ether.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5172|Ether|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ether.2",
+          "gloss": "Ether (of Simeon)",
+          "description": "A town in the territory of Simeon."
+        }
+      ],
+      "preferred_label": "Ether (of Simeon)"
+    }
+  },
+  "possibly_same_as": [
+    "place:Ether"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "06019007"
+  ]
+}

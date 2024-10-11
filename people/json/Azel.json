@@ -1,0 +1,90 @@
+{
+  "id": "person:Azel",
+  "primary_id": "person:Azel",
+  "alternate_sources": {
+    "aquifer": [
+      "3909|Azel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000629001001000"
+    ],
+    "tipnr": [
+      "Azel@1Ch.8.37-"
+    ],
+    "vizbible": [
+      "rec3H7iWR2r0hrGg6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Binea",
+  "offspring": [
+    "person:Azrikam.2",
+    "person:Bocheru",
+    "person:Ishmael.3",
+    "person:Sheariah",
+    "person:Obadiah.4",
+    "person:Hanan.2"
+  ],
+  "siblings": [
+    "person:Raphah",
+    "person:Eleasah.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000629001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azel",
+          "article": "person:Azel",
+          "description": "A man of the tribe of Benjamin during the divided kingdom, father of six sons, including Azrikam and Obadiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָצֵל"
+    ]
+  },
+  "key_references": [
+    "13008037",
+    "13008038",
+    "13009044"
+  ],
+  "references": [
+    "13008037",
+    "13008038",
+    "13009043",
+    "13009044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080370091"
+      ],
+      [
+        "o130080380013"
+      ],
+      [
+        "o130080380151"
+      ],
+      [
+        "o130090430091"
+      ],
+      [
+        "o130090440013"
+      ],
+      [
+        "o130090440141"
+      ]
+    ]
+  }
+}

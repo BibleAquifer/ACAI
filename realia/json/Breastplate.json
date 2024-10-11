@@ -1,0 +1,75 @@
+{
+  "id": "realia:Breastplate",
+  "primary_id": "realia:Breastplate",
+  "alternate_sources": {
+    "aquifer": [
+      "4333|Breastpiece, Breastplate|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007638001001000"
+    ],
+    "ubsrealia": [
+      "realia:2.12"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "007638001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Breastplate",
+      "alternate_labels": [
+        "Chest Protector"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Breastplate",
+          "article": "realia:Breastplate",
+          "description": "A piece of armor made of metal or thick leather that protects the chest from the neck to the waist."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שִׁרְיֹון"
+    ]
+  },
+  "key_references": [
+    "11022034",
+    "14018033",
+    "14026014",
+    "23059017"
+  ],
+  "references": [
+    "11022034",
+    "14018033",
+    "14026014",
+    "16004010",
+    "23059017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110220340122"
+      ],
+      [
+        "o140180330122"
+      ],
+      [
+        "o140260140092"
+      ],
+      [
+        "o160040100143"
+      ],
+      [
+        "o230590170032"
+      ]
+    ]
+  }
+}

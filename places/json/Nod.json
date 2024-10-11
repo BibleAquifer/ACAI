@@ -1,0 +1,74 @@
+{
+  "id": "place:Nod",
+  "primary_id": "place:Nod",
+  "alternate_sources": {
+    "aquifer": [
+      "7419|Nod|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004686002001000"
+    ],
+    "tipnr": [
+      "Nod@Gen.4.16"
+    ],
+    "vizbible": [
+      "recdQjZKTnAnIH91s"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004686002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nod",
+      "alternate_labels": [
+        "Near Eden"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nod",
+          "gloss": "Nod",
+          "description": "The location where Cain fled after he was cursed for killing his brother Abel."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נֹוד",
+      "נוֹד"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "special"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "01004016"
+  ],
+  "references": [
+    "01004016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040160071"
+      ]
+    ]
+  }
+}

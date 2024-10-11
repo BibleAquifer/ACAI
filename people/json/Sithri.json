@@ -1,0 +1,62 @@
+{
+  "id": "person:Sithri",
+  "primary_id": "person:Sithri",
+  "alternate_sources": {
+    "aquifer": [
+      "8534|Sithri|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005184001001000"
+    ],
+    "tipnr": [
+      "Sithri@Exo.6.22"
+    ],
+    "vizbible": [
+      "recvfAVYkR3Fea18K"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uzziel",
+  "siblings": [
+    "person:Mishael",
+    "person:Elizaphan",
+    "person:Micah.5",
+    "person:Isshiah.3"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005184001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sithri",
+      "alternate_labels": [
+        "Zithri"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sithri",
+          "article": "person:Sithri",
+          "description": "Sithri, also known as Zithri, was a man of the tribe of Levi living during the time of Egypt and the wilderness, mentioned in Exodus 6:22."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006022"
+  ],
+  "references": [
+    "02006022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060220052"
+      ]
+    ]
+  }
+}

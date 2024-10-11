@@ -1,0 +1,57 @@
+{
+  "id": "group:Hamul",
+  "primary_id": "group:Hamul",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002340001001000"
+    ],
+    "tipnr": [
+      "Hamul@Gen.46.12-1Ch"
+    ],
+    "vizbible": [
+      "recFRjOIqBTuq6vJc"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Hamul",
+  "ubsdbh": [
+    "002340001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hamulites",
+      "alternate_labels": [
+        "Hamul"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hamulites",
+          "article": "group:Hamul",
+          "description": "People descended from Hamul, son of Perez, of the tribe of Judah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חָמוּלִי"
+    ]
+  },
+  "key_references": [
+    "04026021"
+  ],
+  "references": [
+    "04026021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260210092"
+      ]
+    ]
+  }
+}

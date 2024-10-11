@@ -1,0 +1,78 @@
+{
+  "id": "person:Kedemah",
+  "primary_id": "person:Kedemah",
+  "alternate_sources": {
+    "aquifer": [
+      "6529|Kedemah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Nodab|Kedemah@Gen.25.15-1Ch",
+      "Kedemah@Gen.25.15-1Ch"
+    ],
+    "vizbible": [
+      "reczuSIAf5WkR8rr2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Mahalath"
+  ],
+  "tribe": "group:Arabia",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kedemah",
+      "alternate_labels": [
+        "Nodab"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kedemah",
+          "article": "person:Kedemah",
+          "description": "A man of the Arabs, son of Ishmael, mentioned in Genesis 25:15, also called Nodab in 1 Chronicles 5:19."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Nodab"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01025015",
+    "13001031",
+    "13005019"
+  ],
+  "references": [
+    "01025015",
+    "13001031",
+    "13005019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250150052"
+      ],
+      [
+        "o130010310032"
+      ],
+      [
+        "o130050190072"
+      ]
+    ]
+  }
+}

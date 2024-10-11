@@ -1,0 +1,127 @@
+{
+  "id": "place:Gennesaret",
+  "primary_id": "place:Gennesaret",
+  "alternate_sources": {
+    "aquifer": [
+      "5418|Gennesaret|TyndaleBibleDictionary",
+      "5417|Gennesaret, Lake of|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a7de69e"
+    ],
+    "ubsdgnt": [
+      "93.449a",
+      "93.449b"
+    ],
+    "tipnr": [
+      "Gennesaret@Mat.14.34-Luk"
+    ],
+    "vizbible": [
+      "recoHThWegAzIJ6I8"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.449a",
+    "93.449b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gennesaret",
+      "alternate_labels": [
+        "Lake Gennesaret",
+        "Lake of Gennesaret",
+        "Sea of Galilee"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gennesaret",
+          "gloss": "Gennesaret",
+          "description": "A fertile plain on the northwest shore of the Sea of Galilee, south of Capernaum, where Jesus healed many sick people (Matthew 14:34–36; Mark 6:53–56)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Capernaum",
+    "place:GalileeSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Γεννησαρέτ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "plain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.8593586",
+      "lon": "35.50993742"
+    },
+    "vizbible": {
+      "lat": "32.8593586",
+      "lon": "35.50993742"
+    },
+    "biblica-maps": {
+      "lat": "32.86027",
+      "lon": "35.53384"
+    }
+  },
+  "key_references": [
+    "41006053",
+    "40014034"
+  ],
+  "references": [
+    "40014034",
+    "41006053",
+    "42005001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40014034008"
+      ],
+      [
+        "n41006053008"
+      ],
+      [
+        "n42005001022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40014035008"
+      ],
+      [
+        "n40014035014"
+      ],
+      [
+        "n40015021003"
+      ],
+      [
+        "n41006055005"
+      ],
+      [
+        "n41007024001"
+      ]
+    ]
+  }
+}

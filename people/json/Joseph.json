@@ -1,0 +1,90 @@
+{
+  "id": "person:Joseph",
+  "primary_id": "person:Barnabas",
+  "alternate_sources": {
+    "aquifer": [
+      "6449|Joseph|TyndaleBibleDictionary",
+      "132234|Joseph|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.202e"
+    ],
+    "tipnr": [
+      "Joseph|Barnabas@Act.4.36-Col"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:FatherOfBarnabas",
+  "siblings": [
+    "person:Mary.5"
+  ],
+  "roles": [
+    "Apostle",
+    "Church Leader"
+  ],
+  "ubsdgnt": [
+    "93.202e"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joseph (Barnabas)",
+      "alternate_labels": [
+        "Joses",
+        "Barnabas"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Barnabas",
+          "article": "person:Joseph",
+          "description": "A Levite from Cyprus, also called Barnabas, first mentioned in Acts 4:36."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Barnabas"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰωσήφ"
+    ]
+  },
+  "key_references": [
+    "44004036"
+  ],
+  "references": [
+    "44004036"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44004036001"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44004037002"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44004036004"
+      ],
+      [
+        "n44004037004",
+        "n44004037005"
+      ],
+      [
+        "n44004037009"
+      ]
+    ]
+  }
+}

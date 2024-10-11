@@ -1,0 +1,132 @@
+{
+  "id": "group:Cherethite",
+  "primary_id": "group:Cherethite",
+  "alternate_sources": {
+    "aquifer": [
+      "4508|Cherethims, Cherethites|TyndaleBibleDictionary",
+      "26442|Cherethites|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Cherethite@2Sa.8.18-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cherethites",
+      "alternate_labels": [
+        "Kerethite",
+        "Carite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cherethites",
+          "article": "group:Cherethite",
+          "description": "People associated with Philistines, a group of whom served as mercenaries under King David."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Caphtorim"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09030014",
+    "10008018",
+    "10020007"
+  ],
+  "references": [
+    "09030014",
+    "10008018",
+    "10015018",
+    "10020007",
+    "10020023",
+    "11001038",
+    "11001044",
+    "12011004",
+    "12011019",
+    "13018017",
+    "26025016",
+    "36002005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090300140042"
+      ],
+      [
+        "o100080180043"
+      ],
+      [
+        "o100150180072"
+      ],
+      [
+        "o100200070053"
+      ],
+      [
+        "o100200230112"
+      ],
+      [
+        "o110010380093"
+      ],
+      [
+        "o110010440133"
+      ],
+      [
+        "o120110040102"
+      ],
+      [
+        "o120110190062"
+      ],
+      [
+        "o130180170052"
+      ],
+      [
+        "o260250160131"
+      ],
+      [
+        "o360020050061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o100200080011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100200070092"
+      ],
+      [
+        "o100200070112"
+      ],
+      [
+        "o110010380112"
+      ],
+      [
+        "o110010380182"
+      ],
+      [
+        "o110010440152"
+      ],
+      [
+        "o120110190132"
+      ],
+      [
+        "o120110190182"
+      ],
+      [
+        "o260250170072"
+      ]
+    ]
+  }
+}

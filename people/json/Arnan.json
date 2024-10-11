@@ -1,0 +1,65 @@
+{
+  "id": "person:Arnan",
+  "primary_id": "person:Arnan",
+  "alternate_sources": {
+    "aquifer": [
+      "3754|Arnan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000709001001000"
+    ],
+    "tipnr": [
+      "Arnan@1Ch.3.21"
+    ],
+    "vizbible": [
+      "rec0QvPhWYLMToBHA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hananiah",
+  "siblings": [
+    "person:Pelatiah",
+    "person:Jeshaiah.2",
+    "person:Rephaiah.2",
+    "person:Obadiah.2",
+    "person:Shecaniah.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000709001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arnan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Arnan",
+          "article": "person:Arnan",
+          "description": "A descendant of Zerubbabel from the tribe of Judah, mentioned in 1 Chronicles 3:21."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַרְנָן"
+    ]
+  },
+  "key_references": [
+    "13003021"
+  ],
+  "references": [
+    "13003021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030210081"
+      ]
+    ]
+  }
+}

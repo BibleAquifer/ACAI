@@ -1,0 +1,85 @@
+{
+  "id": "place:Shilhim",
+  "primary_id": "place:Sharuhen",
+  "alternate_sources": {
+    "aquifer": [
+      "8393|Shilhim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007391001001000"
+    ],
+    "tipnr": [
+      "Shilhim|Sharuhen@Jos.19.6-1Ch"
+    ],
+    "vizbible": [
+      "recRm8VDuk2fRyNdY"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007391001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shilhim",
+      "alternate_labels": [
+        "Sharuhen"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shilhim",
+          "gloss": "Shilhim",
+          "description": "A town in the southern territory of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Sharuhen"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.282222",
+      "lon": "34.4825"
+    },
+    "vizbible": {
+      "lat": "31.282222",
+      "lon": "34.4825"
+    }
+  },
+  "key_references": [
+    "06015032"
+  ],
+  "references": [
+    "06015032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150320022"
+      ]
+    ]
+  }
+}

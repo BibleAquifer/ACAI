@@ -1,0 +1,62 @@
+{
+  "id": "group:Guni",
+  "primary_id": "group:Guni",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001353001001000",
+      "001353001003000"
+    ],
+    "tipnr": [
+      "Guni@Gen.46.24-1Ch"
+    ],
+    "vizbible": [
+      "recJ4lYdxuYyO07H7"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Guni",
+  "ubsdbh": [
+    "001353001001000",
+    "001353001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gunites",
+      "alternate_labels": [
+        "Guni"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gunites",
+          "article": "group:Guni",
+          "description": "People descended from Guni, son of Naphtali, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גּוּנִי"
+    ]
+  },
+  "key_references": [
+    "04026048"
+  ],
+  "references": [
+    "04026048"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260480072"
+      ],
+      [
+        "o040260480092"
+      ]
+    ]
+  }
+}

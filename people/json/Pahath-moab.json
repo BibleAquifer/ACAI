@@ -1,0 +1,76 @@
+{
+  "id": "person:Pahath-moab",
+  "primary_id": "person:Pahath-moab",
+  "alternate_sources": {
+    "aquifer": [
+      "7551|Pahath-Moab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005836001001000"
+    ],
+    "tipnr": [
+      "Pahath-moab@Ezr.2.6-Neh"
+    ],
+    "vizbible": [
+      "recGiRvrbgwPgWuxD"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Jeshua.3",
+    "person:Joab.3"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "ubsdbh": [
+    "005836001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pahath-moab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pahath-Moab",
+          "article": "person:Pahath-moab",
+          "description": "The father of Jeshua and Joab who lived during the time of Israelite exile and return."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002006",
+    "15008004",
+    "16007011"
+  ],
+  "references": [
+    "15002006",
+    "15008004",
+    "15010030",
+    "16007011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020060021",
+        "o150020060031"
+      ],
+      [
+        "o150080040021",
+        "o150080040031"
+      ],
+      [
+        "o150100300021",
+        "o150100300031"
+      ],
+      [
+        "o160070110021",
+        "o160070110031"
+      ]
+    ]
+  }
+}

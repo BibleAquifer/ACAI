@@ -1,0 +1,64 @@
+{
+  "id": "person:Heled",
+  "primary_id": "person:Heleb",
+  "alternate_sources": {
+    "aquifer": [
+      "5776|Heled|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002275001001000"
+    ],
+    "tipnr": [
+      "Heled|Heleb@2Sa.23.29-1Ch"
+    ],
+    "vizbible": [
+      "recyVZiDDwBVoGsDo"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Baanah.2",
+  "ubsdbh": [
+    "002275001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heled (Heleb)",
+      "alternate_labels": [
+        "Heleb"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Heleb",
+          "article": "person:Heled",
+          "description": "Heled, also known as Heleb and Heldai, was a warrior from Netophah who lived during the time of Israel's united kingdom under King David, first mentioned in 2 Samuel 23:29."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Heleb"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֵלֶד",
+      "חֵ֫לֶד"
+    ]
+  },
+  "key_references": [
+    "13011030"
+  ],
+  "references": [
+    "13011030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130110300031"
+      ]
+    ]
+  }
+}

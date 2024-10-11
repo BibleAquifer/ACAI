@@ -1,0 +1,71 @@
+{
+  "id": "person:Hanan.8",
+  "primary_id": "person:Hanan.8",
+  "alternate_sources": {
+    "aquifer": [
+      "5640|Hanan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002399001005000"
+    ],
+    "tipnr": [
+      "Hanan@Neh.13.13"
+    ],
+    "vizbible": [
+      "recNIyJ9dVWnC5eWo"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zaccur.8",
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "002399001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hanan (Nehemiah 13:13)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hanan (Nehemiah 13:13)",
+          "article": "person:Hanan.8",
+          "description": "Hanan, a man living during the time of exile and return, only mentioned in Nehemiah 13:13, son of Zaccur."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חָנָן"
+    ]
+  },
+  "key_references": [
+    "16013013"
+  ],
+  "references": [
+    "16013013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160130130131"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o160130130191",
+        "o160130130201"
+      ],
+      [
+        "o160130130222"
+      ]
+    ]
+  }
+}

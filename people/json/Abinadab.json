@@ -1,0 +1,68 @@
+{
+  "id": "person:Abinadab",
+  "primary_id": "person:Abinadab",
+  "alternate_sources": {
+    "aquifer": [
+      "3306|Abinadab|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Abinadab@1Sa.7.1-1Ch"
+    ],
+    "vizbible": [
+      "rec3McaFtR54oVD0n"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Eleazar.3",
+    "person:Uzzah",
+    "person:Ahio"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abinadab (of Kiriath-jearim)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abinadab (of Kiriath-Jearim)",
+          "article": "person:Abinadab",
+          "description": "Man who lived in Kiriath-Jearim. The ark of the covenant was kept at his house after it was returned by the Philistines."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09007001",
+    "10006003",
+    "10006004",
+    "13013007"
+  ],
+  "references": [
+    "09007001",
+    "10006003",
+    "10006004",
+    "13013007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090070010131"
+      ],
+      [
+        "o100060030101"
+      ],
+      [
+        "o100060030161"
+      ],
+      [
+        "o100060040031"
+      ],
+      [
+        "o130130070091"
+      ]
+    ]
+  }
+}

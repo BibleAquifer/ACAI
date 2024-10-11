@@ -1,0 +1,197 @@
+{
+  "id": "person:Enoch.2",
+  "primary_id": "person:Enoch.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5088|Enoch (Person)|TyndaleBibleDictionary",
+      "26561|Enoch|UWTranslationWords",
+      "132174|Enoch|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Enoch@Gen.5.18-Jud"
+    ],
+    "vizbible": [
+      "recj26MAojx8FuOsa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jared",
+  "offspring": [
+    "person:Methuselah"
+  ],
+  "roles": [
+    "Patriarch "
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Enoch (Son of Jared)",
+      "alternate_labels": [
+        "Henoch"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Enoch (Son of Jared)",
+          "article": "person:Enoch.2",
+          "description": "Son of Jared and father of Methuselah. Enoch pleased God, so He took him to heaven before he died."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01005018",
+    "01005024",
+    "58011005"
+  ],
+  "references": [
+    "01005018",
+    "01005019",
+    "01005021",
+    "01005022",
+    "01005023",
+    "01005024",
+    "13001003",
+    "42003037",
+    "58011005",
+    "65001014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010050180101"
+      ],
+      [
+        "o010050190061"
+      ],
+      [
+        "o010050210021"
+      ],
+      [
+        "o010050220021"
+      ],
+      [
+        "o010050230041"
+      ],
+      [
+        "o010050240021"
+      ],
+      [
+        "o130010030011"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003037004"
+      ],
+      [
+        "n58011005002"
+      ],
+      [
+        "n65001014008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n58011005013"
+      ],
+      [
+        "n58011013004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010050210062"
+      ],
+      [
+        "o010050220122"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n58011005006"
+      ],
+      [
+        "n58011005010"
+      ],
+      [
+        "n58011005020",
+        "n58011005021"
+      ],
+      [
+        "n58011013007"
+      ],
+      [
+        "n58011013013"
+      ],
+      [
+        "n58011013015"
+      ],
+      [
+        "n58011013017"
+      ],
+      [
+        "n58011013022"
+      ],
+      [
+        "n58011014004"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Quotation",
+        "words": [
+          "n65001014010",
+          "n65001014011",
+          "n65001014012",
+          "n65001014013",
+          "n65001014014",
+          "n65001014015",
+          "n65001014016"
+        ]
+      },
+      {
+        "quote_type": "Quotation",
+        "words": [
+          "n65001015001",
+          "n65001015002",
+          "n65001015003",
+          "n65001015004",
+          "n65001015005",
+          "n65001015006",
+          "n65001015007",
+          "n65001015008",
+          "n65001015009",
+          "n65001015010",
+          "n65001015011",
+          "n65001015012",
+          "n65001015013",
+          "n65001015014",
+          "n65001015015",
+          "n65001015016",
+          "n65001015017",
+          "n65001015018",
+          "n65001015019",
+          "n65001015020",
+          "n65001015021",
+          "n65001015022",
+          "n65001015023",
+          "n65001015024",
+          "n65001015025",
+          "n65001015026",
+          "n65001015027",
+          "n65001015028"
+        ]
+      }
+    ]
+  }
+}

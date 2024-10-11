@@ -1,0 +1,151 @@
+{
+  "id": "place:Zobah",
+  "primary_id": "place:Zobah",
+  "alternate_sources": {
+    "aquifer": [
+      "9251|Zobah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a4aa78a"
+    ],
+    "tipnr": [
+      "Zobah@1Sa.14.47-2Ch",
+      "Zobah-Hamath|Zobah@1Sa.14.47-2Ch",
+      "Hamath-zobah|Zobah@1Sa.14.47-2Ch"
+    ],
+    "vizbible": [
+      "recpkvM8CHSklH6RP"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1254491"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zobah",
+      "alternate_labels": [
+        "Hamath-Zobah",
+        "vicinity of Hamath",
+        "Zoba",
+        "Hadadezer",
+        "Aram-Zobah",
+        "Zobaites",
+        "Mesobaite",
+        "Mezobaite",
+        "Zobah-Hamath",
+        "Syria of Zobah",
+        "Zobah unto Hamath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zobah",
+          "gloss": "Zobah",
+          "description": "An Aramean kingdom located north of Damascus and ruled by Hadadezer; it was defeated and subjugated by David and then controlled by Solomon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Zobah-hamath",
+    "place:Hamath-zobah"
+  ],
+  "subregion_of": [
+    "place:Aram"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.312571",
+      "lon": "36.925484"
+    },
+    "vizbible": {
+      "lat": "34.312571",
+      "lon": "36.925484"
+    }
+  },
+  "key_references": [
+    "09014047",
+    "10008003"
+  ],
+  "references": [
+    "09014047",
+    "10008003",
+    "10008005",
+    "10008012",
+    "10010006",
+    "10010008",
+    "10023036",
+    "11011023",
+    "11011024",
+    "13011047",
+    "13018003",
+    "13018005",
+    "13018009",
+    "13019006",
+    "14008003",
+    "19060003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090140470151"
+      ],
+      [
+        "o100080030081"
+      ],
+      [
+        "o100080050071"
+      ],
+      [
+        "o100080120121"
+      ],
+      [
+        "o100100060171"
+      ],
+      [
+        "o100100080091"
+      ],
+      [
+        "o100230360042"
+      ],
+      [
+        "o110110230141"
+      ],
+      [
+        "o130180030061",
+        "o130180030071"
+      ],
+      [
+        "o130180050071"
+      ],
+      [
+        "o130180090131"
+      ],
+      [
+        "o130190060233"
+      ],
+      [
+        "o140080030031",
+        "o140080030041"
+      ]
+    ]
+  }
+}

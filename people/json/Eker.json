@@ -1,0 +1,57 @@
+{
+  "id": "person:Eker",
+  "primary_id": "person:Eker",
+  "alternate_sources": {
+    "aquifer": [
+      "4958|Eker|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005633002001000"
+    ],
+    "tipnr": [
+      "Eker@1Ch.2.27"
+    ],
+    "vizbible": [
+      "recmTpy0EhKPQtomo"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ram.2",
+  "siblings": [
+    "person:Maaz",
+    "person:Jamin.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005633002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eker",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eker",
+          "article": "person:Eker",
+          "description": "Eker was a man of the tribe of Judah living during the time of the divided kingdom, mentioned in 1 Chronicles 2:27 as the son of Ram and brother to Maaz and Jamin."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002027"
+  ],
+  "references": [
+    "13002027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020270082"
+      ]
+    ]
+  }
+}

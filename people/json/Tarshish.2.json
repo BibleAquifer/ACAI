@@ -1,0 +1,65 @@
+{
+  "id": "person:Tarshish.2",
+  "primary_id": "person:Tarshish.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8744|Tarshish (Person)|TyndaleBibleDictionary",
+      "27138|Tarshish|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007951002002000"
+    ],
+    "tipnr": [
+      "Tarshish@1Ch.7.10"
+    ],
+    "vizbible": [
+      "reczq0yZ0IHOQBZS4"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Bilhan.2",
+  "siblings": [
+    "person:Jeush.2",
+    "person:Benjamin.2",
+    "person:Ehud.2",
+    "person:Chenaanah.2",
+    "person:Zethan",
+    "person:Ahishahar"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "007951002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tarshish (1 Chronicles 7:10)",
+      "alternate_labels": [
+        "Tharshish"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tarshish (1 Chronicles 7:10)",
+          "article": "person:Tarshish.2",
+          "description": "Tarshish, also known as Tharshish, mentioned in 1 Chronicles 7:10, was a man from the tribe of Benjamin and the son of Bilhan during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007010"
+  ],
+  "references": [
+    "13007010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070100122"
+      ]
+    ]
+  }
+}

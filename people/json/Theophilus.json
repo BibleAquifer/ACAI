@@ -1,0 +1,79 @@
+{
+  "id": "person:Theophilus",
+  "primary_id": "person:Theophilus",
+  "alternate_sources": {
+    "aquifer": [
+      "8815|Theophilus|TyndaleBibleDictionary",
+      "132025|Theophilus|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.153"
+    ],
+    "tipnr": [
+      "Theophilus@Luk.1.3-Act"
+    ],
+    "vizbible": [
+      "recytMLu9bVfa3vfQ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.153"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Theophilus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Theophilus",
+          "article": "person:Theophilus",
+          "description": "Person to whom the books of Luke and Acts are addressed."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Θεόφιλος"
+    ]
+  },
+  "key_references": [
+    "42001003",
+    "44001001"
+  ],
+  "references": [
+    "42001003",
+    "44001001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42001003011"
+      ],
+      [
+        "n44001001009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42001003008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42001004002"
+      ],
+      [
+        "n42001004005"
+      ]
+    ]
+  }
+}

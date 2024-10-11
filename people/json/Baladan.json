@@ -1,0 +1,65 @@
+{
+  "id": "person:Baladan",
+  "primary_id": "person:Baladan",
+  "alternate_sources": {
+    "aquifer": [
+      "3976|Baladan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001004001001000"
+    ],
+    "tipnr": [
+      "Baladan@2Ki.20.12-Isa"
+    ],
+    "vizbible": [
+      "reciLuXly5rugJ11M"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Baladan",
+  "offspring": [
+    "person:Merodach-baladan"
+  ],
+  "ubsdbh": [
+    "001004001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baladan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Baladan",
+          "article": "person:Baladan",
+          "description": "A man living at the time of the divided kingdom, father of Merodach-baladan, mentioned in 2 Kings 20:12."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּלְאֲדָן"
+    ]
+  },
+  "key_references": [
+    "12020012",
+    "23039001"
+  ],
+  "references": [
+    "12020012",
+    "23039001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120200120071"
+      ],
+      [
+        "o230390010071"
+      ]
+    ]
+  }
+}

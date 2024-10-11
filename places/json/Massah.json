@@ -1,0 +1,92 @@
+{
+  "id": "place:Massah",
+  "primary_id": "place:Massah",
+  "alternate_sources": {
+    "aquifer": [
+      "6971|Massah and Meribah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004148002001000"
+    ],
+    "tipnr": [
+      "Massah@Exo.17.7-Psa"
+    ],
+    "vizbible": [
+      "recBXbYnzkMDyU8cP"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004148002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Massah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Massah",
+          "gloss": "Massah",
+          "description": "A location, also called Meribah, along the route of the exodus; one of the places where the Israelites rebelled against Moses because of a lack of water."
+        }
+      ]
+    }
+  },
+  "associated_places": [
+    "place:Meribah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.73106102564323",
+      "lon": "33.84169995726504"
+    },
+    "vizbible": {
+      "lat": "28.73106102564323",
+      "lon": "33.84169995726504"
+    }
+  },
+  "key_references": [
+    "02017007",
+    "05006016"
+  ],
+  "references": [
+    "02017007",
+    "05006016",
+    "05009022",
+    "05033008",
+    "19095008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020170070041"
+      ],
+      [
+        "o050060160082"
+      ],
+      [
+        "o050090220023"
+      ],
+      [
+        "o050330080092"
+      ],
+      [
+        "o190950080061"
+      ]
+    ]
+  }
+}

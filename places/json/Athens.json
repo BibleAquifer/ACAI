@@ -1,0 +1,138 @@
+{
+  "id": "place:Athens",
+  "primary_id": "place:Athens",
+  "alternate_sources": {
+    "aquifer": [
+      "3864|Athens|TyndaleBibleDictionary",
+      "132076|Athens|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a1fe6e7"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/10975"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/579885"
+    ],
+    "tipnr": [
+      "Athens@Act.17.15-2Th"
+    ],
+    "vizbible": [
+      "rec6n0u78dB1QOA1Z"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1524"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Athens",
+      "alternate_labels": [
+        "[ ]",
+        "Athenians",
+        "Athenian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Athens",
+          "gloss": "Athens",
+          "description": "A principal city of Greece where Paul preached at the Areopagus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Athens"
+  ],
+  "nearby_places": [
+    "place:Areopagus",
+    "place:Corinth"
+  ],
+  "subregion_of": [
+    "place:Greece"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.98333333",
+      "lon": "23.73333333"
+    },
+    "recogito": {
+      "lat": "37.971687",
+      "lon": "23.726464"
+    },
+    "vizbible": {
+      "lat": "37.971687",
+      "lon": "23.726464"
+    },
+    "biblica-maps": {
+      "lat": "37.97105",
+      "lon": "23.72994"
+    }
+  },
+  "key_references": [
+    "44017016",
+    "52003001"
+  ],
+  "references": [
+    "44017015",
+    "44017016",
+    "44017021",
+    "44017022",
+    "44018001",
+    "52003001",
+    "52005028",
+    "53003018"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44017015008"
+      ],
+      [
+        "n44017016004"
+      ],
+      [
+        "n44017021001"
+      ],
+      [
+        "n44017022011"
+      ],
+      [
+        "n44018001006"
+      ],
+      [
+        "n52003001007"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44017021013"
+      ],
+      [
+        "n44017021016"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "place:Pontus",
+  "primary_id": "place:Pontus",
+  "alternate_sources": {
+    "aquifer": [
+      "7775|Pontus|TyndaleBibleDictionary",
+      "26971|Pontus|UWTranslationWords"
+    ],
+    "obi": [
+      "a83a43e"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/857287",
+      "http://pleiades.stoa.org/places/857287"
+    ],
+    "tipnr": [
+      "Pontus@Act.2.9-1Pe"
+    ],
+    "vizbible": [
+      "recbCU03lFSJIIVGi"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q621672"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pontus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pontus",
+          "gloss": "Pontus",
+          "description": "A region in northeast Asia Minor; home of Aquila (Acts 18:2)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Pontus"
+  ],
+  "nearby_places": [
+    "place:Cappadocia",
+    "place:Bithynia"
+  ],
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.905222",
+      "lon": "37.799969"
+    },
+    "recogito": {
+      "lat": "40.5",
+      "lon": "36.5"
+    },
+    "vizbible": {
+      "lat": "40.5",
+      "lon": "36.5"
+    }
+  },
+  "key_references": [
+    "44018002",
+    "44002009",
+    "60001001"
+  ],
+  "references": [
+    "44002009",
+    "44018002",
+    "60001001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44002009015"
+      ],
+      [
+        "n44018002007"
+      ],
+      [
+        "n60001001008"
+      ]
+    ]
+  }
+}

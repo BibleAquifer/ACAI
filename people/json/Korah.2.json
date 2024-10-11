@@ -1,0 +1,64 @@
+{
+  "id": "person:Korah.2",
+  "primary_id": "person:Korah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6644|Korah|TyndaleBibleDictionary",
+      "26805|Korah|UWTranslationWords",
+      "132339|Korah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "006574001002000"
+    ],
+    "tipnr": [
+      "Korah@Gen.36.16"
+    ],
+    "vizbible": [
+      "reck78wSw5BXkLTC0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliphaz",
+  "mother": "person:WifeOfEliphaz",
+  "siblings": [
+    "person:Teman",
+    "person:Omar",
+    "person:Zepho",
+    "person:Gatam",
+    "person:Kenaz",
+    "person:Amalek"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "006574001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Korah (Genesis 36:16)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Korah (Genesis 36:16)",
+          "article": "person:Korah.2",
+          "description": "An Edomite man living during the time of the patriarchs, mentioned only in Genesis 36:16, son of Eliphaz and brother of Teman, Omar, Zepho, Gatam, Kenaz, and Amalek."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036016"
+  ],
+  "references": [
+    "01036016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360160021"
+      ]
+    ]
+  }
+}

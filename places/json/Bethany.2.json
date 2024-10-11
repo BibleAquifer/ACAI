@@ -1,0 +1,80 @@
+{
+  "id": "place:Bethany.2",
+  "primary_id": "place:Bethany.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4153|Bethany|TyndaleBibleDictionary",
+      "26386|Bethany|UWTranslationWords",
+      "132021|Bethany|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.427b"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4229079"
+    ],
+    "tipnr": [
+      "Bethany@Jhn.1.28"
+    ],
+    "vizbible": [
+      "recuopRspYkwGpj5A"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.427b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bethany",
+      "descriptions": []
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Βηθανία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "region",
+      "wadi",
+      "special",
+      "ford"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.83632115",
+      "lon": "35.55260017"
+    },
+    "recogito": {
+      "lat": "32.86682",
+      "lon": "-82.40402"
+    },
+    "vizbible": {
+      "lat": "31.83632115",
+      "lon": "35.55260017"
+    }
+  },
+  "key_references": [
+    "43001028"
+  ],
+  "references": [
+    "43001028"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43001028003"
+      ]
+    ]
+  }
+}

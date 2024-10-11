@@ -1,0 +1,78 @@
+{
+  "id": "group:Nineveh",
+  "primary_id": "group:Nineveh",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.544"
+    ],
+    "tipnr": [
+      "Nineveh@Gen.10.11-Luk"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Nineveh",
+  "ubsdgnt": [
+    "93.544"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ninevites",
+      "alternate_labels": [
+        "Nineveh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ninevites",
+          "article": "group:Nineveh",
+          "description": "People who lived in Nineveh."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Νινευίτης"
+    ]
+  },
+  "key_references": [
+    "40012041",
+    "42011030",
+    "42011032"
+  ],
+  "references": [
+    "40012041",
+    "42011030",
+    "42011032"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40012041002"
+      ],
+      [
+        "n42011030006"
+      ],
+      [
+        "n42011032002"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o360020150081",
+          "o360020150091",
+          "o360020150092",
+          "o360020150093",
+          "o360020150101"
+        ]
+      }
+    ]
+  }
+}

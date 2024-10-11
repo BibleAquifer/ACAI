@@ -1,0 +1,57 @@
+{
+  "id": "group:Ahiram",
+  "primary_id": "group:Ahiram",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000282001001000"
+    ],
+    "tipnr": [
+      "Ahiram@Num.26.38"
+    ],
+    "vizbible": [
+      "recrdlNkfhnrb29zj"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Ahiram",
+  "ubsdbh": [
+    "000282001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahiramites",
+      "alternate_labels": [
+        "Ahiram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahiramites",
+          "article": "group:Ahiram",
+          "description": "People descended from Ahiram, son of Benjamin, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִירָמִי"
+    ]
+  },
+  "key_references": [
+    "04026038"
+  ],
+  "references": [
+    "04026038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260380122"
+      ]
+    ]
+  }
+}

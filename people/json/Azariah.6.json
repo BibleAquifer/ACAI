@@ -1,0 +1,84 @@
+{
+  "id": "person:Azariah.6",
+  "primary_id": "person:Azariah.6",
+  "alternate_sources": {
+    "aquifer": [
+      "3902|Azariah|TyndaleBibleDictionary",
+      "3901|Azariah, Prayer of|TyndaleBibleDictionary",
+      "26354|Azariah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005358001006000",
+      "005358001018000"
+    ],
+    "tipnr": [
+      "Azariah@1Ch.6.10-Ezr"
+    ],
+    "vizbible": [
+      "recARRfL8UzSph2ot"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Johanan.7",
+  "offspring": [
+    "person:Amariah.2"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005358001006000",
+    "005358001018000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azariah (1 Chronicles 6:10)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azariah (1 Chronicles 6:10)",
+          "article": "person:Azariah.6",
+          "description": "A priest of the tribe of Levi during the divided kingdom, son of Johanan and father of Amariah, mentioned in 1 Chronicles 6:10."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13005036",
+    "13005037",
+    "15007003"
+  ],
+  "references": [
+    "13005036",
+    "13005037",
+    "15007003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050360041"
+      ],
+      [
+        "o130050370021"
+      ],
+      [
+        "o150070030041"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130050360051"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130050360071"
+      ]
+    ]
+  }
+}

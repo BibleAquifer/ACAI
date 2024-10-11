@@ -1,0 +1,63 @@
+{
+  "id": "person:Michael.4",
+  "primary_id": "person:Michael.4",
+  "alternate_sources": {
+    "aquifer": [
+      "7109|Michael|TyndaleBibleDictionary",
+      "26875|Michael|UWTranslationWords",
+      "132511|Michael|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003945001005000"
+    ],
+    "tipnr": [
+      "Michael@1Ch.6.40"
+    ],
+    "vizbible": [
+      "recoa86CjVJzbqDCi"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Baaseiah",
+  "offspring": [
+    "person:Shimea.3"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "003945001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Michael (1 Chronicles 6:40)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Michael (1 Chronicles 6:40)",
+          "article": "person:Michael.4",
+          "description": "Michael was a man from the tribe of Levi, living during the time of the divided kingdom, mentioned in 1 Chronicles 6:40 as the son of Baaseiah and father of Shimea."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִיכָאֵל"
+    ]
+  },
+  "key_references": [
+    "13006025"
+  ],
+  "references": [
+    "13006025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060250021"
+      ]
+    ]
+  }
+}

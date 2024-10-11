@@ -1,0 +1,108 @@
+{
+  "id": "place:Samothrace",
+  "primary_id": "place:Samothrace",
+  "alternate_sources": {
+    "aquifer": [
+      "8125|Samothrace|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a68750d"
+    ],
+    "ubsdgnt": [
+      "93.571"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/22854"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/501596"
+    ],
+    "tipnr": [
+      "Samothrace@Act.16.11"
+    ],
+    "vizbible": [
+      "recIbOYJZX6WTiTYy"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q203175"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.571"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Samothrace",
+      "alternate_labels": [
+        "Samothracia"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Samothrace",
+          "gloss": "Samothrace",
+          "description": "An island in the northern Aegean Sea; Paul's ship stopped here on his journey from Troas to Philippi."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Troas",
+    "place:Neapolis",
+    "place:Philippi"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Σαμοθρᾴκη"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "island"
+    ],
+    "vizbible": [
+      "Island"
+    ],
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.467279",
+      "lon": "25.486069"
+    },
+    "recogito": {
+      "lat": "40.5009431",
+      "lon": "25.5302283"
+    },
+    "vizbible": {
+      "lat": "40.5009431",
+      "lon": "25.5302283"
+    },
+    "biblica-maps": {
+      "lat": "40.453",
+      "lon": "25.582"
+    }
+  },
+  "key_references": [
+    "44016011"
+  ],
+  "references": [
+    "44016011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44016011007"
+      ]
+    ]
+  }
+}

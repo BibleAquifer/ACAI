@@ -1,0 +1,69 @@
+{
+  "id": "group:Caphtorim",
+  "primary_id": "group:Caphtorim",
+  "alternate_sources": {
+    "aquifer": [
+      "4418|Caphtor, Caphtorim, Caphtorites|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Caphtorim@Gen.10.14-1Ch"
+    ],
+    "vizbible": [
+      "rec4iUMAiYL1tLnJB"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Caphtor",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Caphtorim",
+      "alternate_labels": [
+        "Caphthorim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Caphtorim",
+          "article": "group:Caphtorim",
+          "description": "People who live in Caphtor, which in the New Testament is known as the island of Crete."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010014",
+    "05002023",
+    "13001012"
+  ],
+  "references": [
+    "01010014",
+    "05002023",
+    "13001012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100140101"
+      ],
+      [
+        "o050020230061"
+      ],
+      [
+        "o130010120101"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o050020230072"
+      ],
+      [
+        "o050020230102"
+      ]
+    ]
+  }
+}

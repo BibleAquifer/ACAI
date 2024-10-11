@@ -1,0 +1,64 @@
+{
+  "id": "person:Azariah.23",
+  "primary_id": "person:Uzziah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3902|Azariah|TyndaleBibleDictionary",
+      "3901|Azariah, Prayer of|TyndaleBibleDictionary",
+      "26354|Azariah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005358001008000"
+    ],
+    "tipnr": [
+      "Azariah|Uzziah@1Ch.6.24-"
+    ],
+    "vizbible": [
+      "recOUKNJKdvoZk8rD"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uriel",
+  "offspring": [
+    "person:Shaul.3"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005358001008000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azariah (Uzziah)",
+      "alternate_labels": [
+        "Uzziah (1 Chronicles 6:24)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uzziah (1 Chronicles 6:24)",
+          "article": "person:Azariah.23",
+          "description": "A Levite during the divided kingdom, also known as Uzziah, mentioned in 1 Chronicles 6:24 and 6:36."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Uzziah.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13006021"
+  ],
+  "references": [
+    "13006021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060210061"
+      ]
+    ]
+  }
+}

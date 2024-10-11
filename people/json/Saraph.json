@@ -1,0 +1,76 @@
+{
+  "id": "person:Saraph",
+  "primary_id": "person:Saraph",
+  "alternate_sources": {
+    "aquifer": [
+      "8142|Saraph|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007111002001000"
+    ],
+    "tipnr": [
+      "Saraph@1Ch.4.22"
+    ],
+    "vizbible": [
+      "rec3NaaHphXGSeXdP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shelah",
+  "siblings": [
+    "person:Er.3",
+    "person:Laadah",
+    "person:Jokim",
+    "person:Joash.5"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007111002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Saraph",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Saraph",
+          "article": "person:Saraph",
+          "description": "Saraph was a man of the tribe of Judah living during the time of Egypt and the wilderness, mentioned in 1 Chronicles 4:22, and was the son of Shelah and brother of Er, Laadah, Jokim, and Joash."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004022"
+  ],
+  "references": [
+    "13004022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040220052"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130040230011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130040220071"
+      ],
+      [
+        "o130040230091"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "person:Reuel.3",
+  "primary_id": "person:Reuel.3",
+  "alternate_sources": {
+    "aquifer": [
+      "8016|Reuel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006861001001000"
+    ],
+    "tipnr": [
+      "Reuel@Gen.36.4-1Ch"
+    ],
+    "vizbible": [
+      "recCBlNIAf0HhjdVO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Esau",
+  "mother": "person:Mahalath",
+  "offspring": [
+    "person:Nahath",
+    "person:Zerah",
+    "person:Shammah.2",
+    "person:Mizzah"
+  ],
+  "siblings": [
+    "person:Eliphaz",
+    "person:Jeush",
+    "person:Jalam",
+    "person:Korah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "006861001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Reuel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Reuel",
+          "article": "person:Reuel.3",
+          "description": "The son of Esau by Mahalath, and the father of Nahath, Zerah, Shammah, and Mizzah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036004",
+    "01036010",
+    "01036011",
+    "01036012",
+    "01036013",
+    "13001035"
+  ],
+  "references": [
+    "01036004",
+    "01036010",
+    "01036013",
+    "01036017",
+    "13001035",
+    "13001037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360040091"
+      ],
+      [
+        "o010360100101"
+      ],
+      [
+        "o010360130031"
+      ],
+      [
+        "o010360170031"
+      ],
+      [
+        "o010360170161"
+      ],
+      [
+        "o130010350041"
+      ],
+      [
+        "o130010370021"
+      ]
+    ]
+  }
+}

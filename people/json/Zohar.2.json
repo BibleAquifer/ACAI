@@ -1,0 +1,73 @@
+{
+  "id": "person:Zohar.2",
+  "primary_id": "person:Zerah.6",
+  "alternate_sources": {
+    "aquifer": [
+      "9254|Zohar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006178001002000"
+    ],
+    "tipnr": [
+      "Zohar|Zerah@Gen.46.10-1Ch"
+    ],
+    "vizbible": [
+      "recqRZfZwTzEyT9m2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simeon.5",
+  "mother": "person:AWifeOfSimeon",
+  "siblings": [
+    "person:Jemuel",
+    "person:Jamin",
+    "person:Ohad",
+    "person:Jachin",
+    "person:Shaul.2"
+  ],
+  "tribe": "group:Simeon",
+  "ubsdbh": [
+    "006178001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zohar (Zerah)",
+      "alternate_labels": [
+        "Zerah",
+        "Ohad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zerah",
+          "article": "person:Zohar.2",
+          "description": "Zohar, also called Zerah, was a man from the tribe of Simeon living during the time of Egypt and the wilderness, son of Simeon and brother of Jemuel, Jamin, Ohad, Jachin, and Shaul, mentioned in Genesis 46:10 and Numbers 26:13, 20."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zerah.6"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046010",
+    "02006015"
+  ],
+  "references": [
+    "01046010",
+    "02006015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460100072"
+      ],
+      [
+        "o020060150072"
+      ]
+    ]
+  }
+}

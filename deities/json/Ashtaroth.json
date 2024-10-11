@@ -1,0 +1,80 @@
+{
+  "id": "deity:Ashtaroth",
+  "primary_id": "deity:Ashtoreth",
+  "alternate_sources": {
+    "aquifer": [
+      "3809|Ashtaroth, Ashterathite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005735001001000"
+    ],
+    "tipnr": [
+      "Ashtaroth|Ashtoreth@1Ki.11.5-2Ki"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "005735001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ashtaroth",
+      "alternate_labels": [
+        "Ashtoreth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ashtoreth",
+          "article": "deity:Ashtaroth",
+          "description": "The Phoenecian goddess of love and fertility."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Ashtoreth"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַשְׁתְּרֹת קַרְנַיִם"
+    ]
+  },
+  "key_references": [
+    "11011005",
+    "07010006"
+  ],
+  "references": [
+    "07002013",
+    "07010006",
+    "09007003",
+    "09007004",
+    "09012010",
+    "09031010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070020130063"
+      ],
+      [
+        "o070100060122"
+      ],
+      [
+        "o090070030203"
+      ],
+      [
+        "o090070040072"
+      ],
+      [
+        "o090120100152"
+      ],
+      [
+        "o090310100051"
+      ]
+    ]
+  }
+}

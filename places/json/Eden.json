@@ -1,0 +1,109 @@
+{
+  "id": "place:Eden",
+  "primary_id": "place:Eden",
+  "alternate_sources": {
+    "aquifer": [
+      "4939|Eden|TyndaleBibleDictionary",
+      "26546|Eden|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005261001001000"
+    ],
+    "tipnr": [
+      "Eden@2Ki.19.12-Ezk"
+    ],
+    "vizbible": [
+      "recLIUK6VRKNjnGo6"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005261001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eden (of Mesopotamia)",
+      "alternate_labels": [
+        "Edenites",
+        "Eden"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eden.2",
+          "gloss": "Eden (of Mesopotamia)",
+          "description": "A region in northern Mesopotamia."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Beth-eden"
+  ],
+  "tribal_area": "group:Assyria",
+  "nearby_places": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עַדְנָא"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "23037012",
+    "26027023",
+    "12019012"
+  ],
+  "references": [
+    "12019012",
+    "23037012",
+    "26027023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120190120141"
+      ],
+      [
+        "o230370120141"
+      ],
+      [
+        "o260270230032"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270240011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270230081"
+      ],
+      [
+        "o260270240021"
+      ]
+    ]
+  }
+}

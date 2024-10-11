@@ -1,0 +1,82 @@
+{
+  "id": "person:Naaman.2",
+  "primary_id": "person:Naaman.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7260|Naaman|TyndaleBibleDictionary",
+      "26897|Naaman|UWTranslationWords",
+      "132434|Naaman|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Naaman@Num.26.40-1Ch"
+    ],
+    "vizbible": [
+      "receuA85IaraTtp41"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Bela",
+  "siblings": [
+    "person:Ard.2",
+    "person:Ezbon.2",
+    "person:Uzzi.3",
+    "person:Uzziel.3",
+    "person:Jerimoth",
+    "person:Iri",
+    "person:Addar",
+    "person:Gera.3",
+    "person:Abihud",
+    "person:Abishua.2",
+    "person:Ahoah"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Naaman (Numbers 26:40)",
+      "alternate_labels": [
+        "Naamite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Naaman (Numbers 26:40)",
+          "article": "person:Naaman.2",
+          "description": "A son of Bela from the tribe of Benjamin who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites"
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Naaman"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026040",
+    "13008004"
+  ],
+  "references": [
+    "04026040",
+    "13008004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260400052"
+      ],
+      [
+        "o040260400082"
+      ],
+      [
+        "o040260400102"
+      ],
+      [
+        "o130080040022"
+      ]
+    ]
+  }
+}

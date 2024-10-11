@@ -1,0 +1,96 @@
+{
+  "id": "place:Magog",
+  "primary_id": "place:Magog",
+  "alternate_sources": {
+    "aquifer": [
+      "6857|Magog|TyndaleBibleDictionary"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/6064180"
+    ],
+    "tipnr": [
+      "Magog@Ezk.38.2-Rev"
+    ],
+    "vizbible": [
+      "recbwzNRSJ9WR620p"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Magog",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Magog",
+          "gloss": "Magog",
+          "description": "A cryptic name to designate an enemy to be conquered by the Messiah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Asia",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "46",
+      "lon": "47"
+    },
+    "recogito": {
+      "lat": "45.26678",
+      "lon": "-72.14909"
+    },
+    "vizbible": {
+      "lat": "46",
+      "lon": "47"
+    }
+  },
+  "key_references": [
+    "26039006",
+    "26038002",
+    "66020007"
+  ],
+  "references": [
+    "26038002",
+    "26039006",
+    "66020008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260380020082"
+      ],
+      [
+        "o260390060032"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n66020008016"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260390060072"
+      ]
+    ]
+  }
+}

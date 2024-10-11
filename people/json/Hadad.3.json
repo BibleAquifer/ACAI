@@ -1,0 +1,165 @@
+{
+  "id": "person:Hadad.3",
+  "primary_id": "person:Hadad.3",
+  "alternate_sources": {
+    "aquifer": [
+      "5569|Hadad|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hadad@1Ki.11.14-"
+    ],
+    "vizbible": [
+      "recEfNdp30UfPxcHi"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:SisterOfTahpenes"
+  ],
+  "offspring": [
+    "person:Genubath"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hadad",
+          "article": "person:Hadad.3",
+          "description": "An Edomite king during the time of Israel’s united kingdom and adversary of King Solomon. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11011014",
+    "11011017",
+    "11011025"
+  ],
+  "references": [
+    "11011014",
+    "11011017",
+    "11011019",
+    "11011021",
+    "11011025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110110140061"
+      ],
+      [
+        "o110110170021"
+      ],
+      [
+        "o110110170112"
+      ],
+      [
+        "o110110190021"
+      ],
+      [
+        "o110110210012"
+      ],
+      [
+        "o110110210151"
+      ],
+      [
+        "o110110250101"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o110110140101"
+      ],
+      [
+        "o110110170031"
+      ],
+      [
+        "o110110220061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110110170092"
+      ],
+      [
+        "o110110180012"
+      ],
+      [
+        "o110110180032"
+      ],
+      [
+        "o110110180052"
+      ],
+      [
+        "o110110180092"
+      ],
+      [
+        "o110110210192"
+      ],
+      [
+        "o110110220112"
+      ],
+      [
+        "o110110220142"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o110110210181",
+          "o110110210182",
+          "o110110210191",
+          "o110110210192",
+          "o110110210201",
+          "o110110210211",
+          "o110110210212"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o110110220051",
+          "o110110220061",
+          "o110110220071",
+          "o110110220081",
+          "o110110220082",
+          "o110110220091",
+          "o110110220092",
+          "o110110220093",
+          "o110110220101",
+          "o110110220111",
+          "o110110220112",
+          "o110110220121",
+          "o110110220131",
+          "o110110220132"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o110110220151",
+          "o110110220161",
+          "o110110220171",
+          "o110110220181",
+          "o110110220182"
+        ]
+      }
+    ]
+  }
+}

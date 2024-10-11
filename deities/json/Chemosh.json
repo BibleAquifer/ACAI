@@ -1,0 +1,93 @@
+{
+  "id": "deity:Chemosh",
+  "primary_id": "deity:Chemosh",
+  "alternate_sources": {
+    "aquifer": [
+      "4501|Chemosh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003338001001000"
+    ],
+    "tipnr": [
+      "Chemosh@Num.21.29-Jer"
+    ],
+    "vizbible": [
+      "recCWY7OHg1GzDtTq"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "003338001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chemosh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Chemosh",
+          "article": "deity:Chemosh",
+          "description": "The primary god of the Moabites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כְּמֹושׁ",
+      "כְּמוֹשׁ"
+    ]
+  },
+  "key_references": [
+    "04021009",
+    "24048046"
+  ],
+  "references": [
+    "04021029",
+    "07011024",
+    "11011007",
+    "11011033",
+    "12023013",
+    "24048007",
+    "24048013",
+    "24048046"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210290061"
+      ],
+      [
+        "o070110240051"
+      ],
+      [
+        "o110110070052"
+      ],
+      [
+        "o110110330082"
+      ],
+      [
+        "o120230130193"
+      ],
+      [
+        "o240480070111"
+      ],
+      [
+        "o240480130032"
+      ],
+      [
+        "o240480460061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040210290071"
+      ]
+    ]
+  }
+}

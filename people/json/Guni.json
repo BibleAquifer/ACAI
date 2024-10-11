@@ -1,0 +1,75 @@
+{
+  "id": "person:Guni",
+  "primary_id": "person:Guni",
+  "alternate_sources": {
+    "aquifer": [
+      "5551|Guni|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Guni@Gen.46.24-1Ch"
+    ],
+    "vizbible": [
+      "recJ4lYdxuYyO07H7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Naphtali",
+  "siblings": [
+    "person:Jahzeel",
+    "person:Jezer",
+    "person:Shillem"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Naphtali",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Guni",
+      "alternate_labels": [
+        "Gunite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Guni",
+          "article": "person:Guni",
+          "description": "Hagar, also known as Agar, was a woman living at the time of the patriarchs who was married to Abraham and mother of Ishmael, as mentioned in Genesis 16:1."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Guni"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046024",
+    "04026048",
+    "13007013"
+  ],
+  "references": [
+    "01046024",
+    "04026048",
+    "13007013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460240042"
+      ],
+      [
+        "o040260480072"
+      ],
+      [
+        "o040260480092"
+      ],
+      [
+        "o130070130042"
+      ]
+    ]
+  }
+}

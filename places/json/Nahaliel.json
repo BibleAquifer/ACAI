@@ -1,0 +1,89 @@
+{
+  "id": "place:Nahaliel",
+  "primary_id": "place:Lasha",
+  "alternate_sources": {
+    "aquifer": [
+      "7281|Nahaliel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004731001001000"
+    ],
+    "tipnr": [
+      "Nahaliel|Lasha@Gen.10.19-Num"
+    ],
+    "vizbible": [
+      "recPHfjdYwB2Kwud8"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004731001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nahaliel",
+      "alternate_labels": [
+        "Lasha"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nahaliel",
+          "gloss": "Nahaliel",
+          "description": "A location along the route of the exodus, between Mattanah and Bamoth, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Lasha"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נַחֲלִיאֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.718148",
+      "lon": "35.584826"
+    },
+    "vizbible": {
+      "lat": "31.718148",
+      "lon": "35.584826"
+    }
+  },
+  "key_references": [
+    "04021019"
+  ],
+  "references": [
+    "04021019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210190021"
+      ],
+      [
+        "o040210190033"
+      ]
+    ]
+  }
+}

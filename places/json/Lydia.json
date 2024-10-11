@@ -1,0 +1,37 @@
+{
+  "id": "place:Lydia",
+  "primary_id": "place:Lydia",
+  "alternate_sources": {
+    "aquifer": [
+      "6801|Lydia (Place)|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lydia",
+          "gloss": "Lydia",
+          "description": "A province in Western Asia Minor."
+        }
+      ],
+      "preferred_label": "Lydia"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": true,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  },
+  "key_references": [
+    "44016040"
+  ]
+}

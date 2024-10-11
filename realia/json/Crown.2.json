@@ -1,0 +1,134 @@
+{
+  "id": "realia:Crown.2",
+  "primary_id": "realia:Crown.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4699|Crown|TyndaleBibleDictionary",
+      "26486|Crown|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "6.192"
+    ],
+    "ubsdbh": [
+      "006296001001000"
+    ],
+    "ubsrealia": [
+      "realia:6.8"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.192"
+  ],
+  "ubsdbh": [
+    "006296001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Crown",
+      "alternate_labels": [
+        "Diadem",
+        "Wreath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Crown",
+          "article": "realia:Crown.2",
+          "description": "A circular band or wreath worn on the head, often made of foliage or precious metals, symbolizing honor, victory, or high office."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צְפִירָה"
+    ],
+    "el": [
+      "στέφανος"
+    ]
+  },
+  "key_references": [
+    "40027029",
+    "46009025",
+    "66014014"
+  ],
+  "references": [
+    "23028005",
+    "40027029",
+    "41015017",
+    "43019002",
+    "43019005",
+    "46009025",
+    "52002019",
+    "59001012",
+    "60005004",
+    "66004004",
+    "66004010",
+    "66006002",
+    "66009007",
+    "66012001",
+    "66014014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230280050083"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40027029003"
+      ],
+      [
+        "n41015017010"
+      ],
+      [
+        "n43019002005"
+      ],
+      [
+        "n43019005009"
+      ],
+      [
+        "n46009025012"
+      ],
+      [
+        "n52002019008"
+      ],
+      [
+        "n59001012011"
+      ],
+      [
+        "n60005004010"
+      ],
+      [
+        "n66004004025"
+      ],
+      [
+        "n66004010024"
+      ],
+      [
+        "n66006002017"
+      ],
+      [
+        "n66009007017"
+      ],
+      [
+        "n66012001024"
+      ],
+      [
+        "n66014014020"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n59001012014"
+      ]
+    ]
+  }
+}

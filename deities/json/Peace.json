@@ -1,0 +1,77 @@
+{
+  "id": "deity:Peace",
+  "primary_id": "deity:Lord",
+  "alternate_sources": {
+    "aquifer": [
+      "7620|Peace|TyndaleBibleDictionary",
+      "26938|Peace|UWTranslationWords",
+      "132157|Peace|BiblicaStudyNotesKeyTerms",
+      "280162|peace|FIAKeyTerms"
+    ],
+    "ubsdbh": [
+      "002823001001000"
+    ],
+    "tipnr": [
+      "Peace|LORD@Gen.1.1-Heb"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "002823001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Peace (LORD)",
+      "alternate_labels": [
+        "LORD",
+        "Shalom"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "LORD",
+          "article": "deity:Peace",
+          "description": "The name of God equated with “Peace” in Judges 6:24."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Lord"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יהוה",
+      "יְהֹוִה",
+      "3071+",
+      "אֶל",
+      "בְּ",
+      "וְ",
+      "בּוֹא",
+      "כְּ",
+      "לְ",
+      "לֹא",
+      "נְאֻם"
+    ]
+  },
+  "key_references": [
+    "07006024"
+  ],
+  "references": [
+    "07006024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070060240052"
+      ],
+      [
+        "o070060240081",
+        "o070060240091"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "place:Atad",
+  "primary_id": "place:Atad",
+  "alternate_sources": {
+    "aquifer": [
+      "3853|Atad|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2f186d"
+    ],
+    "tipnr": [
+      "Abel-mizraim|Atad@Gen.50.10-",
+      "Atad@Gen.50.10-"
+    ],
+    "vizbible": [
+      "recbH04cWWTUPT5HI"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4812632"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Atad",
+      "alternate_labels": [
+        "Abel-Mizraim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Atad",
+          "gloss": "Atad",
+          "description": "A threshing floor near the Jordan River where Jacob's descendants mourned their father's death."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Abel-mizraim"
+  ],
+  "referred_to_as": [
+    "place:Abel-mizraim"
+  ],
+  "nearby_places": [
+    "place:Jordan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "key_references": [
+    "01050010"
+  ],
+  "references": [
+    "01050010",
+    "01050011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010500100041"
+      ],
+      [
+        "o010500110081"
+      ],
+      [
+        "o010500110181",
+        "o010500110191"
+      ]
+    ]
+  }
+}

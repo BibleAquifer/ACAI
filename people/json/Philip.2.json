@@ -1,0 +1,66 @@
+{
+  "id": "person:Philip.2",
+  "primary_id": "person:Philip.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7712|Philip|TyndaleBibleDictionary",
+      "26954|Philip|UWTranslationWords",
+      "132049|Philip|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Philip@Mat.14.3-Luk"
+    ],
+    "vizbible": [
+      "rec55VOZZ1c2NCs96"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Herod",
+  "partners": [
+    "person:Herodias"
+  ],
+  "offspring": [
+    "person:Salome.2"
+  ],
+  "siblings": [
+    "person:Archelaus",
+    "person:Herod.2",
+    "person:Philip.3"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Philip (Husband of Herodias)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Philip (Husband of Herodias)",
+          "article": "person:Philip.2",
+          "description": "Brother of Herod and the first husband of Herodias."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40014003",
+    "41006017",
+    "42003019"
+  ],
+  "references": [
+    "40014003",
+    "41006017",
+    "42003019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40014003017"
+      ],
+      [
+        "n41006017018"
+      ]
+    ]
+  }
+}

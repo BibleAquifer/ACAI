@@ -1,0 +1,67 @@
+{
+  "id": "person:Izhar.2",
+  "primary_id": "person:Izhar.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6124|Izhar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006178001003000"
+    ],
+    "tipnr": [
+      "Izhar@1Ch.4.7"
+    ],
+    "vizbible": [
+      "rec4k1Ho1PLJEhrT1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ashhur",
+  "mother": "person:Helah",
+  "siblings": [
+    "person:Ahuzzam",
+    "person:Hepher.2",
+    "person:Temeni",
+    "person:Haahashtari",
+    "person:Zereth",
+    "person:Ethnan",
+    "person:Koz"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "006178001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Izhar (1 Chronicles 4:7)",
+      "alternate_labels": [
+        "Zohar",
+        "Jezoar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Izhar (1 Chronicles 4:7)",
+          "article": "person:Izhar.2",
+          "description": "A man from the tribe of Judah during the divided kingdom, son of Ashhur and Helah, mentioned in 1 Chronicles 4:7."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004007"
+  ],
+  "references": [
+    "13004007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040070052"
+      ]
+    ]
+  }
+}

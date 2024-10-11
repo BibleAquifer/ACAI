@@ -1,0 +1,87 @@
+{
+  "id": "place:Meconah",
+  "primary_id": "place:Meconah",
+  "alternate_sources": {
+    "aquifer": [
+      "7005|Meconah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003992001001000"
+    ],
+    "tipnr": [
+      "Meconah@Neh.11.28"
+    ],
+    "vizbible": [
+      "reckG7F2dzoWxHCUy"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003992001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meconah",
+      "alternate_labels": [
+        "Mekonah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Meconah",
+          "gloss": "Meconah",
+          "description": "A town in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מְכֹנָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.370835",
+      "lon": "34.860665"
+    },
+    "vizbible": {
+      "lat": "31.370835",
+      "lon": "34.860665"
+    }
+  },
+  "key_references": [
+    "16011028"
+  ],
+  "references": [
+    "16011028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110280023"
+      ]
+    ]
+  }
+}

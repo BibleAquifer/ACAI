@@ -1,0 +1,88 @@
+{
+  "id": "flora:Laurel",
+  "primary_id": "flora:Laurel",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000706001001000"
+    ],
+    "ubsflora": [
+      "flora:1.12"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "000706001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Laurel",
+      "alternate_labels": [
+        "Bay Tree"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Laurel",
+          "article": "flora:Laurel",
+          "description": "A type of tree with leaves, flowers, and fruit, and its wood can be used for carving."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֹרֶן"
+    ]
+  },
+  "key_references": [
+    "23044014"
+  ],
+  "references": [
+    "23044014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230440140121"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230440150052"
+      ],
+      [
+        "o230440150152"
+      ],
+      [
+        "o230440160012"
+      ],
+      [
+        "o230440160062"
+      ],
+      [
+        "o230440170013"
+      ],
+      [
+        "o230440190102"
+      ],
+      [
+        "o230440190172"
+      ],
+      [
+        "o230440190223"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230440150012"
+      ]
+    ]
+  }
+}

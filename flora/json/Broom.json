@@ -1,0 +1,69 @@
+{
+  "id": "flora:Broom",
+  "primary_id": "flora:Broom",
+  "alternate_sources": {
+    "aquifer": [
+      "4350|Broom|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006956001001000"
+    ],
+    "ubsflora": [
+      "flora:1.3"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "006956001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Broom (Plant)",
+      "alternate_labels": [
+        "Broom Tree"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Broom (Plant)",
+          "article": "flora:Broom",
+          "description": "A tough desert shrub up to 2 meters tall with many branches, few leaves, and clusters of white flowers. Its wood can be used for charcoal."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "רֹתֶם"
+    ]
+  },
+  "key_references": [
+    "11019004",
+    "18030004"
+  ],
+  "references": [
+    "11019004",
+    "11019005",
+    "18030004",
+    "19120004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110190040091"
+      ],
+      [
+        "o110190050041"
+      ],
+      [
+        "o180300040061"
+      ],
+      [
+        "o191200040061"
+      ]
+    ]
+  }
+}

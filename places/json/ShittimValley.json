@@ -1,0 +1,79 @@
+{
+  "id": "place:ShittimValley",
+  "primary_id": "place:ShittimValley",
+  "alternate_sources": {
+    "obi": [
+      "a01769f"
+    ],
+    "ubsdbh": [
+      "007312001001000",
+      "004729001001000"
+    ],
+    "tipnr": [
+      "Shittim_Valley@Jol.3.18"
+    ],
+    "vizbible": [
+      "recykm4CnCycDnjVI"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007312001001000",
+    "004729001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Shittim",
+      "alternate_labels": [
+        "valley of Acacia Trees",
+        "Wadi Shittim",
+        "acacias",
+        "Valley of Acacia Trees",
+        "Valley of Acacias",
+        "valley of Shittim",
+        "Shittim"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "river",
+      "special"
+    ],
+    "vizbible": [
+      "Valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.85826217905818",
+      "lon": "35.64156652792805"
+    },
+    "vizbible": {
+      "lat": "31.85826217905818",
+      "lon": "35.64156652792805"
+    }
+  },
+  "key_references": [
+    "29004018"
+  ],
+  "references": [
+    "29004018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o290040180211"
+      ],
+      [
+        "o290040180222"
+      ]
+    ]
+  }
+}

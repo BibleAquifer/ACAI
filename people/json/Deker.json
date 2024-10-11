@@ -1,0 +1,60 @@
+{
+  "id": "person:Deker",
+  "primary_id": "person:Deker",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001043001001000"
+    ],
+    "tipnr": [
+      "Deker@1Ki.4.9"
+    ],
+    "vizbible": [
+      "rec9qIA8JwbEQ0VUZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ben-deker"
+  ],
+  "ubsdbh": [
+    "001043001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Deker",
+      "alternate_labels": [
+        "Dekar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Deker",
+          "article": "person:Deker",
+          "description": "Deker, mentioned in 1 Kings 4:9, was the father of Ben-deker and lived during the time of Israel's united kingdom under King Solomon."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּן־דֶּקֶר",
+      "בֶּן־דֶּ֫קֶר"
+    ]
+  },
+  "key_references": [
+    "11004009"
+  ],
+  "references": [
+    "11004009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040090021"
+      ]
+    ]
+  }
+}

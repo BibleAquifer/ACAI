@@ -1,0 +1,74 @@
+{
+  "id": "flora:AppleTree",
+  "primary_id": "flora:AppleTree",
+  "alternate_sources": {
+    "aquifer": [
+      "3680|Apple, Apple Tree|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007892001001000"
+    ],
+    "ubsflora": [
+      "flora:2.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Domestic Trees and Shrubs",
+  "ubsdbh": [
+    "007892001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Apple",
+      "alternate_labels": [
+        "Crab Apple",
+        "Wild Apple"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Apple",
+          "article": "flora:AppleTree",
+          "description": "This tree grows up to 10 meters tall, has pink spring flowers, and its fruit can be green, yellow, or red."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תַּפּוּחַ"
+    ]
+  },
+  "key_references": [
+    "22002003",
+    "29001012"
+  ],
+  "references": [
+    "20025011",
+    "22002003",
+    "22002005",
+    "22007009",
+    "22008005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o200250110011"
+      ],
+      [
+        "o220020030012"
+      ],
+      [
+        "o220020050042"
+      ],
+      [
+        "o220070090132"
+      ],
+      [
+        "o220080050102"
+      ]
+    ]
+  }
+}

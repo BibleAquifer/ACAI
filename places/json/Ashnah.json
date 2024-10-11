@@ -1,0 +1,91 @@
+{
+  "id": "place:Ashnah",
+  "primary_id": "place:Ashnah",
+  "alternate_sources": {
+    "aquifer": [
+      "3806|Ashnah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000760001001000",
+      "000760001002000"
+    ],
+    "tipnr": [
+      "Ashnah@Jos.15.33-"
+    ],
+    "vizbible": [
+      "recR2iltmaNI9n7HL"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000760001001000",
+    "000760001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ashnah (Joshua 15:33)",
+      "alternate_labels": [
+        "Ashnah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ashnah.1",
+          "gloss": "Ashnah (Joshua 15:33)",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַשְׁנָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    },
+    "vizbible": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    }
+  },
+  "key_references": [
+    "06015033"
+  ],
+  "references": [
+    "06015033",
+    "06015043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150330042"
+      ],
+      [
+        "o060150430022"
+      ]
+    ]
+  }
+}

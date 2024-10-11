@@ -1,0 +1,84 @@
+{
+  "id": "person:Zippor",
+  "primary_id": "person:Zippor",
+  "alternate_sources": {
+    "aquifer": [
+      "9243|Zippor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006286002001000"
+    ],
+    "tipnr": [
+      "Zippor@Num.22.2-Jdg"
+    ],
+    "vizbible": [
+      "recIZ62vE8PgSqYqi"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Balak"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Moab",
+  "ubsdbh": [
+    "006286002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zippor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zippor",
+          "article": "person:Zippor",
+          "description": "Father of King Balak of Moab who lived during the time of the Israelite conquest of Canaan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04022002",
+    "04022004",
+    "06024009"
+  ],
+  "references": [
+    "04022002",
+    "04022004",
+    "04022010",
+    "04022016",
+    "04023018",
+    "06024009",
+    "07011025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040220020041"
+      ],
+      [
+        "o040220040191"
+      ],
+      [
+        "o040220100071"
+      ],
+      [
+        "o040220160101"
+      ],
+      [
+        "o040230180101"
+      ],
+      [
+        "o060240090041"
+      ],
+      [
+        "o070110250071"
+      ]
+    ]
+  }
+}

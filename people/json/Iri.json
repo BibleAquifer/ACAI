@@ -1,0 +1,71 @@
+{
+  "id": "person:Iri",
+  "primary_id": "person:Iri",
+  "alternate_sources": {
+    "aquifer": [
+      "6048|Iri|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005419001001000"
+    ],
+    "tipnr": [
+      "Iri@1Ch.7.7"
+    ],
+    "vizbible": [
+      "recBOePf8u86HlXdR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Bela",
+  "siblings": [
+    "person:Ard.2",
+    "person:Naaman.2",
+    "person:Ezbon.2",
+    "person:Uzzi.3",
+    "person:Uzziel.3",
+    "person:Jerimoth",
+    "person:Addar",
+    "person:Gera.3",
+    "person:Abihud",
+    "person:Abishua.2",
+    "person:Ahoah"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005419001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Iri",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Iri",
+          "article": "person:Iri",
+          "description": "A man of the tribe of Benjamin living during the time of Egypt and the wilderness, son of Bela, mentioned in 1 Chronicles 7:7."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עִירָם"
+    ]
+  },
+  "key_references": [
+    "13007007"
+  ],
+  "references": [
+    "13007007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070070072"
+      ]
+    ]
+  }
+}

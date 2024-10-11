@@ -1,0 +1,118 @@
+{
+  "id": "person:Jehoahaz.3",
+  "primary_id": "person:Jehoahaz.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6273|Jehoahaz|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jehoahaz@2Ki.23.30-2Ch",
+      "Johanan|Jehoahaz@2Ki.23.30-2Ch(?)"
+    ],
+    "vizbible": [
+      "reckTJIVOYS9ZKKz3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Josiah",
+  "mother": "person:Hamutal",
+  "siblings": [
+    "person:Jehoiakim",
+    "person:Zedekiah.3",
+    "person:Shallum.5"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehoahaz",
+      "alternate_labels": [
+        "Johanan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoahaz",
+          "article": "person:Jehoahaz.3",
+          "description": "A king of Judah during the divided kingdom. He was a son of Josiah by Hamutal, and brother of Zedekiah. Jehoahaz was deported to Egypt by Pharoah Neco and died there."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Johanan"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12023030",
+    "12023031",
+    "12023032",
+    "12023033",
+    "12023034",
+    "12024018",
+    "13003015",
+    "14036001"
+  ],
+  "references": [
+    "12023030",
+    "12023031",
+    "12023034",
+    "13003015",
+    "14036001",
+    "14036002",
+    "14036004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120230300131"
+      ],
+      [
+        "o120230310051"
+      ],
+      [
+        "o120230340161"
+      ],
+      [
+        "o130030150041"
+      ],
+      [
+        "o140360010051"
+      ],
+      [
+        "o140360020051"
+      ],
+      [
+        "o140360040151"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120230310091"
+      ],
+      [
+        "o120230320012"
+      ],
+      [
+        "o120230330082"
+      ],
+      [
+        "o120230340202"
+      ],
+      [
+        "o140360020091"
+      ]
+    ]
+  }
+}

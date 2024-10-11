@@ -1,0 +1,55 @@
+{
+  "id": "person:Shama",
+  "primary_id": "person:Shama",
+  "alternate_sources": {
+    "aquifer": [
+      "8272|Shama|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007479001001000"
+    ],
+    "tipnr": [
+      "Shama@1Ch.11.44"
+    ],
+    "vizbible": [
+      "reckv6NRCIXCak9GG"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hotham.2",
+  "siblings": [
+    "person:Jeiel.3"
+  ],
+  "ubsdbh": [
+    "007479001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shama",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shama",
+          "article": "person:Shama",
+          "description": "Shama was a man living during the divided kingdom period, mentioned in 1 Chronicles 11:44 as the son of Hotham and brother of Jeiel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13011044"
+  ],
+  "references": [
+    "13011044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130110440031"
+      ]
+    ]
+  }
+}

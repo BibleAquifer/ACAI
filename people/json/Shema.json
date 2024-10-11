@@ -1,0 +1,68 @@
+{
+  "id": "person:Shema",
+  "primary_id": "person:Shema",
+  "alternate_sources": {
+    "aquifer": [
+      "8346|Shema (Person)|TyndaleBibleDictionary",
+      "8349|Shema, the|TyndaleBibleDictionary",
+      "132360|Shema|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "007478002001000"
+    ],
+    "tipnr": [
+      "Shema@1Ch.2.43-"
+    ],
+    "vizbible": [
+      "rec6jDEslGAnDLQAi"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hebron.2",
+  "offspring": [
+    "person:Raham"
+  ],
+  "siblings": [
+    "person:Korah.4",
+    "person:Tappuah",
+    "person:Rekem.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007478002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shema",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shema",
+          "article": "person:Shema",
+          "description": "Shema, mentioned in 1 Chronicles 2:43, was a man of the tribe of Judah living during the time of the divided kingdom, the son of Hebron, brother of Korah, Tappuah, and Rekem, and father of Raham."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002043",
+    "13002044"
+  ],
+  "references": [
+    "13002043",
+    "13002044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020430062"
+      ],
+      [
+        "o130020440012"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "person:Dinaite",
+  "primary_id": "person:Dinaite",
+  "alternate_sources": {
+    "tipnr": [
+      "judges|Dinaite@Ezr.4.9",
+      "Dinaite@Ezr.4.9"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dinaite",
+      "alternate_labels": [
+        "judges"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dinaite",
+          "article": "person:Dinaite",
+          "description": "Dinaite, sometimes translated as 'judges', is a group mentioned only in Ezra 4:9."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Judges"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15004009"
+  ],
+  "references": [
+    "15004009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150040090091"
+      ]
+    ]
+  }
+}

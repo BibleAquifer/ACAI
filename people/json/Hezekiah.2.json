@@ -1,0 +1,53 @@
+{
+  "id": "person:Hezekiah.2",
+  "primary_id": "person:Hezekiah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5833|Hezekiah|TyndaleBibleDictionary",
+      "26692|Hezekiah|UWTranslationWords",
+      "132442|Hezekiah|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Hezekiah@Ezr.2.16-Neh"
+    ],
+    "vizbible": [
+      "recGM7LTCD8kEDGz2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ater",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hezekiah (Ezra 2:16)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hezekiah (Ezra 2:16)",
+          "article": "person:Hezekiah.2",
+          "description": "Hezekiah, a man from the time of exile and return, is first mentioned in Ezra 2:16 and was the son of Ater."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002016",
+    "16007021"
+  ],
+  "references": [
+    "15002016",
+    "16007021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020160032"
+      ],
+      [
+        "o160070210032"
+      ]
+    ]
+  }
+}

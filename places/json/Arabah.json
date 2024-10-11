@@ -1,0 +1,186 @@
+{
+  "id": "place:Arabah",
+  "primary_id": "place:Arabah",
+  "alternate_sources": {
+    "aquifer": [
+      "3687|Arabah|TyndaleBibleDictionary",
+      "3685|Arabah, Brook of the|TyndaleBibleDictionary",
+      "3686|Arabah, Sea of the|TyndaleBibleDictionary",
+      "26327|Arabah|UWTranslationWords"
+    ],
+    "obi": [
+      "a2bb5ef"
+    ],
+    "tipnr": [
+      "Arabah@Deu.1.1-Zec"
+    ],
+    "vizbible": [
+      "recWKNRLvmxh9CMku"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q626682"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arabah",
+      "alternate_labels": [
+        "Jordan plain",
+        "wilderness",
+        "plain",
+        "Arabah Valley",
+        "eastern Jordan plain",
+        "Jordan Valley",
+        "valley of the Dead Sea",
+        "desert",
+        "Arbathite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Arabah",
+          "gloss": "Arabah",
+          "description": "The deep depression through which the Jordan River flows, which runs from the south of the Sea of Galilee via the Dead Sea into the Gulf of Aqabah."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.029676",
+      "lon": "35.520995"
+    },
+    "vizbible": {
+      "lat": "32.029676",
+      "lon": "35.520995"
+    }
+  },
+  "key_references": [
+    "05002008"
+  ],
+  "references": [
+    "05001001",
+    "05001007",
+    "05002008",
+    "05003017",
+    "05004049",
+    "05011030",
+    "06008014",
+    "06011002",
+    "06011016",
+    "06012001",
+    "06012003",
+    "06012008",
+    "06018018",
+    "09023024",
+    "10002029",
+    "10004007",
+    "10023031",
+    "12025004",
+    "12025005",
+    "13011032",
+    "23033009",
+    "24017006",
+    "24039004",
+    "24052007",
+    "26047008",
+    "38014010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050010010122"
+      ],
+      [
+        "o050010070102"
+      ],
+      [
+        "o050020080092"
+      ],
+      [
+        "o050030170013"
+      ],
+      [
+        "o050030170072"
+      ],
+      [
+        "o050040490022"
+      ],
+      [
+        "o050040490082"
+      ],
+      [
+        "o050110300122"
+      ],
+      [
+        "o060080140182"
+      ],
+      [
+        "o060110020063"
+      ],
+      [
+        "o060110160182"
+      ],
+      [
+        "o060120010212"
+      ],
+      [
+        "o060120030013"
+      ],
+      [
+        "o060120030082"
+      ],
+      [
+        "o060120080033"
+      ],
+      [
+        "o060180180052"
+      ],
+      [
+        "o060180180082"
+      ],
+      [
+        "o090230240102"
+      ],
+      [
+        "o100020290042"
+      ],
+      [
+        "o100040070192"
+      ],
+      [
+        "o120250040212"
+      ],
+      [
+        "o230330090092"
+      ],
+      [
+        "o240390040232"
+      ],
+      [
+        "o240520070242"
+      ],
+      [
+        "o260470080112"
+      ],
+      [
+        "o380140100042"
+      ]
+    ]
+  }
+}

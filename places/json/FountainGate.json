@@ -1,0 +1,91 @@
+{
+  "id": "place:FountainGate",
+  "primary_id": "place:FountainGate",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005389003004000"
+    ],
+    "tipnr": [
+      "Fountain_Gate@Neh.2.14-"
+    ],
+    "vizbible": [
+      "recxDEP8UZTymLeVj"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005389003004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fountain Gate",
+      "alternate_labels": [
+        "Gate of the Fountain",
+        "Gate of the Well",
+        "Fountain",
+        " Gate"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:FountainGate",
+          "gloss": "Fountain Gate",
+          "description": "A gate of Jerusalem in the City of David."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:CityOfDavid"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16012037",
+    "16002014",
+    "16003015"
+  ],
+  "references": [
+    "16002014",
+    "16003015",
+    "16012037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160020140042"
+      ],
+      [
+        "o160030150032"
+      ],
+      [
+        "o160120370032"
+      ]
+    ]
+  }
+}

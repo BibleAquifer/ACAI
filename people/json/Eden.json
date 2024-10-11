@@ -1,0 +1,69 @@
+{
+  "id": "person:Eden",
+  "primary_id": "person:Eden",
+  "alternate_sources": {
+    "aquifer": [
+      "4939|Eden|TyndaleBibleDictionary",
+      "26546|Eden|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005260002002000"
+    ],
+    "tipnr": [
+      "Eden@2Ch.29.12"
+    ],
+    "vizbible": [
+      "recB4YQNI3wA44qzJ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joah.6",
+  "ubsdbh": [
+    "005260002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eden",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eden",
+          "article": "person:Eden",
+          "description": "Eden was a man living during the time of the divided kingdom, mentioned in 2 Chronicles 29:12 as the son of Joah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "14029012"
+  ],
+  "references": [
+    "14029012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140290120262"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140290150012"
+      ],
+      [
+        "o140290150042"
+      ],
+      [
+        "o140290150052"
+      ],
+      [
+        "o140290150102"
+      ]
+    ]
+  }
+}

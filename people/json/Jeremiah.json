@@ -1,0 +1,73 @@
+{
+  "id": "person:Jeremiah",
+  "primary_id": "person:Jeremiah",
+  "alternate_sources": {
+    "aquifer": [
+      "6315|Jeremiah (Person)|TyndaleBibleDictionary",
+      "6314|Jeremiah, Letter of|TyndaleBibleDictionary",
+      "26753|Jeremiah|UWTranslationWords",
+      "132453|Jeremiah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003123001001000"
+    ],
+    "tipnr": [
+      "Jeremiah@2Ki.23.31-Jer"
+    ],
+    "vizbible": [
+      "recwT5qEd1zruosqA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Hamutal"
+  ],
+  "ubsdbh": [
+    "003123001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeremiah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeremiah",
+          "article": "person:Jeremiah",
+          "description": "A man from the divided kingdom, father of Hamutal and mentioned in 2 Kings 23:31."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִרְמְיָה",
+      "יִרְמְיָ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "12023031",
+    "12024018",
+    "24052001"
+  ],
+  "references": [
+    "12023031",
+    "12024018",
+    "24052001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120230310151"
+      ],
+      [
+        "o120240180171"
+      ],
+      [
+        "o240520010171"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "person:Sargon",
+  "primary_id": "person:Sennacherib",
+  "alternate_sources": {
+    "aquifer": [
+      "8150|Sargon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005163001001000"
+    ],
+    "tipnr": [
+      "Sargon|Sennacherib@2Ki.18.13-Isa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Adrammelech.2",
+    "person:Sharezer",
+    "person:Esarhaddon"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Mesopotamia",
+  "ubsdbh": [
+    "005163001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sargon (Sennacherib)",
+      "alternate_labels": [
+        "Sennacherib"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sennacherib",
+          "article": "person:Sargon",
+          "description": "Sargon, also known as Sennacherib, was an emperor living during the time of the divided kingdom, first mentioned in 2 Kings 18:13, and was the father of Adrammelech, Sharezer, and Esarhaddon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Sennacherib"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סֶרֶד",
+      "סֶ֫רֶד"
+    ]
+  },
+  "key_references": [
+    "23020001"
+  ],
+  "references": [
+    "23020001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230200010071"
+      ]
+    ]
+  }
+}

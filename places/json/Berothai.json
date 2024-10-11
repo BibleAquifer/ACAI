@@ -1,0 +1,94 @@
+{
+  "id": "place:Berothai",
+  "primary_id": "place:Berothah",
+  "alternate_sources": {
+    "aquifer": [
+      "4140|Berothah, Berothai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001205001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/678057"
+    ],
+    "tipnr": [
+      "Berothai|Berothah@2Sa.8.8-Ezk"
+    ],
+    "vizbible": [
+      "recp4c7XfzOnOlOHT"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001205001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Berothai",
+      "alternate_labels": [
+        "Berothah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Berothai",
+          "gloss": "Berothai",
+          "description": "A town in the territory of Hadadezer, king of Zobah."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Berothah"
+  ],
+  "referred_to_as": [
+    "place:Berothah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּרֹתַי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.93148",
+      "lon": "36.152049"
+    },
+    "recogito": {
+      "lat": "33.945274",
+      "lon": "36.153207"
+    },
+    "vizbible": {
+      "lat": "33.93148",
+      "lon": "36.152049"
+    }
+  },
+  "key_references": [
+    "10008008"
+  ],
+  "references": [
+    "10008008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080080023"
+      ]
+    ]
+  }
+}

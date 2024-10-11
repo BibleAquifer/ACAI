@@ -1,0 +1,66 @@
+{
+  "id": "person:Becorath",
+  "primary_id": "person:Becorath",
+  "alternate_sources": {
+    "aquifer": [
+      "4056|Becorath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000987001001000"
+    ],
+    "tipnr": [
+      "Becorath@1Sa.9.1"
+    ],
+    "vizbible": [
+      "recgFYXZmNqvstMCf"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Aphiah",
+  "offspring": [
+    "person:Zeror"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000987001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Becorath",
+      "alternate_labels": [
+        "Bechorath",
+        "Bekorath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Becorath",
+          "article": "person:Becorath",
+          "description": "A man of the tribe of Benjamin and son of Aphiah, living during the time of Israel's united kingdom, mentioned in 1 Samuel 9:1, and an ancestor of King Saul."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בְּכֹורַת",
+      "בְּכוֹרַת"
+    ]
+  },
+  "key_references": [
+    "09009001"
+  ],
+  "references": [
+    "09009001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090090010131"
+      ]
+    ]
+  }
+}

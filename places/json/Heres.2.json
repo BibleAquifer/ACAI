@@ -1,0 +1,38 @@
+{
+  "id": "place:Heres.2",
+  "primary_id": "place:Heres.2",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Heres.2",
+          "gloss": "Mount Heres",
+          "description": "A mountain range located east of southeast of Aijalon, in the territory of Dan."
+        }
+      ],
+      "preferred_label": "Mount Heres",
+      "alternate_labels": [
+        "Heres"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Ir-shemesh"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "mountain"
+    ]
+  }
+}

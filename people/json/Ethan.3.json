@@ -1,0 +1,86 @@
+{
+  "id": "person:Ethan.3",
+  "primary_id": "person:Jeduthun",
+  "alternate_sources": {
+    "aquifer": [
+      "5170|Ethan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000363002005000",
+      "000363002003000"
+    ],
+    "tipnr": [
+      "Ethan|Jeduthun@1Ch.6.44-Psa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kishi",
+  "offspring": [
+    "person:Obed-edom",
+    "person:Mattithiah.2",
+    "person:Gedaliah.4",
+    "person:Zeri",
+    "person:Jeshaiah.3",
+    "person:Hashabiah.3",
+    "person:Shemaiah.11",
+    "person:Uzziel.5"
+  ],
+  "roles": [
+    "Singer"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000363002005000",
+    "000363002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ethan (Jeduthun)",
+      "alternate_labels": [
+        "Jeduthun"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeduthun",
+          "article": "person:Ethan.3",
+          "description": "Ethan, also known as Jeduthun, was a temple singer from the tribe of Levi during Israel's united kingdom and the son of Kishi."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jeduthun"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵיתָן"
+    ]
+  },
+  "key_references": [
+    "13006029",
+    "13015017",
+    "13015019"
+  ],
+  "references": [
+    "13006029",
+    "13015017",
+    "13015019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060290061"
+      ],
+      [
+        "o130150170161"
+      ],
+      [
+        "o130150190042"
+      ]
+    ]
+  }
+}

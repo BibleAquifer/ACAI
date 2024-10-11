@@ -1,0 +1,38 @@
+{
+  "id": "place:Archelais",
+  "primary_id": "place:Archelais",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Archelais",
+          "gloss": "Archelais",
+          "description": "A town founded by Herod Archelaus near Jericho."
+        }
+      ],
+      "preferred_label": "Archelais"
+    }
+  },
+  "nearby_places": [
+    "place:Jericho.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "31.96941",
+      "lon": "35.47298"
+    }
+  }
+}

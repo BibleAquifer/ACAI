@@ -1,0 +1,94 @@
+{
+  "id": "place:Nimrah",
+  "primary_id": "place:Beth-nimrah",
+  "alternate_sources": {
+    "aquifer": [
+      "7405|Nimrah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004816001001000"
+    ],
+    "tipnr": [
+      "Nimrah|Beth-nimrah@Num.32.36-Jos"
+    ],
+    "vizbible": [
+      "recrGHr34zyi8zDUV"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004816001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nimrah",
+      "alternate_labels": [
+        "Beth-Nimrah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nimrah",
+          "gloss": "Nimrah",
+          "description": "A town in the territory of Gad; also known as Beth-Nimrah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Beth-nimrah"
+  ],
+  "tribal_area": "group:Gad",
+  "subregion_of": [
+    "place:TerritoryOfGad"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נִמְרָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.900811",
+      "lon": "35.625693"
+    },
+    "vizbible": {
+      "lat": "31.900811",
+      "lon": "35.625693"
+    },
+    "biblica-maps": {
+      "lat": "31.89092",
+      "lon": "35.61125"
+    }
+  },
+  "key_references": [
+    "04032003"
+  ],
+  "references": [
+    "04032003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320030042"
+      ]
+    ]
+  }
+}

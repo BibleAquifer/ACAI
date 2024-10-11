@@ -1,0 +1,95 @@
+{
+  "id": "deity:Seraph",
+  "primary_id": "deity:Seraph",
+  "alternate_sources": {
+    "aquifer": [
+      "8235|Seraph, Seraphim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007111001002000"
+    ],
+    "tipnr": [
+      "Seraph@Isa.6.2-"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "angel",
+  "ubsdbh": [
+    "007111001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seraph",
+      "alternate_labels": [
+        "Seraphim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seraph",
+          "article": "deity:Seraph",
+          "description": "Fiery, six-winged creatures suspended above the throne of God in Isaiah (6:2, 6)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "23006002",
+    "23006006"
+  ],
+  "references": [
+    "23006002",
+    "23006006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230060020011"
+      ],
+      [
+        "o230060060052"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o230060030061",
+          "o230060030071",
+          "o230060030081",
+          "o230060030091",
+          "o230060030101",
+          "o230060030111",
+          "o230060030121",
+          "o230060030131",
+          "o230060030132",
+          "o230060030141",
+          "o230060030142"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o230060070051",
+          "o230060070061",
+          "o230060070071",
+          "o230060070081",
+          "o230060070091",
+          "o230060070092",
+          "o230060070101",
+          "o230060070102",
+          "o230060070111",
+          "o230060070112",
+          "o230060070121",
+          "o230060070122",
+          "o230060070123",
+          "o230060070131"
+        ]
+      }
+    ]
+  }
+}

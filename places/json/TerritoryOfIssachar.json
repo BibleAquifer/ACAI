@@ -1,0 +1,38 @@
+{
+  "id": "place:TerritoryOfIssachar",
+  "primary_id": "place:TerritoryOfIssachar",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TerritoryOfIssachar",
+          "gloss": "Territory of Issachar",
+          "description": "The land assigned to the tribe of Issachar."
+        }
+      ],
+      "preferred_label": "Territory of Issachar"
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfNaphtali",
+    "place:TerritoryOfZebulun",
+    "place:TerritoryOfWestManasseh",
+    "place:TerritoryOfGad"
+  ],
+  "subregion_of": [
+    "place:Israel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  }
+}

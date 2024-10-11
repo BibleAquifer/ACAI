@@ -1,0 +1,70 @@
+{
+  "id": "group:Laodicea",
+  "primary_id": "group:Laodicea",
+  "alternate_sources": {
+    "aquifer": [
+      "6679|Laodicea, Laodiceans|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.515"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21162"
+    ],
+    "tipnr": [
+      "Laodicea@Col.2.1-Rev"
+    ],
+    "vizbible": [
+      "rec2RzCd7Fs9wI07g"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Laodicea",
+  "ubsdgnt": [
+    "93.515"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Laodiceans",
+      "alternate_labels": [
+        "Laodicea",
+        "Laodiceans"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Laodiceans",
+          "article": "group:Laodicea",
+          "description": "People who live in Laodicea."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Λαοδικεύς"
+    ]
+  },
+  "key_references": [
+    "66003014",
+    "66003015"
+  ],
+  "references": [
+    "51002001",
+    "51004013",
+    "51004015",
+    "51004016",
+    "66001011",
+    "66003014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n51004016013"
+      ]
+    ]
+  }
+}

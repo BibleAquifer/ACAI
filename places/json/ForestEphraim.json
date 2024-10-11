@@ -1,0 +1,64 @@
+{
+  "id": "place:ForestEphraim",
+  "primary_id": "place:ForestEphraim",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000615001001000",
+      "003012001001000"
+    ],
+    "tipnr": [
+      "Forest_Ephraim@2Sa.18.6"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000615001001000",
+    "003012001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Forest of Ephraim",
+      "alternate_labels": [
+        "wood of Ephraim",
+        "Ephraim",
+        "Ephraim Forest"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ephraim.3",
+          "gloss": "Forest of Ephraim",
+          "description": "A forest where Absalom was killed following a battle against David's army."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "10018006"
+  ],
+  "references": [
+    "10018006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100180060082",
+        "o100180060091"
+      ]
+    ]
+  }
+}

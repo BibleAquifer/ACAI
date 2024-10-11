@@ -1,0 +1,110 @@
+{
+  "id": "place:TowerOfTheHundred",
+  "primary_id": "place:TowerOfTheHundred",
+  "alternate_sources": {
+    "aquifer": [
+      "8904|Tower of the Hundred|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003685001003000",
+      "003685001004000",
+      "003633002001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2961129"
+    ],
+    "tipnr": [
+      "Tower_of_the_Hundred@Neh.3.1-"
+    ],
+    "vizbible": [
+      "recZDZhL8UbjPnNeu"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003685001003000",
+    "003685001004000",
+    "003633002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tower of the Hundred",
+      "alternate_labels": [
+        "Tower",
+        "tower of Meah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TowerOfTheHundred",
+          "gloss": "Tower of the Hundred",
+          "description": "A tower in part of the wall of Jerusalem protecting the northern approach to the city (ABD)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "structure"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "tower"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "51.91667",
+      "lon": "-8.6"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16012039",
+    "16003001"
+  ],
+  "references": [
+    "16003001",
+    "16012039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030010161"
+      ],
+      [
+        "o160030010172"
+      ],
+      [
+        "o160030010201"
+      ],
+      [
+        "o160120390102"
+      ],
+      [
+        "o160120390122"
+      ],
+      [
+        "o160120390132"
+      ]
+    ]
+  }
+}

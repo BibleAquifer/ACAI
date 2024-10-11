@@ -1,0 +1,82 @@
+{
+  "id": "person:Jamin",
+  "primary_id": "person:Jamin",
+  "alternate_sources": {
+    "aquifer": [
+      "6204|Jamin|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jamin@Gen.46.10-1Ch"
+    ],
+    "vizbible": [
+      "recQcPBfi7QsKj2qR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simeon.5",
+  "mother": "person:AWifeOfSimeon",
+  "siblings": [
+    "person:Jemuel",
+    "person:Ohad",
+    "person:Jachin",
+    "person:Zerah.6",
+    "person:Shaul.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Simeon",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jamin",
+      "alternate_labels": [
+        "Jaminite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jamin",
+          "article": "person:Jamin",
+          "description": "A son of the patriarch Simeon who lived during the time of Egyptian slavery and the wilderness wandering of the Israelites. He was the founder of the clan of the Jaminites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Jamin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046010",
+    "02006015",
+    "04026012"
+  ],
+  "references": [
+    "01046010",
+    "02006015",
+    "04026012",
+    "13004024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460100042"
+      ],
+      [
+        "o020060150042"
+      ],
+      [
+        "o040260120072"
+      ],
+      [
+        "o040260120092"
+      ],
+      [
+        "o130040240042"
+      ]
+    ]
+  }
+}

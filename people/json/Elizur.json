@@ -1,0 +1,79 @@
+{
+  "id": "person:Elizur",
+  "primary_id": "person:Elizur",
+  "alternate_sources": {
+    "aquifer": [
+      "5031|Elizur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000432001001000"
+    ],
+    "tipnr": [
+      "Elizur@Num.1.5-"
+    ],
+    "vizbible": [
+      "rec8ZoDSqyktjJeAP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shedeur",
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "ubsdbh": [
+    "000432001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elizur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elizur",
+          "article": "person:Elizur",
+          "description": "Son of Shedeur and chief of the tribe of Reuben during the time of the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיצוּר"
+    ]
+  },
+  "key_references": [
+    "04001005",
+    "04002010",
+    "04010018"
+  ],
+  "references": [
+    "04001005",
+    "04002010",
+    "04007030",
+    "04007035",
+    "04010018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010050081"
+      ],
+      [
+        "o040020100091"
+      ],
+      [
+        "o040070300061"
+      ],
+      [
+        "o040070350151"
+      ],
+      [
+        "o040100180081"
+      ]
+    ]
+  }
+}

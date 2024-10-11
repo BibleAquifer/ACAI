@@ -1,0 +1,88 @@
+{
+  "id": "flora:Poplar",
+  "primary_id": "flora:Poplar",
+  "alternate_sources": {
+    "aquifer": [
+      "7778|Poplar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003512001001000"
+    ],
+    "ubsflora": [
+      "flora:1.20"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "003512001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Poplar",
+      "alternate_labels": [
+        "White Poplar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Poplar",
+          "article": "flora:Poplar",
+          "description": "A tall tree, up to 20 meters, often found along riverbanks, known for its distinctive leaves and white bark."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לִבְנֶה"
+    ]
+  },
+  "key_references": [
+    "10005023",
+    "03023040"
+  ],
+  "references": [
+    "01030037",
+    "03023040",
+    "18040022",
+    "19137002",
+    "23015007",
+    "23044004",
+    "28004013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010300370051"
+      ],
+      [
+        "o030230400132"
+      ],
+      [
+        "o180400220051"
+      ],
+      [
+        "o191370020021"
+      ],
+      [
+        "o230150070082"
+      ],
+      [
+        "o230440040042"
+      ],
+      [
+        "o280040130102"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o280040130142"
+      ]
+    ]
+  }
+}

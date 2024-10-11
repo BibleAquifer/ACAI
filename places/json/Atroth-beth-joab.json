@@ -1,0 +1,76 @@
+{
+  "id": "place:Atroth-beth-joab",
+  "primary_id": "place:Atroth-beth-joab",
+  "alternate_sources": {
+    "aquifer": [
+      "3868|Atroth-Beth-Joab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005373001001000"
+    ],
+    "tipnr": [
+      "Atroth-beth-joab@1Ch.2.54"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005373001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Atroth-beth-joab",
+      "alternate_labels": [
+        "Ataroth-Beth-Joab",
+        "Ataroth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Atroth-beth-joab",
+          "gloss": "Atroth-Beth-Joab",
+          "description": "A town in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עַטְרֹת שֹׁופָן",
+      "עַטְרוֹת שׁוֹפָן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "13002054"
+  ],
+  "references": [
+    "13002054"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020540061",
+        "o130020540071",
+        "o130020540081"
+      ]
+    ]
+  }
+}

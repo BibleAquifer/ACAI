@@ -1,0 +1,93 @@
+{
+  "id": "place:Baalath.2",
+  "primary_id": "place:Baalath.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3929|Baalath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001101001002000"
+    ],
+    "tipnr": [
+      "Baalath@1Ki.9.18-2Ch"
+    ],
+    "vizbible": [
+      "recCyzljfY6pdtZUQ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001101001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baalath (of Judah)",
+      "alternate_labels": [
+        "Baalath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baalath.2",
+          "gloss": "Baalath (of Judah)",
+          "description": " A town in the territory of Judah; fortified by Solomon."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בַּעֲלָת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.927451",
+      "lon": "35.055378"
+    },
+    "vizbible": {
+      "lat": "31.927451",
+      "lon": "35.055378"
+    }
+  },
+  "key_references": [
+    "11009018",
+    "14008006"
+  ],
+  "references": [
+    "11009018",
+    "14008006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110090180021"
+      ],
+      [
+        "o140080060021"
+      ]
+    ]
+  }
+}

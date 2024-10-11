@@ -1,0 +1,66 @@
+{
+  "id": "flora:Tamarisk",
+  "primary_id": "flora:Tamarisk",
+  "alternate_sources": {
+    "aquifer": [
+      "8726|Tamarisk|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000751001001000"
+    ],
+    "ubsflora": [
+      "flora:1.23"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "000751001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tamarisk",
+      "alternate_labels": [
+        "Tamarisk Tree"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tamarisk",
+          "article": "flora:Tamarisk",
+          "description": "A fast-growing tree found in deserts with green branches, small white flowers, and feathery seeds."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶשֶׁל"
+    ]
+  },
+  "key_references": [
+    "01021033",
+    "09022006",
+    "09031013"
+  ],
+  "references": [
+    "01021033",
+    "09022006",
+    "09031013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010210330021"
+      ],
+      [
+        "o090220060132"
+      ],
+      [
+        "o090310130062"
+      ]
+    ]
+  }
+}

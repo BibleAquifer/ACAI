@@ -1,0 +1,48 @@
+{
+  "id": "group:Pathrusim",
+  "primary_id": "group:Pathrusim",
+  "alternate_sources": {
+    "tipnr": [
+      "Pathrusim@Gen.10.14-1Ch"
+    ],
+    "vizbible": [
+      "recF8uGG3jSVwLuCZ"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Pathros",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pathrusim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pathrusim",
+          "article": "group:Pathrusim",
+          "description": "People who live in Pathros."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010014",
+    "13001012"
+  ],
+  "references": [
+    "01010014",
+    "13001012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100140021"
+      ],
+      [
+        "o130010120021"
+      ]
+    ]
+  }
+}

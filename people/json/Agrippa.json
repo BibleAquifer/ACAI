@@ -1,0 +1,191 @@
+{
+  "id": "person:Agrippa",
+  "primary_id": "person:Agrippa",
+  "alternate_sources": {
+    "aquifer": [
+      "3425|Agrippa|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Agrippa@Act.25.13-"
+    ],
+    "vizbible": [
+      "recMxoVUt13ExT48g"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Herod.3",
+  "roles": [
+    "King",
+    "Governor"
+  ],
+  "tribe": "group:Italy",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Agrippa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Agrippa",
+          "article": "person:Agrippa",
+          "description": "Son of Herod Agrippa I and Cypros, and the last ruler from the Herodian dynasty. He was governor over a number of provinces in and around Judea during the time of Paul’s trial and imprisonment in Jerusalem."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44025013",
+    "44026001"
+  ],
+  "references": [
+    "44025013",
+    "44025022",
+    "44025023",
+    "44025024",
+    "44025026",
+    "44026001",
+    "44026002",
+    "44026007",
+    "44026019",
+    "44026027",
+    "44026028",
+    "44026032"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44025013005"
+      ],
+      [
+        "n44025022001"
+      ],
+      [
+        "n44025023006"
+      ],
+      [
+        "n44025024005"
+      ],
+      [
+        "n44025026020"
+      ],
+      [
+        "n44026001001"
+      ],
+      [
+        "n44026002008"
+      ],
+      [
+        "n44026019003"
+      ],
+      [
+        "n44026027003"
+      ],
+      [
+        "n44026028003"
+      ],
+      [
+        "n44026032001"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44025022008"
+      ],
+      [
+        "n44025024011"
+      ],
+      [
+        "n44025026014"
+      ],
+      [
+        "n44026028009"
+      ],
+      [
+        "n44026029016"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44025013013"
+      ],
+      [
+        "n44025014005"
+      ],
+      [
+        "n44025022011"
+      ],
+      [
+        "n44025022014"
+      ],
+      [
+        "n44025023014"
+      ],
+      [
+        "n44025024013"
+      ],
+      [
+        "n44027001010"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n44026001007",
+          "n44026001008",
+          "n44026001009",
+          "n44026001010",
+          "n44026001011"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n44026028007",
+          "n44026028008",
+          "n44026028009",
+          "n44026028010",
+          "n44026028011",
+          "n44026028012"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n44026031008",
+          "n44026031009",
+          "n44026031010",
+          "n44026031011",
+          "n44026031012",
+          "n44026031013",
+          "n44026031014",
+          "n44026031015",
+          "n44026031016",
+          "n44026031017"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n44026032006",
+          "n44026032007",
+          "n44026032008",
+          "n44026032009",
+          "n44026032010",
+          "n44026032011",
+          "n44026032012",
+          "n44026032013",
+          "n44026032014"
+        ]
+      }
+    ]
+  }
+}

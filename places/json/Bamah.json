@@ -1,0 +1,82 @@
+{
+  "id": "place:Bamah",
+  "primary_id": "place:Gibeon",
+  "alternate_sources": {
+    "aquifer": [
+      "3986|Bamah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001036001003000"
+    ],
+    "tipnr": [
+      "Bamah|Gibeon@Jos.9.3-Ezk"
+    ],
+    "vizbible": [
+      "recsxfSyGmalpC8R8"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001036001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bamah",
+      "alternate_labels": [
+        "High Place",
+        "Gibeon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bamah",
+          "gloss": "Bamah",
+          "description": "A high place for worship mentioned in Ezekiel 20:29."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Gibeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "special"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.84684773",
+      "lon": "35.18491238"
+    },
+    "vizbible": {
+      "lat": "31.84684773",
+      "lon": "35.18491238"
+    }
+  },
+  "key_references": [
+    "26020029"
+  ],
+  "references": [
+    "26020029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260200290042"
+      ],
+      [
+        "o260200290111"
+      ]
+    ]
+  }
+}

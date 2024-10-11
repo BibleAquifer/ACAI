@@ -1,0 +1,89 @@
+{
+  "id": "place:Idumea",
+  "primary_id": "place:Idumea",
+  "alternate_sources": {
+    "aquifer": [
+      "5987|Idumaea, Idumea, Idumeans|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2517a0"
+    ],
+    "ubsdgnt": [
+      "93.477"
+    ],
+    "tipnr": [
+      "Idumea@Mrk.3.8"
+    ],
+    "vizbible": [
+      "recLN7o7rsZSM85Ne"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q497958"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.477"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Idumea",
+      "alternate_labels": [
+        "Idumaea"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Idumea",
+          "gloss": "Idumea",
+          "description": "A mountainous region south of Judea and north of the earlier region known as Edom."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Judea.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": true,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἰδουμαία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.734691",
+      "lon": "35.606250"
+    },
+    "vizbible": {
+      "lat": "30.734691",
+      "lon": "35.606250"
+    }
+  },
+  "key_references": [
+    "41003007"
+  ],
+  "references": [
+    "41003008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41003008007"
+      ]
+    ]
+  }
+}

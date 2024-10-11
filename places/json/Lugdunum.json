@@ -1,0 +1,38 @@
+{
+  "id": "place:Lugdunum",
+  "primary_id": "place:Lugdunum",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lugdunum",
+          "gloss": "Lugdunum",
+          "description": "A Roman city in southeast France; modern-day Lyon. Christians were persecuted here in 177."
+        }
+      ],
+      "preferred_label": "Lugdunum",
+      "alternate_labels": [
+        "Lyon"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "45.77053",
+      "lon": "4.83054"
+    }
+  }
+}

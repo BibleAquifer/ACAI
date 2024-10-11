@@ -1,0 +1,53 @@
+{
+  "id": "realia:Pin",
+  "primary_id": "realia:Pin",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003197001003000"
+    ],
+    "ubsrealia": [
+      "realia:1.5.3.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003197001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pin",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pin",
+          "article": "realia:Pin",
+          "description": "A small, pointed object used in weaving to tighten threads."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָתֵד"
+    ]
+  },
+  "key_references": [
+    "07016014"
+  ],
+  "references": [
+    "07016014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070160140022"
+      ],
+      [
+        "o070160140122"
+      ]
+    ]
+  }
+}

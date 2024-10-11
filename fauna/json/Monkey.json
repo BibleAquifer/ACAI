@@ -1,0 +1,58 @@
+{
+  "id": "fauna:Monkey",
+  "primary_id": "fauna:Monkey",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007797001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.3.2"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "007797001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Monkey",
+      "alternate_labels": [
+        "Vervet Monkey"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Monkey",
+          "article": "fauna:Monkey",
+          "description": "A small, long-tailed animal that eats mostly plants and sometimes insects, often kept as pets. They were brought to Israel from Tarshish."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תֻּכִּי"
+    ]
+  },
+  "key_references": [
+    "11010022",
+    "14009021"
+  ],
+  "references": [
+    "11010022",
+    "14009021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110100220202"
+      ],
+      [
+        "o140090210202"
+      ]
+    ]
+  }
+}

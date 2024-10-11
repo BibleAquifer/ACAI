@@ -1,0 +1,80 @@
+{
+  "id": "person:Jashub",
+  "primary_id": "person:Jashub",
+  "alternate_sources": {
+    "aquifer": [
+      "6234|Jashub|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Yob|Jashub@Gen.46.13-1Ch",
+      "Jashub@Gen.46.13-1Ch"
+    ],
+    "vizbible": [
+      "rec0xO99xdlEFpsJY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Issachar",
+  "siblings": [
+    "person:Tola",
+    "person:Puah",
+    "person:Shimron"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Issachar",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jashub",
+      "alternate_labels": [
+        "Yob",
+        "Job",
+        "Jashib",
+        "Jashubite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jashub",
+          "article": "person:Jashub",
+          "description": "A son of the patriarch Issachar who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites He was founder of the clan of the Jashubites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Jashub",
+    "person:Yob"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046013",
+    "04026024",
+    "13007001"
+  ],
+  "references": [
+    "01046013",
+    "04026024",
+    "13007001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460130052"
+      ],
+      [
+        "o040260240012"
+      ],
+      [
+        "o040260240032"
+      ],
+      [
+        "o130070010061"
+      ]
+    ]
+  }
+}

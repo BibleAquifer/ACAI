@@ -1,0 +1,81 @@
+{
+  "id": "person:Baal-hanan",
+  "primary_id": "person:Baal-hanan",
+  "alternate_sources": {
+    "aquifer": [
+      "3934|Baal-Hanan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001086001001000"
+    ],
+    "tipnr": [
+      "Baal-hanan@Gen.36.38-1Ch"
+    ],
+    "vizbible": [
+      "recoCYDDF5LKkpYDu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Achbor",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "001086001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baal-hanan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Baal-Hanan",
+          "article": "person:Baal-hanan",
+          "description": "A king of Edom before the kingdom in Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּעַל חָנָן",
+      "בַּ֫עַל חָנָן"
+    ]
+  },
+  "key_references": [
+    "01036031",
+    "01036038",
+    "01036039",
+    "13001049"
+  ],
+  "references": [
+    "01036038",
+    "01036039",
+    "13001049",
+    "13001050"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360380051",
+        "o010360380061"
+      ],
+      [
+        "o010360390021",
+        "o010360390031"
+      ],
+      [
+        "o130010490051",
+        "o130010490061"
+      ],
+      [
+        "o130010500021",
+        "o130010500031"
+      ]
+    ]
+  }
+}

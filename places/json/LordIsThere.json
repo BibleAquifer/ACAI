@@ -1,0 +1,102 @@
+{
+  "id": "place:LordIsThere",
+  "primary_id": "place:Jerusalem",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002823001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/192519947"
+    ],
+    "tipnr": [
+      "Lord_Is_There|Jerusalem@Jos.10.1-Rev"
+    ],
+    "vizbible": [
+      "recQEUuywR0Ge1Xbl"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002823001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "The Lord Is There",
+      "alternate_labels": [
+        "Yahweh Is There",
+        "Jerusalem",
+        "There",
+        "Lord Is There"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TheLordIsThere",
+          "gloss": "The Lord Is There",
+          "description": "Another name for Jerusalem."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יהוה",
+      "יְהֹוִה",
+      "3071+",
+      "אֶל",
+      "בְּ",
+      "וְ",
+      "בּוֹא",
+      "כְּ",
+      "לְ",
+      "לֹא",
+      "נְאֻם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "35.1847443",
+      "lon": "33.9025028"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "26048035"
+  ],
+  "references": [
+    "26048035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260480350081",
+        "o260480350091",
+        "o260480350092"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "place:WayOfHoliness",
+  "primary_id": "place:WayOfHoliness",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006395001002000",
+      "001719001005000"
+    ],
+    "tipnr": [
+      "Way_of_Holiness@Isa.35.8"
+    ],
+    "vizbible": [
+      "recEhDlKpvZLsUINW"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006395001002000",
+    "001719001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Way of Holiness",
+      "alternate_labels": [
+        "Highway of Holiness",
+        "Holy Way",
+        "The way of holiness"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:WayOfHoliness",
+          "gloss": "Way of Holiness",
+          "description": "A road envisioned in Isa 35:8 that leads to Zion."
+        }
+      ]
+    }
+  },
+  "associated_places": [
+    "place:Zion"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "road"
+    ],
+    "vizbible": [
+      "Path"
+    ],
+    "acai": [
+      "road"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "23035008"
+  ],
+  "references": [
+    "23035008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230350080042"
+      ],
+      [
+        "o230350080052"
+      ],
+      [
+        "o230350080062"
+      ],
+      [
+        "o230350080151"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230350080122"
+      ]
+    ]
+  }
+}

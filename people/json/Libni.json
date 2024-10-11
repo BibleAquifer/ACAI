@@ -1,0 +1,115 @@
+{
+  "id": "person:Libni",
+  "primary_id": "person:Libni",
+  "alternate_sources": {
+    "aquifer": [
+      "6740|Libni|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jahath|Libni@Exo.6.17-1Ch",
+      "Libni@Exo.6.17-1Ch",
+      "Ladan|Libni@Exo.6.17-1Ch"
+    ],
+    "vizbible": [
+      "rec1DN6ZM1J3IXyPS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gershon",
+  "offspring": [
+    "person:Jehiel.2",
+    "person:Zetham",
+    "person:Joel.9"
+  ],
+  "siblings": [
+    "person:Shimei.4"
+  ],
+  "roles": [
+    "Patriarch",
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Libni",
+      "alternate_labels": [
+        "Ladan",
+        "Laadan",
+        "Libnite",
+        "Jahath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Libni",
+          "article": "person:Libni",
+          "description": "A grandson of the patriarch Levi and son of Gershon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Libni",
+    "person:Jahath.5",
+    "person:Ladan.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006017",
+    "13006020"
+  ],
+  "references": [
+    "02006017",
+    "04003018",
+    "04003021",
+    "04026058",
+    "13006002",
+    "13006005",
+    "13006028",
+    "13023007",
+    "13023008",
+    "13026021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060170031"
+      ],
+      [
+        "o040030180061"
+      ],
+      [
+        "o040030210032"
+      ],
+      [
+        "o040260580052"
+      ],
+      [
+        "o130060020051"
+      ],
+      [
+        "o130060050021"
+      ],
+      [
+        "o130060280021"
+      ],
+      [
+        "o130230070021"
+      ],
+      [
+        "o130230080021"
+      ],
+      [
+        "o130260210021"
+      ],
+      [
+        "o130260210052"
+      ],
+      [
+        "o130260210082"
+      ]
+    ]
+  }
+}

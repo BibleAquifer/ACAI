@@ -1,0 +1,60 @@
+{
+  "id": "fauna:Goose",
+  "primary_id": "fauna:Goose",
+  "alternate_sources": {
+    "aquifer": [
+      "5511|Goose|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001159001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.9"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "001159001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Goose",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Goose",
+          "article": "fauna:Goose",
+          "description": "A large bird with webbed feet, and sometimes served as food."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּרְבּוּר"
+    ]
+  },
+  "key_references": [
+    "11005003"
+  ],
+  "references": [
+    "11005003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110050030132"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110050030141"
+      ]
+    ]
+  }
+}

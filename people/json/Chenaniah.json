@@ -1,0 +1,94 @@
+{
+  "id": "person:Chenaniah",
+  "primary_id": "person:Chenaniah",
+  "alternate_sources": {
+    "aquifer": [
+      "4503|Chenaniah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003351001001000"
+    ],
+    "tipnr": [
+      "Chenaniah@1Ch.15.22-"
+    ],
+    "vizbible": [
+      "recDm8EUuCTSB0DtW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Leader",
+    "Priest"
+  ],
+  "ubsdbh": [
+    "003351001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chenaniah",
+      "alternate_labels": [
+        "Kenaniah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Chenaniah",
+          "article": "person:Chenaniah",
+          "description": "Chenaniah, also known as Kenaniah, was a Levite and chief of the Levites during King David's time, first mentioned in 1 Chronicles 15:22."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כְּנַנְיָה",
+      "כְּנַנְיָ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "13015022",
+    "13015027",
+    "13026029"
+  ],
+  "references": [
+    "13015022",
+    "13015027",
+    "13026029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130150220012"
+      ],
+      [
+        "o130150270112"
+      ],
+      [
+        "o130260290021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130150220091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130160010012"
+      ],
+      [
+        "o130160010052"
+      ],
+      [
+        "o130160010132"
+      ]
+    ]
+  }
+}

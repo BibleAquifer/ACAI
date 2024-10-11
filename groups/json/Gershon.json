@@ -1,0 +1,108 @@
+{
+  "id": "group:Gershon",
+  "primary_id": "group:Gershon",
+  "alternate_sources": {
+    "aquifer": [
+      "5431|Gershon, Gershonites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001514001001000"
+    ],
+    "tipnr": [
+      "Gershon@Gen.46.11-2Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Gershon",
+  "ubsdbh": [
+    "001514001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gershonites",
+      "alternate_labels": [
+        "Gershon",
+        "Gershom",
+        "Gershomites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gershonites",
+          "article": "group:Gershon",
+          "description": "People descended from Gershon, son of Levi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֵּרְשֻׁנִּי"
+    ]
+  },
+  "key_references": [
+    "01046011",
+    "04003021",
+    "04004041"
+  ],
+  "references": [
+    "04003021",
+    "04003023",
+    "04003024",
+    "04004024",
+    "04004027",
+    "04004028",
+    "04026057",
+    "06021033",
+    "13023007",
+    "13026021",
+    "13029008",
+    "14029012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040030210092"
+      ],
+      [
+        "o040030230022"
+      ],
+      [
+        "o040030240042"
+      ],
+      [
+        "o040040240042"
+      ],
+      [
+        "o040040270092"
+      ],
+      [
+        "o040040280052"
+      ],
+      [
+        "o040260570072"
+      ],
+      [
+        "o060210330032"
+      ],
+      [
+        "o130230070012"
+      ],
+      [
+        "o130260210042"
+      ],
+      [
+        "o130260210092"
+      ],
+      [
+        "o130290080112"
+      ],
+      [
+        "o140290120222"
+      ]
+    ]
+  }
+}

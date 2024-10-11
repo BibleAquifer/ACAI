@@ -1,0 +1,91 @@
+{
+  "id": "person:Beriah",
+  "primary_id": "person:Beriah",
+  "alternate_sources": {
+    "aquifer": [
+      "4133|Beriah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Beriah@Gen.46.17-1Ch"
+    ],
+    "vizbible": [
+      "recK7tjcp3jQp5ump"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Asher",
+  "offspring": [
+    "person:Heber",
+    "person:Malchiel"
+  ],
+  "siblings": [
+    "person:Imnah",
+    "person:Ishvah",
+    "person:Ishvi.2",
+    "person:Serah"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Asher",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beriah",
+      "alternate_labels": [
+        "Beriite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Beriah",
+          "article": "person:Beriah",
+          "description": "A son of the patriarch Asher, who was a son of the patriarch Jacob. Beriah was the chief of the Beriite clan."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Beriah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046017",
+    "04026044",
+    "04026045",
+    "13007030"
+  ],
+  "references": [
+    "01046017",
+    "04026044",
+    "04026045",
+    "13007030",
+    "13007031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460170062"
+      ],
+      [
+        "o010460170101"
+      ],
+      [
+        "o040260440102"
+      ],
+      [
+        "o040260440122"
+      ],
+      [
+        "o040260450021"
+      ],
+      [
+        "o130070300062"
+      ],
+      [
+        "o130070310021"
+      ]
+    ]
+  }
+}

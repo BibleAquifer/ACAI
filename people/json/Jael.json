@@ -1,0 +1,190 @@
+{
+  "id": "person:Jael",
+  "primary_id": "person:Jael",
+  "alternate_sources": {
+    "aquifer": [
+      "6170|Jael|TyndaleBibleDictionary",
+      "132382|Jael|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002997003001000"
+    ],
+    "tipnr": [
+      "Jael@Jdg.4.17-"
+    ],
+    "vizbible": [
+      "recxJQqsngI2rJbuw"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Heber.2"
+  ],
+  "roles": [
+    "Warrior"
+  ],
+  "ubsdbh": [
+    "002997003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jael",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jael",
+          "article": "person:Jael",
+          "description": "The wife of Heber the Kenite who killed Sisera the commander of King Jabin's forces during the time of Israel's judge Deborah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָעֵל"
+    ]
+  },
+  "key_references": [
+    "07004017",
+    "07004021",
+    "07004022",
+    "07005024"
+  ],
+  "references": [
+    "07004017",
+    "07004018",
+    "07004021",
+    "07004022",
+    "07005006",
+    "07005024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070040170061"
+      ],
+      [
+        "o070040180021"
+      ],
+      [
+        "o070040210021"
+      ],
+      [
+        "o070040220071"
+      ],
+      [
+        "o070050060061"
+      ],
+      [
+        "o070050240031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070040180032"
+      ],
+      [
+        "o070040180052"
+      ],
+      [
+        "o070040180162"
+      ],
+      [
+        "o070040190031"
+      ],
+      [
+        "o070040190092"
+      ],
+      [
+        "o070040190132"
+      ],
+      [
+        "o070040190142"
+      ],
+      [
+        "o070040200031"
+      ],
+      [
+        "o070040200152"
+      ],
+      [
+        "o070040210082"
+      ],
+      [
+        "o070040210122"
+      ],
+      [
+        "o070040210152"
+      ],
+      [
+        "o070040220082"
+      ],
+      [
+        "o070040220092"
+      ],
+      [
+        "o070040220122"
+      ],
+      [
+        "o070050240091"
+      ],
+      [
+        "o070050250041"
+      ],
+      [
+        "o070050250071"
+      ],
+      [
+        "o070050260072"
+      ],
+      [
+        "o070050260091"
+      ],
+      [
+        "o070050260112"
+      ],
+      [
+        "o070050260122"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070040180071",
+          "o070040180072",
+          "o070040180081",
+          "o070040180082",
+          "o070040180091",
+          "o070040180092",
+          "o070040180101",
+          "o070040180102",
+          "o070040180111",
+          "o070040180121"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070040220111",
+          "o070040220121",
+          "o070040220122",
+          "o070040220123",
+          "o070040220131",
+          "o070040220141",
+          "o070040220142",
+          "o070040220151",
+          "o070040220161",
+          "o070040220171"
+        ]
+      }
+    ]
+  }
+}

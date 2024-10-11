@@ -1,0 +1,54 @@
+{
+  "id": "group:Hepher",
+  "primary_id": "group:Hepher",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002451001001000"
+    ],
+    "tipnr": [
+      "Hepher@Num.26.32-Jos"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Hepher",
+  "ubsdbh": [
+    "002451001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hepherites",
+      "alternate_labels": [
+        "Hepher"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hepherites",
+          "article": "group:Hepher",
+          "description": "People descended from Hepher of the tribe of Manasseh."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶפְרִי"
+    ]
+  },
+  "key_references": [
+    "04026032"
+  ],
+  "references": [
+    "04026032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260320062"
+      ]
+    ]
+  }
+}

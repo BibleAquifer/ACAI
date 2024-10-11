@@ -1,0 +1,65 @@
+{
+  "id": "group:Berea",
+  "primary_id": "group:Berea",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.423 93.72"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/22742"
+    ],
+    "tipnr": [
+      "Berea@Act.17.10-"
+    ],
+    "vizbible": [
+      "rech04nnKCaXqzU0U"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Berea",
+  "ubsdgnt": [
+    "93.423 93.72"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bereans",
+      "alternate_labels": [
+        "Bereans"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bereans",
+          "article": "group:Berea",
+          "description": "People who live in Berea."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Βεροιαῖος"
+    ]
+  },
+  "key_references": [
+    "44020004"
+  ],
+  "references": [
+    "44017010",
+    "44017011",
+    "44017013",
+    "44017014",
+    "44017015",
+    "44020004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44020004006"
+      ]
+    ]
+  }
+}

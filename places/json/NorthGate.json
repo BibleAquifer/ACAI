@@ -1,0 +1,35 @@
+{
+  "id": "place:NorthGate",
+  "primary_id": "place:NorthGate",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:NorthGate",
+          "gloss": "North Gate",
+          "description": "A gate in Jerusalem."
+        }
+      ],
+      "preferred_label": "North Gate"
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "gate"
+    ]
+  },
+  "key_references": [
+    "13026014"
+  ]
+}

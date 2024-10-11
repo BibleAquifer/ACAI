@@ -1,0 +1,84 @@
+{
+  "id": "place:FieldOfBlood",
+  "primary_id": "place:Akeldama",
+  "alternate_sources": {
+    "aquifer": [
+      "5255|Field of Blood|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "20.83",
+      "1.95"
+    ],
+    "tipnr": [
+      "Field_of_Blood|Akeldama@Mat.27.7-Act"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "1.95",
+    "20.83",
+    "8.64"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Field of Blood",
+      "alternate_labels": [
+        "Blood",
+        "Hakeldama",
+        "Aceldama",
+        "Akeldama",
+        "Akel Dama",
+        "Field of",
+        "The field of blood",
+        "Field of Blood"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Akeldama"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "ἀγρός",
+      "αἷμα"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "field"
+    ]
+  },
+  "key_references": [
+    "40027008",
+    "44001019"
+  ],
+  "references": [
+    "40027008",
+    "44001019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027008004"
+      ],
+      [
+        "n40027008006",
+        "n40027008007"
+      ],
+      [
+        "n44001019011"
+      ],
+      [
+        "n44001019020",
+        "n44001019021"
+      ]
+    ]
+  }
+}

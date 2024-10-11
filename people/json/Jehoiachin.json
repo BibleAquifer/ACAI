@@ -1,0 +1,252 @@
+{
+  "id": "person:Jehoiachin",
+  "primary_id": "person:Jehoiachin",
+  "alternate_sources": {
+    "aquifer": [
+      "6276|Jehoiachin|TyndaleBibleDictionary",
+      "26746|Jehoiachin|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Shallum|Jehoiachin@2Ki.24.6-Mat(?)",
+      "Coniah|Jehoiachin@2Ki.24.6-Mat",
+      "Jechoniah|Jehoiachin@2Ki.24.6-Mat",
+      "Jehoiachin@2Ki.24.6-Mat"
+    ],
+    "vizbible": [
+      "recO6jj8WG1gFfhIR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoiakim",
+  "mother": "person:Nehushta",
+  "offspring": [
+    "person:Zedekiah.4",
+    "person:Shealtiel.2"
+  ],
+  "roles": [
+    "King",
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ],
+    "death_place": [
+      "place:Babylon"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehoiachin",
+      "alternate_labels": [
+        "Jechonias",
+        "Shallum",
+        "Coniah",
+        "Jechoniah",
+        "Jeconiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoiachin",
+          "article": "person:Jehoiachin",
+          "description": "A son of Jehoiakim by Nehushta and king of Judah during the divided kingdom. He is listed under the family line of Jesus in the New Testament."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Coniah",
+    "person:Shallum",
+    "person:Jechoniah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12024008",
+    "12024012",
+    "13003016",
+    "24052031",
+    "40001012"
+  ],
+  "references": [
+    "12024006",
+    "12024008",
+    "12024012",
+    "12024015",
+    "12025027",
+    "13003016",
+    "13003017",
+    "14036008",
+    "14036009",
+    "17002006",
+    "24022011",
+    "24022024",
+    "24022028",
+    "24024001",
+    "24027020",
+    "24028004",
+    "24029002",
+    "24037001",
+    "24052031",
+    "26001002",
+    "40001011",
+    "40001012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120240060061"
+      ],
+      [
+        "o120240080051"
+      ],
+      [
+        "o120240120021"
+      ],
+      [
+        "o120240150031"
+      ],
+      [
+        "o120250270061"
+      ],
+      [
+        "o120250270241"
+      ],
+      [
+        "o130030160031"
+      ],
+      [
+        "o130030170021"
+      ],
+      [
+        "o140360080171"
+      ],
+      [
+        "o140360090041"
+      ],
+      [
+        "o170020060091"
+      ],
+      [
+        "o240220110061"
+      ],
+      [
+        "o240220240081"
+      ],
+      [
+        "o240220280061"
+      ],
+      [
+        "o240240010171"
+      ],
+      [
+        "o240270200091"
+      ],
+      [
+        "o240280040021"
+      ],
+      [
+        "o240290020031"
+      ],
+      [
+        "o240370010071"
+      ],
+      [
+        "o240520310061"
+      ],
+      [
+        "o240520310241"
+      ],
+      [
+        "o260010020081"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001011005"
+      ],
+      [
+        "n40001012006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o120240120081"
+      ],
+      [
+        "o240220250071"
+      ],
+      [
+        "o240220270041"
+      ],
+      [
+        "o240220280052"
+      ],
+      [
+        "o240220280141"
+      ],
+      [
+        "o240220300072"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001011009"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120240080091"
+      ],
+      [
+        "o120240090012"
+      ],
+      [
+        "o140360090101"
+      ],
+      [
+        "o140360090122"
+      ],
+      [
+        "o240220110112"
+      ],
+      [
+        "o240220110161"
+      ],
+      [
+        "o240220110211"
+      ],
+      [
+        "o240220120071"
+      ],
+      [
+        "o240220120121"
+      ],
+      [
+        "o240220260121"
+      ],
+      [
+        "o240220260151"
+      ],
+      [
+        "o240220270082"
+      ],
+      [
+        "o240220270121"
+      ],
+      [
+        "o240220280162"
+      ],
+      [
+        "o240220280211"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "place:Ptolemais",
+  "primary_id": "place:Acco",
+  "alternate_sources": {
+    "aquifer": [
+      "7846|Ptolemais|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.557"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21662"
+    ],
+    "tipnr": [
+      "Ptolemais|Acco@Jdg.1.31-Act"
+    ],
+    "vizbible": [
+      "recCdyPm5ehwB2lsH"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.557"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ptolemais",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ptolemais",
+          "gloss": "Ptolemais",
+          "description": "A seaport on the coast of Palestine; Acco in the Old Testament."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Acco"
+  ],
+  "nearby_places": [
+    "place:Tyre"
+  ],
+  "subregion_of": [
+    "place:Phoenicia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Πτολεμαΐς"
+    ]
+  },
+  "place_types": {
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.927583",
+      "lon": "35.081555"
+    },
+    "recogito": {
+      "lat": "32.920744",
+      "lon": "35.068626"
+    },
+    "vizbible": {
+      "lat": "32.920744",
+      "lon": "35.068626"
+    }
+  },
+  "key_references": [
+    "44021007"
+  ],
+  "references": [
+    "44021007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44021007010"
+      ]
+    ]
+  }
+}

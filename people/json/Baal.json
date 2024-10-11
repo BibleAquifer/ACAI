@@ -1,0 +1,89 @@
+{
+  "id": "person:Baal",
+  "primary_id": "person:Baal",
+  "alternate_sources": {
+    "aquifer": [
+      "3937|Baal (Idol)|TyndaleBibleDictionary",
+      "3943|Baal (Person)|TyndaleBibleDictionary",
+      "26355|Baal|UWTranslationWords",
+      "132347|Baal|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001082002003000"
+    ],
+    "tipnr": [
+      "Baal@1Ch.8.30-"
+    ],
+    "vizbible": [
+      "recmXQqOs5yJSHjjU"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abiel.2",
+  "mother": "person:Maacah.6",
+  "siblings": [
+    "person:Kish",
+    "person:Ner.2",
+    "person:Abdon.3",
+    "person:Zur.3",
+    "person:Nadab.4",
+    "person:Gedor",
+    "person:Ahio.3",
+    "person:Zecher",
+    "person:Mikloth"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "001082002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Baal",
+          "article": "person:Baal",
+          "description": "A man from the tribe of Benjamin, son of Abiel and Maacah, mentioned in 1 Chronicles 8:30."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּעַל",
+      "בַּ֫עַל"
+    ]
+  },
+  "key_references": [
+    "13008030",
+    "13009036"
+  ],
+  "references": [
+    "13008030",
+    "13009036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080300062"
+      ],
+      [
+        "o130090360062"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130080320061"
+      ],
+      [
+        "o130090380061"
+      ]
+    ]
+  }
+}

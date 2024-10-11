@@ -1,0 +1,66 @@
+{
+  "id": "place:BetherMountain",
+  "primary_id": "place:BetherMountain",
+  "alternate_sources": {
+    "aquifer": [
+      "4172|Bether|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001233001002000 001233002001000"
+    ],
+    "tipnr": [
+      "Bether_Mountain@Sng.2.17"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001233001002000 001233002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bether (Song of Solomon 2:17)",
+      "alternate_labels": [
+        "rugged",
+        "cleft",
+        "Bether",
+        "Bether Mountain"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bether.1",
+          "gloss": "Bether (Song of Solomon 2:17)",
+          "description": "A craggy area mentioned in Song 2:17; possibly not a reference to a proper name."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "special",
+      "settlement"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "key_references": [
+    "22002017"
+  ],
+  "references": [
+    "22002017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o220020170161"
+      ]
+    ]
+  }
+}

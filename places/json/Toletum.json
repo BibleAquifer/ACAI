@@ -1,0 +1,38 @@
+{
+  "id": "place:Toletum",
+  "primary_id": "place:Toletum",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Toletum",
+          "gloss": "Toletum",
+          "description": "A city on the Tagus River in Spain; modern-day Toledo."
+        }
+      ],
+      "preferred_label": "Toletum",
+      "alternate_labels": [
+        "Toledo"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "39.85668",
+      "lon": "-4.02449"
+    }
+  }
+}

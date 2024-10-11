@@ -1,0 +1,91 @@
+{
+  "id": "place:Arumah",
+  "primary_id": "place:Arumah",
+  "alternate_sources": {
+    "aquifer": [
+      "3772|Arumah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af536fb"
+    ],
+    "ubsdbh": [
+      "000668001001000"
+    ],
+    "tipnr": [
+      "Arumah@Jdg.9.41-2Ki"
+    ],
+    "vizbible": [
+      "recCJGVY9NNPvs1py"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000668001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arumah",
+      "alternate_labels": [
+        "Tormah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Arumah",
+          "gloss": "Arumah",
+          "description": "A town in the territory of Ephraim; possibly to be identified with Rumah or Dumah."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Dumah.2"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲרוּמָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.154887",
+      "lon": "35.318192"
+    },
+    "vizbible": {
+      "lat": "32.154887",
+      "lon": "35.318192"
+    }
+  },
+  "key_references": [
+    "07009041"
+  ],
+  "references": [
+    "07009031",
+    "07009041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070090410032"
+      ]
+    ]
+  }
+}

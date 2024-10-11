@@ -1,0 +1,101 @@
+{
+  "id": "person:Gog",
+  "primary_id": "person:Gog",
+  "alternate_sources": {
+    "aquifer": [
+      "5501|Gog|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001340001002000"
+    ],
+    "tipnr": [
+      "Gog@1Ch.5.4"
+    ],
+    "vizbible": [
+      "recDV7IfJ9m1Ot3vZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shemaiah.4",
+  "offspring": [
+    "person:Shimei.9"
+  ],
+  "tribe": "group:Reuben",
+  "ubsdbh": [
+    "001340001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gog",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gog",
+          "article": "person:Gog",
+          "description": "Gog was a man of the tribe of Reuben, son of Shemaiah and father of Shimei, living during the time of Egypt and the wilderness, mentioned in 1 Chronicles 5:4."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֹּוג",
+      "גּוֹג"
+    ]
+  },
+  "key_references": [
+    "13005004"
+  ],
+  "references": [
+    "13005004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050040051"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "delivery": "plotting evil",
+        "quote_type": "Hypothetical",
+        "words": [
+          "o260380120011",
+          "o260380120012",
+          "o260380120021",
+          "o260380120031",
+          "o260380120032",
+          "o260380120033",
+          "o260380120041",
+          "o260380120051",
+          "o260380120052",
+          "o260380120061",
+          "o260380120062",
+          "o260380120071",
+          "o260380120081",
+          "o260380120091",
+          "o260380120101",
+          "o260380120102",
+          "o260380120111",
+          "o260380120121",
+          "o260380120131",
+          "o260380120132",
+          "o260380120141",
+          "o260380120151",
+          "o260380120161",
+          "o260380120162",
+          "o260380120171",
+          "o260380120181",
+          "o260380120191",
+          "o260380120201",
+          "o260380120202"
+        ]
+      }
+    ]
+  }
+}

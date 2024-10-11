@@ -1,0 +1,95 @@
+{
+  "id": "place:Beth-horonUpper",
+  "primary_id": "place:Beth-horonUpper",
+  "alternate_sources": {
+    "obi": [
+      "ab682e6"
+    ],
+    "ubsdbh": [
+      "005458001001000"
+    ],
+    "tipnr": [
+      "Beth-horon_Upper@Jos.16.5-2Ch"
+    ],
+    "vizbible": [
+      "recMJFxR4wli1Ly6z"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005458001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Upper Beth-horon",
+      "alternate_labels": [
+        "Beth-horon the upper"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-horonUpper",
+          "gloss": "Upper Beth-Horon",
+          "description": "A Levitical town in the territory of Ephraim; assigned to the clan of Kohath."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Ephraim",
+  "associated_places": [
+    "place:Beth-horonLower"
+  ],
+  "nearby_places": [
+    "place:Beth-horonLower"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.85891795",
+      "lon": "35.12831317"
+    },
+    "vizbible": {
+      "lat": "31.85891795",
+      "lon": "35.12831317"
+    }
+  },
+  "key_references": [
+    "07016005",
+    "13007024",
+    "14008005"
+  ],
+  "references": [
+    "06016005",
+    "13007024",
+    "14008005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060160050151"
+      ],
+      [
+        "o130070240092"
+      ],
+      [
+        "o140080050052"
+      ]
+    ]
+  }
+}

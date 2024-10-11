@@ -1,0 +1,64 @@
+{
+  "id": "person:Anathoth",
+  "primary_id": "person:Anathoth",
+  "alternate_sources": {
+    "aquifer": [
+      "3598|Anathoth (Person)|TyndaleBibleDictionary",
+      "3599|Anathoth (Place), Anathothite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005571001002000"
+    ],
+    "tipnr": [
+      "Anathoth@1Ch.7.8"
+    ],
+    "vizbible": [
+      "rec6SaIxwJ1vZJ25A"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Becher",
+  "siblings": [
+    "person:Zemirah",
+    "person:Joash.7",
+    "person:Eliezer.4",
+    "person:Elioenai.3",
+    "person:Omri.2",
+    "person:Jeremoth",
+    "person:Abijah.5",
+    "person:Alemeth"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005571001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anathoth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anathoth",
+          "article": "person:Anathoth",
+          "description": "A man of the tribe of Benjamin living during Israel's time in Egypt and the wilderness, son of Becher, mentioned in 1 Chronicles 7:8."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007008"
+  ],
+  "references": [
+    "13007008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070080102"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "place:Ephrath",
+  "primary_id": "place:Bethlehem",
+  "alternate_sources": {
+    "aquifer": [
+      "5122|Ephrath (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000619001001000"
+    ],
+    "tipnr": [
+      "Ephrath|Bethlehem@Gen.35.16-Jhn"
+    ],
+    "vizbible": [
+      "recTsiqfHAu6vwW3H"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000619001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephrath",
+      "alternate_labels": [
+        "Bethlehem"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ephrath",
+          "gloss": "Ephrath",
+          "description": "A town in the territory of Judah where Jacob buried Rachel, his wife; also known as Ephrathah and Bethlehem."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Ephrathah",
+    "place:Bethlehem"
+  ],
+  "referred_to_as": [
+    "place:Bethlehem"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶפְרָת",
+      "אֶפְרָ֫תָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.70536129",
+      "lon": "35.2102663"
+    },
+    "vizbible": {
+      "lat": "31.70536129",
+      "lon": "35.2102663"
+    }
+  },
+  "key_references": [
+    "01048007",
+    "01035019",
+    "01035016"
+  ],
+  "references": [
+    "01035016",
+    "01035019",
+    "01048007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010350160091"
+      ],
+      [
+        "o010350190051"
+      ],
+      [
+        "o010480070141"
+      ],
+      [
+        "o010480070181"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010350190061"
+      ],
+      [
+        "o010480070191"
+      ]
+    ]
+  }
+}

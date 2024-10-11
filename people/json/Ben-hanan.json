@@ -1,0 +1,64 @@
+{
+  "id": "person:Ben-hanan",
+  "primary_id": "person:Ben-hanan",
+  "alternate_sources": {
+    "aquifer": [
+      "4107|Ben-Hanan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001049001001000"
+    ],
+    "tipnr": [
+      "Ben-hanan@1Ch.4.20"
+    ],
+    "vizbible": [
+      "recXh8to9P0zfH4IZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shimon",
+  "siblings": [
+    "person:Amnon.2",
+    "person:Rinnah",
+    "person:Tilon"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "001049001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ben-hanan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ben-Hanan",
+          "article": "person:Ben-hanan",
+          "description": "Man from the tribe of Judah, son of Shimon, mentioned in 1 Chronicles 4:20."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּן־חָנָן"
+    ]
+  },
+  "key_references": [
+    "13004020"
+  ],
+  "references": [
+    "13004020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040200051",
+        "o130040200061"
+      ]
+    ]
+  }
+}

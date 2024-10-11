@@ -1,0 +1,66 @@
+{
+  "id": "place:Parbar",
+  "primary_id": "place:Parbar",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005980001001000"
+    ],
+    "tipnr": [
+      "Parbar@1Ch.26.18"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005980001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Parbar",
+      "alternate_labels": [
+        "court",
+        "colonnade"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Parbar",
+          "gloss": "Parbar",
+          "description": "An area enclosed by walls or buildings; part of the temple complex."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "structure"
+    ],
+    "acai": [
+      "structure"
+    ]
+  },
+  "key_references": [
+    "13026018"
+  ],
+  "references": [
+    "13026018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130260180012"
+      ],
+      [
+        "o130260180062"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "person:Anah",
+  "primary_id": "person:Anah",
+  "alternate_sources": {
+    "aquifer": [
+      "3586|Anah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005538001001000"
+    ],
+    "tipnr": [
+      "Anah@Gen.36.2-"
+    ],
+    "vizbible": [
+      "recgTlJx28QdBDEsl"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Zibeon",
+  "partners": [
+    "person:Beeri"
+  ],
+  "offspring": [
+    "person:Oholibamah"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "005538001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anah",
+          "article": "person:Anah",
+          "description": "A woman living during the time of the patriarchs, daughter of Zibeon, and mentioned in Genesis 36:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036002",
+    "01036014",
+    "01036018"
+  ],
+  "references": [
+    "01036002",
+    "01036014",
+    "01036018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360020151"
+      ],
+      [
+        "o010360140061"
+      ],
+      [
+        "o010360180161"
+      ]
+    ]
+  }
+}

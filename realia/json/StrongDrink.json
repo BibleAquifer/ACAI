@@ -1,0 +1,86 @@
+{
+  "id": "realia:StrongDrink",
+  "primary_id": "realia:StrongDrink",
+  "alternate_sources": {
+    "aquifer": [
+      "8637|Strong Drink|TyndaleBibleDictionary",
+      "27123|Strong Drink|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "6.200"
+    ],
+    "ubsdbh": [
+      "004979001001000"
+    ],
+    "ubsrealia": [
+      "realia:9.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.200"
+  ],
+  "ubsdbh": [
+    "004979001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Strong Drink",
+      "alternate_labels": [
+        "Liquor",
+        "Beer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Strong Drink",
+          "article": "realia:StrongDrink",
+          "description": "An alcoholic beverage made from grain."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סֹבֶא"
+    ],
+    "el": [
+      "σίκερα"
+    ]
+  },
+  "key_references": [
+    "23001022",
+    "28004018",
+    "42001015"
+  ],
+  "references": [
+    "23001022",
+    "28004018",
+    "34001010",
+    "42001015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230010220041",
+        "o230010220042"
+      ],
+      [
+        "o280040180021",
+        "o280040180022"
+      ],
+      [
+        "o340010100053",
+        "o340010100054"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42001015010"
+      ]
+    ]
+  }
+}

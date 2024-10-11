@@ -1,0 +1,78 @@
+{
+  "id": "place:Hakkephirim",
+  "primary_id": "place:Ono",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003401001001000 003401002001000"
+    ],
+    "tipnr": [
+      "Hakkephirim|Ono@1Ch.8.12-Neh"
+    ],
+    "vizbible": [
+      "rec2PCmwHsVx97kxs"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003401001001000 003401002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hakkephirim",
+      "alternate_labels": [
+        "Kephirim",
+        "Chephirim",
+        "villages",
+        "Ono"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hakkephirim",
+          "gloss": "Hakkephirim",
+          "description": "A location in the valley of Ono where Nehemiah was to meet Sanballat and Geshem."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ono"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.02222222",
+      "lon": "34.86666667"
+    },
+    "vizbible": {
+      "lat": "32.02222222",
+      "lon": "34.86666667"
+    }
+  },
+  "key_references": [
+    "16006002"
+  ],
+  "references": [
+    "16006002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160060020092"
+      ]
+    ]
+  }
+}

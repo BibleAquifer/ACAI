@@ -1,0 +1,49 @@
+{
+  "id": "group:Asshurim",
+  "primary_id": "group:Asshurim",
+  "alternate_sources": {
+    "aquifer": [
+      "3833|Asshurim, Asshurites|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Asshurim@Gen.25.3"
+    ],
+    "vizbible": [
+      "recTiCxbWkZzNPX1G"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Dedan",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Asshurim",
+      "alternate_labels": [
+        "Ashurites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Asshurim",
+          "article": "group:Asshurim",
+          "description": "People descended from Dedan, a descendant of Abraham."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01025003"
+  ],
+  "references": [
+    "01025003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250030101"
+      ]
+    ]
+  }
+}

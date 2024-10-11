@@ -1,0 +1,133 @@
+{
+  "id": "person:Jehoram.3",
+  "primary_id": "person:Joram.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6282|Jehoram|TyndaleBibleDictionary",
+      "26749|Jehoram|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002837001002000",
+      "002837001003000"
+    ],
+    "tipnr": [
+      "Jehoram|Joram@2Ki.1.17-2Ch"
+    ],
+    "vizbible": [
+      "rec6bglEYL173T2KE"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ahab",
+  "mother": "person:Jezebel",
+  "siblings": [
+    "person:Joash.2",
+    "person:Ahaziah",
+    "person:Athaliah"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "002837001002000",
+    "002837001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehoram (Joram)",
+      "alternate_labels": [
+        "Joram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joram",
+          "article": "person:Jehoram.3",
+          "description": "A son of Ahab and king of the northern kingdom of Israel during the divided kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Joram.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹורָם",
+      "יְהוֹרָם",
+      "יוֹרָם"
+    ]
+  },
+  "key_references": [
+    "12001017",
+    "12003001",
+    "14022005",
+    "14022006"
+  ],
+  "references": [
+    "12001017",
+    "12003001",
+    "12003006",
+    "14022005",
+    "14022006",
+    "14022007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120010170081"
+      ],
+      [
+        "o120010170122"
+      ],
+      [
+        "o120030010012"
+      ],
+      [
+        "o120030060031"
+      ],
+      [
+        "o140220050061"
+      ],
+      [
+        "o140220060161"
+      ],
+      [
+        "o140220060221"
+      ],
+      [
+        "o140220070111"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140220060281"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120030010142"
+      ],
+      [
+        "o120030020012"
+      ],
+      [
+        "o120030020092"
+      ],
+      [
+        "o120030030101"
+      ],
+      [
+        "o120030030121"
+      ]
+    ]
+  }
+}

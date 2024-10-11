@@ -1,0 +1,98 @@
+{
+  "id": "place:Dibon.2",
+  "primary_id": "place:Dibon.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4836|Dibon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001627001002000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/697654"
+    ],
+    "tipnr": [
+      "Dibon@Neh.11.25"
+    ],
+    "vizbible": [
+      "rechxzNWsHpzbGt3S"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001627001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dibon (of Judah)",
+      "alternate_labels": [
+        "Dibon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dibon.2",
+          "gloss": "Dibon (of Judah)",
+          "description": "A town in the territory of Judah; probably to be identified with Dimonah. "
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Dimonah"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "דִּיבֹון",
+      "דִּיבֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.1858",
+      "lon": "34.96745"
+    },
+    "recogito": {
+      "lat": "31.499159",
+      "lon": "35.780512"
+    },
+    "vizbible": {
+      "lat": "31.1858",
+      "lon": "34.96745"
+    }
+  },
+  "key_references": [
+    "16011025"
+  ],
+  "references": [
+    "16011025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110250103"
+      ]
+    ]
+  }
+}

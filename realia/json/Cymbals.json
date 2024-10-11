@@ -1,0 +1,136 @@
+{
+  "id": "realia:Cymbals",
+  "primary_id": "realia:Cymbals",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.94"
+    ],
+    "ubsdbh": [
+      "004303001001000",
+      "006223001001000"
+    ],
+    "ubsrealia": [
+      "realia:7.4.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.94"
+  ],
+  "ubsdbh": [
+    "004303001001000",
+    "006223001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cymbals",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cymbals",
+          "article": "realia:Cymbals",
+          "description": "Two round metal discs that are struck together to make a loud clashing sound."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְצִלְתַּיִם",
+      "צֶלְצְלִים"
+    ],
+    "el": [
+      "κύμβαλον"
+    ]
+  },
+  "key_references": [
+    "10006005",
+    "14005012",
+    "19150005"
+  ],
+  "references": [
+    "10006005",
+    "13013008",
+    "13015016",
+    "13015019",
+    "13015028",
+    "13016005",
+    "13016042",
+    "13025001",
+    "13025006",
+    "14005012",
+    "14005013",
+    "14029025",
+    "15003010",
+    "16012027",
+    "19150005",
+    "46013001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130130080133"
+      ],
+      [
+        "o130150160132"
+      ],
+      [
+        "o130150190052"
+      ],
+      [
+        "o130150280123"
+      ],
+      [
+        "o130160050182"
+      ],
+      [
+        "o130160420052"
+      ],
+      [
+        "o130250010143"
+      ],
+      [
+        "o130250060092"
+      ],
+      [
+        "o140050120112"
+      ],
+      [
+        "o140050130153"
+      ],
+      [
+        "o140290250062"
+      ],
+      [
+        "o150030100132"
+      ],
+      [
+        "o160120270161"
+      ],
+      [
+        "o100060050153"
+      ],
+      [
+        "o191500050022"
+      ],
+      [
+        "o191500050052"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n46013001018"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n46013001019"
+      ]
+    ]
+  }
+}

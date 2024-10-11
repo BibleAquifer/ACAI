@@ -1,0 +1,73 @@
+{
+  "id": "person:Abishur",
+  "primary_id": "person:Abishur",
+  "alternate_sources": {
+    "aquifer": [
+      "3313|Abishur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000050001001000"
+    ],
+    "tipnr": [
+      "Abishur@1Ch.2.28-"
+    ],
+    "vizbible": [
+      "recSHsQtu9aSZRzOw"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shammai",
+  "partners": [
+    "person:Abihail.2"
+  ],
+  "offspring": [
+    "person:Ahban",
+    "person:Molid"
+  ],
+  "siblings": [
+    "person:Nadab.3"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000050001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abishur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abishur",
+          "article": "person:Abishur",
+          "description": "A man from the tribe of Judah, son of Shammai, mentioned in 1 Chronicles 2:28."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִישׁוּר"
+    ]
+  },
+  "key_references": [
+    "13002028",
+    "13002029"
+  ],
+  "references": [
+    "13002028",
+    "13002029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020280092"
+      ],
+      [
+        "o130020290031"
+      ]
+    ]
+  }
+}

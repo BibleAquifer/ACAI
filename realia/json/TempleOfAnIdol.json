@@ -1,0 +1,56 @@
+{
+  "id": "realia:TempleOfAnIdol",
+  "primary_id": "realia:TempleOfAnIdol",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.19"
+    ],
+    "ubsrealia": [
+      "realia:3.14.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.19"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Temple of an Idol",
+      "alternate_labels": [
+        "Canaanite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Temple of an Idol",
+          "article": "realia:TempleOfAnIdol",
+          "description": "A building where an idol is kept and worshipped."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "εἰδωλεῖον"
+    ]
+  },
+  "key_references": [
+    "09005002",
+    "12010027",
+    "13010010",
+    "46008010"
+  ],
+  "references": [
+    "46008010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46008010010"
+      ]
+    ]
+  }
+}

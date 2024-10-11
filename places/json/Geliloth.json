@@ -1,0 +1,92 @@
+{
+  "id": "place:Geliloth",
+  "primary_id": "place:Gilgal.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5407|Geliloth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001424001001000"
+    ],
+    "tipnr": [
+      "Geliloth|Gilgal@Deu.11.30-Mic"
+    ],
+    "vizbible": [
+      "recmXnEHeGtX63jTW"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001424001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Geliloth",
+      "alternate_labels": [
+        "Gilgal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Geliloth",
+          "gloss": "Geliloth",
+          "description": "A location in the territory of Benjamin; also known as Gilgal."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Gilgal.2"
+  ],
+  "referred_to_as": [
+    "place:Gilgal.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גְּלִילֹות",
+      "גְּלִילוֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.86378328",
+      "lon": "35.51854651"
+    },
+    "vizbible": {
+      "lat": "31.86378328",
+      "lon": "35.51854651"
+    }
+  },
+  "key_references": [
+    "06022011",
+    "06018017",
+    "06022010"
+  ],
+  "references": [
+    "06018017",
+    "06022010",
+    "06022011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180170081"
+      ]
+    ]
+  }
+}

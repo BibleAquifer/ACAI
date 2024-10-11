@@ -1,0 +1,86 @@
+{
+  "id": "realia:Aloes",
+  "primary_id": "realia:Aloes",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.209",
+      "6.207"
+    ],
+    "ubsrealia": [
+      "realia:4.8.3.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.209",
+    "6.207"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aloes",
+      "alternate_labels": [
+        "Aromatic Salves",
+        "Perfumed Ointment"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aloes",
+          "article": "realia:Aloes",
+          "description": "An aromatic resin from a lily-like plant, often used for embalming bodies."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀλόη",
+      "ἄρωμα",
+      "σμῆγμα"
+    ]
+  },
+  "key_references": [
+    "43019039",
+    "43019040",
+    "42023056"
+  ],
+  "references": [
+    "41016001",
+    "42023056",
+    "42024001",
+    "43019039",
+    "43019040"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43019039016"
+      ],
+      [
+        "n41016001016"
+      ],
+      [
+        "n42023056004"
+      ],
+      [
+        "n42024001015"
+      ],
+      [
+        "n43019040013"
+      ],
+      [
+        "n43019039013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42024001013"
+      ]
+    ]
+  }
+}

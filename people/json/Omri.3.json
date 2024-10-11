@@ -1,0 +1,57 @@
+{
+  "id": "person:Omri.3",
+  "primary_id": "person:Omri.3",
+  "alternate_sources": {
+    "aquifer": [
+      "7492|Omri|TyndaleBibleDictionary",
+      "26921|Omri|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005524001003000"
+    ],
+    "tipnr": [
+      "Omri@1Ch.9.4"
+    ],
+    "vizbible": [
+      "recf7E0gdr7IOsMgZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Imri",
+  "offspring": [
+    "person:Ammihud.5"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005524001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Omri (1 Chronicles 9:4)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Omri (1 Chronicles 9:4)",
+          "article": "person:Omri.3",
+          "description": "Omri, mentioned in 1 Chronicles 9:4, is a man of the tribe of Judah living during the time of exile and return, who is the son of Imri and father of Ammihud."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009004"
+  ],
+  "references": [
+    "13009004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090040051"
+      ]
+    ]
+  }
+}

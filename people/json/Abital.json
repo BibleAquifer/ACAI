@@ -1,0 +1,68 @@
+{
+  "id": "person:Abital",
+  "primary_id": "person:Abital",
+  "alternate_sources": {
+    "aquifer": [
+      "3314|Abital|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000036001001000"
+    ],
+    "tipnr": [
+      "Abital@2Sa.3.4-1Ch"
+    ],
+    "vizbible": [
+      "rec3H2R8d8mj0acNJ"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:David"
+  ],
+  "offspring": [
+    "person:Shephatiah"
+  ],
+  "ubsdbh": [
+    "000036001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abital",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abital",
+          "article": "person:Abital",
+          "description": "A woman from the time of Israel's united kingdom, wife of David and mother of Shephatiah, mentioned in 2 Samuel 3:4."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִיטַל",
+      "אֲבִיטָ֑ל"
+    ]
+  },
+  "key_references": [
+    "10003004",
+    "13003003"
+  ],
+  "references": [
+    "10003004",
+    "13003003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100030040081"
+      ],
+      [
+        "o130030030032"
+      ]
+    ]
+  }
+}

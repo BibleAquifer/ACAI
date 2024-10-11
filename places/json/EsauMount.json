@@ -1,0 +1,131 @@
+{
+  "id": "place:EsauMount",
+  "primary_id": "place:EsauMount",
+  "alternate_sources": {
+    "obi": [
+      "a8e843f"
+    ],
+    "ubsdbh": [
+      "005700001001000"
+    ],
+    "tipnr": [
+      "Esau_Mount@Oba.1.8-"
+    ],
+    "vizbible": [
+      "recoCAUgSjfORc9gs"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005700001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Esau",
+      "alternate_labels": [
+        "Esau",
+        "mountains of Edom",
+        "Esau’s mountain",
+        "mountains of Esau",
+        "mount of Esau",
+        "mountain of Esau",
+        "Esau’s mountains",
+        "Mount of Esau",
+        "hill country of Esau"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain range"
+    ],
+    "vizbible": [
+      "Mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.734691",
+      "lon": "35.606250"
+    },
+    "vizbible": {
+      "lat": "30.734691",
+      "lon": "35.606250"
+    }
+  },
+  "references": [
+    "31001008",
+    "31001009",
+    "31001019",
+    "31001021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o310010080111"
+      ],
+      [
+        "o310010090081"
+      ],
+      [
+        "o310010190051"
+      ],
+      [
+        "o310010210081"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o310010110171"
+      ],
+      [
+        "o310010130101"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o310010100062"
+      ],
+      [
+        "o310010120021"
+      ],
+      [
+        "o310010120081"
+      ],
+      [
+        "o310010120141"
+      ],
+      [
+        "o310010130021"
+      ],
+      [
+        "o310010130151"
+      ],
+      [
+        "o310010140021"
+      ],
+      [
+        "o310010140052"
+      ],
+      [
+        "o310010140091"
+      ],
+      [
+        "o310010150091"
+      ],
+      [
+        "o310010160031"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "person:Bernice",
+  "primary_id": "person:Bernice",
+  "alternate_sources": {
+    "aquifer": [
+      "4137|Bernice|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.71"
+    ],
+    "tipnr": [
+      "Bernice@Act.25.13-"
+    ],
+    "vizbible": [
+      "rec46MqJI7uxMvviP"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "roles": [
+    "Royal Family Member"
+  ],
+  "ubsdgnt": [
+    "93.71"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bernice",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bernice",
+          "article": "person:Bernice",
+          "description": "A woman mentioned in Acts 25:13, living during the New Testament period, daughter of Herod Agrippa I and sister of Herod Agrippa II."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Βερνίκη"
+    ]
+  },
+  "key_references": [
+    "44025013",
+    "44025023",
+    "44026030"
+  ],
+  "references": [
+    "44025013",
+    "44025023",
+    "44026030"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44025013009"
+      ],
+      [
+        "n44025023009"
+      ],
+      [
+        "n44026030010"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44025024011"
+      ],
+      [
+        "n44026008005"
+      ],
+      [
+        "n44026030014"
+      ],
+      [
+        "n44026031005"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44025013013"
+      ],
+      [
+        "n44025014005"
+      ],
+      [
+        "n44025023014"
+      ],
+      [
+        "n44026031002",
+        "n44026031003"
+      ],
+      [
+        "n44026031006"
+      ],
+      [
+        "n44027001010"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n44026031008",
+          "n44026031009",
+          "n44026031010",
+          "n44026031011",
+          "n44026031012",
+          "n44026031013",
+          "n44026031014",
+          "n44026031015",
+          "n44026031016",
+          "n44026031017"
+        ]
+      }
+    ]
+  }
+}

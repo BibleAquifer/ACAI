@@ -1,0 +1,77 @@
+{
+  "id": "realia:Span",
+  "primary_id": "realia:Span",
+  "alternate_sources": {
+    "aquifer": [
+      "8593|Span|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002066001001000"
+    ],
+    "ubsrealia": [
+      "realia:11.4.1.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "002066001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Span",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Span",
+          "article": "realia:Span",
+          "description": "The distance between the tip of the thumb and the tip of the little finger of an outstretched hand, about half a cubit."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זֶרֶת"
+    ]
+  },
+  "key_references": [
+    "02028016",
+    "09017004",
+    "23040012"
+  ],
+  "references": [
+    "02028016",
+    "02039009",
+    "09017004",
+    "23040012",
+    "26043013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020280160041"
+      ],
+      [
+        "o020280160062"
+      ],
+      [
+        "o020390090071"
+      ],
+      [
+        "o020390090092"
+      ],
+      [
+        "o090170040122"
+      ],
+      [
+        "o230400120062"
+      ],
+      [
+        "o260430130161"
+      ]
+    ]
+  }
+}

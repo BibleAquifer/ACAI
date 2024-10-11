@@ -1,0 +1,100 @@
+{
+  "id": "person:Eliphelet",
+  "primary_id": "person:Eliphelet",
+  "alternate_sources": {
+    "aquifer": [
+      "5020|Eliphelet|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000431001001000"
+    ],
+    "tipnr": [
+      "Eliphelet@2Sa.5.16-1Ch"
+    ],
+    "vizbible": [
+      "recgqGkjB3fwZwVF2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:JerusalemWives",
+  "siblings": [
+    "person:Amnon",
+    "person:Chileab",
+    "person:Absalom",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shammua.2",
+    "person:Shobab",
+    "person:Nathan",
+    "person:Solomon",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Nepheg.2",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliada",
+    "person:Tamar.2",
+    "person:Elpelet",
+    "person:Nogah",
+    "person:Jerimoth.6"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "000431001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliphelet",
+      "alternate_labels": [
+        "Eliphalet"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliphelet",
+          "article": "person:Eliphelet",
+          "description": "Eliphelet, also known as Eliphalet, was a son of King David from the tribe of Judah during Israel's united kingdom, first mentioned in 2 Samuel 5:16."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיפֶלֶט",
+      "אֲלִיפֶ֫לֶט"
+    ]
+  },
+  "key_references": [
+    "10005016",
+    "13003008",
+    "13014007"
+  ],
+  "references": [
+    "10005016",
+    "13003008",
+    "13014007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100050160032"
+      ],
+      [
+        "o130030080032"
+      ],
+      [
+        "o130140070032"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "person:Gilead.2",
+  "primary_id": "person:Gilead.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5467|Gilead (Person)|TyndaleBibleDictionary",
+      "5465|Gilead, Balm of|TyndaleBibleDictionary",
+      "26639|Gilead|UWTranslationWords",
+      "132387|Gilead|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001435001003000"
+    ],
+    "tipnr": [
+      "Gilead@Jdg.11.1-"
+    ],
+    "vizbible": [
+      "recw9IZgnva9BwfQJ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Jephthah"
+  ],
+  "ubsdbh": [
+    "001435001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gilead (Judges 11:1)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gilead (Judges 11:1)",
+          "article": "person:Gilead.2",
+          "description": "Gilead was the father of Jephthah, a judge of Israel, mentioned in Judges 11:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גִּלְעָד"
+    ]
+  },
+  "key_references": [
+    "07011001",
+    "07011002"
+  ],
+  "references": [
+    "07011001",
+    "07011002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070110010111"
+      ],
+      [
+        "o070110020031"
+      ]
+    ]
+  }
+}

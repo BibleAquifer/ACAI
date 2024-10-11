@@ -1,0 +1,32 @@
+{
+  "id": "place:LowerPool",
+  "primary_id": "place:LowerPool",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:LowerPool",
+          "gloss": "Lower Pool",
+          "description": "A pool in Jerusalem mentioned in Isa 22:9."
+        }
+      ],
+      "preferred_label": "Lower Pool"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "pool"
+    ]
+  },
+  "key_references": [
+    "23022009"
+  ]
+}

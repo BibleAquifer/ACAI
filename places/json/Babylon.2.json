@@ -1,0 +1,53 @@
+{
+  "id": "place:Babylon.2",
+  "primary_id": "place:Babylon.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3957|Babylon, Babylonia|TyndaleBibleDictionary",
+      "26358|Babylon|UWTranslationWords",
+      "132444|Babylon|BiblicaStudyNotesKeyTerms"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Babylon.2",
+          "gloss": "Babylon (Symbolic)",
+          "description": "Traditionally understood as a metaphorical reference to Rome."
+        }
+      ],
+      "preferred_label": "Babylon (Symbolic)"
+    }
+  },
+  "possibly_same_as": [
+    "place:Rome",
+    "place:Jerusalem"
+  ],
+  "associated_places": [
+    "place:Babylon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.53633",
+      "lon": "44.42108"
+    }
+  },
+  "key_references": [
+    "60005013",
+    "66017005"
+  ]
+}

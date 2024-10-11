@@ -1,0 +1,39 @@
+{
+  "id": "place:Uqnu",
+  "primary_id": "place:Uqnu",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Uqnu",
+          "gloss": "Uqnu",
+          "description": "A river in southern Mesopotamia; possibly the Karkheh."
+        }
+      ],
+      "preferred_label": "Uqnu",
+      "alternate_labels": [
+        "Uqnu River",
+        "Karkheh",
+        "Karkheh River",
+        "Kerkha",
+        "Kerkha River"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "river"
+    ]
+  }
+}

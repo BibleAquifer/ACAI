@@ -1,0 +1,92 @@
+{
+  "id": "group:Persia",
+  "primary_id": "group:Persia",
+  "alternate_sources": {
+    "aquifer": [
+      "7674|Persia, Persians|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006017001001000",
+      "006018001001000",
+      "006015001001000",
+      "000616001001000"
+    ],
+    "tipnr": [
+      "Persia@2Ch.36.20-Dan"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Persia",
+  "ubsdbh": [
+    "006017001001000",
+    "006018001001000",
+    "006015001001000",
+    "000616001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Persians",
+      "alternate_labels": [
+        "Persia"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Persians",
+          "article": "group:Persia",
+          "description": "People who live in Persia."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "arc": [
+      "פַּרְסָי",
+      "פָּרְסָאָה"
+    ]
+  },
+  "key_references": [
+    "16012022"
+  ],
+  "references": [
+    "15004009",
+    "16012022",
+    "17001019",
+    "27005028",
+    "27006009",
+    "27006013",
+    "27006016",
+    "27006029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150040090121"
+      ],
+      [
+        "o160120220142"
+      ],
+      [
+        "o170010190111"
+      ],
+      [
+        "o270050280062"
+      ],
+      [
+        "o270060090122"
+      ],
+      [
+        "o270060130372"
+      ],
+      [
+        "o270060160142"
+      ],
+      [
+        "o270060290091"
+      ]
+    ]
+  }
+}

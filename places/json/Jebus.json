@@ -1,0 +1,130 @@
+{
+  "id": "place:Jebus",
+  "primary_id": "place:Jerusalem",
+  "alternate_sources": {
+    "aquifer": [
+      "6250|Jebus, Jebusite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002745001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/1642640"
+    ],
+    "tipnr": [
+      "Jebus|Jerusalem@Jos.10.1-Rev"
+    ],
+    "vizbible": [
+      "recynQnhWEkUNUZRU"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002745001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jebus",
+      "alternate_labels": [
+        "Jebusi",
+        "Jerusalem",
+        "Jebusites",
+        "Jebusite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jebus",
+          "gloss": "Jebus",
+          "description": "A town of the Jebusites that later became Jerusalem."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:CityOfDavid"
+  ],
+  "referred_to_as": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יְבוּס",
+      "יְבוּסִי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "-1.74302",
+      "lon": "105.45527"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "06018028",
+    "06015008",
+    "13011004"
+  ],
+  "references": [
+    "06015008",
+    "06018016",
+    "06018028",
+    "07019010",
+    "07019011",
+    "13011004",
+    "13011005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180280033"
+      ],
+      [
+        "o070190100101"
+      ],
+      [
+        "o070190110031"
+      ],
+      [
+        "o130110040071"
+      ],
+      [
+        "o130110050031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o070190100111"
+      ],
+      [
+        "o070190110172"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "place:Nophah",
+  "primary_id": "place:Kenath",
+  "alternate_sources": {
+    "aquifer": [
+      "7425|Nophah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004861001001000"
+    ],
+    "tipnr": [
+      "Nophah|Kenath@Num.21.30-1Ch"
+    ],
+    "vizbible": [
+      "rechXI3CkTEGaIRBP"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004861001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nophah",
+      "alternate_labels": [
+        "Kenath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nophah",
+          "gloss": "Nophah",
+          "description": "An unidentified location in Moab."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Kenath"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נֹפַח",
+      "נֹ֫פַח"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.756919",
+      "lon": "36.6164"
+    },
+    "vizbible": {
+      "lat": "32.756919",
+      "lon": "36.6164"
+    }
+  },
+  "key_references": [
+    "04021030"
+  ],
+  "references": [
+    "04021030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210300081"
+      ]
+    ]
+  }
+}

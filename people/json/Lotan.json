@@ -1,0 +1,100 @@
+{
+  "id": "person:Lotan",
+  "primary_id": "person:Lotan",
+  "alternate_sources": {
+    "aquifer": [
+      "6782|Lotan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003545001001000"
+    ],
+    "tipnr": [
+      "Lotan@Gen.36.20-1Ch"
+    ],
+    "vizbible": [
+      "recDVPMfLcfConM50"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Seir",
+  "offspring": [
+    "person:Hori",
+    "person:Hemam"
+  ],
+  "siblings": [
+    "person:Shobal",
+    "person:Zibeon.2",
+    "person:Anah.2",
+    "person:Dishon",
+    "person:Ezer",
+    "person:Dishan",
+    "person:Timna.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "003545001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lotan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lotan",
+          "article": "person:Lotan",
+          "description": "An Edomite and son of Seir, and father of Hori and Hemam."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לֹוטָן",
+      "לוֹטָן"
+    ]
+  },
+  "key_references": [
+    "01036020",
+    "01036022",
+    "13001038"
+  ],
+  "references": [
+    "01036020",
+    "01036022",
+    "01036029",
+    "13001038",
+    "13001039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360200071"
+      ],
+      [
+        "o010360220031"
+      ],
+      [
+        "o010360220071"
+      ],
+      [
+        "o010360290051"
+      ],
+      [
+        "o130010380031"
+      ],
+      [
+        "o130010390021"
+      ],
+      [
+        "o130010390061"
+      ]
+    ]
+  }
+}

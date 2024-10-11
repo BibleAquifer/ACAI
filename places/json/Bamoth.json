@@ -1,0 +1,83 @@
+{
+  "id": "place:Bamoth",
+  "primary_id": "place:Bamoth",
+  "alternate_sources": {
+    "aquifer": [
+      "3987|Bamoth, Bamoth-Baal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001038001001000"
+    ],
+    "tipnr": [
+      "Bamoth@Num.21.19-"
+    ],
+    "vizbible": [
+      "reclJnziaTsU0Sg4r"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001038001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bamoth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bamoth",
+          "gloss": "Bamoth",
+          "description": "A location along the route of the exodus from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בָּמֹות",
+      "בָּמוֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.76503129703305",
+      "lon": "35.71856575741812"
+    },
+    "vizbible": {
+      "lat": "31.76503129703305",
+      "lon": "35.71856575741812"
+    }
+  },
+  "key_references": [
+    "04021019",
+    "04021020"
+  ],
+  "references": [
+    "04021019",
+    "04021020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210190041"
+      ],
+      [
+        "o040210200013"
+      ]
+    ]
+  }
+}

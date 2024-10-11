@@ -1,0 +1,38 @@
+{
+  "id": "place:Vercellae",
+  "primary_id": "place:Vercellae",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Vercellae",
+          "gloss": "Vercellae",
+          "description": "A city in northwestern Italy; modern-day Vercelli."
+        }
+      ],
+      "preferred_label": "Vercellae"
+    }
+  },
+  "subregion_of": [
+    "place:Italy"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "45.32109",
+      "lon": "8.42637"
+    }
+  }
+}

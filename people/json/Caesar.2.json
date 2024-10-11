@@ -1,0 +1,105 @@
+{
+  "id": "person:Caesar.2",
+  "primary_id": "person:Claudius",
+  "alternate_sources": {
+    "aquifer": [
+      "26420|Caesar|UWTranslationWords",
+      "131980|Caesar|BiblicaStudyNotesKeyTerms",
+      "280161|caesar|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.208",
+      "37.74 93.208"
+    ],
+    "tipnr": [
+      "Caesar|Claudius@Act.11.28-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Emperor"
+  ],
+  "ubsdgnt": [
+    "93.208",
+    "37.74 93.208"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Caesar (Claudius)",
+      "alternate_labels": [
+        "Claudius"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Claudius",
+          "article": "person:Caesar.2",
+          "description": "Claudius was a Roman emperor after the time of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Claudius"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Καῖσαρ"
+    ]
+  },
+  "key_references": [
+    "44011028",
+    "44011029",
+    "44011030",
+    "44018002"
+  ],
+  "references": [
+    "44011028",
+    "44017007",
+    "44025008",
+    "44025010",
+    "44025011",
+    "44025012",
+    "44025021",
+    "44026032",
+    "44027024",
+    "44028019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44017007010"
+      ],
+      [
+        "n44025008017"
+      ],
+      [
+        "n44025010008"
+      ],
+      [
+        "n44025011027"
+      ],
+      [
+        "n44025012009"
+      ],
+      [
+        "n44025012012"
+      ],
+      [
+        "n44025021020"
+      ],
+      [
+        "n44026032014"
+      ],
+      [
+        "n44027024005"
+      ],
+      [
+        "n44028019007"
+      ]
+    ]
+  }
+}

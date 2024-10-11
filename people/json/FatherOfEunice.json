@@ -1,0 +1,44 @@
+{
+  "id": "person:FatherOfEunice",
+  "primary_id": "person:FatherOfEunice",
+  "alternate_sources": {
+    "tipnr": [
+      "father_of_Eunice@2Ti.1.5"
+    ],
+    "vizbible": [
+      "recSvV4zOSeBwxXi1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Lois"
+  ],
+  "offspring": [
+    "person:Eunice"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Father of Eunice",
+      "alternate_labels": [
+        "Eunice"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Father of Eunice",
+          "article": "person:FatherOfEunice",
+          "description": "The Father of Eunice is an unnamed man from the New Testament era, known for being the father of Eunice."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "55001005"
+  ],
+  "references": [
+    "55001005"
+  ]
+}

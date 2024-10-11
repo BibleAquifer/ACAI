@@ -1,0 +1,66 @@
+{
+  "id": "person:Lo-ammi",
+  "primary_id": "person:Lo-ammi",
+  "alternate_sources": {
+    "aquifer": [
+      "6764|Lo-Ammi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003488001001000"
+    ],
+    "tipnr": [
+      "Lo-ammi@Hos.1.9"
+    ],
+    "vizbible": [
+      "rec8mJtwFPXmaRnQR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hosea",
+  "mother": "person:Gomer.2",
+  "siblings": [
+    "person:Jezreel.2",
+    "person:Lo-ruhamah"
+  ],
+  "ubsdbh": [
+    "003488001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lo-ammi",
+      "alternate_labels": [
+        "Not My People"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lo-Ammi",
+          "article": "person:Lo-ammi",
+          "description": "The son of Hosea and Gomer, whose name means 'Not My People,' mentioned in Hosea 1:9."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לֹא עַמִּי"
+    ]
+  },
+  "key_references": [
+    "28001009"
+  ],
+  "references": [
+    "28001009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o280010090041",
+        "o280010090051"
+      ]
+    ]
+  }
+}

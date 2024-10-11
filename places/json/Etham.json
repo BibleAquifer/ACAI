@@ -1,0 +1,105 @@
+{
+  "id": "place:Etham",
+  "primary_id": "place:Etham",
+  "alternate_sources": {
+    "aquifer": [
+      "5168|Etham|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a27d0e0"
+    ],
+    "ubsdbh": [
+      "000802001001000"
+    ],
+    "tipnr": [
+      "Etham@Exo.13.20-Num"
+    ],
+    "vizbible": [
+      "reckckIwfcIpRj9XJ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5402858"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000802001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Etham",
+      "alternate_labels": [
+        "Desert of Etham",
+        "Wilderness of Etham"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Etham",
+          "gloss": "Etham",
+          "description": "A location in eastern Egypt near Succoth and on the edge of the desert, where the Israelites encamped on their way from Egypt to Canaan. When setting out from Etham they turned back in the direction of Pi-Hahiroth, and after having crossed the Sea of Reeds the Israelites passed through the desert of Etham."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Succoth.2"
+  ],
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֵתָם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.467511",
+      "lon": "32.282767"
+    },
+    "vizbible": {
+      "lat": "30.467511",
+      "lon": "32.282767"
+    }
+  },
+  "key_references": [
+    "02013020"
+  ],
+  "references": [
+    "02013020",
+    "04033006",
+    "04033007",
+    "04033008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020130200042"
+      ],
+      [
+        "o040330060042"
+      ],
+      [
+        "o040330070022"
+      ],
+      [
+        "o040330080131"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "place:Casiphia",
+  "primary_id": "place:Casiphia",
+  "alternate_sources": {
+    "aquifer": [
+      "4440|Casiphia|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003386001001000"
+    ],
+    "tipnr": [
+      "Casiphia@Ezr.8.17"
+    ],
+    "vizbible": [
+      "recTmLtzNBGYaxeSZ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003386001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Casiphia",
+      "alternate_labels": [
+        "Kasiphia"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Casiphia",
+          "gloss": "Casiphia",
+          "description": "A location in Babylonia where temple servants were living while in exile."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Babylonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כָּסִפְיָא",
+      "בְּ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.136204",
+      "lon": "36.749488"
+    },
+    "vizbible": {
+      "lat": "35.136204",
+      "lon": "36.749488"
+    }
+  },
+  "key_references": [
+    "15008017"
+  ],
+  "references": [
+    "15008017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150080170072"
+      ],
+      [
+        "o150080170182"
+      ]
+    ]
+  }
+}

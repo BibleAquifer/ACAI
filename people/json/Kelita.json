@@ -1,0 +1,57 @@
+{
+  "id": "person:Kelita",
+  "primary_id": "person:Kelaiah",
+  "alternate_sources": {
+    "aquifer": [
+      "6538|Kelita|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006481001001000"
+    ],
+    "tipnr": [
+      "Kelita|Kelaiah@Ezr.10.23"
+    ],
+    "vizbible": [
+      "recMOIdjE2LdzyymA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "006481001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kelita (Kelaiah)",
+      "alternate_labels": [
+        "Kelaiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kelaiah",
+          "article": "person:Kelita",
+          "description": "A man living during the time of exile and return, mentioned in Ezra 10:23, also known as Kelaiah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Kelaiah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15010023"
+  ],
+  "references": [
+    "15010023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150100230071"
+      ]
+    ]
+  }
+}

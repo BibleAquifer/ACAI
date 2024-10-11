@@ -1,0 +1,99 @@
+{
+  "id": "place:WashersField",
+  "primary_id": "place:WashersField",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003232001005000",
+      "006984001002000"
+    ],
+    "tipnr": [
+      "Washer's_Field@2Ki.18.17"
+    ],
+    "vizbible": [
+      "recX579C9Sml7TQRI"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003232001005000",
+    "006984001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Launderer’s Field",
+      "alternate_labels": [
+        "Fuller’s Field",
+        "fuller's field",
+        "Launderer's Field",
+        "Washer’s Field",
+        "Washerman’s Field",
+        "Field",
+        "Washer's Field"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Washer’sField",
+          "gloss": "Launderer’s Field",
+          "description": "A location outside of Jerusalem during King Hezekiah's day, near a road and an aqueduct to the upper pool; cloth materials were cleaned and processed there."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "field"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "field"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.769079",
+      "lon": "35.227994"
+    },
+    "vizbible": {
+      "lat": "31.769079",
+      "lon": "35.227994"
+    }
+  },
+  "key_references": [
+    "23036002",
+    "12018017",
+    "23007003"
+  ],
+  "references": [
+    "12018017",
+    "23007003",
+    "23036002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120180170311",
+        "o120180170321"
+      ],
+      [
+        "o230070030201",
+        "o230070030211"
+      ],
+      [
+        "o230360020191",
+        "o230360020201"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "person:Helek",
+  "primary_id": "person:Helek",
+  "alternate_sources": {
+    "aquifer": [
+      "5777|Helek, Helekite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Helek@Num.26.30-Jos"
+    ],
+    "vizbible": [
+      "recVi2LPI3hplPL8C"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gilead",
+  "siblings": [
+    "person:Abiezer",
+    "person:Asriel",
+    "person:Shechem.2",
+    "person:Shemida",
+    "person:Hepher"
+  ],
+  "tribe": "group:Manasseh",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Helek",
+      "alternate_labels": [
+        "Helekite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Helek",
+          "article": "person:Helek",
+          "description": "Helek, a man from the tribe of Manasseh and son of Gilead, lived during the time of Egypt and the wilderness, first mentioned in Numbers 26:30."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Helek"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026030",
+    "06017002"
+  ],
+  "references": [
+    "04026030",
+    "06017002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260300072"
+      ],
+      [
+        "o040260300092"
+      ],
+      [
+        "o060170020091"
+      ]
+    ]
+  }
+}

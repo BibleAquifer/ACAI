@@ -1,0 +1,81 @@
+{
+  "id": "person:Gideoni",
+  "primary_id": "person:Gideoni",
+  "alternate_sources": {
+    "aquifer": [
+      "5457|Gideoni|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001321001001000"
+    ],
+    "tipnr": [
+      "Gideoni@Num.1.11-"
+    ],
+    "vizbible": [
+      "recXUw8sDi98VMhji"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Abidan"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "ubsdbh": [
+    "001321001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gideoni",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gideoni",
+          "article": "person:Gideoni",
+          "description": "His son Abidan was the chief of the tribe of Benjamin during the time of Moses."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גִּדְעֹנִי"
+    ]
+  },
+  "key_references": [
+    "04001011",
+    "04002022",
+    "04007060"
+  ],
+  "references": [
+    "04001011",
+    "04002022",
+    "04007060",
+    "04007065",
+    "04010024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010110041"
+      ],
+      [
+        "o040020220081"
+      ],
+      [
+        "o040070600081"
+      ],
+      [
+        "o040070650171"
+      ],
+      [
+        "o040100240081"
+      ]
+    ]
+  }
+}

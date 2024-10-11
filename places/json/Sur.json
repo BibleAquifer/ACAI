@@ -1,0 +1,83 @@
+{
+  "id": "place:Sur",
+  "primary_id": "place:Sur",
+  "alternate_sources": {
+    "aquifer": [
+      "8659|Sur Gate|TyndaleBibleDictionary"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/10048774"
+    ],
+    "tipnr": [
+      "Sur@2Ki.11.6"
+    ],
+    "vizbible": [
+      "recjf4Aa0zHrkKhlj"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sur Gate",
+      "alternate_labels": [
+        "Foundation Gate",
+        "Sur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sur",
+          "gloss": "Sur Gate",
+          "description": "A gate in Jerusalem, possibly leading from the royal palace to the temple; another name for the Gate of the Foundation."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:FoundationGate"
+  ],
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "37.91351",
+      "lon": "40.22859"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "12011006"
+  ],
+  "references": [
+    "12011006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120110060031"
+      ]
+    ]
+  }
+}

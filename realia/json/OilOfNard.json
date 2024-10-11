@@ -1,0 +1,58 @@
+{
+  "id": "realia:OilOfNard",
+  "primary_id": "realia:OilOfNard",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.210"
+    ],
+    "ubsrealia": [
+      "realia:10.6.1.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.210"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Oil of Nard",
+      "alternate_labels": [
+        "Perfume of Nard"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Oil of Nard",
+          "article": "realia:OilOfNard",
+          "description": "A fragrant oil made from the nard plant, used as perfume."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "νάρδος"
+    ]
+  },
+  "key_references": [
+    "41014003",
+    "43012003"
+  ],
+  "references": [
+    "41014003",
+    "43012003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41014003019"
+      ],
+      [
+        "n43012003007"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "place:Cherub",
+  "primary_id": "place:Cherub",
+  "alternate_sources": {
+    "aquifer": [
+      "4511|Cherub (Place)|TyndaleBibleDictionary",
+      "4510|Cherub, Cherubim|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Cherub@Ezr.2.59-Neh"
+    ],
+    "vizbible": [
+      "recJW9SAwTJ9dnLeJ"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cherub",
+      "alternate_labels": [
+        "Kerub"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cherub",
+          "gloss": "Cherub",
+          "description": "A town in Babylon from which a group of Jews return to Israel (Ezra 2:59; Nehemiah 7:61)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.53650368616845",
+      "lon": "44.42088287373876"
+    },
+    "vizbible": {
+      "lat": "32.53650368616845",
+      "lon": "44.42088287373876"
+    }
+  },
+  "key_references": [
+    "15002059",
+    "16007061"
+  ],
+  "references": [
+    "15002059",
+    "16007061"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020590071"
+      ],
+      [
+        "o160070610071"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "flora:Walnut",
+  "primary_id": "flora:Walnut",
+  "alternate_sources": {
+    "aquifer": [
+      "9027|Walnut|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000094001001000"
+    ],
+    "ubsflora": [
+      "flora:2.13"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Domestic Trees and Shrubs",
+  "ubsdbh": [
+    "000094001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Walnut",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Walnut",
+          "article": "flora:Walnut",
+          "description": "A tree with a broad crown and fresh green leaves, producing edible nuts inside a thick rind."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱגֹוז"
+    ]
+  },
+  "key_references": [
+    "22006011"
+  ],
+  "references": [
+    "22006011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o220060110031"
+      ]
+    ]
+  }
+}

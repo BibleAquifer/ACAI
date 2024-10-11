@@ -1,0 +1,92 @@
+{
+  "id": "realia:Stew",
+  "primary_id": "realia:Stew",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004709001001000"
+    ],
+    "ubsrealia": [
+      "realia:9.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004709001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stew",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Stew",
+          "article": "realia:Stew",
+          "description": "A dish made by cooking vegetables or beans in water."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נָזִיד"
+    ]
+  },
+  "key_references": [
+    "01025029",
+    "12004038",
+    "12004040"
+  ],
+  "references": [
+    "01025029",
+    "01025034",
+    "12004038",
+    "12004039",
+    "12004040",
+    "37002012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250290031"
+      ],
+      [
+        "o010250340052"
+      ],
+      [
+        "o120040380161"
+      ],
+      [
+        "o120040390202"
+      ],
+      [
+        "o120040400063"
+      ],
+      [
+        "o370020120132"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o370020130081"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o370020120212"
+      ],
+      [
+        "o370020130092"
+      ],
+      [
+        "o370020130131"
+      ]
+    ]
+  }
+}

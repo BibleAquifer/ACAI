@@ -1,0 +1,237 @@
+{
+  "id": "place:Nazareth",
+  "primary_id": "place:Nazareth",
+  "alternate_sources": {
+    "aquifer": [
+      "7319|Nazareth|TyndaleBibleDictionary",
+      "26903|Nazareth|UWTranslationWords",
+      "132017|Nazareth|BiblicaStudyNotesKeyTerms",
+      "280196|nazareth|FIAKeyTerms"
+    ],
+    "obi": [
+      "af5884f"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/22899"
+    ],
+    "tipnr": [
+      "Nazareth@Mat.2.23-Act"
+    ],
+    "vizbible": [
+      "recmRfnw4XzPBH9jc"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q430776"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nazareth",
+      "alternate_labels": [
+        "Nazarene"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nazareth",
+          "gloss": "Nazareth",
+          "description": "A town in south central Galilee, where Jesus lived as a child (Matthew 2:23)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.70674542",
+      "lon": "35.30152808"
+    },
+    "recogito": {
+      "lat": "32.701029",
+      "lon": "35.300148"
+    },
+    "vizbible": {
+      "lat": "32.701029",
+      "lon": "35.300148"
+    },
+    "biblica-maps": {
+      "lat": "32.70103",
+      "lon": "35.30015"
+    }
+  },
+  "key_references": [
+    "40004013",
+    "40002021",
+    "42004016",
+    "42002039",
+    "43019019",
+    "40013053",
+    "43001045",
+    "42001026"
+  ],
+  "references": [
+    "40002023",
+    "40004013",
+    "40013054",
+    "40021011",
+    "40026071",
+    "41001009",
+    "41001024",
+    "41006001",
+    "41010047",
+    "41014067",
+    "41016006",
+    "42001026",
+    "42002004",
+    "42002039",
+    "42002043",
+    "42002051",
+    "42004016",
+    "42004034",
+    "42018037",
+    "42024019",
+    "43001045",
+    "43001046",
+    "43018005",
+    "43018007",
+    "43019019",
+    "44002022",
+    "44003006",
+    "44004010",
+    "44006014",
+    "44010038",
+    "44022008",
+    "44024005",
+    "44026009"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40002023007"
+      ],
+      [
+        "n40002023016"
+      ],
+      [
+        "n40004013004"
+      ],
+      [
+        "n40021011012"
+      ],
+      [
+        "n40026071018"
+      ],
+      [
+        "n41001009010"
+      ],
+      [
+        "n41001024007"
+      ],
+      [
+        "n41014067013"
+      ],
+      [
+        "n41016006010"
+      ],
+      [
+        "n42001026020"
+      ],
+      [
+        "n42002004010"
+      ],
+      [
+        "n42002039017"
+      ],
+      [
+        "n42002051008"
+      ],
+      [
+        "n42004016004"
+      ],
+      [
+        "n42004034007"
+      ],
+      [
+        "n42018037007"
+      ],
+      [
+        "n43001045024"
+      ],
+      [
+        "n43001046006"
+      ],
+      [
+        "n43018005005"
+      ],
+      [
+        "n43018007012"
+      ],
+      [
+        "n43019019017"
+      ],
+      [
+        "n44002022009"
+      ],
+      [
+        "n44003006022"
+      ],
+      [
+        "n44004010017"
+      ],
+      [
+        "n44006014008"
+      ],
+      [
+        "n44010038004"
+      ],
+      [
+        "n44022008015"
+      ],
+      [
+        "n44024005021"
+      ],
+      [
+        "n44026009011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n41014069014"
+      ],
+      [
+        "n41014070016"
+      ],
+      [
+        "n41014071012"
+      ],
+      [
+        "n42004016005"
+      ],
+      [
+        "n42004023022"
+      ]
+    ]
+  }
+}

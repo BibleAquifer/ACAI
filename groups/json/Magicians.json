@@ -1,0 +1,45 @@
+{
+  "id": "group:Magicians",
+  "primary_id": "group:Magicians",
+  "type": "group",
+  "group_type": "other",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Magicians of Pharoah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Magicians of Pharoah",
+          "description": "A group of Egyptian magicians."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02008015"
+  ],
+  "references": [
+    "02008015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020080150022"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o020080150051",
+          "o020080150061",
+          "o020080150071"
+        ]
+      }
+    ]
+  }
+}

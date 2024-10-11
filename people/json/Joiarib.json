@@ -1,0 +1,73 @@
+{
+  "id": "person:Joiarib",
+  "primary_id": "person:Joiarib",
+  "alternate_sources": {
+    "aquifer": [
+      "6419|Joiarib|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jehoiarib|Joiarib@1Ch.9.10-Neh",
+      "Joiarib@1Ch.9.10-Neh"
+    ],
+    "vizbible": [
+      "recxBFbAA6DCVitqc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Jedaiah.3"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joiarib",
+      "alternate_labels": [
+        "Jehoiarib"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joiarib",
+          "article": "person:Joiarib",
+          "description": "A priest living during the Israelite exile and return. He was father of Jedaiah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehoiarib.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009010",
+    "16011010",
+    "16012006"
+  ],
+  "references": [
+    "13009010",
+    "16011010",
+    "16012006",
+    "16012019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090100042"
+      ],
+      [
+        "o160110100051"
+      ],
+      [
+        "o160120060022"
+      ],
+      [
+        "o160120190013"
+      ]
+    ]
+  }
+}

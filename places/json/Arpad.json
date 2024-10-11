@@ -1,0 +1,132 @@
+{
+  "id": "place:Arpad",
+  "primary_id": "place:Arpad",
+  "alternate_sources": {
+    "aquifer": [
+      "3762|Arpad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000713001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/163476"
+    ],
+    "tipnr": [
+      "Arpad@2Ki.18.34-Jer"
+    ],
+    "vizbible": [
+      "recKPPAyXwKEJ9Ht8"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000713001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arpad",
+      "alternate_labels": [
+        "Arphad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Arpad",
+          "gloss": "Arpad",
+          "description": "A town in North Syria, which was conquered by Assyria."
+        }
+      ]
+    }
+  },
+  "associated_places": [
+    "place:Hamath"
+  ],
+  "subregion_of": [
+    "place:Syria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַרְפַּד"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.136204",
+      "lon": "36.749488"
+    },
+    "recogito": {
+      "lat": "36.47229",
+      "lon": "37.09471"
+    },
+    "vizbible": {
+      "lat": "36.47229",
+      "lon": "37.09471"
+    }
+  },
+  "key_references": [
+    "12018034",
+    "23036019"
+  ],
+  "references": [
+    "12018034",
+    "12019013",
+    "23010009",
+    "23036019",
+    "23037013",
+    "24049023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120180340042"
+      ],
+      [
+        "o120190130051"
+      ],
+      [
+        "o230100090062"
+      ],
+      [
+        "o230360190042"
+      ],
+      [
+        "o230370130051"
+      ],
+      [
+        "o240490230042"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230360200052"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240490230081",
+        "o240490230091"
+      ]
+    ]
+  }
+}

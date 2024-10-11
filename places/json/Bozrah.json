@@ -1,0 +1,94 @@
+{
+  "id": "place:Bozrah",
+  "primary_id": "place:Bezer",
+  "alternate_sources": {
+    "aquifer": [
+      "4323|Bozrah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001132002002000"
+    ],
+    "tipnr": [
+      "Bozrah|Bezer@Deu.4.43-Jer"
+    ],
+    "vizbible": [
+      "recIn7Y9y8ASc1bbA"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001132002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bozrah (of Moab)",
+      "alternate_labels": [
+        "Bezer",
+        "Bozrah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bozrah.2",
+          "gloss": "Bozrah (of Moab)",
+          "description": "A city in Moab mentioned in Jer 48:24."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Bezer"
+  ],
+  "referred_to_as": [
+    "place:Bezer"
+  ],
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בָּצְרָה",
+      "בׇּצְרָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.51613741",
+      "lon": "36.48829076"
+    },
+    "vizbible": {
+      "lat": "32.51613741",
+      "lon": "36.48829076"
+    }
+  },
+  "key_references": [
+    "24048024"
+  ],
+  "references": [
+    "24048024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240480240041"
+      ]
+    ]
+  }
+}

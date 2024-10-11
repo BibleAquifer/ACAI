@@ -1,0 +1,78 @@
+{
+  "id": "person:James.5",
+  "primary_id": "person:John.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6202|James (Person)|TyndaleBibleDictionary",
+      "6201|James, Letter of|TyndaleBibleDictionary",
+      "132065|James|BiblicaStudyNotesKeyTerms",
+      "280118|james|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.77"
+    ],
+    "tipnr": [
+      "James|John@Mat.4.21-Rev"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zebedee",
+  "mother": "person:WifeOfZebedee",
+  "siblings": [
+    "person:James"
+  ],
+  "roles": [
+    "Apostle"
+  ],
+  "ubsdgnt": [
+    "93.77"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "James (John)",
+      "alternate_labels": [
+        "Boanerges",
+        "John (Son of Zebedee)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "John (Son of Zebedee)",
+          "article": "person:James.5",
+          "description": "An apostle and son of Zebedee, nicknamed Boanerges by Jesus, mentioned in the New Testament."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:John.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Βοανηργές"
+    ]
+  },
+  "key_references": [
+    "41003017"
+  ],
+  "references": [
+    "41003017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41003017016"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n41003017017"
+      ]
+    ]
+  }
+}

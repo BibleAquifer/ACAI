@@ -1,0 +1,120 @@
+{
+  "id": "place:Miletus",
+  "primary_id": "place:Miletus",
+  "alternate_sources": {
+    "aquifer": [
+      "7136|Miletum, Miletus|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a55027d"
+    ],
+    "ubsdgnt": [
+      "93.532"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21166"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/599799"
+    ],
+    "tipnr": [
+      "Miletus@Act.20.15-2Ti"
+    ],
+    "vizbible": [
+      "recFNqP8D15s6WRhp"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q169460"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.532"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Miletus",
+      "alternate_labels": [
+        "Miletum"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Miletus",
+          "gloss": "Miletus",
+          "description": "A seaport city of Caria, on the west coast of Asia Minor; Paul met with the Ephesian elders here."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Ephesus",
+    "place:Samos"
+  ],
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Μίλητος"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.5",
+      "lon": "27.3"
+    },
+    "recogito": {
+      "lat": "37.5292362",
+      "lon": "27.2774885"
+    },
+    "vizbible": {
+      "lat": "37.5292362",
+      "lon": "27.2774885"
+    },
+    "biblica-maps": {
+      "lat": "37.52866",
+      "lon": "27.27069"
+    }
+  },
+  "key_references": [
+    "55004020",
+    "44020017",
+    "44020015"
+  ],
+  "references": [
+    "44020015",
+    "44020017",
+    "55004020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44020015019"
+      ],
+      [
+        "n44020017004"
+      ],
+      [
+        "n55004020009"
+      ]
+    ]
+  }
+}

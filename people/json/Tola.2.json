@@ -1,0 +1,78 @@
+{
+  "id": "person:Tola.2",
+  "primary_id": "person:Tola.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5046|Elon (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007745002002000"
+    ],
+    "tipnr": [
+      "Tola@Jdg.10.1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Puah.2",
+  "roles": [
+    "Judge"
+  ],
+  "ubsdbh": [
+    "007745002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elon (Judges 12:11)",
+      "alternate_labels": [
+        "Tola"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elon (Judges 12:11)",
+          "article": "person:Tola.2",
+          "description": "Elon, also known as Tola, was a judge living before Israel's Monarchy, son of Puah, mentioned in Judges 10:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07010001"
+  ],
+  "references": [
+    "07010001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070100010071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o070100010142"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070100010042"
+      ],
+      [
+        "o070100020012"
+      ],
+      [
+        "o070100020072"
+      ],
+      [
+        "o070100020082"
+      ]
+    ]
+  }
+}

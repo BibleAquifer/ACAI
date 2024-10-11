@@ -1,0 +1,117 @@
+{
+  "id": "realia:Tassel",
+  "primary_id": "realia:Tassel",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.180",
+      "6.194"
+    ],
+    "ubsdbh": [
+      "006196001001000"
+    ],
+    "ubsrealia": [
+      "realia:6.2.1.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.180",
+    "6.194"
+  ],
+  "ubsdbh": [
+    "006196001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tassel",
+      "alternate_labels": [
+        "Fringe",
+        "Lock",
+        "Edge",
+        "Hem"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tassel",
+          "article": "realia:Tassel",
+          "description": "A bunch of threads or fibers attached to the edges of garments, often worn on the corners of Jewish clothing."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צִיצִת"
+    ],
+    "el": [
+      "κράσπεδον",
+      "κράσπεδον"
+    ]
+  },
+  "key_references": [
+    "04015038",
+    "05022012",
+    "40009020"
+  ],
+  "references": [
+    "04015038",
+    "04015039",
+    "26008003",
+    "40009020",
+    "40014036",
+    "40023005",
+    "41006056",
+    "42008044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040150380091"
+      ],
+      [
+        "o040150380161"
+      ],
+      [
+        "o040150390032"
+      ],
+      [
+        "o260080030052"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40009020011"
+      ],
+      [
+        "n40014036008"
+      ],
+      [
+        "n41006056025"
+      ],
+      [
+        "n42008044005"
+      ],
+      [
+        "n40023005020"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o040150390052"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040150390012"
+      ]
+    ]
+  }
+}

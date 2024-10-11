@@ -1,0 +1,62 @@
+{
+  "id": "person:Isshiah.4",
+  "primary_id": "person:Isshiah.4",
+  "alternate_sources": {
+    "aquifer": [
+      "6098|Isshiah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Isshiah@1Ch.24.21-",
+      "Jeshaiah|Isshiah@1Ch.24.21-"
+    ],
+    "vizbible": [
+      "recCZI6JBYVkccfgn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Rehabiah",
+  "offspring": [
+    "person:Joram.4"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Isshiah (1 Chronicles 24:21)",
+      "alternate_labels": [
+        "Jeshaiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Isshiah (1 Chronicles 24:21)",
+          "article": "person:Isshiah.4",
+          "description": "A Levite from the divided kingdom era, son of Rehabiah and father of Joram, mentioned in 1 Chronicles 24:21."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jeshaiah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13024021",
+    "13026025"
+  ],
+  "references": [
+    "13024021",
+    "13026025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130240210051"
+      ],
+      [
+        "o130260250052"
+      ]
+    ]
+  }
+}

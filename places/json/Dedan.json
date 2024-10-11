@@ -1,0 +1,121 @@
+{
+  "id": "place:Dedan",
+  "primary_id": "place:Dedan",
+  "alternate_sources": {
+    "aquifer": [
+      "4794|Dedan (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a3a2a75"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/25193"
+    ],
+    "tipnr": [
+      "Dedan@Jer.25.23-Ezk"
+    ],
+    "vizbible": [
+      "recNbAdg1hdwN8AmZ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q27961529"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dedan",
+      "alternate_labels": [
+        "Dedanim",
+        "Rhodes",
+        "Rhodians",
+        "Dedanites",
+        "Dedanite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dedan",
+          "gloss": "Dedan",
+          "description": "A location in the Arabian Peninsula; home of an ethnic group with the same name."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Dedan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "26.625139",
+      "lon": "37.919663"
+    },
+    "recogito": {
+      "lat": "26.612692",
+      "lon": "37.922841"
+    },
+    "vizbible": {
+      "lat": "26.612692",
+      "lon": "37.922841"
+    }
+  },
+  "key_references": [
+    "26025013",
+    "24 49008"
+  ],
+  "references": [
+    "23021013",
+    "24025023",
+    "24049008",
+    "26025013",
+    "26027015",
+    "26027020",
+    "26038013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230210130071"
+      ],
+      [
+        "o240250230021"
+      ],
+      [
+        "o240490080061"
+      ],
+      [
+        "o260250130172"
+      ],
+      [
+        "o260270150021"
+      ],
+      [
+        "o260270200011"
+      ],
+      [
+        "o260380130022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270200021"
+      ]
+    ]
+  }
+}

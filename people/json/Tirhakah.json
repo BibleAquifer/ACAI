@@ -1,0 +1,76 @@
+{
+  "id": "person:Tirhakah",
+  "primary_id": "person:Tirhakah",
+  "alternate_sources": {
+    "aquifer": [
+      "8861|Tirhakah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007931001001000"
+    ],
+    "tipnr": [
+      "Tirhakah@2Ki.19.9-Isa"
+    ],
+    "vizbible": [
+      "recYGIjyPqFKqtiKp"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Cush",
+  "ubsdbh": [
+    "007931001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tirhakah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tirhakah",
+          "article": "person:Tirhakah",
+          "description": "Tirhakah was a king living during the time of the divided kingdom, first mentioned in 2 Kings 19:9."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12019009",
+    "23037009"
+  ],
+  "references": [
+    "12019009",
+    "23037009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120190090031"
+      ],
+      [
+        "o230370090031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120190090081"
+      ],
+      [
+        "o120190090092"
+      ],
+      [
+        "o230370090071"
+      ],
+      [
+        "o230370090082"
+      ]
+    ]
+  }
+}

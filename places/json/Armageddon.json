@@ -1,0 +1,94 @@
+{
+  "id": "place:Armageddon",
+  "primary_id": "place:Megiddo",
+  "alternate_sources": {
+    "aquifer": [
+      "3747|Armageddon|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.414"
+    ],
+    "tipnr": [
+      "Armageddon|Megiddo@Jos.12.21-Rev"
+    ],
+    "vizbible": [
+      "recIjmD76kMAuLrKO"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.414"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Armageddon",
+      "alternate_labels": [
+        "Har-Magedon",
+        "Megiddo"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Armageddon",
+          "gloss": "Armageddon",
+          "description": "A cryptic place name designating the territory which will be the scene of the final battle of the forces of good and evil."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Megiddo"
+  ],
+  "referred_to_as": [
+    "place:Megiddo"
+  ],
+  "nearby_places": [
+    "place:CarmelMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἁρμαγεδών"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special",
+      "mountain",
+      "valley",
+      "river"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.58418314",
+      "lon": "35.18229166"
+    },
+    "vizbible": {
+      "lat": "32.58418314",
+      "lon": "35.18229166"
+    }
+  },
+  "key_references": [
+    "66016016"
+  ],
+  "references": [
+    "66016016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n66016016010"
+      ]
+    ]
+  }
+}

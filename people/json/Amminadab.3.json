@@ -1,0 +1,70 @@
+{
+  "id": "person:Amminadab.3",
+  "primary_id": "person:Izhar",
+  "alternate_sources": {
+    "aquifer": [
+      "3561|Amminadab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005498001002000"
+    ],
+    "tipnr": [
+      "Amminadab|Izhar@Exo.6.18-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kohath",
+  "offspring": [
+    "person:Korah.3",
+    "person:Nepheg",
+    "person:Zichri",
+    "person:Shelomith"
+  ],
+  "siblings": [
+    "person:Amram",
+    "person:Hebron",
+    "person:Uzziel"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005498001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amminadab (Izhar)",
+      "alternate_labels": [
+        "Izhar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Izhar",
+          "article": "person:Amminadab.3",
+          "description": "A man of the tribe of Levi living during the time of Egypt and the wilderness, son of Kohath and father of Korah, Nepheg, Zichri, and Shelomith, mentioned in Exodus 6:18."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Izhar"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13006007"
+  ],
+  "references": [
+    "13006007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060070031"
+      ]
+    ]
+  }
+}

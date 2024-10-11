@@ -1,0 +1,81 @@
+{
+  "id": "person:Pashhur",
+  "primary_id": "person:Pashhur",
+  "alternate_sources": {
+    "aquifer": [
+      "7599|Pashhur, Pashur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006049001001000",
+      "006049001002000"
+    ],
+    "tipnr": [
+      "Pashhur@1Ch.9.12-Neh"
+    ],
+    "vizbible": [
+      "recJMzF7YDbFpDbZ2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Malchijah.2",
+  "offspring": [
+    "person:Zechariah.25"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "006049001001000",
+    "006049001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pashhur",
+      "alternate_labels": [
+        "Pashur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pashhur",
+          "article": "person:Pashhur",
+          "description": "A son of Malchijah and father of Zechariah, living during the time of Israelite exile and return."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009012",
+    "16011012"
+  ],
+  "references": [
+    "13009012",
+    "15002038",
+    "15010022",
+    "16007041",
+    "16011012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090120051"
+      ],
+      [
+        "o150020380021"
+      ],
+      [
+        "o150100220021"
+      ],
+      [
+        "o160070410021"
+      ],
+      [
+        "o160110120191"
+      ]
+    ]
+  }
+}

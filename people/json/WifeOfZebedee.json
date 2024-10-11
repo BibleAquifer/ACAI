@@ -1,0 +1,75 @@
+{
+  "id": "person:WifeOfZebedee",
+  "primary_id": "person:WifeOfZebedee",
+  "alternate_sources": {
+    "tipnr": [
+      "wife_of_Zebedee@Mat.20.20"
+    ],
+    "vizbible": [
+      "rec3zlwh7X1ceI9kB"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Zebedee"
+  ],
+  "offspring": [
+    "person:James",
+    "person:John.2"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mother of Zebedee's Sons",
+      "alternate_labels": [
+        "Mother of Zebedees children"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mother of Zebedee's Sons",
+          "article": "person:WifeOfZebedee",
+          "description": "The wife of Zebedee and the mother of his children."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40020020"
+  ],
+  "references": [
+    "40020020"
+  ],
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n40020021009",
+          "n40020021010",
+          "n40020021011",
+          "n40020021012",
+          "n40020021013",
+          "n40020021014",
+          "n40020021015",
+          "n40020021016",
+          "n40020021017",
+          "n40020021018",
+          "n40020021019",
+          "n40020021020",
+          "n40020021021",
+          "n40020021022",
+          "n40020021023",
+          "n40020021024",
+          "n40020021025",
+          "n40020021026",
+          "n40020021027",
+          "n40020021028",
+          "n40020021029"
+        ]
+      }
+    ]
+  }
+}

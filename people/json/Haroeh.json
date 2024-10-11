@@ -1,0 +1,63 @@
+{
+  "id": "person:Haroeh",
+  "primary_id": "person:Haroeh",
+  "alternate_sources": {
+    "aquifer": [
+      "5678|Haroeh|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Haroeh@1Ch.2.52-",
+      "Reaiah|Haroeh@1Ch.2.52-"
+    ],
+    "vizbible": [
+      "recgeOjrnCNherCMz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shobal.2",
+  "offspring": [
+    "person:Jahath"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Haroeh",
+      "alternate_labels": [
+        "Reaiah",
+        "Lahad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Haroeh",
+          "article": "person:Haroeh",
+          "description": "Haroeh, also called Reaiah, was a man from the tribe of Judah living during the divided kingdom, mentioned in 1 Chronicles 2:52."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Reaiah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002052",
+    "13004002"
+  ],
+  "references": [
+    "13002052",
+    "13004002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020520071"
+      ],
+      [
+        "o130040020012"
+      ]
+    ]
+  }
+}

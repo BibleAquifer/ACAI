@@ -1,0 +1,82 @@
+{
+  "id": "person:Eliakim.5",
+  "primary_id": "person:Jehoiakim",
+  "alternate_sources": {
+    "aquifer": [
+      "4996|Eliakim|TyndaleBibleDictionary",
+      "26554|Eliakim|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "000435001002000"
+    ],
+    "tipnr": [
+      "Eliakim|Jehoiakim@2Ki.23.34-Dan"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Josiah",
+  "mother": "person:Zebidah",
+  "partners": [
+    "person:Nehushta"
+  ],
+  "offspring": [
+    "person:Jehoiachin"
+  ],
+  "siblings": [
+    "person:Jehoahaz.3",
+    "person:Zedekiah.3",
+    "person:Shallum.5"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000435001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliakim (Jehoiakim)",
+      "alternate_labels": [
+        "Jehoiakim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoiakim",
+          "article": "person:Eliakim.5",
+          "description": "Eliakim, also known as King Jehoiakim, was a king of Judah and son of Josiah who reigned during the divided kingdom period, first mentioned in 2 Kings 23:34."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehoiakim"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְיָקִים"
+    ]
+  },
+  "key_references": [
+    "12023034",
+    "14036004"
+  ],
+  "references": [
+    "12023034",
+    "14036004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120230340051"
+      ],
+      [
+        "o140360040051"
+      ]
+    ]
+  }
+}

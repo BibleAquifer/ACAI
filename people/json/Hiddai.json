@@ -1,0 +1,57 @@
+{
+  "id": "person:Hiddai",
+  "primary_id": "person:Hiddai",
+  "alternate_sources": {
+    "aquifer": [
+      "5840|Hiddai|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hurai|Hiddai@2Sa.23.30-1Ch",
+      "Hiddai@2Sa.23.30-1Ch"
+    ],
+    "vizbible": [
+      "recUvRDv3YTs0l6tP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hiddai",
+      "alternate_labels": [
+        "Hurai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hiddai",
+          "article": "person:Hiddai",
+          "description": "Hiddai, also known as Hurai, was a man living during the time of Israel's united kingdom, mentioned in 2 Samuel 23:30 and 1 Chronicles 11:32."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hurai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023030",
+    "13011032"
+  ],
+  "references": [
+    "10023030",
+    "13011032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230300031"
+      ],
+      [
+        "o130110320011"
+      ]
+    ]
+  }
+}

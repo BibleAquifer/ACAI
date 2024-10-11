@@ -1,0 +1,162 @@
+{
+  "id": "person:Abel",
+  "primary_id": "person:Abel",
+  "alternate_sources": {
+    "aquifer": [
+      "3281|Abel (Person)|TyndaleBibleDictionary",
+      "26276|Abel|UWTranslationWords",
+      "132167|Abel|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Abel@Gen.4.2-Heb"
+    ],
+    "vizbible": [
+      "reccpdazfRa8RGKt6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Adam",
+  "mother": "person:Eve",
+  "siblings": [
+    "person:Cain",
+    "person:Seth"
+  ],
+  "roles": [
+    "Shepherd",
+    "Son of Adam"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "related_places": {
+    "birth_place": [
+      "place:Eden"
+    ],
+    "death_place": [
+      "place:Eden"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abel",
+          "article": "person:Abel",
+          "description": "Adam and Eve's second son. He was a shepherd whose animal sacrifice was accepted by God. His older brother Cain became jealous, so he killed Abel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01004002",
+    "58011004",
+    "01004008"
+  ],
+  "references": [
+    "01004002",
+    "01004004",
+    "01004008",
+    "01004009",
+    "01004025",
+    "40023035",
+    "42011051",
+    "58011004",
+    "58012024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040020061"
+      ],
+      [
+        "o010040020081"
+      ],
+      [
+        "o010040040012"
+      ],
+      [
+        "o010040040111"
+      ],
+      [
+        "o010040080041"
+      ],
+      [
+        "o010040080121"
+      ],
+      [
+        "o010040090061"
+      ],
+      [
+        "o010040250191"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40023035015"
+      ],
+      [
+        "n42011051003"
+      ],
+      [
+        "n58011004004"
+      ],
+      [
+        "n58012024013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010040040041"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n58011004019"
+      ],
+      [
+        "n58011013004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010040020091"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n58011004013"
+      ],
+      [
+        "n58011004025"
+      ],
+      [
+        "n58011004027"
+      ],
+      [
+        "n58011013007"
+      ],
+      [
+        "n58011013013"
+      ],
+      [
+        "n58011013015"
+      ],
+      [
+        "n58011013017"
+      ],
+      [
+        "n58011013022"
+      ],
+      [
+        "n58011014004"
+      ]
+    ]
+  }
+}

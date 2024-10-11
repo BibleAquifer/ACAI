@@ -1,0 +1,70 @@
+{
+  "id": "flora:Chicory",
+  "primary_id": "flora:Chicory",
+  "alternate_sources": {
+    "aquifer": [
+      "4260|Bitter Herbs|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004432001001000"
+    ],
+    "ubsflora": [
+      "flora:3.2.1"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "004432001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bitter Herbs",
+      "alternate_labels": [
+        "Chicory"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bitter Herbs",
+          "article": "flora:Chicory",
+          "description": "Often eaten during Jewish Passover, and used in cooking and medicine."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מָרֹר"
+    ]
+  },
+  "key_references": [
+    "02012008",
+    "04009011",
+    "05032032"
+  ],
+  "references": [
+    "02012008",
+    "04009011",
+    "05032032",
+    "25003015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020120080101"
+      ],
+      [
+        "o040090110122"
+      ],
+      [
+        "o050320320111"
+      ],
+      [
+        "o250030150022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "flora:SycomoreFig",
+  "primary_id": "flora:SycomoreFig",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "3.7"
+    ],
+    "ubsdbh": [
+      "007613001001000"
+    ],
+    "ubsflora": [
+      "flora:2.11"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Domestic Trees and Shrubs",
+  "ubsdgnt": [
+    "3.7"
+  ],
+  "ubsdbh": [
+    "007613001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sycomore Fig",
+      "alternate_labels": [
+        "Sycamore Tree",
+        "Sycamore-Fig Tree"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sycomore Fig",
+          "article": "flora:SycomoreFig",
+          "description": "A large tree with spreading branches and fruit that grows on its trunk and branches, not very sweet like other figs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שִׁקְמָה"
+    ],
+    "el": [
+      "συκομορέα"
+    ]
+  },
+  "key_references": [
+    "11010027",
+    "14001015",
+    "42019004"
+  ],
+  "references": [
+    "11010027",
+    "13027028",
+    "14001015",
+    "14009027",
+    "19078047",
+    "23009009",
+    "30007014",
+    "42019004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110100270102"
+      ],
+      [
+        "o130270280033"
+      ],
+      [
+        "o140010150122"
+      ],
+      [
+        "o140090270102"
+      ],
+      [
+        "o190780470042",
+        "o190780470043"
+      ],
+      [
+        "o230090090051"
+      ],
+      [
+        "o300070140171"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42019004008"
+      ]
+    ]
+  }
+}

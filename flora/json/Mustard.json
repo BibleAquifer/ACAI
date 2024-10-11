@@ -1,0 +1,74 @@
+{
+  "id": "flora:Mustard",
+  "primary_id": "flora:Mustard",
+  "alternate_sources": {
+    "aquifer": [
+      "7249|Mustard|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "3.20"
+    ],
+    "ubsflora": [
+      "flora:3.5.8"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdgnt": [
+    "3.20"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mustard",
+      "alternate_labels": [
+        "Mustard Plant"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mustard",
+          "article": "flora:Mustard",
+          "description": "A large herb that grows up to three meters and is known for its very small seeds."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σίναπι"
+    ]
+  },
+  "key_references": [
+    "40013031",
+    "40017020",
+    "41004031"
+  ],
+  "references": [
+    "40013031",
+    "40017020",
+    "41004031",
+    "42013019",
+    "42017006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40013031013"
+      ],
+      [
+        "n40017020018"
+      ],
+      [
+        "n41004031003"
+      ],
+      [
+        "n42013019004"
+      ],
+      [
+        "n42017006010"
+      ]
+    ]
+  }
+}

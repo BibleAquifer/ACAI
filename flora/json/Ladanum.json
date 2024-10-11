@@ -1,0 +1,58 @@
+{
+  "id": "flora:Ladanum",
+  "primary_id": "flora:Ladanum",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003575001001000"
+    ],
+    "ubsflora": [
+      "flora:4.2.5"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "003575001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rock Rose",
+      "alternate_labels": [
+        "Ladanum"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rock Rose",
+          "article": "flora:Ladanum",
+          "description": "A low shrub with hairy leaves that produce a fragrant, sticky juice used in medicine and perfume."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לֹט"
+    ]
+  },
+  "key_references": [
+    "01037025",
+    "01043011"
+  ],
+  "references": [
+    "01037025",
+    "01043011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010370250162"
+      ],
+      [
+        "o010430110222"
+      ]
+    ]
+  }
+}

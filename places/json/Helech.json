@@ -1,0 +1,87 @@
+{
+  "id": "place:Helech",
+  "primary_id": "place:Helech",
+  "alternate_sources": {
+    "aquifer": [
+      "5775|Helech|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002245001001000"
+    ],
+    "tipnr": [
+      "Helech@Ezk.27.11"
+    ],
+    "vizbible": [
+      "recbXveMKx5xDzmbb"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002245001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Helech",
+      "alternate_labels": [
+        "thine army",
+        "Helek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Helech",
+          "gloss": "Helech",
+          "description": "A region, possibly to be identified with Hilakku, in Cilicia; mercenaries from this area were fighting as part of the army of Tyre (Ezekiel 27:11)"
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Cilicia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֵילֵךְ",
+      "חַ֫יִל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.856082",
+      "lon": "35.858485"
+    },
+    "vizbible": {
+      "lat": "34.856082",
+      "lon": "35.858485"
+    }
+  },
+  "key_references": [
+    "26027011"
+  ],
+  "references": [
+    "26027011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270110032"
+      ]
+    ]
+  }
+}

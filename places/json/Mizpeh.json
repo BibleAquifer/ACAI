@@ -1,0 +1,88 @@
+{
+  "id": "place:Mizpeh",
+  "primary_id": "place:Kir",
+  "alternate_sources": {
+    "aquifer": [
+      "7179|Mizpeh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004308002005000"
+    ],
+    "tipnr": [
+      "Mizpeh|Kir@1Sa.22.3-Amo"
+    ],
+    "vizbible": [
+      "recYksg9zceqN9vql"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004308002005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mizpeh (of Moab)",
+      "alternate_labels": [
+        "Mizpah",
+        "Kir",
+        "Mizpeh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mizpeh.3",
+          "gloss": "Mizpeh (of Moab)",
+          "description": "A location in Moab; residence of Moabite king."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Kir"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מִצְפֶּה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.1813258",
+      "lon": "35.70214779"
+    },
+    "vizbible": {
+      "lat": "31.1813258",
+      "lon": "35.70214779"
+    }
+  },
+  "key_references": [
+    "09022003"
+  ],
+  "references": [
+    "09022003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090220030041"
+      ]
+    ]
+  }
+}

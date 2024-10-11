@@ -1,0 +1,58 @@
+{
+  "id": "deity:El-berith",
+  "primary_id": "deity:El-berith",
+  "alternate_sources": {
+    "aquifer": [
+      "4970|El-Berith|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000385001001000"
+    ],
+    "tipnr": [
+      "El-berith@Jdg.9.46"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "000385001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "El-Berith",
+      "alternate_labels": [
+        "Baal-Berith",
+        "god Berith"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "El-Berith",
+          "article": "deity:El-berith",
+          "description": "A god worshipped by people of Shechem."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵל בְּרִית"
+    ]
+  },
+  "key_references": [
+    "07009046"
+  ],
+  "references": [
+    "07009046"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070090460101",
+        "o070090460111"
+      ]
+    ]
+  }
+}

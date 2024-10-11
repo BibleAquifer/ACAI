@@ -1,0 +1,98 @@
+{
+  "id": "place:Magadan",
+  "primary_id": "place:Magadan",
+  "alternate_sources": {
+    "aquifer": [
+      "6847|Magadan|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ad14067"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2123628"
+    ],
+    "tipnr": [
+      "Dalmanutha|Magadan@Mat.15.39-Jhn",
+      "Magadan@Mat.15.39-Jhn"
+    ],
+    "vizbible": [
+      "rec8scqP30fz5SjGW"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Magadan",
+      "alternate_labels": [
+        "Magdala",
+        "Dalmanutha"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Magadan",
+          "gloss": "Magadan",
+          "description": "An uncertain location west of the Sea of Galilee to which Jesus came after he fed the 4,000 (Matthew 15:39)."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Magdala",
+    "place:Dalmanutha"
+  ],
+  "referred_to_as": [
+    "place:Dalmanutha"
+  ],
+  "nearby_places": [
+    "place:GalileeSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.84733495",
+      "lon": "35.52293618"
+    },
+    "recogito": {
+      "lat": "59.5638",
+      "lon": "150.80347"
+    },
+    "vizbible": {
+      "lat": "32.84733495",
+      "lon": "35.52293618"
+    }
+  },
+  "key_references": [
+    "40015039"
+  ],
+  "references": [
+    "40015039",
+    "41008010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40015039014"
+      ],
+      [
+        "n41008010015"
+      ]
+    ]
+  }
+}

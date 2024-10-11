@@ -1,0 +1,77 @@
+{
+  "id": "person:Ahaz.2",
+  "primary_id": "person:Ahaz.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3436|Ahaz|TyndaleBibleDictionary",
+      "26298|Ahaz|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "000255001002000"
+    ],
+    "tipnr": [
+      "Ahaz@1Ch.8.35-"
+    ],
+    "vizbible": [
+      "recxJq33dIs8mWhFS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Micah.2",
+  "offspring": [
+    "person:Jehoaddah"
+  ],
+  "siblings": [
+    "person:Pithon",
+    "person:Melech",
+    "person:Tarea"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000255001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahaz (1 Chronicles 8:35)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahaz (1 Chronicles 8:35)",
+          "article": "person:Ahaz.2",
+          "description": "A man from the tribe of Benjamin during Israel's united kingdom, son of Micah and father of Jehoaddah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָחָז"
+    ]
+  },
+  "key_references": [
+    "13008035",
+    "13008036",
+    "13009042"
+  ],
+  "references": [
+    "13008035",
+    "13008036",
+    "13009042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080350062"
+      ],
+      [
+        "o130080360012"
+      ],
+      [
+        "o130090420012"
+      ]
+    ]
+  }
+}

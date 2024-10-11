@@ -1,0 +1,124 @@
+{
+  "id": "person:Zerah.3",
+  "primary_id": "person:Zerah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "9190|Zerah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Zerah@Gen.38.30-Mat",
+      "Izrahite|Zerah@Gen.38.30-Mat"
+    ],
+    "vizbible": [
+      "recFivkpgt7rlJWwz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Judah.4",
+  "mother": "person:Tamar",
+  "offspring": [
+    "person:Zabdi",
+    "person:Ethan.2",
+    "person:Heman.2",
+    "person:Calcol.2",
+    "person:Dara"
+  ],
+  "siblings": [
+    "person:Er.2",
+    "person:Onan",
+    "person:Shelah",
+    "person:Perez"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zerah",
+      "alternate_labels": [
+        "Izrahite",
+        "Zarah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zerah",
+          "article": "person:Zerah.3",
+          "description": "A son of the patriarch Judah by Tamar, brother of Perez, and father of Zabdi (Zimri), Ethan, Heman, Calcol, and Dara. He is listed in the family line of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Izrahite"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01038030",
+    "40001003"
+  ],
+  "references": [
+    "01038030",
+    "01046012",
+    "04026020",
+    "06007001",
+    "06007018",
+    "06007024",
+    "06022020",
+    "13002004",
+    "13002006",
+    "13009006",
+    "13027008",
+    "16011024",
+    "40001003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380300101"
+      ],
+      [
+        "o010460120072"
+      ],
+      [
+        "o040260200112"
+      ],
+      [
+        "o060070010131"
+      ],
+      [
+        "o060070180121"
+      ],
+      [
+        "o060070240061"
+      ],
+      [
+        "o060220200041"
+      ],
+      [
+        "o130020040081"
+      ],
+      [
+        "o130020060021"
+      ],
+      [
+        "o130090060031"
+      ],
+      [
+        "o130270080062"
+      ],
+      [
+        "o160110240051"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40001003008"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "person:Shuni",
+  "primary_id": "person:Shuni",
+  "alternate_sources": {
+    "aquifer": [
+      "8464|Shuni, Shunite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shuni@Gen.46.16-Num"
+    ],
+    "vizbible": [
+      "recQ9D19NlBxM45q3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gad",
+  "siblings": [
+    "person:Ziphion",
+    "person:Haggi",
+    "person:Ezbon",
+    "person:Eri",
+    "person:Arod",
+    "person:Areli"
+  ],
+  "tribe": "group:Gad",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shuni",
+      "alternate_labels": [
+        "Shunite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shuni",
+          "article": "person:Shuni",
+          "description": "Shuni was a man from the tribe of Gad living during the time of Egypt and the wilderness, first mentioned in Genesis 46:16 as a son of Gad and brother of Ziphion, Haggi, Ezbon, Eri, Arod, and Areli."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Shuni"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046016",
+    "04026015"
+  ],
+  "references": [
+    "01046016",
+    "04026015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460160051"
+      ],
+      [
+        "o040260150102"
+      ],
+      [
+        "o040260150122"
+      ]
+    ]
+  }
+}

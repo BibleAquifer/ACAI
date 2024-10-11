@@ -1,0 +1,81 @@
+{
+  "id": "place:Terah",
+  "primary_id": "place:Terah",
+  "alternate_sources": {
+    "aquifer": [
+      "8789|Terah (Place)|TyndaleBibleDictionary",
+      "27148|Terah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007937001002000"
+    ],
+    "tipnr": [
+      "Terah@Num.33.27-"
+    ],
+    "vizbible": [
+      "recZ31xMdjbZ4fEUF"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007937001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Terah",
+      "alternate_labels": [
+        "Tarah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Terah",
+          "gloss": "Terah",
+          "description": "A location in the Sinai Peninsula, between Tahath and Mithkah; where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    },
+    "vizbible": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    }
+  },
+  "key_references": [
+    "04033027",
+    "04033028"
+  ],
+  "references": [
+    "04033027",
+    "04033028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330270042"
+      ],
+      [
+        "o040330280022"
+      ]
+    ]
+  }
+}

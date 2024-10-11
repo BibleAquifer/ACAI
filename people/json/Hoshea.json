@@ -1,0 +1,121 @@
+{
+  "id": "person:Hoshea",
+  "primary_id": "person:Hoshea",
+  "alternate_sources": {
+    "aquifer": [
+      "5921|Hoshea|TyndaleBibleDictionary",
+      "26711|Hoshea|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "001797001002000"
+    ],
+    "tipnr": [
+      "Hoshea@2Ki.15.30-"
+    ],
+    "vizbible": [
+      "recjOvYXbQXPhGpBN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Elah.3",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "001797001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hoshea",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hoshea",
+          "article": "person:Hoshea",
+          "description": "Son of Elah and the last king of the northern kingdom of Israel during the divided kingdom. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֹושֵׁעַ",
+      "הוֹשֵׁעַ"
+    ]
+  },
+  "key_references": [
+    "12017001",
+    "12017002",
+    "12017003",
+    "12017004",
+    "12017005",
+    "12017006"
+  ],
+  "references": [
+    "12015030",
+    "12017001",
+    "12017003",
+    "12017004",
+    "12017006",
+    "12018001",
+    "12018009",
+    "12018010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120150300031"
+      ],
+      [
+        "o120170010081"
+      ],
+      [
+        "o120170030081"
+      ],
+      [
+        "o120170040042"
+      ],
+      [
+        "o120170060032"
+      ],
+      [
+        "o120180010042"
+      ],
+      [
+        "o120180090092"
+      ],
+      [
+        "o120180100112"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120150300102"
+      ],
+      [
+        "o120150300112"
+      ],
+      [
+        "o120150300122"
+      ],
+      [
+        "o120170020012"
+      ],
+      [
+        "o120170030102"
+      ],
+      [
+        "o120170040071"
+      ],
+      [
+        "o120170040141"
+      ]
+    ]
+  }
+}

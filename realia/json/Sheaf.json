@@ -1,0 +1,121 @@
+{
+  "id": "realia:Sheaf",
+  "primary_id": "realia:Sheaf",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000449001001000",
+      "005500001001000",
+      "005520001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.1.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "000449001001000",
+    "005500001001000",
+    "005520001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheaf",
+      "alternate_labels": [
+        "Cut Grain",
+        "Sheaves"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sheaf",
+          "article": "realia:Sheaf",
+          "description": "A bundle of harvested grain stalks."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲלֻמָּה",
+      "עָמִיר",
+      "עמר"
+    ]
+  },
+  "key_references": [
+    "01037007",
+    "33004012"
+  ],
+  "references": [
+    "01037007",
+    "19126006",
+    "19129007",
+    "24009021",
+    "30002013",
+    "33004012",
+    "38012006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010370070041"
+      ],
+      [
+        "o010370070091",
+        "o010370070092"
+      ],
+      [
+        "o010370070141",
+        "o010370070142"
+      ],
+      [
+        "o010370070162",
+        "o010370070163"
+      ],
+      [
+        "o191260060111",
+        "o191260060112"
+      ],
+      [
+        "o240090210123"
+      ],
+      [
+        "o300020130101"
+      ],
+      [
+        "o330040120112"
+      ],
+      [
+        "o380120060122"
+      ],
+      [
+        "o191290070061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o191290070053"
+      ],
+      [
+        "o191290080062"
+      ],
+      [
+        "o191290080082"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010370070111"
+      ],
+      [
+        "o010370070152"
+      ]
+    ]
+  }
+}

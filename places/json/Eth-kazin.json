@@ -1,0 +1,92 @@
+{
+  "id": "place:Eth-kazin",
+  "primary_id": "place:Eth-kazin",
+  "alternate_sources": {
+    "aquifer": [
+      "5174|Eth-Kazin|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005738001001000"
+    ],
+    "tipnr": [
+      "Eth-kazin@Jos.19.13"
+    ],
+    "vizbible": [
+      "rec01lUK0ZRXUnohv"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005738001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eth-kazin",
+      "alternate_labels": [
+        "Ittah-kazin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eth-kazin",
+          "gloss": "Eth-Kazin",
+          "description": "A town in the territory of Zebulun."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵת קָצִין"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.781808",
+      "lon": "35.321364"
+    },
+    "vizbible": {
+      "lat": "32.781808",
+      "lon": "35.321364"
+    }
+  },
+  "key_references": [
+    "06019013"
+  ],
+  "references": [
+    "06019013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190130071",
+        "o060190130081"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o060190130112"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "place:Antioch",
+  "primary_id": "place:Antioch",
+  "alternate_sources": {
+    "aquifer": [
+      "26322|Antioch|UWTranslationWords"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21094"
+    ],
+    "tipnr": [
+      "Antioch@Act.6.5-Gal"
+    ],
+    "vizbible": [
+      "recKAFuMIt8BAi2OH"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Antioch (of Syria)",
+      "alternate_labels": [
+        "Antiochian",
+        "Antioch (Syria)",
+        "Antioch"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Antioch.1",
+          "gloss": "Antioch (of Syria)",
+          "description": "The capital of the Roman province Syria, located on the Orontes River, where followers of Jesus were first called Christians."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Antioch"
+  ],
+  "nearby_places": [
+    "place:Seleucia"
+  ],
+  "subregion_of": [
+    "place:Syria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.20233087",
+      "lon": "36.16238775"
+    },
+    "recogito": {
+      "lat": "36.200663",
+      "lon": "36.165318"
+    },
+    "vizbible": {
+      "lat": "36.200663",
+      "lon": "36.165318"
+    },
+    "biblica-maps": {
+      "lat": "36.22255",
+      "lon": "36.18321"
+    }
+  },
+  "key_references": [
+    "44013001",
+    "44015030",
+    "44011019",
+    "48002011"
+  ],
+  "references": [
+    "44006005",
+    "44011019",
+    "44011020",
+    "44011022",
+    "44011026",
+    "44011027",
+    "44011029",
+    "44013001",
+    "44014026",
+    "44014027",
+    "44015001",
+    "44015022",
+    "44015023",
+    "44015030",
+    "44015035",
+    "44018022",
+    "44018023",
+    "48002011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44006005031"
+      ],
+      [
+        "n44011019018"
+      ],
+      [
+        "n44011020013"
+      ],
+      [
+        "n44011022020"
+      ],
+      [
+        "n44011026005"
+      ],
+      [
+        "n44011026024"
+      ],
+      [
+        "n44011027011"
+      ],
+      [
+        "n44013001004"
+      ],
+      [
+        "n44014026004"
+      ],
+      [
+        "n44015022018"
+      ],
+      [
+        "n44015023014"
+      ],
+      [
+        "n44015030007"
+      ],
+      [
+        "n44015035007"
+      ],
+      [
+        "n44018022012"
+      ],
+      [
+        "n48002011006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44014026005"
+      ]
+    ]
+  }
+}

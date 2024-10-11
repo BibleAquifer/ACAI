@@ -1,0 +1,95 @@
+{
+  "id": "place:Tadmor",
+  "primary_id": "place:Tadmor",
+  "alternate_sources": {
+    "aquifer": [
+      "8708|Tadmor|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ad797fe"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/163808"
+    ],
+    "tipnr": [
+      "Tadmor@1Ki.9.18-2Ch",
+      "Tamar|Tadmor@1Ki.9.18-2Ch"
+    ],
+    "vizbible": [
+      "recQPMnBRF46WaA5k"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5747"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tadmor",
+      "alternate_labels": [
+        "Tamar",
+        "Ketiv. Qere"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tadmor",
+          "gloss": "Tadmor",
+          "description": "An oasis city built by Solomon in the wilderness."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Tamar"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.55404917",
+      "lon": "38.26590497"
+    },
+    "recogito": {
+      "lat": "34.5624",
+      "lon": "38.28402"
+    },
+    "vizbible": {
+      "lat": "34.55404917",
+      "lon": "38.26590497"
+    },
+    "biblica-maps": {
+      "lat": "34.54734",
+      "lon": "38.27391"
+    }
+  },
+  "key_references": [
+    "14008004"
+  ],
+  "references": [
+    "11009018",
+    "14008004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140080040031"
+      ]
+    ]
+  }
+}

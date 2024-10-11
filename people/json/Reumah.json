@@ -1,0 +1,60 @@
+{
+  "id": "person:Reumah",
+  "primary_id": "person:Reumah",
+  "alternate_sources": {
+    "aquifer": [
+      "8017|Reumah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006639001001000"
+    ],
+    "tipnr": [
+      "Reumah@Gen.22.24"
+    ],
+    "vizbible": [
+      "rec4O1x2QpHHS4lBI"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Nahor.2"
+  ],
+  "offspring": [
+    "person:Tebah",
+    "person:Gaham",
+    "person:Tahash",
+    "person:Maacah"
+  ],
+  "ubsdbh": [
+    "006639001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Reumah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Reumah",
+          "article": "person:Reumah",
+          "description": "Reumah was a woman living during the time of the patriarchs, only mentioned in Genesis 22:24, as the mother of Tebah, Gaham, Tahash, and Maacah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01022024"
+  ],
+  "references": [
+    "01022024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010220240031"
+      ]
+    ]
+  }
+}

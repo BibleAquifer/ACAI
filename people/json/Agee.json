@@ -1,0 +1,59 @@
+{
+  "id": "person:Agee",
+  "primary_id": "person:Agee",
+  "alternate_sources": {
+    "aquifer": [
+      "3420|Agee|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000090001001000"
+    ],
+    "tipnr": [
+      "Agee@2Sa.23.11"
+    ],
+    "vizbible": [
+      "recLuj7XyBBJ7IUlX"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Shammah"
+  ],
+  "ubsdbh": [
+    "000090001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Agee",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Agee",
+          "article": "person:Agee",
+          "description": "A man from Israel's united kingdom period, father of the warrior Shammah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָגֵא"
+    ]
+  },
+  "key_references": [
+    "10023011"
+  ],
+  "references": [
+    "10023011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230110041"
+      ]
+    ]
+  }
+}

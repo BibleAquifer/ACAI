@@ -1,0 +1,68 @@
+{
+  "id": "person:Aner",
+  "primary_id": "person:Aner",
+  "alternate_sources": {
+    "aquifer": [
+      "3608|Aner (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005566001001000"
+    ],
+    "tipnr": [
+      "Aner@Gen.14.13-"
+    ],
+    "vizbible": [
+      "recrX6dsP8y3Jqib0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:FatherOfMamre",
+  "siblings": [
+    "person:Mamre",
+    "person:Eshcol"
+  ],
+  "ubsdbh": [
+    "005566001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aner",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aner",
+          "article": "person:Aner",
+          "description": "A man living during the time of the patriarchs, first mentioned in Genesis 14:13."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01014013",
+    "01014024"
+  ],
+  "references": [
+    "01014013",
+    "01014024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140130141"
+      ],
+      [
+        "o010140240111"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140130152"
+      ]
+    ]
+  }
+}

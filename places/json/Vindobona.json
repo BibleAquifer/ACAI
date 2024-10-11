@@ -1,0 +1,38 @@
+{
+  "id": "place:Vindobona",
+  "primary_id": "place:Vindobona",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Vindobona",
+          "gloss": "Vindobona",
+          "description": "A Roman military camp in the region of Pannonia; modern-day Vienna."
+        }
+      ],
+      "preferred_label": "Vindobona",
+      "alternate_labels": [
+        "Vienna"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "48.21135",
+      "lon": "16.37395"
+    }
+  }
+}

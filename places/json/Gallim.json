@@ -1,0 +1,90 @@
+{
+  "id": "place:Gallim",
+  "primary_id": "place:Gallim",
+  "alternate_sources": {
+    "aquifer": [
+      "5355|Gallim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac10bcf"
+    ],
+    "ubsdbh": [
+      "001425001001000"
+    ],
+    "tipnr": [
+      "Gallim@1Sa.25.44-Isa"
+    ],
+    "vizbible": [
+      "recxpkcBPRCLBgtu1"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001425001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gallim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gallim",
+          "gloss": "Gallim",
+          "description": "A location in the territory of Benjamin, north of Jerusalem."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גַּלִּים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.816667",
+      "lon": "35.25"
+    },
+    "vizbible": {
+      "lat": "31.816667",
+      "lon": "35.25"
+    }
+  },
+  "key_references": [
+    "09025044",
+    "23010030"
+  ],
+  "references": [
+    "09025044",
+    "23010030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090250440122"
+      ],
+      [
+        "o230100300041"
+      ]
+    ]
+  }
+}

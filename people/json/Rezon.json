@@ -1,0 +1,83 @@
+{
+  "id": "person:Rezon",
+  "primary_id": "person:Rezon",
+  "alternate_sources": {
+    "aquifer": [
+      "8026|Rezon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006737001001000"
+    ],
+    "tipnr": [
+      "Rezon@1Ki.11.23"
+    ],
+    "vizbible": [
+      "recXOEtVWCCWu7lgl"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliada.2",
+  "ubsdbh": [
+    "006737001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rezon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rezon",
+          "article": "person:Rezon",
+          "description": "Rezon, son of Eliada, was a man living during the time of Israel's united kingdom, mentioned in 1 Kings 11:23."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11011023"
+  ],
+  "references": [
+    "11011023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110110230061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110110230101"
+      ],
+      [
+        "o110110240012"
+      ],
+      [
+        "o110110240042"
+      ],
+      [
+        "o110110240102"
+      ],
+      [
+        "o110110240122"
+      ],
+      [
+        "o110110240142"
+      ],
+      [
+        "o110110250012"
+      ],
+      [
+        "o110110250112"
+      ],
+      [
+        "o110110250132"
+      ]
+    ]
+  }
+}

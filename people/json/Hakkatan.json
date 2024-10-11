@@ -1,0 +1,54 @@
+{
+  "id": "person:Hakkatan",
+  "primary_id": "person:Hakkatan",
+  "alternate_sources": {
+    "aquifer": [
+      "5600|Hakkatan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001867001001000 006433001005000"
+    ],
+    "tipnr": [
+      "Hakkatan@Ezr.8.12"
+    ],
+    "vizbible": [
+      "rec9zgqlWmqGP2se6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Johanan.8"
+  ],
+  "ubsdbh": [
+    "001867001001000 006433001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hakkatan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hakkatan",
+          "article": "person:Hakkatan",
+          "description": "Hakkatan was a man living during the time of exile and return, only mentioned in Ezra 8:12, and the father of Johanan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15008012"
+  ],
+  "references": [
+    "15008012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150080120052"
+      ]
+    ]
+  }
+}

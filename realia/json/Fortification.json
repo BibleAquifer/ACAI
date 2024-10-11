@@ -1,0 +1,113 @@
+{
+  "id": "realia:Fortification",
+  "primary_id": "realia:Fortification",
+  "alternate_sources": {
+    "aquifer": [
+      "5297|Fort, Fortification|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004297002003000",
+      "004298001001000"
+    ],
+    "ubsrealia": [
+      "realia:2.19"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004297002003000",
+    "004298001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fortification",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Fortification",
+          "article": "realia:Fortification",
+          "description": "Walls, ramps, and towers built to protect a town from attacks or sieges."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מָצֹור",
+      "מְצוּרָה"
+    ]
+  },
+  "key_references": [
+    "14011010",
+    "14012004",
+    "35002001"
+  ],
+  "references": [
+    "14008005",
+    "14011005",
+    "14011010",
+    "14011011",
+    "14011023",
+    "14012004",
+    "14014005",
+    "14021003",
+    "19031022",
+    "19060011",
+    "34002002",
+    "35002001",
+    "38009003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140080050111"
+      ],
+      [
+        "o140110050062"
+      ],
+      [
+        "o190310220081"
+      ],
+      [
+        "o190600110041"
+      ],
+      [
+        "o350020010061"
+      ],
+      [
+        "o380090030031"
+      ],
+      [
+        "o140110100111"
+      ],
+      [
+        "o140110110032"
+      ],
+      [
+        "o140110230112"
+      ],
+      [
+        "o140120040042"
+      ],
+      [
+        "o140140050031"
+      ],
+      [
+        "o140210030111"
+      ],
+      [
+        "o340020020061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140110110052"
+      ]
+    ]
+  }
+}

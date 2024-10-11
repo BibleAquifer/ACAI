@@ -1,0 +1,91 @@
+{
+  "id": "place:Moreh",
+  "primary_id": "place:Moreh",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003812003001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/283366"
+    ],
+    "tipnr": [
+      "Moreh@Gen.12.6-Deu"
+    ],
+    "vizbible": [
+      "recyFR0y4HsEM2kds"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003812003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Oak of Moreh",
+      "alternate_labels": [
+        "Shechem",
+        "Moreh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Moreh.1",
+          "gloss": "Oak of Moreh",
+          "description": "A location with a sacred tree where Abraham encamped."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מֹורֶה",
+      "מוֹרֶה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "tree"
+    ],
+    "acai": [
+      "tree"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.21369123124062",
+      "lon": "35.2817986718367"
+    },
+    "recogito": {
+      "lat": "32.22162",
+      "lon": "35.14471"
+    },
+    "vizbible": {
+      "lat": "32.21369123124062",
+      "lon": "35.2817986718367"
+    }
+  },
+  "key_references": [
+    "05011030",
+    "01012006"
+  ],
+  "references": [
+    "01012006",
+    "05011030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010120060091"
+      ],
+      [
+        "o050110300171"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "place:Shaveh-kiriathaim",
+  "primary_id": "place:Kiriathaim",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007235001001000",
+      "006589001001000"
+    ],
+    "tipnr": [
+      "Shaveh-kiriathaim|Kiriathaim@Gen.14.5-Amo"
+    ],
+    "vizbible": [
+      "recez2EN62j4OKcFT"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007235001001000",
+    "006589001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaveh-kiriathaim",
+      "alternate_labels": [
+        "Shaveh Kiriathaim",
+        "Kiriathaim",
+        "Shaveh-kiriathaim"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Kiriathaim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "natural area"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.58333333329998",
+      "lon": "35.70000000000012"
+    },
+    "vizbible": {
+      "lat": "31.58333333329998",
+      "lon": "35.70000000000012"
+    }
+  },
+  "key_references": [
+    "01014005"
+  ],
+  "references": [
+    "01014005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140050192",
+        "o010140050201"
+      ]
+    ]
+  }
+}

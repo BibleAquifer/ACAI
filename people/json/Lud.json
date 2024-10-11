@@ -1,0 +1,115 @@
+{
+  "id": "person:Lud",
+  "primary_id": "person:Lud",
+  "alternate_sources": {
+    "aquifer": [
+      "6791|Lud, Ludim, Ludites|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ludim|Lud@Gen.10.22-Ezk",
+      "Lud@Gen.10.22-Ezk"
+    ],
+    "vizbible": [
+      "recFF4kBvfcodp6aG"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shem",
+  "siblings": [
+    "person:Asshur",
+    "person:Elam.2",
+    "person:Arpachshad",
+    "person:Aram"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lud",
+      "alternate_labels": [
+        "Lydia",
+        "Lydian",
+        "Ludiim",
+        "Ludim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lud",
+          "article": "person:Lud",
+          "description": "A son of the patriarch Shem. He was a brother of Asshur, Elam, Arpachshad, and Aram."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Ludim"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010022",
+    "24046009",
+    "26027010"
+  ],
+  "references": [
+    "01010013",
+    "01010022",
+    "13001011",
+    "13001017",
+    "23066019",
+    "24046009",
+    "26027010",
+    "26030005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100130041"
+      ],
+      [
+        "o010100220062"
+      ],
+      [
+        "o130010110051"
+      ],
+      [
+        "o130010170062"
+      ],
+      [
+        "o230660190112"
+      ],
+      [
+        "o240460090112"
+      ],
+      [
+        "o260270100022"
+      ],
+      [
+        "o260300050032"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270100121"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240460090121",
+        "o240460090131"
+      ],
+      [
+        "o260270100101"
+      ]
+    ]
+  }
+}

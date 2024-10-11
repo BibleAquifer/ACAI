@@ -1,0 +1,54 @@
+{
+  "id": "deity:Everlasting",
+  "primary_id": "deity:Lord",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005298001001000"
+    ],
+    "tipnr": [
+      "Everlasting|LORD@Gen.1.1-Heb"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "005298001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Everlasting (LORD)",
+      "alternate_labels": [
+        "El-Olam",
+        "LORD",
+        "Eternal One",
+        "Eternal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "LORD",
+          "article": "deity:Everlasting",
+          "description": "A name of the Lord, literally “El-Olam,” used by Abraham in Genesis 21:33."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Lord"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01021033"
+  ],
+  "references": [
+    "01021033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010210330101"
+      ]
+    ]
+  }
+}

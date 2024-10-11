@@ -1,0 +1,69 @@
+{
+  "id": "person:Samlah",
+  "primary_id": "person:Samlah",
+  "alternate_sources": {
+    "aquifer": [
+      "8123|Samlah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007057001001000"
+    ],
+    "tipnr": [
+      "Samlah@Gen.36.36-1Ch"
+    ],
+    "vizbible": [
+      "recD8Jy1e5VTDmylj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "007057001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Samlah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Samlah",
+          "article": "person:Samlah",
+          "description": "An Edomite king living at the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036036",
+    "01036037",
+    "13001047"
+  ],
+  "references": [
+    "01036036",
+    "01036037",
+    "13001047",
+    "13001048"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360360051"
+      ],
+      [
+        "o010360370021"
+      ],
+      [
+        "o130010470051"
+      ],
+      [
+        "o130010480021"
+      ]
+    ]
+  }
+}

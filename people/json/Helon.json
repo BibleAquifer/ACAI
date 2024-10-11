@@ -1,0 +1,77 @@
+{
+  "id": "person:Helon",
+  "primary_id": "person:Helon",
+  "alternate_sources": {
+    "aquifer": [
+      "5791|Helon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002305001001000"
+    ],
+    "tipnr": [
+      "Helon@Num.1.9-"
+    ],
+    "vizbible": [
+      "recQohh2UIyX0c9Ne"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Eliab"
+  ],
+  "ubsdbh": [
+    "002305001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Helon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Helon",
+          "article": "person:Helon",
+          "description": "The father of Eliab the chief of the tribe of Zebulun, who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֵלֹן"
+    ]
+  },
+  "key_references": [
+    "04001009",
+    "04002007",
+    "04007024"
+  ],
+  "references": [
+    "04001009",
+    "04002007",
+    "04007024",
+    "04007029",
+    "04010016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010090041"
+      ],
+      [
+        "o040020070081"
+      ],
+      [
+        "o040070240081"
+      ],
+      [
+        "o040070290171"
+      ],
+      [
+        "o040100160081"
+      ]
+    ]
+  }
+}

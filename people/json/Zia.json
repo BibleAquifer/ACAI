@@ -1,0 +1,66 @@
+{
+  "id": "person:Zia",
+  "primary_id": "person:Zia",
+  "alternate_sources": {
+    "aquifer": [
+      "9209|Zia|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001965001001000"
+    ],
+    "tipnr": [
+      "Zia@1Ch.5.13"
+    ],
+    "vizbible": [
+      "recMmmIozIAUajt9x"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abihail.3",
+  "siblings": [
+    "person:Michael.2",
+    "person:Meshullam.3",
+    "person:Sheba.5",
+    "person:Jorai",
+    "person:Jacan",
+    "person:Eber.2"
+  ],
+  "tribe": "group:Gad",
+  "ubsdbh": [
+    "001965001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zia",
+          "article": "person:Zia",
+          "description": "Zia was a man from the tribe of Gad, son of Abihail, living during the divided kingdom, and only mentioned in 1 Chronicles 5:13."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זִיעַ"
+    ]
+  },
+  "key_references": [
+    "13005013"
+  ],
+  "references": [
+    "13005013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050130092"
+      ]
+    ]
+  }
+}

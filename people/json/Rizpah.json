@@ -1,0 +1,90 @@
+{
+  "id": "person:Rizpah",
+  "primary_id": "person:Rizpah",
+  "alternate_sources": {
+    "aquifer": [
+      "8051|Rizpah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006919002001000"
+    ],
+    "tipnr": [
+      "Rizpah@2Sa.3.7-"
+    ],
+    "vizbible": [
+      "recAcL9IDPD8pf7WV"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Aiah.2",
+  "partners": [
+    "person:Saul.2"
+  ],
+  "offspring": [
+    "person:Armoni",
+    "person:Mephibosheth.2"
+  ],
+  "roles": [
+    "Member of the Royal Family",
+    "Concubine"
+  ],
+  "ubsdbh": [
+    "006919002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rizpah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rizpah",
+          "article": "person:Rizpah",
+          "description": "A daughter of Aiah and concubine of Saul. She was the mother of Armoni and Mephibosheth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10003007",
+    "10021008",
+    "10021010"
+  ],
+  "references": [
+    "10003007",
+    "10021008",
+    "10021010",
+    "10021011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100030070041"
+      ],
+      [
+        "o100210080061"
+      ],
+      [
+        "o100210100021"
+      ],
+      [
+        "o100210110061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100210080101"
+      ],
+      [
+        "o100210100072"
+      ],
+      [
+        "o100210100201"
+      ]
+    ]
+  }
+}

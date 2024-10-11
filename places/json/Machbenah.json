@@ -1,0 +1,40 @@
+{
+  "id": "place:Machbenah",
+  "primary_id": "place:Machbenah",
+  "alternate_sources": {
+    "aquifer": [
+      "6833|Machbenah|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Machbenah",
+          "gloss": "Machbenah",
+          "description": "A town in the territory of Judah."
+        }
+      ],
+      "preferred_label": "Machbenah"
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "13002049"
+  ]
+}

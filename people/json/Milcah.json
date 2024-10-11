@@ -1,0 +1,120 @@
+{
+  "id": "person:Milcah",
+  "primary_id": "person:Milcah",
+  "alternate_sources": {
+    "aquifer": [
+      "7133|Milcah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004051001001000"
+    ],
+    "tipnr": [
+      "Milcah@Gen.11.29-"
+    ],
+    "vizbible": [
+      "recu1NkHTdTZhdbo7"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Haran",
+  "partners": [
+    "person:Nahor.2"
+  ],
+  "offspring": [
+    "person:Uz.2",
+    "person:Buz",
+    "person:Kemuel",
+    "person:Chesed",
+    "person:Hazo",
+    "person:Pildash",
+    "person:Jidlaph",
+    "person:Bethuel"
+  ],
+  "siblings": [
+    "person:Lot",
+    "person:Iscah"
+  ],
+  "roles": [
+    "Matriarch"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "004051001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Milcah",
+      "alternate_labels": [
+        "Milkah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Milcah",
+          "article": "person:Milcah",
+          "description": "A daughter of Haran and wife of Abram's brother Nahor."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִלְכָּה"
+    ]
+  },
+  "key_references": [
+    "01011029",
+    "01022020",
+    "01024015"
+  ],
+  "references": [
+    "01011029",
+    "01022020",
+    "01022023",
+    "01024015",
+    "01024024",
+    "01024047"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010110290131"
+      ],
+      [
+        "o010110290171"
+      ],
+      [
+        "o010220200101"
+      ],
+      [
+        "o010220230081"
+      ],
+      [
+        "o010240150131"
+      ],
+      [
+        "o010240240071"
+      ],
+      [
+        "o010240470151"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010220200121"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010240240091"
+      ]
+    ]
+  }
+}

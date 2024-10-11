@@ -1,0 +1,67 @@
+{
+  "id": "person:Ehud.2",
+  "primary_id": "person:Ehud.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4957|Ehud|TyndaleBibleDictionary",
+      "132378|Ehud|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000163001002000"
+    ],
+    "tipnr": [
+      "Ehud@1Ch.7.10"
+    ],
+    "vizbible": [
+      "recLC6JYLdU0KFTl4"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Bilhan.2",
+  "siblings": [
+    "person:Jeush.2",
+    "person:Benjamin.2",
+    "person:Chenaanah.2",
+    "person:Zethan",
+    "person:Tarshish.2",
+    "person:Ahishahar"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000163001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ehud (1 Chronicles 7:10)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ehud (1 Chronicles 7:10)",
+          "article": "person:Ehud.2",
+          "description": "Ehud, mentioned in 1 Chronicles 7:10, was a man of the tribe of Benjamin living during the time of the divided kingdom, son of Bilhan and brother to several siblings."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵהוּד"
+    ]
+  },
+  "key_references": [
+    "13007010"
+  ],
+  "references": [
+    "13007010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070100092"
+      ]
+    ]
+  }
+}

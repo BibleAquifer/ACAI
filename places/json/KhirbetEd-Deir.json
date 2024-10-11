@@ -1,0 +1,41 @@
+{
+  "id": "place:KhirbetEd-Deir",
+  "primary_id": "place:KhirbetEd-Deir",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:KhirbetEd-Deir",
+          "gloss": "Khirbet ed-Deir",
+          "description": "A village southwest of Bethlehem; possibly Eltekon."
+        }
+      ],
+      "preferred_label": "Khirbet ed-deir",
+      "alternate_labels": [
+        "Khirbet al-Deir"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Eltekon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "31.65378",
+      "lon": "35.02797"
+    }
+  }
+}

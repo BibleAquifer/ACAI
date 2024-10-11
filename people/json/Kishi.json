@@ -1,0 +1,62 @@
+{
+  "id": "person:Kishi",
+  "primary_id": "person:Kishi",
+  "alternate_sources": {
+    "aquifer": [
+      "6620|Kishi|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Kishi@1Ch.6.44-",
+      "Kushaiah|Kishi@1Ch.6.44-"
+    ],
+    "vizbible": [
+      "recCs62JEnkfTHRaF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abdi",
+  "offspring": [
+    "person:Jeduthun"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kishi",
+      "alternate_labels": [
+        "Kushaiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kishi",
+          "article": "person:Kishi",
+          "description": "A Levite living during the divided kingdom, father of Jeduthun, also called Kushaiah in 1 Chronicles 15:17."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Kushaiah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13006029",
+    "13015017"
+  ],
+  "references": [
+    "13006029",
+    "13015017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060290081"
+      ],
+      [
+        "o130150170181"
+      ]
+    ]
+  }
+}

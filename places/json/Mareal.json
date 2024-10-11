@@ -1,0 +1,82 @@
+{
+  "id": "place:Mareal",
+  "primary_id": "place:Mareal",
+  "alternate_sources": {
+    "aquifer": [
+      "6936|Maralah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ad04336"
+    ],
+    "ubsdbh": [
+      "004420001001000"
+    ],
+    "tipnr": [
+      "Mareal@Jos.19.11"
+    ],
+    "vizbible": [
+      "rec5GyUpKvcWOTCzM"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004420001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maralah",
+      "alternate_labels": [
+        "Mareal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mareal",
+          "gloss": "Maralah",
+          "description": "A village in the territory of Zebulun."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.697409",
+      "lon": "35.241789"
+    },
+    "vizbible": {
+      "lat": "32.697409",
+      "lon": "35.241789"
+    }
+  },
+  "key_references": [
+    "06019011"
+  ],
+  "references": [
+    "06019011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190110042"
+      ]
+    ]
+  }
+}

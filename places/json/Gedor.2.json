@@ -1,0 +1,86 @@
+{
+  "id": "place:Gedor.2",
+  "primary_id": "place:Gedor.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5403|Gedor (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001324001004000"
+    ],
+    "tipnr": [
+      "Gedor@1Ch.4.39"
+    ],
+    "vizbible": [
+      "recHcMmB2WjEh1MXi"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001324001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gedor (of Simeon)",
+      "alternate_labels": [
+        "Gerar",
+        "Gedor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gedor.2",
+          "gloss": "Gedor (of Simeon)",
+          "description": "A town in the territory of Simeon."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גְּדֹר",
+      "גְּדוֹר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.823337",
+      "lon": "34.777779"
+    },
+    "vizbible": {
+      "lat": "31.823337",
+      "lon": "34.777779"
+    }
+  },
+  "key_references": [
+    "13004039"
+  ],
+  "references": [
+    "13004039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040390031"
+      ]
+    ]
+  }
+}

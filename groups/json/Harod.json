@@ -1,0 +1,70 @@
+{
+  "id": "group:Harod",
+  "primary_id": "group:Harod",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001881001001000",
+      "002518001001000"
+    ],
+    "tipnr": [
+      "Harod@Jdg.7.1-1Ch"
+    ],
+    "vizbible": [
+      "rec9ekXwjiKSDYlPT"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Harod",
+  "ubsdbh": [
+    "001881001001000",
+    "002518001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Harodites",
+      "alternate_labels": [
+        "Harorite",
+        "Harodite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Harodites",
+          "article": "group:Harod",
+          "description": "People who live in Harod."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֲרֹורִי",
+      "הֲרוֹרִי",
+      "חֲרֹדִי"
+    ]
+  },
+  "key_references": [
+    "10023025",
+    "13011027"
+  ],
+  "references": [
+    "10023025",
+    "13011027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230250022"
+      ],
+      [
+        "o100230250042"
+      ],
+      [
+        "o130110270022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "realia:LectureHall",
+  "primary_id": "realia:LectureHall",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.14"
+    ],
+    "ubsrealia": [
+      "realia:3.13.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.14"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lecture Hall",
+      "alternate_labels": [
+        "School"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lecture Hall",
+          "article": "realia:LectureHall",
+          "description": "A building where teachers and students gather for talks, study, and discussion."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σχολή"
+    ]
+  },
+  "key_references": [
+    "44019009"
+  ],
+  "references": [
+    "44019009"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44019009024"
+      ]
+    ]
+  }
+}

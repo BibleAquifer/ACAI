@@ -1,0 +1,90 @@
+{
+  "id": "place:Chesil",
+  "primary_id": "place:Chesil",
+  "alternate_sources": {
+    "aquifer": [
+      "4514|Chesil|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003369004001000"
+    ],
+    "tipnr": [
+      "Chesil@Jos.15.30"
+    ],
+    "vizbible": [
+      "recSSa66yHtBR12pu"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003369004001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chesil",
+      "alternate_labels": [
+        "Kesil"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chesil",
+          "gloss": "Chesil",
+          "description": "A town in the southern territory of Judah, near the border of Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כְּסִיל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    },
+    "vizbible": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    }
+  },
+  "key_references": [
+    "06015030"
+  ],
+  "references": [
+    "06015030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150300022"
+      ]
+    ]
+  }
+}

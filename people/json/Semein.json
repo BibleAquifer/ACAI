@@ -1,0 +1,64 @@
+{
+  "id": "person:Semein",
+  "primary_id": "person:Semein",
+  "alternate_sources": {
+    "aquifer": [
+      "8219|Semei, Semein|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.334"
+    ],
+    "tipnr": [
+      "Semein@Luk.3.26"
+    ],
+    "vizbible": [
+      "rec4SiJn3qzcVJbCm"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Josech",
+  "offspring": [
+    "person:Mattathias.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.334"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Semein",
+      "alternate_labels": [
+        "Semei"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Semein",
+          "article": "person:Semein",
+          "description": "Son of Josech and the father of Matthathias in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σεμεΐν"
+    ]
+  },
+  "key_references": [
+    "42003026"
+  ],
+  "references": [
+    "42003026"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003026006"
+      ]
+    ]
+  }
+}

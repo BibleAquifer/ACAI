@@ -1,0 +1,63 @@
+{
+  "id": "person:Shenazzar",
+  "primary_id": "person:Shenazzar",
+  "alternate_sources": {
+    "aquifer": [
+      "8358|Shenazar, Shenazzar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007521001001000"
+    ],
+    "tipnr": [
+      "Shenazzar@1Ch.3.18"
+    ],
+    "vizbible": [
+      "recRrbOh66mhvkFCI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shealtiel.2",
+  "siblings": [
+    "person:Malchiram",
+    "person:Pedaiah.2",
+    "person:Jekamiah.2",
+    "person:Hoshama",
+    "person:Nedabiah"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007521001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shenazzar",
+      "alternate_labels": [
+        "Shenazar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shenazzar",
+          "article": "person:Shenazzar",
+          "description": "Shenazzar was a man from the tribe of Judah living during the time of the divided kingdom, mentioned in 1 Chronicles 3:18."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13003018"
+  ],
+  "references": [
+    "13003018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030180032"
+      ]
+    ]
+  }
+}

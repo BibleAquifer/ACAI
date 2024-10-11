@@ -1,0 +1,64 @@
+{
+  "id": "person:Menna",
+  "primary_id": "person:Menna",
+  "alternate_sources": {
+    "aquifer": [
+      "7049|Menna|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.262"
+    ],
+    "tipnr": [
+      "Menna@Luk.3.31"
+    ],
+    "vizbible": [
+      "rec58dR1ptm9m9LI1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mattatha",
+  "offspring": [
+    "person:Melea"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.262"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Menna",
+      "alternate_labels": [
+        "Menan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Menna",
+          "article": "person:Menna",
+          "description": "Son of Matthata and the father of Melea in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Μεννά"
+    ]
+  },
+  "key_references": [
+    "42003031"
+  ],
+  "references": [
+    "42003031"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003031004"
+      ]
+    ]
+  }
+}

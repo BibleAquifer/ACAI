@@ -1,0 +1,68 @@
+{
+  "id": "person:Rimmon",
+  "primary_id": "person:Rimmon",
+  "alternate_sources": {
+    "aquifer": [
+      "8041|Rimmon (Person)|TyndaleBibleDictionary",
+      "8043|Rimmon, Rock of|TyndaleBibleDictionary",
+      "27036|Rimmon|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006818002004000"
+    ],
+    "tipnr": [
+      "Rimmon@2Sa.4.2-"
+    ],
+    "vizbible": [
+      "recb9mjVqMgxJt7xs"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Baanah",
+    "person:Rechab"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "006818002004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rimmon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rimmon",
+          "article": "person:Rimmon",
+          "description": "Rimmon, father of Baanah and Rechab, was a man living during the time of Israel's united kingdom, mentioned in 2 Samuel 4:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10004002",
+    "10004005",
+    "10004009"
+  ],
+  "references": [
+    "10004002",
+    "10004005",
+    "10004009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100040020151"
+      ],
+      [
+        "o100040050031"
+      ],
+      [
+        "o100040090091"
+      ]
+    ]
+  }
+}

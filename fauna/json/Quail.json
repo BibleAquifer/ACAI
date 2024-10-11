@@ -1,0 +1,75 @@
+{
+  "id": "fauna:Quail",
+  "primary_id": "fauna:Quail",
+  "alternate_sources": {
+    "aquifer": [
+      "7880|Quail|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007044001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.19"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "007044001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Quail",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Quail",
+          "article": "fauna:Quail",
+          "description": "A small brown and white bird, similar to a tiny partridge, mentioned in the Bible as ceremonially clean to eat."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שְׂלָו"
+    ]
+  },
+  "key_references": [
+    "02016013",
+    "04011031",
+    "19105040"
+  ],
+  "references": [
+    "02016013",
+    "04011031",
+    "04011032",
+    "19105040",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020160130042"
+      ],
+      [
+        "o040110310061"
+      ],
+      [
+        "o040110320132"
+      ],
+      [
+        "o191050400031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020160130052"
+      ]
+    ]
+  }
+}

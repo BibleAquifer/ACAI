@@ -1,0 +1,95 @@
+{
+  "id": "person:Ben-oni",
+  "primary_id": "person:Benjamin",
+  "alternate_sources": {
+    "aquifer": [
+      "4116|Ben-Oni|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001041001001000"
+    ],
+    "tipnr": [
+      "Ben-oni|Benjamin@Gen.35.18-Rev"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Israel",
+  "mother": "person:Rachel",
+  "offspring": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Rosh",
+    "person:Muppim",
+    "person:Huppim",
+    "person:Ard",
+    "person:Ahiram",
+    "person:Jediael"
+  ],
+  "siblings": [
+    "person:Reuben",
+    "person:Simeon.5",
+    "person:Levi.3",
+    "person:Judah.4",
+    "person:Dan",
+    "person:Naphtali",
+    "person:Gad",
+    "person:Asher",
+    "person:Issachar",
+    "person:Zebulun",
+    "person:Dinah",
+    "person:Joseph.10"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "001041001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ben-oni (Benjamin)",
+      "alternate_labels": [
+        "Benjamin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Benjamin",
+          "article": "person:Ben-oni",
+          "description": "Jacob's son known as Benjamin, who founded the tribe of Benjamin, born during the patriarchs and mentioned in Genesis 35:18."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Benjamin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּן־אֹונִי",
+      "בֶּן־אוֹנִ֑י"
+    ]
+  },
+  "key_references": [
+    "01035018"
+  ],
+  "references": [
+    "01035018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010350180081",
+        "o010350180091"
+      ]
+    ]
+  }
+}

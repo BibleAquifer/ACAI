@@ -1,0 +1,71 @@
+{
+  "id": "person:Simon.7",
+  "primary_id": "person:Simon.7",
+  "alternate_sources": {
+    "aquifer": [
+      "6860|Magus, Simon|TyndaleBibleDictionary",
+      "8511|Simon|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.341e"
+    ],
+    "tipnr": [
+      "Simon@Jhn.6.71-"
+    ],
+    "vizbible": [
+      "rec04sGSKA1kdTxYY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Judas.2"
+  ],
+  "ubsdgnt": [
+    "93.341e"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Simon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Simon",
+          "article": "person:Simon.7",
+          "description": "Simon was a man living at the time of the New Testament and is first mentioned in John 6:71 as the father of Judas Iscariot."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σίμων"
+    ]
+  },
+  "key_references": [
+    "43006071",
+    "43012004",
+    "43013026"
+  ],
+  "references": [
+    "43006071",
+    "43012004",
+    "43013002",
+    "43013026"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43006071005"
+      ],
+      [
+        "n43013002015"
+      ],
+      [
+        "n43013026020"
+      ]
+    ]
+  }
+}

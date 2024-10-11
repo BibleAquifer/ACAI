@@ -1,0 +1,68 @@
+{
+  "id": "person:Jonathan.2",
+  "primary_id": "person:Jonathan.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6432|Jonathan|TyndaleBibleDictionary",
+      "26772|Jonathan|UWTranslationWords",
+      "132403|Jonathan|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002832001001000"
+    ],
+    "tipnr": [
+      "Jonathan@Jdg.18.30"
+    ],
+    "vizbible": [
+      "rec7Ho0BNFCZvWz0w"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gershom",
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002832001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jonathan (Judges 18:30)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jonathan (Judges 18:30)",
+          "article": "person:Jonathan.2",
+          "description": "A man living before Israel's Monarchy, a Levite and son of Gershom, who served as a priest for Micah and later for the Danites, mentioned in Judges 18:30."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹונָתָן",
+      "יוֹנָתָן"
+    ]
+  },
+  "key_references": [
+    "07018030"
+  ],
+  "references": [
+    "07018030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070180300072"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o070180300121"
+      ]
+    ]
+  }
+}

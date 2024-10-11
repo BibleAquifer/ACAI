@@ -1,0 +1,69 @@
+{
+  "id": "person:Abida",
+  "primary_id": "person:Abida",
+  "alternate_sources": {
+    "aquifer": [
+      "3292|Abida|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000027001001000"
+    ],
+    "tipnr": [
+      "Abida@Gen.25.4-1Ch"
+    ],
+    "vizbible": [
+      "recwnmrA2RgNyubcH"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Midian",
+  "siblings": [
+    "person:Ephah",
+    "person:Epher",
+    "person:Hanoch",
+    "person:Eldaah"
+  ],
+  "tribe": "group:Sinites",
+  "ubsdbh": [
+    "000027001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abida",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abida",
+          "article": "person:Abida",
+          "description": "A man of the Midianites, son of Midian and grandson of Abraham and Keturah, mentioned in Genesis 25:4."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִידָע"
+    ]
+  },
+  "key_references": [
+    "01025004",
+    "13001033"
+  ],
+  "references": [
+    "01025004",
+    "13001033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250040062"
+      ],
+      [
+        "o130010330062"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "person:Dysmas",
+  "primary_id": "person:Dysmas",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Criminal on the Cross (Dysmas)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Criminal on the Cross (Dysmas)",
+          "description": "The repentant criminal crucified next to Jesus. Tradition gives him the name \"Dysmas.\""
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "42023040"
+  ],
+  "references": [
+    "42023040"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42023040004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42023040004"
+      ],
+      [
+        "n42023042002"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "rebuking",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42023040008",
+          "n42023040009",
+          "n42023040010",
+          "n42023040011",
+          "n42023040012",
+          "n42023040013",
+          "n42023040014",
+          "n42023040015",
+          "n42023040016",
+          "n42023040017",
+          "n42023040018",
+          "n42023041001",
+          "n42023041002",
+          "n42023041003",
+          "n42023041004",
+          "n42023041005",
+          "n42023041006",
+          "n42023041007",
+          "n42023041008",
+          "n42023041009",
+          "n42023041010",
+          "n42023041011",
+          "n42023041012",
+          "n42023041013",
+          "n42023041014"
+        ]
+      },
+      {
+        "delivery": "rebuking",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42023042003",
+          "n42023042004",
+          "n42023042005",
+          "n42023042006",
+          "n42023042007",
+          "n42023042008",
+          "n42023042009",
+          "n42023042010",
+          "n42023042011"
+        ]
+      }
+    ]
+  }
+}

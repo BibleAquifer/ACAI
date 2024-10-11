@@ -1,0 +1,179 @@
+{
+  "id": "person:Ahikam",
+  "primary_id": "person:Ahikam",
+  "alternate_sources": {
+    "aquifer": [
+      "3445|Ahikam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000280001001000"
+    ],
+    "tipnr": [
+      "Ahikam@2Ki.22.12-Jer"
+    ],
+    "vizbible": [
+      "reclqqQjQ1vEw7Rz1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shaphan",
+  "offspring": [
+    "person:Gedaliah.2"
+  ],
+  "siblings": [
+    "person:Elasah.2",
+    "person:Gemariah.2"
+  ],
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "000280001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahikam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahikam",
+          "article": "person:Ahikam",
+          "description": "An official during the reign of King Josiah. He was the son of Shaphan, and the father of Gedaliah, who later became the governor of Judah during the Babylonian exile."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִיקָם"
+    ]
+  },
+  "key_references": [
+    "12022011",
+    "12022012",
+    "12022013",
+    "12022014",
+    "24026024",
+    "24039014",
+    "24040005"
+  ],
+  "references": [
+    "12022012",
+    "12022014",
+    "12025022",
+    "14034020",
+    "24026024",
+    "24039014",
+    "24040005",
+    "24040006",
+    "24040007",
+    "24040009",
+    "24040011",
+    "24040014",
+    "24040016",
+    "24041001",
+    "24041002",
+    "24041006",
+    "24041010",
+    "24041016",
+    "24041018",
+    "24043006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120220120071"
+      ],
+      [
+        "o120220140042"
+      ],
+      [
+        "o120250220151"
+      ],
+      [
+        "o140340200061"
+      ],
+      [
+        "o240260240031"
+      ],
+      [
+        "o240390140121"
+      ],
+      [
+        "o240400050081"
+      ],
+      [
+        "o240400060061"
+      ],
+      [
+        "o240400070161"
+      ],
+      [
+        "o240400090051"
+      ],
+      [
+        "o240400110251"
+      ],
+      [
+        "o240400140221"
+      ],
+      [
+        "o240400160041"
+      ],
+      [
+        "o240410010201"
+      ],
+      [
+        "o240410020141"
+      ],
+      [
+        "o240410060201"
+      ],
+      [
+        "o240410100251"
+      ],
+      [
+        "o240410160271"
+      ],
+      [
+        "o240410180141"
+      ],
+      [
+        "o240430060211"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120220130011",
+        "o120220130021"
+      ],
+      [
+        "o120220140232"
+      ],
+      [
+        "o120220150081"
+      ],
+      [
+        "o120220180062"
+      ],
+      [
+        "o120220180101"
+      ],
+      [
+        "o120220200212"
+      ],
+      [
+        "o140340210011",
+        "o140340210021"
+      ],
+      [
+        "o240260240101"
+      ]
+    ]
+  }
+}

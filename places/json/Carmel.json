@@ -1,0 +1,191 @@
+{
+  "id": "place:Carmel",
+  "primary_id": "place:Carmel",
+  "alternate_sources": {
+    "aquifer": [
+      "4430|Carmel|TyndaleBibleDictionary",
+      "26433|Carmel|UWTranslationWords"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28339"
+    ],
+    "tipnr": [
+      "Racal|Carmel@Jos.12.22-Nam",
+      "Carmel@Jos.12.22-Nam"
+    ],
+    "vizbible": [
+      "reca2kSTlowovUOD4"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Carmel (of Judah)",
+      "alternate_labels": [
+        "Rakal",
+        "Rachal",
+        "Carmelite",
+        "Racal",
+        "Carmelitess",
+        "Carmel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Carmel.1",
+          "gloss": "Carmel (of Judah)",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Carmel",
+    "place:Racal"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.43333152",
+      "lon": "35.13333189"
+    },
+    "recogito": {
+      "lat": "31.422876",
+      "lon": "35.132952"
+    },
+    "vizbible": {
+      "lat": "31.422876",
+      "lon": "35.132952"
+    }
+  },
+  "key_references": [
+    "09015012",
+    "09025002"
+  ],
+  "references": [
+    "06012022",
+    "06015055",
+    "06019026",
+    "09015012",
+    "09025002",
+    "09025005",
+    "09025007",
+    "09025040",
+    "09027003",
+    "09030005",
+    "09030029",
+    "10002002",
+    "10003003",
+    "10023035",
+    "13003001",
+    "13011037",
+    "14026010",
+    "22007006",
+    "23033009",
+    "23035002",
+    "24046018",
+    "24050019",
+    "30001002",
+    "30009003",
+    "34001004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120220062"
+      ],
+      [
+        "o060150550021"
+      ],
+      [
+        "o060190260052"
+      ],
+      [
+        "o090150120112"
+      ],
+      [
+        "o090250020042"
+      ],
+      [
+        "o090250020182"
+      ],
+      [
+        "o090250050091"
+      ],
+      [
+        "o090250070212"
+      ],
+      [
+        "o090250400062"
+      ],
+      [
+        "o090270030182"
+      ],
+      [
+        "o090300050102"
+      ],
+      [
+        "o090300290022"
+      ],
+      [
+        "o100020020122"
+      ],
+      [
+        "o100030030072"
+      ],
+      [
+        "o100230350032"
+      ],
+      [
+        "o130030010162"
+      ],
+      [
+        "o130110370022"
+      ],
+      [
+        "o220070060032"
+      ],
+      [
+        "o230330090122"
+      ],
+      [
+        "o230350020122"
+      ],
+      [
+        "o240460180113"
+      ],
+      [
+        "o240500190072"
+      ],
+      [
+        "o300010020132"
+      ],
+      [
+        "o300090030042"
+      ],
+      [
+        "o340010040092"
+      ]
+    ]
+  }
+}

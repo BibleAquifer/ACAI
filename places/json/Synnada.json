@@ -1,0 +1,38 @@
+{
+  "id": "place:Synnada",
+  "primary_id": "place:Synnada",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Synnada",
+          "gloss": "Synnada",
+          "description": "A town in the region of Phrygia in Asia Minor."
+        }
+      ],
+      "preferred_label": "Synnada"
+    }
+  },
+  "subregion_of": [
+    "place:Phrygia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "38.53462",
+      "lon": "30.54809"
+    }
+  }
+}

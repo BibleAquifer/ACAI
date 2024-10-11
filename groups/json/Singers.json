@@ -1,0 +1,85 @@
+{
+  "id": "group:Singers",
+  "primary_id": "group:Singers",
+  "type": "group",
+  "group_type": "other",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Singers",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Singers",
+          "description": "A group of singers participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "14005013",
+    "14005013",
+    "23020002",
+    "23024016"
+  ],
+  "references": [
+    "14005013",
+    "14005013",
+    "23020002",
+    "23024016"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140050130043",
+        "o140050130054"
+      ],
+      [
+        "o140050130183"
+      ],
+      [
+        "o230200020061"
+      ],
+      [
+        "o230240160072"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "delivery": "singing",
+        "quote_type": "Normal",
+        "words": [
+          "o140050130211",
+          "o140050130221",
+          "o140050130231",
+          "o140050130232",
+          "o140050130241",
+          "o140050130242"
+        ]
+      },
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o230240160081",
+          "o230240160091",
+          "o230240160092",
+          "o230240160101",
+          "o230240160111",
+          "o230240160112",
+          "o230240160121",
+          "o230240160131",
+          "o230240160132",
+          "o230240160141",
+          "o230240160151",
+          "o230240160161",
+          "o230240160162",
+          "o230240160171",
+          "o230240160181"
+        ]
+      }
+    ]
+  }
+}

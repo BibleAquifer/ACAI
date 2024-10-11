@@ -1,0 +1,94 @@
+{
+  "id": "group:Beeroth",
+  "primary_id": "group:Beeroth",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000824001001000"
+    ],
+    "tipnr": [
+      "Beeroth@Jos.9.17-Neh"
+    ],
+    "vizbible": [
+      "rec4IK8BRFWJUhjhQ"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Beeroth",
+  "ubsdbh": [
+    "000824001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beerothites",
+      "alternate_labels": [
+        "Beerothite",
+        "Beeroth",
+        "Beerothites",
+        "Berothite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Beerothites",
+          "article": "group:Beeroth",
+          "description": "A non-Israelite people who live in the city of Beeroth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בְּאֵרֹתִי",
+      "בֵּרֹתִי"
+    ]
+  },
+  "key_references": [
+    "10004003",
+    "06009017",
+    "06009018"
+  ],
+  "references": [
+    "06009017",
+    "06018025",
+    "10004002",
+    "10004003",
+    "10004005",
+    "10004009",
+    "10023037",
+    "13011039",
+    "15002025",
+    "16007029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100040020162"
+      ],
+      [
+        "o100040030022"
+      ],
+      [
+        "o100040050042"
+      ],
+      [
+        "o100040090102"
+      ],
+      [
+        "o100230370042"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100040030042"
+      ],
+      [
+        "o100040030061"
+      ]
+    ]
+  }
+}

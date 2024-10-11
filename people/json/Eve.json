@@ -1,0 +1,174 @@
+{
+  "id": "person:Eve",
+  "primary_id": "person:Eve",
+  "alternate_sources": {
+    "aquifer": [
+      "5194|Eve|TyndaleBibleDictionary",
+      "26575|Eve|UWTranslationWords",
+      "132151|Eve|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Eve@Gen.3.20-1Ti"
+    ],
+    "vizbible": [
+      "recXhV7rg0zIf4OIB"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Adam"
+  ],
+  "offspring": [
+    "person:Cain",
+    "person:Abel",
+    "person:Seth"
+  ],
+  "siblings": [
+    "person:Adam"
+  ],
+  "roles": [
+    "Matriarch"
+  ],
+  "related_places": {
+    "birth_place": [
+      "place:Eden"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eve",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eve",
+          "article": "person:Eve",
+          "description": "Eve was the first created woman and wife of Adam, mother of Cain, Abel, and Seth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01003020",
+    "01004001",
+    "47011003"
+  ],
+  "references": [
+    "01003020",
+    "01004001",
+    "47011003",
+    "54002013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010030200051"
+      ],
+      [
+        "o010040010041"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n47011003009"
+      ],
+      [
+        "n54002013006"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010040010062"
+      ],
+      [
+        "o010040010072"
+      ],
+      [
+        "o010040010102",
+        "o010040010111"
+      ],
+      [
+        "o010040020012"
+      ],
+      [
+        "o010040020022"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010030020051",
+          "o010030020052",
+          "o010030020061",
+          "o010030020071",
+          "o010030020072",
+          "o010030020081",
+          "o010030030011",
+          "o010030030012",
+          "o010030030013",
+          "o010030030021",
+          "o010030030022",
+          "o010030030031",
+          "o010030030041",
+          "o010030030042",
+          "o010030030051",
+          "o010030030052",
+          "o010030030061",
+          "o010030030071",
+          "o010030030081",
+          "o010030030091",
+          "o010030030101",
+          "o010030030102",
+          "o010030030111",
+          "o010030030112",
+          "o010030030121",
+          "o010030030131",
+          "o010030030132",
+          "o010030030141",
+          "o010030030151"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010030130051",
+          "o010030130061",
+          "o010030130071"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010040010111",
+          "o010040010121",
+          "o010040010131",
+          "o010040010141"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010040250131",
+          "o010040250141",
+          "o010040250142",
+          "o010040250151",
+          "o010040250161",
+          "o010040250171",
+          "o010040250181",
+          "o010040250191",
+          "o010040250201",
+          "o010040250211",
+          "o010040250212",
+          "o010040250221"
+        ]
+      }
+    ]
+  }
+}

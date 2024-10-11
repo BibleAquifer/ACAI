@@ -1,0 +1,39 @@
+{
+  "id": "place:Brundisium",
+  "primary_id": "place:Brundisium",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Brundisium",
+          "gloss": "Brundisium",
+          "description": "A Roman port city in southern Italy; modern-day Brindisi."
+        }
+      ],
+      "preferred_label": "Brundisium",
+      "alternate_labels": [
+        "Brundisium",
+        "Brindisi"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "17.94687",
+      "lon": "40.64114"
+    }
+  }
+}

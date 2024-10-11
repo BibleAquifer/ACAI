@@ -1,0 +1,89 @@
+{
+  "id": "place:Cuth",
+  "primary_id": "place:Cuthah",
+  "alternate_sources": {
+    "aquifer": [
+      "4722|Cuth, Cuthah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003274001001000"
+    ],
+    "tipnr": [
+      "Cuth|Cuthah@2Ki.17.30"
+    ],
+    "vizbible": [
+      "reckj2nMFQVOzR2E8"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003274001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cuth",
+      "alternate_labels": [
+        "Cush",
+        "Kuthah",
+        "Cuthah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cuth",
+          "gloss": "Cuth",
+          "description": "A town in northern Babylonia; its inhabitants were relocated to Samaria by the king of Assyria."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Cuthah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כּוּת",
+      "כּוּתָה",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.733333",
+      "lon": "44.666667"
+    },
+    "vizbible": {
+      "lat": "32.733333",
+      "lon": "44.666667"
+    }
+  },
+  "key_references": [
+    "12017024",
+    "12017030"
+  ],
+  "references": [
+    "12017024",
+    "12017030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120170300081"
+      ]
+    ]
+  }
+}

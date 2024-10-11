@@ -1,0 +1,100 @@
+{
+  "id": "realia:Homer",
+  "primary_id": "realia:Homer",
+  "alternate_sources": {
+    "aquifer": [
+      "5888|Homer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002367002001000",
+      "003629001001000"
+    ],
+    "ubsrealia": [
+      "realia:11.3.1.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "002367002001000",
+    "003629001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Homer",
+      "alternate_labels": [
+        "Lethech"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Homer",
+          "article": "realia:Homer",
+          "description": "A unit of dry measurement in the Bible, equal to about 220 liters or 6 bushels."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֹמֶר",
+      "לֵתֶךְ"
+    ]
+  },
+  "key_references": [
+    "03027016",
+    "26045011",
+    "28003002"
+  ],
+  "references": [
+    "03027016",
+    "04011032",
+    "23005010",
+    "26045011",
+    "26045013",
+    "26045014",
+    "28003002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030270160121"
+      ],
+      [
+        "o040110320171"
+      ],
+      [
+        "o230050100091"
+      ],
+      [
+        "o260450110082"
+      ],
+      [
+        "o260450110112"
+      ],
+      [
+        "o260450110142"
+      ],
+      [
+        "o260450130072"
+      ],
+      [
+        "o260450130112"
+      ],
+      [
+        "o260450140111"
+      ],
+      [
+        "o260450140151"
+      ],
+      [
+        "o280030020062"
+      ],
+      [
+        "o280030020082"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "place:EgyptSea",
+  "primary_id": "place:EgyptSea",
+  "alternate_sources": {
+    "obi": [
+      "a702ab6"
+    ],
+    "ubsdbh": [
+      "004314001002000"
+    ],
+    "tipnr": [
+      "Egypt_Sea@Isa.11.15"
+    ],
+    "vizbible": [
+      "recnnLINGsvjE1tsS"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004314001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sea of Egypt",
+      "alternate_labels": [
+        "Gulf of Suez",
+        "Egyptian Sea",
+        "Red Sea"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:SeaOfEgypt",
+          "gloss": "Sea of Egypt",
+          "description": "Possibly a reference to the Red Sea which is shaped like a tongue; literally \"sea of Egypt.\""
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:RedSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מִצְרַיִם",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "body of water",
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "sea"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "27.088473",
+      "lon": "34.771729"
+    },
+    "vizbible": {
+      "lat": "27.088473",
+      "lon": "34.771729"
+    }
+  },
+  "key_references": [
+    "23011015"
+  ],
+  "references": [
+    "23011015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230110150061"
+      ]
+    ]
+  }
+}

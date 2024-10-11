@@ -1,0 +1,35 @@
+{
+  "id": "place:Nicomedia",
+  "primary_id": "place:Nicomedia",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nicomedia",
+          "gloss": "Nicomedia",
+          "description": "A city in the province of Bithynia; modern-day Izmit, Turkey."
+        }
+      ],
+      "preferred_label": "Nicomedia"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "40.76519",
+      "lon": "29.91989"
+    }
+  }
+}

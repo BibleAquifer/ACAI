@@ -1,0 +1,84 @@
+{
+  "id": "place:Zobah-hamath",
+  "primary_id": "place:Zobah",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006142001001000",
+      "002372001001000"
+    ],
+    "tipnr": [
+      "Zobah-Hamath|Zobah@1Sa.14.47-2Ch"
+    ],
+    "vizbible": [
+      "recluhQrl8PcgaXJJ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006142001001000",
+    "002372001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zobah-hamath",
+      "alternate_labels": [
+        "Hamath",
+        "Zobah",
+        "vicinity of Hamath",
+        "Hamath Zobah",
+        "Hamath-zobah",
+        "Zobah unto Hamath"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Zobah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲמָת",
+      "ה",
+      "חֲמַת רַבָּה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special",
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.312571",
+      "lon": "36.925484"
+    },
+    "vizbible": {
+      "lat": "34.312571",
+      "lon": "36.925484"
+    }
+  },
+  "key_references": [
+    "13018003",
+    "14008003"
+  ],
+  "references": [
+    "13018003",
+    "14008003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130180030061",
+        "o130180030071"
+      ]
+    ]
+  }
+}

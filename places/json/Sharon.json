@@ -1,0 +1,87 @@
+{
+  "id": "place:Sharon",
+  "primary_id": "place:Sharon",
+  "alternate_sources": {
+    "aquifer": [
+      "8296|Sharon|TyndaleBibleDictionary",
+      "27079|Sharon|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007633001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2149738"
+    ],
+    "tipnr": [
+      "Sharon@1Ch.5.16"
+    ],
+    "vizbible": [
+      "recDSliISwQHk79qr"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007633001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sharon (of Gad)",
+      "alternate_labels": [
+        "Sharon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sharon.2",
+          "gloss": "Sharon (of Gad)",
+          "description": "An area of pasturelands in the territory of Gad."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Gad",
+  "subregion_of": [
+    "place:TerritoryOfGad"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.41615982399708",
+      "lon": "35.85725617635589"
+    },
+    "recogito": {
+      "lat": "-24.87593",
+      "lon": "152.26994"
+    },
+    "vizbible": {
+      "lat": "33.41615982399708",
+      "lon": "35.85725617635589"
+    }
+  },
+  "key_references": [
+    "13005016"
+  ],
+  "references": [
+    "13005016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050160071"
+      ]
+    ]
+  }
+}

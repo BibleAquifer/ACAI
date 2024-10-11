@@ -1,0 +1,77 @@
+{
+  "id": "place:Telassar",
+  "primary_id": "place:Telassar",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007812001001000"
+    ],
+    "tipnr": [
+      "Telassar@2Ki.19.12-Isa"
+    ],
+    "vizbible": [
+      "reckMtGITvZc8u1bI"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007812001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Telassar",
+      "alternate_labels": [
+        "Thelasar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Telassar",
+          "gloss": "Telassar",
+          "description": "A land conquered by the king of Assyria."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.18919123705116",
+      "lon": "48.25788647687722"
+    },
+    "vizbible": {
+      "lat": "32.18919123705116",
+      "lon": "48.25788647687722"
+    }
+  },
+  "key_references": [
+    "23037012",
+    "12019012"
+  ],
+  "references": [
+    "12019012",
+    "23037012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120190120162"
+      ],
+      [
+        "o230370120162"
+      ]
+    ]
+  }
+}

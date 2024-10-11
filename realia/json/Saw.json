@@ -1,0 +1,59 @@
+{
+  "id": "realia:Saw",
+  "primary_id": "realia:Saw",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004468001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.12.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004468001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Saw",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Saw",
+          "article": "realia:Saw",
+          "description": "A flat tool with a serrated edge, used for cutting objects in two, made of either hard stone or metal."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַשֹּׂור"
+    ]
+  },
+  "key_references": [
+    "58011037",
+    "10020031",
+    "11007009"
+  ],
+  "references": [
+    "23010015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230100150082"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230100150102"
+      ]
+    ]
+  }
+}

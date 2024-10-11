@@ -1,0 +1,71 @@
+{
+  "id": "person:Shomer.2",
+  "primary_id": "person:Shomer.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8446|Shomer|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shemer|Shomer@1Ch.7.32-",
+      "Shomer@1Ch.7.32-"
+    ],
+    "vizbible": [
+      "rec8vBEJleQImQwKA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Heber",
+  "offspring": [
+    "person:Ahi.2",
+    "person:Rohgah",
+    "person:Jehubbah",
+    "person:Aram.3"
+  ],
+  "siblings": [
+    "person:Japhlet",
+    "person:Hotham",
+    "person:Shua.2"
+  ],
+  "tribe": "group:Asher",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shomer (1 Chronicles 7:32)",
+      "alternate_labels": [
+        "Shamer",
+        "Shemer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shomer (1 Chronicles 7:32)",
+          "article": "person:Shomer.2",
+          "description": "Shomer, also called Shamer or Shemer, was a man of the tribe of Asher living before Israel's Monarchy, first mentioned in 1 Chronicles 7:32."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shemer.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007032",
+    "13007034"
+  ],
+  "references": [
+    "13007032",
+    "13007034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070320061"
+      ],
+      [
+        "o130070340021"
+      ]
+    ]
+  }
+}

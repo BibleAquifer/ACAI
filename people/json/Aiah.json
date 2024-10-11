@@ -1,0 +1,69 @@
+{
+  "id": "person:Aiah",
+  "primary_id": "person:Aiah",
+  "alternate_sources": {
+    "aquifer": [
+      "3473|Aiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000322002001000"
+    ],
+    "tipnr": [
+      "Aiah@Gen.36.24-1Ch"
+    ],
+    "vizbible": [
+      "recVAJtqZaVmlvha3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zibeon.2",
+  "siblings": [
+    "person:Anah.3"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "000322002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aiah",
+      "alternate_labels": [
+        "Ajah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aiah",
+          "article": "person:Aiah",
+          "description": "A man from the time of the patriarchs, son of Zibeon and brother of Anah, mentioned in Genesis 36:24."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַיָּה"
+    ]
+  },
+  "key_references": [
+    "01036024",
+    "13001040"
+  ],
+  "references": [
+    "01036024",
+    "13001040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360240042"
+      ],
+      [
+        "o130010400101"
+      ]
+    ]
+  }
+}

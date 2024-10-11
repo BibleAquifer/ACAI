@@ -1,0 +1,94 @@
+{
+  "id": "place:Halah",
+  "primary_id": "place:Halah",
+  "alternate_sources": {
+    "aquifer": [
+      "5603|Halah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002287001001000"
+    ],
+    "tipnr": [
+      "Halah@2Ki.17.6-1Ch"
+    ],
+    "vizbible": [
+      "recmMd8e4NhBbEixF"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002287001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Halah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Halah",
+          "gloss": "Halah",
+          "description": "A location along the Habor River in Assyria; one of the places where the exiles from Samaria were relocated."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Assyria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲלַח"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.344972",
+      "lon": "40.789333"
+    },
+    "vizbible": {
+      "lat": "36.344972",
+      "lon": "40.789333"
+    }
+  },
+  "key_references": [
+    "12017006",
+    "13005026"
+  ],
+  "references": [
+    "12017006",
+    "12018011",
+    "13005026",
+    "31001020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120170060152"
+      ],
+      [
+        "o120180110082"
+      ],
+      [
+        "o130050260222"
+      ]
+    ]
+  }
+}

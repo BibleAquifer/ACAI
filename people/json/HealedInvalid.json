@@ -1,0 +1,97 @@
+{
+  "id": "person:HealedInvalid",
+  "primary_id": "person:HealedInvalid",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Healed Invalid",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Healed Invalid",
+          "description": "An invalid healed by Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "43005005",
+    "43005007",
+    "43005010"
+  ],
+  "references": [
+    "43005005",
+    "43005007",
+    "43005010"
+  ],
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43005010006"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43005005004"
+      ],
+      [
+        "n43005007004"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "whining",
+        "quote_type": "Dialogue",
+        "words": [
+          "n43005007005",
+          "n43005007006",
+          "n43005007007",
+          "n43005007008",
+          "n43005007009",
+          "n43005007010",
+          "n43005007011",
+          "n43005007012",
+          "n43005007013",
+          "n43005007014",
+          "n43005007015",
+          "n43005007016",
+          "n43005007017",
+          "n43005007018",
+          "n43005007019",
+          "n43005007020",
+          "n43005007021",
+          "n43005007022",
+          "n43005007023",
+          "n43005007024",
+          "n43005007025",
+          "n43005007026",
+          "n43005007027"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n43005011005",
+          "n43005011006",
+          "n43005011007",
+          "n43005011008",
+          "n43005011009",
+          "n43005011010",
+          "n43005011011",
+          "n43005011012",
+          "n43005011013",
+          "n43005011014",
+          "n43005011015",
+          "n43005011016",
+          "n43005011017"
+        ]
+      }
+    ]
+  }
+}

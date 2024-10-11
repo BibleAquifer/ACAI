@@ -1,0 +1,82 @@
+{
+  "id": "place:Beth-haggan",
+  "primary_id": "place:Beth-haggan",
+  "alternate_sources": {
+    "aquifer": [
+      "4178|Beth-Haggan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000946001001000"
+    ],
+    "tipnr": [
+      "Beth-haggan@2Ki.9.27"
+    ],
+    "vizbible": [
+      "recibyUU35wwn74aM"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000946001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-haggan",
+      "alternate_labels": [
+        "garden house",
+        "Beth-Haggen"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-haggan",
+          "gloss": "Beth-Haggan",
+          "description": "A town toward which King Ahaziah of Judah fled from King Jehu of Israel (2 Kings 9:27)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית הַגָּן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.58418313614938",
+      "lon": "35.18229165870594"
+    },
+    "vizbible": {
+      "lat": "32.58418313614938",
+      "lon": "35.18229165870594"
+    }
+  },
+  "key_references": [
+    "12009027"
+  ],
+  "references": [
+    "12009027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120090270071",
+        "o120090270081"
+      ]
+    ]
+  }
+}

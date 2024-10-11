@@ -1,0 +1,86 @@
+{
+  "id": "person:Talmon",
+  "primary_id": "person:Talmon",
+  "alternate_sources": {
+    "aquifer": [
+      "8723|Talmon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002696001001000"
+    ],
+    "tipnr": [
+      "Talmon@1Ch.9.17-Neh"
+    ],
+    "vizbible": [
+      "recc2ghkVMcBhv8Ra"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002696001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Talmon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Talmon",
+          "article": "person:Talmon",
+          "description": "A Levite and temple gatekeeper who lived during the time of the Israelite exile and return."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "טַלְמֹון",
+      "טַלְמוֹן"
+    ]
+  },
+  "key_references": [
+    "13009017",
+    "15002042",
+    "16011019"
+  ],
+  "references": [
+    "13009017",
+    "15002042",
+    "16007045",
+    "16011019",
+    "16012025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090170042"
+      ],
+      [
+        "o150020420081"
+      ],
+      [
+        "o160070450071"
+      ],
+      [
+        "o160110190031"
+      ],
+      [
+        "o160120250051"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130090180061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "place:Zereth-shahar",
+  "primary_id": "place:Zereth-shahar",
+  "alternate_sources": {
+    "aquifer": [
+      "9197|Zereth-Shahar|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a31a510"
+    ],
+    "ubsdbh": [
+      "006343001001000"
+    ],
+    "tipnr": [
+      "Zereth-shahar@Jos.13.19"
+    ],
+    "vizbible": [
+      "recmitDCfzrDlCc2P"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q8066732"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006343001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zereth-shahar",
+      "alternate_labels": [
+        "Zareth-shahar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zereth-shahar",
+          "gloss": "Zereth-Shahar",
+          "description": "A town in the territory of Reuben."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Reuben",
+  "subregion_of": [
+    "place:TerritoryOfReuben"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "צָרְתָן",
+      "צָֽרְתָן",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.616962",
+      "lon": "35.567522"
+    },
+    "vizbible": {
+      "lat": "31.616962",
+      "lon": "35.567522"
+    }
+  },
+  "key_references": [
+    "06013019"
+  ],
+  "references": [
+    "06013019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060130190032",
+        "o060130190041"
+      ]
+    ]
+  }
+}

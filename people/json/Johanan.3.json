@@ -1,0 +1,81 @@
+{
+  "id": "person:Johanan.3",
+  "primary_id": "person:Johanan.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6406|Johanan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002825001005000"
+    ],
+    "tipnr": [
+      "Johanan@1Ch.12.12"
+    ],
+    "vizbible": [
+      "recOfc9s3pL0aFmR4"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Warrior"
+  ],
+  "ubsdbh": [
+    "002825001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Johanan (1 Chronicles 12:12)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Johanan (1 Chronicles 12:12)",
+          "article": "person:Johanan.3",
+          "description": "A Gadite warrior during King David's time, mentioned in 1 Chronicles 12:12."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹוחָנָן",
+      "יְהוֹחָנָן"
+    ]
+  },
+  "key_references": [
+    "13012013"
+  ],
+  "references": [
+    "13012013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130120130011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130120150011"
+      ],
+      [
+        "o130120160011",
+        "o130120160021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130120160041"
+      ],
+      [
+        "o130120160152"
+      ]
+    ]
+  }
+}

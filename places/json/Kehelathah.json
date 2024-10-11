@@ -1,0 +1,83 @@
+{
+  "id": "place:Kehelathah",
+  "primary_id": "place:Kehelathah",
+  "alternate_sources": {
+    "aquifer": [
+      "6533|Kehelathah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006402001001000"
+    ],
+    "tipnr": [
+      "Kehelathah@Num.33.22-"
+    ],
+    "vizbible": [
+      "rec3uZ7bhZR9JTNnI"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006402001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kehelathah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kehelathah",
+          "gloss": "Kehelathah",
+          "description": "A location in the Sinai Peninsula, between Rissah and Mount Shepher, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "קְהָת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite",
+      "settlement"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    },
+    "vizbible": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    }
+  },
+  "key_references": [
+    "04033023",
+    "04033022"
+  ],
+  "references": [
+    "04033022",
+    "04033023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330220042"
+      ],
+      [
+        "o040330230022"
+      ]
+    ]
+  }
+}

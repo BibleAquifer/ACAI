@@ -1,0 +1,127 @@
+{
+  "id": "place:Laodicea",
+  "primary_id": "place:Laodicea",
+  "alternate_sources": {
+    "aquifer": [
+      "6679|Laodicea, Laodiceans|TyndaleBibleDictionary",
+      "132108|Laodicea|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a83fb1e"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21162"
+    ],
+    "tipnr": [
+      "Laodicea@Col.2.1-Rev"
+    ],
+    "vizbible": [
+      "rec2RzCd7Fs9wI07g"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q849709"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Laodicea",
+      "alternate_labels": [
+        "Laodicean",
+        "Laodiceans"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Laodicea",
+          "gloss": "Laodicea",
+          "description": "A city in Phrygia in Asia Minor near Colossae and Hierapolis; one of the seven cities addressed in Revelation."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Laodicea"
+  ],
+  "nearby_places": [
+    "place:Colossae",
+    "place:Hierapolis"
+  ],
+  "subregion_of": [
+    "place:Asia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.76986724",
+      "lon": "29.0645011"
+    },
+    "recogito": {
+      "lat": "37.83692",
+      "lon": "29.10786"
+    },
+    "vizbible": {
+      "lat": "37.83692",
+      "lon": "29.10786"
+    },
+    "biblica-maps": {
+      "lat": "37.83594",
+      "lon": "29.10739"
+    }
+  },
+  "key_references": [
+    "66001011",
+    "66003014",
+    "51004015"
+  ],
+  "references": [
+    "51002001",
+    "51004013",
+    "51004015",
+    "51004016",
+    "54006021",
+    "66001011",
+    "66003014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n51002001013"
+      ],
+      [
+        "n51004013013"
+      ],
+      [
+        "n51004015004"
+      ],
+      [
+        "n51004016013"
+      ],
+      [
+        "n51004016019"
+      ],
+      [
+        "n66001011031"
+      ],
+      [
+        "n66003014006"
+      ]
+    ]
+  }
+}

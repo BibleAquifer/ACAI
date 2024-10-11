@@ -1,0 +1,68 @@
+{
+  "id": "person:Ibsam",
+  "primary_id": "person:Ibsam",
+  "alternate_sources": {
+    "aquifer": [
+      "5979|Ibsam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002766001001000"
+    ],
+    "tipnr": [
+      "Ibsam@1Ch.7.2"
+    ],
+    "vizbible": [
+      "recnTketelfDR6oCN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Tola",
+  "siblings": [
+    "person:Uzzi.2",
+    "person:Rephaiah.4",
+    "person:Jeriel",
+    "person:Jahmai",
+    "person:Shemuel.2"
+  ],
+  "tribe": "group:Issachar",
+  "ubsdbh": [
+    "002766001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ibsam",
+      "alternate_labels": [
+        "Jibsam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ibsam",
+          "article": "person:Ibsam",
+          "description": "A man from the tribe of Issachar, son of Tola, living during the time of Egypt and wilderness, mentioned in 1 Chronicles 7:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִבְשָׂם"
+    ]
+  },
+  "key_references": [
+    "13007002"
+  ],
+  "references": [
+    "13007002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070020072"
+      ]
+    ]
+  }
+}

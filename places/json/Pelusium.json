@@ -1,0 +1,98 @@
+{
+  "id": "place:Pelusium",
+  "primary_id": "place:Pelusium",
+  "alternate_sources": {
+    "aquifer": [
+      "7639|Pelusium|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aa32a17"
+    ],
+    "ubsdbh": [
+      "005050001002000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/727192",
+      "http://pleiades.stoa.org/places/727192"
+    ],
+    "tipnr": [
+      "Pelusium@Ezk.30.15-"
+    ],
+    "vizbible": [
+      "recIwC1OFvfA7JcTC"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1145715"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005050001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pelusium",
+      "alternate_labels": [
+        "Sin",
+        "Syene"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pelusium",
+          "gloss": "Pelusium",
+          "description": "A town located at the north-eastern border of Egypt (ABD)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.838778",
+      "lon": "33.420573"
+    },
+    "recogito": {
+      "lat": "31.042265",
+      "lon": "32.540631"
+    },
+    "vizbible": {
+      "lat": "28.838778",
+      "lon": "33.420573"
+    }
+  },
+  "key_references": [
+    "26030015",
+    "26030016"
+  ],
+  "references": [
+    "26030015",
+    "26030016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260300150041"
+      ],
+      [
+        "o260300160071"
+      ]
+    ]
+  }
+}

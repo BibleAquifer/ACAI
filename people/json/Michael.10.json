@@ -1,0 +1,61 @@
+{
+  "id": "person:Michael.10",
+  "primary_id": "person:Michael.10",
+  "alternate_sources": {
+    "aquifer": [
+      "7109|Michael|TyndaleBibleDictionary",
+      "26875|Michael|UWTranslationWords",
+      "132511|Michael|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003945001010000"
+    ],
+    "tipnr": [
+      "Michael@Ezr.8.8"
+    ],
+    "vizbible": [
+      "rec7QmPsFbT0d8BuE"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Zebadiah.8"
+  ],
+  "ubsdbh": [
+    "003945001010000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Michael (Ezra 8:8)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Michael (Ezra 8:8)",
+          "article": "person:Michael.10",
+          "description": "Michael was a man living during the time of exile and return, mentioned in Ezra 8:8 as the father of Zebadiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִיכָאֵל"
+    ]
+  },
+  "key_references": [
+    "15008008"
+  ],
+  "references": [
+    "15008008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150080080051"
+      ]
+    ]
+  }
+}

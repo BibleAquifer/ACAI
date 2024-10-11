@@ -1,0 +1,86 @@
+{
+  "id": "place:Mearah",
+  "primary_id": "place:Mearah",
+  "alternate_sources": {
+    "aquifer": [
+      "6999|Mearah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a8c3105"
+    ],
+    "ubsdbh": [
+      "004239001001000 004239002001000"
+    ],
+    "tipnr": [
+      "Mearah@Jos.13.4"
+    ],
+    "vizbible": [
+      "recln9jxcYWYcX7f4"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004239001001000 004239002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mearah",
+      "alternate_labels": [
+        "Arah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mearah",
+          "gloss": "Mearah",
+          "description": "A location between Tyre and Sidon included in a list of places that the Israelites had yet been unable to conquer."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Tyre",
+    "place:Sidon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.633333",
+      "lon": "35.433333"
+    },
+    "vizbible": {
+      "lat": "33.633333",
+      "lon": "35.433333"
+    }
+  },
+  "key_references": [
+    "06013004"
+  ],
+  "references": [
+    "06013004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060130040052"
+      ]
+    ]
+  }
+}

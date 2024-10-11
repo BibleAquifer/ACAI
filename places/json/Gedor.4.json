@@ -1,0 +1,43 @@
+{
+  "id": "place:Gedor.4",
+  "primary_id": "place:Gedor.4",
+  "alternate_sources": {
+    "aquifer": [
+      "5403|Gedor (Place)|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gedor.4",
+          "gloss": "Gedor (of Benjamin)",
+          "description": "A town in the territory of Benjamin."
+        }
+      ],
+      "preferred_label": "Gedor (of Benjamin)",
+      "alternate_labels": [
+        "Gedor"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "13012008"
+  ]
+}

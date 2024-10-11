@@ -1,0 +1,110 @@
+{
+  "id": "place:Ibleam",
+  "primary_id": "place:Ibleam",
+  "alternate_sources": {
+    "aquifer": [
+      "5975|Ibleam|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a878d66"
+    ],
+    "tipnr": [
+      "Gath-rimmon|Ibleam@Jos.17.11-1Ch",
+      "Bileam|Ibleam@Jos.17.11-1Ch",
+      "Ibleam@Jos.17.11-1Ch"
+    ],
+    "vizbible": [
+      "rec91Z7a1D7vQHOgk"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ibleam",
+      "alternate_labels": [
+        "before the people",
+        "Bileam",
+        "Gath-Rimmon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ibleam",
+          "gloss": "Ibleam",
+          "description": "A town in the territory of Manasseh, also known as Bileam; one of the Levitical cities of refuge assigned to the clan of Kohath (Numbers 14:45). "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Bileam",
+    "place:Gath-rimmon.2"
+  ],
+  "tribal_area": "group:Manasseh",
+  "subregion_of": [
+    "place:TerritoryOfWestManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.45",
+      "lon": "35.2833"
+    },
+    "vizbible": {
+      "lat": "32.45",
+      "lon": "35.2833"
+    }
+  },
+  "key_references": [
+    "07001027",
+    "13006055"
+  ],
+  "references": [
+    "06017011",
+    "06021025",
+    "07001027",
+    "12009027",
+    "12015010",
+    "13006055"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060170110082"
+      ],
+      [
+        "o060210250091",
+        "o060210250101"
+      ],
+      [
+        "o070010270211"
+      ],
+      [
+        "o120090270221"
+      ],
+      [
+        "o120150100071",
+        "o120150100081"
+      ],
+      [
+        "o130060550091"
+      ]
+    ]
+  }
+}

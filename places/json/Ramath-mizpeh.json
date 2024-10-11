@@ -1,0 +1,89 @@
+{
+  "id": "place:Ramath-mizpeh",
+  "primary_id": "place:Ramath-mizpeh",
+  "alternate_sources": {
+    "aquifer": [
+      "7926|Ramath-Mizpeh|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a63c954"
+    ],
+    "ubsdbh": [
+      "004308002003000"
+    ],
+    "tipnr": [
+      "Ramath-mizpeh@Jos.13.26-Hos"
+    ],
+    "vizbible": [
+      "recQ31KLebB8uVNzM"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004308002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ramath-mizpeh",
+      "alternate_labels": [
+        "Ramath Mizpah",
+        "Ramah-Mizpeh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ramath-mizpeh",
+          "gloss": "Ramath-Mizpeh",
+          "description": "A location in the territory of Gad."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Gad",
+  "subregion_of": [
+    "place:TerritoryOfGad"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מִצְפֶּה",
+      "רָמַת הַמִּצְפֶּה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.56526757",
+      "lon": "36.00555931"
+    },
+    "vizbible": {
+      "lat": "32.56526757",
+      "lon": "36.00555931"
+    }
+  },
+  "key_references": [
+    "06013026"
+  ],
+  "references": [
+    "06013026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060130260042"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "place:Baal-shalishah",
+  "primary_id": "place:Baal-shalishah",
+  "alternate_sources": {
+    "aquifer": [
+      "3946|Baal-Shalishah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001093001001000"
+    ],
+    "tipnr": [
+      "Baal-shalishah@2Ki.4.42"
+    ],
+    "vizbible": [
+      "rec9Q74CAtexwY56Y"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001093001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baal-shalishah",
+      "alternate_labels": [
+        "Baal-Shalisha"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baal-shalishah",
+          "gloss": "Baal-Shalishah",
+          "description": "A town in the territory of Ephraim, probably located in the region of Shalishah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בַּעַל שָׁלִשָׁה",
+      "בַּ֫עַל שָׁלִשָׁה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.029737",
+      "lon": "35.222604"
+    },
+    "vizbible": {
+      "lat": "32.029737",
+      "lon": "35.222604"
+    }
+  },
+  "key_references": [
+    "12004042"
+  ],
+  "references": [
+    "12004042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120040420032",
+        "o120040420041"
+      ]
+    ]
+  }
+}

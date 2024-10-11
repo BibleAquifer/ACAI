@@ -1,0 +1,166 @@
+{
+  "id": "realia:Seal",
+  "primary_id": "realia:Seal",
+  "alternate_sources": {
+    "aquifer": [
+      "8181|Seal|TyndaleBibleDictionary",
+      "27064|Seal|UWTranslationWords",
+      "132468|Seal|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "6.190",
+      "6.55",
+      "6.54",
+      "6.62",
+      "33.483",
+      "33.47",
+      "6.191"
+    ],
+    "ubsrealia": [
+      "realia:10.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.190",
+    "6.55",
+    "6.54",
+    "6.62",
+    "33.483",
+    "33.47",
+    "6.191"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seal",
+      "alternate_labels": [
+        "Mark",
+        "Ring",
+        "To Seal",
+        "To Put a Seal On",
+        "To Make Secure",
+        "Signet",
+        "Inscription",
+        "Wearing a Gold Ring",
+        "Signet Ring"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seal",
+          "article": "realia:Seal",
+          "description": "A ring or object used to make a mark that shows ownership or approval, usually by pressing into wax."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δακτύλιος",
+      "σφραγίζω",
+      "σφραγίς",
+      "σφραγίς",
+      "σφραγίς",
+      "σφραγίς",
+      "χρυσοδακτύλιος"
+    ]
+  },
+  "key_references": [
+    "01038018",
+    "17008008",
+    "40027066",
+    "66005001"
+  ],
+  "references": [
+    "40027066",
+    "42015022",
+    "55002019",
+    "59002002",
+    "66005001",
+    "66005002",
+    "66005005",
+    "66005009",
+    "66006001",
+    "66006003",
+    "66006005",
+    "66006007",
+    "66006009",
+    "66006012",
+    "66007002",
+    "66008001",
+    "66009004",
+    "66010004",
+    "66020003",
+    "66022010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42015022019"
+      ],
+      [
+        "n40027066007"
+      ],
+      [
+        "n66010004016"
+      ],
+      [
+        "n66020003010"
+      ],
+      [
+        "n66022010005"
+      ],
+      [
+        "n66007002010"
+      ],
+      [
+        "n66005001017"
+      ],
+      [
+        "n66005002017"
+      ],
+      [
+        "n66005005028"
+      ],
+      [
+        "n66005009014"
+      ],
+      [
+        "n66006001011"
+      ],
+      [
+        "n66006003005"
+      ],
+      [
+        "n66006005005"
+      ],
+      [
+        "n66006007005"
+      ],
+      [
+        "n66006009006"
+      ],
+      [
+        "n66006012006"
+      ],
+      [
+        "n66008001005"
+      ],
+      [
+        "n55002019010"
+      ],
+      [
+        "n66009004025"
+      ],
+      [
+        "n55002019010"
+      ],
+      [
+        "n59002002008"
+      ]
+    ]
+  }
+}

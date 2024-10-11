@@ -1,0 +1,76 @@
+{
+  "id": "person:Hoshea.4",
+  "primary_id": "person:Joshua.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5921|Hoshea|TyndaleBibleDictionary",
+      "26711|Hoshea|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "001797001001000"
+    ],
+    "tipnr": [
+      "Hoshea|Joshua@Exo.17.9-Heb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nun",
+  "roles": [
+    "Army Commander",
+    "Warrior",
+    "Tribal Chief"
+  ],
+  "tribe": "group:Ephraim",
+  "ubsdbh": [
+    "001797001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hoshea (Joshua)",
+      "alternate_labels": [
+        "Joshua (Son of Nun)",
+        "Oshea",
+        "Joshua",
+        "Jehoshua"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joshua (Son of Nun)",
+          "article": "person:Hoshea.4",
+          "description": "Hoshea, also known as Joshua or Jeshua, was the son of Nun from the tribe of Ephraim, who succeeded Moses and led Israel into Canaan."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Joshua.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֹושֵׁעַ",
+      "הוֹשֵׁעַ"
+    ]
+  },
+  "key_references": [
+    "04013008",
+    "04013016"
+  ],
+  "references": [
+    "04013008",
+    "04013016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130080031"
+      ],
+      [
+        "o040130160122"
+      ]
+    ]
+  }
+}

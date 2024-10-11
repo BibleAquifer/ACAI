@@ -1,0 +1,44 @@
+{
+  "id": "person:HusbandOfMary.2",
+  "primary_id": "person:HusbandOfMary.2",
+  "alternate_sources": {
+    "tipnr": [
+      "husband_of_Mary@Mat.27.56-Act"
+    ],
+    "vizbible": [
+      "rec8Z7vWWsitSvAKJ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Mary.2"
+  ],
+  "offspring": [
+    "person:Mark"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Husband of Mary (Matthew 27:56)",
+      "alternate_labels": [
+        "Mary"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Husband of Mary (Matthew 27:56)",
+          "article": "person:HusbandOfMary.2",
+          "description": "The unnamed husband of Mary and father of Mark, who lived during the time of the New Testament."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44012012"
+  ],
+  "references": [
+    "44012012"
+  ]
+}

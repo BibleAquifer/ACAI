@@ -1,0 +1,71 @@
+{
+  "id": "person:Heldai",
+  "primary_id": "person:Heldai",
+  "alternate_sources": {
+    "aquifer": [
+      "5773|Heldai|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Helem|Heldai@Zec.6.10-",
+      "Heldai@Zec.6.10-"
+    ],
+    "vizbible": [
+      "rec2s9Py10gFD1PHQ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heldai",
+      "alternate_labels": [
+        "Helem",
+        "Jedaiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Heldai",
+          "article": "person:Heldai",
+          "description": "Heldai, also known as Jedaiah and Helem, was a man living during the time of exile and return, first mentioned in Zechariah 6:10."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Helem"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "38006010",
+    "38006014"
+  ],
+  "references": [
+    "38006010",
+    "38006014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o380060100042"
+      ],
+      [
+        "o380060140032"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o380060100191"
+      ],
+      [
+        "o380060150062"
+      ],
+      [
+        "o380060150151"
+      ]
+    ]
+  }
+}

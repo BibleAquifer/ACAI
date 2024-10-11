@@ -1,0 +1,91 @@
+{
+  "id": "place:NewGate",
+  "primary_id": "place:NewGate",
+  "alternate_sources": {
+    "aquifer": [
+      "7381|New Gate|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002144001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/4751839"
+    ],
+    "tipnr": [
+      "New_Gate@Jer.26.10-"
+    ],
+    "vizbible": [
+      "recu5RJXSosEdwMwl"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002144001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "New Gate",
+      "alternate_labels": [
+        " Gate",
+        "New"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:NewGate",
+          "gloss": "New Gate",
+          "description": "A gate of the temple in Jerusalem in the days of Jeremiah."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "38.84039",
+      "lon": "-77.42888"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "24026010",
+    "24036010"
+  ],
+  "references": [
+    "24026010",
+    "24036010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240260100162"
+      ],
+      [
+        "o240360100202"
+      ]
+    ]
+  }
+}

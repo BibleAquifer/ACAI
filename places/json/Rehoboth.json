@@ -1,0 +1,88 @@
+{
+  "id": "place:Rehoboth",
+  "primary_id": "place:Rehoboth",
+  "alternate_sources": {
+    "aquifer": [
+      "7983|Rehoboth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006746001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3353540"
+    ],
+    "tipnr": [
+      "Rehoboth@Gen.26.22"
+    ],
+    "vizbible": [
+      "recoBlOCXvzVsT1pS"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006746001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rehoboth (Well)",
+      "alternate_labels": [
+        "Rehoboth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rehoboth.1",
+          "gloss": "Rehoboth (Well)",
+          "description": "A well, dug by herdsmen of Isaac, which, unlike the wells of Esek and Sitnah, did not become a source of contention between them and the herdsmen of Gerar."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "רְחַבְיָה",
+      "רְחַבְיָהוּ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "well"
+    ],
+    "acai": [
+      "well"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.066829",
+      "lon": "34.59783"
+    },
+    "recogito": {
+      "lat": "-23.317",
+      "lon": "17.09"
+    },
+    "vizbible": {
+      "lat": "31.066829",
+      "lon": "34.59783"
+    }
+  },
+  "key_references": [
+    "01026022"
+  ],
+  "references": [
+    "01026022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010260220111"
+      ]
+    ]
+  }
+}

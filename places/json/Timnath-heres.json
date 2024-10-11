@@ -1,0 +1,97 @@
+{
+  "id": "place:Timnath-heres",
+  "primary_id": "place:Timnath-heres",
+  "alternate_sources": {
+    "aquifer": [
+      "8849|Timnath-Heres, Timnath-Serah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6e6528"
+    ],
+    "tipnr": [
+      "Timnath-heres@Jdg.2.9-Jdg",
+      "Timnath-serah|Timnath-heres@Jdg.2.9-Jdg"
+    ],
+    "vizbible": [
+      "recVJJVSqbm0DBuEb"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2157993"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Timnath-heres",
+      "alternate_labels": [
+        "Timnath-Serah",
+        "Timnah-heres"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Timnath-heres",
+          "gloss": "Timnath-Heres",
+          "description": "A town in the territory of Ephraim; also known as Timnath-Serah. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Timnath-serah"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.121473",
+      "lon": "35.150392"
+    },
+    "vizbible": {
+      "lat": "32.121473",
+      "lon": "35.150392"
+    }
+  },
+  "key_references": [
+    "06024030",
+    "06019050",
+    "07002009"
+  ],
+  "references": [
+    "06019050",
+    "06024030",
+    "07002009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190500111",
+        "o060190500121"
+      ],
+      [
+        "o060240300052",
+        "o060240300061"
+      ],
+      [
+        "o070020090052",
+        "o070020090061"
+      ]
+    ]
+  }
+}

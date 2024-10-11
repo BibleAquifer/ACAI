@@ -1,0 +1,63 @@
+{
+  "id": "person:Pithon",
+  "primary_id": "person:Pithon",
+  "alternate_sources": {
+    "aquifer": [
+      "7754|Pithon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005857001001000"
+    ],
+    "tipnr": [
+      "Pithon@1Ch.8.35-"
+    ],
+    "vizbible": [
+      "recppHIZBVV53GS57"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Micah.2",
+  "siblings": [
+    "person:Melech",
+    "person:Tarea",
+    "person:Ahaz.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005857001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pithon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pithon",
+          "article": "person:Pithon",
+          "description": "Pithon was a man of the tribe of Benjamin living during the time of Israel's united kingdom, mentioned in 1 Chronicles 8:35."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008035",
+    "13009041"
+  ],
+  "references": [
+    "13008035",
+    "13009041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080350031"
+      ],
+      [
+        "o130090410031"
+      ]
+    ]
+  }
+}

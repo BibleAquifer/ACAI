@@ -1,0 +1,83 @@
+{
+  "id": "person:Rehabiah",
+  "primary_id": "person:Rehabiah",
+  "alternate_sources": {
+    "aquifer": [
+      "7980|Rehabiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006747001001000",
+      "006748001001000"
+    ],
+    "tipnr": [
+      "Rehabiah@1Ch.23.17-"
+    ],
+    "vizbible": [
+      "recVZflYlLvF37G0Q"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eliezer.3",
+  "offspring": [
+    "person:Isshiah.4"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "006747001001000",
+    "006748001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rehabiah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rehabiah",
+          "article": "person:Rehabiah",
+          "description": "Grandson of Moses, son of Eliezer, and father of Isshiah. He was chief of the clan of Eliezer."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "רְחַבְיָהוּ",
+      "רְחַבְעָם"
+    ]
+  },
+  "key_references": [
+    "13023017",
+    "13024021",
+    "13026025"
+  ],
+  "references": [
+    "13023017",
+    "13024021",
+    "13026025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230170041"
+      ],
+      [
+        "o130230170121"
+      ],
+      [
+        "o130240210012"
+      ],
+      [
+        "o130240210031"
+      ],
+      [
+        "o130260250031"
+      ]
+    ]
+  }
+}

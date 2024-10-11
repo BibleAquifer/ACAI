@@ -1,0 +1,75 @@
+{
+  "id": "deity:Amon",
+  "primary_id": "deity:Amon",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000486003001000",
+      "000486003001000 004579001001000"
+    ],
+    "tipnr": [
+      "Amon@Jer.46.25-Nam"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "000486003001000",
+    "000486003001000 004579001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Amon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Amon",
+          "article": "deity:Amon",
+          "description": "An Egyptian deity (Jeremiah 46:25)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָמֹון",
+      "אָמוֹן"
+    ]
+  },
+  "key_references": [
+    "24046025",
+    "34003008"
+  ],
+  "references": [
+    "24046025",
+    "34003008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240460250091"
+      ],
+      [
+        "o340030080031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o340030100021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o340030080042"
+      ],
+      [
+        "o340030100041"
+      ]
+    ]
+  }
+}

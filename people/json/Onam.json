@@ -1,0 +1,70 @@
+{
+  "id": "person:Onam",
+  "primary_id": "person:Onam",
+  "alternate_sources": {
+    "aquifer": [
+      "7493|Onam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000198001001000"
+    ],
+    "tipnr": [
+      "Onam@Gen.36.23-1Ch"
+    ],
+    "vizbible": [
+      "rec2tIpkGX4O957vf"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shobal",
+  "siblings": [
+    "person:Alvan",
+    "person:Manahath",
+    "person:Ebal",
+    "person:Shepho"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "000198001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Onam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Onam",
+          "article": "person:Onam",
+          "description": "Onam is a man from the time of the patriarchs, first mentioned in Genesis 36:23, and is the son of Shobal and grandson of Seir."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֹונָם",
+      "אוֹנָם"
+    ]
+  },
+  "key_references": [
+    "01036023",
+    "13001040"
+  ],
+  "references": [
+    "01036023",
+    "13001040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360230082"
+      ],
+      [
+        "o130010400072"
+      ]
+    ]
+  }
+}

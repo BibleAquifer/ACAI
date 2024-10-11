@@ -1,0 +1,93 @@
+{
+  "id": "place:Madmannah",
+  "primary_id": "place:Madmannah",
+  "alternate_sources": {
+    "aquifer": [
+      "6843|Madmannah (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a8661e2"
+    ],
+    "tipnr": [
+      "Madmannah@Jos.15.31-1Ch",
+      "Beth-marcaboth|Madmannah@Jos.15.31-1Ch"
+    ],
+    "vizbible": [
+      "recVaBWxUUcXkszSZ"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Madmannah",
+      "alternate_labels": [
+        "Beth-marcaboth",
+        "Beth Markaboth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Madmannah",
+          "gloss": "Madmannah",
+          "description": "A town in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Beth-marcaboth"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.391668",
+      "lon": "34.940502"
+    },
+    "vizbible": {
+      "lat": "31.391668",
+      "lon": "34.940502"
+    }
+  },
+  "key_references": [
+    "06015031",
+    "13002049"
+  ],
+  "references": [
+    "06015031",
+    "06019005",
+    "13002049",
+    "13004031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150310022"
+      ],
+      [
+        "o060190050022",
+        "o060190050031"
+      ],
+      [
+        "o130040310013",
+        "o130040310021"
+      ]
+    ]
+  }
+}

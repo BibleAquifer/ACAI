@@ -1,0 +1,85 @@
+{
+  "id": "place:Ashkenaz",
+  "primary_id": "place:Ashkenaz",
+  "alternate_sources": {
+    "aquifer": [
+      "3805|Ashkenaz|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "aec9225"
+    ],
+    "ubsdbh": [
+      "000749001002000"
+    ],
+    "tipnr": [
+      "Ashkenaz@Jer.51.27"
+    ],
+    "vizbible": [
+      "recXJMjk2NfDpNj5l"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000749001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ashkenaz",
+      "alternate_labels": [
+        "Ashchenaz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ashkenaz",
+          "gloss": "Ashkenaz",
+          "description": "A nation, probably to be identified with the Scythians, located in the area between the Black Sea and Caspian Sea; considered descendants of a person with the same name. Ashkenaz was called in a prophecy to punish Babylon."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Assyria",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַשְׁכֲּנַז",
+      "אַשְׁכְּנַז"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.6",
+      "lon": "44.6"
+    },
+    "vizbible": {
+      "lat": "40.6",
+      "lon": "44.6"
+    }
+  },
+  "key_references": [
+    "24051027"
+  ],
+  "references": [
+    "24051027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240510270152"
+      ]
+    ]
+  }
+}

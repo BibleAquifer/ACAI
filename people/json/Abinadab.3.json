@@ -1,0 +1,90 @@
+{
+  "id": "person:Abinadab.3",
+  "primary_id": "person:Abinadab.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3306|Abinadab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000040001002000"
+    ],
+    "tipnr": [
+      "Abinadab@1Sa.16.8-1Ch"
+    ],
+    "vizbible": [
+      "recrMw6oWCF0eXTjI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jesse",
+  "mother": "person:Nahash.3",
+  "siblings": [
+    "person:David",
+    "person:Eliab.3",
+    "person:Shimeah.2",
+    "person:Nethanel.2",
+    "person:Raddai",
+    "person:Ozem",
+    "person:Elihu.4",
+    "person:Zeruiah",
+    "person:Abigail.2"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000040001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abinadab (Son of Jesse)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abinadab (Son of Jesse)",
+          "article": "person:Abinadab.3",
+          "description": "Second son of Jesse, and brother of King David."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִינָדָב"
+    ]
+  },
+  "key_references": [
+    "09016008",
+    "09017013",
+    "13002013"
+  ],
+  "references": [
+    "09016008",
+    "09017013",
+    "13002013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090160080041"
+      ],
+      [
+        "o090170130191"
+      ],
+      [
+        "o130020130072"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090160080102"
+      ]
+    ]
+  }
+}

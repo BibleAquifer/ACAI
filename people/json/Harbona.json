@@ -1,0 +1,94 @@
+{
+  "id": "person:Harbona",
+  "primary_id": "person:Harbona",
+  "alternate_sources": {
+    "aquifer": [
+      "5662|Harbona|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002512001001000"
+    ],
+    "tipnr": [
+      "Harbona@Est.1.10"
+    ],
+    "vizbible": [
+      "recCRA4Gm20bsy5JP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "002512001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Harbona",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Harbona",
+          "article": "person:Harbona",
+          "description": "Harbona, a eunuch in the court of King Ahasuerus of Persia, mentioned in Esther 1:10."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חַרְבֹונָא",
+      "חַרְבוֹנָא"
+    ]
+  },
+  "key_references": [
+    "17001010"
+  ],
+  "references": [
+    "17001010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170010100101"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o170010110012"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o170070090091",
+          "o170070090101",
+          "o170070090102",
+          "o170070090111",
+          "o170070090121",
+          "o170070090131",
+          "o170070090141",
+          "o170070090142",
+          "o170070090151",
+          "o170070090161",
+          "o170070090171",
+          "o170070090181",
+          "o170070090191",
+          "o170070090192",
+          "o170070090201",
+          "o170070090211",
+          "o170070090212",
+          "o170070090221",
+          "o170070090231",
+          "o170070090241",
+          "o170070090251"
+        ]
+      }
+    ]
+  }
+}

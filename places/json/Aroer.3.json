@@ -1,0 +1,85 @@
+{
+  "id": "place:Aroer.3",
+  "primary_id": "place:Aroer.3",
+  "alternate_sources": {
+    "aquifer": [
+      "3759|Aroer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005664001001000"
+    ],
+    "tipnr": [
+      "Aroer@1Sa.30.28"
+    ],
+    "vizbible": [
+      "reciaFxvzUWBh3doY"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005664001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aroer (of Judah)",
+      "alternate_labels": [
+        "Aroer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aroer.3",
+          "gloss": "Aroer (of Judah)",
+          "description": "A town in the territory of Judah located to the West of the Jordan River."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Jordan"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.14893187",
+      "lon": "34.98485225"
+    },
+    "vizbible": {
+      "lat": "31.14893187",
+      "lon": "34.98485225"
+    }
+  },
+  "key_references": [
+    "09030028"
+  ],
+  "references": [
+    "09030028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090300280022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "place:Gihon",
+  "primary_id": "place:Gihon",
+  "alternate_sources": {
+    "aquifer": [
+      "5462|Gihon, Spring of|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001396001001000",
+      "001396001002000"
+    ],
+    "tipnr": [
+      "Gihon@Gen.2.13-2Ch"
+    ],
+    "vizbible": [
+      "recENvrIbE4FauMl3"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001396001001000",
+    "001396001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gihon (of Eden)",
+      "alternate_labels": [
+        "Gihon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gihon.1",
+          "gloss": "Gihon (of Eden)",
+          "description": "A river running through the land of Cush; one of the four rivers flowing from the Garden of Eden."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Eden.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גִּיחֹון",
+      "גִּיחוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river",
+      "spring",
+      "special"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "key_references": [
+    "01002013"
+  ],
+  "references": [
+    "01002013",
+    "11001033",
+    "11001038",
+    "11001045",
+    "14032030",
+    "14033014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010020130041"
+      ],
+      [
+        "o110010330201"
+      ],
+      [
+        "o110010380211"
+      ],
+      [
+        "o110010450082"
+      ],
+      [
+        "o140320300071"
+      ],
+      [
+        "o140330140092"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "realia:Drachma",
+  "primary_id": "realia:Drachma",
+  "alternate_sources": {
+    "aquifer": [
+      "4893|Drachma|TyndaleBibleDictionary",
+      "341038|drachma|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "6.76"
+    ],
+    "ubsrealia": [
+      "realia:11.6.2.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.76"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Drachma",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Drachma",
+          "article": "realia:Drachma",
+          "description": "A Greek silver coin with about the same value as a Roman denarius."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δραχμή"
+    ]
+  },
+  "key_references": [
+    "42015008",
+    "42015009"
+  ],
+  "references": [
+    "42015008",
+    "42015009"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42015008004"
+      ],
+      [
+        "n42015008009"
+      ],
+      [
+        "n42015009014"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42015009015"
+      ]
+    ]
+  }
+}

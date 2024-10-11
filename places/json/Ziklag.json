@@ -1,0 +1,149 @@
+{
+  "id": "place:Ziklag",
+  "primary_id": "place:Ziklag",
+  "alternate_sources": {
+    "aquifer": [
+      "9221|Ziklag|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a0ed7ff"
+    ],
+    "ubsdbh": [
+      "006312001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28380"
+    ],
+    "tipnr": [
+      "Ziklag@Jos.15.31-Neh"
+    ],
+    "vizbible": [
+      "recO2QKIlo7mlq0by"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6127412"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006312001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ziklag",
+      "alternate_labels": [
+        "Ziklad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ziklag",
+          "gloss": "Ziklag",
+          "description": "A town in the territory of Simeon which belonged to Philistia and was given to David before he moved to Hebron, where he was made king of Judah; precise location is unknown."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.3776",
+      "lon": "34.873562"
+    },
+    "recogito": {
+      "lat": "31.38256",
+      "lon": "34.86676"
+    },
+    "vizbible": {
+      "lat": "31.38256",
+      "lon": "34.86676"
+    }
+  },
+  "key_references": [
+    "09027006"
+  ],
+  "references": [
+    "06015031",
+    "06019005",
+    "09027006",
+    "09030001",
+    "09030003",
+    "09030014",
+    "09030026",
+    "10001001",
+    "10004010",
+    "13004030",
+    "13012001",
+    "13012021",
+    "16011028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150310012"
+      ],
+      [
+        "o060190050012"
+      ],
+      [
+        "o090270060071"
+      ],
+      [
+        "o090270060101"
+      ],
+      [
+        "o090300010051"
+      ],
+      [
+        "o090300010131"
+      ],
+      [
+        "o090300010161"
+      ],
+      [
+        "o090300140121"
+      ],
+      [
+        "o090300260041"
+      ],
+      [
+        "o100010010122"
+      ],
+      [
+        "o100040100152"
+      ],
+      [
+        "o130040300033"
+      ],
+      [
+        "o130120010052"
+      ],
+      [
+        "o130120210031"
+      ],
+      [
+        "o160110280013"
+      ]
+    ]
+  }
+}

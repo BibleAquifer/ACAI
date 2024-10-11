@@ -1,0 +1,43 @@
+{
+  "id": "place:Gedor.3",
+  "primary_id": "place:Gedor.3",
+  "alternate_sources": {
+    "aquifer": [
+      "5403|Gedor (Place)|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gedor.3",
+          "gloss": "Gedor (of Jered)",
+          "description": "A town in the territory of Judah which was founded by Jered."
+        }
+      ],
+      "preferred_label": "Gedor (of Jered)",
+      "alternate_labels": [
+        "Gedor"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "13004018"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "realia:SecondStory",
+  "primary_id": "realia:SecondStory",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.36"
+    ],
+    "ubsrealia": [
+      "realia:3.1.6.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.36"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Second Story",
+      "alternate_labels": [
+        "Third Story ."
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Second Story",
+          "article": "realia:SecondStory",
+          "description": "The next floor of a building above the ground level."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "τρίστεγον"
+    ]
+  },
+  "key_references": [
+    "44020009"
+  ],
+  "references": [
+    "44020009"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44020009025"
+      ]
+    ]
+  }
+}

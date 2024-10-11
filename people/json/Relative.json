@@ -1,0 +1,49 @@
+{
+  "id": "person:Relative",
+  "primary_id": "person:Relative",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Relatives",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Relatives",
+          "description": "A relative of a person mentioned in the context of the passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "30006010",
+    "30006010"
+  ],
+  "references": [
+    "30006010",
+    "30006010"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o300060100021"
+      ],
+      [
+        "o300060100082"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o300060100122",
+          "o300060100131",
+          "o300060100132"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "place:Thyatira",
+  "primary_id": "place:Thyatira",
+  "alternate_sources": {
+    "aquifer": [
+      "8829|Thyatira|TyndaleBibleDictionary",
+      "132123|Thyatira|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a94b661"
+    ],
+    "ubsdgnt": [
+      "93.476"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21159"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/550924"
+    ],
+    "tipnr": [
+      "Thyatira@Act.16.14-Rev"
+    ],
+    "vizbible": [
+      "recV6eT82m0GLrB42"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1135603"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.476"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Thyatira",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Thyatira",
+          "gloss": "Thyatira",
+          "description": "A city in Lydia in Asia Minor; home of Lydia, a convert of Paul, and one of the seven cities addressed in Revelation."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Pergamum",
+    "place:Sardis"
+  ],
+  "subregion_of": [
+    "place:Lydia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Θυάτειρα"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "38.92579129",
+      "lon": "27.85655575"
+    },
+    "recogito": {
+      "lat": "38.922933",
+      "lon": "27.840523"
+    },
+    "vizbible": {
+      "lat": "38.922933",
+      "lon": "27.840523"
+    },
+    "biblica-maps": {
+      "lat": "38.92008",
+      "lon": "27.8362"
+    }
+  },
+  "key_references": [
+    "44016014",
+    "66002018"
+  ],
+  "references": [
+    "44016014",
+    "66001011",
+    "66002018",
+    "66002024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44016014008"
+      ],
+      [
+        "n66001011022"
+      ],
+      [
+        "n66002018006"
+      ],
+      [
+        "n66002024008"
+      ]
+    ]
+  }
+}

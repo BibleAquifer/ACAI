@@ -1,0 +1,181 @@
+{
+  "id": "person:Machir",
+  "primary_id": "person:Machir",
+  "alternate_sources": {
+    "aquifer": [
+      "6835|Machir|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Machir@Gen.50.23-1Ch"
+    ],
+    "vizbible": [
+      "recan20YU20ml6vvc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Manasseh",
+  "mother": "person:Aramitess",
+  "partners": [
+    "person:Maacah.5"
+  ],
+  "offspring": [
+    "person:Gilead",
+    "person:DaughterOfMachir",
+    "person:Peresh",
+    "person:Sheresh",
+    "person:Hammolecheth"
+  ],
+  "siblings": [
+    "person:Asriel.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Manasseh",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Machir",
+      "alternate_labels": [
+        "Machirite",
+        "Makirite",
+        "Makir"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Machir",
+          "article": "person:Machir",
+          "description": "Grandson of the patriarch Joseph, son of Manasseh, and father of Gilead."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Machir"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01050023",
+    "04032039",
+    "06017001"
+  ],
+  "references": [
+    "01050023",
+    "04026029",
+    "04027001",
+    "04032039",
+    "04032040",
+    "04036001",
+    "05003015",
+    "06013031",
+    "06017001",
+    "06017003",
+    "07005014",
+    "13002021",
+    "13002023",
+    "13007014",
+    "13007015",
+    "13007016",
+    "13007017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010500230081"
+      ],
+      [
+        "o040260290032"
+      ],
+      [
+        "o040260290052"
+      ],
+      [
+        "o040260290062"
+      ],
+      [
+        "o040270010091"
+      ],
+      [
+        "o040320390031"
+      ],
+      [
+        "o040320400052"
+      ],
+      [
+        "o040360010081"
+      ],
+      [
+        "o050030150013"
+      ],
+      [
+        "o060130310101"
+      ],
+      [
+        "o060130310151"
+      ],
+      [
+        "o060170010092"
+      ],
+      [
+        "o060170030071"
+      ],
+      [
+        "o070050140091"
+      ],
+      [
+        "o130020210061"
+      ],
+      [
+        "o130020230171"
+      ],
+      [
+        "o130070140101"
+      ],
+      [
+        "o130070150012"
+      ],
+      [
+        "o130070160041"
+      ],
+      [
+        "o130070170081"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060170010151"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040320400082"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o100170290141",
+          "o100170290142",
+          "o100170290151",
+          "o100170290161",
+          "o100170290162",
+          "o100170290171",
+          "o100170290172",
+          "o100170290181",
+          "o100170290181ה",
+          "o100170290182"
+        ]
+      }
+    ]
+  }
+}

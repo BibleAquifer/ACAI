@@ -1,0 +1,86 @@
+{
+  "id": "fauna:Owl",
+  "primary_id": "fauna:Owl",
+  "alternate_sources": {
+    "aquifer": [
+      "7538|Owl|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003003001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.17.1"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "003003001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Owl",
+      "alternate_labels": [
+        "Eagle Owl"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Owl",
+          "article": "fauna:Owl",
+          "description": "A large bird about 75 cm tall, with ear tufts and a deep hoot, that is considered ceremonially unclean in the Bible and feeds on small mammals and birds."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יַעֲנָה"
+    ]
+  },
+  "key_references": [
+    "03011016",
+    "05014015",
+    "23013021"
+  ],
+  "references": [
+    "03011016",
+    "05014015",
+    "18030029",
+    "23013021",
+    "23034013",
+    "23043020",
+    "24050039",
+    "33001008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110160032"
+      ],
+      [
+        "o050140150032"
+      ],
+      [
+        "o180300290061"
+      ],
+      [
+        "o230130210101"
+      ],
+      [
+        "o230340130121"
+      ],
+      [
+        "o230430200061"
+      ],
+      [
+        "o240500390091"
+      ],
+      [
+        "o330010080141"
+      ]
+    ]
+  }
+}

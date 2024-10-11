@@ -1,0 +1,72 @@
+{
+  "id": "realia:Torch",
+  "primary_id": "realia:Torch",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.102"
+    ],
+    "ubsrealia": [
+      "realia:5.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.102"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Torch",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Torch",
+          "article": "realia:Torch",
+          "description": "A stick that is lit on one end and carried to give light."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "λαμπάς",
+      "φῶς"
+    ]
+  },
+  "key_references": [
+    "43018003",
+    "44016029",
+    "66004005"
+  ],
+  "references": [
+    "43018003",
+    "44016029",
+    "66004005",
+    "66008010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43018003021"
+      ],
+      [
+        "n66004005013"
+      ],
+      [
+        "n66008010015"
+      ],
+      [
+        "n44016029003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n66004005019"
+      ]
+    ]
+  }
+}

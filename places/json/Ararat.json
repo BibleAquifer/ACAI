@@ -1,0 +1,109 @@
+{
+  "id": "place:Ararat",
+  "primary_id": "place:Ararat",
+  "alternate_sources": {
+    "aquifer": [
+      "3704|Ararat|TyndaleBibleDictionary",
+      "26330|Ararat|UWTranslationWords"
+    ],
+    "obi": [
+      "ab89be9"
+    ],
+    "ubsdbh": [
+      "000719001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/174991"
+    ],
+    "tipnr": [
+      "Ararat@Gen.8.4-Jer"
+    ],
+    "vizbible": [
+      "recCn3rjVhgRbVWqk"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q185068"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000719001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ararat",
+      "alternate_labels": [
+        "Armenia"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ararat",
+          "gloss": "Ararat",
+          "description": "A mountainous area and nation, also known as Urartu; located in East Asia Minor (ABD); called in a prophecy to punish Babylon."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation",
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "39.70289295",
+      "lon": "44.29818047"
+    },
+    "recogito": {
+      "lat": "39.83069",
+      "lon": "44.70569"
+    },
+    "vizbible": {
+      "lat": "39.70289295",
+      "lon": "44.29818047"
+    }
+  },
+  "key_references": [
+    "23037038",
+    "01008004"
+  ],
+  "references": [
+    "01008004",
+    "12019037",
+    "23037038",
+    "24051027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010080040111"
+      ],
+      [
+        "o120190370151"
+      ],
+      [
+        "o230370380151"
+      ],
+      [
+        "o240510270131"
+      ]
+    ]
+  }
+}

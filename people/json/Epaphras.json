@@ -1,0 +1,133 @@
+{
+  "id": "person:Epaphras",
+  "primary_id": "person:Epaphras",
+  "alternate_sources": {
+    "aquifer": [
+      "5097|Epaphras|TyndaleBibleDictionary",
+      "132105|Epaphras|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.120"
+    ],
+    "tipnr": [
+      "Epaphras@Col.1.7-Phm"
+    ],
+    "vizbible": [
+      "recYnB4aUknpa5wW8"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Missionary",
+    "Prisoner"
+  ],
+  "ubsdgnt": [
+    "93.120"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Epaphras",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Epaphras",
+          "article": "person:Epaphras",
+          "description": "Epaphras was a man from the New Testament, first mentioned in Colossians 1:7 as a Christian of Colossae."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἐπαφρᾶς"
+    ]
+  },
+  "key_references": [
+    "51001007",
+    "51004012",
+    "57001023"
+  ],
+  "references": [
+    "51001007",
+    "51004012",
+    "57001023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n51001007004"
+      ],
+      [
+        "n51004012003"
+      ],
+      [
+        "n57001023003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n51001007009"
+      ],
+      [
+        "n51001008001"
+      ],
+      [
+        "n51001013003"
+      ],
+      [
+        "n51001028002"
+      ],
+      [
+        "n51002013019"
+      ],
+      [
+        "n51002014004"
+      ],
+      [
+        "n51002014011"
+      ],
+      [
+        "n51004003005"
+      ],
+      [
+        "n51004003010"
+      ],
+      [
+        "n51004008012"
+      ],
+      [
+        "n51004013003"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n51001014003"
+      ],
+      [
+        "n51001028004"
+      ],
+      [
+        "n51001028008"
+      ],
+      [
+        "n51001028015"
+      ],
+      [
+        "n51004003014"
+      ],
+      [
+        "n51004012010"
+      ],
+      [
+        "n51004013005"
+      ]
+    ]
+  }
+}

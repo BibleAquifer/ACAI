@@ -1,0 +1,76 @@
+{
+  "id": "person:PhilippianJailer",
+  "primary_id": "person:PhilippianJailer",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Philippian Jailer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Philippian Jailer",
+          "description": "A jailer in Philippi who guarded Paul and Silas."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44016036"
+  ],
+  "references": [
+    "44016036"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44016036004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44016027005"
+      ],
+      [
+        "n44016030005"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "fearful",
+        "quote_type": "Dialogue",
+        "words": [
+          "n44016030006",
+          "n44016030007",
+          "n44016030008",
+          "n44016030009",
+          "n44016030010",
+          "n44016030011",
+          "n44016030012"
+        ]
+      },
+      {
+        "delivery": "respectful",
+        "quote_type": "Dialogue",
+        "words": [
+          "n44016036012",
+          "n44016036013",
+          "n44016036014",
+          "n44016036015",
+          "n44016036016",
+          "n44016036017",
+          "n44016036018",
+          "n44016036019",
+          "n44016036020",
+          "n44016036021",
+          "n44016036022"
+        ]
+      }
+    ]
+  }
+}

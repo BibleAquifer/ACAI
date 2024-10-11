@@ -1,0 +1,98 @@
+{
+  "id": "place:Ataroth-addar",
+  "primary_id": "place:Ataroth-addar",
+  "alternate_sources": {
+    "aquifer": [
+      "3855|Ataroth-Addar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005372001001000"
+    ],
+    "tipnr": [
+      "Ataroth-addar@Jos.16.5-"
+    ],
+    "vizbible": [
+      "recrkvrFB4Bmzq2dk"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005372001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ataroth-addar",
+      "alternate_labels": [
+        "Ataroth-adar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ataroth-addar",
+          "gloss": "Ataroth-Addar",
+          "description": "A border town in the territory of Ephraim, near the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Ataroth.2"
+  ],
+  "tribal_area": "group:Ephraim",
+  "nearby_places": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עַטְרֹות בֵּית יֹואָב",
+      "עַטְרוֹת בֵּית יוֹאָב"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.85891795409998",
+      "lon": "35.12831317484221"
+    },
+    "vizbible": {
+      "lat": "31.85891795409998",
+      "lon": "35.12831317484221"
+    }
+  },
+  "key_references": [
+    "06016005",
+    "06018013"
+  ],
+  "references": [
+    "06016005",
+    "06018013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060160050101",
+        "o060160050111"
+      ],
+      [
+        "o060180130141",
+        "o060180130151"
+      ]
+    ]
+  }
+}

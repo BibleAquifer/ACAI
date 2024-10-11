@@ -1,0 +1,53 @@
+{
+  "id": "flora:SaffronPlant",
+  "primary_id": "flora:SaffronPlant",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003430001001000"
+    ],
+    "ubsflora": [
+      "flora:4.2.6"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "003430001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Saffron Plant",
+      "alternate_labels": [
+        "Crocus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Saffron Plant",
+          "article": "flora:SaffronPlant",
+          "description": "A plant with grass-like leaves and purple flowers, and parts of it are used for perfume and medicine."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כַּרְכֹּם"
+    ]
+  },
+  "key_references": [
+    "22004014"
+  ],
+  "references": [
+    "22004014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o220040140022"
+      ]
+    ]
+  }
+}

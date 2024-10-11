@@ -1,0 +1,58 @@
+{
+  "id": "deity:Jealous",
+  "primary_id": "deity:Lord",
+  "alternate_sources": {
+    "aquifer": [
+      "26744|Jealous|UWTranslationWords",
+      "132291|Jealous|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "006504001001000"
+    ],
+    "tipnr": [
+      "Jealous|LORD@Gen.1.1-Heb"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "006504001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jealous (LORD)",
+      "alternate_labels": [
+        "LORD"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "LORD",
+          "article": "deity:Jealous",
+          "description": "The name of God equated with being “Jealous” in Exodus 34:14."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Lord"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02034014"
+  ],
+  "references": [
+    "02034014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020340140081"
+      ],
+      [
+        "o020340140111"
+      ]
+    ]
+  }
+}

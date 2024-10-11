@@ -1,0 +1,60 @@
+{
+  "id": "person:Eber.3",
+  "primary_id": "person:Eber.3",
+  "alternate_sources": {
+    "aquifer": [
+      "4927|Eber|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Eber@1Ch.8.12"
+    ],
+    "vizbible": [
+      "rec0GxOCyC2S4vDcp"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Elpaal",
+  "siblings": [
+    "person:Misham",
+    "person:Shemed",
+    "person:Beriah.3",
+    "person:Shema.3",
+    "person:Zebadiah.2",
+    "person:Meshullam.4",
+    "person:Hizki",
+    "person:Heber.4",
+    "person:Ishmerai",
+    "person:Izliah",
+    "person:Jobab.5"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eber (1 Chronicles 8:12)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eber (1 Chronicles 8:12)",
+          "article": "person:Eber.3",
+          "description": "Eber, from the tribe of Benjamin during the divided kingdom, was the son of Elpaal and is mentioned in 1 Chronicles 8:12 alongside his eleven siblings."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008012"
+  ],
+  "references": [
+    "13008012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080120031"
+      ]
+    ]
+  }
+}

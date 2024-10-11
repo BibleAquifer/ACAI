@@ -1,0 +1,128 @@
+{
+  "id": "person:Terah",
+  "primary_id": "person:Terah",
+  "alternate_sources": {
+    "aquifer": [
+      "8788|Terah (Person)|TyndaleBibleDictionary",
+      "27148|Terah|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Terah@Gen.11.24-Luk"
+    ],
+    "vizbible": [
+      "recXBYSWubfkpqNQm"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nahor",
+  "offspring": [
+    "person:Abraham",
+    "person:Nahor.2",
+    "person:Haran",
+    "person:Sarah"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "related_places": {
+    "death_place": [
+      "place:Haran"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Terah",
+      "alternate_labels": [
+        "Thara"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Terah",
+          "article": "person:Terah",
+          "description": "Father of the patriarch Abraham."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01011026",
+    "06024002",
+    "42003034"
+  ],
+  "references": [
+    "01011024",
+    "01011025",
+    "01011026",
+    "01011027",
+    "01011028",
+    "01011031",
+    "01011032",
+    "06024002",
+    "13001026",
+    "42003034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010110240081"
+      ],
+      [
+        "o010110250061"
+      ],
+      [
+        "o010110260021"
+      ],
+      [
+        "o010110270031",
+        "o010110270041"
+      ],
+      [
+        "o010110280051"
+      ],
+      [
+        "o010110310021"
+      ],
+      [
+        "o010110320031"
+      ],
+      [
+        "o010110320091"
+      ],
+      [
+        "o060240020161"
+      ],
+      [
+        "o130010260031"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003034008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010110260052"
+      ],
+      [
+        "o010110310182"
+      ],
+      [
+        "o010110310222"
+      ],
+      [
+        "o010110310252"
+      ],
+      [
+        "o010110310282"
+      ]
+    ]
+  }
+}

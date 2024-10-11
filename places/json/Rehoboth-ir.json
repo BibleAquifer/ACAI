@@ -1,0 +1,88 @@
+{
+  "id": "place:Rehoboth-ir",
+  "primary_id": "place:Nineveh",
+  "alternate_sources": {
+    "aquifer": [
+      "7982|Rehoboth-Ir|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006750001001000"
+    ],
+    "tipnr": [
+      "Rehoboth-Ir|Nineveh@Gen.10.11-Luk"
+    ],
+    "vizbible": [
+      "rec1AHST2tmCaaj2L"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006750001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rehoboth-ir",
+      "alternate_labels": [
+        "Nineveh",
+        "city Rehoboth",
+        "Rehoboth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rehoboth-ir",
+          "gloss": "Rehoboth-Ir",
+          "description": "A city in Assyria built by Nimrod after the flood."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Nineveh"
+  ],
+  "subregion_of": [
+    "place:Assyria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "district in settlement",
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.35941",
+      "lon": "43.152887"
+    },
+    "vizbible": {
+      "lat": "36.35941",
+      "lon": "43.152887"
+    }
+  },
+  "key_references": [
+    "01010011"
+  ],
+  "references": [
+    "01010011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100110101",
+        "o010100110111"
+      ]
+    ]
+  }
+}

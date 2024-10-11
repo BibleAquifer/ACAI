@@ -1,0 +1,107 @@
+{
+  "id": "place:Carchemish",
+  "primary_id": "place:Carchemish",
+  "alternate_sources": {
+    "aquifer": [
+      "4427|Carchemish|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af6c730"
+    ],
+    "ubsdbh": [
+      "003431001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/658465",
+      "http://pleiades.stoa.org/places/851753991"
+    ],
+    "tipnr": [
+      "Carchemish@2Ch.35.20-Jer"
+    ],
+    "vizbible": [
+      "rechrLAN8Atymm3It"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q283680"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003431001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Carchemish",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Carchemish",
+          "gloss": "Carchemish",
+          "description": "A town on the Euphrates River where Nebuchadnezzar defeated the Assyrians and the Egyptians (Jer 46:1–2)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Euphrates"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כַּרְכְּמִישׁ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.82928161",
+      "lon": "38.01576051"
+    },
+    "recogito": {
+      "lat": "36.79017567600177",
+      "lon": "38.02114725"
+    },
+    "vizbible": {
+      "lat": "36.82928161",
+      "lon": "38.01576051"
+    }
+  },
+  "key_references": [
+    "24046002",
+    "23010009",
+    "14035020"
+  ],
+  "references": [
+    "14035020",
+    "23010009",
+    "24046002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140350200142"
+      ],
+      [
+        "o230100090022"
+      ],
+      [
+        "o240460020132"
+      ]
+    ]
+  }
+}

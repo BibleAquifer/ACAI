@@ -1,0 +1,90 @@
+{
+  "id": "person:Regem",
+  "primary_id": "person:Regem",
+  "alternate_sources": {
+    "aquifer": [
+      "7978|Regem|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006690001001000"
+    ],
+    "tipnr": [
+      "Regem@1Ch.2.47"
+    ],
+    "vizbible": [
+      "recdjz0yO2qzJw2nD"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Caleb.2",
+  "mother": "person:Jahdai",
+  "siblings": [
+    "person:Jotham.3",
+    "person:Geshan",
+    "person:Pelet",
+    "person:Ephah.3",
+    "person:Shaaph"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "006690001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Regem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Regem",
+          "article": "person:Regem",
+          "description": "Regem is a man of the tribe of Judah living during the time of the divided kingdom, only mentioned in 1 Chronicles 2:47 as the son of Caleb and Jahdai, with brothers Jotham, Geshan, Pelet, Ephah, and Shaaph."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "רֶגֶם מֶלֶךְ",
+      "רֶ֫גֶם מֶ֫לֶךְ"
+    ]
+  },
+  "key_references": [
+    "13002047"
+  ],
+  "references": [
+    "13002047"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020470031"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o380070030112",
+          "o380070030121",
+          "o380070030121ה",
+          "o380070030122",
+          "o380070030131",
+          "o380070030132",
+          "o380070030141",
+          "o380070030151",
+          "o380070030152",
+          "o380070030161",
+          "o380070030171",
+          "o380070030181",
+          "o380070030182",
+          "o380070030191"
+        ]
+      }
+    ]
+  }
+}

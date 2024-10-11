@@ -1,0 +1,157 @@
+{
+  "id": "place:Ashkelon",
+  "primary_id": "place:Ashkelon",
+  "alternate_sources": {
+    "aquifer": [
+      "3804|Ashkelon|TyndaleBibleDictionary",
+      "26342|Ashkelon|UWTranslationWords"
+    ],
+    "obi": [
+      "ac87d4c"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21670"
+    ],
+    "tipnr": [
+      "Ashkelon@Jos.13.3-Zec"
+    ],
+    "vizbible": [
+      "recdjDOceY7iCq93A"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q60956"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ashkelon",
+      "alternate_labels": [
+        "Eshkalonites",
+        "Ashkelonite",
+        "Ashkelonites",
+        "Askelon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ashkelon",
+          "gloss": "Ashkelon",
+          "description": "A town in Philistia; one of the five cities of the Philistines."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Philistine",
+  "associated_places": [
+    "place:Gaza",
+    "place:Ashdod",
+    "place:Ekron",
+    "place:Gath"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.66240511",
+      "lon": "34.54722773"
+    },
+    "recogito": {
+      "lat": "31.66426",
+      "lon": "34.54732"
+    },
+    "vizbible": {
+      "lat": "31.66426",
+      "lon": "34.54732"
+    },
+    "biblica-maps": {
+      "lat": "31.66598",
+      "lon": "34.54595"
+    }
+  },
+  "key_references": [
+    "07001018"
+  ],
+  "references": [
+    "06013003",
+    "07001018",
+    "07014019",
+    "09006017",
+    "10001020",
+    "24025020",
+    "24047005",
+    "24047007",
+    "30001008",
+    "36002004",
+    "36002007",
+    "38009005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060130030182"
+      ],
+      [
+        "o070010180081"
+      ],
+      [
+        "o070140190061"
+      ],
+      [
+        "o090060170132"
+      ],
+      [
+        "o100010200071"
+      ],
+      [
+        "o240250200151"
+      ],
+      [
+        "o240470050061"
+      ],
+      [
+        "o240470070071"
+      ],
+      [
+        "o300010080062"
+      ],
+      [
+        "o360020040052"
+      ],
+      [
+        "o360020070091"
+      ],
+      [
+        "o380090050021"
+      ],
+      [
+        "o380090050142"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240470050111"
+      ],
+      [
+        "o380090050032"
+      ]
+    ]
+  }
+}

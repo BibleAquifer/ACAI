@@ -1,0 +1,80 @@
+{
+  "id": "group:Gebal",
+  "primary_id": "group:Gebal",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001274001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/668216"
+    ],
+    "tipnr": [
+      "Gebal@Jos.13.5-Ezk"
+    ],
+    "vizbible": [
+      "recOo6VrfkSNgeyjD"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Gebal",
+  "ubsdbh": [
+    "001274001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gebalites",
+      "alternate_labels": [
+        "Gebal",
+        "Giblites",
+        "Byblos",
+        "Gebalite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gebalites",
+          "article": "group:Gebal",
+          "description": "People who live in Gebal."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גִּבְלִי"
+    ]
+  },
+  "key_references": [
+    "06013005",
+    "11005032",
+    "26027009"
+  ],
+  "references": [
+    "06013005",
+    "11005032",
+    "26027009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060130050022"
+      ],
+      [
+        "o110050320063"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110050320072"
+      ],
+      [
+        "o110050320102"
+      ]
+    ]
+  }
+}

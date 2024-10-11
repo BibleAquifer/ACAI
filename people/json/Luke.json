@@ -1,0 +1,85 @@
+{
+  "id": "person:Luke",
+  "primary_id": "person:Luke",
+  "alternate_sources": {
+    "aquifer": [
+      "6794|Luke (Person)|TyndaleBibleDictionary",
+      "6793|Luke, Gospel of|TyndaleBibleDictionary",
+      "26839|Luke|UWTranslationWords",
+      "132024|Luke|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.234"
+    ],
+    "tipnr": [
+      "Luke@2Co.13.14-Phm"
+    ],
+    "vizbible": [
+      "recFqCoLVEfASibXd"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Missionary",
+    "Disciple"
+  ],
+  "ubsdgnt": [
+    "93.234"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Luke",
+      "alternate_labels": [
+        "Lucas"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Luke",
+          "article": "person:Luke",
+          "description": "A companion of Paul in the New Testament, traditionally regarded as the author of the Gospel of Luke and Acts of the Apostles."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Λουκᾶς"
+    ]
+  },
+  "key_references": [
+    "51004014",
+    "55004011",
+    "57001024"
+  ],
+  "references": [
+    "47013013",
+    "47013014",
+    "51004014",
+    "55004011",
+    "57001024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n51004014003"
+      ],
+      [
+        "n55004011001"
+      ],
+      [
+        "n57001024004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n55004015009"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "id": "place:Beth-shemesh",
+  "primary_id": "place:Beth-shemesh",
+  "alternate_sources": {
+    "aquifer": [
+      "4203|Beth-Shemesh|TyndaleBibleDictionary"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/295432"
+    ],
+    "tipnr": [
+      "Heres_Mount|Beth-shemesh@Jos.15.10-2Ch",
+      "Beth-shemesh@Jos.15.10-2Ch"
+    ],
+    "vizbible": [
+      "recocNih6Mr5ISN1d"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-shemesh (of Judah)",
+      "alternate_labels": [
+        "Mount Heres",
+        "Beth-shemite",
+        "Ir-Shemesh",
+        "Beth-Shemesh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-shemesh.1",
+          "gloss": "Beth-Shemesh (of Judah)",
+          "description": "A Levitical town in the territory of Judah, assigned to the clan of Aaron."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:HeresMount"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.75274836",
+      "lon": "34.97660913"
+    },
+    "recogito": {
+      "lat": "31.73072",
+      "lon": "34.99293"
+    },
+    "vizbible": {
+      "lat": "31.73072",
+      "lon": "34.99293"
+    }
+  },
+  "key_references": [
+    "06021016",
+    "06015010",
+    "14028018"
+  ],
+  "references": [
+    "06015010",
+    "06019041",
+    "06021016",
+    "07001035",
+    "09006009",
+    "09006012",
+    "09006013",
+    "09006014",
+    "09006015",
+    "09006018",
+    "09006019",
+    "09006020",
+    "11004009",
+    "12014011",
+    "12014013",
+    "13006044",
+    "14025021",
+    "14025023",
+    "14028018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150100171",
+        "o060150100181"
+      ],
+      [
+        "o060190410071"
+      ],
+      [
+        "o060210160101",
+        "o060210160111"
+      ],
+      [
+        "o070010350051"
+      ],
+      [
+        "o090060090061",
+        "o090060090071"
+      ],
+      [
+        "o090060120061",
+        "o090060120071"
+      ],
+      [
+        "o090060120231",
+        "o090060120241"
+      ],
+      [
+        "o090060130012",
+        "o090060130021"
+      ],
+      [
+        "o090060140061",
+        "o090060140071"
+      ],
+      [
+        "o090060150191",
+        "o090060150201"
+      ],
+      [
+        "o090060180281",
+        "o090060180291"
+      ],
+      [
+        "o090060190031",
+        "o090060190041"
+      ],
+      [
+        "o090060200031",
+        "o090060200041"
+      ],
+      [
+        "o110040090052",
+        "o110040090061"
+      ],
+      [
+        "o120140110142",
+        "o120140110151"
+      ],
+      [
+        "o120140130132",
+        "o120140130141"
+      ],
+      [
+        "o130060440061",
+        "o130060440071"
+      ],
+      [
+        "o140250210112",
+        "o140250210121"
+      ],
+      [
+        "o140250230132",
+        "o140250230141"
+      ],
+      [
+        "o140280180091",
+        "o140280180101"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090060130072"
+      ],
+      [
+        "o090060130102"
+      ],
+      [
+        "o090060130132"
+      ],
+      [
+        "o090060130142"
+      ],
+      [
+        "o090060140132"
+      ],
+      [
+        "o090060140191"
+      ],
+      [
+        "o090060200072"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "person:Dishan",
+  "primary_id": "person:Dishan",
+  "alternate_sources": {
+    "aquifer": [
+      "4861|Dishan|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Dishan@Gen.36.21-1Ch"
+    ],
+    "vizbible": [
+      "recSiSW57dddI3uh2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Seir",
+  "offspring": [
+    "person:Uz.3",
+    "person:Aran"
+  ],
+  "siblings": [
+    "person:Lotan",
+    "person:Shobal",
+    "person:Zibeon.2",
+    "person:Anah.2",
+    "person:Dishon",
+    "person:Ezer",
+    "person:Timna.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dishan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dishan",
+          "article": "person:Dishan",
+          "description": "An Edomite and son of Seir, and a chief of the Horites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036021",
+    "01036028",
+    "13001038"
+  ],
+  "references": [
+    "01036021",
+    "01036028",
+    "01036030",
+    "13001038",
+    "13001042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360210032"
+      ],
+      [
+        "o010360280031"
+      ],
+      [
+        "o010360300061"
+      ],
+      [
+        "o130010380092"
+      ],
+      [
+        "o130010420071"
+      ]
+    ]
+  }
+}

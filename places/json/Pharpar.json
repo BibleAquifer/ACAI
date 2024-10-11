@@ -1,0 +1,84 @@
+{
+  "id": "place:Pharpar",
+  "primary_id": "place:Pharpar",
+  "alternate_sources": {
+    "aquifer": [
+      "7698|Pharpar|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a8d054a"
+    ],
+    "ubsdbh": [
+      "006025001001000"
+    ],
+    "tipnr": [
+      "Pharpar@2Ki.5.12"
+    ],
+    "vizbible": [
+      "rec7IEUoUSuE2sdQI"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2053939"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006025001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pharpar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pharpar",
+          "gloss": "Pharpar",
+          "description": "A river in Syria, near Damascus."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Damascus"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.379601",
+      "lon": "36.306085"
+    },
+    "vizbible": {
+      "lat": "33.379601",
+      "lon": "36.306085"
+    }
+  },
+  "key_references": [
+    "12005012"
+  ],
+  "references": [
+    "12005012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120050120052"
+      ]
+    ]
+  }
+}

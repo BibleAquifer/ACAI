@@ -1,0 +1,90 @@
+{
+  "id": "person:Adah.2",
+  "primary_id": "person:Adah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3358|Adah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Basemath|Adah@Gen.26.34-",
+      "Adah@Gen.26.34-"
+    ],
+    "vizbible": [
+      "recaIkMXdattSy58r"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Elon",
+  "partners": [
+    "person:Esau"
+  ],
+  "offspring": [
+    "person:Eliphaz"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adah",
+      "alternate_labels": [
+        "Basemath",
+        "Bashemath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Adah",
+          "article": "person:Adah.2",
+          "description": "One of Esau’s wives from Canaan. She was the daughter of Elon the Hittite."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Basemath"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036002",
+    "01036004",
+    "01036010"
+  ],
+  "references": [
+    "01026034",
+    "01036002",
+    "01036004",
+    "01036010",
+    "01036012",
+    "01036016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010260340141"
+      ],
+      [
+        "o010360020081"
+      ],
+      [
+        "o010360040021"
+      ],
+      [
+        "o010360100071"
+      ],
+      [
+        "o010360120131"
+      ],
+      [
+        "o010360160141"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010260350012"
+      ]
+    ]
+  }
+}

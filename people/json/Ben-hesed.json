@@ -1,0 +1,56 @@
+{
+  "id": "person:Ben-hesed",
+  "primary_id": "person:Ben-hesed",
+  "alternate_sources": {
+    "aquifer": [
+      "4108|Ben-Hesed|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001050001001000"
+    ],
+    "tipnr": [
+      "Ben-hesed@1Ki.4.10"
+    ],
+    "vizbible": [
+      "recRK39WxuwIkRd3Q"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hesed",
+  "ubsdbh": [
+    "001050001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ben-hesed",
+      "alternate_labels": [
+        "son of Hesed",
+        "Hesed"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ben-Hesed",
+          "article": "person:Ben-hesed",
+          "description": "Man from the time of Israel's united kingdom, mentioned in 1 Kings 4:10, son of Hesed."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11004010"
+  ],
+  "references": [
+    "11004010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040100021"
+      ]
+    ]
+  }
+}

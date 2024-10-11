@@ -1,0 +1,40 @@
+{
+  "id": "place:Hammon.2",
+  "primary_id": "place:Hammon.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5623|Hammon|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hammon.2",
+          "gloss": "Hammon (of Naphtali)",
+          "description": "A Levitical town in the territory of Naphtali."
+        }
+      ],
+      "preferred_label": "Hammon (of Naphtali)"
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "13006061"
+  ]
+}

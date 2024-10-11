@@ -1,0 +1,89 @@
+{
+  "id": "deity:Milcom",
+  "primary_id": "deity:Molech",
+  "alternate_sources": {
+    "aquifer": [
+      "7134|Milcom|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004048002003000"
+    ],
+    "tipnr": [
+      "Milcom|Molech@Lev.18.21-Act"
+    ],
+    "vizbible": [
+      "recSkOeJmdjXiZrco"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "deity",
+  "ubsdbh": [
+    "004048002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Milcom (Molech)",
+      "alternate_labels": [
+        "their king",
+        "Molek",
+        "Malcham",
+        "Molech"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Molech",
+          "article": "deity:Milcom",
+          "description": "The primary god of the Ammonites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Molech"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מֶלֶךְ",
+      "מֶ֫לֶךְ",
+      "מִלכֹּם"
+    ]
+  },
+  "key_references": [
+    "11011005",
+    "11011033",
+    "24049003"
+  ],
+  "references": [
+    "11011005",
+    "11011033",
+    "12023013",
+    "24049001",
+    "24049003",
+    "36001005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110110050081"
+      ],
+      [
+        "o110110330113"
+      ],
+      [
+        "o120230130223"
+      ],
+      [
+        "o240490010151"
+      ],
+      [
+        "o240490030151"
+      ],
+      [
+        "o360010050122"
+      ]
+    ]
+  }
+}

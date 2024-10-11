@@ -1,0 +1,98 @@
+{
+  "id": "place:Ahava",
+  "primary_id": "place:Ahava",
+  "alternate_sources": {
+    "aquifer": [
+      "3434|Ahava|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6c3859"
+    ],
+    "ubsdbh": [
+      "000162001001000"
+    ],
+    "tipnr": [
+      "Ahava@Ezr.8.15-"
+    ],
+    "vizbible": [
+      "recgFPXlIpiBLSGVM"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000162001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahava",
+      "alternate_labels": [
+        "Ahava River",
+        "Ahava Canal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ahava",
+          "gloss": "Ahava",
+          "description": "A canal or river in Babylonia where Ezra assembled a group of exiles who were returning to Jerusalem (Ezra 8:15)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַהֲוָא"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "canal",
+      "settlement"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.625197",
+      "lon": "42.786647"
+    },
+    "vizbible": {
+      "lat": "33.625197",
+      "lon": "42.786647"
+    }
+  },
+  "key_references": [
+    "15008021",
+    "15008031",
+    "15008015"
+  ],
+  "references": [
+    "15008015",
+    "15008021",
+    "15008031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150080150061"
+      ],
+      [
+        "o150080210061"
+      ],
+      [
+        "o150080310031"
+      ]
+    ]
+  }
+}

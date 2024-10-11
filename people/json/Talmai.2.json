@@ -1,0 +1,66 @@
+{
+  "id": "person:Talmai.2",
+  "primary_id": "person:Talmai.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8722|Talmai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007822001002000"
+    ],
+    "tipnr": [
+      "Talmai@2Sa.3.3-1Ch"
+    ],
+    "vizbible": [
+      "recYllqCuNPptctrq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ammihud.4",
+  "offspring": [
+    "person:Maacah.2"
+  ],
+  "tribe": "group:Ammon",
+  "ubsdbh": [
+    "007822001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Talmai (2 Samuel 3:3)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Talmai (2 Samuel 3:3)",
+          "article": "person:Talmai.2",
+          "description": "Talmai, mentioned in 2 Samuel 3:3, was an Ammonite king, son of Ammihud, and father of Maacah, living during the time of Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10003003",
+    "10013037",
+    "13003002"
+  ],
+  "references": [
+    "10003003",
+    "10013037",
+    "13003002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100030030131"
+      ],
+      [
+        "o100130370051"
+      ],
+      [
+        "o130030020061"
+      ]
+    ]
+  }
+}

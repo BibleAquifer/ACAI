@@ -1,0 +1,120 @@
+{
+  "id": "person:Maacah.3",
+  "primary_id": "person:Maacah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6808|Maacah, Maachah (Person)|TyndaleBibleDictionary",
+      "26843|Maacah|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Maacah@1Ki.15.2-2Ch",
+      "Micaiah|Maacah@1Ki.15.2-2Ch"
+    ],
+    "vizbible": [
+      "recmGUzaFR2xi2Fjr"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Uriel.3",
+  "mother": "person:Tamar.3",
+  "partners": [
+    "person:Rehoboam"
+  ],
+  "offspring": [
+    "person:Abijah.4",
+    "person:Attai.3",
+    "person:Ziza.2",
+    "person:Shelomith.3"
+  ],
+  "roles": [
+    "Matriarch",
+    "Royal Family Member"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maacah",
+      "alternate_labels": [
+        "Micaiah",
+        "Maakah",
+        "Maachah",
+        "Michaiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Maacah",
+          "article": "person:Maacah.3",
+          "description": "Daughter of King David's son Absalom, wife of King Rehoboam, and mother of King Abijam (Abijah), Attai, Ziza, and Shelomith."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Micaiah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11015002",
+    "11015013",
+    "14011020"
+  ],
+  "references": [
+    "11015002",
+    "11015010",
+    "11015013",
+    "14011020",
+    "14011021",
+    "14011022",
+    "14013002",
+    "14015016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110150020071"
+      ],
+      [
+        "o110150100081"
+      ],
+      [
+        "o110150130031"
+      ],
+      [
+        "o140110200041"
+      ],
+      [
+        "o140110210041"
+      ],
+      [
+        "o140110220071"
+      ],
+      [
+        "o140130020071"
+      ],
+      [
+        "o140150160021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110150130081"
+      ],
+      [
+        "o140110200072"
+      ],
+      [
+        "o140150160091"
+      ]
+    ]
+  }
+}

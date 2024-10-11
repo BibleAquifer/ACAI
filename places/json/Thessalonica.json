@@ -1,0 +1,150 @@
+{
+  "id": "place:Thessalonica",
+  "primary_id": "place:Thessalonica",
+  "alternate_sources": {
+    "aquifer": [
+      "8818|Thessalonica|TyndaleBibleDictionary",
+      "27153|Thessalonica|UWTranslationWords",
+      "132074|Thessalonica|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "afa9d8e"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/17068"
+    ],
+    "tipnr": [
+      "Thessalonica@Act.17.1-2Ti"
+    ],
+    "vizbible": [
+      "recIc4TxQa0rpOszp"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q17151"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Thessalonica",
+      "alternate_labels": [
+        "Thessalonian",
+        "Thessalonians",
+        "[ ]"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Thessalonica",
+          "gloss": "Thessalonica",
+          "description": "A seaport city in Macedonia between Berea and Apollonia; 1 and 2 Thessalonians were addressed to the church there."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Thessalonica"
+  ],
+  "nearby_places": [
+    "place:Apollonia",
+    "place:Berea"
+  ],
+  "subregion_of": [
+    "place:Macedonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.63215557",
+      "lon": "22.93208687"
+    },
+    "recogito": {
+      "lat": "40.630282",
+      "lon": "22.949569"
+    },
+    "vizbible": {
+      "lat": "40.630282",
+      "lon": "22.949569"
+    },
+    "biblica-maps": {
+      "lat": "40.63333",
+      "lon": "22.95292"
+    }
+  },
+  "key_references": [
+    "52001001",
+    "44017013",
+    "44017001",
+    "53001001"
+  ],
+  "references": [
+    "44017001",
+    "44017011",
+    "44017013",
+    "44020004",
+    "44027002",
+    "50004016",
+    "52001001",
+    "52005028",
+    "53001001",
+    "53003018",
+    "55004010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44017001010"
+      ],
+      [
+        "n44017011007"
+      ],
+      [
+        "n44017013007"
+      ],
+      [
+        "n44020004007"
+      ],
+      [
+        "n44027002019"
+      ],
+      [
+        "n50004016004"
+      ],
+      [
+        "n52001001008"
+      ],
+      [
+        "n53001001008"
+      ],
+      [
+        "n55004010012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44017001011"
+      ],
+      [
+        "n44017006021"
+      ]
+    ]
+  }
+}

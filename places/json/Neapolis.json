@@ -1,0 +1,102 @@
+{
+  "id": "place:Neapolis",
+  "primary_id": "place:Neapolis",
+  "alternate_sources": {
+    "aquifer": [
+      "7322|Neapolis|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6a7150"
+    ],
+    "ubsdgnt": [
+      "93.541"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21896"
+    ],
+    "tipnr": [
+      "Neapolis@Act.16.11"
+    ],
+    "vizbible": [
+      "rec8zPv0ewysxQo9l"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6984309"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.541"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Neapolis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Neapolis",
+          "gloss": "Neapolis",
+          "description": "The harbor of Philippi in Macedonia; Paul and his companions sailed here from Samothrace."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Philippi"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Νέα Πόλις",
+      "Νέα",
+      "Πόλις"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.94413199",
+      "lon": "24.41767995"
+    },
+    "recogito": {
+      "lat": "40.93504",
+      "lon": "24.415015"
+    },
+    "vizbible": {
+      "lat": "40.93504",
+      "lon": "24.415015"
+    },
+    "biblica-maps": {
+      "lat": "40.75073",
+      "lon": "14.48446"
+    }
+  },
+  "key_references": [
+    "44016011"
+  ],
+  "references": [
+    "44016011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44016011012"
+      ]
+    ]
+  }
+}

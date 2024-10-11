@@ -1,0 +1,80 @@
+{
+  "id": "person:Eliel.6",
+  "primary_id": "person:Eliel.6",
+  "alternate_sources": {
+    "aquifer": [
+      "5005|Eliel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000410001005000"
+    ],
+    "tipnr": [
+      "Eliel@1Ch.12.11"
+    ],
+    "vizbible": [
+      "recuXtaWEhvUiY9jA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Warrior"
+  ],
+  "ubsdbh": [
+    "000410001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliel (1 Chronicles 12:11)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliel (1 Chronicles 12:11)",
+          "article": "person:Eliel.6",
+          "description": "Eliel, a warrior during the time of King David, is mentioned in 1 Chronicles 12:11."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיאֵל"
+    ]
+  },
+  "key_references": [
+    "13012012"
+  ],
+  "references": [
+    "13012012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130120120031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130120150011"
+      ],
+      [
+        "o130120160011",
+        "o130120160021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130120160041"
+      ],
+      [
+        "o130120160152"
+      ]
+    ]
+  }
+}

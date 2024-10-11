@@ -1,0 +1,64 @@
+{
+  "id": "group:Ozni",
+  "primary_id": "group:Ozni",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000230001001000",
+      "000230001002000"
+    ],
+    "tipnr": [
+      "Ozni|Ezbon@Gen.46.16-Num"
+    ],
+    "vizbible": [
+      "recPywmw0Czl7uOUq"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Ezbon",
+  "ubsdbh": [
+    "000230001001000",
+    "000230001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Oznites",
+      "alternate_labels": [
+        "Ozni",
+        "Ezbon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Oznites",
+          "article": "group:Ozni",
+          "description": "People descended from Ezbon, son of Gad, son of Joseph, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָזְנִי",
+      "אׇזְנִי"
+    ]
+  },
+  "key_references": [
+    "04026016"
+  ],
+  "references": [
+    "04026016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260160012"
+      ],
+      [
+        "o040260160032"
+      ]
+    ]
+  }
+}

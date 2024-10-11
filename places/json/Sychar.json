@@ -1,0 +1,91 @@
+{
+  "id": "place:Sychar",
+  "primary_id": "place:Sychar",
+  "alternate_sources": {
+    "aquifer": [
+      "8676|Sychar|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a27b472"
+    ],
+    "ubsdgnt": [
+      "93.593"
+    ],
+    "tipnr": [
+      "Sychar@Jhn.4.5"
+    ],
+    "vizbible": [
+      "recEPnsyuSmBSHXr9"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q12971071"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.593"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sychar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sychar",
+          "gloss": "Sychar",
+          "description": "A city in Samaria where Jesus spoke to the Samaritan Woman at Jacob's Well."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Samaria.2",
+    "place:GerizimMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Συχάρ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.20307657",
+      "lon": "35.31192106"
+    },
+    "vizbible": {
+      "lat": "32.20307657",
+      "lon": "35.31192106"
+    },
+    "biblica-maps": {
+      "lat": "32.21835",
+      "lon": "35.281"
+    }
+  },
+  "key_references": [
+    "43004005"
+  ],
+  "references": [
+    "43004005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43004005008"
+      ]
+    ]
+  }
+}

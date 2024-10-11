@@ -1,0 +1,53 @@
+{
+  "id": "flora:Garlic",
+  "primary_id": "flora:Garlic",
+  "alternate_sources": {
+    "aquifer": [
+      "5369|Garlic|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007248001001000"
+    ],
+    "ubsflora": [
+      "flora:3.2.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "007248001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Garlic",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Garlic",
+          "article": "flora:Garlic",
+          "description": "A plant with a bulb divided into cloves, known for its strong taste and smell, and used both in cooking and medicine."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שׁוּמִים"
+    ]
+  },
+  "key_references": [
+    "04011005"
+  ],
+  "references": [
+    "04011005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040110050172"
+      ]
+    ]
+  }
+}

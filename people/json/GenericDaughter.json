@@ -1,0 +1,79 @@
+{
+  "id": "person:GenericDaughter",
+  "primary_id": "person:GenericDaughter",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Daughter",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Daughter",
+          "description": "An unnamed daughter participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24004031",
+    "24004031"
+  ],
+  "references": [
+    "24004031",
+    "24004031"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240040310081"
+      ],
+      [
+        "o240040310111"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o240040310131",
+          "o240040310141",
+          "o240040310151",
+          "o240040310152",
+          "o240040310161",
+          "o240040310171",
+          "o240040310181",
+          "o240040310182",
+          "o240040310191",
+          "o240040310192"
+        ]
+      },
+      {
+        "delivery": "wailing",
+        "quote_type": "Hypothetical",
+        "words": [
+          "o240090180011",
+          "o240090180021",
+          "o240090180031",
+          "o240090180041",
+          "o240090180051",
+          "o240090180052",
+          "o240090180061",
+          "o240090180071",
+          "o240090180081",
+          "o240090180091",
+          "o240090180101",
+          "o240090180111",
+          "o240090180121",
+          "o240090180131",
+          "o240090180141",
+          "o240090180151",
+          "o240090180152"
+        ]
+      }
+    ]
+  }
+}

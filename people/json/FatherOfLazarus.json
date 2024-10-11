@@ -1,0 +1,37 @@
+{
+  "id": "person:FatherOfLazarus",
+  "primary_id": "person:FatherOfLazarus",
+  "alternate_sources": {
+    "tipnr": [
+      "father_of_Lazarus@Luk.10.39"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Martha",
+    "person:Mary.3",
+    "person:Lazarus.2"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Father of Lazarus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Father of Lazarus",
+          "article": "person:FatherOfLazarus",
+          "description": "Father of Lazarus, Martha, and Mary."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "42010039"
+  ],
+  "references": [
+    "42010039"
+  ]
+}

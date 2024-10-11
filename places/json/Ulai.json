@@ -1,0 +1,102 @@
+{
+  "id": "place:Ulai",
+  "primary_id": "place:Ulai",
+  "alternate_sources": {
+    "aquifer": [
+      "8954|Ulai|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a7a7549"
+    ],
+    "ubsdbh": [
+      "000189002001000"
+    ],
+    "tipnr": [
+      "Ulai@Dan.8.2-"
+    ],
+    "vizbible": [
+      "recJoJMeX00O0qxjx"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q7878692"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000189002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ulai",
+      "alternate_labels": [
+        "Ulai Canal",
+        "River Ulai",
+        "Ulai River"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ulai",
+          "gloss": "Ulai",
+          "description": "An irrigation canal located in the province Elam of the Persian Empire, near Susa."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Susa"
+  ],
+  "subregion_of": [
+    "place:Elam"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אוּלַי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.178696",
+      "lon": "48.22489"
+    },
+    "vizbible": {
+      "lat": "32.178696",
+      "lon": "48.22489"
+    }
+  },
+  "key_references": [
+    "27008002",
+    "27008016"
+  ],
+  "references": [
+    "27008002",
+    "27008016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o270080020171"
+      ],
+      [
+        "o270080160051"
+      ]
+    ]
+  }
+}

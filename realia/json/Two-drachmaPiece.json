@@ -1,0 +1,59 @@
+{
+  "id": "realia:Two-drachmaPiece",
+  "primary_id": "realia:Two-drachmaPiece",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "57.181"
+    ],
+    "ubsrealia": [
+      "realia:11.6.2.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "57.181"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Two-Drachma Piece",
+      "alternate_labels": [
+        "Temple Tax",
+        "Shekel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Two-Drachma Piece",
+          "article": "realia:Two-drachmaPiece",
+          "description": "A tax coin given by every male Jew from the age of twenty onward to support the temple."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δίδραχμον"
+    ]
+  },
+  "key_references": [
+    "40017024",
+    "40022020",
+    "41012016"
+  ],
+  "references": [
+    "40017024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40017024009"
+      ],
+      [
+        "n40017024021"
+      ]
+    ]
+  }
+}

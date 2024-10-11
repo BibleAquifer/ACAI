@@ -1,0 +1,72 @@
+{
+  "id": "person:Shinab",
+  "primary_id": "person:Shinab",
+  "alternate_sources": {
+    "aquifer": [
+      "8422|Shinab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007519001001000"
+    ],
+    "tipnr": [
+      "Shinab@Gen.14.2"
+    ],
+    "vizbible": [
+      "recvqJJbKAZ0BXodu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Canaan",
+  "ubsdbh": [
+    "007519001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shinab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shinab",
+          "article": "person:Shinab",
+          "description": "Shinab was a king who lived during the time of the patriarchs and is mentioned in Genesis."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01014002"
+  ],
+  "references": [
+    "01014002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140020111"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140030021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010140040041"
+      ],
+      [
+        "o010140040101"
+      ]
+    ]
+  }
+}

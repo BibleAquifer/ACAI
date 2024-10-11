@@ -1,0 +1,133 @@
+{
+  "id": "place:Cana",
+  "primary_id": "place:Cana",
+  "alternate_sources": {
+    "aquifer": [
+      "4406|Cana|TyndaleBibleDictionary",
+      "26429|Cana|UWTranslationWords",
+      "132036|Cana|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a031bda"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/678219"
+    ],
+    "tipnr": [
+      "Cana@Jos.19.28-Jhn",
+      "Kanah|Cana@Jos.19.28-Jhn"
+    ],
+    "vizbible": [
+      "reckUbxmDHEnxC9dg"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q431382"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cana",
+      "alternate_labels": [
+        "Kanah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cana",
+          "gloss": "Cana",
+          "description": "A city in Galilee where Jesus turned water into wine; home of Jesus' disciple Nathanael."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Kanah"
+  ],
+  "nearby_places": [
+    "place:Capernaum",
+    "place:Nazareth",
+    "place:Magdala",
+    "place:Jotapata"
+  ],
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.74701518",
+      "lon": "35.33877162"
+    },
+    "recogito": {
+      "lat": "32.823887",
+      "lon": "35.302763"
+    },
+    "vizbible": {
+      "lat": "32.823887",
+      "lon": "35.302763"
+    },
+    "biblica-maps": {
+      "lat": "32.81994",
+      "lon": "35.30697"
+    }
+  },
+  "key_references": [
+    "43002001",
+    "43004046"
+  ],
+  "references": [
+    "06019028",
+    "43002001",
+    "43002011",
+    "43004046",
+    "43021002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190280042"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43002001009"
+      ],
+      [
+        "n43002011009"
+      ],
+      [
+        "n43004046006"
+      ],
+      [
+        "n43021002014"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43002001018"
+      ],
+      [
+        "n43004046009"
+      ]
+    ]
+  }
+}

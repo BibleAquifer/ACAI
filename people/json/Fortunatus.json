@@ -1,0 +1,67 @@
+{
+  "id": "person:Fortunatus",
+  "primary_id": "person:Fortunatus",
+  "alternate_sources": {
+    "aquifer": [
+      "5298|Fortunatus|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Fortunatus@1Co.16.17-"
+    ],
+    "vizbible": [
+      "recwCCLvbXntdPwHp"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fortunatus",
+      "alternate_labels": [
+        "ESV"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Fortunatus",
+          "article": "person:Fortunatus",
+          "description": "Fortunatus is a man mentioned in the New Testament, referenced in 1 Corinthians 16:17."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "46016017",
+    "46016024"
+  ],
+  "references": [
+    "46016017",
+    "46016024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46016017008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n46016017015"
+      ],
+      [
+        "n46016018012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n46016018001"
+      ]
+    ]
+  }
+}

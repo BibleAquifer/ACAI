@@ -1,0 +1,75 @@
+{
+  "id": "fauna:CreepingAnimal",
+  "primary_id": "fauna:CreepingAnimal",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "4.51"
+    ],
+    "ubsfauna": [
+      "fauna:4.2"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Snakes and Lizards",
+  "ubsdgnt": [
+    "4.51"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Creeping Animal",
+      "alternate_labels": [
+        "Reptile",
+        "Snake"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Creeping Animal",
+          "article": "fauna:CreepingAnimal",
+          "description": "A general term for reptiles, including snakes and lizards."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἑρπετόν"
+    ]
+  },
+  "key_references": [
+    "03005002",
+    "05032024",
+    "45001023"
+  ],
+  "references": [
+    "44010012",
+    "44011006",
+    "45001023",
+    "59003007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44010012008"
+      ],
+      [
+        "n44011006016"
+      ],
+      [
+        "n45001023018"
+      ],
+      [
+        "n59003007008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44011010009"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "group:Philippi",
+  "primary_id": "group:Philippi",
+  "alternate_sources": {
+    "aquifer": [
+      "7710|Philippians, Letter to the|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.604"
+    ],
+    "tipnr": [
+      "Philippi@Act.16.12-1Th"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Philippi",
+  "ubsdgnt": [
+    "93.604"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Philippians",
+      "alternate_labels": [
+        "Philippi",
+        "Philippian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Philippians",
+          "article": "group:Philippi",
+          "description": "People who live in Philippi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Φιλιππήσιος"
+    ]
+  },
+  "key_references": [
+    "50004015",
+    "50004023"
+  ],
+  "references": [
+    "50004015",
+    "50004023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n50004015005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n50004015004"
+      ],
+      [
+        "n50004015026"
+      ],
+      [
+        "n50004017014"
+      ],
+      [
+        "n50004018012"
+      ],
+      [
+        "n50004019008"
+      ],
+      [
+        "n50004020006"
+      ],
+      [
+        "n50004021008"
+      ],
+      [
+        "n50004022002"
+      ],
+      [
+        "n50004023010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n50004016013"
+      ],
+      [
+        "n50004021001"
+      ]
+    ]
+  }
+}

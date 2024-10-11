@@ -1,0 +1,200 @@
+{
+  "id": "place:Seir",
+  "primary_id": "place:Seir",
+  "alternate_sources": {
+    "aquifer": [
+      "8212|Seir (Place)|TyndaleBibleDictionary",
+      "27068|Seir|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007063001003000",
+      "007063001002000"
+    ],
+    "tipnr": [
+      "Seir@Gen.14.6-Ezk"
+    ],
+    "vizbible": [
+      "rec9FmVbRkqnkXn8n"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007063001003000",
+    "007063001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seir (Region)",
+      "alternate_labels": [
+        "hill country of Seir",
+        "Edomites",
+        "Mount Seir",
+        "Seirites",
+        "mountain of Seir",
+        "Edom",
+        "Seir"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Seir",
+          "gloss": "Seir (Region)",
+          "description": "A mountainous area east of the Jordan Valley and south of Moab, first inhabited by the Horites and later by the Edomites. "
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:SeirMount"
+  ],
+  "tribal_area": "group:Edom",
+  "subregion_of": [
+    "place:Edom"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain range"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.734691",
+      "lon": "35.606250"
+    },
+    "vizbible": {
+      "lat": "30.734691",
+      "lon": "35.606250"
+    }
+  },
+  "key_references": [
+    "01014006",
+    "05002012"
+  ],
+  "references": [
+    "01014006",
+    "01032004",
+    "01033014",
+    "01033016",
+    "01036008",
+    "01036009",
+    "01036030",
+    "04024018",
+    "05001002",
+    "05001044",
+    "05002001",
+    "05002004",
+    "05002005",
+    "05002008",
+    "05002012",
+    "05002022",
+    "05002029",
+    "05033002",
+    "06011017",
+    "06012007",
+    "06024004",
+    "07005004",
+    "13004042",
+    "14020010",
+    "14020022",
+    "14020023",
+    "14025011",
+    "14025014",
+    "23021011",
+    "26025008",
+    "26035002",
+    "26035003",
+    "26035007",
+    "26035015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140060041"
+      ],
+      [
+        "o010320040091"
+      ],
+      [
+        "o010330140201"
+      ],
+      [
+        "o010330160061"
+      ],
+      [
+        "o010360080041"
+      ],
+      [
+        "o010360090071"
+      ],
+      [
+        "o010360300121"
+      ],
+      [
+        "o040240180061"
+      ],
+      [
+        "o050010440142"
+      ],
+      [
+        "o050020040122"
+      ],
+      [
+        "o050020080072"
+      ],
+      [
+        "o050020120013"
+      ],
+      [
+        "o050020220062"
+      ],
+      [
+        "o050020290072"
+      ],
+      [
+        "o050330020062"
+      ],
+      [
+        "o060110170051"
+      ],
+      [
+        "o060120070201"
+      ],
+      [
+        "o060240040111"
+      ],
+      [
+        "o070050040032"
+      ],
+      [
+        "o140200230081"
+      ],
+      [
+        "o140200230131"
+      ],
+      [
+        "o140250110121"
+      ],
+      [
+        "o140250140121"
+      ],
+      [
+        "o230210110052"
+      ],
+      [
+        "o260250080082"
+      ]
+    ]
+  }
+}

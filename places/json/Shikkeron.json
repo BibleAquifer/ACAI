@@ -1,0 +1,79 @@
+{
+  "id": "place:Shikkeron",
+  "primary_id": "place:Shikkeron",
+  "alternate_sources": {
+    "aquifer": [
+      "8392|Shikkeron|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007365002001000"
+    ],
+    "tipnr": [
+      "Shikkeron@Jos.15.11"
+    ],
+    "vizbible": [
+      "recKiMzXEi85nGjRc"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007365002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shikkeron",
+      "alternate_labels": [
+        "Shicron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shikkeron",
+          "gloss": "Shikkeron",
+          "description": "A town on the northern border of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.77761410537458",
+      "lon": "34.85214575880509"
+    },
+    "vizbible": {
+      "lat": "31.77761410537458",
+      "lon": "34.85214575880509"
+    }
+  },
+  "key_references": [
+    "06015011"
+  ],
+  "references": [
+    "06015011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150110091"
+      ]
+    ]
+  }
+}

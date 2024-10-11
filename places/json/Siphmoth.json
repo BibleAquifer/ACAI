@@ -1,0 +1,76 @@
+{
+  "id": "place:Siphmoth",
+  "primary_id": "place:Siphmoth",
+  "alternate_sources": {
+    "aquifer": [
+      "8525|Siphmoth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007078001001000"
+    ],
+    "tipnr": [
+      "Siphmoth@1Sa.30.28"
+    ],
+    "vizbible": [
+      "recs4teVABvED3yZI"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007078001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Siphmoth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Siphmoth",
+          "gloss": "Siphmoth",
+          "description": "A town in the territory of Judah where David sent plunder."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.373521",
+      "lon": "35.074552"
+    },
+    "vizbible": {
+      "lat": "31.373521",
+      "lon": "35.074552"
+    }
+  },
+  "key_references": [
+    "09030028"
+  ],
+  "references": [
+    "09030028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090300280042"
+      ]
+    ]
+  }
+}

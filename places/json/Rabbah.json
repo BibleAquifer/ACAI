@@ -1,0 +1,161 @@
+{
+  "id": "place:Rabbah",
+  "primary_id": "place:Ammon",
+  "alternate_sources": {
+    "aquifer": [
+      "7893|Rabbah|TyndaleBibleDictionary",
+      "27005|Rabbah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006660001001000",
+      "006660001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/250441"
+    ],
+    "tipnr": [
+      "Rabbah|Ammon@Deu.2.19-Zep"
+    ],
+    "vizbible": [
+      "recq9ttBUfBJW1lhG"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006660001001000",
+    "006660001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rabbah (of the Ammonites)",
+      "alternate_labels": [
+        "Ammon",
+        "Rabbath",
+        "Rabbah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rabbah.1",
+          "gloss": "Rabbah (of the Ammonites)",
+          "description": "A town in Ammon and capital of the Ammonite kingdom; first conquered by Israel on their way from Egypt, and later again by David."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ammon"
+  ],
+  "subregion_of": [
+    "place:Ammon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.95018855",
+      "lon": "35.92413136"
+    },
+    "recogito": {
+      "lat": "31.95522",
+      "lon": "35.94503"
+    },
+    "vizbible": {
+      "lat": "31.95522",
+      "lon": "35.94503"
+    },
+    "biblica-maps": {
+      "lat": "31.95579",
+      "lon": "35.93393"
+    }
+  },
+  "key_references": [
+    "05003011",
+    "10012026"
+  ],
+  "references": [
+    "05003011",
+    "06013025",
+    "06015060",
+    "10011001",
+    "10012026",
+    "10012027",
+    "10012029",
+    "10012031",
+    "10017027",
+    "13020001",
+    "13020002",
+    "13020003",
+    "24049002",
+    "24049003",
+    "26021025",
+    "26021026",
+    "26025005",
+    "30001014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050030110152"
+      ],
+      [
+        "o060130250171"
+      ],
+      [
+        "o060150600063"
+      ],
+      [
+        "o100110010231"
+      ],
+      [
+        "o100120260032"
+      ],
+      [
+        "o100120270082"
+      ],
+      [
+        "o100120290071"
+      ],
+      [
+        "o100170270082"
+      ],
+      [
+        "o130200010211"
+      ],
+      [
+        "o130200010281"
+      ],
+      [
+        "o240490020091"
+      ],
+      [
+        "o240490030081"
+      ],
+      [
+        "o260210250061"
+      ],
+      [
+        "o260250050031"
+      ],
+      [
+        "o300010140041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240490020142"
+      ]
+    ]
+  }
+}

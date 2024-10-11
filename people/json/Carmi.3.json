@@ -1,0 +1,74 @@
+{
+  "id": "person:Carmi.3",
+  "primary_id": "person:Carmi.3",
+  "alternate_sources": {
+    "aquifer": [
+      "4432|Carmi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003436001002000"
+    ],
+    "tipnr": [
+      "Carmi@Jos.7.1-1Ch"
+    ],
+    "vizbible": [
+      "reczx1LYTChEuVwCA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zabdi",
+  "offspring": [
+    "person:Achan"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "003436001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Carmi (Joshua  7:1)",
+      "alternate_labels": [
+        "Karmi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Carmi (Joshua  7:1)",
+          "article": "person:Carmi.3",
+          "description": "Carmi (Joshua 7:1), also known as Karmi, was a man from the tribe of Judah, father of Achan, and first mentioned in Joshua 7:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כַּרְמִי"
+    ]
+  },
+  "key_references": [
+    "06007001",
+    "06007018",
+    "13002007"
+  ],
+  "references": [
+    "06007001",
+    "06007018",
+    "13002007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060070010091"
+      ],
+      [
+        "o060070180081"
+      ],
+      [
+        "o130020070021"
+      ]
+    ]
+  }
+}

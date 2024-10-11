@@ -1,0 +1,78 @@
+{
+  "id": "person:Hadoram.3",
+  "primary_id": "person:Joram.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5578|Hadoram|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001763001002000"
+    ],
+    "tipnr": [
+      "Hadoram|Joram@2Sa.8.10-1Ch"
+    ],
+    "vizbible": [
+      "rec5P9Tsj0F4ksO0H"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Toi",
+  "roles": [
+    "Royal Family Member"
+  ],
+  "ubsdbh": [
+    "001763001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadoram (Joram)",
+      "alternate_labels": [
+        "Joram (2 Samuel 8:10)",
+        "Joram"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joram (2 Samuel 8:10)",
+          "article": "person:Hadoram.3",
+          "description": "Hadoram, also called Joram, was the son of King Tou of Hamath who was sent to congratulate David on his victories, as mentioned in 2 Samuel 8:10 and 1 Chronicles 18:10."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Joram.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֲדֹורָם",
+      "הֲדוֹרָם"
+    ]
+  },
+  "key_references": [
+    "13018010"
+  ],
+  "references": [
+    "13018010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130180100031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130180100092"
+      ],
+      [
+        "o130180100123"
+      ]
+    ]
+  }
+}

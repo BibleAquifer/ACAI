@@ -1,0 +1,89 @@
+{
+  "id": "place:Eder",
+  "primary_id": "place:Eder",
+  "alternate_sources": {
+    "aquifer": [
+      "4941|Eder (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005269002001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2958438"
+    ],
+    "tipnr": [
+      "Eder@Jos.15.21"
+    ],
+    "vizbible": [
+      "reczCenxH07UbY0ps"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005269002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eder (of Judah)",
+      "alternate_labels": [
+        "Eder"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eder.2",
+          "gloss": "Eder (of Judah)",
+          "description": "A town in southern Judah near the border with Edom, belonging to the tribe of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.1858",
+      "lon": "34.96745"
+    },
+    "recogito": {
+      "lat": "51.02995",
+      "lon": "8.67232"
+    },
+    "vizbible": {
+      "lat": "31.1858",
+      "lon": "34.96745"
+    }
+  },
+  "key_references": [
+    "06015021"
+  ],
+  "references": [
+    "06015021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150210122"
+      ]
+    ]
+  }
+}

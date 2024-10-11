@@ -1,0 +1,63 @@
+{
+  "id": "person:Reaiah",
+  "primary_id": "person:Haroeh",
+  "alternate_sources": {
+    "aquifer": [
+      "7956|Reaiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006643001002000"
+    ],
+    "tipnr": [
+      "Reaiah|Haroeh@1Ch.2.52-"
+    ],
+    "vizbible": [
+      "rec6C5q2B1DglS5AO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shobal.2",
+  "offspring": [
+    "person:Jahath"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "006643001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Reaiah (Haroeh)",
+      "alternate_labels": [
+        "Haroeh",
+        "Jahath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Haroeh",
+          "article": "person:Reaiah",
+          "description": "Reaiah, also known as Haroeh and Jahath, is a man from the tribe of Judah, mentioned in 1 Chronicles 2:52, living during the time of the divided kingdom and the father of Jahath."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Haroeh"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004002"
+  ],
+  "references": [
+    "13004002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040020012"
+      ]
+    ]
+  }
+}

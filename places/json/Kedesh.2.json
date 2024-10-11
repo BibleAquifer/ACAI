@@ -1,0 +1,86 @@
+{
+  "id": "place:Kedesh.2",
+  "primary_id": "place:Kishion",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006393001003000"
+    ],
+    "tipnr": [
+      "Kedesh|Kishion@Jos.19.20-1Ch"
+    ],
+    "vizbible": [
+      "recI6nOkL8Hnyy5pd"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006393001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kedesh (of Judah)",
+      "alternate_labels": [
+        "Kishion",
+        "Kedesh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kedesh.2",
+          "gloss": "Kedesh (of Judah)",
+          "description": "A town in the southern territory of Judah, near the border of Edom; also known as En Mishpat, Kadesh, and Kadesh-Barnea."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Kishion",
+    "place:Kadesh-barnea"
+  ],
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.559061",
+      "lon": "35.246206"
+    },
+    "vizbible": {
+      "lat": "32.559061",
+      "lon": "35.246206"
+    }
+  },
+  "key_references": [
+    "06015023"
+  ],
+  "references": [
+    "13006057"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060570041"
+      ]
+    ]
+  }
+}

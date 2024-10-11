@@ -1,0 +1,77 @@
+{
+  "id": "place:Maacah.2",
+  "primary_id": "place:Maacah",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004213001002000"
+    ],
+    "tipnr": [
+      "Maacah@Jos.13.13"
+    ],
+    "vizbible": [
+      "recE3XSfOMlaQJZRi"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004213001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maacah@Jos.13.13",
+      "alternate_labels": [
+        "Maacah",
+        "Maacath",
+        "Maachah",
+        "Maakah"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Maacah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "vizbible": [
+      "Region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.2",
+      "lon": "36.5"
+    },
+    "vizbible": {
+      "lat": "33.2",
+      "lon": "36.5"
+    }
+  },
+  "key_references": [
+    "10010006",
+    "10010008",
+    "13019007"
+  ],
+  "references": [
+    "10010006",
+    "10010008",
+    "13019007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100100060231"
+      ],
+      [
+        "o100100080132"
+      ],
+      [
+        "o130190070091"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "place:Migron",
+  "primary_id": "place:Migron",
+  "alternate_sources": {
+    "aquifer": [
+      "7127|Migron|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003707001001000"
+    ],
+    "tipnr": [
+      "Migron@1Sa.14.2-Isa"
+    ],
+    "vizbible": [
+      "recT8QZtq4sQBftmu"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003707001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Migron",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Migron.1",
+          "gloss": "Migron",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מִגְרֹון",
+      "מִגְרוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "river",
+      "special",
+      "region"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.82378102460309",
+      "lon": "35.23100936128631"
+    },
+    "vizbible": {
+      "lat": "31.82378102460309",
+      "lon": "35.23100936128631"
+    }
+  },
+  "key_references": [
+    "09014002",
+    "23010028"
+  ],
+  "references": [
+    "09014002",
+    "23010028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090140020082"
+      ],
+      [
+        "o230100280052"
+      ]
+    ]
+  }
+}

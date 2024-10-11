@@ -1,0 +1,88 @@
+{
+  "id": "place:Bilhah",
+  "primary_id": "place:Bilhah",
+  "alternate_sources": {
+    "aquifer": [
+      "4243|Bilhah (Place)|TyndaleBibleDictionary",
+      "26398|Bilhah|UWTranslationWords",
+      "132235|Bilhah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001014001002000"
+    ],
+    "tipnr": [
+      "Bilhah@1Ch.4.29"
+    ],
+    "vizbible": [
+      "recI2dj98dykn94sK"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001014001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bilhah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bilhah",
+          "gloss": "Bilhah",
+          "description": "A town in the territory of Simeon; also known as Balah, Baalah, and Baaloth."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Balah",
+    "place:Baalah"
+  ],
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בִּלְהָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.24495217357714",
+      "lon": "34.8408885849849"
+    },
+    "vizbible": {
+      "lat": "31.24495217357714",
+      "lon": "34.8408885849849"
+    }
+  },
+  "key_references": [
+    "13004029"
+  ],
+  "references": [
+    "13004029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040290013"
+      ]
+    ]
+  }
+}

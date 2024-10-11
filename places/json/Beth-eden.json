@@ -1,0 +1,85 @@
+{
+  "id": "place:Beth-eden",
+  "primary_id": "place:Beth-eden",
+  "alternate_sources": {
+    "aquifer": [
+      "4167|Beth-Eden|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000966001001000"
+    ],
+    "tipnr": [
+      "Beth-eden@Amo.1.5"
+    ],
+    "vizbible": [
+      "recmuZ5lBl7r3FQsN"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000966001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-eden",
+      "alternate_labels": [
+        "Eden",
+        "house of Eden"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-eden",
+          "gloss": "Beth-eden",
+          "description": "An Aramean kingdom in Mesopotamia."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית עֶדֶן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.519299",
+      "lon": "36.31344999999999"
+    },
+    "vizbible": {
+      "lat": "33.519299",
+      "lon": "36.31344999999999"
+    }
+  },
+  "key_references": [
+    "30001005"
+  ],
+  "references": [
+    "30001005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o300010050102",
+        "o300010050111"
+      ]
+    ]
+  }
+}

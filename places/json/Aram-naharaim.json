@@ -1,0 +1,86 @@
+{
+  "id": "place:Aram-naharaim",
+  "primary_id": "place:Aram-naharaim",
+  "alternate_sources": {
+    "aquifer": [
+      "3698|Aram-Naharaim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a3c7b44"
+    ],
+    "ubsdbh": [
+      "000699001001000"
+    ],
+    "tipnr": [
+      "Aram-naharaim@Psa.60.1"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q625636"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000699001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aram-naharaim",
+      "alternate_labels": [
+        "Mesopotamia"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aram-naharaim",
+          "gloss": "Aram-Naharaim",
+          "description": "A region in upper Mesopotamia, around the great bend of the Euphrates River in northern Syria; also known as Paddan-Aram. It was the ancestral home of Abraham's family."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Paddan-aram"
+  ],
+  "nearby_places": [
+    "place:Euphrates"
+  ],
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲרַם נַהֲרַיִם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "01024010",
+    "07003008",
+    "05023004"
+  ],
+  "references": [
+    "19060002",
+    "19060003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190600020031",
+        "o190600020041"
+      ]
+    ]
+  }
+}

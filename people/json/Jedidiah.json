@@ -1,0 +1,98 @@
+{
+  "id": "person:Jedidiah",
+  "primary_id": "person:Solomon",
+  "alternate_sources": {
+    "aquifer": [
+      "6260|Jedidiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002801001001000"
+    ],
+    "tipnr": [
+      "Jedidiah|Solomon@2Sa.5.14-Act"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:Bathsheba",
+  "partners": [
+    "person:DaughterOfPharaoh.2",
+    "person:Naamah",
+    "person:AWifeOfSolomon"
+  ],
+  "offspring": [
+    "person:Taphath",
+    "person:Basemath.2",
+    "person:Rehoboam"
+  ],
+  "siblings": [
+    "person:Amnon",
+    "person:Chileab",
+    "person:Absalom",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shammua.2",
+    "person:Shobab",
+    "person:Nathan",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Nepheg.2",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliada",
+    "person:Eliphelet",
+    "person:Tamar.2",
+    "person:Elpelet",
+    "person:Nogah",
+    "person:Jerimoth.6"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002801001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jedidiah (Solomon)",
+      "alternate_labels": [
+        "Solomon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Solomon",
+          "article": "person:Jedidiah",
+          "description": "Also known as King Solomon, he was a king of the tribe of Judah during Israel's united kingdom, son of David and Bathsheba, and called Jedidiah at his birth (2 Samuel 12:25)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Solomon"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְדִידְיָהּ",
+      "יְדִידְיָה"
+    ]
+  },
+  "key_references": [
+    "10012025"
+  ],
+  "references": [
+    "10012025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100120250081"
+      ]
+    ]
+  }
+}

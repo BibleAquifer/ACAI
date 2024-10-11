@@ -1,0 +1,82 @@
+{
+  "id": "person:Esarhaddon",
+  "primary_id": "person:Esarhaddon",
+  "alternate_sources": {
+    "aquifer": [
+      "5138|Esarhaddon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000581001001000"
+    ],
+    "tipnr": [
+      "Esarhaddon@2Ki.19.37-Isa"
+    ],
+    "vizbible": [
+      "recsh9hpgxj5TEej4"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Sennacherib",
+  "siblings": [
+    "person:Adrammelech.2",
+    "person:Sharezer"
+  ],
+  "ubsdbh": [
+    "000581001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Esarhaddon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Esarhaddon",
+          "article": "person:Esarhaddon",
+          "description": "Esarhaddon, first mentioned in 2 Kings 19:37, was the son of Sennacherib and king of Assyria during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵסַר־חַדֹּן",
+      "אֵסַר־חַדּוֹן"
+    ]
+  },
+  "key_references": [
+    "12019037",
+    "15004002",
+    "23037038"
+  ],
+  "references": [
+    "12019037",
+    "15004002",
+    "23037038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120190370171",
+        "o120190370181"
+      ],
+      [
+        "o150040020201",
+        "o150040020211"
+      ],
+      [
+        "o230370380171",
+        "o230370380181"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o150040020242"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "place:Anim",
+  "primary_id": "place:Anim",
+  "alternate_sources": {
+    "aquifer": [
+      "3615|Anim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac22b90"
+    ],
+    "ubsdbh": [
+      "005549001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/687823"
+    ],
+    "tipnr": [
+      "Anim@Jos.15.50"
+    ],
+    "vizbible": [
+      "recprIzqujCsEq2cW"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005549001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Anim",
+          "gloss": "Anim",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.373521",
+      "lon": "35.074552"
+    },
+    "recogito": {
+      "lat": "31.352394",
+      "lon": "35.063237"
+    },
+    "vizbible": {
+      "lat": "31.373521",
+      "lon": "35.074552"
+    }
+  },
+  "key_references": [
+    "06015050"
+  ],
+  "references": [
+    "06015050"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150500032"
+      ]
+    ]
+  }
+}

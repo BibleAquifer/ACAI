@@ -1,0 +1,83 @@
+{
+  "id": "flora:Bush",
+  "primary_id": "flora:Bush",
+  "alternate_sources": {
+    "aquifer": [
+      "4367|Bush|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005113001001000"
+    ],
+    "ubsflora": [
+      "flora:1.4"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "005113001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bush",
+      "alternate_labels": [
+        "Shrub",
+        "Senna"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bush",
+          "article": "flora:Bush",
+          "description": "A type of shrub that can refer to various plants such as the senna bush, hawthorn, acacia, or other similar shrubs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סְנֶה"
+    ]
+  },
+  "key_references": [
+    "02003002",
+    "05033016"
+  ],
+  "references": [
+    "02003002",
+    "02003003",
+    "02003004",
+    "05033016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020030020082"
+      ],
+      [
+        "o020030020112"
+      ],
+      [
+        "o020030020143"
+      ],
+      [
+        "o020030030132"
+      ],
+      [
+        "o020030040102"
+      ],
+      [
+        "o050330160061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020030020152"
+      ]
+    ]
+  }
+}

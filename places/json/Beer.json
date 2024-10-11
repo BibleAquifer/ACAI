@@ -1,0 +1,106 @@
+{
+  "id": "place:Beer",
+  "primary_id": "place:Beer",
+  "alternate_sources": {
+    "aquifer": [
+      "4073|Beer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000815002001000",
+      "000815001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/687864"
+    ],
+    "tipnr": [
+      "Beer@Num.21.16"
+    ],
+    "vizbible": [
+      "recJD9cmtiBXxNSEK"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000815002001000",
+    "000815001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beer (of Moab)",
+      "alternate_labels": [
+        "Beer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beer.1",
+          "gloss": "Beer (of Moab)",
+          "description": "A location with a well north of the Arnon River where the Israelites encamped on their way from Egypt to Canaan (Numbers 21:16)."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Beer-elim"
+  ],
+  "subregion_of": [
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בְּאֵר",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.998062",
+      "lon": "35.498547"
+    },
+    "recogito": {
+      "lat": "31.255001",
+      "lon": "34.542818"
+    },
+    "vizbible": {
+      "lat": "30.998062",
+      "lon": "35.498547"
+    }
+  },
+  "key_references": [
+    "04021016"
+  ],
+  "references": [
+    "04021016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210160021"
+      ],
+      [
+        "o040210160042"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o040210160031"
+      ]
+    ]
+  }
+}

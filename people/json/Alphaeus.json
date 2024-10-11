@@ -1,0 +1,75 @@
+{
+  "id": "person:Alphaeus",
+  "primary_id": "person:Alphaeus",
+  "alternate_sources": {
+    "aquifer": [
+      "3528|Alphaeus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.19a"
+    ],
+    "tipnr": [
+      "Alphaeus@Mat.10.3-Act"
+    ],
+    "vizbible": [
+      "reczWOq6vDAOEciY7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:James.2",
+    "person:Judas"
+  ],
+  "ubsdgnt": [
+    "93.19a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Alphaeus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Alphaeus",
+          "article": "person:Alphaeus",
+          "description": "A man living during the New Testament, father of the disciple James and perhaps Matthew Levi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἁλφαῖος"
+    ]
+  },
+  "key_references": [
+    "40010003",
+    "41003018",
+    "44001013",
+    "41002014"
+  ],
+  "references": [
+    "40010003",
+    "41003018",
+    "42006015",
+    "44001013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40010003012"
+      ],
+      [
+        "n41003018015"
+      ],
+      [
+        "n42006015007"
+      ],
+      [
+        "n44001013027"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "person:Hod",
+  "primary_id": "person:Hod",
+  "alternate_sources": {
+    "aquifer": [
+      "5874|Hod|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001779002001000"
+    ],
+    "tipnr": [
+      "Hod@1Ch.7.37"
+    ],
+    "vizbible": [
+      "recKZPcVMYvj16Zfq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zophah",
+  "siblings": [
+    "person:Suah",
+    "person:Harnepher",
+    "person:Shual",
+    "person:Beri",
+    "person:Imrah",
+    "person:Bezer",
+    "person:Shamma",
+    "person:Shilshah",
+    "person:Ithran.2",
+    "person:Beera"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "001779002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hod",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hod",
+          "article": "person:Hod",
+          "description": "Hod was a man of the tribe of Asher living during the time of the divided kingdom, mentioned only in 1 Chronicles 7:37, and was the son of Zophah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֹוד",
+      "הוֹד"
+    ]
+  },
+  "key_references": [
+    "13007037"
+  ],
+  "references": [
+    "13007037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070370022"
+      ]
+    ]
+  }
+}

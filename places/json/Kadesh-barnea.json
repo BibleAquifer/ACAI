@@ -1,0 +1,222 @@
+{
+  "id": "place:Kadesh-barnea",
+  "primary_id": "place:Kadesh-barnea",
+  "alternate_sources": {
+    "aquifer": [
+      "6510|Kadesh, Kadesh-Barnea|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac2cef0"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/22035"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/687868"
+    ],
+    "tipnr": [
+      "Kadesh-barnea@Num.32.8-Psa",
+      "En-mishpat|Kadesh-barnea@Num.32.8-Psa"
+    ],
+    "vizbible": [
+      "recVfy9PlsXdODNGL"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q954599"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kadesh-barnea",
+      "alternate_labels": [
+        "En-Mishpat",
+        "Waters of Meribah-kadesh",
+        "Meribah-Kadesh",
+        "Meribath-kadesh",
+        "Kadesh",
+        "Kedesh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kadesh-barnea",
+          "gloss": "Kadesh-Barnea",
+          "description": "A town in the wilderness of Zin, in the northern part of the Sinai Peninsula, where the Israelites encamped on their way from Egypt to Canaan; it is also the location of the Meribah Spring. Spies were sent out into Canaan from this place; it later marked the southern border of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:En-mishpat",
+    "place:Kedesh.2"
+  ],
+  "subregion_of": [
+    "place:Zin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.68771281",
+      "lon": "34.49479554"
+    },
+    "recogito": {
+      "lat": "30.64805",
+      "lon": "34.42261"
+    },
+    "vizbible": {
+      "lat": "30.64805",
+      "lon": "34.42261"
+    }
+  },
+  "key_references": [
+    "05002014",
+    "04020016",
+    "06015023",
+    "04013026"
+  ],
+  "references": [
+    "01014007",
+    "01016014",
+    "01020001",
+    "04013026",
+    "04020001",
+    "04020014",
+    "04020016",
+    "04020022",
+    "04027014",
+    "04032008",
+    "04033036",
+    "04033037",
+    "04034004",
+    "05001002",
+    "05001019",
+    "05001046",
+    "05002014",
+    "05009023",
+    "06010041",
+    "06014006",
+    "06014007",
+    "06015003",
+    "06015023",
+    "07011016",
+    "07011017",
+    "19029008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140070041",
+        "o010140070051"
+      ],
+      [
+        "o010140070071"
+      ],
+      [
+        "o010160140101"
+      ],
+      [
+        "o010200010081"
+      ],
+      [
+        "o040130260151"
+      ],
+      [
+        "o040200010122"
+      ],
+      [
+        "o040200140042"
+      ],
+      [
+        "o040200160122"
+      ],
+      [
+        "o040200220022"
+      ],
+      [
+        "o040270140141"
+      ],
+      [
+        "o040320080062",
+        "o040320080071"
+      ],
+      [
+        "o040330360081"
+      ],
+      [
+        "o040330370022"
+      ],
+      [
+        "o040340040132",
+        "o040340040141"
+      ],
+      [
+        "o050010020091",
+        "o050010020101"
+      ],
+      [
+        "o050010190221",
+        "o050010190231"
+      ],
+      [
+        "o050010460022"
+      ],
+      [
+        "o050020140042",
+        "o050020140051"
+      ],
+      [
+        "o050090230042",
+        "o050090230051"
+      ],
+      [
+        "o060100410032",
+        "o060100410041"
+      ],
+      [
+        "o060140060282",
+        "o060140060291"
+      ],
+      [
+        "o060140070102",
+        "o060140070111"
+      ],
+      [
+        "o060150030102",
+        "o060150030111"
+      ],
+      [
+        "o060150230012"
+      ],
+      [
+        "o070110160111"
+      ],
+      [
+        "o070110170242"
+      ],
+      [
+        "o190290080081"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140070061"
+      ]
+    ]
+  }
+}

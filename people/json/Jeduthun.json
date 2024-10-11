@@ -1,0 +1,141 @@
+{
+  "id": "person:Jeduthun",
+  "primary_id": "person:Jeduthun",
+  "alternate_sources": {
+    "aquifer": [
+      "6261|Jeduthun|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ethan|Jeduthun@1Ch.6.44-Psa",
+      "Jeduthun@1Ch.6.44-Psa"
+    ],
+    "vizbible": [
+      "recQkQ6wN9kIVFY94"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kishi",
+  "offspring": [
+    "person:Obed-edom",
+    "person:Mattithiah.2",
+    "person:Gedaliah.4",
+    "person:Zeri",
+    "person:Jeshaiah.3",
+    "person:Hashabiah.3",
+    "person:Shemaiah.11",
+    "person:Uzziel.5"
+  ],
+  "roles": [
+    "Priest",
+    "Leader"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeduthun",
+      "alternate_labels": [
+        "Jedithun",
+        "Ethan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeduthun",
+          "article": "person:Jeduthun",
+          "description": "A Levite liturgical musical leader chosen by King David. He was also called the king's seer. He was father of several sons, including Obed-edom and Mattithiah, who were appointed as gatekeepers."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ethan.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13016038",
+    "13016039",
+    "13016040",
+    "13016041",
+    "13025001",
+    "13025002",
+    "13025003",
+    "14035015"
+  ],
+  "references": [
+    "13006029",
+    "13015017",
+    "13015019",
+    "13016038",
+    "13016041",
+    "13016042",
+    "13025001",
+    "13025003",
+    "13025006",
+    "14005012",
+    "14029014",
+    "14035015",
+    "19039001",
+    "19062001",
+    "19077001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060290061"
+      ],
+      [
+        "o130150170161"
+      ],
+      [
+        "o130150190042"
+      ],
+      [
+        "o130160380091"
+      ],
+      [
+        "o130160410032"
+      ],
+      [
+        "o130160420032"
+      ],
+      [
+        "o130160420111"
+      ],
+      [
+        "o130250010092"
+      ],
+      [
+        "o130250030012"
+      ],
+      [
+        "o130250030031"
+      ],
+      [
+        "o130250030131"
+      ],
+      [
+        "o130250060192"
+      ],
+      [
+        "o140050120062"
+      ],
+      [
+        "o140290140091"
+      ],
+      [
+        "o140350150102"
+      ],
+      [
+        "o190390010032"
+      ],
+      [
+        "o190620010031"
+      ],
+      [
+        "o190770010041"
+      ]
+    ]
+  }
+}

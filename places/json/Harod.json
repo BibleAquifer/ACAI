@@ -1,0 +1,85 @@
+{
+  "id": "place:Harod",
+  "primary_id": "place:Harod",
+  "alternate_sources": {
+    "aquifer": [
+      "5677|Harod|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Harod@Jdg.7.1-1Ch"
+    ],
+    "vizbible": [
+      "rec9ekXwjiKSDYlPT"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Harod",
+      "alternate_labels": [
+        "Harodite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Harod.2",
+          "gloss": "Harod",
+          "description": "Home of two of David's fighting men, Shammah and Elika.  "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Harod"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "spring"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.549638",
+      "lon": "35.355647"
+    },
+    "vizbible": {
+      "lat": "32.549638",
+      "lon": "35.355647"
+    }
+  },
+  "key_references": [
+    "10023025",
+    "13011027"
+  ],
+  "references": [
+    "07007001",
+    "10023025",
+    "13011027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070070010111",
+        "o070070010121"
+      ],
+      [
+        "o100230250022"
+      ],
+      [
+        "o100230250042"
+      ],
+      [
+        "o130110270022"
+      ]
+    ]
+  }
+}

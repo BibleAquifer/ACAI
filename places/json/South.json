@@ -1,0 +1,95 @@
+{
+  "id": "place:South",
+  "primary_id": "place:Negeb",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004625001002000",
+      "004625001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/3337406"
+    ],
+    "tipnr": [
+      "south|Negeb@Gen.12.9-Zec"
+    ],
+    "vizbible": [
+      "recItoooL8TKSOT5p"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004625001002000",
+    "004625001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "South (towards the Negev)",
+      "alternate_labels": [
+        "Negeb",
+        "South",
+        "Negev"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:South.1",
+          "gloss": "South (towards the Negev)",
+          "description": "A cardinal direction indicating the direction to the right of a person facing the direction of the rising sun, which is the direction of the Negev desert."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Negeb"
+  ],
+  "referred_to_as": [
+    "place:Negeb"
+  ],
+  "associated_places": [
+    "place:Negeb"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נֶגֶב",
+      "ה",
+      "נִבְשָׁן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "recogito": {
+      "lat": "64.14620971568705",
+      "lon": "-19.17522938"
+    }
+  },
+  "key_references": [
+    "38007007"
+  ],
+  "references": [
+    "06015021",
+    "38007007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150210102"
+      ],
+      [
+        "o380070070163"
+      ]
+    ]
+  }
+}

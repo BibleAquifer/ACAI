@@ -1,0 +1,75 @@
+{
+  "id": "person:Abinoam",
+  "primary_id": "person:Abinoam",
+  "alternate_sources": {
+    "aquifer": [
+      "3307|Abinoam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000041001001000"
+    ],
+    "tipnr": [
+      "Abinoam@Jdg.4.6-"
+    ],
+    "vizbible": [
+      "recshSib68Oakv8Y4"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Barak"
+  ],
+  "ubsdbh": [
+    "000041001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abinoam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abinoam",
+          "article": "person:Abinoam",
+          "description": "Father of the Israelite judge Barak."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִינֹעַם",
+      "אֲבִינֹ֫עַם"
+    ]
+  },
+  "key_references": [
+    "07004006",
+    "07005001",
+    "07004012",
+    "07005012"
+  ],
+  "references": [
+    "07004006",
+    "07004012",
+    "07005001",
+    "07005012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070040060051"
+      ],
+      [
+        "o070040120071"
+      ],
+      [
+        "o070050010051"
+      ],
+      [
+        "o070050120131"
+      ]
+    ]
+  }
+}

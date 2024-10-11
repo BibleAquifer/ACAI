@@ -1,0 +1,92 @@
+{
+  "id": "person:Kenaz.3",
+  "primary_id": "person:Kenaz.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6548|Kenaz|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Kenaz@Num.32.12-1Ch"
+    ],
+    "vizbible": [
+      "recBwUFLiv93rfJsB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jephunneh",
+  "offspring": [
+    "person:Othniel",
+    "person:Seraiah.4"
+  ],
+  "siblings": [
+    "person:Caleb"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kenaz",
+      "alternate_labels": [
+        "Kenizzite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kenaz",
+          "article": "person:Kenaz.3",
+          "description": "A Kenizzite and son of Jephunneh, brother of the warrior Caleb, and father of the judge Othniel and Seraiah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Kenaz"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "06014006",
+    "07001013",
+    "13004013"
+  ],
+  "references": [
+    "04032012",
+    "06014006",
+    "06014014",
+    "06015017",
+    "07001013",
+    "07003009",
+    "07003011",
+    "13004013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320120052"
+      ],
+      [
+        "o060140060122"
+      ],
+      [
+        "o060140140082"
+      ],
+      [
+        "o060150170041"
+      ],
+      [
+        "o070010130041"
+      ],
+      [
+        "o070030090151"
+      ],
+      [
+        "o070030110081"
+      ],
+      [
+        "o130040130021"
+      ]
+    ]
+  }
+}

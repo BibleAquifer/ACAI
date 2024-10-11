@@ -1,0 +1,148 @@
+{
+  "id": "person:Hur.2",
+  "primary_id": "person:Hur.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5954|Hur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002173003001000",
+      "002173003002000"
+    ],
+    "tipnr": [
+      "Hur@Exo.17.10-2Ch"
+    ],
+    "vizbible": [
+      "recbO7tUz8fk12ExW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Caleb.2",
+  "mother": "person:Ephrathah",
+  "offspring": [
+    "person:Uri",
+    "person:Shobal.2",
+    "person:Salma",
+    "person:Hareph",
+    "person:Jezreel",
+    "person:Ishma",
+    "person:Idbash",
+    "person:Hazzelelponi",
+    "person:Penuel",
+    "person:Ezer.2"
+  ],
+  "siblings": [
+    "person:Jesher",
+    "person:Shobab.2",
+    "person:Ardon",
+    "person:Mareshah",
+    "person:Haran.3",
+    "person:Moza",
+    "person:Gazez",
+    "person:Sheber",
+    "person:Tirhanah",
+    "person:Shaaph.2",
+    "person:Sheva.2",
+    "person:Achsah.2"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002173003001000",
+    "002173003002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hur",
+          "article": "person:Hur.2",
+          "description": "An assistant of Moses from the tribe of Judah. He was father of Uri and grandfather of Bezalel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חוּר"
+    ]
+  },
+  "key_references": [
+    "02017010",
+    "02017011",
+    "02017012",
+    "02024014",
+    "02031002"
+  ],
+  "references": [
+    "02017010",
+    "02017012",
+    "02024014",
+    "02031002",
+    "02035030",
+    "02038022",
+    "13002019",
+    "13002020",
+    "13002050",
+    "13004001",
+    "13004004",
+    "14001005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020170100112"
+      ],
+      [
+        "o020170120112"
+      ],
+      [
+        "o020240140132"
+      ],
+      [
+        "o020310020081"
+      ],
+      [
+        "o020350300141"
+      ],
+      [
+        "o020380220051"
+      ],
+      [
+        "o130020190111"
+      ],
+      [
+        "o130020200012"
+      ],
+      [
+        "o130020500061"
+      ],
+      [
+        "o130040010062"
+      ],
+      [
+        "o130040040091"
+      ],
+      [
+        "o140010050091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020170120042"
+      ],
+      [
+        "o020170120062"
+      ]
+    ]
+  }
+}

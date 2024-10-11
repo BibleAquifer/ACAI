@@ -1,0 +1,65 @@
+{
+  "id": "person:Machbenah",
+  "primary_id": "person:Machbenah",
+  "alternate_sources": {
+    "aquifer": [
+      "6833|Machbenah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003967001001000"
+    ],
+    "tipnr": [
+      "Machbenah@1Ch.2.49"
+    ],
+    "vizbible": [
+      "recGN3KbFlztQpDq8"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Sheva.2",
+  "siblings": [
+    "person:Gibea"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "003967001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Machbenah",
+      "alternate_labels": [
+        "Makbenah",
+        "Achsa"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Machbenah",
+          "article": "person:Machbenah",
+          "description": "A man from the tribe of Judah during the divided kingdom period, mentioned in 1 Chronicles 2:49."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַכְבֵּנָה"
+    ]
+  },
+  "key_references": [
+    "13002049"
+  ],
+  "references": [
+    "13002049"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020490081"
+      ]
+    ]
+  }
+}

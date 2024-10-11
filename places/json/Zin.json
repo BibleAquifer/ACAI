@@ -1,0 +1,119 @@
+{
+  "id": "place:Zin",
+  "primary_id": "place:Zin",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006246001001000"
+    ],
+    "tipnr": [
+      "Zin@Num.13.21-Jos"
+    ],
+    "vizbible": [
+      "recM1lN580CYvi2y8"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006246001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wilderness of Zin",
+      "alternate_labels": [
+        "Zin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zin.1",
+          "gloss": "Wilderness of Zin",
+          "description": "A wilderness area in the Negev on the southern border of Canaan, near Kadesh-Barnea."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Kadesh-barnea"
+  ],
+  "subregion_of": [
+    "place:Negeb"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "wilderness"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.68771281376111",
+      "lon": "34.49479554246946"
+    },
+    "vizbible": {
+      "lat": "30.68771281376111",
+      "lon": "34.49479554246946"
+    }
+  },
+  "key_references": [
+    "04020001",
+    "04027014",
+    "06015001"
+  ],
+  "references": [
+    "04013021",
+    "04020001",
+    "04027014",
+    "04033036",
+    "04034003",
+    "04034004",
+    "05032051",
+    "06015001",
+    "06015003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130210061"
+      ],
+      [
+        "o040200010071"
+      ],
+      [
+        "o040270140051"
+      ],
+      [
+        "o040270140161"
+      ],
+      [
+        "o040330360061"
+      ],
+      [
+        "o040340030061"
+      ],
+      [
+        "o040340040081"
+      ],
+      [
+        "o050320510121"
+      ],
+      [
+        "o060150010111"
+      ],
+      [
+        "o060150030071"
+      ]
+    ]
+  }
+}

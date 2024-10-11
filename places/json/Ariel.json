@@ -1,0 +1,148 @@
+{
+  "id": "place:Ariel",
+  "primary_id": "place:Jerusalem",
+  "alternate_sources": {
+    "aquifer": [
+      "3737|Ariel (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000680003003000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/8199394"
+    ],
+    "tipnr": [
+      "Ariel|Jerusalem@Jos.10.1-Rev"
+    ],
+    "vizbible": [
+      "rec49TXccUxr6Dnhe"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000680003003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ariel",
+      "alternate_labels": [
+        "Jerusalem"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ariel",
+          "gloss": "Ariel",
+          "description": "Another name for the city of Jerusalem."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲרִיאֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "32.1065",
+      "lon": "35.18449"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "23029001"
+  ],
+  "references": [
+    "23029001",
+    "23029002",
+    "23029007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230290010021",
+        "o230290010031"
+      ],
+      [
+        "o230290020022"
+      ],
+      [
+        "o230290020082"
+      ],
+      [
+        "o230290070101"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230290130072"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230290010071"
+      ],
+      [
+        "o230290020032"
+      ],
+      [
+        "o230290020062"
+      ],
+      [
+        "o230290040012"
+      ],
+      [
+        "o230290040031"
+      ],
+      [
+        "o230290060041"
+      ],
+      [
+        "o230290090011"
+      ],
+      [
+        "o230290090022",
+        "o230290090031"
+      ],
+      [
+        "o230290090042",
+        "o230290090051"
+      ],
+      [
+        "o230290090081"
+      ]
+    ]
+  }
+}

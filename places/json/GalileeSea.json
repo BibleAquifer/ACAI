@@ -1,0 +1,138 @@
+{
+  "id": "place:GalileeSea",
+  "primary_id": "place:GalileeSea",
+  "alternate_sources": {
+    "aquifer": [
+      "8185|Sea of Galilee|TyndaleBibleDictionary",
+      "27065|Sea of Galilee|UWTranslationWords"
+    ],
+    "obi": [
+      "a562fcc"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678430",
+      "http://pleiades.stoa.org/places/678430"
+    ],
+    "tipnr": [
+      "Sea_of_Tiberias|Galilee_Sea@Num.34.11-Jhn",
+      "Galilee_Sea@Num.34.11-Jhn"
+    ],
+    "vizbible": [
+      "recRe6uBpPMDP6u82"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q126982"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sea of Galilee",
+      "alternate_labels": [
+        "Sea of Kinnereth",
+        "Sea of Tiberias",
+        "Chinneroth",
+        "Sea of Chinneroth",
+        "Kinnereth Sea",
+        "Sea of Chinnereth",
+        "Tiberias"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:SeaOfGalilee",
+          "gloss": "Sea of Galilee",
+          "description": "A large body of freshwater east of the territory of Galilee, in northern Israel, through which the Jordan River flows and where Jesus walked on water (Matthew 14:22–33; Mark 6:45–52; John 6:16–21)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:SeaOfTiberias"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "body of water"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "lake"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.80677586",
+      "lon": "35.58936053"
+    },
+    "recogito": {
+      "lat": "32.8138046",
+      "lon": "35.590564"
+    },
+    "vizbible": {
+      "lat": "32.8138046",
+      "lon": "35.590564"
+    }
+  },
+  "key_references": [
+    "41001016",
+    "04034011",
+    "43006001",
+    "40004018"
+  ],
+  "references": [
+    "04034011",
+    "06012003",
+    "06013027",
+    "40004018",
+    "40009001",
+    "40015029",
+    "41001016",
+    "41007031",
+    "43006001",
+    "43021001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40004018007"
+      ],
+      [
+        "n40015029011"
+      ],
+      [
+        "n41001016007"
+      ],
+      [
+        "n41007031015"
+      ],
+      [
+        "n43006001010"
+      ],
+      [
+        "n43006001012"
+      ],
+      [
+        "n43021001014"
+      ]
+    ],
+    "wlc": [
+      [
+        "o040340110131"
+      ],
+      [
+        "o060120030041"
+      ],
+      [
+        "o060130270181"
+      ]
+    ]
+  }
+}

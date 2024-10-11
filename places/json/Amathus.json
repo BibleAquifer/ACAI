@@ -1,0 +1,44 @@
+{
+  "id": "place:Amathus",
+  "primary_id": "place:Amathus",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Amathus",
+          "gloss": "Amathus",
+          "description": "A fortress east of the Jordan River, about halfway between the Sea of Galilee and the Dead Sea; possibly biblical Zaphon."
+        }
+      ],
+      "preferred_label": "Amathus",
+      "alternate_labels": [
+        "Ammathus",
+        "Amathous",
+        "'Amateh"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Zaphon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "fortification",
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.28122",
+      "lon": "35.61637"
+    }
+  }
+}

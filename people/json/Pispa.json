@@ -1,0 +1,60 @@
+{
+  "id": "person:Pispa",
+  "primary_id": "person:Pispa",
+  "alternate_sources": {
+    "aquifer": [
+      "7749|Pispa, Pispah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005938001001000"
+    ],
+    "tipnr": [
+      "Pispa@1Ch.7.38"
+    ],
+    "vizbible": [
+      "recK4v6klWsRZ63lI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ithran.2",
+  "siblings": [
+    "person:Jephunneh.2",
+    "person:Ara"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "005938001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pispa",
+      "alternate_labels": [
+        "Pispah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pispa",
+          "article": "person:Pispa",
+          "description": "Pispa, also known as Pispah, was a man of the tribe of Asher living during the time of the divided kingdom, mentioned in 1 Chronicles 7:38."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007038"
+  ],
+  "references": [
+    "13007038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070380042"
+      ]
+    ]
+  }
+}

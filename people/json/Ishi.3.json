@@ -1,0 +1,63 @@
+{
+  "id": "person:Ishi.3",
+  "primary_id": "person:Ishi.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6070|Ishi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003178001003000"
+    ],
+    "tipnr": [
+      "Ishi@1Ch.4.42"
+    ],
+    "vizbible": [
+      "recvY1UkuriT56lrG"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Pelatiah.2",
+    "person:Neariah.2",
+    "person:Rephaiah.3",
+    "person:Uzziel.2"
+  ],
+  "tribe": "group:Simeon",
+  "ubsdbh": [
+    "003178001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ishi (1 Chronicles 4:42)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ishi (1 Chronicles 4:42)",
+          "article": "person:Ishi.3",
+          "description": "A man from the tribe of Simeon living during the time of the divided kingdom, mentioned in 1 Chronicles 4:42 as the father of Pelatiah, Neariah, Rephaiah, and Uzziel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִשְׁעִי"
+    ]
+  },
+  "key_references": [
+    "13004042"
+  ],
+  "references": [
+    "13004042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040420161"
+      ]
+    ]
+  }
+}

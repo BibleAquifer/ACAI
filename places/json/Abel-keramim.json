@@ -1,0 +1,90 @@
+{
+  "id": "place:Abel-keramim",
+  "primary_id": "place:Abel-keramim",
+  "alternate_sources": {
+    "aquifer": [
+      "3277|Abel-Keramim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a957c5b"
+    ],
+    "ubsdbh": [
+      "000061001001000"
+    ],
+    "tipnr": [
+      "Abel-keramim@Jdg.11.33"
+    ],
+    "vizbible": [
+      "recwEV1Fp9PkdgIww"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3743528"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000061001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abel-keramim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Abel-keramim",
+          "gloss": "Abel-Keramim",
+          "description": "A village in the region of Ammon, east of the Jordan River, where Jephthah subdued the Ammonites (Judges 11:33)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Ammon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אָבֵל כְּרָמִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.02425",
+      "lon": "35.82352"
+    },
+    "vizbible": {
+      "lat": "32.02425",
+      "lon": "35.82352"
+    }
+  },
+  "key_references": [
+    "07011033"
+  ],
+  "references": [
+    "07011033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070110330091",
+        "o070110330101"
+      ]
+    ]
+  }
+}

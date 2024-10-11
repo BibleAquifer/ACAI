@@ -1,0 +1,86 @@
+{
+  "id": "place:Gareb",
+  "primary_id": "place:Gareb",
+  "alternate_sources": {
+    "aquifer": [
+      "5368|Gareb (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001483001002000"
+    ],
+    "tipnr": [
+      "Gareb@Jer.31.39"
+    ],
+    "vizbible": [
+      "recbBFKI5CVixfoI2"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001483001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gareb",
+      "alternate_labels": [
+        "Hill of Gareb"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gareb",
+          "gloss": "Gareb",
+          "description": "A hill in the immediate vicinity of Jerusalem; possibly north or west of the city."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גָּרֵב"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "hill"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "24031039"
+  ],
+  "references": [
+    "24031039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240310390091"
+      ]
+    ]
+  }
+}

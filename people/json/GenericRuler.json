@@ -1,0 +1,43 @@
+{
+  "id": "person:GenericRuler",
+  "primary_id": "person:GenericRuler",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Ruler",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Ruler",
+          "description": "The ruler of a group, tribe, or nation."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "20025007"
+  ],
+  "references": [
+    "20025007"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o200250070031"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o200250070051",
+          "o200250070061"
+        ]
+      }
+    ]
+  }
+}

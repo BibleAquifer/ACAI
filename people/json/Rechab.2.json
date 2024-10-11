@@ -1,0 +1,104 @@
+{
+  "id": "person:Rechab.2",
+  "primary_id": "person:Rechab.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7965|Rechab, Rechabite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Rechab@2Ki.10.15-Jer"
+    ],
+    "vizbible": [
+      "recI3I2hTyt8KI5kr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hammath",
+  "offspring": [
+    "person:Jonadab"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rechab",
+      "alternate_labels": [
+        "Rekab",
+        "Rechabite",
+        "Rekabite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rechab",
+          "article": "person:Rechab.2",
+          "description": "The father of J(eh)onadab who lived during the time of the divided kingdom of Israel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Rechab"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12010015",
+    "13002055",
+    "24035006"
+  ],
+  "references": [
+    "12010015",
+    "12010023",
+    "13002055",
+    "24035002",
+    "24035003",
+    "24035005",
+    "24035006",
+    "24035008",
+    "24035014",
+    "24035016",
+    "24035018",
+    "24035019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120100150071"
+      ],
+      [
+        "o120100230051"
+      ],
+      [
+        "o130020550151"
+      ],
+      [
+        "o240350020042"
+      ],
+      [
+        "o240350030162"
+      ],
+      [
+        "o240350050052"
+      ],
+      [
+        "o240350060081"
+      ],
+      [
+        "o240350080051"
+      ],
+      [
+        "o240350140061"
+      ],
+      [
+        "o240350160061"
+      ],
+      [
+        "o240350180022"
+      ],
+      [
+        "o240350190131"
+      ]
+    ]
+  }
+}

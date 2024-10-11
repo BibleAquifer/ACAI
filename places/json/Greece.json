@@ -1,0 +1,154 @@
+{
+  "id": "place:Greece",
+  "primary_id": "place:Greece",
+  "alternate_sources": {
+    "aquifer": [
+      "5537|Greece, Greek|TyndaleBibleDictionary",
+      "26662|Greece|UWTranslationWords",
+      "132140|Greece|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a116c5c"
+    ],
+    "tipnr": [
+      "Javan|Greece@Isa.66.19-Act",
+      "Greece@Isa.66.19-Act",
+      "Hellenist|Greece@Isa.66.19-Act"
+    ],
+    "vizbible": [
+      "recwvS6ztRKFrA9rK"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1684266"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Greece",
+      "alternate_labels": [
+        "Hellenist",
+        "Javan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Greece",
+          "gloss": "Greece",
+          "description": "A nation on the southern end of the Balkan Peninsula."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Javan",
+    "group:Hellenist"
+  ],
+  "tribal_area": "group:Greek",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.95331433666365",
+      "lon": "27.36782511573013"
+    },
+    "vizbible": {
+      "lat": "37.95331433666365",
+      "lon": "27.36782511573013"
+    }
+  },
+  "key_references": [
+    "27008021",
+    "44020002"
+  ],
+  "references": [
+    "23066019",
+    "26027013",
+    "27008021",
+    "27010020",
+    "27011002",
+    "38009013",
+    "44006001",
+    "44009029",
+    "44011020",
+    "44020002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230660190152"
+      ],
+      [
+        "o260270130011"
+      ],
+      [
+        "o270080210041"
+      ],
+      [
+        "o270100200161"
+      ],
+      [
+        "o270110020221"
+      ],
+      [
+        "o380090130131"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44006001012"
+      ],
+      [
+        "n44009029007"
+      ],
+      [
+        "n44011020018"
+      ],
+      [
+        "n44020002014"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270130041"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44006001025"
+      ],
+      [
+        "n44009029008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270130051"
+      ],
+      [
+        "o260270130101"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44009029011"
+      ]
+    ]
+  }
+}

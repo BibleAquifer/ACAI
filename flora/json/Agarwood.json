@@ -1,0 +1,70 @@
+{
+  "id": "flora:Agarwood",
+  "primary_id": "flora:Agarwood",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000168001001000",
+      "000168001002000"
+    ],
+    "ubsflora": [
+      "flora:4.1.1"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "000168001001000",
+    "000168001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Agarwood",
+      "alternate_labels": [
+        "Agarwood Tree"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Agarwood",
+          "article": "flora:Agarwood",
+          "description": "A large tree from Southeast Asia known for its fragrant wood, often used for making perfumes."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲהָלֹות",
+      "אֲהָלֹות"
+    ]
+  },
+  "key_references": [
+    "04024006",
+    "19045009",
+    "20007017"
+  ],
+  "references": [
+    "04024006",
+    "19045009",
+    "20007017",
+    "22004014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040240060062"
+      ],
+      [
+        "o220040140102"
+      ],
+      [
+        "o190450090022"
+      ],
+      [
+        "o200070170041"
+      ]
+    ]
+  }
+}

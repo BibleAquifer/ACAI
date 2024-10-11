@@ -1,0 +1,60 @@
+{
+  "id": "person:Aram.2",
+  "primary_id": "person:Aram.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3700|Aram (Person)|TyndaleBibleDictionary",
+      "26329|Aram|UWTranslationWords",
+      "132380|Aram|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000695001003000"
+    ],
+    "tipnr": [
+      "Aram@Gen.22.21"
+    ],
+    "vizbible": [
+      "rec9yeIB6RsFeHdat"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Kemuel",
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "000695001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aram (Genesis 22:21)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aram (Genesis 22:21)",
+          "article": "person:Aram.2",
+          "description": "A man living during the time of the patriarchs, son of Kemuel and descendant of Nahor, mentioned in Genesis 22:21."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲרָם"
+    ]
+  },
+  "key_references": [
+    "01022021"
+  ],
+  "references": [
+    "01022021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010220210101"
+      ]
+    ]
+  }
+}

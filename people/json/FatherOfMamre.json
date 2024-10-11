@@ -1,0 +1,37 @@
+{
+  "id": "person:FatherOfMamre",
+  "primary_id": "person:FatherOfMamre",
+  "alternate_sources": {
+    "tipnr": [
+      "father_of_Mamre@Gen.14.13"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Mamre",
+    "person:Eshcol",
+    "person:Aner"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Father of Mamre",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Father of Mamre",
+          "article": "person:FatherOfMamre",
+          "description": "The Father of Mamre is an unnamed man from the time of the patriarchs, known as the father of Mamre, Eshcol, and Aner."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01014013"
+  ],
+  "references": [
+    "01014013"
+  ]
+}

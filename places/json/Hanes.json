@@ -1,0 +1,97 @@
+{
+  "id": "place:Hanes",
+  "primary_id": "place:Hanes",
+  "alternate_sources": {
+    "aquifer": [
+      "5645|Hanes|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "abf97ba"
+    ],
+    "ubsdbh": [
+      "002403001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/736920",
+      "http://pleiades.stoa.org/places/736920"
+    ],
+    "tipnr": [
+      "Hanes@Isa.30.4"
+    ],
+    "vizbible": [
+      "receT45wEUunniEiI"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002403001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hanes",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hanes",
+          "gloss": "Hanes",
+          "description": "A town in Egypt located on an island in the Nile, south of Memphis."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Memphis"
+  ],
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חָנֵס"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.085425",
+      "lon": "30.934402"
+    },
+    "recogito": {
+      "lat": "29.08554",
+      "lon": "30.934549"
+    },
+    "vizbible": {
+      "lat": "29.085425",
+      "lon": "30.934402"
+    }
+  },
+  "key_references": [
+    "23030004"
+  ],
+  "references": [
+    "23030004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230300040061"
+      ]
+    ]
+  }
+}

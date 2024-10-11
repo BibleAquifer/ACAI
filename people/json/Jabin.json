@@ -1,0 +1,77 @@
+{
+  "id": "person:Jabin",
+  "primary_id": "person:Jabin",
+  "alternate_sources": {
+    "aquifer": [
+      "6151|Jabin|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002748001001000"
+    ],
+    "tipnr": [
+      "Jabin@Jos.11.1"
+    ],
+    "vizbible": [
+      "rec9eHREJ5rtgWP32"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Syria",
+  "ubsdbh": [
+    "002748001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jabin",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jabin",
+          "article": "person:Jabin",
+          "description": "A king of Hazor living before Israel's Monarchy, mentioned during the time of Joshua in Joshua 11:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָבִין"
+    ]
+  },
+  "key_references": [
+    "06011001"
+  ],
+  "references": [
+    "06011001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110010031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060110040021"
+      ],
+      [
+        "o060110050042"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o060110010062"
+      ]
+    ]
+  }
+}

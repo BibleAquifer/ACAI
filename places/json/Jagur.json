@@ -1,0 +1,87 @@
+{
+  "id": "place:Jagur",
+  "primary_id": "place:Jagur",
+  "alternate_sources": {
+    "aquifer": [
+      "6171|Jagur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002775001001000"
+    ],
+    "tipnr": [
+      "Jagur@Jos.15.21"
+    ],
+    "vizbible": [
+      "recmuiHPO6M2Goxyf"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002775001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jagur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jagur",
+          "gloss": "Jagur",
+          "description": "A town on Judah's southeastern border, near Edom."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Edom"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָגוּר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.1858",
+      "lon": "34.96745"
+    },
+    "vizbible": {
+      "lat": "31.1858",
+      "lon": "34.96745"
+    }
+  },
+  "key_references": [
+    "06015021"
+  ],
+  "references": [
+    "06015021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150210132"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "place:Baal-gad",
+  "primary_id": "place:HermonMount",
+  "alternate_sources": {
+    "aquifer": [
+      "3932|Baal-Gad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001084001001000"
+    ],
+    "tipnr": [
+      "Baal-gad|Hermon_Mount@Deu.3.8-Ezk"
+    ],
+    "vizbible": [
+      "recSmeH9WUgkGjene"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001084001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baal-gad",
+      "alternate_labels": [
+        "Mount Hermon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baal-gad",
+          "gloss": "Baal-Gad",
+          "description": "A town at the foot of Mount Hermon associated with the worship of the god of Fortune."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:HermonMount"
+  ],
+  "nearby_places": [
+    "place:HermonMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בַּעַל גָּד",
+      "בַּ֫עַל גָּד"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.41615982",
+      "lon": "35.85725618"
+    },
+    "vizbible": {
+      "lat": "33.41615982",
+      "lon": "35.85725618"
+    }
+  },
+  "key_references": [
+    "06011017",
+    "06012007"
+  ],
+  "references": [
+    "06011017",
+    "06012007",
+    "06013005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110170071",
+        "o060110170081"
+      ],
+      [
+        "o060120070122",
+        "o060120070131"
+      ],
+      [
+        "o060130050072",
+        "o060130050081"
+      ]
+    ]
+  }
+}

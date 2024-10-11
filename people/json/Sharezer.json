@@ -1,0 +1,71 @@
+{
+  "id": "person:Sharezer",
+  "primary_id": "person:Sharezer",
+  "alternate_sources": {
+    "aquifer": [
+      "8294|Sharezer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007087001001000"
+    ],
+    "tipnr": [
+      "Sharezer@2Ki.19.37-Isa"
+    ],
+    "vizbible": [
+      "recibew2LuKVxgRy3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Sennacherib",
+  "siblings": [
+    "person:Adrammelech.2",
+    "person:Esarhaddon"
+  ],
+  "ubsdbh": [
+    "007087001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sharezer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sharezer",
+          "article": "person:Sharezer",
+          "description": "Sharezer was a man living during the time of the divided kingdom, the son of Sennacherib and brother of Adrammelech and Esarhaddon, mentioned in 2 Kings 19:37."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12019037",
+    "23037038"
+  ],
+  "references": [
+    "12019037",
+    "23037038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120190370082"
+      ],
+      [
+        "o230370380082"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o120190370122"
+      ],
+      [
+        "o230370380122"
+      ]
+    ]
+  }
+}

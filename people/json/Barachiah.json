@@ -1,0 +1,70 @@
+{
+  "id": "person:Barachiah",
+  "primary_id": "person:Jehoiada.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4000|Barachiah, Barachias|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.61"
+    ],
+    "tipnr": [
+      "Barachiah|Jehoiada@2Ki.11.4-Mat"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Jehosheba"
+  ],
+  "offspring": [
+    "person:Zechariah.12"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "ubsdgnt": [
+    "93.61"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Barachiah (Jehoiada)",
+      "alternate_labels": [
+        "Jehoiada",
+        "Barachias",
+        "Berekiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoiada",
+          "article": "person:Barachiah",
+          "description": "A priest living at the time of the divided kingdom, father of Zechariah, also called Jehoiada, mentioned in 2 Kings 11:4 and Matthew 23:35."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehoiada.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Βαραχίας"
+    ]
+  },
+  "key_references": [
+    "40023035"
+  ],
+  "references": [
+    "40023035"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40023035023"
+      ]
+    ]
+  }
+}

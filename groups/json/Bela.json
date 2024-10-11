@@ -1,0 +1,54 @@
+{
+  "id": "group:Bela",
+  "primary_id": "group:Bela",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001029001001000"
+    ],
+    "tipnr": [
+      "Bela@Gen.46.21-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Bela",
+  "ubsdbh": [
+    "001029001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Belaites",
+      "alternate_labels": [
+        "Bela"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Belaites",
+          "article": "group:Bela",
+          "description": "People descended from Bela, son of Benjamin, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּלְעִי"
+    ]
+  },
+  "key_references": [
+    "04026038"
+  ],
+  "references": [
+    "04026038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260380062"
+      ]
+    ]
+  }
+}

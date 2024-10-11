@@ -1,0 +1,68 @@
+{
+  "id": "person:Sheber",
+  "primary_id": "person:Sheber",
+  "alternate_sources": {
+    "aquifer": [
+      "8318|Sheber|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007186003001000"
+    ],
+    "tipnr": [
+      "Sheber@1Ch.2.48"
+    ],
+    "vizbible": [
+      "rec3SaGV8VQmWyxva"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Caleb.2",
+  "mother": "person:Maacah.4",
+  "siblings": [
+    "person:Hur.2",
+    "person:Jesher",
+    "person:Shobab.2",
+    "person:Ardon",
+    "person:Mareshah",
+    "person:Haran.3",
+    "person:Moza",
+    "person:Gazez",
+    "person:Tirhanah",
+    "person:Shaaph.2",
+    "person:Sheva.2",
+    "person:Achsah.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007186003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheber",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sheber",
+          "article": "person:Sheber",
+          "description": "Sheber, of the tribe of Judah, lived during the time of Egypt and the wilderness and is mentioned in 1 Chronicles 2:48 as the son of Caleb and Maacah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002048"
+  ],
+  "references": [
+    "13002048"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020480051"
+      ]
+    ]
+  }
+}

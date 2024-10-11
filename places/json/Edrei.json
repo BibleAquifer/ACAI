@@ -1,0 +1,121 @@
+{
+  "id": "place:Edrei",
+  "primary_id": "place:Edrei",
+  "alternate_sources": {
+    "aquifer": [
+      "4945|Edrei|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000154001001000",
+      "000154001002000"
+    ],
+    "tipnr": [
+      "Edrei@Num.21.33-Jos"
+    ],
+    "vizbible": [
+      "recjQ3pJ2xDBU6gtE"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000154001001000",
+    "000154001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Edrei (of Og)",
+      "alternate_labels": [
+        "Edrei"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Edrei.1",
+          "gloss": "Edrei (of Og)",
+          "description": "A town in Bashan; part of the kingdom of Og, and later assigned to Manasseh."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Manasseh",
+  "subregion_of": [
+    "place:Bashan",
+    "place:TerritoryOfEastManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶדְרֶעִי",
+      "אֶדְרֶ֫עִי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.62413708",
+      "lon": "36.09899664"
+    },
+    "vizbible": {
+      "lat": "32.62413708",
+      "lon": "36.09899664"
+    }
+  },
+  "key_references": [
+    "06013012",
+    "05001004",
+    "04021033"
+  ],
+  "references": [
+    "04021033",
+    "05001004",
+    "05003001",
+    "05003010",
+    "06012004",
+    "06013012",
+    "06013031",
+    "06019037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210330141"
+      ],
+      [
+        "o050010040172"
+      ],
+      [
+        "o050030010141"
+      ],
+      [
+        "o050030100102"
+      ],
+      [
+        "o060120040093"
+      ],
+      [
+        "o060130120083"
+      ],
+      [
+        "o060130310042"
+      ],
+      [
+        "o060190370022"
+      ]
+    ]
+  }
+}

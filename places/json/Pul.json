@@ -1,0 +1,94 @@
+{
+  "id": "place:Pul",
+  "primary_id": "place:Put",
+  "alternate_sources": {
+    "aquifer": [
+      "6791|Lud, Ludim, Ludites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005806001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/1468514"
+    ],
+    "tipnr": [
+      "Pul|Put@Isa.66.19-Nam"
+    ],
+    "vizbible": [
+      "recglfjpGTUL9C7v1"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005806001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lud",
+      "alternate_labels": [
+        "Put",
+        "Libya",
+        "Libyans",
+        "Phut",
+        "Pul"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lud.1",
+          "gloss": "Lud",
+          "description": "A land and ethnic group located in Asia Minor, possibly to be identified with the Lydians; regarded as descendants of Shem; known as archers. "
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Lydia"
+  ],
+  "referred_to_as": [
+    "place:Put"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.824979",
+      "lon": "21.858301"
+    },
+    "recogito": {
+      "lat": "37.47355",
+      "lon": "70.61617"
+    },
+    "vizbible": {
+      "lat": "32.824979",
+      "lon": "21.858301"
+    }
+  },
+  "key_references": [
+    "26027010",
+    "23066019"
+  ],
+  "references": [
+    "23066019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230660190101"
+      ]
+    ]
+  }
+}

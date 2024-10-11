@@ -1,0 +1,68 @@
+{
+  "id": "person:Joab.3",
+  "primary_id": "person:Joab.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6385|Joab|TyndaleBibleDictionary",
+      "26764|Joab|UWTranslationWords",
+      "132409|Joab|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002845001003000"
+    ],
+    "tipnr": [
+      "Joab@Ezr.2.6-Neh"
+    ],
+    "vizbible": [
+      "recLx93oMu0Whs523"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Pahath-moab",
+  "siblings": [
+    "person:Jeshua.3"
+  ],
+  "ubsdbh": [
+    "002845001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joab (Ezra 2:6)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joab (Ezra 2:6)",
+          "article": "person:Joab.3",
+          "description": "A man living at the time of the exile and return, head of his family and son of Pahath-moab, mentioned in Ezra 2:6."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹואָב",
+      "יוֹאָב"
+    ]
+  },
+  "key_references": [
+    "15002006",
+    "16007011"
+  ],
+  "references": [
+    "15002006",
+    "16007011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020060061"
+      ],
+      [
+        "o160070110062"
+      ]
+    ]
+  }
+}

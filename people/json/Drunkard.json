@@ -1,0 +1,42 @@
+{
+  "id": "person:Drunkard",
+  "primary_id": "person:Drunkard",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Drunkard",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Drunkard",
+          "description": "A drunk person participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o200230350011",
+          "o200230350012",
+          "o200230350021",
+          "o200230350031",
+          "o200230350041",
+          "o200230350042",
+          "o200230350051",
+          "o200230350061",
+          "o200230350071",
+          "o200230350081",
+          "o200230350091",
+          "o200230350101",
+          "o200230350102",
+          "o200230350111"
+        ]
+      }
+    ]
+  }
+}

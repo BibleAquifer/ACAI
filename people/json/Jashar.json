@@ -1,0 +1,56 @@
+{
+  "id": "person:Jashar",
+  "primary_id": "person:Jashar",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003186001005000"
+    ],
+    "tipnr": [
+      "Jashar@Jos.10.13-2Sa"
+    ],
+    "vizbible": [
+      "recxB8FtMdaueYjn6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "003186001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jashar",
+      "alternate_labels": [
+        "Jasher"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jashar",
+          "article": "person:Jashar",
+          "description": "A man who lived before Israel's monarchy, mentioned in Joshua 10:13."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "06010013",
+    "10001018"
+  ],
+  "references": [
+    "06010013",
+    "10001018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100130142"
+      ],
+      [
+        "o100010180102"
+      ]
+    ]
+  }
+}

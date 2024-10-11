@@ -1,0 +1,62 @@
+{
+  "id": "person:Sheva",
+  "primary_id": "person:Seraiah",
+  "alternate_sources": {
+    "aquifer": [
+      "8382|Sheva|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007222001001000"
+    ],
+    "tipnr": [
+      "Sheva|Seraiah@2Sa.8.17-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Elihoreph",
+    "person:Ahijah"
+  ],
+  "roles": [
+    "Scribe",
+    "Priest"
+  ],
+  "ubsdbh": [
+    "007222001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheva (Seraiah)",
+      "alternate_labels": [
+        "Seraiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seraiah",
+          "article": "person:Sheva",
+          "description": "Sheva, also known as Seraiah or Shavsha, was a man living during Israel's united kingdom, first mentioned in 2 Samuel 8:17."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Seraiah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10020025"
+  ],
+  "references": [
+    "10020025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100200250022"
+      ]
+    ]
+  }
+}

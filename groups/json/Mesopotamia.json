@@ -1,0 +1,55 @@
+{
+  "id": "group:Mesopotamia",
+  "primary_id": "group:Mesopotamia",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000699001001000"
+    ],
+    "tipnr": [
+      "Mesopotamia@Gen.24.10-Act"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Mesopotamia",
+  "ubsdbh": [
+    "000699001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mesopotamians",
+      "alternate_labels": [
+        "Mesopotamian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mesopotamians",
+          "article": "group:Mesopotamia",
+          "description": "People who live in Mesopotamia."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲרַם נַהֲרַיִם"
+    ]
+  },
+  "key_references": [
+    "19060002"
+  ],
+  "references": [
+    "19060002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190600020031",
+        "o190600020041"
+      ]
+    ]
+  }
+}

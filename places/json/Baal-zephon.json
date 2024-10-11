@@ -1,0 +1,104 @@
+{
+  "id": "place:Baal-zephon",
+  "primary_id": "place:Baal-zephon",
+  "alternate_sources": {
+    "aquifer": [
+      "3949|Baal-Zephon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a22663b"
+    ],
+    "ubsdbh": [
+      "001092001001000"
+    ],
+    "tipnr": [
+      "Baal-zephon@Exo.14.2-Num"
+    ],
+    "vizbible": [
+      "rec65si2t9DlsQHGT"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001092001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baal-zephon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baal-zephon",
+          "gloss": "Baal-Zephon",
+          "description": "A location in eastern Egypt, near the Sea of Reeds and west of Pi-Hahiroth; the Israelites camped near there during the exodus."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Pi-hahiroth",
+    "place:RedSea"
+  ],
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בַּעַל צְפֹן",
+      "בַּ֫עַל צְפוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "29.938441",
+      "lon": "32.395473"
+    },
+    "vizbible": {
+      "lat": "29.938441",
+      "lon": "32.395473"
+    }
+  },
+  "key_references": [
+    "02014002",
+    "02014009",
+    "04033007"
+  ],
+  "references": [
+    "02014002",
+    "02014009",
+    "04033007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020140020151",
+        "o020140020161"
+      ],
+      [
+        "o020140090191",
+        "o020140090201"
+      ],
+      [
+        "o040330070101",
+        "o040330070111"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "person:Shimei.4",
+  "primary_id": "person:Shimei.4",
+  "alternate_sources": {
+    "aquifer": [
+      "8407|Shimei|TyndaleBibleDictionary",
+      "27087|Shimei|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Shimei@Exo.6.17-Zec"
+    ],
+    "vizbible": [
+      "recrmgFbC93CpVLsa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gershon",
+  "offspring": [
+    "person:Jahath.2",
+    "person:Zizah",
+    "person:Jeush.4",
+    "person:Beriah.4"
+  ],
+  "siblings": [
+    "person:Libni"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shimei",
+      "alternate_labels": [
+        "Shimite",
+        "Shimi",
+        "Shimeite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shimei",
+          "article": "person:Shimei.4",
+          "description": "Grandson of Moses, son of Gershon, and father of Jahath, Zizah, Jeush, and Beriah. He was founder of the clan of the Shimeites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Shimei"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04003021",
+    "13023007",
+    "13023008",
+    "13023009",
+    "13023010",
+    "13023011",
+    "38012013"
+  ],
+  "references": [
+    "02006017",
+    "04003018",
+    "04003021",
+    "13006002",
+    "13023007",
+    "13023009",
+    "13023010",
+    "38012013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060170042"
+      ],
+      [
+        "o040030180072"
+      ],
+      [
+        "o040030210052"
+      ],
+      [
+        "o130060020062"
+      ],
+      [
+        "o130230070032"
+      ],
+      [
+        "o130230090021"
+      ],
+      [
+        "o130230100021"
+      ],
+      [
+        "o130230100091"
+      ],
+      [
+        "o380120130082"
+      ]
+    ]
+  }
+}

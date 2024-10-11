@@ -1,0 +1,60 @@
+{
+  "id": "group:Shuhites",
+  "primary_id": "group:Shuhites",
+  "alternate_sources": {
+    "tipnr": [
+      "Shuhites@Job.2.1-"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Shuah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shuhites",
+      "alternate_labels": [
+        "Shuhite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shuhites",
+          "article": "group:Shuhites",
+          "description": "People descended from Shuah, a son of Abraham and Keturah, the most notable being Bildad the Shuhite, a contemporary of Job."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "18002011",
+    "13001032"
+  ],
+  "references": [
+    "18002011",
+    "18008001",
+    "18018001",
+    "18025001",
+    "18042009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180020110172"
+      ],
+      [
+        "o180080010032"
+      ],
+      [
+        "o180180010032"
+      ],
+      [
+        "o180250010032"
+      ],
+      [
+        "o180420090052"
+      ]
+    ]
+  }
+}

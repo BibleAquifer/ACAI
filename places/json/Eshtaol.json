@@ -1,0 +1,124 @@
+{
+  "id": "place:Eshtaol",
+  "primary_id": "place:Eshtaol",
+  "alternate_sources": {
+    "aquifer": [
+      "5153|Eshtaol|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a355b6e"
+    ],
+    "tipnr": [
+      "Eshtaol@Jos.15.33-1Ch",
+      "Eshtaolite|Eshtaol@Jos.15.33-1Ch"
+    ],
+    "vizbible": [
+      "recdiq65RtvGagXOn"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3593"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eshtaol",
+      "alternate_labels": [
+        "Eshtaolites",
+        "Eshtaulites",
+        "Eshtaolite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eshtaol",
+          "gloss": "Eshtaol",
+          "description": "A town in the foothills of the territory of Dan, near where Samson was buried."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Eshtaolite"
+  ],
+  "tribal_area": "group:Dan",
+  "associated_places": [
+    "place:Zorah"
+  ],
+  "nearby_places": [
+    "place:Zorah"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.782429",
+      "lon": "35.009012"
+    },
+    "vizbible": {
+      "lat": "31.782429",
+      "lon": "35.009012"
+    }
+  },
+  "key_references": [
+    "07016031",
+    "07018002",
+    "06019041"
+  ],
+  "references": [
+    "06015033",
+    "06019041",
+    "07013025",
+    "07016031",
+    "07018002",
+    "07018008",
+    "07018011",
+    "13002053"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150330021"
+      ],
+      [
+        "o060190410052"
+      ],
+      [
+        "o070130250101"
+      ],
+      [
+        "o070160310141"
+      ],
+      [
+        "o070180020123"
+      ],
+      [
+        "o070180080052"
+      ],
+      [
+        "o070180110063"
+      ],
+      [
+        "o130020530113"
+      ]
+    ]
+  }
+}

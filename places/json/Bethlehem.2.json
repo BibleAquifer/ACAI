@@ -1,0 +1,108 @@
+{
+  "id": "place:Bethlehem.2",
+  "primary_id": "place:Bethlehem.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4187|Bethlehem|TyndaleBibleDictionary",
+      "26388|Bethlehem|UWTranslationWords",
+      "132388|Bethlehem|BiblicaStudyNotesKeyTerms",
+      "280127|bethlehem|FIAKeyTerms"
+    ],
+    "ubsdbh": [
+      "000961001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/284315"
+    ],
+    "tipnr": [
+      "Bethlehem@Jos.19.15"
+    ],
+    "vizbible": [
+      "recsyolL81TBx45nu"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000961001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bethlehem (of Zebulun)",
+      "alternate_labels": [
+        "Beth-Lehem"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bethlehem.2",
+          "gloss": "Bethlehem (of Zebulun)",
+          "description": "A town in the territory of Zebulun, where the judge Ibzan was born and died."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית לֶחֶם",
+      "בֵּית לֶ֫חֶם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.735379",
+      "lon": "35.189704"
+    },
+    "recogito": {
+      "lat": "31.70487",
+      "lon": "35.20376"
+    },
+    "vizbible": {
+      "lat": "32.735379",
+      "lon": "35.189704"
+    }
+  },
+  "key_references": [
+    "07012008",
+    "07012010",
+    "06019015"
+  ],
+  "references": [
+    "06019015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190150052",
+        "o060190150061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060190160072"
+      ]
+    ]
+  }
+}

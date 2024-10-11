@@ -1,0 +1,64 @@
+{
+  "id": "person:Gilead.3",
+  "primary_id": "person:Gilead.3",
+  "alternate_sources": {
+    "aquifer": [
+      "5467|Gilead (Person)|TyndaleBibleDictionary",
+      "5465|Gilead, Balm of|TyndaleBibleDictionary",
+      "26639|Gilead|UWTranslationWords",
+      "132387|Gilead|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001435001004000"
+    ],
+    "tipnr": [
+      "Gilead@1Ch.5.14"
+    ],
+    "vizbible": [
+      "recjDAnWexDv5EDg6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Michael.3",
+  "offspring": [
+    "person:Jaroah"
+  ],
+  "tribe": "group:Gad",
+  "ubsdbh": [
+    "001435001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gilead (1 Chronicles 5:14)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gilead (1 Chronicles 5:14)",
+          "article": "person:Gilead.3",
+          "description": "Gilead was a man from the tribe of Gad, son of Michael, and father of Jaroah, mentioned in 1 Chronicles 5:14."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גִּלְעָד"
+    ]
+  },
+  "key_references": [
+    "13005014"
+  ],
+  "references": [
+    "13005014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050140091"
+      ]
+    ]
+  }
+}

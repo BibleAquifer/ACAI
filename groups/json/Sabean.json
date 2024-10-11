@@ -1,0 +1,103 @@
+{
+  "id": "group:Sabean",
+  "primary_id": "group:Sabean",
+  "alternate_sources": {
+    "aquifer": [
+      "8083|Sabeans|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007147001005000"
+    ],
+    "tipnr": [
+      "Sabean|Sheba@Gen.10.7-Jol"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "person:Sheba; place:Sheba.2",
+  "ubsdbh": [
+    "007147001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sabeans",
+      "alternate_labels": [
+        "Sheba"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sabeans",
+          "article": "group:Sabean",
+          "description": "People who lived in Sheba (of Arabia)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "23045014",
+    "26023042",
+    "29004008"
+  ],
+  "references": [
+    "18001015",
+    "23045014",
+    "26023042",
+    "29004008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180010150021"
+      ],
+      [
+        "o230450140082"
+      ],
+      [
+        "o260230420111"
+      ],
+      [
+        "o290040080102"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o180010150032"
+      ],
+      [
+        "o180010150061"
+      ],
+      [
+        "o230450140141"
+      ],
+      [
+        "o230450140161"
+      ],
+      [
+        "o230450140181"
+      ],
+      [
+        "o230450140201"
+      ],
+      [
+        "o230450140221"
+      ],
+      [
+        "o260230420132"
+      ],
+      [
+        "o260230430071"
+      ],
+      [
+        "o260230440012"
+      ],
+      [
+        "o260230440081"
+      ]
+    ]
+  }
+}

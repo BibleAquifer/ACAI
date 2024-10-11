@@ -1,0 +1,122 @@
+{
+  "id": "person:Gilead",
+  "primary_id": "person:Gilead",
+  "alternate_sources": {
+    "aquifer": [
+      "5467|Gilead (Person)|TyndaleBibleDictionary",
+      "5465|Gilead, Balm of|TyndaleBibleDictionary",
+      "26639|Gilead|UWTranslationWords",
+      "132387|Gilead|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001435001001000",
+      "001435001002000"
+    ],
+    "tipnr": [
+      "Gilead@Num.26.29-1Ch"
+    ],
+    "vizbible": [
+      "recxCpuPqJTTZalKd"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Machir",
+  "mother": "person:Maacah.5",
+  "offspring": [
+    "person:Abiezer",
+    "person:Helek",
+    "person:Asriel",
+    "person:Shechem.2",
+    "person:Shemida",
+    "person:Hepher"
+  ],
+  "siblings": [
+    "person:DaughterOfMachir",
+    "person:Peresh",
+    "person:Sheresh",
+    "person:Hammolecheth"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "001435001001000",
+    "001435001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gilead",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gilead",
+          "article": "person:Gilead",
+          "description": "Son of Machir, grandson of Manasseh, and great-grandson of the patriarch Joseph. Gilead lived during the time of the Egyptian slavery and wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גִּלְעָד",
+      "ה"
+    ]
+  },
+  "key_references": [
+    "04026029",
+    "06017001",
+    "13007014"
+  ],
+  "references": [
+    "04026029",
+    "04026030",
+    "04027001",
+    "06017001",
+    "06017003",
+    "13002021",
+    "13002023",
+    "13007014",
+    "13007017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260290091"
+      ],
+      [
+        "o040260290102"
+      ],
+      [
+        "o040260300031"
+      ],
+      [
+        "o040270010071"
+      ],
+      [
+        "o060170010132"
+      ],
+      [
+        "o060170010212"
+      ],
+      [
+        "o060170030051"
+      ],
+      [
+        "o130020210081"
+      ],
+      [
+        "o130020230191"
+      ],
+      [
+        "o130070140121"
+      ],
+      [
+        "o130070170061"
+      ]
+    ]
+  }
+}

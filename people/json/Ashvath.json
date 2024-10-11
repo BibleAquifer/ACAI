@@ -1,0 +1,64 @@
+{
+  "id": "person:Ashvath",
+  "primary_id": "person:Ashvath",
+  "alternate_sources": {
+    "aquifer": [
+      "3816|Ashvath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005704001001000"
+    ],
+    "tipnr": [
+      "Ashvath@1Ch.7.33"
+    ],
+    "vizbible": [
+      "recPvZGb0Uy5LwYxN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Japhlet",
+  "siblings": [
+    "person:Pasach",
+    "person:Bimhal"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "005704001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ashvath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ashvath",
+          "article": "person:Ashvath",
+          "description": "A man from the tribe of Asher before Israel's Monarchy, son of Japhlet, mentioned in 1 Chronicles 7:33."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007033"
+  ],
+  "references": [
+    "13007033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070330052"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130070330061"
+      ]
+    ]
+  }
+}

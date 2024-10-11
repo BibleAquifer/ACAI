@@ -1,0 +1,95 @@
+{
+  "id": "place:Ramah.5",
+  "primary_id": "place:Ramoth-gilead",
+  "alternate_sources": {
+    "aquifer": [
+      "7921|Ramah|TyndaleBibleDictionary",
+      "27010|Ramah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006817002005000"
+    ],
+    "tipnr": [
+      "Ramah|Ramoth-gilead@Gen.31.47-Hos"
+    ],
+    "vizbible": [
+      "recsuir3CsToQbBjn"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006817002005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ramah (of Gilead)",
+      "alternate_labels": [
+        "Ramoth-Gilead",
+        "Ramoth",
+        "Ramah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ramah.5",
+          "gloss": "Ramah (of Gilead)",
+          "description": "A town in Gilead."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ramoth-gilead"
+  ],
+  "subregion_of": [
+    "place:Gilead"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "רִמֹּון",
+      "רִמּוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.56526757",
+      "lon": "36.00555931"
+    },
+    "vizbible": {
+      "lat": "32.56526757",
+      "lon": "36.00555931"
+    }
+  },
+  "key_references": [
+    "12008029",
+    "14022006"
+  ],
+  "references": [
+    "12008029",
+    "14022006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120080290112"
+      ],
+      [
+        "o140220060082"
+      ]
+    ]
+  }
+}

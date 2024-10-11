@@ -1,0 +1,64 @@
+{
+  "id": "person:Sheresh",
+  "primary_id": "person:Sheresh",
+  "alternate_sources": {
+    "aquifer": [
+      "8374|Sheresh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007649001001000"
+    ],
+    "tipnr": [
+      "Sheresh@1Ch.7.16"
+    ],
+    "vizbible": [
+      "rece2iTehC8TbdnUW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Machir",
+  "mother": "person:Maacah.5",
+  "offspring": [
+    "person:Ulam",
+    "person:Rakem"
+  ],
+  "siblings": [
+    "person:Gilead",
+    "person:DaughterOfMachir",
+    "person:Peresh",
+    "person:Hammolecheth"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "007649001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheresh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sheresh",
+          "article": "person:Sheresh",
+          "description": "Sheresh, a man of the tribe of Manasseh living during the time of Egypt and the wilderness, is mentioned in 1 Chronicles 7:16 as the son of Machir and Maacah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007016"
+  ],
+  "references": [
+    "13007016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070160111"
+      ]
+    ]
+  }
+}

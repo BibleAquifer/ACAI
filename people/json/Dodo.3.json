@@ -1,0 +1,65 @@
+{
+  "id": "person:Dodo.3",
+  "primary_id": "person:Dodo.3",
+  "alternate_sources": {
+    "aquifer": [
+      "4877|Dodo|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001595001003000"
+    ],
+    "tipnr": [
+      "Dodo@2Sa.23.24-1Ch"
+    ],
+    "vizbible": [
+      "receACwBYdEKy5tfH"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Elhanan.2"
+  ],
+  "ubsdbh": [
+    "001595001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dodo (2 Samuel 23:24)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dodo (2 Samuel 23:24)",
+          "article": "person:Dodo.3",
+          "description": "Dodo, mentioned in 2 Samuel 23:24, was the father of Elhanan, a warrior during the time of King David in Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דֹּודֹו",
+      "דּוֹדוֹ"
+    ]
+  },
+  "key_references": [
+    "10023024",
+    "13011026"
+  ],
+  "references": [
+    "10023024",
+    "13011026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230240081"
+      ],
+      [
+        "o130110260091"
+      ]
+    ]
+  }
+}

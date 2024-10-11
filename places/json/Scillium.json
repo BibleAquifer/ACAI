@@ -1,0 +1,35 @@
+{
+  "id": "place:Scillium",
+  "primary_id": "place:Scillium",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Scillium",
+          "gloss": "Scillium",
+          "description": "A town in northern Africa; home of the Scillitan Martyrs."
+        }
+      ],
+      "preferred_label": "Scillium"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "35.16786",
+      "lon": "8.79845"
+    }
+  }
+}

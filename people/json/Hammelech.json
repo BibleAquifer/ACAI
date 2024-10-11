@@ -1,0 +1,66 @@
+{
+  "id": "person:Hammelech",
+  "primary_id": "person:Hammelech",
+  "alternate_sources": {
+    "aquifer": [
+      "5621|Hammelech|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004048001001000"
+    ],
+    "tipnr": [
+      "Hammelech@Jer.36.26-"
+    ],
+    "vizbible": [
+      "recJPebLRITPSoudV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Jerahmeel.3",
+    "person:Malchijah.2"
+  ],
+  "ubsdbh": [
+    "004048001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hammelech",
+      "alternate_labels": [
+        "the king"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hammelech",
+          "article": "person:Hammelech",
+          "description": "Hammelech, also referred to as 'the king', was a man living during the time of the divided kingdom, first mentioned in Jeremiah 36:26, and was the father of Jerahmeel and Malchijah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24036026",
+    "24038006"
+  ],
+  "references": [
+    "24036026",
+    "24038006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240360260022"
+      ],
+      [
+        "o240360260062"
+      ],
+      [
+        "o240380060102"
+      ]
+    ]
+  }
+}

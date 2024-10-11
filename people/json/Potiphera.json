@@ -1,0 +1,75 @@
+{
+  "id": "person:Potiphera",
+  "primary_id": "person:Potiphera",
+  "alternate_sources": {
+    "aquifer": [
+      "7790|Potiphera|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005802001001000"
+    ],
+    "tipnr": [
+      "Potiphera@Gen.41.45-"
+    ],
+    "vizbible": [
+      "recQvsOFh0nowQ1gD"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Asenath"
+  ],
+  "ubsdbh": [
+    "005802001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Potiphera",
+      "alternate_labels": [
+        "Poti-pherah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Potiphera",
+          "article": "person:Potiphera",
+          "description": "Potiphera, an Egyptian priest during the time of the patriarchs and father of Asenath, is first mentioned in Genesis 41:45."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "פּוּטִיאֵל"
+    ]
+  },
+  "key_references": [
+    "01041045",
+    "01041050",
+    "01046020"
+  ],
+  "references": [
+    "01041045",
+    "01041050",
+    "01046020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010410450121",
+        "o010410450131"
+      ],
+      [
+        "o010410500141",
+        "o010410500151"
+      ],
+      [
+        "o010460200101",
+        "o010460200111"
+      ]
+    ]
+  }
+}

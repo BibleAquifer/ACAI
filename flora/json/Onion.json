@@ -1,0 +1,53 @@
+{
+  "id": "flora:Onion",
+  "primary_id": "flora:Onion",
+  "alternate_sources": {
+    "aquifer": [
+      "7498|Onion|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001120001001000"
+    ],
+    "ubsflora": [
+      "flora:3.2.4"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "001120001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Onion",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Onion",
+          "article": "flora:Onion",
+          "description": "A plant with a hollow stem and a round bulb made of edible layers, known for its sharp taste."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בָּצָל"
+    ]
+  },
+  "key_references": [
+    "04011005"
+  ],
+  "references": [
+    "04011005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040110050152"
+      ]
+    ]
+  }
+}

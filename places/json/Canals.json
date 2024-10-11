@@ -1,0 +1,48 @@
+{
+  "id": "place:Canals",
+  "primary_id": "place:Nile",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002737001003000"
+    ],
+    "tipnr": [
+      "canals|Nile@Gen.41.1-Zec"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002737001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Canals",
+      "alternate_labels": [
+        "rivers",
+        "Nile",
+        "canals"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Nile"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "key_references": [
+    "02008001"
+  ],
+  "references": [
+    "02008001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020080010152"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "person:Elkanah.3",
+  "primary_id": "person:Elkanah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "5033|Elkanah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000475001004000",
+      "000475001006000"
+    ],
+    "tipnr": [
+      "Elkanah@1Ch.6.25-"
+    ],
+    "vizbible": [
+      "recvyuV3CvSco43mt"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shaul.3",
+  "offspring": [
+    "person:Amasai"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000475001004000",
+    "000475001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elkanah (1 Chronicles 6:25)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elkanah (1 Chronicles 6:25)",
+          "article": "person:Elkanah.3",
+          "description": "Elkanah, a Levite and son of Shaul, lived during the divided kingdom and was mentioned in 1 Chronicles 6:25."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְקָנָה"
+    ]
+  },
+  "key_references": [
+    "13006010",
+    "13006021"
+  ],
+  "references": [
+    "13006010",
+    "13006021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060100021"
+      ],
+      [
+        "o130060210021"
+      ]
+    ]
+  }
+}

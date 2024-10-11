@@ -1,0 +1,81 @@
+{
+  "id": "place:Goah",
+  "primary_id": "place:Goah",
+  "alternate_sources": {
+    "aquifer": [
+      "5493|Goah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001467001001000"
+    ],
+    "tipnr": [
+      "Goah@Jer.31.39"
+    ],
+    "vizbible": [
+      "recOLA4quMGFmyPwG"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001467001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Goah",
+      "alternate_labels": [
+        "Goath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Goah",
+          "gloss": "Goah",
+          "description": "A hill near Jerusalem associated with Jeremiah's vision of the restored Jerusalem."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גֹּעָה",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "hill"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "24031039"
+  ],
+  "references": [
+    "24031039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240310390111"
+      ]
+    ]
+  }
+}

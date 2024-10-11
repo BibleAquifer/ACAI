@@ -1,0 +1,102 @@
+{
+  "id": "place:Akeldama",
+  "primary_id": "place:Akeldama",
+  "alternate_sources": {
+    "aquifer": [
+      "3483|Akeldama|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Akeldama@Mat.27.7-Act",
+      "PottersField|Akeldama@Mat.27.7-Act",
+      "Field_of_Blood|Akeldama@Mat.27.7-Act"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Akeldama",
+      "alternate_labels": [
+        "Blood",
+        "Hakeldama",
+        "Aceldama",
+        "Potter",
+        "Field of",
+        "The field of blood",
+        "Field of Blood"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Akeldama",
+          "gloss": "Akeldama",
+          "description": "A field, probably south of the valley of Hinnom outside Jerusalem, which was bought with the money Judas was paid to betray Jesus (Matthew 27:3–8)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:FieldOfBlood",
+    "place:Pottersfield"
+  ],
+  "nearby_places": [
+    "place:HinnomValley"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "field"
+    ],
+    "acai": [
+      "field"
+    ]
+  },
+  "key_references": [
+    "44001019",
+    "40027008"
+  ],
+  "references": [
+    "40027007",
+    "40027008",
+    "40027010",
+    "44001019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027007010"
+      ],
+      [
+        "n40027008004"
+      ],
+      [
+        "n40027008006",
+        "n40027008007"
+      ],
+      [
+        "n40027010008"
+      ],
+      [
+        "n44001019011"
+      ],
+      [
+        "n44001019017"
+      ],
+      [
+        "n44001019020",
+        "n44001019021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44001019018"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "place:Elam",
+  "primary_id": "place:Elam",
+  "alternate_sources": {
+    "aquifer": [
+      "4965|Elam (Place), Elamites|TyndaleBibleDictionary",
+      "26550|Elam|UWTranslationWords"
+    ],
+    "obi": [
+      "a7e3a59"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/912842",
+      "http://pleiades.stoa.org/places/912842"
+    ],
+    "tipnr": [
+      "Elam@Gen.14.1-Act"
+    ],
+    "vizbible": [
+      "recM9XRLGW2MiGPpZ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q128904"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elam",
+      "alternate_labels": [
+        "Elamites",
+        "for ever",
+        "Elamite",
+        "Qere. Ketiv"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Elam",
+          "gloss": "Elam",
+          "description": "A nation located between Mesopotamia and Persia; regarded as founded by a person with the same name."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Elam"
+  ],
+  "tribal_area": "group:Persia",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.18919123705116",
+      "lon": "48.25788647687722"
+    },
+    "recogito": {
+      "lat": "31.5",
+      "lon": "49.5"
+    },
+    "vizbible": {
+      "lat": "31.5",
+      "lon": "49.5"
+    }
+  },
+  "key_references": [
+    "44002009",
+    "23011011",
+    "01014001"
+  ],
+  "references": [
+    "01014001",
+    "01014009",
+    "15004009",
+    "23011011",
+    "23021002",
+    "23022006",
+    "24025025",
+    "24049034",
+    "24049035",
+    "24049036",
+    "24049037",
+    "24049038",
+    "24049039",
+    "26032024",
+    "26032025",
+    "27008002",
+    "44002009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140010111"
+      ],
+      [
+        "o010140090041"
+      ],
+      [
+        "o150040090191"
+      ],
+      [
+        "o230110110183"
+      ],
+      [
+        "o230210020101"
+      ],
+      [
+        "o230220060012"
+      ],
+      [
+        "o240250250081"
+      ],
+      [
+        "o240490340091"
+      ],
+      [
+        "o240490350091"
+      ],
+      [
+        "o240490360031"
+      ],
+      [
+        "o240490360221"
+      ],
+      [
+        "o240490370031"
+      ],
+      [
+        "o240490380032"
+      ],
+      [
+        "o240490390091"
+      ],
+      [
+        "o260320240021"
+      ],
+      [
+        "o270080020092"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44002009005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44002011012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230210020091"
+      ]
+    ]
+  }
+}

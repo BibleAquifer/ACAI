@@ -1,0 +1,102 @@
+{
+  "id": "person:Onesimus",
+  "primary_id": "person:Onesimus",
+  "alternate_sources": {
+    "aquifer": [
+      "7495|Onesimus|TyndaleBibleDictionary",
+      "132107|Onesimus|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Onesimus@Col.4.9-Phm"
+    ],
+    "vizbible": [
+      "recCzplVyZiEXoB0c"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Slave"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Onesimus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Onesimus",
+          "article": "person:Onesimus",
+          "description": "Onesimus is a man from the time of the New Testament, first mentioned in Colossians 4:9."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "51004009",
+    "57001010",
+    "57001025"
+  ],
+  "references": [
+    "51004009",
+    "51004018",
+    "57001010",
+    "57001025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n51004009002"
+      ],
+      [
+        "n57001010012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n51004009008"
+      ],
+      [
+        "n57001010007"
+      ],
+      [
+        "n57001012001"
+      ],
+      [
+        "n57001012004",
+        "n57001012005"
+      ],
+      [
+        "n57001013001"
+      ],
+      [
+        "n57001015010"
+      ],
+      [
+        "n57001017007"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n51004009014"
+      ],
+      [
+        "n57001013011"
+      ],
+      [
+        "n57001015005"
+      ],
+      [
+        "n57001018004"
+      ],
+      [
+        "n57001018007"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "place:Jokdeam",
+  "primary_id": "place:Jokdeam",
+  "alternate_sources": {
+    "aquifer": [
+      "6420|Jokdeam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003059001001000"
+    ],
+    "tipnr": [
+      "Jokdeam@Jos.15.56"
+    ],
+    "vizbible": [
+      "rec8sQDC7LI5Abufe"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003059001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jokdeam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jokdeam",
+          "gloss": "Jokdeam",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָקְדְעָם",
+      "יׇקְדְעָם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.366667",
+      "lon": "35.000000"
+    },
+    "vizbible": {
+      "lat": "31.366667",
+      "lon": "35.000000"
+    }
+  },
+  "key_references": [
+    "06015056"
+  ],
+  "references": [
+    "06015056"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150560022"
+      ]
+    ]
+  }
+}

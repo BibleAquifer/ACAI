@@ -1,0 +1,94 @@
+{
+  "id": "place:Shaaraim",
+  "primary_id": "place:Shaaraim",
+  "alternate_sources": {
+    "aquifer": [
+      "8254|Shaaraim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007556001001000"
+    ],
+    "tipnr": [
+      "Shaaraim@Jos.15.36-1Sa"
+    ],
+    "vizbible": [
+      "recFF06mG50AJliKz"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007556001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaaraim (of Judah)",
+      "alternate_labels": [
+        "Sharaim",
+        "Shaaraim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shaaraim.1",
+          "gloss": "Shaaraim (of Judah)",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "שַׁעֲשְׁגַּז",
+      "שְׁעַרְיָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.7001",
+      "lon": "34.89532"
+    },
+    "vizbible": {
+      "lat": "31.7001",
+      "lon": "34.89532"
+    }
+  },
+  "key_references": [
+    "09017052",
+    "06015036"
+  ],
+  "references": [
+    "06015036",
+    "09017052"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150360012"
+      ],
+      [
+        "o090170520191"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "place:Rithmah",
+  "primary_id": "place:Rithmah",
+  "alternate_sources": {
+    "aquifer": [
+      "8047|Rithmah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006957001001000"
+    ],
+    "tipnr": [
+      "Rithmah@Num.33.18-"
+    ],
+    "vizbible": [
+      "rec7mSP1c046zFefT"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006957001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rithmah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rithmah",
+          "gloss": "Rithmah",
+          "description": "A location in the SInai Peninsula, between Kibroth-Hattaavah and Rimmon-Perez, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    },
+    "vizbible": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    }
+  },
+  "key_references": [
+    "04033018",
+    "04033019"
+  ],
+  "references": [
+    "04033018",
+    "04033019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330180042"
+      ],
+      [
+        "o040330190022"
+      ]
+    ]
+  }
+}

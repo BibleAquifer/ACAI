@@ -1,0 +1,70 @@
+{
+  "id": "person:Heber.3",
+  "primary_id": "person:Heber.3",
+  "alternate_sources": {
+    "aquifer": [
+      "5757|Heber|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002098002003000"
+    ],
+    "tipnr": [
+      "Heber@1Ch.4.18"
+    ],
+    "vizbible": [
+      "recgDIriBFkliP3wB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mered",
+  "mother": "person:Jehudijah",
+  "offspring": [
+    "person:Soco"
+  ],
+  "siblings": [
+    "person:Jered",
+    "person:Jekuthiel",
+    "person:Miriam.2",
+    "person:Shammai.3",
+    "person:Ishbah"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002098002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heber (1 Chronicles 4:18)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Heber (1 Chronicles 4:18)",
+          "article": "person:Heber.3",
+          "description": "Heber from 1 Chronicles 4:18 was a man of the tribe of Judah living during the divided kingdom and the father of Soco."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶבֶר",
+      "חֶ֫בֶר"
+    ]
+  },
+  "key_references": [
+    "13004018"
+  ],
+  "references": [
+    "13004018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040180091"
+      ]
+    ]
+  }
+}

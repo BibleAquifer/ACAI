@@ -1,0 +1,134 @@
+{
+  "id": "realia:Denarius",
+  "primary_id": "realia:Denarius",
+  "alternate_sources": {
+    "aquifer": [
+      "4811|Denarius|TyndaleBibleDictionary",
+      "280206|denarius|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "6.75"
+    ],
+    "ubsrealia": [
+      "realia:11.6.2.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.75"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Denarius",
+      "alternate_labels": [
+        "Tiberius"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Denarius",
+          "article": "realia:Denarius",
+          "description": "A Roman silver coin, often equal to a day’s wage for a common worker."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δηνάριον"
+    ]
+  },
+  "key_references": [
+    "40022019",
+    "41012015",
+    "66006006"
+  ],
+  "references": [
+    "40018028",
+    "40020002",
+    "40020009",
+    "40020010",
+    "40020013",
+    "40022019",
+    "41006037",
+    "41012015",
+    "41014005",
+    "42007041",
+    "42010035",
+    "42020024",
+    "43006007",
+    "43012005",
+    "66006006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40018028015"
+      ],
+      [
+        "n40020002007"
+      ],
+      [
+        "n40020009010"
+      ],
+      [
+        "n40020010013"
+      ],
+      [
+        "n40020013012"
+      ],
+      [
+        "n40022019011"
+      ],
+      [
+        "n41006037015"
+      ],
+      [
+        "n41012015014"
+      ],
+      [
+        "n41014005008"
+      ],
+      [
+        "n42007041009"
+      ],
+      [
+        "n42010035007"
+      ],
+      [
+        "n42020024003"
+      ],
+      [
+        "n43006007005"
+      ],
+      [
+        "n43012005009"
+      ],
+      [
+        "n66006006013"
+      ],
+      [
+        "n66006006018"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40018030015"
+      ],
+      [
+        "n41014005011"
+      ],
+      [
+        "n42020024005"
+      ],
+      [
+        "n43012005011"
+      ]
+    ]
+  }
+}

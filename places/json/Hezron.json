@@ -1,0 +1,92 @@
+{
+  "id": "place:Hezron",
+  "primary_id": "place:Hazor",
+  "alternate_sources": {
+    "aquifer": [
+      "5839|Hezron (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002489001003000"
+    ],
+    "tipnr": [
+      "Hezron|Hazor@Jos.11.1-2Ki"
+    ],
+    "vizbible": [
+      "recfa19LQGbnLBD0G"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002489001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hezron",
+      "alternate_labels": [
+        "Hazor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hezron",
+          "gloss": "Hezron",
+          "description": "A town in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Hazor"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֶצְרֹון",
+      "חֶצְרוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.017182",
+      "lon": "35.56804857"
+    },
+    "vizbible": {
+      "lat": "33.017182",
+      "lon": "35.56804857"
+    }
+  },
+  "key_references": [
+    "06015003"
+  ],
+  "references": [
+    "06015003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150030131"
+      ]
+    ]
+  }
+}

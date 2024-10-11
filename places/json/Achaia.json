@@ -1,0 +1,164 @@
+{
+  "id": "place:Achaia",
+  "primary_id": "place:Achaia",
+  "alternate_sources": {
+    "aquifer": [
+      "3334|Achaia|TyndaleBibleDictionary",
+      "132097|Achaia|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "aef4242"
+    ],
+    "ubsdgnt": [
+      "93.419"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/981502",
+      "http://pleiades.stoa.org/places/981502"
+    ],
+    "tipnr": [
+      "Achaia@Act.18.12-1Th"
+    ],
+    "vizbible": [
+      "recj2XUqaJxCKA6qs"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q204772"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.419"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Achaia",
+      "alternate_labels": [
+        "Greece"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Achaia",
+          "gloss": "Achaia",
+          "description": "A Roman province in Greece which included the northern part of the Peloponnese Peninsula and the city of Corinth. Many early Christian communities and missionary activities were located here."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Greece"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἀχαΐα"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.98333333333333",
+      "lon": "23.73333333333333"
+    },
+    "recogito": {
+      "lat": "37.5",
+      "lon": "22.5"
+    },
+    "vizbible": {
+      "lat": "37.5",
+      "lon": "22.5"
+    }
+  },
+  "key_references": [
+    "44018012",
+    "46016015",
+    "47001001",
+    "44019021"
+  ],
+  "references": [
+    "44018012",
+    "44018027",
+    "44019021",
+    "45015026",
+    "45016005",
+    "46016015",
+    "47001001",
+    "47009002",
+    "47011010",
+    "52001007",
+    "52001008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018012006"
+      ],
+      [
+        "n44018027007"
+      ],
+      [
+        "n44019021015"
+      ],
+      [
+        "n45015026005"
+      ],
+      [
+        "n46016015013"
+      ],
+      [
+        "n47001001029"
+      ],
+      [
+        "n47009002012"
+      ],
+      [
+        "n47011010018"
+      ],
+      [
+        "n52001007014"
+      ],
+      [
+        "n52001008015"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n52001009001"
+      ],
+      [
+        "n52001010017"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n45015026008"
+      ],
+      [
+        "n45015027001"
+      ],
+      [
+        "n45015027005"
+      ]
+    ]
+  }
+}

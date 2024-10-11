@@ -1,0 +1,86 @@
+{
+  "id": "person:Abigail.2",
+  "primary_id": "person:Abigail.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3296|Abigail|TyndaleBibleDictionary",
+      "132406|Abigail|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Abigail@2Sa.17.25-1Ch",
+      "Abigal|Abigail@2Sa.17.25-1Ch"
+    ],
+    "vizbible": [
+      "recta8Kg0sMgdhygA"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Jesse",
+  "mother": "person:Nahash.3",
+  "partners": [
+    "person:Jether.3"
+  ],
+  "offspring": [
+    "person:Amasa"
+  ],
+  "siblings": [
+    "person:David",
+    "person:Eliab.3",
+    "person:Abinadab.3",
+    "person:Shimeah.2",
+    "person:Nethanel.2",
+    "person:Raddai",
+    "person:Ozem",
+    "person:Elihu.4",
+    "person:Zeruiah"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abigail (Sister of King David)",
+      "alternate_labels": [
+        "Abigal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abigail (Sister of King David)",
+          "article": "person:Abigail.2",
+          "description": "The sister of King David and mother of Amasa, mentioned in 2 Samuel 17:25."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Abigal"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10017025",
+    "13002016",
+    "13002017"
+  ],
+  "references": [
+    "10017025",
+    "13002016",
+    "13002017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100170250181"
+      ],
+      [
+        "o130020160042"
+      ],
+      [
+        "o130020170012"
+      ]
+    ]
+  }
+}

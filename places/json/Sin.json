@@ -1,0 +1,107 @@
+{
+  "id": "place:Sin",
+  "primary_id": "place:Sin",
+  "alternate_sources": {
+    "obi": [
+      "a0f54e4"
+    ],
+    "ubsdbh": [
+      "005050001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/668373"
+    ],
+    "tipnr": [
+      "Sin@Exo.16.1-Num"
+    ],
+    "vizbible": [
+      "recJrTYgYd7ZHhwK1"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2549347"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005050001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wilderness of Sin",
+      "alternate_labels": [
+        "Desert of Sin",
+        "Sin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sin",
+          "gloss": "Wilderness of Sin",
+          "description": "A desert in the Sinai Peninsula, between the Sea of Reeds and Dophkah, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "סִינִי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "wilderness"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.838778",
+      "lon": "33.420573"
+    },
+    "recogito": {
+      "lat": "34.792757",
+      "lon": "36.431041"
+    },
+    "vizbible": {
+      "lat": "28.838778",
+      "lon": "33.420573"
+    }
+  },
+  "key_references": [
+    "02017001",
+    "02016001"
+  ],
+  "references": [
+    "02016001",
+    "02017001",
+    "04033011",
+    "04033012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020160010101"
+      ],
+      [
+        "o020170010071"
+      ],
+      [
+        "o040330110061"
+      ],
+      [
+        "o040330120031"
+      ]
+    ]
+  }
+}

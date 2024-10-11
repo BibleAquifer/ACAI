@@ -1,0 +1,84 @@
+{
+  "id": "person:Seraiah",
+  "primary_id": "person:Seraiah",
+  "alternate_sources": {
+    "aquifer": [
+      "8234|Seraiah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Sheya|Seraiah@2Sa.8.17-1Ch",
+      "Shavsha|Seraiah@2Sa.8.17-1Ch",
+      "Shisha|Seraiah@2Sa.8.17-1Ch",
+      "Sheva|Seraiah@2Sa.8.17-1Ch",
+      "Seraiah@2Sa.8.17-1Ch"
+    ],
+    "vizbible": [
+      "recbCHo9mMOhzaR6Y"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Elihoreph",
+    "person:Ahijah"
+  ],
+  "roles": [
+    "Scribe",
+    "Priest"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Seraiah",
+      "alternate_labels": [
+        "Shisha",
+        "Shavsha",
+        "Sheva",
+        "Sheya"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seraiah",
+          "article": "person:Seraiah",
+          "description": "He was a priest and secretary for King David."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shavsha",
+    "person:Sheva",
+    "person:Sheya",
+    "person:Shisha"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10008017",
+    "10020025",
+    "11004003",
+    "13018016"
+  ],
+  "references": [
+    "10008017",
+    "10020025",
+    "11004003",
+    "13018016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080170082"
+      ],
+      [
+        "o100200250022"
+      ],
+      [
+        "o110040030041"
+      ],
+      [
+        "o130180160082"
+      ]
+    ]
+  }
+}

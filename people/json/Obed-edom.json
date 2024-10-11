@@ -1,0 +1,171 @@
+{
+  "id": "person:Obed-edom",
+  "primary_id": "person:Obed-edom",
+  "alternate_sources": {
+    "aquifer": [
+      "7452|Obed-Edom|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Obed-edom@2Sa.6.10-2Ch",
+      "Shimei|Obed-edom@2Sa.6.10-2Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jeduthun",
+  "offspring": [
+    "person:Shemaiah.9",
+    "person:Jehozabad.2",
+    "person:Joah.3",
+    "person:Sachar",
+    "person:Nethanel.5",
+    "person:Ammiel.3",
+    "person:Issachar.2",
+    "person:Peullethai"
+  ],
+  "siblings": [
+    "person:Mattithiah.2",
+    "person:Gedaliah.4",
+    "person:Zeri",
+    "person:Jeshaiah.3",
+    "person:Hashabiah.3"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Obed-edom",
+      "alternate_labels": [
+        "Shimei"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Obed-Edom",
+          "article": "person:Obed-edom",
+          "description": "A Gittite in whose house the ark of the covenat was stored during King David's reign."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shimei"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10006011",
+    "13013014"
+  ],
+  "references": [
+    "10006010",
+    "10006011",
+    "10006012",
+    "13013013",
+    "13013014",
+    "13015018",
+    "13015021",
+    "13015024",
+    "13015025",
+    "13016005",
+    "13016038",
+    "13025017",
+    "13026004",
+    "13026008",
+    "13026015",
+    "14025024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100060100151",
+        "o100060100161"
+      ],
+      [
+        "o100060110051",
+        "o100060110061"
+      ],
+      [
+        "o100060110131",
+        "o100060110141"
+      ],
+      [
+        "o100060120091",
+        "o100060120101"
+      ],
+      [
+        "o100060120251",
+        "o100060120261"
+      ],
+      [
+        "o130130130131",
+        "o130130130141"
+      ],
+      [
+        "o130130140061",
+        "o130130140071"
+      ],
+      [
+        "o130130140151",
+        "o130130140161"
+      ],
+      [
+        "o130150180162",
+        "o130150180171"
+      ],
+      [
+        "o130150210042",
+        "o130150210051"
+      ],
+      [
+        "o130150240152",
+        "o130150240161"
+      ],
+      [
+        "o130150250151",
+        "o130150250161"
+      ],
+      [
+        "o130160050112",
+        "o130160050121"
+      ],
+      [
+        "o130160380012",
+        "o130160380021"
+      ],
+      [
+        "o130160380062",
+        "o130160380071"
+      ],
+      [
+        "o130250170021"
+      ],
+      [
+        "o130260040013",
+        "o130260040021"
+      ],
+      [
+        "o130260080041",
+        "o130260080051"
+      ],
+      [
+        "o130260080152",
+        "o130260080161"
+      ],
+      [
+        "o130260150012",
+        "o130260150021"
+      ],
+      [
+        "o140250240111",
+        "o140250240121"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130150210112"
+      ]
+    ]
+  }
+}

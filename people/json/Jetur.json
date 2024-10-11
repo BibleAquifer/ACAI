@@ -1,0 +1,77 @@
+{
+  "id": "person:Jetur",
+  "primary_id": "person:Jetur",
+  "alternate_sources": {
+    "aquifer": [
+      "6361|Jetur, Jeturites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002923001001000"
+    ],
+    "tipnr": [
+      "Jetur@Gen.25.15-1Ch"
+    ],
+    "vizbible": [
+      "recDv2v3mcDXIZBHE"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Naphish",
+    "person:Kedemah",
+    "person:Mahalath"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "002923001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jetur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jetur",
+          "article": "person:Jetur",
+          "description": "A son of Ishmael and a man of the Arabs during the time of the patriarchs, mentioned in Genesis 25:15."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְטוּר"
+    ]
+  },
+  "key_references": [
+    "01025015",
+    "13001031"
+  ],
+  "references": [
+    "01025015",
+    "13001031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250150031"
+      ],
+      [
+        "o130010310011"
+      ]
+    ]
+  }
+}

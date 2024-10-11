@@ -1,0 +1,120 @@
+{
+  "id": "place:Pisgah",
+  "primary_id": "place:Pisgah",
+  "alternate_sources": {
+    "aquifer": [
+      "7745|Pisgah, Mount|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "afd9259"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/5247945"
+    ],
+    "tipnr": [
+      "Pisgah@Num.21.20-Jos"
+    ],
+    "vizbible": [
+      "rec0YWbwVkA7RQKBw"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2601894"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pisgah",
+      "alternate_labels": [
+        "Ashdoth-pisgar",
+        "slopes of Pisgah",
+        "Pisgah Peak",
+        "Ashdoth-pisgah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pisgah",
+          "gloss": "Pisgah",
+          "description": "A mountain in the Abarim range, located in Moab northeast of the Dead Sea, where God showed Moses the promised land (Deuteronomy 34:1–3)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Abarim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain",
+      "mountain range",
+      "special"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.7650313",
+      "lon": "35.71856576"
+    },
+    "recogito": {
+      "lat": "43.74191",
+      "lon": "-90.7793"
+    },
+    "vizbible": {
+      "lat": "31.7650313",
+      "lon": "35.71856576"
+    }
+  },
+  "key_references": [
+    "05034001",
+    "04023014",
+    "05003027"
+  ],
+  "references": [
+    "04021020",
+    "04023014",
+    "05003017",
+    "05003027",
+    "05004049",
+    "05034001",
+    "06012003",
+    "06013020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210200072"
+      ],
+      [
+        "o040230140062"
+      ],
+      [
+        "o050030170122"
+      ],
+      [
+        "o050030270032"
+      ],
+      [
+        "o050040490112"
+      ],
+      [
+        "o050340010092"
+      ],
+      [
+        "o060120030182"
+      ],
+      [
+        "o060130200042"
+      ]
+    ]
+  }
+}

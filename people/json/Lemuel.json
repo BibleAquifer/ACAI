@@ -1,0 +1,83 @@
+{
+  "id": "person:Lemuel",
+  "primary_id": "person:Lemuel",
+  "alternate_sources": {
+    "aquifer": [
+      "6718|Lemuel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003594001001000"
+    ],
+    "tipnr": [
+      "Lemuel@Pro.31.1-"
+    ],
+    "vizbible": [
+      "recNDf6kLhjPBivdO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "ubsdbh": [
+    "003594001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lemuel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lemuel",
+          "article": "person:Lemuel",
+          "description": "A king whose sayings are included in Proverbs, living during Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לְמוּאֵל"
+    ]
+  },
+  "key_references": [
+    "20031001",
+    "20031004"
+  ],
+  "references": [
+    "20031001",
+    "20031004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o200310010021"
+      ],
+      [
+        "o200310040031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o200310060011"
+      ],
+      [
+        "o200310080011"
+      ],
+      [
+        "o200310090011"
+      ],
+      [
+        "o200310090031"
+      ],
+      [
+        "o200310090052"
+      ]
+    ]
+  }
+}

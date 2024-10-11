@@ -1,0 +1,69 @@
+{
+  "id": "realia:Stylus",
+  "primary_id": "realia:Stylus",
+  "alternate_sources": {
+    "aquifer": [
+      "8639|Stylus|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002530001002000",
+      "005361001002000"
+    ],
+    "ubsrealia": [
+      "realia:1.7.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "002530001002000",
+    "005361001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stylus",
+      "alternate_labels": [
+        "Tablet and Stylus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Stylus",
+          "article": "realia:Stylus",
+          "description": "A short, sharp piece of iron used for engraving marks on stone or metal."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶרֶט",
+      "עֵט"
+    ]
+  },
+  "key_references": [
+    "18019024",
+    "23008001",
+    "24017001"
+  ],
+  "references": [
+    "18019024",
+    "23008001",
+    "24017001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230080010102"
+      ],
+      [
+        "o180190240012"
+      ],
+      [
+        "o240170010042"
+      ]
+    ]
+  }
+}

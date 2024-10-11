@@ -1,0 +1,84 @@
+{
+  "id": "place:Zalmon",
+  "primary_id": "place:EbalMount",
+  "alternate_sources": {
+    "aquifer": [
+      "9132|Zalmon (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006210001001000"
+    ],
+    "tipnr": [
+      "Zalmon|Ebal_Mount@Deu.11.29-Jer"
+    ],
+    "vizbible": [
+      "recvt2PQbAxcUQYmR"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006210001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zalmon",
+      "alternate_labels": [
+        "Mount Ebal",
+        "Mount Zalmon",
+        "Salmon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zalmon",
+          "gloss": "Zalmon",
+          "description": "A mountain mentioned in Psalm 68:14; possibly another name for Mount Zalmon near Shechem (Judges 9:48), or Mount Hermon."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:ZalmonMount",
+    "place:HermonMount"
+  ],
+  "referred_to_as": [
+    "place:EbalMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.23293814",
+      "lon": "35.2730418"
+    },
+    "vizbible": {
+      "lat": "32.23293814",
+      "lon": "35.2730418"
+    }
+  },
+  "key_references": [
+    "19068014"
+  ],
+  "references": [
+    "19068015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190680150062"
+      ]
+    ]
+  }
+}

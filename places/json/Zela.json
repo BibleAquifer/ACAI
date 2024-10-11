@@ -1,0 +1,101 @@
+{
+  "id": "place:Zela",
+  "primary_id": "place:Zela",
+  "alternate_sources": {
+    "aquifer": [
+      "9172|Zela, Zelah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006216002001000",
+      "006215001001000 006216002001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/857382"
+    ],
+    "tipnr": [
+      "Zela@Jos.18.28-2Sa"
+    ],
+    "vizbible": [
+      "recAWbKj7JcLQWmme"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006216002001000",
+    "006215001001000 006216002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zela",
+      "alternate_labels": [
+        "Zelah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zela",
+          "gloss": "Zela",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "צֵלָע"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.792733",
+      "lon": "35.196862"
+    },
+    "recogito": {
+      "lat": "40.3041",
+      "lon": "35.89057"
+    },
+    "vizbible": {
+      "lat": "31.792733",
+      "lon": "35.196862"
+    }
+  },
+  "key_references": [
+    "06018028",
+    "10021014"
+  ],
+  "references": [
+    "06018028",
+    "10021014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180280012"
+      ],
+      [
+        "o100210140092"
+      ]
+    ]
+  }
+}

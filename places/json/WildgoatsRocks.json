@@ -1,0 +1,97 @@
+{
+  "id": "place:WildgoatsRocks",
+  "primary_id": "place:WildgoatsRocks",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002997002001000",
+      "006161004003000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/716642"
+    ],
+    "tipnr": [
+      "Wildgoats_Rocks@1Sa.24.2"
+    ],
+    "vizbible": [
+      "recc89MATZeevX9VK"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002997002001000",
+    "006161004003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wildgoats' Rocks",
+      "alternate_labels": [
+        "Rocks of the Mountain Goats",
+        "Rocks",
+        "Wildgoats’ Rocks",
+        "Crags of the Wild Goats",
+        "Rocks of the Wild Goats",
+        "rocks of wild goats"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Wildgoats’Rocks",
+          "gloss": "Wildgoats' Rocks",
+          "description": "A location in the desert of Judah where Saul looked for David."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Engedi"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָעֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "natural area"
+    ],
+    "acai": [
+      "natural area"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.46152536164766",
+      "lon": "35.39241108242345"
+    },
+    "recogito": {
+      "lat": "31.52032",
+      "lon": "26.63915"
+    },
+    "vizbible": {
+      "lat": "31.46152536164766",
+      "lon": "35.39241108242345"
+    }
+  },
+  "key_references": [
+    "09024003"
+  ],
+  "references": [
+    "09024003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090240030161"
+      ],
+      [
+        "o090240030172"
+      ]
+    ]
+  }
+}

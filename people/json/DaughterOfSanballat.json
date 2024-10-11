@@ -1,0 +1,42 @@
+{
+  "id": "person:DaughterOfSanballat",
+  "primary_id": "person:DaughterOfSanballat",
+  "alternate_sources": {
+    "tipnr": [
+      "daughter_of_Sanballat@Neh.13.28"
+    ],
+    "vizbible": [
+      "recdDM4fNIRGPObrR"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Sanballat",
+  "partners": [
+    "person:SonOfJoiada"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Daughter of Sanballat",
+      "alternate_labels": [
+        "son of Joiada"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Daughter of Sanballat",
+          "article": "person:DaughterOfSanballat",
+          "description": "The Daughter of Sanballat, inferred in Nehemiah 13:28, was an unnamed woman who married a son of Joiada during the time of exile and return."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16013028"
+  ],
+  "references": [
+    "16013028"
+  ]
+}

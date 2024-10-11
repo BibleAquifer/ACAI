@@ -1,0 +1,76 @@
+{
+  "id": "person:Rehum",
+  "primary_id": "person:Rehum",
+  "alternate_sources": {
+    "aquifer": [
+      "7986|Rehum|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Harim|Rehum@Ezr.2.2-Neh",
+      "Nehum|Rehum@Ezr.2.2-Neh",
+      "Rehum@Ezr.2.2-Neh"
+    ],
+    "vizbible": [
+      "rec2zFyiyLF2Kcfja"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Leader"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rehum",
+      "alternate_labels": [
+        "Nehum",
+        "Harim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rehum",
+          "article": "person:Rehum",
+          "description": "An Israelite leader who returned with Zerubbabel to the land during the time of Nehemiah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Harim.5",
+    "person:Nehum"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002002",
+    "16007007",
+    "16010006"
+  ],
+  "references": [
+    "15002002",
+    "16007007",
+    "16010006",
+    "16012003",
+    "16012015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020020131"
+      ],
+      [
+        "o160070070131"
+      ],
+      [
+        "o160100060011"
+      ],
+      [
+        "o160120030021"
+      ],
+      [
+        "o160120150012"
+      ]
+    ]
+  }
+}

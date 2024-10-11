@@ -1,0 +1,98 @@
+{
+  "id": "flora:Almond",
+  "primary_id": "flora:Almond",
+  "alternate_sources": {
+    "aquifer": [
+      "3521|Almond|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003539001001000",
+      "007605001001000"
+    ],
+    "ubsflora": [
+      "flora:2.1"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Domestic Trees and Shrubs",
+  "ubsdbh": [
+    "003539001001000",
+    "007605001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Almond",
+      "alternate_labels": [
+        "Almond Tree"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Almond",
+          "article": "flora:Almond",
+          "description": "Related to the peach, it grows up to 6 meters, blooms with white or pink flowers early, and its nuts can be eaten raw or roasted."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לוּז",
+      "שָׁקֵד"
+    ]
+  },
+  "key_references": [
+    "02037019",
+    "01043011"
+  ],
+  "references": [
+    "01030037",
+    "01043011",
+    "02025033",
+    "02025034",
+    "02037019",
+    "02037020",
+    "04017023",
+    "21012005",
+    "24001011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010300370072"
+      ],
+      [
+        "o010430110242"
+      ],
+      [
+        "o040170230191"
+      ],
+      [
+        "o210120050072"
+      ],
+      [
+        "o240010110121"
+      ],
+      [
+        "o020250330031"
+      ],
+      [
+        "o020250330101"
+      ],
+      [
+        "o020250340041"
+      ],
+      [
+        "o020370190031"
+      ],
+      [
+        "o020370190101"
+      ],
+      [
+        "o020370200041"
+      ]
+    ]
+  }
+}

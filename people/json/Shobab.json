@@ -1,0 +1,91 @@
+{
+  "id": "person:Shobab",
+  "primary_id": "person:Shobab",
+  "alternate_sources": {
+    "aquifer": [
+      "8438|Shobab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007229002001000"
+    ],
+    "tipnr": [
+      "Shobab@2Sa.5.14-1Ch"
+    ],
+    "vizbible": [
+      "recvwM6UwmaVMdquV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:Bathsheba",
+  "siblings": [
+    "person:Amnon",
+    "person:Chileab",
+    "person:Absalom",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shammua.2",
+    "person:Nathan",
+    "person:Solomon",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Nepheg.2",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliada",
+    "person:Eliphelet",
+    "person:Tamar.2",
+    "person:Elpelet",
+    "person:Nogah",
+    "person:Jerimoth.6"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "007229002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shobab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shobab",
+          "article": "person:Shobab",
+          "description": "Shobab, mentioned in 2 Samuel 5:14, was a son of King David and Bathsheba, living during the time of Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10005014",
+    "13003005",
+    "13014004"
+  ],
+  "references": [
+    "10005014",
+    "13003005",
+    "13014004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100050140072"
+      ],
+      [
+        "o130030050062"
+      ],
+      [
+        "o130140040092"
+      ]
+    ]
+  }
+}

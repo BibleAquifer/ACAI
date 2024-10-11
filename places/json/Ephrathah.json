@@ -1,0 +1,102 @@
+{
+  "id": "place:Ephrathah",
+  "primary_id": "place:Bethlehem",
+  "alternate_sources": {
+    "aquifer": [
+      "26567|Ephrathah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "000620001001000"
+    ],
+    "tipnr": [
+      "Ephrathah|Bethlehem@Gen.35.16-Jhn"
+    ],
+    "vizbible": [
+      "recken6owpkwjiRU0"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000620001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephrathah",
+      "alternate_labels": [
+        "Bethlehem",
+        "Ephratah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ephrathah",
+          "gloss": "Ephrathah",
+          "description": "A town in the territory of Judah where Jacob buried Rachel, his wife; also known as Ephrath and Bethlehem."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Ephrath",
+    "place:Bethlehem"
+  ],
+  "referred_to_as": [
+    "place:Bethlehem"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶפְרָתָה",
+      "אֶפְרָ֫תָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.70536129",
+      "lon": "35.2102663"
+    },
+    "vizbible": {
+      "lat": "31.70536129",
+      "lon": "35.2102663"
+    }
+  },
+  "key_references": [
+    "19132006",
+    "08004011"
+  ],
+  "references": [
+    "08004011",
+    "19132006",
+    "33005001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o080040110252"
+      ],
+      [
+        "o191320060032"
+      ],
+      [
+        "o330050010041"
+      ]
+    ]
+  }
+}

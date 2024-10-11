@@ -1,0 +1,73 @@
+{
+  "id": "person:Sosipater",
+  "primary_id": "person:Sopater",
+  "alternate_sources": {
+    "aquifer": [
+      "8585|Sosipater|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.354"
+    ],
+    "tipnr": [
+      "Sosipater|Sopater@Act.20.4-Rom"
+    ],
+    "vizbible": [
+      "recgcmzon0jqDT74V"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Pyrrhus",
+  "roles": [
+    "Disciple"
+  ],
+  "ubsdgnt": [
+    "93.354"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sosipater (Sopater)",
+      "alternate_labels": [
+        "Sopater"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sopater",
+          "article": "person:Sosipater",
+          "description": "Sosipater, also known as Sopater, was a New Testament figure who sent greetings in Romans 16:21 and was the son of Pyrrhus, mentioned in Acts 20:4."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Sopater"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Σωσίπατρος"
+    ]
+  },
+  "key_references": [
+    "45016021"
+  ],
+  "references": [
+    "45016021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45016021012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n45016024005"
+      ]
+    ]
+  }
+}

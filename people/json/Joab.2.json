@@ -1,0 +1,61 @@
+{
+  "id": "person:Joab.2",
+  "primary_id": "person:Joab.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6385|Joab|TyndaleBibleDictionary",
+      "26764|Joab|UWTranslationWords",
+      "132409|Joab|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002845001002000"
+    ],
+    "tipnr": [
+      "Joab@1Ch.4.14"
+    ],
+    "vizbible": [
+      "reci72I79od1Gyndf"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Seraiah.4",
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002845001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joab (1 Chronicles 4:14)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joab (1 Chronicles 4:14)",
+          "article": "person:Joab.2",
+          "description": "A man of the tribe of Judah, son of Seraiah, and founder of Ge-Harashim, mentioned in 1 Chronicles 4:14."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹואָב",
+      "יוֹאָב"
+    ]
+  },
+  "key_references": [
+    "13004014"
+  ],
+  "references": [
+    "13004014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040140081"
+      ]
+    ]
+  }
+}

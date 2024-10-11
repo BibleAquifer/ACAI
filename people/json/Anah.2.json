@@ -1,0 +1,92 @@
+{
+  "id": "person:Anah.2",
+  "primary_id": "person:Anah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3586|Anah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005538001002000",
+      "005538001003000"
+    ],
+    "tipnr": [
+      "Anah@Gen.36.20-1Ch"
+    ],
+    "vizbible": [
+      "recZwlJk5ecgPZaeX"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Seir",
+  "offspring": [
+    "person:Dishon.2",
+    "person:Oholibamah.2"
+  ],
+  "siblings": [
+    "person:Lotan",
+    "person:Shobal",
+    "person:Zibeon.2",
+    "person:Dishon",
+    "person:Ezer",
+    "person:Dishan",
+    "person:Timna.2"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "005538001002000",
+    "005538001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anah (Son of Seir)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anah (Son of Seir)",
+          "article": "person:Anah.2",
+          "description": "The son of Seir, who lived during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036020",
+    "01036025",
+    "13001038"
+  ],
+  "references": [
+    "01036020",
+    "01036025",
+    "01036029",
+    "13001038",
+    "13001041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360200102"
+      ],
+      [
+        "o010360250031"
+      ],
+      [
+        "o010360250071"
+      ],
+      [
+        "o010360290111"
+      ],
+      [
+        "o130010380062"
+      ],
+      [
+        "o130010410021"
+      ]
+    ]
+  }
+}

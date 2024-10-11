@@ -1,0 +1,92 @@
+{
+  "id": "place:Ophel",
+  "primary_id": "place:Ophel",
+  "alternate_sources": {
+    "aquifer": [
+      "7505|Ophel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005578001003000"
+    ],
+    "tipnr": [
+      "Ophel@2Ch.27.3-Neh"
+    ],
+    "vizbible": [
+      "recIF1Q0gHP65ziSy"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005578001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ophel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ophel",
+          "gloss": "Ophel",
+          "description": "A fortified hill somewhere on the easter ridge of Jerusalem, north of the City of David and south of Solomon's temple."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "hill"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16003027",
+    "16003026"
+  ],
+  "references": [
+    "14027003",
+    "14033014",
+    "16003026",
+    "16003027",
+    "16011021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140270030092"
+      ],
+      [
+        "o140330140152"
+      ],
+      [
+        "o160030260042"
+      ],
+      [
+        "o160030270122"
+      ],
+      [
+        "o160110210032"
+      ]
+    ]
+  }
+}

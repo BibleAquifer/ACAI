@@ -1,0 +1,71 @@
+{
+  "id": "flora:PoisonousHemlock",
+  "primary_id": "flora:PoisonousHemlock",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006648002001000"
+    ],
+    "ubsflora": [
+      "flora:5.2.5"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Plants for Everyday Use",
+  "ubsdbh": [
+    "006648002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Poisonous Hemlock",
+      "alternate_labels": [
+        "Henbane"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Poisonous Hemlock",
+          "article": "flora:PoisonousHemlock",
+          "description": "A dangerous plant that may grow in field furrows, known for its toxic properties."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "רֹאשׁ"
+    ]
+  },
+  "key_references": [
+    "05029017",
+    "25003005",
+    "28010004"
+  ],
+  "references": [
+    "05029017",
+    "25003005",
+    "25003019",
+    "28010004",
+    "30006012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050290170291"
+      ],
+      [
+        "o280100040082"
+      ],
+      [
+        "o250030050041"
+      ],
+      [
+        "o250030190052"
+      ],
+      [
+        "o300060120092"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "person:Gedor",
+  "primary_id": "person:Gedor",
+  "alternate_sources": {
+    "aquifer": [
+      "5402|Gedor (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001324001003000"
+    ],
+    "tipnr": [
+      "Gedor@1Ch.8.31-"
+    ],
+    "vizbible": [
+      "recVxha1GkGcKRYdn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abiel.2",
+  "mother": "person:Maacah.6",
+  "siblings": [
+    "person:Kish",
+    "person:Ner.2",
+    "person:Abdon.3",
+    "person:Zur.3",
+    "person:Baal",
+    "person:Nadab.4",
+    "person:Ahio.3",
+    "person:Zecher",
+    "person:Mikloth"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "001324001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gedor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gedor",
+          "article": "person:Gedor",
+          "description": "Gedor, a man from the tribe of Benjamin and son of Abiel and Maacah, is mentioned in 1 Chronicles 8:31 during Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גְּדֹר",
+      "גְּדוֹר"
+    ]
+  },
+  "key_references": [
+    "13008031",
+    "13009037"
+  ],
+  "references": [
+    "13008031",
+    "13009037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080310012"
+      ],
+      [
+        "o130090370012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130080320061"
+      ]
+    ]
+  }
+}

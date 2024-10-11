@@ -1,0 +1,66 @@
+{
+  "id": "person:Haggi",
+  "primary_id": "person:Haggi",
+  "alternate_sources": {
+    "aquifer": [
+      "5593|Haggi|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Haggi@Gen.46.16-Num"
+    ],
+    "vizbible": [
+      "rechml8XjNIc7rYei"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gad",
+  "siblings": [
+    "person:Ziphion",
+    "person:Shuni",
+    "person:Ezbon",
+    "person:Eri",
+    "person:Arod",
+    "person:Areli"
+  ],
+  "tribe": "group:Gad",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Haggi",
+      "alternate_labels": [
+        "Haggite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Haggi",
+          "article": "person:Haggi",
+          "description": "Haggi, also known as Haggite, was a man from the tribe of Gad living during the time of Egypt and the wilderness, first mentioned in Genesis 46:16."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046016",
+    "04026015"
+  ],
+  "references": [
+    "01046016",
+    "04026015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460160042"
+      ],
+      [
+        "o040260150072"
+      ],
+      [
+        "o040260150092"
+      ]
+    ]
+  }
+}

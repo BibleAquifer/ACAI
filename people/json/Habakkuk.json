@@ -1,0 +1,154 @@
+{
+  "id": "person:Habakkuk",
+  "primary_id": "person:Habakkuk",
+  "alternate_sources": {
+    "aquifer": [
+      "5558|Habakkuk (Person)|TyndaleBibleDictionary",
+      "26666|Habakkuk|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002095001001000"
+    ],
+    "tipnr": [
+      "Habakkuk@Hab.1.1-"
+    ],
+    "vizbible": [
+      "recItah9by6c5tHXj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Prophet"
+  ],
+  "ubsdbh": [
+    "002095001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Habakkuk",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Habakkuk",
+          "article": "person:Habakkuk",
+          "description": "Habakkuk was a prophet living during the time of the divided kingdom, first mentioned in Habakkuk 1:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֲבַקּוּק"
+    ]
+  },
+  "key_references": [
+    "35001001",
+    "35003001"
+  ],
+  "references": [
+    "35001001",
+    "35003001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o350010010041"
+      ],
+      [
+        "o350030010022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o350030180012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o350010020041"
+      ],
+      [
+        "o350010020071"
+      ],
+      [
+        "o350010050011"
+      ],
+      [
+        "o350010050032"
+      ],
+      [
+        "o350010050042",
+        "o350010050051"
+      ],
+      [
+        "o350010050111"
+      ],
+      [
+        "o350010120081"
+      ],
+      [
+        "o350020010031"
+      ],
+      [
+        "o350020010042"
+      ],
+      [
+        "o350020010072"
+      ],
+      [
+        "o350020010082"
+      ],
+      [
+        "o350020010131"
+      ],
+      [
+        "o350020020041"
+      ],
+      [
+        "o350020020062"
+      ],
+      [
+        "o350020030111"
+      ],
+      [
+        "o350030020021"
+      ],
+      [
+        "o350030020041"
+      ],
+      [
+        "o350030070031"
+      ],
+      [
+        "o350030160011"
+      ],
+      [
+        "o350030160111"
+      ],
+      [
+        "o350030160131"
+      ],
+      [
+        "o350030180041"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "delivery": "crying",
+        "quote_type": "Hypothetical",
+        "words": [
+          "o350010020091"
+        ]
+      }
+    ]
+  }
+}

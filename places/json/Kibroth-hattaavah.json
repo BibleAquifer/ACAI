@@ -1,0 +1,95 @@
+{
+  "id": "place:Kibroth-hattaavah",
+  "primary_id": "place:Kibroth-hattaavah",
+  "alternate_sources": {
+    "aquifer": [
+      "6573|Kibroth-Hattaavah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006365001001000"
+    ],
+    "tipnr": [
+      "Kibroth-hattaavah@Num.11.34-Deu"
+    ],
+    "vizbible": [
+      "rec4yGdQ6cs8KTqMx"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006365001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kibroth-hattaavah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kibroth-hattaavah",
+          "gloss": "Kibroth-Hattaavah",
+          "description": "A location in the Sinai Peninsula, between the wilderness of Sinai and Hazeroth, where the Israelites encamped on their way from Egypt to Canaan; people were buried there following a plague that came as a punishment from God."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.916667",
+      "lon": "34.500000"
+    },
+    "vizbible": {
+      "lat": "28.916667",
+      "lon": "34.500000"
+    }
+  },
+  "key_references": [
+    "04011034",
+    "05009022",
+    "04011035"
+  ],
+  "references": [
+    "04011034",
+    "04011035",
+    "04033016",
+    "04033017",
+    "05009022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040110340061",
+        "o040110340071"
+      ],
+      [
+        "o040110350012",
+        "o040110350021"
+      ],
+      [
+        "o040330160052",
+        "o040330160061"
+      ],
+      [
+        "o040330170022",
+        "o040330170031"
+      ],
+      [
+        "o050090220033",
+        "o050090220041"
+      ]
+    ]
+  }
+}

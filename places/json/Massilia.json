@@ -1,0 +1,39 @@
+{
+  "id": "place:Massilia",
+  "primary_id": "place:Massilia",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Massilia",
+          "gloss": "Massalia",
+          "description": "A Greek seaport city on the southeastern coast of France; modern-day Marseille."
+        }
+      ],
+      "preferred_label": "Massalia",
+      "alternate_labels": [
+        "Massilia",
+        "Marseille"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "43.29685",
+      "lon": "5.3825"
+    }
+  }
+}

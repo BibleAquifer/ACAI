@@ -1,0 +1,63 @@
+{
+  "id": "person:Ben-ammi",
+  "primary_id": "person:Ben-ammi",
+  "alternate_sources": {
+    "aquifer": [
+      "4099|Ben-Ammi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001052001001000"
+    ],
+    "tipnr": [
+      "Ben-ammi@Gen.19.38"
+    ],
+    "vizbible": [
+      "recwmFAt1MMUiL8dC"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Lot",
+  "mother": "person:Daughter2OfLot",
+  "siblings": [
+    "person:Moab"
+  ],
+  "tribe": "group:Ammon",
+  "ubsdbh": [
+    "001052001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ben-ammi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ben-Ammi",
+          "article": "person:Ben-ammi",
+          "description": "Son of Lot and his second daughter, living during the time of the patriarchs, and considered the ancestor of the Ammonites, mentioned in Genesis 19:38."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּן־עַמִּי"
+    ]
+  },
+  "key_references": [
+    "01019038"
+  ],
+  "references": [
+    "01019038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010190380081",
+        "o010190380091"
+      ]
+    ]
+  }
+}

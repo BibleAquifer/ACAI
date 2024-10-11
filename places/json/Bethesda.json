@@ -1,0 +1,86 @@
+{
+  "id": "place:Bethesda",
+  "primary_id": "place:Bethesda",
+  "alternate_sources": {
+    "aquifer": [
+      "4173|Bethesda|TyndaleBibleDictionary"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2655804"
+    ],
+    "tipnr": [
+      "Bethesda@Jhn.5.2"
+    ],
+    "vizbible": [
+      "rec6CMR83y25xqFji"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bethesda",
+      "alternate_labels": [
+        "Beth-Zatha",
+        "Variant= Bethzatha"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bethesda",
+          "gloss": "Bethesda",
+          "description": "A pool in Jerusalem where people came to be healed; Jesus healed a man who has been an invalid for 38 years there."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:SheepGate"
+  ],
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "pool"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "pool"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "53.16667",
+      "lon": "-4.08333"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "43005002"
+  ],
+  "references": [
+    "43005002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43005002013"
+      ]
+    ]
+  }
+}

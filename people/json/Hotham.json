@@ -1,0 +1,70 @@
+{
+  "id": "person:Hotham",
+  "primary_id": "person:Hotham",
+  "alternate_sources": {
+    "aquifer": [
+      "5925|Hotham|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hotham@1Ch.7.32-",
+      "Helem|Hotham@1Ch.7.32-"
+    ],
+    "vizbible": [
+      "recyd5LSvHIs9X0yq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Heber",
+  "offspring": [
+    "person:Zophah",
+    "person:Imna",
+    "person:Shelesh",
+    "person:Amal"
+  ],
+  "siblings": [
+    "person:Japhlet",
+    "person:Shomer.2",
+    "person:Shua.2"
+  ],
+  "tribe": "group:Asher",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hotham",
+      "alternate_labels": [
+        "Helem"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hotham",
+          "article": "person:Hotham",
+          "description": "Hotham, also called Helem, was a man from the tribe of Asher living before Israel's Monarchy, and was the son of Heber and father of Zophah, Imna, Shelesh, and Amal."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Helem.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007032",
+    "13007035"
+  ],
+  "references": [
+    "13007032",
+    "13007035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070320081"
+      ],
+      [
+        "o130070350021"
+      ]
+    ]
+  }
+}

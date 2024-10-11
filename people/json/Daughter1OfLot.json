@@ -1,0 +1,116 @@
+{
+  "id": "person:Daughter1OfLot",
+  "primary_id": "person:Daughter1OfLot",
+  "alternate_sources": {
+    "tipnr": [
+      "daughter1_of_Lot@Gen.19.37"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Lot",
+  "mother": "person:WifeOfLot",
+  "partners": [
+    "person:Lot"
+  ],
+  "offspring": [
+    "person:Moab"
+  ],
+  "siblings": [
+    "person:Daughter2OfLot"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Daughter1 of Lot",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Daughter1 of Lot",
+          "article": "person:Daughter1OfLot",
+          "description": "Daughter1 of Lot was the unnamed older daughter of Lot, living during the time of the patriarchs, and mentioned in Genesis 19:30."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01019030"
+  ],
+  "references": [
+    "01019030"
+  ],
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010190310051",
+          "o010190310052",
+          "o010190310061",
+          "o010190310071",
+          "o010190310072",
+          "o010190310081",
+          "o010190310091",
+          "o010190310091ה",
+          "o010190310092",
+          "o010190310101",
+          "o010190310102",
+          "o010190310111",
+          "o010190310112",
+          "o010190310121",
+          "o010190310122",
+          "o010190310131",
+          "o010190310141",
+          "o010190310142",
+          "o010190320011",
+          "o010190320012",
+          "o010190320021",
+          "o010190320031",
+          "o010190320041",
+          "o010190320042",
+          "o010190320051",
+          "o010190320061",
+          "o010190320062",
+          "o010190320071",
+          "o010190320072",
+          "o010190320081",
+          "o010190320082",
+          "o010190320091",
+          "o010190320092",
+          "o010190320093",
+          "o010190320101"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010190340071",
+          "o010190340081",
+          "o010190340091",
+          "o010190340101",
+          "o010190340111",
+          "o010190340112",
+          "o010190340121",
+          "o010190340122",
+          "o010190340131",
+          "o010190340141",
+          "o010190340151",
+          "o010190340152",
+          "o010190340161",
+          "o010190340162",
+          "o010190340171",
+          "o010190340181",
+          "o010190340182",
+          "o010190340191",
+          "o010190340192",
+          "o010190340201",
+          "o010190340202",
+          "o010190340203",
+          "o010190340211"
+        ]
+      }
+    ]
+  }
+}

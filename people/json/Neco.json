@@ -1,0 +1,170 @@
+{
+  "id": "person:Neco",
+  "primary_id": "person:Neco",
+  "alternate_sources": {
+    "aquifer": [
+      "7335|Necho, Nechoh, Neco, Necoh|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Neco@2Ki.23.29-Jer",
+      "Pharaoh|Neco@2Ki.23.29-Jer",
+      "PharaohNeco|Neco@2Ki.23.29-Jer"
+    ],
+    "vizbible": [
+      "recj4jStie8ofBOVu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Egypt",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Neco",
+      "alternate_labels": [
+        "Pharaoh Necho",
+        "Necho",
+        "Pharaoh Neco",
+        "Pharaoh",
+        "Pharaoh-nechoh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Neco",
+          "article": "person:Neco",
+          "description": "Pharoah of Egypt who defeated King Josiah of the northern kingdom of Judah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Pharaohneco",
+    "person:Pharaoh.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12023029",
+    "24046002"
+  ],
+  "references": [
+    "12023029",
+    "12023033",
+    "12023034",
+    "12023035",
+    "14035020",
+    "14035022",
+    "14036004",
+    "24046002",
+    "24046017",
+    "24046025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120230290041"
+      ],
+      [
+        "o120230330031"
+      ],
+      [
+        "o120230340031"
+      ],
+      [
+        "o120230350052"
+      ],
+      [
+        "o120230350151"
+      ],
+      [
+        "o120230350281"
+      ],
+      [
+        "o140350200101"
+      ],
+      [
+        "o140350220141"
+      ],
+      [
+        "o140360040181"
+      ],
+      [
+        "o240460020051"
+      ],
+      [
+        "o240460170031"
+      ],
+      [
+        "o240460250121"
+      ],
+      [
+        "o240460250201"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140350200132"
+      ],
+      [
+        "o140350210012"
+      ],
+      [
+        "o140360040192"
+      ],
+      [
+        "o240460170071"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o140350210051",
+          "o140350210061",
+          "o140350210062",
+          "o140350210071",
+          "o140350210072",
+          "o140350210073",
+          "o140350210081",
+          "o140350210091",
+          "o140350210101",
+          "o140350210111",
+          "o140350210112",
+          "o140350210121",
+          "o140350210131",
+          "o140350210132",
+          "o140350210141",
+          "o140350210151",
+          "o140350210161",
+          "o140350210171",
+          "o140350210172",
+          "o140350210181",
+          "o140350210182",
+          "o140350210191",
+          "o140350210201",
+          "o140350210202",
+          "o140350210203",
+          "o140350210211",
+          "o140350210221",
+          "o140350210222",
+          "o140350210231",
+          "o140350210232",
+          "o140350210241",
+          "o140350210251",
+          "o140350210252",
+          "o140350210261",
+          "o140350210262",
+          "o140350210271",
+          "o140350210272"
+        ]
+      }
+    ]
+  }
+}

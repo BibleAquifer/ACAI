@@ -1,0 +1,58 @@
+{
+  "id": "realia:Rudder",
+  "primary_id": "realia:Rudder",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.50"
+    ],
+    "ubsrealia": [
+      "realia:8.1.8"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.50"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rudder",
+      "alternate_labels": [
+        "Boat"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rudder",
+          "article": "realia:Rudder",
+          "description": "A large plank at the back of a ship used to steer and direct its course."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "πηδάλιον"
+    ]
+  },
+  "key_references": [
+    "44027040",
+    "59003004"
+  ],
+  "references": [
+    "44027040",
+    "59003004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027040014"
+      ],
+      [
+        "n59003004015"
+      ]
+    ]
+  }
+}

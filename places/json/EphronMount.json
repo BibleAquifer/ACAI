@@ -1,0 +1,81 @@
+{
+  "id": "place:EphronMount",
+  "primary_id": "place:EphronMount",
+  "alternate_sources": {
+    "obi": [
+      "a75aff4"
+    ],
+    "tipnr": [
+      "Ephron_Mount@Jos.15.9-"
+    ],
+    "vizbible": [
+      "recpv8kBAFWrBcGYD"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Ephron",
+      "alternate_labels": [
+        "west",
+        "Ephron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountEphron",
+          "gloss": "Mount Ephron",
+          "description": "A mountain near the boundary of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.675746",
+      "lon": "35.042407"
+    },
+    "vizbible": {
+      "lat": "31.675746",
+      "lon": "35.042407"
+    }
+  },
+  "key_references": [
+    "06015009"
+  ],
+  "references": [
+    "06015009",
+    "06018015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150090131"
+      ],
+      [
+        "o060180150081"
+      ]
+    ]
+  }
+}

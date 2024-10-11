@@ -1,0 +1,84 @@
+{
+  "id": "place:Neiel",
+  "primary_id": "place:Neah",
+  "alternate_sources": {
+    "aquifer": [
+      "7349|Neiel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004834001001000"
+    ],
+    "tipnr": [
+      "Neiel|Neah@Jos.19.13-"
+    ],
+    "vizbible": [
+      "rec2FVo1ApaaObSl8"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004834001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Neiel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Neiel",
+          "gloss": "Neiel",
+          "description": "A town in the territory of Asher."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Neah"
+  ],
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נְעִיאֵל"
+    ]
+  },
+  "place_types": {
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.894254",
+      "lon": "35.221877"
+    },
+    "vizbible": {
+      "lat": "32.894254",
+      "lon": "35.221877"
+    }
+  },
+  "key_references": [
+    "06019027"
+  ],
+  "references": [
+    "06019027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190270142"
+      ]
+    ]
+  }
+}

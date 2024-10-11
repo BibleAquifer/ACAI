@@ -1,0 +1,62 @@
+{
+  "id": "place:Shibah",
+  "primary_id": "place:Beersheba",
+  "alternate_sources": {
+    "aquifer": [
+      "8384|Shibah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007180002001000"
+    ],
+    "tipnr": [
+      "Shibah|Beersheba@Gen.21.14-Amo"
+    ],
+    "vizbible": [
+      "recVHSiFLmbUrZHLJ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007180002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shibah",
+      "alternate_labels": [
+        "Beersheba"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Beersheba"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.24495217",
+      "lon": "34.84088858"
+    },
+    "vizbible": {
+      "lat": "31.24495217",
+      "lon": "34.84088858"
+    }
+  },
+  "key_references": [
+    "01026033"
+  ],
+  "references": [
+    "01026033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010260330031"
+      ]
+    ]
+  }
+}

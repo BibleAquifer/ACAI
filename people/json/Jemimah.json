@@ -1,0 +1,64 @@
+{
+  "id": "person:Jemimah",
+  "primary_id": "person:Jemimah",
+  "alternate_sources": {
+    "aquifer": [
+      "6304|Jemimah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002948001001000"
+    ],
+    "tipnr": [
+      "Jemimah@Job.42.14"
+    ],
+    "vizbible": [
+      "rec2Y3H1eq0O58KmH"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Job",
+  "siblings": [
+    "person:Keziah",
+    "person:Keren-happuch"
+  ],
+  "ubsdbh": [
+    "002948001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jemimah",
+      "alternate_labels": [
+        "Jemima"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jemimah",
+          "article": "person:Jemimah",
+          "description": "First daughter of Job born after his restoration."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְמִימָה"
+    ]
+  },
+  "key_references": [
+    "18042014"
+  ],
+  "references": [
+    "18042014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180420140041"
+      ]
+    ]
+  }
+}

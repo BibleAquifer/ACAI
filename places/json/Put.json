@@ -1,0 +1,134 @@
+{
+  "id": "place:Put",
+  "primary_id": "place:Put",
+  "alternate_sources": {
+    "aquifer": [
+      "7871|Put (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ad0520f"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/1468514"
+    ],
+    "tipnr": [
+      "Pul|Put@Isa.66.19-Nam",
+      "Put@Isa.66.19-Nam"
+    ],
+    "vizbible": [
+      "recglfjpGTUL9C7v1"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q946939"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Put",
+      "alternate_labels": [
+        "Libya",
+        "Phut",
+        "Libyans",
+        "Pul",
+        "Put (KJV=Phut",
+        "Put (KJV",
+        "Lybia"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Put",
+          "gloss": "Put",
+          "description": "A nation descended from a man of the same name; possibly to be identified with Libya."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Libya"
+  ],
+  "referred_to_as": [
+    "place:Pul"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.824979",
+      "lon": "21.858301"
+    },
+    "recogito": {
+      "lat": "37.47355",
+      "lon": "70.61617"
+    },
+    "vizbible": {
+      "lat": "32.824979",
+      "lon": "21.858301"
+    }
+  },
+  "key_references": [
+    "26030005",
+    "26027010"
+  ],
+  "references": [
+    "23066019",
+    "24046009",
+    "26027010",
+    "26030005",
+    "26038005",
+    "34003009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230660190101"
+      ],
+      [
+        "o240460090082"
+      ],
+      [
+        "o260270100032"
+      ],
+      [
+        "o260300050022"
+      ],
+      [
+        "o260380050032"
+      ],
+      [
+        "o340030090061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270100121"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240460090091"
+      ],
+      [
+        "o260270100101"
+      ]
+    ]
+  }
+}

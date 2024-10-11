@@ -1,0 +1,76 @@
+{
+  "id": "person:Raamah",
+  "primary_id": "person:Raamah",
+  "alternate_sources": {
+    "aquifer": [
+      "7889|Raama, Raamah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Raamah@Gen.10.7-1Ch"
+    ],
+    "vizbible": [
+      "recElaCme6hM7G3x2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Cush.2",
+  "offspring": [
+    "person:Sheba",
+    "person:Dedan"
+  ],
+  "siblings": [
+    "person:Seba",
+    "person:Havilah",
+    "person:Sabtah",
+    "person:Sabteca",
+    "person:Nimrod"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Raamah",
+      "alternate_labels": [
+        "Raama"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Raamah",
+          "article": "person:Raamah",
+          "description": "Grandson of the patriach ham, a son of Cush, and father of Sheba and Dedan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010007",
+    "13001009"
+  ],
+  "references": [
+    "01010007",
+    "13001009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100070062"
+      ],
+      [
+        "o010100070091"
+      ],
+      [
+        "o130010090062"
+      ],
+      [
+        "o130010090091"
+      ]
+    ]
+  }
+}

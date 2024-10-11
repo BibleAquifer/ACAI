@@ -1,0 +1,112 @@
+{
+  "id": "place:Arimathea",
+  "primary_id": "place:Arimathea",
+  "alternate_sources": {
+    "aquifer": [
+      "3738|Arimathea|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af3d9fc"
+    ],
+    "ubsdgnt": [
+      "93.413"
+    ],
+    "tipnr": [
+      "Arimathea@Mat.27.57-Jhn"
+    ],
+    "vizbible": [
+      "recvtGi1Kp2anZbCt"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2558868"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.413"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arimathea",
+      "alternate_labels": [
+        "Arimathaea"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Arimathea",
+          "gloss": "Arimathea",
+          "description": "A city in Judea, northwest of Jerusalem; home to Joseph, who provided a tomb for Jesus after he was crucified (Matthew 27:57–61; Mark 15:42–47; Luke 23:50–56; John 19:38–42). "
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Judea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἁριμαθαία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.83273947",
+      "lon": "35.18016286"
+    },
+    "vizbible": {
+      "lat": "31.83273947",
+      "lon": "35.18016286"
+    },
+    "biblica-maps": {
+      "lat": "31.83028",
+      "lon": "35.20976"
+    }
+  },
+  "key_references": [
+    "43019038",
+    "41015043",
+    "40027057",
+    "42023050"
+  ],
+  "references": [
+    "40027057",
+    "41015043",
+    "42023050",
+    "42023051",
+    "43019038"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027057008"
+      ],
+      [
+        "n41015043005"
+      ],
+      [
+        "n42023051012"
+      ],
+      [
+        "n43019038009"
+      ]
+    ]
+  }
+}

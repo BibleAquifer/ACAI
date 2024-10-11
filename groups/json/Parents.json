@@ -1,0 +1,96 @@
+{
+  "id": "group:Parents",
+  "primary_id": "group:Parents",
+  "type": "group",
+  "group_type": "other",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Parents",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Parents",
+          "description": "Parents participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "43009023"
+  ],
+  "references": [
+    "43009023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43009023004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43009020004"
+      ],
+      [
+        "n43009020007"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "cautious",
+        "quote_type": "Dialogue",
+        "words": [
+          "n43009020008",
+          "n43009020009",
+          "n43009020010",
+          "n43009020011",
+          "n43009020012",
+          "n43009020013",
+          "n43009020014",
+          "n43009020015",
+          "n43009020016",
+          "n43009020017",
+          "n43009020018",
+          "n43009021001",
+          "n43009021002",
+          "n43009021003",
+          "n43009021004",
+          "n43009021005",
+          "n43009021006",
+          "n43009021007",
+          "n43009021008",
+          "n43009021009",
+          "n43009021010",
+          "n43009021011",
+          "n43009021012",
+          "n43009021013",
+          "n43009021014",
+          "n43009021015",
+          "n43009021016",
+          "n43009021017",
+          "n43009021018",
+          "n43009021019",
+          "n43009021020",
+          "n43009021021",
+          "n43009021022",
+          "n43009021023"
+        ]
+      },
+      {
+        "quote_type": "Quotation",
+        "words": [
+          "n43009023008",
+          "n43009023009",
+          "n43009023010",
+          "n43009023011"
+        ]
+      }
+    ]
+  }
+}

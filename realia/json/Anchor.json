@@ -1,0 +1,74 @@
+{
+  "id": "realia:Anchor",
+  "primary_id": "realia:Anchor",
+  "alternate_sources": {
+    "aquifer": [
+      "3601|Anchor|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.48"
+    ],
+    "ubsrealia": [
+      "realia:8.1.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.48"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anchor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anchor",
+          "article": "realia:Anchor",
+          "description": "A heavy object attached to a boat by a rope or chain and dropped to the bottom of water to keep the boat from moving."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἄγκυρα"
+    ]
+  },
+  "key_references": [
+    "44027029",
+    "44027030",
+    "58006019"
+  ],
+  "references": [
+    "44027029",
+    "44027030",
+    "44027040",
+    "58006019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027029012"
+      ],
+      [
+        "n44027030020"
+      ],
+      [
+        "n44027040003"
+      ],
+      [
+        "n58006019003"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n58006019012"
+      ]
+    ]
+  }
+}

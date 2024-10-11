@@ -1,0 +1,147 @@
+{
+  "id": "person:Apollos",
+  "primary_id": "person:Apollos",
+  "alternate_sources": {
+    "aquifer": [
+      "3667|Apollos|TyndaleBibleDictionary",
+      "26323|Apollos|UWTranslationWords",
+      "132082|Apollos|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.33"
+    ],
+    "tipnr": [
+      "Apollos@Act.18.24-Tit"
+    ],
+    "vizbible": [
+      "recoxUPwUPGU1IP9X"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Evangelist",
+    "Missionary"
+  ],
+  "ubsdgnt": [
+    "93.33"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Apollos",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Apollos",
+          "article": "person:Apollos",
+          "description": "A Christian teacher from Alexandria in Egypt, who worked in Ephesus and Corinth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀπολλῶς"
+    ]
+  },
+  "key_references": [
+    "44018024",
+    "46003005"
+  ],
+  "references": [
+    "44018024",
+    "44019001",
+    "46001012",
+    "46003004",
+    "46003005",
+    "46003006",
+    "46003022",
+    "46004006",
+    "46016012",
+    "56003013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018024004"
+      ],
+      [
+        "n44019001006"
+      ],
+      [
+        "n46001012014"
+      ],
+      [
+        "n46003004012"
+      ],
+      [
+        "n46003005004"
+      ],
+      [
+        "n46003006003"
+      ],
+      [
+        "n46003022004"
+      ],
+      [
+        "n46004006008"
+      ],
+      [
+        "n46016012003"
+      ],
+      [
+        "n56003013005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n46004001002"
+      ],
+      [
+        "n46004005030"
+      ],
+      [
+        "n46004006013"
+      ],
+      [
+        "n46004008007"
+      ],
+      [
+        "n46004008015"
+      ],
+      [
+        "n46004009005"
+      ],
+      [
+        "n46016012008"
+      ],
+      [
+        "n56003013010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n46003007009"
+      ],
+      [
+        "n46003008006"
+      ],
+      [
+        "n46016012010"
+      ],
+      [
+        "n46016012023",
+        "n46016012024"
+      ],
+      [
+        "n46016012027"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "place:Mahanaim",
+  "primary_id": "place:Mahanaim",
+  "alternate_sources": {
+    "aquifer": [
+      "6868|Mahanaim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae5bfe9"
+    ],
+    "ubsdbh": [
+      "003895001001000"
+    ],
+    "tipnr": [
+      "Mahanaim@Gen.32.2-1Ch"
+    ],
+    "vizbible": [
+      "recIY9mUBLApR33cG"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2733096"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003895001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mahanaim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mahanaim",
+          "gloss": "Mahanaim",
+          "description": "A Levitical town in the territory of Gad, assigned to the clan of Merari; capital of the kingdom of Isboseth, son of Saul."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Gad",
+  "subregion_of": [
+    "place:TerritoryOfGad"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מַחֲנַיִם",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.214708",
+      "lon": "35.632914"
+    },
+    "vizbible": {
+      "lat": "32.214708",
+      "lon": "35.632914"
+    }
+  },
+  "key_references": [
+    "01032003",
+    "01032002"
+  ],
+  "references": [
+    "01032003",
+    "06013026",
+    "06013030",
+    "06021038",
+    "10002008",
+    "10002010",
+    "10002012",
+    "10002029",
+    "10017024",
+    "10017027",
+    "10018023",
+    "10019033",
+    "11002008",
+    "11004014",
+    "13006065",
+    "22007001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010320030121"
+      ],
+      [
+        "o060130260063"
+      ],
+      [
+        "o060130300032"
+      ],
+      [
+        "o060210380131"
+      ],
+      [
+        "o100020080151"
+      ],
+      [
+        "o100020120102"
+      ],
+      [
+        "o100020290151"
+      ],
+      [
+        "o100170240031"
+      ],
+      [
+        "o100170270041"
+      ],
+      [
+        "o100190330122"
+      ],
+      [
+        "o110020080151"
+      ],
+      [
+        "o110040140041"
+      ],
+      [
+        "o130060650091"
+      ]
+    ]
+  }
+}

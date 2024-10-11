@@ -1,0 +1,85 @@
+{
+  "id": "place:GeruthChimham",
+  "primary_id": "place:GeruthChimham",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001492001001000"
+    ],
+    "tipnr": [
+      "Geruth_Chimham@Jer.41.17"
+    ],
+    "vizbible": [
+      "recdDLSOObiskYhuJ"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001492001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Geruth Chimham",
+      "alternate_labels": [
+        "lodging place of Chimham",
+        "Geruth-Kimham",
+        "Chimham",
+        "Qere. Ketiv",
+        "Geruth like.them",
+        "habitation of Chimham"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:GeruthChimham",
+          "gloss": "Geruth Chimham",
+          "description": "A location near Bethlehem where the Judeans, who were on their way to Egypt in the time of Jeremiah, broke their journey."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Bethlehem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גֵּרוּת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "natural area"
+    ],
+    "acai": [
+      "natural area"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.70536129174666",
+      "lon": "35.21026630105202"
+    },
+    "vizbible": {
+      "lat": "31.70536129174666",
+      "lon": "35.21026630105202"
+    }
+  },
+  "key_references": [
+    "24041017"
+  ],
+  "references": [
+    "24041017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240410170032"
+      ]
+    ]
+  }
+}

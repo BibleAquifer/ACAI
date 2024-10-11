@@ -1,0 +1,58 @@
+{
+  "id": "person:Segub",
+  "primary_id": "person:Segub",
+  "alternate_sources": {
+    "aquifer": [
+      "8209|Segub|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006980001001000"
+    ],
+    "tipnr": [
+      "Segub@1Ki.16.34"
+    ],
+    "vizbible": [
+      "recxlJng0HL5PjtHE"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hiel",
+  "siblings": [
+    "person:Abiram.2"
+  ],
+  "ubsdbh": [
+    "006980001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Segub",
+      "alternate_labels": [
+        "Segib"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Segub",
+          "article": "person:Segub",
+          "description": "Segub, also known as Segib, was the son of Hiel mentioned in 1 Kings 16:34, who lived during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11016034"
+  ],
+  "references": [
+    "11016034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110160340123"
+      ]
+    ]
+  }
+}

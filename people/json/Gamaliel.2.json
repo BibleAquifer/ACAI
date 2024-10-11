@@ -1,0 +1,79 @@
+{
+  "id": "person:Gamaliel.2",
+  "primary_id": "person:Gamaliel.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5360|Gamaliel|TyndaleBibleDictionary",
+      "132045|Gamaliel|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001451001001000"
+    ],
+    "tipnr": [
+      "Gamaliel@Num.1.10-"
+    ],
+    "vizbible": [
+      "rec3FzmCMFvyKcqEg"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Pedahzur",
+  "roles": [
+    "Leader"
+  ],
+  "ubsdbh": [
+    "001451001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gamaliel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gamaliel",
+          "article": "person:Gamaliel.2",
+          "description": "A son of Pedahzur and chief of the tribe of Manasseh, who lived during the time of Moses."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גַּמְלִיאֵל"
+    ]
+  },
+  "key_references": [
+    "04001010",
+    "04007054",
+    "04010023"
+  ],
+  "references": [
+    "04001010",
+    "04002020",
+    "04007054",
+    "04007059",
+    "04010023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010100081"
+      ],
+      [
+        "o040020200071"
+      ],
+      [
+        "o040070540061"
+      ],
+      [
+        "o040070590151"
+      ],
+      [
+        "o040100230061"
+      ]
+    ]
+  }
+}

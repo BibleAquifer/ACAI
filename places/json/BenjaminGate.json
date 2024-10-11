@@ -1,0 +1,102 @@
+{
+  "id": "place:BenjaminGate",
+  "primary_id": "place:BenjaminGate",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001063001002000"
+    ],
+    "tipnr": [
+      "Benjamin_Gate@Jer.20.2-"
+    ],
+    "vizbible": [
+      "recNdvSZuqT39nqz4"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001063001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Benjamin Gate",
+      "alternate_labels": [
+        "Gate of Benjamin",
+        "Benjamin’s Gate",
+        "Benjamin",
+        " Gate"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:BenjaminGate",
+          "gloss": "Benjamin Gate",
+          "description": "A gate in the wall of Jerusalem through which the prophet Jeremiah tried to leave the city (Jer 37:12–13)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בִּנְיָמִן",
+      "בִּנְיָמִין"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "38014010",
+    "24037013",
+    "24038007",
+    "24020002"
+  ],
+  "references": [
+    "24020002",
+    "24037013",
+    "24038007",
+    "38014010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240200020121"
+      ],
+      [
+        "o240370130041"
+      ],
+      [
+        "o240380070191"
+      ],
+      [
+        "o380140100131"
+      ]
+    ]
+  }
+}

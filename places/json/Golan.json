@@ -1,0 +1,105 @@
+{
+  "id": "place:Golan",
+  "primary_id": "place:Golan",
+  "alternate_sources": {
+    "aquifer": [
+      "5503|Golan|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "abb5c1e"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/678330"
+    ],
+    "tipnr": [
+      "Golan@Deu.4.43-1Ch"
+    ],
+    "vizbible": [
+      "recRpIvrxowDc7mVt"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2400848"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Golan",
+      "alternate_labels": [
+        "Galon",
+        "Qere. Ketiv"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Golan",
+          "gloss": "Golan",
+          "description": "A Levitical town of refuge in Bashan, in the territory of Manasseh east of the Jordan River, assigned to the clan of Gershon."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Manasseh",
+  "subregion_of": [
+    "place:TerritoryOfEastManasseh",
+    "place:Bashan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.80007553",
+      "lon": "35.9373013"
+    },
+    "recogito": {
+      "lat": "33.2290177",
+      "lon": "35.7674715"
+    },
+    "vizbible": {
+      "lat": "32.80007553",
+      "lon": "35.9373013"
+    }
+  },
+  "key_references": [
+    "06020008",
+    "06021027",
+    "05004043"
+  ],
+  "references": [
+    "05004043",
+    "06020008",
+    "06021027",
+    "13006056"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050040430121"
+      ],
+      [
+        "o060200080191"
+      ],
+      [
+        "o060210270141"
+      ],
+      [
+        "o130060560081"
+      ]
+    ]
+  }
+}

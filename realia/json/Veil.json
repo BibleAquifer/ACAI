@@ -1,0 +1,156 @@
+{
+  "id": "realia:Veil",
+  "primary_id": "realia:Veil",
+  "alternate_sources": {
+    "aquifer": [
+      "27192|Veil|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "6.177"
+    ],
+    "ubsdbh": [
+      "004149001001000",
+      "006233001001000",
+      "006703001001000",
+      "006869001001000"
+    ],
+    "ubsrealia": [
+      "realia:6.12"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.177"
+  ],
+  "ubsdbh": [
+    "004149001001000",
+    "006233001001000",
+    "006703001001000",
+    "006869001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Veil",
+      "alternate_labels": [
+        "Mask",
+        "Cape",
+        "Shawl",
+        "Scarf"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Veil",
+          "article": "realia:Veil",
+          "description": "A thin piece of cloth worn over the face or head for modesty or protection."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַסְוֶה",
+      "צַמָּה",
+      "רְדִיד",
+      "רְעָלָה"
+    ],
+    "el": [
+      "κάλυμμα"
+    ]
+  },
+  "key_references": [
+    "01024065",
+    "02034033",
+    "23047002",
+    "47003014"
+  ],
+  "references": [
+    "02034033",
+    "02034034",
+    "02034035",
+    "22004001",
+    "22004003",
+    "22005007",
+    "22006007",
+    "23003019",
+    "23003023",
+    "23047002",
+    "47003013",
+    "47003014",
+    "47003015",
+    "47003016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020340330081"
+      ],
+      [
+        "o020340340092"
+      ],
+      [
+        "o020340350152"
+      ],
+      [
+        "o220040010092",
+        "o220040010093"
+      ],
+      [
+        "o220040030102",
+        "o220040030103"
+      ],
+      [
+        "o220060070052",
+        "o220060070053"
+      ],
+      [
+        "o230470020061",
+        "o230470020062"
+      ],
+      [
+        "o220050070091",
+        "o220050070092"
+      ],
+      [
+        "o230030230043"
+      ],
+      [
+        "o230030190033"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n47003013006"
+      ],
+      [
+        "n47003014013"
+      ],
+      [
+        "n47003015008"
+      ],
+      [
+        "n47003016009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n47003014012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n47003014022"
+      ],
+      [
+        "n47003014026"
+      ]
+    ]
+  }
+}

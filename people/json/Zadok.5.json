@@ -1,0 +1,53 @@
+{
+  "id": "person:Zadok.5",
+  "primary_id": "person:Zadok.5",
+  "alternate_sources": {
+    "aquifer": [
+      "9126|Zadok|TyndaleBibleDictionary",
+      "27223|Zadok|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006124001005000"
+    ],
+    "tipnr": [
+      "Zadok@Neh.3.4"
+    ],
+    "vizbible": [
+      "recYcrF8Juk1adUCT"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Baana.3",
+  "ubsdbh": [
+    "006124001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zadok (Nehemiah 3:4)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zadok (Nehemiah 3:4)",
+          "article": "person:Zadok.5",
+          "description": "Zadok was a man living during the time of exile and return, the son of Baana, mentioned only in Nehemiah 3:4."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16003004"
+  ],
+  "references": [
+    "16003004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030040201"
+      ]
+    ]
+  }
+}

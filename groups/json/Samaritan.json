@@ -1,0 +1,197 @@
+{
+  "id": "group:Samaritan",
+  "primary_id": "group:Samaritan",
+  "alternate_sources": {
+    "aquifer": [
+      "8121|Samaritans|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.569"
+    ],
+    "ubsdbh": [
+      "007507001001000"
+    ],
+    "tipnr": [
+      "Samaritan|Samaria@1Ki.13.32-Act"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Samaria",
+  "ubsdgnt": [
+    "93.569",
+    "93.570"
+  ],
+  "ubsdbh": [
+    "007507001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Samaritans",
+      "alternate_labels": [
+        "Samaria"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Samaritans",
+          "article": "group:Samaritan",
+          "description": "People who live in Samaria. Samaritans follow an offshoot of Judaism with a different Torah and worship at Mount Gerizim instead of in Jerusalem."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שִׁמְרָת"
+    ],
+    "el": [
+      "Σαμαρίτης",
+      "Σαμαρῖτις"
+    ]
+  },
+  "key_references": [
+    "16004002",
+    "43004009",
+    "42009052",
+    "42009053"
+  ],
+  "references": [
+    "12017029",
+    "40010005",
+    "42009052",
+    "42010033",
+    "42017016",
+    "43004009",
+    "43004039",
+    "43004040",
+    "43008048",
+    "44008025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120170290112"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40010005018"
+      ],
+      [
+        "n42009052012"
+      ],
+      [
+        "n42010033001"
+      ],
+      [
+        "n42017016014"
+      ],
+      [
+        "n43004009007"
+      ],
+      [
+        "n43004009017"
+      ],
+      [
+        "n43004009023"
+      ],
+      [
+        "n43004039011"
+      ],
+      [
+        "n43004040007"
+      ],
+      [
+        "n43008048012"
+      ],
+      [
+        "n44008025018"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42010034016"
+      ],
+      [
+        "n42010035020"
+      ],
+      [
+        "n42010035024"
+      ],
+      [
+        "n42010036002"
+      ],
+      [
+        "n43004012007"
+      ],
+      [
+        "n43004012011"
+      ],
+      [
+        "n43004020003"
+      ],
+      [
+        "n43004022001"
+      ],
+      [
+        "n43004025016"
+      ],
+      [
+        "n43004040012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42010033004"
+      ],
+      [
+        "n42010033009",
+        "n42010033010"
+      ],
+      [
+        "n42010034002",
+        "n42010034003"
+      ],
+      [
+        "n42010034007"
+      ],
+      [
+        "n42010034011"
+      ],
+      [
+        "n42010034018"
+      ],
+      [
+        "n42010034023"
+      ],
+      [
+        "n42010035005"
+      ],
+      [
+        "n42010035008"
+      ],
+      [
+        "n42010035012"
+      ],
+      [
+        "n42010037005"
+      ],
+      [
+        "n43004021020"
+      ],
+      [
+        "n43004022005"
+      ],
+      [
+        "n43004040008"
+      ]
+    ]
+  }
+}

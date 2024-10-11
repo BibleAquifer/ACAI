@@ -1,0 +1,90 @@
+{
+  "id": "person:GenericBlindMan",
+  "primary_id": "person:GenericBlindMan",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Blind Man",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Blind Man",
+          "description": "A blind man participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40009027",
+    "40009027",
+    "40009028",
+    "40009028",
+    "41008023"
+  ],
+  "references": [
+    "40009027",
+    "40009027",
+    "40009028",
+    "40009028",
+    "41008023"
+  ],
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40009027009"
+      ],
+      [
+        "n40009027012"
+      ],
+      [
+        "n40009028009"
+      ],
+      [
+        "n40009028020"
+      ],
+      [
+        "n41008023006"
+      ],
+      [
+        "n41008024003"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "shouting",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40009027013",
+          "n40009027014",
+          "n40009027015",
+          "n40009027016"
+        ]
+      },
+      {
+        "delivery": "quieter",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40009028022",
+          "n40009028023"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n41008024004",
+          "n41008024005",
+          "n41008024006",
+          "n41008024007",
+          "n41008024008",
+          "n41008024009",
+          "n41008024010",
+          "n41008024011"
+        ]
+      }
+    ]
+  }
+}

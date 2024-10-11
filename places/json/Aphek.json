@@ -1,0 +1,96 @@
+{
+  "id": "place:Aphek",
+  "primary_id": "place:Aphek",
+  "alternate_sources": {
+    "aquifer": [
+      "3655|Aphek|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Aphekah|Aphek@Jos.12.18-1Sa",
+      "Aphek@Jos.12.18-1Sa"
+    ],
+    "vizbible": [
+      "recUGTpxTrOA7MPkd"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aphek (of Sharon)",
+      "alternate_labels": [
+        "Aphekah",
+        "Aphek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aphek.2",
+          "gloss": "Aphek (of Sharon)",
+          "description": "A town in the Sharon Plain, west of Shiloh; Antipatris in the New Testament."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Antipatris",
+    "place:Aphekah"
+  ],
+  "nearby_places": [
+    "place:Shiloh"
+  ],
+  "subregion_of": [
+    "place:Sharon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.10471266",
+      "lon": "34.93197921"
+    },
+    "vizbible": {
+      "lat": "32.10471266",
+      "lon": "34.93197921"
+    }
+  },
+  "key_references": [
+    "44023031"
+  ],
+  "references": [
+    "06012018",
+    "06015053",
+    "09004001",
+    "09029001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120180021"
+      ],
+      [
+        "o060150530052"
+      ],
+      [
+        "o090040010172"
+      ],
+      [
+        "o090290010061"
+      ]
+    ]
+  }
+}

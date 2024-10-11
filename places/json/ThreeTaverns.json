@@ -1,0 +1,97 @@
+{
+  "id": "place:ThreeTaverns",
+  "primary_id": "place:ThreeTaverns",
+  "alternate_sources": {
+    "aquifer": [
+      "8823|Three Taverns|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "afef438"
+    ],
+    "ubsdgnt": [
+      "60.12",
+      "7.11"
+    ],
+    "tipnr": [
+      "Three_Taverns@Act.28.15"
+    ],
+    "vizbible": [
+      "rechxoZ6BVvibQbVa"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q622536"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "60.12",
+    "7.11"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Three Taverns",
+      "alternate_labels": [
+        "The three taverns",
+        "Three Inns"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ThreeTaverns",
+          "gloss": "Three Taverns",
+          "description": "A location on the Appian Way where Paul was welcomed by Christians from Rome."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "τρεῖς"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "41.59132",
+      "lon": "12.828636"
+    },
+    "vizbible": {
+      "lat": "41.59132",
+      "lon": "12.828636"
+    },
+    "biblica-maps": {
+      "lat": "41.5645",
+      "lon": "12.87183"
+    }
+  },
+  "key_references": [
+    "44028015"
+  ],
+  "references": [
+    "44028015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44028015016",
+        "n44028015017"
+      ]
+    ]
+  }
+}

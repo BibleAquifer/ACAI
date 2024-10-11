@@ -1,0 +1,35 @@
+{
+  "id": "place:StAlbans",
+  "primary_id": "place:StAlbans",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:StAlbans",
+          "gloss": "St Albans",
+          "description": "A city in England, northwest of modern-day London, named after the first British martyr."
+        }
+      ],
+      "preferred_label": "St Albans"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "51.74622",
+      "lon": "-0.32989"
+    }
+  }
+}

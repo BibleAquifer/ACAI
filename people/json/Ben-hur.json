@@ -1,0 +1,62 @@
+{
+  "id": "person:Ben-hur",
+  "primary_id": "person:Ben-hur",
+  "alternate_sources": {
+    "aquifer": [
+      "4109|Ben-Hur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001047001001000"
+    ],
+    "tipnr": [
+      "Ben-hur@1Ki.4.8"
+    ],
+    "vizbible": [
+      "recn5xePz9NNSU3Kd"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hur",
+  "ubsdbh": [
+    "001047001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ben-hur",
+      "alternate_labels": [
+        "Hur",
+        "son of Hur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ben-Hur",
+          "article": "person:Ben-hur",
+          "description": "Man from the time of Israel's united kingdom, mentioned in 1 Kings 4:8, son of Hur, and an official during King Solomon's reign."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּן־חוּר"
+    ]
+  },
+  "key_references": [
+    "11004008"
+  ],
+  "references": [
+    "11004008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040080031",
+        "o110040080041"
+      ]
+    ]
+  }
+}

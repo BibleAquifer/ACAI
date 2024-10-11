@@ -1,0 +1,92 @@
+{
+  "id": "place:Rhodes",
+  "primary_id": "place:Rhodes",
+  "alternate_sources": {
+    "aquifer": [
+      "8030|Rhodes|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.560"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/22218"
+    ],
+    "tipnr": [
+      "Rhodes@Act.21.1"
+    ],
+    "vizbible": [
+      "rec8dzrUxJExdCl68"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.560"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rhodes",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rhodes.1",
+          "gloss": "Rhodes",
+          "description": "An island, with a city of the same name, off the southwest coast of Asia Minor; Paul's ship stopped here on his journey to Jerusalem."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ῥόδος"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "island",
+      "settlement"
+    ],
+    "vizbible": [
+      "Island"
+    ],
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.44192633",
+      "lon": "28.22672173"
+    },
+    "recogito": {
+      "lat": "36.41451",
+      "lon": "28.15629"
+    },
+    "vizbible": {
+      "lat": "36.41451",
+      "lon": "28.15629"
+    },
+    "biblica-maps": {
+      "lat": "36.24514",
+      "lon": "28.03374"
+    }
+  },
+  "key_references": [
+    "44021001"
+  ],
+  "references": [
+    "44021001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44021001019"
+      ]
+    ]
+  }
+}

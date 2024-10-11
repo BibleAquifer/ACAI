@@ -1,0 +1,75 @@
+{
+  "id": "place:Geba.2",
+  "primary_id": "place:Gibeon",
+  "alternate_sources": {
+    "aquifer": [
+      "5391|Geba|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001278001001000"
+    ],
+    "tipnr": [
+      "Geba|Gibeon@Jos.9.3-Ezk"
+    ],
+    "vizbible": [
+      "recRjfwduOcMQAbDN"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001278001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Geba",
+      "alternate_labels": [
+        "Gibeon"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Gibeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גֶּבַע",
+      "גֶּ֫בַע",
+      "גִּבְעָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.84684773",
+      "lon": "35.18491238"
+    },
+    "vizbible": {
+      "lat": "31.84684773",
+      "lon": "35.18491238"
+    }
+  },
+  "key_references": [
+    "10005025"
+  ],
+  "references": [
+    "10005025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100050250102"
+      ]
+    ]
+  }
+}

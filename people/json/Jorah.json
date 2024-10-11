@@ -1,0 +1,57 @@
+{
+  "id": "person:Jorah",
+  "primary_id": "person:Jorah",
+  "alternate_sources": {
+    "aquifer": [
+      "6436|Jorah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jorah@Ezr.2.18-Neh",
+      "Hariph|Jorah@Ezr.2.18-Neh"
+    ],
+    "vizbible": [
+      "rec3iyH1t4OxlHj4N"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jorah",
+      "alternate_labels": [
+        "Hariph"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jorah",
+          "article": "person:Jorah",
+          "description": "A man living during the time of the exile and return, also called Hariph, mentioned in Ezra 2:18 and Nehemiah 7:24."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hariph.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002018",
+    "16007024"
+  ],
+  "references": [
+    "15002018",
+    "16007024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020180021"
+      ],
+      [
+        "o160070240021"
+      ]
+    ]
+  }
+}

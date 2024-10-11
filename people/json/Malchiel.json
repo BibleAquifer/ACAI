@@ -1,0 +1,79 @@
+{
+  "id": "person:Malchiel",
+  "primary_id": "person:Malchiel",
+  "alternate_sources": {
+    "aquifer": [
+      "6895|Malchiel, Malchielite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Malchiel@Gen.46.17-1Ch"
+    ],
+    "vizbible": [
+      "recD1Bs7y3vGxbbYy"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Beriah",
+  "offspring": [
+    "person:Birzaith"
+  ],
+  "siblings": [
+    "person:Heber"
+  ],
+  "tribe": "group:Asher",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Malchiel",
+      "alternate_labels": [
+        "Malchielite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Malchiel",
+          "article": "person:Malchiel",
+          "description": "A man from the tribe of Asher, son of Beriah, and father of Birzaith, who lived during the time of the Egyptian slavery and wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Malchiel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046017",
+    "04026045",
+    "13007031"
+  ],
+  "references": [
+    "01046017",
+    "04026045",
+    "13007031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460170122"
+      ],
+      [
+        "o040260450062"
+      ],
+      [
+        "o040260450082"
+      ],
+      [
+        "o130070310042"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130070310051"
+      ]
+    ]
+  }
+}

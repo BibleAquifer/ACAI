@@ -1,0 +1,66 @@
+{
+  "id": "person:Talmai",
+  "primary_id": "person:Talmai",
+  "alternate_sources": {
+    "aquifer": [
+      "8722|Talmai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007822001001000"
+    ],
+    "tipnr": [
+      "Talmai@Num.13.22-Jdg"
+    ],
+    "vizbible": [
+      "recU2yIahYCFP7hLG"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Anak",
+  "siblings": [
+    "person:Ahiman",
+    "person:Sheshai"
+  ],
+  "ubsdbh": [
+    "007822001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Talmai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Talmai",
+          "article": "person:Talmai",
+          "description": "Talmai, first mentioned in Numbers 13:22, was a man of the Anakim, son of Anak, and brother of Ahiman and Sheshai, living during the time of Israel's exodus from Egypt and wilderness wanderings."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04013022",
+    "06015014",
+    "07001010"
+  ],
+  "references": [
+    "04013022",
+    "06015014",
+    "07001010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130220092"
+      ],
+      [
+        "o060150140131"
+      ],
+      [
+        "o070010100181"
+      ]
+    ]
+  }
+}

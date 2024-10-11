@@ -1,0 +1,96 @@
+{
+  "id": "person:Hashabiah.7",
+  "primary_id": "person:Hashabiah.7",
+  "alternate_sources": {
+    "aquifer": [
+      "5692|Hashabiah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002583001005000",
+      "002583001007000"
+    ],
+    "tipnr": [
+      "Hashabiah@Ezr.8.19-Neh"
+    ],
+    "vizbible": [
+      "recyqaVy3maW5lZud"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Priest"
+  ],
+  "ubsdbh": [
+    "002583001005000",
+    "002583001007000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hashabiah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hashabiah",
+          "article": "person:Hashabiah.7",
+          "description": "A descendant of Merari and leading priest during the time of the Israelite return from exile."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֲשַׁבְיָה",
+      "חֲשַׁבְיָ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "15008019",
+    "15008024",
+    "16012024"
+  ],
+  "references": [
+    "15008019",
+    "15008024",
+    "16010012",
+    "16012024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150080190021"
+      ],
+      [
+        "o150080240071"
+      ],
+      [
+        "o160100120031"
+      ],
+      [
+        "o160120240031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o150080280031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o150080290011"
+      ],
+      [
+        "o150080290022"
+      ],
+      [
+        "o150080290041"
+      ]
+    ]
+  }
+}

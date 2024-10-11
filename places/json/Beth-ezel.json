@@ -1,0 +1,85 @@
+{
+  "id": "place:Beth-ezel",
+  "primary_id": "place:Beth-ezel",
+  "alternate_sources": {
+    "aquifer": [
+      "4174|Beth-Ezel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000944001001000"
+    ],
+    "tipnr": [
+      "Beth-ezel@Mic.1.11"
+    ],
+    "vizbible": [
+      "recwf4qKp6qWsbVT4"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000944001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-ezel",
+      "alternate_labels": [
+        "Beth-ha-Ezel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-ezel",
+          "gloss": "Beth-ezel",
+          "description": "A town in the territory of Judah. The name is probably a pun on the Hebrew אצל (English: withhold)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית הָאֵצֶל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.743719",
+      "lon": "34.694006"
+    },
+    "vizbible": {
+      "lat": "31.743719",
+      "lon": "34.694006"
+    }
+  },
+  "key_references": [
+    "33001011"
+  ],
+  "references": [
+    "33001011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o330010110121",
+        "o330010110131"
+      ]
+    ]
+  }
+}

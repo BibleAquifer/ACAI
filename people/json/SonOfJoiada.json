@@ -1,0 +1,43 @@
+{
+  "id": "person:SonOfJoiada",
+  "primary_id": "person:SonOfJoiada",
+  "alternate_sources": {
+    "tipnr": [
+      "son_of_Joiada@Neh.13.28"
+    ],
+    "vizbible": [
+      "recdDM4fNIRGPObrR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joiada.2",
+  "partners": [
+    "person:DaughterOfSanballat"
+  ],
+  "siblings": [
+    "person:Johanan.9"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Son of Joiada",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Son of Joiada",
+          "article": "person:SonOfJoiada",
+          "description": "The Son of Joiada, an unnamed priest of the tribe of Levi mentioned in Nehemiah 13:28, lived during the exile and return, was the brother of Johanan, and was married to Sanballat's daughter."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16013028"
+  ],
+  "references": [
+    "16013028"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "place:Nyssa",
+  "primary_id": "place:Nyssa",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nyssa",
+          "gloss": "Nyssa",
+          "description": "A town in the region of Cappadocia in Asia Minor, associated with one of the Cappadocian Fathers, Saint Gregory of Nyssa."
+        }
+      ],
+      "preferred_label": "Nyssa",
+      "alternate_labels": [
+        "Nysa"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Cappadocia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "38.93274",
+      "lon": "33.95189"
+    }
+  }
+}

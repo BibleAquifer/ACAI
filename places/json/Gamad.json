@@ -1,0 +1,98 @@
+{
+  "id": "place:Gamad",
+  "primary_id": "place:Gamad",
+  "alternate_sources": {
+    "aquifer": [
+      "5362|Gammad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001443001001000"
+    ],
+    "tipnr": [
+      "Gamad@Ezk.27.11"
+    ],
+    "vizbible": [
+      "recBsCzNBR4UfTTHr"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001443001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gammad",
+      "alternate_labels": [
+        "Gammadims",
+        "Gammadim",
+        "Gammadites",
+        "Gamad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gamad",
+          "gloss": "Gammad",
+          "description": "A town east-northeast of sidon; possibly to be identified with Kumidi of the El-Amarna letters."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גַּמָּדִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.856082",
+      "lon": "35.858485"
+    },
+    "vizbible": {
+      "lat": "34.856082",
+      "lon": "35.858485"
+    }
+  },
+  "key_references": [
+    "26027011"
+  ],
+  "references": [
+    "26027011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270110072"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270110151"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270110111"
+      ]
+    ]
+  }
+}

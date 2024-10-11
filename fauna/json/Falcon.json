@@ -1,0 +1,105 @@
+{
+  "id": "fauna:Falcon",
+  "primary_id": "fauna:Falcon",
+  "alternate_sources": {
+    "aquifer": [
+      "5230|Falcon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000322001001000",
+      "004880002001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.10"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "000322001001000",
+    "004880002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Falcon",
+      "alternate_labels": [
+        "Hawk",
+        "Kestrel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Falcon",
+          "article": "fauna:Falcon",
+          "description": "A falcon is a small, fast bird of prey that eats rats, mice, and other birds. It could not be eaten by the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַיָּה",
+      "נֵץ"
+    ]
+  },
+  "key_references": [
+    "03011014",
+    "03011016",
+    "18039026"
+  ],
+  "references": [
+    "03011014",
+    "03011016",
+    "05014013",
+    "05014015",
+    "18028007",
+    "18039026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110140042"
+      ],
+      [
+        "o050140130032"
+      ],
+      [
+        "o180280070081"
+      ],
+      [
+        "o030110160092"
+      ],
+      [
+        "o050140150092"
+      ],
+      [
+        "o180390260031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o030110140053"
+      ],
+      [
+        "o030110160103"
+      ],
+      [
+        "o050140150103"
+      ],
+      [
+        "o180390260062"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o180390260041"
+      ]
+    ]
+  }
+}

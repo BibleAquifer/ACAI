@@ -1,0 +1,82 @@
+{
+  "id": "place:Karka",
+  "primary_id": "place:Karka",
+  "alternate_sources": {
+    "aquifer": [
+      "6521|Karka|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006603002001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/270330"
+    ],
+    "tipnr": [
+      "Karka@Jos.15.3"
+    ],
+    "vizbible": [
+      "rec2cgUKcZA0YwC7u"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006603002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Karka",
+      "alternate_labels": [
+        "Karkaa"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Karka",
+          "gloss": "Karka",
+          "description": "A town in southern Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.958506",
+      "lon": "34.380500"
+    },
+    "vizbible": {
+      "lat": "30.958506",
+      "lon": "34.380500"
+    }
+  },
+  "key_references": [
+    "06015003"
+  ],
+  "references": [
+    "06015003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150030172"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "person:Dinah",
+  "primary_id": "person:Dinah",
+  "alternate_sources": {
+    "aquifer": [
+      "4848|Dinah|TyndaleBibleDictionary",
+      "132229|Dinah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001637001001000"
+    ],
+    "tipnr": [
+      "Dinah@Gen.30.21-"
+    ],
+    "vizbible": [
+      "recthlE4FTgDZvDef"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Israel",
+  "mother": "person:Leah",
+  "siblings": [
+    "person:Reuben",
+    "person:Simeon.5",
+    "person:Levi.3",
+    "person:Judah.4",
+    "person:Dan",
+    "person:Naphtali",
+    "person:Gad",
+    "person:Asher",
+    "person:Issachar",
+    "person:Zebulun",
+    "person:Joseph.10",
+    "person:Benjamin"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "001637001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dinah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dinah",
+          "article": "person:Dinah",
+          "description": "Daughter of the patriarch Jacob and his wife Leah. She was a sister of Simeon and Levi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דִּינָה"
+    ]
+  },
+  "key_references": [
+    "01030019",
+    "01030020",
+    "01030021",
+    "01034001",
+    "01046015"
+  ],
+  "references": [
+    "01030021",
+    "01034001",
+    "01034003",
+    "01034005",
+    "01034013",
+    "01034025",
+    "01034026",
+    "01046015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010300210071"
+      ],
+      [
+        "o010340010021"
+      ],
+      [
+        "o010340030032"
+      ],
+      [
+        "o010340050061"
+      ],
+      [
+        "o010340130141"
+      ],
+      [
+        "o010340250131"
+      ],
+      [
+        "o010340260111"
+      ],
+      [
+        "o010460150101"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010340010082"
+      ]
+    ]
+  }
+}

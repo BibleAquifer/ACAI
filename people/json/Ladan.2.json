@@ -1,0 +1,93 @@
+{
+  "id": "person:Ladan.2",
+  "primary_id": "person:Libni",
+  "alternate_sources": {
+    "aquifer": [
+      "6659|Ladan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003604001002000"
+    ],
+    "tipnr": [
+      "Ladan|Libni@Exo.6.17-1Ch"
+    ],
+    "vizbible": [
+      "rec1DN6ZM1J3IXyPS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gershon",
+  "offspring": [
+    "person:Jehiel.2",
+    "person:Zetham",
+    "person:Joel.9"
+  ],
+  "siblings": [
+    "person:Shimei.4"
+  ],
+  "roles": [
+    "Patriarch",
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "003604001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ladan (Libni)",
+      "alternate_labels": [
+        "Laadan",
+        "Libni"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Libni",
+          "article": "person:Ladan.2",
+          "description": "A priest and son of the patriarch Levi's son Gershon. Ladan was a brother of Shimei, and father of Jehieli (Jehiel), Zetham, and Joel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Libni"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לַעְדָּן"
+    ]
+  },
+  "key_references": [
+    "13023007",
+    "13023008",
+    "13026021"
+  ],
+  "references": [
+    "13023007",
+    "13023008",
+    "13026021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230070021"
+      ],
+      [
+        "o130230080021"
+      ],
+      [
+        "o130260210021"
+      ],
+      [
+        "o130260210052"
+      ],
+      [
+        "o130260210082"
+      ]
+    ]
+  }
+}

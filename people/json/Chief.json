@@ -1,0 +1,68 @@
+{
+  "id": "person:Chief",
+  "primary_id": "person:Tartan",
+  "alternate_sources": {
+    "aquifer": [
+      "26444|Chief|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007953001001000"
+    ],
+    "tipnr": [
+      "chief|Tartan@2Ki.18.17-Isa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Military Commander"
+  ],
+  "ubsdbh": [
+    "007953001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chief (Tartan)",
+      "alternate_labels": [
+        "supreme commander",
+        "Tartan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tartan",
+          "article": "person:Chief",
+          "description": "Chief, also known as Tartan or supreme commander, is a title of a leader mentioned in 2 Kings 18:17 and Isaiah 20:1."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Tartan"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "23020001"
+  ],
+  "references": [
+    "23020001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230200010031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230200010102"
+      ],
+      [
+        "o230200010122"
+      ]
+    ]
+  }
+}

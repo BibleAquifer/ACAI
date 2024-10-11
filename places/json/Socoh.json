@@ -1,0 +1,96 @@
+{
+  "id": "place:Socoh",
+  "primary_id": "place:Socoh",
+  "alternate_sources": {
+    "aquifer": [
+      "8555|Soco (Place), Socoh|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Socoh@Jos.15.35-2Ch"
+    ],
+    "vizbible": [
+      "recsVeoJRPG9LxKBN"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Socoh (in the Shephelah)",
+      "alternate_labels": [
+        "Shocho",
+        "Sochoh",
+        "Shochoh",
+        "Soko",
+        "Sokoh",
+        "Soco",
+        "Shoco",
+        "Socoh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Socoh.1",
+          "gloss": "Socoh (in the Shephelah)",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:Shephelah",
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.68123465",
+      "lon": "34.97639818"
+    },
+    "vizbible": {
+      "lat": "31.68123465",
+      "lon": "34.97639818"
+    }
+  },
+  "key_references": [
+    "09017001"
+  ],
+  "references": [
+    "06015035",
+    "09017001",
+    "14011007",
+    "14028018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150350031"
+      ],
+      [
+        "o090170010071"
+      ],
+      [
+        "o090170010121"
+      ],
+      [
+        "o140110070051"
+      ],
+      [
+        "o140280180161"
+      ]
+    ]
+  }
+}

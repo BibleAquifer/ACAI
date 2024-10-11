@@ -1,0 +1,86 @@
+{
+  "id": "person:Melzar",
+  "primary_id": "person:Melzar",
+  "alternate_sources": {
+    "aquifer": [
+      "7040|Melzar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004071001001000"
+    ],
+    "tipnr": [
+      "Melzar@Dan.1.11-"
+    ],
+    "vizbible": [
+      "recOt8wgrMSX1YjFQ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "004071001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Melzar",
+      "alternate_labels": [
+        "guard",
+        "steward"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Melzar",
+          "article": "person:Melzar",
+          "description": "A steward or guard during the time of exile and return, first mentioned in Daniel 1:11."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "27001011",
+    "27001016"
+  ],
+  "references": [
+    "27001011",
+    "27001016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o270010110042"
+      ],
+      [
+        "o270010160022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o270010120011"
+      ],
+      [
+        "o270010130111",
+        "o270010130121"
+      ],
+      [
+        "o270010140012"
+      ],
+      [
+        "o270010140052"
+      ],
+      [
+        "o270010160031"
+      ],
+      [
+        "o270010160082"
+      ]
+    ]
+  }
+}

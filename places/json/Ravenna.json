@@ -1,0 +1,35 @@
+{
+  "id": "place:Ravenna",
+  "primary_id": "place:Ravenna",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ravenna",
+          "gloss": "Ravenna",
+          "description": "A seaport city on the eastern coast of Italy."
+        }
+      ],
+      "preferred_label": "Ravenna"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "44.416",
+      "lon": "12.197"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "realia:Wool",
+  "primary_id": "realia:Wool",
+  "alternate_sources": {
+    "aquifer": [
+      "9088|Wool|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005521001001000",
+      "006241001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.5.3.8"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "005521001001000",
+    "006241001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wool",
+      "alternate_labels": [
+        "Sheep-Shearing"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wool",
+          "article": "realia:Wool",
+          "description": "The soft, wavy hair from sheep used to make fabric for clothing; it can symbolize whiteness, purity, and softness."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֲמַר",
+      "צֶמֶר"
+    ]
+  },
+  "key_references": [
+    "23001018",
+    "26034003"
+  ],
+  "references": [
+    "03013047",
+    "03013048",
+    "03013052",
+    "03013059",
+    "05022011",
+    "07006037",
+    "12003004",
+    "19147016",
+    "20031013",
+    "23001018",
+    "23051008",
+    "26027018",
+    "26034003",
+    "26044017",
+    "27007009",
+    "28002007",
+    "28002011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o270070090152"
+      ],
+      [
+        "o030130470081"
+      ],
+      [
+        "o030130480063"
+      ],
+      [
+        "o030130520102"
+      ],
+      [
+        "o030130590062"
+      ],
+      [
+        "o050220110041"
+      ],
+      [
+        "o070060370062"
+      ],
+      [
+        "o120030040151"
+      ],
+      [
+        "o191470160032"
+      ],
+      [
+        "o200310130021"
+      ],
+      [
+        "o230010180152"
+      ],
+      [
+        "o230510080053"
+      ],
+      [
+        "o260270180102"
+      ],
+      [
+        "o260340030052"
+      ],
+      [
+        "o260440170131"
+      ],
+      [
+        "o280020070141",
+        "o280020070142"
+      ],
+      [
+        "o280020110091",
+        "o280020110092"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o280020110112"
+      ]
+    ]
+  }
+}

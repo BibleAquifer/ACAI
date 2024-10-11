@@ -1,0 +1,132 @@
+{
+  "id": "place:Aroer.2",
+  "primary_id": "place:Aroer.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3759|Aroer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005664001001000",
+      "005683001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28387"
+    ],
+    "tipnr": [
+      "Aroer@Deu.2.36-Jer"
+    ],
+    "vizbible": [
+      "recV2VLKz20IKBZ1N"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005664001001000",
+    "005683001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aroer (of Reuben)",
+      "alternate_labels": [
+        "Aroer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aroer.2",
+          "gloss": "Aroer (of Reuben)",
+          "description": "A town in the territory of Reuben, located on the rim of the valley of the Arnon River."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Reuben",
+  "nearby_places": [
+    "place:Arnon"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfReuben"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.4710953",
+      "lon": "35.82200332"
+    },
+    "recogito": {
+      "lat": "31.47151",
+      "lon": "35.821922"
+    },
+    "vizbible": {
+      "lat": "31.47151",
+      "lon": "35.821922"
+    }
+  },
+  "key_references": [
+    "05004048",
+    "05002036",
+    "06012002"
+  ],
+  "references": [
+    "04032034",
+    "05002036",
+    "05003012",
+    "05004048",
+    "06012002",
+    "06013009",
+    "06013016",
+    "07011026",
+    "10024005",
+    "12010033",
+    "13005008",
+    "23017002",
+    "24048019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050020360012"
+      ],
+      [
+        "o050030120072"
+      ],
+      [
+        "o050040480012"
+      ],
+      [
+        "o060120020072"
+      ],
+      [
+        "o060130090012"
+      ],
+      [
+        "o060130160042"
+      ],
+      [
+        "o070110260053"
+      ],
+      [
+        "o120100330122"
+      ],
+      [
+        "o240480190061"
+      ]
+    ]
+  }
+}

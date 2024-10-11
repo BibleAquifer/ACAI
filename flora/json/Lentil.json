@@ -1,0 +1,74 @@
+{
+  "id": "flora:Lentil",
+  "primary_id": "flora:Lentil",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005272001001000"
+    ],
+    "ubsflora": [
+      "flora:3.3.3"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "005272001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lentil",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lentil",
+          "article": "flora:Lentil",
+          "description": "A type of vegetable from a low plant with weak stems, producing small pods with single seeds, often used in soups and stews."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֲדָשָׁה"
+    ]
+  },
+  "key_references": [
+    "01025034",
+    "26004009",
+    "10017028"
+  ],
+  "references": [
+    "01025034",
+    "10017028",
+    "10023011",
+    "26004009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250340061"
+      ],
+      [
+        "o100170280102"
+      ],
+      [
+        "o100230110141"
+      ],
+      [
+        "o260040090072"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260040090112"
+      ],
+      [
+        "o260040090152"
+      ]
+    ]
+  }
+}

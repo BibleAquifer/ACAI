@@ -1,0 +1,107 @@
+{
+  "id": "place:Emmaus",
+  "primary_id": "place:Emmaus",
+  "alternate_sources": {
+    "aquifer": [
+      "5072|Emmaus|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae7274b"
+    ],
+    "ubsdgnt": [
+      "93.467"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/563481"
+    ],
+    "tipnr": [
+      "Emmaus@Luk.24.13"
+    ],
+    "vizbible": [
+      "recEPbLJxiGEZFkeU"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q165887"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.467"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Emmaus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Emmaus",
+          "gloss": "Emmaus",
+          "description": "A village in Judea, not far from Jerusalem, where Jesus appeared to two disciples after his resurrection (Luke 24:13–35)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jerusalem",
+    "place:Lod",
+    "place:Jabneel"
+  ],
+  "subregion_of": [
+    "place:Judea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἐμμαοῦς"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.83945022",
+      "lon": "34.98952933"
+    },
+    "recogito": {
+      "lat": "56.78055",
+      "lon": "36.115"
+    },
+    "vizbible": {
+      "lat": "31.83945022",
+      "lon": "34.98952933"
+    },
+    "biblica-maps": {
+      "lat": "31.83929",
+      "lon": "34.98943"
+    }
+  },
+  "key_references": [
+    "42024013"
+  ],
+  "references": [
+    "42024013",
+    "42024028",
+    "42024035"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42024013021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "realia:Whip",
+  "primary_id": "realia:Whip",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.26"
+    ],
+    "ubsdbh": [
+      "007243001001000",
+      "007243001002000"
+    ],
+    "ubsrealia": [
+      "realia:1.1.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.26"
+  ],
+  "ubsdbh": [
+    "007243001001000",
+    "007243001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Whip",
+      "alternate_labels": [
+        "Scourge"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Whip",
+          "article": "realia:Whip",
+          "description": "A tool made of leather strips attached to a handle, used for hitting people or animals."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שֹׁוט",
+      "שֹׁוט"
+    ],
+    "el": [
+      "φραγέλλιον"
+    ]
+  },
+  "key_references": [
+    "11012011",
+    "43002015",
+    "40027026"
+  ],
+  "references": [
+    "11012011",
+    "11012014",
+    "14010011",
+    "14010014",
+    "18005021",
+    "18009023",
+    "20026003",
+    "23010026",
+    "23028015",
+    "23028018",
+    "34003002",
+    "43002015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110120110142"
+      ],
+      [
+        "o110120140172"
+      ],
+      [
+        "o140100110142"
+      ],
+      [
+        "o140100140152"
+      ],
+      [
+        "o200260030011"
+      ],
+      [
+        "o230100260051"
+      ],
+      [
+        "o340030020021"
+      ],
+      [
+        "o180050210012"
+      ],
+      [
+        "o180090230021"
+      ],
+      [
+        "o230280150121"
+      ],
+      [
+        "o230280180101"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43002015003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230280180152"
+      ],
+      [
+        "o230280190022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230280150131"
+      ],
+      [
+        "o230280150161"
+      ],
+      [
+        "o230280150181"
+      ],
+      [
+        "o230280180111"
+      ],
+      [
+        "o230280180131"
+      ],
+      [
+        "o230280190031"
+      ],
+      [
+        "o230280190081"
+      ]
+    ]
+  }
+}

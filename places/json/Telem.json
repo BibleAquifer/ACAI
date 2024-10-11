@@ -1,0 +1,87 @@
+{
+  "id": "place:Telem",
+  "primary_id": "place:Telem",
+  "alternate_sources": {
+    "aquifer": [
+      "8771|Telem (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002695001001000"
+    ],
+    "tipnr": [
+      "Telem@Jos.15.24"
+    ],
+    "vizbible": [
+      "recH4JgAoJ7UVSGsv"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002695001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Telem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Telem",
+          "gloss": "Telem",
+          "description": "A town in the territory of Judah, probably about 50 km south of Hebron, in the Negev; probably identical to Telaim."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "טֶלֶם",
+      "טֶ֫לֶם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    },
+    "vizbible": {
+      "lat": "31.162327",
+      "lon": "35.057114"
+    }
+  },
+  "key_references": [
+    "09015004",
+    "06015024"
+  ],
+  "references": [
+    "06015024",
+    "09015004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150240022"
+      ]
+    ]
+  }
+}

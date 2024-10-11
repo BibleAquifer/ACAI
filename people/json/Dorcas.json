@@ -1,0 +1,105 @@
+{
+  "id": "person:Dorcas",
+  "primary_id": "person:Tabitha",
+  "alternate_sources": {
+    "aquifer": [
+      "4886|Dorcas|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.101"
+    ],
+    "tipnr": [
+      "Dorcas|Tabitha@Act.9.36-"
+    ],
+    "vizbible": [
+      "recDt7JkmnmKqdnB7"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "roles": [
+    "Disciple"
+  ],
+  "ubsdgnt": [
+    "93.101"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dorcas (Tabitha)",
+      "alternate_labels": [
+        "Tabitha"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tabitha",
+          "article": "person:Dorcas",
+          "description": "Dorcas, also known as Tabitha, was a Christian woman in Joppa known for her charitable works, first mentioned in Acts 9:36."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Tabitha"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Δορκάς"
+    ]
+  },
+  "key_references": [
+    "44009036",
+    "44009039"
+  ],
+  "references": [
+    "44009036",
+    "44009039"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44009036012"
+      ],
+      [
+        "n44009039030"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44009040020"
+      ],
+      [
+        "n44009040025"
+      ],
+      [
+        "n44009041003"
+      ],
+      [
+        "n44009041006"
+      ],
+      [
+        "n44009041015"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44009039028"
+      ],
+      [
+        "n44009040027"
+      ],
+      [
+        "n44009040030"
+      ],
+      [
+        "n44009041016"
+      ]
+    ]
+  }
+}

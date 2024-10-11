@@ -1,0 +1,139 @@
+{
+  "id": "person:Bartimaeus",
+  "primary_id": "person:Bartimaeus",
+  "alternate_sources": {
+    "aquifer": [
+      "4017|Bartimaeus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.67"
+    ],
+    "tipnr": [
+      "Bartimaeus@Mrk.10.46"
+    ],
+    "vizbible": [
+      "recR8GHdknxiCDnS3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Timaeus",
+  "ubsdgnt": [
+    "93.67"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bartimaeus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bartimaeus",
+          "article": "person:Bartimaeus",
+          "description": "A blind man who was healed by Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Βαρτιμαῖος"
+    ]
+  },
+  "key_references": [
+    "41010046"
+  ],
+  "references": [
+    "41010046"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41010046020"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "shouting",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40020030016",
+          "n40020030017",
+          "n40020030018",
+          "n40020030019"
+        ]
+      },
+      {
+        "delivery": "shouting",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40020031014",
+          "n40020031015",
+          "n40020031016",
+          "n40020031017"
+        ]
+      },
+      {
+        "delivery": "begging",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40020033003"
+        ]
+      },
+      {
+        "delivery": "begging",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40020033005",
+          "n40020033006",
+          "n40020033007",
+          "n40020033008"
+        ]
+      },
+      {
+        "delivery": "shouting",
+        "quote_type": "Dialogue",
+        "words": [
+          "n41010047012",
+          "n41010047013",
+          "n41010047014",
+          "n41010047015",
+          "n41010047016"
+        ]
+      },
+      {
+        "delivery": "pleading",
+        "quote_type": "Dialogue",
+        "words": [
+          "n41010051007",
+          "n41010051008",
+          "n41010051009",
+          "n41010051010"
+        ]
+      },
+      {
+        "delivery": "shouting",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42018038004",
+          "n42018038005",
+          "n42018038006",
+          "n42018038007",
+          "n42018038008"
+        ]
+      },
+      {
+        "delivery": "pleading",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42018041008",
+          "n42018041009",
+          "n42018041010"
+        ]
+      }
+    ]
+  }
+}

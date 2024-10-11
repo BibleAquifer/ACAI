@@ -1,0 +1,81 @@
+{
+  "id": "person:Shuthelah",
+  "primary_id": "person:Shuthelah",
+  "alternate_sources": {
+    "aquifer": [
+      "8471|Shuthelah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shuthelah@Num.26.35-1Ch"
+    ],
+    "vizbible": [
+      "recGllq2rdoUh8LJD"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ephraim",
+  "offspring": [
+    "person:Eran",
+    "person:Bered"
+  ],
+  "siblings": [
+    "person:Becher.2",
+    "person:Tahan",
+    "person:Ezer.3",
+    "person:Elead",
+    "person:Beriah.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Ephraim",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shuthelah",
+      "alternate_labels": [
+        "Shuthelahite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shuthelah",
+          "article": "person:Shuthelah",
+          "description": "A son of the patriarch Ephraim and father of Eran and Bered. He was founder of the clan of the Shuthelahites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Shuthelah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026035",
+    "04026036",
+    "13007020"
+  ],
+  "references": [
+    "04026035",
+    "04026036",
+    "13007020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260350052"
+      ],
+      [
+        "o040260350072"
+      ],
+      [
+        "o040260360031"
+      ],
+      [
+        "o130070200031"
+      ]
+    ]
+  }
+}

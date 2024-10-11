@@ -1,0 +1,98 @@
+{
+  "id": "place:ValleyOfJehoshaphat",
+  "primary_id": "place:Kidron",
+  "alternate_sources": {
+    "aquifer": [
+      "8999|Valley of Jehoshaphat|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002840001007000"
+    ],
+    "tipnr": [
+      "Valley_of_Jehoshaphat|Kidron@2Sa.15.23-Jhn"
+    ],
+    "vizbible": [
+      "rec5a5MQ9kYYHfV1e"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002840001007000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Jehoshaphat",
+      "alternate_labels": [
+        "Kidron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfJehoshaphat",
+          "gloss": "Valley of Jehoshaphat",
+          "description": "A valley east of Jerusalem; also as the Valley of Decision."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Kidron",
+    "place:ValleyOfDecision"
+  ],
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יְהֹושָׁפָט",
+      "יְהוֹשָׁפָט"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.772134",
+      "lon": "35.236596"
+    },
+    "vizbible": {
+      "lat": "31.772134",
+      "lon": "35.236596"
+    }
+  },
+  "key_references": [
+    "29004002",
+    "29004012"
+  ],
+  "references": [
+    "29004002",
+    "29004012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o290040020071",
+        "o290040020081"
+      ],
+      [
+        "o290040120051",
+        "o290040120061"
+      ]
+    ]
+  }
+}

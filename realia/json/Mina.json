@@ -1,0 +1,153 @@
+{
+  "id": "realia:Mina",
+  "primary_id": "realia:Mina",
+  "alternate_sources": {
+    "aquifer": [
+      "7143|Mina|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.81"
+    ],
+    "ubsdbh": [
+      "004100001001000",
+      "004104001001000"
+    ],
+    "ubsrealia": [
+      "realia:11.2.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.81"
+  ],
+  "ubsdbh": [
+    "004100001001000",
+    "004104001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mina",
+      "alternate_labels": [
+        "A Quantity of Money",
+        "One Hundred Denarii"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mina",
+          "article": "realia:Mina",
+          "description": "A unit of weight about 0.6 kilograms and equal to 50 shekels, used for payment."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְנֵא",
+      "מָנֶה"
+    ],
+    "el": [
+      "μνᾶ"
+    ]
+  },
+  "key_references": [
+    "26045012",
+    "42019013",
+    "42019016",
+    "42019024"
+  ],
+  "references": [
+    "11010017",
+    "15002069",
+    "16007070",
+    "16007071",
+    "26045012",
+    "27005025",
+    "27005026",
+    "42019013",
+    "42019016",
+    "42019018",
+    "42019020",
+    "42019024",
+    "42019025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o270050250051"
+      ],
+      [
+        "o270050250061"
+      ],
+      [
+        "o270050260041"
+      ],
+      [
+        "o110100170071"
+      ],
+      [
+        "o150020690111"
+      ],
+      [
+        "o160070700111"
+      ],
+      [
+        "o160070710101"
+      ],
+      [
+        "o260450120122"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42019013009"
+      ],
+      [
+        "n42019016008"
+      ],
+      [
+        "n42019016012"
+      ],
+      [
+        "n42019018007"
+      ],
+      [
+        "n42019018012"
+      ],
+      [
+        "n42019020009"
+      ],
+      [
+        "n42019024009"
+      ],
+      [
+        "n42019024015"
+      ],
+      [
+        "n42019025007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o270050250012"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42019020011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42019020013"
+      ]
+    ]
+  }
+}

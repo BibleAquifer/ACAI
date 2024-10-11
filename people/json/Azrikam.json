@@ -1,0 +1,62 @@
+{
+  "id": "person:Azrikam",
+  "primary_id": "person:Azrikam",
+  "alternate_sources": {
+    "aquifer": [
+      "3921|Azrikam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005359001001000"
+    ],
+    "tipnr": [
+      "Azrikam@1Ch.3.23"
+    ],
+    "vizbible": [
+      "recUW7YwRvFlEKnkz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Neariah",
+  "siblings": [
+    "person:Elioenai",
+    "person:Hizkiah"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005359001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azrikam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azrikam",
+          "article": "person:Azrikam",
+          "description": "A man of the tribe of Judah living during the divided kingdom, son of Neariah, mentioned in 1 Chronicles 3:23."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַזָּתִי"
+    ]
+  },
+  "key_references": [
+    "13003023"
+  ],
+  "references": [
+    "13003023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030230052"
+      ]
+    ]
+  }
+}

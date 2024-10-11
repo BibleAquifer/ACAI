@@ -1,0 +1,142 @@
+{
+  "id": "place:Ophir",
+  "primary_id": "place:Ophir",
+  "alternate_sources": {
+    "aquifer": [
+      "7507|Ophir (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a104820"
+    ],
+    "ubsdbh": [
+      "000201001002000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/60057"
+    ],
+    "tipnr": [
+      "Ophir@1Ki.9.28-Isa"
+    ],
+    "vizbible": [
+      "recPkpwSKDIF9jQ3T"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q914073"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000201001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ophir",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ophir",
+          "gloss": "Ophir",
+          "description": "A region probably in southern Arabia; known for its gold."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֹופִיר",
+      "אוֹפִיר",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement",
+      "island",
+      "mine"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "22",
+      "lon": "77"
+    },
+    "recogito": {
+      "lat": "27.5",
+      "lon": "67.5"
+    },
+    "vizbible": {
+      "lat": "27.5",
+      "lon": "67.5"
+    }
+  },
+  "key_references": [
+    "11010011",
+    "11009028"
+  ],
+  "references": [
+    "11009028",
+    "11010011",
+    "11022049",
+    "13029004",
+    "14008018",
+    "14009010",
+    "18022024",
+    "18028016",
+    "19045010",
+    "23013012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110090280021"
+      ],
+      [
+        "o110100110072"
+      ],
+      [
+        "o110100110092"
+      ],
+      [
+        "o110220490071"
+      ],
+      [
+        "o130290040061"
+      ],
+      [
+        "o140080180151"
+      ],
+      [
+        "o140090100102"
+      ],
+      [
+        "o180220240071"
+      ],
+      [
+        "o180280160041"
+      ],
+      [
+        "o190450100081"
+      ],
+      [
+        "o230130120061"
+      ]
+    ]
+  }
+}

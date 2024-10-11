@@ -1,0 +1,117 @@
+{
+  "id": "place:CaesareaPhilippi",
+  "primary_id": "place:CaesareaPhilippi",
+  "alternate_sources": {
+    "aquifer": [
+      "4377|Caesarea Philippi|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ab7bf48"
+    ],
+    "ubsdgnt": [
+      "93.492b"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678324",
+      "http://pleiades.stoa.org/places/678324"
+    ],
+    "tipnr": [
+      "Caesarea_Philippi@Mat.16.13-Mkr"
+    ],
+    "vizbible": [
+      "recC1BM9lEiyJHxTR"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2484244"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.492b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Caesarea Philippi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:CaesareaPhilippi",
+          "gloss": "Caesarea Philippi",
+          "description": "A city at the foot of Mount Hermon, where Peter makes his confession of Christ (Matthew 16:13–20; Mark 8:27–30)"
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Daphne",
+    "place:HermonMount"
+  ],
+  "subregion_of": [
+    "place:Ituraea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Καισάρεια",
+      "Φίλιππος"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.24805991",
+      "lon": "35.69463725"
+    },
+    "recogito": {
+      "lat": "33.247952",
+      "lon": "35.693185"
+    },
+    "vizbible": {
+      "lat": "33.24805991",
+      "lon": "35.69463725"
+    },
+    "biblica-maps": {
+      "lat": "33.24876",
+      "lon": "35.69469"
+    }
+  },
+  "key_references": [
+    "41008027",
+    "40016013"
+  ],
+  "references": [
+    "40016013",
+    "41008027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40016013008"
+      ],
+      [
+        "n40016013010"
+      ],
+      [
+        "n41008027012"
+      ],
+      [
+        "n41008027014"
+      ]
+    ]
+  }
+}

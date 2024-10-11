@@ -1,0 +1,136 @@
+{
+  "id": "place:Maacah",
+  "primary_id": "place:Maacah",
+  "alternate_sources": {
+    "aquifer": [
+      "6809|Maacah, Maachah (Place)|TyndaleBibleDictionary",
+      "26843|Maacah|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Maacah@Jos.13.13-Jer",
+      "Maacah@Jos.13.13"
+    ],
+    "vizbible": [
+      "recE3XSfOMlaQJZRi"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maacah",
+      "alternate_labels": [
+        "Aram-Maacah",
+        "Maachathites",
+        "Maakathite",
+        "Syria-maachah",
+        "Maachah",
+        "Maakah",
+        "Maacathite",
+        "Maacathites",
+        "Syrian Maacah",
+        "Aram Maakah",
+        "Maachathite",
+        "Maacath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Maacah",
+          "gloss": "Maacah",
+          "description": "A small Aramean nation located northeast of the Sea of Galilee."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Maacah.2",
+    "group:Maacah"
+  ],
+  "subregion_of": [
+    "place:Aram"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.2",
+      "lon": "36.5"
+    },
+    "vizbible": {
+      "lat": "33.2",
+      "lon": "36.5"
+    }
+  },
+  "key_references": [
+    "10010006"
+  ],
+  "references": [
+    "05003014",
+    "06012005",
+    "06013011",
+    "06013013",
+    "10010006",
+    "10010008",
+    "10023034",
+    "12025023",
+    "13004019",
+    "13019006",
+    "13019007",
+    "24040008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050030140123"
+      ],
+      [
+        "o060120050103"
+      ],
+      [
+        "o060130110043"
+      ],
+      [
+        "o060130130082"
+      ],
+      [
+        "o060130130112"
+      ],
+      [
+        "o100100060231"
+      ],
+      [
+        "o100100080132"
+      ],
+      [
+        "o100230340052"
+      ],
+      [
+        "o120250230292"
+      ],
+      [
+        "o130040190102"
+      ],
+      [
+        "o130190070091"
+      ],
+      [
+        "o240400080212"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "place:Jazer",
+  "primary_id": "place:Jazer",
+  "alternate_sources": {
+    "aquifer": [
+      "6244|Jazer|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a095b6e"
+    ],
+    "ubsdbh": [
+      "002990001001000"
+    ],
+    "tipnr": [
+      "Jazer@Num.21.32-Jer"
+    ],
+    "vizbible": [
+      "recGEuLOhqY6PsgzE"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6168081"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002990001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jazer",
+      "alternate_labels": [
+        "Jaazer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jazer",
+          "gloss": "Jazer",
+          "description": "A Levitical town in the territory of Gad, in Gilead, assigned to the clan of Merari; former Amorite territory; later occupied by Moab."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Gad",
+  "subregion_of": [
+    "place:TerritoryOfGad",
+    "place:Gilead"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יַעְזֵר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.94352952",
+      "lon": "35.72776961"
+    },
+    "vizbible": {
+      "lat": "31.94352952",
+      "lon": "35.72776961"
+    }
+  },
+  "key_references": [
+    "24048032",
+    "06013025",
+    "04021032"
+  ],
+  "references": [
+    "04021024",
+    "04021032",
+    "04032001",
+    "04032003",
+    "04032035",
+    "06013025",
+    "06021039",
+    "10024005",
+    "13006066",
+    "13026031",
+    "23016008",
+    "23016009",
+    "24048032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210320051"
+      ],
+      [
+        "o040320010131"
+      ],
+      [
+        "o040320030032"
+      ],
+      [
+        "o040320350051"
+      ],
+      [
+        "o060130250041"
+      ],
+      [
+        "o060210390061"
+      ],
+      [
+        "o100240050131"
+      ],
+      [
+        "o130060660061"
+      ],
+      [
+        "o130260310162"
+      ],
+      [
+        "o230160080121"
+      ],
+      [
+        "o230160090051"
+      ],
+      [
+        "o240480320021"
+      ],
+      [
+        "o240480320121"
+      ]
+    ]
+  }
+}

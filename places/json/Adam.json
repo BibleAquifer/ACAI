@@ -1,0 +1,99 @@
+{
+  "id": "place:Adam",
+  "primary_id": "place:Adam",
+  "alternate_sources": {
+    "aquifer": [
+      "3364|Adam (Place)|TyndaleBibleDictionary",
+      "3365|Adam, the Second|TyndaleBibleDictionary",
+      "26287|Adam|UWTranslationWords",
+      "132149|Adam|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "adc31c7"
+    ],
+    "ubsdbh": [
+      "000124002002000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/49836"
+    ],
+    "tipnr": [
+      "Adam@Jos.3.16"
+    ],
+    "vizbible": [
+      "recTgDuoerMyuEBbL"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2824946"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000124002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Adam",
+          "gloss": "Adam",
+          "description": "A town east of the Jordan River, near Zarethan, close to where the Israelites crossed the river (Joshua 3:16)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Zarethan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אָדָם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.09772015",
+      "lon": "35.56469085"
+    },
+    "recogito": {
+      "lat": "20.766373",
+      "lon": "78.759421"
+    },
+    "vizbible": {
+      "lat": "32.09772015",
+      "lon": "35.56469085"
+    }
+  },
+  "key_references": [
+    "06003016"
+  ],
+  "references": [
+    "06003016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060030160112"
+      ]
+    ]
+  }
+}

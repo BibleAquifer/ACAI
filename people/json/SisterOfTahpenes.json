@@ -1,0 +1,45 @@
+{
+  "id": "person:SisterOfTahpenes",
+  "primary_id": "person:SisterOfTahpenes",
+  "alternate_sources": {
+    "tipnr": [
+      "sister_of_Tahpenes@1Ki.11.19-"
+    ],
+    "vizbible": [
+      "recUR8KYptP0X0GA4"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:FatherOfTahpenes",
+  "partners": [
+    "person:Hadad.3"
+  ],
+  "offspring": [
+    "person:Genubath"
+  ],
+  "siblings": [
+    "person:Tahpenes"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sister of Tahpenes",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sister of Tahpenes",
+          "article": "person:SisterOfTahpenes",
+          "description": "The Sister of Tahpenes was a woman during Israel's united kingdom, first mentioned in 1 Kings 11:19, married to Hadad and mother of Genubath."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11011019"
+  ],
+  "references": [
+    "11011019"
+  ]
+}

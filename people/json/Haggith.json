@@ -1,0 +1,91 @@
+{
+  "id": "person:Haggith",
+  "primary_id": "person:Haggith",
+  "alternate_sources": {
+    "aquifer": [
+      "5592|Haggith|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002123001001000"
+    ],
+    "tipnr": [
+      "Haggith@2Sa.3.4-1Ch"
+    ],
+    "vizbible": [
+      "rec9SBAe047BwzwYS"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:David"
+  ],
+  "offspring": [
+    "person:Adonijah"
+  ],
+  "roles": [
+    "Matriarch",
+    "Royal Family Member"
+  ],
+  "ubsdbh": [
+    "002123001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Haggith",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Haggith",
+          "article": "person:Haggith",
+          "description": "Haggith was a wife of King David and the mother of his fourth son Adonijah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חַגִּית"
+    ]
+  },
+  "key_references": [
+    "10003004",
+    "11001005",
+    "13003002"
+  ],
+  "references": [
+    "10003004",
+    "11001005",
+    "11001011",
+    "11002013",
+    "13003002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100030040041"
+      ],
+      [
+        "o110010050031"
+      ],
+      [
+        "o110010110151"
+      ],
+      [
+        "o110020130041"
+      ],
+      [
+        "o130030020121"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110010060151"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "place:Gebim",
+  "primary_id": "place:Gebim",
+  "alternate_sources": {
+    "aquifer": [
+      "5393|Gebim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a58df35"
+    ],
+    "ubsdbh": [
+      "001265001001000"
+    ],
+    "tipnr": [
+      "Gebim@Isa.10.31"
+    ],
+    "vizbible": [
+      "recTSS22B5fmom2Vh"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001265001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gebim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gebim",
+          "gloss": "Gebim",
+          "description": "A location mentioned in Isa 10:31, probably a few miles north of Jerusalem."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גֵּבִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.8",
+      "lon": "35.25"
+    },
+    "vizbible": {
+      "lat": "31.8",
+      "lon": "35.25"
+    }
+  },
+  "key_references": [
+    "23010031"
+  ],
+  "references": [
+    "23010031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230100310042"
+      ]
+    ]
+  }
+}

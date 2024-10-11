@@ -1,0 +1,89 @@
+{
+  "id": "person:Rapha",
+  "primary_id": "person:Rapha",
+  "alternate_sources": {
+    "aquifer": [
+      "7946|Rapha|TyndaleBibleDictionary",
+      "27013|Rapha|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006892001001000",
+      "006885001001000"
+    ],
+    "tipnr": [
+      "Rapha@2Sa.21.16-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Goliath",
+    "person:Ishbi-benob",
+    "person:Saph",
+    "person:Lahmi",
+    "person:HugeMan"
+  ],
+  "ubsdbh": [
+    "006892001001000",
+    "006885001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rapha",
+      "alternate_labels": [
+        "ESV",
+        "\"giant\""
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rapha",
+          "article": "person:Rapha",
+          "description": "A Hebrew word usually translated as \"giant.\" From the \"the Rapha\" come other giants, including Goliath the Gittite who was killed by King David."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "רָפוּא"
+    ]
+  },
+  "key_references": [
+    "10021016",
+    "10021020",
+    "13020008"
+  ],
+  "references": [
+    "10021016",
+    "10021018",
+    "10021020",
+    "10021022",
+    "13020006",
+    "13020008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100210160062"
+      ],
+      [
+        "o100210180182"
+      ],
+      [
+        "o100210200213"
+      ],
+      [
+        "o100210220053"
+      ],
+      [
+        "o130200060163"
+      ],
+      [
+        "o130200080033"
+      ]
+    ]
+  }
+}

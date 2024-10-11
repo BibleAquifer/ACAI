@@ -1,0 +1,59 @@
+{
+  "id": "group:Mushi",
+  "primary_id": "group:Mushi",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003821001002000"
+    ],
+    "tipnr": [
+      "Mushi@Exo.6.19-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Mushi",
+  "ubsdbh": [
+    "003821001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mushites",
+      "alternate_labels": [
+        "Mushi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mushites",
+          "article": "group:Mushi",
+          "description": "People descended from Mushi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מוּשִׁי"
+    ]
+  },
+  "key_references": [
+    "04003033",
+    "04026058"
+  ],
+  "references": [
+    "04003033",
+    "04026058"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040030330052"
+      ],
+      [
+        "o040260580112"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "place:Salecah",
+  "primary_id": "place:Salecah",
+  "alternate_sources": {
+    "aquifer": [
+      "8103|Salcah, Salchah, Salecah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac3bc41"
+    ],
+    "tipnr": [
+      "Salecah@Deu.3.10-1Ch"
+    ],
+    "vizbible": [
+      "recP89MRmWURlmjL7"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q24343"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Salecah",
+      "alternate_labels": [
+        "Salchah",
+        "Salcah",
+        "Salekah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Salecah",
+          "gloss": "Salecah",
+          "description": "A town located in Bashan."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Bashan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.493941",
+      "lon": "36.710337"
+    },
+    "vizbible": {
+      "lat": "32.493941",
+      "lon": "36.710337"
+    }
+  },
+  "key_references": [
+    "06012005",
+    "05003010"
+  ],
+  "references": [
+    "05003010",
+    "06012005",
+    "06013011",
+    "13005011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050030100091"
+      ],
+      [
+        "o060120050043"
+      ],
+      [
+        "o060130110111"
+      ],
+      [
+        "o130050110081"
+      ]
+    ]
+  }
+}

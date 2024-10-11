@@ -1,0 +1,75 @@
+{
+  "id": "group:Hebron",
+  "primary_id": "group:Hebron",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002105001001000"
+    ],
+    "tipnr": [
+      "Hebron@Exo.6.18-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Hebron",
+  "ubsdbh": [
+    "002105001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hebronites",
+      "alternate_labels": [
+        "Hebron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hebronites",
+          "article": "group:Hebron",
+          "description": "People descended from Hebron, of the subclan of Kohathites, of the tribe of Levi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶבְרֹונִי",
+      "חֶבְרוֹנִי"
+    ]
+  },
+  "key_references": [
+    "04003027",
+    "04027058"
+  ],
+  "references": [
+    "04003027",
+    "04026058",
+    "13026023",
+    "13026030",
+    "13026031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040030270072"
+      ],
+      [
+        "o040260580072"
+      ],
+      [
+        "o130260230032"
+      ],
+      [
+        "o130260300012"
+      ],
+      [
+        "o130260310012"
+      ],
+      [
+        "o130260310042"
+      ]
+    ]
+  }
+}

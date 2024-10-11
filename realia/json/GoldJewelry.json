@@ -1,0 +1,69 @@
+{
+  "id": "realia:GoldJewelry",
+  "primary_id": "realia:GoldJewelry",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.189"
+    ],
+    "ubsrealia": [
+      "realia:10.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.189"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gold Jewelry",
+      "alternate_labels": [
+        "Gold Ornaments",
+        "Assorted Jewelry"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gold Jewelry",
+          "article": "realia:GoldJewelry",
+          "description": "Various ornaments made of gold, such as rings, necklaces, and bracelets."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χρυσίον"
+    ]
+  },
+  "key_references": [
+    "01024053",
+    "02035022",
+    "04031050",
+    "60003003"
+  ],
+  "references": [
+    "54002009",
+    "60003003",
+    "66017004",
+    "66018016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n54002009017"
+      ],
+      [
+        "n60003003010"
+      ],
+      [
+        "n66017004011"
+      ],
+      [
+        "n66018016017"
+      ]
+    ]
+  }
+}

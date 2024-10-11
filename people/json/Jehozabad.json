@@ -1,0 +1,71 @@
+{
+  "id": "person:Jehozabad",
+  "primary_id": "person:Jehozabad",
+  "alternate_sources": {
+    "aquifer": [
+      "6290|Jehozabad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002824001002000"
+    ],
+    "tipnr": [
+      "Jehozabad@2Ki.12.21-2Ch"
+    ],
+    "vizbible": [
+      "recFVfDDfa4oFUT8v"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shomer",
+  "tribe": "group:Moab",
+  "ubsdbh": [
+    "002824001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehozabad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehozabad",
+          "article": "person:Jehozabad",
+          "description": "A Moabite man and servant of King Joash of Judah, son of Shomer, who assassinated Joash and was later killed by Amaziah, mentioned in 2 Kings 12:21."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹוזָבָד",
+      "יְהוֹזָבָד"
+    ]
+  },
+  "key_references": [
+    "12012022",
+    "14024026"
+  ],
+  "references": [
+    "12012022",
+    "14024026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120120220042"
+      ],
+      [
+        "o140240260082"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140240260012"
+      ]
+    ]
+  }
+}

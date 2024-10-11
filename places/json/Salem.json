@@ -1,0 +1,108 @@
+{
+  "id": "place:Salem",
+  "primary_id": "place:Jerusalem",
+  "alternate_sources": {
+    "aquifer": [
+      "8104|Salem|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.321 93.566"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/1629104"
+    ],
+    "tipnr": [
+      "Salem|Jerusalem@Jos.10.1-Rev"
+    ],
+    "vizbible": [
+      "recXmfE7tECVVSN23"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.321 93.566"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Salem",
+      "alternate_labels": [
+        "Jerusalem"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Salem",
+          "gloss": "Salem",
+          "description": "A town ruled by Melchizedek during the time of Abraham; to be identified with Jerusalem."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Σαλήμ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "-7.1825",
+      "lon": "108.8059"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "01014018",
+    "58007001"
+  ],
+  "references": [
+    "01014018",
+    "19076003",
+    "58007001",
+    "58007002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140180041"
+      ],
+      [
+        "o190760030022"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n58007001006"
+      ],
+      [
+        "n58007002017"
+      ]
+    ]
+  }
+}

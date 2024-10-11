@@ -1,0 +1,155 @@
+{
+  "id": "person:Eliab.3",
+  "primary_id": "person:Eliab.3",
+  "alternate_sources": {
+    "aquifer": [
+      "4991|Eliab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000409001003000",
+      "000409001003000 001220001001000"
+    ],
+    "tipnr": [
+      "Eliab@1Sa.16.6-2Ch"
+    ],
+    "vizbible": [
+      "recMrPw4PinNqXItV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jesse",
+  "mother": "person:Nahash.3",
+  "offspring": [
+    "person:Abihail.4"
+  ],
+  "siblings": [
+    "person:David",
+    "person:Abinadab.3",
+    "person:Shimeah.2",
+    "person:Nethanel.2",
+    "person:Raddai",
+    "person:Ozem",
+    "person:Elihu.4",
+    "person:Zeruiah",
+    "person:Abigail.2"
+  ],
+  "roles": [
+    "Royal Family Member",
+    "Warrior"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000409001003000",
+    "000409001003000 001220001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliab (Son of Jesse)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliab (Son of Jesse)",
+          "article": "person:Eliab.3",
+          "description": "First-born son of Jesse, member of Saul's army, and King David’s oldest brother."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיאָב"
+    ]
+  },
+  "key_references": [
+    "09016006",
+    "09017013",
+    "13002013"
+  ],
+  "references": [
+    "09016006",
+    "09017013",
+    "09017028",
+    "13002013",
+    "14011018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090160060051"
+      ],
+      [
+        "o090170130161"
+      ],
+      [
+        "o090170280021"
+      ],
+      [
+        "o090170280101"
+      ],
+      [
+        "o130020130061"
+      ],
+      [
+        "o140110180141"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090170280231"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090170280122"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o090170280131",
+          "o090170280132",
+          "o090170280141",
+          "o090170280151",
+          "o090170280161",
+          "o090170280162",
+          "o090170280171",
+          "o090170280181",
+          "o090170280191",
+          "o090170280201",
+          "o090170280202",
+          "o090170280211",
+          "o090170280212",
+          "o090170280221",
+          "o090170280221ה",
+          "o090170280222",
+          "o090170280231",
+          "o090170280241",
+          "o090170280251",
+          "o090170280261",
+          "o090170280262",
+          "o090170280271",
+          "o090170280272",
+          "o090170280281",
+          "o090170280291",
+          "o090170280292",
+          "o090170280301",
+          "o090170280311",
+          "o090170280321",
+          "o090170280331",
+          "o090170280332",
+          "o090170280341"
+        ]
+      }
+    ]
+  }
+}

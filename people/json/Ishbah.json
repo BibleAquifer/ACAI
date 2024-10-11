@@ -1,0 +1,73 @@
+{
+  "id": "person:Ishbah",
+  "primary_id": "person:Ishbah",
+  "alternate_sources": {
+    "aquifer": [
+      "6063|Ishbah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003140001001000"
+    ],
+    "tipnr": [
+      "Ishbah@1Ch.4.17"
+    ],
+    "vizbible": [
+      "recXjhj5xnJ3lk2Zv"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mered",
+  "mother": "person:Bithiah",
+  "partners": [
+    "person:Hodiah"
+  ],
+  "offspring": [
+    "person:SonOfHodiah"
+  ],
+  "siblings": [
+    "person:Miriam.2",
+    "person:Shammai.3",
+    "person:Jered",
+    "person:Heber.3",
+    "person:Jekuthiel"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "003140001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ishbah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ishbah",
+          "article": "person:Ishbah",
+          "description": "A man from the tribe of Judah, son of Mered, mentioned in 1 Chronicles 4:17."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִשְׁבָּח",
+      "יִשְׁבַּח"
+    ]
+  },
+  "key_references": [
+    "13004017"
+  ],
+  "references": [
+    "13004017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040170131"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "person:Matthat",
+  "primary_id": "person:Matthat",
+  "alternate_sources": {
+    "aquifer": [
+      "6987|Matthat|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.245a"
+    ],
+    "tipnr": [
+      "Matthat@Luk.3.24"
+    ],
+    "vizbible": [
+      "recIiCIhUqOjJTxUc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Levi",
+  "offspring": [
+    "person:Heli"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.245a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Matthat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Matthat",
+          "article": "person:Matthat",
+          "description": "Son of Levi and the father of Heli in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Μαθθάτ"
+    ]
+  },
+  "key_references": [
+    "42003024"
+  ],
+  "references": [
+    "42003024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003024002"
+      ]
+    ]
+  }
+}

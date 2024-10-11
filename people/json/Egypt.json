@@ -1,0 +1,94 @@
+{
+  "id": "person:Egypt",
+  "primary_id": "person:Egypt",
+  "alternate_sources": {
+    "aquifer": [
+      "4953|Egypt, Brook of|TyndaleBibleDictionary",
+      "4954|Egypt, Egyptian|TyndaleBibleDictionary",
+      "26548|Egypt|UWTranslationWords",
+      "132197|Egypt|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "004314001001000"
+    ],
+    "tipnr": [
+      "Egypt@Gen.10.6-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ham",
+  "offspring": [
+    "Ludim@Gen.10.13-1Ch",
+    "group:Anamim",
+    "group:Lehabim",
+    "group:Naphtuhim",
+    "group:Pathrusim",
+    "group:Casluhim",
+    "group:Caphtorim"
+  ],
+  "siblings": [
+    "person:Canaan",
+    "person:Cush.2",
+    "person:Put"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "004314001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Egypt",
+      "alternate_labels": [
+        "Mizraim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Egypt",
+          "article": "person:Egypt",
+          "description": "Second son of Ham, the patriarch Noah's son. Egypt is regarded as the founder of the Egyptian nation."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִצְרַיִם",
+      "מִצְרִי"
+    ]
+  },
+  "key_references": [
+    "01010006",
+    "01010013",
+    "13001011"
+  ],
+  "references": [
+    "01010006",
+    "01010013",
+    "13001008",
+    "13001011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100060042"
+      ],
+      [
+        "o010100130012"
+      ],
+      [
+        "o130010080042"
+      ],
+      [
+        "o130010110012"
+      ]
+    ]
+  }
+}

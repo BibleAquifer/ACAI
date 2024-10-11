@@ -1,0 +1,84 @@
+{
+  "id": "person:Eliezer.7",
+  "primary_id": "person:Eliezer.7",
+  "alternate_sources": {
+    "aquifer": [
+      "5007|Eliezer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000425001006000"
+    ],
+    "tipnr": [
+      "Eliezer@2Ch.20.37"
+    ],
+    "vizbible": [
+      "rec7C7QJKH2cXqNUO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Dodavahu",
+  "ubsdbh": [
+    "000425001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliezer (2 Chronicles 20:37)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliezer (2 Chronicles 20:37)",
+          "article": "person:Eliezer.7",
+          "description": "Eliezer, a prophet and son of Dodavahu during King Jehoshaphat's time, is mentioned in 2 Chronicles 20:37."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיעֶזֶר",
+      "אֱלִיעֶ֫זֶר"
+    ]
+  },
+  "key_references": [
+    "14020037"
+  ],
+  "references": [
+    "14020037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140200370021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140200370082"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o140200370091",
+          "o140200370092",
+          "o140200370093",
+          "o140200370101",
+          "o140200370111",
+          "o140200370121",
+          "o140200370131",
+          "o140200370141",
+          "o140200370151",
+          "o140200370152"
+        ]
+      }
+    ]
+  }
+}

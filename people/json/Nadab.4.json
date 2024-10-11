@@ -1,0 +1,86 @@
+{
+  "id": "person:Nadab.4",
+  "primary_id": "person:Nadab.4",
+  "alternate_sources": {
+    "aquifer": [
+      "7277|Nadab|TyndaleBibleDictionary",
+      "132302|Nadab and Abihu|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "004648001004000"
+    ],
+    "tipnr": [
+      "Nadab@1Ch.8.30-"
+    ],
+    "vizbible": [
+      "recUU46uXBs4j7Wp1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abiel.2",
+  "mother": "person:Maacah.6",
+  "siblings": [
+    "person:Kish",
+    "person:Ner.2",
+    "person:Abdon.3",
+    "person:Zur.3",
+    "person:Baal",
+    "person:Gedor",
+    "person:Ahio.3",
+    "person:Zecher",
+    "person:Mikloth"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "004648001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nadab (1 Chronicles 8:30)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nadab (1 Chronicles 8:30)",
+          "article": "person:Nadab.4",
+          "description": "Nadab, son of Abiel and Maacah and a member of the tribe of Benjamin, is mentioned in 1 Chronicles 8:30 during Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נָדָב"
+    ]
+  },
+  "key_references": [
+    "13008030",
+    "13009036"
+  ],
+  "references": [
+    "13008030",
+    "13009036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080300072"
+      ],
+      [
+        "o130090360082"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130080320061"
+      ],
+      [
+        "o130090380061"
+      ]
+    ]
+  }
+}

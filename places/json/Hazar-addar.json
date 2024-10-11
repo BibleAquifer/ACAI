@@ -1,0 +1,90 @@
+{
+  "id": "place:Hazar-addar",
+  "primary_id": "place:Hazar-addar",
+  "alternate_sources": {
+    "aquifer": [
+      "5726|Hazar-Addar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002480001001000"
+    ],
+    "tipnr": [
+      "Hazar-addar@Num.34.4"
+    ],
+    "vizbible": [
+      "recgw0eApW7QujFV9"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002480001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazar-addar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hazar-addar",
+          "gloss": "Hazar-Addar",
+          "description": "A town in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Addar",
+    "place:Hezron"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲצַר־אַדָּר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.9522",
+      "lon": "34.7187"
+    },
+    "vizbible": {
+      "lat": "30.9522",
+      "lon": "34.7187"
+    }
+  },
+  "key_references": [
+    "04034004"
+  ],
+  "references": [
+    "04034004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340040161",
+        "o040340040171"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "realia:WeaversBeam",
+  "primary_id": "realia:WeaversBeam",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004115001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.5.3.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004115001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Weavers Beam",
+      "alternate_labels": [
+        "Loom"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Weavers Beam",
+          "article": "realia:WeaversBeam",
+          "description": "A thick wooden bar on a loom used for holding threads and rolling up finished cloth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מָנֹור"
+    ]
+  },
+  "key_references": [
+    "09017007",
+    "10021019",
+    "13011023"
+  ],
+  "references": [
+    "09017007",
+    "10021019",
+    "13011023",
+    "13020005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090170070042"
+      ],
+      [
+        "o100210190192"
+      ],
+      [
+        "o130110230132"
+      ],
+      [
+        "o130200050182"
+      ]
+    ]
+  }
+}

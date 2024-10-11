@@ -1,0 +1,83 @@
+{
+  "id": "place:HalakMount",
+  "primary_id": "place:HalakMount",
+  "alternate_sources": {
+    "obi": [
+      "a11fadd"
+    ],
+    "ubsdbh": [
+      "002315001001000"
+    ],
+    "tipnr": [
+      "Halak_Mount@Jos.11.17-"
+    ],
+    "vizbible": [
+      "rec4mw0iDCnUvKW4f"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002315001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Halak",
+      "alternate_labels": [
+        "Halak"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountHalak",
+          "gloss": "Mount Halak",
+          "description": "A mountain marking the southern boundary of Joshua's conquests (Joshua 11:17); possibly Jebel Halaq."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.916667",
+      "lon": "34.833333"
+    },
+    "vizbible": {
+      "lat": "30.916667",
+      "lon": "34.833333"
+    }
+  },
+  "key_references": [
+    "06011017",
+    "06012007"
+  ],
+  "references": [
+    "06011017",
+    "06012007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110170032"
+      ],
+      [
+        "o060120070182"
+      ]
+    ]
+  }
+}

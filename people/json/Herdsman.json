@@ -1,0 +1,51 @@
+{
+  "id": "person:Herdsman",
+  "primary_id": "person:Herdsman",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Herdsman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Herdsman",
+          "description": "An unnamed herdsman participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01026020",
+    "01026020"
+  ],
+  "references": [
+    "01026020",
+    "01026020"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010260200021"
+      ],
+      [
+        "o010260200072"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "delivery": "angry, quarreling",
+        "quote_type": "Normal",
+        "words": [
+          "o010260200081",
+          "o010260200082",
+          "o010260200091",
+          "o010260200092"
+        ]
+      }
+    ]
+  }
+}

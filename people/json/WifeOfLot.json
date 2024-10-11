@@ -1,0 +1,44 @@
+{
+  "id": "person:WifeOfLot",
+  "primary_id": "person:WifeOfLot",
+  "alternate_sources": {
+    "tipnr": [
+      "wife_of_Lot@Gen.19.15"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Lot"
+  ],
+  "offspring": [
+    "person:Daughter1OfLot",
+    "person:Daughter2OfLot",
+    "person:Moab",
+    "person:Ben-ammi"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wife of Lot",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wife of Lot",
+          "article": "person:WifeOfLot",
+          "description": "The Wife of Lot is an unnamed woman from the time of the patriarchs who became a pillar of salt after looking back at Sodom's destruction."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01019015",
+    "01019026"
+  ],
+  "references": [
+    "01019015",
+    "01019026"
+  ]
+}

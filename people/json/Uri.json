@@ -1,0 +1,97 @@
+{
+  "id": "person:Uri",
+  "primary_id": "person:Uri",
+  "alternate_sources": {
+    "aquifer": [
+      "8978|Uri|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000210001001000"
+    ],
+    "tipnr": [
+      "Uri@Exo.31.2-2Ch"
+    ],
+    "vizbible": [
+      "rec4QeGbvAwa56yBh"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hur.2",
+  "offspring": [
+    "person:Bezalel"
+  ],
+  "siblings": [
+    "person:Shobal.2",
+    "person:Salma",
+    "person:Hareph",
+    "person:Jezreel",
+    "person:Ishma",
+    "person:Idbash",
+    "person:Hazzelelponi",
+    "person:Penuel",
+    "person:Ezer.2"
+  ],
+  "roles": [
+    "Carpenter",
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000210001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uri",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uri",
+          "article": "person:Uri",
+          "description": "A son of Hur and father of Bezalel from the tribe of Judah during the time of the Egyptian slavery and wilderness wandering of the Israelites who God gave skill to design things for the Tabernacle. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אוּרִי"
+    ]
+  },
+  "key_references": [
+    "02031002",
+    "02035030",
+    "02038022"
+  ],
+  "references": [
+    "02031002",
+    "02035030",
+    "02038022",
+    "13002020",
+    "14001005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020310020061"
+      ],
+      [
+        "o020350300121"
+      ],
+      [
+        "o020380220031"
+      ],
+      [
+        "o130020200041"
+      ],
+      [
+        "o130020200052"
+      ],
+      [
+        "o140010050071"
+      ]
+    ]
+  }
+}

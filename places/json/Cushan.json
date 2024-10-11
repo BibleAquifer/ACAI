@@ -1,0 +1,79 @@
+{
+  "id": "place:Cushan",
+  "primary_id": "place:Cushan",
+  "alternate_sources": {
+    "aquifer": [
+      "4716|Cushan|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a567e0e"
+    ],
+    "ubsdbh": [
+      "003271001001000"
+    ],
+    "tipnr": [
+      "Cushan@Hab.3.7"
+    ],
+    "vizbible": [
+      "recgI2xgAcOBRvHSA"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5196167"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003271001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cushan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cushan",
+          "gloss": "Cushan",
+          "description": "A land or ethnic group, possibly related to Midian."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region",
+      "special"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "21.959788",
+      "lon": "31.343557"
+    },
+    "vizbible": {
+      "lat": "21.959788",
+      "lon": "31.343557"
+    }
+  },
+  "key_references": [
+    "35003007"
+  ],
+  "references": [
+    "35003007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o350030070051"
+      ]
+    ]
+  }
+}

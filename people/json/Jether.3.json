@@ -1,0 +1,81 @@
+{
+  "id": "person:Jether.3",
+  "primary_id": "person:Jether.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6357|Jether|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ithra|Jether@2Sa.17.25-1Ch",
+      "Jether@2Sa.17.25-1Ch"
+    ],
+    "vizbible": [
+      "rec1pWf6U6Z5bxylo"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Abigail.2"
+  ],
+  "offspring": [
+    "person:Amasa"
+  ],
+  "tribe": "group:Arabia",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jether",
+      "alternate_labels": [
+        "Ithra"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jether",
+          "article": "person:Jether.3",
+          "description": "An Ishmaelite (or Israelite) during the time of Israel’s united kingdom, married to Zeruiah's niece Abigail and father of David's military commander Amasa."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ithra"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10017025",
+    "11002005",
+    "11002032",
+    "13002017"
+  ],
+  "references": [
+    "10017025",
+    "11002005",
+    "11002032",
+    "13002017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100170250131"
+      ],
+      [
+        "o110020050221"
+      ],
+      [
+        "o110020320301"
+      ],
+      [
+        "o130020170071"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100170250161"
+      ]
+    ]
+  }
+}

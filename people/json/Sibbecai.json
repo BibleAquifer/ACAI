@@ -1,0 +1,75 @@
+{
+  "id": "person:Sibbecai",
+  "primary_id": "person:Sibbecai",
+  "alternate_sources": {
+    "aquifer": [
+      "8473|Sibbecai, Sibbechai|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Sibbecai@2Sa.21.18-1Ch",
+      "Mebunnai|Sibbecai@2Sa.21.18-1Ch"
+    ],
+    "vizbible": [
+      "recJd3JyIjc1b13nh"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Warrior"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sibbecai",
+      "alternate_labels": [
+        "Sibbekai",
+        "Sibbechai",
+        "Mebunnai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sibbecai",
+          "article": "person:Sibbecai",
+          "description": "A Hushathite living at the time of Israel’s united kingdom who defeated a giant and subdued the Philistines."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Mebunnai"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10021018",
+    "13020004",
+    "13027011"
+  ],
+  "references": [
+    "10021018",
+    "10023027",
+    "13011029",
+    "13020004",
+    "13027011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100210180121"
+      ],
+      [
+        "o100230270031"
+      ],
+      [
+        "o130110290011"
+      ],
+      [
+        "o130200040111"
+      ],
+      [
+        "o130270110041"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "place:BrookOfTheWillows",
+  "primary_id": "place:BrookOfTheWillows",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004729001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/5409777"
+    ],
+    "tipnr": [
+      "Brook_of_the_Willows@Isa.15.7"
+    ],
+    "vizbible": [
+      "recmqfNpyVxikcCZu"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004729001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Brook of the Willows",
+      "alternate_labels": [
+        "brook of Arabim",
+        "Willows",
+        "Ravine of Willows",
+        "Stream of the Poplars",
+        "Wadi of the Willows",
+        "Ravine of the Poplars"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:BrookOfTheWillows",
+          "gloss": "Brook of the Willows",
+          "description": "A brook marking the boundary between Moab and Edom; possibly the Brook Zered."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Zered"
+  ],
+  "subregion_of": [
+    "place:Edom",
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "wadi",
+      "body of water",
+      "river",
+      "region",
+      "special"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.309099",
+      "lon": "35.559900"
+    },
+    "recogito": {
+      "lat": "39.52433",
+      "lon": "-122.19359"
+    },
+    "vizbible": {
+      "lat": "32.309099",
+      "lon": "35.559900"
+    }
+  },
+  "key_references": [
+    "23015007"
+  ],
+  "references": [
+    "23015007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230150070071"
+      ],
+      [
+        "o230150070082"
+      ]
+    ]
+  }
+}

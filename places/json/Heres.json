@@ -1,0 +1,86 @@
+{
+  "id": "place:Heres",
+  "primary_id": "place:Heres",
+  "alternate_sources": {
+    "aquifer": [
+      "3786|Ascent of Heres|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002552003001000"
+    ],
+    "tipnr": [
+      "Heres@Jdg.8.13"
+    ],
+    "vizbible": [
+      "recUoVFfVA066pPes"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002552003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ascent of Heres",
+      "alternate_labels": [
+        "Heres Pass",
+        "Pass of Heres",
+        "Heres"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Heres",
+          "gloss": "Ascent of Heres",
+          "description": "The location east of the Jordan River from which Gideon returned after defeating the Midianites."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֶרֶס",
+      "חֶ֫רֶס"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "special",
+      "natural area",
+      "hill",
+      "settlement"
+    ],
+    "acai": [
+      "mountain pass"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.19998298531073",
+      "lon": "35.63331303389634"
+    },
+    "vizbible": {
+      "lat": "32.19998298531073",
+      "lon": "35.63331303389634"
+    }
+  },
+  "key_references": [
+    "07008013"
+  ],
+  "references": [
+    "07008013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070080130082"
+      ]
+    ]
+  }
+}

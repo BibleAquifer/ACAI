@@ -1,0 +1,55 @@
+{
+  "id": "group:Machir",
+  "primary_id": "group:Machir",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003978001001000"
+    ],
+    "tipnr": [
+      "Machir@Gen.50.23-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Machir",
+  "ubsdbh": [
+    "003978001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Machirites",
+      "alternate_labels": [
+        "Machir",
+        "Makirite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Machirites",
+          "article": "group:Machir",
+          "description": "People descended from Machir, father of Gilead and son of Manasseh, who was son of Joseph, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מָכִירִי"
+    ]
+  },
+  "key_references": [
+    "04026029"
+  ],
+  "references": [
+    "04026029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260290052"
+      ]
+    ]
+  }
+}

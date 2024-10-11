@@ -1,0 +1,77 @@
+{
+  "id": "person:Mahli.2",
+  "primary_id": "person:Mahli.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6877|Mahli|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003880001001000",
+      "003880001002000"
+    ],
+    "tipnr": [
+      "Mahli@1Ch.6.47-"
+    ],
+    "vizbible": [
+      "reczYPWL5dahKZRCl"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mushi",
+  "offspring": [
+    "person:Shemer.2"
+  ],
+  "siblings": [
+    "person:Eder.2",
+    "person:Jerimoth.3"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "003880001001000",
+    "003880001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mahli (1 Chronicles 6:47)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mahli (1 Chronicles 6:47)",
+          "article": "person:Mahli.2",
+          "description": "A man from the tribe of Levi, son of Mushi, mentioned in 1 Chronicles 6:47."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַחְלִי"
+    ]
+  },
+  "key_references": [
+    "13006032",
+    "13023023",
+    "13024030"
+  ],
+  "references": [
+    "13006032",
+    "13023023",
+    "13024030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060320021"
+      ],
+      [
+        "o130230230031"
+      ],
+      [
+        "o130240300031"
+      ]
+    ]
+  }
+}

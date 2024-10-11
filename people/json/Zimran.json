@@ -1,0 +1,73 @@
+{
+  "id": "person:Zimran",
+  "primary_id": "person:Zimran",
+  "alternate_sources": {
+    "aquifer": [
+      "9227|Zimran|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002007001001000"
+    ],
+    "tipnr": [
+      "Zimran@Gen.25.2-1Ch"
+    ],
+    "vizbible": [
+      "recv6Ey5CaBdmfKa2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abraham",
+  "mother": "person:Keturah",
+  "siblings": [
+    "person:Ishmael",
+    "person:Isaac",
+    "person:Jokshan",
+    "person:Medan",
+    "person:Midian",
+    "person:Ishbak",
+    "person:Shuah"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "002007001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zimran",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zimran",
+          "article": "person:Zimran",
+          "description": "Zimran was a man from the time of the patriarchs, first mentioned in Genesis 25:2 as the son of Abraham and Keturah, and the half-brother of Ishmael and Isaac."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זִמְרָן"
+    ]
+  },
+  "key_references": [
+    "01025002",
+    "13001032"
+  ],
+  "references": [
+    "01025002",
+    "13001032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250020041"
+      ],
+      [
+        "o130010320071"
+      ]
+    ]
+  }
+}

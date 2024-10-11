@@ -1,0 +1,106 @@
+{
+  "id": "place:Shimron",
+  "primary_id": "place:Shimron",
+  "alternate_sources": {
+    "aquifer": [
+      "8420|Shimron (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a072bae"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/678392",
+      "http://pleiades.stoa.org/places/678392"
+    ],
+    "tipnr": [
+      "Shimron-meron|Shimron@Jos.11.1-",
+      "Shimron@Jos.11.1-"
+    ],
+    "vizbible": [
+      "recJJNRuOtrW0M49k"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2916430"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shimron",
+      "alternate_labels": [
+        "Shimron-Meron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Shimron",
+          "gloss": "Shimron",
+          "description": "A town in Canaan that fought with the Israelites at the Waters of Merom; possibly to be identified with Shimron-Meron."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Shimron-meron"
+  ],
+  "referred_to_as": [
+    "place:Shimron-meron"
+  ],
+  "subregion_of": [
+    "place:Canaan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.70528896",
+      "lon": "35.21333286"
+    },
+    "recogito": {
+      "lat": "32.701249",
+      "lon": "35.219912"
+    },
+    "vizbible": {
+      "lat": "32.70528896",
+      "lon": "35.21333286"
+    }
+  },
+  "key_references": [
+    "06011001",
+    "06019015"
+  ],
+  "references": [
+    "06011001",
+    "06012020",
+    "06019015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110010131"
+      ],
+      [
+        "o060120200021",
+        "o060120200031"
+      ],
+      [
+        "o060190150032"
+      ]
+    ]
+  }
+}

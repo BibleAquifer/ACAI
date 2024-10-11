@@ -1,0 +1,61 @@
+{
+  "id": "person:Michael",
+  "primary_id": "person:Michael",
+  "alternate_sources": {
+    "aquifer": [
+      "7109|Michael|TyndaleBibleDictionary",
+      "26875|Michael|UWTranslationWords",
+      "132511|Michael|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003945001001000"
+    ],
+    "tipnr": [
+      "Michael@Num.13.13"
+    ],
+    "vizbible": [
+      "recJRA60YIuqM8U9e"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Sethur"
+  ],
+  "ubsdbh": [
+    "003945001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Michael",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Michael",
+          "article": "person:Michael",
+          "description": "Michael was a man from the tribe of Asher, living during the time of Egypt and the wilderness, mentioned in Numbers 13:13 as the father of Sethur, one of the spies."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִיכָאֵל"
+    ]
+  },
+  "key_references": [
+    "04013013"
+  ],
+  "references": [
+    "04013013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130130051"
+      ]
+    ]
+  }
+}

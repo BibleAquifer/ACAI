@@ -1,0 +1,76 @@
+{
+  "id": "place:Moserah",
+  "primary_id": "place:Moserah",
+  "alternate_sources": {
+    "aquifer": [
+      "7210|Moserah, Moseroth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003789002001000"
+    ],
+    "tipnr": [
+      "Moserah@Deu.10.6"
+    ],
+    "vizbible": [
+      "recNAB8ozpbR1xT4V"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003789002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Moserah",
+      "alternate_labels": [
+        "Moseroth",
+        "Mosera"
+      ],
+      "descriptions": []
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "מֹוסֵרָה",
+      "מוֹסֵרָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    },
+    "vizbible": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    }
+  },
+  "key_references": [
+    "04033030",
+    "04033031",
+    "05010006"
+  ],
+  "references": [
+    "04033030",
+    "04033031",
+    "05010006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050100060071"
+      ]
+    ]
+  }
+}

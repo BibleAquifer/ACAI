@@ -1,0 +1,71 @@
+{
+  "id": "person:Jerubbesheth",
+  "primary_id": "person:Gideon",
+  "alternate_sources": {
+    "aquifer": [
+      "6329|Jerubbesheth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003089001001000"
+    ],
+    "tipnr": [
+      "Jerubbesheth|Gideon@Jdg.6.11-Heb"
+    ],
+    "vizbible": [
+      "recpmakDIDSFa2LFR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joash",
+  "offspring": [
+    "person:Jether.2",
+    "person:Abimelech.2",
+    "person:Jotham"
+  ],
+  "roles": [
+    "Judge"
+  ],
+  "ubsdbh": [
+    "003089001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jerubbesheth (Gideon)",
+      "alternate_labels": [
+        "Gideon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gideon",
+          "article": "person:Jerubbesheth",
+          "description": "A judge from the tribe of Manasseh, also known as Gideon and Jerubbaal, who lived before Israel's Monarchy, son of Joash and father of Jether, Abimelech, and Jotham."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Gideon"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְרֻבֶּשֶׁת"
+    ]
+  },
+  "key_references": [
+    "10011021"
+  ],
+  "references": [
+    "10011021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100110210061"
+      ]
+    ]
+  }
+}

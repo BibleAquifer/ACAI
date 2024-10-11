@@ -1,0 +1,87 @@
+{
+  "id": "person:Shimei",
+  "primary_id": "person:Obed-edom",
+  "alternate_sources": {
+    "aquifer": [
+      "8407|Shimei|TyndaleBibleDictionary",
+      "27087|Shimei|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007485001012000"
+    ],
+    "tipnr": [
+      "Shimei|Obed-edom@2Sa.6.10-2Ch"
+    ],
+    "vizbible": [
+      "reccdEsmGSEygMi2q"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jeduthun",
+  "offspring": [
+    "person:Shemaiah.9",
+    "person:Jehozabad.2",
+    "person:Joah.3",
+    "person:Sachar",
+    "person:Nethanel.5",
+    "person:Ammiel.3",
+    "person:Issachar.2",
+    "person:Peullethai"
+  ],
+  "siblings": [
+    "person:Mattithiah.2",
+    "person:Gedaliah.4",
+    "person:Zeri",
+    "person:Jeshaiah.3",
+    "person:Hashabiah.3"
+  ],
+  "roles": [
+    "Official",
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "007485001012000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shimei (Obed-edom)",
+      "alternate_labels": [
+        "Obed-Edom"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Obed-Edom",
+          "article": "person:Shimei",
+          "description": "Shimei, son of Jeduthun and a singer from the tribe of Levi, lived during the time of Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Obed-edom"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שְׁמַעְיָה",
+      "שְׁמַעְיָ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "13025017"
+  ],
+  "references": [
+    "13025017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130250170021"
+      ]
+    ]
+  }
+}

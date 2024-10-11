@@ -1,0 +1,83 @@
+{
+  "id": "person:Toi",
+  "primary_id": "person:Toi",
+  "alternate_sources": {
+    "aquifer": [
+      "8885|Toi|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Tou|Toi@2Sa.8.9-1Ch",
+      "Toi@2Sa.8.9-1Ch"
+    ],
+    "vizbible": [
+      "recfaD41wcZQbKiUa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Joram.2"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Syria",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Toi",
+      "alternate_labels": [
+        "Tou"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Toi",
+          "article": "person:Toi",
+          "description": "Father of Joram and King of Hamath in Syria who lived during the time of King David."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Tou"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10008009",
+    "10008010",
+    "13018009"
+  ],
+  "references": [
+    "10008009",
+    "10008010",
+    "13018009",
+    "13018010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080090021"
+      ],
+      [
+        "o100080100021"
+      ],
+      [
+        "o100080100211"
+      ],
+      [
+        "o130180090021"
+      ],
+      [
+        "o130180100211"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130180100012"
+      ]
+    ]
+  }
+}

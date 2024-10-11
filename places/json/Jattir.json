@@ -1,0 +1,109 @@
+{
+  "id": "place:Jattir",
+  "primary_id": "place:Jattir",
+  "alternate_sources": {
+    "aquifer": [
+      "6240|Jattir|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ad6eb0b"
+    ],
+    "ubsdbh": [
+      "003205001001000"
+    ],
+    "tipnr": [
+      "Jattir@Jos.15.48-1Ch"
+    ],
+    "vizbible": [
+      "recaKtNNdTaSwmzoB"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q11978271"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003205001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jattir",
+      "alternate_labels": [
+        "Ithrite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jattir",
+          "gloss": "Jattir",
+          "description": "A Levitical town in the territory of Judah; assigned to the clan of Aaron."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יַתִּר",
+      "יַתִּיר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.40143852",
+      "lon": "35.06941349"
+    },
+    "vizbible": {
+      "lat": "31.40143852",
+      "lon": "35.06941349"
+    }
+  },
+  "key_references": [
+    "06015048",
+    "13006042"
+  ],
+  "references": [
+    "06015048",
+    "06021014",
+    "09030027",
+    "10023038",
+    "13006042",
+    "13011040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150480032"
+      ],
+      [
+        "o060210140021"
+      ],
+      [
+        "o090300270082"
+      ],
+      [
+        "o130060420141"
+      ]
+    ]
+  }
+}

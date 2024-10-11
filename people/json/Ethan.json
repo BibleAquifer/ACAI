@@ -1,0 +1,87 @@
+{
+  "id": "person:Ethan",
+  "primary_id": "person:Ethan",
+  "alternate_sources": {
+    "aquifer": [
+      "5170|Ethan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000363002003000"
+    ],
+    "tipnr": [
+      "Ethan@1Ki.4.31-Psa"
+    ],
+    "vizbible": [
+      "recBm9uwlLPBAZOb5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mahol",
+  "siblings": [
+    "person:Heman",
+    "person:Calcol",
+    "person:Darda"
+  ],
+  "ubsdbh": [
+    "000363002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ethan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ethan",
+          "article": "person:Ethan",
+          "description": "Ethan was a wise man from the tribe of Judah during Israel's united kingdom, known for his wisdom and mentioned as the son of Mahol."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵיתָן"
+    ]
+  },
+  "key_references": [
+    "11005011",
+    "19089002"
+  ],
+  "references": [
+    "11005011",
+    "19089001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110050110042"
+      ],
+      [
+        "o190890010022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o190890480021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o190890020041"
+      ],
+      [
+        "o190890020071"
+      ],
+      [
+        "o190890030021"
+      ]
+    ]
+  }
+}

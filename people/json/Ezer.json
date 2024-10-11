@@ -1,0 +1,91 @@
+{
+  "id": "person:Ezer",
+  "primary_id": "person:Ezer",
+  "alternate_sources": {
+    "aquifer": [
+      "5219|Ezer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000634001001000"
+    ],
+    "tipnr": [
+      "Ezer@Gen.36.21-1Ch"
+    ],
+    "vizbible": [
+      "recl1WPeQDwuZjXx4"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Seir",
+  "offspring": [
+    "person:Bilhan",
+    "person:Zaavan",
+    "person:Akan"
+  ],
+  "siblings": [
+    "person:Lotan",
+    "person:Shobal",
+    "person:Zibeon.2",
+    "person:Anah.2",
+    "person:Dishon",
+    "person:Dishan",
+    "person:Timna.2"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "000634001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ezer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ezer",
+          "article": "person:Ezer",
+          "description": "A descendant of Esau, son of Seir and a chief of the Horites. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵצֶר",
+      "אֵ֫צֶר"
+    ]
+  },
+  "key_references": [
+    "01036021",
+    "01036027",
+    "13001042"
+  ],
+  "references": [
+    "01036021",
+    "01036027",
+    "01036030",
+    "13001038",
+    "13001042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360210022"
+      ],
+      [
+        "o010360270031"
+      ],
+      [
+        "o010360300041"
+      ],
+      [
+        "o130010380082"
+      ],
+      [
+        "o130010420021"
+      ]
+    ]
+  }
+}

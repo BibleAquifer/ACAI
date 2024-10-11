@@ -1,0 +1,156 @@
+{
+  "id": "person:Man",
+  "primary_id": "person:Adam",
+  "alternate_sources": {
+    "aquifer": [
+      "6931|Man|TyndaleBibleDictionary",
+      "6924|Man, Natural|TyndaleBibleDictionary",
+      "6928|Man, Old and New|TyndaleBibleDictionary",
+      "6929|Man, Son of|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000124001001000"
+    ],
+    "tipnr": [
+      "man|Adam@Gen.2.19-Jud"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Eve"
+  ],
+  "offspring": [
+    "person:Cain",
+    "person:Abel",
+    "person:Seth"
+  ],
+  "siblings": [
+    "person:Eve"
+  ],
+  "roles": [
+    "Patriarch",
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "000124001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Man (Adam)",
+      "alternate_labels": [
+        "Adam",
+        "mankind",
+        "others"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Adam",
+          "article": "person:Man",
+          "description": "The first human being created by God, living before the Flood, married to Eve, and father of Cain, Abel, and Seth. Since the name Hebrew name Adam means \"Man,\" he also represents humans or mankind in general."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Adam"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָדָם"
+    ]
+  },
+  "key_references": [
+    "01001026",
+    "01002019",
+    "01002023",
+    "01003020"
+  ],
+  "references": [
+    "01002019",
+    "01002021",
+    "01002023",
+    "01003008",
+    "01003009",
+    "01003020",
+    "01005002",
+    "05032008",
+    "18031033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010020190152"
+      ],
+      [
+        "o010020190242"
+      ],
+      [
+        "o010020210062"
+      ],
+      [
+        "o010020230022"
+      ],
+      [
+        "o010030080112"
+      ],
+      [
+        "o010030090052"
+      ],
+      [
+        "o010030200022"
+      ],
+      [
+        "o010050020091"
+      ],
+      [
+        "o050320080061"
+      ],
+      [
+        "o180310330032"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010030100091"
+      ],
+      [
+        "o010030110071"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010020190181"
+      ],
+      [
+        "o010020210072"
+      ],
+      [
+        "o010030100012"
+      ],
+      [
+        "o010030100041"
+      ],
+      [
+        "o010030100062"
+      ],
+      [
+        "o010030100102"
+      ],
+      [
+        "o010030110131"
+      ],
+      [
+        "o010030110151"
+      ]
+    ]
+  }
+}

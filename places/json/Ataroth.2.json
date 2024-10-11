@@ -1,0 +1,90 @@
+{
+  "id": "place:Ataroth.2",
+  "primary_id": "place:Ataroth.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3856|Ataroth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005371001002000"
+    ],
+    "tipnr": [
+      "Ataroth@Jos.16.2-"
+    ],
+    "vizbible": [
+      "recSNxzg5rYEeDG16"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005371001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ataroth (of Ephraim)",
+      "alternate_labels": [
+        "Ataroth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ataroth.2",
+          "gloss": "Ataroth (of Ephraim)",
+          "description": "A town in the territory of Ephraim; former territory of Arkites."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Ataroth-addar"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.85891795409998",
+      "lon": "35.12831317484221"
+    },
+    "vizbible": {
+      "lat": "31.85891795409998",
+      "lon": "35.12831317484221"
+    }
+  },
+  "key_references": [
+    "06016002",
+    "06016007"
+  ],
+  "references": [
+    "06016002",
+    "06016007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060160020091"
+      ],
+      [
+        "o060160070031"
+      ]
+    ]
+  }
+}

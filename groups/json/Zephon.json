@@ -1,0 +1,59 @@
+{
+  "id": "group:Zephon",
+  "primary_id": "group:Zephon",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006285002001000"
+    ],
+    "tipnr": [
+      "Zephon|Ziphion@Gen.46.16-Num"
+    ],
+    "vizbible": [
+      "recV4ZJRTOSo4pTjq"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Ziphion",
+  "ubsdbh": [
+    "006285002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zephonites",
+      "alternate_labels": [
+        "Ziphion",
+        "Zephon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zephonites",
+          "article": "group:Zephon",
+          "description": "People descended from Ziphion, son of Gad, son of Joseph, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צִפֹּור",
+      "צִפּוֹר"
+    ]
+  },
+  "key_references": [
+    "04026015"
+  ],
+  "references": [
+    "04026015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260150062"
+      ]
+    ]
+  }
+}

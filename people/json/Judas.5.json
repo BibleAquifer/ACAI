@@ -1,0 +1,121 @@
+{
+  "id": "person:Judas.5",
+  "primary_id": "person:Judas.5",
+  "alternate_sources": {
+    "aquifer": [
+      "6486|Judas|TyndaleBibleDictionary",
+      "6825|Maccabaeus, Judas|TyndaleBibleDictionary",
+      "6829|Maccabeus, Judas|TyndaleBibleDictionary",
+      "132040|Judas|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Judas@Act.15.22-",
+      "Barsabbas|Judas@Act.15.22-"
+    ],
+    "vizbible": [
+      "recakt9CAUAwg46xw"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Disciple",
+    "Prophet"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Judas (Acts 15:22)",
+      "alternate_labels": [
+        "Judas Barsabas",
+        "Barsabbas",
+        "Barsabas"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Judas (Acts 15:22)",
+          "article": "person:Judas.5",
+          "description": "A New Testament leader and prophet."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Barsabbas.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44015022",
+    "44015027",
+    "44015032"
+  ],
+  "references": [
+    "44015022",
+    "44015027",
+    "44015032"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44015022024"
+      ],
+      [
+        "n44015022027"
+      ],
+      [
+        "n44015027003"
+      ],
+      [
+        "n44015032001"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44015023004"
+      ],
+      [
+        "n44015027007"
+      ],
+      [
+        "n44015030001"
+      ],
+      [
+        "n44015032006"
+      ],
+      [
+        "n44015033013"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44015022026"
+      ],
+      [
+        "n44015027010"
+      ],
+      [
+        "n44015030004"
+      ],
+      [
+        "n44015030009"
+      ],
+      [
+        "n44015030012"
+      ],
+      [
+        "n44015032016"
+      ],
+      [
+        "n44015033001"
+      ],
+      [
+        "n44015033004"
+      ]
+    ]
+  }
+}

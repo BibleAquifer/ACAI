@@ -1,0 +1,59 @@
+{
+  "id": "group:Mahli",
+  "primary_id": "group:Mahli",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003880001003000"
+    ],
+    "tipnr": [
+      "Mahli@Exo.6.19-Ezr"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Mahli",
+  "ubsdbh": [
+    "003880001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mahlites",
+      "alternate_labels": [
+        "Mahli"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mahlites",
+          "article": "group:Mahli",
+          "description": "People descended from Mahli of the tribe of Levi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַחְלִי"
+    ]
+  },
+  "key_references": [
+    "04003033",
+    "04026058"
+  ],
+  "references": [
+    "04003033",
+    "04026058"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040030330032"
+      ],
+      [
+        "o040260580092"
+      ]
+    ]
+  }
+}

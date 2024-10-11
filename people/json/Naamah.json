@@ -1,0 +1,78 @@
+{
+  "id": "person:Naamah",
+  "primary_id": "person:Naamah",
+  "alternate_sources": {
+    "aquifer": [
+      "7258|Naamah (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004841001002000"
+    ],
+    "tipnr": [
+      "Naamah@1Ki.14.21-2Ch"
+    ],
+    "vizbible": [
+      "recIAAd2MVLAfQtAW"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Solomon"
+  ],
+  "offspring": [
+    "person:Rehoboam"
+  ],
+  "tribe": "group:Ammon",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "004841001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Naamah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Naamah",
+          "article": "person:Naamah",
+          "description": "Naamah was an Ammonite woman during Israel's united kingdom, married to Solomon and mother of Rehoboam, mentioned in 1 Kings 14:21."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נַעֲמָה"
+    ]
+  },
+  "key_references": [
+    "11014021",
+    "11014031",
+    "14012013"
+  ],
+  "references": [
+    "11014021",
+    "11014031",
+    "14012013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110140210301"
+      ],
+      [
+        "o110140310121"
+      ],
+      [
+        "o140120130311"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "person:Meshelemiah",
+  "primary_id": "person:Meshelemiah",
+  "alternate_sources": {
+    "aquifer": [
+      "7081|Meshelemiah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shelemiah|Meshelemiah@1Ch.9.21-",
+      "Meshelemiah@1Ch.9.21-"
+    ],
+    "vizbible": [
+      "recDhG2YO0S87wRkJ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Zechariah.2",
+    "person:Jediael.4",
+    "person:Zebadiah.4",
+    "person:Jathniel",
+    "person:Elam.4",
+    "person:Jehohanan",
+    "person:Eliehoenai"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meshelemiah",
+      "alternate_labels": [
+        "Shelemiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Meshelemiah",
+          "article": "person:Meshelemiah",
+          "description": "A gatekeeper of the Temple during the time of the Israelite exile and return."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shelemiah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009021",
+    "13026001",
+    "13026009"
+  ],
+  "references": [
+    "13009021",
+    "13026001",
+    "13026002",
+    "13026009",
+    "13026014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090210031"
+      ],
+      [
+        "o130260010041"
+      ],
+      [
+        "o130260020013"
+      ],
+      [
+        "o130260090013"
+      ],
+      [
+        "o130260140042"
+      ]
+    ]
+  }
+}

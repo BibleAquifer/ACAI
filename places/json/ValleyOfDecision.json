@@ -1,0 +1,43 @@
+{
+  "id": "place:ValleyOfDecision",
+  "primary_id": "place:ValleyOfDecision",
+  "alternate_sources": {
+    "aquifer": [
+      "8997|Valley of Decision|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfDecision",
+          "gloss": "Valley of Decision",
+          "description": "A valley east of Jerusalem; also known as the Valley of Jehoshaphat."
+        }
+      ],
+      "preferred_label": "Valley of Decision"
+    }
+  },
+  "referred_to_as": [
+    "place:ValleyOfJehoshaphat"
+  ],
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "valley"
+    ]
+  },
+  "key_references": [
+    "29004014"
+  ]
+}

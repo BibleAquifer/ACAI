@@ -1,0 +1,69 @@
+{
+  "id": "person:Shimeath",
+  "primary_id": "person:Shimeath",
+  "alternate_sources": {
+    "aquifer": [
+      "8404|Shimeath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007489001001000"
+    ],
+    "tipnr": [
+      "Shimeath@2Ki.12.21-2Ch"
+    ],
+    "vizbible": [
+      "reci8SZXukI5B2duF"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:HusbandOfShimeath"
+  ],
+  "offspring": [
+    "person:Jozacar"
+  ],
+  "tribe": "group:Ammon",
+  "ubsdbh": [
+    "007489001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shimeath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shimeath",
+          "article": "person:Shimeath",
+          "description": "Shimeath, a woman from the Ammonites living during the divided kingdom, was the mother of Jozacar."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שִׁמְעָתִי",
+      "שִׁמְעָתִים"
+    ]
+  },
+  "key_references": [
+    "12012022",
+    "14024026"
+  ],
+  "references": [
+    "12012022",
+    "14024026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120120220031"
+      ],
+      [
+        "o140240260061"
+      ]
+    ]
+  }
+}

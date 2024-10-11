@@ -1,0 +1,258 @@
+{
+  "id": "person:Mary.3",
+  "primary_id": "person:Mary.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6850|Magdalene, Mary|TyndaleBibleDictionary",
+      "6961|Mary|TyndaleBibleDictionary",
+      "26856|Mary|UWTranslationWords",
+      "132029|Mary, Martha and Lazarus|BiblicaStudyNotesKeyTerms",
+      "280150|mary|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.253b",
+      "93.253a"
+    ],
+    "tipnr": [
+      "Mary@Luk.10.39-Jhn"
+    ],
+    "vizbible": [
+      "recEKfDWYNYOUAUVH"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:FatherOfLazarus",
+  "siblings": [
+    "person:Martha",
+    "person:Lazarus.2"
+  ],
+  "roles": [
+    "Disciple"
+  ],
+  "ubsdgnt": [
+    "93.253b",
+    "93.253a"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mary (of Bethany)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mary (of Bethany)",
+          "article": "person:Mary.3",
+          "description": "A friend of Jesus, and sister of Martha and Lazarus from Bethany."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Μαρία",
+      "Μαριάμ"
+    ]
+  },
+  "key_references": [
+    "42010039",
+    "43011001",
+    "43012003"
+  ],
+  "references": [
+    "42010039",
+    "42010042",
+    "43011001",
+    "43011002",
+    "43011019",
+    "43011020",
+    "43011028",
+    "43011031",
+    "43011032",
+    "43011045",
+    "43012003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42010039006"
+      ],
+      [
+        "n42010042007"
+      ],
+      [
+        "n43011001011"
+      ],
+      [
+        "n43011002003"
+      ],
+      [
+        "n43011019011"
+      ],
+      [
+        "n43011020011"
+      ],
+      [
+        "n43011028007"
+      ],
+      [
+        "n43011031016"
+      ],
+      [
+        "n43011032003"
+      ],
+      [
+        "n43011045010"
+      ],
+      [
+        "n43012003003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42010042016"
+      ],
+      [
+        "n43011001016"
+      ],
+      [
+        "n43011002017"
+      ],
+      [
+        "n43011019014"
+      ],
+      [
+        "n43011028018"
+      ],
+      [
+        "n43011029001"
+      ],
+      [
+        "n43011031007"
+      ],
+      [
+        "n43011031013"
+      ],
+      [
+        "n43011031023"
+      ],
+      [
+        "n43011032024"
+      ],
+      [
+        "n43011033005"
+      ],
+      [
+        "n43011033010"
+      ],
+      [
+        "n43011044018"
+      ],
+      [
+        "n43012003019"
+      ],
+      [
+        "n43012007006"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43011029004"
+      ],
+      [
+        "n43011029008"
+      ],
+      [
+        "n43011031019"
+      ],
+      [
+        "n43011031021"
+      ],
+      [
+        "n43011031026"
+      ],
+      [
+        "n43011031031"
+      ],
+      [
+        "n43011032005"
+      ],
+      [
+        "n43011032009"
+      ],
+      [
+        "n43011032016"
+      ],
+      [
+        "n43011034004"
+      ],
+      [
+        "n43011034006"
+      ],
+      [
+        "n43011039004"
+      ],
+      [
+        "n43011041001"
+      ],
+      [
+        "n43011044021"
+      ],
+      [
+        "n43011044024"
+      ],
+      [
+        "n43012003004"
+      ],
+      [
+        "n43012003016"
+      ],
+      [
+        "n43012007014"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "n43011003008",
+          "n43011003009",
+          "n43011003010",
+          "n43011003011",
+          "n43011003012"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n43011032018",
+          "n43011032019",
+          "n43011032020",
+          "n43011032021",
+          "n43011032022",
+          "n43011032023",
+          "n43011032024",
+          "n43011032025",
+          "n43011032026",
+          "n43011032027"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n43011034008",
+          "n43011034009",
+          "n43011034010",
+          "n43011034011"
+        ]
+      }
+    ]
+  }
+}

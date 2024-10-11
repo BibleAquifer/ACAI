@@ -1,0 +1,99 @@
+{
+  "id": "place:Peor",
+  "primary_id": "place:Peor",
+  "alternate_sources": {
+    "aquifer": [
+      "3941|Baal-Peor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005941001001000"
+    ],
+    "tipnr": [
+      "Peor@Num.23.28-Jos"
+    ],
+    "vizbible": [
+      "recDsLjW4riPOxvp4"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005941001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baal-peor",
+      "alternate_labels": [
+        "Mount Peor",
+        "Peor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baal-peor",
+          "gloss": "Baal-Peor",
+          "description": "The location of the temple of Baal-Peor."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.76503129703305",
+      "lon": "35.71856575741812"
+    },
+    "vizbible": {
+      "lat": "31.76503129703305",
+      "lon": "35.71856575741812"
+    }
+  },
+  "key_references": [
+    "28009010",
+    "05004003"
+  ],
+  "references": [
+    "04023028",
+    "04025003",
+    "04025005",
+    "04025018",
+    "04031016",
+    "05004003",
+    "06022017",
+    "19106028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040230280062"
+      ],
+      [
+        "o040250180111"
+      ],
+      [
+        "o040250180241"
+      ],
+      [
+        "o040310160131"
+      ],
+      [
+        "o060220170051"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "person:Onan",
+  "primary_id": "person:Onan",
+  "alternate_sources": {
+    "aquifer": [
+      "7494|Onan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000199001001000"
+    ],
+    "tipnr": [
+      "Onan@Gen.38.4-1Ch"
+    ],
+    "vizbible": [
+      "rec96VSmqAtjucdBS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Judah.4",
+  "mother": "person:Bath-shua",
+  "siblings": [
+    "person:Er.2",
+    "person:Shelah",
+    "person:Perez",
+    "person:Zerah.3"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000199001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Onan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Onan",
+          "article": "person:Onan",
+          "description": "A son of the patriarch Judah by the Canaanite Shua and brother of Er, Onan, Shelah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֹונָן",
+      "אוֹנָן"
+    ]
+  },
+  "key_references": [
+    "01038008",
+    "01038009",
+    "13002003"
+  ],
+  "references": [
+    "01038004",
+    "01038008",
+    "01038009",
+    "01046012",
+    "04026019",
+    "13002003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380040081"
+      ],
+      [
+        "o010380080032"
+      ],
+      [
+        "o010380090021"
+      ],
+      [
+        "o010460120042"
+      ],
+      [
+        "o010460120102"
+      ],
+      [
+        "o040260190042"
+      ],
+      [
+        "o040260190072"
+      ],
+      [
+        "o130020030042"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010380080041"
+      ],
+      [
+        "o010380080082"
+      ],
+      [
+        "o010380080102"
+      ],
+      [
+        "o010380090101"
+      ],
+      [
+        "o010380090142"
+      ],
+      [
+        "o010380090171"
+      ],
+      [
+        "o010380100051"
+      ]
+    ]
+  }
+}

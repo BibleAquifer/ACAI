@@ -1,0 +1,65 @@
+{
+  "id": "person:Ahlai",
+  "primary_id": "person:Ahlai",
+  "alternate_sources": {
+    "aquifer": [
+      "3463|Ahlai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000288001001000"
+    ],
+    "tipnr": [
+      "Ahlai@1Ch.2.31"
+    ],
+    "vizbible": [
+      "recs68WjJ9K58vdML"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Sheshan",
+  "partners": [
+    "person:Jarha"
+  ],
+  "offspring": [
+    "person:Attai"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000288001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahlai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahlai",
+          "article": "person:Ahlai",
+          "description": "A man from the tribe of Judah, son of Sheshan, married to Jarha, and father of Attai, mentioned in 1 Chronicles 2:31."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַחְלָי",
+      "אַחְלָ֑י"
+    ]
+  },
+  "key_references": [
+    "13002031"
+  ],
+  "references": [
+    "13002031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020310091"
+      ]
+    ]
+  }
+}

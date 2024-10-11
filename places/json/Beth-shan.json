@@ -1,0 +1,145 @@
+{
+  "id": "place:Beth-shan",
+  "primary_id": "place:Beth-shan",
+  "alternate_sources": {
+    "aquifer": [
+      "4202|Beth-Shan, Beth-Shean|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2a8df0"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/295435"
+    ],
+    "tipnr": [
+      "Beth-shan@1Sa.31.10-1Ch"
+    ],
+    "vizbible": [
+      "recasVvXRao2TAZVE"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q152368"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-shan",
+      "alternate_labels": [
+        "Beth-Shean",
+        "Beth-Sean"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-shan",
+          "gloss": "Beth-Shan",
+          "description": "A border town in the territory of West Manasseh, near Zarethan, where Saul's body was hung after he was killed."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Manasseh",
+  "nearby_places": [
+    "place:Zarethan"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfWestManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.50423846",
+      "lon": "35.50307739"
+    },
+    "recogito": {
+      "lat": "32.49728",
+      "lon": "35.49632"
+    },
+    "vizbible": {
+      "lat": "32.50423846",
+      "lon": "35.50307739"
+    },
+    "biblica-maps": {
+      "lat": "32.50336",
+      "lon": "35.50298"
+    }
+  },
+  "key_references": [
+    "07001027",
+    "06017016"
+  ],
+  "references": [
+    "06017011",
+    "06017016",
+    "07001027",
+    "09031010",
+    "09031012",
+    "10021012",
+    "11004012",
+    "13007029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060170110051",
+        "o060170110061"
+      ],
+      [
+        "o060170160162",
+        "o060170160171"
+      ],
+      [
+        "o070010270051",
+        "o070010270061"
+      ],
+      [
+        "o090310100101",
+        "o090310100111"
+      ],
+      [
+        "o090310120161",
+        "o090310120171"
+      ],
+      [
+        "o100210120191",
+        "o100210120201"
+      ],
+      [
+        "o110040120071",
+        "o110040120081"
+      ],
+      [
+        "o110040120142",
+        "o110040120151"
+      ],
+      [
+        "o130070290051",
+        "o130070290061"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o060170120082"
+      ],
+      [
+        "o070010270332"
+      ]
+    ]
+  }
+}

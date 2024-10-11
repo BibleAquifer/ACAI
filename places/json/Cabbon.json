@@ -1,0 +1,85 @@
+{
+  "id": "place:Cabbon",
+  "primary_id": "place:Cabbon",
+  "alternate_sources": {
+    "aquifer": [
+      "4374|Cabbon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003228001001000"
+    ],
+    "tipnr": [
+      "Cabbon@Jos.15.40"
+    ],
+    "vizbible": [
+      "recJdhB6dMKj8R3su"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003228001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cabbon",
+      "alternate_labels": [
+        "Kabbon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cabbon",
+          "gloss": "Cabbon",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כַּבֹּון",
+      "כַּבּוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.5",
+      "lon": "34.7667"
+    },
+    "vizbible": {
+      "lat": "31.5",
+      "lon": "34.7667"
+    }
+  },
+  "key_references": [
+    "06015040"
+  ],
+  "references": [
+    "06015040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150400012"
+      ]
+    ]
+  }
+}

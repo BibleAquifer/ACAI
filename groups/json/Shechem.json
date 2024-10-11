@@ -1,0 +1,64 @@
+{
+  "id": "group:Shechem",
+  "primary_id": "group:Shechem",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007356001001000"
+    ],
+    "tipnr": [
+      "Shechem@Num.26.31-Jos"
+    ],
+    "vizbible": [
+      "rec9Bpn3kiykILSEY"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Shechem.2",
+  "ubsdbh": [
+    "007356001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shechemites",
+      "alternate_labels": [
+        "Shechem"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shechemites",
+          "article": "group:Shechem",
+          "description": "People descended from Shechem."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026031"
+  ],
+  "references": [
+    "04026031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260310062"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o070090030191",
+          "o070090030192",
+          "o070090030201"
+        ]
+      }
+    ]
+  }
+}

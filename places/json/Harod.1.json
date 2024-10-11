@@ -1,0 +1,37 @@
+{
+  "id": "place:Harod.1",
+  "primary_id": "place:Harod.1",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Harod.1",
+          "gloss": "Spring of Harod",
+          "description": "The location where Gideon encamped with his army before attacking the MIdianites."
+        }
+      ],
+      "preferred_label": "Spring of Harod",
+      "alternate_labels": [
+        "En-Harod",
+        "En Harod",
+        "En-harod"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "spring"
+    ]
+  },
+  "key_references": [
+    "07007001"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "person:Omri.2",
+  "primary_id": "person:Omri.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7492|Omri|TyndaleBibleDictionary",
+      "26921|Omri|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "005524001002000"
+    ],
+    "tipnr": [
+      "Omri@1Ch.7.8"
+    ],
+    "vizbible": [
+      "recmUIXx2a2PORKrA"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Becher",
+  "siblings": [
+    "person:Zemirah",
+    "person:Joash.7",
+    "person:Eliezer.4",
+    "person:Elioenai.3",
+    "person:Jeremoth",
+    "person:Abijah.5",
+    "person:Anathoth",
+    "person:Alemeth"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005524001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Omri (1 Chronicles 7:8)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Omri (1 Chronicles 7:8)",
+          "article": "person:Omri.2",
+          "description": "Omri, mentioned in 1 Chronicles 7:8, is a man of the tribe of Benjamin living at the time of the exodus from Egypt, who is the son of Becher and has many brothers."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַמְרָם"
+    ]
+  },
+  "key_references": [
+    "13007008"
+  ],
+  "references": [
+    "13007008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070080072"
+      ]
+    ]
+  }
+}

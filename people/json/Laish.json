@@ -1,0 +1,56 @@
+{
+  "id": "person:Laish",
+  "primary_id": "person:Laish",
+  "alternate_sources": {
+    "aquifer": [
+      "6666|Laish (Person)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Laish@1Sa.25.44-2Sa"
+    ],
+    "vizbible": [
+      "recGBc9IjkkuM81Ii"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Palti.2"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Laish",
+      "alternate_labels": [
+        "Lush"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Laish",
+          "article": "person:Laish",
+          "description": "A man living during the time of Israel's united kingdom, mentioned in 1 Samuel 25:44 as the father of Palti."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09025044",
+    "10003015"
+  ],
+  "references": [
+    "09025044",
+    "10003015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090250440101"
+      ],
+      [
+        "o100030150111"
+      ]
+    ]
+  }
+}

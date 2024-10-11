@@ -1,0 +1,77 @@
+{
+  "id": "person:Dumah",
+  "primary_id": "person:Dumah",
+  "alternate_sources": {
+    "aquifer": [
+      "4903|Dumah (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001604002001000"
+    ],
+    "tipnr": [
+      "Dumah@Gen.25.14-1Ch"
+    ],
+    "vizbible": [
+      "reciTOiofEcluMAI4"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Kedemah",
+    "person:Mahalath"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "001604002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dumah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Dumah",
+          "article": "person:Dumah",
+          "description": "Dumah, son of Ishmael and grandson of Abraham, was an Arab living at the time of the patriarchs, mentioned in Genesis 25:14."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דּוּמָה"
+    ]
+  },
+  "key_references": [
+    "01025014",
+    "13001030"
+  ],
+  "references": [
+    "01025014",
+    "13001030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250140022"
+      ],
+      [
+        "o130010300022"
+      ]
+    ]
+  }
+}

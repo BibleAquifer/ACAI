@@ -1,0 +1,88 @@
+{
+  "id": "place:Ham.2",
+  "primary_id": "place:Ham.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5631|Ham (Place)|TyndaleBibleDictionary",
+      "26671|Ham|UWTranslationWords",
+      "132188|Ham|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002326003001000",
+      "002326003002000"
+    ],
+    "tipnr": [
+      "Ham@1Ch.4.40-Psa"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002326003001000",
+    "002326003002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ham (Egypt)",
+      "alternate_labels": [
+        "Egyptian",
+        "Ham"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ham.2",
+          "gloss": "Ham (Egypt)",
+          "description": "A nation; another name for Egypt."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חָם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "key_references": [
+    "19078051"
+  ],
+  "references": [
+    "13004040",
+    "19078051",
+    "19105023",
+    "19105027",
+    "19106022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040400121"
+      ],
+      [
+        "o190780510081"
+      ],
+      [
+        "o191050230071"
+      ],
+      [
+        "o191050270071"
+      ],
+      [
+        "o191060220031"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "person:Parnach",
+  "primary_id": "person:Parnach",
+  "alternate_sources": {
+    "aquifer": [
+      "7587|Parnach|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006011001001000"
+    ],
+    "tipnr": [
+      "Parnach@Num.34.25"
+    ],
+    "vizbible": [
+      "recnQR2EciP96oydz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Elizaphan.2"
+  ],
+  "ubsdbh": [
+    "006011001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Parnach",
+      "alternate_labels": [
+        "Parnak"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Parnach",
+          "article": "person:Parnach",
+          "description": "Parnach, also called Parnak, lived during the time of Egypt and the wilderness and is mentioned in Numbers 34:25 as the father of Elizaphan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04034025"
+  ],
+  "references": [
+    "04034025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340250071"
+      ]
+    ]
+  }
+}

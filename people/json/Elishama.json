@@ -1,0 +1,87 @@
+{
+  "id": "person:Elishama",
+  "primary_id": "person:Elishama",
+  "alternate_sources": {
+    "aquifer": [
+      "5023|Elishama|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000440001001000"
+    ],
+    "tipnr": [
+      "Elishama@Num.1.10-1Ch"
+    ],
+    "vizbible": [
+      "recgke4zteQ8qcAk0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ammihud",
+  "offspring": [
+    "person:Nun"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Ephraim",
+  "ubsdbh": [
+    "000440001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elishama",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elishama",
+          "article": "person:Elishama",
+          "description": "A son of Ammihud and chief of the tribe of Ephraim during the time of the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִישָׁמָע"
+    ]
+  },
+  "key_references": [
+    "04001010",
+    "04002018",
+    "04007048"
+  ],
+  "references": [
+    "04001010",
+    "04002018",
+    "04007048",
+    "04007053",
+    "04010022",
+    "13007026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010100041"
+      ],
+      [
+        "o040020180091"
+      ],
+      [
+        "o040070480061"
+      ],
+      [
+        "o040070530151"
+      ],
+      [
+        "o040100220091"
+      ],
+      [
+        "o130070260051"
+      ]
+    ]
+  }
+}

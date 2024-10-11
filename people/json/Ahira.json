@@ -1,0 +1,78 @@
+{
+  "id": "person:Ahira",
+  "primary_id": "person:Ahira",
+  "alternate_sources": {
+    "aquifer": [
+      "3455|Ahira|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000283001001000"
+    ],
+    "tipnr": [
+      "Ahira@Num.1.15-"
+    ],
+    "vizbible": [
+      "recZoEyK9nqfNB6C5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Enan",
+  "roles": [
+    "Patriarch"
+  ],
+  "ubsdbh": [
+    "000283001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahira",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahira",
+          "article": "person:Ahira",
+          "description": "The chief of the tribe of Naphtali during the time of Moses. He was a son of Enan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲחִירַע"
+    ]
+  },
+  "key_references": [
+    "04001015",
+    "04002029",
+    "04010027"
+  ],
+  "references": [
+    "04001015",
+    "04002029",
+    "04007078",
+    "04007083",
+    "04010027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010150021"
+      ],
+      [
+        "o040020290061"
+      ],
+      [
+        "o040070780081"
+      ],
+      [
+        "o040070830151"
+      ],
+      [
+        "o040100270061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "realia:Turban.2",
+  "primary_id": "realia:Turban.2",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006254001001000",
+      "006255001001000"
+    ],
+    "ubsrealia": [
+      "realia:6.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006254001001000",
+    "006255001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Turban",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Turban",
+          "article": "realia:Turban.2",
+          "description": "A cloth wound around the head, worn by both priests and ordinary people."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צָנִיף",
+      "צְנִיפָה"
+    ]
+  },
+  "key_references": [
+    "23003023",
+    "23062003",
+    "38003005"
+  ],
+  "references": [
+    "18029014",
+    "23003023",
+    "23062003",
+    "38003005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180290140052"
+      ],
+      [
+        "o230620030072"
+      ],
+      [
+        "o380030050031"
+      ],
+      [
+        "o380030050082"
+      ],
+      [
+        "o230030230033"
+      ]
+    ]
+  }
+}

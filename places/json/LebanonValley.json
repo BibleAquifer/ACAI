@@ -1,0 +1,101 @@
+{
+  "id": "place:LebanonValley",
+  "primary_id": "place:LebanonValley",
+  "alternate_sources": {
+    "obi": [
+      "ac2192b"
+    ],
+    "ubsdbh": [
+      "003514001001000",
+      "001144001001000"
+    ],
+    "tipnr": [
+      "Lebanon_Valley@Jos.11.17-"
+    ],
+    "vizbible": [
+      "recHRWYJ7bcqopj4i"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003514001001000",
+    "001144001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Lebanon",
+      "alternate_labels": [
+        "Lebanon Valley"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfLebanon",
+          "gloss": "Valley of Lebanon",
+          "description": "A valley between the Lebanon and Anti-Lebanon mountains."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:LebanonMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "לְבָנֹון",
+      "לְבָנוֹן",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.41615982",
+      "lon": "35.85725618"
+    },
+    "vizbible": {
+      "lat": "33.41615982",
+      "lon": "35.85725618"
+    }
+  },
+  "key_references": [
+    "06011017",
+    "06012007"
+  ],
+  "references": [
+    "06011017",
+    "06012007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110170092"
+      ],
+      [
+        "o060110170102"
+      ],
+      [
+        "o060120070142"
+      ],
+      [
+        "o060120070152"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "place:Trapezus",
+  "primary_id": "place:Trapezus",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Trapezus",
+          "gloss": "Trapezus",
+          "description": "A city on the southern coast of the Black Sea in Asia Minor; modern-day Trabzon, Turkey."
+        }
+      ],
+      "preferred_label": "Trapezus",
+      "alternate_labels": [
+        "Trabzon",
+        "Trebizond"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "41.00427",
+      "lon": "39.72331"
+    }
+  }
+}

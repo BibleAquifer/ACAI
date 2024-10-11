@@ -1,0 +1,89 @@
+{
+  "id": "place:Kabzeel",
+  "primary_id": "place:Kabzeel",
+  "alternate_sources": {
+    "aquifer": [
+      "6508|Kabzeel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006360001001000"
+    ],
+    "tipnr": [
+      "Kabzeel@Jos.15.21-1Ch"
+    ],
+    "vizbible": [
+      "recAiaG6JoV8gdChq"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006360001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kabzeel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kabzeel",
+          "gloss": "Kabzeel",
+          "description": "A town in the territory of Judah; also known as Jekabzeel."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.1858",
+      "lon": "34.96745"
+    },
+    "vizbible": {
+      "lat": "31.1858",
+      "lon": "34.96745"
+    }
+  },
+  "key_references": [
+    "06015021",
+    "10023020"
+  ],
+  "references": [
+    "06015021",
+    "10023020",
+    "13011022",
+    "16011025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150210111"
+      ],
+      [
+        "o100230200102"
+      ],
+      [
+        "o130110220101"
+      ]
+    ]
+  }
+}

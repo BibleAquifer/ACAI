@@ -1,0 +1,167 @@
+{
+  "id": "place:SinaiWilderness",
+  "primary_id": "place:SinaiWilderness",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005052001001000",
+      "003713001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/746813"
+    ],
+    "tipnr": [
+      "Sinai_Wilderness@Exo.19.1-Num"
+    ],
+    "vizbible": [
+      "rec6V51IWkgvAcnOU"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005052001001000",
+    "003713001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wilderness of Sinai",
+      "alternate_labels": [
+        "Desert of Sinai",
+        "Sinai",
+        "Sinai desert",
+        "Sinai Wilderness"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:WildernessOfSinai",
+          "gloss": "Wilderness of Sinai",
+          "description": "A desert region in the Sinai Peninsula, near Mount Sinai, through which the Israelites traveled during the exodus."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:SinaiMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "סִינִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "wilderness"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.539722",
+      "lon": "33.973333"
+    },
+    "recogito": {
+      "lat": "29.5",
+      "lon": "34"
+    },
+    "vizbible": {
+      "lat": "29.5",
+      "lon": "34"
+    }
+  },
+  "key_references": [
+    "44007030",
+    "02019002",
+    "04001001"
+  ],
+  "references": [
+    "02019001",
+    "02019002",
+    "03007038",
+    "04001001",
+    "04001019",
+    "04003004",
+    "04003014",
+    "04009001",
+    "04009005",
+    "04010012",
+    "04026064",
+    "04033015",
+    "04033016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020190010111",
+        "o020190010121"
+      ],
+      [
+        "o020190020041",
+        "o020190020051"
+      ],
+      [
+        "o020190020072"
+      ],
+      [
+        "o030070380071"
+      ],
+      [
+        "o030070380172",
+        "o030070380181"
+      ],
+      [
+        "o040010010052",
+        "o040010010061"
+      ],
+      [
+        "o040010190072",
+        "o040010190081"
+      ],
+      [
+        "o040030040112",
+        "o040030040121"
+      ],
+      [
+        "o040030140052",
+        "o040030140061"
+      ],
+      [
+        "o040090010052",
+        "o040090010061"
+      ],
+      [
+        "o040090050112",
+        "o040090050121"
+      ],
+      [
+        "o040100120052",
+        "o040100120061"
+      ],
+      [
+        "o040100120092"
+      ],
+      [
+        "o040260640142",
+        "o040260640151"
+      ],
+      [
+        "o040330150042",
+        "o040330150051"
+      ],
+      [
+        "o040330160022",
+        "o040330160031"
+      ]
+    ]
+  }
+}

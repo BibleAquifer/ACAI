@@ -1,0 +1,60 @@
+{
+  "id": "person:WifeOfEliphaz",
+  "primary_id": "person:WifeOfEliphaz",
+  "alternate_sources": {
+    "tipnr": [
+      "wife_of_Eliphaz@Gen.36.4-1Ch"
+    ],
+    "vizbible": [
+      "rec5NX8uW1K4csGEj"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Eliphaz"
+  ],
+  "offspring": [
+    "person:Teman",
+    "person:Omar",
+    "person:Zepho",
+    "person:Gatam",
+    "person:Kenaz",
+    "person:Korah.2"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wife of Eliphaz",
+      "alternate_labels": [
+        "Eliphaz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wife of Eliphaz",
+          "article": "person:WifeOfEliphaz",
+          "description": "The Wife of Eliphaz is an unnamed Edomite woman from the time of the patriarchs, mentioned in Genesis 36:11 as the mother of Teman, Omar, Zepho, Gatam, Kenaz, and Korah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036004",
+    "01036010",
+    "01036011",
+    "01036012"
+  ],
+  "references": [
+    "01036004",
+    "01036010",
+    "01036011",
+    "01036012",
+    "01036015",
+    "01036016",
+    "13001035",
+    "13001036"
+  ]
+}

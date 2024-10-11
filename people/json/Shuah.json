@@ -1,0 +1,68 @@
+{
+  "id": "person:Shuah",
+  "primary_id": "person:Shuah",
+  "alternate_sources": {
+    "aquifer": [
+      "8452|Shuah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007237001001000"
+    ],
+    "tipnr": [
+      "Shuah@Gen.25.2-1Ch"
+    ],
+    "vizbible": [
+      "recqSyeC1xpLiN4R3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abraham",
+  "mother": "person:Keturah",
+  "siblings": [
+    "person:Ishmael",
+    "person:Isaac",
+    "person:Zimran",
+    "person:Jokshan",
+    "person:Medan",
+    "person:Midian",
+    "person:Ishbak"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "007237001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shuah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shuah",
+          "article": "person:Shuah",
+          "description": "Shuah was a man living during the time of the patriarchs, first mentioned in Genesis 25:2, and was a son of Abraham and Keturah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01025002",
+    "13001032"
+  ],
+  "references": [
+    "01025002",
+    "13001032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250020141"
+      ],
+      [
+        "o130010320122"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "place:OlivesMount",
+  "primary_id": "place:OlivesMount",
+  "alternate_sources": {
+    "aquifer": [
+      "7230|Mount of Olives|TyndaleBibleDictionary",
+      "26892|Mount of Olives|UWTranslationWords",
+      "132009|Mount of Olives|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "ac2c4c5"
+    ],
+    "tipnr": [
+      "Olives_Mount@2Sa.15.30-Act"
+    ],
+    "vizbible": [
+      "rec5wqkJ6JXv03dvF"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q205976"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount of Olives",
+      "alternate_labels": [
+        "Olive Grove",
+        "Mount of Corruption",
+        "Ascent of the Mount of Olives",
+        "Hill of Corruption",
+        "Ascent of the Olives",
+        "Mount",
+        "Mountain of Destruction",
+        "Mount of Destruction",
+        "Olivet",
+        "mount Olivet",
+        "Olives"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountOfOlives",
+          "gloss": "Mount of Olives",
+          "description": "A mountain, named for its olive groves, east of Jerusalem and the Kidron Valley and near Gethsemane; an important location during the final week of Jesus' life. The southern peak, where Solomon built shrines to Chemosh and Molech (1Ki 11:7), is often referred to as the \"Mount of Offense.\" "
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Jerusalem",
+    "place:Kidron",
+    "place:Gethsemane"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "obi": [
+      "hill"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.77809503",
+      "lon": "35.24719761"
+    },
+    "vizbible": {
+      "lat": "31.77809503",
+      "lon": "35.24719761"
+    },
+    "biblica-maps": {
+      "lat": "31.77534",
+      "lon": "35.2407"
+    }
+  },
+  "key_references": [
+    "38014003",
+    "42022039",
+    "41013003",
+    "42019029",
+    "10015030",
+    "40021001",
+    "44001012",
+    "41011001"
+  ],
+  "references": [
+    "10015030",
+    "10015032",
+    "10016001",
+    "11011007",
+    "12023013",
+    "38014004",
+    "40021001",
+    "40024003",
+    "40026030",
+    "41011001",
+    "41013003",
+    "41014026",
+    "42019029",
+    "42019037",
+    "42021037",
+    "42022039",
+    "43008001",
+    "44001012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100150300042"
+      ],
+      [
+        "o380140040072"
+      ],
+      [
+        "o380140040152"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42019029014"
+      ],
+      [
+        "n42021037019"
+      ],
+      [
+        "n44001012009"
+      ]
+    ]
+  }
+}

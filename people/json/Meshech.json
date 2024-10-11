@@ -1,0 +1,65 @@
+{
+  "id": "person:Meshech",
+  "primary_id": "person:Mash",
+  "alternate_sources": {
+    "aquifer": [
+      "7080|Meshech|TyndaleBibleDictionary",
+      "26871|Meshech|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "004488002002000"
+    ],
+    "tipnr": [
+      "Meshech|Mash@Gen.10.23-1Ch"
+    ],
+    "vizbible": [
+      "recw0MQvn8ztexlJX"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Aram",
+  "siblings": [
+    "person:Uz",
+    "person:Hul",
+    "person:Gether"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "004488002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meshech (Mash)",
+      "alternate_labels": [
+        "Mash"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mash",
+          "article": "person:Meshech",
+          "description": "A son of Aram and brother of Uz, Hul, and Gether, mentioned in Genesis 10:23 and also called Mash."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Mash"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13001017"
+  ],
+  "references": [
+    "13001017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130010170112"
+      ]
+    ]
+  }
+}

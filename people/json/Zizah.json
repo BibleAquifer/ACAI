@@ -1,0 +1,62 @@
+{
+  "id": "person:Zizah",
+  "primary_id": "person:Zizah",
+  "alternate_sources": {
+    "tipnr": [
+      "Zizah@1Ch.23.10-",
+      "Zina|Zizah@1Ch.23.10-"
+    ],
+    "vizbible": [
+      "recbfBaBltG4FvWch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shimei.4",
+  "siblings": [
+    "person:Jahath.2",
+    "person:Jeush.4",
+    "person:Beriah.4"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zizah",
+      "alternate_labels": [
+        "Zina",
+        "Ziza"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zizah",
+          "article": "person:Zizah",
+          "description": "Zizah, also known as Zina, was a Levite living during the time of Egypt and the wilderness, son of Shimei and brother of Jahath, Jeush, and Beriah, mentioned in 1 Chronicles 23:10."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zina"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13023010",
+    "13023011"
+  ],
+  "references": [
+    "13023010",
+    "13023011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230100041"
+      ],
+      [
+        "o130230110042"
+      ]
+    ]
+  }
+}

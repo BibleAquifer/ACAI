@@ -1,0 +1,66 @@
+{
+  "id": "person:Arad",
+  "primary_id": "person:Arad",
+  "alternate_sources": {
+    "aquifer": [
+      "3690|Arad (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005655001002000"
+    ],
+    "tipnr": [
+      "Arad@1Ch.8.15"
+    ],
+    "vizbible": [
+      "recr3DvMFXPUQs5QO"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Beriah.3",
+  "siblings": [
+    "person:Ahio.2",
+    "person:Shashak",
+    "person:Jeremoth.2",
+    "person:Zebadiah",
+    "person:Eder",
+    "person:Michael.6",
+    "person:Ishpah",
+    "person:Joha"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005655001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arad",
+      "alternate_labels": [
+        "Ader"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Arad",
+          "article": "person:Arad",
+          "description": "A man of the tribe of Benjamin from the time of Egypt and the wilderness, son of Beriah, mentioned in 1 Chronicles 8:15."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008015"
+  ],
+  "references": [
+    "13008015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080150022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "group:Buzites",
+  "primary_id": "group:Buzites",
+  "alternate_sources": {
+    "tipnr": [
+      "Buzites@Job.32.2-"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Buz",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Buzites",
+      "alternate_labels": [
+        "Buzite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Buzites",
+          "article": "group:Buzites",
+          "description": "People who lived in Buz. One of Job's conversation partners, Elihu, descended from a Buzite."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "18032002",
+    "18032006"
+  ],
+  "references": [
+    "18032002",
+    "18032006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180320020062"
+      ],
+      [
+        "o180320060052"
+      ]
+    ]
+  }
+}

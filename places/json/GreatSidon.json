@@ -1,0 +1,86 @@
+{
+  "id": "place:GreatSidon",
+  "primary_id": "place:Sidon",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006185001002000",
+      "006654001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21115"
+    ],
+    "tipnr": [
+      "Great_Sidon|Sidon@Gen.10.19-Act"
+    ],
+    "vizbible": [
+      "recRBhWSqBkqZk8fe"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006185001002000",
+    "006654001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Great Sidon",
+      "alternate_labels": [
+        "Sidon (Zidon)",
+        "great Zidon",
+        "Abdon",
+        "Hebron",
+        "Greater Sidon",
+        "Sidon the Great",
+        "Sidon"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Sidon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.56316734",
+      "lon": "35.36634649"
+    },
+    "recogito": {
+      "lat": "33.560243",
+      "lon": "35.371208"
+    },
+    "vizbible": {
+      "lat": "33.560243",
+      "lon": "35.371208"
+    }
+  },
+  "key_references": [
+    "06011008",
+    "06019028"
+  ],
+  "references": [
+    "06011008",
+    "06019028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110080081",
+        "o060110080091"
+      ],
+      [
+        "o060190280061",
+        "o060190280071"
+      ]
+    ]
+  }
+}

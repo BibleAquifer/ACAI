@@ -1,0 +1,80 @@
+{
+  "id": "place:Taanath-shiloh",
+  "primary_id": "place:Taanath-shiloh",
+  "alternate_sources": {
+    "aquifer": [
+      "8689|Taanath-Shiloh|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5d37f9"
+    ],
+    "ubsdbh": [
+      "007693001001000"
+    ],
+    "tipnr": [
+      "Taanath-shiloh@Jos.16.6"
+    ],
+    "vizbible": [
+      "recSB0XE8xrDrg77g"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007693001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Taanath-shiloh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Taanath-shiloh",
+          "gloss": "Taanath-shiloh",
+          "description": "A town in the territory of Ephraim."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.15",
+      "lon": "35.383333"
+    },
+    "vizbible": {
+      "lat": "32.15",
+      "lon": "35.383333"
+    }
+  },
+  "key_references": [
+    "06016006"
+  ],
+  "references": [
+    "06016006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060160060091",
+        "o060160060101"
+      ]
+    ]
+  }
+}

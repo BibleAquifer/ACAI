@@ -1,0 +1,115 @@
+{
+  "id": "place:Riblah.2",
+  "primary_id": "place:Riblah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8033|Riblah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Riblah@2Ki.23.33-Ezk"
+    ],
+    "vizbible": [
+      "recwejjn5PDlbkVgH"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Riblah",
+      "alternate_labels": [
+        "Diblah",
+        "Diblath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Riblah.1",
+          "gloss": "Riblah",
+          "description": "A town on the Orontes River in Syria; also known as Diblah."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "34.431703",
+      "lon": "36.545259"
+    },
+    "vizbible": {
+      "lat": "34.431703",
+      "lon": "36.545259"
+    }
+  },
+  "key_references": [
+    "12025020",
+    "26006014",
+    "12023033"
+  ],
+  "references": [
+    "12023033",
+    "12025006",
+    "12025020",
+    "12025021",
+    "24039005",
+    "24039006",
+    "24052009",
+    "24052010",
+    "24052026",
+    "24052027",
+    "26006014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120230330042"
+      ],
+      [
+        "o120250060091"
+      ],
+      [
+        "o120250200111"
+      ],
+      [
+        "o120250210062"
+      ],
+      [
+        "o240390050171"
+      ],
+      [
+        "o240390060072"
+      ],
+      [
+        "o240520090091"
+      ],
+      [
+        "o240520100142"
+      ],
+      [
+        "o240520260111"
+      ],
+      [
+        "o240520270062"
+      ],
+      [
+        "o260060140111"
+      ]
+    ]
+  }
+}

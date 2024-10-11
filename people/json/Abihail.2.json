@@ -1,0 +1,65 @@
+{
+  "id": "person:Abihail.2",
+  "primary_id": "person:Abihail.2",
+  "alternate_sources": {
+    "aquifer": [
+      "3298|Abihail|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000031001001000"
+    ],
+    "tipnr": [
+      "Abihail@1Ch.2.29"
+    ],
+    "vizbible": [
+      "rechhN5YqUBNAiy49"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Abishur"
+  ],
+  "offspring": [
+    "person:Ahban",
+    "person:Molid"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000031001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abihail (Wife of Abishur)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abihail (Wife of Abishur)",
+          "article": "person:Abihail.2",
+          "description": "The wife of Abishur from the tribe of Judah and mother of Ahban and Molid, mentioned in 1 Chronicles 2:29."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִיהַיִל",
+      "אֲבִיחַ֫יִל"
+    ]
+  },
+  "key_references": [
+    "13002029"
+  ],
+  "references": [
+    "13002029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020290041"
+      ]
+    ]
+  }
+}

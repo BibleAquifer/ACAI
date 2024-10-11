@@ -1,0 +1,82 @@
+{
+  "id": "realia:Breeches",
+  "primary_id": "realia:Breeches",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003993001001000"
+    ],
+    "ubsrealia": [
+      "realia:4.5.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003993001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Breeches",
+      "alternate_labels": [
+        "Drawers"
+      ],
+      "descriptions": []
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִכְנָסַיִם"
+    ]
+  },
+  "references": [
+    "02028042",
+    "02039028",
+    "03006003",
+    "03016004",
+    "26044018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020280420031"
+      ],
+      [
+        "o020390280091"
+      ],
+      [
+        "o030060030052"
+      ],
+      [
+        "o030160040052"
+      ],
+      [
+        "o260440180062"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o030160040181"
+      ],
+      [
+        "o030160040233"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020280420052"
+      ],
+      [
+        "o020280420111"
+      ],
+      [
+        "o020280430012"
+      ]
+    ]
+  }
+}

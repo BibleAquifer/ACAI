@@ -1,0 +1,67 @@
+{
+  "id": "person:Sluggard",
+  "primary_id": "person:Sluggard",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Lazy Person",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Lazy Person",
+          "description": "A lazy person (sluggard)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "20022013",
+    "20026013"
+  ],
+  "references": [
+    "20022013",
+    "20026013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o200220130021"
+      ],
+      [
+        "o200260130021"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o200220130031",
+          "o200220130041",
+          "o200220130041ה",
+          "o200220130042",
+          "o200220130051",
+          "o200220130052",
+          "o200220130061",
+          "o200220130071"
+        ]
+      },
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o200260130031",
+          "o200260130041",
+          "o200260130041ה",
+          "o200260130042",
+          "o200260130051",
+          "o200260130061",
+          "o200260130071",
+          "o200260130072"
+        ]
+      }
+    ]
+  }
+}

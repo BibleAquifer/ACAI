@@ -1,0 +1,107 @@
+{
+  "id": "person:Adoni-zedek",
+  "primary_id": "person:Adoni-zedek",
+  "alternate_sources": {
+    "aquifer": [
+      "3394|Adoni-Zedek|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000138001001000"
+    ],
+    "tipnr": [
+      "Adoni-zedek@Jos.10.1-"
+    ],
+    "vizbible": [
+      "recoxzEU25yFcODPV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "ubsdbh": [
+    "000138001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adoni-zedek",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Adoni-Zedek",
+          "article": "person:Adoni-zedek",
+          "description": "A king of Jerusalem living during the time of Joshua, first mentioned in Joshua 10:1."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲדֹנִי־צֶדֶק",
+      "אֲדֹנִי־צֶ֫דֶק"
+    ]
+  },
+  "key_references": [
+    "06010001",
+    "06010003"
+  ],
+  "references": [
+    "06010001",
+    "06010003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100010031",
+        "o060100010041"
+      ],
+      [
+        "o060100030021",
+        "o060100030031"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o060100020012"
+      ],
+      [
+        "o060100030222"
+      ],
+      [
+        "o060100040042"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o060100040011",
+          "o060100040021",
+          "o060100040022",
+          "o060100040031",
+          "o060100040032",
+          "o060100040033",
+          "o060100040041",
+          "o060100040042",
+          "o060100040051",
+          "o060100040061",
+          "o060100040071",
+          "o060100040081",
+          "o060100040091",
+          "o060100040101",
+          "o060100040111",
+          "o060100040112",
+          "o060100040121",
+          "o060100040131"
+        ]
+      }
+    ]
+  }
+}

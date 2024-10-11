@@ -1,0 +1,67 @@
+{
+  "id": "person:Philip.3",
+  "primary_id": "person:Philip.3",
+  "alternate_sources": {
+    "aquifer": [
+      "7712|Philip|TyndaleBibleDictionary",
+      "26954|Philip|UWTranslationWords",
+      "132049|Philip|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.379b"
+    ],
+    "tipnr": [
+      "Philip@Luk.3.1"
+    ],
+    "vizbible": [
+      "recx0hTyIHDVaLNbu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Herod",
+  "siblings": [
+    "person:Archelaus",
+    "person:Herod.2",
+    "person:Philip.2"
+  ],
+  "roles": [
+    "Governor"
+  ],
+  "ubsdgnt": [
+    "93.379b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Philip (Brother of Herod Antipas)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Philip (Brother of Herod Antipas)",
+          "article": "person:Philip.3",
+          "description": "Son of Herod the Great and brother of Herod Antipas. He was governor of Ituraea and Trachonitis."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Φίλιππος"
+    ]
+  },
+  "key_references": [
+    "42003001"
+  ],
+  "references": [
+    "42003001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003001019"
+      ]
+    ]
+  }
+}

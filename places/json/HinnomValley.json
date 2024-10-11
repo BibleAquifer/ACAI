@@ -1,0 +1,197 @@
+{
+  "id": "place:HinnomValley",
+  "primary_id": "place:HinnomValley",
+  "alternate_sources": {
+    "aquifer": [
+      "8998|Valley of Hinnom|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a37c8e6"
+    ],
+    "tipnr": [
+      "Hinnom_Valley@Jos.15.8-Jer",
+      "Valley_of_Slaughter|Hinnom_Valley@Jos.15.8-Jer"
+    ],
+    "vizbible": [
+      "recsoRbSuiqYLSGzN"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q558093"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Hinnom",
+      "alternate_labels": [
+        "Valley of the Slaughter",
+        "Valley of the Son of Hinnom",
+        "valley of the children of Hinnom",
+        "Valley of Ben-Hinnom",
+        "Valley of Slaughter",
+        "Slaughter Valley",
+        "Ben Hinnom Valley",
+        "The valley of slaughter",
+        "Hinnom Valley"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfHinnom",
+          "gloss": "Valley of Hinnom",
+          "description": "A valley west and south of Jerusalem; known for the idol worship that took place there."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:ValleyOfSlaughter"
+  ],
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.769079",
+      "lon": "35.227994"
+    },
+    "vizbible": {
+      "lat": "31.769079",
+      "lon": "35.227994"
+    }
+  },
+  "key_references": [
+    "14033006",
+    "12028003",
+    "12023010",
+    "24007031",
+    "24032035"
+  ],
+  "references": [
+    "06015008",
+    "06018016",
+    "12023010",
+    "14028003",
+    "14033006",
+    "16011030",
+    "24002023",
+    "24007031",
+    "24007032",
+    "24019002",
+    "24019006",
+    "24032035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150080031",
+        "o060150080041",
+        "o060150080051"
+      ],
+      [
+        "o060150080201",
+        "o060150080211"
+      ],
+      [
+        "o060180160091",
+        "o060180160101",
+        "o060180160111"
+      ],
+      [
+        "o060180160171",
+        "o060180160181"
+      ],
+      [
+        "o120230100052",
+        "o120230100071",
+        "o120230100081"
+      ],
+      [
+        "o120230100131"
+      ],
+      [
+        "o140280030032",
+        "o140280030041",
+        "o140280030051"
+      ],
+      [
+        "o140280030081"
+      ],
+      [
+        "o140280030161"
+      ],
+      [
+        "o140330060041"
+      ],
+      [
+        "o140330060062",
+        "o140330060071",
+        "o140330060081"
+      ],
+      [
+        "o160110300121",
+        "o160110300131"
+      ],
+      [
+        "o240070310052",
+        "o240070310061",
+        "o240070310071"
+      ],
+      [
+        "o240070310121"
+      ],
+      [
+        "o240070320112",
+        "o240070320121",
+        "o240070320131"
+      ],
+      [
+        "o240070320161"
+      ],
+      [
+        "o240070320172"
+      ],
+      [
+        "o240190020031",
+        "o240190020041",
+        "o240190020051"
+      ],
+      [
+        "o240190060132",
+        "o240190060141",
+        "o240190060151"
+      ],
+      [
+        "o240190060181"
+      ],
+      [
+        "o240190060192"
+      ],
+      [
+        "o240320350062",
+        "o240320350071",
+        "o240320350081"
+      ],
+      [
+        "o240320350111"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "person:Azariahu",
+  "primary_id": "person:Azariahu",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005358001011000"
+    ],
+    "tipnr": [
+      "Azariahu@2Ch.21.2"
+    ],
+    "vizbible": [
+      "recGM8omzST49QfAW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoshaphat.3",
+  "siblings": [
+    "person:Jehoram",
+    "person:Azariah.12",
+    "person:Jehiel.4",
+    "person:Zechariah.11",
+    "person:Michael.9",
+    "person:Shephatiah.5"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ],
+    "death_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "005358001011000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azariahu",
+      "alternate_labels": [
+        "Azariah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azariahu",
+          "article": "person:Azariahu",
+          "description": "A man of the tribe of Judah during the divided kingdom, son of Jehoshaphat, mentioned in 2 Chronicles 21:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "14021002"
+  ],
+  "references": [
+    "14021002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140210020051"
+      ],
+      [
+        "o140210020082"
+      ]
+    ]
+  }
+}

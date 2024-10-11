@@ -1,0 +1,53 @@
+{
+  "id": "realia:PotteryWheel",
+  "primary_id": "realia:PotteryWheel",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000066001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.5.1.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "000066001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pottery Wheel",
+      "alternate_labels": [
+        "Potters Wheel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pottery Wheel",
+          "article": "realia:PotteryWheel",
+          "description": "A flat, horizontal wheel used by a potter to make pottery by spinning clay."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֹבֶן"
+    ]
+  },
+  "key_references": [
+    "24018003"
+  ],
+  "references": [
+    "24018003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240180030102"
+      ]
+    ]
+  }
+}

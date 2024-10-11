@@ -1,0 +1,56 @@
+{
+  "id": "person:Shallum.5",
+  "primary_id": "person:Shallum.5",
+  "alternate_sources": {
+    "aquifer": [
+      "8266|Shallum|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007383001005000"
+    ],
+    "tipnr": [
+      "Shallum@1Ch.3.15"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Josiah",
+  "mother": "person:AWifeOfJosiah",
+  "siblings": [
+    "person:Jehoahaz.3",
+    "person:Jehoiakim",
+    "person:Zedekiah.3"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007383001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shallum (1 Chronicles 3:15)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shallum (1 Chronicles 3:15)",
+          "article": "person:Shallum.5",
+          "description": "Shallum, mentioned in 1 Chronicles 3:15, was a man of the tribe of Judah during the divided kingdom, the son of Josiah, and the half-brother of Jehoahaz, Jehoiakim, and Zedekiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13003015"
+  ],
+  "references": [
+    "13003015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030150101"
+      ]
+    ]
+  }
+}

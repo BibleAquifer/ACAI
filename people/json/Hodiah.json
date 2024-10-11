@@ -1,0 +1,68 @@
+{
+  "id": "person:Hodiah",
+  "primary_id": "person:Hodiah",
+  "alternate_sources": {
+    "aquifer": [
+      "5873|Hodiah, Hodijah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001783001001000"
+    ],
+    "tipnr": [
+      "Hodiah@1Ch.4.19"
+    ],
+    "vizbible": [
+      "recZtsoHc2qS9TsrI"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:FatherOfHodiah",
+  "partners": [
+    "person:Ishbah"
+  ],
+  "offspring": [
+    "person:SonOfHodiah"
+  ],
+  "siblings": [
+    "person:Naham"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "001783001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hodiah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hodiah",
+          "article": "person:Hodiah",
+          "description": "Hodiah, mentioned in 1 Chronicles 4:19, was a person of the tribe of Judah living during the time of the divided kingdom, possibly married to Ishbah and related to Naham."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֹודִיָּה",
+      "הוֹדִיָּה"
+    ]
+  },
+  "key_references": [
+    "13004019"
+  ],
+  "references": [
+    "13004019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040190031"
+      ]
+    ]
+  }
+}

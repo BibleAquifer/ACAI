@@ -1,0 +1,58 @@
+{
+  "id": "person:Tiria",
+  "primary_id": "person:Tiria",
+  "alternate_sources": {
+    "aquifer": [
+      "8863|Tiria|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007791001001000"
+    ],
+    "tipnr": [
+      "Tiria@1Ch.4.16"
+    ],
+    "vizbible": [
+      "recNxHwDwhNPACdJ3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehallelel",
+  "siblings": [
+    "person:Ziph.2",
+    "person:Ziphah",
+    "person:Asarel"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007791001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tiria",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tiria",
+          "article": "person:Tiria",
+          "description": "Tiria was a man from the tribe of Judah living during the time of the divided kingdom, mentioned in 1 Chronicles 4:16 as a son of Jehallelel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004016"
+  ],
+  "references": [
+    "13004016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040160051"
+      ]
+    ]
+  }
+}

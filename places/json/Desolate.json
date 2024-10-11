@@ -1,0 +1,49 @@
+{
+  "id": "place:Desolate",
+  "primary_id": "place:Jerusalem",
+  "alternate_sources": {
+    "aquifer": [
+      "26521|Desolate|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "007467001001000"
+    ],
+    "tipnr": [
+      "Desolate|Jerusalem@Jos.10.1-Rev"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007467001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Desolate",
+      "alternate_labels": [
+        "Jerusalem"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "key_references": [
+    "23062004"
+  ],
+  "references": [
+    "23062004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230620040101"
+      ]
+    ]
+  }
+}

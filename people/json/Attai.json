@@ -1,0 +1,62 @@
+{
+  "id": "person:Attai",
+  "primary_id": "person:Attai",
+  "alternate_sources": {
+    "aquifer": [
+      "3870|Attai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005745001001000"
+    ],
+    "tipnr": [
+      "Attai@1Ch.2.35-"
+    ],
+    "vizbible": [
+      "recQLWPuDWnzxSowQ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jarha",
+  "mother": "person:Ahlai",
+  "offspring": [
+    "person:Nathan.4"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005745001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Attai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Attai",
+          "article": "person:Attai",
+          "description": "A man of the tribe of Judah living during the divided kingdom, son of Jarha and Ahlai, first mentioned in 1 Chronicles 2:35."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002035",
+    "13002036"
+  ],
+  "references": [
+    "13002035",
+    "13002036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020350111"
+      ],
+      [
+        "o130020360012"
+      ]
+    ]
+  }
+}

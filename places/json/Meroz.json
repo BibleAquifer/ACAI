@@ -1,0 +1,72 @@
+{
+  "id": "place:Meroz",
+  "primary_id": "place:Meroz",
+  "alternate_sources": {
+    "aquifer": [
+      "7075|Meroz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004383001001000"
+    ],
+    "tipnr": [
+      "Meroz@Jdg.5.23"
+    ],
+    "vizbible": [
+      "recFf6R5Ox2Axt85p"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004383001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meroz",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Meroz",
+          "gloss": "Meroz",
+          "description": "A town north of Canaan cursed by Deborah because of their unwillingness to help Barak's army in their fight against the army of Sisera. "
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.68695640243183",
+      "lon": "35.39091304299688"
+    },
+    "vizbible": {
+      "lat": "32.68695640243183",
+      "lon": "35.39091304299688"
+    }
+  },
+  "key_references": [
+    "07005023"
+  ],
+  "references": [
+    "07005023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070050230021"
+      ]
+    ]
+  }
+}

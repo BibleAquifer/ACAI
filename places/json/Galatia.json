@@ -1,0 +1,179 @@
+{
+  "id": "place:Galatia",
+  "primary_id": "place:Galatia",
+  "alternate_sources": {
+    "aquifer": [
+      "5350|Galatia|TyndaleBibleDictionary",
+      "26623|Galatia|UWTranslationWords",
+      "132068|Galatia|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a0f440a"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/991393",
+      "http://pleiades.stoa.org/places/991393"
+    ],
+    "tipnr": [
+      "Galatia@Act.16.6-1Pe"
+    ],
+    "vizbible": [
+      "recuiNskL8Wft4eRh"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1249412"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Galatia",
+      "alternate_labels": [
+        "Galatian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Galatia",
+          "gloss": "Galatia",
+          "description": "A district in the Roman province of Asia; the letter to the Galatians is addressed to the church here."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Galatia"
+  ],
+  "nearby_places": [
+    "place:Bithynia",
+    "place:Cappadocia",
+    "place:Asia",
+    "place:Pontus",
+    "place:Lycia",
+    "place:Pamphylia",
+    "place:Phrygia"
+  ],
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.57813498250009",
+      "lon": "32.45318282875567"
+    },
+    "recogito": {
+      "lat": "37.5",
+      "lon": "32.5"
+    },
+    "vizbible": {
+      "lat": "37.5",
+      "lon": "32.5"
+    }
+  },
+  "key_references": [
+    "44016006",
+    "48001001",
+    "60001001",
+    "44018023"
+  ],
+  "references": [
+    "44016006",
+    "44018023",
+    "46016001",
+    "48001002",
+    "48003001",
+    "48006018",
+    "55004010",
+    "60001001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44016006006"
+      ],
+      [
+        "n44018023009"
+      ],
+      [
+        "n46016001014"
+      ],
+      [
+        "n48001002010"
+      ],
+      [
+        "n48003001003"
+      ],
+      [
+        "n55004010015"
+      ],
+      [
+        "n60001001009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n48003001005"
+      ],
+      [
+        "n48003001007"
+      ],
+      [
+        "n48003002006"
+      ],
+      [
+        "n48003005004"
+      ],
+      [
+        "n48003005011"
+      ],
+      [
+        "n48003013002"
+      ],
+      [
+        "n48003013011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n48003002012"
+      ],
+      [
+        "n48003003003",
+        "n48003003004"
+      ],
+      [
+        "n48003003008"
+      ],
+      [
+        "n48003004002"
+      ],
+      [
+        "n48003007001"
+      ],
+      [
+        "n48003014018"
+      ]
+    ]
+  }
+}

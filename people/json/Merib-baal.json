@@ -1,0 +1,74 @@
+{
+  "id": "person:Merib-baal",
+  "primary_id": "person:Mephibosheth",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004399001001000"
+    ],
+    "tipnr": [
+      "Merib-baal|Mephibosheth@2Sa.4.4-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jonathan.3",
+  "offspring": [
+    "person:Micah.2"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "004399001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Merib-baal (Mephibosheth)",
+      "alternate_labels": [
+        "Mephibosheth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mephibosheth",
+          "article": "person:Merib-baal",
+          "description": "Grandson of King Saul and son of Jonathan from the tribe of Benjamin. He lived during Israel’s united kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Mephibosheth"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008034",
+    "13009040"
+  ],
+  "references": [
+    "13008034",
+    "13009040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080340031",
+        "o130080340041"
+      ],
+      [
+        "o130080340052",
+        "o130080340061"
+      ],
+      [
+        "o130090400031",
+        "o130090400041"
+      ],
+      [
+        "o130090400052",
+        "o130090400061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "person:Ithran.2",
+  "primary_id": "person:Ithran.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6111|Ithran|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ithran@1Ch.7.37-",
+      "Jether|Ithran@1Ch.7.37-"
+    ],
+    "vizbible": [
+      "recToEHysMuMQvUug"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zophah",
+  "offspring": [
+    "person:Jephunneh.2",
+    "person:Pispa",
+    "person:Ara"
+  ],
+  "siblings": [
+    "person:Suah",
+    "person:Harnepher",
+    "person:Shual",
+    "person:Beri",
+    "person:Imrah",
+    "person:Bezer",
+    "person:Hod",
+    "person:Shamma",
+    "person:Shilshah",
+    "person:Beera"
+  ],
+  "tribe": "group:Asher",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ithran (1 Chronicles 7:37)",
+      "alternate_labels": [
+        "Jether"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ithran (1 Chronicles 7:37)",
+          "article": "person:Ithran.2",
+          "description": "A man from the tribe of Asher, son of Zophah, and father of Jephunneh, Pispa, and Ara, mentioned in 1 Chronicles 7:37-38 during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jether"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007037",
+    "13007038"
+  ],
+  "references": [
+    "13007037",
+    "13007038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070370052"
+      ],
+      [
+        "o130070380021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "person:Daniel",
+  "primary_id": "person:Chileab",
+  "alternate_sources": {
+    "aquifer": [
+      "4747|Daniel (Person)|TyndaleBibleDictionary",
+      "4745|Daniel, Additions to|TyndaleBibleDictionary",
+      "26500|Daniel|UWTranslationWords",
+      "132506|Daniel|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001695001002000"
+    ],
+    "tipnr": [
+      "Daniel|Chileab@2Sa.3.3-1Ch"
+    ],
+    "vizbible": [
+      "recyu5kO1cOOs8qIx"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:David",
+  "mother": "person:Abigail",
+  "siblings": [
+    "person:Amnon",
+    "person:Absalom",
+    "person:Adonijah",
+    "person:Shephatiah",
+    "person:Ithream",
+    "person:Shammua.2",
+    "person:Shobab",
+    "person:Nathan",
+    "person:Solomon",
+    "person:Ibhar",
+    "person:Elishua",
+    "person:Nepheg.2",
+    "person:Japhia.2",
+    "person:Elishama.2",
+    "person:Eliada",
+    "person:Eliphelet",
+    "person:Tamar.2",
+    "person:Elpelet",
+    "person:Nogah",
+    "person:Jerimoth.6"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Hebron"
+    ]
+  },
+  "ubsdbh": [
+    "001695001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Daniel (Chileab)",
+      "alternate_labels": [
+        "Chileab"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Chileab",
+          "article": "person:Daniel",
+          "description": "Daniel, also known as Chileab, was a son of King David and Abigail during Israel's united kingdom, mentioned in 2 Samuel 3:3 and 1 Chronicles 3:1."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Chileab"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דָּנִיֵּאל",
+      "דָּנִאֵל"
+    ]
+  },
+  "key_references": [
+    "13003001"
+  ],
+  "references": [
+    "13003001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030010141"
+      ]
+    ]
+  }
+}

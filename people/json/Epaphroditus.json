@@ -1,0 +1,137 @@
+{
+  "id": "person:Epaphroditus",
+  "primary_id": "person:Epaphroditus",
+  "alternate_sources": {
+    "aquifer": [
+      "5098|Epaphroditus|TyndaleBibleDictionary",
+      "132104|Epaphroditus|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.121"
+    ],
+    "tipnr": [
+      "Epaphroditus@Php.2.25-"
+    ],
+    "vizbible": [
+      "recNFr37Bx1fWoZYu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdgnt": [
+    "93.121"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Epaphroditus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Epaphroditus",
+          "article": "person:Epaphroditus",
+          "description": "Epaphroditus was a man from the New Testament, first mentioned in Philippians 2:25 as a messenger sent to Paul from the Philippian church."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἐπαφρόδιτος"
+    ]
+  },
+  "key_references": [
+    "50002025",
+    "50004018",
+    "50004023"
+  ],
+  "references": [
+    "50002025",
+    "50004018",
+    "50004023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n50002025004"
+      ],
+      [
+        "n50004018009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n50002027010"
+      ],
+      [
+        "n50002027012"
+      ],
+      [
+        "n50002028004"
+      ],
+      [
+        "n50002028007"
+      ],
+      [
+        "n50002029003"
+      ],
+      [
+        "n50002029011"
+      ],
+      [
+        "n50003003001"
+      ],
+      [
+        "n50003017013"
+      ],
+      [
+        "n50003020001"
+      ],
+      [
+        "n50003021007"
+      ],
+      [
+        "n50004020006"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n50002026002",
+        "n50002026003"
+      ],
+      [
+        "n50002026007"
+      ],
+      [
+        "n50002026011"
+      ],
+      [
+        "n50002027003"
+      ],
+      [
+        "n50002030008",
+        "n50002030009"
+      ],
+      [
+        "n50002030013"
+      ],
+      [
+        "n50003015005"
+      ],
+      [
+        "n50003016004"
+      ],
+      [
+        "n50003016007"
+      ],
+      [
+        "n50003020012"
+      ]
+    ]
+  }
+}

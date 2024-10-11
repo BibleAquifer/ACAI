@@ -1,0 +1,70 @@
+{
+  "id": "person:Jada",
+  "primary_id": "person:Jada",
+  "alternate_sources": {
+    "aquifer": [
+      "6165|Jada|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002807001001000"
+    ],
+    "tipnr": [
+      "Jada@1Ch.2.28-"
+    ],
+    "vizbible": [
+      "rec18sOltOO7wgRQW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Onam.2",
+  "offspring": [
+    "person:Jether.4",
+    "person:Jonathan.8"
+  ],
+  "siblings": [
+    "person:Shammai"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002807001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jada",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jada",
+          "article": "person:Jada",
+          "description": "A man of the tribe of Judah and descendant of Jerahmeel, first mentioned in 1 Chronicles 2:28."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָדָע"
+    ]
+  },
+  "key_references": [
+    "13002028",
+    "13002032"
+  ],
+  "references": [
+    "13002028",
+    "13002032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020280052"
+      ],
+      [
+        "o130020320021"
+      ]
+    ]
+  }
+}

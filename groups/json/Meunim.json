@@ -1,0 +1,57 @@
+{
+  "id": "group:Meunim",
+  "primary_id": "group:Meunim",
+  "alternate_sources": {
+    "aquifer": [
+      "7097|Meunim, Meunites|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Meunim@Ezr.2.50-Neh"
+    ],
+    "vizbible": [
+      "recxtmhe7rj0O6e5D"
+    ]
+  },
+  "type": "group",
+  "group_type": "religious",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Meunim",
+      "alternate_labels": [
+        "Meinim",
+        "Mehunim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Meunim",
+          "article": "group:Meunim",
+          "description": "A group of temple servants who served after the exile."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Meunites"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002050",
+    "16007052"
+  ],
+  "references": [
+    "15002050",
+    "16007052"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020500051"
+      ],
+      [
+        "o160070520041"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "person:Zeruah",
+  "primary_id": "person:Zeruah",
+  "alternate_sources": {
+    "aquifer": [
+      "9201|Zeruah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006323001001000"
+    ],
+    "tipnr": [
+      "Zeruah@1Ki.11.26"
+    ],
+    "vizbible": [
+      "recIV6dAubAaNKhLh"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Nebat"
+  ],
+  "offspring": [
+    "person:Jeroboam"
+  ],
+  "tribe": "group:Israel",
+  "ubsdbh": [
+    "006323001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zeruah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zeruah",
+          "article": "person:Zeruah",
+          "description": "Zeruah was a woman living during Israel's united kingdom, married to Nebat and mother of Jeroboam, only mentioned in 1 Kings 11:26."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11011026"
+  ],
+  "references": [
+    "11011026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110110260091"
+      ]
+    ]
+  }
+}

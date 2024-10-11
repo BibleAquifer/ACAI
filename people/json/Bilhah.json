@@ -1,0 +1,124 @@
+{
+  "id": "person:Bilhah",
+  "primary_id": "person:Bilhah",
+  "alternate_sources": {
+    "aquifer": [
+      "4242|Bilhah (Person)|TyndaleBibleDictionary",
+      "26398|Bilhah|UWTranslationWords",
+      "132235|Bilhah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001014001001000"
+    ],
+    "tipnr": [
+      "Bilhah@Gen.29.29-1Ch"
+    ],
+    "vizbible": [
+      "recdaqUcGEFXwM0Ml"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Israel"
+  ],
+  "offspring": [
+    "person:Dan",
+    "person:Naphtali"
+  ],
+  "roles": [
+    "Slave",
+    "Concubine"
+  ],
+  "ubsdbh": [
+    "001014001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bilhah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bilhah",
+          "article": "person:Bilhah",
+          "description": "The slave of the matriarch Rachel who was given to the patriarch Jacob as a concubine. She was the mother of Jacob's sons Dan and Napthali."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בִּלְהָה"
+    ]
+  },
+  "key_references": [
+    "01029029",
+    "01030003",
+    "01030004",
+    "01030005",
+    "01030006",
+    "01030007",
+    "01030008"
+  ],
+  "references": [
+    "01029029",
+    "01030003",
+    "01030004",
+    "01030005",
+    "01030007",
+    "01035022",
+    "01035025",
+    "01037002",
+    "01046025",
+    "13007013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010290290061"
+      ],
+      [
+        "o010300030041"
+      ],
+      [
+        "o010300040041"
+      ],
+      [
+        "o010300050021"
+      ],
+      [
+        "o010300070041"
+      ],
+      [
+        "o010350220101"
+      ],
+      [
+        "o010350250021"
+      ],
+      [
+        "o010370020181"
+      ],
+      [
+        "o010460250031"
+      ],
+      [
+        "o130070130081"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010300050032"
+      ],
+      [
+        "o010300070012"
+      ],
+      [
+        "o010460250092"
+      ]
+    ]
+  }
+}

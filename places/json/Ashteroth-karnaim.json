@@ -1,0 +1,92 @@
+{
+  "id": "place:Ashteroth-karnaim",
+  "primary_id": "place:Ashteroth-karnaim",
+  "alternate_sources": {
+    "aquifer": [
+      "3810|Ashteroth-Karnaim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "afe4be0"
+    ],
+    "tipnr": [
+      "Karnaim|Ashteroth-karnaim@Gen.14.5-Amo",
+      "Ashteroth-karnaim@Gen.14.5-Amo"
+    ],
+    "vizbible": [
+      "recL9dEZ2PHl7Vrrt"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2915901"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ashteroth-karnaim",
+      "alternate_labels": [
+        "Karnaim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ashteroth-karnaim",
+          "gloss": "Ashteroth-Karnaim",
+          "description": "A town in Bashan where Chedorlaomer defeated the Rephaim (Genesis 14:5); possibly to be identified with Beeshterah, Ashtaroth and Karnaim."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Beeshterah",
+    "place:Ashtaroth",
+    "place:Karnaim"
+  ],
+  "referred_to_as": [
+    "place:Karnaim"
+  ],
+  "subregion_of": [
+    "place:Bashan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.76666667",
+      "lon": "36.01666667"
+    },
+    "vizbible": {
+      "lat": "32.76666667",
+      "lon": "36.01666667"
+    }
+  },
+  "key_references": [
+    "01014005"
+  ],
+  "references": [
+    "01014005",
+    "30006013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140050122",
+        "o010140050131"
+      ],
+      [
+        "o300060130091"
+      ]
+    ]
+  }
+}

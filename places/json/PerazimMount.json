@@ -1,0 +1,81 @@
+{
+  "id": "place:PerazimMount",
+  "primary_id": "place:PerazimMount",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006030001001000"
+    ],
+    "tipnr": [
+      "Perazim_Mount@Isa.28.21"
+    ],
+    "vizbible": [
+      "recoBYzGPafFeXG1J"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006030001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Perazim",
+      "alternate_labels": [
+        "Perazim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountPerazim",
+          "gloss": "Mount Perazim",
+          "description": "A mountain where king David defeated the Philistines (2 Samuel 5:20); also known as Baal-Perazim."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Baal-perazim"
+  ],
+  "nearby_places": [
+    "place:Baal-perazim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.756332",
+      "lon": "35.223059"
+    },
+    "vizbible": {
+      "lat": "31.756332",
+      "lon": "35.223059"
+    }
+  },
+  "key_references": [
+    "23028021"
+  ],
+  "references": [
+    "23028021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230280210031"
+      ]
+    ]
+  }
+}

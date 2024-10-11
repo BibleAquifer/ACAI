@@ -1,0 +1,71 @@
+{
+  "id": "person:Benjamin.2",
+  "primary_id": "person:Benjamin.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4113|Benjamin (Person)|TyndaleBibleDictionary",
+      "4111|Benjamin, Gate of|TyndaleBibleDictionary",
+      "4114|Benjamin, Tribe of|TyndaleBibleDictionary",
+      "26384|Benjamin|UWTranslationWords",
+      "132240|Benjamin|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "001063001003000"
+    ],
+    "tipnr": [
+      "Benjamin@1Ch.7.10"
+    ],
+    "vizbible": [
+      "recHjufCGgzQ4N5Bw"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Bilhan.2",
+  "siblings": [
+    "person:Jeush.2",
+    "person:Ehud.2",
+    "person:Chenaanah.2",
+    "person:Zethan",
+    "person:Tarshish.2",
+    "person:Ahishahar"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "001063001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Benjamin (1 Chronicles 7:10)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Benjamin (1 Chronicles 7:10)",
+          "article": "person:Benjamin.2",
+          "description": "Man of the tribe of Benjamin living at the time of the divided kingdom, son of Bilhan, mentioned in 1 Chronicles 7:10."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בִּנְיָמִן",
+      "בִּנְיָמִין"
+    ]
+  },
+  "key_references": [
+    "13007010"
+  ],
+  "references": [
+    "13007010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070100082"
+      ]
+    ]
+  }
+}

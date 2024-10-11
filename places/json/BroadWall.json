@@ -1,0 +1,94 @@
+{
+  "id": "place:BroadWall",
+  "primary_id": "place:BroadWall",
+  "alternate_sources": {
+    "aquifer": [
+      "4342|Broad Wall, the|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006744001004000",
+      "002165001001000"
+    ],
+    "tipnr": [
+      "Broad_Wall@Neh.3.8-"
+    ],
+    "vizbible": [
+      "recMaqHhvN1sVoUPs"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006744001004000",
+    "002165001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Broad Wall",
+      "alternate_labels": [
+        "Wide Wall"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:BroadWall",
+          "gloss": "Broad Wall",
+          "description": "A wall in postexilic Jerusalem."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "structure"
+    ],
+    "acai": [
+      "wall"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16003008",
+    "16012038"
+  ],
+  "references": [
+    "16003008",
+    "16012038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030080172"
+      ],
+      [
+        "o160030080182"
+      ],
+      [
+        "o160120380103"
+      ],
+      [
+        "o160120380152"
+      ],
+      [
+        "o160120380162"
+      ]
+    ]
+  }
+}

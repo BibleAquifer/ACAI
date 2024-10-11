@@ -1,0 +1,51 @@
+{
+  "id": "realia:Hinge",
+  "primary_id": "realia:Hinge",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006198004001000"
+    ],
+    "ubsrealia": [
+      "realia:3.1.2.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "006198004001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hinge",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hinge",
+          "article": "realia:Hinge",
+          "description": "A pivot that allows a door or gate to open and close."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צִיר"
+    ]
+  },
+  "key_references": [
+    "20026014"
+  ],
+  "references": [
+    "20026014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o200260140041",
+        "o200260140042"
+      ]
+    ]
+  }
+}

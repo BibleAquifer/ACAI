@@ -1,0 +1,65 @@
+{
+  "id": "person:Joseph.8",
+  "primary_id": "person:Joseph.8",
+  "alternate_sources": {
+    "aquifer": [
+      "6449|Joseph|TyndaleBibleDictionary",
+      "132234|Joseph|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.202h"
+    ],
+    "tipnr": [
+      "Joseph@Luk.3.30"
+    ],
+    "vizbible": [
+      "recL4CaxHa8D0yYrQ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jonam",
+  "offspring": [
+    "person:Judah.3"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.202h"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joseph (Son of Jonam)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joseph (Son of Jonam)",
+          "article": "person:Joseph.8",
+          "description": "Son of Jonam and the father of Judah in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰωσήφ"
+    ]
+  },
+  "key_references": [
+    "42003030"
+  ],
+  "references": [
+    "42003030"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003030006"
+      ]
+    ]
+  }
+}

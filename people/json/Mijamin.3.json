@@ -1,0 +1,63 @@
+{
+  "id": "person:Mijamin.3",
+  "primary_id": "person:Mijamin.3",
+  "alternate_sources": {
+    "aquifer": [
+      "7128|Mijamin|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Mijamin@Neh.10.7-",
+      "Miniamin|Mijamin@Neh.10.7-"
+    ],
+    "vizbible": [
+      "recryLMcYdqTPKV4w"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mijamin (Nehemiah 10:7)",
+      "alternate_labels": [
+        "Miniamin",
+        "Miamin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mijamin (Nehemiah 10:7)",
+          "article": "person:Mijamin.3",
+          "description": "Mijamin was a man living at the time of exile and return, mentioned in Nehemiah 10:7 and also referred to as Miniamin in Nehemiah 12:17."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Miniamin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16010008",
+    "16012005",
+    "16012017"
+  ],
+  "references": [
+    "16010008",
+    "16012005",
+    "16012017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160100080031"
+      ],
+      [
+        "o160120050011"
+      ],
+      [
+        "o160120170032"
+      ]
+    ]
+  }
+}

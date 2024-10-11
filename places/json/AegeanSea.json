@@ -1,0 +1,47 @@
+{
+  "id": "place:AegeanSea",
+  "primary_id": "place:AegeanSea",
+  "alternate_sources": {
+    "aquifer": [
+      "3409|Aegean Sea|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:AegeanSea",
+          "gloss": "Aegean Sea",
+          "description": "An arm of the Mediterranean Sea between Greece and Turkey."
+        }
+      ],
+      "preferred_label": "Aegean Sea",
+      "alternate_labels": [
+        "Aegean"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Greece",
+    "place:AsiaMinor"
+  ],
+  "subregion_of": [
+    "place:GreatSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "sea"
+    ]
+  },
+  "key_references": [
+    "44017014"
+  ]
+}

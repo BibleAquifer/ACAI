@@ -1,0 +1,81 @@
+{
+  "id": "place:Recah",
+  "primary_id": "place:Recah",
+  "alternate_sources": {
+    "aquifer": [
+      "7964|Recah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006801001001000"
+    ],
+    "tipnr": [
+      "Recah@1Ch.4.12"
+    ],
+    "vizbible": [
+      "rec7rU2k2UGIDROAw"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006801001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Recah",
+      "alternate_labels": [
+        "Rekah",
+        "Rechah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Recah",
+          "gloss": "Recah",
+          "description": "A town in the territory of Judah mentioned in 1 Chronicles4:11–12."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.70536129174666",
+      "lon": "35.21026630105202"
+    },
+    "vizbible": {
+      "lat": "31.70536129174666",
+      "lon": "35.21026630105202"
+    }
+  },
+  "key_references": [
+    "13004012"
+  ],
+  "references": [
+    "13004012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040120151"
+      ]
+    ]
+  }
+}

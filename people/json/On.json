@@ -1,0 +1,102 @@
+{
+  "id": "person:On",
+  "primary_id": "person:On",
+  "alternate_sources": {
+    "aquifer": [
+      "7501|On (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000195003002000"
+    ],
+    "tipnr": [
+      "On@Num.16.1"
+    ],
+    "vizbible": [
+      "recY7PbMjXM1YL0w7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Peleth",
+  "ubsdbh": [
+    "000195003002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "On",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "On",
+          "article": "person:On",
+          "description": "On, mentioned in Numbers 16:1, is a man from the tribe of Reuben living during the time of Egypt and the wilderness, and is the son of Peleth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֹון",
+      "אוֹן"
+    ]
+  },
+  "key_references": [
+    "04016001"
+  ],
+  "references": [
+    "04016001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040160010132"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040160020012"
+      ],
+      [
+        "o040160030012"
+      ],
+      [
+        "o040160030062"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "delivery": "arrogantly",
+        "quote_type": "Normal",
+        "words": [
+          "o040160030081",
+          "o040160030091",
+          "o040160030092",
+          "o040160030101",
+          "o040160030111",
+          "o040160030121",
+          "o040160030122",
+          "o040160030131",
+          "o040160030132",
+          "o040160030141",
+          "o040160030151",
+          "o040160030152",
+          "o040160030153",
+          "o040160030154",
+          "o040160030161",
+          "o040160030171",
+          "o040160030172",
+          "o040160030181",
+          "o040160030191",
+          "o040160030201",
+          "o040160030211"
+        ]
+      }
+    ]
+  }
+}

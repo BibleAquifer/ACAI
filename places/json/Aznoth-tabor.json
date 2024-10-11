@@ -1,0 +1,83 @@
+{
+  "id": "place:Aznoth-tabor",
+  "primary_id": "place:Aznoth-tabor",
+  "alternate_sources": {
+    "aquifer": [
+      "3917|Aznoth-Tabor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000229001001000"
+    ],
+    "tipnr": [
+      "Aznoth-tabor@Jos.19.34"
+    ],
+    "vizbible": [
+      "rec6CBbPCu4LYuZY9"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000229001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aznoth-tabor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aznoth-tabor",
+          "gloss": "Aznoth-Tabor",
+          "description": "A location on the border of the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אַזְנֹות תָּבֹור",
+      "אַזְנוֹת תָּבוֹר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.68695640243183",
+      "lon": "35.39091304299688"
+    },
+    "vizbible": {
+      "lat": "32.68695640243183",
+      "lon": "35.39091304299688"
+    }
+  },
+  "key_references": [
+    "06019034"
+  ],
+  "references": [
+    "06019034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190340041",
+        "o060190340051"
+      ]
+    ]
+  }
+}

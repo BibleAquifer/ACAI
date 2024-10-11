@@ -1,0 +1,63 @@
+{
+  "id": "place:Rahab",
+  "primary_id": "place:Egypt",
+  "alternate_sources": {
+    "aquifer": [
+      "7909|Rahab (Monster)|TyndaleBibleDictionary",
+      "27009|Rahab|UWTranslationWords",
+      "132367|Rahab|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Rahab|Egypt@Gen.12.10-Rev"
+    ],
+    "vizbible": [
+      "recFinINtrGjUmVDi"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rahab",
+      "alternate_labels": [
+        "Egypt"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.108086",
+      "lon": "31.338220"
+    },
+    "vizbible": {
+      "lat": "30.108086",
+      "lon": "31.338220"
+    }
+  },
+  "key_references": [
+    "19087004",
+    "23030007"
+  ],
+  "references": [
+    "19087004",
+    "23030007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190870040021"
+      ],
+      [
+        "o230300070081"
+      ]
+    ]
+  }
+}

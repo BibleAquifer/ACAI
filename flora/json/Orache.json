@@ -1,0 +1,58 @@
+{
+  "id": "flora:Orache",
+  "primary_id": "flora:Orache",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004028001001000"
+    ],
+    "ubsflora": [
+      "flora:3.5.10"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "004028001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Orache",
+      "alternate_labels": [
+        "Saltbush",
+        "Saltwort",
+        "Mallow"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Orache",
+          "article": "flora:Orache",
+          "description": "A salt-tolerant shrub with small silver-gray leaves, found in deserts and coastal areas, and its leaves are edible but salty."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "flora:Mallow"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַלּוּחַ"
+    ]
+  },
+  "key_references": [
+    "18030004"
+  ],
+  "references": [
+    "18030004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180300040021"
+      ]
+    ]
+  }
+}

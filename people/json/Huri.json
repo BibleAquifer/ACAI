@@ -1,0 +1,61 @@
+{
+  "id": "person:Huri",
+  "primary_id": "person:Huri",
+  "alternate_sources": {
+    "aquifer": [
+      "5952|Huri|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002175001001000"
+    ],
+    "tipnr": [
+      "Huri@1Ch.5.14"
+    ],
+    "vizbible": [
+      "recFizb8QepUaEKO7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jaroah",
+  "offspring": [
+    "person:Abihail.3"
+  ],
+  "tribe": "group:Gad",
+  "ubsdbh": [
+    "002175001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Huri",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Huri",
+          "article": "person:Huri",
+          "description": "Huri was a man from the tribe of Gad, living during the time of the divided kingdom, and mentioned as the son of Jaroah and the father of Abihail."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חוּרִי"
+    ]
+  },
+  "key_references": [
+    "13005014"
+  ],
+  "references": [
+    "13005014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050140051"
+      ]
+    ]
+  }
+}

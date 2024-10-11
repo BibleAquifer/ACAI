@@ -1,0 +1,89 @@
+{
+  "id": "place:Beth-gilgal",
+  "primary_id": "place:Gilgal.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4177|Beth-Gilgal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000945001001000"
+    ],
+    "tipnr": [
+      "Beth-gilgal|Gilgal@Deu.11.30-Mic"
+    ],
+    "vizbible": [
+      "recw9Zm1HwiKM6qTn"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000945001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-gilgal",
+      "alternate_labels": [
+        "Gilgal",
+        "house of Gilgal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-gilgal",
+          "gloss": "Beth-Gilgal",
+          "description": "A town near Jerusalem from which singers came after exile to dedicate the rebuilt walls of Jerusalem (Nehemiah 12:27–30)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Gilgal.2"
+  ],
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית הַגִּלְגָּל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.86378328",
+      "lon": "35.51854651"
+    },
+    "vizbible": {
+      "lat": "31.86378328",
+      "lon": "35.51854651"
+    }
+  },
+  "key_references": [
+    "16012029"
+  ],
+  "references": [
+    "16012029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160120290013",
+        "o160120290021"
+      ]
+    ]
+  }
+}

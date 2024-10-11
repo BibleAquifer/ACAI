@@ -1,0 +1,63 @@
+{
+  "id": "flora:NutmegFlower",
+  "primary_id": "flora:NutmegFlower",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006540001001000"
+    ],
+    "ubsflora": [
+      "flora:3.5.9"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "006540001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nutmeg Flower",
+      "alternate_labels": [
+        "Black Cumin",
+        "Black Cummin",
+        "Nigella"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nutmeg Flower",
+          "article": "flora:NutmegFlower",
+          "description": "A plant with lacy leaves, greenish-blue flowers, and black seeds used in cooking."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קֶצַח"
+    ]
+  },
+  "key_references": [
+    "23028025",
+    "23028027"
+  ],
+  "references": [
+    "23028025",
+    "23028027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230280250061"
+      ],
+      [
+        "o230280270051"
+      ],
+      [
+        "o230280270141"
+      ]
+    ]
+  }
+}

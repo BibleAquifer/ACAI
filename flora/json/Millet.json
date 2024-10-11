@@ -1,0 +1,75 @@
+{
+  "id": "flora:Millet",
+  "primary_id": "flora:Millet",
+  "alternate_sources": {
+    "aquifer": [
+      "7140|Millet|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001621001001000",
+      "005911001001000"
+    ],
+    "ubsflora": [
+      "flora:3.1.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "001621001001000",
+    "005911001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Millet",
+      "alternate_labels": [
+        "Sorghum",
+        "Meal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Millet",
+          "article": "flora:Millet",
+          "description": "A type of grain, growing about 90 cm tall, used for making bread or porridge, but considered inferior to wheat."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דֹּחַן",
+      "פַּנַּג"
+    ]
+  },
+  "key_references": [
+    "26004009",
+    "26027017"
+  ],
+  "references": [
+    "26004009",
+    "26027017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260040090082"
+      ],
+      [
+        "o260270170082"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260040090112"
+      ],
+      [
+        "o260040090152"
+      ]
+    ]
+  }
+}

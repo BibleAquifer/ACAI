@@ -1,0 +1,62 @@
+{
+  "id": "person:Joel.7",
+  "primary_id": "person:Joel.7",
+  "alternate_sources": {
+    "aquifer": [
+      "6401|Joel (Person)|TyndaleBibleDictionary",
+      "26767|Joel|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002847001007000"
+    ],
+    "tipnr": [
+      "Joel@1Ch.11.38"
+    ],
+    "vizbible": [
+      "recAPykSFyjjH7tJl"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:FatherOfNathan",
+  "siblings": [
+    "person:Nathan.3"
+  ],
+  "ubsdbh": [
+    "002847001007000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joel (1 Chronicles 11:38)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joel (1 Chronicles 11:38)",
+          "article": "person:Joel.7",
+          "description": "A warrior during Israel's united kingdom and brother of Nathan, mentioned in 1 Chronicles 11:38."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹואֵל",
+      "יוֹאֵל"
+    ]
+  },
+  "key_references": [
+    "13011038"
+  ],
+  "references": [
+    "13011038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130110380011"
+      ]
+    ]
+  }
+}

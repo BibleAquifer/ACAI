@@ -1,0 +1,66 @@
+{
+  "id": "person:Simeon.3",
+  "primary_id": "person:Simeon.3",
+  "alternate_sources": {
+    "aquifer": [
+      "8501|Simeon (Person)|TyndaleBibleDictionary",
+      "8502|Simeon, Tribe of|TyndaleBibleDictionary",
+      "27096|Simeon|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.349e"
+    ],
+    "tipnr": [
+      "Simeon@Luk.3.30"
+    ],
+    "vizbible": [
+      "recAcOKOsOZsosxsN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Judah.3",
+  "offspring": [
+    "person:Levi.2"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.349e"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Simeon (Son of Judah)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Simeon (Son of Judah)",
+          "article": "person:Simeon.3",
+          "description": "Son of Judah and the father of Levi in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Συμεών"
+    ]
+  },
+  "key_references": [
+    "42003030"
+  ],
+  "references": [
+    "42003030"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003030002"
+      ]
+    ]
+  }
+}

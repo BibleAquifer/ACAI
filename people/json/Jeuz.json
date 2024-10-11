@@ -1,0 +1,69 @@
+{
+  "id": "person:Jeuz",
+  "primary_id": "person:Jeuz",
+  "alternate_sources": {
+    "aquifer": [
+      "6364|Jeuz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002984001001000"
+    ],
+    "tipnr": [
+      "Jeuz@1Ch.8.10"
+    ],
+    "vizbible": [
+      "recy17cKhfGH9RNxp"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shaharaim",
+  "mother": "person:Hodesh",
+  "siblings": [
+    "person:Jobab.4",
+    "person:Zibia",
+    "person:Mesha",
+    "person:Malcam",
+    "person:Sachia",
+    "person:Mirmah",
+    "person:Abitub",
+    "person:Elpaal"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "002984001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeuz",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeuz",
+          "article": "person:Jeuz",
+          "description": "A man from the tribe of Benjamin and son of Shaharaim and Hodesh, living during the time of the divided kingdom, mentioned in 1 Chronicles 8:10."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְעוּץ"
+    ]
+  },
+  "key_references": [
+    "13008010"
+  ],
+  "references": [
+    "13008010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080100021"
+      ]
+    ]
+  }
+}

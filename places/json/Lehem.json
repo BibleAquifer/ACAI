@@ -1,0 +1,98 @@
+{
+  "id": "place:Lehem",
+  "primary_id": "place:Bethlehem",
+  "alternate_sources": {
+    "aquifer": [
+      "6232|Jashubi-Lehem|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003142001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/284315"
+    ],
+    "tipnr": [
+      "Lehem|Bethlehem@Gen.35.16-Jhn"
+    ],
+    "vizbible": [
+      "recSAHINBsaKgiTyv"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003142001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jashubi-lehem",
+      "alternate_labels": [
+        "Bethlehem",
+        "Lehem"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lehem",
+          "gloss": "Jashubi-Lehem",
+          "description": "A man from the tribe of Judah; possible place name mentioned in 1 Chronicles4:22."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Bethlehem"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": true,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָשֻׁבִי לֶחֶם",
+      "יָשֻׁ֫בִי לָ֑חֶם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "special",
+      "settlement"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.70536129",
+      "lon": "35.2102663"
+    },
+    "recogito": {
+      "lat": "31.70487",
+      "lon": "35.20376"
+    },
+    "vizbible": {
+      "lat": "31.70536129",
+      "lon": "35.2102663"
+    }
+  },
+  "key_references": [
+    "13004022"
+  ],
+  "references": [
+    "13004022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040220092",
+        "o130040220101"
+      ]
+    ]
+  }
+}

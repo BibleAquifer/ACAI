@@ -1,0 +1,62 @@
+{
+  "id": "person:Ephod",
+  "primary_id": "person:Ephod",
+  "alternate_sources": {
+    "aquifer": [
+      "5108|Ephod (Garment)|TyndaleBibleDictionary",
+      "5109|Ephod (Person)|TyndaleBibleDictionary",
+      "26565|Ephod|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "000590002001000"
+    ],
+    "tipnr": [
+      "Ephod@Num.34.23"
+    ],
+    "vizbible": [
+      "recPfJXexOGhnxGAH"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Hanniel"
+  ],
+  "ubsdbh": [
+    "000590002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ephod",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ephod",
+          "article": "person:Ephod",
+          "description": "Ephod, mentioned in Numbers 34:23, was a man living during the time of the Exodus and wilderness, and the father of Hanniel, a chief of the tribe of Manasseh."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵפֹוד",
+      "אֵפֹד"
+    ]
+  },
+  "key_references": [
+    "04034023"
+  ],
+  "references": [
+    "04034023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040340230091"
+      ]
+    ]
+  }
+}

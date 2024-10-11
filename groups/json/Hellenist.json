@@ -1,0 +1,87 @@
+{
+  "id": "group:Hellenist",
+  "primary_id": "group:Hellenist",
+  "alternate_sources": {
+    "aquifer": [
+      "5788|Hellenists|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "11.93"
+    ],
+    "tipnr": [
+      "Hellenist|Greece@Isa.66.19-Act"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Greece",
+  "ubsdgnt": [
+    "11.93"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hellenists",
+      "alternate_labels": [
+        "Javan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hellenists",
+          "article": "group:Hellenist",
+          "description": "Jewish people who lived in Jerusalem and used Greek as their primary language."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Greek"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἑλληνιστής"
+    ]
+  },
+  "key_references": [
+    "44006001",
+    "44009029",
+    "44011020"
+  ],
+  "references": [
+    "44006001",
+    "44009029",
+    "44011020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44006001012"
+      ],
+      [
+        "n44009029007"
+      ],
+      [
+        "n44011020018"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44006001025"
+      ],
+      [
+        "n44009029008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44009029011"
+      ]
+    ]
+  }
+}

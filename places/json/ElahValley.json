@@ -1,0 +1,88 @@
+{
+  "id": "place:ElahValley",
+  "primary_id": "place:ElahValley",
+  "alternate_sources": {
+    "obi": [
+      "ab183f8"
+    ],
+    "tipnr": [
+      "Elah_Valley@1Sa.17.2-"
+    ],
+    "vizbible": [
+      "recoBhapSAf2zo3UV"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q862725"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Elah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfElah",
+          "gloss": "Valley of Elah",
+          "description": "A valley in the Shephelah where David killed Goliath (1 Samuel 17)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Shephelah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.690629",
+      "lon": "34.963136"
+    },
+    "vizbible": {
+      "lat": "31.690629",
+      "lon": "34.963136"
+    }
+  },
+  "key_references": [
+    "09017002",
+    "09017019",
+    "09021010"
+  ],
+  "references": [
+    "09017002",
+    "09017019",
+    "09021010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090170020062",
+        "o090170020071"
+      ],
+      [
+        "o090170190062",
+        "o090170190071"
+      ],
+      [
+        "o090210100082",
+        "o090210100091"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "place:Cilicia",
+  "primary_id": "place:Cilicia",
+  "alternate_sources": {
+    "aquifer": [
+      "4563|Cilicia|TyndaleBibleDictionary",
+      "26449|Cilicia|UWTranslationWords"
+    ],
+    "obi": [
+      "ad63819"
+    ],
+    "ubsdgnt": [
+      "93.501"
+    ],
+    "tipnr": [
+      "Cilicia@Act.6.9-Gal"
+    ],
+    "vizbible": [
+      "rectQcNZqgNSFBmfm"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4819648"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.501"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cilicia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cilicia",
+          "gloss": "Cilicia",
+          "description": "A province in the southeast corner of Asia Minor; Paul was from Tarsus, the capital city of the province, and traveled through the region during his second missionary journey."
+        }
+      ]
+    }
+  },
+  "associated_places": [
+    "place:Tarsus"
+  ],
+  "nearby_places": [
+    "place:Cappadocia",
+    "place:Pamphylia",
+    "place:Lycia",
+    "place:Galatia",
+    "place:Syria"
+  ],
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Κιλικία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.91802695356275",
+      "lon": "34.89153398422567"
+    },
+    "vizbible": {
+      "lat": "36.91802695356275",
+      "lon": "34.89153398422567"
+    }
+  },
+  "key_references": [
+    "44021039",
+    "44027005",
+    "44015041",
+    "44023034"
+  ],
+  "references": [
+    "44006009",
+    "44015023",
+    "44015041",
+    "44021039",
+    "44022003",
+    "44023034",
+    "44027005",
+    "48001021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44006009018"
+      ],
+      [
+        "n44015023018"
+      ],
+      [
+        "n44015041007"
+      ],
+      [
+        "n44021039012"
+      ],
+      [
+        "n44022003009"
+      ],
+      [
+        "n44023034013"
+      ],
+      [
+        "n44027005007"
+      ],
+      [
+        "n48001021010"
+      ]
+    ]
+  }
+}

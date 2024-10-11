@@ -1,0 +1,53 @@
+{
+  "id": "person:Jonathan.5",
+  "primary_id": "person:Jonathan.5",
+  "alternate_sources": {
+    "aquifer": [
+      "6432|Jonathan|TyndaleBibleDictionary",
+      "26772|Jonathan|UWTranslationWords",
+      "132403|Jonathan|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Jonathan@2Sa.23.32-1Ch"
+    ],
+    "vizbible": [
+      "rec6VdS6bYZlp8oYP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shammah.4",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jonathan (2 Samuel 23:32)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jonathan (2 Samuel 23:32)",
+          "article": "person:Jonathan.5",
+          "description": "A man during the time of Israel's united kingdom and the son of Shammah, mentioned in 2 Samuel 23:32."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023032",
+    "13011034"
+  ],
+  "references": [
+    "10023032",
+    "13011034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230320051"
+      ],
+      [
+        "o130110340041"
+      ]
+    ]
+  }
+}

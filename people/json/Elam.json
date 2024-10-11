@@ -1,0 +1,79 @@
+{
+  "id": "person:Elam",
+  "primary_id": "person:Elam",
+  "alternate_sources": {
+    "aquifer": [
+      "4964|Elam (Person)|TyndaleBibleDictionary",
+      "4965|Elam (Place), Elamites|TyndaleBibleDictionary",
+      "26550|Elam|UWTranslationWords"
+    ],
+    "tipnr": [
+      "Elam@Ezr.2.7-Neh"
+    ],
+    "vizbible": [
+      "recIlPWKsIEluu0fH"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Leader "
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elam",
+      "alternate_labels": [
+        "Olam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elam",
+          "article": "person:Elam",
+          "description": "A man whose descendants are listed during the return of Israel from exile."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002007",
+    "15008007",
+    "16007012"
+  ],
+  "references": [
+    "15002007",
+    "15002031",
+    "15008007",
+    "15010002",
+    "15010026",
+    "16007012",
+    "16007034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020070021"
+      ],
+      [
+        "o150020310021"
+      ],
+      [
+        "o150080070021"
+      ],
+      [
+        "o150100020071"
+      ],
+      [
+        "o150100260021"
+      ],
+      [
+        "o160070120021"
+      ],
+      [
+        "o160070340021"
+      ]
+    ]
+  }
+}

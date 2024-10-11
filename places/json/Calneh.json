@@ -1,0 +1,122 @@
+{
+  "id": "place:Calneh",
+  "primary_id": "place:Calneh",
+  "alternate_sources": {
+    "aquifer": [
+      "4397|Calneh|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Calneh@Gen.10.10-Amo",
+      "Canneh|Calneh@Gen.10.10-Amo"
+    ],
+    "vizbible": [
+      "recTCLydxA9SiyYUl"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Calneh",
+      "alternate_labels": [
+        "Canneh",
+        "Kanneh",
+        "Kalneh",
+        "Kalno",
+        "Calno"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Calneh.1",
+          "gloss": "Calneh",
+          "description": "A town in Syria near Arpad and Aleppo (ABD)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Canneh"
+  ],
+  "nearby_places": [
+    "place:Arpad"
+  ],
+  "subregion_of": [
+    "place:Syria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.127213",
+      "lon": "45.229995"
+    },
+    "vizbible": {
+      "lat": "32.127213",
+      "lon": "45.229995"
+    }
+  },
+  "key_references": [
+    "01010010",
+    "30006002",
+    "26027023",
+    "23010009"
+  ],
+  "references": [
+    "01010010",
+    "23010009",
+    "26027023",
+    "30006002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100100072"
+      ],
+      [
+        "o230100090031"
+      ],
+      [
+        "o260270230022"
+      ],
+      [
+        "o300060020021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260270240011"
+      ],
+      [
+        "o300060020142"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260270230081"
+      ],
+      [
+        "o260270240021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "place:Lycia",
+  "primary_id": "place:Lycia",
+  "alternate_sources": {
+    "aquifer": [
+      "6798|Lycia|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a19fd03"
+    ],
+    "ubsdgnt": [
+      "93.520"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/1001914",
+      "http://pleiades.stoa.org/places/638965"
+    ],
+    "tipnr": [
+      "Lycia@Act.27.5"
+    ],
+    "vizbible": [
+      "recdFgkZ8GAyZxHL3"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q18927"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.520"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lycia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lycia",
+          "gloss": "Lycia",
+          "description": "A region on the south coast of Asia Minor."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Asia",
+    "place:Phrygia"
+  ],
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Λυκία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.27471786927205",
+      "lon": "29.3186378339052"
+    },
+    "recogito": {
+      "lat": "36.513688333333334",
+      "lon": "29.1296185"
+    },
+    "vizbible": {
+      "lat": "36.513688333333334",
+      "lon": "29.1296185"
+    }
+  },
+  "key_references": [
+    "44027005"
+  ],
+  "references": [
+    "44027005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027005015"
+      ]
+    ]
+  }
+}

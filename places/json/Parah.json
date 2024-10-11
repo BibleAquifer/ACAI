@@ -1,0 +1,82 @@
+{
+  "id": "place:Parah",
+  "primary_id": "place:Parah",
+  "alternate_sources": {
+    "aquifer": [
+      "7578|Parah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2ec6b7"
+    ],
+    "ubsdbh": [
+      "005987002001000"
+    ],
+    "tipnr": [
+      "Parah@Jos.18.23"
+    ],
+    "vizbible": [
+      "recZ6PqrxuSeFvSvq"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005987002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Parah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Parah",
+          "gloss": "Parah",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.833333",
+      "lon": "35.3"
+    },
+    "vizbible": {
+      "lat": "31.833333",
+      "lon": "35.3"
+    }
+  },
+  "key_references": [
+    "06018023"
+  ],
+  "references": [
+    "06018023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180230023"
+      ]
+    ]
+  }
+}

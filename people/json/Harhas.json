@@ -1,0 +1,60 @@
+{
+  "id": "person:Harhas",
+  "primary_id": "person:Harhas",
+  "alternate_sources": {
+    "aquifer": [
+      "5668|Harhas|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hasrah|Harhas@2Ki.22.14-2Ch",
+      "Harhas@2Ki.22.14-2Ch"
+    ],
+    "vizbible": [
+      "recRQsJ4Z9x5YFMtx"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Tikvah"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Harhas",
+      "alternate_labels": [
+        "Hasrah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Harhas",
+          "article": "person:Harhas",
+          "description": "Harhas, also called Hasrah, was a man living during the time of the divided kingdom, mentioned in 2 Kings 22:14 and 2 Chronicles 34:22 as the father of Tikvah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hasrah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12022014",
+    "14034022"
+  ],
+  "references": [
+    "12022014",
+    "14034022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120220140161"
+      ],
+      [
+        "o140340220141"
+      ]
+    ]
+  }
+}

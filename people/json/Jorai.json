@@ -1,0 +1,67 @@
+{
+  "id": "person:Jorai",
+  "primary_id": "person:Jorai",
+  "alternate_sources": {
+    "aquifer": [
+      "6437|Jorai|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002872001001000"
+    ],
+    "tipnr": [
+      "Jorai@1Ch.5.13"
+    ],
+    "vizbible": [
+      "recckElOnLh5Fmbhl"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abihail.3",
+  "siblings": [
+    "person:Michael.2",
+    "person:Meshullam.3",
+    "person:Sheba.5",
+    "person:Jacan",
+    "person:Zia",
+    "person:Eber.2"
+  ],
+  "tribe": "group:Gad",
+  "ubsdbh": [
+    "002872001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jorai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jorai",
+          "article": "person:Jorai",
+          "description": "A man from the tribe of Gad living during the divided kingdom, son of Abihail, mentioned in 1 Chronicles 5:13."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹורַי",
+      "יוֹרַי"
+    ]
+  },
+  "key_references": [
+    "13005013"
+  ],
+  "references": [
+    "13005013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050130072"
+      ]
+    ]
+  }
+}

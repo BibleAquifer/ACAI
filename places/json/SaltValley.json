@@ -1,0 +1,118 @@
+{
+  "id": "place:SaltValley",
+  "primary_id": "place:SaltValley",
+  "alternate_sources": {
+    "obi": [
+      "af936bd"
+    ],
+    "ubsdbh": [
+      "001390001006000",
+      "004036001002000"
+    ],
+    "tipnr": [
+      "Salt_Valley@2Sa.8.13-Psa"
+    ],
+    "vizbible": [
+      "recGenkfsnfZDqW3F"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q7912337"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001390001006000",
+    "004036001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Salt",
+      "alternate_labels": [
+        "Salt Valley"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfSalt",
+          "gloss": "Valley of Salt",
+          "description": "A valley located south of the Dead Sea where several battles with the Edomites took place."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:SaltSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גַּיְא",
+      "מֶלַח"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley",
+      "special"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.087328",
+      "lon": "35.38374"
+    },
+    "vizbible": {
+      "lat": "31.087328",
+      "lon": "35.38374"
+    }
+  },
+  "key_references": [
+    "14025011",
+    "13018012",
+    "12014007",
+    "10008013"
+  ],
+  "references": [
+    "10008013",
+    "12014007",
+    "13018012",
+    "14025011",
+    "19060002",
+    "19060003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080130082",
+        "o100080130091"
+      ],
+      [
+        "o120140070052",
+        "o120140070071"
+      ],
+      [
+        "o130180120072",
+        "o130180120081"
+      ],
+      [
+        "o140250110071",
+        "o140250110081"
+      ],
+      [
+        "o190600020132",
+        "o190600020141"
+      ]
+    ]
+  }
+}

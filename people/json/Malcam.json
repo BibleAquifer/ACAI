@@ -1,0 +1,73 @@
+{
+  "id": "person:Malcam",
+  "primary_id": "person:Malcam",
+  "alternate_sources": {
+    "aquifer": [
+      "6892|Malcam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004063001001000"
+    ],
+    "tipnr": [
+      "Malcam@1Ch.8.9"
+    ],
+    "vizbible": [
+      "recMhGpFK58M349OS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shaharaim",
+  "mother": "person:Hodesh",
+  "siblings": [
+    "person:Jobab.4",
+    "person:Zibia",
+    "person:Mesha",
+    "person:Jeuz",
+    "person:Sachia",
+    "person:Mirmah",
+    "person:Abitub",
+    "person:Elpaal"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "004063001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Malcam",
+      "alternate_labels": [
+        "Malcham",
+        "Malkam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Malcam",
+          "article": "person:Malcam",
+          "description": "A man from the tribe of Benjamin, son of Shaharaim and Hodesh, mentioned in 1 Chronicles 8:9."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַלְכָּם"
+    ]
+  },
+  "key_references": [
+    "13008009"
+  ],
+  "references": [
+    "13008009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080090121"
+      ]
+    ]
+  }
+}

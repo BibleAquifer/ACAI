@@ -1,0 +1,38 @@
+{
+  "id": "place:HeracleopolisMagna",
+  "primary_id": "place:HeracleopolisMagna",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:HeracleopolisMagna",
+          "gloss": "Heracleopolis Magna",
+          "description": "Capital of the 20th nome of ancient Upper Egypt."
+        }
+      ],
+      "preferred_label": "Heracleopolis Magna"
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "29.0855",
+      "lon": "30.93458"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "place:ValleyOfSlaughter",
+  "primary_id": "place:HinnomValley",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001875001001000",
+      "001390001002000",
+      "001390001001000"
+    ],
+    "tipnr": [
+      "Valley_of_Slaughter|Hinnom_Valley@Jos.15.8-Jer"
+    ],
+    "vizbible": [
+      "rec8S2KLxGycWJ6sv"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001875001001000",
+    "001390001002000",
+    "001390001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of the Slaughter",
+      "alternate_labels": [
+        "Valley of Hinnom",
+        "valley of the children of Hinnom",
+        "Valley of the Son of Hinnom",
+        "Valley of Ben-Hinnom",
+        "Valley of Slaughter",
+        "Ben Hinnom Valley",
+        "Slaughter Valley",
+        "The valley of slaughter",
+        "Hinnom Valley"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfSlaughter",
+          "gloss": "Valley of the Slaughter",
+          "description": "A valley, also known as the Hinnom Valley, known for the idol worship that took place there."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:HinnomValley"
+  ],
+  "nearby_places": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גַּיְא"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.769079",
+      "lon": "35.227994"
+    },
+    "vizbible": {
+      "lat": "31.769079",
+      "lon": "35.227994"
+    }
+  },
+  "key_references": [
+    "24019006",
+    "24007032"
+  ],
+  "references": [
+    "06015008",
+    "06018016",
+    "12023010",
+    "14028003",
+    "14033006",
+    "16011030",
+    "24002023",
+    "24007031",
+    "24007032",
+    "24019002",
+    "24019006",
+    "24032035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240070320112"
+      ],
+      [
+        "o240070320161"
+      ],
+      [
+        "o240070320172"
+      ],
+      [
+        "o240190060132"
+      ],
+      [
+        "o240190060181"
+      ],
+      [
+        "o240190060192"
+      ]
+    ]
+  }
+}

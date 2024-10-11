@@ -1,0 +1,69 @@
+{
+  "id": "person:Ahiram",
+  "primary_id": "person:Ahiram",
+  "alternate_sources": {
+    "aquifer": [
+      "3454|Ahiram, Ahiramite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ahiram@Num.26.38"
+    ],
+    "vizbible": [
+      "recrdlNkfhnrb29zj"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Benjamin",
+  "siblings": [
+    "person:Bela",
+    "person:Becher",
+    "person:Ashbel",
+    "person:Gera",
+    "person:Naaman",
+    "person:Ehi",
+    "person:Rosh",
+    "person:Muppim",
+    "person:Huppim",
+    "person:Ard",
+    "person:Jediael"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahiram",
+      "alternate_labels": [
+        "Ahiramite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahiram",
+          "article": "person:Ahiram",
+          "description": "A man from the tribe of Benjamin, son of Benjamin, mentioned in Numbers 26:38."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Ahiram"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026038"
+  ],
+  "references": [
+    "04026038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260380102"
+      ],
+      [
+        "o040260380122"
+      ]
+    ]
+  }
+}

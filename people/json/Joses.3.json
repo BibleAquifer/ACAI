@@ -1,0 +1,71 @@
+{
+  "id": "person:Joses.3",
+  "primary_id": "person:Joseph.5",
+  "alternate_sources": {
+    "aquifer": [
+      "6450|Joses|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.201b"
+    ],
+    "tipnr": [
+      "Joses|Joseph@Mat.27.56-Mrk"
+    ],
+    "vizbible": [
+      "rectKmSGswWg5Hx4b"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:HusbandOfMary.2",
+  "mother": "person:Mary.2",
+  "siblings": [
+    "person:James.4",
+    "person:Salome"
+  ],
+  "ubsdgnt": [
+    "93.201b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joses (Joseph)",
+      "alternate_labels": [
+        "Joseph",
+        "Joseph (Son of Mary)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joseph (Son of Mary)",
+          "article": "person:Joses.3",
+          "description": "A brother of James the younger and son of Mary, first mentioned in Matthew 27:56."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Joseph.5"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰωσῆς"
+    ]
+  },
+  "key_references": [
+    "40027056",
+    "41015040",
+    "41016001"
+  ],
+  "references": [
+    "41015040"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41015040021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "fauna:Boar",
+  "primary_id": "fauna:Boar",
+  "alternate_sources": {
+    "aquifer": [
+      "4280|Boar|TyndaleBibleDictionary"
+    ],
+    "ubsfauna": [
+      "fauna:2.33"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Boar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Boar",
+          "article": "fauna:Boar",
+          "description": "A wild pig that often roams in forests and has sharp tusks."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "fauna:Pig"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "19080014"
+  ],
+  "references": [
+    "19080014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190800140021"
+      ]
+    ]
+  }
+}

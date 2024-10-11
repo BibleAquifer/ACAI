@@ -1,0 +1,72 @@
+{
+  "id": "person:Baal-zebub",
+  "primary_id": "person:Baal-zebub",
+  "alternate_sources": {
+    "aquifer": [
+      "3948|Baal-Zebub|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001082001003000"
+    ],
+    "tipnr": [
+      "Baal-zebub@2Ki.1.2-"
+    ],
+    "vizbible": [
+      "rec6QMoRUF5GozXxL"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "God"
+  ],
+  "ubsdbh": [
+    "001082001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baal-zebub",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Baal-Zebub",
+          "article": "person:Baal-zebub",
+          "description": "A deity worshiped in Ekron during the time of the divided kingdom when Elijah the Tishbite was prophet."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12001002",
+    "12001003",
+    "12001016"
+  ],
+  "references": [
+    "12001002",
+    "12001003",
+    "12001006",
+    "12001016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120010020152",
+        "o120010020161"
+      ],
+      [
+        "o120010030222",
+        "o120010030231"
+      ],
+      [
+        "o120010060272",
+        "o120010060281"
+      ],
+      [
+        "o120010160112",
+        "o120010160121"
+      ]
+    ]
+  }
+}

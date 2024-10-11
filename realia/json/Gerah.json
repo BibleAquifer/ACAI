@@ -1,0 +1,71 @@
+{
+  "id": "realia:Gerah",
+  "primary_id": "realia:Gerah",
+  "alternate_sources": {
+    "aquifer": [
+      "5423|Gerah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001490002001000"
+    ],
+    "ubsrealia": [
+      "realia:11.1.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "001490002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gerah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Gerah",
+          "article": "realia:Gerah",
+          "description": "A small unit of weight, about 0.6 grams, used for measuring gold and silver."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גֵּרָה"
+    ]
+  },
+  "key_references": [
+    "02030013",
+    "03027025",
+    "04003047"
+  ],
+  "references": [
+    "02030013",
+    "03027025",
+    "04003047",
+    "04018016",
+    "26045012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020300130121"
+      ],
+      [
+        "o030270250071"
+      ],
+      [
+        "o040030470101"
+      ],
+      [
+        "o040180160121"
+      ],
+      [
+        "o260450120031"
+      ]
+    ]
+  }
+}

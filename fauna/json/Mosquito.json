@@ -1,0 +1,101 @@
+{
+  "id": "fauna:Mosquito",
+  "primary_id": "fauna:Mosquito",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "4.48"
+    ],
+    "ubsdbh": [
+      "003348001001000"
+    ],
+    "ubsfauna": [
+      "fauna:6.6"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Insects, Spiders, and Worms",
+  "ubsdgnt": [
+    "4.48"
+  ],
+  "ubsdbh": [
+    "003348001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mosquito",
+      "alternate_labels": [
+        "Gnat",
+        "Louse",
+        "Midge"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mosquito",
+          "article": "fauna:Mosquito",
+          "description": "A small flying insect that feeds on blood and can spread diseases like malaria and dengue fever."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כִּנָּם"
+    ],
+    "el": [
+      "κώνωψ"
+    ]
+  },
+  "key_references": [
+    "02008012",
+    "23051006",
+    "40023024"
+  ],
+  "references": [
+    "02008012",
+    "02008013",
+    "02008014",
+    "19105031",
+    "23051006",
+    "40023024",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020080130132"
+      ],
+      [
+        "o020080140112"
+      ],
+      [
+        "o020080120162"
+      ],
+      [
+        "o020080130201"
+      ],
+      [
+        "o020080140072"
+      ],
+      [
+        "o191050310041"
+      ],
+      [
+        "o230510060171"
+      ],
+      [
+        "o020080130021"
+      ],
+      [
+        "o020080140021"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40023024006"
+      ]
+    ]
+  }
+}

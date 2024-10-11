@@ -1,0 +1,95 @@
+{
+  "id": "place:HallOfTheThrone",
+  "primary_id": "place:HallOfTheThrone",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003363001001000",
+      "000342001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/739470591"
+    ],
+    "tipnr": [
+      "Hall_of_the_Throne@1Ki.7.7"
+    ],
+    "vizbible": [
+      "recDIuscmis4rpWY5"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003363001001000",
+    "000342001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hall of the Throne",
+      "alternate_labels": [
+        "porch for judgment",
+        "Throne"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:HallOfTheThrone",
+          "gloss": "Hall of the Throne",
+          "description": "A building in Solomon's palace complex."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "hall"
+    ],
+    "acai": [
+      "hall"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "35.298042",
+      "lon": "25.163078"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "11007007"
+  ],
+  "references": [
+    "11007007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110070070012"
+      ],
+      [
+        "o110070070022"
+      ],
+      [
+        "o110070070061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110070070092"
+      ]
+    ]
+  }
+}

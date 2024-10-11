@@ -1,0 +1,91 @@
+{
+  "id": "place:Hereth",
+  "primary_id": "place:Hereth",
+  "alternate_sources": {
+    "aquifer": [
+      "5815|Hereth|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a7df136"
+    ],
+    "ubsdbh": [
+      "002576001001000"
+    ],
+    "tipnr": [
+      "Hereth@1Sa.22.5"
+    ],
+    "vizbible": [
+      "recjYhSORzD3RrIQX"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002576001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hereth",
+      "alternate_labels": [
+        "Hareth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hereth",
+          "gloss": "Hereth",
+          "description": "A forest in the territory of Judah, where David went while fleeing from Saul. "
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֶרֶת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "forest",
+      "special"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.621492",
+      "lon": "35.029273"
+    },
+    "vizbible": {
+      "lat": "31.621492",
+      "lon": "35.029273"
+    }
+  },
+  "key_references": [
+    "09022005"
+  ],
+  "references": [
+    "09022005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090220050181"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "place:HorebMount",
+  "primary_id": "place:SinaiMount",
+  "alternate_sources": {
+    "aquifer": [
+      "7224|Mount Horeb|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002507001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/22694"
+    ],
+    "tipnr": [
+      "Horeb_Mount|Sinai_Mount@Exo.19.11-Gal"
+    ],
+    "vizbible": [
+      "recufFfLnRDrtxLnL"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002507001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Horeb",
+      "alternate_labels": [
+        "Herob",
+        "Sinai",
+        "Mount Sinai",
+        "Horeb",
+        "Horeb Mount"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountHoreb",
+          "gloss": "Mount Horeb",
+          "description": "A mountain located on the Sinai Peninsula; another name for Mount Sinai."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:SinaiMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֹרֵב",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.539722",
+      "lon": "33.973333"
+    },
+    "recogito": {
+      "lat": "28.58771",
+      "lon": "33.921682"
+    },
+    "vizbible": {
+      "lat": "28.58771",
+      "lon": "33.921682"
+    }
+  },
+  "key_references": [
+    "02003001",
+    "05005002",
+    "05028069",
+    "05001002"
+  ],
+  "references": [
+    "02003001",
+    "02017006",
+    "02033006",
+    "05001002",
+    "05001006",
+    "05001019",
+    "05004010",
+    "05004015",
+    "05005002",
+    "05009008",
+    "05018016",
+    "05028069",
+    "11008009",
+    "11019008",
+    "14005010",
+    "19106019",
+    "39003022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020030010191"
+      ],
+      [
+        "o020170060072"
+      ],
+      [
+        "o020330060071"
+      ],
+      [
+        "o050010020042"
+      ],
+      [
+        "o050010060052"
+      ],
+      [
+        "o050010190022"
+      ],
+      [
+        "o050040100072"
+      ],
+      [
+        "o050040150132"
+      ],
+      [
+        "o050050020062"
+      ],
+      [
+        "o050090080013"
+      ],
+      [
+        "o050180160072"
+      ],
+      [
+        "o050280690202"
+      ],
+      [
+        "o110080090112"
+      ],
+      [
+        "o110190080151"
+      ],
+      [
+        "o140050100092"
+      ],
+      [
+        "o191060190032"
+      ],
+      [
+        "o390030220082"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o050010060112"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "place:Jahaz",
+  "primary_id": "place:Jahaz",
+  "alternate_sources": {
+    "aquifer": [
+      "6176|Jahaz|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ad9b1cd"
+    ],
+    "tipnr": [
+      "Jahaz@Num.21.23-Jer"
+    ],
+    "vizbible": [
+      "rec5DyQDXpkG4OiFl"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jahaz",
+      "alternate_labels": [
+        "Jahaza",
+        "Jahzah",
+        "Jahazah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jahaz",
+          "gloss": "Jahaz",
+          "description": "A Levitical town in the territory of Reuben, assigned to the clan of Merari; later occupied by Moab."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Reuben",
+  "subregion_of": [
+    "place:TerritoryOfReuben"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.50100309",
+      "lon": "35.92063125"
+    },
+    "vizbible": {
+      "lat": "31.50100309",
+      "lon": "35.92063125"
+    }
+  },
+  "key_references": [
+    "24048021",
+    "23015004",
+    "04021023"
+  ],
+  "references": [
+    "04021023",
+    "05002032",
+    "06013018",
+    "06021036",
+    "07011020",
+    "13006063",
+    "23015004",
+    "24048021",
+    "24048034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210230181"
+      ],
+      [
+        "o050020320081"
+      ],
+      [
+        "o060130180012"
+      ],
+      [
+        "o060210360081"
+      ],
+      [
+        "o070110200142"
+      ],
+      [
+        "o130060630141"
+      ],
+      [
+        "o230150040051"
+      ],
+      [
+        "o240480210091"
+      ],
+      [
+        "o240480340061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240480340071"
+      ]
+    ]
+  }
+}

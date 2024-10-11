@@ -1,0 +1,71 @@
+{
+  "id": "fauna:Heron",
+  "primary_id": "fauna:Heron",
+  "alternate_sources": {
+    "aquifer": [
+      "5825|Heron|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000550001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.11"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "000550001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heron",
+      "alternate_labels": [
+        "Egret"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Heron",
+          "article": "fauna:Heron",
+          "description": "A large bird with a long neck, beak, and legs that catches fish in shallow water; it was considered ceremonially unclean to eat."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲנָפָה"
+    ]
+  },
+  "key_references": [
+    "03011019",
+    "05014018"
+  ],
+  "references": [
+    "03011019",
+    "05014018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110190032"
+      ],
+      [
+        "o050140180023"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o030110190043"
+      ],
+      [
+        "o050140180033"
+      ]
+    ]
+  }
+}

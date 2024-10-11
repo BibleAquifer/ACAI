@@ -1,0 +1,61 @@
+{
+  "id": "person:Joed",
+  "primary_id": "person:Joed",
+  "alternate_sources": {
+    "aquifer": [
+      "6398|Joed|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002865001001000"
+    ],
+    "tipnr": [
+      "Joed@Neh.11.7"
+    ],
+    "vizbible": [
+      "rec2t4LINxj8WzzYN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Pedaiah.6",
+  "offspring": [
+    "person:Meshullam.17"
+  ],
+  "ubsdbh": [
+    "002865001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joed",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joed",
+          "article": "person:Joed",
+          "description": "A man of the tribe of Benjamin, son of Pedaiah and ancestor of Sallu, mentioned during the time of exile and return in Nehemiah 11:7."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹועֵד",
+      "יוֹעֵד"
+    ]
+  },
+  "key_references": [
+    "16011007"
+  ],
+  "references": [
+    "16011007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110070081"
+      ]
+    ]
+  }
+}

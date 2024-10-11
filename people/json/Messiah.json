@@ -1,0 +1,105 @@
+{
+  "id": "person:Messiah",
+  "primary_id": "person:Jesus.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7091|Messiah|TyndaleBibleDictionary",
+      "132473|Messiah|BiblicaStudyNotesKeyTerms",
+      "280155|messiah|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "53.82"
+    ],
+    "tipnr": [
+      "Messiah|Jesus@Mat.1.1-Rev"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joseph.4",
+  "mother": "person:Mary",
+  "siblings": [
+    "person:James.3",
+    "person:Joseph.3",
+    "person:Simon.3",
+    "person:Jude"
+  ],
+  "roles": [
+    "Deity",
+    "Messiah",
+    "Priest",
+    "Prophet",
+    "King",
+    "Carpenter",
+    "Teacher"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "53.82"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Messiah (Jesus)",
+      "alternate_labels": [
+        "Jesus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jesus",
+          "article": "person:Messiah",
+          "description": "Jesus, a man from the tribe of Judah living during the New Testament, is recognized as the anointed one or Messiah, son of Joseph and Mary, and brother to James, Joseph, Simon, and Jude."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jesus.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Μεσσίας",
+      "Χριστός"
+    ]
+  },
+  "key_references": [
+    "43001041",
+    "43004025"
+  ],
+  "references": [
+    "43001041",
+    "43004025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43001041014"
+      ],
+      [
+        "n43004025007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43001041015"
+      ],
+      [
+        "n43004025014"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43004025010"
+      ],
+      [
+        "n43004025015"
+      ]
+    ]
+  }
+}

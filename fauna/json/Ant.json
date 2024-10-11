@@ -1,0 +1,90 @@
+{
+  "id": "fauna:Ant",
+  "primary_id": "fauna:Ant",
+  "alternate_sources": {
+    "aquifer": [
+      "3647|Ant|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004812001001000"
+    ],
+    "ubsfauna": [
+      "fauna:6.1"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Insects, Spiders, and Worms",
+  "ubsdbh": [
+    "004812001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ant",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ant",
+          "article": "fauna:Ant",
+          "description": "A small insect that lives in underground nests and is a symbol of hard work and wisdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נְמָלָה"
+    ]
+  },
+  "key_references": [
+    "20006006",
+    "20030025"
+  ],
+  "references": [
+    "20006006",
+    "20030025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o200060060031"
+      ],
+      [
+        "o200300250012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o200060060062"
+      ],
+      [
+        "o200060070032"
+      ],
+      [
+        "o200060080032"
+      ],
+      [
+        "o200060080062"
+      ],
+      [
+        "o200300250072"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o200060080011"
+      ],
+      [
+        "o200060080041"
+      ],
+      [
+        "o200300250052"
+      ]
+    ]
+  }
+}

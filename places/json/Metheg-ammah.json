@@ -1,0 +1,80 @@
+{
+  "id": "place:Metheg-ammah",
+  "primary_id": "place:Gath",
+  "alternate_sources": {
+    "aquifer": [
+      "7093|Metheg-Ammah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000482001003000 000482003002000"
+    ],
+    "tipnr": [
+      "Metheg-ammah|Gath@Jos.11.22-Mic"
+    ],
+    "vizbible": [
+      "reczaDpSZSElt6Xxm"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000482001003000 000482003002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Metheg-ammah",
+      "alternate_labels": [
+        "Gath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Metheg-ammah",
+          "gloss": "Metheg-Ammah",
+          "description": "A location taken by David from the control of the Philistines."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Gath"
+  ],
+  "tribal_area": "group:Philistine",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.6935295",
+      "lon": "34.84388289"
+    },
+    "vizbible": {
+      "lat": "31.6935295",
+      "lon": "34.84388289"
+    }
+  },
+  "key_references": [
+    "10008001"
+  ],
+  "references": [
+    "10008001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080010132"
+      ]
+    ]
+  }
+}

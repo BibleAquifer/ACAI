@@ -1,0 +1,90 @@
+{
+  "id": "realia:Incense",
+  "primary_id": "realia:Incense",
+  "alternate_sources": {
+    "aquifer": [
+      "6017|Incense|TyndaleBibleDictionary",
+      "26723|Incense|UWTranslationWords",
+      "132317|Incense|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "6.211",
+      "6.212"
+    ],
+    "ubsrealia": [
+      "realia:4.4.7.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.211",
+    "6.212"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Incense",
+      "alternate_labels": [
+        "Frankincense"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Incense",
+          "article": "realia:Incense",
+          "description": "A substance, usually a resin, burned for a pleasant smell."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "θυμίαμα",
+      "λίβανος"
+    ]
+  },
+  "key_references": [
+    "02030007",
+    "04016007",
+    "19141002",
+    "66008004"
+  ],
+  "references": [
+    "40002011",
+    "66005008",
+    "66008003",
+    "66008004",
+    "66018013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n66005008025"
+      ],
+      [
+        "n66008003016"
+      ],
+      [
+        "n66008004006"
+      ],
+      [
+        "n66018013006"
+      ],
+      [
+        "n40002011028"
+      ],
+      [
+        "n66018013010"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n66005008026"
+      ]
+    ]
+  }
+}

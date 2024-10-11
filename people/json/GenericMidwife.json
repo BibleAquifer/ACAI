@@ -1,0 +1,83 @@
+{
+  "id": "person:GenericMidwife",
+  "primary_id": "person:GenericMidwife",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "A Midwife",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "A Midwife",
+          "description": "An unnamed midwife participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01035017"
+  ],
+  "references": [
+    "01035017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010350170061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010380280062"
+      ],
+      [
+        "o010380280112"
+      ],
+      [
+        "o010380280062"
+      ],
+      [
+        "o010380290072"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010350170071",
+          "o010350170081",
+          "o010350170091",
+          "o010350170101",
+          "o010350170111",
+          "o010350170121",
+          "o010350170122",
+          "o010350170131"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010380280121",
+          "o010380280131",
+          "o010380280141"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o010380290081",
+          "o010380290091",
+          "o010380290101",
+          "o010380290102",
+          "o010380290111"
+        ]
+      }
+    ]
+  }
+}

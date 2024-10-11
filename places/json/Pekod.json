@@ -1,0 +1,119 @@
+{
+  "id": "place:Pekod",
+  "primary_id": "place:Babylon",
+  "alternate_sources": {
+    "aquifer": [
+      "7628|Pekod|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005967001001000"
+    ],
+    "tipnr": [
+      "Pekod|Babylon@Gen.10.10-Rev"
+    ],
+    "vizbible": [
+      "reciqLEHEJ42oR4bN"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005967001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pekod",
+      "alternate_labels": [
+        "Babylon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Pekod",
+          "gloss": "Pekod",
+          "description": "An ethnic group and their territory, located east of the Tigris River. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Babylon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.53650369",
+      "lon": "44.42088287"
+    },
+    "vizbible": {
+      "lat": "32.53650369",
+      "lon": "44.42088287"
+    }
+  },
+  "key_references": [
+    "26023023",
+    "24050021"
+  ],
+  "references": [
+    "24050021",
+    "26023023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240500210081"
+      ],
+      [
+        "o260230230051"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260230250131"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260230230182",
+        "o260230230191"
+      ],
+      [
+        "o260230240012"
+      ],
+      [
+        "o260230240111"
+      ],
+      [
+        "o260230240172"
+      ],
+      [
+        "o260230250042"
+      ],
+      [
+        "o260230250091"
+      ],
+      [
+        "o260230260012"
+      ],
+      [
+        "o260230260042"
+      ]
+    ]
+  }
+}

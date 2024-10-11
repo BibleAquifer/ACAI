@@ -1,0 +1,65 @@
+{
+  "id": "person:Perez-uzzah",
+  "primary_id": "person:Uzzah",
+  "alternate_sources": {
+    "aquifer": [
+      "7664|Perez-Uzzah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006028001001000"
+    ],
+    "tipnr": [
+      "Perez-uzzah|Uzzah@2Sa.6.3-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abinadab",
+  "siblings": [
+    "person:Eleazar.3",
+    "person:Ahio"
+  ],
+  "ubsdbh": [
+    "006028001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Perez-uzzah (Uzzah)",
+      "alternate_labels": [
+        "Uzzah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uzzah",
+          "article": "person:Perez-uzzah",
+          "description": "Perez-uzzah, also called Uzzah, was a man during the time of Israel's united kingdom who was involved with moving the Ark of the Covenant and mentioned in 2 Samuel 6."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Uzzah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "פַּרְצִי"
+    ]
+  },
+  "key_references": [
+    "10006008"
+  ],
+  "references": [
+    "10006008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100060080121",
+        "o100060080131"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "person:Josech",
+  "primary_id": "person:Josech",
+  "alternate_sources": {
+    "aquifer": [
+      "6444|Josech|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Joseph|Josech@Luk.3.26",
+      "Josech@Luk.3.26"
+    ],
+    "vizbible": [
+      "recE3aXpbLg5d8uwM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joda",
+  "offspring": [
+    "person:Semein"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Josech",
+      "alternate_labels": [
+        "Joseph",
+        "Josek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Josech",
+          "article": "person:Josech",
+          "description": "Son of Joda and the father of Semein in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Joseph.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "42003026"
+  ],
+  "references": [
+    "42003026"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003026008"
+      ]
+    ]
+  }
+}

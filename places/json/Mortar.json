@@ -1,0 +1,74 @@
+{
+  "id": "place:Mortar",
+  "primary_id": "place:Mortar",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004011001003000"
+    ],
+    "tipnr": [
+      "Mortar@Zep.1.11"
+    ],
+    "vizbible": [
+      "reccLs5lbXxd93VlW"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004011001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "The Hollow",
+      "alternate_labels": [
+        "Hollow",
+        "Maktesh",
+        "Mortar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mortar",
+          "gloss": "The Hollow",
+          "description": "Literally \"mortar\"; exact meaning unknown; possibly a relatively low part of Jerusalem used as market area, referred to as such because of its mortar-like shape."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "district in settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "36001011"
+  ],
+  "references": [
+    "36001011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o360010110032"
+      ]
+    ]
+  }
+}

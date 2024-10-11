@@ -1,0 +1,103 @@
+{
+  "id": "place:Abel-meholah",
+  "primary_id": "place:Abel-meholah",
+  "alternate_sources": {
+    "aquifer": [
+      "3279|Abel-Meholah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5a1bdd"
+    ],
+    "ubsdbh": [
+      "000062001001000"
+    ],
+    "tipnr": [
+      "Abel-meholah@Jdg.7.22-1Ki"
+    ],
+    "vizbible": [
+      "rec1TiGubP08v5qaM"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4666524"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000062001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abel-meholah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Abel-meholah",
+          "gloss": "Abel-Meholah",
+          "description": "A town in Gilead, west of the Jordan River, where the prophet Elisha was born (1 Kings 19:16)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Gilead"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אָבֵל מְחֹולָה",
+      "אָבֵל מְחוֹלָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.35601",
+      "lon": "35.536929"
+    },
+    "vizbible": {
+      "lat": "32.35601",
+      "lon": "35.536929"
+    }
+  },
+  "key_references": [
+    "07007022",
+    "11004012",
+    "11019016"
+  ],
+  "references": [
+    "07007022",
+    "11004012",
+    "11019016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070070220211",
+        "o070070220221"
+      ],
+      [
+        "o110040120171",
+        "o110040120181"
+      ],
+      [
+        "o110190160132",
+        "o110190160141"
+      ]
+    ]
+  }
+}

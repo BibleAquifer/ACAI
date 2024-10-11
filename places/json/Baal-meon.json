@@ -1,0 +1,119 @@
+{
+  "id": "place:Baal-meon",
+  "primary_id": "place:Baal-meon",
+  "alternate_sources": {
+    "aquifer": [
+      "3940|Baal-Meon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a76f7b7"
+    ],
+    "tipnr": [
+      "Beon|Baal-meon@Num.32.3-Ezk",
+      "Baal-meon@Num.32.3-Ezk",
+      "Beth-meon|Baal-meon@Num.32.3-Ezk"
+    ],
+    "vizbible": [
+      "recUga1ulf3rDvMru"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4837123"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baal-meon",
+      "alternate_labels": [
+        "Beth-Meon",
+        "Beth-Baal-Meon",
+        "Beon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baal-meon",
+          "gloss": "Baal-Meon",
+          "description": "A town in the territory of Reuben, and later of Moab; also known as Beth-Meon, Beth-Baal-Meon, and Beon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Beth-meon",
+    "place:Beon"
+  ],
+  "tribal_area": "group:Reuben",
+  "subregion_of": [
+    "place:TerritoryOfReuben",
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.679454",
+      "lon": "35.734892"
+    },
+    "vizbible": {
+      "lat": "31.679454",
+      "lon": "35.734892"
+    }
+  },
+  "key_references": [
+    "04032038",
+    "04032003",
+    "24048023"
+  ],
+  "references": [
+    "04032003",
+    "04032038",
+    "06013017",
+    "13005008",
+    "24048023",
+    "26025009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320030092"
+      ],
+      [
+        "o040320380041",
+        "o040320380051"
+      ],
+      [
+        "o060130170092",
+        "o060130170101",
+        "o060130170111"
+      ],
+      [
+        "o130050080132",
+        "o130050080141"
+      ],
+      [
+        "o240480230071",
+        "o240480230081"
+      ],
+      [
+        "o260250090141",
+        "o260250090151"
+      ]
+    ]
+  }
+}

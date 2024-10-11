@@ -1,0 +1,53 @@
+{
+  "id": "realia:Pouch",
+  "primary_id": "realia:Pouch",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002943001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.2.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "002943001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pouch",
+      "alternate_labels": [
+        "Bag"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pouch",
+          "article": "realia:Pouch",
+          "description": "A small bag made of leather or cloth, used to carry food and small items, often worn on a belt or shoulder."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יַלְקוּט"
+    ]
+  },
+  "key_references": [
+    "09017040"
+  ],
+  "references": [
+    "09017040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090170400173"
+      ]
+    ]
+  }
+}

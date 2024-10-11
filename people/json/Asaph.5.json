@@ -1,0 +1,71 @@
+{
+  "id": "person:Asaph.5",
+  "primary_id": "person:Ebiasaph",
+  "alternate_sources": {
+    "aquifer": [
+      "3779|Asaph|TyndaleBibleDictionary",
+      "26338|Asaph|UWTranslationWords",
+      "132452|Asaph|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000570001003000"
+    ],
+    "tipnr": [
+      "Asaph|Ebiasaph@Exo.6.24-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Korah.3",
+  "offspring": [
+    "person:Assir.2",
+    "person:Kore"
+  ],
+  "siblings": [
+    "person:Assir",
+    "person:Elkanah"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000570001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Asaph (Ebiasaph)",
+      "alternate_labels": [
+        "Ebiasaph"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ebiasaph",
+          "article": "person:Asaph.5",
+          "description": "A Levite from the time of Egypt and the wilderness, also called Ebiasaph, mentioned in Exodus 6:24 and 1 Chronicles 26:1, ancestor of gatekeepers."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ebiasaph"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָסָף"
+    ]
+  },
+  "key_references": [
+    "13026001"
+  ],
+  "references": [
+    "13026001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130260010091"
+      ]
+    ]
+  }
+}

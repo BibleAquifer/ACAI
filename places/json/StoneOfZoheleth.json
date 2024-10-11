@@ -1,0 +1,89 @@
+{
+  "id": "place:StoneOfZoheleth",
+  "primary_id": "place:En-rogel",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001957001001000",
+      "000069001001000"
+    ],
+    "tipnr": [
+      "Stone_of_Zoheleth|En-rogel@Jos.15.7-1Ki"
+    ],
+    "vizbible": [
+      "recav9zHYvduqB2c5"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001957001001000",
+    "000069001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stone of Zoheleth",
+      "alternate_labels": [
+        "En-Rogel",
+        "Serpent’s Stone",
+        "Zoheleth",
+        "Serpent's Stone"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Serpent’sStone",
+          "gloss": "Stone of Zoheleth",
+          "description": "A stone or rock located near En-Rogel, south of Jerusalem; where David's son Adonijah tried to make himself king. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:En-rogel"
+  ],
+  "nearby_places": [
+    "place:En-rogel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶבֶן הַזֹּחֶלֶת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "rock"
+    ],
+    "acai": [
+      "other"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.767775",
+      "lon": "35.234408"
+    },
+    "vizbible": {
+      "lat": "31.767775",
+      "lon": "35.234408"
+    }
+  },
+  "key_references": [
+    "11001009"
+  ],
+  "references": [
+    "11001009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110010090071",
+        "o110010090081"
+      ]
+    ]
+  }
+}

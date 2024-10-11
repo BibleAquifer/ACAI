@@ -1,0 +1,93 @@
+{
+  "id": "place:Jokmeam",
+  "primary_id": "place:Jokneam",
+  "alternate_sources": {
+    "aquifer": [
+      "6422|Jokmeam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003071001001000"
+    ],
+    "tipnr": [
+      "Jokmeam|Jokneam@Jos.12.22-1Ki"
+    ],
+    "vizbible": [
+      "recXcaYQPIm0HPPyc"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003071001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jokmeam (of Ephraim)",
+      "alternate_labels": [
+        "Jokneam",
+        "Jokmeam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jokmeam.1",
+          "gloss": "Jokmeam (of Ephraim)",
+          "description": "A Levitical town in the territory of Ephraim."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Jokneam"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָקְמְעָם",
+      "יׇקְמְעָם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.66454577",
+      "lon": "35.10891819"
+    },
+    "vizbible": {
+      "lat": "32.66454577",
+      "lon": "35.10891819"
+    }
+  },
+  "key_references": [
+    "11004012",
+    "13006053"
+  ],
+  "references": [
+    "11004012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110040120212"
+      ]
+    ]
+  }
+}

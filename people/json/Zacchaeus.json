@@ -1,0 +1,130 @@
+{
+  "id": "person:Zacchaeus",
+  "primary_id": "person:Zacchaeus",
+  "alternate_sources": {
+    "aquifer": [
+      "9120|Zacchaeus|TyndaleBibleDictionary",
+      "27222|Zacchaeus|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.134"
+    ],
+    "tipnr": [
+      "Zacchaeus@Luk.19.2-"
+    ],
+    "vizbible": [
+      "recmzOmqOEixMQS2w"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Tax Collector"
+  ],
+  "ubsdgnt": [
+    "93.134"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zacchaeus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zacchaeus",
+          "article": "person:Zacchaeus",
+          "description": "Chief tax collector of Jericho who became a follower of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ζακχαῖος"
+    ]
+  },
+  "key_references": [
+    "42019002",
+    "42019005",
+    "42019008"
+  ],
+  "references": [
+    "42019002",
+    "42019005",
+    "42019008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42019002006"
+      ],
+      [
+        "n42019005013"
+      ],
+      [
+        "n42019008003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42019005021"
+      ],
+      [
+        "n42019008011"
+      ],
+      [
+        "n42019009004"
+      ],
+      [
+        "n42019009016"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42019005014",
+        "n42019005015"
+      ],
+      [
+        "n42019008001"
+      ],
+      [
+        "n42019008017"
+      ],
+      [
+        "n42019008022",
+        "n42019008023"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n42019008008",
+          "n42019008009",
+          "n42019008010",
+          "n42019008011",
+          "n42019008012",
+          "n42019008013",
+          "n42019008014",
+          "n42019008015",
+          "n42019008016",
+          "n42019008017",
+          "n42019008018",
+          "n42019008019",
+          "n42019008020",
+          "n42019008021",
+          "n42019008022",
+          "n42019008023",
+          "n42019008024"
+        ]
+      }
+    ]
+  }
+}

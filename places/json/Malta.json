@@ -1,0 +1,103 @@
+{
+  "id": "place:Malta",
+  "primary_id": "place:Malta",
+  "alternate_sources": {
+    "aquifer": [
+      "6909|Malta|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a57835d"
+    ],
+    "ubsdgnt": [
+      "93.529"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/25440"
+    ],
+    "tipnr": [
+      "Malta@Act.28.1"
+    ],
+    "vizbible": [
+      "recHGqci8tWKDU549"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q193896"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.529"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Malta",
+      "alternate_labels": [
+        "Melita"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Malta",
+          "gloss": "Malta",
+          "description": "An island south of Sicily where Paul was shipwrecked on his voyage to Rome."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:GreatSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Μελίτη"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "island"
+    ],
+    "vizbible": [
+      "Island"
+    ],
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.85282675",
+      "lon": "14.53243601"
+    },
+    "recogito": {
+      "lat": "35.87373581",
+      "lon": "14.44874427"
+    },
+    "vizbible": {
+      "lat": "35.87373581",
+      "lon": "14.44874427"
+    },
+    "biblica-maps": {
+      "lat": "35.88444",
+      "lon": "14.40448"
+    }
+  },
+  "key_references": [
+    "44028001"
+  ],
+  "references": [
+    "44028001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44028001006"
+      ]
+    ]
+  }
+}

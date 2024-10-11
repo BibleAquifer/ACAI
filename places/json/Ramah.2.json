@@ -1,0 +1,154 @@
+{
+  "id": "place:Ramah.2",
+  "primary_id": "place:Ramah.2",
+  "alternate_sources": {
+    "geonames": [
+      "http://sws.geonames.org/282239"
+    ],
+    "tipnr": [
+      "Ramah@Jos.18.25-Mat",
+      "Ramah@Jos.18.25-Mat"
+    ],
+    "vizbible": [
+      "rectFOmd9oBb0DoQ1"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ramah (of Naphtali)",
+      "alternate_labels": [
+        "Rama",
+        "Ramah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ramah.3",
+          "gloss": "Ramah (of Naphtali)",
+          "description": "A fortified town in the territory of Naphtali."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ramah.2"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.89637864",
+      "lon": "35.20173069"
+    },
+    "recogito": {
+      "lat": "31.89964",
+      "lon": "35.20422"
+    },
+    "vizbible": {
+      "lat": "31.89964",
+      "lon": "35.20422"
+    }
+  },
+  "key_references": [
+    "06019036"
+  ],
+  "references": [
+    "06018025",
+    "06019008",
+    "07004005",
+    "07019013",
+    "11015017",
+    "11015021",
+    "11015022",
+    "14016001",
+    "14016005",
+    "14016006",
+    "15002026",
+    "16007030",
+    "16011033",
+    "23010029",
+    "24031015",
+    "24040001",
+    "28005008",
+    "40002018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180250023"
+      ],
+      [
+        "o060190080101"
+      ],
+      [
+        "o070040050072"
+      ],
+      [
+        "o070190130102"
+      ],
+      [
+        "o110150170092"
+      ],
+      [
+        "o110150210072"
+      ],
+      [
+        "o110150220122"
+      ],
+      [
+        "o140160010142"
+      ],
+      [
+        "o140160050072"
+      ],
+      [
+        "o140160060102"
+      ],
+      [
+        "o150020260022"
+      ],
+      [
+        "o160070300022"
+      ],
+      [
+        "o160110330021"
+      ],
+      [
+        "o230100290072"
+      ],
+      [
+        "o240310150052"
+      ],
+      [
+        "o240400010152"
+      ],
+      [
+        "o280050080052"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40002018003"
+      ]
+    ]
+  }
+}

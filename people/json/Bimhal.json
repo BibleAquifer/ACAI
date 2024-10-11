@@ -1,0 +1,69 @@
+{
+  "id": "person:Bimhal",
+  "primary_id": "person:Bimhal",
+  "alternate_sources": {
+    "aquifer": [
+      "4246|Bimhal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001037001001000"
+    ],
+    "tipnr": [
+      "Bimhal@1Ch.7.33"
+    ],
+    "vizbible": [
+      "recsEuguiub0F7XVY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Japhlet",
+  "siblings": [
+    "person:Pasach",
+    "person:Ashvath"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "001037001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bimhal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bimhal",
+          "article": "person:Bimhal",
+          "description": "A man from the tribe of Asher, son of Japhlet, mentioned in 1 Chronicles 7:33."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בִּמְהָל"
+    ]
+  },
+  "key_references": [
+    "13007033"
+  ],
+  "references": [
+    "13007033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070330042"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130070330061"
+      ]
+    ]
+  }
+}

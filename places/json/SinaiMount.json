@@ -1,0 +1,284 @@
+{
+  "id": "place:SinaiMount",
+  "primary_id": "place:SinaiMount",
+  "alternate_sources": {
+    "aquifer": [
+      "7235|Mount Sinai|TyndaleBibleDictionary",
+      "132273|Mount Sinai|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "abfba2a"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/746815"
+    ],
+    "tipnr": [
+      "Sinai_Mount@Exo.19.11-Gal",
+      "Horeb_Mount|Sinai_Mount@Exo.19.11-Gal"
+    ],
+    "vizbible": [
+      "rec5Yu6987dc60uKz"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q377485"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Sinai",
+      "alternate_labels": [
+        "Sina",
+        "Sinai",
+        "Mount Horeb",
+        "Horeb"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountSinai",
+          "gloss": "Mount Sinai",
+          "description": "A mountain and surrounding desert on the Sinai Peninsula in Egypt where YHWH entered into a covenant with Israel; also known as Mount Horeb."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:HorebMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.539722",
+      "lon": "33.973333"
+    },
+    "recogito": {
+      "lat": "28.58771",
+      "lon": "33.921682"
+    },
+    "vizbible": {
+      "lat": "28.58771",
+      "lon": "33.921682"
+    },
+    "biblica-maps": {
+      "lat": "28.58771",
+      "lon": "33.92168"
+    }
+  },
+  "key_references": [
+    "02024012",
+    "05005002",
+    "05028069",
+    "48004024",
+    "02019016",
+    "02031018",
+    "02003001",
+    "05001002"
+  ],
+  "references": [
+    "02003001",
+    "02016001",
+    "02017006",
+    "02019011",
+    "02019018",
+    "02019020",
+    "02019023",
+    "02024016",
+    "02031018",
+    "02033006",
+    "02034002",
+    "02034004",
+    "02034029",
+    "02034032",
+    "03007038",
+    "03025001",
+    "03026046",
+    "03027034",
+    "04003001",
+    "04028006",
+    "05001002",
+    "05001006",
+    "05001019",
+    "05004010",
+    "05004015",
+    "05005002",
+    "05009008",
+    "05018016",
+    "05028069",
+    "05033002",
+    "07005005",
+    "11008009",
+    "11019008",
+    "14005010",
+    "16009013",
+    "19068009",
+    "19068018",
+    "19106019",
+    "39003022",
+    "44007030",
+    "44007038",
+    "48004024",
+    "48004025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020030010191"
+      ],
+      [
+        "o020160010151"
+      ],
+      [
+        "o020170060072"
+      ],
+      [
+        "o020190110151"
+      ],
+      [
+        "o020190180021"
+      ],
+      [
+        "o020190200051"
+      ],
+      [
+        "o020190230111"
+      ],
+      [
+        "o020240160061"
+      ],
+      [
+        "o020310180081"
+      ],
+      [
+        "o020330060071"
+      ],
+      [
+        "o020340020081"
+      ],
+      [
+        "o020340040121"
+      ],
+      [
+        "o020340290051"
+      ],
+      [
+        "o020340320151"
+      ],
+      [
+        "o030070380071"
+      ],
+      [
+        "o030070380181"
+      ],
+      [
+        "o030250010061"
+      ],
+      [
+        "o030260460131"
+      ],
+      [
+        "o030270340121"
+      ],
+      [
+        "o040030010111"
+      ],
+      [
+        "o040280060051"
+      ],
+      [
+        "o050010020042"
+      ],
+      [
+        "o050010060052"
+      ],
+      [
+        "o050010190022"
+      ],
+      [
+        "o050040100072"
+      ],
+      [
+        "o050040150132"
+      ],
+      [
+        "o050050020062"
+      ],
+      [
+        "o050090080013"
+      ],
+      [
+        "o050180160072"
+      ],
+      [
+        "o050280690202"
+      ],
+      [
+        "o050330020032"
+      ],
+      [
+        "o070050050061"
+      ],
+      [
+        "o110080090112"
+      ],
+      [
+        "o110190080151"
+      ],
+      [
+        "o140050100092"
+      ],
+      [
+        "o160090130031"
+      ],
+      [
+        "o190680090091"
+      ],
+      [
+        "o190680180081"
+      ],
+      [
+        "o191060190032"
+      ],
+      [
+        "o390030220082"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44007030012"
+      ],
+      [
+        "n44007038020"
+      ],
+      [
+        "n48004024013"
+      ],
+      [
+        "n48004025004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o050010060112"
+      ]
+    ]
+  }
+}

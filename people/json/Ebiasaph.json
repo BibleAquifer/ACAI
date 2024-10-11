@@ -1,0 +1,87 @@
+{
+  "id": "person:Ebiasaph",
+  "primary_id": "person:Ebiasaph",
+  "alternate_sources": {
+    "aquifer": [
+      "4929|Ebiasaph|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ebiasaph@Exo.6.24-1Ch",
+      "Abiasaph|Ebiasaph@Exo.6.24-1Ch",
+      "Asaph|Ebiasaph@Exo.6.24-1Ch"
+    ],
+    "vizbible": [
+      "recLEYnTrXjwcPA9C"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Korah.3",
+  "offspring": [
+    "person:Assir.2",
+    "person:Kore"
+  ],
+  "siblings": [
+    "person:Assir",
+    "person:Elkanah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ebiasaph",
+      "alternate_labels": [
+        "Abiasaph",
+        "Asaph"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ebiasaph",
+          "article": "person:Ebiasaph",
+          "description": "A Levite man who lived during the time of Egyptian slavery and the wilderness wandering of the Israelites. A son of Korah, brother of Assir and Elkanah, and father of Assir and Kore."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Abiasaph",
+    "person:Asaph.5"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006024",
+    "13006008",
+    "13009019"
+  ],
+  "references": [
+    "02006024",
+    "13006008",
+    "13006022",
+    "13009019",
+    "13026001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060240052"
+      ],
+      [
+        "o130060080032"
+      ],
+      [
+        "o130060220061"
+      ],
+      [
+        "o130090190051"
+      ],
+      [
+        "o130260010091"
+      ]
+    ]
+  }
+}

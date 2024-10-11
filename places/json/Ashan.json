@@ -1,0 +1,102 @@
+{
+  "id": "place:Ashan",
+  "primary_id": "place:Ashan",
+  "alternate_sources": {
+    "aquifer": [
+      "3790|Ashan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005388003003000"
+    ],
+    "tipnr": [
+      "Ashan@Jos.15.42-1Ch"
+    ],
+    "vizbible": [
+      "recnRPbgfF5LIg3yw"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005388003003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ashan",
+      "alternate_labels": [
+        "Ain"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ashan",
+          "gloss": "Ashan",
+          "description": "A Levitical town in the foothills, in the territory of Judah or Simeon, that received part of the loot that David took on his raids. The exact location is unknown; also known as Bor-Ashan. "
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Bor-ashan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עַיִן",
+      "עַ֫יִן",
+      "רִמּוֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    },
+    "recogito": {
+      "lat": "40.91826",
+      "lon": "107.99828"
+    },
+    "vizbible": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    }
+  },
+  "key_references": [
+    "09030030",
+    "13006044"
+  ],
+  "references": [
+    "06015042",
+    "06019007",
+    "13004032",
+    "13006044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150420032"
+      ],
+      [
+        "o060190070042"
+      ],
+      [
+        "o130040320062"
+      ],
+      [
+        "o130060440021"
+      ]
+    ]
+  }
+}

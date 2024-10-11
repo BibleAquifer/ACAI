@@ -1,0 +1,66 @@
+{
+  "id": "person:Hoshama",
+  "primary_id": "person:Hoshama",
+  "alternate_sources": {
+    "aquifer": [
+      "5920|Hoshama|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001796001001000"
+    ],
+    "tipnr": [
+      "Hoshama@1Ch.3.18"
+    ],
+    "vizbible": [
+      "rec6rA7yg3K9ipDg3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shealtiel.2",
+  "siblings": [
+    "person:Malchiram",
+    "person:Pedaiah.2",
+    "person:Shenazzar",
+    "person:Jekamiah.2",
+    "person:Nedabiah"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "001796001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hoshama",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hoshama",
+          "article": "person:Hoshama",
+          "description": "Hoshama was a man of the tribe of Judah, living during the divided kingdom, son of King Jehoiachin, and mentioned in 1 Chronicles 3:18."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֹושָׁמָע",
+      "יְהוֹשָׁמָע"
+    ]
+  },
+  "key_references": [
+    "13003018"
+  ],
+  "references": [
+    "13003018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130030180051"
+      ]
+    ]
+  }
+}

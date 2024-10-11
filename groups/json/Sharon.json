@@ -1,0 +1,55 @@
+{
+  "id": "group:Sharon",
+  "primary_id": "group:Sharon",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007634001001000"
+    ],
+    "tipnr": [
+      "Sharon@1Ch.27.29-Act"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Sharon.2",
+  "ubsdbh": [
+    "007634001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sharonites",
+      "alternate_labels": [
+        "Sharon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sharonites",
+          "article": "group:Sharon",
+          "description": "People who live in Sharon."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שִׁרְטַי",
+      "שָׁרוֹן"
+    ]
+  },
+  "key_references": [
+    "13027029"
+  ],
+  "references": [
+    "13027029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130270290072"
+      ]
+    ]
+  }
+}

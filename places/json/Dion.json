@@ -1,0 +1,46 @@
+{
+  "id": "place:Dion",
+  "primary_id": "place:Dion",
+  "alternate_sources": {
+    "aquifer": [
+      "4852|Dion|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Dion",
+          "gloss": "Dion",
+          "description": "A city of the Decapolis."
+        }
+      ],
+      "preferred_label": "Dion",
+      "alternate_labels": [
+        "Dium"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Decapolis"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.45554",
+      "lon": "35.88143"
+    }
+  }
+}

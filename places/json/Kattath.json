@@ -1,0 +1,86 @@
+{
+  "id": "place:Kattath",
+  "primary_id": "place:Kitron",
+  "alternate_sources": {
+    "aquifer": [
+      "6526|Kattath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006443001001000"
+    ],
+    "tipnr": [
+      "Kattath|Kitron@Jdg.1.30-Jdg"
+    ],
+    "vizbible": [
+      "recxMzVcOH9Xl3F2D"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006443001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kattath",
+      "alternate_labels": [
+        "Kattah",
+        "Kitron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kattath",
+          "gloss": "Kattath",
+          "description": "A town in the territory of Zebulun."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Kitron"
+  ],
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.753141",
+      "lon": "35.279335"
+    },
+    "vizbible": {
+      "lat": "32.753141",
+      "lon": "35.279335"
+    }
+  },
+  "key_references": [
+    "06019015"
+  ],
+  "references": [
+    "06019015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190150012"
+      ]
+    ]
+  }
+}

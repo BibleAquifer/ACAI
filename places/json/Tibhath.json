@@ -1,0 +1,90 @@
+{
+  "id": "place:Tibhath",
+  "primary_id": "place:Betah",
+  "alternate_sources": {
+    "aquifer": [
+      "4148|Betah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002651001001000"
+    ],
+    "tipnr": [
+      "Tibhath|Betah@2Sa.8.8"
+    ],
+    "vizbible": [
+      "receUGVTCDMBusNhW"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002651001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Betah",
+      "alternate_labels": [
+        "Tebah",
+        "Tibhath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tibhath",
+          "gloss": "Betah",
+          "description": "A town in the kingdom of Zobah during the time of King David."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Betah"
+  ],
+  "subregion_of": [
+    "place:Zobah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "טִבְחַת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.931480",
+      "lon": "36.152049"
+    },
+    "vizbible": {
+      "lat": "33.931480",
+      "lon": "36.152049"
+    }
+  },
+  "key_references": [
+    "10008008",
+    "13018008"
+  ],
+  "references": [
+    "10008008",
+    "13018008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130180080013"
+      ]
+    ]
+  }
+}

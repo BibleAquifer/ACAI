@@ -1,0 +1,67 @@
+{
+  "id": "group:Izhar",
+  "primary_id": "group:Izhar",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003039001001000"
+    ],
+    "tipnr": [
+      "Izhar@Exo.6.18-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Izhar",
+  "ubsdbh": [
+    "003039001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Izharites",
+      "alternate_labels": [
+        "Izhar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Izharites",
+          "article": "group:Izhar",
+          "description": "People descended from Izhar, of the subclan of Kohathites, of the tribe of Levi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִצְהָרִי"
+    ]
+  },
+  "key_references": [
+    "04003027",
+    "13024029"
+  ],
+  "references": [
+    "04003027",
+    "13024022",
+    "13026023",
+    "13026029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040030270052"
+      ],
+      [
+        "o130240220012"
+      ],
+      [
+        "o130260230022"
+      ],
+      [
+        "o130260290012"
+      ]
+    ]
+  }
+}

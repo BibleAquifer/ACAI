@@ -1,0 +1,40 @@
+{
+  "id": "place:Adasa",
+  "primary_id": "place:Adasa",
+  "alternate_sources": {
+    "aquifer": [
+      "3368|Adasa|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Adasa",
+          "gloss": "Adasa",
+          "description": "A city near Beth-Horon where Judas Maccabeus defeated Nicanor, leader of the Syrian army (1 Maccabees 7:40)"
+        }
+      ],
+      "preferred_label": "Adasa"
+    }
+  },
+  "nearby_places": [
+    "place:Beth-horonLower"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": true,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "key_references": [
+    "78007040"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "place:Antioch.2",
+  "primary_id": "place:Antioch.2",
+  "alternate_sources": {
+    "aquifer": [
+      "26322|Antioch|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "93.405b"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21442"
+    ],
+    "tipnr": [
+      "Antioch@Act.13.14-2Ti"
+    ],
+    "vizbible": [
+      "recevhMicAECGWRVk"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.405b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Antioch (of Pisidia)",
+      "alternate_labels": [
+        "Antioch (Pisidia)",
+        "Antioch"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Antioch.2",
+          "gloss": "Antioch (of Pisidia)",
+          "description": "A city in Pisidia, located on the Via Sebaste, where Paul traveled to during his first missionary journey."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Pisidia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Ἀντιόχεια"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "38.31643056",
+      "lon": "31.17948683"
+    },
+    "recogito": {
+      "lat": "38.30466",
+      "lon": "31.19049"
+    },
+    "vizbible": {
+      "lat": "38.30466",
+      "lon": "31.19049"
+    },
+    "biblica-maps": {
+      "lat": "38.30517",
+      "lon": "31.18944"
+    }
+  },
+  "key_references": [
+    "44014019",
+    "44013014"
+  ],
+  "references": [
+    "44013014",
+    "44014019",
+    "44014021",
+    "55003011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44013014009"
+      ],
+      [
+        "n44014019004"
+      ],
+      [
+        "n44014021018"
+      ],
+      [
+        "n55003011009"
+      ]
+    ]
+  }
+}

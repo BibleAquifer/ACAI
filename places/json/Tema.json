@@ -1,0 +1,97 @@
+{
+  "id": "place:Tema",
+  "primary_id": "place:Tema",
+  "alternate_sources": {
+    "aquifer": [
+      "8779|Tema (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "acd48d6"
+    ],
+    "ubsdbh": [
+      "007784001003000",
+      "007784001002000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2294700"
+    ],
+    "tipnr": [
+      "Tema@Job.6.19-Jer"
+    ],
+    "vizbible": [
+      "recrydf4wCTnlOHEO"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q25062205"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007784001003000",
+    "007784001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tema",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tema",
+          "gloss": "Tema",
+          "description": "A region in northern Arabia, identified with Tayma, an oasis; founded by one of Abraham's sons."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "27.633172",
+      "lon": "38.554125"
+    },
+    "recogito": {
+      "lat": "5.6698",
+      "lon": "-0.01657"
+    },
+    "vizbible": {
+      "lat": "27.633172",
+      "lon": "38.554125"
+    }
+  },
+  "key_references": [
+    "18006019",
+    "24025023",
+    "23021014"
+  ],
+  "references": [
+    "18006019",
+    "23021014",
+    "24025023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180060190031"
+      ],
+      [
+        "o230210140071"
+      ],
+      [
+        "o240250230041"
+      ]
+    ]
+  }
+}

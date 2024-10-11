@@ -1,0 +1,96 @@
+{
+  "id": "place:Beth-marcaboth",
+  "primary_id": "place:Madmannah",
+  "alternate_sources": {
+    "aquifer": [
+      "4189|Beth-Marcaboth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000950001001000"
+    ],
+    "tipnr": [
+      "Beth-marcaboth|Madmannah@Jos.15.31-1Ch"
+    ],
+    "vizbible": [
+      "recIvd8hPkCOsl51H"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000950001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-marcaboth",
+      "alternate_labels": [
+        "Madmannah",
+        "Beth Markaboth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-marcaboth",
+          "gloss": "Beth-Marcaboth",
+          "description": "A town in the territory of Simeon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Madmannah"
+  ],
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית הַמַּרְכָּבֹות",
+      "בֵּית מַרְכָּבוֹת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.391668",
+      "lon": "34.940502"
+    },
+    "vizbible": {
+      "lat": "31.391668",
+      "lon": "34.940502"
+    }
+  },
+  "key_references": [
+    "06019005",
+    "13004031"
+  ],
+  "references": [
+    "06019005",
+    "13004031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190050022",
+        "o060190050031"
+      ],
+      [
+        "o130040310013",
+        "o130040310021"
+      ]
+    ]
+  }
+}

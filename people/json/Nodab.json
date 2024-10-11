@@ -1,0 +1,76 @@
+{
+  "id": "person:Nodab",
+  "primary_id": "person:Kedemah",
+  "alternate_sources": {
+    "aquifer": [
+      "7418|Nodab, Nodabites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004687001001000"
+    ],
+    "tipnr": [
+      "Nodab|Kedemah@Gen.25.15-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Mahalath"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "004687001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nodab (Kedemah)",
+      "alternate_labels": [
+        "Kedemah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kedemah",
+          "article": "person:Nodab",
+          "description": "Nodab, also known as Kedemah, was a son of Ishmael and brother to eleven others, mentioned first in Genesis 25:15 and also in 1 Chronicles 5:19 as an ethnic group living east of the Jordan River."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Kedemah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נֹודָב",
+      "נוֹדָ֑ב"
+    ]
+  },
+  "key_references": [
+    "13005019"
+  ],
+  "references": [
+    "13005019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050190072"
+      ]
+    ]
+  }
+}

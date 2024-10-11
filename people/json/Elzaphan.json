@@ -1,0 +1,90 @@
+{
+  "id": "person:Elzaphan",
+  "primary_id": "person:Elizaphan",
+  "alternate_sources": {
+    "aquifer": [
+      "5063|Elzaphan|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000473001001000"
+    ],
+    "tipnr": [
+      "Elzaphan|Elizaphan@Exo.6.22-2Ch"
+    ],
+    "vizbible": [
+      "recLuAdoqN5YiW32l"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Uzziel",
+  "siblings": [
+    "person:Mishael",
+    "person:Sithri",
+    "person:Micah.5",
+    "person:Isshiah.3"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "000473001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elzaphan (Elizaphan)",
+      "alternate_labels": [
+        "Elizaphan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elizaphan",
+          "article": "person:Elzaphan",
+          "description": "Elzaphan, also known as Elizaphan, was a man from the tribe of Levi living during the time of Egypt and the wilderness, first mentioned in Exodus 6:22."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Elizaphan"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְצָפָן",
+      "אֱלִיצָפָן"
+    ]
+  },
+  "key_references": [
+    "02006022",
+    "03010004"
+  ],
+  "references": [
+    "02006022",
+    "03010004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060220042"
+      ],
+      [
+        "o030100040061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o030100040131",
+        "o030100040141"
+      ],
+      [
+        "o030100050012"
+      ],
+      [
+        "o030100050022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "place:Bethabara",
+  "primary_id": "place:Bethabara",
+  "alternate_sources": {
+    "geonames": [
+      "http://sws.geonames.org/4229079"
+    ],
+    "tipnr": [
+      "Bethabara@Jhn.1.28"
+    ],
+    "vizbible": [
+      "recuopRspYkwGpj5A"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bethany Beyond the Jordan",
+      "alternate_labels": [
+        "Bethany",
+        "Bethabara"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bethany.2",
+          "gloss": "Bethany Beyond the Jordan",
+          "description": "A place on the east side of the Jordan River where John baptized."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Beth-barah"
+  ],
+  "nearby_places": [
+    "place:Jordan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "region",
+      "wadi",
+      "special",
+      "ford"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.83632115",
+      "lon": "35.55260017"
+    },
+    "recogito": {
+      "lat": "32.86682",
+      "lon": "-82.40402"
+    },
+    "vizbible": {
+      "lat": "31.83632115",
+      "lon": "35.55260017"
+    },
+    "biblica-maps": {
+      "lat": "31.86771",
+      "lon": "35.56433"
+    }
+  },
+  "key_references": [
+    "43001028"
+  ],
+  "references": [
+    "43001028"
+  ]
+}

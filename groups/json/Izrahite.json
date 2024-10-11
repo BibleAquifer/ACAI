@@ -1,0 +1,59 @@
+{
+  "id": "group:Izrahite",
+  "primary_id": "group:Izrahite",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002886001001000"
+    ],
+    "tipnr": [
+      "Izrahite|Zerah@Gen.38.30-Mat"
+    ],
+    "vizbible": [
+      "recDVibWa6L3nm3IH"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Zerah.3",
+  "ubsdbh": [
+    "002886001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Izrahites",
+      "alternate_labels": [
+        "Shamhuth",
+        "Zerah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Izrahites",
+          "article": "group:Izrahite",
+          "description": "People descended from Irzah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִזְרָח",
+      "יִזְרָ֑ח"
+    ]
+  },
+  "key_references": [
+    "13027008"
+  ],
+  "references": [
+    "13027008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130270080062"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "fauna:Maggot",
+  "primary_id": "fauna:Maggot",
+  "alternate_sources": {
+    "aquifer": [
+      "9093|Worm|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "23.166",
+      "4.57"
+    ],
+    "ubsdbh": [
+      "006816001001000",
+      "007746001001000"
+    ],
+    "ubsfauna": [
+      "fauna:6.13"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Insects, Spiders, and Worms",
+  "ubsdgnt": [
+    "23.166",
+    "4.57"
+  ],
+  "ubsdbh": [
+    "006816001001000",
+    "007746001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Worm",
+      "alternate_labels": [
+        "Maggot"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Worm",
+          "article": "fauna:Maggot",
+          "description": "A small, soft, legless creature that eats decaying food."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "רִמָּה",
+      "תֹּולֵעָה"
+    ],
+    "el": [
+      "σκωληκόβρωτος",
+      "σκώληξ"
+    ]
+  },
+  "key_references": [
+    "02016024",
+    "23014011",
+    "41009048"
+  ],
+  "references": [
+    "02016020",
+    "02016024",
+    "05028039",
+    "18007005",
+    "18017014",
+    "18021026",
+    "18024020",
+    "18025006",
+    "19022007",
+    "23014011",
+    "23041014",
+    "23066024",
+    "32004007",
+    "41009048",
+    "41016018",
+    "44012023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020160240102"
+      ],
+      [
+        "o180070050031"
+      ],
+      [
+        "o180170140072"
+      ],
+      [
+        "o180210260052"
+      ],
+      [
+        "o180240200041"
+      ],
+      [
+        "o180250060041"
+      ],
+      [
+        "o230140110081"
+      ],
+      [
+        "o020160200111"
+      ],
+      [
+        "o050280390112"
+      ],
+      [
+        "o180250060071"
+      ],
+      [
+        "o190220070021"
+      ],
+      [
+        "o230140110101"
+      ],
+      [
+        "o230410140031"
+      ],
+      [
+        "o230660240081",
+        "o230660240082"
+      ],
+      [
+        "o320040070031"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44012023017"
+      ],
+      [
+        "n41009048003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230410140082"
+      ],
+      [
+        "o230410140113"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230410140021"
+      ],
+      [
+        "o320040070072"
+      ]
+    ]
+  }
+}

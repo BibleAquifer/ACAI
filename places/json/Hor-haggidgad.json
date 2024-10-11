@@ -1,0 +1,91 @@
+{
+  "id": "place:Hor-haggidgad",
+  "primary_id": "place:Hor-haggidgad",
+  "alternate_sources": {
+    "aquifer": [
+      "5902|Hor-Haggidgad|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5e36e6"
+    ],
+    "tipnr": [
+      "Hor-haggidgad@Num.33.32-Deu"
+    ],
+    "vizbible": [
+      "recn603JbNWAX5cEE"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5901395"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hor-haggidgad",
+      "alternate_labels": [
+        "Hor-Hagidgad",
+        "Gudgodah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hor-haggidgad",
+          "gloss": "Hor-Haggidgad",
+          "description": "A location in the Sinai Peninsula, between Bene-Jaakan and Yotbathah, where the Israelites encamped on their way from Egypt to Canaan; probably to be identified with Gudgodah."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.358285",
+      "lon": "35.190270"
+    },
+    "vizbible": {
+      "lat": "30.358285",
+      "lon": "35.190270"
+    }
+  },
+  "key_references": [
+    "04033033",
+    "04033032",
+    "05010007"
+  ],
+  "references": [
+    "04033032",
+    "04033033",
+    "05010007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330320052",
+        "o040330320061"
+      ],
+      [
+        "o040330330022",
+        "o040330330031"
+      ],
+      [
+        "o050100070032"
+      ],
+      [
+        "o050100070052"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "person:SecondAccuserOfPeter",
+  "primary_id": "person:SecondAccuserOfPeter",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Peter's Second Accuser",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Peter's Second Accuser",
+          "description": "The second person (a male) to accuse Peter of denial."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "42022058"
+  ],
+  "references": [
+    "42022058"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42022058004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43018025008"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "accusing",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42022058008",
+          "n42022058009",
+          "n42022058010",
+          "n42022058011",
+          "n42022058012"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n43018025011",
+          "n43018025012",
+          "n43018025013",
+          "n43018025014",
+          "n43018025015",
+          "n43018025016",
+          "n43018025017",
+          "n43018025018"
+        ]
+      }
+    ]
+  }
+}

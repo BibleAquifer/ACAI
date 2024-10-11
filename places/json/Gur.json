@@ -1,0 +1,88 @@
+{
+  "id": "place:Gur",
+  "primary_id": "place:Gur",
+  "alternate_sources": {
+    "aquifer": [
+      "5552|Gur, Ascent of|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001358002001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/922617"
+    ],
+    "tipnr": [
+      "Gur@2Ki.9.27"
+    ],
+    "vizbible": [
+      "recGbYgNGdyfnyZg0"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001358002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gur",
+      "alternate_labels": [
+        "Gur Pass",
+        "Ascent of Gur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gur",
+          "gloss": "Gur",
+          "description": "The ascent in the territory of Manasseh, near Ibleam, where Jehu killed Ahaziah."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גּוּר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "hill"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.45",
+      "lon": "35.2833"
+    },
+    "recogito": {
+      "lat": "28.852984",
+      "lon": "52.532446"
+    },
+    "vizbible": {
+      "lat": "32.45",
+      "lon": "35.2833"
+    }
+  },
+  "key_references": [
+    "12009027"
+  ],
+  "references": [
+    "12009027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120090270191"
+      ]
+    ]
+  }
+}

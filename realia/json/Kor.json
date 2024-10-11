@@ -1,0 +1,91 @@
+{
+  "id": "realia:Kor",
+  "primary_id": "realia:Kor",
+  "alternate_sources": {
+    "aquifer": [
+      "6648|Kor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003418001001000"
+    ],
+    "ubsrealia": [
+      "realia:11.3.1.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003418001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kor",
+          "article": "realia:Kor",
+          "description": "A Hebrew unit of measure for both dry and liquid goods, about 220 liters."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כֹּר"
+    ]
+  },
+  "key_references": [
+    "11005002",
+    "14002009",
+    "26045014"
+  ],
+  "references": [
+    "11005002",
+    "11005025",
+    "14002009",
+    "14027005",
+    "15007022",
+    "26045014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110050020071"
+      ],
+      [
+        "o110050020101"
+      ],
+      [
+        "o110050250061"
+      ],
+      [
+        "o110050250111"
+      ],
+      [
+        "o140020090091"
+      ],
+      [
+        "o140020090131"
+      ],
+      [
+        "o140270050201"
+      ],
+      [
+        "o150070220071"
+      ],
+      [
+        "o260450140082"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140270050251"
+      ]
+    ]
+  }
+}

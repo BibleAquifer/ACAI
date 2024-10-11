@@ -1,0 +1,60 @@
+{
+  "id": "deity:Belial",
+  "primary_id": "deity:Satan",
+  "alternate_sources": {
+    "aquifer": [
+      "4087|Belial, Beliar|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.69"
+    ],
+    "tipnr": [
+      "Belial|Satan@Deu.13.13-Rev"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "demon",
+  "ubsdgnt": [
+    "93.69"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Belial (Satan)",
+      "alternate_labels": [
+        "Satan",
+        "Beliar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Satan",
+          "article": "deity:Belial",
+          "description": "An alternate name for the Devil (Satan) used in comparison with Christ by Paul in 2 Corinthians 6:15."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Satan"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Βελιάρ"
+    ]
+  },
+  "key_references": [
+    "47006015"
+  ],
+  "references": [
+    "47006015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n47006015006"
+      ]
+    ]
+  }
+}

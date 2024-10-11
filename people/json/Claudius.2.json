@@ -1,0 +1,106 @@
+{
+  "id": "person:Claudius.2",
+  "primary_id": "person:Lysias",
+  "alternate_sources": {
+    "aquifer": [
+      "4584|Claudius|TyndaleBibleDictionary",
+      "4582|Claudius, Edict of|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.214b"
+    ],
+    "tipnr": [
+      "Claudius|Lysias@Act.23.26-"
+    ],
+    "vizbible": [
+      "recTx6ajkAepIsmh5"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Official"
+  ],
+  "ubsdgnt": [
+    "93.214b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Claudius (Lysias)",
+      "alternate_labels": [
+        "Lysias",
+        "Claudius Lysias"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lysias",
+          "article": "person:Claudius.2",
+          "description": "Claudius Lysias was a Roman officer in Jerusalem mentioned in the New Testament."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Lysias"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Κλαύδιος"
+    ]
+  },
+  "key_references": [
+    "44023026"
+  ],
+  "references": [
+    "44023026"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44023026001"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44023030003"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44023026007"
+      ],
+      [
+        "n44023027013"
+      ],
+      [
+        "n44023027017",
+        "n44023027018"
+      ],
+      [
+        "n44023028001"
+      ],
+      [
+        "n44023028003"
+      ],
+      [
+        "n44023028010"
+      ],
+      [
+        "n44023029002"
+      ],
+      [
+        "n44023030010"
+      ],
+      [
+        "n44023030013"
+      ]
+    ]
+  }
+}

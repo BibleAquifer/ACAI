@@ -1,0 +1,77 @@
+{
+  "id": "person:Nemuel",
+  "primary_id": "person:Jemuel",
+  "alternate_sources": {
+    "aquifer": [
+      "7354|Nemuel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004810001002000"
+    ],
+    "tipnr": [
+      "Nemuel|Jemuel@Gen.46.10-1Ch"
+    ],
+    "vizbible": [
+      "receHsiIGo9xLjgls"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Simeon.5",
+  "mother": "person:AWifeOfSimeon",
+  "siblings": [
+    "person:Jamin",
+    "person:Ohad",
+    "person:Jachin",
+    "person:Zerah.6",
+    "person:Shaul.2"
+  ],
+  "tribe": "group:Simeon",
+  "ubsdbh": [
+    "004810001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nemuel (Jemuel)",
+      "alternate_labels": [
+        "Jemuel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jemuel",
+          "article": "person:Nemuel",
+          "description": "Nemuel, also known as Jemuel, was a man of the tribe of Simeon living during the time of Egypt and the wilderness, son of Simeon, and mentioned in Genesis 46:10 and Numbers 26:12."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jemuel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נְמוּאֵל"
+    ]
+  },
+  "key_references": [
+    "04026012",
+    "13004024"
+  ],
+  "references": [
+    "04026012",
+    "13004024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260120042"
+      ],
+      [
+        "o130040240031"
+      ]
+    ]
+  }
+}

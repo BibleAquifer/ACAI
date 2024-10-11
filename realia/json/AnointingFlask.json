@@ -1,0 +1,81 @@
+{
+  "id": "realia:AnointingFlask",
+  "primary_id": "realia:AnointingFlask",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005858001001000",
+      "006592001002000"
+    ],
+    "ubsrealia": [
+      "realia:1.10.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "005858001001000",
+    "006592001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anointing Flask",
+      "alternate_labels": [
+        "Flask",
+        "Jar",
+        "Horn",
+        "Rams Horn"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anointing Flask",
+          "article": "realia:AnointingFlask",
+          "description": "A small container, often made from a ram’s horn, used for storing oil."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "פַּךְ",
+      "קֶרֶן"
+    ]
+  },
+  "key_references": [
+    "09010001",
+    "09016011"
+  ],
+  "references": [
+    "09010001",
+    "09016001",
+    "09016013",
+    "11001039",
+    "12009001",
+    "12009003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090100010041"
+      ],
+      [
+        "o120090010121"
+      ],
+      [
+        "o120090030021"
+      ],
+      [
+        "o090160010171",
+        "o090160010172"
+      ],
+      [
+        "o090160130041"
+      ],
+      [
+        "o110010390051"
+      ]
+    ]
+  }
+}

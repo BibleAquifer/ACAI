@@ -1,0 +1,52 @@
+{
+  "id": "group:Shelanite",
+  "primary_id": "group:Shelanite",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007427001001000"
+    ],
+    "tipnr": [
+      "Shelanite|Shelah@Gen.38.5-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Shelah",
+  "ubsdbh": [
+    "007427001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shelanites",
+      "alternate_labels": [
+        "Shiloni"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shelanites",
+          "article": "group:Shelanite",
+          "description": "People descended from Shelah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Shiloni"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026020"
+  ],
+  "references": [
+    "04026020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260200072"
+      ]
+    ]
+  }
+}

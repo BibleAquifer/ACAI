@@ -1,0 +1,98 @@
+{
+  "id": "person:Ahoah",
+  "primary_id": "person:Ahoah",
+  "alternate_sources": {
+    "aquifer": [
+      "3464|Ahoah, Ahohi, Ahohite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Ahohi|Ahoah@2Sa.23.9-1Ch",
+      "Ahoah@2Sa.23.9-1Ch"
+    ],
+    "vizbible": [
+      "recRVtFO6pohVz4Xt"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Bela",
+  "siblings": [
+    "person:Ard.2",
+    "person:Naaman.2",
+    "person:Ezbon.2",
+    "person:Uzzi.3",
+    "person:Uzziel.3",
+    "person:Jerimoth",
+    "person:Iri",
+    "person:Addar",
+    "person:Gera.3",
+    "person:Abihud",
+    "person:Abishua.2"
+  ],
+  "roles": [
+    "Patriarch"
+  ],
+  "tribe": "group:Benjamin",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahoah",
+      "alternate_labels": [
+        "Ahohi",
+        "Ahohite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahoah",
+          "article": "person:Ahoah",
+          "description": "A tribal leader who belonged to the tribe of Benjamin. His descendants are called Ahohites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ahohi",
+    "group:Ahoah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023009",
+    "13007006",
+    "13007007",
+    "13008001",
+    "13008002",
+    "13008003",
+    "13008004"
+  ],
+  "references": [
+    "10023009",
+    "10023028",
+    "13008004",
+    "13011012",
+    "13011029",
+    "13027004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230090081"
+      ],
+      [
+        "o100230280022"
+      ],
+      [
+        "o130080040032"
+      ],
+      [
+        "o130110120052"
+      ],
+      [
+        "o130110290042"
+      ],
+      [
+        "o130270040062"
+      ]
+    ]
+  }
+}

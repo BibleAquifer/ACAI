@@ -1,0 +1,71 @@
+{
+  "id": "person:Shechem.2",
+  "primary_id": "person:Shechem.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8323|Shechem (Person)|TyndaleBibleDictionary",
+      "8325|Shechem, Tower of|TyndaleBibleDictionary",
+      "27081|Shechem|UWTranslationWords",
+      "132228|Shechem|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Shechem@Num.26.31-Jos"
+    ],
+    "vizbible": [
+      "rec9Bpn3kiykILSEY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gilead",
+  "siblings": [
+    "person:Abiezer",
+    "person:Helek",
+    "person:Asriel",
+    "person:Shemida",
+    "person:Hepher"
+  ],
+  "tribe": "group:Manasseh",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shechem (Numbers 26:31)",
+      "alternate_labels": [
+        "Shechemite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shechem (Numbers 26:31)",
+          "article": "person:Shechem.2",
+          "description": "Shechem, also known as Shechemite, was a Manasseh tribe member living during the time of Egypt and the wilderness, son of Gilead and brother of Abiezer, Helek, Asriel, Shemida, and Hepher, first mentioned in Numbers 26:31."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Shechem"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026031",
+    "06017002"
+  ],
+  "references": [
+    "04026031",
+    "06017002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260310042"
+      ],
+      [
+        "o040260310062"
+      ],
+      [
+        "o060170020131"
+      ]
+    ]
+  }
+}

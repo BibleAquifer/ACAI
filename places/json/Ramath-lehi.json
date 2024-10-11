@@ -1,0 +1,86 @@
+{
+  "id": "place:Ramath-lehi",
+  "primary_id": "place:Ramath-lehi",
+  "alternate_sources": {
+    "aquifer": [
+      "7925|Ramath-Lehi|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006817002007000 006833001001000",
+      "003561002001000 006833001001000"
+    ],
+    "tipnr": [
+      "Ramath-lehi@Jdg.15.17"
+    ],
+    "vizbible": [
+      "recksaGwo0AcTNKje"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006817002007000 006833001001000",
+    "003561002001000 006833001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ramath-lehi",
+      "alternate_labels": [
+        "Jawbone Hill"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ramath-lehi",
+          "gloss": "Ramath-Lehi",
+          "description": "A hill where Samson killed many Philistines with a jawbone."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "רָמָתִי",
+      "לְחִי",
+      "לֶחִי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "hill"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.75274835811488",
+      "lon": "34.97660913147738"
+    },
+    "vizbible": {
+      "lat": "31.75274835811488",
+      "lon": "34.97660913147738"
+    }
+  },
+  "key_references": [
+    "07015017"
+  ],
+  "references": [
+    "07015017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070150170101",
+        "o070150170111"
+      ]
+    ]
+  }
+}

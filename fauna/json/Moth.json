@@ -1,0 +1,109 @@
+{
+  "id": "fauna:Moth",
+  "primary_id": "fauna:Moth",
+  "alternate_sources": {
+    "aquifer": [
+      "7219|Moth|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "4.49"
+    ],
+    "ubsdbh": [
+      "005121001001000",
+      "005695001001000"
+    ],
+    "ubsfauna": [
+      "fauna:6.10"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Insects, Spiders, and Worms",
+  "ubsdgnt": [
+    "4.49"
+  ],
+  "ubsdbh": [
+    "005121001001000",
+    "005695001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Moth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Moth",
+          "article": "fauna:Moth",
+          "description": "A small insect, known for damaging clothing and symbolizing decay and ruin in the Bible."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סָס",
+      "עָשׁ"
+    ],
+    "el": [
+      "σής"
+    ]
+  },
+  "key_references": [
+    "18013028",
+    "23051008",
+    "40006019"
+  ],
+  "references": [
+    "18004019",
+    "18013028",
+    "18027018",
+    "19039012",
+    "23050009",
+    "23051008",
+    "28005012",
+    "40006019",
+    "40006020",
+    "41016018",
+    "42012033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230510080071"
+      ],
+      [
+        "o180040190101"
+      ],
+      [
+        "o180130280061"
+      ],
+      [
+        "o180270180022"
+      ],
+      [
+        "o190390120072"
+      ],
+      [
+        "o230500090131"
+      ],
+      [
+        "o230510080041"
+      ],
+      [
+        "o280050120022"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40006019009"
+      ],
+      [
+        "n40006020009"
+      ],
+      [
+        "n42012033023"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "place:HouseOfTheForestOfLebanon",
+  "primary_id": "place:HouseOfTheForestOfLebanon",
+  "alternate_sources": {
+    "aquifer": [
+      "5932|House of the Forest of Lebanon|TyndaleBibleDictionary"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/5100362"
+    ],
+    "tipnr": [
+      "House_of_the_Forest_of_Lebanon@Isa.22.8",
+      "House_of_the_Forest_of_Lebanon@1Ki.7.2"
+    ],
+    "vizbible": [
+      "rechN4gu5ltBnuSD2"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "House of the Forest of Lebanon",
+      "alternate_labels": [
+        "House of the Forest of the Lebanon",
+        "Palace of the Forest of Lebanon",
+        "Palace of the Forest",
+        "Lebanon",
+        "house of the timber from Lebanon",
+        "The Palace of the Lebanon Forest",
+        "Palace of the Lebanon Forest",
+        "house of the timber of Lebanon",
+        "House of the Forest"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:HouseOfTheForestOfLebanon",
+          "gloss": "House of the Forest of Lebanon",
+          "description": "A very large building in Jerusalem built by King Solomon, which consisted of four rows of pillars of cedar wood; this cedar wood likely came from the forests of Lebanon, located north of Israel; literally \"House of the Forest of Lebanon.\""
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:HouseOfTheForestOfLebanon.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "structure"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "structure"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "40.64177",
+      "lon": "-74.836"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "11007002",
+    "11010017",
+    "11010021"
+  ],
+  "references": [
+    "11007002",
+    "11010017",
+    "11010021",
+    "14009016",
+    "14009020",
+    "23022008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110070020031",
+        "o110070020041"
+      ],
+      [
+        "o110070020052"
+      ],
+      [
+        "o110100170151",
+        "o110100170161"
+      ],
+      [
+        "o110100170172"
+      ],
+      [
+        "o110100210091",
+        "o110100210101"
+      ],
+      [
+        "o110100210112"
+      ],
+      [
+        "o140090160152",
+        "o140090160161"
+      ],
+      [
+        "o140090160172"
+      ],
+      [
+        "o140090200091",
+        "o140090200101"
+      ],
+      [
+        "o140090200112"
+      ],
+      [
+        "o230220080101"
+      ],
+      [
+        "o230220080112"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o110070030012"
+      ]
+    ]
+  }
+}

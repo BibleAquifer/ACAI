@@ -1,0 +1,74 @@
+{
+  "id": "place:Eshtemoh",
+  "primary_id": "place:Eshtemoa",
+  "alternate_sources": {
+    "aquifer": [
+      "5154|Eshtemoa, Eshtemoh (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000790001001000"
+    ],
+    "tipnr": [
+      "Eshtemoh|Eshtemoa@Jos.21.14-1Ch"
+    ],
+    "vizbible": [
+      "recBVeG0aEI4bdx00"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000790001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eshtemoh",
+      "alternate_labels": [
+        "Eshtemoa"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Eshtemoa"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶשְׁתְּמֹה",
+      "אֶשְׁתְּמוֹעַ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.373521",
+      "lon": "35.074552"
+    },
+    "vizbible": {
+      "lat": "31.373521",
+      "lon": "35.074552"
+    }
+  },
+  "references": [
+    "06015050",
+    "06021014",
+    "09030028",
+    "13006042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150500022"
+      ]
+    ]
+  }
+}

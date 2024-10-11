@@ -1,0 +1,83 @@
+{
+  "id": "person:Maacah.5",
+  "primary_id": "person:Maacah.5",
+  "alternate_sources": {
+    "aquifer": [
+      "6808|Maacah, Maachah (Person)|TyndaleBibleDictionary",
+      "26843|Maacah|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "004213001007000",
+      "004213001008000"
+    ],
+    "tipnr": [
+      "Maacah@1Ch.7.15-"
+    ],
+    "vizbible": [
+      "rec3aManWocvazGnI"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Ir",
+  "partners": [
+    "person:Machir"
+  ],
+  "offspring": [
+    "person:Peresh",
+    "person:Sheresh"
+  ],
+  "siblings": [
+    "person:Shuppim",
+    "person:Huppim.2"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "004213001007000",
+    "004213001008000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Maacah (1 Chronicles 7:15)",
+      "alternate_labels": [
+        "Maakah",
+        "Maachah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Maacah (1 Chronicles 7:15)",
+          "article": "person:Maacah.5",
+          "description": "A woman from the tribe of Manasseh during the time of Egypt and the wilderness, daughter of Ir, sister of Shuppim and Huppim, married to Machir, and mother of Peresh and Sheresh."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13007015",
+    "13007016"
+  ],
+  "references": [
+    "13007015",
+    "13007016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070150081"
+      ],
+      [
+        "o130070160021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130070160062"
+      ]
+    ]
+  }
+}

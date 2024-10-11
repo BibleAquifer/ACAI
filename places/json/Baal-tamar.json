@@ -1,0 +1,83 @@
+{
+  "id": "place:Baal-tamar",
+  "primary_id": "place:Baal-tamar",
+  "alternate_sources": {
+    "aquifer": [
+      "3947|Baal-Tamar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001094001001000"
+    ],
+    "tipnr": [
+      "Baal-tamar@Jdg.20.33"
+    ],
+    "vizbible": [
+      "recMwvje3DxS9RwU7"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001094001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baal-tamar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baal-tamar",
+          "gloss": "Baal-Tamar",
+          "description": "A place between Bethel and Gibeah where the Israelites defeated the Benjamites."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Bethel",
+    "place:Gibeah.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בַּעַל תָּמָר",
+      "בַּ֫עַל תָּמָר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.82378102460309",
+      "lon": "35.23100936128631"
+    },
+    "vizbible": {
+      "lat": "31.82378102460309",
+      "lon": "35.23100936128631"
+    }
+  },
+  "key_references": [
+    "07020033"
+  ],
+  "references": [
+    "07020033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070200330072",
+        "o070200330081"
+      ]
+    ]
+  }
+}

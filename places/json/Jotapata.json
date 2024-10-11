@@ -1,0 +1,48 @@
+{
+  "id": "place:Jotapata",
+  "primary_id": "place:Jotapata",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jotapata",
+          "gloss": "Jotapata",
+          "description": "A village northwest of Cana, in the region of Galilee; possibly biblical Jotbah. It was sieged by Rome during the First Jewish Revolt."
+        }
+      ],
+      "preferred_label": "Jotapata",
+      "alternate_labels": [
+        "Iotapata",
+        "Yodfat"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Jotbah"
+  ],
+  "nearby_places": [
+    "place:Cana"
+  ],
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.83386",
+      "lon": "35.28186"
+    }
+  }
+}

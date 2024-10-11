@@ -1,0 +1,66 @@
+{
+  "id": "place:Babylonia",
+  "primary_id": "place:Babylonia",
+  "alternate_sources": {
+    "aquifer": [
+      "3957|Babylon, Babylonia|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Babylonia",
+          "gloss": "Babylonia",
+          "description": "A region in southern Mesopotamia through which the Euphrates and Tigris rivers flow."
+        }
+      ],
+      "preferred_label": "Babylonia",
+      "alternate_labels": [
+        "Chaldea",
+        "Babylonian",
+        "Babylon",
+        "Land of the Chaldeans",
+        "Leb-Kamai",
+        "Land of Shinar",
+        "Shinar",
+        "Akkad",
+        "Sumer",
+        "Accad",
+        "Chaldean"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Shinar",
+    "place:Chaldea"
+  ],
+  "nearby_places": [
+    "place:Assyria"
+  ],
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "region",
+      "nation"
+    ]
+  },
+  "key_references": [
+    "01011002",
+    "15001011",
+    "15002001",
+    "24051024",
+    "01011031",
+    "38005011"
+  ]
+}

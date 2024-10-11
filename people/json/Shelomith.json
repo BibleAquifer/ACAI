@@ -1,0 +1,70 @@
+{
+  "id": "person:Shelomith",
+  "primary_id": "person:Shelomith",
+  "alternate_sources": {
+    "aquifer": [
+      "8339|Shelomith|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Shelomoth|Shelomith@1Ch.23.18-",
+      "Shelomith@1Ch.23.18-"
+    ],
+    "vizbible": [
+      "recKXu2Ry0UOhOqAF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Izhar",
+  "offspring": [
+    "person:Jahath.3"
+  ],
+  "siblings": [
+    "person:Korah.3",
+    "person:Nepheg",
+    "person:Zichri"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shelomith",
+      "alternate_labels": [
+        "Shelomoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shelomith",
+          "article": "person:Shelomith",
+          "description": "Shelomith, also called Shelomoth and first mentioned in 1 Chronicles 23:18, was a man of the tribe of Levi living during the time of Egypt and the wilderness, the son of Izhar, brother of Korah, Nepheg, and Zichri, and the father of Jahath."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Shelomoth"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13023018",
+    "13024022"
+  ],
+  "references": [
+    "13023018",
+    "13024022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130230180031"
+      ],
+      [
+        "o130240220021"
+      ],
+      [
+        "o130240220041"
+      ]
+    ]
+  }
+}

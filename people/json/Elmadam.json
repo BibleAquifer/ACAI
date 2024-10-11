@@ -1,0 +1,64 @@
+{
+  "id": "person:Elmadam",
+  "primary_id": "person:Elmadam",
+  "alternate_sources": {
+    "aquifer": [
+      "5037|Elmadam, Elmodam|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.113"
+    ],
+    "tipnr": [
+      "Elmadam@Luk.3.28"
+    ],
+    "vizbible": [
+      "recHYuXhC5e9LWWIY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Er",
+  "offspring": [
+    "person:Cosam"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.113"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elmadam",
+      "alternate_labels": [
+        "Elmodam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elmadam",
+          "article": "person:Elmadam",
+          "description": "Son of Er and the father of Cosam in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἐλμαδάμ"
+    ]
+  },
+  "key_references": [
+    "42003028"
+  ],
+  "references": [
+    "42003028"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003028008"
+      ]
+    ]
+  }
+}

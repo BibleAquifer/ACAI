@@ -1,0 +1,135 @@
+{
+  "id": "place:Abel-beth-maacah",
+  "primary_id": "place:Abel-beth-maacah",
+  "alternate_sources": {
+    "aquifer": [
+      "3276|Abel-Beth-Maacah (Maachah)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "abffcaa"
+    ],
+    "tipnr": [
+      "Abel-beth-maacah@2Sa.20.14-2Ch"
+    ],
+    "vizbible": [
+      "recyET7N6CKcQ1wsP"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2911724"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abel-beth-maacah",
+      "alternate_labels": [
+        "Abel-Maim",
+        "Abel-Beth-Maachah",
+        "Abel and Beth Maachah",
+        "Beth-maachah",
+        "Beth-maacah",
+        "Abel",
+        "Abel and Beth Maacah",
+        "Abel of Beth-Maacah",
+        "Abel of Beth-Maachah",
+        "Abel Beth Maakah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Abel-beth-maacah",
+          "gloss": "Abel-Beth-Maacah",
+          "description": "A town in the territory of Naphtali in northern Israel. Joab, commander of David's army, besieged this town (2 Samuel 20:14–22)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Naphtali",
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.26852614",
+      "lon": "35.57804682"
+    },
+    "vizbible": {
+      "lat": "33.26852614",
+      "lon": "35.57804682"
+    }
+  },
+  "key_references": [
+    "14016004",
+    "10020014",
+    "12015029",
+    "11015020"
+  ],
+  "references": [
+    "10020014",
+    "10020015",
+    "10020018",
+    "11015020",
+    "12015029",
+    "14016004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100200140051"
+      ],
+      [
+        "o100200150042",
+        "o100200150043",
+        "o100200150051",
+        "o100200150061"
+      ],
+      [
+        "o100200180092"
+      ],
+      [
+        "o110150200221",
+        "o110150200231",
+        "o110150200241"
+      ],
+      [
+        "o120150290141",
+        "o120150290151",
+        "o120150290161"
+      ],
+      [
+        "o140160040221",
+        "o140160040231"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100200140112"
+      ],
+      [
+        "o100200140122"
+      ],
+      [
+        "o100200150112"
+      ]
+    ]
+  }
+}

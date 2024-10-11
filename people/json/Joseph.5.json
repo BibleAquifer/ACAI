@@ -1,0 +1,65 @@
+{
+  "id": "person:Joseph.5",
+  "primary_id": "person:Joseph.5",
+  "alternate_sources": {
+    "aquifer": [
+      "6449|Joseph|TyndaleBibleDictionary",
+      "132234|Joseph|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Joseph@Mat.27.56-Mrk",
+      "Joses|Joseph@Mat.27.56-Mrk"
+    ],
+    "vizbible": [
+      "rectKmSGswWg5Hx4b"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:HusbandOfMary.2",
+  "mother": "person:Mary.2",
+  "siblings": [
+    "person:James.4",
+    "person:Salome"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joseph (Son of Mary)",
+      "alternate_labels": [
+        "Joses"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joseph (Son of Mary)",
+          "article": "person:Joseph.5",
+          "description": "A man called Joses in the New Testament, brother of James and Salome, first mentioned in Matthew 27:56."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Joses.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40027056",
+    "41015040",
+    "41016001"
+  ],
+  "references": [
+    "40027056",
+    "41015040"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027056013"
+      ],
+      [
+        "n41015040021"
+      ]
+    ]
+  }
+}

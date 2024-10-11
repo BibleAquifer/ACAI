@@ -1,0 +1,87 @@
+{
+  "id": "place:Kedesh-naphtali",
+  "primary_id": "place:Kedesh",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006393001001000",
+      "004879001001000"
+    ],
+    "tipnr": [
+      "Kedesh-naphtali|Kedesh@Jos.12.22-1Ch"
+    ],
+    "vizbible": [
+      "recfPJ2PdSB18419T"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006393001001000",
+    "004879001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kedesh Naphtali",
+      "alternate_labels": [
+        "Kedesh",
+        "Kedesh in Naphtali",
+        "Kedesh in the land of Naphtali"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kedesh-naphtali",
+          "gloss": "Kedesh Naphtali",
+          "description": "A location in the territory of Naphtali from where Deborah summoned Barak to march against Sisera; possibly to be identified with Kedesh (in Upper Galilee) or Kedesh (of Issachar)."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Kedesh.3",
+    "place:Kedesh"
+  ],
+  "referred_to_as": [
+    "place:Kedesh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.11298357",
+      "lon": "35.53361334"
+    },
+    "vizbible": {
+      "lat": "33.11298357",
+      "lon": "35.53361334"
+    }
+  },
+  "key_references": [
+    "07004006"
+  ],
+  "references": [
+    "07004006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070040060062",
+        "o070040060071"
+      ],
+      [
+        "o070040060251"
+      ]
+    ]
+  }
+}

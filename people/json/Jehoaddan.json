@@ -1,0 +1,59 @@
+{
+  "id": "person:Jehoaddan",
+  "primary_id": "person:Jehoaddan",
+  "alternate_sources": {
+    "aquifer": [
+      "6272|Jehoaddan, Jehoaddin|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jehoaddan@2Ki.14.2-2Ch"
+    ],
+    "vizbible": [
+      "reculjWbbURE9iY8o"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Joash.3"
+  ],
+  "offspring": [
+    "person:Amaziah"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehoaddan",
+      "alternate_labels": [
+        "Jehoaddin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoaddan",
+          "article": "person:Jehoaddan",
+          "description": "A woman from the time of the divided kingdom, wife of Joash and mother of Amaziah, mentioned in 2 Kings 14:2 and also called Jehoaddin."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12014002",
+    "14025001"
+  ],
+  "references": [
+    "12014002",
+    "14025001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120140020151"
+      ],
+      [
+        "o140250010141"
+      ]
+    ]
+  }
+}

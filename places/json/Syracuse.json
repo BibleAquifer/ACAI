@@ -1,0 +1,100 @@
+{
+  "id": "place:Syracuse",
+  "primary_id": "place:Syracuse",
+  "alternate_sources": {
+    "aquifer": [
+      "8684|Syracuse|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a1e3697"
+    ],
+    "ubsdgnt": [
+      "93.588"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/16570"
+    ],
+    "tipnr": [
+      "Syracuse@Act.28.12"
+    ],
+    "vizbible": [
+      "recOq0zSXdflaLQcJ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q13670"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.588"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Syracuse",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Syracuse",
+          "gloss": "Syracuse",
+          "description": "A city on the east coast of Sicily where Paul stayed for three days while on his way to Rome."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Italy"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Συράκουσαι"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "37.06823248",
+      "lon": "15.29482388"
+    },
+    "recogito": {
+      "lat": "37.05963",
+      "lon": "15.29382"
+    },
+    "vizbible": {
+      "lat": "37.05963",
+      "lon": "15.29382"
+    },
+    "biblica-maps": {
+      "lat": "37.07164",
+      "lon": "15.27917"
+    }
+  },
+  "key_references": [
+    "44028012"
+  ],
+  "references": [
+    "44028012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44028012004"
+      ]
+    ]
+  }
+}

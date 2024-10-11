@@ -1,0 +1,92 @@
+{
+  "id": "place:Nephtoah",
+  "primary_id": "place:Nephtoah",
+  "alternate_sources": {
+    "obi": [
+      "ac1fef1"
+    ],
+    "ubsdbh": [
+      "004876001001000"
+    ],
+    "tipnr": [
+      "Nephtoah@Jos.15.9-"
+    ],
+    "vizbible": [
+      "recr2SUrb2G1X79xs"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2599091"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004876001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Waters of Nephtoah",
+      "alternate_labels": [
+        "Nephtoah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nephtoah",
+          "gloss": "Waters of Nephtoah",
+          "description": "A spring on the boundary between the territories of Judah and Benjamin."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "נֶפְתֹּוחַ",
+      "נֶפְתּוֹחַ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "spring"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "spring"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.683036",
+      "lon": "35.167987"
+    },
+    "vizbible": {
+      "lat": "31.683036",
+      "lon": "35.167987"
+    }
+  },
+  "key_references": [
+    "06015009",
+    "06018015"
+  ],
+  "references": [
+    "06015009",
+    "06018015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150090081"
+      ],
+      [
+        "o060180150131"
+      ]
+    ]
+  }
+}

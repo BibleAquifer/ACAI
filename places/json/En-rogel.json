@@ -1,0 +1,112 @@
+{
+  "id": "place:En-rogel",
+  "primary_id": "place:En-rogel",
+  "alternate_sources": {
+    "aquifer": [
+      "5092|En-Rogel|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af9cfc9"
+    ],
+    "tipnr": [
+      "Stone_of_Zoheleth|En-rogel@Jos.15.7-1Ki",
+      "En-rogel@Jos.15.7-1Ki"
+    ],
+    "vizbible": [
+      "recHhcgUHKjNOWICz"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2919936"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "En-rogel",
+      "alternate_labels": [
+        "Stone of Zoheleth",
+        "Serpent's Stone"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:En-rogel",
+          "gloss": "En-Rogel",
+          "description": "A spring on the boundary between the territories of Judah and Benjamin."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:StoneOfZoheleth"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah",
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "spring"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "spring"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.767775",
+      "lon": "35.234408"
+    },
+    "vizbible": {
+      "lat": "31.767775",
+      "lon": "35.234408"
+    }
+  },
+  "key_references": [
+    "06015007",
+    "10017017",
+    "06018016"
+  ],
+  "references": [
+    "06015007",
+    "06018016",
+    "06018017",
+    "10017017",
+    "10017018",
+    "11001009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150070261",
+        "o060150070271"
+      ],
+      [
+        "o060180160241",
+        "o060180160251"
+      ],
+      [
+        "o100170170042",
+        "o100170170051"
+      ],
+      [
+        "o110010090071",
+        "o110010090081"
+      ],
+      [
+        "o110010090111",
+        "o110010090121"
+      ]
+    ]
+  }
+}

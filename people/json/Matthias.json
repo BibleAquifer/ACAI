@@ -1,0 +1,81 @@
+{
+  "id": "person:Matthias",
+  "primary_id": "person:Matthias",
+  "alternate_sources": {
+    "aquifer": [
+      "6990|Matthias|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.246"
+    ],
+    "tipnr": [
+      "Matthias@Act.1.23-"
+    ],
+    "vizbible": [
+      "recAKZBlllSFGbCSM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Apostle"
+  ],
+  "ubsdgnt": [
+    "93.246"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Matthias",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Matthias",
+          "article": "person:Matthias",
+          "description": "A man chosen to replace Judas Iscariot as an apostle, mentioned in the New Testament."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Μαθθίας"
+    ]
+  },
+  "key_references": [
+    "44001023",
+    "44001026"
+  ],
+  "references": [
+    "44001023",
+    "44001026"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44001023012"
+      ],
+      [
+        "n44001026010"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44002001010"
+      ],
+      [
+        "n44002004003"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44001026012"
+      ]
+    ]
+  }
+}

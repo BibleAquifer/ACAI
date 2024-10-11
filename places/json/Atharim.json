@@ -1,0 +1,82 @@
+{
+  "id": "place:Atharim",
+  "primary_id": "place:Atharim",
+  "alternate_sources": {
+    "aquifer": [
+      "3861|Atharim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000809001001000"
+    ],
+    "tipnr": [
+      "Atharim@Num.21.1"
+    ],
+    "vizbible": [
+      "rec8DcjjipTJqZu2m"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000809001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Atharim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Atharim",
+          "gloss": "Atharim",
+          "description": "A location along the route of the exodus where the Israelites were attacked by the king of Arad."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Hormah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲתָרִים"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "road",
+      "special",
+      "settlement"
+    ],
+    "acai": [
+      "road"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.880918",
+      "lon": "34.630620"
+    },
+    "vizbible": {
+      "lat": "30.880918",
+      "lon": "34.630620"
+    }
+  },
+  "key_references": [
+    "04021001"
+  ],
+  "references": [
+    "04021001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040210010112"
+      ]
+    ]
+  }
+}

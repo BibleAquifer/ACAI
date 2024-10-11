@@ -1,0 +1,86 @@
+{
+  "id": "place:Abana",
+  "primary_id": "place:Abana",
+  "alternate_sources": {
+    "obi": [
+      "aea17b7"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/752926"
+    ],
+    "tipnr": [
+      "Abana@2Ki.5.12"
+    ],
+    "vizbible": [
+      "recirTpwii9yXJ9JM"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q765106"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abanah",
+      "alternate_labels": [
+        "Amana",
+        "Abana"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Abana",
+          "gloss": "Abanah",
+          "description": "A river near the city of Damascus in modern-day Syria; Naaman, a Syrian military commander, believed the Abanah River to be superior to the Jordan River for healing from leprosy (2 Kings 5:9–14)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Damascus"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.545097",
+      "lon": "36.224661"
+    },
+    "recogito": {
+      "lat": "41.97858",
+      "lon": "34.011"
+    },
+    "vizbible": {
+      "lat": "33.545097",
+      "lon": "36.224661"
+    }
+  },
+  "key_references": [
+    "12005012"
+  ],
+  "references": [
+    "12005012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120050120041"
+      ]
+    ]
+  }
+}

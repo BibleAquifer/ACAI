@@ -1,0 +1,44 @@
+{
+  "id": "place:Ir-shemesh",
+  "primary_id": "place:Ir-shemesh",
+  "alternate_sources": {
+    "aquifer": [
+      "6055|Ir-Shemesh|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ir-shemesh",
+          "gloss": "Ir-Shemesh",
+          "description": "A town in the territory of Dan."
+        }
+      ],
+      "preferred_label": "Ir-shemesh",
+      "alternate_labels": [
+        "Ir-shemesh",
+        "Ir Shemesh"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "06019041"
+  ]
+}

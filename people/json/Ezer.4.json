@@ -1,0 +1,75 @@
+{
+  "id": "person:Ezer.4",
+  "primary_id": "person:Ezer.4",
+  "alternate_sources": {
+    "aquifer": [
+      "5219|Ezer|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005351002003000"
+    ],
+    "tipnr": [
+      "Ezer@1Ch.12.9"
+    ],
+    "vizbible": [
+      "recaAop0BJdjAmXik"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Warrior"
+  ],
+  "ubsdbh": [
+    "005351002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ezer (1 Chronicles 12:9)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ezer (1 Chronicles 12:9)",
+          "article": "person:Ezer.4",
+          "description": "Ezer, mentioned in 1 Chronicles 12:9, lived during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13012010"
+  ],
+  "references": [
+    "13012010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130120100011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130120150011"
+      ],
+      [
+        "o130120160011",
+        "o130120160021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130120160041"
+      ],
+      [
+        "o130120160152"
+      ]
+    ]
+  }
+}

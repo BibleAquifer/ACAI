@@ -1,0 +1,78 @@
+{
+  "id": "place:Sepharad",
+  "primary_id": "place:Sardis",
+  "alternate_sources": {
+    "aquifer": [
+      "8228|Sepharad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005153001001000"
+    ],
+    "tipnr": [
+      "Sepharad|Sardis@Oba.1.20-Rev"
+    ],
+    "vizbible": [
+      "recAQAjn6m5DhLghR"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005153001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sepharad",
+      "alternate_labels": [
+        "Sardis"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sepharad",
+          "gloss": "Sepharad",
+          "description": "A town, identified with Sardis in Lydia by some, located in Media or Spain by others; place where some of the inhabitants of Jerusalem were exiled (ABD)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Sardis"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "38.4768269",
+      "lon": "28.11413119"
+    },
+    "vizbible": {
+      "lat": "38.4768269",
+      "lon": "28.11413119"
+    }
+  },
+  "key_references": [
+    "31001020"
+  ],
+  "references": [
+    "31001020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o310010200132"
+      ]
+    ]
+  }
+}

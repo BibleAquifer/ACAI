@@ -1,0 +1,69 @@
+{
+  "id": "person:Adalia",
+  "primary_id": "person:Adalia",
+  "alternate_sources": {
+    "aquifer": [
+      "3360|Adalia|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000122001001000"
+    ],
+    "tipnr": [
+      "Adalia@Est.9.8"
+    ],
+    "vizbible": [
+      "recIudw3Bvure4wi9"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Haman",
+  "mother": "person:Zeresh",
+  "siblings": [
+    "person:Parshandatha",
+    "person:Dalphon",
+    "person:Aspatha",
+    "person:Poratha",
+    "person:Aridatha",
+    "person:Parmashta",
+    "person:Arisai",
+    "person:Aridai",
+    "person:Vaizatha"
+  ],
+  "ubsdbh": [
+    "000122001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adalia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Adalia",
+          "article": "person:Adalia",
+          "description": "A man living at the time of exile and return, son of Haman and brother to many, mentioned in Esther 9:8."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲדַלְיָא"
+    ]
+  },
+  "key_references": [
+    "17009008"
+  ],
+  "references": [
+    "17009008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o170090080041"
+      ]
+    ]
+  }
+}

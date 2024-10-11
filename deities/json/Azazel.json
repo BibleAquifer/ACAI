@@ -1,0 +1,61 @@
+{
+  "id": "deity:Azazel",
+  "primary_id": "deity:Azazel",
+  "alternate_sources": {
+    "aquifer": [
+      "3904|Azazel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005323001001000"
+    ],
+    "tipnr": [
+      "Azazel@Lev.16.8-"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "demon",
+  "ubsdbh": [
+    "005323001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azazel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Azazel",
+          "article": "deity:Azazel",
+          "description": "A demon associated with the destination of the scapegoat (Leviticus 16:8)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "03016008",
+    "03016010",
+    "03016026"
+  ],
+  "references": [
+    "03016008",
+    "03016010",
+    "03016026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030160080122"
+      ],
+      [
+        "o030160100062"
+      ],
+      [
+        "o030160100152"
+      ],
+      [
+        "o030160260042"
+      ]
+    ]
+  }
+}

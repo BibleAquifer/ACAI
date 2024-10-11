@@ -1,0 +1,96 @@
+{
+  "id": "place:Chios",
+  "primary_id": "place:Chios",
+  "alternate_sources": {
+    "aquifer": [
+      "4531|Chios|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a4c2c75"
+    ],
+    "ubsdgnt": [
+      "93.614"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/41343"
+    ],
+    "tipnr": [
+      "Chios@Act.20.15"
+    ],
+    "vizbible": [
+      "recU8S3zWJLQkEpwO"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q160483"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.614"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chios",
+      "alternate_labels": [
+        "Kios"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Chios",
+          "gloss": "Chios",
+          "description": "An island, with a city of the same name, in the Aegean Sea; Paul and his companions passed the island while traveling to Jerusalem."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Samos",
+    "place:Smyrna"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Χίος"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "island"
+    ],
+    "vizbible": [
+      "Island"
+    ],
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "38.44484",
+      "lon": "26.063302"
+    },
+    "biblica-maps": {
+      "lat": "38.3527",
+      "lon": "26.06865"
+    }
+  },
+  "key_references": [
+    "44020015"
+  ],
+  "references": [
+    "44020015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44020015007"
+      ]
+    ]
+  }
+}

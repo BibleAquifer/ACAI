@@ -1,0 +1,66 @@
+{
+  "id": "person:Judith",
+  "primary_id": "person:Judith",
+  "alternate_sources": {
+    "aquifer": [
+      "6497|Judith (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002822001001000"
+    ],
+    "tipnr": [
+      "Judith@Gen.26.34"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Beeri",
+  "mother": "person:Anah",
+  "partners": [
+    "person:Esau"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "002822001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Judith",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Judith",
+          "article": "person:Judith",
+          "description": "A woman from the time of the patriarchs, daughter of Beeri, and wife of Esau, mentioned in Genesis 26:34."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהוּדִית"
+    ]
+  },
+  "key_references": [
+    "01026034"
+  ],
+  "references": [
+    "01026034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010260340091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010260350012"
+      ]
+    ]
+  }
+}

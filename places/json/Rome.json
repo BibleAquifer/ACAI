@@ -1,0 +1,282 @@
+{
+  "id": "place:Rome",
+  "primary_id": "place:Rome",
+  "alternate_sources": {
+    "aquifer": [
+      "8062|Rome, City of|TyndaleBibleDictionary",
+      "27039|Rome|UWTranslationWords",
+      "131993|Rome|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "afc8e7a"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/1438"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/423025"
+    ],
+    "tipnr": [
+      "Rome@Jhn.11.48-Phm"
+    ],
+    "vizbible": [
+      "recDDkVF36ecPUge4"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q220"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rome",
+      "alternate_labels": [
+        "Roman",
+        "[ ]",
+        "Roman colony",
+        "Romans"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rome",
+          "gloss": "Rome",
+          "description": "The capital city of the Roman Empire and an early center of Christianity. The letter to the Romans was addressed to the church there."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Babylon.2"
+  ],
+  "nearby_places": [
+    "place:ThreeTaverns",
+    "place:ForumOfAppius"
+  ],
+  "subregion_of": [
+    "place:Italy"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "41.9",
+      "lon": "12.48333333"
+    },
+    "recogito": {
+      "lat": "41.89262",
+      "lon": "12.4843457"
+    },
+    "vizbible": {
+      "lat": "41.89262",
+      "lon": "12.4843457"
+    },
+    "biblica-maps": {
+      "lat": "41.89177",
+      "lon": "12.48614"
+    }
+  },
+  "key_references": [
+    "44018002",
+    "44023011",
+    "44028016"
+  ],
+  "references": [
+    "43011048",
+    "44002010",
+    "44016012",
+    "44016021",
+    "44016037",
+    "44016038",
+    "44018002",
+    "44019021",
+    "44019040",
+    "44022025",
+    "44022026",
+    "44022027",
+    "44022029",
+    "44023011",
+    "44023027",
+    "44025016",
+    "44025025",
+    "44025027",
+    "44028014",
+    "44028015",
+    "44028016",
+    "44028017",
+    "44028030",
+    "45001007",
+    "45001015",
+    "45015024",
+    "45016027",
+    "48006018",
+    "49006024",
+    "50004023",
+    "51004018",
+    "55001017",
+    "55004022",
+    "57001025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43011048012"
+      ],
+      [
+        "n44002010017"
+      ],
+      [
+        "n44016012011"
+      ],
+      [
+        "n44016021011"
+      ],
+      [
+        "n44016037012"
+      ],
+      [
+        "n44016038014"
+      ],
+      [
+        "n44018002029"
+      ],
+      [
+        "n44019021029"
+      ],
+      [
+        "n44022025016"
+      ],
+      [
+        "n44022026017"
+      ],
+      [
+        "n44022027010"
+      ],
+      [
+        "n44022029017"
+      ],
+      [
+        "n44023011024"
+      ],
+      [
+        "n44023027020"
+      ],
+      [
+        "n44025016008"
+      ],
+      [
+        "n44028014014"
+      ],
+      [
+        "n44028016005"
+      ],
+      [
+        "n44028017040"
+      ],
+      [
+        "n45001007005"
+      ],
+      [
+        "n45001015010"
+      ],
+      [
+        "n55001017004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44002011012"
+      ],
+      [
+        "n44028018001"
+      ],
+      [
+        "n45001004017"
+      ],
+      [
+        "n45001006005"
+      ],
+      [
+        "n45001007011"
+      ],
+      [
+        "n45001007017"
+      ],
+      [
+        "n45001008012"
+      ],
+      [
+        "n45001008016"
+      ],
+      [
+        "n45001009022"
+      ],
+      [
+        "n45001010019"
+      ],
+      [
+        "n45001011004"
+      ],
+      [
+        "n45001011009"
+      ],
+      [
+        "n45001011014"
+      ],
+      [
+        "n45001012006"
+      ],
+      [
+        "n45001012010"
+      ],
+      [
+        "n45001012012"
+      ],
+      [
+        "n45001013024"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43011048014"
+      ],
+      [
+        "n44002010016"
+      ],
+      [
+        "n44028018002"
+      ],
+      [
+        "n44028018005"
+      ],
+      [
+        "n45001005003"
+      ],
+      [
+        "n45001012004"
+      ],
+      [
+        "n45009020006"
+      ]
+    ]
+  }
+}

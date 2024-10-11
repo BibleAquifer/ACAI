@@ -1,0 +1,42 @@
+{
+  "id": "place:TerritoryOfJudah",
+  "primary_id": "place:TerritoryOfJudah",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TerritoryOfJudah",
+          "gloss": "Territory of Judah",
+          "description": "The land assigned to the tribe of Judah."
+        }
+      ],
+      "preferred_label": "Territory of Judah"
+    }
+  },
+  "referred_to_as": [
+    "place:Judea.2",
+    "place:Judea"
+  ],
+  "nearby_places": [
+    "place:TerritoryOfSimeon",
+    "place:TerritoryOfDan",
+    "place:TerritoryOfBenjamin",
+    "place:TerritoryOfReuben"
+  ],
+  "subregion_of": [
+    "place:Israel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "person:Hepher",
+  "primary_id": "person:Hepher",
+  "alternate_sources": {
+    "aquifer": [
+      "5806|Hepher (Person)|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hepher@Num.26.32-Jos"
+    ],
+    "vizbible": [
+      "recmm0Y2bRc1a8eS3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gilead",
+  "offspring": [
+    "person:Zelophehad"
+  ],
+  "siblings": [
+    "person:Abiezer",
+    "person:Helek",
+    "person:Asriel",
+    "person:Shechem.2",
+    "person:Shemida"
+  ],
+  "tribe": "group:Manasseh",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hepher",
+      "alternate_labels": [
+        "Hepherite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hepher",
+          "article": "person:Hepher",
+          "description": "The father of Zelophehad and descendant of the patriarch Manasseh. He was founder of the clan of the Hepherites. He lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Hepher"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026032",
+    "04026033",
+    "06017002"
+  ],
+  "references": [
+    "04026032",
+    "04026033",
+    "04027001",
+    "06017002",
+    "06017003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260320042"
+      ],
+      [
+        "o040260320062"
+      ],
+      [
+        "o040260330031"
+      ],
+      [
+        "o040270010051"
+      ],
+      [
+        "o060170020151"
+      ],
+      [
+        "o060170030031"
+      ]
+    ]
+  }
+}

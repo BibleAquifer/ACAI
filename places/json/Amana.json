@@ -1,0 +1,90 @@
+{
+  "id": "place:Amana",
+  "primary_id": "place:Amana",
+  "alternate_sources": {
+    "obi": [
+      "ab428de"
+    ],
+    "ubsdbh": [
+      "000500002002000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/884865"
+    ],
+    "tipnr": [
+      "Amana@Sng.4.8"
+    ],
+    "vizbible": [
+      "reca5Q8cMTSDWif50"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q38925721"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000500002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Amana",
+      "alternate_labels": [
+        "Amana"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Amana",
+          "gloss": "Mount Amana",
+          "description": "A mountain in the Anti-Lebanon range (Song of Songs 4:8)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֲמָנָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "mountain ridge",
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.68137",
+      "lon": "36.055039"
+    },
+    "vizbible": {
+      "lat": "33.68137",
+      "lon": "36.055039"
+    }
+  },
+  "key_references": [
+    "22004008"
+  ],
+  "references": [
+    "22004008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o220040080091"
+      ]
+    ]
+  }
+}

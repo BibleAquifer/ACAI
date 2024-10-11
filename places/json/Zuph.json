@@ -1,0 +1,82 @@
+{
+  "id": "place:Zuph",
+  "primary_id": "place:Zuph",
+  "alternate_sources": {
+    "aquifer": [
+      "9266|Zuph (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006152002001000"
+    ],
+    "tipnr": [
+      "Zuph@1Sa.9.5"
+    ],
+    "vizbible": [
+      "recVTeVH1dYATcrWj"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006152002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zuph (Region)",
+      "alternate_labels": [
+        "Zuph"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zuph",
+          "gloss": "Zuph (Region)",
+          "description": "A region probably located in the territory of Ephraim, where Saul searched for his father's donkeys (1 Samuel 9:5)."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.84684772753698",
+      "lon": "35.18491237777512"
+    },
+    "vizbible": {
+      "lat": "31.84684772753698",
+      "lon": "35.18491237777512"
+    }
+  },
+  "key_references": [
+    "09009005"
+  ],
+  "references": [
+    "09009005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090090050041"
+      ]
+    ]
+  }
+}

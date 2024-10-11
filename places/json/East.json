@@ -1,0 +1,87 @@
+{
+  "id": "place:East",
+  "primary_id": "place:East",
+  "alternate_sources": {
+    "aquifer": [
+      "4917|East, Children of the|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "East@Jdg.6.3-Ezk"
+    ],
+    "vizbible": [
+      "recINYRGVbQuConLS"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "East",
+      "alternate_labels": [
+        "Easterners"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.95018855468469",
+      "lon": "35.92413135872749"
+    },
+    "vizbible": {
+      "lat": "31.95018855468469",
+      "lon": "35.92413135872749"
+    }
+  },
+  "references": [
+    "01025006",
+    "01029001",
+    "04023007",
+    "07006003",
+    "07006033",
+    "07007012",
+    "07008010",
+    "11005010",
+    "18001003",
+    "23002006",
+    "23011014",
+    "24049028",
+    "26025004",
+    "26025010",
+    "40002001",
+    "40002002",
+    "40002009",
+    "66016012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070060030091"
+      ],
+      [
+        "o070060330051"
+      ],
+      [
+        "o070070120051"
+      ],
+      [
+        "o070080100141"
+      ],
+      [
+        "o260250040051"
+      ],
+      [
+        "o260250100021"
+      ]
+    ]
+  }
+}

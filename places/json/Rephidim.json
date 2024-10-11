@@ -1,0 +1,108 @@
+{
+  "id": "place:Rephidim",
+  "primary_id": "place:Rephidim",
+  "alternate_sources": {
+    "aquifer": [
+      "8006|Rephidim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a05ebb7"
+    ],
+    "ubsdbh": [
+      "006897001001000"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/746805",
+      "http://pleiades.stoa.org/places/746805"
+    ],
+    "tipnr": [
+      "Rephidim@Exo.17.1-Num"
+    ],
+    "vizbible": [
+      "recop6QEHQoHhwytR"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q587141"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006897001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rephidim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rephidim",
+          "gloss": "Rephidim",
+          "description": "A location in the Sinai Peninsula, between Alush and the wilderness of Sinai, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "רְפָיָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "28.73106103",
+      "lon": "33.84169996"
+    },
+    "recogito": {
+      "lat": "28.68276",
+      "lon": "33.616586"
+    },
+    "vizbible": {
+      "lat": "28.73106103",
+      "lon": "33.84169996"
+    }
+  },
+  "key_references": [
+    "02017001",
+    "02019002"
+  ],
+  "references": [
+    "02017001",
+    "02017008",
+    "02019002",
+    "04033014",
+    "04033015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020170010132"
+      ],
+      [
+        "o020170080062"
+      ],
+      [
+        "o020190020022"
+      ],
+      [
+        "o040330140042"
+      ],
+      [
+        "o040330150022"
+      ]
+    ]
+  }
+}

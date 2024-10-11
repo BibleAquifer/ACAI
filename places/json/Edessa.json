@@ -1,0 +1,42 @@
+{
+  "id": "place:Edessa",
+  "primary_id": "place:Edessa",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Edessa",
+          "gloss": "Edessa",
+          "description": "A city in Mesopotamia, east of the Euphrates River, which was a major center for early Christianity."
+        }
+      ],
+      "preferred_label": "Edessa",
+      "alternate_labels": [
+        "Antiochia ad Callirhoem",
+        "Urfa"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "37.14863",
+      "lon": "38.7867"
+    }
+  }
+}

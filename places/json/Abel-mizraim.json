@@ -1,0 +1,74 @@
+{
+  "id": "place:Abel-mizraim",
+  "primary_id": "place:Atad",
+  "alternate_sources": {
+    "aquifer": [
+      "3280|Abel-Mizraim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000064001001000"
+    ],
+    "tipnr": [
+      "Abel-mizraim|Atad@Gen.50.10-"
+    ],
+    "vizbible": [
+      "recNGsIGVIK9Quqo4"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000064001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abel-mizraim",
+      "alternate_labels": [
+        "Atad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Abel-mizraim",
+          "gloss": "Abel-Mizraim",
+          "description": "A location east of the Jordan River where Jacob's children mourned their father (Genesis  50:10-11)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Atad"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אָבֵל מִצְרַיִם"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "key_references": [
+    "01050011"
+  ],
+  "references": [
+    "01050011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010500110181",
+        "o010500110191"
+      ]
+    ]
+  }
+}

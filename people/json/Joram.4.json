@@ -1,0 +1,64 @@
+{
+  "id": "person:Joram.4",
+  "primary_id": "person:Joram.4",
+  "alternate_sources": {
+    "aquifer": [
+      "6438|Joram|TyndaleBibleDictionary",
+      "26774|Joram|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002837001004000"
+    ],
+    "tipnr": [
+      "Joram@1Ch.26.25"
+    ],
+    "vizbible": [
+      "recWJ07BdcGZTkij6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Isshiah.4",
+  "offspring": [
+    "person:Zichri.6"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002837001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joram (1 Chronicles 26:25)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joram (1 Chronicles 26:25)",
+          "article": "person:Joram.4",
+          "description": "A Levite living during the divided kingdom, son of Isshiah and father of Zichri, mentioned in 1 Chronicles 26:25."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹורָם",
+      "יוֹרָם",
+      "יְהוֹרָם"
+    ]
+  },
+  "key_references": [
+    "13026025"
+  ],
+  "references": [
+    "13026025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130260250072"
+      ]
+    ]
+  }
+}

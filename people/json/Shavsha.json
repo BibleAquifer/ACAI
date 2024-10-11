@@ -1,0 +1,65 @@
+{
+  "id": "person:Shavsha",
+  "primary_id": "person:Seraiah",
+  "alternate_sources": {
+    "aquifer": [
+      "8304|Shavsha|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007273001001000"
+    ],
+    "tipnr": [
+      "Shavsha|Seraiah@2Sa.8.17-1Ch"
+    ],
+    "vizbible": [
+      "recbCHo9mMOhzaR6Y"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Elihoreph",
+    "person:Ahijah"
+  ],
+  "roles": [
+    "Scribe",
+    "Priest"
+  ],
+  "ubsdbh": [
+    "007273001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shavsha (Seraiah)",
+      "alternate_labels": [
+        "Seraiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Seraiah",
+          "article": "person:Shavsha",
+          "description": "Shavsha, also called Seraiah, was a man living during Israel's united kingdom, mentioned in 2 Samuel 8:17 and 1 Chronicles 18:16."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Seraiah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13018016"
+  ],
+  "references": [
+    "13018016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130180160082"
+      ]
+    ]
+  }
+}

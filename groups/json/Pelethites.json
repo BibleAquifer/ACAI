@@ -1,0 +1,96 @@
+{
+  "id": "group:Pelethites",
+  "primary_id": "group:Pelethites",
+  "alternate_sources": {
+    "aquifer": [
+      "7633|Pelethites|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Pelethites@2Sa.8.18-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pelethites",
+      "alternate_labels": [
+        "Pelethite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pelethites",
+          "article": "group:Pelethites",
+          "description": "People associated with Philistines, a group of whom served as mercenaries under King David."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10008018",
+    "10020007"
+  ],
+  "references": [
+    "10008018",
+    "10015018",
+    "10020007",
+    "10020023",
+    "11001038",
+    "11001044",
+    "13018017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100080180053"
+      ],
+      [
+        "o100150180092"
+      ],
+      [
+        "o100200070063"
+      ],
+      [
+        "o100200230132"
+      ],
+      [
+        "o110010380103"
+      ],
+      [
+        "o110010440143"
+      ],
+      [
+        "o130180170063"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o100200080011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100200070092"
+      ],
+      [
+        "o100200070112"
+      ],
+      [
+        "o110010380112"
+      ],
+      [
+        "o110010380182"
+      ],
+      [
+        "o110010440152"
+      ]
+    ]
+  }
+}

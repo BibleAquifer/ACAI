@@ -1,0 +1,103 @@
+{
+  "id": "place:Habor",
+  "primary_id": "place:Habor",
+  "alternate_sources": {
+    "aquifer": [
+      "5561|Habor|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af19252"
+    ],
+    "ubsdbh": [
+      "002077001001000"
+    ],
+    "tipnr": [
+      "Habor@2Ki.17.6-1Ch"
+    ],
+    "vizbible": [
+      "rec1AuhYfD1Pt34oA"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q685344"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002077001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Habor",
+      "alternate_labels": [
+        "Habor River"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Habor",
+          "gloss": "Habor",
+          "description": "A river in Mesopotamia; eastern tributary of the Euphrates."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חָבֹור",
+      "חָבוֹר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "river"
+    ],
+    "vizbible": [
+      "Water"
+    ],
+    "acai": [
+      "river"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.344972",
+      "lon": "40.789333"
+    },
+    "vizbible": {
+      "lat": "36.344972",
+      "lon": "40.789333"
+    }
+  },
+  "key_references": [
+    "12017006",
+    "13005026",
+    "12018011"
+  ],
+  "references": [
+    "12017006",
+    "12018011",
+    "13005026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120170060163"
+      ],
+      [
+        "o120180110093"
+      ],
+      [
+        "o130050260232"
+      ]
+    ]
+  }
+}

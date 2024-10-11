@@ -1,0 +1,71 @@
+{
+  "id": "group:Christ",
+  "primary_id": "group:Christ",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "11.35"
+    ],
+    "tipnr": [
+      "Christ|Jesus@Mat.1.1-Rev"
+    ]
+  },
+  "type": "group",
+  "group_type": "religious",
+  "group_origin": "person:Jesus.2",
+  "ubsdgnt": [
+    "11.35"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Christians",
+      "alternate_labels": [
+        "Jesus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Christians",
+          "article": "group:Christ",
+          "description": "Those who worship Jesus of Nazareth as Messiah. The name “Christian” was first applied to believers of Jesus in Antioch (Acts 11:26)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Χριστιανός"
+    ]
+  },
+  "key_references": [
+    "44011026",
+    "44026028",
+    "60004016"
+  ],
+  "references": [
+    "44011026",
+    "44026028",
+    "60004016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44011026027"
+      ],
+      [
+        "n44026028011"
+      ],
+      [
+        "n60004016004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n60004016014"
+      ]
+    ]
+  }
+}

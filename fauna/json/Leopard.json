@@ -1,0 +1,115 @@
+{
+  "id": "fauna:Leopard",
+  "primary_id": "fauna:Leopard",
+  "alternate_sources": {
+    "aquifer": [
+      "6720|Leopard|TyndaleBibleDictionary",
+      "26822|Leopard|UWTranslationWords"
+    ],
+    "ubsdgnt": [
+      "4.13"
+    ],
+    "ubsdbh": [
+      "004813001001000",
+      "004814001001000",
+      "004814001002000"
+    ],
+    "ubsfauna": [
+      "fauna:2.23"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdgnt": [
+    "4.13"
+  ],
+  "ubsdbh": [
+    "004813001001000",
+    "004814001001000",
+    "004814001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Leopard",
+      "alternate_labels": [
+        "Cheetah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Leopard",
+          "article": "fauna:Leopard",
+          "description": "A big cat with yellowish fur and black spots, known for its strength and being dangerous."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נְמַר",
+      "נָמֵר",
+      "נָמֵר"
+    ],
+    "el": [
+      "πάρδαλις"
+    ]
+  },
+  "key_references": [
+    "23011006",
+    "27007006",
+    "66013002"
+  ],
+  "references": [
+    "22004008",
+    "23011006",
+    "24005006",
+    "24013023",
+    "27007006",
+    "28013007",
+    "35001008",
+    "41016018",
+    "66013002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o270070060072"
+      ],
+      [
+        "o220040080161"
+      ],
+      [
+        "o230110060052"
+      ],
+      [
+        "o240050060091"
+      ],
+      [
+        "o240130230042"
+      ],
+      [
+        "o280130070052"
+      ],
+      [
+        "o350010080022"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n66013002008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230110060162"
+      ],
+      [
+        "o240130230052"
+      ]
+    ]
+  }
+}

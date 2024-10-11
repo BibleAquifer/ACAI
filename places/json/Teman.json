@@ -1,0 +1,148 @@
+{
+  "id": "place:Teman",
+  "primary_id": "place:Teman",
+  "alternate_sources": {
+    "aquifer": [
+      "8777|Teman (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a831506"
+    ],
+    "tipnr": [
+      "Teman@Gen.36.34-Hab"
+    ],
+    "vizbible": [
+      "recgOpQ2YdblYL3Gn"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1546303"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Teman",
+      "alternate_labels": [
+        "Temanite",
+        "Edom"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Teman",
+          "gloss": "Teman",
+          "description": "The territory of the most prominent tribe of Edom (ABD); sometimes used to refer to the entire territory of Edom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Teman"
+  ],
+  "tribal_area": "group:Edom",
+  "subregion_of": [
+    "place:Edom"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "region",
+      "settlement"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.203813",
+      "lon": "35.732568"
+    },
+    "vizbible": {
+      "lat": "30.203813",
+      "lon": "35.732568"
+    }
+  },
+  "key_references": [
+    "26025013",
+    "35003003",
+    "24049007"
+  ],
+  "references": [
+    "01036034",
+    "13001045",
+    "18002011",
+    "18004001",
+    "18015001",
+    "18022001",
+    "18042007",
+    "18042009",
+    "24049007",
+    "24049020",
+    "26025013",
+    "30001012",
+    "31001009",
+    "35003003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360340072"
+      ],
+      [
+        "o130010450072"
+      ],
+      [
+        "o180020110152"
+      ],
+      [
+        "o180040010032"
+      ],
+      [
+        "o180150010032"
+      ],
+      [
+        "o180220010032"
+      ],
+      [
+        "o180420070142"
+      ],
+      [
+        "o180420090032"
+      ],
+      [
+        "o240490070092"
+      ],
+      [
+        "o240490200141"
+      ],
+      [
+        "o260250130162"
+      ],
+      [
+        "o300010120032"
+      ],
+      [
+        "o310010090031"
+      ],
+      [
+        "o350030030022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o310010090061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "person:Birsha",
+  "primary_id": "person:Birsha",
+  "alternate_sources": {
+    "aquifer": [
+      "4251|Birsha|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001204001001000"
+    ],
+    "tipnr": [
+      "Birsha@Gen.14.2"
+    ],
+    "vizbible": [
+      "recfUfN1DZAUfbMSB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Canaan",
+  "ubsdbh": [
+    "001204001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Birsha",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Birsha",
+          "article": "person:Birsha",
+          "description": "A Canaanite king of Gomorrah during the time of Abraham, mentioned in Genesis 14:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בִּרְשַׁע"
+    ]
+  },
+  "key_references": [
+    "01014002"
+  ],
+  "references": [
+    "01014002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140020081"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010140030021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010140040041"
+      ],
+      [
+        "o010140040101"
+      ]
+    ]
+  }
+}

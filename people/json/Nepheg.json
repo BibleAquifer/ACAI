@@ -1,0 +1,64 @@
+{
+  "id": "person:Nepheg",
+  "primary_id": "person:Nepheg",
+  "alternate_sources": {
+    "aquifer": [
+      "7355|Nepheg|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004857001001000"
+    ],
+    "tipnr": [
+      "Nepheg@Exo.6.21"
+    ],
+    "vizbible": [
+      "recKAqJhwUVWvDDnB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Izhar",
+  "siblings": [
+    "person:Korah.3",
+    "person:Zichri",
+    "person:Shelomith"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "004857001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nepheg",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nepheg",
+          "article": "person:Nepheg",
+          "description": "Nepheg was a man of the tribe of Levi living during the time of Egypt and the wilderness, son of Izhar, mentioned in Exodus 6:21."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נֶפֶג",
+      "נֶ֫פֶג"
+    ]
+  },
+  "key_references": [
+    "02006021"
+  ],
+  "references": [
+    "02006021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060210042"
+      ]
+    ]
+  }
+}

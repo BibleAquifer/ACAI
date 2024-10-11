@@ -1,0 +1,39 @@
+{
+  "id": "place:Corduba",
+  "primary_id": "place:Corduba",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Corduba",
+          "gloss": "Corduba",
+          "description": "The capital city of the Roman province Hispania Ulterior located on the southern Iberian Peninsula; modern-day Córdoba, Spain."
+        }
+      ],
+      "preferred_label": "Corduba",
+      "alternate_labels": [
+        "Córdoba",
+        "Cordova"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "37.88488",
+      "lon": "-4.77665"
+    }
+  }
+}

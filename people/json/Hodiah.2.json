@@ -1,0 +1,82 @@
+{
+  "id": "person:Hodiah.2",
+  "primary_id": "person:Hodiah.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5873|Hodiah, Hodijah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Judah|Hodiah@Neh.8.7-Neh",
+      "Hodiah@Neh.8.7-Neh"
+    ],
+    "vizbible": [
+      "rec7LIGaUpwJlgAWn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hodiah",
+      "alternate_labels": [
+        "Judah",
+        "Hodaviah",
+        "Hodijah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hodiah",
+          "article": "person:Hodiah.2",
+          "description": "A man from the tribe of Levi mentioned during the time of Israelite exile and return of the Israelites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Judah.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16008007",
+    "16009005",
+    "16012008"
+  ],
+  "references": [
+    "15003009",
+    "16008007",
+    "16009005",
+    "16010011",
+    "16012008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150030090081"
+      ],
+      [
+        "o160080070071"
+      ],
+      [
+        "o160090050081"
+      ],
+      [
+        "o160100110031"
+      ],
+      [
+        "o160120080061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o160080080012"
+      ],
+      [
+        "o160080080062"
+      ]
+    ]
+  }
+}

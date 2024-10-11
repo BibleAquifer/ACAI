@@ -1,0 +1,50 @@
+{
+  "id": "person:SecondProstitute",
+  "primary_id": "person:SecondProstitute",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Prostitute (Mother of Dead Baby)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Prostitute (Mother of Dead Baby)",
+          "description": "A prostitute and mother of dead baby who brought her case to Solomon (1 Kings 3)."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11003022"
+  ],
+  "references": [
+    "11003022"
+  ],
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o110030220022"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o110030260261",
+          "o110030260271",
+          "o110030260272",
+          "o110030260281",
+          "o110030260291",
+          "o110030260292",
+          "o110030260301",
+          "o110030260311",
+          "o110030260321"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "person:Ardon",
+  "primary_id": "person:Ardon",
+  "alternate_sources": {
+    "aquifer": [
+      "3725|Ardon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000656001001000"
+    ],
+    "tipnr": [
+      "Ardon@1Ch.2.18"
+    ],
+    "vizbible": [
+      "recpy9vtcPL3CVMav"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Caleb.2",
+  "mother": "person:Jerioth",
+  "siblings": [
+    "person:Hur.2",
+    "person:Jesher",
+    "person:Shobab.2",
+    "person:Mareshah",
+    "person:Haran.3",
+    "person:Moza",
+    "person:Gazez",
+    "person:Sheber",
+    "person:Tirhanah",
+    "person:Shaaph.2",
+    "person:Sheva.2",
+    "person:Achsah.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000656001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ardon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ardon",
+          "article": "person:Ardon",
+          "description": "A man of the tribe of Judah living during the time of Egypt and the wilderness, mentioned in 1 Chronicles 2:18."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַרְדֹּון",
+      "אַרְדּוֹן"
+    ]
+  },
+  "key_references": [
+    "13002018"
+  ],
+  "references": [
+    "13002018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020180142"
+      ]
+    ]
+  }
+}

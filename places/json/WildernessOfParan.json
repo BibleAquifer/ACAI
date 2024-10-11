@@ -1,0 +1,34 @@
+{
+  "id": "place:WildernessOfParan",
+  "primary_id": "place:WildernessOfParan",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:WildernessOfParan",
+          "gloss": "Wilderness of Paran",
+          "description": "A desert located south of Israel, west of Edom, and north of the wilderness of Sinai."
+        }
+      ],
+      "preferred_label": "Wilderness of Paran"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "wilderness"
+    ]
+  },
+  "key_references": [
+    "01021021",
+    "04013026",
+    "09025001"
+  ]
+}

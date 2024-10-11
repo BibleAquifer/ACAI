@@ -1,0 +1,66 @@
+{
+  "id": "person:Hadad.2",
+  "primary_id": "person:Hadad.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5569|Hadad|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hadad@Gen.36.39-1Ch",
+      "Hadar|Hadad@Gen.36.39-1Ch"
+    ],
+    "vizbible": [
+      "recsg1hkKVChVUrO0"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Mehetabel"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hadad (Genesis 36:39)",
+      "alternate_labels": [
+        "Hadar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hadad (Genesis 36:39)",
+          "article": "person:Hadad.2",
+          "description": "Hadad, also known as Hadar, was an Edomite king living during the time of the patriarchs, mentioned in Genesis 36:39 and married to Mehetabel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hadar"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036039",
+    "13001050",
+    "13001051"
+  ],
+  "references": [
+    "01036039",
+    "13001050",
+    "13001051"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360390081"
+      ],
+      [
+        "o130010500061"
+      ],
+      [
+        "o130010510021"
+      ]
+    ]
+  }
+}

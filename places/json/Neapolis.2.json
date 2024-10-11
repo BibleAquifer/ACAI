@@ -1,0 +1,44 @@
+{
+  "id": "place:Neapolis.2",
+  "primary_id": "place:Neapolis.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7322|Neapolis|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Neapolis.2",
+          "gloss": "Neapolis (Nablus)",
+          "description": "A town located between Mount Gerizim and Mount Ebal; modern-day Nablus."
+        }
+      ],
+      "preferred_label": "Neapolis (Nablus)"
+    }
+  },
+  "nearby_places": [
+    "place:GerizimMount",
+    "place:EbalMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.21869",
+      "lon": "35.26291"
+    }
+  }
+}

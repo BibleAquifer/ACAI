@@ -1,0 +1,108 @@
+{
+  "id": "place:Cappadocia",
+  "primary_id": "place:Cappadocia",
+  "alternate_sources": {
+    "aquifer": [
+      "4421|Cappadocia|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a33fbde"
+    ],
+    "ubsdgnt": [
+      "93.495"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/628949",
+      "http://pleiades.stoa.org/places/991402"
+    ],
+    "tipnr": [
+      "Cappadocia@Act.2.9-1Pe"
+    ],
+    "vizbible": [
+      "recNSkNykAbbf9sRg"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q33490"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.495"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cappadocia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cappadocia",
+          "gloss": "Cappadocia",
+          "description": "A province in the interior of Asia Minor; some of the crowd who were at Pentecost were from here (Acts 2:5–13)."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Galatia",
+    "place:Lycia",
+    "place:Pontus",
+    "place:Cilicia"
+  ],
+  "subregion_of": [
+    "place:AsiaMinor"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Καππαδοκία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "province"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "36.731904",
+      "lon": "35.486302"
+    },
+    "recogito": {
+      "lat": "37.5",
+      "lon": "35.75"
+    },
+    "vizbible": {
+      "lat": "37.5",
+      "lon": "35.75"
+    }
+  },
+  "key_references": [
+    "44002009",
+    "60001001"
+  ],
+  "references": [
+    "44002009",
+    "60001001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44002009014"
+      ],
+      [
+        "n60001001010"
+      ]
+    ]
+  }
+}

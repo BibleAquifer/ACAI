@@ -1,0 +1,58 @@
+{
+  "id": "group:Jashub",
+  "primary_id": "group:Jashub",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003147001001000"
+    ],
+    "tipnr": [
+      "Jashub@Gen.46.13-1Ch"
+    ],
+    "vizbible": [
+      "rec0xO99xdlEFpsJY"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Jashub",
+  "ubsdbh": [
+    "003147001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jashubites",
+      "alternate_labels": [
+        "Jashub"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jashubites",
+          "article": "group:Jashub",
+          "description": "People descended from Jashub, son of Issachar, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָשׁוּבִי",
+      "יָשֻׁבִי"
+    ]
+  },
+  "key_references": [
+    "04026024"
+  ],
+  "references": [
+    "04026024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260240032"
+      ]
+    ]
+  }
+}

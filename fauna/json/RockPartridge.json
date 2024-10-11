@@ -1,0 +1,66 @@
+{
+  "id": "fauna:RockPartridge",
+  "primary_id": "fauna:RockPartridge",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006557001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.1.8"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "006557001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rock Partridge",
+      "alternate_labels": [
+        "Black Francolin",
+        "Sand Partridge"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rock Partridge",
+          "article": "fauna:RockPartridge",
+          "description": "A ceremonially clean and colorful bird in the Bible that lives in small flocks and prefers running to flying. It is likely the sand patridge."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קֹרֵא"
+    ]
+  },
+  "key_references": [
+    "09026020",
+    "24017011"
+  ],
+  "references": [
+    "09026020",
+    "24017011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090260200192"
+      ],
+      [
+        "o240170110011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240170110041"
+      ]
+    ]
+  }
+}

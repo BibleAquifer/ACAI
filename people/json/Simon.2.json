@@ -1,0 +1,113 @@
+{
+  "id": "person:Simon.2",
+  "primary_id": "person:Simon.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6860|Magus, Simon|TyndaleBibleDictionary",
+      "8511|Simon|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Zealot|Simon@Mat.10.4-Act",
+      "Simon@Mat.10.4-Act"
+    ],
+    "vizbible": [
+      "recONdJVwpYA57oAi"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Apostle"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Simon",
+      "alternate_labels": [
+        "Simon Zelotes",
+        "Zelotes",
+        "Zealot"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Simon",
+          "article": "person:Simon.2",
+          "description": "One of the twelve apostles of Jesus."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zealot"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "40010004",
+    "42006015",
+    "44001013"
+  ],
+  "references": [
+    "40010004",
+    "41003018",
+    "42006015",
+    "44001013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40010004001"
+      ],
+      [
+        "n41003018019"
+      ],
+      [
+        "n42006015009"
+      ],
+      [
+        "n42006015012"
+      ],
+      [
+        "n44001013029"
+      ],
+      [
+        "n44001013031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40010002008"
+      ],
+      [
+        "n40010005001"
+      ],
+      [
+        "n44001014001"
+      ],
+      [
+        "n44001017005"
+      ],
+      [
+        "n44001021005"
+      ],
+      [
+        "n44001021015"
+      ],
+      [
+        "n44001022012"
+      ],
+      [
+        "n44001022018"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42006015011"
+      ]
+    ]
+  }
+}

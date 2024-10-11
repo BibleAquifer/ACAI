@@ -1,0 +1,57 @@
+{
+  "id": "group:Heber",
+  "primary_id": "group:Heber",
+  "alternate_sources": {
+    "aquifer": [
+      "5756|Heberites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002106001001000"
+    ],
+    "tipnr": [
+      "Heber@Gen.46.17-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Heber",
+  "ubsdbh": [
+    "002106001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heberites",
+      "alternate_labels": [
+        "Heber"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Heberites",
+          "article": "group:Heber",
+          "description": "People descended from Heber of the tribe of Asher."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶבְרִי"
+    ]
+  },
+  "key_references": [
+    "04026045"
+  ],
+  "references": [
+    "04026045"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260450052"
+      ]
+    ]
+  }
+}

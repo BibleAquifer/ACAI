@@ -1,0 +1,113 @@
+{
+  "id": "place:GilboaMount",
+  "primary_id": "place:GilboaMount",
+  "alternate_sources": {
+    "obi": [
+      "acf57c5"
+    ],
+    "tipnr": [
+      "Gilboa_Mount@1Sa.28.4-1Ch"
+    ],
+    "vizbible": [
+      "recLz6oewzzDSKniA"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q1161616"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mount Gilboa",
+      "alternate_labels": [
+        "Gilboa",
+        "Mount Gilead",
+        "Mountains of Gilboa"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountGilboa",
+          "gloss": "Mount Gilboa",
+          "description": "A mountain range in Israel, southeast of the Jezreel Valley, where Saul and three of his sons died (1 Samuel 31:1–6). "
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:JezreelValley"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "mountain"
+    ],
+    "vizbible": [
+      "Mountain"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.50984081",
+      "lon": "35.4084347"
+    },
+    "vizbible": {
+      "lat": "32.50984081",
+      "lon": "35.4084347"
+    }
+  },
+  "key_references": [
+    "10010001",
+    "09031001"
+  ],
+  "references": [
+    "07007003",
+    "09028004",
+    "09031001",
+    "09031008",
+    "10001006",
+    "10001021",
+    "10021012",
+    "13010001",
+    "13010008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070070030132"
+      ],
+      [
+        "o090280040122"
+      ],
+      [
+        "o090310010122"
+      ],
+      [
+        "o090310080162"
+      ],
+      [
+        "o100010060082"
+      ],
+      [
+        "o100010210022"
+      ],
+      [
+        "o100210120332"
+      ],
+      [
+        "o130100010121"
+      ],
+      [
+        "o130100080151"
+      ]
+    ]
+  }
+}

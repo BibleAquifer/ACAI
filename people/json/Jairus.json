@@ -1,0 +1,108 @@
+{
+  "id": "person:Jairus",
+  "primary_id": "person:Jairus",
+  "alternate_sources": {
+    "aquifer": [
+      "6189|Jairus|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.156"
+    ],
+    "tipnr": [
+      "Jairus@Mrk.5.22-Luk"
+    ],
+    "vizbible": [
+      "rec0WChFc6FXASRwZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Ruler of the Synagogue"
+  ],
+  "ubsdgnt": [
+    "93.156"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jairus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jairus",
+          "article": "person:Jairus",
+          "description": "Ruler of the synagogue, perhaps at Capernaum. Jesus raised Jarius's young daughter from the dead."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰάϊρος"
+    ]
+  },
+  "key_references": [
+    "41005022",
+    "42008041"
+  ],
+  "references": [
+    "41005022",
+    "42008041"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41005022007"
+      ],
+      [
+        "n42008041007"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "pleading",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40009018014",
+          "n40009018015",
+          "n40009018016",
+          "n40009018017",
+          "n40009018018",
+          "n40009018019",
+          "n40009018020",
+          "n40009018021",
+          "n40009018022",
+          "n40009018023",
+          "n40009018024",
+          "n40009018025",
+          "n40009018026",
+          "n40009018027"
+        ]
+      },
+      {
+        "delivery": "pleading",
+        "quote_type": "Dialogue",
+        "words": [
+          "n41005023008",
+          "n41005023009",
+          "n41005023010",
+          "n41005023011",
+          "n41005023012",
+          "n41005023013",
+          "n41005023014",
+          "n41005023015",
+          "n41005023016",
+          "n41005023017",
+          "n41005023018",
+          "n41005023019",
+          "n41005023020",
+          "n41005023021"
+        ]
+      }
+    ]
+  }
+}

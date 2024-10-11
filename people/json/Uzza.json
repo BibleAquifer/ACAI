@@ -1,0 +1,59 @@
+{
+  "id": "person:Uzza",
+  "primary_id": "person:Uzza",
+  "alternate_sources": {
+    "aquifer": [
+      "8988|Uzza|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005322001003000"
+    ],
+    "tipnr": [
+      "Uzza@1Ch.8.7"
+    ],
+    "vizbible": [
+      "recqsjhmzYumdEwLq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ehud",
+  "siblings": [
+    "person:Naaman.4",
+    "person:Ahijah.5",
+    "person:Gera.4",
+    "person:Ahihud.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "005322001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uzza",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uzza",
+          "article": "person:Uzza",
+          "description": "Uzza, mentioned in 1 Chronicles 8:7, was a man of the tribe of Benjamin living before Israel's Monarchy and the son of Ehud."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13008007"
+  ],
+  "references": [
+    "13008007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080070081"
+      ]
+    ]
+  }
+}

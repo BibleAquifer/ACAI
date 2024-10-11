@@ -1,0 +1,66 @@
+{
+  "id": "person:Serah",
+  "primary_id": "person:Serah",
+  "alternate_sources": {
+    "aquifer": [
+      "8233|Serah|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Serah@Gen.46.17-1Ch"
+    ],
+    "vizbible": [
+      "recAMJERcJhmNbDlD"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Asher",
+  "siblings": [
+    "person:Imnah",
+    "person:Ishvah",
+    "person:Ishvi.2",
+    "person:Beriah"
+  ],
+  "tribe": "group:Asher",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Serah",
+      "alternate_labels": [
+        "Sarah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Serah",
+          "article": "person:Serah",
+          "description": "Serah, mentioned in Genesis 46:17, was a woman from the tribe of Asher during the time of Egypt and the wilderness and the daughter of Asher."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046017",
+    "04026046",
+    "13007030"
+  ],
+  "references": [
+    "01046017",
+    "04026046",
+    "13007030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460170072"
+      ],
+      [
+        "o040260460041"
+      ],
+      [
+        "o130070300072"
+      ]
+    ]
+  }
+}

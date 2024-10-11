@@ -1,0 +1,100 @@
+{
+  "id": "place:Daberath",
+  "primary_id": "place:Daberath",
+  "alternate_sources": {
+    "aquifer": [
+      "4734|Daberath|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6a5e97"
+    ],
+    "ubsdbh": [
+      "001564001001000"
+    ],
+    "tipnr": [
+      "Daberath@Jos.19.12-1Ch"
+    ],
+    "vizbible": [
+      "recff4FRbdbZ8DPBM"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5207462"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001564001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Daberath",
+      "alternate_labels": [
+        "Dabareh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Daberath",
+          "gloss": "Daberath",
+          "description": "A Levitical town in the territory of Issachar, assigned to the clan of Gershon."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "דָּבְרַת",
+      "דָּֽבְרַת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.69171268",
+      "lon": "35.37171031"
+    },
+    "vizbible": {
+      "lat": "32.69171268",
+      "lon": "35.37171031"
+    }
+  },
+  "key_references": [
+    "06021028",
+    "13006057",
+    "06019012"
+  ],
+  "references": [
+    "06019012",
+    "06021028",
+    "13006057"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190120122"
+      ],
+      [
+        "o060210280081"
+      ],
+      [
+        "o130060570081"
+      ]
+    ]
+  }
+}

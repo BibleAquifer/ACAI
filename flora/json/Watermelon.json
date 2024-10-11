@@ -1,0 +1,50 @@
+{
+  "id": "flora:Watermelon",
+  "primary_id": "flora:Watermelon",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000017001001000"
+    ],
+    "ubsflora": [
+      "flora:3.4.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "000017001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Watermelon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Watermelon",
+          "article": "flora:Watermelon",
+          "description": "A sweet, juicy fruit produced by a trailing plant. It is widely appreciated and often found in Egypt."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבַטִּיחַ"
+    ]
+  },
+  "key_references": [
+    "04011005"
+  ],
+  "references": [
+    "04011005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040110050112"
+      ]
+    ]
+  }
+}

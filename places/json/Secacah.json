@@ -1,0 +1,88 @@
+{
+  "id": "place:Secacah",
+  "primary_id": "place:Secacah",
+  "alternate_sources": {
+    "aquifer": [
+      "8199|Secacah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af74b9f"
+    ],
+    "ubsdbh": [
+      "005068001001000"
+    ],
+    "tipnr": [
+      "Secacah@Jos.15.61"
+    ],
+    "vizbible": [
+      "recg0H1xj8CqQnWOv"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q7442853"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005068001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Secacah",
+      "alternate_labels": [
+        "Sekakah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Secacah",
+          "gloss": "Secacah",
+          "description": "A town in the wilderness of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.766667",
+      "lon": "35.283333"
+    },
+    "vizbible": {
+      "lat": "31.766667",
+      "lon": "35.283333"
+    }
+  },
+  "key_references": [
+    "06015061"
+  ],
+  "references": [
+    "06015061"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150610052"
+      ]
+    ]
+  }
+}

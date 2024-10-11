@@ -1,0 +1,101 @@
+{
+  "id": "person:Kadmiel",
+  "primary_id": "person:Kadmiel",
+  "alternate_sources": {
+    "aquifer": [
+      "6511|Kadmiel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006384001001000"
+    ],
+    "tipnr": [
+      "Kadmiel@Ezr.2.40-Neh"
+    ],
+    "vizbible": [
+      "rec7VgsoVNIlC8spF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Jeshua.7"
+  ],
+  "roles": [
+    "Leader",
+    "Priest"
+  ],
+  "ubsdbh": [
+    "006384001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kadmiel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kadmiel",
+          "article": "person:Kadmiel",
+          "description": "Father of Jeshua who lived during the time of Israelite exile and return. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15003009",
+    "16009004",
+    "16012024"
+  ],
+  "references": [
+    "15002040",
+    "15003009",
+    "16007043",
+    "16009004",
+    "16009005",
+    "16010010",
+    "16012008",
+    "16012024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020400042"
+      ],
+      [
+        "o150030090051"
+      ],
+      [
+        "o160070430042"
+      ],
+      [
+        "o160090040071"
+      ],
+      [
+        "o160090050042"
+      ],
+      [
+        "o160100100081"
+      ],
+      [
+        "o160120080041"
+      ],
+      [
+        "o160120240071"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o150030090102"
+      ],
+      [
+        "o150030100062"
+      ],
+      [
+        "o160090040132"
+      ]
+    ]
+  }
+}

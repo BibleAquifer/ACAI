@@ -1,0 +1,91 @@
+{
+  "id": "place:Ebron",
+  "primary_id": "place:Abdon",
+  "alternate_sources": {
+    "aquifer": [
+      "4933|Ebron|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005218001001000"
+    ],
+    "tipnr": [
+      "Ebron|Abdon@Jos.21.30-1Ch"
+    ],
+    "vizbible": [
+      "recy1DLOJRAuwMXyj"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005218001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ebron",
+      "alternate_labels": [
+        "Abdon",
+        "Hebron"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ebron",
+          "gloss": "Ebron",
+          "description": "A Levitical town in the territory of Asher, assigned to the clan of Gershon; also known as Abdon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Abdon"
+  ],
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עַבְרֹנָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.046264",
+      "lon": "35.172513"
+    },
+    "vizbible": {
+      "lat": "33.046264",
+      "lon": "35.172513"
+    }
+  },
+  "key_references": [
+    "06019028"
+  ],
+  "references": [
+    "06019028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190280012"
+      ]
+    ]
+  }
+}

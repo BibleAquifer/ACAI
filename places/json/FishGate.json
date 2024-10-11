@@ -1,0 +1,95 @@
+{
+  "id": "place:FishGate",
+  "primary_id": "place:FishGate",
+  "alternate_sources": {
+    "aquifer": [
+      "5270|Fish Gate|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001567001002000"
+    ],
+    "tipnr": [
+      "Fish_Gate@2Ch.33.14-Zep"
+    ],
+    "vizbible": [
+      "recppjCaJndWnPp96"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001567001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fish Gate",
+      "alternate_labels": [
+        " Gate",
+        "Fish",
+        "Gate of the Fishes"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:FishGate",
+          "gloss": "Fish Gate",
+          "description": "A gate in the northern wall of Jerusalem."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16012039",
+    "14033014",
+    "16003003",
+    "36001010"
+  ],
+  "references": [
+    "14033014",
+    "16003003",
+    "16012039",
+    "36001010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140330140132"
+      ],
+      [
+        "o160030030032"
+      ],
+      [
+        "o160120390092"
+      ],
+      [
+        "o360010100092"
+      ]
+    ]
+  }
+}

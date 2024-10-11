@@ -1,0 +1,79 @@
+{
+  "id": "person:Joel",
+  "primary_id": "person:Joel",
+  "alternate_sources": {
+    "aquifer": [
+      "6401|Joel (Person)|TyndaleBibleDictionary",
+      "26767|Joel|UWTranslationWords"
+    ],
+    "tipnr": [
+      "second|Joel@1Sa.8.2-1Ch",
+      "Joel@1Sa.8.2-1Ch"
+    ],
+    "vizbible": [
+      "recN8hrWQlHpXaQjI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Samuel",
+  "offspring": [
+    "person:Heman.3"
+  ],
+  "siblings": [
+    "person:Abijah.2"
+  ],
+  "roles": [
+    "Judge"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joel",
+      "alternate_labels": [
+        "Vashni",
+        "second"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joel",
+          "article": "person:Joel",
+          "description": "A Levite during Israel’s united kingdom. He was a son of the prophet Samuel, brother of Abijah, and father of Heman."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Second"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09008002",
+    "13006013",
+    "13015017"
+  ],
+  "references": [
+    "09008002",
+    "13006013",
+    "13006018",
+    "13015017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090080020051"
+      ],
+      [
+        "o130060130041"
+      ],
+      [
+        "o130060180091"
+      ],
+      [
+        "o130150170061"
+      ]
+    ]
+  }
+}

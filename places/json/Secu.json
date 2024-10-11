@@ -1,0 +1,90 @@
+{
+  "id": "place:Secu",
+  "primary_id": "place:Secu",
+  "alternate_sources": {
+    "aquifer": [
+      "8207|Secu|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a4052df"
+    ],
+    "ubsdbh": [
+      "007032001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/667481"
+    ],
+    "tipnr": [
+      "Secu@1Sa.19.22"
+    ],
+    "vizbible": [
+      "recRjyN6AHqIvF4Ev"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007032001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Secu",
+      "alternate_labels": [
+        "Seku",
+        "Sechu"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Secu",
+          "gloss": "Secu",
+          "description": "The location of a large cistern in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.883333",
+      "lon": "35.2"
+    },
+    "recogito": {
+      "lat": "44.46667",
+      "lon": "23.3"
+    },
+    "vizbible": {
+      "lat": "31.883333",
+      "lon": "35.2"
+    }
+  },
+  "key_references": [
+    "09019022"
+  ],
+  "references": [
+    "09019022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090190220102"
+      ]
+    ]
+  }
+}

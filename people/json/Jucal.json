@@ -1,0 +1,65 @@
+{
+  "id": "person:Jucal",
+  "primary_id": "person:Jehucal",
+  "alternate_sources": {
+    "aquifer": [
+      "6474|Jucal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002830001001000"
+    ],
+    "tipnr": [
+      "Jucal|Jehucal@Jer.37.3-"
+    ],
+    "vizbible": [
+      "recRO8vYDtHiYnLL2"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shelemiah.8",
+  "ubsdbh": [
+    "002830001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jucal (Jehucal)",
+      "alternate_labels": [
+        "Jehukal",
+        "Jehucal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehucal",
+          "article": "person:Jucal",
+          "description": "An official during the time of the divided kingdom, son of Shelemiah, mentioned in Jeremiah 37:3 and 38:1."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehucal"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהוּכַל",
+      "יוּכַל"
+    ]
+  },
+  "key_references": [
+    "24038001"
+  ],
+  "references": [
+    "24038001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240380010082"
+      ]
+    ]
+  }
+}

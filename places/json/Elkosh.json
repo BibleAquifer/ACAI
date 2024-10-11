@@ -1,0 +1,71 @@
+{
+  "id": "place:Elkosh",
+  "primary_id": "place:Elkosh",
+  "alternate_sources": {
+    "aquifer": [
+      "5035|Elkosh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000476001001000"
+    ],
+    "tipnr": [
+      "Elkosh@Nam.1.1"
+    ],
+    "vizbible": [
+      "recujqMoMiJOfMHBq"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000476001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elkosh",
+      "alternate_labels": [
+        "Elkoshite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Elkosh",
+          "gloss": "Elkosh",
+          "description": "Home of the prophet Nahum."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶלְקֹשִׁי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "special"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "key_references": [
+    "34001001"
+  ],
+  "references": [
+    "34001001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o340010010062"
+      ]
+    ]
+  }
+}

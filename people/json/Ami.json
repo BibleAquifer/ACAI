@@ -1,0 +1,57 @@
+{
+  "id": "person:Ami",
+  "primary_id": "person:Ami",
+  "alternate_sources": {
+    "aquifer": [
+      "3556|Ami|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Amon|Ami@Ezr.2.57-Neh",
+      "Ami@Ezr.2.57-Neh"
+    ],
+    "vizbible": [
+      "recKe0XGy5M8qOd4h"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ami",
+      "alternate_labels": [
+        "Amon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ami",
+          "article": "person:Ami",
+          "description": "A man living during the time of exile and return, mentioned in Ezra 2:57 and also called Amon in Nehemiah 7:59."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Amon"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "15002057",
+    "16007059"
+  ],
+  "references": [
+    "15002057",
+    "16007059"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020570091"
+      ],
+      [
+        "o160070590091"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "flora:Liquidambar",
+  "primary_id": "flora:Liquidambar",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004769001001000",
+      "006327001001000"
+    ],
+    "ubsflora": [
+      "flora:4.2.3"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "004769001001000",
+    "006327001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Liquidambar",
+      "alternate_labels": [
+        "Storax",
+        "Balm",
+        "Oriental Sweetgum"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Liquidambar",
+          "article": "flora:Liquidambar",
+          "description": "A tree producing aromatic sap used in incense and medicine."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נָטָף",
+      "צֳרִי"
+    ]
+  },
+  "key_references": [
+    "01037025",
+    "02030034",
+    "24008022"
+  ],
+  "references": [
+    "01037025",
+    "01043011",
+    "02030034",
+    "24008022",
+    "24046011",
+    "24051008",
+    "26027017",
+    "41016018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020300340081"
+      ],
+      [
+        "o010370250152"
+      ],
+      [
+        "o010430110181"
+      ],
+      [
+        "o240080220012"
+      ],
+      [
+        "o240460110041"
+      ],
+      [
+        "o240510080081"
+      ],
+      [
+        "o260270170112"
+      ]
+    ]
+  }
+}

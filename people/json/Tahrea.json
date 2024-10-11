@@ -1,0 +1,64 @@
+{
+  "id": "person:Tahrea",
+  "primary_id": "person:Tarea",
+  "alternate_sources": {
+    "aquifer": [
+      "8718|Tahrea|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007776001001000"
+    ],
+    "tipnr": [
+      "Tahrea|Tarea@1Ch.8.35-"
+    ],
+    "vizbible": [
+      "rec8cVmYSJH4n0tv6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Micah.2",
+  "siblings": [
+    "person:Pithon",
+    "person:Melech",
+    "person:Ahaz.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "007776001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tahrea (Tarea)",
+      "alternate_labels": [
+        "Tarea"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tarea",
+          "article": "person:Tahrea",
+          "description": "Tahrea, also called Tarea, mentioned in 1 Chronicles 8:35 and 1 Chronicles 9:41, was a man of the tribe of Benjamin, son of Micah, living during the time of Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Tarea"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009041"
+  ],
+  "references": [
+    "13009041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130090410052"
+      ]
+    ]
+  }
+}

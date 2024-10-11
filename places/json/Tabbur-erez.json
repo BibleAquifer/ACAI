@@ -1,0 +1,41 @@
+{
+  "id": "place:Tabbur-erez",
+  "primary_id": "place:Tabbur-erez",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tabbur-erez",
+          "gloss": "Tabbur-erez",
+          "description": "A mountain near Shechem; to be identified with Mount Gerizim."
+        }
+      ],
+      "preferred_label": "Tabbur-erez",
+      "alternate_labels": [
+        "Mount Gerizim"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:GerizimMount"
+  ],
+  "nearby_places": [
+    "place:Shechem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "mountain"
+    ]
+  },
+  "key_references": [
+    "07009037"
+  ]
+}

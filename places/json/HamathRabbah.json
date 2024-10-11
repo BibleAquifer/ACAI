@@ -1,0 +1,65 @@
+{
+  "id": "place:HamathRabbah",
+  "primary_id": "place:Hamath",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002372001001000",
+      "006654001005000"
+    ],
+    "tipnr": [
+      "Hamath_Rabbah|Hamath@Num.13.21-Zec"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002372001001000",
+    "006654001005000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hamath Rabbah",
+      "alternate_labels": [
+        "Hamath the great",
+        "Hamath-Zobah"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Hamath"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲמָת",
+      "ה",
+      "חֲמַת רַבָּה"
+    ]
+  },
+  "key_references": [
+    "30006002"
+  ],
+  "references": [
+    "30006002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o300060020061",
+        "o300060020071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o300060020142"
+      ]
+    ]
+  }
+}

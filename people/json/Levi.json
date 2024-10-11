@@ -1,0 +1,63 @@
+{
+  "id": "person:Levi",
+  "primary_id": "person:Levi",
+  "alternate_sources": {
+    "aquifer": [
+      "6729|Levi (Person)|TyndaleBibleDictionary",
+      "6734|Levi, Tribe of|TyndaleBibleDictionary",
+      "132329|Levi|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.231c"
+    ],
+    "tipnr": [
+      "Levi@Luk.3.24"
+    ],
+    "vizbible": [
+      "recKQACHUdXoFeBxh"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Melchi",
+  "offspring": [
+    "person:Matthat"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.231c"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Levi (Son of Melchi)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Levi (Son of Melchi)",
+          "article": "person:Levi",
+          "description": "Son of Melchi and the father of Matthat in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Λευί"
+    ]
+  },
+  "key_references": [
+    "42003024"
+  ],
+  "references": [
+    "42003024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003024004"
+      ]
+    ]
+  }
+}

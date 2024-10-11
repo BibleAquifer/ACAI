@@ -1,0 +1,73 @@
+{
+  "id": "person:Jozacar",
+  "primary_id": "person:Jozacar",
+  "alternate_sources": {
+    "aquifer": [
+      "6470|Jozacar, Jozachar|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jozacar@2Ki.12.21-2Ch",
+      "Jozabad|Jozacar@2Ki.12.21-2Ch",
+      "Zabad|Jozacar@2Ki.12.21-2Ch"
+    ],
+    "vizbible": [
+      "recFVfDDfa4oFUT8v"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:HusbandOfShimeath",
+  "mother": "person:Shimeath",
+  "tribe": "group:Ammon",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jozacar",
+      "alternate_labels": [
+        "in many MSS",
+        "Zabad",
+        "Jozachar",
+        "Jehozabad",
+        "Jozabad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jozacar",
+          "article": "person:Jozacar",
+          "description": "An Ammonite man who lived during the divided kingdom, known for being mentioned in 2 Kings 12:22 and 2 Chronicles 24:26."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jozabad.11",
+    "person:Zabad"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12012022",
+    "14024026"
+  ],
+  "references": [
+    "12012022",
+    "14024026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120120220012"
+      ],
+      [
+        "o140240260041"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140240260012"
+      ]
+    ]
+  }
+}

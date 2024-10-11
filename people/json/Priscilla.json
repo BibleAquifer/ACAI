@@ -1,0 +1,135 @@
+{
+  "id": "person:Priscilla",
+  "primary_id": "person:Priscilla",
+  "alternate_sources": {
+    "aquifer": [
+      "7820|Priscilla and Aquila|TyndaleBibleDictionary",
+      "26981|Priscilla|UWTranslationWords",
+      "132080|Aquila and Priscilla|BiblicaStudyNotesKeyTerms"
+    ],
+    "tipnr": [
+      "Priscilla@Act.18.2-2Ti",
+      "Prisca|Priscilla@Act.18.2-2Ti"
+    ],
+    "vizbible": [
+      "recOpU2GjcCC2kTg9"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Aquila"
+  ],
+  "roles": [
+    "Disciple",
+    "Church Leader",
+    "Tentmaker"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Priscilla",
+      "alternate_labels": [
+        "Prisca"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Priscilla",
+          "article": "person:Priscilla",
+          "description": "Christian disciple and wife of Aquila, who both were companions and fellow workers of the apostle Paul."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Prisca"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44018002",
+    "45016003",
+    "46016019",
+    "55004019"
+  ],
+  "references": [
+    "44018002",
+    "44018018",
+    "44018026",
+    "45016003",
+    "46016019",
+    "55004019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018002016"
+      ],
+      [
+        "n44018018018"
+      ],
+      [
+        "n44018026011"
+      ],
+      [
+        "n45016003002"
+      ],
+      [
+        "n46016019014"
+      ],
+      [
+        "n55004019002"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44018002031"
+      ],
+      [
+        "n44018003008"
+      ],
+      [
+        "n44018019005"
+      ],
+      [
+        "n45016004001"
+      ],
+      [
+        "n45016004007"
+      ],
+      [
+        "n45016004010"
+      ],
+      [
+        "n45016005005"
+      ],
+      [
+        "n45016009005"
+      ],
+      [
+        "n46016019019"
+      ],
+      [
+        "n55004022010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44018003011"
+      ],
+      [
+        "n44018019001"
+      ],
+      [
+        "n44018026008"
+      ],
+      [
+        "n44018026019"
+      ]
+    ]
+  }
+}

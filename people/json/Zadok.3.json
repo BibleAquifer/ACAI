@@ -1,0 +1,60 @@
+{
+  "id": "person:Zadok.3",
+  "primary_id": "person:Zadok.3",
+  "alternate_sources": {
+    "aquifer": [
+      "9126|Zadok|TyndaleBibleDictionary",
+      "27223|Zadok|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006124001002000"
+    ],
+    "tipnr": [
+      "Zadok@2Ki.15.33-2Ch"
+    ],
+    "vizbible": [
+      "recU9fgzUOc5OZ8xr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Jerusha"
+  ],
+  "ubsdbh": [
+    "006124001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zadok (2 Kings 15:33)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zadok (2 Kings 15:33)",
+          "article": "person:Zadok.3",
+          "description": "Zadok was a man living during the time of the divided kingdom, the father of Jerusha, first mentioned in 2 Kings 15:33."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12015033",
+    "14027001"
+  ],
+  "references": [
+    "12015033",
+    "14027001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120150330161"
+      ],
+      [
+        "o140270010161"
+      ]
+    ]
+  }
+}

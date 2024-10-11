@@ -1,0 +1,91 @@
+{
+  "id": "group:Rephaim",
+  "primary_id": "group:Rephaim",
+  "alternate_sources": {
+    "aquifer": [
+      "8003|Rephaim|TyndaleBibleDictionary",
+      "8002|Rephaim, Valley of|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Rephaim@Gen.14.5-Jos"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Rapha",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rephaim",
+      "alternate_labels": [
+        "Zamzummin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rephaim",
+          "article": "group:Rephaim",
+          "description": "A people group who lived in pre-conquest Canaan. The Rephaim were a race of giants."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01014015",
+    "05002011",
+    "05002020"
+  ],
+  "references": [
+    "01014005",
+    "01015020",
+    "05002011",
+    "05002020",
+    "05003011",
+    "05003013",
+    "06012004",
+    "06013012",
+    "06017015",
+    "13020004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140050111"
+      ],
+      [
+        "o010150200062"
+      ],
+      [
+        "o050020110011"
+      ],
+      [
+        "o050020200021"
+      ],
+      [
+        "o050020200061"
+      ],
+      [
+        "o050020200131"
+      ],
+      [
+        "o050030110082"
+      ],
+      [
+        "o050030130191"
+      ],
+      [
+        "o060120040062"
+      ],
+      [
+        "o060130120122"
+      ],
+      [
+        "o060170150163"
+      ],
+      [
+        "o130200040162"
+      ]
+    ]
+  }
+}

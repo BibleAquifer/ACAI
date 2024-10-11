@@ -1,0 +1,55 @@
+{
+  "id": "realia:Shuttle",
+  "primary_id": "realia:Shuttle",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000651001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.5.3.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "000651001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shuttle",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shuttle",
+          "article": "realia:Shuttle",
+          "description": "A small, pointed tool used in weaving to carry the thread back and forth between other threads."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶרֶג"
+    ]
+  },
+  "key_references": [
+    "07016014",
+    "18007006"
+  ],
+  "references": [
+    "07016014",
+    "18007006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070160140132"
+      ],
+      [
+        "o180070060041"
+      ]
+    ]
+  }
+}

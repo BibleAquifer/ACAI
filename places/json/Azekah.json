@@ -1,0 +1,122 @@
+{
+  "id": "place:Azekah",
+  "primary_id": "place:Azekah",
+  "alternate_sources": {
+    "aquifer": [
+      "3908|Azekah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af2ca0c"
+    ],
+    "ubsdbh": [
+      "005348001001000"
+    ],
+    "tipnr": [
+      "Azekah@Jos.10.10-Jer"
+    ],
+    "vizbible": [
+      "rec3RF6Fb7wZUoamW"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q723564"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005348001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Azekah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Azekah",
+          "gloss": "Azekah",
+          "description": "A fortified town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:Ephes-dammim"
+  ],
+  "subregion_of": [
+    "place:Shephelah",
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.70063856",
+      "lon": "34.9361859"
+    },
+    "vizbible": {
+      "lat": "31.70063856",
+      "lon": "34.9361859"
+    }
+  },
+  "key_references": [
+    "16011030",
+    "24034007",
+    "06010010"
+  ],
+  "references": [
+    "06010010",
+    "06010011",
+    "06015035",
+    "09017001",
+    "14011009",
+    "16011030",
+    "24034007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100100161"
+      ],
+      [
+        "o060100110171"
+      ],
+      [
+        "o060150350042"
+      ],
+      [
+        "o090170010141"
+      ],
+      [
+        "o140110090061"
+      ],
+      [
+        "o160110300061"
+      ],
+      [
+        "o240340070151"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o240340070171"
+      ]
+    ]
+  }
+}

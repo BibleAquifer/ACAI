@@ -1,0 +1,128 @@
+{
+  "id": "group:Cush",
+  "primary_id": "group:Cush",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003270001001000"
+    ],
+    "tipnr": [
+      "Cush@2Ki.19.9-Zep"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Cush.2",
+  "ubsdbh": [
+    "003270001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cushites",
+      "alternate_labels": [
+        "Cushites",
+        "Ethiopian",
+        "Cushitess",
+        "Cushite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cushites",
+          "article": "group:Cush",
+          "description": "People descended from Cush, son of Ham."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Ethiopia"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כּוּשִׁי",
+      "כּוּשִׁית"
+    ]
+  },
+  "key_references": [
+    "10018032",
+    "01002013",
+    "04012001"
+  ],
+  "references": [
+    "04012001",
+    "10018021",
+    "10018022",
+    "10018023",
+    "10018031",
+    "10018032",
+    "17001001",
+    "17008009",
+    "18028019",
+    "27011043",
+    "30009007",
+    "36002012",
+    "44008027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040120010082"
+      ],
+      [
+        "o040120010131"
+      ],
+      [
+        "o100180210032"
+      ],
+      [
+        "o100180210101"
+      ],
+      [
+        "o100180220162"
+      ],
+      [
+        "o100180230132"
+      ],
+      [
+        "o100180310022"
+      ],
+      [
+        "o100180310052"
+      ],
+      [
+        "o100180320042"
+      ],
+      [
+        "o100180320092"
+      ],
+      [
+        "o270110430092"
+      ],
+      [
+        "o300090070031"
+      ],
+      [
+        "o360020120031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o360020120021"
+      ],
+      [
+        "o360020120061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100180210122"
+      ]
+    ]
+  }
+}

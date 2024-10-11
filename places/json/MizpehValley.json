@@ -1,0 +1,84 @@
+{
+  "id": "place:MizpehValley",
+  "primary_id": "place:MizpehValley",
+  "alternate_sources": {
+    "obi": [
+      "ae32196"
+    ],
+    "tipnr": [
+      "Mizpeh_Valley@Jos.11.3"
+    ],
+    "vizbible": [
+      "recp19CEA8RQIkxZH"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Valley of Mizpeh",
+      "alternate_labels": [
+        "Valley of Mizpah",
+        "Mizpah Valley",
+        "Mizpah",
+        "Mizpeh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mizpah.2",
+          "gloss": "Valley of Mizpeh",
+          "description": "A location near Mount Hermon inhabited by the Hivites."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:HermonMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "valley"
+    ],
+    "vizbible": [
+      "Valley"
+    ],
+    "acai": [
+      "valley"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.28177",
+      "lon": "35.573371"
+    },
+    "vizbible": {
+      "lat": "33.28177",
+      "lon": "35.573371"
+    }
+  },
+  "key_references": [
+    "06011008",
+    "06011003"
+  ],
+  "references": [
+    "06011003",
+    "06011008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060110030132"
+      ],
+      [
+        "o060110080141",
+        "o060110080151"
+      ]
+    ]
+  }
+}

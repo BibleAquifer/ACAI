@@ -1,0 +1,119 @@
+{
+  "id": "place:Kittim",
+  "primary_id": "place:Cyprus",
+  "alternate_sources": {
+    "aquifer": [
+      "6632|Kittim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003469001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/146400"
+    ],
+    "tipnr": [
+      "Kittim|Cyprus@Num.24.24-Act"
+    ],
+    "vizbible": [
+      "recxONSPR7PbGyrLR"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003469001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kittim",
+      "alternate_labels": [
+        "Chittim",
+        "Cyprus",
+        "western coastlands"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kittim",
+          "gloss": "Kittim",
+          "description": "An island in the Mediterranean Sea; possibly to be identified with Cyprus."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Cyprus"
+  ],
+  "referred_to_as": [
+    "place:Cyprus"
+  ],
+  "tribal_area": "group:Cyprus",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "כִּתִּיִּים",
+      "כִּתִּי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "island"
+    ],
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.018306",
+      "lon": "33.207693"
+    },
+    "recogito": {
+      "lat": "34.92291",
+      "lon": "33.6233"
+    },
+    "vizbible": {
+      "lat": "35.018306",
+      "lon": "33.207693"
+    }
+  },
+  "key_references": [
+    "04024024",
+    "27011030"
+  ],
+  "references": [
+    "04024024",
+    "27011030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040240240031"
+      ],
+      [
+        "o270110300041"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o040240240091"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040240240042"
+      ],
+      [
+        "o040240240062"
+      ]
+    ]
+  }
+}

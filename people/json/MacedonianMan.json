@@ -1,0 +1,46 @@
+{
+  "id": "person:MacedonianMan",
+  "primary_id": "person:MacedonianMan",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Macedonian",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Macedonian",
+          "description": "A man from Macedonia."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "44016009"
+  ],
+  "references": [
+    "44016009"
+  ],
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44016009017"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "n44016009018",
+          "n44016009019",
+          "n44016009020",
+          "n44016009021",
+          "n44016009022"
+        ]
+      }
+    ]
+  }
+}

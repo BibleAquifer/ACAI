@@ -1,0 +1,39 @@
+{
+  "id": "place:Londinium",
+  "primary_id": "place:Londinium",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Londinium",
+          "gloss": "Londinium",
+          "description": "The capital city of Roman Britain; modern-day London."
+        }
+      ],
+      "preferred_label": "Londinium",
+      "alternate_labels": [
+        "Roman London",
+        "London"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "51.51004",
+      "lon": "-0.07605"
+    }
+  }
+}

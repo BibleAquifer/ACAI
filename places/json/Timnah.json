@@ -1,0 +1,133 @@
+{
+  "id": "place:Timnah",
+  "primary_id": "place:Timnah",
+  "alternate_sources": {
+    "aquifer": [
+      "8847|Timnah (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007848001001000",
+      "007848001002000"
+    ],
+    "tipnr": [
+      "Timnah@Gen.38.12-2Ch"
+    ],
+    "vizbible": [
+      "recw2errRDhNUlkXl"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007848001001000",
+    "007848001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Timnah (near Enaim)",
+      "alternate_labels": [
+        "Timnath",
+        "Timnah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Timnah.3",
+          "gloss": "Timnah (near Enaim)",
+          "description": "A town near Enaim, where Judah encountered his daughter-in-law Tamar."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Timnah.1",
+    "place:Timnah.2"
+  ],
+  "tribal_area": "group:Philistine",
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.784368",
+      "lon": "34.90968"
+    },
+    "vizbible": {
+      "lat": "31.784368",
+      "lon": "34.90968"
+    }
+  },
+  "key_references": [
+    "01038014",
+    "01038013",
+    "01038012"
+  ],
+  "references": [
+    "01038012",
+    "01038013",
+    "01038014",
+    "06015010",
+    "06019043",
+    "07014001",
+    "07014002",
+    "07014005",
+    "14028018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380120181"
+      ],
+      [
+        "o010380130071"
+      ],
+      [
+        "o010380140141"
+      ],
+      [
+        "o060150100201"
+      ],
+      [
+        "o060190430022"
+      ],
+      [
+        "o070140010031"
+      ],
+      [
+        "o070140010062"
+      ],
+      [
+        "o070140020082"
+      ],
+      [
+        "o070140050051"
+      ],
+      [
+        "o070140050091"
+      ],
+      [
+        "o140280180191"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o070140110042"
+      ]
+    ]
+  }
+}

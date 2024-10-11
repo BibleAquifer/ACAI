@@ -1,0 +1,45 @@
+{
+  "id": "person:HusbandOfMatred",
+  "primary_id": "person:HusbandOfMatred",
+  "alternate_sources": {
+    "tipnr": [
+      "husband_of_Matred@Gen.36.39-1Ch"
+    ],
+    "vizbible": [
+      "recMd2rffhZH7Vn9z"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Matred"
+  ],
+  "offspring": [
+    "person:Mehetabel"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Husband of Matred",
+      "alternate_labels": [
+        "Matred"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Husband of Matred",
+          "article": "person:HusbandOfMatred",
+          "description": "The unnamed husband of Matred, who lived during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036039"
+  ],
+  "references": [
+    "01036039"
+  ]
+}

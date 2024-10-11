@@ -1,0 +1,78 @@
+{
+  "id": "person:Joiakim",
+  "primary_id": "person:Joiakim",
+  "alternate_sources": {
+    "aquifer": [
+      "6418|Joiakim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002828001002000"
+    ],
+    "tipnr": [
+      "Joiakim@Neh.12.10-"
+    ],
+    "vizbible": [
+      "recRaa8cYrasdXG99"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Joshua.5",
+  "offspring": [
+    "person:Eliashib.8"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002828001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joiakim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joiakim",
+          "article": "person:Joiakim",
+          "description": "A priest during the Israelite exile and return. He was a son of Joshua, and father of Eliashib."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹויָקִים",
+      "יוֹיָקִים"
+    ]
+  },
+  "key_references": [
+    "16012010",
+    "16012012",
+    "16012026"
+  ],
+  "references": [
+    "16012010",
+    "16012012",
+    "16012026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160120100041"
+      ],
+      [
+        "o160120100052"
+      ],
+      [
+        "o160120120021"
+      ],
+      [
+        "o160120260031"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "person:Elpaal",
+  "primary_id": "person:Elpaal",
+  "alternate_sources": {
+    "aquifer": [
+      "5049|Elpaal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000471001001000"
+    ],
+    "tipnr": [
+      "Elpaal@1Ch.8.11-"
+    ],
+    "vizbible": [
+      "rec7yAWAMAb3g7hPW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shaharaim",
+  "mother": "person:Hushim",
+  "offspring": [
+    "person:Eber.3",
+    "person:Misham",
+    "person:Shemed",
+    "person:Beriah.3",
+    "person:Shema.3",
+    "person:Zebadiah.2",
+    "person:Meshullam.4",
+    "person:Hizki",
+    "person:Heber.4",
+    "person:Ishmerai",
+    "person:Izliah",
+    "person:Jobab.5"
+  ],
+  "siblings": [
+    "person:Jobab.4",
+    "person:Zibia",
+    "person:Mesha",
+    "person:Malcam",
+    "person:Jeuz",
+    "person:Sachia",
+    "person:Mirmah",
+    "person:Abitub"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000471001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elpaal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elpaal",
+          "article": "person:Elpaal",
+          "description": "Elpaal, from the tribe of Benjamin and son of Shaharaim and Hushim, lived during the time of the divided kingdom and is first mentioned in 1 Chronicles 8:11."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְפַּעַל",
+      "אֶלְפַּ֫עַל"
+    ]
+  },
+  "key_references": [
+    "13008011",
+    "13008012",
+    "13008018"
+  ],
+  "references": [
+    "13008011",
+    "13008012",
+    "13008018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080110061"
+      ],
+      [
+        "o130080120021"
+      ],
+      [
+        "o130080180051"
+      ]
+    ]
+  }
+}

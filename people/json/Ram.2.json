@@ -1,0 +1,72 @@
+{
+  "id": "person:Ram.2",
+  "primary_id": "person:Ram.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7940|Ram|TyndaleBibleDictionary",
+      "7936|Ram (Person)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006814001002000"
+    ],
+    "tipnr": [
+      "Ram@1Ch.2.25-"
+    ],
+    "vizbible": [
+      "recFfrgWCvTSwKxZC"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jerahmeel",
+  "mother": "person:WifeOfJerahmeel",
+  "offspring": [
+    "person:Maaz",
+    "person:Jamin.2",
+    "person:Eker"
+  ],
+  "siblings": [
+    "person:Bunah",
+    "person:Oren",
+    "person:Ozem.2",
+    "person:Ahijah.4",
+    "person:Onam.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "006814001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ram (1 Chronicles 2:25)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ram (1 Chronicles 2:25)",
+          "article": "person:Ram.2",
+          "description": "Ram is a man from the tribe of Judah, mentioned in 1 Chronicles 2:25, living during Israel's united kingdom."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13002025",
+    "13002027"
+  ],
+  "references": [
+    "13002025",
+    "13002027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020250071"
+      ],
+      [
+        "o130020270031"
+      ]
+    ]
+  }
+}

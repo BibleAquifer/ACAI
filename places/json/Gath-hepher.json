@@ -1,0 +1,103 @@
+{
+  "id": "place:Gath-hepher",
+  "primary_id": "place:Gath-hepher",
+  "alternate_sources": {
+    "aquifer": [
+      "5377|Gath-Hepher|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ac51cec"
+    ],
+    "ubsdbh": [
+      "001526001001000"
+    ],
+    "tipnr": [
+      "Gath-hepher@Jos.19.13-2Ki"
+    ],
+    "vizbible": [
+      "recXs9hirzM1zgQ18"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q5527338"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001526001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gath-hepher",
+      "alternate_labels": [
+        "Gittah-hepher"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gath-hepher",
+          "gloss": "Gath-Hepher",
+          "description": "A town in the territory of Zebulun; home town of the prophet Jonah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גַּת הַחֵפֶר",
+      "גַּת הַחֵ֫פֶר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.7391847",
+      "lon": "35.32822662"
+    },
+    "vizbible": {
+      "lat": "32.7391847",
+      "lon": "35.32822662"
+    }
+  },
+  "key_references": [
+    "12014025",
+    "06019013"
+  ],
+  "references": [
+    "06019013",
+    "12014025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190130051"
+      ],
+      [
+        "o060190130061"
+      ],
+      [
+        "o120140250242",
+        "o120140250251"
+      ]
+    ]
+  }
+}

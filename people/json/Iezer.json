@@ -1,0 +1,72 @@
+{
+  "id": "person:Iezer",
+  "primary_id": "person:Abiezer",
+  "alternate_sources": {
+    "aquifer": [
+      "5988|Iezer, Iezerites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000351001001000"
+    ],
+    "tipnr": [
+      "Iezer|Abiezer@Num.26.30-Jdg"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Gilead",
+  "siblings": [
+    "person:Helek",
+    "person:Asriel",
+    "person:Shechem.2",
+    "person:Shemida",
+    "person:Hepher"
+  ],
+  "roles": [
+    "Tribal Chief"
+  ],
+  "tribe": "group:Manasseh",
+  "ubsdbh": [
+    "000351001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Iezer (Abiezer)",
+      "alternate_labels": [
+        "Abiezer",
+        "Jeezer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Abiezer",
+          "article": "person:Iezer",
+          "description": "A man of the tribe of Manasseh, son of Gilead, first mentioned in Numbers 26:30, also called Jeezer."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Abiezer"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אִיעֶזֶר"
+    ]
+  },
+  "key_references": [
+    "04026030"
+  ],
+  "references": [
+    "04026030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260300041"
+      ]
+    ]
+  }
+}

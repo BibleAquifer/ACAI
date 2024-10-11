@@ -1,0 +1,48 @@
+{
+  "id": "place:Jericho.2",
+  "primary_id": "place:Jericho.2",
+  "alternate_sources": {
+    "aquifer": [
+      "6321|Jericho|TyndaleBibleDictionary",
+      "26754|Jericho|UWTranslationWords",
+      "132370|Jericho|BiblicaStudyNotesKeyTerms"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jericho.2",
+          "gloss": "Jericho (New Testament)",
+          "description": "A city in Judea, not far from the north end of the Dead Sea; rebuilt by Herod south of Old Testament Jericho. "
+        }
+      ],
+      "preferred_label": "Jericho (New Testament)"
+    }
+  },
+  "nearby_places": [
+    "place:Jericho"
+  ],
+  "subregion_of": [
+    "place:Judea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": true,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "key_references": [
+    "40020029",
+    "41010046",
+    "42010030",
+    "42018035"
+  ]
+}

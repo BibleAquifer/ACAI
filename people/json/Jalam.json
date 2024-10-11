@@ -1,0 +1,86 @@
+{
+  "id": "person:Jalam",
+  "primary_id": "person:Jalam",
+  "alternate_sources": {
+    "aquifer": [
+      "6197|Jalam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003000001001000"
+    ],
+    "tipnr": [
+      "Jalam@Gen.36.5-1Ch"
+    ],
+    "vizbible": [
+      "recX3YCieD7ibQY5r"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Esau",
+  "mother": "person:Oholibamah",
+  "siblings": [
+    "person:Eliphaz",
+    "person:Reuel.3",
+    "person:Jeush",
+    "person:Korah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "003000001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jalam",
+      "alternate_labels": [
+        "Jaalam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jalam",
+          "article": "person:Jalam",
+          "description": "Grandson of the patriarch Isaac and son of Esau by Oholibamah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יַעְלָם"
+    ]
+  },
+  "key_references": [
+    "01036005",
+    "01036014",
+    "01036018"
+  ],
+  "references": [
+    "01036005",
+    "01036014",
+    "01036018",
+    "13001035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360050071"
+      ],
+      [
+        "o010360140171"
+      ],
+      [
+        "o010360180091"
+      ],
+      [
+        "o130010350062"
+      ]
+    ]
+  }
+}

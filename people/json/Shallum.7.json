@@ -1,0 +1,78 @@
+{
+  "id": "person:Shallum.7",
+  "primary_id": "person:Shallum.7",
+  "alternate_sources": {
+    "aquifer": [
+      "8266|Shallum|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Meshullam|Shallum@1Ch.6.12-Neh",
+      "Shallum@1Ch.6.12-Neh"
+    ],
+    "vizbible": [
+      "recSL6yYxSYOk3Rqu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zadok.4",
+  "offspring": [
+    "person:Hilkiah.2"
+  ],
+  "roles": [
+    "Priest"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shallum",
+      "alternate_labels": [
+        "Meshullam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shallum",
+          "article": "person:Shallum.7",
+          "description": "The son of Zadok, and the father of Hilkiah, and priest during the Israelite return from exile."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Meshullam.21"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13009011",
+    "15007002",
+    "16011011"
+  ],
+  "references": [
+    "13005038",
+    "13005039",
+    "13009011",
+    "15007002",
+    "16011011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130050380081"
+      ],
+      [
+        "o130050390012"
+      ],
+      [
+        "o130090110051"
+      ],
+      [
+        "o150070020021"
+      ],
+      [
+        "o160110110051"
+      ]
+    ]
+  }
+}

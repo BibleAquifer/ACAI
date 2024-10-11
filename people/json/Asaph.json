@@ -1,0 +1,80 @@
+{
+  "id": "person:Asaph",
+  "primary_id": "person:Asaph",
+  "alternate_sources": {
+    "aquifer": [
+      "3779|Asaph|TyndaleBibleDictionary",
+      "26338|Asaph|UWTranslationWords",
+      "132452|Asaph|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "000570001002000"
+    ],
+    "tipnr": [
+      "Asaph@2Ki.18.18-Isa"
+    ],
+    "vizbible": [
+      "recvgPc1qs2XrDYQN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Joah"
+  ],
+  "roles": [
+    "Official"
+  ],
+  "ubsdbh": [
+    "000570001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Asaph",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Asaph",
+          "article": "person:Asaph",
+          "description": "Served under King Hezekiah when king Sernnacherib of Assyria attacked Judah. He was the father of Joah, a recorder."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָסָף"
+    ]
+  },
+  "key_references": [
+    "12018013",
+    "12018017",
+    "12018018",
+    "12018037",
+    "23036003"
+  ],
+  "references": [
+    "12018018",
+    "12018037",
+    "23036003",
+    "23036022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120180180161"
+      ],
+      [
+        "o120180370121"
+      ],
+      [
+        "o230360030131"
+      ],
+      [
+        "o230360220121"
+      ]
+    ]
+  }
+}

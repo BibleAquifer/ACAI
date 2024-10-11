@@ -1,0 +1,72 @@
+{
+  "id": "flora:Soap",
+  "primary_id": "flora:Soap",
+  "alternate_sources": {
+    "ubsdbh": [
+      "001155002001000",
+      "001186001001000"
+    ],
+    "ubsflora": [
+      "flora:5.2.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Plants for Everyday Use",
+  "ubsdbh": [
+    "001155002001000",
+    "001186001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hammada",
+      "alternate_labels": [
+        "Soap",
+        "Lye",
+        "Salsola"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hammada",
+          "article": "flora:Soap",
+          "description": "A plant used to make a cleansing substance by mixing its ashes with oils or fats."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֹּר",
+      "בֹּרִית"
+    ]
+  },
+  "key_references": [
+    "18009030",
+    "23001025",
+    "39003002"
+  ],
+  "references": [
+    "18009030",
+    "23001025",
+    "24002022",
+    "39003002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180090300072"
+      ],
+      [
+        "o230010250052"
+      ],
+      [
+        "o240020220071"
+      ],
+      [
+        "o390030020133"
+      ]
+    ]
+  }
+}

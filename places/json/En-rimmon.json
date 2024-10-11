@@ -1,0 +1,101 @@
+{
+  "id": "place:En-rimmon",
+  "primary_id": "place:Ain.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5091|En-Rimmon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005401001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/687895"
+    ],
+    "tipnr": [
+      "En-rimmon|Ain@Jos.15.32-Neh"
+    ],
+    "vizbible": [
+      "recYdVr4FVGjduAvu"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005401001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "En-rimmon",
+      "alternate_labels": [
+        "Ain"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:En-rimmon",
+          "gloss": "En-Rimmon",
+          "description": "A town in the territory of Judah, and later Simeon."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Ain.2",
+    "place:Rimmon"
+  ],
+  "referred_to_as": [
+    "place:Ain.2"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah",
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵין שֶׁמֶשׁ",
+      "עֵין שֶׁ֫מֶשׁ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.370835",
+      "lon": "34.860665"
+    },
+    "recogito": {
+      "lat": "31.394373",
+      "lon": "34.859426"
+    },
+    "vizbible": {
+      "lat": "31.370835",
+      "lon": "34.860665"
+    }
+  },
+  "key_references": [
+    "16011029"
+  ],
+  "references": [
+    "16011029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110290013",
+        "o160110290021"
+      ]
+    ]
+  }
+}

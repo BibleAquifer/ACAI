@@ -1,0 +1,83 @@
+{
+  "id": "deity:Beelzebub",
+  "primary_id": "deity:Satan",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.68"
+    ],
+    "tipnr": [
+      "Beelzebub|Satan@Deu.13.13-Rev"
+    ]
+  },
+  "type": "deity",
+  "deity_type": "demon",
+  "ubsdgnt": [
+    "93.68"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beelzebub (Satan)",
+      "alternate_labels": [
+        "Satan",
+        "Beelzebul"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Satan",
+          "article": "deity:Beelzebub",
+          "description": "The name of the Devil (Satan) as the prince of the demons."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "deity:Satan"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Βεελζεβούλ"
+    ]
+  },
+  "key_references": [
+    "12001002",
+    "12001016",
+    "41003022"
+  ],
+  "references": [
+    "40010025",
+    "40012024",
+    "40012027",
+    "41003022",
+    "42011015",
+    "42011018",
+    "42011019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40010025020"
+      ],
+      [
+        "n40012024015"
+      ],
+      [
+        "n40012027005"
+      ],
+      [
+        "n41003022010"
+      ],
+      [
+        "n42011015007"
+      ],
+      [
+        "n42011018017"
+      ],
+      [
+        "n42011019005"
+      ]
+    ]
+  }
+}

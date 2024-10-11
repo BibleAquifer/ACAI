@@ -1,0 +1,52 @@
+{
+  "id": "person:Magor-missabib",
+  "primary_id": "person:Pashhur.3",
+  "alternate_sources": {
+    "aquifer": [
+      "6858|Magor-Missabib|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Magor-missabib|Pashhur@Jer.20.1-"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Priest"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Magor-missabib (Pashhur)",
+      "alternate_labels": [
+        "Terror on Every Side",
+        "Pashhur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pashhur",
+          "article": "person:Magor-missabib",
+          "description": "A man living during the time of the divided kingdom, given the name 'Terror on Every Side' by Jeremiah, mentioned in Jeremiah 20:1-3."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Pashhur.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24020003"
+  ],
+  "references": [
+    "24020003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240200030202"
+      ]
+    ]
+  }
+}

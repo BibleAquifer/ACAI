@@ -1,0 +1,81 @@
+{
+  "id": "person:Hanoch.2",
+  "primary_id": "person:Hanoch.2",
+  "alternate_sources": {
+    "aquifer": [
+      "5652|Hanoch|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Hanoch@Gen.46.9-1Ch"
+    ],
+    "vizbible": [
+      "rec7AvqLWfSYNkmb1"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Reuben",
+  "siblings": [
+    "person:Pallu",
+    "person:Hezron",
+    "person:Carmi.2"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Reuben",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hanoch",
+      "alternate_labels": [
+        "Hanochite",
+        "Hanok",
+        "Hanokite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hanoch",
+          "article": "person:Hanoch.2",
+          "description": "A son of the patriarch Reuben."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Hanoch"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046009",
+    "02006014",
+    "04026005"
+  ],
+  "references": [
+    "01046009",
+    "02006014",
+    "04026005",
+    "13005003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460090031"
+      ],
+      [
+        "o020060140091"
+      ],
+      [
+        "o040260050061"
+      ],
+      [
+        "o040260050082"
+      ],
+      [
+        "o130050030051"
+      ]
+    ]
+  }
+}

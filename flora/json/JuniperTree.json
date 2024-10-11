@@ -1,0 +1,150 @@
+{
+  "id": "flora:JuniperTree",
+  "primary_id": "flora:JuniperTree",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005684002001000"
+    ],
+    "ubsflora": [
+      "flora:1.11.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "005684002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Phoenician Juniper",
+      "alternate_labels": [
+        "Cedar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Phoenician Juniper",
+          "article": "flora:JuniperTree",
+          "description": "A short shrub or tree that can grow up to 5 meters, with small, tough leaves and tiny berry-like cones."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "flora:Juniper"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַרְעָר"
+    ]
+  },
+  "key_references": [
+    "03014004",
+    "04019006",
+    "24017006",
+    "24048006"
+  ],
+  "references": [
+    "10006005",
+    "11005022",
+    "11005024",
+    "11006015",
+    "11006034",
+    "11009011",
+    "14002007",
+    "14003005",
+    "19104017",
+    "22001017",
+    "23014008",
+    "23037024",
+    "23041019",
+    "23060013",
+    "24017006",
+    "24048006",
+    "26027005",
+    "26031008",
+    "28014009",
+    "34002004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240170060022"
+      ],
+      [
+        "o240480060052"
+      ],
+      [
+        "o100060050101"
+      ],
+      [
+        "o110050220191"
+      ],
+      [
+        "o110050240081"
+      ],
+      [
+        "o110060150211"
+      ],
+      [
+        "o110060340041"
+      ],
+      [
+        "o110090110101"
+      ],
+      [
+        "o140020070051"
+      ],
+      [
+        "o140030050061"
+      ],
+      [
+        "o191040170061"
+      ],
+      [
+        "o220010170061"
+      ],
+      [
+        "o230140080021"
+      ],
+      [
+        "o230370240181",
+        "o230370240182"
+      ],
+      [
+        "o230410190101"
+      ],
+      [
+        "o230600130051"
+      ],
+      [
+        "o260270050011"
+      ],
+      [
+        "o260310080061"
+      ],
+      [
+        "o280140090102"
+      ],
+      [
+        "o340020040123"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230140080122"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230600130092"
+      ]
+    ]
+  }
+}

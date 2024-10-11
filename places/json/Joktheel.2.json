@@ -1,0 +1,92 @@
+{
+  "id": "place:Joktheel.2",
+  "primary_id": "place:Sela",
+  "alternate_sources": {
+    "aquifer": [
+      "8215|Sela|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003080001002000"
+    ],
+    "tipnr": [
+      "Joktheel|Sela@Jdg.1.36-Isa"
+    ],
+    "vizbible": [
+      "recSWu2nTiJjPfd7u"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003080001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sela (of Edom)",
+      "alternate_labels": [
+        "Jokthe-El",
+        "Jokteel",
+        "Sela",
+        "Selah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sela.2",
+          "gloss": "Sela (of Edom)",
+          "description": "A town in Edom where Amaziah defeated the Edomites; renamed Joktheel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Sela"
+  ],
+  "subregion_of": [
+    "place:Edom"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יָקְתְאֵל",
+      "יׇקְתְאֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.32243571",
+      "lon": "35.45627947"
+    },
+    "vizbible": {
+      "lat": "30.32243571",
+      "lon": "35.45627947"
+    }
+  },
+  "key_references": [
+    "23042011",
+    "12014007"
+  ],
+  "references": [
+    "12014007",
+    "23042011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120140070171"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "place:Beeroth",
+  "primary_id": "place:Beeroth",
+  "alternate_sources": {
+    "aquifer": [
+      "4071|Beeroth|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a046454"
+    ],
+    "tipnr": [
+      "Beeroth@Jos.9.17-Neh",
+      "Beer|Beeroth@Jos.9.17-Neh"
+    ],
+    "vizbible": [
+      "rec4IK8BRFWJUhjhQ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4880075"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beeroth",
+      "alternate_labels": [
+        "Berothite",
+        "Beerothites",
+        "Beerothite",
+        "-",
+        "Beer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beeroth",
+          "gloss": "Beeroth",
+          "description": "A town in Lebanon, which was left unconquered by Joshua (Joshua 13:4)."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Beer.2"
+  ],
+  "referred_to_as": [
+    "place:Beer.2",
+    "group:Beeroth"
+  ],
+  "tribal_area": "group:Benjamin",
+  "associated_places": [
+    "place:Chephirah",
+    "place:Kiriath-jearim",
+    "place:Gibeon"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.90007449",
+      "lon": "35.21668801"
+    },
+    "vizbible": {
+      "lat": "31.90007449",
+      "lon": "35.21668801"
+    }
+  },
+  "key_references": [
+    "10004002",
+    "06009017"
+  ],
+  "references": [
+    "06009017",
+    "06018025",
+    "07009021",
+    "10004002",
+    "10004003",
+    "10004005",
+    "10004009",
+    "10023037",
+    "13011039",
+    "15002025",
+    "16007029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060090170122"
+      ],
+      [
+        "o060180250032"
+      ],
+      [
+        "o070090210051"
+      ],
+      [
+        "o100040020162"
+      ],
+      [
+        "o100040020211"
+      ],
+      [
+        "o100040030022"
+      ],
+      [
+        "o100040050042"
+      ],
+      [
+        "o100040090102"
+      ],
+      [
+        "o100230370042"
+      ],
+      [
+        "o130110390042"
+      ],
+      [
+        "o150020250052"
+      ],
+      [
+        "o160070290052"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100040030042"
+      ],
+      [
+        "o100040030061"
+      ]
+    ]
+  }
+}

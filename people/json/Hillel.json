@@ -1,0 +1,64 @@
+{
+  "id": "person:Hillel",
+  "primary_id": "person:Hillel",
+  "alternate_sources": {
+    "aquifer": [
+      "5853|Hillel|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001828001001000"
+    ],
+    "tipnr": [
+      "Hillel@Jdg.12.13-"
+    ],
+    "vizbible": [
+      "reca8OxzWyaFzg7TT"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Abdon"
+  ],
+  "ubsdbh": [
+    "001828001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hillel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hillel",
+          "article": "person:Hillel",
+          "description": "Hillel, first mentioned in Judges 12:13, was the father of Abdon, a judge of Israel, and lived before Israel's monarchy."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הִלֵּל"
+    ]
+  },
+  "key_references": [
+    "07012013",
+    "07012015"
+  ],
+  "references": [
+    "07012013",
+    "07012015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070120130071"
+      ],
+      [
+        "o070120150041"
+      ]
+    ]
+  }
+}

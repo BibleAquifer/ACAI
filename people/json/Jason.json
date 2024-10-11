@@ -1,0 +1,90 @@
+{
+  "id": "person:Jason",
+  "primary_id": "person:Jason",
+  "alternate_sources": {
+    "aquifer": [
+      "6236|Jason|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.163a",
+      "93.163b"
+    ],
+    "tipnr": [
+      "Jason@Act.17.5-Rom"
+    ],
+    "vizbible": [
+      "recFgALWbY8KpUwCH"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Disciple"
+  ],
+  "ubsdgnt": [
+    "93.163a",
+    "93.163b"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jason",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jason",
+          "article": "person:Jason",
+          "description": "A man living during New Testament era, who hosted the apostles Paul and Silas at Thessalonica. He was a relative of the apostle Paul."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰάσων"
+    ]
+  },
+  "key_references": [
+    "44017005",
+    "44017006",
+    "44017007",
+    "45016021"
+  ],
+  "references": [
+    "44017005",
+    "44017006",
+    "44017007",
+    "44017009",
+    "45016021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44017005021"
+      ],
+      [
+        "n44017006006"
+      ],
+      [
+        "n44017007003"
+      ],
+      [
+        "n44017009007"
+      ],
+      [
+        "n45016021010"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44017009012"
+      ],
+      [
+        "n45016024005"
+      ]
+    ]
+  }
+}

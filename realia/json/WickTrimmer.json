@@ -1,0 +1,68 @@
+{
+  "id": "realia:WickTrimmer",
+  "primary_id": "realia:WickTrimmer",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003844001001000"
+    ],
+    "ubsrealia": [
+      "realia:4.3.4.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003844001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wick Trimmer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wick Trimmer",
+          "article": "realia:WickTrimmer",
+          "description": "A tool used to cut the burnt part of a candle wick to reduce smoke when it burns."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְזַמֶּרֶת"
+    ]
+  },
+  "key_references": [
+    "11007050",
+    "14004022",
+    "24052018"
+  ],
+  "references": [
+    "11007050",
+    "12012014",
+    "12025014",
+    "14004022",
+    "24052018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110070500023"
+      ],
+      [
+        "o120120140081"
+      ],
+      [
+        "o120250140062"
+      ],
+      [
+        "o140040220013"
+      ],
+      [
+        "o240520180062"
+      ]
+    ]
+  }
+}

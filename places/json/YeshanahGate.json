@@ -1,0 +1,89 @@
+{
+  "id": "place:YeshanahGate",
+  "primary_id": "place:YeshanahGate",
+  "alternate_sources": {
+    "pleiades": [
+      "http://pleiades.stoa.org/places/967060256"
+    ],
+    "tipnr": [
+      "Yeshanah_Gate@Neh.3.6-"
+    ],
+    "vizbible": [
+      "recRJO8SWdV2puVLx"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gate of Jeshanah",
+      "alternate_labels": [
+        "Old Gate",
+        "Old City Gate",
+        "Ancient Gate",
+        "Yeshanah Gate",
+        "Jeshanah Gate",
+        "Gate of Yeshanah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:YeshanahGate",
+          "gloss": "Gate of Jeshanah",
+          "description": "A gate in Jerusalem which was repaired by Johoida and Meshullam (Nehemiah 3:6)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "recogito": {
+      "lat": "54.947696",
+      "lon": "-2.804855"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16012039",
+    "16003006"
+  ],
+  "references": [
+    "16003006",
+    "16012039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030060031"
+      ],
+      [
+        "o160120390061"
+      ]
+    ]
+  }
+}

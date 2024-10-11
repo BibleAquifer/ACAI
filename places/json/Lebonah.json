@@ -1,0 +1,90 @@
+{
+  "id": "place:Lebonah",
+  "primary_id": "place:Lebonah",
+  "alternate_sources": {
+    "aquifer": [
+      "6710|Lebonah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ab6bb68"
+    ],
+    "ubsdbh": [
+      "003504002001000"
+    ],
+    "tipnr": [
+      "Lebonah@Jdg.21.19"
+    ],
+    "vizbible": [
+      "recK6yT6BRoJJlkTP"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6604394"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003504002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lebonah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lebonah",
+          "gloss": "Lebonah",
+          "description": "A town near Shiloh."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Shiloh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "לְבֹונָה",
+      "לְבוֹנָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.07077",
+      "lon": "35.239871"
+    },
+    "vizbible": {
+      "lat": "32.07077",
+      "lon": "35.239871"
+    }
+  },
+  "key_references": [
+    "07021019"
+  ],
+  "references": [
+    "07021019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070210190202"
+      ]
+    ]
+  }
+}

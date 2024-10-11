@@ -1,0 +1,85 @@
+{
+  "id": "place:Lahmam",
+  "primary_id": "place:Lahmam",
+  "alternate_sources": {
+    "obi": [
+      "a62aa3a"
+    ],
+    "ubsdbh": [
+      "003568001001000"
+    ],
+    "tipnr": [
+      "Lahmam@Jos.15.40"
+    ],
+    "vizbible": [
+      "recOo2BnAFBi23cb3"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003568001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lahmas",
+      "alternate_labels": [
+        "Lahma",
+        "Lahmam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lahmam",
+          "gloss": "Lahmas",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "לַחְמָס"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.566667",
+      "lon": "34.9"
+    },
+    "vizbible": {
+      "lat": "31.566667",
+      "lon": "34.9"
+    }
+  },
+  "key_references": [
+    "06015040"
+  ],
+  "references": [
+    "06015040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150400022"
+      ]
+    ]
+  }
+}

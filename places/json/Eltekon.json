@@ -1,0 +1,84 @@
+{
+  "id": "place:Eltekon",
+  "primary_id": "place:Eltekon",
+  "alternate_sources": {
+    "aquifer": [
+      "5055|Eltekon|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a26cd81"
+    ],
+    "ubsdbh": [
+      "000479001001000"
+    ],
+    "tipnr": [
+      "Eltekon@Jos.15.59"
+    ],
+    "vizbible": [
+      "rec739x1k6MNGVNYX"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000479001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eltekon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eltekon",
+          "gloss": "Eltekon",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶלְתְּקֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.66057",
+      "lon": "34.995406"
+    },
+    "vizbible": {
+      "lat": "31.66057",
+      "lon": "34.995406"
+    }
+  },
+  "key_references": [
+    "06015059"
+  ],
+  "references": [
+    "06015059"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150590042"
+      ]
+    ]
+  }
+}

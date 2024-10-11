@@ -1,0 +1,120 @@
+{
+  "id": "realia:Siege-works",
+  "primary_id": "realia:Siege-works",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.60"
+    ],
+    "ubsdbh": [
+      "001640001001000",
+      "004291003001000",
+      "004297002002000",
+      "004298001002000"
+    ],
+    "ubsrealia": [
+      "realia:2.19.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "7.60"
+  ],
+  "ubsdbh": [
+    "001640001001000",
+    "004291003001000",
+    "004297002002000",
+    "004298001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Siege-Works",
+      "alternate_labels": [
+        "Siege Wall",
+        "Palisade",
+        "Barricade",
+        "Siegeworks"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Siege-Works",
+          "article": "realia:Siege-works",
+          "description": "A set of constructions, like fences of poles or dirt, used to help conquer a city during a siege."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דָּיֵק",
+      "מָצֹוד",
+      "מָצֹור",
+      "מְצוּרָה"
+    ],
+    "el": [
+      "χάραξ"
+    ]
+  },
+  "key_references": [
+    "24052004",
+    "26004002",
+    "27011015",
+    "42019043"
+  ],
+  "references": [
+    "05020020",
+    "12025001",
+    "18019006",
+    "21009014",
+    "23029003",
+    "24052004",
+    "26004002",
+    "26017017",
+    "26021027",
+    "26026008",
+    "42019043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120250010221"
+      ],
+      [
+        "o240520040221"
+      ],
+      [
+        "o260040020061"
+      ],
+      [
+        "o260170170131"
+      ],
+      [
+        "o260210270201"
+      ],
+      [
+        "o260260080071"
+      ],
+      [
+        "o180190060062",
+        "o180190060063"
+      ],
+      [
+        "o210090140141"
+      ],
+      [
+        "o050200200141"
+      ],
+      [
+        "o230290030091"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42019043011"
+      ]
+    ]
+  }
+}

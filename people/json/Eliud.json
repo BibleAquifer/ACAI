@@ -1,0 +1,69 @@
+{
+  "id": "person:Eliud",
+  "primary_id": "person:Eliud",
+  "alternate_sources": {
+    "aquifer": [
+      "5028|Eliud|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.110"
+    ],
+    "tipnr": [
+      "Eliud@Mat.1.14-"
+    ],
+    "vizbible": [
+      "recDP070Jjn9UpFQz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Achim",
+  "offspring": [
+    "person:Eleazar"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.110"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliud",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliud",
+          "article": "person:Eliud",
+          "description": "Son of Achim and the father of Eleazar in Jesus's family tree according to Matthew's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἐλιούδ"
+    ]
+  },
+  "key_references": [
+    "40001014",
+    "40001015"
+  ],
+  "references": [
+    "40001014",
+    "40001015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40001014015"
+      ],
+      [
+        "n40001015001"
+      ]
+    ]
+  }
+}

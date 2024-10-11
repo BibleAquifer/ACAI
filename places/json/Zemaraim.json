@@ -1,0 +1,83 @@
+{
+  "id": "place:Zemaraim",
+  "primary_id": "place:Zemaraim",
+  "alternate_sources": {
+    "aquifer": [
+      "9177|Zemaraim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a811a10"
+    ],
+    "tipnr": [
+      "Zemaraim@Jos.18.22-2Ch"
+    ],
+    "vizbible": [
+      "recgy8VDM6SZ3R4p4"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zemaraim",
+      "alternate_labels": [
+        "Mount Zemaraim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zemaraim",
+          "gloss": "Zemaraim",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.910999",
+      "lon": "35.45728"
+    },
+    "vizbible": {
+      "lat": "31.910999",
+      "lon": "35.45728"
+    }
+  },
+  "key_references": [
+    "06018022"
+  ],
+  "references": [
+    "06018022",
+    "14013004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180220032"
+      ],
+      [
+        "o140130040051"
+      ]
+    ]
+  }
+}

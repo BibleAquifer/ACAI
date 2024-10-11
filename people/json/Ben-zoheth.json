@@ -1,0 +1,63 @@
+{
+  "id": "person:Ben-zoheth",
+  "primary_id": "person:Ben-zoheth",
+  "alternate_sources": {
+    "aquifer": [
+      "4120|Ben-Zoheth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001046001001000"
+    ],
+    "tipnr": [
+      "Ben-zoheth@1Ch.4.20"
+    ],
+    "vizbible": [
+      "recHDCOefABfe4RHW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishi.2",
+  "siblings": [
+    "person:Zoheth"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "001046001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ben-zoheth",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ben-Zoheth",
+          "article": "person:Ben-zoheth",
+          "description": "Man from the tribe of Judah during the time of the divided kingdom, mentioned in 1 Chronicles 4:20, son of Ishi and brother of Zoheth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֶּן־זֹוחֵת",
+      "בֶּן־זוֹחֵת"
+    ]
+  },
+  "key_references": [
+    "13004020"
+  ],
+  "references": [
+    "13004020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040200122",
+        "o130040200131"
+      ]
+    ]
+  }
+}

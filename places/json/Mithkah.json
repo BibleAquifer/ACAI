@@ -1,0 +1,80 @@
+{
+  "id": "place:Mithkah",
+  "primary_id": "place:Mithkah",
+  "alternate_sources": {
+    "aquifer": [
+      "7170|Mithcah, Mithkah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004572001001000"
+    ],
+    "tipnr": [
+      "Mithkah@Num.33.28-"
+    ],
+    "vizbible": [
+      "recWxPHj8C8Xv97bH"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004572001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mithkah",
+      "alternate_labels": [
+        "Mithcah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Mithkah",
+          "gloss": "Mithkah",
+          "description": "A location in the Sinai Peninsula, between Terah and Hashmonah, where the Israelites encamped on their way from Egypt to Canaan."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "campsite"
+    ],
+    "acai": [
+      "campsite"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    },
+    "vizbible": {
+      "lat": "30.317396",
+      "lon": "35.407152"
+    }
+  },
+  "key_references": [
+    "04033029",
+    "04033028"
+  ],
+  "references": [
+    "04033028",
+    "04033029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040330280042"
+      ],
+      [
+        "o040330290022"
+      ]
+    ]
+  }
+}

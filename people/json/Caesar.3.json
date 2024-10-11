@@ -1,0 +1,64 @@
+{
+  "id": "person:Caesar.3",
+  "primary_id": "person:Nero",
+  "alternate_sources": {
+    "aquifer": [
+      "26420|Caesar|UWTranslationWords",
+      "131980|Caesar|BiblicaStudyNotesKeyTerms",
+      "280161|caesar|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.208"
+    ],
+    "tipnr": [
+      "Caesar|Nero@Php.4.22-2Ti"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "tribe": "group:Italy",
+  "ubsdgnt": [
+    "93.208"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Caesar (Nero)",
+      "alternate_labels": [
+        "Nero"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nero",
+          "article": "person:Caesar.3",
+          "description": "Nero was a Roman Emperor during the New Testament era, first referred to in Philippians 4:22."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Nero"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Καῖσαρ"
+    ]
+  },
+  "key_references": [
+    "50004022",
+    "55004022"
+  ],
+  "references": [
+    "50004022",
+    "55004022"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n50004022011"
+      ]
+    ]
+  }
+}

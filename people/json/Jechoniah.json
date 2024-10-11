@@ -1,0 +1,83 @@
+{
+  "id": "person:Jechoniah",
+  "primary_id": "person:Jehoiachin",
+  "alternate_sources": {
+    "aquifer": [
+      "6256|Jeconiah|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.168"
+    ],
+    "tipnr": [
+      "Jechoniah|Jehoiachin@2Ki.24.6-Mat"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jehoiakim",
+  "mother": "person:Nehushta",
+  "offspring": [
+    "person:Zedekiah.4",
+    "person:Shealtiel.2"
+  ],
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.168"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeconiah (Jehoiachin)",
+      "alternate_labels": [
+        "Jechonias",
+        "Jechoniah",
+        "Jehoiachin"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehoiachin",
+          "article": "person:Jechoniah",
+          "description": "A king of Judah, also called Jehoiachin or Jechonias, mentioned in multiple books including 2 Kings and Matthew."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehoiachin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰεχονίας"
+    ]
+  },
+  "key_references": [
+    "40001011",
+    "40001012"
+  ],
+  "references": [
+    "40001011",
+    "40001012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40001011005"
+      ],
+      [
+        "n40001012006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40001011009"
+      ]
+    ]
+  }
+}

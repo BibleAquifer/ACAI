@@ -1,0 +1,84 @@
+{
+  "id": "fauna:Stork",
+  "primary_id": "fauna:Stork",
+  "alternate_sources": {
+    "aquifer": [
+      "8632|Stork|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002417001001000"
+    ],
+    "ubsfauna": [
+      "fauna:3.22"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Birds",
+  "ubsdbh": [
+    "002417001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stork",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Stork",
+          "article": "fauna:Stork",
+          "description": "A large bird with long legs and a long neck, often seen searching for food in shallow water."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֲסִידָה"
+    ]
+  },
+  "key_references": [
+    "03011019",
+    "24008007"
+  ],
+  "references": [
+    "03011019",
+    "05014018",
+    "18039013",
+    "19104017",
+    "24008007",
+    "38005009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030110190022"
+      ],
+      [
+        "o050140180013"
+      ],
+      [
+        "o180390130061"
+      ],
+      [
+        "o191040170051"
+      ],
+      [
+        "o240080070021"
+      ],
+      [
+        "o380050090132"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o191040170072"
+      ],
+      [
+        "o240080070052"
+      ]
+    ]
+  }
+}

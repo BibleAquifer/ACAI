@@ -1,0 +1,112 @@
+{
+  "id": "place:LowerBeth-horon",
+  "primary_id": "place:Beth-horonLower",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000958001001000"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28332"
+    ],
+    "tipnr": [
+      "Lower_Beth-horon@Jos.16.3-2Ch"
+    ],
+    "vizbible": [
+      "recSx0USOwA2fisi6"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000958001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lower Beth-horon@Jos.16.3-2Ch",
+      "alternate_labels": [
+        "Lower Beth-Horon",
+        "Beth-Horon",
+        "Beth Horon",
+        "Beth-horon"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Beth-horonLower"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית חֹורֹון",
+      "בֵּית חוֹרֹן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.87892596",
+      "lon": "35.12356744"
+    },
+    "recogito": {
+      "lat": "31.879214",
+      "lon": "35.124123"
+    },
+    "vizbible": {
+      "lat": "31.879214",
+      "lon": "35.124123"
+    }
+  },
+  "references": [
+    "06010010",
+    "06010011",
+    "06018014",
+    "06021022",
+    "09013018",
+    "13006053",
+    "14025013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100100121",
+        "o060100100131"
+      ],
+      [
+        "o060100110071",
+        "o060100110081"
+      ],
+      [
+        "o060180140121",
+        "o060180140131"
+      ],
+      [
+        "o060210220061",
+        "o060210220071"
+      ],
+      [
+        "o090130180051",
+        "o090130180061"
+      ],
+      [
+        "o130060530061",
+        "o130060530071"
+      ],
+      [
+        "o140250130141",
+        "o140250130151"
+      ]
+    ]
+  }
+}

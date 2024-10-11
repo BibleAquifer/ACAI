@@ -1,0 +1,85 @@
+{
+  "id": "place:InspectionGate",
+  "primary_id": "place:InspectionGate",
+  "alternate_sources": {
+    "aquifer": [
+      "7250|Muster Gate|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004270001004000"
+    ],
+    "tipnr": [
+      "Inspection_Gate@Neh.3.31"
+    ],
+    "vizbible": [
+      "rece93mlmCa74NCqg"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004270001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Muster Gate",
+      "alternate_labels": [
+        "Gate Miphkad",
+        "Enrollment Gate",
+        "Inspection Gate",
+        "Miphkad Gate",
+        "Miphkad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MusterGate",
+          "gloss": "Muster Gate",
+          "description": "A gate in Jerusalem opposite the house of the temple servants and the merchants (Nehemiah 3:31)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "gate"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "gate"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "16003031"
+  ],
+  "references": [
+    "16003031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030310132"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "place:Gibbar",
+  "primary_id": "place:Gibeon",
+  "alternate_sources": {
+    "aquifer": [
+      "5445|Gibbar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001286002001000"
+    ],
+    "tipnr": [
+      "Gibbar|Gibeon@Jos.9.3-Ezk"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001286002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gibbar",
+      "alternate_labels": [
+        "Gibeon"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Gibeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "גִּבָּר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "special",
+      "settlement"
+    ]
+  },
+  "key_references": [
+    "15002020"
+  ],
+  "references": [
+    "15002020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020200021"
+      ]
+    ]
+  }
+}

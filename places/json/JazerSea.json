@@ -1,0 +1,75 @@
+{
+  "id": "place:JazerSea",
+  "primary_id": "place:JazerSea",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002990001001000"
+    ],
+    "tipnr": [
+      "Jazer_Sea@Jer.48.32"
+    ],
+    "vizbible": [
+      "rech8OYPUxRxwx0QE"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002990001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sea of Jazer",
+      "alternate_labels": [
+        "sea of Jazer",
+        "Jazer"
+      ],
+      "descriptions": []
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יַעְזֵר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "body of water"
+    ],
+    "vizbible": [
+      "Water"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.94352951689796",
+      "lon": "35.72776961157128"
+    },
+    "vizbible": {
+      "lat": "31.94352951689796",
+      "lon": "35.72776961157128"
+    }
+  },
+  "key_references": [
+    "24048032"
+  ],
+  "references": [
+    "24048032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240480320021"
+      ],
+      [
+        "o240480320121"
+      ]
+    ]
+  }
+}

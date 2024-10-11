@@ -1,0 +1,77 @@
+{
+  "id": "person:Elah.3",
+  "primary_id": "person:Elah.3",
+  "alternate_sources": {
+    "aquifer": [
+      "4963|Elah|TyndaleBibleDictionary",
+      "4962|Elah, Valley of|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000393002004000"
+    ],
+    "tipnr": [
+      "Elah@2Ki.15.30-"
+    ],
+    "vizbible": [
+      "recCZEm6IYAFKlq7r"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Hoshea"
+  ],
+  "roles": [
+    "King"
+  ],
+  "ubsdbh": [
+    "000393002004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elah",
+          "article": "person:Elah.3",
+          "description": "The father of Hoshea, who assassinated Pekah, king of the northern kingdom of Israel, and reigned in his place. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵלָה"
+    ]
+  },
+  "key_references": [
+    "12015030",
+    "12017001",
+    "12018001"
+  ],
+  "references": [
+    "12015030",
+    "12017001",
+    "12018001",
+    "12018009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120150300051"
+      ],
+      [
+        "o120170010101"
+      ],
+      [
+        "o120180010061"
+      ],
+      [
+        "o120180090111"
+      ]
+    ]
+  }
+}

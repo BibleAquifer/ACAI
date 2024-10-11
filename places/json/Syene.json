@@ -1,0 +1,100 @@
+{
+  "id": "place:Syene",
+  "primary_id": "place:Syene",
+  "alternate_sources": {
+    "aquifer": [
+      "8678|Syene|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a8a6a5b"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/786123"
+    ],
+    "tipnr": [
+      "Syene@Isa.49.12-Ezk"
+    ],
+    "vizbible": [
+      "recbL4KqlA4gijnPt"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q29888"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Syene",
+      "alternate_labels": [
+        "Aswan",
+        "Sinim",
+        "Egypt"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Syene",
+          "gloss": "Syene",
+          "description": "A town in Egypt; possibly Syrene."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "24.066181",
+      "lon": "32.895862"
+    },
+    "recogito": {
+      "lat": "24.08292",
+      "lon": "32.89066"
+    },
+    "vizbible": {
+      "lat": "24.066181",
+      "lon": "32.895862"
+    }
+  },
+  "key_references": [
+    "23049012",
+    "26030006",
+    "26029010"
+  ],
+  "references": [
+    "23049012",
+    "26029010",
+    "26030006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230490120111"
+      ],
+      [
+        "o260290100141"
+      ],
+      [
+        "o260300060111"
+      ]
+    ]
+  }
+}

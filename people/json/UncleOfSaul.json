@@ -1,0 +1,79 @@
+{
+  "id": "person:UncleOfSaul",
+  "primary_id": "person:UncleOfSaul",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Saul's Uncle",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Saul's Uncle",
+          "description": "An unnamed uncle of Saul, the king of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09010015"
+  ],
+  "references": [
+    "09010015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090100150021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090100140031"
+      ],
+      [
+        "o090100140092"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o090100140101",
+          "o090100140102",
+          "o090100140111",
+          "o090100140121",
+          "o090100140122",
+          "o090100140131",
+          "o090100140132",
+          "o090100140141",
+          "o090100140151",
+          "o090100140161",
+          "o090100140162",
+          "o090100140171",
+          "o090100140181"
+        ]
+      },
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o090100150041",
+          "o090100150042",
+          "o090100150051",
+          "o090100150061",
+          "o090100150062",
+          "o090100150071",
+          "o090100150081",
+          "o090100150091",
+          "o090100150092",
+          "o090100150101"
+        ]
+      }
+    ]
+  }
+}

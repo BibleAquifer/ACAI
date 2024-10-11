@@ -1,0 +1,54 @@
+{
+  "id": "group:Shuham",
+  "primary_id": "group:Shuham",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007241001001000"
+    ],
+    "tipnr": [
+      "Shuham|Hushim@Gen.46.23-Num"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Hushim.2",
+  "ubsdbh": [
+    "007241001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shuhamites",
+      "alternate_labels": [
+        "Hushim"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shuhamites",
+          "article": "group:Shuham",
+          "description": "People descended from Hushim, son of Dan, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026042",
+    "04026043"
+  ],
+  "references": [
+    "04026042",
+    "04026043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260420072"
+      ],
+      [
+        "o040260430032"
+      ]
+    ]
+  }
+}

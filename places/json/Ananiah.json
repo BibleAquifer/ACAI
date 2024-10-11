@@ -1,0 +1,88 @@
+{
+  "id": "place:Ananiah",
+  "primary_id": "place:Ananiah",
+  "alternate_sources": {
+    "aquifer": [
+      "3592|Ananiah (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a79606b"
+    ],
+    "ubsdbh": [
+      "005559001002000"
+    ],
+    "tipnr": [
+      "Ananiah@Neh.11.32"
+    ],
+    "vizbible": [
+      "recwKScuYXkn9nnOg"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q4751403"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005559001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ananiah (of Benjamin)",
+      "alternate_labels": [
+        "Ananiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ananiah",
+          "gloss": "Ananiah (of Benjamin)",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.832910",
+      "lon": "35.219683"
+    },
+    "vizbible": {
+      "lat": "31.832910",
+      "lon": "35.219683"
+    }
+  },
+  "key_references": [
+    "16011032"
+  ],
+  "references": [
+    "16011032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110320031"
+      ]
+    ]
+  }
+}

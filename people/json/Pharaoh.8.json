@@ -1,0 +1,79 @@
+{
+  "id": "person:Pharaoh.8",
+  "primary_id": "person:Pharaoh.8",
+  "alternate_sources": {
+    "aquifer": [
+      "7694|Pharaoh|TyndaleBibleDictionary",
+      "26952|Pharaoh|UWTranslationWords",
+      "132196|Pharaoh|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "006021001001000"
+    ],
+    "tipnr": [
+      "Pharaoh@2Ki.18.21-Isa"
+    ],
+    "vizbible": [
+      "recyGoqLyubply8DF"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "King",
+    "Ruler"
+  ],
+  "tribe": "group:Egypt",
+  "ubsdbh": [
+    "006021001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pharaoh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pharaoh",
+          "article": "person:Pharaoh.8",
+          "description": "A ruler of the Egyptians during the time of King Hezekiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12018021",
+    "23030002",
+    "23036006"
+  ],
+  "references": [
+    "12018021",
+    "23019011",
+    "23030002",
+    "23030003",
+    "23036006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120180210201"
+      ],
+      [
+        "o230190110071"
+      ],
+      [
+        "o230190110131"
+      ],
+      [
+        "o230300020091"
+      ],
+      [
+        "o230300030041"
+      ],
+      [
+        "o230360060181"
+      ]
+    ]
+  }
+}

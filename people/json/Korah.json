@@ -1,0 +1,80 @@
+{
+  "id": "person:Korah",
+  "primary_id": "person:Korah",
+  "alternate_sources": {
+    "aquifer": [
+      "6644|Korah|TyndaleBibleDictionary",
+      "26805|Korah|UWTranslationWords",
+      "132339|Korah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "006574001001000"
+    ],
+    "tipnr": [
+      "Korah@Gen.36.5-1Ch"
+    ],
+    "vizbible": [
+      "recjhebCIVeqCKJXN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Esau",
+  "mother": "person:Oholibamah",
+  "siblings": [
+    "person:Eliphaz",
+    "person:Reuel.3",
+    "person:Jeush",
+    "person:Jalam"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "006574001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Korah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Korah",
+          "article": "person:Korah",
+          "description": "A son of the patriarch Esau by Oholibamah, and brother of Jeush and Jalam."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036005",
+    "01036014",
+    "01036018"
+  ],
+  "references": [
+    "01036005",
+    "01036014",
+    "01036018",
+    "13001035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360050091"
+      ],
+      [
+        "o010360140191"
+      ],
+      [
+        "o010360180111"
+      ],
+      [
+        "o130010350072"
+      ]
+    ]
+  }
+}

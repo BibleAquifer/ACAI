@@ -1,0 +1,65 @@
+{
+  "id": "person:Jahleel",
+  "primary_id": "person:Jahleel",
+  "alternate_sources": {
+    "aquifer": [
+      "6180|Jahleel, Jahleelite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jahleel@Gen.46.14-Num"
+    ],
+    "vizbible": [
+      "recmyEBRCpWn3z151"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zebulun",
+  "siblings": [
+    "person:Sered",
+    "person:Elon.2"
+  ],
+  "tribe": "group:Zebulun",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jahleel",
+      "alternate_labels": [
+        "Jahleelite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jahleel",
+          "article": "person:Jahleel",
+          "description": "A man from the tribe of Zebulun, son of Zebulun and brother of Sered and Elon, mentioned in Genesis 46:14."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Jahleel"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046014",
+    "04026026"
+  ],
+  "references": [
+    "01046014",
+    "04026026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460140052"
+      ],
+      [
+        "o040260260102"
+      ],
+      [
+        "o040260260122"
+      ]
+    ]
+  }
+}

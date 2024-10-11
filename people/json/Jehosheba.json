@@ -1,0 +1,94 @@
+{
+  "id": "person:Jehosheba",
+  "primary_id": "person:Jehosheba",
+  "alternate_sources": {
+    "aquifer": [
+      "6286|Jehosheba|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jehoshabeath|Jehosheba@2Ki.11.2-2Ch",
+      "Jehosheba@2Ki.11.2-2Ch"
+    ],
+    "vizbible": [
+      "receirdHjT36JrgKt"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Jehoram",
+  "mother": "person:Athaliah",
+  "partners": [
+    "person:Jehoiada.2"
+  ],
+  "siblings": [
+    "person:Ahaziah.2"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehosheba",
+      "alternate_labels": [
+        "Jehoshabeath"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehosheba",
+          "article": "person:Jehosheba",
+          "description": "A woman from the tribe of Judah during the divided kingdom, daughter of Jehoram and Athaliah, sister of Ahaziah, and wife of Jehoiada, also called Jehoshabeath, mentioned in 2 Kings 11:2 and 2 Chronicles 22:11."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehoshabeath"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12011002",
+    "14022011"
+  ],
+  "references": [
+    "12011002",
+    "14022011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120110020021"
+      ],
+      [
+        "o140220110021"
+      ],
+      [
+        "o140220110221"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140220110301"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120110020122"
+      ],
+      [
+        "o140220110092"
+      ],
+      [
+        "o140220110152"
+      ]
+    ]
+  }
+}

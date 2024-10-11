@@ -1,0 +1,81 @@
+{
+  "id": "place:Jabez",
+  "primary_id": "place:Jabez",
+  "alternate_sources": {
+    "aquifer": [
+      "6150|Jabez (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002978001001000"
+    ],
+    "tipnr": [
+      "Jabez@1Ch.2.55"
+    ],
+    "vizbible": [
+      "recCO7owbr9ZNWthX"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002978001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jabez",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jabez",
+          "gloss": "Jabez",
+          "description": "A town in the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יַעְבֵּץ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.70536129174666",
+      "lon": "35.21026630105202"
+    },
+    "vizbible": {
+      "lat": "31.70536129174666",
+      "lon": "35.21026630105202"
+    }
+  },
+  "key_references": [
+    "13002055"
+  ],
+  "references": [
+    "13002055"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020550051"
+      ]
+    ]
+  }
+}

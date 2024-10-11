@@ -1,0 +1,66 @@
+{
+  "id": "realia:MoneyBox",
+  "primary_id": "realia:MoneyBox",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.143",
+      "6.140"
+    ],
+    "ubsrealia": [
+      "realia:5.18.1.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.143",
+    "6.140"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Money Box",
+      "alternate_labels": [
+        "Treasure Box"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Money Box",
+          "article": "realia:MoneyBox",
+          "description": "A container or chest used for storing money."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "γλωσσόκομον",
+      "θησαυρός"
+    ]
+  },
+  "key_references": [
+    "40002011",
+    "43012006",
+    "43013029"
+  ],
+  "references": [
+    "40002011",
+    "43012006",
+    "43013029"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43012006017"
+      ],
+      [
+        "n43013029006"
+      ],
+      [
+        "n40002011021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "person:Orpah",
+  "primary_id": "person:Orpah",
+  "alternate_sources": {
+    "aquifer": [
+      "7520|Orpah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005688001001000"
+    ],
+    "tipnr": [
+      "Orpah@Rut.1.4-"
+    ],
+    "vizbible": [
+      "reclOBcaYi8pBH0zo"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "partners": [
+    "person:Chilion"
+  ],
+  "tribe": "group:Moab",
+  "related_places": {
+    "birth_place": [
+      "place:Moab"
+    ]
+  },
+  "ubsdbh": [
+    "005688001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Orpah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Orpah",
+          "article": "person:Orpah",
+          "description": "Moabite wife of Chilion and sister-in-law of Ruth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "08001004",
+    "08001014"
+  ],
+  "references": [
+    "08001004",
+    "08001014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o080010040071"
+      ],
+      [
+        "o080010140061"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o080010100041",
+          "o080010100042",
+          "o080010100051",
+          "o080010100061",
+          "o080010100062",
+          "o080010100063"
+        ]
+      }
+    ]
+  }
+}

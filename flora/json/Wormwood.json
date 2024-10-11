@@ -1,0 +1,104 @@
+{
+  "id": "flora:Wormwood",
+  "primary_id": "flora:Wormwood",
+  "alternate_sources": {
+    "aquifer": [
+      "9092|Wormwood|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "3.21"
+    ],
+    "ubsdbh": [
+      "003607001001000",
+      "003607001002000"
+    ],
+    "ubsflora": [
+      "flora:5.2.7"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Plants for Everyday Use",
+  "ubsdgnt": [
+    "3.21"
+  ],
+  "ubsdbh": [
+    "003607001001000",
+    "003607001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wormwood",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wormwood",
+          "article": "flora:Wormwood",
+          "description": "A bushy plant with bitter juice that can be poisonous and is used as medicine."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לַעֲנָה",
+      "לַעֲנָה"
+    ],
+    "el": [
+      "ἄψινθος"
+    ]
+  },
+  "key_references": [
+    "05029017",
+    "20005004",
+    "66008011"
+  ],
+  "references": [
+    "05029017",
+    "20005004",
+    "24009014",
+    "24023015",
+    "25003015",
+    "25003019",
+    "30005007",
+    "30006012",
+    "66008011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050290170302"
+      ],
+      [
+        "o200050040032"
+      ],
+      [
+        "o240090140131"
+      ],
+      [
+        "o240230150111"
+      ],
+      [
+        "o250030150041"
+      ],
+      [
+        "o250030190041"
+      ],
+      [
+        "o300050070022"
+      ],
+      [
+        "o300060120132"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n66008011008"
+      ],
+      [
+        "n66008011016"
+      ]
+    ]
+  }
+}

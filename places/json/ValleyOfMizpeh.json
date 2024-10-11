@@ -1,0 +1,39 @@
+{
+  "id": "place:ValleyOfMizpeh",
+  "primary_id": "place:ValleyOfMizpeh",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:ValleyOfMizpeh",
+          "gloss": "Valley of Mizpeh",
+          "description": "A valley near Mount Hermon."
+        }
+      ],
+      "preferred_label": "Valley of Mizpeh",
+      "alternate_labels": [
+        "Mizpeh",
+        "Mizpeh Valley"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:HermonMount"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "valley"
+    ]
+  },
+  "key_references": [
+    "06011008"
+  ]
+}

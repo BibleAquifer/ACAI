@@ -1,0 +1,130 @@
+{
+  "id": "person:Aquila",
+  "primary_id": "person:Aquila",
+  "alternate_sources": {
+    "aquifer": [
+      "3684|Aquila|TyndaleBibleDictionary",
+      "7820|Priscilla and Aquila|TyndaleBibleDictionary",
+      "26326|Aquila|UWTranslationWords",
+      "132080|Aquila and Priscilla|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.16"
+    ],
+    "tipnr": [
+      "Aquila@Act.18.2-2Ti"
+    ],
+    "vizbible": [
+      "rec5L6bAZR3j8fYAE"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Priscilla"
+  ],
+  "roles": [
+    "Evangelist",
+    "Missionary"
+  ],
+  "ubsdgnt": [
+    "93.16"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aquila",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aquila",
+          "article": "person:Aquila",
+          "description": "Husband of Priscilla and friend of the Apostle Paul, who had a church in their home and instructed Apollos in the Christian Faith. "
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἀκύλας"
+    ]
+  },
+  "key_references": [
+    "44018002",
+    "44018026",
+    "45016003",
+    "46016019"
+  ],
+  "references": [
+    "44018002",
+    "44018018",
+    "44018026",
+    "45016003",
+    "46016019",
+    "55004019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018002006"
+      ],
+      [
+        "n44018018020"
+      ],
+      [
+        "n44018026013"
+      ],
+      [
+        "n45016003004"
+      ],
+      [
+        "n46016019012"
+      ],
+      [
+        "n55004019004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44018019005"
+      ],
+      [
+        "n45016004001"
+      ],
+      [
+        "n45016004007"
+      ],
+      [
+        "n45016004010"
+      ],
+      [
+        "n45016005005"
+      ],
+      [
+        "n45016009005"
+      ],
+      [
+        "n46016019019"
+      ],
+      [
+        "n55004022010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44018019001"
+      ],
+      [
+        "n44018026008"
+      ],
+      [
+        "n44018026019"
+      ]
+    ]
+  }
+}

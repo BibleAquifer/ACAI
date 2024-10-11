@@ -1,0 +1,104 @@
+{
+  "id": "place:SolomonsPortico",
+  "primary_id": "place:SolomonsPortico",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.40"
+    ],
+    "tipnr": [
+      "Solomon's_Portico@Act.3.11"
+    ],
+    "vizbible": [
+      "reclfB8zbauosDusS"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "7.40"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Solomon's Colonnade",
+      "alternate_labels": [
+        "Portico of Solomon",
+        "porch which is called Solomon",
+        "Solomon's Porch",
+        "porch that is called Solomon",
+        "Solomon’s Porch",
+        "portico named Solomon",
+        "Solomon’s Portico",
+        "colonnade of Solomon",
+        "Solomon’s Colonnade",
+        "portico called Solomon",
+        "Solomon's Portico"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Solomon’sPortico",
+          "gloss": "Solomon's Colonnade",
+          "description": "A colonnade on the east side of the Herod's temple in Jerusalem. "
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "στοά"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "structure"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "porch"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "44003011",
+    "43010023",
+    "44005012"
+  ],
+  "references": [
+    "43010023",
+    "44003011",
+    "44005012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44003011017"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44003011019"
+      ]
+    ]
+  }
+}

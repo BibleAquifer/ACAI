@@ -1,0 +1,92 @@
+{
+  "id": "place:Bethuel",
+  "primary_id": "place:Bethuel",
+  "alternate_sources": {
+    "aquifer": [
+      "4208|Bethuel, Bethul (Place)|TyndaleBibleDictionary",
+      "26390|Bethuel|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "001226001002000"
+    ],
+    "tipnr": [
+      "Bethuel@1Ch.4.30"
+    ],
+    "vizbible": [
+      "recMycRUPsdlPW8ZK"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001226001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bethuel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Bethuel",
+          "gloss": "Bethuel",
+          "description": "A town in the territory of Simeon; also known as Bethu and Bethel."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Bethel.2",
+    "place:Chesil"
+  ],
+  "referred_to_as": [
+    "place:Bethul"
+  ],
+  "tribal_area": "group:Simeon",
+  "subregion_of": [
+    "place:TerritoryOfSimeon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בְּתוּאֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    },
+    "vizbible": {
+      "lat": "32.049953",
+      "lon": "35.733402"
+    }
+  },
+  "key_references": [
+    "13004030"
+  ],
+  "references": [
+    "13004030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040300013"
+      ]
+    ]
+  }
+}

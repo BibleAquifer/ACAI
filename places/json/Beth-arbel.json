@@ -1,0 +1,85 @@
+{
+  "id": "place:Beth-arbel",
+  "primary_id": "place:Beth-arbel",
+  "alternate_sources": {
+    "aquifer": [
+      "4156|Beth-Arbel|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a2da675"
+    ],
+    "ubsdbh": [
+      "000934001001000"
+    ],
+    "tipnr": [
+      "Beth-arbel@Hos.10.14"
+    ],
+    "vizbible": [
+      "recU4aisdOryXeQX7"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000934001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-arbel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-arbel",
+          "gloss": "Beth-Arbel",
+          "description": "A town in Galilee destroyed by Shalman (Hos 10:14)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Galilee"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית אַרְבֵאל",
+      "בֵּית אַֽרְבֵֿאל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.56101133",
+      "lon": "35.84782997"
+    },
+    "vizbible": {
+      "lat": "32.56101133",
+      "lon": "35.84782997"
+    }
+  },
+  "key_references": [
+    "28010014"
+  ],
+  "references": [
+    "28010014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o280100140091",
+        "o280100140101"
+      ]
+    ]
+  }
+}

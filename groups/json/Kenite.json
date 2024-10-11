@@ -1,0 +1,113 @@
+{
+  "id": "group:Kenite",
+  "primary_id": "group:Kenite",
+  "alternate_sources": {
+    "aquifer": [
+      "6550|Kenites|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Kenite@Gen.15.19-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Cain",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kenites",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kenites",
+          "article": "group:Kenite",
+          "description": "People descended from Adam's son Cain."
+        }
+      ],
+      "alternate_labels": [
+        "Qenites"
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "07001016",
+    "09015006",
+    "13002055",
+    "07004011"
+  ],
+  "references": [
+    "01015019",
+    "04024021",
+    "07001016",
+    "07004011",
+    "07004017",
+    "07005024",
+    "09015006",
+    "09027010",
+    "09030029",
+    "13002055"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010150190022"
+      ],
+      [
+        "o040240210032"
+      ],
+      [
+        "o070010160021"
+      ],
+      [
+        "o070040110022"
+      ],
+      [
+        "o070040110042"
+      ],
+      [
+        "o070040170092"
+      ],
+      [
+        "o070040170192"
+      ],
+      [
+        "o070050240062"
+      ],
+      [
+        "o090150060042"
+      ],
+      [
+        "o090150060231"
+      ],
+      [
+        "o090270100162"
+      ],
+      [
+        "o090300290082"
+      ],
+      [
+        "o130020550102"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090150060132"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090150060051",
+        "o090150060061",
+        "o090150060071"
+      ],
+      [
+        "o130020550112"
+      ]
+    ]
+  }
+}

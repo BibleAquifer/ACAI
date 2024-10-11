@@ -1,0 +1,100 @@
+{
+  "id": "realia:Razor",
+  "primary_id": "realia:Razor",
+  "alternate_sources": {
+    "aquifer": [
+      "7955|Razor|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003813001001000",
+      "007886001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.9.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003813001001000",
+    "007886001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Razor",
+      "alternate_labels": [
+        "Penknife"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Razor",
+          "article": "realia:Razor",
+          "description": "A sharp knife used to shave hair from the skin."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מֹורָה",
+      "תַּעַר"
+    ]
+  },
+  "key_references": [
+    "04006005",
+    "07013005",
+    "23007020"
+  ],
+  "references": [
+    "04006005",
+    "04008007",
+    "07013005",
+    "07016017",
+    "09001011",
+    "19052004",
+    "23007020",
+    "24036023",
+    "26005001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070130050062"
+      ],
+      [
+        "o070160170081"
+      ],
+      [
+        "o090010110252"
+      ],
+      [
+        "o040060050051"
+      ],
+      [
+        "o040080070101"
+      ],
+      [
+        "o190520040042"
+      ],
+      [
+        "o230070200052"
+      ],
+      [
+        "o240360230082"
+      ],
+      [
+        "o260050010081"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230070200181"
+      ]
+    ]
+  }
+}

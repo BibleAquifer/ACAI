@@ -1,0 +1,99 @@
+{
+  "id": "place:Hazar-shual",
+  "primary_id": "place:Hazar-shual",
+  "alternate_sources": {
+    "aquifer": [
+      "5731|Hazar-Shual|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a89005a"
+    ],
+    "ubsdbh": [
+      "002487001001000"
+    ],
+    "tipnr": [
+      "Hazar-shual@Jos.15.28-Neh"
+    ],
+    "vizbible": [
+      "recgek8WUtx6vEFbu"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002487001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazar-shual",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hazar-shual",
+          "gloss": "Hazar-Shual",
+          "description": "A location in the territory of Judah, assigned to the tribe of Simeon."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חֲצַר שׁוּעָל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.215418",
+      "lon": "34.942986"
+    },
+    "vizbible": {
+      "lat": "31.215418",
+      "lon": "34.942986"
+    }
+  },
+  "key_references": [
+    "13004028"
+  ],
+  "references": [
+    "06015028",
+    "06019003",
+    "13004028",
+    "16011027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150280012",
+        "o060150280021"
+      ],
+      [
+        "o060190030012",
+        "o060190030021"
+      ],
+      [
+        "o130040280052",
+        "o130040280061"
+      ],
+      [
+        "o160110270013",
+        "o160110270021"
+      ]
+    ]
+  }
+}

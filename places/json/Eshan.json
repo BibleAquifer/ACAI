@@ -1,0 +1,95 @@
+{
+  "id": "place:Eshan",
+  "primary_id": "place:Eshan",
+  "alternate_sources": {
+    "aquifer": [
+      "5145|Eshan|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "acd9498"
+    ],
+    "ubsdbh": [
+      "000761001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/1552658"
+    ],
+    "tipnr": [
+      "Eshan@Jos.15.52"
+    ],
+    "vizbible": [
+      "recesLZkt8JL6Tccn"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000761001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eshan",
+      "alternate_labels": [
+        "Eshean"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eshan",
+          "gloss": "Eshan",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶשְׁעָן",
+      "אֶשְׁעָ֑ן"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.420175",
+      "lon": "35.033537"
+    },
+    "recogito": {
+      "lat": "31.06429",
+      "lon": "118.21579"
+    },
+    "vizbible": {
+      "lat": "31.420175",
+      "lon": "35.033537"
+    }
+  },
+  "key_references": [
+    "06015052"
+  ],
+  "references": [
+    "06015052"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150520032"
+      ]
+    ]
+  }
+}

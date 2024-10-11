@@ -1,0 +1,141 @@
+{
+  "id": "person:Rechab",
+  "primary_id": "person:Rechab",
+  "alternate_sources": {
+    "aquifer": [
+      "7965|Rechab, Rechabite|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006796001001000"
+    ],
+    "tipnr": [
+      "Rechab@2Sa.4.2-"
+    ],
+    "vizbible": [
+      "recpC9dqukdL19rXZ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Rimmon",
+  "siblings": [
+    "person:Baanah"
+  ],
+  "roles": [
+    "Warrior"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "006796001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rechab",
+      "alternate_labels": [
+        "Rekab"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Rechab",
+          "article": "person:Rechab",
+          "description": "A son of the Benajmite Rimmon and brother of Baanah who lived during the time of King Saul."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10004002",
+    "10004005",
+    "10004009"
+  ],
+  "references": [
+    "10004002",
+    "10004005",
+    "10004006",
+    "10004009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100040020131"
+      ],
+      [
+        "o100040050051"
+      ],
+      [
+        "o100040060112"
+      ],
+      [
+        "o100040090041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o100040070012"
+      ],
+      [
+        "o100040070092"
+      ],
+      [
+        "o100040070102"
+      ],
+      [
+        "o100040070112"
+      ],
+      [
+        "o100040070142"
+      ],
+      [
+        "o100040070172"
+      ],
+      [
+        "o100040080012"
+      ],
+      [
+        "o100040080092"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o100040080111",
+          "o100040080112",
+          "o100040080121",
+          "o100040080131",
+          "o100040080141",
+          "o100040080151",
+          "o100040080161",
+          "o100040080171",
+          "o100040080181",
+          "o100040080182",
+          "o100040080191",
+          "o100040080201",
+          "o100040080211",
+          "o100040080221",
+          "o100040080222",
+          "o100040080231",
+          "o100040080232",
+          "o100040080241",
+          "o100040080251",
+          "o100040080252",
+          "o100040080253",
+          "o100040080261",
+          "o100040080262",
+          "o100040080271",
+          "o100040080281",
+          "o100040080282",
+          "o100040080291",
+          "o100040080292"
+        ]
+      }
+    ]
+  }
+}

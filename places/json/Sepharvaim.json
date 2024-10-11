@@ -1,0 +1,123 @@
+{
+  "id": "place:Sepharvaim",
+  "primary_id": "place:Sepharvaim",
+  "alternate_sources": {
+    "aquifer": [
+      "8229|Sepharvaim, Sepharvites|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a282c15"
+    ],
+    "tipnr": [
+      "Sepharvaim@2Ki.17.24-Isa"
+    ],
+    "vizbible": [
+      "recvyjBlyKvcsXhY1"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q7451878"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sepharvaim",
+      "alternate_labels": [
+        "Sepharim",
+        "Qere. Ketiv"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sepharvaim",
+          "gloss": "Sepharvaim",
+          "description": "A town from which inhabitants were relocated to Samaria by the king of Assyria."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.789693",
+      "lon": "44.459399"
+    },
+    "vizbible": {
+      "lat": "33.789693",
+      "lon": "44.459399"
+    }
+  },
+  "key_references": [
+    "12017024",
+    "23036019"
+  ],
+  "references": [
+    "12017024",
+    "12017031",
+    "12018034",
+    "12019013",
+    "23036019",
+    "23037013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120170240082"
+      ],
+      [
+        "o120170310063"
+      ],
+      [
+        "o120170310161"
+      ],
+      [
+        "o120180340071"
+      ],
+      [
+        "o120190130081"
+      ],
+      [
+        "o230360190071"
+      ],
+      [
+        "o230370130081"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230360200052"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120170240152"
+      ],
+      [
+        "o120170240182"
+      ],
+      [
+        "o120170250061"
+      ]
+    ]
+  }
+}

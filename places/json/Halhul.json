@@ -1,0 +1,97 @@
+{
+  "id": "place:Halhul",
+  "primary_id": "place:Halhul",
+  "alternate_sources": {
+    "aquifer": [
+      "5607|Halhul|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "afca9ce"
+    ],
+    "ubsdbh": [
+      "002288001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/283806"
+    ],
+    "tipnr": [
+      "Halhul@Jos.15.58"
+    ],
+    "vizbible": [
+      "recS1mhPCN7PKv9Iy"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2574933"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002288001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Halhul",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Halhul",
+          "gloss": "Halhul",
+          "description": "A town in the hill country of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חַלְחוּל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.579549",
+      "lon": "35.099103"
+    },
+    "recogito": {
+      "lat": "31.58029",
+      "lon": "35.10178"
+    },
+    "vizbible": {
+      "lat": "31.579549",
+      "lon": "35.099103"
+    }
+  },
+  "key_references": [
+    "06015058"
+  ],
+  "references": [
+    "06015058"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150580011"
+      ]
+    ]
+  }
+}

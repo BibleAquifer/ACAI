@@ -1,0 +1,134 @@
+{
+  "id": "place:Adullam",
+  "primary_id": "place:Adullam",
+  "alternate_sources": {
+    "aquifer": [
+      "3403|Adullam, Adullamite|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af82614"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/28315"
+    ],
+    "tipnr": [
+      "Adullam@Jos.12.15-Mic"
+    ],
+    "vizbible": [
+      "recOVVrn4ss5k4zG9"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q2914860"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Adullam",
+      "alternate_labels": [
+        "Adullamite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Adullam",
+          "gloss": "Adullam",
+          "description": "A town in the foothills of the territory of Judah where David and his men hid in a nearby cave (1 Samuel 22:1)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Adullam"
+  ],
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.65",
+      "lon": "35"
+    },
+    "recogito": {
+      "lat": "31.657354",
+      "lon": "34.999242"
+    },
+    "vizbible": {
+      "lat": "31.657354",
+      "lon": "34.999242"
+    }
+  },
+  "key_references": [
+    "13011015",
+    "10023013",
+    "09022001"
+  ],
+  "references": [
+    "01038001",
+    "01038012",
+    "01038020",
+    "06012015",
+    "06015035",
+    "09022001",
+    "10023013",
+    "13011015",
+    "14011007",
+    "16011030",
+    "33001015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380010111"
+      ],
+      [
+        "o010380120172"
+      ],
+      [
+        "o010380200082"
+      ],
+      [
+        "o060120150051"
+      ],
+      [
+        "o060150350022"
+      ],
+      [
+        "o090220010071"
+      ],
+      [
+        "o100230130131"
+      ],
+      [
+        "o130110150121"
+      ],
+      [
+        "o140110070071"
+      ],
+      [
+        "o160110300021"
+      ],
+      [
+        "o330010150081"
+      ]
+    ]
+  }
+}

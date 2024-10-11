@@ -1,0 +1,70 @@
+{
+  "id": "person:Joseph.12",
+  "primary_id": "person:Joseph.12",
+  "alternate_sources": {
+    "aquifer": [
+      "6449|Joseph|TyndaleBibleDictionary",
+      "132234|Joseph|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "002862001003000"
+    ],
+    "tipnr": [
+      "Joseph@1Ch.25.2-"
+    ],
+    "vizbible": [
+      "recBzUE7TpRWp8bhK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Asaph.2",
+  "siblings": [
+    "person:Zaccur.4",
+    "person:Nethaniah.2",
+    "person:Asharelah"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "002862001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joseph (1 Chronicles 25:2)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joseph (1 Chronicles 25:2)",
+          "article": "person:Joseph.12",
+          "description": "A Levite and temple singer during the time of the divided kingdom, son of Asaph, mentioned in 1 Chronicles 25:2."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹוסֵף",
+      "יוֹסֵף"
+    ]
+  },
+  "key_references": [
+    "13025002",
+    "13025009"
+  ],
+  "references": [
+    "13025002",
+    "13025009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130250020042"
+      ],
+      [
+        "o130250090052"
+      ]
+    ]
+  }
+}

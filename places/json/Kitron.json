@@ -1,0 +1,101 @@
+{
+  "id": "place:Kitron",
+  "primary_id": "place:Kitron",
+  "alternate_sources": {
+    "aquifer": [
+      "6631|Kitron|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae5cc46"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/491704"
+    ],
+    "tipnr": [
+      "Kitron@Jdg.1.30-Jdg",
+      "Kartah|Kitron@Jdg.1.30-Jdg",
+      "Kattath|Kitron@Jdg.1.30-Jdg"
+    ],
+    "vizbible": [
+      "recpWDOal3kgn43RZ"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kitron",
+      "alternate_labels": [
+        "Kattath",
+        "Kartah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Kitron",
+          "gloss": "Kitron",
+          "description": "A town in the territory of Zebulun inhabited by Canaanites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Kartah",
+    "place:Kattath"
+  ],
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.753141",
+      "lon": "35.279335"
+    },
+    "recogito": {
+      "lat": "40.37179",
+      "lon": "22.578192"
+    },
+    "vizbible": {
+      "lat": "32.753141",
+      "lon": "35.279335"
+    }
+  },
+  "key_references": [
+    "07001030"
+  ],
+  "references": [
+    "06019015",
+    "06021034",
+    "07001030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190150012"
+      ],
+      [
+        "o060210340141"
+      ],
+      [
+        "o070010300061"
+      ]
+    ]
+  }
+}

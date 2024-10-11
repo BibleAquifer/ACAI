@@ -1,0 +1,71 @@
+{
+  "id": "place:StonePavement",
+  "primary_id": "place:Gabbatha",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.71"
+    ],
+    "tipnr": [
+      "Stone_Pavement|Gabbatha@Jhn.19.13"
+    ],
+    "vizbible": [
+      "recWMy4BcpoOC3LSr"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "7.71"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stone Pavement",
+      "alternate_labels": [
+        "Pavement",
+        "The Stone Pavement",
+        "Gabbatha",
+        "the Stone Pavement",
+        "The Pavement"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Gabbatha"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "structure"
+    ],
+    "vizbible": [
+      "Landmark"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    },
+    "vizbible": {
+      "lat": "31.777444",
+      "lon": "35.234935"
+    }
+  },
+  "key_references": [
+    "43019013"
+  ],
+  "references": [
+    "43019013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43019013019"
+      ]
+    ]
+  }
+}

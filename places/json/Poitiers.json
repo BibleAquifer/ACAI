@@ -1,0 +1,35 @@
+{
+  "id": "place:Poitiers",
+  "primary_id": "place:Poitiers",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Poitiers",
+          "gloss": "Poitiers",
+          "description": "A city in west-central France, associated with Saint Hilary of Poitiers, who was bishop there in the fourth century."
+        }
+      ],
+      "preferred_label": "Poitiers"
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "46.57826",
+      "lon": "0.32313"
+    }
+  }
+}

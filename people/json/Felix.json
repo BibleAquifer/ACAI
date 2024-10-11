@@ -1,0 +1,219 @@
+{
+  "id": "person:Felix",
+  "primary_id": "person:Felix",
+  "alternate_sources": {
+    "aquifer": [
+      "5249|Felix, Antonius|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.375"
+    ],
+    "tipnr": [
+      "Felix@Act.23.24"
+    ],
+    "vizbible": [
+      "recSRPfTSaf7TsRiN"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "partners": [
+    "person:Drusilla"
+  ],
+  "roles": [
+    "Governor"
+  ],
+  "ubsdgnt": [
+    "93.375"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Felix",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Felix",
+          "article": "person:Felix",
+          "description": "A governor of Judaea and husband of Drusilla, who conducted a trial of the apostle Paul and kept him under house arrest at Caesarea."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Φῆλιξ"
+    ]
+  },
+  "key_references": [
+    "44023023",
+    "44023024",
+    "44024003",
+    "44024027"
+  ],
+  "references": [
+    "44023024",
+    "44023026",
+    "44024003",
+    "44024022",
+    "44024024",
+    "44024025",
+    "44024027",
+    "44025014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44023024010"
+      ],
+      [
+        "n44023026006"
+      ],
+      [
+        "n44024003007"
+      ],
+      [
+        "n44024022005"
+      ],
+      [
+        "n44024024007"
+      ],
+      [
+        "n44024025016"
+      ],
+      [
+        "n44024027007"
+      ],
+      [
+        "n44024027017"
+      ],
+      [
+        "n44025014022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44024002013"
+      ],
+      [
+        "n44024002022"
+      ],
+      [
+        "n44024004006"
+      ],
+      [
+        "n44024004010"
+      ],
+      [
+        "n44024004014"
+      ],
+      [
+        "n44024008004"
+      ],
+      [
+        "n44024024011"
+      ],
+      [
+        "n44024026007"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44024008005"
+      ],
+      [
+        "n44024008009"
+      ],
+      [
+        "n44024022007"
+      ],
+      [
+        "n44024022012"
+      ],
+      [
+        "n44024022018"
+      ],
+      [
+        "n44024023001"
+      ],
+      [
+        "n44024024005"
+      ],
+      [
+        "n44024024019"
+      ],
+      [
+        "n44024025014"
+      ],
+      [
+        "n44024025024",
+        "n44024025025"
+      ],
+      [
+        "n44024026003"
+      ],
+      [
+        "n44024026015",
+        "n44024026016"
+      ],
+      [
+        "n44024027010"
+      ],
+      [
+        "n44024027013"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "with authority",
+        "quote_type": "Normal",
+        "words": [
+          "n44023035001",
+          "n44023035002",
+          "n44023035003",
+          "n44023035004",
+          "n44023035005",
+          "n44023035006",
+          "n44023035007",
+          "n44023035008",
+          "n44023035009"
+        ]
+      },
+      {
+        "quote_type": "Dialogue",
+        "words": [
+          "n44024022013",
+          "n44024022014",
+          "n44024022015",
+          "n44024022016",
+          "n44024022017",
+          "n44024022018",
+          "n44024022019",
+          "n44024022020",
+          "n44024022021"
+        ]
+      },
+      {
+        "delivery": "afraid",
+        "quote_type": "Normal",
+        "words": [
+          "n44024025019",
+          "n44024025020",
+          "n44024025021",
+          "n44024025022",
+          "n44024025023",
+          "n44024025024",
+          "n44024025025",
+          "n44024025026"
+        ]
+      }
+    ]
+  }
+}

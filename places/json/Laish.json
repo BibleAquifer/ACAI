@@ -1,0 +1,88 @@
+{
+  "id": "place:Laish",
+  "primary_id": "place:Dan",
+  "alternate_sources": {
+    "aquifer": [
+      "6667|Laish (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003585002001000"
+    ],
+    "tipnr": [
+      "Laish|Dan@Gen.14.14-Amo"
+    ],
+    "vizbible": [
+      "recf1YkEgSxLMhWlr"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003585002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Laish",
+      "alternate_labels": [
+        "Dan"
+      ],
+      "descriptions": []
+    }
+  },
+  "referred_to_as": [
+    "place:Dan"
+  ],
+  "tribal_area": "group:Dan",
+  "subregion_of": [
+    "place:TerritoryOfDan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "לַיִשׁ",
+      "לַ֫יִשׁ",
+      "ה"
+    ]
+  },
+  "place_types": {
+    "vizbible": [
+      "City"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.24865998",
+      "lon": "35.65248345"
+    },
+    "vizbible": {
+      "lat": "33.24865998",
+      "lon": "35.65248345"
+    }
+  },
+  "references": [
+    "07018007",
+    "07018014",
+    "07018027",
+    "07018029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070180070051"
+      ],
+      [
+        "o070180140081"
+      ],
+      [
+        "o070180270141"
+      ],
+      [
+        "o070180290121"
+      ]
+    ]
+  }
+}

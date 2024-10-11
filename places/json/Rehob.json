@@ -1,0 +1,84 @@
+{
+  "id": "place:Rehob",
+  "primary_id": "place:Beth-rehob",
+  "alternate_sources": {
+    "aquifer": [
+      "7985|Rehob (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006751002001000"
+    ],
+    "tipnr": [
+      "Rehob|Beth-rehob@Jdg.18.28-2Sa"
+    ],
+    "vizbible": [
+      "rec3gzPTVeaDAIJ5Q"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006751002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rehob (in the North)",
+      "alternate_labels": [
+        "Beth-Rehob",
+        "Rehob"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rehob.1",
+          "gloss": "Rehob (in the North)",
+          "description": "A town on the border between Dan and Syria; also known as Beth-Rehob."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Beth-rehob"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "33.219354",
+      "lon": "35.544122"
+    },
+    "vizbible": {
+      "lat": "33.219354",
+      "lon": "35.544122"
+    }
+  },
+  "key_references": [
+    "10010008",
+    "04013021"
+  ],
+  "references": [
+    "04013021",
+    "10010008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040130210081"
+      ],
+      [
+        "o100100080102"
+      ]
+    ]
+  }
+}

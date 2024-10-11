@@ -1,0 +1,63 @@
+{
+  "id": "person:Ahban",
+  "primary_id": "person:Ahban",
+  "alternate_sources": {
+    "aquifer": [
+      "3437|Ahban|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000242001001000"
+    ],
+    "tipnr": [
+      "Ahban@1Ch.2.29"
+    ],
+    "vizbible": [
+      "recLFiAY7YzdibU9y"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Abishur",
+  "mother": "person:Abihail.2",
+  "siblings": [
+    "person:Molid"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "000242001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ahban",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahban",
+          "article": "person:Ahban",
+          "description": "A man from the tribe of Judah during the divided kingdom, son of Abishur and Abihail, and brother of Molid."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַחְבָּן",
+      "אַחְבָן"
+    ]
+  },
+  "key_references": [
+    "13002029"
+  ],
+  "references": [
+    "13002029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130020290081"
+      ]
+    ]
+  }
+}

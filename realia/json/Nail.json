@@ -1,0 +1,99 @@
+{
+  "id": "realia:Nail",
+  "primary_id": "realia:Nail",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "6.22"
+    ],
+    "ubsdbh": [
+      "004164001001000",
+      "004516001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.12.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.22"
+  ],
+  "ubsdbh": [
+    "004164001001000",
+    "004516001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nail",
+      "alternate_labels": [
+        "Spike"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nail",
+          "article": "realia:Nail",
+          "description": "A thin piece of metal with a sharp end used to join wood or other objects, often linked to the crucifixion of Jesus."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַסְמֵר",
+      "מַשְׂמֵרָה"
+    ],
+    "el": [
+      "ἧλος"
+    ]
+  },
+  "key_references": [
+    "13022003",
+    "24010004",
+    "43020025"
+  ],
+  "references": [
+    "13022003",
+    "14003009",
+    "21012011",
+    "23041007",
+    "24010004",
+    "43020025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130220030032"
+      ],
+      [
+        "o140030090022"
+      ],
+      [
+        "o230410070152"
+      ],
+      [
+        "o240100040042"
+      ],
+      [
+        "o210120110043"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n43020025024"
+      ],
+      [
+        "n43020025034"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o210120110051"
+      ]
+    ]
+  }
+}

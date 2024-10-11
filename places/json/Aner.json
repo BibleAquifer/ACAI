@@ -1,0 +1,82 @@
+{
+  "id": "place:Aner",
+  "primary_id": "place:Taanach",
+  "alternate_sources": {
+    "aquifer": [
+      "3609|Aner (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005566001002000"
+    ],
+    "tipnr": [
+      "Aner|Taanach@Jos.12.21-1Ch"
+    ],
+    "vizbible": [
+      "recPmZCyVKpHuUOKt"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005566001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aner (of Manasseh)",
+      "alternate_labels": [
+        "Taanach",
+        "Aner"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aner",
+          "gloss": "Aner (of Manasseh)",
+          "description": "A Levitical town in the territory of Manasseh."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Taanach"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.51723976",
+      "lon": "35.21632509"
+    },
+    "vizbible": {
+      "lat": "32.51723976",
+      "lon": "35.21632509"
+    }
+  },
+  "key_references": [
+    "13006055"
+  ],
+  "references": [
+    "13006055"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060550051"
+      ]
+    ]
+  }
+}

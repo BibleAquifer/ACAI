@@ -1,0 +1,66 @@
+{
+  "id": "person:Zerubbabel",
+  "primary_id": "person:Zerubbabel",
+  "alternate_sources": {
+    "aquifer": [
+      "9202|Zerubbabel|TyndaleBibleDictionary",
+      "27231|Zerubbabel|UWTranslationWords",
+      "132454|Joshua and Zerubbabel|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.140"
+    ],
+    "tipnr": [
+      "Zerubbabel@Luk.3.27"
+    ],
+    "vizbible": [
+      "rec9kWwxTer8CCKPM"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shealtiel",
+  "offspring": [
+    "person:Rhesa"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.140"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zerubbabel",
+      "alternate_labels": [
+        "Zorobabel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zerubbabel",
+          "article": "person:Zerubbabel",
+          "description": "Son of Shealtiel and the father of Rhesa in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ζοροβαβέλ"
+    ]
+  },
+  "key_references": [
+    "42003027"
+  ],
+  "references": [
+    "42003027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003027006"
+      ]
+    ]
+  }
+}

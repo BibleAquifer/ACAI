@@ -1,0 +1,75 @@
+{
+  "id": "person:Jeush",
+  "primary_id": "person:Jeush",
+  "alternate_sources": {
+    "aquifer": [
+      "6363|Jeush|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Jeush@Gen.36.5-1Ch"
+    ],
+    "vizbible": [
+      "recxV95afGg2VYad3"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Esau",
+  "mother": "person:Oholibamah",
+  "siblings": [
+    "person:Eliphaz",
+    "person:Reuel.3",
+    "person:Jalam",
+    "person:Korah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Edom",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeush",
+      "alternate_labels": [
+        "Jeish"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeush",
+          "article": "person:Jeush",
+          "description": "A son of Esau by Ohilibmah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036005",
+    "01036014",
+    "01036018"
+  ],
+  "references": [
+    "01036005",
+    "01036014",
+    "01036018",
+    "13001035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360050051"
+      ],
+      [
+        "o010360140151"
+      ],
+      [
+        "o010360180071"
+      ],
+      [
+        "o130010350052"
+      ]
+    ]
+  }
+}

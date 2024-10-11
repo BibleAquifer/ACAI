@@ -1,0 +1,91 @@
+{
+  "id": "fauna:Bee",
+  "primary_id": "fauna:Bee",
+  "alternate_sources": {
+    "aquifer": [
+      "4076|Bee|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001544001001000"
+    ],
+    "ubsfauna": [
+      "fauna:6.2"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Insects, Spiders, and Worms",
+  "ubsdbh": [
+    "001544001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bee",
+      "alternate_labels": [
+        "Bees"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bee",
+          "article": "fauna:Bee",
+          "description": "A flying insect that makes honey from flower nectar, lives in large swarms, and can sting if threatened."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "fauna:Hornet"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דְּבֹורָה"
+    ]
+  },
+  "key_references": [
+    "05001044",
+    "07014008"
+  ],
+  "references": [
+    "05001044",
+    "07014008",
+    "19118012",
+    "23007018",
+    "40003004",
+    "41001006",
+    "41016018",
+    "66010009",
+    "66010010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050010440112"
+      ],
+      [
+        "o070140080111"
+      ],
+      [
+        "o191180120022"
+      ],
+      [
+        "o230070180113"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40003004026"
+      ],
+      [
+        "n41001006019"
+      ],
+      [
+        "n66010009032"
+      ],
+      [
+        "n66010010020"
+      ]
+    ]
+  }
+}

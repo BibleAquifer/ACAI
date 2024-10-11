@@ -1,0 +1,120 @@
+{
+  "id": "person:Kedar",
+  "primary_id": "person:Kedar",
+  "alternate_sources": {
+    "aquifer": [
+      "6528|Kedar|TyndaleBibleDictionary",
+      "26792|Kedar|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "006388001001000",
+      "006388001002000"
+    ],
+    "tipnr": [
+      "Kedar@Gen.25.13-Ezk"
+    ],
+    "vizbible": [
+      "recgAScrne6IJlIRY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Nebaioth",
+    "person:Adbeel",
+    "person:Mibsam",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Kedemah",
+    "person:Mahalath"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "006388001001000",
+    "006388001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kedar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kedar",
+          "article": "person:Kedar",
+          "description": "A son of the patriarch Ishmael."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01025013",
+    "13001029",
+    "23042011",
+    "24049028"
+  ],
+  "references": [
+    "01025013",
+    "13001029",
+    "19120005",
+    "22001005",
+    "23021016",
+    "23021017",
+    "23042011",
+    "23060007",
+    "24002010",
+    "24049028",
+    "26027021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250130102"
+      ],
+      [
+        "o130010290062"
+      ],
+      [
+        "o191200050091"
+      ],
+      [
+        "o220010050071"
+      ],
+      [
+        "o230210160131"
+      ],
+      [
+        "o230210170061"
+      ],
+      [
+        "o230420110061"
+      ],
+      [
+        "o230600070031"
+      ],
+      [
+        "o240020100062"
+      ],
+      [
+        "o240490280012"
+      ],
+      [
+        "o240490280161"
+      ],
+      [
+        "o260270210041"
+      ]
+    ]
+  }
+}

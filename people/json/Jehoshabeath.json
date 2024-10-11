@@ -1,0 +1,98 @@
+{
+  "id": "person:Jehoshabeath",
+  "primary_id": "person:Jehosheba",
+  "alternate_sources": {
+    "aquifer": [
+      "6283|Jehoshabeath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002838001001000"
+    ],
+    "tipnr": [
+      "Jehoshabeath|Jehosheba@2Ki.11.2-2Ch"
+    ],
+    "vizbible": [
+      "receirdHjT36JrgKt"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Jehoram",
+  "mother": "person:Athaliah",
+  "partners": [
+    "person:Jehoiada.2"
+  ],
+  "siblings": [
+    "person:Ahaziah.2"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Jerusalem"
+    ]
+  },
+  "ubsdbh": [
+    "002838001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jehoshabeath (Jehosheba)",
+      "alternate_labels": [
+        "Jehosheba"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jehosheba",
+          "article": "person:Jehoshabeath",
+          "description": "Also called Jehosheba, she was the daughter of King Jehoram and Athaliah, and she saved her nephew Joash from being killed, mentioned in 2 Kings and 2 Chronicles."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jehosheba"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְהֹושֶׁבַע",
+      "יְהוֹשֶׁבַע",
+      "יְהוֹשַׁבְעַת"
+    ]
+  },
+  "key_references": [
+    "14022011"
+  ],
+  "references": [
+    "14022011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o140220110021"
+      ],
+      [
+        "o140220110221"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140220110301"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o140220110092"
+      ],
+      [
+        "o140220110152"
+      ]
+    ]
+  }
+}

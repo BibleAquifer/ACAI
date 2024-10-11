@@ -1,0 +1,87 @@
+{
+  "id": "place:Tabbath",
+  "primary_id": "place:Tabbath",
+  "alternate_sources": {
+    "aquifer": [
+      "8692|Tabbath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002659001001000"
+    ],
+    "tipnr": [
+      "Tabbath@Jdg.7.22"
+    ],
+    "vizbible": [
+      "rec3EyLFEs77mZoka"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002659001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tabbath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tabbath",
+          "gloss": "Tabbath",
+          "description": "A town in the Jordan Valley, the region where Midianite soldiers fled from Gideon's army."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Abel-meholah"
+  ],
+  "subregion_of": [
+    "place:JordanValley"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "טַבָּת",
+      "טַבָּ֑ת"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.356010",
+      "lon": "35.536929"
+    },
+    "vizbible": {
+      "lat": "32.356010",
+      "lon": "35.536929"
+    }
+  },
+  "key_references": [
+    "07007022"
+  ],
+  "references": [
+    "07007022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070070220241"
+      ]
+    ]
+  }
+}

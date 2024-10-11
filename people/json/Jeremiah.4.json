@@ -1,0 +1,84 @@
+{
+  "id": "person:Jeremiah.4",
+  "primary_id": "person:Jeremiah.4",
+  "alternate_sources": {
+    "aquifer": [
+      "6315|Jeremiah (Person)|TyndaleBibleDictionary",
+      "6314|Jeremiah, Letter of|TyndaleBibleDictionary",
+      "26753|Jeremiah|UWTranslationWords",
+      "132453|Jeremiah|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdbh": [
+      "003123001003000"
+    ],
+    "tipnr": [
+      "Jeremiah@1Ch.12.10"
+    ],
+    "vizbible": [
+      "recQm1fyXDbZJynHq"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Warrior"
+  ],
+  "ubsdbh": [
+    "003123001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jeremiah (1 Chronicles 12:10)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jeremiah (1 Chronicles 12:10)",
+          "article": "person:Jeremiah.4",
+          "description": "A warrior during King David's time, mentioned only in 1 Chronicles 12:10."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִרְמְיָה",
+      "יִרְמְיָ֫הוּ"
+    ]
+  },
+  "key_references": [
+    "13012011"
+  ],
+  "references": [
+    "13012011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130120110031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130120150011"
+      ],
+      [
+        "o130120160011",
+        "o130120160021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130120160041"
+      ],
+      [
+        "o130120160152"
+      ]
+    ]
+  }
+}

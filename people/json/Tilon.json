@@ -1,0 +1,61 @@
+{
+  "id": "person:Tilon",
+  "primary_id": "person:Tilon",
+  "alternate_sources": {
+    "aquifer": [
+      "8842|Tilon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007783001001000"
+    ],
+    "tipnr": [
+      "Tilon@1Ch.4.20"
+    ],
+    "vizbible": [
+      "recd8EQpnJf32AEEY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shimon",
+  "siblings": [
+    "person:Amnon.2",
+    "person:Rinnah",
+    "person:Ben-hanan"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "007783001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tilon",
+      "alternate_labels": [
+        "Tolon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tilon",
+          "article": "person:Tilon",
+          "description": "Tilon, also known as Tolon, was a man of the tribe of Judah living during the time of the divided kingdom, mentioned in 1 Chronicles 4:20, and the son of Shimon and brother of Amnon, Rinnah, and Ben-hanan."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004020"
+  ],
+  "references": [
+    "13004020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040200082"
+      ]
+    ]
+  }
+}

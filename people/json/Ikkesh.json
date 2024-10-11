@@ -1,0 +1,64 @@
+{
+  "id": "person:Ikkesh",
+  "primary_id": "person:Ikkesh",
+  "alternate_sources": {
+    "aquifer": [
+      "5996|Ikkesh|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005639002001000"
+    ],
+    "tipnr": [
+      "Ikkesh@2Sa.23.26-1Ch"
+    ],
+    "vizbible": [
+      "recf2TJthmTv3l3VB"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ira.2"
+  ],
+  "ubsdbh": [
+    "005639002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ikkesh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ikkesh",
+          "article": "person:Ikkesh",
+          "description": "A man living during Israel's united kingdom, father of Ira, mentioned in 2 Samuel 23:26."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "10023026",
+    "13011028",
+    "13027009"
+  ],
+  "references": [
+    "10023026",
+    "13011028",
+    "13027009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230260051"
+      ],
+      [
+        "o130110280031"
+      ],
+      [
+        "o130270090061"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "place:Hazazon-tamar",
+  "primary_id": "place:Engedi",
+  "alternate_sources": {
+    "aquifer": [
+      "5733|Hazazon-Tamar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002476001001000"
+    ],
+    "tipnr": [
+      "Hazazon-tamar|Engedi@Jos.15.62-Ezk"
+    ],
+    "vizbible": [
+      "recHhX3If7T8OFzqE"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002476001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hazazon-tamar",
+      "alternate_labels": [
+        "Hazezon-Tamar",
+        "Engedi"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Hazazon-tamar.1",
+          "gloss": "Hazazon-Tamar",
+          "description": "An oasis in the wilderness of the territory of Judah, on the western shore of the Dead Sea; also known as En-Gedi."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Engedi"
+  ],
+  "referred_to_as": [
+    "place:Engedi"
+  ],
+  "tribal_area": "group:Judah",
+  "nearby_places": [
+    "place:SaltSea"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "חַצְצֹון תָּמָר",
+      "חַצֲצֹן תָּמָר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "region"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.46152536",
+      "lon": "35.39241108"
+    },
+    "vizbible": {
+      "lat": "31.46152536",
+      "lon": "35.39241108"
+    }
+  },
+  "key_references": [
+    "14020002",
+    "01014007"
+  ],
+  "references": [
+    "01014007",
+    "14020002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010140070172",
+        "o010140070181"
+      ],
+      [
+        "o140200020132",
+        "o140200020141"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140200020151"
+      ]
+    ]
+  }
+}

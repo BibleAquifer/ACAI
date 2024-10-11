@@ -1,0 +1,38 @@
+{
+  "id": "place:Vivarium",
+  "primary_id": "place:Vivarium",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Vivarium",
+          "gloss": "Vivarium",
+          "description": "A monastery founded by Cassiodorus in southern Italy."
+        }
+      ],
+      "preferred_label": "Vivarium"
+    }
+  },
+  "subregion_of": [
+    "place:Italy"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "38.77901",
+      "lon": "16.50989"
+    }
+  }
+}

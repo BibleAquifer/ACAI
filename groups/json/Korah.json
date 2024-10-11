@@ -1,0 +1,82 @@
+{
+  "id": "group:Korah",
+  "primary_id": "group:Korah",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006576001001000"
+    ],
+    "tipnr": [
+      "Korah@Exo.6.21-Jud"
+    ],
+    "vizbible": [
+      "recmSgF32FBkhk1Uh"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Korah.3",
+  "ubsdbh": [
+    "006576001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Korahites",
+      "alternate_labels": [
+        "Kore",
+        "Korah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Korahites",
+          "article": "group:Korah",
+          "description": "People descended from Korah, of the tribe of Levi."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "02006021",
+    "02006024"
+  ],
+  "references": [
+    "02006024",
+    "04026058",
+    "13009019",
+    "13009031",
+    "13012007",
+    "13026001",
+    "13026019",
+    "14020019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060240082"
+      ],
+      [
+        "o040260580132"
+      ],
+      [
+        "o130090190112"
+      ],
+      [
+        "o130090310072"
+      ],
+      [
+        "o130120070062"
+      ],
+      [
+        "o130260010032"
+      ],
+      [
+        "o130260190052"
+      ],
+      [
+        "o140200190082"
+      ]
+    ]
+  }
+}

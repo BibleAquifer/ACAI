@@ -1,0 +1,103 @@
+{
+  "id": "flora:Papyrus",
+  "primary_id": "flora:Papyrus",
+  "alternate_sources": {
+    "aquifer": [
+      "7573|Papyrus|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000013001001000",
+      "001441001001000"
+    ],
+    "ubsflora": [
+      "flora:5.1.3"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Plants for Everyday Use",
+  "ubsdbh": [
+    "000013001001000",
+    "001441001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Papyrus",
+      "alternate_labels": [
+        "Reeds"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Papyrus",
+          "article": "flora:Papyrus",
+          "description": "A tall plant with a triangular stem that grows in rivers and marshes. In ancient times, it was used for making paper and various items."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֵבֶה",
+      "גֹּמֶא"
+    ]
+  },
+  "key_references": [
+    "02002003",
+    "18008011",
+    "23018002"
+  ],
+  "references": [
+    "02002003",
+    "18008011",
+    "18009026",
+    "23018002",
+    "23035007",
+    "63001012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180090260041"
+      ],
+      [
+        "o020020030081"
+      ],
+      [
+        "o180080110021"
+      ],
+      [
+        "o230180020051"
+      ],
+      [
+        "o230350070122"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n63001012008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o180080120012"
+      ],
+      [
+        "o180080120023"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o180080120041"
+      ],
+      [
+        "o180080120081"
+      ]
+    ]
+  }
+}

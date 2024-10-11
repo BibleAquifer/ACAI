@@ -1,0 +1,95 @@
+{
+  "id": "place:Rimmon.3",
+  "primary_id": "place:Rimmon.3",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006818002003000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/282234"
+    ],
+    "tipnr": [
+      "Rimmon@Jdg.20.45-"
+    ],
+    "vizbible": [
+      "rec042fw3n8gCnFul"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006818002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rock of Rimmon",
+      "alternate_labels": [
+        "Rimmon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rimmon.1",
+          "gloss": "Rock of Rimmon",
+          "description": "A rock in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "natural area"
+    ],
+    "acai": [
+      "natural area"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.93466",
+      "lon": "35.297063"
+    },
+    "recogito": {
+      "lat": "31.93342",
+      "lon": "35.29821"
+    },
+    "vizbible": {
+      "lat": "31.93466",
+      "lon": "35.297063"
+    }
+  },
+  "key_references": [
+    "07020045",
+    "07021013",
+    "07020047"
+  ],
+  "references": [
+    "07020045",
+    "07020047",
+    "07021013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070200450062"
+      ],
+      [
+        "o070200470062"
+      ],
+      [
+        "o070200470121"
+      ],
+      [
+        "o070210130101"
+      ]
+    ]
+  }
+}

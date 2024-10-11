@@ -1,0 +1,57 @@
+{
+  "id": "group:Japhlet",
+  "primary_id": "group:Japhlet",
+  "alternate_sources": {
+    "aquifer": [
+      "6217|Japhletites|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003028001001000"
+    ],
+    "tipnr": [
+      "Japhlet@Jos.16.3-1Ch"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Japhlet",
+  "ubsdbh": [
+    "003028001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Japhletites",
+      "alternate_labels": [
+        "Japhlet"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Japhletites",
+          "article": "group:Japhlet",
+          "description": "People descended from Japhlet, son of Heber, of the tribe of Asher."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יַפְלֵטִי"
+    ]
+  },
+  "key_references": [
+    "06016003"
+  ],
+  "references": [
+    "06016003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060160030052"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "place:Zarethan",
+  "primary_id": "place:Zarethan",
+  "alternate_sources": {
+    "aquifer": [
+      "9143|Zarethan|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "afa84ca"
+    ],
+    "tipnr": [
+      "Zarethan@Jos.3.16-2Ch",
+      "Zererah|Zarethan@Jos.3.16-2Ch",
+      "Zeredah|Zarethan@Jos.3.16-2Ch"
+    ],
+    "vizbible": [
+      "recUlW6Qk0RBmMe07"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q147911"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zarethan",
+      "alternate_labels": [
+        "Zaretan",
+        "Zererah",
+        "Zeredah",
+        "Zartanah",
+        "Zarthan"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Zarethan",
+          "gloss": "Zarethan",
+          "description": "A town in the Jordan Valley, in the territory of Ephraim; also known as Zeredah and Zererah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Zeredah",
+    "place:Zererah"
+  ],
+  "tribal_area": "group:Ephraim",
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.267821",
+      "lon": "35.576613"
+    },
+    "vizbible": {
+      "lat": "32.267821",
+      "lon": "35.576613"
+    }
+  },
+  "key_references": [
+    "11004012",
+    "06003016",
+    "11007046"
+  ],
+  "references": [
+    "06003016",
+    "07007022",
+    "11004012",
+    "11007046",
+    "14004017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060030160151"
+      ],
+      [
+        "o070070220181"
+      ],
+      [
+        "o110040120111"
+      ],
+      [
+        "o110070460101"
+      ],
+      [
+        "o140040170101"
+      ]
+    ]
+  }
+}

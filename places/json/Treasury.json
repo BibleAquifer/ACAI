@@ -1,0 +1,47 @@
+{
+  "id": "place:Treasury",
+  "primary_id": "place:Corban",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "7.33"
+    ],
+    "tipnr": [
+      "treasury|Corban@Mat.27.6-Mrk"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "7.33"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Treasury",
+      "alternate_labels": [
+        "Temple Treasury",
+        "treasury"
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Corban"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "key_references": [
+    "40027006"
+  ],
+  "references": [
+    "40027006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40027006014"
+      ]
+    ]
+  }
+}

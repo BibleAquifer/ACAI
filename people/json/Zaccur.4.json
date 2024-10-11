@@ -1,0 +1,78 @@
+{
+  "id": "person:Zaccur.4",
+  "primary_id": "person:Zaccur.4",
+  "alternate_sources": {
+    "aquifer": [
+      "9122|Zaccur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001976001004000",
+      "001976001006000"
+    ],
+    "tipnr": [
+      "Zaccur@1Ch.25.2-Neh"
+    ],
+    "vizbible": [
+      "reccAPVfernj5Yowe"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Asaph.2",
+  "siblings": [
+    "person:Joseph.12",
+    "person:Nethaniah.2",
+    "person:Asharelah"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "001976001004000",
+    "001976001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zaccur (1 Chronicles 25:2)",
+      "alternate_labels": [
+        "Zakkur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zaccur (1 Chronicles 25:2)",
+          "article": "person:Zaccur.4",
+          "description": "Zaccur, also known as Zakkur, was a Levite and son of Asaph, living during the time of the divided kingdom and mentioned in 1 Chronicles 25:2, with brothers named Joseph, Nethaniah, and Asharelah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זַכּוּר"
+    ]
+  },
+  "key_references": [
+    "13025002",
+    "13025010",
+    "16012035"
+  ],
+  "references": [
+    "13025002",
+    "13025010",
+    "16012035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130250020031"
+      ],
+      [
+        "o130250100021"
+      ],
+      [
+        "o160120350141"
+      ]
+    ]
+  }
+}

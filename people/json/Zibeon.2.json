@@ -1,0 +1,92 @@
+{
+  "id": "person:Zibeon.2",
+  "primary_id": "person:Zibeon.2",
+  "alternate_sources": {
+    "aquifer": [
+      "9211|Zibeon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006115001002000"
+    ],
+    "tipnr": [
+      "Zibeon@Gen.36.20-1Ch"
+    ],
+    "vizbible": [
+      "rec18ALrKRV4whrgb"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Seir",
+  "offspring": [
+    "person:Aiah",
+    "person:Anah.3"
+  ],
+  "siblings": [
+    "person:Lotan",
+    "person:Shobal",
+    "person:Anah.2",
+    "person:Dishon",
+    "person:Ezer",
+    "person:Dishan",
+    "person:Timna.2"
+  ],
+  "roles": [
+    "Leader "
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "006115001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zibeon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zibeon",
+          "article": "person:Zibeon.2",
+          "description": "A son of Seir the Horite, brother of Lotan, Shobal, Anah, Dishon, Ezer, Dishan, and Timna, and father of Aiah and Anah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01036020",
+    "01036021",
+    "01036022",
+    "01036024",
+    "13001038"
+  ],
+  "references": [
+    "01036020",
+    "01036024",
+    "01036029",
+    "13001038",
+    "13001040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360200092"
+      ],
+      [
+        "o010360240031"
+      ],
+      [
+        "o010360240162"
+      ],
+      [
+        "o010360290091"
+      ],
+      [
+        "o130010380052"
+      ],
+      [
+        "o130010400091"
+      ]
+    ]
+  }
+}

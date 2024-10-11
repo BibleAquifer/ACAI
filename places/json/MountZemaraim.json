@@ -1,0 +1,35 @@
+{
+  "id": "place:MountZemaraim",
+  "primary_id": "place:MountZemaraim",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:MountZemaraim",
+          "gloss": "Mount Zemaraim",
+          "description": "A mountain in the Ephraimite hill country, in the northern kingdom of Israel, where Abijah, king of Judah, addressed Jeroboam, king of Israel, before battle (2 Chronicles13:4)."
+        }
+      ],
+      "preferred_label": "Mount Zemaraim",
+      "alternate_labels": [
+        "Zemaraim"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "mountain"
+    ]
+  },
+  "key_references": [
+    "14013004"
+  ]
+}

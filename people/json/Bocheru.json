@@ -1,0 +1,71 @@
+{
+  "id": "person:Bocheru",
+  "primary_id": "person:Bocheru",
+  "alternate_sources": {
+    "aquifer": [
+      "4285|Bocheru|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000998001001000"
+    ],
+    "tipnr": [
+      "Bocheru@1Ch.8.38-"
+    ],
+    "vizbible": [
+      "rec1CWLibiHMiArgI"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Azel",
+  "siblings": [
+    "person:Azrikam.2",
+    "person:Ishmael.3",
+    "person:Sheariah",
+    "person:Obadiah.4",
+    "person:Hanan.2"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000998001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bocheru",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Bocheru",
+          "article": "person:Bocheru",
+          "description": "A man from the tribe of Benjamin, son of Azel, mentioned in 1 Chronicles 8:38."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בֹּכְרוּ",
+      "בֹּֽכְרוּ"
+    ]
+  },
+  "key_references": [
+    "13008038",
+    "13009044"
+  ],
+  "references": [
+    "13008038",
+    "13009044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080380071"
+      ],
+      [
+        "o130090440071"
+      ]
+    ]
+  }
+}

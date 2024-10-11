@@ -1,0 +1,80 @@
+{
+  "id": "place:Sheshak",
+  "primary_id": "place:Babylon",
+  "alternate_sources": {
+    "aquifer": [
+      "8375|Sheshach|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007662001001000"
+    ],
+    "tipnr": [
+      "Sheshak|Babylon@Gen.10.10-Rev"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007662001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sheshach",
+      "alternate_labels": [
+        "Babylon",
+        "Sheshak"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sheshach",
+          "gloss": "Sheshach",
+          "description": "A cryptic name for Babylon."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Babylon"
+  ],
+  "referred_to_as": [
+    "place:Babylon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "שֵׁשָׁן",
+      "שָׁשַׁי"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "city"
+    ]
+  },
+  "key_references": [
+    "24051041",
+    "24025026"
+  ],
+  "references": [
+    "24025026",
+    "24051041"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240250260191"
+      ],
+      [
+        "o240510410031"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "person:Moza.2",
+  "primary_id": "person:Moza.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7240|Moza|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003800002002000"
+    ],
+    "tipnr": [
+      "Moza@1Ch.8.36-"
+    ],
+    "vizbible": [
+      "recXPDKOFwnkQIQeK"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zimri.4",
+  "offspring": [
+    "person:Binea"
+  ],
+  "roles": [
+    "Royal Family Member"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "003800002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Moza",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Moza",
+          "article": "person:Moza.2",
+          "description": "A son of Zimri and father of Binea and descendant of King Saul."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מֹוצָא",
+      "מוֹצָא"
+    ]
+  },
+  "key_references": [
+    "13008033",
+    "13008034",
+    "13008035",
+    "13008036",
+    "13009042",
+    "13009043"
+  ],
+  "references": [
+    "13008036",
+    "13008037",
+    "13009042",
+    "13009043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080360161"
+      ],
+      [
+        "o130080370012"
+      ],
+      [
+        "o130090420161"
+      ],
+      [
+        "o130090430012"
+      ]
+    ]
+  }
+}

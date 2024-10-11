@@ -1,0 +1,58 @@
+{
+  "id": "fauna:Spider",
+  "primary_id": "fauna:Spider",
+  "alternate_sources": {
+    "aquifer": [
+      "8598|Spider|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005424001001000"
+    ],
+    "ubsfauna": [
+      "fauna:6.12"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Insects, Spiders, and Worms",
+  "ubsdbh": [
+    "005424001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Spider",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Spider",
+          "article": "fauna:Spider",
+          "description": "A small eight-legged animal that creates webs to catch flying insects."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עַכָּבִישׁ"
+    ]
+  },
+  "key_references": [
+    "18008014",
+    "23059005"
+  ],
+  "references": [
+    "18008014",
+    "23059005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180080140051"
+      ],
+      [
+        "o230590050051"
+      ]
+    ]
+  }
+}

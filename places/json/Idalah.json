@@ -1,0 +1,90 @@
+{
+  "id": "place:Idalah",
+  "primary_id": "place:Idalah",
+  "alternate_sources": {
+    "aquifer": [
+      "5983|Idalah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ae8fac6"
+    ],
+    "ubsdbh": [
+      "002788001001000"
+    ],
+    "tipnr": [
+      "Idalah@Jos.19.15"
+    ],
+    "vizbible": [
+      "rec823UwaDk4ovNpb"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "002788001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Idalah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Idalah",
+          "gloss": "Idalah",
+          "description": "A town in the territory of Zebulun, perhaps about 15 kilometers north of Megiddo."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Zebulun",
+  "nearby_places": [
+    "place:Megiddo"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יִדְאֲלָה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.733333",
+      "lon": "35.166667"
+    },
+    "vizbible": {
+      "lat": "32.733333",
+      "lon": "35.166667"
+    }
+  },
+  "key_references": [
+    "06019015"
+  ],
+  "references": [
+    "06019015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190150042"
+      ]
+    ]
+  }
+}

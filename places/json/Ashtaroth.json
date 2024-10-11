@@ -1,0 +1,127 @@
+{
+  "id": "place:Ashtaroth",
+  "primary_id": "place:Ashtaroth",
+  "alternate_sources": {
+    "aquifer": [
+      "3809|Ashtaroth, Ashterathite|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a6fea11"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/33333"
+    ],
+    "tipnr": [
+      "Ashtaroth@Deu.1.4-1Ch",
+      "Beeshterah|Ashtaroth@Deu.1.4-1Ch"
+    ],
+    "vizbible": [
+      "recgQ3PF8NjkiBIKf"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ashtaroth",
+      "alternate_labels": [
+        "Be Eshterah",
+        "Astaroth",
+        "Ashterathite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ashtaroth",
+          "gloss": "Ashtaroth",
+          "description": "A Levitical town in the territory of Manasseh, east of the Jordan River, assigned to the clan of Gershon; possibly to be identified with Beeshterah, Ashteroth-Karnaim, and Karnaim. It was the former residence of King Sihon of Heshbon and King Og of Bashan and conquered by the Israelites."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Beeshterah",
+    "place:Ashteroth-karnaim",
+    "place:Karnaim"
+  ],
+  "referred_to_as": [
+    "place:Beeshterah",
+    "group:Ashtaroth"
+  ],
+  "tribal_area": "group:Manasseh",
+  "subregion_of": [
+    "place:TerritoryOfEastManasseh"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.83333333",
+      "lon": "36.01666667"
+    },
+    "recogito": {
+      "lat": "32.837408",
+      "lon": "36.029358"
+    },
+    "vizbible": {
+      "lat": "32.837408",
+      "lon": "36.029358"
+    }
+  },
+  "key_references": [
+    "13006071",
+    "06012004"
+  ],
+  "references": [
+    "05001004",
+    "06009010",
+    "06012004",
+    "06013012",
+    "06013031",
+    "06021027",
+    "13006056",
+    "13011044"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050010040162"
+      ],
+      [
+        "o060090100182"
+      ],
+      [
+        "o060120040082"
+      ],
+      [
+        "o060130120072"
+      ],
+      [
+        "o060130310032"
+      ],
+      [
+        "o060210270191"
+      ],
+      [
+        "o130060560131"
+      ],
+      [
+        "o130110440022"
+      ]
+    ]
+  }
+}

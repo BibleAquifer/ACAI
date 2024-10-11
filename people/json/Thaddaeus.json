@@ -1,0 +1,85 @@
+{
+  "id": "person:Thaddaeus",
+  "primary_id": "person:Judas",
+  "alternate_sources": {
+    "aquifer": [
+      "8801|Thaddaeus, the Apostle|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.150"
+    ],
+    "tipnr": [
+      "Thaddaeus|Judas@Mat.10.3-Act"
+    ],
+    "vizbible": [
+      "reczWOq6vDAOEciY7"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:James.2",
+  "siblings": [
+    "person:James.2"
+  ],
+  "roles": [
+    "Apostle"
+  ],
+  "ubsdgnt": [
+    "93.150"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Thaddaeus (Judas)",
+      "alternate_labels": [
+        "Judas",
+        "Alphaeus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Judas",
+          "article": "person:Thaddaeus",
+          "description": "Thaddaeus, also called Judas, was one of the twelve apostles in the New Testament, first mentioned in Matthew 10:3."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Judas"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Θαδδαῖος"
+    ]
+  },
+  "key_references": [
+    "40010003",
+    "41003018"
+  ],
+  "references": [
+    "40010003",
+    "41003018"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40010003014"
+      ],
+      [
+        "n41003018017"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40010002008"
+      ],
+      [
+        "n40010005001"
+      ]
+    ]
+  }
+}

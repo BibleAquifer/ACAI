@@ -1,0 +1,65 @@
+{
+  "id": "person:Sered",
+  "primary_id": "person:Sered",
+  "alternate_sources": {
+    "aquifer": [
+      "8236|Sered, Seredite|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Sered@Gen.46.14-Num"
+    ],
+    "vizbible": [
+      "recoRJK3ReuIPIsUc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zebulun",
+  "siblings": [
+    "person:Elon.2",
+    "person:Jahleel"
+  ],
+  "tribe": "group:Zebulun",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sered",
+      "alternate_labels": [
+        "Seredite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sered",
+          "article": "person:Sered",
+          "description": "Sered, a man of the tribe of Zebulun living during the time of Egypt and the wilderness, was the son of Zebulun and the brother of Elon and Jahleel."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Sered"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046014",
+    "04026026"
+  ],
+  "references": [
+    "01046014",
+    "04026026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460140031"
+      ],
+      [
+        "o040260260042"
+      ],
+      [
+        "o040260260062"
+      ]
+    ]
+  }
+}

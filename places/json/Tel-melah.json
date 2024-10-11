@@ -1,0 +1,87 @@
+{
+  "id": "place:Tel-melah",
+  "primary_id": "place:Tel-melah",
+  "alternate_sources": {
+    "aquifer": [
+      "8774|Tel-Melah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007808001001000"
+    ],
+    "tipnr": [
+      "Tel-melah@Ezr.2.59-Neh"
+    ],
+    "vizbible": [
+      "recP4pruL0bFAEipt"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "007808001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tel-melah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Tel-melah",
+          "gloss": "Tel-Melah",
+          "description": "A town in Babylon from which a group of Jews returned to Israel. "
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Babylonia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "תֵּל חַרְשָׁא"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.127213",
+      "lon": "45.229995"
+    },
+    "vizbible": {
+      "lat": "32.127213",
+      "lon": "45.229995"
+    }
+  },
+  "key_references": [
+    "15002059",
+    "16007061"
+  ],
+  "references": [
+    "15002059",
+    "16007061"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020590032",
+        "o150020590041"
+      ],
+      [
+        "o160070610032",
+        "o160070610041"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "person:Othni",
+  "primary_id": "person:Othni",
+  "alternate_sources": {
+    "aquifer": [
+      "7532|Othni|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005755001001000"
+    ],
+    "tipnr": [
+      "Othni@1Ch.26.7"
+    ],
+    "vizbible": [
+      "reco1PLjarzcSWIQ6"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shemaiah.9",
+  "siblings": [
+    "person:Rephael",
+    "person:Obed.4",
+    "person:Elzabad.2",
+    "person:Elihu.3",
+    "person:Semachiah"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "005755001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Othni",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Othni",
+          "article": "person:Othni",
+          "description": "Othni, a Levite living during the divided kingdom, is mentioned in 1 Chronicles 26:7 as a son of Shemaiah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עָתְנִיאֵל",
+      "עׇתְנִיאֵל"
+    ]
+  },
+  "key_references": [
+    "13026007"
+  ],
+  "references": [
+    "13026007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130260070031"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "place:UpperPool",
+  "primary_id": "place:UpperPool",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:UpperPool",
+          "gloss": "Upper Pool",
+          "description": "A pool in Jerusalem."
+        }
+      ],
+      "preferred_label": "Upper Pool"
+    }
+  },
+  "subregion_of": [
+    "place:Jerusalem"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": true,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "pool"
+    ]
+  },
+  "key_references": [
+    "12018017",
+    "23007003",
+    "23036002"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "place:Jokneam",
+  "primary_id": "place:Jokneam",
+  "alternate_sources": {
+    "aquifer": [
+      "6423|Jokneam|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5c92e1"
+    ],
+    "tipnr": [
+      "Jokmeam|Jokneam@Jos.12.22-1Ki",
+      "Jokneam@Jos.12.22-1Ki"
+    ],
+    "vizbible": [
+      "recn160CZ6TA5vcBU"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jokneam",
+      "alternate_labels": [
+        "Jokmeam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Jokneam",
+          "gloss": "Jokneam",
+          "description": "A Levitical town in the territory of Zebulun, near Mount Carmel; assigned to the clan of Merari."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Jokmeam"
+  ],
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.66454577",
+      "lon": "35.10891819"
+    },
+    "vizbible": {
+      "lat": "32.66454577",
+      "lon": "35.10891819"
+    }
+  },
+  "key_references": [
+    "06021024",
+    "06019011"
+  ],
+  "references": [
+    "06012022",
+    "06019011",
+    "06021034",
+    "11004012",
+    "13006062"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060120220051"
+      ],
+      [
+        "o060190110131"
+      ],
+      [
+        "o060210340101"
+      ],
+      [
+        "o110040120212"
+      ]
+    ]
+  }
+}

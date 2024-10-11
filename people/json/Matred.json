@@ -1,0 +1,69 @@
+{
+  "id": "person:Matred",
+  "primary_id": "person:Matred",
+  "alternate_sources": {
+    "aquifer": [
+      "6976|Matred|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003935001001000"
+    ],
+    "tipnr": [
+      "Matred@Gen.36.39-1Ch"
+    ],
+    "vizbible": [
+      "recMd2rffhZH7Vn9z"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Mezahab",
+  "partners": [
+    "person:HusbandOfMatred"
+  ],
+  "offspring": [
+    "person:Mehetabel"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "003935001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Matred",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Matred",
+          "article": "person:Matred",
+          "description": "A woman from the time of the patriarchs, daughter of Mezahab and mother of Mehetabel, first mentioned in Genesis 36:39."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַטְרֵד"
+    ]
+  },
+  "key_references": [
+    "01036039",
+    "13001050"
+  ],
+  "references": [
+    "01036039",
+    "13001050"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360390161"
+      ],
+      [
+        "o130010500141"
+      ]
+    ]
+  }
+}

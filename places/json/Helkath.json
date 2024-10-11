@@ -1,0 +1,92 @@
+{
+  "id": "place:Helkath",
+  "primary_id": "place:Helkath",
+  "alternate_sources": {
+    "aquifer": [
+      "5786|Helkath|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a1d1918"
+    ],
+    "tipnr": [
+      "Helkath@Jos.19.25-1Ch",
+      "Hukok|Helkath@Jos.19.25-1Ch"
+    ],
+    "vizbible": [
+      "recuSExgoHnwcPaSp"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Helkath",
+      "alternate_labels": [
+        "Hukok"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Helkath",
+          "gloss": "Helkath",
+          "description": "A Levitical town in the territory of Asher, assigned to the clan of Gershon."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Hukok"
+  ],
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.955448",
+      "lon": "35.211971"
+    },
+    "vizbible": {
+      "lat": "32.955448",
+      "lon": "35.211971"
+    }
+  },
+  "key_references": [
+    "06021031",
+    "06019025"
+  ],
+  "references": [
+    "06019025",
+    "06021031",
+    "13006060"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190250031"
+      ],
+      [
+        "o060210310021"
+      ],
+      [
+        "o130060600021"
+      ]
+    ]
+  }
+}

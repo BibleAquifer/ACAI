@@ -1,0 +1,79 @@
+{
+  "id": "person:Heber",
+  "primary_id": "person:Heber",
+  "alternate_sources": {
+    "aquifer": [
+      "5757|Heber|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Heber@Gen.46.17-1Ch"
+    ],
+    "vizbible": [
+      "recmjoavfsyFJcm9S"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Beriah",
+  "offspring": [
+    "person:Japhlet",
+    "person:Shomer.2",
+    "person:Hotham",
+    "person:Shua.2"
+  ],
+  "siblings": [
+    "person:Malchiel"
+  ],
+  "tribe": "group:Asher",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heber",
+      "alternate_labels": [
+        "Heberite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Heber",
+          "article": "person:Heber",
+          "description": "Grandson of the patriarch Asher and son of Beriah who lived during the time of the Egyptian slavery and the wilderness wandering of the Israelites He was founder of the Heberites."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Heber"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01046017",
+    "04026045",
+    "13007031"
+  ],
+  "references": [
+    "01046017",
+    "04026045",
+    "13007031",
+    "13007032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460170111"
+      ],
+      [
+        "o040260450032"
+      ],
+      [
+        "o040260450052"
+      ],
+      [
+        "o130070310031"
+      ],
+      [
+        "o130070320012"
+      ]
+    ]
+  }
+}

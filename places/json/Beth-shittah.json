@@ -1,0 +1,89 @@
+{
+  "id": "place:Beth-shittah",
+  "primary_id": "place:Beth-shittah",
+  "alternate_sources": {
+    "aquifer": [
+      "4205|Beth-Shittah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a83d789"
+    ],
+    "ubsdbh": [
+      "000955001001000"
+    ],
+    "tipnr": [
+      "Beth-shittah@Jdg.7.22"
+    ],
+    "vizbible": [
+      "recX8s9uVLC3YsqUM"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000955001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-shittah",
+      "alternate_labels": [
+        "Beth Acacia",
+        "Acacia House"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-shittah",
+          "gloss": "Beth-Shittah",
+          "description": "A town northeast of Beth-Shean to which the Midianite army fled (Judges 7:22). "
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Beth-shan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית הַשִּׁטָּה",
+      "בֵּית הַשִּׁטָּה"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.552496",
+      "lon": "35.438257"
+    },
+    "vizbible": {
+      "lat": "32.552496",
+      "lon": "35.438257"
+    }
+  },
+  "key_references": [
+    "07007022"
+  ],
+  "references": [
+    "07007022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070070220161",
+        "o070070220171"
+      ]
+    ]
+  }
+}

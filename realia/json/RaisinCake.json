@@ -1,0 +1,72 @@
+{
+  "id": "realia:RaisinCake",
+  "primary_id": "realia:RaisinCake",
+  "alternate_sources": {
+    "aquifer": [
+      "7915|Raisin Cake|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000746001001000"
+    ],
+    "ubsrealia": [
+      "realia:9.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "000746001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Raisin Cake",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Raisin Cake",
+          "article": "realia:RaisinCake",
+          "description": "A cake made of dried, compressed grapes, often eaten at festivals or special ceremonies."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "realia:FigCake"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲשִׁישָׁה"
+    ]
+  },
+  "key_references": [
+    "09025018"
+  ],
+  "references": [
+    "10006019",
+    "13016003",
+    "22002005",
+    "23016007",
+    "28003001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100060190162"
+      ],
+      [
+        "o130160030122"
+      ],
+      [
+        "o220020050022"
+      ],
+      [
+        "o230160070072"
+      ],
+      [
+        "o280030010221"
+      ]
+    ]
+  }
+}

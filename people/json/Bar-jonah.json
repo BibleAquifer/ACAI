@@ -1,0 +1,68 @@
+{
+  "id": "person:Bar-jonah",
+  "primary_id": "person:Peter",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.64"
+    ],
+    "tipnr": [
+      "Bar-Jonah|Peter@Mat.4.18-2Pe"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:John.4",
+  "partners": [
+    "person:WifeOfPeter"
+  ],
+  "siblings": [
+    "person:Andrew"
+  ],
+  "roles": [
+    "Apostle"
+  ],
+  "ubsdgnt": [
+    "93.64"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bar-jonah (Peter)",
+      "alternate_labels": [
+        "Bar-Jona",
+        "Peter",
+        "son of Jonah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Peter",
+          "article": "person:Bar-jonah",
+          "description": "An apostle living at the time of the New Testament, also called Peter, Simon, Cephas, and Bar-Jonah, mentioned in multiple passages including Matthew 16:17 and John 1:42."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Peter"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Βαριωνᾶ"
+    ]
+  },
+  "key_references": [
+    "40016017"
+  ],
+  "references": [
+    "40016017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40016017010"
+      ]
+    ]
+  }
+}

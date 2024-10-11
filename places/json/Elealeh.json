@@ -1,0 +1,115 @@
+{
+  "id": "place:Elealeh",
+  "primary_id": "place:Elealeh",
+  "alternate_sources": {
+    "aquifer": [
+      "4978|Elealeh|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a5ccd34"
+    ],
+    "ubsdbh": [
+      "000465001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/697658"
+    ],
+    "tipnr": [
+      "Elealeh@Num.32.3-Jer"
+    ],
+    "vizbible": [
+      "recbaKaeB0APyZYLy"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000465001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elealeh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Elealeh",
+          "gloss": "Elealeh",
+          "description": "A town in the territory of Reuben."
+        }
+      ]
+    }
+  },
+  "associated_places": [
+    "place:Heshbon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "אֶלְעָלֵה",
+      "אֶלְעָלֵא"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.813796",
+      "lon": "35.824275"
+    },
+    "recogito": {
+      "lat": "31.81565",
+      "lon": "35.833246"
+    },
+    "vizbible": {
+      "lat": "31.813796",
+      "lon": "35.824275"
+    }
+  },
+  "key_references": [
+    "04032037",
+    "23015004"
+  ],
+  "references": [
+    "04032003",
+    "04032037",
+    "23015004",
+    "23016009",
+    "24048034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040320030062"
+      ],
+      [
+        "o040320370071"
+      ],
+      [
+        "o230150040032"
+      ],
+      [
+        "o230160090112"
+      ],
+      [
+        "o240480340041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240480340071"
+      ]
+    ]
+  }
+}

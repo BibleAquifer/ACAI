@@ -1,0 +1,86 @@
+{
+  "id": "place:Rekem",
+  "primary_id": "place:Rekem",
+  "alternate_sources": {
+    "aquifer": [
+      "7989|Rekem (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006937001001000"
+    ],
+    "pleiades": [
+      "http://pleiades.stoa.org/places/109193"
+    ],
+    "tipnr": [
+      "Rekem@Jos.18.27"
+    ],
+    "vizbible": [
+      "recU5S7bLgQ5prNXX"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006937001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rekem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rekem",
+          "gloss": "Rekem",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.869343",
+      "lon": "35.197712"
+    },
+    "recogito": {
+      "lat": "50.916022",
+      "lon": "5.688171"
+    },
+    "vizbible": {
+      "lat": "31.869343",
+      "lon": "35.197712"
+    }
+  },
+  "key_references": [
+    "06018027"
+  ],
+  "references": [
+    "06018027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180270012"
+      ]
+    ]
+  }
+}

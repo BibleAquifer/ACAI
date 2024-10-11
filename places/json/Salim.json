@@ -1,0 +1,101 @@
+{
+  "id": "place:Salim",
+  "primary_id": "place:Salim",
+  "alternate_sources": {
+    "aquifer": [
+      "8105|Salim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a86e0b0"
+    ],
+    "ubsdgnt": [
+      "93.565"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/412800"
+    ],
+    "tipnr": [
+      "Salim@Jhn.3.23"
+    ],
+    "vizbible": [
+      "recqORovZBCmmdJKh"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q12058546"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.565"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Salim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Salim",
+          "gloss": "Salim",
+          "description": "A place of uncertain location in Samaria, near Aenon where John was baptizing."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:Aenon"
+  ],
+  "subregion_of": [
+    "place:Samaria.2"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Σαλείμ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "wadi"
+    ],
+    "acai": [
+      "settlement"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.39933414",
+      "lon": "35.5264431"
+    },
+    "recogito": {
+      "lat": "29.25722",
+      "lon": "48.05722"
+    },
+    "vizbible": {
+      "lat": "32.39933414",
+      "lon": "35.5264431"
+    },
+    "biblica-maps": {
+      "lat": "32.40569",
+      "lon": "35.52848"
+    }
+  },
+  "key_references": [
+    "43003023"
+  ],
+  "references": [
+    "43003023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43003023011"
+      ]
+    ]
+  }
+}

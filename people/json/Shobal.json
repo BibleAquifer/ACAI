@@ -1,0 +1,96 @@
+{
+  "id": "person:Shobal",
+  "primary_id": "person:Shobal",
+  "alternate_sources": {
+    "aquifer": [
+      "8441|Shobal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007232001001000"
+    ],
+    "tipnr": [
+      "Shobal@Gen.36.20-1Ch"
+    ],
+    "vizbible": [
+      "reclK7fHzOIxFQf6F"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Seir",
+  "offspring": [
+    "person:Alvan",
+    "person:Manahath",
+    "person:Ebal",
+    "person:Shepho",
+    "person:Onam"
+  ],
+  "siblings": [
+    "person:Lotan",
+    "person:Zibeon.2",
+    "person:Anah.2",
+    "person:Dishon",
+    "person:Ezer",
+    "person:Dishan",
+    "person:Timna.2"
+  ],
+  "roles": [
+    "Leader"
+  ],
+  "tribe": "group:Edom",
+  "ubsdbh": [
+    "007232001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shobal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shobal",
+          "article": "person:Shobal",
+          "description": "An Edomite chief and son of Seir the Horite who lived during the time of the patriarchs."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שֹׁובֵק",
+      "שׁוֹבֵק"
+    ]
+  },
+  "key_references": [
+    "01036020",
+    "01036023",
+    "13001040"
+  ],
+  "references": [
+    "01036020",
+    "01036023",
+    "01036029",
+    "13001038",
+    "13001040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360200082"
+      ],
+      [
+        "o010360230031"
+      ],
+      [
+        "o010360290071"
+      ],
+      [
+        "o130010380042"
+      ],
+      [
+        "o130010400021"
+      ]
+    ]
+  }
+}

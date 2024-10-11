@@ -1,0 +1,113 @@
+{
+  "id": "place:Spain",
+  "primary_id": "place:Spain",
+  "alternate_sources": {
+    "aquifer": [
+      "8592|Spain|TyndaleBibleDictionary",
+      "132090|Spain|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a3f0f69"
+    ],
+    "ubsdgnt": [
+      "93.586"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/2510769"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/992072"
+    ],
+    "tipnr": [
+      "Spain@Rom.15.24-"
+    ],
+    "vizbible": [
+      "recaTdWIOtQOY5s09"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q186513"
+    ]
+  },
+  "type": "place",
+  "ubsdgnt": [
+    "93.586"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Spain",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Spain",
+          "gloss": "Spain",
+          "description": "A country at the western end of the Mediterranean Sea; Paul planned to travel there after visiting Jerusalem."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:GreatSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": true,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "el": [
+      "Σπανία"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation",
+      "region"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "40.481391",
+      "lon": "-3.175332"
+    },
+    "recogito": {
+      "lat": "40.22822935646453",
+      "lon": "-3.639066965"
+    },
+    "vizbible": {
+      "lat": "40.481391",
+      "lon": "-3.175332"
+    }
+  },
+  "key_references": [
+    "45015024",
+    "45015028"
+  ],
+  "references": [
+    "45015024",
+    "45015028"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45015024006"
+      ],
+      [
+        "n45015028014"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n45015024016"
+      ]
+    ]
+  }
+}

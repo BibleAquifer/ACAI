@@ -1,0 +1,40 @@
+{
+  "id": "place:Edrei.2",
+  "primary_id": "place:Edrei.2",
+  "alternate_sources": {
+    "aquifer": [
+      "4945|Edrei|TyndaleBibleDictionary"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Edrei.2",
+          "gloss": "Edrei (of Naphtali)",
+          "description": "A fortified town in the territory of Naphtali."
+        }
+      ],
+      "preferred_label": "Edrei (of Naphtali)"
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "06019037"
+  ]
+}

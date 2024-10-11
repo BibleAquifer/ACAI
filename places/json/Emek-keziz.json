@@ -1,0 +1,86 @@
+{
+  "id": "place:Emek-keziz",
+  "primary_id": "place:Emek-keziz",
+  "alternate_sources": {
+    "aquifer": [
+      "5067|Emek-Keziz|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005519001001000",
+      "005518001001000"
+    ],
+    "tipnr": [
+      "Emek-keziz@Jos.18.21"
+    ],
+    "vizbible": [
+      "rec3jnWpO8DBacyGU"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005519001001000",
+    "005518001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Emek-keziz",
+      "alternate_labels": [
+        "Keziz",
+        "valley of Keziz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Emek-keziz",
+          "gloss": "Emek-Keziz",
+          "description": "A town in the territory of Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Benjamin",
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.837062",
+      "lon": "35.513151"
+    },
+    "vizbible": {
+      "lat": "31.837062",
+      "lon": "35.513151"
+    }
+  },
+  "key_references": [
+    "06018021"
+  ],
+  "references": [
+    "06018021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060180210102",
+        "o060180210111"
+      ]
+    ]
+  }
+}

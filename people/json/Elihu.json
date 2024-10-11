@@ -1,0 +1,70 @@
+{
+  "id": "person:Elihu",
+  "primary_id": "person:Elihu",
+  "alternate_sources": {
+    "aquifer": [
+      "5010|Elihu|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Eliel|Elihu@1Sa.1.1-1Ch",
+      "Eliab|Elihu@1Sa.1.1-1Ch",
+      "Elihu@1Sa.1.1-1Ch"
+    ],
+    "vizbible": [
+      "recrrRakZOdTLAylR"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Tohu",
+  "offspring": [
+    "person:Jeroham"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elihu",
+      "alternate_labels": [
+        "Eliel",
+        "Eliab"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elihu",
+          "article": "person:Elihu",
+          "description": "Elihu, also called Eliel or Eliab, was a Levite during Israel's united kingdom and is first mentioned in 1 Samuel 1:1."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Eliab.6",
+    "person:Eliel.9"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "09001001",
+    "13006012",
+    "13006019"
+  ],
+  "references": [
+    "09001001",
+    "13006012",
+    "13006019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090010010141"
+      ],
+      [
+        "o130060120011"
+      ],
+      [
+        "o130060190061"
+      ]
+    ]
+  }
+}

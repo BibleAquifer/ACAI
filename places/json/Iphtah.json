@@ -1,0 +1,85 @@
+{
+  "id": "place:Iphtah",
+  "primary_id": "place:Iphtah",
+  "alternate_sources": {
+    "aquifer": [
+      "6043|Iphtah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003033001001000"
+    ],
+    "tipnr": [
+      "Iphtah@Jos.15.43"
+    ],
+    "vizbible": [
+      "recK3b32WznCD3Boq"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003033001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Iphtah",
+      "alternate_labels": [
+        "Jiphtah",
+        "Jephthah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Iphtah",
+          "gloss": "Iphtah",
+          "description": "A town in the foothills of the territory of Judah."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "יִפְתָּח"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    },
+    "vizbible": {
+      "lat": "31.8099",
+      "lon": "34.9365"
+    }
+  },
+  "key_references": [
+    "06015043"
+  ],
+  "references": [
+    "06015043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150430012"
+      ]
+    ]
+  }
+}

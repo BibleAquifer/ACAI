@@ -1,0 +1,53 @@
+{
+  "id": "realia:Shaker",
+  "primary_id": "realia:Shaker",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004133001001000"
+    ],
+    "ubsrealia": [
+      "realia:7.4.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004133001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shaker",
+      "alternate_labels": [
+        "Rattle"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shaker",
+          "article": "realia:Shaker",
+          "description": "A musical instrument that makes a rattling sound when shaken."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְנַעַנְעִים"
+    ]
+  },
+  "key_references": [
+    "10006005"
+  ],
+  "references": [
+    "10006005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100060050143"
+      ]
+    ]
+  }
+}

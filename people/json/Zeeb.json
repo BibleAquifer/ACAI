@@ -1,0 +1,80 @@
+{
+  "id": "person:Zeeb",
+  "primary_id": "person:Zeeb",
+  "alternate_sources": {
+    "aquifer": [
+      "9171|Zeeb|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001908002001000",
+      "003054001001000"
+    ],
+    "tipnr": [
+      "Zeeb@Jdg.7.25-Psa"
+    ],
+    "vizbible": [
+      "recE9JL6NWRxMRIWP"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Leader"
+  ],
+  "ubsdbh": [
+    "001908002001000",
+    "003054001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zeeb",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zeeb",
+          "article": "person:Zeeb",
+          "description": "A prince of the Midianites who was defeated and killed by Gideon."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זְאֵב"
+    ]
+  },
+  "key_references": [
+    "07007025",
+    "07008003",
+    "19083012"
+  ],
+  "references": [
+    "07007025",
+    "07008003",
+    "19083012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070070250081"
+      ],
+      [
+        "o070070250151"
+      ],
+      [
+        "o070070250181"
+      ],
+      [
+        "o070070250242"
+      ],
+      [
+        "o070080030101"
+      ],
+      [
+        "o190830120043"
+      ]
+    ]
+  }
+}

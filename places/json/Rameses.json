@@ -1,0 +1,100 @@
+{
+  "id": "place:Rameses",
+  "primary_id": "place:Rameses",
+  "alternate_sources": {
+    "aquifer": [
+      "7930|Rameses (Place)|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a079b21"
+    ],
+    "ubsdbh": [
+      "006875001001000"
+    ],
+    "tipnr": [
+      "Rameses@Gen.47.11-Num"
+    ],
+    "vizbible": [
+      "recbzTNkxyES3LbQF"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q937930"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006875001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rameses",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rameses",
+          "gloss": "Rameses",
+          "description": "A region and town located in the northeastern part of the Nile Delta in Egypt, where Joseph settled his father and brothers and where the Israelite slaves were forced to build a city with the same name; starting point of exodus (ABD)."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Egypt"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "region",
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.79937021",
+      "lon": "31.83421669"
+    },
+    "vizbible": {
+      "lat": "30.79937021",
+      "lon": "31.83421669"
+    }
+  },
+  "key_references": [
+    "04033003",
+    "01047011",
+    "02001011"
+  ],
+  "references": [
+    "01047011",
+    "02001011",
+    "02012037",
+    "04033003",
+    "04033005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010470110151"
+      ],
+      [
+        "o020120370042"
+      ],
+      [
+        "o040330030022"
+      ],
+      [
+        "o040330050042"
+      ]
+    ]
+  }
+}

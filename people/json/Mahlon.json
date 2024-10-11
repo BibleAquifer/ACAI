@@ -1,0 +1,99 @@
+{
+  "id": "person:Mahlon",
+  "primary_id": "person:Mahlon",
+  "alternate_sources": {
+    "aquifer": [
+      "6878|Mahlon|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003879001001000"
+    ],
+    "tipnr": [
+      "Mahlon@Rut.1.2-"
+    ],
+    "vizbible": [
+      "recAnjspoNLxphIjV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Elimelech",
+  "mother": "person:Naomi",
+  "partners": [
+    "person:Ruth"
+  ],
+  "siblings": [
+    "person:Chilion"
+  ],
+  "tribe": "group:Judah",
+  "related_places": {
+    "birth_place": [
+      "place:Bethlehem"
+    ]
+  },
+  "ubsdbh": [
+    "003879001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mahlon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mahlon",
+          "article": "person:Mahlon",
+          "description": "Son of Elimelech and Naomi, and the first husband of Ruth the Moabitess. He died childless in Moab but Boaz continued his family line by marrying Ruth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַחְלֹון",
+      "מַחְלוֹן"
+    ]
+  },
+  "key_references": [
+    "08001001"
+  ],
+  "references": [
+    "08001002",
+    "08001005",
+    "08004009",
+    "08004010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o080010020101"
+      ],
+      [
+        "o080010050041"
+      ],
+      [
+        "o080040090192"
+      ],
+      [
+        "o080040100061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o080040050122"
+      ],
+      [
+        "o080040050172"
+      ],
+      [
+        "o080040100122"
+      ],
+      [
+        "o080040100182"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "person:Pul",
+  "primary_id": "person:Tiglath-pileser",
+  "alternate_sources": {
+    "aquifer": [
+      "7855|Pul|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005806001001000"
+    ],
+    "tipnr": [
+      "Pul|Tiglath-pileser@2Ki.15.19-Hos"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Emperor",
+    "King"
+  ],
+  "tribe": "group:Assyria",
+  "ubsdbh": [
+    "005806001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pul (Tiglath-pileser)",
+      "alternate_labels": [
+        "Tiglath-Pileser"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tiglath-Pileser",
+          "article": "person:Pul",
+          "description": "Pul, also known as Tiglath-Pileser, is a king mentioned in 2 Kings 15:19, living during the time of the divided kingdom."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Tiglath-pileser"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "12015019",
+    "13005026"
+  ],
+  "references": [
+    "12015019",
+    "13005026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120150190021"
+      ],
+      [
+        "o120150190092"
+      ],
+      [
+        "o130050260061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130050260152"
+      ],
+      [
+        "o130050260212"
+      ]
+    ]
+  }
+}

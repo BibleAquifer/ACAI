@@ -1,0 +1,104 @@
+{
+  "id": "place:Acco",
+  "primary_id": "place:Acco",
+  "alternate_sources": {
+    "aquifer": [
+      "3331|Accho, Acco|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "abc2af0"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21662"
+    ],
+    "tipnr": [
+      "Acco@Jdg.1.31-Act",
+      "Ptolemais|Acco@Jdg.1.31-Act"
+    ],
+    "vizbible": [
+      "recCdyPm5ehwB2lsH"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q92277123"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Acco",
+      "alternate_labels": [
+        "Akko",
+        "Ptolemais"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Acco",
+          "gloss": "Acco",
+          "description": "A seaport town on the coast of the Mediterranean in the territory of Asher; later known as Ptolemais."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Ptolemais"
+  ],
+  "tribal_area": "group:Asher",
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "seaport"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.927583",
+      "lon": "35.081555"
+    },
+    "recogito": {
+      "lat": "32.920744",
+      "lon": "35.068626"
+    },
+    "vizbible": {
+      "lat": "32.920744",
+      "lon": "35.068626"
+    },
+    "biblica-maps": {
+      "lat": "32.92129",
+      "lon": "35.07984"
+    }
+  },
+  "key_references": [
+    "07001031"
+  ],
+  "references": [
+    "07001031",
+    "44021007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070010310061"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44021007010"
+      ]
+    ]
+  }
+}

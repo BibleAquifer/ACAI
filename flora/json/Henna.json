@@ -1,0 +1,66 @@
+{
+  "id": "flora:Henna",
+  "primary_id": "flora:Henna",
+  "alternate_sources": {
+    "aquifer": [
+      "5801|Henna|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003409003001000"
+    ],
+    "ubsflora": [
+      "flora:4.1.7"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Incense and Ointment",
+  "ubsdbh": [
+    "003409003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Henna",
+      "alternate_labels": [
+        "Henna Plant"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Henna",
+          "article": "flora:Henna",
+          "description": "Henna is a tall shrub with fragrant white flowers and leaves that produce a red dye for coloring skin and hair."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כֹּפֶר"
+    ]
+  },
+  "key_references": [
+    "22001014",
+    "22004013",
+    "22007012"
+  ],
+  "references": [
+    "22001014",
+    "22004013",
+    "22007012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o220010140022"
+      ],
+      [
+        "o220040130071"
+      ],
+      [
+        "o220070120062"
+      ]
+    ]
+  }
+}

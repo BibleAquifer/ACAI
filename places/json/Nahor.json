@@ -1,0 +1,44 @@
+{
+  "id": "place:Nahor",
+  "primary_id": "place:Nahor",
+  "alternate_sources": {
+    "aquifer": [
+      "7291|Nahor (Place)|TyndaleBibleDictionary",
+      "26898|Nahor|UWTranslationWords"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nahor",
+          "gloss": "Nahor",
+          "description": "A city in northwestern Mesopotamia; hometown of Nahor, Abraham's brother, and where Abraham's servant found Rebekah, the wife of Isaac."
+        }
+      ],
+      "preferred_label": "Nahor",
+      "alternate_labels": [
+        "City of Nahor"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Mesopotamia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "key_references": [
+    "01024010"
+  ]
+}

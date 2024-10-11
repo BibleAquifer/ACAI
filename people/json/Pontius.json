@@ -1,0 +1,88 @@
+{
+  "id": "person:Pontius",
+  "primary_id": "person:Pilate",
+  "alternate_sources": {
+    "aquifer": [
+      "7734|Pilate, Pontius|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.298"
+    ],
+    "tipnr": [
+      "Pontius|Pilate@Mat.27.2-1Ti"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Governor"
+  ],
+  "ubsdgnt": [
+    "93.298"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pontius (Pilate)",
+      "alternate_labels": [
+        "Pilate"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Pilate",
+          "article": "person:Pontius",
+          "description": "Pontius Pilate, a Roman ruler during the New Testament, is known for overseeing the trial of Jesus, mentioned in Matthew 27:2, Luke 3:1, Acts 4:27, and 1 Timothy 6:13."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Pilate"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Πόντιος"
+    ]
+  },
+  "key_references": [
+    "40027002",
+    "42003001",
+    "44004027",
+    "54006013"
+  ],
+  "references": [
+    "40027002",
+    "42003001",
+    "44004027",
+    "54006013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003001010"
+      ],
+      [
+        "n44004027020"
+      ],
+      [
+        "n54006013016"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44004029009"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44004028001"
+      ]
+    ]
+  }
+}

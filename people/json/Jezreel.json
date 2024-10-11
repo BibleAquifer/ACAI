@@ -1,0 +1,70 @@
+{
+  "id": "person:Jezreel",
+  "primary_id": "person:Jezreel",
+  "alternate_sources": {
+    "aquifer": [
+      "6377|Jezreel (Person)|TyndaleBibleDictionary",
+      "26763|Jezreel|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002888001003000"
+    ],
+    "tipnr": [
+      "Jezreel@1Ch.4.3"
+    ],
+    "vizbible": [
+      "rec5zO1PrjsHBGpjU"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Hur.2",
+  "siblings": [
+    "person:Uri",
+    "person:Shobal.2",
+    "person:Salma",
+    "person:Hareph",
+    "person:Ishma",
+    "person:Idbash",
+    "person:Hazzelelponi",
+    "person:Penuel",
+    "person:Ezer.2"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "002888001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jezreel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jezreel",
+          "article": "person:Jezreel",
+          "description": "A man of the tribe of Judah, son of Etam, living during the time of Egypt and the wilderness, mentioned in 1 Chronicles 4:3."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִזְרְעֶאל"
+    ]
+  },
+  "key_references": [
+    "13004003"
+  ],
+  "references": [
+    "13004003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040030041"
+      ]
+    ]
+  }
+}

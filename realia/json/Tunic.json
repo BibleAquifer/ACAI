@@ -1,0 +1,125 @@
+{
+  "id": "realia:Tunic",
+  "primary_id": "realia:Tunic",
+  "alternate_sources": {
+    "aquifer": [
+      "8943|Tunic|TyndaleBibleDictionary",
+      "27182|Tunic|UWTranslationWords",
+      "280164|tunic|FIAKeyTerms"
+    ],
+    "ubsdbh": [
+      "003476001001000"
+    ],
+    "ubsrealia": [
+      "realia:4.5.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003476001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tunic",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tunic",
+          "article": "realia:Tunic",
+          "description": "A long linen undergarment usually worn by the High Priest and other priests, reaching nearly to the ankles and held by a sash."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כֻּתֹּנֶת"
+    ]
+  },
+  "key_references": [
+    "02028004",
+    "03008007",
+    "03016004",
+    "40005040",
+    "43019023"
+  ],
+  "references": [
+    "02028004",
+    "02028039",
+    "02028040",
+    "02029005",
+    "02029008",
+    "02039027",
+    "02040014",
+    "03008007",
+    "03008013",
+    "03010005",
+    "03016004",
+    "15002069",
+    "16007069",
+    "16007071"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020280040082"
+      ],
+      [
+        "o020280390022"
+      ],
+      [
+        "o020280400041"
+      ],
+      [
+        "o020290050082"
+      ],
+      [
+        "o020290080051"
+      ],
+      [
+        "o020390270032"
+      ],
+      [
+        "o020400140061"
+      ],
+      [
+        "o030080070042"
+      ],
+      [
+        "o030080130071"
+      ],
+      [
+        "o030100050032",
+        "o030100050033"
+      ],
+      [
+        "o030160040011"
+      ],
+      [
+        "o150020690142"
+      ],
+      [
+        "o160070690141"
+      ],
+      [
+        "o160070710122"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020280410022"
+      ],
+      [
+        "o030160040181"
+      ],
+      [
+        "o030160040233"
+      ]
+    ]
+  }
+}

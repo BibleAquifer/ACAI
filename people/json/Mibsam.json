@@ -1,0 +1,77 @@
+{
+  "id": "person:Mibsam",
+  "primary_id": "person:Mibsam",
+  "alternate_sources": {
+    "aquifer": [
+      "7103|Mibsam|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003677001001000"
+    ],
+    "tipnr": [
+      "Mibsam@Gen.25.13-1Ch"
+    ],
+    "vizbible": [
+      "recYfLSV4b1jyqTKY"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ishmael",
+  "siblings": [
+    "person:Nebaioth",
+    "person:Kedar",
+    "person:Adbeel",
+    "person:Mishma",
+    "person:Dumah",
+    "person:Massa",
+    "person:Hadad.4",
+    "person:Tema",
+    "person:Jetur",
+    "person:Naphish",
+    "person:Kedemah",
+    "person:Mahalath"
+  ],
+  "tribe": "group:Arabia",
+  "ubsdbh": [
+    "003677001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mibsam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mibsam",
+          "article": "person:Mibsam",
+          "description": "Mibsam, an Arab living during the time of the patriarchs, is the son of Ishmael and is first mentioned in Genesis 25:13."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִבְשָׂם"
+    ]
+  },
+  "key_references": [
+    "01025013",
+    "13001029"
+  ],
+  "references": [
+    "01025013",
+    "13001029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010250130122"
+      ],
+      [
+        "o130010290082"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "place:Holon",
+  "primary_id": "place:Holon",
+  "alternate_sources": {
+    "aquifer": [
+      "5880|Holon|TyndaleBibleDictionary"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/294751"
+    ],
+    "tipnr": [
+      "Holon@Jos.15.51-1Ch"
+    ],
+    "vizbible": [
+      "rec76ox1jwnhFHmzl"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Holon (of Judah)",
+      "alternate_labels": [
+        "Hilen",
+        "Hilez",
+        "Holon"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Holon.1",
+          "gloss": "Holon (of Judah)",
+          "description": "A Levitical town in the territory of Judah; assigned to the clan of Aaron."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.583333",
+      "lon": "34.95"
+    },
+    "recogito": {
+      "lat": "32.01034",
+      "lon": "34.77918"
+    },
+    "vizbible": {
+      "lat": "31.583333",
+      "lon": "34.95"
+    }
+  },
+  "key_references": [
+    "06021015",
+    "13006058",
+    "06015051"
+  ],
+  "references": [
+    "06015051",
+    "06021015",
+    "13006043"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150510022"
+      ],
+      [
+        "o060210150021"
+      ],
+      [
+        "o130060430021"
+      ]
+    ]
+  }
+}

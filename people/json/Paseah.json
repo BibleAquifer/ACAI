@@ -1,0 +1,57 @@
+{
+  "id": "person:Paseah",
+  "primary_id": "person:Paseah",
+  "alternate_sources": {
+    "aquifer": [
+      "7598|Paseah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005931001001000"
+    ],
+    "tipnr": [
+      "Paseah@1Ch.4.12"
+    ],
+    "vizbible": [
+      "recU9PCLJljcqpZFa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Eshton",
+  "siblings": [
+    "person:Beth-rapha",
+    "person:Tehinnah"
+  ],
+  "tribe": "group:Judah",
+  "ubsdbh": [
+    "005931001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Paseah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Paseah",
+          "article": "person:Paseah",
+          "description": "Paseah, mentioned in 1 Chronicles 4:12, was a man of the tribe of Judah during the time of the divided kingdom and the son of Eshton."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13004012"
+  ],
+  "references": [
+    "13004012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130040120071"
+      ]
+    ]
+  }
+}

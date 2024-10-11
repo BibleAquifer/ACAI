@@ -1,0 +1,39 @@
+{
+  "id": "flora:Chickpea",
+  "primary_id": "flora:Chickpea",
+  "alternate_sources": {
+    "ubsflora": [
+      "flora:3.3.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Chickpea",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Chickpea",
+          "article": "flora:Chickpea",
+          "description": "A small, round legume that grows on a bushy plant and is used in cooking."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "23030024"
+  ],
+  "references": [
+    "23030024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230300240061"
+      ]
+    ]
+  }
+}

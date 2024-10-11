@@ -1,0 +1,57 @@
+{
+  "id": "group:Ard",
+  "primary_id": "group:Ard",
+  "alternate_sources": {
+    "ubsdbh": [
+      "000658001001000"
+    ],
+    "tipnr": [
+      "Ard@Num.26.40"
+    ],
+    "vizbible": [
+      "recmlWUWDW2zhOG09"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Ard.2",
+  "ubsdbh": [
+    "000658001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ardites",
+      "alternate_labels": [
+        "Ard"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ardites",
+          "article": "group:Ard",
+          "description": "People descended from Ard, son of Benjamin, son of Jacob."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַרְדִּי"
+    ]
+  },
+  "key_references": [
+    "04026040"
+  ],
+  "references": [
+    "04026040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260400072"
+      ]
+    ]
+  }
+}

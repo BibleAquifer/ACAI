@@ -1,0 +1,56 @@
+{
+  "id": "realia:Parchment",
+  "primary_id": "realia:Parchment",
+  "alternate_sources": {
+    "aquifer": [
+      "7582|Parchment|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "6.59"
+    ],
+    "ubsrealia": [
+      "realia:1.7.8"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdgnt": [
+    "6.59"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Parchment",
+      "alternate_labels": [
+        "Books Made of Parchment"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Parchment",
+          "article": "realia:Parchment",
+          "description": "A sheet of specially treated animal skin used for writing with pen and ink."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μεμβράνα"
+    ]
+  },
+  "key_references": [
+    "55004013"
+  ],
+  "references": [
+    "55004013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n55004013016"
+      ]
+    ]
+  }
+}

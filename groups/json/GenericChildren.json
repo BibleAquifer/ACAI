@@ -1,0 +1,76 @@
+{
+  "id": "group:GenericChildren",
+  "primary_id": "group:GenericChildren",
+  "type": "group",
+  "group_type": "other",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Children",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Children",
+          "description": "A group of children participating in a passage."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "25002011",
+    "25002012",
+    "40021015",
+    "40021015"
+  ],
+  "references": [
+    "25002011",
+    "25002012",
+    "40021015",
+    "40021015"
+  ],
+  "subject_referents": {
+    "wlc": [
+      [
+        "o250020110141",
+        "o250020110152"
+      ],
+      [
+        "o250020120021"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40021015014"
+      ],
+      [
+        "n40021015021"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Hypothetical",
+        "words": [
+          "o250020120031",
+          "o250020120041",
+          "o250020120051",
+          "o250020120052"
+        ]
+      }
+    ],
+    "SBLGNT": [
+      {
+        "delivery": "praising",
+        "quote_type": "Quotation",
+        "words": [
+          "n40021015022",
+          "n40021015023",
+          "n40021015024",
+          "n40021015025"
+        ]
+      }
+    ]
+  }
+}

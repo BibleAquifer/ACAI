@@ -1,0 +1,64 @@
+{
+  "id": "person:Mattatha",
+  "primary_id": "person:Mattatha",
+  "alternate_sources": {
+    "aquifer": [
+      "6982|Mattatha|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.257"
+    ],
+    "tipnr": [
+      "Mattatha@Luk.3.31"
+    ],
+    "vizbible": [
+      "rectcHsB9mjcqILqc"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Nathan",
+  "offspring": [
+    "person:Menna"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.257"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mattatha",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mattatha",
+          "article": "person:Mattatha",
+          "description": "Son of Nathan and the father of Menna in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ματταθά"
+    ]
+  },
+  "key_references": [
+    "42003031"
+  ],
+  "references": [
+    "42003031"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003031006"
+      ]
+    ]
+  }
+}

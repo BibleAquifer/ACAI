@@ -1,0 +1,59 @@
+{
+  "id": "person:Zohar",
+  "primary_id": "person:Zohar",
+  "alternate_sources": {
+    "aquifer": [
+      "9254|Zohar|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006178001001000"
+    ],
+    "tipnr": [
+      "Zohar@Gen.23.8-"
+    ],
+    "vizbible": [
+      "recbTT2FXmIFIAmgo"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Ephron.2"
+  ],
+  "ubsdbh": [
+    "006178001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zohar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zohar",
+          "article": "person:Zohar",
+          "description": "Zohar was a man living during the time of the patriarchs, father of Ephron, mentioned in Genesis 23:8."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01023008",
+    "01025009"
+  ],
+  "references": [
+    "01023008",
+    "01025009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010230080171"
+      ],
+      [
+        "o010250090131"
+      ]
+    ]
+  }
+}

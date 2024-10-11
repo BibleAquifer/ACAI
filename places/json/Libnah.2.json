@@ -1,0 +1,138 @@
+{
+  "id": "place:Libnah.2",
+  "primary_id": "place:Libnah.2",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003513001002000"
+    ],
+    "tipnr": [
+      "Libnah@Jos.10.29-Jer"
+    ],
+    "vizbible": [
+      "rec5g1fzEKYzCO1Re"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "003513001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Libnah (of Judah)",
+      "alternate_labels": [
+        "Libnah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Libnah.1",
+          "gloss": "Libnah (of Judah)",
+          "description": "A Levitical town in the foothills of the territory of Judah; assigned to the clan of Aaron."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfJudah"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.56485056116292",
+      "lon": "34.8467256730566"
+    },
+    "vizbible": {
+      "lat": "31.56485056116292",
+      "lon": "34.8467256730566"
+    }
+  },
+  "key_references": [
+    "06010029",
+    "12019008"
+  ],
+  "references": [
+    "06010029",
+    "06010031",
+    "06010032",
+    "06010039",
+    "06012015",
+    "06015042",
+    "06021013",
+    "12008022",
+    "12019008",
+    "12023031",
+    "12024018",
+    "13006042",
+    "14021010",
+    "23037008",
+    "24052001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060100290071"
+      ],
+      [
+        "o060100290101"
+      ],
+      [
+        "o060100310062"
+      ],
+      [
+        "o060100320212"
+      ],
+      [
+        "o060100390282"
+      ],
+      [
+        "o060120150021"
+      ],
+      [
+        "o060150420011"
+      ],
+      [
+        "o060210130141"
+      ],
+      [
+        "o120080220111"
+      ],
+      [
+        "o120190080101"
+      ],
+      [
+        "o120230310162"
+      ],
+      [
+        "o120240180182"
+      ],
+      [
+        "o130060420101"
+      ],
+      [
+        "o140210100111"
+      ],
+      [
+        "o230370080101"
+      ],
+      [
+        "o240520010182"
+      ]
+    ]
+  }
+}

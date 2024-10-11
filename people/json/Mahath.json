@@ -1,0 +1,68 @@
+{
+  "id": "person:Mahath",
+  "primary_id": "person:Ahimoth",
+  "alternate_sources": {
+    "aquifer": [
+      "6871|Mahath|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003915001001000"
+    ],
+    "tipnr": [
+      "Mahath|Ahimoth@1Ch.6.25-"
+    ],
+    "vizbible": [
+      "recEFhkRtAeZ6EvCV"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Amasai",
+  "offspring": [
+    "person:Elkanah.4"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "003915001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mahath (Ahimoth)",
+      "alternate_labels": [
+        "Ahimoth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ahimoth",
+          "article": "person:Mahath",
+          "description": "A Levite also known as Ahimoth, son of Amasai and ancestor of Heman, first mentioned in 1 Chronicles 6:25."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ahimoth"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַחַת",
+      "מַ֫חַת"
+    ]
+  },
+  "key_references": [
+    "13006020"
+  ],
+  "references": [
+    "13006020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060200071"
+      ]
+    ]
+  }
+}

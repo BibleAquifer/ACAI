@@ -1,0 +1,55 @@
+{
+  "id": "fauna:Baboon",
+  "primary_id": "fauna:Baboon",
+  "alternate_sources": {
+    "ubsdbh": [
+      "006417001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.3.1"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "006417001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baboon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Baboon",
+          "article": "fauna:Baboon",
+          "description": "A large primate with a long tail and dog-like face, that lives mostly on the ground and eats plants and small animals."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קֹוף"
+    ]
+  },
+  "key_references": [
+    "11010022",
+    "14009021"
+  ],
+  "references": [
+    "11010022",
+    "14009021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110100220192"
+      ],
+      [
+        "o140090210192"
+      ]
+    ]
+  }
+}

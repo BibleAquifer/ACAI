@@ -1,0 +1,72 @@
+{
+  "id": "group:Tishbite",
+  "primary_id": "group:Tishbite",
+  "alternate_sources": {
+    "ubsdbh": [
+      "007956001001000"
+    ],
+    "tipnr": [
+      "Tishbite@1Ki.17.1"
+    ],
+    "vizbible": [
+      "recLMzdtXiHskli2K"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Tishbe",
+  "ubsdbh": [
+    "007956001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tishbites",
+      "alternate_labels": [
+        "Tishbe"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tishbites",
+          "article": "group:Tishbite",
+          "description": "People who live in Tishbe, the most notable of whom was Elijah the prophet."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "11017001"
+  ],
+  "references": [
+    "11017001",
+    "11021017",
+    "11021028",
+    "12001003",
+    "12001008",
+    "12009036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110170010032"
+      ],
+      [
+        "o110210170062"
+      ],
+      [
+        "o110210280062"
+      ],
+      [
+        "o120010030062"
+      ],
+      [
+        "o120010080122"
+      ],
+      [
+        "o120090360132"
+      ]
+    ]
+  }
+}

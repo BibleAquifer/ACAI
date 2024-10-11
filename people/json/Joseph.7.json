@@ -1,0 +1,65 @@
+{
+  "id": "person:Joseph.7",
+  "primary_id": "person:Joseph.7",
+  "alternate_sources": {
+    "aquifer": [
+      "6449|Joseph|TyndaleBibleDictionary",
+      "132234|Joseph|BiblicaStudyNotesKeyTerms"
+    ],
+    "ubsdgnt": [
+      "93.202h"
+    ],
+    "tipnr": [
+      "Joseph@Luk.3.24"
+    ],
+    "vizbible": [
+      "recFtmuJvooDZ8tuS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Mattathias",
+  "offspring": [
+    "person:Jannai"
+  ],
+  "roles": [
+    "Relative of Jesus"
+  ],
+  "tribe": "group:Judah",
+  "ubsdgnt": [
+    "93.202h"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joseph (Son of Matthatias)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joseph (Son of Matthatias)",
+          "article": "person:Joseph.7",
+          "description": "Son of Matthatias and the father of Jannai in Jesus's family tree according to Luke's gospel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἰωσήφ"
+    ]
+  },
+  "key_references": [
+    "42003024"
+  ],
+  "references": [
+    "42003024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003024010"
+      ]
+    ]
+  }
+}

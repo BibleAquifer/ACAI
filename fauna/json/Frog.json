@@ -1,0 +1,152 @@
+{
+  "id": "fauna:Frog",
+  "primary_id": "fauna:Frog",
+  "alternate_sources": {
+    "aquifer": [
+      "5311|Frog|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "4.55"
+    ],
+    "ubsdbh": [
+      "006306001001000"
+    ],
+    "ubsfauna": [
+      "fauna:5.2"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Fish, Frogs and Mollusks",
+  "ubsdgnt": [
+    "4.55"
+  ],
+  "ubsdbh": [
+    "006306001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Frog",
+      "alternate_labels": [
+        "(Plague Of) Frogs",
+        "Frogs"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Frog",
+          "article": "fauna:Frog",
+          "description": "A frog is a small, tailless animal that jumps with its long back legs and starts life as a tadpole."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צְפַרְדֵּעַ"
+    ],
+    "el": [
+      "βάτραχος"
+    ]
+  },
+  "key_references": [
+    "02007027",
+    "19078045",
+    "66016013"
+  ],
+  "references": [
+    "02007027",
+    "02007028",
+    "02007029",
+    "02008001",
+    "02008002",
+    "02008003",
+    "02008004",
+    "02008005",
+    "02008007",
+    "02008008",
+    "02008009",
+    "19078045",
+    "19105030",
+    "41016018",
+    "66016013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020070270112"
+      ],
+      [
+        "o020070280031"
+      ],
+      [
+        "o020070290062"
+      ],
+      [
+        "o020080010202"
+      ],
+      [
+        "o020080020092"
+      ],
+      [
+        "o020080030072"
+      ],
+      [
+        "o020080040102"
+      ],
+      [
+        "o020080050122"
+      ],
+      [
+        "o020080070022"
+      ],
+      [
+        "o020080080122"
+      ],
+      [
+        "o020080090062"
+      ],
+      [
+        "o191050300031"
+      ],
+      [
+        "o190780450052"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n66016013024"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020080100022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020070280042"
+      ],
+      [
+        "o020070280052"
+      ],
+      [
+        "o020080020102"
+      ],
+      [
+        "o020080050171"
+      ],
+      [
+        "o020080070091"
+      ],
+      [
+        "o190780450062"
+      ]
+    ]
+  }
+}

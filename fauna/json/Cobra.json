@@ -1,0 +1,145 @@
+{
+  "id": "fauna:Cobra",
+  "primary_id": "fauna:Cobra",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "4.53"
+    ],
+    "ubsdbh": [
+      "006084001001000"
+    ],
+    "ubsfauna": [
+      "fauna:4.4"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Snakes and Lizards",
+  "ubsdgnt": [
+    "4.53"
+  ],
+  "ubsdbh": [
+    "006084001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cobra",
+      "alternate_labels": [
+        "Asp",
+        "Viper"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cobra",
+          "article": "fauna:Cobra",
+          "description": "A very poisonous snake with a hooded neck."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "fauna:Snake",
+    "fauna:Viper"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "פֶּתֶן"
+    ],
+    "el": [
+      "ἀσπίς",
+      "ἔχιδνα"
+    ]
+  },
+  "key_references": [
+    "23011008",
+    "24008017",
+    "45003013"
+  ],
+  "references": [
+    "05032033",
+    "18020014",
+    "18020016",
+    "19058005",
+    "19091013",
+    "20023032",
+    "23011008",
+    "23014029",
+    "23059005",
+    "24008017",
+    "40012034",
+    "44028003",
+    "45003013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050320330051"
+      ],
+      [
+        "o180200140051"
+      ],
+      [
+        "o180200160021"
+      ],
+      [
+        "o190580050071"
+      ],
+      [
+        "o190910130032"
+      ],
+      [
+        "o230110080051"
+      ],
+      [
+        "o200230320043"
+      ],
+      [
+        "o230110080081"
+      ],
+      [
+        "o230140290131"
+      ],
+      [
+        "o230590050021"
+      ],
+      [
+        "o240080170061"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n45003013011"
+      ],
+      [
+        "n40012034002"
+      ],
+      [
+        "n44028003013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230140290143"
+      ],
+      [
+        "o240080170092"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o190580060031"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44028003017"
+      ]
+    ]
+  }
+}

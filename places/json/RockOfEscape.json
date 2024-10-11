@@ -1,0 +1,70 @@
+{
+  "id": "place:RockOfEscape",
+  "primary_id": "place:RockOfEscape",
+  "alternate_sources": {
+    "aquifer": [
+      "8213|Sela-Hammahlekoth|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005096001001000",
+      "005095001001000"
+    ],
+    "tipnr": [
+      "Rock_of_Escape@1Sa.23.28"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005096001001000",
+    "005095001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sela-hammahlekoth",
+      "alternate_labels": [
+        "Rock of Division",
+        "Rock of Separation",
+        "Rock of Escape"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:RockOfEscape",
+          "gloss": "Sela-hammahlekoth",
+          "description": "A location where David hid in the wilderness of Maon when fleeing from Saul."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:WildernessOfMaon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "natural area"
+    ],
+    "acai": [
+      "natural area"
+    ]
+  },
+  "key_references": [
+    "09023028"
+  ],
+  "references": [
+    "09023028"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090230280141",
+        "o090230280151"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "person:Anna",
+  "primary_id": "person:Anna",
+  "alternate_sources": {
+    "aquifer": [
+      "3619|Anna|TyndaleBibleDictionary"
+    ],
+    "ubsdgnt": [
+      "93.27"
+    ],
+    "tipnr": [
+      "Anna@Luk.2.36"
+    ],
+    "vizbible": [
+      "reciwJ7sHAwaFIhE3"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Phanuel",
+  "roles": [
+    "Prophet"
+  ],
+  "ubsdgnt": [
+    "93.27"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anna",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Anna",
+          "article": "person:Anna",
+          "description": "Daughter of Phanuel, of the tribe of Asher, who was a prophetess."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ἅννα"
+    ]
+  },
+  "key_references": [
+    "42002036"
+  ],
+  "references": [
+    "42002036"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42002036003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42002036010"
+      ],
+      [
+        "n42002036023"
+      ],
+      [
+        "n42002037002"
+      ],
+      [
+        "n42002037008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42002036011"
+      ],
+      [
+        "n42002036015"
+      ],
+      [
+        "n42002037016"
+      ],
+      [
+        "n42002038005",
+        "n42002038006"
+      ],
+      [
+        "n42002038010"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "realia:Cup",
+  "primary_id": "realia:Cup",
+  "alternate_sources": {
+    "aquifer": [
+      "4712|Cup|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "005142001001000"
+    ],
+    "ubsrealia": [
+      "realia:5.20.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "005142001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cup",
+      "alternate_labels": [
+        "Bowl"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Cup",
+          "article": "realia:Cup",
+          "description": "A container used for drinking liquids; the size can vary."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סֵפֶל"
+    ]
+  },
+  "key_references": [
+    "40026027",
+    "46011025",
+    "66017004"
+  ],
+  "references": [
+    "07005025",
+    "07006038"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070050250052"
+      ],
+      [
+        "o070060380132"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "place:Neah",
+  "primary_id": "place:Neah",
+  "alternate_sources": {
+    "aquifer": [
+      "7321|Neah|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ab571de"
+    ],
+    "tipnr": [
+      "Neiel|Neah@Jos.19.13-",
+      "Neah@Jos.19.13-"
+    ],
+    "vizbible": [
+      "rec2FVo1ApaaObSl8"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6987988"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Neah",
+      "alternate_labels": [
+        "Neiel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Neah",
+          "gloss": "Neah",
+          "description": "A town in the territory of Zebulun."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Neiel"
+  ],
+  "tribal_area": "group:Zebulun",
+  "subregion_of": [
+    "place:TerritoryOfZebulun"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "valley"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.894254",
+      "lon": "35.221877"
+    },
+    "vizbible": {
+      "lat": "32.894254",
+      "lon": "35.221877"
+    }
+  },
+  "key_references": [
+    "06019013",
+    "06019014"
+  ],
+  "references": [
+    "06019013",
+    "06019014",
+    "06019027"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060190130122"
+      ],
+      [
+        "o060190270142"
+      ]
+    ]
+  }
+}

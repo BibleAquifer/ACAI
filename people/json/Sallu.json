@@ -1,0 +1,57 @@
+{
+  "id": "person:Sallu",
+  "primary_id": "person:Sallu",
+  "alternate_sources": {
+    "aquifer": [
+      "8107|Sallu|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Sallu@Neh.12.7-",
+      "Sallai|Sallu@Neh.12.7-"
+    ],
+    "vizbible": [
+      "recPSHmb6VI9sCBLr"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sallu",
+      "alternate_labels": [
+        "Sallai"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Sallu",
+          "article": "person:Sallu",
+          "description": "Sallu, also called Sallai, was a man living during the exile and return, mentioned in Nehemiah 12:7 and Nehemiah 12:20."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Sallai.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16012007",
+    "16012020"
+  ],
+  "references": [
+    "16012007",
+    "16012020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160120070011"
+      ],
+      [
+        "o160120200012"
+      ]
+    ]
+  }
+}

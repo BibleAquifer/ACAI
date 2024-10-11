@@ -1,0 +1,70 @@
+{
+  "id": "person:Josheb-basshebet",
+  "primary_id": "person:Jashobeam",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003137001001000",
+      "003137001001000 003137001001000"
+    ],
+    "tipnr": [
+      "Josheb-basshebet|Jashobeam@2Sa.23.8-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Zabdiel",
+  "ubsdbh": [
+    "003137001001000",
+    "003137001001000 003137001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Josheb-basshebet (Jashobeam)",
+      "alternate_labels": [
+        "that sat in the seat",
+        "Josheb-basshebeth",
+        "Jashobeam"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jashobeam",
+          "article": "person:Josheb-basshebet",
+          "description": "A warrior in the time of King David, also known as Jashobeam, son of Zabdiel, mentioned in 2 Samuel 23:8."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Jashobeam"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹשֵׁב בַּשֶּׁבֶת",
+      "יֹשֵׁב בַּשֶּׁ֫בֶת"
+    ]
+  },
+  "key_references": [
+    "10023008"
+  ],
+  "references": [
+    "10023008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230080061",
+        "o100230080071"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o100230080111"
+      ]
+    ]
+  }
+}

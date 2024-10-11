@@ -1,0 +1,89 @@
+{
+  "id": "person:Centurion.3",
+  "primary_id": "person:Centurion.3",
+  "type": "person",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Centurion at Crucifixion",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Centurion at Crucifixion",
+          "description": "A centurion who witnessed the crucifixion of Jesus Christ."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "41015039"
+  ],
+  "references": [
+    "41015039"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41015039004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40027054003",
+        "n40027054008"
+      ],
+      [
+        "n40027054019"
+      ],
+      [
+        "n42023047004"
+      ],
+      [
+        "n42023047010"
+      ]
+    ]
+  },
+  "speeches": {
+    "SBLGNT": [
+      {
+        "delivery": "amazed",
+        "quote_type": "Dialogue",
+        "words": [
+          "n40027054020",
+          "n40027054021",
+          "n40027054022",
+          "n40027054023",
+          "n40027054024"
+        ]
+      },
+      {
+        "delivery": "amazed",
+        "quote_type": "Dialogue",
+        "words": [
+          "n41015039014",
+          "n41015039015",
+          "n41015039016",
+          "n41015039017",
+          "n41015039018",
+          "n41015039019",
+          "n41015039020"
+        ]
+      },
+      {
+        "delivery": "amazed",
+        "quote_type": "Dialogue",
+        "words": [
+          "n42023047011",
+          "n42023047012",
+          "n42023047013",
+          "n42023047014",
+          "n42023047015",
+          "n42023047016"
+        ]
+      }
+    ]
+  }
+}

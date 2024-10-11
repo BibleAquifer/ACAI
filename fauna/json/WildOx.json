@@ -1,0 +1,134 @@
+{
+  "id": "fauna:WildOx",
+  "primary_id": "fauna:WildOx",
+  "alternate_sources": {
+    "aquifer": [
+      "9065|Wild Ox|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006645001001000"
+    ],
+    "ubsfauna": [
+      "fauna:2.34"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "ubsdbh": [
+    "006645001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wild Ox",
+      "alternate_labels": [
+        "Buffalo",
+        "Rhinoceros",
+        "Bison",
+        "Gaur"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Wild Ox",
+          "article": "fauna:WildOx",
+          "description": "A large, powerful animal with horns, symbolized in the Bible as strength and wildness."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "fauna:Bull"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "רְאֵם"
+    ]
+  },
+  "key_references": [
+    "04023022",
+    "05033017",
+    "23034007"
+  ],
+  "references": [
+    "04023022",
+    "04024008",
+    "05033017",
+    "18039009",
+    "18039010",
+    "19022022",
+    "19029006",
+    "19092011",
+    "23034007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040230220051"
+      ],
+      [
+        "o040240080051"
+      ],
+      [
+        "o050330170061"
+      ],
+      [
+        "o180390090021"
+      ],
+      [
+        "o180390100021"
+      ],
+      [
+        "o190220220051"
+      ],
+      [
+        "o190290060081"
+      ],
+      [
+        "o190920110022"
+      ],
+      [
+        "o230340070021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o180390100042"
+      ],
+      [
+        "o180390110022"
+      ],
+      [
+        "o180390110052"
+      ],
+      [
+        "o180390110072"
+      ],
+      [
+        "o180390120022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o180390090031"
+      ],
+      [
+        "o180390090051"
+      ],
+      [
+        "o180390100061"
+      ],
+      [
+        "o180390120051"
+      ],
+      [
+        "o180390120081"
+      ]
+    ]
+  }
+}

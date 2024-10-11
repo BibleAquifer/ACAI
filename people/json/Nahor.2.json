@@ -1,0 +1,137 @@
+{
+  "id": "person:Nahor.2",
+  "primary_id": "person:Nahor.2",
+  "alternate_sources": {
+    "aquifer": [
+      "7290|Nahor (Person)|TyndaleBibleDictionary",
+      "26898|Nahor|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "004723001002000"
+    ],
+    "tipnr": [
+      "Nahor@Gen.11.26-"
+    ],
+    "vizbible": [
+      "reco9eltuMG5wxarS"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Terah",
+  "partners": [
+    "person:Milcah",
+    "person:Reumah"
+  ],
+  "offspring": [
+    "person:Uz.2",
+    "person:Buz",
+    "person:Kemuel",
+    "person:Chesed",
+    "person:Hazo",
+    "person:Pildash",
+    "person:Jidlaph",
+    "person:Bethuel",
+    "person:Tebah",
+    "person:Gaham",
+    "person:Tahash",
+    "person:Maacah"
+  ],
+  "siblings": [
+    "person:Abraham",
+    "person:Haran",
+    "person:Sarah"
+  ],
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "related_places": {
+    "birth_place": [
+      "place:Ur"
+    ]
+  },
+  "ubsdbh": [
+    "004723001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Nahor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Nahor",
+          "article": "person:Nahor.2",
+          "description": "Brother of Abraham and son of Terah, and father of Bethuel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נָחֹור",
+      "נָחוֹר"
+    ]
+  },
+  "key_references": [
+    "01011026",
+    "01024010",
+    "01024024"
+  ],
+  "references": [
+    "01011026",
+    "01011027",
+    "01011029",
+    "01022020",
+    "01022023",
+    "01024010",
+    "01024015",
+    "01024024",
+    "01024047",
+    "01029005",
+    "01031053"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010110260091"
+      ],
+      [
+        "o010110270091"
+      ],
+      [
+        "o010110290032"
+      ],
+      [
+        "o010110290121"
+      ],
+      [
+        "o010220200142"
+      ],
+      [
+        "o010220230092"
+      ],
+      [
+        "o010240100191"
+      ],
+      [
+        "o010240150151"
+      ],
+      [
+        "o010240240102"
+      ],
+      [
+        "o010240470111"
+      ],
+      [
+        "o010290050071"
+      ],
+      [
+        "o010310530041"
+      ]
+    ]
+  }
+}

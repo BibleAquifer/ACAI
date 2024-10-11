@@ -1,0 +1,62 @@
+{
+  "id": "person:Uriel",
+  "primary_id": "person:Uriel",
+  "alternate_sources": {
+    "aquifer": [
+      "8975|Uriel|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Zephaniah|Uriel@1Ch.6.24-",
+      "Uriel@1Ch.6.24-"
+    ],
+    "vizbible": [
+      "recDo0kcnloXP3w6a"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Tahath",
+  "offspring": [
+    "person:Uzziah.2"
+  ],
+  "tribe": "group:Levi",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Uriel",
+      "alternate_labels": [
+        "Zephaniah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Uriel",
+          "article": "person:Uriel",
+          "description": "Uriel, also called Zephaniah, was a man from the tribe of Levi living during the time of the divided kingdom, first mentioned in 1 Chronicles 6:24."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zephaniah"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13006009",
+    "13006021"
+  ],
+  "references": [
+    "13006009",
+    "13006021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130060090031"
+      ],
+      [
+        "o130060210081"
+      ]
+    ]
+  }
+}

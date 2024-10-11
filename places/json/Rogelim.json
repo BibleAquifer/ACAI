@@ -1,0 +1,83 @@
+{
+  "id": "place:Rogelim",
+  "primary_id": "place:Rogelim",
+  "alternate_sources": {
+    "aquifer": [
+      "8057|Rogelim|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "006688001001000"
+    ],
+    "tipnr": [
+      "Rogelim@2Sa.17.27-"
+    ],
+    "vizbible": [
+      "rec0Q2LXE0NTbQoVG"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "006688001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rogelim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Rogelim",
+          "gloss": "Rogelim",
+          "description": "A village in Gilead."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Gilead"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "32.214708",
+      "lon": "35.632914"
+    },
+    "vizbible": {
+      "lat": "32.214708",
+      "lon": "35.632914"
+    }
+  },
+  "key_references": [
+    "10017027",
+    "10019032"
+  ],
+  "references": [
+    "10017027",
+    "10019032"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100170270182"
+      ],
+      [
+        "o100190320042"
+      ]
+    ]
+  }
+}

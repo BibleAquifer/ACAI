@@ -1,0 +1,77 @@
+{
+  "id": "person:Elzabad",
+  "primary_id": "person:Elzabad",
+  "alternate_sources": {
+    "aquifer": [
+      "5062|Elzabad|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000406001001000"
+    ],
+    "tipnr": [
+      "Elzabad@1Ch.12.12"
+    ],
+    "vizbible": [
+      "rec16qntDPwqKs2mW"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "000406001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Elzabad",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Elzabad",
+          "article": "person:Elzabad",
+          "description": "Elzabad was a warrior from the tribe of Gad living during the time of the divided kingdom, mentioned in 1 Chronicles 12:12."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶלְזָבָד"
+    ]
+  },
+  "key_references": [
+    "13012013"
+  ],
+  "references": [
+    "13012013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130120130031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o130120150011"
+      ],
+      [
+        "o130120160011",
+        "o130120160021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o130120160041"
+      ],
+      [
+        "o130120160152"
+      ]
+    ]
+  }
+}

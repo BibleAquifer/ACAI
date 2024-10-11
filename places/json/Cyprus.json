@@ -1,0 +1,187 @@
+{
+  "id": "place:Cyprus",
+  "primary_id": "place:Cyprus",
+  "alternate_sources": {
+    "aquifer": [
+      "4727|Cyprus|TyndaleBibleDictionary",
+      "26495|Cyprus|UWTranslationWords",
+      "132058|Cyprus|BiblicaStudyNotesKeyTerms"
+    ],
+    "obi": [
+      "a2e7601"
+    ],
+    "pleiades": [
+      "https://pleiades.stoa.org/places/707498",
+      "http://pleiades.stoa.org/places/707498"
+    ],
+    "tipnr": [
+      "Kittim|Cyprus@Num.24.24-Act",
+      "Cyprus@Num.24.24-Act",
+      "Elishah|Cyprus@Num.24.24-Act"
+    ],
+    "vizbible": [
+      "receEjvf5hXhkgVuZ"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q229"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cyprus",
+      "alternate_labels": [
+        "Elishah",
+        "Chittim",
+        "Kittim",
+        "western coastlands",
+        "Cypriot",
+        "Cyprian"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Cyprus",
+          "gloss": "Cyprus",
+          "description": "An island off the south coast of Asia Minor; Paul and Barnabas ministered here during Paul's first missionary journey (Acts 13:4–12)."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Kittim",
+    "place:Elishah",
+    "group:Cyprus"
+  ],
+  "tribal_area": "group:Cyprus",
+  "nearby_places": [
+    "place:AsiaMinor",
+    "place:GreatSea",
+    "place:Syria"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "island"
+    ],
+    "vizbible": [
+      "Island"
+    ],
+    "acai": [
+      "island"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "35.018306",
+      "lon": "33.207693"
+    },
+    "recogito": {
+      "lat": "35.040883529816504",
+      "lon": "33.27533716"
+    },
+    "vizbible": {
+      "lat": "35.040883529816504",
+      "lon": "33.27533716"
+    }
+  },
+  "key_references": [
+    "44011019",
+    "26027006"
+  ],
+  "references": [
+    "04024024",
+    "23023001",
+    "23023012",
+    "24002010",
+    "26027006",
+    "26027007",
+    "27011030",
+    "44004036",
+    "44011019",
+    "44011020",
+    "44013004",
+    "44015039",
+    "44021003",
+    "44021016",
+    "44027004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040240240031"
+      ],
+      [
+        "o230230010111"
+      ],
+      [
+        "o230230120111"
+      ],
+      [
+        "o240020100041"
+      ],
+      [
+        "o260270060121"
+      ],
+      [
+        "o260270070121"
+      ],
+      [
+        "o270110300041"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44004036015"
+      ],
+      [
+        "n44011019016"
+      ],
+      [
+        "n44011020007"
+      ],
+      [
+        "n44013004016"
+      ],
+      [
+        "n44015039017"
+      ],
+      [
+        "n44021003004"
+      ],
+      [
+        "n44021016016"
+      ],
+      [
+        "n44027004005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o040240240091"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n44021003007"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040240240042"
+      ],
+      [
+        "o040240240062"
+      ]
+    ]
+  }
+}

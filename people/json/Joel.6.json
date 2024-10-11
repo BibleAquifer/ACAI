@@ -1,0 +1,65 @@
+{
+  "id": "person:Joel.6",
+  "primary_id": "person:Joel.6",
+  "alternate_sources": {
+    "aquifer": [
+      "6401|Joel (Person)|TyndaleBibleDictionary",
+      "26767|Joel|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "002847001006000"
+    ],
+    "tipnr": [
+      "Joel@1Ch.7.3"
+    ],
+    "vizbible": [
+      "recCAp2scUkcGqhxD"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Izrahiah",
+  "siblings": [
+    "person:Michael.5",
+    "person:Obadiah.3",
+    "person:Isshiah"
+  ],
+  "tribe": "group:Issachar",
+  "ubsdbh": [
+    "002847001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Joel (1 Chronicles 7:3)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Joel (1 Chronicles 7:3)",
+          "article": "person:Joel.6",
+          "description": "A man from the tribe of Issachar living during the time of the divided kingdom, son of Izrahiah and brother of Michael, Obadiah, and Isshiah, mentioned in 1 Chronicles 7:3."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יֹואֵל",
+      "יוֹאֵל"
+    ]
+  },
+  "key_references": [
+    "13007003"
+  ],
+  "references": [
+    "13007003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070030082"
+      ]
+    ]
+  }
+}

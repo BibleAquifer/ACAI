@@ -1,0 +1,53 @@
+{
+  "id": "person:Samgar",
+  "primary_id": "person:Samgar",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005103001001000"
+    ],
+    "tipnr": [
+      "Samgar@Jer.39.3"
+    ],
+    "vizbible": [
+      "rec8qUNcIFS0nFz0w"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "ubsdbh": [
+    "005103001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Samgar",
+      "alternate_labels": [
+        "Samgar, Nebu-sar-sekim",
+        "Samgar-nebo"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Samgar",
+          "article": "person:Samgar",
+          "description": "Samgar, also known as Samgar-nebo or Nebu-sar-sekim, was a man living at the time of the divided kingdom, mentioned only in Jeremiah 39:3."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "24039003"
+  ],
+  "references": [
+    "24039003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240390030121",
+        "o240390030131"
+      ]
+    ]
+  }
+}

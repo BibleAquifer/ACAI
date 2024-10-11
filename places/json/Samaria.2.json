@@ -1,0 +1,51 @@
+{
+  "id": "place:Samaria.2",
+  "primary_id": "place:Samaria.2",
+  "alternate_sources": {
+    "aquifer": [
+      "8120|Samaria|TyndaleBibleDictionary",
+      "27050|Samaria|UWTranslationWords",
+      "132435|Samaria|BiblicaStudyNotesKeyTerms"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Samaria.2",
+          "gloss": "Samaria",
+          "description": "A region in the central part of Palestine, between Galilee and the Dead Sea, named after its capital city; "
+        }
+      ],
+      "preferred_label": "Samaria"
+    }
+  },
+  "associated_places": [
+    "place:Samaria"
+  ],
+  "nearby_places": [
+    "place:Galilee",
+    "place:Judea"
+  ],
+  "subregion_of": [
+    "place:Israel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "region"
+    ]
+  },
+  "key_references": [
+    "12017024",
+    "42017011",
+    "43004004"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "place:Lutetia",
+  "primary_id": "place:Lutetia",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lutetia",
+          "gloss": "Lutetia",
+          "description": "A Roman city in northern France; modern-day Paris. Beginning in the third century AD, it was a center of early Christianity."
+        }
+      ],
+      "preferred_label": "Lutetia",
+      "alternate_labels": [
+        "Lutetia Parisiorum",
+        "Lutecia",
+        "Paris"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "48.85441",
+      "lon": "2.34617"
+    }
+  }
+}

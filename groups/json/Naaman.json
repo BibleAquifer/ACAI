@@ -1,0 +1,86 @@
+{
+  "id": "group:Naaman",
+  "primary_id": "group:Naaman",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004842001001000"
+    ],
+    "tipnr": [
+      "Naaman@Num.26.40-1Ch"
+    ],
+    "vizbible": [
+      "receuA85IaraTtp41"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Naaman.2",
+  "ubsdbh": [
+    "004842001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Naamites",
+      "alternate_labels": [
+        "Naaman"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Naamites",
+          "article": "group:Naaman",
+          "description": "People descended from Naaman (Numbers 26:40)"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נַעֲמִי"
+    ]
+  },
+  "key_references": [
+    "04026040"
+  ],
+  "references": [
+    "04026040"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260400102"
+      ]
+    ]
+  },
+  "speeches": {
+    "wlc": [
+      {
+        "quote_type": "Normal",
+        "words": [
+          "o120050130061",
+          "o120050130071",
+          "o120050130081",
+          "o120050130091",
+          "o120050130092",
+          "o120050130101",
+          "o120050130111",
+          "o120050130112",
+          "o120050130121",
+          "o120050130122",
+          "o120050130131",
+          "o120050130141",
+          "o120050130142",
+          "o120050130151",
+          "o120050130161",
+          "o120050130171",
+          "o120050130172",
+          "o120050130181",
+          "o120050130191",
+          "o120050130192"
+        ]
+      }
+    ]
+  }
+}

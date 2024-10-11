@@ -1,0 +1,93 @@
+{
+  "id": "realia:Fork",
+  "primary_id": "realia:Fork",
+  "alternate_sources": {
+    "ubsdbh": [
+      "003840001001000"
+    ],
+    "ubsrealia": [
+      "realia:4.4.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "003840001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fork",
+      "alternate_labels": [
+        "Meat Fork"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Fork",
+          "article": "realia:Fork",
+          "description": "A three-pronged metal tool, likely used for handling meat."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַזְלֵג"
+    ]
+  },
+  "key_references": [
+    "02027003",
+    "04004014",
+    "09002013"
+  ],
+  "references": [
+    "02027003",
+    "02038003",
+    "04004014",
+    "09002013",
+    "09002014",
+    "13028017",
+    "14004016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020270030062",
+        "o020270030063"
+      ],
+      [
+        "o020380030132"
+      ],
+      [
+        "o040040140132"
+      ],
+      [
+        "o090020130143"
+      ],
+      [
+        "o090020140122"
+      ],
+      [
+        "o130280170013"
+      ],
+      [
+        "o140040160062"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140040160092"
+      ],
+      [
+        "o140040170032"
+      ],
+      [
+        "o140040180052"
+      ]
+    ]
+  }
+}

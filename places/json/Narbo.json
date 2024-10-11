@@ -1,0 +1,39 @@
+{
+  "id": "place:Narbo",
+  "primary_id": "place:Narbo",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Narbo",
+          "gloss": "Narbo",
+          "description": "A Roman city in southern Gaul; modern-day Narbonne, France."
+        }
+      ],
+      "preferred_label": "Narbo",
+      "alternate_labels": [
+        "Colonia Narbo Martius",
+        "Narbonne"
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "city"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "43.18362",
+      "lon": "3.0042"
+    }
+  }
+}

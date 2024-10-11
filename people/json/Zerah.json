@@ -1,0 +1,74 @@
+{
+  "id": "person:Zerah",
+  "primary_id": "person:Zerah",
+  "alternate_sources": {
+    "aquifer": [
+      "9190|Zerah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002052002001000"
+    ],
+    "tipnr": [
+      "Zerah@Gen.36.13-1Ch"
+    ],
+    "vizbible": [
+      "recUOUgjss2Lc3e4W"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Reuel.3",
+  "siblings": [
+    "person:Nahath",
+    "person:Shammah.2",
+    "person:Mizzah"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "002052002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Zerah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zerah",
+          "article": "person:Zerah",
+          "description": "Zerah, mentioned in Genesis 36:13, was a man living at the time of the patriarchs, the son of Reuel and grandson of Esau, and brother of Nahath, Shammah, and Mizzah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "זֶרַח",
+      "זֶ֫רַח"
+    ]
+  },
+  "key_references": [
+    "01036013",
+    "01036017",
+    "13001037"
+  ],
+  "references": [
+    "01036013",
+    "01036017",
+    "13001037"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010360130052"
+      ],
+      [
+        "o010360170091"
+      ],
+      [
+        "o130010370041"
+      ]
+    ]
+  }
+}

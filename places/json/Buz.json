@@ -1,0 +1,90 @@
+{
+  "id": "place:Buz",
+  "primary_id": "place:Buz",
+  "alternate_sources": {
+    "aquifer": [
+      "4372|Buz (Place)|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000870002001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/783479"
+    ],
+    "tipnr": [
+      "Buz@Jer.25.23"
+    ],
+    "vizbible": [
+      "recsC1MzIep0MhpBS"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000870002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Buz (Nation)",
+      "alternate_labels": [
+        "Buz"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Buz",
+          "gloss": "Buz (Nation)",
+          "description": "A nation in North Arabia."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בּוּז"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "region"
+    ],
+    "vizbible": [
+      "Region"
+    ],
+    "acai": [
+      "nation"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "26.625139",
+      "lon": "37.919663"
+    },
+    "recogito": {
+      "lat": "40.445",
+      "lon": "20.00472"
+    },
+    "vizbible": {
+      "lat": "26.625139",
+      "lon": "37.919663"
+    }
+  },
+  "key_references": [
+    "24025023"
+  ],
+  "references": [
+    "24025023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240250230061"
+      ]
+    ]
+  }
+}

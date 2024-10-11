@@ -1,0 +1,54 @@
+{
+  "id": "group:Kittim",
+  "primary_id": "group:Kittim",
+  "alternate_sources": {
+    "aquifer": [
+      "6632|Kittim|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Kittim@Gen.10.4-1Ch"
+    ],
+    "vizbible": [
+      "rech1O2z6NdRSRJvK"
+    ]
+  },
+  "type": "group",
+  "group_type": "relation",
+  "group_origin": "person:Javan",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kittim",
+      "alternate_labels": [
+        "Kittites"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Kittim",
+          "article": "group:Kittim",
+          "description": "People descended from Javan, the son of Japheth, the son of Noah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "01010004",
+    "13001007"
+  ],
+  "references": [
+    "01010004",
+    "13001007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100040051"
+      ],
+      [
+        "o130010070051"
+      ]
+    ]
+  }
+}

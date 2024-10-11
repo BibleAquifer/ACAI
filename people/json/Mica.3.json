@@ -1,0 +1,63 @@
+{
+  "id": "person:Mica.3",
+  "primary_id": "person:Mica.3",
+  "alternate_sources": {
+    "aquifer": [
+      "7108|Mica|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Micaiah|Mica@Neh.11.22-",
+      "Mica@Neh.11.22-"
+    ],
+    "vizbible": [
+      "recHfQdVAkbSCcfDH"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Mattaniah.9"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mica (Nehemiah 11:22)",
+      "alternate_labels": [
+        "Micaiah",
+        "Micha",
+        "Mika",
+        "Michaiah"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Mica (Nehemiah 11:22)",
+          "article": "person:Mica.3",
+          "description": "Mica, also called Micaiah, is a man living during the time of exile and return, mentioned in Nehemiah 11:22 and Nehemiah 12:35, and the father of Mattaniah."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Micaiah.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "16011022",
+    "16012035"
+  ],
+  "references": [
+    "16011022",
+    "16012035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160110220121"
+      ],
+      [
+        "o160120350121"
+      ]
+    ]
+  }
+}

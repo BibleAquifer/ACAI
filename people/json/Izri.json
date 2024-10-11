@@ -1,0 +1,71 @@
+{
+  "id": "person:Izri",
+  "primary_id": "person:Zeri",
+  "alternate_sources": {
+    "aquifer": [
+      "6128|Izri|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003050001002000"
+    ],
+    "tipnr": [
+      "Izri|Zeri@1Ch.25.3-"
+    ],
+    "vizbible": [
+      "rec0bWZNJmywJZkeT"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Jeduthun",
+  "siblings": [
+    "person:Obed-edom",
+    "person:Mattithiah.2",
+    "person:Gedaliah.4",
+    "person:Jeshaiah.3",
+    "person:Hashabiah.3"
+  ],
+  "tribe": "group:Levi",
+  "ubsdbh": [
+    "003050001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Izri (Zeri)",
+      "alternate_labels": [
+        "Zeri"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Zeri",
+          "article": "person:Izri",
+          "description": "A Levite during Israel's united kingdom, son of Jeduthun, mentioned in 1 Chronicles 25:3 and also called Zeri in 1 Chronicles 25:11."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Zeri"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יִצְרִי"
+    ]
+  },
+  "key_references": [
+    "13025011"
+  ],
+  "references": [
+    "13025011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130250110022"
+      ]
+    ]
+  }
+}

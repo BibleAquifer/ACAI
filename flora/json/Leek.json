@@ -1,0 +1,53 @@
+{
+  "id": "flora:Leek",
+  "primary_id": "flora:Leek",
+  "alternate_sources": {
+    "aquifer": [
+      "6713|Leek|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002471001001000"
+    ],
+    "ubsflora": [
+      "flora:3.2.3"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Food Plants, Grown and Gathered",
+  "ubsdbh": [
+    "002471001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Leek",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Leek",
+          "article": "flora:Leek",
+          "description": "A perennial vegetable with an oblong bulb, part of the lily family, and is used as food."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חָצִיר"
+    ]
+  },
+  "key_references": [
+    "04011005"
+  ],
+  "references": [
+    "04011005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040110050132"
+      ]
+    ]
+  }
+}

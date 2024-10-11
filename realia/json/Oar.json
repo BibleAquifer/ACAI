@@ -1,0 +1,56 @@
+{
+  "id": "realia:Oar",
+  "primary_id": "realia:Oar",
+  "alternate_sources": {
+    "ubsdbh": [
+      "004466001001000"
+    ],
+    "ubsrealia": [
+      "realia:8.1.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004466001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Oar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Oar",
+          "article": "realia:Oar",
+          "description": "A long pole with a flat end used to row or steer a boat."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מָשֹׁוט"
+    ]
+  },
+  "key_references": [
+    "26027006",
+    "26027029"
+  ],
+  "references": [
+    "26027006",
+    "26027029"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260270060041",
+        "o260270060042"
+      ],
+      [
+        "o260270290051"
+      ]
+    ]
+  }
+}

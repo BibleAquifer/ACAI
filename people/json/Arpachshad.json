@@ -1,0 +1,108 @@
+{
+  "id": "person:Arpachshad",
+  "primary_id": "person:Arpachshad",
+  "alternate_sources": {
+    "aquifer": [
+      "3761|Arpachshad|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Arpachshad@Gen.10.22-Luk"
+    ],
+    "vizbible": [
+      "recDncefA67SnXVsu"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Shem",
+  "offspring": [
+    "person:Cainan"
+  ],
+  "siblings": [
+    "person:Asshur",
+    "person:Elam.2",
+    "person:Lud",
+    "person:Aram"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Arpachshad",
+      "alternate_labels": [
+        "Arphaxad"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Arpachshad",
+          "article": "person:Arpachshad",
+          "description": "Son of Shem and the grandson of Noah. He was the father of Shelah."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "13001017",
+    "13001018"
+  ],
+  "references": [
+    "01010022",
+    "01010024",
+    "01011010",
+    "01011011",
+    "01011012",
+    "01011013",
+    "13001017",
+    "13001018",
+    "13001024",
+    "42003036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100220052"
+      ],
+      [
+        "o010100240012"
+      ],
+      [
+        "o010110100101"
+      ],
+      [
+        "o010110110061"
+      ],
+      [
+        "o010110120012"
+      ],
+      [
+        "o010110130021"
+      ],
+      [
+        "o130010170052"
+      ],
+      [
+        "o130010180012"
+      ],
+      [
+        "o130010240021"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42003036004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o010110120062"
+      ],
+      [
+        "o010110130122"
+      ]
+    ]
+  }
+}

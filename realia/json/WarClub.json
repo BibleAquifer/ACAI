@@ -1,0 +1,80 @@
+{
+  "id": "realia:WarClub",
+  "primary_id": "realia:WarClub",
+  "alternate_sources": {
+    "ubsdbh": [
+      "002787001077000",
+      "004268001001000",
+      "004269001001000",
+      "004332001003000",
+      "007758001001000"
+    ],
+    "ubsrealia": [
+      "realia:2.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "002787001077000",
+    "004268001001000",
+    "004269001001000",
+    "004332001003000",
+    "007758001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "War Club",
+      "alternate_labels": [
+        "Mace",
+        "Club",
+        "Cudgel"
+      ],
+      "descriptions": []
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָד",
+      "מַפֵּץ",
+      "מַפָּץ",
+      "מַקֵּל",
+      "תֹּותָח"
+    ]
+  },
+  "references": [
+    "18041021",
+    "24051020",
+    "26009002",
+    "26039009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260390090131"
+      ],
+      [
+        "o240510200011"
+      ],
+      [
+        "o260090020131",
+        "o260090020132"
+      ],
+      [
+        "o260390090123"
+      ],
+      [
+        "o180410210031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260390090162"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "person:Abimelech.3",
+  "primary_id": "person:Achish",
+  "alternate_sources": {
+    "aquifer": [
+      "3305|Abimelech|TyndaleBibleDictionary",
+      "26279|Abimelech|UWTranslationWords"
+    ],
+    "ubsdbh": [
+      "000039001002000"
+    ],
+    "tipnr": [
+      "Abimelech|Achish@1Sa.21.10-Psa"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Maoch",
+  "roles": [
+    "King"
+  ],
+  "tribe": "group:Philistine",
+  "ubsdbh": [
+    "000039001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Abimelech (King of Gath)",
+      "alternate_labels": [
+        "Achish",
+        "Abimelek"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Achish",
+          "article": "person:Abimelech.3",
+          "description": "A Philistine king of Gath, possibly another name or title for Achish, mentioned in 1 Samuel 21:10 and Psalm 34:1."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Achish"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֲבִימֶלֶךְ",
+      "אֲבִימֶ֫לֶךְ"
+    ]
+  },
+  "key_references": [
+    "19034002"
+  ],
+  "references": [
+    "19034001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190340010061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o190340010072"
+      ]
+    ]
+  }
+}

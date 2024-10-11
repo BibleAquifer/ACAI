@@ -1,0 +1,79 @@
+{
+  "id": "person:Eliab",
+  "primary_id": "person:Eliab",
+  "alternate_sources": {
+    "aquifer": [
+      "4991|Eliab|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000409001001000"
+    ],
+    "tipnr": [
+      "Eliab@Num.1.9-"
+    ],
+    "vizbible": [
+      "recpPNbR5X8rHlhYQ"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Helon",
+  "roles": [
+    "Patriarch",
+    "Leader"
+  ],
+  "ubsdbh": [
+    "000409001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eliab",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Eliab",
+          "article": "person:Eliab",
+          "description": "Son of Helon, who was the chief of the tribe of Zebulun during the wilderness wandering of the Israelites."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיאָב"
+    ]
+  },
+  "key_references": [
+    "04001009",
+    "04002007",
+    "04010016"
+  ],
+  "references": [
+    "04001009",
+    "04002007",
+    "04007024",
+    "04007029",
+    "04010016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010090021"
+      ],
+      [
+        "o040020070061"
+      ],
+      [
+        "o040070240061"
+      ],
+      [
+        "o040070290151"
+      ],
+      [
+        "o040100160061"
+      ]
+    ]
+  }
+}

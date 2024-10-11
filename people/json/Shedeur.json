@@ -1,0 +1,76 @@
+{
+  "id": "person:Shedeur",
+  "primary_id": "person:Shedeur",
+  "alternate_sources": {
+    "aquifer": [
+      "8326|Shedeur|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "007213001001000"
+    ],
+    "tipnr": [
+      "Shedeur@Num.1.5-"
+    ],
+    "vizbible": [
+      "recoklD2cyUxjCR8C"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "offspring": [
+    "person:Elizur"
+  ],
+  "roles": [
+    "Ruler",
+    "Leader"
+  ],
+  "ubsdbh": [
+    "007213001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shedeur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Shedeur",
+          "article": "person:Shedeur",
+          "description": "Chief of the tribe of Reubenite and father of Elizur who lived during the wilderness wandering of Israel."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04001005",
+    "04002010",
+    "04007035"
+  ],
+  "references": [
+    "04001005",
+    "04002010",
+    "04007030",
+    "04007035",
+    "04010018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040010050101"
+      ],
+      [
+        "o040020100111"
+      ],
+      [
+        "o040070300081"
+      ],
+      [
+        "o040070350171"
+      ],
+      [
+        "o040100180101"
+      ]
+    ]
+  }
+}

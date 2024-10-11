@@ -1,0 +1,63 @@
+{
+  "id": "person:Tahan",
+  "primary_id": "person:Tahan",
+  "alternate_sources": {
+    "aquifer": [
+      "8710|Tahan|TyndaleBibleDictionary"
+    ],
+    "tipnr": [
+      "Tahan@Num.26.35"
+    ],
+    "vizbible": [
+      "rec1WrurVFg2qHArC"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Ephraim",
+  "siblings": [
+    "person:Shuthelah",
+    "person:Becher.2",
+    "person:Ezer.3",
+    "person:Elead",
+    "person:Beriah.2"
+  ],
+  "tribe": "group:Ephraim",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tahan",
+      "alternate_labels": [
+        "Tahanite"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tahan",
+          "article": "person:Tahan",
+          "description": "Tahan, mentioned in Numbers 26:35, was a man of the tribe of Ephraim, son of Ephraim, and lived during the time of Egypt and the wilderness."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "group:Tahan"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "04026035"
+  ],
+  "references": [
+    "04026035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040260350112"
+      ],
+      [
+        "o040260350132"
+      ]
+    ]
+  }
+}

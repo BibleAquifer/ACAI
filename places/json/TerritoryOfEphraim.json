@@ -1,0 +1,37 @@
+{
+  "id": "place:TerritoryOfEphraim",
+  "primary_id": "place:TerritoryOfEphraim",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:TerritoryOfEphraim",
+          "gloss": "Territory of Ephraim",
+          "description": "The land assigned to the tribe of Ephraim."
+        }
+      ],
+      "preferred_label": "Territory of Ephraim"
+    }
+  },
+  "nearby_places": [
+    "place:TerritoryOfWestManasseh",
+    "place:TerritoryOfDan",
+    "place:TerritoryOfBenjamin"
+  ],
+  "subregion_of": [
+    "place:Israel"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "province"
+    ]
+  }
+}

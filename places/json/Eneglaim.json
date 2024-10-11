@@ -1,0 +1,86 @@
+{
+  "id": "place:Eneglaim",
+  "primary_id": "place:Eneglaim",
+  "alternate_sources": {
+    "aquifer": [
+      "5079|En-Eglaim|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "ad44943"
+    ],
+    "ubsdbh": [
+      "005399001001000"
+    ],
+    "tipnr": [
+      "Eneglaim@Ezk.47.10"
+    ],
+    "vizbible": [
+      "rec0esIVZ4dWgesPy"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005399001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "En-eglaim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Eneglaim",
+          "gloss": "En-Eglaim",
+          "description": "A spring near the Dead Sea."
+        }
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:SaltSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵין רֹגֵל"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement",
+      "spring",
+      "special"
+    ],
+    "acai": [
+      "spring"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "30.998062",
+      "lon": "35.498547"
+    },
+    "vizbible": {
+      "lat": "30.998062",
+      "lon": "35.498547"
+    }
+  },
+  "key_references": [
+    "26047010"
+  ],
+  "references": [
+    "26047010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260470100091",
+        "o260470100101"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "group:Tarsus",
+  "primary_id": "group:Tarsus",
+  "alternate_sources": {
+    "ubsdgnt": [
+      "93.595"
+    ],
+    "digital_atlas_roman_empire": [
+      "https://imperium.ahlfeldt.se/places/21245"
+    ],
+    "tipnr": [
+      "Tarsus@Act.9.11-"
+    ],
+    "vizbible": [
+      "recyT2hLNYpIFXcAs"
+    ]
+  },
+  "type": "group",
+  "group_type": "residence",
+  "group_origin": "place:Tarsus",
+  "ubsdgnt": [
+    "93.595"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tarsians",
+      "alternate_labels": [
+        "Tarsus"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tarsians",
+          "article": "group:Tarsus",
+          "description": "People who live in Tarsus, Saul (later named Paul) being its most notable resident."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Ταρσεύς"
+    ]
+  },
+  "key_references": [
+    "44009011",
+    "44021039"
+  ],
+  "references": [
+    "44009011",
+    "44009030",
+    "44011025",
+    "44021039",
+    "44022003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44009011021"
+      ],
+      [
+        "n44021039010"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44009012011"
+      ],
+      [
+        "n44009013011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44009011024"
+      ],
+      [
+        "n44009012002"
+      ],
+      [
+        "n44009012014"
+      ]
+    ]
+  }
+}

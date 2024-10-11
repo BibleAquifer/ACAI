@@ -1,0 +1,89 @@
+{
+  "id": "place:Baal-hazor",
+  "primary_id": "place:Baal-hazor",
+  "alternate_sources": {
+    "aquifer": [
+      "3935|Baal-Hazor|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a366989"
+    ],
+    "ubsdbh": [
+      "001087001001000"
+    ],
+    "tipnr": [
+      "Baal-hazor@2Sa.13.23"
+    ],
+    "vizbible": [
+      "recGt7VlNYiV0BbeA"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q3704851"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "001087001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baal-hazor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Baal-hazor",
+          "gloss": "Baal-Hazor",
+          "description": "A location near Ephraim where Absalom had his brother Amnon killed (2 Samuel 13:23–33)."
+        }
+      ]
+    }
+  },
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בַּעַל חָצֹור",
+      "בַּ֫עַל חָצוֹר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "mountain",
+      "settlement"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "mountain"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.979434",
+      "lon": "35.279229"
+    },
+    "vizbible": {
+      "lat": "31.979434",
+      "lon": "35.279229"
+    }
+  },
+  "key_references": [
+    "10013023"
+  ],
+  "references": [
+    "10013023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100130230072",
+        "o100130230081"
+      ]
+    ]
+  }
+}

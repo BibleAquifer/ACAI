@@ -1,0 +1,121 @@
+{
+  "id": "person:Caesar.4",
+  "primary_id": "person:Tiberius",
+  "alternate_sources": {
+    "aquifer": [
+      "26420|Caesar|UWTranslationWords",
+      "131980|Caesar|BiblicaStudyNotesKeyTerms",
+      "280161|caesar|FIAKeyTerms"
+    ],
+    "ubsdgnt": [
+      "37.74 93.208",
+      "93.208"
+    ],
+    "tipnr": [
+      "Caesar|Tiberius@Mat.22.17-Jhn"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "roles": [
+    "Emperor"
+  ],
+  "ubsdgnt": [
+    "37.74 93.208",
+    "93.208"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Caesar (Tiberius)",
+      "alternate_labels": [
+        "Tiberius"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Tiberius",
+          "article": "person:Caesar.4",
+          "description": "Tiberius was a Roman emperor during the time of Jesus. He is also known as Nero."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Tiberius"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "Καῖσαρ"
+    ]
+  },
+  "key_references": [
+    "42003001",
+    "40022017",
+    "41012017",
+    "42020025",
+    "43019015"
+  ],
+  "references": [
+    "40022017",
+    "40022021",
+    "41012014",
+    "41012016",
+    "41012017",
+    "42020022",
+    "42020024",
+    "42020025",
+    "42023002",
+    "43019012",
+    "43019015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40022017010"
+      ],
+      [
+        "n40022021003"
+      ],
+      [
+        "n40022021010",
+        "n40022021011"
+      ],
+      [
+        "n41012014033"
+      ],
+      [
+        "n41012016018"
+      ],
+      [
+        "n41012017007"
+      ],
+      [
+        "n41012017009"
+      ],
+      [
+        "n42020022003"
+      ],
+      [
+        "n42020024012"
+      ],
+      [
+        "n42020025009",
+        "n42020025010"
+      ],
+      [
+        "n42023002015"
+      ],
+      [
+        "n43019012020"
+      ],
+      [
+        "n43019012028"
+      ],
+      [
+        "n43019015024"
+      ]
+    ]
+  }
+}

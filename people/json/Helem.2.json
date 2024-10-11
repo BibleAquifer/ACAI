@@ -1,0 +1,77 @@
+{
+  "id": "person:Helem.2",
+  "primary_id": "person:Hotham",
+  "alternate_sources": {
+    "aquifer": [
+      "5778|Helem|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "001831001001000"
+    ],
+    "tipnr": [
+      "Helem|Hotham@1Ch.7.32-"
+    ],
+    "vizbible": [
+      "recUCbB82qy2CGIdz"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Heber",
+  "offspring": [
+    "person:Zophah",
+    "person:Imna",
+    "person:Shelesh",
+    "person:Amal"
+  ],
+  "siblings": [
+    "person:Japhlet",
+    "person:Shomer.2",
+    "person:Shua.2"
+  ],
+  "tribe": "group:Asher",
+  "ubsdbh": [
+    "001831001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Helem (Hotham)",
+      "alternate_labels": [
+        "Shelesh",
+        "Hotham"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hotham",
+          "article": "person:Helem.2",
+          "description": "Helem, also known as Hotham and Shelesh, was a man from the tribe of Asher living before Israel's Monarchy, first mentioned in 1 Chronicles 7:32."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Hotham"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "הֵלֶם",
+      "הֶ֫לֶם"
+    ]
+  },
+  "key_references": [
+    "13007035"
+  ],
+  "references": [
+    "13007035"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130070350021"
+      ]
+    ]
+  }
+}

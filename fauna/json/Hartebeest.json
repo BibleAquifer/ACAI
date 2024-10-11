@@ -1,0 +1,44 @@
+{
+  "id": "fauna:Hartebeest",
+  "primary_id": "fauna:Hartebeest",
+  "alternate_sources": {
+    "ubsfauna": [
+      "fauna:2.7"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Mammals",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hartebeest",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Hartebeest",
+          "article": "fauna:Hartebeest",
+          "description": "A type of large antelope known for its long legs and distinct horns."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "key_references": [
+    "05014005",
+    "11005003"
+  ],
+  "references": [
+    "05014005",
+    "11005003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050140050032"
+      ],
+      [
+        "o110050030122"
+      ]
+    ]
+  }
+}

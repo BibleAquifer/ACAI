@@ -1,0 +1,78 @@
+{
+  "id": "flora:PineTree",
+  "primary_id": "flora:PineTree",
+  "alternate_sources": {
+    "ubsdbh": [
+      "005588001003000"
+    ],
+    "ubsflora": [
+      "flora:1.18.2"
+    ]
+  },
+  "type": "flora",
+  "flora_type": "Wild Trees and Shrubs",
+  "ubsdbh": [
+    "005588001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Aleppo Pine",
+      "alternate_labels": [
+        "Cedar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Aleppo Pine",
+          "article": "flora:PineTree",
+          "description": "An evergreen tree that can grow up to 20 meters tall and live for 150 years, with wood useful for carpentry."
+        }
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "flora:Pine",
+    "flora:Cedar"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֵץ"
+    ]
+  },
+  "key_references": [
+    "23044014",
+    "11006023"
+  ],
+  "references": [
+    "11006023",
+    "11006031",
+    "11006032",
+    "11006033",
+    "16008015",
+    "23041019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110060230051"
+      ],
+      [
+        "o110060310061"
+      ],
+      [
+        "o110060320031"
+      ],
+      [
+        "o110060330061"
+      ],
+      [
+        "o160080150151"
+      ],
+      [
+        "o230410190062"
+      ]
+    ]
+  }
+}

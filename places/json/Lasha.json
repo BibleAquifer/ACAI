@@ -1,0 +1,93 @@
+{
+  "id": "place:Lasha",
+  "primary_id": "place:Lasha",
+  "alternate_sources": {
+    "aquifer": [
+      "6686|Lasha|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "adaef13"
+    ],
+    "tipnr": [
+      "Lasha@Gen.10.19-Num",
+      "Nahaliel|Lasha@Gen.10.19-Num"
+    ],
+    "vizbible": [
+      "rec96kSfuZ37JXQ5w"
+    ],
+    "wikidata": [
+      "http://www.wikidata.org/entity/Q6493160"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lasha",
+      "alternate_labels": [
+        "Nahaliel"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Lasha",
+          "gloss": "Lasha",
+          "description": "A town in the southern boundary of Canaanite territory."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "place:Nahaliel"
+  ],
+  "subregion_of": [
+    "place:Canaan"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement",
+      "region"
+    ],
+    "vizbible": [
+      "City"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.718148",
+      "lon": "35.584826"
+    },
+    "vizbible": {
+      "lat": "31.718148",
+      "lon": "35.584826"
+    }
+  },
+  "key_references": [
+    "01010019"
+  ],
+  "references": [
+    "01010019",
+    "04021019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010100190151"
+      ],
+      [
+        "o040210190021"
+      ],
+      [
+        "o040210190033"
+      ]
+    ]
+  }
+}

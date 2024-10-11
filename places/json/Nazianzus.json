@@ -1,0 +1,42 @@
+{
+  "id": "place:Nazianzus",
+  "primary_id": "place:Nazianzus",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Nazianzus",
+          "gloss": "Nazianzus",
+          "description": "A town in the region of Cappadocia in Asia Minor, associated with one of the Cappadocian Fathers, Saint Gregory of Naziansus."
+        }
+      ],
+      "preferred_label": "Nazianzus",
+      "alternate_labels": [
+        "Nazianzos",
+        "Nandianulus"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Cappadocia"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "38.39805",
+      "lon": "34.34979"
+    }
+  }
+}

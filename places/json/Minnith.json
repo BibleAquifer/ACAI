@@ -1,0 +1,83 @@
+{
+  "id": "place:Minnith",
+  "primary_id": "place:Minnith",
+  "alternate_sources": {
+    "aquifer": [
+      "7148|Minnith|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a222545"
+    ],
+    "ubsdbh": [
+      "004127001001000"
+    ],
+    "tipnr": [
+      "Minnith@Jdg.11.33-Ezk"
+    ],
+    "vizbible": [
+      "recXc9xReK4EmlJES"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "004127001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Minnith",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Minnith",
+          "gloss": "Minnith",
+          "description": "A town in Ammon; captured by Jephthah; possibly known for its wheat."
+        }
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Ammon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.75",
+      "lon": "35.85"
+    },
+    "vizbible": {
+      "lat": "31.75",
+      "lon": "35.85"
+    }
+  },
+  "key_references": [
+    "26027017",
+    "07011033"
+  ],
+  "references": [
+    "07011033",
+    "26027017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070110330051"
+      ],
+      [
+        "o260270170071"
+      ]
+    ]
+  }
+}

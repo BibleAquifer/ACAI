@@ -1,0 +1,61 @@
+{
+  "id": "realia:Silk",
+  "primary_id": "realia:Silk",
+  "alternate_sources": {
+    "aquifer": [
+      "8490|Silk|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "004484001001000"
+    ],
+    "ubsrealia": [
+      "realia:1.5.3.9"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "other",
+  "ubsdbh": [
+    "004484001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Silk",
+      "alternate_labels": [
+        "Expensive Cloth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Silk",
+          "article": "realia:Silk",
+          "description": "A type of expensive cloth."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מֶשִׁי"
+    ]
+  },
+  "key_references": [
+    "26016010",
+    "26016013"
+  ],
+  "references": [
+    "26016010",
+    "26016013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260160100081"
+      ],
+      [
+        "o260160130072"
+      ]
+    ]
+  }
+}

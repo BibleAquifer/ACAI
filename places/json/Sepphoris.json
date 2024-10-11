@@ -1,0 +1,42 @@
+{
+  "id": "place:Sepphoris",
+  "primary_id": "place:Sepphoris",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Sepphoris",
+          "gloss": "Sepphoris",
+          "description": "A village on the southwestern shore of the Sea of Galilee."
+        }
+      ],
+      "preferred_label": "Sepphoris",
+      "alternate_labels": [
+        "Tzipori",
+        "Saffuriya"
+      ]
+    }
+  },
+  "nearby_places": [
+    "place:GalileeSea"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": true,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": true,
+  "place_types": {
+    "acai": [
+      "village"
+    ]
+  },
+  "geocoordinates": {
+    "biblica-maps": {
+      "lat": "32.75359",
+      "lon": "35.28146"
+    }
+  }
+}

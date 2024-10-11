@@ -1,0 +1,105 @@
+{
+  "id": "place:En-shemesh",
+  "primary_id": "place:En-shemesh",
+  "alternate_sources": {
+    "aquifer": [
+      "5094|En-Shemesh|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "a34e870"
+    ],
+    "ubsdbh": [
+      "005402001001000"
+    ],
+    "geonames": [
+      "http://sws.geonames.org/295432"
+    ],
+    "tipnr": [
+      "En-shemesh@Jos.15.7-"
+    ],
+    "vizbible": [
+      "recyt1xT91nAHD8Gf"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "005402001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "En-shemesh",
+      "alternate_labels": [
+        "Waters of En-shemesh"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:En-shemesh",
+          "gloss": "En-Shemesh",
+          "description": "A spring on the border between the territories of Judah and Benjamin."
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Judah",
+  "subregion_of": [
+    "place:TerritoryOfJudah",
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "עֵין תַּפּוּחַ"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "spring"
+    ],
+    "vizbible": [
+      "Landmark"
+    ],
+    "acai": [
+      "spring"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.77402",
+      "lon": "35.270231"
+    },
+    "recogito": {
+      "lat": "31.73072",
+      "lon": "34.99293"
+    },
+    "vizbible": {
+      "lat": "31.77402",
+      "lon": "35.270231"
+    }
+  },
+  "key_references": [
+    "06015007",
+    "06018017"
+  ],
+  "references": [
+    "06015007",
+    "06018017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o060150070211",
+        "o060150070221"
+      ],
+      [
+        "o060180170041",
+        "o060180170051"
+      ]
+    ]
+  }
+}

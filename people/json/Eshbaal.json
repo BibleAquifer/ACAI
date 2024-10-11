@@ -1,0 +1,80 @@
+{
+  "id": "person:Eshbaal",
+  "primary_id": "person:Ish-bosheth",
+  "alternate_sources": {
+    "aquifer": [
+      "5146|Eshbaal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "000731001001000"
+    ],
+    "tipnr": [
+      "Eshbaal|Ish-bosheth@2Sa.2.8-1Ch"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Saul.2",
+  "mother": "person:Ahinoam",
+  "siblings": [
+    "person:Jonathan.3",
+    "person:Abinadab.2",
+    "person:Malchi-shua",
+    "person:Merab",
+    "person:Michal",
+    "person:Armoni",
+    "person:Mephibosheth.2"
+  ],
+  "roles": [
+    "King",
+    "Royal Family Member"
+  ],
+  "tribe": "group:Benjamin",
+  "ubsdbh": [
+    "000731001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eshbaal (Ish-bosheth)",
+      "alternate_labels": [
+        "Ish-Bosheth"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Ish-Bosheth",
+          "article": "person:Eshbaal",
+          "description": "Eshbaal, also known as Ish-Bosheth, was Saul's son who ruled the northern tribes of Israel until his assassination, mentioned first in 2 Samuel 2:8."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "person:Ish-bosheth"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶשְׁבַּעַל"
+    ]
+  },
+  "key_references": [
+    "13008033",
+    "13009039"
+  ],
+  "references": [
+    "13008033",
+    "13009039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o130080330191"
+      ],
+      [
+        "o130090390191"
+      ]
+    ]
+  }
+}

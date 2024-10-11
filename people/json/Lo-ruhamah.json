@@ -1,0 +1,73 @@
+{
+  "id": "person:Lo-ruhamah",
+  "primary_id": "person:Lo-ruhamah",
+  "alternate_sources": {
+    "aquifer": [
+      "6781|Lo-Ruhamah|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "003489001001000"
+    ],
+    "tipnr": [
+      "Lo-ruhamah@Hos.1.6-"
+    ],
+    "vizbible": [
+      "recJ3BPiidTwd0VS9"
+    ]
+  },
+  "type": "person",
+  "gender": "female",
+  "father": "person:Hosea",
+  "mother": "person:Gomer.2",
+  "siblings": [
+    "person:Jezreel.2",
+    "person:Lo-ammi"
+  ],
+  "ubsdbh": [
+    "003489001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lo-ruhamah",
+      "alternate_labels": [
+        "No Mercy"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Lo-Ruhamah",
+          "article": "person:Lo-ruhamah",
+          "description": "The daughter of Hosea and Gomer, whose name means 'No Mercy,' mentioned in Hosea 1:6."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לֹא רֻחָמָה",
+      "לֹא רֻחָ֫מָה"
+    ]
+  },
+  "key_references": [
+    "28001006",
+    "28001008"
+  ],
+  "references": [
+    "28001006",
+    "28001008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o280010060091",
+        "o280010060101"
+      ],
+      [
+        "o280010080031",
+        "o280010080041"
+      ]
+    ]
+  }
+}

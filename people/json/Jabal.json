@@ -1,0 +1,71 @@
+{
+  "id": "person:Jabal",
+  "primary_id": "person:Jabal",
+  "alternate_sources": {
+    "aquifer": [
+      "6145|Jabal|TyndaleBibleDictionary"
+    ],
+    "ubsdbh": [
+      "002750002001000"
+    ],
+    "tipnr": [
+      "Jabal@Gen.4.20"
+    ],
+    "vizbible": [
+      "recOHEV7ktu3ugWOD"
+    ]
+  },
+  "type": "person",
+  "gender": "male",
+  "father": "person:Lamech",
+  "mother": "person:Adah",
+  "siblings": [
+    "person:Jubal",
+    "person:Tubal-cain",
+    "person:Naamah.2"
+  ],
+  "tribe": "group:Earlypatriarchs",
+  "ubsdbh": [
+    "002750002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Jabal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Jabal",
+          "article": "person:Jabal",
+          "description": "A pre-Flood man, son of Lamech and Adah, brother of Jubal, Tubal-cain, and Naamah, who was the first to live in tents and raise sheep and goats, mentioned in Genesis 4:20."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָבָל"
+    ]
+  },
+  "key_references": [
+    "01004020"
+  ],
+  "references": [
+    "01004020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010040200041"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010040200051"
+      ]
+    ]
+  }
+}

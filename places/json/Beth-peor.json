@@ -1,0 +1,112 @@
+{
+  "id": "place:Beth-peor",
+  "primary_id": "place:Beth-peor",
+  "alternate_sources": {
+    "aquifer": [
+      "4196|Beth-Peor|TyndaleBibleDictionary"
+    ],
+    "obi": [
+      "af3ce34"
+    ],
+    "ubsdbh": [
+      "000972001001000"
+    ],
+    "tipnr": [
+      "Beth-peor@Deu.3.29-Jos"
+    ],
+    "vizbible": [
+      "recwpg56oDIY5SWvr"
+    ]
+  },
+  "type": "place",
+  "ubsdbh": [
+    "000972001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beth-peor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Beth-peor",
+          "gloss": "Beth-Peor",
+          "description": "A town in Moab allotted to the tribe of Reuben, near where Moses introduced the Law to the Israelites. "
+        }
+      ]
+    }
+  },
+  "tribal_area": "group:Reuben",
+  "subregion_of": [
+    "place:TerritoryOfReuben",
+    "place:Moab"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "lemmas": {
+    "he": [
+      "בֵּית פְּעֹור",
+      "בֵּית פְּעוֹר"
+    ]
+  },
+  "place_types": {
+    "obi": [
+      "settlement"
+    ],
+    "acai": [
+      "town"
+    ]
+  },
+  "geocoordinates": {
+    "obi": {
+      "lat": "31.656099",
+      "lon": "35.71187"
+    },
+    "vizbible": {
+      "lat": "31.656099",
+      "lon": "35.71187"
+    }
+  },
+  "key_references": [
+    "05003029",
+    "06013020",
+    "05004046",
+    "05034006"
+  ],
+  "references": [
+    "05003029",
+    "05004046",
+    "05034006",
+    "06013020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050030290041",
+        "o050030290051"
+      ],
+      [
+        "o050040460051",
+        "o050040460061"
+      ],
+      [
+        "o050340060071",
+        "o050340060081"
+      ],
+      [
+        "o060130200012",
+        "o060130200021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o050040220052"
+      ]
+    ]
+  }
+}
