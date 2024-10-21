@@ -3,14 +3,15 @@
   "primary_id": "place:Beth-shemesh",
   "alternate_sources": {
     "aquifer": [
-      "4203|Beth-Shemesh|TyndaleBibleDictionary"
+      "4203|Beth-Shemesh|TyndaleBibleDictionary",
+      "26389|Bethshemesh|UWTranslationWords"
     ],
     "geonames": [
       "http://sws.geonames.org/295432"
     ],
     "tipnr": [
-      "Heres_Mount|Beth-shemesh@Jos.15.10-2Ch",
-      "Beth-shemesh@Jos.15.10-2Ch"
+      "Beth-shemesh@Jos.15.10-2Ch",
+      "Heres_Mount|Beth-shemesh@Jos.15.10-2Ch"
     ],
     "vizbible": [
       "recocNih6Mr5ISN1d"
@@ -22,9 +23,9 @@
       "preferred_label": "Beth-shemesh (of Judah)",
       "alternate_labels": [
         "Mount Heres",
-        "Beth-shemite",
         "Ir-Shemesh",
-        "Beth-Shemesh"
+        "Beth-Shemesh",
+        "Beth-shemite"
       ],
       "descriptions": [
         {
@@ -34,6 +35,30 @@
           "description": "A Levitical town in the territory of Judah, assigned to the clan of Aaron."
         }
       ]
+    },
+    "cmn": {
+      "preferred_label": "伯‧示麥"
+    },
+    "fra": {
+      "preferred_label": "Beth-Schémesch"
+    },
+    "hin": {
+      "preferred_label": "बेतशेमेश"
+    },
+    "ind": {
+      "preferred_label": "Bet-Semes"
+    },
+    "por": {
+      "preferred_label": "Beth-semes"
+    },
+    "spa": {
+      "preferred_label": "Beth-semes"
+    },
+    "swh": {
+      "preferred_label": "Beth-shemeshi"
+    },
+    "tpi": {
+      "preferred_label": "Betsemes"
     }
   },
   "referred_to_as": [
@@ -76,8 +101,8 @@
   },
   "key_references": [
     "06021016",
-    "06015010",
-    "14028018"
+    "14028018",
+    "06015010"
   ],
   "references": [
     "06015010",

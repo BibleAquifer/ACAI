@@ -14,8 +14,8 @@
       "http://pleiades.stoa.org/places/687985"
     ],
     "tipnr": [
-      "south|Negeb@Gen.12.9-Zec",
-      "Negeb@Gen.12.9-Zec"
+      "Negeb@Gen.12.9-Zec",
+      "south|Negeb@Gen.12.9-Zec"
     ],
     "vizbible": [
       "recsX4et9ux7g07Zg"
@@ -29,10 +29,10 @@
     "eng": {
       "preferred_label": "Negev",
       "alternate_labels": [
-        "southern Judah",
-        "South",
         "Ramoth-negev",
+        "South",
         "southern part of Judah",
+        "southern Judah",
         "Negeb"
       ],
       "descriptions": [
@@ -43,6 +43,36 @@
           "description": "A area of land located in the south of Israel, consisting of little vegetation and with very little annual rainfall; inhabited by numerous peoples, initially by the Canaanites in Arad and the Amalekites, and later, the people of Judah."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلْجَنُوبِ"
+    },
+    "cmn": {
+      "preferred_label": "尼革夫"
+    },
+    "fra": {
+      "preferred_label": "midi"
+    },
+    "hin": {
+      "preferred_label": "दक्षिण"
+    },
+    "ind": {
+      "preferred_label": "Negeb"
+    },
+    "por": {
+      "preferred_label": "sul"
+    },
+    "rus": {
+      "preferred_label": "югу"
+    },
+    "spa": {
+      "preferred_label": "mediodía"
+    },
+    "swh": {
+      "preferred_label": "Negebu"
+    },
+    "tpi": {
+      "preferred_label": "Negev"
     }
   },
   "referred_to_as": [
@@ -80,11 +110,11 @@
     }
   },
   "key_references": [
-    "01020001",
     "04021001",
+    "01020001",
+    "06010040",
     "04013029",
     "06012008",
-    "06010040",
     "01024062"
   ],
   "references": [

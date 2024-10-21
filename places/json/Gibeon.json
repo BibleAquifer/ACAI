@@ -14,10 +14,10 @@
       "http://pleiades.stoa.org/places/687900"
     ],
     "tipnr": [
-      "Gibbar|Gibeon@Jos.9.3-Ezk",
-      "Bamah|Gibeon@Jos.9.3-Ezk",
+      "Gibeon@Jos.9.3-Ezk",
       "Geba|Gibeon@Jos.9.3-Ezk",
-      "Gibeon@Jos.9.3-Ezk"
+      "Bamah|Gibeon@Jos.9.3-Ezk",
+      "Gibbar|Gibeon@Jos.9.3-Ezk"
     ],
     "vizbible": [
       "recYsXWjhw6FUqHLY"
@@ -31,12 +31,12 @@
     "eng": {
       "preferred_label": "Gibeon",
       "alternate_labels": [
-        "Wilderness of Gibeon",
-        "Gibeonite",
         "Gibbar",
-        "Bamah",
         "Gibeonites",
-        "Geba"
+        "Bamah",
+        "Gibeonite",
+        "Geba",
+        "Wilderness of Gibeon"
       ],
       "descriptions": [
         {
@@ -46,6 +46,33 @@
           "description": "A town in the territory of Benjamin; one of the four Hivite cities that made a covenant with Joshua (Joshua 9:17–18)."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "جِبْعُونَ"
+    },
+    "fra": {
+      "preferred_label": "Gabaon"
+    },
+    "hin": {
+      "preferred_label": "गिबोन"
+    },
+    "ind": {
+      "preferred_label": "Gibeon"
+    },
+    "por": {
+      "preferred_label": "Gibeon"
+    },
+    "rus": {
+      "preferred_label": "Гаваона"
+    },
+    "spa": {
+      "preferred_label": "Gabaón"
+    },
+    "swh": {
+      "preferred_label": "Gibeoni"
+    },
+    "tpi": {
+      "preferred_label": "Gibeon"
     }
   },
   "referred_to_as": [
@@ -95,9 +122,9 @@
     }
   },
   "key_references": [
+    "11003005",
     "11003004",
-    "13016039",
-    "11003005"
+    "13016039"
   ],
   "references": [
     "06009003",

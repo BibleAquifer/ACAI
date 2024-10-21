@@ -2,6 +2,9 @@
   "id": "group:Christ",
   "primary_id": "group:Christ",
   "alternate_sources": {
+    "aquifer": [
+      "26446|Christian|UWTranslationWords"
+    ],
     "ubsdgnt": [
       "11.35"
     ],
@@ -29,6 +32,12 @@
           "description": "Those who worship Jesus of Nazareth as Messiah. The name “Christian” was first applied to believers of Jesus in Antioch (Acts 11:26)."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "chrétien"
+    },
+    "spa": {
+      "preferred_label": "Cristiano"
     }
   },
   "only_mentioned_in_apocrypha": false,

@@ -3,7 +3,8 @@
   "primary_id": "deity:Lord",
   "alternate_sources": {
     "aquifer": [
-      "6776|Lord of Hosts|TyndaleBibleDictionary"
+      "6776|Lord of Hosts|TyndaleBibleDictionary",
+      "27219|Yahweh of Hosts|UWTranslationWords"
     ],
     "ubsdbh": [
       "006101001007000",
@@ -25,9 +26,9 @@
     "eng": {
       "preferred_label": "Lord of Hosts (LORD)",
       "alternate_labels": [
-        "LORD",
-        "Almighty",
         "Sabaoth",
+        "Almighty",
+        "LORD",
         "Hosts"
       ],
       "descriptions": [
@@ -38,6 +39,33 @@
           "description": "A name of God that conveys God's power and control of the cosmos as the divine king and warrior."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلْجُنُودِ"
+    },
+    "fra": {
+      "preferred_label": "armées"
+    },
+    "hin": {
+      "preferred_label": "सेनाओं"
+    },
+    "ind": {
+      "preferred_label": "alam"
+    },
+    "por": {
+      "preferred_label": "Exercitos"
+    },
+    "rus": {
+      "preferred_label": "Саваофу"
+    },
+    "spa": {
+      "preferred_label": "ejércitos"
+    },
+    "swh": {
+      "preferred_label": "majeshi"
+    },
+    "tpi": {
+      "preferred_label": "Gat"
     }
   },
   "referred_to_as": [

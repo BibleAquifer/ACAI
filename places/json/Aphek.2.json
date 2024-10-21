@@ -13,7 +13,7 @@
   "type": "place",
   "localizations": {
     "eng": {
-      "preferred_label": "Aphek (of Lebanon)",
+      "preferred_label": "Aphek (of Asher)",
       "alternate_labels": [
         "Aphik",
         "Aphek"
@@ -21,18 +21,19 @@
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Aphek.4",
-          "gloss": "Aphek (of Lebanon)",
-          "description": "A town in Lebanon, which was left unconquered by Joshua (Joshua 13:4)."
+          "article": "place:Aphek.1",
+          "gloss": "Aphek (of Asher)",
+          "description": "A town in the territory of Asher; also known as Aphik."
         }
       ]
     }
   },
   "referred_to_as": [
-    "place:Aphek.2"
+    "place:Aphek.2",
+    "place:Aphik"
   ],
   "subregion_of": [
-    "place:Lebanon"
+    "place:TerritoryOfAsher"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -62,7 +63,8 @@
     }
   },
   "key_references": [
-    "06013004"
+    "07001031",
+    "06019030"
   ],
   "references": [
     "06013004",

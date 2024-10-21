@@ -3,7 +3,8 @@
   "primary_id": "place:Kidron",
   "alternate_sources": {
     "aquifer": [
-      "6577|Kidron|TyndaleBibleDictionary"
+      "6577|Kidron|TyndaleBibleDictionary",
+      "26794|Kidron Valley|UWTranslationWords"
     ],
     "obi": [
       "a553110"
@@ -12,8 +13,8 @@
       "https://imperium.ahlfeldt.se/places/28349"
     ],
     "tipnr": [
-      "Kidron@2Sa.15.23-Jhn",
-      "Valley_of_Jehoshaphat|Kidron@2Sa.15.23-Jhn"
+      "Valley_of_Jehoshaphat|Kidron@2Sa.15.23-Jhn",
+      "Kidron@2Sa.15.23-Jhn"
     ],
     "vizbible": [
       "reccf5Vf48NjEXaxz"
@@ -27,12 +28,12 @@
     "eng": {
       "preferred_label": "Kidron",
       "alternate_labels": [
-        "Cedron",
-        "Brook Kidron",
+        "Wadi of the Kidron",
         "Valley of Jehoshaphat",
+        "Cedron",
         "Kidron Valley",
-        "Wadi Kidron",
-        "Wadi of the Kidron"
+        "Brook Kidron",
+        "Wadi Kidron"
       ],
       "descriptions": [
         {
@@ -42,6 +43,36 @@
           "description": "A valley located east of Jerusalem between the ancient city and the Mount of Olives."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "قَدْرُونَ"
+    },
+    "cmn": {
+      "preferred_label": "汲淪溪"
+    },
+    "fra": {
+      "preferred_label": "Cédron"
+    },
+    "hin": {
+      "preferred_label": "किद्रोन"
+    },
+    "ind": {
+      "preferred_label": "Kidron"
+    },
+    "por": {
+      "preferred_label": "Cedron"
+    },
+    "rus": {
+      "preferred_label": "Кедрон"
+    },
+    "spa": {
+      "preferred_label": "Cedrón"
+    },
+    "swh": {
+      "preferred_label": "Kidroni"
+    },
+    "tpi": {
+      "preferred_label": "Kidron"
     }
   },
   "referred_to_as": [
@@ -83,11 +114,11 @@
     }
   },
   "key_references": [
-    "12023004",
-    "43008001",
     "11015013",
+    "12023004",
     "12023012",
-    "14015016"
+    "14015016",
+    "43008001"
   ],
   "references": [
     "10015022",

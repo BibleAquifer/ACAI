@@ -3,7 +3,8 @@
   "primary_id": "place:Antioch",
   "alternate_sources": {
     "aquifer": [
-      "26322|Antioch|UWTranslationWords"
+      "26322|Antioch|UWTranslationWords",
+      "132055|Antioch in Syria|BiblicaStudyNotesKeyTerms"
     ],
     "digital_atlas_roman_empire": [
       "https://imperium.ahlfeldt.se/places/21094"
@@ -20,8 +21,8 @@
     "eng": {
       "preferred_label": "Antioch (of Syria)",
       "alternate_labels": [
-        "Antiochian",
         "Antioch (Syria)",
+        "Antiochian",
         "Antioch"
       ],
       "descriptions": [
@@ -32,6 +33,36 @@
           "description": "The capital of the Roman province Syria, located on the Orontes River, where followers of Jesus were first called Christians."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "أَنْطَاكِيَةِ"
+    },
+    "cmn": {
+      "preferred_label": "安提阿"
+    },
+    "fra": {
+      "preferred_label": "Antioche"
+    },
+    "hin": {
+      "preferred_label": "अन्ताकिया"
+    },
+    "ind": {
+      "preferred_label": "Antiokhia"
+    },
+    "por": {
+      "preferred_label": "Antiochia"
+    },
+    "rus": {
+      "preferred_label": "Антиохию"
+    },
+    "spa": {
+      "preferred_label": "Antioquía"
+    },
+    "swh": {
+      "preferred_label": "Antiokia"
+    },
+    "tpi": {
+      "preferred_label": "Antiok"
     }
   },
   "referred_to_as": [
@@ -79,9 +110,9 @@
     }
   },
   "key_references": [
-    "44013001",
-    "44015030",
     "44011019",
+    "44015030",
+    "44013001",
     "48002011"
   ],
   "references": [

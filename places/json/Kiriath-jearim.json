@@ -9,12 +9,12 @@
       "a9bba61"
     ],
     "tipnr": [
-      "Kiriath-baal|Kiriath-jearim@Jos.9.17-Jer",
-      "Jaar|Kiriath-jearim@Jos.9.17-Jer",
-      "Baalah|Kiriath-jearim@Jos.9.17-Jer",
-      "Kiriath-jearim@Jos.9.17-Jer",
       "Baale-judah|Kiriath-jearim@Jos.9.17-Jer",
-      "Kiriath-arim|Kiriath-jearim@Jos.9.17-Jer"
+      "Kiriath-jearim@Jos.9.17-Jer",
+      "Baalah|Kiriath-jearim@Jos.9.17-Jer",
+      "Kiriath-baal|Kiriath-jearim@Jos.9.17-Jer",
+      "Kiriath-arim|Kiriath-jearim@Jos.9.17-Jer",
+      "Jaar|Kiriath-jearim@Jos.9.17-Jer"
     ],
     "vizbible": [
       "recVYcDguYN6bVqxy"
@@ -28,18 +28,18 @@
     "eng": {
       "preferred_label": "Kiriath-jearim",
       "alternate_labels": [
+        "Jaar",
         "Kirjath",
-        "Kiriath-Baal",
-        "Kirjath-Baal",
-        "Kiriath",
-        "Baale-judah",
-        "Baale of Judah",
-        "Kirjath-Arim",
         "Baalah in Judah",
         "Kiriath-Arim",
         "Baalah",
+        "Kiriath-Baal",
+        "Kirjath-Baal",
+        "Baale of Judah",
+        "Baale-judah",
         "Kirjath-Jearim",
-        "Jaar"
+        "Kirjath-Arim",
+        "Kiriath"
       ],
       "descriptions": [
         {
@@ -49,14 +49,38 @@
           "description": "A town located in the hill country of the territory of Judah; one of the four Hivite cities that made a covenant with Joshua (Joshua 9:17–18); also known as Kiriath-Baal, Baalah, and Baale-Judah, ."
         }
       ]
+    },
+    "cmn": {
+      "preferred_label": "基列‧耶琳"
+    },
+    "fra": {
+      "preferred_label": "Kirjath-Jearim"
+    },
+    "hin": {
+      "preferred_label": "किर्यत्यारीम"
+    },
+    "ind": {
+      "preferred_label": "Kiryat-Yearim"
+    },
+    "por": {
+      "preferred_label": "Kiriath-jearim"
+    },
+    "spa": {
+      "preferred_label": "Chiriath-jearim"
+    },
+    "swh": {
+      "preferred_label": "Kiriath-yearimu"
+    },
+    "tpi": {
+      "preferred_label": "Kiriat"
     }
   },
   "referred_to_as": [
     "place:Kiriath-arim",
-    "place:Jaar",
     "place:Baale-judah",
+    "place:Kiriath-baal",
     "place:Baalah.2",
-    "place:Kiriath-baal"
+    "place:Jaar"
   ],
   "tribal_area": "group:Judah",
   "associated_places": [
@@ -95,12 +119,12 @@
     }
   },
   "key_references": [
-    "06018015",
     "06018014",
-    "10006002",
-    "06015010",
+    "06018015",
+    "13013006",
     "06015009",
-    "13013006"
+    "10006002",
+    "06015010"
   ],
   "references": [
     "06009017",

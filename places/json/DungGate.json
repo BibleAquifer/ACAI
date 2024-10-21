@@ -23,10 +23,10 @@
     "eng": {
       "preferred_label": "Dung Gate",
       "alternate_labels": [
-        "Dung",
         "Refuse Gate",
         "dung port",
-        " Gate"
+        " Gate",
+        "Dung"
       ],
       "descriptions": [
         {
@@ -36,6 +36,33 @@
           "description": "A gate in the wall of Jerusalem in the time of Nehemiah."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلدِّمْنِ"
+    },
+    "cmn": {
+      "preferred_label": "糞廠門"
+    },
+    "fra": {
+      "preferred_label": "fumier"
+    },
+    "hin": {
+      "preferred_label": "अर्थात्"
+    },
+    "ind": {
+      "preferred_label": "gerbang"
+    },
+    "rus": {
+      "preferred_label": "Навозным"
+    },
+    "spa": {
+      "preferred_label": "del"
+    },
+    "swh": {
+      "preferred_label": "jaa"
+    },
+    "tpi": {
+      "preferred_label": "Pipia"
     }
   },
   "subregion_of": [
@@ -69,9 +96,9 @@
     }
   },
   "key_references": [
+    "16003013",
     "16012031",
-    "16002013",
-    "16003013"
+    "16002013"
   ],
   "references": [
     "16002013",

@@ -18,8 +18,8 @@
     ],
     "tipnr": [
       "Caphtor|Crete@Deu.2.23-Tit",
-      "Crete@Deu.2.23-Tit",
-      "Cretan|Crete@Deu.2.23-Tit"
+      "Cretan|Crete@Deu.2.23-Tit",
+      "Crete@Deu.2.23-Tit"
     ],
     "vizbible": [
       "rec6yittVQwxJlpye"
@@ -33,13 +33,13 @@
     "eng": {
       "preferred_label": "Crete",
       "alternate_labels": [
-        "Cherethites",
-        "Kerethite",
-        "Philistines",
         "Caphtor",
-        "Cretans",
+        "Kerethites",
+        "Philistines",
+        "Kerethite",
         "Cretan",
-        "Kerethites"
+        "Cherethites",
+        "Cretans"
       ],
       "descriptions": [
         {
@@ -49,6 +49,36 @@
           "description": "An island in the Mediterranean Sea, south of Greece, where Titus ministered (Tit 1:5)."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "كِرِيتَ"
+    },
+    "cmn": {
+      "preferred_label": "克里特"
+    },
+    "fra": {
+      "preferred_label": "Crétois"
+    },
+    "hin": {
+      "preferred_label": "क्रेते"
+    },
+    "ind": {
+      "preferred_label": "Kreta"
+    },
+    "por": {
+      "preferred_label": "Cretenses"
+    },
+    "rus": {
+      "preferred_label": "Критяне"
+    },
+    "spa": {
+      "preferred_label": "Creta"
+    },
+    "swh": {
+      "preferred_label": "Krete"
+    },
+    "tpi": {
+      "preferred_label": "Krit"
     }
   },
   "referred_to_as": [
@@ -90,8 +120,8 @@
     }
   },
   "key_references": [
-    "44027007",
     "44027013",
+    "44027007",
     "56001005"
   ],
   "references": [

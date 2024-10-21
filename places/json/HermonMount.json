@@ -13,8 +13,8 @@
       "https://imperium.ahlfeldt.se/places/41235"
     ],
     "tipnr": [
-      "Baal-hamon|Hermon_Mount@Deu.3.8-Ezk",
       "Hermon_Mount@Deu.3.8-Ezk",
+      "Baal-hamon|Hermon_Mount@Deu.3.8-Ezk",
       "Baal-gad|Hermon_Mount@Deu.3.8-Ezk",
       "Baal-hermon|Hermon_Mount@Deu.3.8-Ezk",
       "Senir|Hermon_Mount@Deu.3.8-Ezk"
@@ -31,21 +31,21 @@
     "eng": {
       "preferred_label": "Mount Hermon",
       "alternate_labels": [
-        "Baal-Hamon",
-        "field",
+        "slope",
         "Baal-Gad",
-        "Mount Baal-hermon",
+        "Sirion",
+        "Lebanon",
+        "Baal-Hamon",
         "Mount Siyon",
-        "Mount Sirion",
+        "Mount Baal-hermon",
+        "Mount Sion",
         "Hermon",
         "Baal-Hermon",
-        "slope",
-        "Lebanon",
+        "Senir",
+        "Mount Sirion",
         "Hermonites",
         "Sion",
-        "Mount Sion",
-        "Sirion",
-        "Senir"
+        "field"
       ],
       "descriptions": [
         {
@@ -55,12 +55,39 @@
           "description": "A mountain in the Anti-Lebanon range, northeast of Israel; also known as Senir, Sion, and Sirion."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "حَرْمُونَ"
+    },
+    "fra": {
+      "preferred_label": "Hermon"
+    },
+    "hin": {
+      "preferred_label": "हेर्मोन"
+    },
+    "ind": {
+      "preferred_label": "gunung"
+    },
+    "por": {
+      "preferred_label": "Sirion"
+    },
+    "rus": {
+      "preferred_label": "Ермон"
+    },
+    "spa": {
+      "preferred_label": "Hermón"
+    },
+    "swh": {
+      "preferred_label": "Hermoni"
+    },
+    "tpi": {
+      "preferred_label": "Hermon"
     }
   },
   "referred_to_as": [
+    "place:Baal-gad",
     "place:Baal-hamon",
     "place:Senir",
-    "place:Baal-gad",
     "place:Baal-hermon"
   ],
   "mentioned_in_bible": true,
@@ -95,10 +122,10 @@
     }
   },
   "key_references": [
-    "05003008",
     "22004008",
+    "05003009",
     "13005023",
-    "05003009"
+    "05003008"
   ],
   "references": [
     "05003008",

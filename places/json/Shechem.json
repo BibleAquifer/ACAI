@@ -32,10 +32,10 @@
     "eng": {
       "preferred_label": "Shechem",
       "alternate_labels": [
-        "Moreh",
-        "Sychem",
         "Shechemites",
-        "Sichem"
+        "Sichem",
+        "Sychem",
+        "Moreh"
       ],
       "descriptions": [
         {
@@ -45,6 +45,33 @@
           "description": "A Levitical town of refuge in the hill country of the territory of Ephraim; assigned to the clan of Kohath. God appeared to Abram at Shechem and Abram built an altar."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "شَكِيمَ"
+    },
+    "fra": {
+      "preferred_label": "Sichem"
+    },
+    "hin": {
+      "preferred_label": "शेकेम"
+    },
+    "ind": {
+      "preferred_label": "Sekhem"
+    },
+    "por": {
+      "preferred_label": "Sichem"
+    },
+    "rus": {
+      "preferred_label": "Шехема"
+    },
+    "spa": {
+      "preferred_label": "Sichêm"
+    },
+    "swh": {
+      "preferred_label": "Shekemu"
+    },
+    "tpi": {
+      "preferred_label": "Sekem"
     }
   },
   "tribal_area": "group:Ephraim",
@@ -90,12 +117,12 @@
     }
   },
   "key_references": [
-    "01033018",
     "06021020",
-    "44007015",
     "01012006",
-    "06024025",
-    "06024032"
+    "06024032",
+    "44007015",
+    "01033018",
+    "06024025"
   ],
   "references": [
     "01012006",

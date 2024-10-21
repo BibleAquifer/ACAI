@@ -3,7 +3,8 @@
   "primary_id": "place:Phoenicia",
   "alternate_sources": {
     "aquifer": [
-      "7721|Phoenicia, Phoenicians|TyndaleBibleDictionary"
+      "7721|Phoenicia, Phoenicians|TyndaleBibleDictionary",
+      "26960|Phonecia|UWTranslationWords"
     ],
     "obi": [
       "a33d53e"
@@ -27,11 +28,11 @@
     "eng": {
       "preferred_label": "Phoenicia",
       "alternate_labels": [
-        "Syrian Phoenicia",
-        "Syrophenician",
-        "Phenicia",
         "Syro-Phoenician",
-        "Phenice"
+        "Phenice",
+        "Phenicia",
+        "Syrian Phoenicia",
+        "Syrophenician"
       ],
       "descriptions": [
         {
@@ -41,6 +42,36 @@
           "description": "A region along the coast of the Mediterranean Sea to the west and north of Palestine, and its inhabitants."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "فِينِيقِيَّةً"
+    },
+    "cmn": {
+      "preferred_label": "腓尼基"
+    },
+    "fra": {
+      "preferred_label": "syro-phénicienne"
+    },
+    "hin": {
+      "preferred_label": "फीनीके"
+    },
+    "ind": {
+      "preferred_label": "Fenisia"
+    },
+    "por": {
+      "preferred_label": "Phenicia"
+    },
+    "rus": {
+      "preferred_label": "Сирофиникиянка"
+    },
+    "spa": {
+      "preferred_label": "Fenicia"
+    },
+    "swh": {
+      "preferred_label": "Msirofoinike"
+    },
+    "tpi": {
+      "preferred_label": "Fonisia"
     }
   },
   "referred_to_as": [
@@ -83,10 +114,10 @@
     }
   },
   "key_references": [
-    "41007026",
-    "44015003",
+    "44011019",
     "44021002",
-    "44011019"
+    "41007026",
+    "44015003"
   ],
   "references": [
     "41007026",

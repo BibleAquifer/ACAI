@@ -11,8 +11,8 @@
       "http://pleiades.stoa.org/places/687917"
     ],
     "tipnr": [
-      "City_of_Palms|Jericho@Num.22.1-Heb",
-      "Jericho@Num.22.1-Heb"
+      "Jericho@Num.22.1-Heb",
+      "City_of_Palms|Jericho@Num.22.1-Heb"
     ],
     "vizbible": [
       "recdMHFSmu222VnJG"
@@ -33,17 +33,47 @@
           "description": "A town northwest of the Dead Sea in the territory of Benjamin; first town conquered by Israel after they entered Canaan."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "أَرِيحَا"
+    },
+    "cmn": {
+      "preferred_label": "耶利哥"
+    },
+    "fra": {
+      "preferred_label": "Jéricho"
+    },
+    "hin": {
+      "preferred_label": "यरीहो"
+    },
+    "ind": {
+      "preferred_label": "Yerikho"
+    },
+    "por": {
+      "preferred_label": "Jericó"
+    },
+    "rus": {
+      "preferred_label": "Иерихона"
+    },
+    "spa": {
+      "preferred_label": "Jericó"
+    },
+    "swh": {
+      "preferred_label": "Yeriko"
+    },
+    "tpi": {
+      "preferred_label": "Jeriko"
     }
   },
   "referred_to_as": [
-    "place:CityOfPalms",
-    "place:CityOfPalms.2"
+    "place:CityOfPalms.2",
+    "place:CityOfPalms"
   ],
   "tribal_area": "group:Benjamin",
   "nearby_places": [
     "place:Jordan",
-    "place:Jericho.2",
-    "place:Gilgal.4"
+    "place:Gilgal.1",
+    "place:Jericho.2"
   ],
   "subregion_of": [
     "place:TerritoryOfBenjamin"
@@ -84,15 +114,15 @@
     }
   },
   "key_references": [
-    "05034001",
-    "07001016",
-    "05034003",
-    "14028015",
-    "06004019",
-    "06006001",
-    "04022001",
     "06003015",
-    "07003013"
+    "07003013",
+    "07001016",
+    "14028015",
+    "05034001",
+    "06004019",
+    "04022001",
+    "05034003",
+    "06006001"
   ],
   "references": [
     "04022001",

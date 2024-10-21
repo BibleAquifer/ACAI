@@ -25,8 +25,8 @@
     "eng": {
       "preferred_label": "Tower of the Ovens",
       "alternate_labels": [
-        "Tower",
-        "Tower of Furnaces"
+        "Tower of Furnaces",
+        "Tower"
       ],
       "descriptions": [
         {
@@ -36,6 +36,33 @@
           "description": "A tower located in the bakers' quarter in northwestern Jerusalem. "
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "وَبُرْجَ"
+    },
+    "fra": {
+      "preferred_label": "tour"
+    },
+    "hin": {
+      "preferred_label": "गुम्मट"
+    },
+    "ind": {
+      "preferred_label": "menara"
+    },
+    "por": {
+      "preferred_label": "fornos"
+    },
+    "rus": {
+      "preferred_label": "башню"
+    },
+    "spa": {
+      "preferred_label": "torre"
+    },
+    "swh": {
+      "preferred_label": "mnara"
+    },
+    "tpi": {
+      "preferred_label": "Taua"
     }
   },
   "subregion_of": [
@@ -73,8 +100,8 @@
     }
   },
   "key_references": [
-    "16012038",
-    "16003011"
+    "16003011",
+    "16012038"
   ],
   "references": [
     "16003011",

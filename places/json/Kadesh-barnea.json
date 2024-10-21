@@ -3,7 +3,9 @@
   "primary_id": "place:Kadesh-barnea",
   "alternate_sources": {
     "aquifer": [
-      "6510|Kadesh, Kadesh-Barnea|TyndaleBibleDictionary"
+      "6510|Kadesh, Kadesh-Barnea|TyndaleBibleDictionary",
+      "26791|Kadesh|UWTranslationWords",
+      "132337|Kadesh Barnea|BiblicaStudyNotesKeyTerms"
     ],
     "obi": [
       "ac2cef0"
@@ -15,8 +17,8 @@
       "https://pleiades.stoa.org/places/687868"
     ],
     "tipnr": [
-      "Kadesh-barnea@Num.32.8-Psa",
-      "En-mishpat|Kadesh-barnea@Num.32.8-Psa"
+      "En-mishpat|Kadesh-barnea@Num.32.8-Psa",
+      "Kadesh-barnea@Num.32.8-Psa"
     ],
     "vizbible": [
       "recVfy9PlsXdODNGL"
@@ -30,10 +32,10 @@
     "eng": {
       "preferred_label": "Kadesh-barnea",
       "alternate_labels": [
-        "En-Mishpat",
-        "Waters of Meribah-kadesh",
         "Meribah-Kadesh",
+        "En-Mishpat",
         "Meribath-kadesh",
+        "Waters of Meribah-kadesh",
         "Kadesh",
         "Kedesh"
       ],
@@ -45,11 +47,41 @@
           "description": "A town in the wilderness of Zin, in the northern part of the Sinai Peninsula, where the Israelites encamped on their way from Egypt to Canaan; it is also the location of the Meribah Spring. Spies were sent out into Canaan from this place; it later marked the southern border of the territory of Judah."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "قَادَشَ"
+    },
+    "cmn": {
+      "preferred_label": "加低斯"
+    },
+    "fra": {
+      "preferred_label": "Kadès"
+    },
+    "hin": {
+      "preferred_label": "कादेश"
+    },
+    "ind": {
+      "preferred_label": "Kadesh"
+    },
+    "por": {
+      "preferred_label": "Kades"
+    },
+    "rus": {
+      "preferred_label": "Кадесом"
+    },
+    "spa": {
+      "preferred_label": "Cades"
+    },
+    "swh": {
+      "preferred_label": "Kadeshi"
+    },
+    "tpi": {
+      "preferred_label": "Kades"
     }
   },
   "referred_to_as": [
-    "place:En-mishpat",
-    "place:Kedesh.2"
+    "place:Kedesh.2",
+    "place:En-mishpat"
   ],
   "subregion_of": [
     "place:Zin"
@@ -83,10 +115,10 @@
     }
   },
   "key_references": [
+    "04013026",
     "05002014",
     "04020016",
-    "06015023",
-    "04013026"
+    "06015023"
   ],
   "references": [
     "01014007",

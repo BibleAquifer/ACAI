@@ -28,10 +28,10 @@
     "eng": {
       "preferred_label": "Aram",
       "alternate_labels": [
+        "Syria",
         "Aramean",
         "Arameans",
-        "Paddan-Aram",
-        "Syria"
+        "Paddan-Aram"
       ],
       "descriptions": [
         {
@@ -41,11 +41,38 @@
           "description": "A land and ethnic group located in Syria, regarded as descendants of Shem; often referred to as Syria in the Old Testament."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Aram"
+    },
+    "spa": {
+      "preferred_label": "Aram"
+    },
+    "arb": {
+      "preferred_label": "أَرَامَ"
+    },
+    "hin": {
+      "preferred_label": "अराम"
+    },
+    "ind": {
+      "preferred_label": "Aram"
+    },
+    "por": {
+      "preferred_label": "Aram"
+    },
+    "rus": {
+      "preferred_label": "Арам"
+    },
+    "swh": {
+      "preferred_label": "Aramu"
+    },
+    "tpi": {
+      "preferred_label": "Aram"
     }
   },
   "referred_to_as": [
-    "place:Syria",
-    "place:Paddan-aram"
+    "place:Paddan-aram",
+    "place:Syria"
   ],
   "subregion_of": [
     "place:Syria"

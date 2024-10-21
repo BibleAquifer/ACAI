@@ -3,7 +3,8 @@
   "primary_id": "group:Greek",
   "alternate_sources": {
     "aquifer": [
-      "341026|greeks|FIAKeyTerms"
+      "341026|greeks|FIAKeyTerms",
+      "26663|Greek|UWTranslationWords"
     ],
     "ubsdbh": [
       "002859001001000"
@@ -33,6 +34,12 @@
           "description": "People who live in Greece. In the New Testament Greeks can be understood as people who are not Jewish."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Yavanite"
+    },
+    "spa": {
+      "preferred_label": "javanita"
     }
   },
   "referred_to_as": [

@@ -23,9 +23,9 @@
     "eng": {
       "preferred_label": "Fish Gate",
       "alternate_labels": [
-        " Gate",
+        "Gate of the Fishes",
         "Fish",
-        "Gate of the Fishes"
+        " Gate"
       ],
       "descriptions": [
         {
@@ -35,6 +35,30 @@
           "description": "A gate in the northern wall of Jerusalem."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلسَّمَكِ"
+    },
+    "fra": {
+      "preferred_label": "poissons"
+    },
+    "hin": {
+      "preferred_label": "मछली"
+    },
+    "ind": {
+      "preferred_label": "Ikan"
+    },
+    "rus": {
+      "preferred_label": "Рыбные"
+    },
+    "spa": {
+      "preferred_label": "del"
+    },
+    "swh": {
+      "preferred_label": "samaki"
+    },
+    "tpi": {
+      "preferred_label": "Pis"
     }
   },
   "subregion_of": [
@@ -65,10 +89,10 @@
     }
   },
   "key_references": [
+    "36001010",
     "16012039",
-    "14033014",
     "16003003",
-    "36001010"
+    "14033014"
   ],
   "references": [
     "14033014",

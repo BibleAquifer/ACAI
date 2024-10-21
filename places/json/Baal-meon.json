@@ -9,9 +9,9 @@
       "a76f7b7"
     ],
     "tipnr": [
-      "Beon|Baal-meon@Num.32.3-Ezk",
       "Baal-meon@Num.32.3-Ezk",
-      "Beth-meon|Baal-meon@Num.32.3-Ezk"
+      "Beth-meon|Baal-meon@Num.32.3-Ezk",
+      "Beon|Baal-meon@Num.32.3-Ezk"
     ],
     "vizbible": [
       "recUga1ulf3rDvMru"
@@ -25,9 +25,9 @@
     "eng": {
       "preferred_label": "Baal-meon",
       "alternate_labels": [
+        "Beon",
         "Beth-Meon",
-        "Beth-Baal-Meon",
-        "Beon"
+        "Beth-Baal-Meon"
       ],
       "descriptions": [
         {
@@ -37,11 +37,35 @@
           "description": "A town in the territory of Reuben, and later of Moab; also known as Beth-Meon, Beth-Baal-Meon, and Beon."
         }
       ]
+    },
+    "cmn": {
+      "preferred_label": "巴力‧免"
+    },
+    "fra": {
+      "preferred_label": "Baal-Meon"
+    },
+    "hin": {
+      "preferred_label": "बालमोन"
+    },
+    "ind": {
+      "preferred_label": "Baal-Meon"
+    },
+    "por": {
+      "preferred_label": "Baal-meon"
+    },
+    "spa": {
+      "preferred_label": "Baal-meón"
+    },
+    "swh": {
+      "preferred_label": "Baal-meoni"
+    },
+    "tpi": {
+      "preferred_label": "Bet"
     }
   },
   "referred_to_as": [
-    "place:Beth-meon",
-    "place:Beon"
+    "place:Beon",
+    "place:Beth-meon"
   ],
   "tribal_area": "group:Reuben",
   "subregion_of": [
@@ -76,8 +100,8 @@
     }
   },
   "key_references": [
-    "04032038",
     "04032003",
+    "04032038",
     "24048023"
   ],
   "references": [

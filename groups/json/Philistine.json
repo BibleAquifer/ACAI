@@ -8,8 +8,8 @@
       "132213|Philistines|BiblicaStudyNotesKeyTerms"
     ],
     "ubsdbh": [
-      "005173002001000 005906001001000",
-      "005906001001000"
+      "005906001001000",
+      "005173002001000 005906001001000"
     ],
     "tipnr": [
       "Philistine@Gen.21.32-Zec"
@@ -19,8 +19,8 @@
   "group_type": "residence",
   "group_origin": "place:Philistine",
   "ubsdbh": [
-    "005173002001000 005906001001000",
-    "005906001001000"
+    "005906001001000",
+    "005173002001000 005906001001000"
   ],
   "localizations": {
     "eng": {
@@ -36,6 +36,33 @@
           "description": "People who live in Philistia."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Philistins"
+    },
+    "spa": {
+      "preferred_label": "los"
+    },
+    "arb": {
+      "preferred_label": "فِلِشْتِيمُ"
+    },
+    "cmn": {
+      "preferred_label": "非利士"
+    },
+    "hin": {
+      "preferred_label": "पलिश्ती"
+    },
+    "ind": {
+      "preferred_label": "Filistin"
+    },
+    "por": {
+      "preferred_label": "Pathrusim"
+    },
+    "rus": {
+      "preferred_label": "Филистимляне"
+    },
+    "swh": {
+      "preferred_label": "Wafilisti"
     }
   },
   "referred_to_as": [

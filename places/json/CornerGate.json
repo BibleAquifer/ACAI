@@ -20,8 +20,8 @@
     "eng": {
       "preferred_label": "Corner Gate",
       "alternate_labels": [
-        "Corner",
-        " Gate"
+        " Gate",
+        "Corner"
       ],
       "descriptions": [
         {
@@ -31,6 +31,30 @@
           "description": "A gate in the wall of Jerusalem which Jehoash destroyed (2 Kings 14:13; 2 Chronicles25:23); later Uzziah built towers there (2 Chronicles26:9)."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلزَّاوِيَةِ"
+    },
+    "fra": {
+      "preferred_label": "angle"
+    },
+    "hin": {
+      "preferred_label": "कोनेवाले"
+    },
+    "ind": {
+      "preferred_label": "Gerbang"
+    },
+    "por": {
+      "preferred_label": "esquina"
+    },
+    "rus": {
+      "preferred_label": "угольных"
+    },
+    "spa": {
+      "preferred_label": "ángulo"
+    },
+    "swh": {
+      "preferred_label": "pembeni"
     }
   },
   "subregion_of": [
@@ -65,9 +89,9 @@
     }
   },
   "key_references": [
+    "14025023",
     "14026009",
     "12014013",
-    "14025023",
     "24031038"
   ],
   "references": [

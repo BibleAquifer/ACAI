@@ -29,10 +29,10 @@
       "preferred_label": "Gaza",
       "alternate_labels": [
         "Gazites",
-        "Gazite",
-        "Ayyah",
         "Gazathites",
-        "Azzah"
+        "Azzah",
+        "Ayyah",
+        "Gazite"
       ],
       "descriptions": [
         {
@@ -42,6 +42,33 @@
           "description": "A town in Philistia; one of the five cities of the Philistines."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "غَزَّةَ"
+    },
+    "fra": {
+      "preferred_label": "Gaza"
+    },
+    "hin": {
+      "preferred_label": "गाज़ा"
+    },
+    "ind": {
+      "preferred_label": "Gaza"
+    },
+    "por": {
+      "preferred_label": "Gaza"
+    },
+    "rus": {
+      "preferred_label": "Газы"
+    },
+    "spa": {
+      "preferred_label": "Gaza"
+    },
+    "swh": {
+      "preferred_label": "Gaza"
+    },
+    "tpi": {
+      "preferred_label": "Gasa"
     }
   },
   "referred_to_as": [
@@ -89,10 +116,10 @@
     }
   },
   "key_references": [
-    "07001018",
-    "44008026",
     "06010041",
+    "07001018",
     "01010019",
+    "44008026",
     "09006017",
     "05002023"
   ],

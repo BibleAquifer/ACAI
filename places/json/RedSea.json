@@ -4,7 +4,8 @@
   "alternate_sources": {
     "aquifer": [
       "7971|Red Sea|TyndaleBibleDictionary",
-      "132266|Red Sea|BiblicaStudyNotesKeyTerms"
+      "132266|Red Sea|BiblicaStudyNotesKeyTerms",
+      "27020|Redsea|UWTranslationWords"
     ],
     "pleiades": [
       "http://pleiades.stoa.org/places/39290"
@@ -21,8 +22,8 @@
     "eng": {
       "preferred_label": "Red Sea",
       "alternate_labels": [
-        "Red",
-        " Sea"
+        " Sea",
+        "Red"
       ],
       "descriptions": [
         {
@@ -32,6 +33,33 @@
           "description": "A body of salt water located between Egypt and the Sinai Peninsula, which the Israelites crossed after they left Egypt."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "سُوفَ"
+    },
+    "fra": {
+      "preferred_label": "Rouge"
+    },
+    "hin": {
+      "preferred_label": "लाल"
+    },
+    "ind": {
+      "preferred_label": "Teberau"
+    },
+    "por": {
+      "preferred_label": "Vermelho"
+    },
+    "rus": {
+      "preferred_label": "Чермное"
+    },
+    "spa": {
+      "preferred_label": "Bermejo"
+    },
+    "swh": {
+      "preferred_label": "Shamu"
+    },
+    "tpi": {
+      "preferred_label": "Retsi"
     }
   },
   "mentioned_in_bible": true,

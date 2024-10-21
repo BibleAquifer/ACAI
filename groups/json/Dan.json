@@ -3,9 +3,9 @@
   "primary_id": "group:Dan",
   "alternate_sources": {
     "ubsdbh": [
-      "001689001001000",
-      "001689001002000 001690001001000",
       "001689001002000",
+      "001689001002000 001690001001000",
+      "001689001001000",
       "001694001001000"
     ],
     "digital_atlas_roman_empire": [
@@ -22,9 +22,9 @@
   "group_type": "residence",
   "group_origin": "place:Dan",
   "ubsdbh": [
-    "001689001001000",
-    "001689001002000 001690001001000",
     "001689001002000",
+    "001689001002000 001690001001000",
+    "001689001001000",
     "001694001001000"
   ],
   "localizations": {
@@ -42,6 +42,33 @@
           "description": "People descended from Dan, the son of Jacob."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Dan"
+    },
+    "spa": {
+      "preferred_label": "Dan"
+    },
+    "arb": {
+      "preferred_label": "دَانَ"
+    },
+    "hin": {
+      "preferred_label": "दान"
+    },
+    "ind": {
+      "preferred_label": "Dan"
+    },
+    "por": {
+      "preferred_label": "Dan"
+    },
+    "rus": {
+      "preferred_label": "Дан"
+    },
+    "swh": {
+      "preferred_label": "Dani"
+    },
+    "tpi": {
+      "preferred_label": "Dan"
     }
   },
   "only_mentioned_in_apocrypha": false,

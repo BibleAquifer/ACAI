@@ -22,8 +22,8 @@
       "alternate_labels": [
         "Gate of the Fountain",
         "Gate of the Well",
-        "Fountain",
-        " Gate"
+        " Gate",
+        "Fountain"
       ],
       "descriptions": [
         {
@@ -33,6 +33,33 @@
           "description": "A gate of Jerusalem in the City of David."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلْعَيْنِ"
+    },
+    "fra": {
+      "preferred_label": "source"
+    },
+    "hin": {
+      "preferred_label": "मैं"
+    },
+    "ind": {
+      "preferred_label": "Mata"
+    },
+    "por": {
+      "preferred_label": "cavalgadura"
+    },
+    "rus": {
+      "preferred_label": "Источника"
+    },
+    "spa": {
+      "preferred_label": "Fuente"
+    },
+    "swh": {
+      "preferred_label": "chemchemi"
+    },
+    "tpi": {
+      "preferred_label": "Hul"
     }
   },
   "subregion_of": [
@@ -66,9 +93,9 @@
     }
   },
   "key_references": [
-    "16012037",
     "16002014",
-    "16003015"
+    "16003015",
+    "16012037"
   ],
   "references": [
     "16002014",

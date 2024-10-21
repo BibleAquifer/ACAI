@@ -33,6 +33,33 @@
           "description": "A town or area in the hill country of Ephraim where Ehud escaped to after he killed Eglon, king of Moab."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "إِلَى"
+    },
+    "cmn": {
+      "preferred_label": "西伊拉"
+    },
+    "fra": {
+      "preferred_label": "Seïra"
+    },
+    "hin": {
+      "preferred_label": "निकला"
+    },
+    "ind": {
+      "preferred_label": "Seira"
+    },
+    "por": {
+      "preferred_label": "Seirath"
+    },
+    "rus": {
+      "preferred_label": "Сеираф"
+    },
+    "spa": {
+      "preferred_label": "Seirath"
+    },
+    "swh": {
+      "preferred_label": "Seira"
     }
   },
   "tribal_area": "group:Ephraim",
@@ -51,8 +78,8 @@
       "special"
     ],
     "acai": [
-      "town",
-      "geographical feature"
+      "geographical feature",
+      "town"
     ]
   },
   "geocoordinates": {

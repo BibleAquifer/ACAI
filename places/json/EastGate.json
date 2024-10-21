@@ -20,8 +20,8 @@
     "eng": {
       "preferred_label": "East Gate",
       "alternate_labels": [
-        " Gate",
-        "East"
+        "East",
+        " Gate"
       ],
       "descriptions": [
         {
@@ -31,6 +31,27 @@
           "description": "A gate in the city of Jerusalem."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلشَّرْقِ"
+    },
+    "fra": {
+      "preferred_label": "orient"
+    },
+    "hin": {
+      "preferred_label": "पूर्वी"
+    },
+    "rus": {
+      "preferred_label": "восточных"
+    },
+    "spa": {
+      "preferred_label": "oriental"
+    },
+    "swh": {
+      "preferred_label": "mashariki"
+    },
+    "tpi": {
+      "preferred_label": "hap"
     }
   },
   "subregion_of": [
@@ -68,10 +89,10 @@
     }
   },
   "key_references": [
-    "26011001",
-    "16003029",
     "14031014",
-    "13026014"
+    "16003029",
+    "13026014",
+    "26011001"
   ],
   "references": [
     "13026014",

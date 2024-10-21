@@ -13,8 +13,8 @@
       "http://pleiades.stoa.org/places/678121"
     ],
     "tipnr": [
-      "Dor@Jos.12.23-1Ch",
-      "Naphoth-dor|Dor@Jos.12.23-1Ch"
+      "Naphoth-dor|Dor@Jos.12.23-1Ch",
+      "Dor@Jos.12.23-1Ch"
     ],
     "vizbible": [
       "recvyeVO2Ex1jYF7o"
@@ -28,11 +28,11 @@
     "eng": {
       "preferred_label": "Dor",
       "alternate_labels": [
-        "coast of Dor",
-        "region of Dor",
-        "borders of Dor",
         "Naphath-dor",
-        "Naphoth-Dor"
+        "coast of Dor",
+        "Naphoth-Dor",
+        "region of Dor",
+        "borders of Dor"
       ],
       "descriptions": [
         {
@@ -42,6 +42,33 @@
           "description": "A coastal town in the territory of West Manasseh, north of Caesarea."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "دُوَرٍ"
+    },
+    "fra": {
+      "preferred_label": "Dor"
+    },
+    "hin": {
+      "preferred_label": "दोर"
+    },
+    "ind": {
+      "preferred_label": "Dor"
+    },
+    "por": {
+      "preferred_label": "Dor"
+    },
+    "rus": {
+      "preferred_label": "Дора"
+    },
+    "spa": {
+      "preferred_label": "Dor"
+    },
+    "swh": {
+      "preferred_label": "Dori"
+    },
+    "tpi": {
+      "preferred_label": "Dor"
     }
   },
   "referred_to_as": [
@@ -88,8 +115,8 @@
   },
   "key_references": [
     "06012023",
-    "06011002",
     "07001027",
+    "06011002",
     "11004011"
   ],
   "references": [

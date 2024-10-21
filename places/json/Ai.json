@@ -12,8 +12,8 @@
     ],
     "tipnr": [
       "Aija|Ai@Gen.12.8-Isa",
-      "Aiath|Ai@Gen.12.8-Isa",
-      "Ai@Gen.12.8-Isa"
+      "Ai@Gen.12.8-Isa",
+      "Aiath|Ai@Gen.12.8-Isa"
     ],
     "vizbible": [
       "recedRWoiFNdeGFm4"
@@ -25,9 +25,9 @@
       "preferred_label": "Ai (of Ephraim)",
       "alternate_labels": [
         "Ketiv. Qere",
-        "Aija",
-        "Hai",
         "Aiath",
+        "Hai",
+        "Aija",
         "city",
         "Ai"
       ],
@@ -39,14 +39,41 @@
           "description": "A town near Bethel in the territory of Ephraim; probably to be identified with Aiath. After an initial defeat, the Canaanite town was eventually conquered by the Israelites (Joshua 7–8)."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "عَايٍ"
+    },
+    "fra": {
+      "preferred_label": "ville"
+    },
+    "hin": {
+      "preferred_label": "परन्तु"
+    },
+    "ind": {
+      "preferred_label": "hai"
+    },
+    "por": {
+      "preferred_label": "Hai"
+    },
+    "rus": {
+      "preferred_label": "Гай"
+    },
+    "spa": {
+      "preferred_label": "Hai"
+    },
+    "swh": {
+      "preferred_label": "mji"
+    },
+    "tpi": {
+      "preferred_label": "taun"
     }
   },
   "possibly_same_as": [
     "place:Aiath"
   ],
   "referred_to_as": [
-    "place:Aija",
-    "place:Aiath"
+    "place:Aiath",
+    "place:Aija"
   ],
   "tribal_area": "group:Ephraim",
   "nearby_places": [
@@ -87,11 +114,11 @@
     }
   },
   "key_references": [
-    "16011031",
-    "06007001",
     "23010028",
     "01012008",
-    "13007028"
+    "06007001",
+    "13007028",
+    "16011031"
   ],
   "references": [
     "01012008",

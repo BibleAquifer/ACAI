@@ -8,8 +8,8 @@
     "ubsdbh": [
       "006017001001000",
       "006018001001000",
-      "006015001001000",
-      "000616001001000"
+      "000616001001000",
+      "006015001001000"
     ],
     "tipnr": [
       "Persia@2Ch.36.20-Dan"
@@ -21,8 +21,8 @@
   "ubsdbh": [
     "006017001001000",
     "006018001001000",
-    "006015001001000",
-    "000616001001000"
+    "000616001001000",
+    "006015001001000"
   ],
   "localizations": {
     "eng": {
@@ -38,6 +38,12 @@
           "description": "People who live in Persia."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Perse"
+    },
+    "spa": {
+      "preferred_label": "persa"
     }
   },
   "only_mentioned_in_apocrypha": false,

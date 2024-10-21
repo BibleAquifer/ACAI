@@ -10,9 +10,9 @@
       "93.610"
     ],
     "ubsdbh": [
+      "003455001001000",
       "003456001001000",
-      "003456002001000",
-      "003455001001000"
+      "003456002001000"
     ],
     "tipnr": [
       "Chaldea@Gen.11.28-Act"
@@ -25,9 +25,9 @@
     "93.610"
   ],
   "ubsdbh": [
+    "003455001001000",
     "003456001001000",
-    "003456002001000",
-    "003455001001000"
+    "003456002001000"
   ],
   "localizations": {
     "eng": {
@@ -43,6 +43,12 @@
           "description": "People who live in Chaldea."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Chaldéens"
+    },
+    "spa": {
+      "preferred_label": "caldeo"
     }
   },
   "referred_to_as": [
@@ -52,12 +58,12 @@
   "only_mentioned_in_apocrypha": false,
   "non_biblical": false,
   "lemmas": {
+    "arc": [
+      "כַּשְׂדָּי"
+    ],
     "he": [
       "כַּשְׂדִּים",
       "ה"
-    ],
-    "arc": [
-      "כַּשְׂדָּי"
     ],
     "el": [
       "Χαλδαῖος"

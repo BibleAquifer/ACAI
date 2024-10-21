@@ -14,8 +14,8 @@
     "tipnr": [
       "Bethlehem@Gen.35.16-Jhn",
       "Ephrath|Bethlehem@Gen.35.16-Jhn",
-      "Lehem|Bethlehem@Gen.35.16-Jhn",
-      "Ephrathah|Bethlehem@Gen.35.16-Jhn"
+      "Ephrathah|Bethlehem@Gen.35.16-Jhn",
+      "Lehem|Bethlehem@Gen.35.16-Jhn"
     ],
     "vizbible": [
       "rec81f3wE4gATsRRE"
@@ -26,17 +26,17 @@
     "eng": {
       "preferred_label": "Bethlehem (of Judah)",
       "alternate_labels": [
-        "Beth-Lehem",
-        "Ephrathah",
         "Ephrath",
         "Jashubi-lehem",
+        "Beth-Lehem",
         "Lehem",
         "Beth-Lehemite",
-        "Bethlehem Ephrathah",
-        "Bethlehem of Ephrathah",
         "Ephratah",
+        "Beth-lehem-judah",
         "Beth-lehem Ephratah",
-        "Beth-lehem-judah"
+        "Bethlehem Ephrathah",
+        "Ephrathah",
+        "Bethlehem of Ephrathah"
       ],
       "descriptions": [
         {
@@ -46,6 +46,36 @@
           "description": "A town in the territory of Judah, southwest of Jerusalem, where Jesus was born; ancestral town of King David."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "لَحْمٍ"
+    },
+    "cmn": {
+      "preferred_label": "伯利恆"
+    },
+    "fra": {
+      "preferred_label": "Bethléhem"
+    },
+    "hin": {
+      "preferred_label": "बैतलहम"
+    },
+    "ind": {
+      "preferred_label": "Betlehem"
+    },
+    "por": {
+      "preferred_label": "Beth-lehem"
+    },
+    "rus": {
+      "preferred_label": "Вифлееме"
+    },
+    "spa": {
+      "preferred_label": "Catah"
+    },
+    "swh": {
+      "preferred_label": "Bethlehemu"
+    },
+    "tpi": {
+      "preferred_label": "Betlehem"
     }
   },
   "possibly_same_as": [
@@ -103,11 +133,11 @@
   },
   "key_references": [
     "33005002",
-    "40002001",
-    "01035019",
     "42002001",
     "09016001",
-    "43007042"
+    "40002001",
+    "43007042",
+    "01035019"
   ],
   "references": [
     "01035016",

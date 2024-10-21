@@ -26,12 +26,12 @@
     "eng": {
       "preferred_label": "Tekoa",
       "alternate_labels": [
+        "Wilderness of Tekoa",
         "Tekoah",
-        "Desert of Tekoa",
         "Tekoites",
         "Tekoite",
         "Tekoan",
-        "Wilderness of Tekoa"
+        "Desert of Tekoa"
       ],
       "descriptions": [
         {
@@ -41,6 +41,36 @@
           "description": "A town in the territory of Judah; hometown of the prophet Amos."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "تَقُوعَ"
+    },
+    "cmn": {
+      "preferred_label": "提哥亞"
+    },
+    "fra": {
+      "preferred_label": "Tekoa"
+    },
+    "hin": {
+      "preferred_label": "तकोआ"
+    },
+    "ind": {
+      "preferred_label": "Tekoa"
+    },
+    "por": {
+      "preferred_label": "Tekoa"
+    },
+    "rus": {
+      "preferred_label": "Фекою"
+    },
+    "spa": {
+      "preferred_label": "Tecoa"
+    },
+    "swh": {
+      "preferred_label": "Tekoa"
+    },
+    "tpi": {
+      "preferred_label": "Tekoa"
     }
   },
   "tribal_area": "group:Judah",
@@ -76,8 +106,8 @@
     }
   },
   "key_references": [
-    "30001001",
     "16003005",
+    "30001001",
     "14020020"
   ],
   "references": [

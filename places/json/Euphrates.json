@@ -3,7 +3,9 @@
   "primary_id": "place:Euphrates",
   "alternate_sources": {
     "aquifer": [
-      "5186|Euphrates River|TyndaleBibleDictionary"
+      "5186|Euphrates River|TyndaleBibleDictionary",
+      "26573|Euphrates|UWTranslationWords",
+      "132500|River Euphrates|BiblicaStudyNotesKeyTerms"
     ],
     "obi": [
       "a62dec4"
@@ -13,8 +15,8 @@
       "http://pleiades.stoa.org/places/912849"
     ],
     "tipnr": [
-      "Euphrates@Gen.2.14-Rev",
-      "River|Euphrates@Gen.2.14-Rev"
+      "River|Euphrates@Gen.2.14-Rev",
+      "Euphrates@Gen.2.14-Rev"
     ],
     "vizbible": [
       "recJ0N5yStBk9CjXA"
@@ -29,9 +31,9 @@
       "preferred_label": "Euphrates River",
       "alternate_labels": [
         "River",
-        "Perath",
-        "Great River",
         "River Euphrates",
+        "Great River",
+        "Perath",
         "Euphrates"
       ],
       "descriptions": [
@@ -42,6 +44,36 @@
           "description": "A large river in Mesopotamia; one of the four rivers flowing from the garden of Eden."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلْفُرَاتِ"
+    },
+    "cmn": {
+      "preferred_label": "幼發拉底"
+    },
+    "fra": {
+      "preferred_label": "Euphrate"
+    },
+    "hin": {
+      "preferred_label": "फरात"
+    },
+    "ind": {
+      "preferred_label": "Efrat"
+    },
+    "por": {
+      "preferred_label": "Euphrates"
+    },
+    "rus": {
+      "preferred_label": "Евфрат"
+    },
+    "spa": {
+      "preferred_label": "Eufrates"
+    },
+    "swh": {
+      "preferred_label": "Mto"
+    },
+    "tpi": {
+      "preferred_label": "Yufretis"
     }
   },
   "referred_to_as": [
@@ -85,9 +117,9 @@
   "key_references": [
     "05011024",
     "01002014",
+    "14035020",
     "66016012",
     "01015018",
-    "14035020",
     "24013004"
   ],
   "references": [
