@@ -4,7 +4,9 @@
   "alternate_sources": {
     "aquifer": [
       "6439|Jordan River|TyndaleBibleDictionary",
-      "26775|Jordan River|UWTranslationWords"
+      "26775|Jordan River|UWTranslationWords",
+      "280170|jordan-river|FIAKeyTerms",
+      "132352|River Jordan|BiblicaStudyNotesKeyTerms"
     ],
     "obi": [
       "ae686c9"
@@ -41,6 +43,36 @@
           "description": "A river flowing south from Mount Hermon through the Sea of Galilee into the Dead Sea. Jesus was baptized by John in the Jordan River (Matthew 3:13–17; Mark 1:9–11; Luke 3:21–22; John 1:29–34)."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلْأُرْدُنِّ"
+    },
+    "cmn": {
+      "preferred_label": "約旦河"
+    },
+    "fra": {
+      "preferred_label": "Jourdain"
+    },
+    "hin": {
+      "preferred_label": "यरदन"
+    },
+    "ind": {
+      "preferred_label": "Yordan"
+    },
+    "por": {
+      "preferred_label": "Jordão"
+    },
+    "rus": {
+      "preferred_label": "Иорданскую"
+    },
+    "spa": {
+      "preferred_label": "Jordán"
+    },
+    "swh": {
+      "preferred_label": "Yordani"
+    },
+    "tpi": {
+      "preferred_label": "Jordan"
     }
   },
   "nearby_places": [
@@ -80,14 +112,14 @@
     }
   },
   "key_references": [
+    "41001004",
     "42003003",
+    "06003001",
+    "40003013",
+    "43010040",
     "41001009",
     "12005010",
-    "41001004",
-    "43010040",
-    "06004001",
-    "40003013",
-    "06003001"
+    "06004001"
   ],
   "references": [
     "01013010",

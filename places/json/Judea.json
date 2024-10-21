@@ -6,7 +6,8 @@
       "6487|Judea, Judeans|TyndaleBibleDictionary",
       "26786|Judea|UWTranslationWords",
       "131981|Judea|BiblicaStudyNotesKeyTerms",
-      "280221|judea|FIAKeyTerms"
+      "280221|judea|FIAKeyTerms",
+      "132426|Southern kingdom|BiblicaStudyNotesKeyTerms"
     ],
     "tipnr": [
       "Judea@Ezr.9.9-1Th"
@@ -20,17 +21,17 @@
     "eng": {
       "preferred_label": "Judea",
       "alternate_labels": [
-        "Jewish",
-        "Judeans",
-        "Jewish leaders",
-        "of Judea",
-        "Jews",
-        "Judaea",
         "Judah",
-        "Judean",
-        "Juda",
+        "Jewish",
+        "Judaea",
         "Galilee",
-        "Jewry"
+        "Jews",
+        "Jewish leaders",
+        "Jewry",
+        "of Judea",
+        "Juda",
+        "Judean",
+        "Judeans"
       ],
       "descriptions": [
         {
@@ -40,12 +41,39 @@
           "description": "A region in southern Palestine associated with the tribe of Judah."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "يَهُوذَا"
+    },
+    "fra": {
+      "preferred_label": "Juifs"
+    },
+    "hin": {
+      "preferred_label": "यहूदिया"
+    },
+    "ind": {
+      "preferred_label": "Yehuda"
+    },
+    "por": {
+      "preferred_label": "Judea"
+    },
+    "rus": {
+      "preferred_label": "Иерусалиме"
+    },
+    "spa": {
+      "preferred_label": "Judíos"
+    },
+    "swh": {
+      "preferred_label": "Yudea"
+    },
+    "tpi": {
+      "preferred_label": "Judia"
     }
   },
   "referred_to_as": [
+    "group:Judea",
     "place:Judea.2",
-    "place:TerritoryOfJudah",
-    "group:Judea"
+    "place:TerritoryOfJudah"
   ],
   "associated_places": [
     "place:TerritoryOfJudah"
@@ -83,17 +111,17 @@
     }
   },
   "key_references": [
-    "40003001",
-    "42001065",
-    "15005008",
-    "42007017",
-    "42004044",
-    "44008001",
-    "44015001",
-    "15009009",
     "43007001",
     "44001008",
-    "41010001"
+    "44015001",
+    "42001065",
+    "44008001",
+    "42004044",
+    "41010001",
+    "40003001",
+    "15009009",
+    "42007017",
+    "15005008"
   ],
   "references": [
     "15009009",

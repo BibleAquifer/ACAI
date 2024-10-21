@@ -21,15 +21,15 @@
     "eng": {
       "preferred_label": "House of the Forest of Lebanon",
       "alternate_labels": [
-        "House of the Forest of the Lebanon",
-        "Palace of the Forest of Lebanon",
-        "Palace of the Forest",
-        "Lebanon",
-        "house of the timber from Lebanon",
         "The Palace of the Lebanon Forest",
-        "Palace of the Lebanon Forest",
+        "Palace of the Forest of Lebanon",
+        "House of the Forest of the Lebanon",
+        "House of the Forest",
+        "Lebanon",
+        "Palace of the Forest",
         "house of the timber of Lebanon",
-        "House of the Forest"
+        "Palace of the Lebanon Forest",
+        "house of the timber from Lebanon"
       ],
       "descriptions": [
         {
@@ -39,6 +39,36 @@
           "description": "A very large building in Jerusalem built by King Solomon, which consisted of four rows of pillars of cedar wood; this cedar wood likely came from the forests of Lebanon, located north of Israel; literally \"House of the Forest of Lebanon.\""
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "بَيْتِ"
+    },
+    "cmn": {
+      "preferred_label": "黎巴嫩"
+    },
+    "fra": {
+      "preferred_label": "maison"
+    },
+    "hin": {
+      "preferred_label": "महल"
+    },
+    "ind": {
+      "preferred_label": "Hutan"
+    },
+    "por": {
+      "preferred_label": "casa"
+    },
+    "rus": {
+      "preferred_label": "дом"
+    },
+    "spa": {
+      "preferred_label": "del"
+    },
+    "swh": {
+      "preferred_label": "nyumba"
+    },
+    "tpi": {
+      "preferred_label": "Lebanon"
     }
   },
   "referred_to_as": [
@@ -76,9 +106,9 @@
     }
   },
   "key_references": [
+    "11010021",
     "11007002",
-    "11010017",
-    "11010021"
+    "11010017"
   ],
   "references": [
     "11007002",

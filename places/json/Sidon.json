@@ -29,14 +29,14 @@
     "eng": {
       "preferred_label": "Sidon",
       "alternate_labels": [
-        "Great Sidon",
-        "Zidonians",
-        "Sidon the Great",
-        "Greater Sidon",
-        "Zidon",
-        "great Zidon",
         "Sidonian",
-        "Sidonians"
+        "Zidonians",
+        "Sidonians",
+        "Zidon",
+        "Great Sidon",
+        "Greater Sidon",
+        "Sidon the Great",
+        "great Zidon"
       ],
       "descriptions": [
         {
@@ -46,6 +46,33 @@
           "description": "A seaport town on the Phoenician coast, north of Tyre; marked the northern boundary of the promised land."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "صِيْدُونَ"
+    },
+    "fra": {
+      "preferred_label": "Sidon"
+    },
+    "hin": {
+      "preferred_label": "सीदोन"
+    },
+    "ind": {
+      "preferred_label": "Sidon"
+    },
+    "por": {
+      "preferred_label": "Sidon"
+    },
+    "rus": {
+      "preferred_label": "Сидон"
+    },
+    "spa": {
+      "preferred_label": "Sidón"
+    },
+    "swh": {
+      "preferred_label": "Wasidoni"
+    },
+    "tpi": {
+      "preferred_label": "Saidon"
     }
   },
   "referred_to_as": [
@@ -94,12 +121,12 @@
     }
   },
   "key_references": [
-    "44027003",
-    "40015021",
     "01049013",
     "41007031",
+    "01010019",
+    "40015021",
     "26028020",
-    "01010019"
+    "44027003"
   ],
   "references": [
     "01010019",

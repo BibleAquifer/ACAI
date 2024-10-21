@@ -1,4 +1,4 @@
-# ACAI Release: 2024-10-11
+# ACAI Release: 2024-10-21
 
 The ACAI project annotates information about people and places in the Bible. Specifically, it annotates the original languages at the word and phrase level for specific instances of people, places, and other entities. When used with a word-level alignment to a translation of the Bible (see Biblica's [Alignments](https://github.com/Clear-Bible/Alignments)) this information can be useful in all sorts of translation contexts.
 
@@ -30,7 +30,7 @@ Each record contains a `localizations` object that contains a `preferred_label` 
 
 # Included Data
 
-The data included in this release is a snapshot of the data as of 2024-10-11. It includes JSON files and Markdown files for each record. The Markdown files are generated from the JSON files (along with some Berean Standard Bible [text alignment data](https://github.com/Clear-Bible/Alignments)). They are only included as a visualization of the data within the JSON and not intended to direct or dictate how the JSON data should be used or rendered.
+The data included in this release is a snapshot of the data as of 2024-10-21. It includes JSON files and Markdown files for each record. The Markdown files are generated from the JSON files (along with some Berean Standard Bible [text alignment data](https://github.com/Clear-Bible/Alignments)). They are only included as a visualization of the data within the JSON and not intended to direct or dictate how the JSON data should be used or rendered.
 
 * [people ReadMe](people/README.md)
   * [Markdown Index](people/md/00-Index.md)

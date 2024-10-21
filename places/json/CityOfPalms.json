@@ -30,11 +30,32 @@
           "description": "A city in the territory of Judah; also known as Jericho."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "ville"
+    },
+    "spa": {
+      "preferred_label": "ciudad"
+    },
+    "hin": {
+      "preferred_label": "नगर"
+    },
+    "ind": {
+      "preferred_label": "kota"
+    },
+    "por": {
+      "preferred_label": "cidade"
+    },
+    "rus": {
+      "preferred_label": "город"
+    },
+    "swh": {
+      "preferred_label": "mji"
     }
   },
   "referred_to_as": [
-    "place:Jericho",
-    "place:CityOfPalms.2"
+    "place:CityOfPalms.2",
+    "place:Jericho"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -57,9 +78,9 @@
     ]
   },
   "key_references": [
+    "07003013",
     "14028015",
-    "05034003",
-    "07003013"
+    "05034003"
   ],
   "references": [
     "05034003",

@@ -3,7 +3,9 @@
   "primary_id": "group:Israel",
   "alternate_sources": {
     "aquifer": [
-      "280142|israelites|FIAKeyTerms"
+      "280142|israelites|FIAKeyTerms",
+      "26942|People of God|UWTranslationWords",
+      "132248|God’s people|BiblicaStudyNotesKeyTerms"
     ],
     "ubsdbh": [
       "003188001001000"
@@ -35,6 +37,12 @@
           "description": "People descended from Israel (Jacob) who later form the nation known as Israel."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Israël"
+    },
+    "spa": {
+      "preferred_label": "Israel"
     }
   },
   "referred_to_as": [

@@ -6,9 +6,9 @@
       "6709|Lebo-Hamath|TyndaleBibleDictionary"
     ],
     "ubsdbh": [
-      "002372001001000",
+      "002627001001000",
       "002372003001000",
-      "002627001001000"
+      "002372001001000"
     ],
     "digital_atlas_roman_empire": [
       "https://imperium.ahlfeldt.se/places/44506"
@@ -22,20 +22,20 @@
   },
   "type": "place",
   "ubsdbh": [
-    "002372001001000",
+    "002627001001000",
     "002372003001000",
-    "002627001001000"
+    "002372001001000"
   ],
   "localizations": {
     "eng": {
       "preferred_label": "Lebo-hamath",
       "alternate_labels": [
-        "Hamath",
-        "go",
-        "Hemath",
-        "entrance to Hamath",
-        "entrance of Hamath",
         "Hamath-Zobah",
+        "Hamath",
+        "entrance of Hamath",
+        "entrance to Hamath",
+        "Hemath",
+        "go",
         "entering in of Hamath"
       ],
       "descriptions": [
@@ -46,6 +46,33 @@
           "description": "A town located south of Hamath on the northern border of Canaan."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Hamath"
+    },
+    "spa": {
+      "preferred_label": "Hamath"
+    },
+    "arb": {
+      "preferred_label": "حَمَاةَ"
+    },
+    "hin": {
+      "preferred_label": "हमात"
+    },
+    "ind": {
+      "preferred_label": "jalan"
+    },
+    "por": {
+      "preferred_label": "Hamath"
+    },
+    "rus": {
+      "preferred_label": "Емафа"
+    },
+    "swh": {
+      "preferred_label": "Hamathi"
+    },
+    "tpi": {
+      "preferred_label": "Hamat"
     }
   },
   "referred_to_as": [
@@ -62,10 +89,10 @@
   "added_entry": false,
   "lemmas": {
     "he": [
+      "חֶתְלֹן",
       "חֲמָת",
       "ה",
-      "חֲמַת רַבָּה",
-      "חֶתְלֹן"
+      "חֲמַת רַבָּה"
     ]
   },
   "place_types": {
@@ -92,8 +119,8 @@
     }
   },
   "key_references": [
-    "11008065",
-    "04013021"
+    "04013021",
+    "11008065"
   ],
   "references": [
     "04013021",

@@ -27,11 +27,11 @@
     "eng": {
       "preferred_label": "Erech",
       "alternate_labels": [
-        "Uruk",
-        "Erechites",
         "Archevites",
-        "Erechs",
-        "Archevite"
+        "Erechites",
+        "Uruk",
+        "Archevite",
+        "Erechs"
       ],
       "descriptions": [
         {
@@ -41,6 +41,36 @@
           "description": "A town near the East bank of the Euphrates on a subsidiary of that river (ABD)."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "وَأَرَكَ"
+    },
+    "cmn": {
+      "preferred_label": "亞基衛"
+    },
+    "fra": {
+      "preferred_label": "Érec"
+    },
+    "hin": {
+      "preferred_label": "एरेख"
+    },
+    "ind": {
+      "preferred_label": "Erekh"
+    },
+    "por": {
+      "preferred_label": "Erech"
+    },
+    "rus": {
+      "preferred_label": "Эрех"
+    },
+    "spa": {
+      "preferred_label": "Erech"
+    },
+    "swh": {
+      "preferred_label": "Ereku"
+    },
+    "tpi": {
+      "preferred_label": "Erek"
     }
   },
   "nearby_places": [
@@ -78,8 +108,8 @@
     }
   },
   "key_references": [
-    "01010010",
-    "15004009"
+    "15004009",
+    "01010010"
   ],
   "references": [
     "01010010",

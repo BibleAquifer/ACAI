@@ -4,7 +4,8 @@
   "alternate_sources": {
     "aquifer": [
       "4779|Dead Sea|TyndaleBibleDictionary",
-      "8174|Scrolls, Dead Sea|TyndaleBibleDictionary"
+      "8174|Scrolls, Dead Sea|TyndaleBibleDictionary",
+      "27049|Saltsea|UWTranslationWords"
     ],
     "obi": [
       "abed304"
@@ -29,12 +30,12 @@
       "preferred_label": "Dead Sea",
       "alternate_labels": [
         "Sea of Arabah",
-        " Sea",
+        "Dead Sea Valley",
+        "Sea",
         "Sea of the Arabah",
-        "Salt",
         "sea of the plain",
         "Salt Sea",
-        "Dead Sea Valley"
+        "Salt"
       ],
       "descriptions": [
         {
@@ -44,6 +45,36 @@
           "description": "A large body of salt water (literally \"the sea of salt\") located in the basin of the Jordan Valley, east of Judah; the Jordan River flows from the north into the northern part of this sea. The water is so salty that no living organism inhabits it."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلْمِلْحِ"
+    },
+    "cmn": {
+      "preferred_label": "亞拉巴"
+    },
+    "fra": {
+      "preferred_label": "Salée"
+    },
+    "hin": {
+      "preferred_label": "अराबा"
+    },
+    "ind": {
+      "preferred_label": "Asin"
+    },
+    "por": {
+      "preferred_label": "salgado"
+    },
+    "rus": {
+      "preferred_label": "Соленое"
+    },
+    "spa": {
+      "preferred_label": "mar"
+    },
+    "swh": {
+      "preferred_label": "Araba"
+    },
+    "tpi": {
+      "preferred_label": "Detsi"
     }
   },
   "mentioned_in_bible": true,
@@ -78,9 +109,9 @@
     }
   },
   "key_references": [
+    "05003017",
     "01014003",
-    "12014025",
-    "05003017"
+    "12014025"
   ],
   "references": [
     "01014003",

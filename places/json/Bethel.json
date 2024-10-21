@@ -10,10 +10,10 @@
     ],
     "tipnr": [
       "Aven|Bethel@Gen.12.8-Zec",
+      "Bethel@Gen.12.8-Zec",
       "Luz|Bethel@Gen.12.8-Zec",
       "Bochim|Bethel@Gen.12.8-Zec",
-      "El-bethel|Bethel@Gen.12.8-Zec",
-      "Bethel@Gen.12.8-Zec"
+      "El-bethel|Bethel@Gen.12.8-Zec"
     ],
     "vizbible": [
       "recJK76HLZSOzxTWW"
@@ -24,14 +24,14 @@
     "eng": {
       "preferred_label": "Bethel (of Ephraim)",
       "alternate_labels": [
+        "Bochim",
         "Luz",
-        "Beth-Elite",
-        "wickedness",
         "Aven",
-        "House of God",
         "Beth-El",
-        "El-Bethel",
-        "Bochim"
+        "Beth-Elite",
+        "El-Beth-El",
+        "House of God",
+        "wickedness"
       ],
       "descriptions": [
         {
@@ -41,14 +41,35 @@
           "description": "A town and cult center in the territory of Ephraim, near the border of Benjamin; also referred to as Beth-Aven, or simply Aven."
         }
       ]
+    },
+    "cmn": {
+      "preferred_label": "伯特利"
+    },
+    "hin": {
+      "preferred_label": "बेतेल"
+    },
+    "ind": {
+      "preferred_label": "Betel"
+    },
+    "por": {
+      "preferred_label": "Bethel"
+    },
+    "spa": {
+      "preferred_label": "Beth-el"
+    },
+    "swh": {
+      "preferred_label": "Betheli"
+    },
+    "tpi": {
+      "preferred_label": "Betel"
     }
   },
   "referred_to_as": [
-    "place:Bochim",
-    "place:El-bethel",
     "place:Aven",
-    "place:Beth-aven.2",
-    "place:Luz"
+    "place:El-bethel",
+    "place:Bochim",
+    "place:Luz",
+    "place:Beth-aven.2"
   ],
   "tribal_area": "group:Ephraim",
   "subregion_of": [
@@ -79,12 +100,12 @@
     }
   },
   "key_references": [
-    "28010005",
-    "28005008",
-    "28004015",
     "01012008",
+    "28005008",
     "28010008",
-    "01028019"
+    "28010005",
+    "01028019",
+    "28004015"
   ],
   "references": [
     "01012008",

@@ -26,8 +26,8 @@
     "eng": {
       "preferred_label": "Aven",
       "alternate_labels": [
-        "wickedness",
-        "Bethel"
+        "Bethel",
+        "wickedness"
       ],
       "descriptions": [
         {
@@ -37,11 +37,26 @@
           "description": "A town and cult center in the territory of Ephraim, near the border of Benjamin; normally referred to as Bethel or Beth-Aven. It is probably a pun featuring the meaning of אָוֶן \"evil, iniquity\" because of the idolatry that was practiced in this town. "
         }
       ]
+    },
+    "hin": {
+      "preferred_label": "आवेन"
+    },
+    "ind": {
+      "preferred_label": "Awen"
+    },
+    "por": {
+      "preferred_label": "Aven"
+    },
+    "spa": {
+      "preferred_label": "Avén"
+    },
+    "swh": {
+      "preferred_label": "Aveni"
     }
   },
   "referred_to_as": [
-    "place:Beth-aven.2",
-    "place:Bethel"
+    "place:Bethel",
+    "place:Beth-aven.2"
   ],
   "tribal_area": "group:Ephraim",
   "nearby_places": [

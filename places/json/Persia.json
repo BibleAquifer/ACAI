@@ -25,11 +25,11 @@
     "eng": {
       "preferred_label": "Persia",
       "alternate_labels": [
-        "Apharsite",
-        "Apharsites",
-        "Persians",
+        "Paras",
         "Persian",
-        "Paras"
+        "Persians",
+        "Apharsites",
+        "Apharsite"
       ],
       "descriptions": [
         {
@@ -39,6 +39,33 @@
           "description": "A nation and its territory, which was greatly expanded during the reign of Cyrus I."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "فَارِسَ"
+    },
+    "fra": {
+      "preferred_label": "Perse"
+    },
+    "hin": {
+      "preferred_label": "फारस"
+    },
+    "ind": {
+      "preferred_label": "Persia"
+    },
+    "por": {
+      "preferred_label": "Persia"
+    },
+    "rus": {
+      "preferred_label": "Персидского"
+    },
+    "spa": {
+      "preferred_label": "Persas"
+    },
+    "swh": {
+      "preferred_label": "Uajemi"
+    },
+    "tpi": {
+      "preferred_label": "King"
     }
   },
   "referred_to_as": [
@@ -72,8 +99,8 @@
     }
   },
   "key_references": [
-    "15001001",
-    "14036020"
+    "14036020",
+    "15001001"
   ],
   "references": [
     "14036020",

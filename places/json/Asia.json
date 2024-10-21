@@ -28,10 +28,10 @@
     "eng": {
       "preferred_label": "Asia",
       "alternate_labels": [
-        "Asian",
-        "Achaia",
         "Asians",
-        "Asiarchs"
+        "Achaia",
+        "Asiarchs",
+        "Asian"
       ],
       "descriptions": [
         {
@@ -41,6 +41,36 @@
           "description": "The Roman province of Asia, primarily the western part of present-day Turkey."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "أَسِيَّا"
+    },
+    "cmn": {
+      "preferred_label": "亞細亞"
+    },
+    "fra": {
+      "preferred_label": "Asie"
+    },
+    "hin": {
+      "preferred_label": "आसिया"
+    },
+    "ind": {
+      "preferred_label": "Asia"
+    },
+    "por": {
+      "preferred_label": "Asia"
+    },
+    "rus": {
+      "preferred_label": "Асии"
+    },
+    "spa": {
+      "preferred_label": "Asia"
+    },
+    "swh": {
+      "preferred_label": "Asia"
+    },
+    "tpi": {
+      "preferred_label": "Esia"
     }
   },
   "referred_to_as": [
@@ -85,12 +115,12 @@
     }
   },
   "key_references": [
-    "44027002",
     "66001004",
-    "44019010",
+    "44027002",
     "44016006",
-    "45016005",
-    "44019022"
+    "44019010",
+    "44019022",
+    "45016005"
   ],
   "references": [
     "44002009",

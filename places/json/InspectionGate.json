@@ -23,11 +23,11 @@
     "eng": {
       "preferred_label": "Muster Gate",
       "alternate_labels": [
-        "Gate Miphkad",
-        "Enrollment Gate",
         "Inspection Gate",
         "Miphkad Gate",
-        "Miphkad"
+        "Gate Miphkad",
+        "Miphkad",
+        "Enrollment Gate"
       ],
       "descriptions": [
         {
@@ -37,6 +37,27 @@
           "description": "A gate in Jerusalem opposite the house of the temple servants and the merchants (Nehemiah 3:31)."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Miphkad"
+    },
+    "hin": {
+      "preferred_label": "ठहराए"
+    },
+    "ind": {
+      "preferred_label": "Pendaftaran"
+    },
+    "rus": {
+      "preferred_label": "Гаммифкад"
+    },
+    "spa": {
+      "preferred_label": "del"
+    },
+    "swh": {
+      "preferred_label": "gereza"
+    },
+    "tpi": {
+      "preferred_label": "haus"
     }
   },
   "subregion_of": [

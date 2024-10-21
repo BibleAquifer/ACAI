@@ -33,6 +33,33 @@
           "description": "A town in Gilead in Transjordan."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "يَابِيشَ"
+    },
+    "fra": {
+      "preferred_label": "Jabès"
+    },
+    "hin": {
+      "preferred_label": "याबेश"
+    },
+    "ind": {
+      "preferred_label": "Yabesh-Gilead"
+    },
+    "por": {
+      "preferred_label": "Jabez-gilead"
+    },
+    "rus": {
+      "preferred_label": "Иавис"
+    },
+    "spa": {
+      "preferred_label": "Jabes"
+    },
+    "swh": {
+      "preferred_label": "Yabeshi"
+    },
+    "tpi": {
+      "preferred_label": "Jabes"
     }
   },
   "subregion_of": [
@@ -66,11 +93,11 @@
     }
   },
   "key_references": [
-    "07021008",
-    "09031011",
-    "07021012",
     "07021010",
-    "09031012"
+    "09031012",
+    "07021012",
+    "07021008",
+    "09031011"
   ],
   "references": [
     "07021008",

@@ -12,8 +12,8 @@
       "a581f0c"
     ],
     "tipnr": [
-      "trading|Canaan@Gen.10.18-Act",
-      "Canaan@Gen.10.18-Act"
+      "Canaan@Gen.10.18-Act",
+      "trading|Canaan@Gen.10.18-Act"
     ],
     "vizbible": [
       "recRxBBePxyyV6TFO"
@@ -27,17 +27,17 @@
     "eng": {
       "preferred_label": "Canaan",
       "alternate_labels": [
-        "Canaanite",
-        "Gentile",
-        "Chanaan",
         "Canaanites",
+        "trading",
+        "Gentile",
+        "Beautiful Land",
+        "Phoenicia",
         "merchants",
         "Phoenician",
-        "trading",
-        "Phoenicia",
-        "Beautiful Land",
         "Promised Land",
-        "Glorious Land"
+        "Canaanite",
+        "Glorious Land",
+        "Chanaan"
       ],
       "descriptions": [
         {
@@ -47,6 +47,33 @@
           "description": "The region in the southern Levant inhabited by people who were regarded as descendants of Canaan, son of Ham, son of Noah; settled by Abraham."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "كَنْعَانُ"
+    },
+    "fra": {
+      "preferred_label": "Canaan"
+    },
+    "hin": {
+      "preferred_label": "कनान"
+    },
+    "ind": {
+      "preferred_label": "Kanaan"
+    },
+    "por": {
+      "preferred_label": "cananeos"
+    },
+    "rus": {
+      "preferred_label": "Ханаана"
+    },
+    "spa": {
+      "preferred_label": "Cananeo"
+    },
+    "swh": {
+      "preferred_label": "Wakanaani"
+    },
+    "tpi": {
+      "preferred_label": "Kenan"
     }
   },
   "referred_to_as": [
@@ -89,12 +116,12 @@
     }
   },
   "key_references": [
-    "01012005",
-    "01017008",
     "44013019",
-    "04034001",
     "01010015",
-    "01011031"
+    "01011031",
+    "01017008",
+    "04034001",
+    "01012005"
   ],
   "references": [
     "01010018",

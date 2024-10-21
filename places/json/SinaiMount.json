@@ -4,7 +4,8 @@
   "alternate_sources": {
     "aquifer": [
       "7235|Mount Sinai|TyndaleBibleDictionary",
-      "132273|Mount Sinai|BiblicaStudyNotesKeyTerms"
+      "132273|Mount Sinai|BiblicaStudyNotesKeyTerms",
+      "27099|Sinai|UWTranslationWords"
     ],
     "obi": [
       "abfba2a"
@@ -28,9 +29,9 @@
     "eng": {
       "preferred_label": "Mount Sinai",
       "alternate_labels": [
-        "Sina",
         "Sinai",
         "Mount Horeb",
+        "Sina",
         "Horeb"
       ],
       "descriptions": [
@@ -41,6 +42,33 @@
           "description": "A mountain and surrounding desert on the Sinai Peninsula in Egypt where YHWH entered into a covenant with Israel; also known as Mount Horeb."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "سِينَاءَ"
+    },
+    "fra": {
+      "preferred_label": "Sinaï"
+    },
+    "hin": {
+      "preferred_label": "सीनै"
+    },
+    "ind": {
+      "preferred_label": "Sinai"
+    },
+    "por": {
+      "preferred_label": "Sinai"
+    },
+    "rus": {
+      "preferred_label": "Синаем"
+    },
+    "spa": {
+      "preferred_label": "Sinaí"
+    },
+    "swh": {
+      "preferred_label": "Sinai"
+    },
+    "tpi": {
+      "preferred_label": "Sainai"
     }
   },
   "referred_to_as": [
@@ -82,14 +110,14 @@
     }
   },
   "key_references": [
-    "02024012",
-    "05005002",
-    "05028069",
-    "48004024",
     "02019016",
-    "02031018",
+    "48004024",
+    "05028069",
     "02003001",
-    "05001002"
+    "05005002",
+    "02031018",
+    "05001002",
+    "02024012"
   ],
   "references": [
     "02003001",

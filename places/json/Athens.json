@@ -30,9 +30,9 @@
     "eng": {
       "preferred_label": "Athens",
       "alternate_labels": [
+        "Athenian",
         "[ ]",
-        "Athenians",
-        "Athenian"
+        "Athenians"
       ],
       "descriptions": [
         {
@@ -42,6 +42,33 @@
           "description": "A principal city of Greece where Paul preached at the Areopagus."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "أَثِينَا"
+    },
+    "fra": {
+      "preferred_label": "Athènes"
+    },
+    "hin": {
+      "preferred_label": "एथेंस"
+    },
+    "ind": {
+      "preferred_label": "Atena"
+    },
+    "por": {
+      "preferred_label": "athenienses"
+    },
+    "rus": {
+      "preferred_label": "Афинах"
+    },
+    "spa": {
+      "preferred_label": "Atenas"
+    },
+    "swh": {
+      "preferred_label": "Athene"
+    },
+    "tpi": {
+      "preferred_label": "Atens"
     }
   },
   "referred_to_as": [
@@ -90,8 +117,8 @@
     }
   },
   "key_references": [
-    "44017016",
-    "52003001"
+    "52003001",
+    "44017016"
   ],
   "references": [
     "44017015",

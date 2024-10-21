@@ -20,11 +20,11 @@
     "eng": {
       "preferred_label": "Maareh-geba",
       "alternate_labels": [
-        "plain of Geba",
-        "vicinity of Gibeah",
-        "meadows of Gibeah",
         "west of Geba",
-        "west of Gibeah"
+        "plain of Geba",
+        "west of Gibeah",
+        "vicinity of Gibeah",
+        "meadows of Gibeah"
       ],
       "descriptions": [
         {
@@ -34,11 +34,29 @@
           "description": "A location from which the Israelites led an ambush against Gibeah."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "مِنْ"
+    },
+    "cmn": {
+      "preferred_label": "馬利‧迦巴"
+    },
+    "fra": {
+      "preferred_label": "Maaré-Guibea"
+    },
+    "hin": {
+      "preferred_label": "अर्थात्"
+    },
+    "ind": {
+      "preferred_label": "menghadang"
+    },
+    "rus": {
+      "preferred_label": "западной"
+    },
+    "swh": {
+      "preferred_label": "hata"
     }
   },
-  "nearby_places": [
-    "place:Gibeah.2"
-  ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
   "non_biblical": false,

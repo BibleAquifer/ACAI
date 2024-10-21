@@ -4,7 +4,8 @@
   "alternate_sources": {
     "aquifer": [
       "7012|Mediterranean Sea|TyndaleBibleDictionary",
-      "132521|Mediterranean Sea|BiblicaStudyNotesKeyTerms"
+      "132521|Mediterranean Sea|BiblicaStudyNotesKeyTerms",
+      "26864|Mediterranean|UWTranslationWords"
     ],
     "obi": [
       "aa805fb"
@@ -29,15 +30,15 @@
     "eng": {
       "preferred_label": "Mediterranean Sea",
       "alternate_labels": [
-        "Great( Sea)",
-        "Western Sea",
-        "Philistia",
-        "Sea",
-        "border",
-        "Sea of the Philistines",
-        "Mediterranean",
         "the great sea",
-        "Qere. Ketiv"
+        "Western Sea",
+        "border",
+        "Qere. Ketiv",
+        "Sea of the Philistines",
+        "Sea",
+        "Great( Sea)",
+        "Mediterranean",
+        "Philistia"
       ],
       "descriptions": [
         {
@@ -47,6 +48,30 @@
           "description": "A large body of water located between southern Europe, northern Africa, and western Asia, which borders Palestine on the west."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلْكَبِيرُ"
+    },
+    "fra": {
+      "preferred_label": "grande"
+    },
+    "hin": {
+      "preferred_label": "महासागर"
+    },
+    "ind": {
+      "preferred_label": "besar"
+    },
+    "por": {
+      "preferred_label": "mar"
+    },
+    "rus": {
+      "preferred_label": "великое"
+    },
+    "spa": {
+      "preferred_label": "gran"
+    },
+    "swh": {
+      "preferred_label": "kubwa"
     }
   },
   "referred_to_as": [
@@ -86,8 +111,8 @@
   "key_references": [
     "05011024",
     "04034006",
-    "26047020",
     "02023031",
+    "26047020",
     "06001004"
   ],
   "references": [

@@ -3,7 +3,8 @@
   "primary_id": "place:Engedi",
   "alternate_sources": {
     "aquifer": [
-      "5082|En-Gedi|TyndaleBibleDictionary"
+      "5082|En-Gedi|TyndaleBibleDictionary",
+      "26560|Engedi|UWTranslationWords"
     ],
     "obi": [
       "a51df0e"
@@ -27,10 +28,10 @@
     "eng": {
       "preferred_label": "En-gedi",
       "alternate_labels": [
-        "Wilderness of En Gedi",
         "Hazezon-Tamar",
+        "Desert of En Gedi",
         "Hazazon-tamar",
-        "Desert of En Gedi"
+        "Wilderness of En Gedi"
       ],
       "descriptions": [
         {
@@ -40,6 +41,30 @@
           "description": "An oasis in the wilderness of the territory of Judah, on the western shore of the Dead Sea; also known as Hazezon-Tamar."
         }
       ]
+    },
+    "cmn": {
+      "preferred_label": "隱‧基底"
+    },
+    "fra": {
+      "preferred_label": "En-Guédi"
+    },
+    "hin": {
+      "preferred_label": "एनगदी"
+    },
+    "ind": {
+      "preferred_label": "En-Gedi"
+    },
+    "por": {
+      "preferred_label": "Engedi"
+    },
+    "spa": {
+      "preferred_label": "En-gadi"
+    },
+    "swh": {
+      "preferred_label": "Engedi"
+    },
+    "tpi": {
+      "preferred_label": "Engedi"
     }
   },
   "possibly_same_as": [
@@ -84,8 +109,8 @@
     }
   },
   "key_references": [
-    "09023039",
-    "09024001"
+    "09024001",
+    "09023039"
   ],
   "references": [
     "01014007",

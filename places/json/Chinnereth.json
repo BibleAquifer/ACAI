@@ -29,10 +29,10 @@
     "eng": {
       "preferred_label": "Chinnereth",
       "alternate_labels": [
-        "Sea of Kinnereth",
-        "Sea of Galilee",
         "Chinneroth",
+        "Sea of Galilee",
         "Cinneroth",
+        "Sea of Kinnereth",
         "Kinnereth",
         "Galilee"
       ],
@@ -44,6 +44,36 @@
           "description": "A town in the territory of Naphtali at the Sea of Galilee."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Kinnéreth"
+    },
+    "spa": {
+      "preferred_label": "Cinneroth"
+    },
+    "arb": {
+      "preferred_label": "مِنْ"
+    },
+    "cmn": {
+      "preferred_label": "基尼烈"
+    },
+    "hin": {
+      "preferred_label": "किन्नेरेत"
+    },
+    "ind": {
+      "preferred_label": "Kineret"
+    },
+    "por": {
+      "preferred_label": "desde"
+    },
+    "rus": {
+      "preferred_label": "Киннерефа"
+    },
+    "swh": {
+      "preferred_label": "Kinerethi"
+    },
+    "tpi": {
+      "preferred_label": "raunwara"
     }
   },
   "tribal_area": "group:Naphtali",
@@ -86,8 +116,8 @@
     }
   },
   "key_references": [
-    "11015020",
-    "05003017"
+    "05003017",
+    "11015020"
   ],
   "references": [
     "05003017",

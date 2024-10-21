@@ -7,7 +7,8 @@
       "6332|Jerusalem, New|TyndaleBibleDictionary",
       "26756|Jerusalem|UWTranslationWords",
       "132410|Jerusalem|BiblicaStudyNotesKeyTerms",
-      "280103|jerusalem|FIAKeyTerms"
+      "280103|jerusalem|FIAKeyTerms",
+      "26699|Holy City|UWTranslationWords"
     ],
     "obi": [
       "a15257a"
@@ -16,19 +17,19 @@
       "https://imperium.ahlfeldt.se/places/15896"
     ],
     "tipnr": [
-      "Zion_Mount|Jerusalem@Jos.10.1-Rev",
-      "Jebus|Jerusalem@Jos.10.1-Rev",
       "Forsaken|Jerusalem@Jos.10.1-Rev",
       "Ariel|Jerusalem@Jos.10.1-Rev",
-      "Desolate|Jerusalem@Jos.10.1-Rev",
       "Jebusite|Jerusalem@Jos.10.1-Rev",
-      "Lord_Is_There|Jerusalem@Jos.10.1-Rev",
+      "Hephzibah|Jerusalem@Jos.10.1-Rev",
       "Salem|Jerusalem@Jos.10.1-Rev",
+      "City_of_the_Lord|Jerusalem@Jos.10.1-Rev",
+      "Lord_Is_There|Jerusalem@Jos.10.1-Rev",
+      "Jerusalem@Jos.10.1-Rev",
       "Zion|Jerusalem@Jos.10.1-Rev",
       "Beulah|Jerusalem@Jos.10.1-Rev",
-      "City_of_the_Lord|Jerusalem@Jos.10.1-Rev",
-      "Hephzibah|Jerusalem@Jos.10.1-Rev",
-      "Jerusalem@Jos.10.1-Rev"
+      "Zion_Mount|Jerusalem@Jos.10.1-Rev",
+      "Desolate|Jerusalem@Jos.10.1-Rev",
+      "Jebus|Jerusalem@Jos.10.1-Rev"
     ],
     "vizbible": [
       "recL1WV82pXaRBQ59"
@@ -42,29 +43,29 @@
     "eng": {
       "preferred_label": "Jerusalem",
       "alternate_labels": [
-        "Jebus",
-        "Zion",
-        "Deserted",
-        "My Delight Is in Her",
-        "City of God",
-        "Beulah",
-        "The Lord Is There",
-        "Mount Zion",
-        "Hephzibah",
-        "Desolate",
-        "Daughter Judah",
-        "city of Yahweh",
-        "daughter of Judah",
         "Judah",
+        "The Lord Is There",
+        "Jebusite",
+        "City of God",
+        "Forsaken",
+        "Beulah",
+        "city of Yahweh",
+        "Zion",
+        "Mount Zion",
+        "Jews",
+        "Deserted",
+        "Jebus",
+        "Daughter Judah",
+        "My Delight Is in Her",
+        "Salem",
         "Jerusalemites",
         "City of the Lord",
-        "Sion",
-        "Forsaken",
+        "daughter of Judah",
+        "Hephzibah",
         "Ariel",
-        "Jews",
-        "Salem",
+        "Desolate",
         "Married",
-        "Jebusite"
+        "Sion"
       ],
       "descriptions": [
         {
@@ -74,21 +75,51 @@
           "description": "The capital city of Israel in the territory of Judah, formerly referred to as Salem and Jebus. It was conquered by King David, who made it the capital of his kingdom (2 Samuel 5:6–9)."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "أُورُشَلِيمَ"
+    },
+    "cmn": {
+      "preferred_label": "耶路撒冷"
+    },
+    "fra": {
+      "preferred_label": "Jérusalem"
+    },
+    "hin": {
+      "preferred_label": "यरूशलेम"
+    },
+    "ind": {
+      "preferred_label": "Yerusalem"
+    },
+    "por": {
+      "preferred_label": "Jerusalem"
+    },
+    "rus": {
+      "preferred_label": "Иерусалимский"
+    },
+    "spa": {
+      "preferred_label": "Jerusalem"
+    },
+    "swh": {
+      "preferred_label": "Yerusalemu"
+    },
+    "tpi": {
+      "preferred_label": "Jerusalem"
     }
   },
   "referred_to_as": [
-    "place:Zion",
-    "place:Salem",
-    "place:Beulah",
-    "place:Ariel",
-    "place:Jebusite",
-    "place:ZionMount",
-    "place:Hephzibah",
     "place:CityOfTheLord",
-    "place:Jebus",
     "place:LordIsThere",
+    "place:Beulah",
+    "place:Salem",
     "place:Forsaken",
-    "place:Desolate"
+    "place:Ariel",
+    "place:ZionMount",
+    "place:Zion",
+    "place:Desolate",
+    "place:Jebus",
+    "place:Hephzibah",
+    "place:Jebusite"
   ],
   "subregion_of": [
     "place:Judea"
@@ -129,26 +160,26 @@
     }
   },
   "key_references": [
-    "44002005",
-    "42021020",
-    "10006012",
-    "40021001",
-    "43004019",
-    "11008001",
-    "42019028",
-    "60002006",
-    "01014018",
-    "10005006",
-    "42019041",
-    "13011004",
-    "26048035",
-    "06018028",
-    "58007001",
-    "44008001",
-    "06015008",
     "23029001",
     "40020017",
-    "41011001"
+    "06018028",
+    "13011004",
+    "26048035",
+    "44002005",
+    "40021001",
+    "44008001",
+    "01014018",
+    "41011001",
+    "43004019",
+    "42021020",
+    "42019041",
+    "42019028",
+    "58007001",
+    "11008001",
+    "06015008",
+    "10005006",
+    "10006012",
+    "60002006"
   ],
   "references": [
     "01014018",

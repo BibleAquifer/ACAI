@@ -3,9 +3,9 @@
   "primary_id": "person:Augustus",
   "alternate_sources": {
     "tipnr": [
-      "Augustus@Luk.2.1-Act",
+      "emperor|Augustus@Luk.2.1-Act",
       "Caesar|Augustus@Luk.2.1-Act",
-      "emperor|Augustus@Luk.2.1-Act"
+      "Augustus@Luk.2.1-Act"
     ],
     "vizbible": [
       "recU1v1l7ZuJsuK0g"
@@ -21,10 +21,10 @@
     "eng": {
       "preferred_label": "Augustus",
       "alternate_labels": [
-        "Caesar",
         "Imperial",
-        "Augustan",
-        "emperor"
+        "emperor",
+        "Caesar",
+        "Augustan"
       ],
       "descriptions": [
         {
@@ -34,6 +34,36 @@
           "description": "A title of a Roman emperors. Caesar Augustus was the first emperor of Rome, during the time of the birth of Jesus."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "أُوغُسْطُسَ"
+    },
+    "cmn": {
+      "preferred_label": "奧古斯都"
+    },
+    "fra": {
+      "preferred_label": "Auguste"
+    },
+    "hin": {
+      "preferred_label": "औगुस्तुस"
+    },
+    "ind": {
+      "preferred_label": "Agustus"
+    },
+    "por": {
+      "preferred_label": "Augusto"
+    },
+    "rus": {
+      "preferred_label": "повеление"
+    },
+    "spa": {
+      "preferred_label": "Augusto"
+    },
+    "swh": {
+      "preferred_label": "Augusto"
+    },
+    "tpi": {
+      "preferred_label": "Ogastus"
     }
   },
   "referred_to_as": [

@@ -15,9 +15,9 @@
       "http://pleiades.stoa.org/places/707498"
     ],
     "tipnr": [
-      "Kittim|Cyprus@Num.24.24-Act",
       "Cyprus@Num.24.24-Act",
-      "Elishah|Cyprus@Num.24.24-Act"
+      "Elishah|Cyprus@Num.24.24-Act",
+      "Kittim|Cyprus@Num.24.24-Act"
     ],
     "vizbible": [
       "receEjvf5hXhkgVuZ"
@@ -32,11 +32,11 @@
       "preferred_label": "Cyprus",
       "alternate_labels": [
         "Elishah",
-        "Chittim",
         "Kittim",
-        "western coastlands",
         "Cypriot",
-        "Cyprian"
+        "Chittim",
+        "Cyprian",
+        "western coastlands"
       ],
       "descriptions": [
         {
@@ -46,6 +46,36 @@
           "description": "An island off the south coast of Asia Minor; Paul and Barnabas ministered here during Paul's first missionary journey (Acts 13:4–12)."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "كِتِّيمَ"
+    },
+    "cmn": {
+      "preferred_label": "塞浦路斯"
+    },
+    "fra": {
+      "preferred_label": "Kittim"
+    },
+    "hin": {
+      "preferred_label": "कित्तियों"
+    },
+    "ind": {
+      "preferred_label": "Siprus"
+    },
+    "por": {
+      "preferred_label": "Chypre"
+    },
+    "rus": {
+      "preferred_label": "Киттим"
+    },
+    "spa": {
+      "preferred_label": "Cipro"
+    },
+    "swh": {
+      "preferred_label": "Kipro"
+    },
+    "tpi": {
+      "preferred_label": "Saiprus"
     }
   },
   "referred_to_as": [

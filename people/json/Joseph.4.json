@@ -4,7 +4,9 @@
   "alternate_sources": {
     "aquifer": [
       "6449|Joseph|TyndaleBibleDictionary",
-      "132234|Joseph|BiblicaStudyNotesKeyTerms"
+      "132234|Joseph|BiblicaStudyNotesKeyTerms",
+      "26776|Joseph NT|UWTranslationWords",
+      "131978|Joseph of Nazareth|BiblicaStudyNotesKeyTerms"
     ],
     "tipnr": [
       "Joseph@Mat.1.16-Jhn"
@@ -34,8 +36,8 @@
     "eng": {
       "preferred_label": "Joseph",
       "alternate_labels": [
-        "father",
-        "parents"
+        "parents",
+        "father"
       ],
       "descriptions": [
         {
@@ -45,6 +47,33 @@
           "description": "Mary the mother of Jesus's legal guardian (\"husband\") and the adopted father of Jesus Christ."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "يُوسُفُ"
+    },
+    "fra": {
+      "preferred_label": "Joseph"
+    },
+    "hin": {
+      "preferred_label": "यूसुफ"
+    },
+    "ind": {
+      "preferred_label": "Yusuf"
+    },
+    "por": {
+      "preferred_label": "José"
+    },
+    "rus": {
+      "preferred_label": "Иосиф"
+    },
+    "spa": {
+      "preferred_label": "José"
+    },
+    "swh": {
+      "preferred_label": "Yusufu"
+    },
+    "tpi": {
+      "preferred_label": "Josep"
     }
   },
   "only_mentioned_in_apocrypha": false,

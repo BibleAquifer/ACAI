@@ -1,0 +1,38 @@
+{
+  "id": "place:Aphek.4",
+  "primary_id": "place:Aphek.4",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Aphek.4",
+          "gloss": "Aphek (of Lebanon)",
+          "description": "A town in Lebanon, which was left unconquered by Joshua (Joshua 13:4)."
+        }
+      ],
+      "preferred_label": "Aphek (of Lebanon)",
+      "alternate_labels": [
+        "Aphek"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:Lebanon"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "06013004"
+  ]
+}

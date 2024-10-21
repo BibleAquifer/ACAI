@@ -4,7 +4,9 @@
   "alternate_sources": {
     "aquifer": [
       "5420|Gentiles|TyndaleBibleDictionary",
-      "5419|Gentiles, Court of the|TyndaleBibleDictionary"
+      "5419|Gentiles, Court of the|TyndaleBibleDictionary",
+      "280119|gentile|FIAKeyTerms",
+      "132493|Gentile|BiblicaStudyNotesKeyTerms"
     ],
     "ubsdgnt": [
       "11.37",
@@ -45,6 +47,12 @@
           "description": "A generic reference to non-Jewish people."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "païens; gentils; non-Juifs"
+    },
+    "spa": {
+      "preferred_label": "gentil; idólatra; pagano"
     }
   },
   "only_mentioned_in_apocrypha": false,

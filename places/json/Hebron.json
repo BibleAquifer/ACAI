@@ -17,8 +17,8 @@
       "https://pleiades.stoa.org/places/687915"
     ],
     "tipnr": [
-      "Hebron@Gen.13.18-Neh",
-      "Kiriath-arba|Hebron@Gen.13.18-Neh"
+      "Kiriath-arba|Hebron@Gen.13.18-Neh",
+      "Hebron@Gen.13.18-Neh"
     ],
     "vizbible": [
       "recJSfVnIcPibY6aX"
@@ -32,9 +32,9 @@
     "eng": {
       "preferred_label": "Hebron",
       "alternate_labels": [
+        "Kirjath-Arba",
         "Kiriath-Arba",
         "Arbah",
-        "Kirjath-Arba",
         "Arba"
       ],
       "descriptions": [
@@ -45,6 +45,36 @@
           "description": "A Levitical town in the territory of Judah, assigned to the clan of Aaron; formerly known as Kiriath-Arba. The patriarchs were buried in a cave there."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "حَبْرُونَ"
+    },
+    "cmn": {
+      "preferred_label": "希伯倫"
+    },
+    "fra": {
+      "preferred_label": "Hébron"
+    },
+    "hin": {
+      "preferred_label": "हेब्रोन"
+    },
+    "ind": {
+      "preferred_label": "Hebron"
+    },
+    "por": {
+      "preferred_label": "Hebron"
+    },
+    "rus": {
+      "preferred_label": "Хеврона"
+    },
+    "spa": {
+      "preferred_label": "Hebrón"
+    },
+    "swh": {
+      "preferred_label": "Hebroni"
+    },
+    "tpi": {
+      "preferred_label": "Hebron"
     }
   },
   "referred_to_as": [
@@ -94,9 +124,9 @@
     }
   },
   "key_references": [
+    "01013018",
     "10002001",
-    "01023002",
-    "01013018"
+    "01023002"
   ],
   "references": [
     "01013018",

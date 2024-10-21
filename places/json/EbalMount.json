@@ -9,10 +9,10 @@
       "aa5cc66"
     ],
     "tipnr": [
-      "Zalmon|Ebal_Mount@Deu.11.29-Jer",
       "Zalmon_Mount|Ebal_Mount@Deu.11.29-Jer",
       "Ebal_Mount@Deu.11.29-Jer",
-      "Ephraim_Mount|Ebal_Mount@Deu.11.29-Jer"
+      "Ephraim_Mount|Ebal_Mount@Deu.11.29-Jer",
+      "Zalmon|Ebal_Mount@Deu.11.29-Jer"
     ],
     "vizbible": [
       "rec2YUNAEJFFfYOXk"
@@ -26,9 +26,9 @@
     "eng": {
       "preferred_label": "Mount Ebal",
       "alternate_labels": [
-        "Ebal",
         "Mount Zalmon",
         "Zalmon",
+        "Ebal",
         "Mount Ephraim"
       ],
       "descriptions": [
@@ -39,6 +39,36 @@
           "description": "A mountain north of Shechem where the Israelites pronounced curses (Deuteronomy 11:29); often associated with Mount Gerizim to the south."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "عِيبَالَ"
+    },
+    "cmn": {
+      "preferred_label": "以巴路"
+    },
+    "fra": {
+      "preferred_label": "Ébal"
+    },
+    "hin": {
+      "preferred_label": "एबाल"
+    },
+    "ind": {
+      "preferred_label": "gunung"
+    },
+    "por": {
+      "preferred_label": "d’Ebal"
+    },
+    "rus": {
+      "preferred_label": "Гевал"
+    },
+    "spa": {
+      "preferred_label": "Ebal"
+    },
+    "swh": {
+      "preferred_label": "Ebali"
+    },
+    "tpi": {
+      "preferred_label": "Ebal"
     }
   },
   "referred_to_as": [
@@ -81,8 +111,8 @@
   },
   "key_references": [
     "06008030",
-    "05011029",
-    "05027013"
+    "05027013",
+    "05011029"
   ],
   "references": [
     "05011029",

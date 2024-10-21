@@ -6,13 +6,14 @@
       "4119|Ben Sirach, Jesus|TyndaleBibleDictionary",
       "6356|Jesus|TyndaleBibleDictionary",
       "26758|Jesus|UWTranslationWords",
-      "132165|Jesus|BiblicaStudyNotesKeyTerms"
+      "132165|Jesus|BiblicaStudyNotesKeyTerms",
+      "132092|Lord Jesus Christ|BiblicaStudyNotesKeyTerms"
     ],
     "tipnr": [
-      "Messiah|Jesus@Mat.1.1-Rev",
       "Jesus@Mat.1.1-Rev",
-      "Christ|Jesus@Mat.1.1-Rev",
+      "Messiah|Jesus@Mat.1.1-Rev",
       "Lord|Jesus@Mat.1.1.1-Rev",
+      "Christ|Jesus@Mat.1.1-Rev",
       "Immanuel|Jesus@Mat.1.1-Rev"
     ],
     "vizbible": [
@@ -52,12 +53,12 @@
       "preferred_label": "Jesus",
       "alternate_labels": [
         "Messiah",
-        "Jesus Christ",
         "Christ Jesus",
-        "Lord",
-        "Emmanuel",
-        "Christian",
         "Christ",
+        "Emmanuel",
+        "Jesus Christ",
+        "Lord",
+        "Christian",
         "Immanuel"
       ],
       "descriptions": [
@@ -68,6 +69,36 @@
           "description": "Descendant in the flesh from the family line of Judah through King David. He was born of the Virgin Mary, adopted by Joseph of Nazareth. Jesus is the central figure of the New Testament as: God Incarnate, Savior and Messiah of Israel and the Christian Church."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "يَسُوعُ"
+    },
+    "cmn": {
+      "preferred_label": "基督徒"
+    },
+    "fra": {
+      "preferred_label": "Jésus"
+    },
+    "hin": {
+      "preferred_label": "यीशु"
+    },
+    "ind": {
+      "preferred_label": "Yesus"
+    },
+    "por": {
+      "preferred_label": "Jesus"
+    },
+    "rus": {
+      "preferred_label": "Иисуса"
+    },
+    "spa": {
+      "preferred_label": "Jesús"
+    },
+    "swh": {
+      "preferred_label": "Yesu"
+    },
+    "tpi": {
+      "preferred_label": "Jisas"
     }
   },
   "referred_to_as": [

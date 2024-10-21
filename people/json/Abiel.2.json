@@ -6,10 +6,10 @@
       "3293|Abiel|TyndaleBibleDictionary"
     ],
     "tipnr": [
-      "Abigibeon|Abiel@1Sa.9.1-1Ch",
       "Jeiel|Abiel@1Sa.9.1-1Ch",
+      "Ner|Abiel@1Sa.9.1-1Ch",
       "Abiel@1Sa.9.1-1Ch",
-      "Ner|Abiel@1Sa.9.1-1Ch"
+      "Abigibeon|Abiel@1Sa.9.1-1Ch"
     ],
     "vizbible": [
       "recDC65KH0SDY3HKn"
@@ -42,11 +42,11 @@
     "eng": {
       "preferred_label": "Abiel (Grandfather of King Saul)",
       "alternate_labels": [
-        "Jehiel",
-        "father of Gibeon",
-        "Jeuel",
         "Ner",
-        "Jeiel"
+        "Jeiel",
+        "Jeuel",
+        "Jehiel",
+        "father of Gibeon"
       ],
       "descriptions": [
         {
@@ -56,6 +56,33 @@
           "description": "Father of Kish and Ner, and the grandfather of King Saul and his army commander Abner."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "أَبِيئِيلَ"
+    },
+    "fra": {
+      "preferred_label": "Abiel"
+    },
+    "hin": {
+      "preferred_label": "अबीएल"
+    },
+    "ind": {
+      "preferred_label": "Abiel"
+    },
+    "por": {
+      "preferred_label": "d’Abiel"
+    },
+    "rus": {
+      "preferred_label": "Авиила"
+    },
+    "spa": {
+      "preferred_label": "Abiel"
+    },
+    "swh": {
+      "preferred_label": "Abieli"
+    },
+    "tpi": {
+      "preferred_label": "Abiel"
     }
   },
   "referred_to_as": [

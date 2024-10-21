@@ -9,8 +9,8 @@
       "a32a4f8"
     ],
     "tipnr": [
-      "Chaldea@Gen.11.28-Act",
-      "astrologer|Chaldean@Gen.11.28"
+      "astrologer|Chaldean@Gen.11.28",
+      "Chaldea@Gen.11.28-Act"
     ],
     "wikidata": [
       "http://www.wikidata.org/entity/Q200969"
@@ -21,15 +21,15 @@
     "eng": {
       "preferred_label": "Chaldea",
       "alternate_labels": [
-        "Babylonians",
-        "Babylon",
-        "Babylonian",
-        "Chaldaeans",
-        "Chaldeans",
-        "astrologers",
+        "Chaldean",
         "Chaldees",
+        "Babylonian",
+        "Babylonians",
+        "astrologers",
+        "Chaldaeans",
+        "Babylon",
         "Babylonia",
-        "Chaldean"
+        "Chaldeans"
       ],
       "descriptions": [
         {
@@ -39,13 +39,43 @@
           "description": "The land in lower Mesopotamia inhabited by the descendants of Chesed, son of Nahor."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلْكَلْدَانِيِّينَ"
+    },
+    "cmn": {
+      "preferred_label": "迦勒底"
+    },
+    "fra": {
+      "preferred_label": "Chaldée"
+    },
+    "hin": {
+      "preferred_label": "कसदियों"
+    },
+    "ind": {
+      "preferred_label": "Kasdim"
+    },
+    "por": {
+      "preferred_label": "chaldeos"
+    },
+    "rus": {
+      "preferred_label": "Халдейского"
+    },
+    "spa": {
+      "preferred_label": "Caldeos"
+    },
+    "swh": {
+      "preferred_label": "Wakaldayo"
+    },
+    "tpi": {
+      "preferred_label": "Babilon"
     }
   },
   "referred_to_as": [
-    "place:Leb-kamai",
-    "place:Babylonia",
     "group:Astrologer",
-    "group:Chaldea"
+    "group:Chaldea",
+    "place:Leb-kamai",
+    "place:Babylonia"
   ],
   "subregion_of": [
     "place:Mesopotamia"

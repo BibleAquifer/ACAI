@@ -3,16 +3,17 @@
   "primary_id": "place:Paddan-aram",
   "alternate_sources": {
     "aquifer": [
-      "7547|Paddan, Paddan-Aram|TyndaleBibleDictionary"
+      "7547|Paddan, Paddan-Aram|TyndaleBibleDictionary",
+      "26927|Paddanaram|UWTranslationWords"
     ],
     "obi": [
       "a8ec7ba"
     ],
     "tipnr": [
-      "Aram|Paddan-aram@Gen.25.20-Hos",
-      "Paddan|Paddan-aram@Gen.25.20-Hos",
       "Paddan-aram@Gen.25.20-Hos",
-      "Aramean|Paddan-aram@Gen.25.20-Hos"
+      "Paddan|Paddan-aram@Gen.25.20-Hos",
+      "Aramean|Paddan-aram@Gen.25.20-Hos",
+      "Aram|Paddan-aram@Gen.25.20-Hos"
     ],
     "vizbible": [
       "recrEteYtMZW1c46t"
@@ -27,10 +28,10 @@
       "preferred_label": "Paddan-aram",
       "alternate_labels": [
         "Aramean",
-        "Aram",
-        "Padan",
+        "Padan-Aram",
         "Paddan",
-        "Padan-Aram"
+        "Aram",
+        "Padan"
       ],
       "descriptions": [
         {
@@ -40,13 +41,40 @@
           "description": "A region in upper Mesopotamia, located around the great bend of the Euphrates River in northern Syria; ancestral home of Abraham’s family (ABD); also known as Aram-Naharaim."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلْأَرَامِيِّ"
+    },
+    "cmn": {
+      "preferred_label": "巴旦‧亞蘭"
+    },
+    "fra": {
+      "preferred_label": "Araméen"
+    },
+    "hin": {
+      "preferred_label": "पद्दनराम"
+    },
+    "ind": {
+      "preferred_label": "Aram"
+    },
+    "por": {
+      "preferred_label": "Paddan-aram"
+    },
+    "rus": {
+      "preferred_label": "Арамеянина"
+    },
+    "spa": {
+      "preferred_label": "Arameo"
+    },
+    "swh": {
+      "preferred_label": "Padan-aramu"
     }
   },
   "referred_to_as": [
     "group:Aramean",
-    "place:Aram-naharaim",
+    "place:Paddan",
     "place:Aram",
-    "place:Paddan"
+    "place:Aram-naharaim"
   ],
   "subregion_of": [
     "place:Mesopotamia"
@@ -77,11 +105,11 @@
     }
   },
   "key_references": [
-    "01025020",
-    "01024010",
     "05023004",
+    "07003008",
+    "01025020",
     "01048007",
-    "07003008"
+    "01024010"
   ],
   "references": [
     "01025020",

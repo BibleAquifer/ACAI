@@ -2,6 +2,9 @@
   "id": "deity:Beelzebub",
   "primary_id": "deity:Satan",
   "alternate_sources": {
+    "aquifer": [
+      "26376|Beelzebul|UWTranslationWords"
+    ],
     "ubsdgnt": [
       "93.68"
     ],
@@ -18,8 +21,8 @@
     "eng": {
       "preferred_label": "Beelzebub (Satan)",
       "alternate_labels": [
-        "Satan",
-        "Beelzebul"
+        "Beelzebul",
+        "Satan"
       ],
       "descriptions": [
         {
@@ -29,6 +32,36 @@
           "description": "The name of the Devil (Satan) as the prince of the demons."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Béelzébul"
+    },
+    "spa": {
+      "preferred_label": "Beelzebub"
+    },
+    "arb": {
+      "preferred_label": "بَعْلَزَبُولَ"
+    },
+    "cmn": {
+      "preferred_label": "別西卜"
+    },
+    "hin": {
+      "preferred_label": "शैतान"
+    },
+    "ind": {
+      "preferred_label": "Beelzebul"
+    },
+    "por": {
+      "preferred_label": "Beelzebú"
+    },
+    "rus": {
+      "preferred_label": "веельзевула"
+    },
+    "swh": {
+      "preferred_label": "Beelzebuli"
+    },
+    "tpi": {
+      "preferred_label": "Belsebul"
     }
   },
   "referred_to_as": [

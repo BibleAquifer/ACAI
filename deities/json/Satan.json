@@ -5,7 +5,9 @@
     "aquifer": [
       "8155|Satan|TyndaleBibleDictionary",
       "27057|Satan|UWTranslationWords",
-      "280083|satan|FIAKeyTerms"
+      "280083|satan|FIAKeyTerms",
+      "280099|devil|FIAKeyTerms",
+      "132162|Devil|BiblicaStudyNotesKeyTerms"
     ],
     "ubsdgnt": [
       "12.34 93.330"
@@ -35,16 +37,16 @@
     "eng": {
       "preferred_label": "Satan",
       "alternate_labels": [
+        "wicked",
+        "scoundrel",
+        "evil",
+        "Beelzebub",
+        "accuser",
+        "troublemakers",
         "Beelzebul",
         "[ ]",
-        "accuser",
-        "Beelzebub",
-        "scoundrel",
-        "worthless",
-        "troublemakers",
         "Belial",
-        "wicked",
-        "evil"
+        "worthless"
       ],
       "descriptions": [
         {
@@ -54,6 +56,33 @@
           "description": "Literally the “adversary” in Greek, Satan is the principal supernatural evil being."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Satan"
+    },
+    "spa": {
+      "preferred_label": "Satanás"
+    },
+    "arb": {
+      "preferred_label": "ٱلشَّيْطَانُ"
+    },
+    "hin": {
+      "preferred_label": "शैतान"
+    },
+    "ind": {
+      "preferred_label": "Iblis"
+    },
+    "por": {
+      "preferred_label": "Satanaz"
+    },
+    "rus": {
+      "preferred_label": "сатана"
+    },
+    "swh": {
+      "preferred_label": "Shetani"
+    },
+    "tpi": {
+      "preferred_label": "Satan"
     }
   },
   "referred_to_as": [

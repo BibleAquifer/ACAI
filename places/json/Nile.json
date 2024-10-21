@@ -4,7 +4,8 @@
   "alternate_sources": {
     "aquifer": [
       "7404|Nile River|TyndaleBibleDictionary",
-      "26911|Nile River|UWTranslationWords"
+      "26911|Nile River|UWTranslationWords",
+      "132247|River Nile|BiblicaStudyNotesKeyTerms"
     ],
     "obi": [
       "a012705"
@@ -14,9 +15,9 @@
       "http://pleiades.stoa.org/places/727172"
     ],
     "tipnr": [
-      "Nile@Gen.41.1-Zec",
       "canals|Nile@Gen.41.1-Zec",
-      "river|Nile@Gen.41.1-Zec"
+      "river|Nile@Gen.41.1-Zec",
+      "Nile@Gen.41.1-Zec"
     ],
     "vizbible": [
       "rec1RMZhQrrzq5oHJ"
@@ -30,11 +31,11 @@
     "eng": {
       "preferred_label": "Nile River",
       "alternate_labels": [
+        "Shihor",
         "River",
+        "Sihor",
         "canals",
         "rivers",
-        "Sihor",
-        "Shihor",
         "Nile"
       ],
       "descriptions": [
@@ -45,6 +46,36 @@
           "description": "A large body of flowing water located in Egypt; very important to transportation, irrigation, and life in Egypt."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "فِي"
+    },
+    "cmn": {
+      "preferred_label": "西曷河"
+    },
+    "fra": {
+      "preferred_label": "fleuve"
+    },
+    "hin": {
+      "preferred_label": "नदी"
+    },
+    "ind": {
+      "preferred_label": "sungai"
+    },
+    "por": {
+      "preferred_label": "rio"
+    },
+    "rus": {
+      "preferred_label": "семь"
+    },
+    "spa": {
+      "preferred_label": "río"
+    },
+    "swh": {
+      "preferred_label": "mto"
+    },
+    "tpi": {
+      "preferred_label": "Nail"
     }
   },
   "referred_to_as": [

@@ -4,7 +4,8 @@
   "alternate_sources": {
     "aquifer": [
       "8185|Sea of Galilee|TyndaleBibleDictionary",
-      "27065|Sea of Galilee|UWTranslationWords"
+      "27065|Sea of Galilee|UWTranslationWords",
+      "280209|sea-of-galilee|FIAKeyTerms"
     ],
     "obi": [
       "a562fcc"
@@ -29,13 +30,13 @@
     "eng": {
       "preferred_label": "Sea of Galilee",
       "alternate_labels": [
-        "Sea of Kinnereth",
-        "Sea of Tiberias",
         "Chinneroth",
         "Sea of Chinneroth",
+        "Sea of Tiberias",
+        "Sea of Kinnereth",
         "Kinnereth Sea",
-        "Sea of Chinnereth",
-        "Tiberias"
+        "Tiberias",
+        "Sea of Chinnereth"
       ],
       "descriptions": [
         {
@@ -82,10 +83,10 @@
     }
   },
   "key_references": [
-    "41001016",
     "04034011",
-    "43006001",
-    "40004018"
+    "40004018",
+    "41001016",
+    "43006001"
   ],
   "references": [
     "04034011",

@@ -13,8 +13,8 @@
       "https://imperium.ahlfeldt.se/places/21687"
     ],
     "tipnr": [
-      "Azotus|Ashdod@Jos.11.22-Act",
-      "Ashdod@Jos.11.22-Act"
+      "Ashdod@Jos.11.22-Act",
+      "Azotus|Ashdod@Jos.11.22-Act"
     ],
     "vizbible": [
       "recN2YJFW0fYzSL9r"
@@ -29,10 +29,10 @@
       "preferred_label": "Ashdod",
       "alternate_labels": [
         "Azotus",
-        "Ashdodite",
-        "Philistia",
         "Ashdodites",
-        "Ashdothites"
+        "Ashdothites",
+        "Ashdodite",
+        "Philistia"
       ],
       "descriptions": [
         {
@@ -42,6 +42,36 @@
           "description": "A town in Philistia; one of the five cities of the Philistines."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "أَشْدُودَ"
+    },
+    "cmn": {
+      "preferred_label": "亞實突"
+    },
+    "fra": {
+      "preferred_label": "Asdod"
+    },
+    "hin": {
+      "preferred_label": "अश्दोद"
+    },
+    "ind": {
+      "preferred_label": "Asdod"
+    },
+    "por": {
+      "preferred_label": "Asdod"
+    },
+    "rus": {
+      "preferred_label": "Азоте"
+    },
+    "spa": {
+      "preferred_label": "Asdod"
+    },
+    "swh": {
+      "preferred_label": "Ashdodi"
+    },
+    "tpi": {
+      "preferred_label": "Asdot"
     }
   },
   "referred_to_as": [
@@ -91,11 +121,11 @@
   },
   "key_references": [
     "09005001",
-    "14026006",
     "06015046",
+    "14026006",
+    "44008040",
     "06013003",
-    "23020001",
-    "44008040"
+    "23020001"
   ],
   "references": [
     "06011022",

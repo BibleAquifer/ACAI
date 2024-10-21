@@ -26,8 +26,8 @@
     "eng": {
       "preferred_label": "Water Gate",
       "alternate_labels": [
-        "Water",
-        " Gate"
+        " Gate",
+        "Water"
       ],
       "descriptions": [
         {
@@ -37,6 +37,33 @@
           "description": "An eastern gate in Jerusalem where Ezra read the Law before the returned exiles (Nehemiah 8:1–3)."
         }
       ]
+    },
+    "arb": {
+      "preferred_label": "ٱلْمَاءِ"
+    },
+    "fra": {
+      "preferred_label": "eaux"
+    },
+    "hin": {
+      "preferred_label": "जलफाटक"
+    },
+    "ind": {
+      "preferred_label": "Air"
+    },
+    "por": {
+      "preferred_label": "das"
+    },
+    "rus": {
+      "preferred_label": "ворот"
+    },
+    "spa": {
+      "preferred_label": "las"
+    },
+    "swh": {
+      "preferred_label": "maji"
+    },
+    "tpi": {
+      "preferred_label": "Wara"
     }
   },
   "subregion_of": [
@@ -74,10 +101,10 @@
     }
   },
   "key_references": [
-    "16012037",
-    "16008001",
     "16008016",
-    "16003026"
+    "16008001",
+    "16003026",
+    "16012037"
   ],
   "references": [
     "16003026",
