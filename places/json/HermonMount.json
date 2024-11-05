@@ -13,11 +13,11 @@
       "https://imperium.ahlfeldt.se/places/41235"
     ],
     "tipnr": [
-      "Hermon_Mount@Deu.3.8-Ezk",
-      "Baal-hamon|Hermon_Mount@Deu.3.8-Ezk",
-      "Baal-gad|Hermon_Mount@Deu.3.8-Ezk",
       "Baal-hermon|Hermon_Mount@Deu.3.8-Ezk",
-      "Senir|Hermon_Mount@Deu.3.8-Ezk"
+      "Baal-gad|Hermon_Mount@Deu.3.8-Ezk",
+      "Senir|Hermon_Mount@Deu.3.8-Ezk",
+      "Hermon_Mount@Deu.3.8-Ezk",
+      "Baal-hamon|Hermon_Mount@Deu.3.8-Ezk"
     ],
     "vizbible": [
       "rec1ET3TBR0oBaWJu"
@@ -31,19 +31,19 @@
     "eng": {
       "preferred_label": "Mount Hermon",
       "alternate_labels": [
-        "slope",
         "Baal-Gad",
+        "Mount Baal-hermon",
+        "Hermonites",
+        "Mount Sirion",
         "Sirion",
         "Lebanon",
-        "Baal-Hamon",
-        "Mount Siyon",
-        "Mount Baal-hermon",
-        "Mount Sion",
-        "Hermon",
         "Baal-Hermon",
+        "Hermon",
+        "Baal-Hamon",
         "Senir",
-        "Mount Sirion",
-        "Hermonites",
+        "slope",
+        "Mount Sion",
+        "Mount Siyon",
         "Sion",
         "field"
       ],
@@ -59,17 +59,20 @@
     "arb": {
       "preferred_label": "حَرْمُونَ"
     },
-    "fra": {
+    "cmn": {
+      "preferred_label": "黑門山"
+    },
+    "hau": {
       "preferred_label": "Hermon"
     },
     "hin": {
-      "preferred_label": "हेर्मोन"
+      "preferred_label": "हेर्मोन पर्वत"
     },
     "ind": {
       "preferred_label": "gunung"
     },
     "por": {
-      "preferred_label": "Sirion"
+      "preferred_label": "Monte Hermom"
     },
     "rus": {
       "preferred_label": "Ермон"
@@ -85,10 +88,10 @@
     }
   },
   "referred_to_as": [
-    "place:Baal-gad",
-    "place:Baal-hamon",
+    "place:Baal-hermon",
     "place:Senir",
-    "place:Baal-hermon"
+    "place:Baal-hamon",
+    "place:Baal-gad"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -122,10 +125,10 @@
     }
   },
   "key_references": [
-    "22004008",
     "05003009",
-    "13005023",
-    "05003008"
+    "05003008",
+    "22004008",
+    "13005023"
   ],
   "references": [
     "05003008",

@@ -19,13 +19,13 @@
     "eng": {
       "preferred_label": "Golgotha",
       "alternate_labels": [
-        "The Place of a Skull",
-        "Calvary",
-        "Place of the Skull",
         "The Place of the Skull",
         "Skull",
+        "Calvary",
         "Place of a Skull",
-        "The Skull"
+        "The Skull",
+        "The Place of a Skull",
+        "Place of the Skull"
       ],
       "descriptions": [
         {
@@ -35,6 +35,12 @@
           "description": "A hill near Jerusalem where executions took place and where Jesus was crucified (Matthew 27:33–44; Mark 15:21–32; John 19:16–19)."
         }
       ]
+    },
+    "fra": {
+      "preferred_label": "Golgotha"
+    },
+    "hin": {
+      "preferred_label": "गुलगुता"
     }
   },
   "referred_to_as": [
@@ -76,8 +82,8 @@
   },
   "key_references": [
     "43019016",
-    "40027033",
-    "41015022"
+    "41015022",
+    "40027033"
   ],
   "references": [
     "40027033",

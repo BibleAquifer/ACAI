@@ -23,8 +23,8 @@
     "eng": {
       "preferred_label": "Gomorrah",
       "alternate_labels": [
-        "Gomorrha",
-        "[ ]"
+        "[ ]",
+        "Gomorrha"
       ],
       "descriptions": [
         {
@@ -44,6 +44,9 @@
     "fra": {
       "preferred_label": "Gomorrhe"
     },
+    "hau": {
+      "preferred_label": "Gomorra"
+    },
     "hin": {
       "preferred_label": "गमोरा"
     },
@@ -51,7 +54,7 @@
       "preferred_label": "Gomora"
     },
     "por": {
-      "preferred_label": "Gomorrah"
+      "preferred_label": "Gomorra"
     },
     "rus": {
       "preferred_label": "Гоморре"
@@ -100,10 +103,10 @@
     }
   },
   "key_references": [
-    "01010019",
-    "01018020",
     "01019024",
-    "01014008"
+    "01014008",
+    "01010019",
+    "01018020"
   ],
   "references": [
     "01010019",

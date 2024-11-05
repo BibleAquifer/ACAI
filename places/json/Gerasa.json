@@ -6,8 +6,8 @@
       "5425|Gerasa, Gerasenes|TyndaleBibleDictionary"
     ],
     "tipnr": [
-      "Gerasa@Mat.8.28-Luk",
-      "Gadara|Gerasa@Mat.8.28-Luk"
+      "Gadara|Gerasa@Mat.8.28-Luk",
+      "Gerasa@Mat.8.28-Luk"
     ]
   },
   "type": "place",
@@ -15,13 +15,13 @@
     "eng": {
       "preferred_label": "Gerasa",
       "alternate_labels": [
+        "Gerasene",
+        "Gergesene",
+        "Var",
+        "Gerasenes",
         "Gadarene",
         "Gadarenes",
-        "Gerasenes",
-        "Gerasene",
-        "Var",
-        "Gadara",
-        "Gergesene"
+        "Gadara"
       ],
       "descriptions": [
         {
@@ -31,6 +31,9 @@
           "description": "A city in Perea, east of the Jordan and southeast of the Sea of Galilee; one of the cities of the Decapolis. Jesus cast out many demons from a man while in the region near there (Mark 5:1–20; Luke 8:26–39)."
         }
       ]
+    },
+    "hin": {
+      "preferred_label": "गिरासा"
     }
   },
   "referred_to_as": [
@@ -60,8 +63,8 @@
     }
   },
   "key_references": [
-    "42008026",
-    "41005001"
+    "41005001",
+    "42008026"
   ],
   "references": [
     "40008028",

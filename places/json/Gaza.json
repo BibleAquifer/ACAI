@@ -13,8 +13,8 @@
       "https://imperium.ahlfeldt.se/places/21672"
     ],
     "tipnr": [
-      "Gaza@Gen.10.19-Act",
-      "Ayyah|Gaza@Gen.10.19-Act"
+      "Ayyah|Gaza@Gen.10.19-Act",
+      "Gaza@Gen.10.19-Act"
     ],
     "vizbible": [
       "recNzNKGhPz5qS3Kc"
@@ -28,11 +28,11 @@
     "eng": {
       "preferred_label": "Gaza",
       "alternate_labels": [
-        "Gazites",
+        "Gazite",
         "Gazathites",
-        "Azzah",
         "Ayyah",
-        "Gazite"
+        "Azzah",
+        "Gazites"
       ],
       "descriptions": [
         {
@@ -46,7 +46,13 @@
     "arb": {
       "preferred_label": "غَزَّةَ"
     },
+    "cmn": {
+      "preferred_label": "迦薩"
+    },
     "fra": {
+      "preferred_label": "Gaza"
+    },
+    "hau": {
       "preferred_label": "Gaza"
     },
     "hin": {
@@ -116,12 +122,12 @@
     }
   },
   "key_references": [
-    "06010041",
-    "07001018",
-    "01010019",
-    "44008026",
+    "05002023",
     "09006017",
-    "05002023"
+    "07001018",
+    "44008026",
+    "06010041",
+    "01010019"
   ],
   "references": [
     "01010019",

@@ -3,8 +3,8 @@
   "primary_id": "place:Euphrates",
   "alternate_sources": {
     "ubsdbh": [
-      "004679001001000",
-      "004680001005000"
+      "004680001005000",
+      "004679001001000"
     ],
     "tipnr": [
       "River|Euphrates@Gen.2.14-Rev"
@@ -15,19 +15,19 @@
   },
   "type": "place",
   "ubsdbh": [
-    "004679001001000",
-    "004680001005000"
+    "004680001005000",
+    "004679001001000"
   ],
   "localizations": {
     "eng": {
       "preferred_label": "Beyond the River",
       "alternate_labels": [
-        "River",
-        "west of the Euphrates River",
-        "west of the Euphrates",
-        "Euphrates",
+        "Trans-Euphrates",
         "beyond the Euphrates River",
-        "Trans-Euphrates"
+        "west of the Euphrates River",
+        "River",
+        "Euphrates",
+        "west of the Euphrates"
       ],
       "descriptions": [
         {
@@ -39,7 +39,7 @@
       ]
     },
     "fra": {
-      "preferred_label": "fleuve"
+      "preferred_label": "fleuve Euphrate"
     },
     "spa": {
       "preferred_label": "río"
@@ -47,14 +47,11 @@
     "arb": {
       "preferred_label": "ٱلنَّهْرِ"
     },
-    "hin": {
-      "preferred_label": "महानद"
+    "hau": {
+      "preferred_label": "Kogi"
     },
     "ind": {
       "preferred_label": "Efrat"
-    },
-    "por": {
-      "preferred_label": "rio"
     },
     "rus": {
       "preferred_label": "реке"

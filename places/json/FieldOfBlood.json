@@ -15,26 +15,26 @@
   },
   "type": "place",
   "ubsdgnt": [
+    "8.64",
     "1.95",
-    "20.83",
-    "8.64"
+    "20.83"
   ],
   "localizations": {
     "eng": {
       "preferred_label": "Field of Blood",
       "alternate_labels": [
         "Hakeldama",
-        "Field of Blood",
         "Akeldama",
-        "Aceldama",
-        "The field of blood",
         "Blood",
+        "Field of Blood",
+        "The field of blood",
         "Field of",
-        "Akel Dama"
+        "Akel Dama",
+        "Aceldama"
       ]
     },
     "fra": {
-      "preferred_label": "champ"
+      "preferred_label": "champ du sang"
     },
     "spa": {
       "preferred_label": "campo"
@@ -42,14 +42,14 @@
     "arb": {
       "preferred_label": "ٱلْحَقْلُ"
     },
-    "hin": {
-      "preferred_label": "खेत"
+    "cmn": {
+      "preferred_label": "血田"
+    },
+    "hau": {
+      "preferred_label": "filin"
     },
     "ind": {
       "preferred_label": "Darah"
-    },
-    "por": {
-      "preferred_label": "campo"
     },
     "rus": {
       "preferred_label": "земля"
@@ -72,8 +72,8 @@
   "added_entry": false,
   "lemmas": {
     "el": [
-      "ἀγρός",
-      "αἷμα"
+      "αἷμα",
+      "ἀγρός"
     ]
   },
   "place_types": {

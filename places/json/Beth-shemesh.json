@@ -10,8 +10,8 @@
       "http://sws.geonames.org/295432"
     ],
     "tipnr": [
-      "Beth-shemesh@Jos.15.10-2Ch",
-      "Heres_Mount|Beth-shemesh@Jos.15.10-2Ch"
+      "Heres_Mount|Beth-shemesh@Jos.15.10-2Ch",
+      "Beth-shemesh@Jos.15.10-2Ch"
     ],
     "vizbible": [
       "recocNih6Mr5ISN1d"
@@ -22,10 +22,10 @@
     "eng": {
       "preferred_label": "Beth-shemesh (of Judah)",
       "alternate_labels": [
-        "Mount Heres",
-        "Ir-Shemesh",
         "Beth-Shemesh",
-        "Beth-shemite"
+        "Mount Heres",
+        "Beth-shemite",
+        "Ir-Shemesh"
       ],
       "descriptions": [
         {
@@ -42,6 +42,9 @@
     "fra": {
       "preferred_label": "Beth-Schémesch"
     },
+    "hau": {
+      "preferred_label": "Shahazuma"
+    },
     "hin": {
       "preferred_label": "बेतशेमेश"
     },
@@ -49,7 +52,7 @@
       "preferred_label": "Bet-Semes"
     },
     "por": {
-      "preferred_label": "Beth-semes"
+      "preferred_label": "Bete-Semes"
     },
     "spa": {
       "preferred_label": "Beth-semes"
@@ -100,9 +103,9 @@
     }
   },
   "key_references": [
-    "06021016",
     "14028018",
-    "06015010"
+    "06015010",
+    "06021016"
   ],
   "references": [
     "06015010",

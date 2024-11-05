@@ -1,0 +1,49 @@
+{
+  "id": "place:Gibeah.1",
+  "primary_id": "place:Gibeah.1",
+  "alternate_sources": {
+    "aquifer": [
+      "5447|Gibeah|TyndaleBibleDictionary",
+      "26636|Gibeah|UWTranslationWords"
+    ]
+  },
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gibeah.1",
+          "gloss": "Gibeah (of Benjamin)",
+          "description": "The hometown of King Saul, in the territory of Benjamin, where someone's concubine was raped by a large group of men (Judges 20:4–7); possibly to be identified with Geba."
+        }
+      ],
+      "preferred_label": "Gibeah (of Benjamin)"
+    }
+  },
+  "possibly_same_as": [
+    "place:Geba"
+  ],
+  "nearby_places": [
+    "place:Ramah.4"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfBenjamin"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "09010026",
+    "09011004",
+    "23010029"
+  ]
+}

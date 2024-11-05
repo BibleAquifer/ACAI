@@ -6,10 +6,10 @@
       "7674|Persia, Persians|TyndaleBibleDictionary"
     ],
     "ubsdbh": [
-      "006017001001000",
       "006018001001000",
       "000616001001000",
-      "006015001001000"
+      "006015001001000",
+      "006017001001000"
     ],
     "tipnr": [
       "Persia@2Ch.36.20-Dan"
@@ -19,10 +19,10 @@
   "group_type": "residence",
   "group_origin": "place:Persia",
   "ubsdbh": [
-    "006017001001000",
     "006018001001000",
     "000616001001000",
-    "006015001001000"
+    "006015001001000",
+    "006017001001000"
   ],
   "localizations": {
     "eng": {
@@ -44,6 +44,9 @@
     },
     "spa": {
       "preferred_label": "persa"
+    },
+    "hin": {
+      "preferred_label": "फारसी"
     }
   },
   "only_mentioned_in_apocrypha": false,

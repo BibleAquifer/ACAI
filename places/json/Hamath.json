@@ -14,9 +14,9 @@
       "https://imperium.ahlfeldt.se/places/21720"
     ],
     "tipnr": [
-      "Hamath_Rabbah|Hamath@Num.13.21-Zec",
       "Lebo-hamath|Hamath@Num.13.21-Zec",
-      "Hamath@Num.13.21-Zec"
+      "Hamath@Num.13.21-Zec",
+      "Hamath_Rabbah|Hamath@Num.13.21-Zec"
     ],
     "vizbible": [
       "recA34XfYsCxhyu31"
@@ -30,13 +30,13 @@
     "eng": {
       "preferred_label": "Hamath",
       "alternate_labels": [
+        "go",
+        "Hamath the great",
+        "Zobah",
         "Hamath-Zobah",
         "Zobah-Hamath",
-        "go",
-        "Zobah",
-        "Hamath the great",
-        "entering in of Hamath",
-        "Lebo-hamath"
+        "Lebo-hamath",
+        "entering in of Hamath"
       ],
       "descriptions": [
         {
@@ -50,8 +50,14 @@
     "arb": {
       "preferred_label": "حَمَاةَ"
     },
+    "cmn": {
+      "preferred_label": "哈馬"
+    },
     "fra": {
       "preferred_label": "Hamath"
+    },
+    "hau": {
+      "preferred_label": "Hamat"
     },
     "hin": {
       "preferred_label": "हमात"
@@ -60,7 +66,7 @@
       "preferred_label": "Hamat"
     },
     "por": {
-      "preferred_label": "Hamath"
+      "preferred_label": "Hamate"
     },
     "rus": {
       "preferred_label": "Имафа"

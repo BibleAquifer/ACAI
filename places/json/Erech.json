@@ -27,11 +27,11 @@
     "eng": {
       "preferred_label": "Erech",
       "alternate_labels": [
-        "Archevites",
-        "Erechites",
-        "Uruk",
         "Archevite",
-        "Erechs"
+        "Erechs",
+        "Archevites",
+        "Uruk",
+        "Erechites"
       ],
       "descriptions": [
         {
@@ -51,6 +51,9 @@
     "fra": {
       "preferred_label": "Érec"
     },
+    "hau": {
+      "preferred_label": "Erek"
+    },
     "hin": {
       "preferred_label": "एरेख"
     },
@@ -58,7 +61,7 @@
       "preferred_label": "Erekh"
     },
     "por": {
-      "preferred_label": "Erech"
+      "preferred_label": "Ereque"
     },
     "rus": {
       "preferred_label": "Эрех"
@@ -108,8 +111,8 @@
     }
   },
   "key_references": [
-    "15004009",
-    "01010010"
+    "01010010",
+    "15004009"
   ],
   "references": [
     "01010010",

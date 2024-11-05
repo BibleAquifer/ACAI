@@ -1,17 +1,17 @@
-# Ramah (of Asher)
-**Ramah (of Asher)**. 
-A town in the territory of Asher. 
+# Ramah (of Naphtali)
+**Ramah (of Naphtali)**. 
+A fortified town in the territory of Naphtali. 
 Other forms include: 
 *Ramah*. 
 
 
 
 
-Other information about Ramah (of Asher):
+Other information about Ramah (of Naphtali):
 
 
 * Is located within the following region(s): 
-[Territory of Asher](TerritoryOfAsher.md). 
+[Territory of Naphtali](TerritoryOfNaphtali.md). 
 
 
 **OT Distribution of References**
@@ -21,11 +21,11 @@ Other information about Ramah (of Asher):
 
 
 
-**Key References for Ramah (of Asher)**: 
-JOS 19:29. 
+**Key References for Ramah (of Naphtali)**: 
+JOS 19:36. 
 
 
-In the Old Testament (BSB), words representing “Ramah (of Asher)” are translated as 
+In the Old Testament (BSB), words representing “Ramah (of Naphtali)” are translated as 
 *Ramah* (1x). 
 
 

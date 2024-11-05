@@ -11,10 +11,10 @@
     ],
     "tipnr": [
       "Jesus@Mat.1.1-Rev",
-      "Messiah|Jesus@Mat.1.1-Rev",
       "Lord|Jesus@Mat.1.1.1-Rev",
       "Christ|Jesus@Mat.1.1-Rev",
-      "Immanuel|Jesus@Mat.1.1-Rev"
+      "Immanuel|Jesus@Mat.1.1-Rev",
+      "Messiah|Jesus@Mat.1.1-Rev"
     ],
     "vizbible": [
       "recgkFqZovgbr3pAi"
@@ -52,14 +52,14 @@
     "eng": {
       "preferred_label": "Jesus",
       "alternate_labels": [
-        "Messiah",
         "Christ Jesus",
-        "Christ",
+        "Lord",
         "Emmanuel",
         "Jesus Christ",
-        "Lord",
-        "Christian",
-        "Immanuel"
+        "Immanuel",
+        "Christ",
+        "Messiah",
+        "Christian"
       ],
       "descriptions": [
         {
@@ -74,10 +74,13 @@
       "preferred_label": "يَسُوعُ"
     },
     "cmn": {
-      "preferred_label": "基督徒"
+      "preferred_label": "耶穌"
     },
     "fra": {
       "preferred_label": "Jésus"
+    },
+    "hau": {
+      "preferred_label": "Yesu"
     },
     "hin": {
       "preferred_label": "यीशु"

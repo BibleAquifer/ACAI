@@ -1,25 +1,23 @@
-# Gilgal (of Judah)
-**Gilgal (of Judah)**. 
-A location near the northern boundary of the territory of Judah; also known as Geliloth. 
+# Gilgal (near Bethel)
+**Gilgal (near Bethel)**. 
+A location near Bethel associated with Elijah and Elisha. 
 Other forms include: 
-*Geliloth*, *Gilgal*. 
+*Gilgal*. 
 
 
 
 
-Other information about Gilgal (of Judah):
+Other information about Gilgal (near Bethel):
 
 
-* May refer to the same location as: 
-[Geliloth](Geliloth.md). 
-* Is located within the following region(s): 
-[Territory of Judah](TerritoryOfJudah.md). 
+* Is located near the following area(s): 
+[Ascent of Adummim](Adummim.md), [Bethel (of Ephraim)](Bethel.md). 
 
 
 
 
-**Key References for Gilgal (of Judah)**: 
-JOS 15:7. 
+**Key References for Gilgal (near Bethel)**: 
+2KI 2:1, 2KI 4:38. 
 
 
 

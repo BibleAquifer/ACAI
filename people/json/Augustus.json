@@ -3,8 +3,8 @@
   "primary_id": "person:Augustus",
   "alternate_sources": {
     "tipnr": [
-      "emperor|Augustus@Luk.2.1-Act",
       "Caesar|Augustus@Luk.2.1-Act",
+      "emperor|Augustus@Luk.2.1-Act",
       "Augustus@Luk.2.1-Act"
     ],
     "vizbible": [
@@ -21,9 +21,9 @@
     "eng": {
       "preferred_label": "Augustus",
       "alternate_labels": [
+        "Caesar",
         "Imperial",
         "emperor",
-        "Caesar",
         "Augustan"
       ],
       "descriptions": [
@@ -43,6 +43,9 @@
     },
     "fra": {
       "preferred_label": "Auguste"
+    },
+    "hau": {
+      "preferred_label": "Augustus"
     },
     "hin": {
       "preferred_label": "औगुस्तुस"

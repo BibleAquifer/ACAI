@@ -7,8 +7,8 @@
       "27005|Rabbah|UWTranslationWords"
     ],
     "ubsdbh": [
-      "006660001002000",
-      "006660001001000"
+      "006660001001000",
+      "006660001002000"
     ],
     "geonames": [
       "http://sws.geonames.org/250441"
@@ -22,15 +22,15 @@
   },
   "type": "place",
   "ubsdbh": [
-    "006660001002000",
-    "006660001001000"
+    "006660001001000",
+    "006660001002000"
   ],
   "localizations": {
     "eng": {
       "preferred_label": "Rabbah (of the Ammonites)",
       "alternate_labels": [
-        "Ammon",
         "Rabbath",
+        "Ammon",
         "Rabbah"
       ],
       "descriptions": [
@@ -45,8 +45,11 @@
     "arb": {
       "preferred_label": "رَبَّةِ"
     },
-    "fra": {
-      "preferred_label": "Rabbath"
+    "cmn": {
+      "preferred_label": "拉巴"
+    },
+    "hau": {
+      "preferred_label": "Rabba"
     },
     "hin": {
       "preferred_label": "रब्बाह"
@@ -55,7 +58,7 @@
       "preferred_label": "Raba"
     },
     "por": {
-      "preferred_label": "Rabba"
+      "preferred_label": "Rabá"
     },
     "rus": {
       "preferred_label": "Раввою"
@@ -106,8 +109,8 @@
     }
   },
   "key_references": [
-    "10012026",
-    "05003011"
+    "05003011",
+    "10012026"
   ],
   "references": [
     "05003011",

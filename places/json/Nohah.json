@@ -20,9 +20,9 @@
     "eng": {
       "preferred_label": "Nohah",
       "alternate_labels": [
-        "Manahath",
         "easily",
-        "ease"
+        "ease",
+        "Manahath"
       ],
       "descriptions": [
         {
@@ -36,17 +36,23 @@
     "arb": {
       "preferred_label": "وَنُوحَةَ"
     },
+    "cmn": {
+      "preferred_label": "挪哈"
+    },
     "fra": {
       "preferred_label": "Nocha"
     },
+    "hau": {
+      "preferred_label": "Noha"
+    },
     "hin": {
-      "preferred_label": "उन्हें"
+      "preferred_label": "नोहा"
     },
     "ind": {
       "preferred_label": "Noha"
     },
     "por": {
-      "preferred_label": "Noha"
+      "preferred_label": "Noá"
     },
     "rus": {
       "preferred_label": "Ноху"
@@ -65,6 +71,9 @@
     "place:Manahath"
   ],
   "tribal_area": "group:Benjamin",
+  "nearby_places": [
+    "place:Gibeah.2"
+  ],
   "subregion_of": [
     "place:TerritoryOfBenjamin"
   ],

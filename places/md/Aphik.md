@@ -2,7 +2,7 @@
 **Aphik**. 
 A town in the territory of Asher; also known as Aphek. 
 Aphik is also referred to as: 
-[Aphek (of Lebanon)](Aphek.2.md). 
+[Aphek (of Asher)](Aphek.2.md). 
 
 
 

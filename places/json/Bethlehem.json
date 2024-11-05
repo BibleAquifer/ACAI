@@ -13,9 +13,9 @@
     ],
     "tipnr": [
       "Bethlehem@Gen.35.16-Jhn",
-      "Ephrath|Bethlehem@Gen.35.16-Jhn",
       "Ephrathah|Bethlehem@Gen.35.16-Jhn",
-      "Lehem|Bethlehem@Gen.35.16-Jhn"
+      "Lehem|Bethlehem@Gen.35.16-Jhn",
+      "Ephrath|Bethlehem@Gen.35.16-Jhn"
     ],
     "vizbible": [
       "rec81f3wE4gATsRRE"
@@ -26,17 +26,17 @@
     "eng": {
       "preferred_label": "Bethlehem (of Judah)",
       "alternate_labels": [
+        "Ephratah",
+        "Ephrathah",
+        "Beth-lehem Ephratah",
         "Ephrath",
-        "Jashubi-lehem",
-        "Beth-Lehem",
         "Lehem",
         "Beth-Lehemite",
-        "Ephratah",
         "Beth-lehem-judah",
-        "Beth-lehem Ephratah",
         "Bethlehem Ephrathah",
-        "Ephrathah",
-        "Bethlehem of Ephrathah"
+        "Jashubi-lehem",
+        "Bethlehem of Ephrathah",
+        "Beth-Lehem"
       ],
       "descriptions": [
         {
@@ -56,6 +56,9 @@
     "fra": {
       "preferred_label": "Bethléhem"
     },
+    "hau": {
+      "preferred_label": "Betlehem"
+    },
     "hin": {
       "preferred_label": "बैतलहम"
     },
@@ -63,7 +66,7 @@
       "preferred_label": "Betlehem"
     },
     "por": {
-      "preferred_label": "Beth-lehem"
+      "preferred_label": "Belém"
     },
     "rus": {
       "preferred_label": "Вифлееме"
@@ -132,10 +135,10 @@
     }
   },
   "key_references": [
-    "33005002",
-    "42002001",
     "09016001",
+    "33005002",
     "40002001",
+    "42002001",
     "43007042",
     "01035019"
   ],

@@ -31,10 +31,10 @@
     "eng": {
       "preferred_label": "Rome",
       "alternate_labels": [
-        "Roman colony",
         "Roman",
         "[ ]",
-        "Romans"
+        "Romans",
+        "Roman colony"
       ],
       "descriptions": [
         {
@@ -48,11 +48,17 @@
     "arb": {
       "preferred_label": "ٱلرُّومَانِيُّونَ"
     },
+    "cmn": {
+      "preferred_label": "羅馬"
+    },
     "fra": {
-      "preferred_label": "Romains"
+      "preferred_label": "Rome"
+    },
+    "hau": {
+      "preferred_label": "Roma"
     },
     "hin": {
-      "preferred_label": "रोमी"
+      "preferred_label": "रोम"
     },
     "ind": {
       "preferred_label": "Roma"
@@ -120,8 +126,8 @@
   },
   "key_references": [
     "44018002",
-    "44023011",
-    "44028016"
+    "44028016",
+    "44023011"
   ],
   "references": [
     "43011048",

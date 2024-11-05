@@ -11,7 +11,7 @@ Other information about Maareh-geba:
 
 
 * Is located near the following area(s): 
-[Gibeah (of Benjamin)](Gibeah.2.md). 
+[Gibeah (of Phinehas)](Gibeah.2.md). 
 
 
 **OT Distribution of References**

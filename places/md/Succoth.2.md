@@ -54,7 +54,7 @@ Return to [Index](00-Index.md)
 
 * OpenBible.info: settlement
 
-* ACAI: campsite, town
+* ACAI: town, campsite
 
 
 

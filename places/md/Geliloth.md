@@ -15,7 +15,7 @@ Other information about Geliloth:
 
 
 * May refer to the same location as: 
-[Gilgal (near Shechem)](Gilgal.2.md). 
+[Gilgal (of Judah)](Gilgal.3.md). 
 
 
 **OT Distribution of References**

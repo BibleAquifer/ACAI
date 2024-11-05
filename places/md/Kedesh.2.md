@@ -1,23 +1,23 @@
-# Kedesh (of Judah)
-**Kedesh (of Judah)**. 
-A town in the southern territory of Judah, near the border of Edom; also known as En Mishpat, Kadesh, and Kadesh-Barnea. 
+# Kedesh (of Issachar)
+**Kedesh (of Issachar)**. 
+A Levitical town in the territory of Issachar, assigned to the clan of Gershon; possibly to be identified with Kishion. 
 Other forms include: 
 *Kedesh*, *Kishion*. 
-Kedesh (of Judah) is also referred to as: 
-[Kadesh-barnea](Kadesh-barnea.md), [Kishion](Kishion.md). 
-Kedesh (of Judah) is a subentry. The primary entry is 
+Kedesh (of Issachar) is also referred to as: 
+[Kishion](Kishion.md). 
+Kedesh (of Issachar) is a subentry. The primary entry is 
 [Kishion](Kishion.md). 
 
 
 
 
-Other information about Kedesh (of Judah):
+Other information about Kedesh (of Issachar):
 
 
+* May refer to the same location as: 
+[Kishion](Kishion.md). 
 * Is located within the following region(s): 
-[Territory of Judah](TerritoryOfJudah.md). 
-* Is located near the following area(s): 
-[Edom](Edom.md). 
+[Territory of Issachar](TerritoryOfIssachar.md). 
 
 
 **OT Distribution of References**
@@ -27,11 +27,11 @@ Other information about Kedesh (of Judah):
 
 
 
-**Key References for Kedesh (of Judah)**: 
-JOS 15:23. 
+**Key References for Kedesh (of Issachar)**: 
+1CH 6:57. 
 
 
-In the Old Testament (BSB), words representing “Kedesh (of Judah)” are translated as 
+In the Old Testament (BSB), words representing “Kedesh (of Issachar)” are translated as 
 *Kedesh* (1x). 
 
 

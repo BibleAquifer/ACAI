@@ -10,10 +10,10 @@
       "a8ec7ba"
     ],
     "tipnr": [
-      "Paddan-aram@Gen.25.20-Hos",
-      "Paddan|Paddan-aram@Gen.25.20-Hos",
       "Aramean|Paddan-aram@Gen.25.20-Hos",
-      "Aram|Paddan-aram@Gen.25.20-Hos"
+      "Paddan-aram@Gen.25.20-Hos",
+      "Aram|Paddan-aram@Gen.25.20-Hos",
+      "Paddan|Paddan-aram@Gen.25.20-Hos"
     ],
     "vizbible": [
       "recrEteYtMZW1c46t"
@@ -27,10 +27,10 @@
     "eng": {
       "preferred_label": "Paddan-aram",
       "alternate_labels": [
-        "Aramean",
-        "Padan-Aram",
-        "Paddan",
         "Aram",
+        "Padan-Aram",
+        "Aramean",
+        "Paddan",
         "Padan"
       ],
       "descriptions": [
@@ -49,7 +49,10 @@
       "preferred_label": "巴旦‧亞蘭"
     },
     "fra": {
-      "preferred_label": "Araméen"
+      "preferred_label": "Paddan-Aram"
+    },
+    "hau": {
+      "preferred_label": "Aram"
     },
     "hin": {
       "preferred_label": "पद्दनराम"
@@ -58,7 +61,7 @@
       "preferred_label": "Aram"
     },
     "por": {
-      "preferred_label": "Paddan-aram"
+      "preferred_label": "Padã-Arã"
     },
     "rus": {
       "preferred_label": "Арамеянина"
@@ -71,10 +74,10 @@
     }
   },
   "referred_to_as": [
-    "group:Aramean",
     "place:Paddan",
-    "place:Aram",
-    "place:Aram-naharaim"
+    "group:Aramean",
+    "place:Aram-naharaim",
+    "place:Aram"
   ],
   "subregion_of": [
     "place:Mesopotamia"
@@ -105,11 +108,11 @@
     }
   },
   "key_references": [
-    "05023004",
-    "07003008",
     "01025020",
+    "01024010",
+    "05023004",
     "01048007",
-    "01024010"
+    "07003008"
   ],
   "references": [
     "01025020",

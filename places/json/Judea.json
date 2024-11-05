@@ -21,17 +21,17 @@
     "eng": {
       "preferred_label": "Judea",
       "alternate_labels": [
-        "Judah",
-        "Jewish",
-        "Judaea",
-        "Galilee",
-        "Jews",
-        "Jewish leaders",
-        "Jewry",
-        "of Judea",
         "Juda",
         "Judean",
-        "Judeans"
+        "of Judea",
+        "Judah",
+        "Jews",
+        "Judeans",
+        "Jewish",
+        "Jewish leaders",
+        "Galilee",
+        "Judaea",
+        "Jewry"
       ],
       "descriptions": [
         {
@@ -45,8 +45,14 @@
     "arb": {
       "preferred_label": "يَهُوذَا"
     },
+    "cmn": {
+      "preferred_label": "猶大"
+    },
     "fra": {
-      "preferred_label": "Juifs"
+      "preferred_label": "Judée"
+    },
+    "hau": {
+      "preferred_label": "Yahuda"
     },
     "hin": {
       "preferred_label": "यहूदिया"
@@ -55,7 +61,7 @@
       "preferred_label": "Yehuda"
     },
     "por": {
-      "preferred_label": "Judea"
+      "preferred_label": "Judeia"
     },
     "rus": {
       "preferred_label": "Иерусалиме"
@@ -71,9 +77,9 @@
     }
   },
   "referred_to_as": [
-    "group:Judea",
     "place:Judea.2",
-    "place:TerritoryOfJudah"
+    "place:TerritoryOfJudah",
+    "group:Judea"
   ],
   "associated_places": [
     "place:TerritoryOfJudah"
@@ -111,17 +117,17 @@
     }
   },
   "key_references": [
-    "43007001",
-    "44001008",
-    "44015001",
-    "42001065",
-    "44008001",
-    "42004044",
-    "41010001",
     "40003001",
+    "44008001",
+    "15005008",
     "15009009",
+    "44001008",
+    "42004044",
+    "42001065",
+    "41010001",
+    "43007001",
     "42007017",
-    "15005008"
+    "44015001"
   ],
   "references": [
     "15009009",

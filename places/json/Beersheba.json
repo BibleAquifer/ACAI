@@ -11,9 +11,9 @@
       "http://pleiades.stoa.org/places/687846"
     ],
     "tipnr": [
-      "Shibah|Beersheba@Gen.21.14-Amo",
+      "Beersheba@Gen.21.14-Amo",
       "Sheba|Beersheba@Gen.21.14-Amo",
-      "Beersheba@Gen.21.14-Amo"
+      "Shibah|Beersheba@Gen.21.14-Amo"
     ],
     "vizbible": [
       "rectrAkGtrZH5LMp8"
@@ -24,9 +24,9 @@
     "eng": {
       "preferred_label": "Beersheba (in the Negev)",
       "alternate_labels": [
-        "Beer-Sheba",
         "Sheba",
-        "Shibah"
+        "Shibah",
+        "Beer-Sheba"
       ],
       "descriptions": [
         {
@@ -39,6 +39,9 @@
     },
     "cmn": {
       "preferred_label": "別是巴"
+    },
+    "hau": {
+      "preferred_label": "Beyersheba"
     },
     "hin": {
       "preferred_label": "बेर्शेबा"

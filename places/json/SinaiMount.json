@@ -14,8 +14,8 @@
       "http://pleiades.stoa.org/places/746815"
     ],
     "tipnr": [
-      "Sinai_Mount@Exo.19.11-Gal",
-      "Horeb_Mount|Sinai_Mount@Exo.19.11-Gal"
+      "Horeb_Mount|Sinai_Mount@Exo.19.11-Gal",
+      "Sinai_Mount@Exo.19.11-Gal"
     ],
     "vizbible": [
       "rec5Yu6987dc60uKz"
@@ -29,10 +29,10 @@
     "eng": {
       "preferred_label": "Mount Sinai",
       "alternate_labels": [
-        "Sinai",
+        "Horeb",
         "Mount Horeb",
         "Sina",
-        "Horeb"
+        "Sinai"
       ],
       "descriptions": [
         {
@@ -46,17 +46,23 @@
     "arb": {
       "preferred_label": "سِينَاءَ"
     },
+    "cmn": {
+      "preferred_label": "西奈山"
+    },
     "fra": {
-      "preferred_label": "Sinaï"
+      "preferred_label": "montagne de Sinaï"
+    },
+    "hau": {
+      "preferred_label": "Sinai"
     },
     "hin": {
-      "preferred_label": "सीनै"
+      "preferred_label": "सीनै पर्वत"
     },
     "ind": {
       "preferred_label": "Sinai"
     },
     "por": {
-      "preferred_label": "Sinai"
+      "preferred_label": "Monte Sinai"
     },
     "rus": {
       "preferred_label": "Синаем"
@@ -110,14 +116,14 @@
     }
   },
   "key_references": [
+    "02024012",
+    "02031018",
+    "05028069",
+    "05001002",
     "02019016",
     "48004024",
-    "05028069",
     "02003001",
-    "05005002",
-    "02031018",
-    "05001002",
-    "02024012"
+    "05005002"
   ],
   "references": [
     "02003001",

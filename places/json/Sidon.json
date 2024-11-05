@@ -14,8 +14,8 @@
       "https://imperium.ahlfeldt.se/places/21115"
     ],
     "tipnr": [
-      "Great_Sidon|Sidon@Gen.10.19-Act",
-      "Sidon@Gen.10.19-Act"
+      "Sidon@Gen.10.19-Act",
+      "Great_Sidon|Sidon@Gen.10.19-Act"
     ],
     "vizbible": [
       "recxiSg5QZWkj9Hy3"
@@ -29,14 +29,14 @@
     "eng": {
       "preferred_label": "Sidon",
       "alternate_labels": [
+        "Great Sidon",
+        "Greater Sidon",
+        "great Zidon",
+        "Zidon",
         "Sidonian",
         "Zidonians",
         "Sidonians",
-        "Zidon",
-        "Great Sidon",
-        "Greater Sidon",
-        "Sidon the Great",
-        "great Zidon"
+        "Sidon the Great"
       ],
       "descriptions": [
         {
@@ -50,7 +50,13 @@
     "arb": {
       "preferred_label": "صِيْدُونَ"
     },
+    "cmn": {
+      "preferred_label": "西頓"
+    },
     "fra": {
+      "preferred_label": "Sidon"
+    },
+    "hau": {
       "preferred_label": "Sidon"
     },
     "hin": {
@@ -60,7 +66,7 @@
       "preferred_label": "Sidon"
     },
     "por": {
-      "preferred_label": "Sidon"
+      "preferred_label": "Sidom"
     },
     "rus": {
       "preferred_label": "Сидон"
@@ -121,12 +127,12 @@
     }
   },
   "key_references": [
-    "01049013",
-    "41007031",
-    "01010019",
-    "40015021",
     "26028020",
-    "44027003"
+    "41007031",
+    "01049013",
+    "40015021",
+    "44027003",
+    "01010019"
   ],
   "references": [
     "01010019",

@@ -25,11 +25,11 @@
     "eng": {
       "preferred_label": "Persia",
       "alternate_labels": [
-        "Paras",
-        "Persian",
         "Persians",
         "Apharsites",
-        "Apharsite"
+        "Apharsite",
+        "Persian",
+        "Paras"
       ],
       "descriptions": [
         {
@@ -43,8 +43,14 @@
     "arb": {
       "preferred_label": "فَارِسَ"
     },
+    "cmn": {
+      "preferred_label": "波斯"
+    },
     "fra": {
       "preferred_label": "Perse"
+    },
+    "hau": {
+      "preferred_label": "Farisa"
     },
     "hin": {
       "preferred_label": "फारस"
@@ -53,7 +59,7 @@
       "preferred_label": "Persia"
     },
     "por": {
-      "preferred_label": "Persia"
+      "preferred_label": "Pérsia"
     },
     "rus": {
       "preferred_label": "Персидского"
@@ -99,8 +105,8 @@
     }
   },
   "key_references": [
-    "14036020",
-    "15001001"
+    "15001001",
+    "14036020"
   ],
   "references": [
     "14036020",

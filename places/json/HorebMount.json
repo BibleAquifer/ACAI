@@ -26,10 +26,10 @@
     "eng": {
       "preferred_label": "Mount Horeb",
       "alternate_labels": [
-        "Sinai",
-        "Horeb",
         "Mount Sinai",
+        "Horeb",
         "Herob",
+        "Sinai",
         "Horeb Mount"
       ],
       "descriptions": [
@@ -42,7 +42,7 @@
       ]
     },
     "fra": {
-      "preferred_label": "Horeb"
+      "preferred_label": "mont Horeb"
     },
     "spa": {
       "preferred_label": "Horeb"
@@ -50,14 +50,20 @@
     "arb": {
       "preferred_label": "حُورِيبَ"
     },
+    "cmn": {
+      "preferred_label": "何烈山"
+    },
+    "hau": {
+      "preferred_label": "Horeb"
+    },
     "hin": {
-      "preferred_label": "होरेब"
+      "preferred_label": "होरेब पर्वत"
     },
     "ind": {
       "preferred_label": "Horeb"
     },
     "por": {
-      "preferred_label": "Horeb"
+      "preferred_label": "Monte Horebe"
     },
     "rus": {
       "preferred_label": "Хорива"
@@ -107,10 +113,10 @@
     }
   },
   "key_references": [
-    "05001002",
-    "05005002",
     "05028069",
-    "02003001"
+    "02003001",
+    "05001002",
+    "05005002"
   ],
   "references": [
     "02003001",

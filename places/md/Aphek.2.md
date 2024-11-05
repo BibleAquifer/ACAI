@@ -1,19 +1,19 @@
-# Aphek (of Lebanon)
-**Aphek (of Lebanon)**. 
-A town in Lebanon, which was left unconquered by Joshua (Joshua 13:4). 
+# Aphek (of Asher)
+**Aphek (of Asher)**. 
+A town in the territory of Asher; also known as Aphik. 
 Other forms include: 
 *Aphek*, *Aphik*. 
-Aphek (of Lebanon) is also referred to as: 
-[Aphek (of Lebanon)](Aphek.2.md). 
+Aphek (of Asher) is also referred to as: 
+[Aphek (of Asher)](Aphek.2.md), [Aphik](Aphik.md). 
 
 
 
 
-Other information about Aphek (of Lebanon):
+Other information about Aphek (of Asher):
 
 
 * Is located within the following region(s): 
-[Lebanon](Lebanon.md). 
+[Territory of Asher](TerritoryOfAsher.md). 
 
 
 **OT Distribution of References**
@@ -23,11 +23,11 @@ Other information about Aphek (of Lebanon):
 
 
 
-**Key References for Aphek (of Lebanon)**: 
-JOS 13:4. 
+**Key References for Aphek (of Asher)**: 
+JOS 19:30, JDG 1:31. 
 
 
-In the Old Testament (BSB), words representing “Aphek (of Lebanon)” are translated as 
+In the Old Testament (BSB), words representing “Aphek (of Asher)” are translated as 
 *Aphek* (2x), *Aphik* (1x). 
 
 

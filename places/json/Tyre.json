@@ -30,11 +30,11 @@
     "eng": {
       "preferred_label": "Tyre",
       "alternate_labels": [
-        "Zemer",
         "Tyrian",
-        "Tyrus",
         "palm",
-        "Tyrians"
+        "Tyrians",
+        "Zemer",
+        "Tyrus"
       ],
       "descriptions": [
         {
@@ -48,8 +48,14 @@
     "arb": {
       "preferred_label": "صُورَ"
     },
+    "cmn": {
+      "preferred_label": "泰爾"
+    },
     "fra": {
       "preferred_label": "Tyr"
+    },
+    "hau": {
+      "preferred_label": "Taya"
     },
     "hin": {
       "preferred_label": "सोर"
@@ -58,7 +64,7 @@
       "preferred_label": "Tirus"
     },
     "por": {
-      "preferred_label": "Tyro"
+      "preferred_label": "Tiro"
     },
     "rus": {
       "preferred_label": "Тира"
@@ -119,14 +125,14 @@
     }
   },
   "key_references": [
-    "23023001",
     "26026001",
     "10024007",
     "41007024",
     "40015021",
-    "4402103 ",
     "26027001",
-    "06019029"
+    "4402103 ",
+    "06019029",
+    "23023001"
   ],
   "references": [
     "06019029",

@@ -19,21 +19,21 @@
   "type": "place",
   "localizations": {
     "eng": {
-      "preferred_label": "Gilgal (near Bethel)",
+      "preferred_label": "Gilgal (near Shechem)",
       "alternate_labels": [
+        "Gibeath-Haaraloth",
         "Beth-Gilgal",
         "Geliloth",
         "house of Gilgal",
-        "Gibeath-Haaraloth",
         "hill of the foreskins",
         "Gilgal"
       ],
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Gilgal.2",
-          "gloss": "Gilgal (near Bethel)",
-          "description": "A location near Bethel associated with Elijah and Elisha."
+          "article": "place:Gilgal.4",
+          "gloss": "Gilgal (near Shechem)",
+          "description": "A location close to Shechem and the Oak of Moreh."
         }
       ]
     }
@@ -45,8 +45,8 @@
     "place:Gibeath-haaraloth"
   ],
   "nearby_places": [
-    "place:Adummim",
-    "place:Bethel"
+    "place:Shechem",
+    "place:Moreh"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -80,8 +80,7 @@
     }
   },
   "key_references": [
-    "12004038",
-    "12002001"
+    "05011030"
   ],
   "references": [
     "05011030",

@@ -33,9 +33,9 @@
       "preferred_label": "Shechem",
       "alternate_labels": [
         "Shechemites",
-        "Sichem",
         "Sychem",
-        "Moreh"
+        "Moreh",
+        "Sichem"
       ],
       "descriptions": [
         {
@@ -49,8 +49,14 @@
     "arb": {
       "preferred_label": "شَكِيمَ"
     },
+    "cmn": {
+      "preferred_label": "示劍"
+    },
     "fra": {
       "preferred_label": "Sichem"
+    },
+    "hau": {
+      "preferred_label": "Shekem"
     },
     "hin": {
       "preferred_label": "शेकेम"
@@ -59,7 +65,7 @@
       "preferred_label": "Sekhem"
     },
     "por": {
-      "preferred_label": "Sichem"
+      "preferred_label": "Siquém"
     },
     "rus": {
       "preferred_label": "Шехема"
@@ -117,12 +123,12 @@
     }
   },
   "key_references": [
-    "06021020",
-    "01012006",
     "06024032",
-    "44007015",
+    "06021020",
     "01033018",
-    "06024025"
+    "44007015",
+    "06024025",
+    "01012006"
   ],
   "references": [
     "01012006",

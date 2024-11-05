@@ -27,13 +27,13 @@
     "eng": {
       "preferred_label": "Put",
       "alternate_labels": [
-        "Lybia",
-        "Pul",
-        "Libyans",
         "Put (KJV",
+        "Pul",
         "Put (KJV=Phut",
+        "Libya",
         "Phut",
-        "Libya"
+        "Lybia",
+        "Libyans"
       ],
       "descriptions": [
         {
@@ -47,8 +47,14 @@
     "arb": {
       "preferred_label": "وَفُوطُ"
     },
+    "cmn": {
+      "preferred_label": "弗"
+    },
     "fra": {
       "preferred_label": "Puth"
+    },
+    "hau": {
+      "preferred_label": "Fut"
     },
     "hin": {
       "preferred_label": "पूत"
@@ -57,7 +63,7 @@
       "preferred_label": "Put"
     },
     "por": {
-      "preferred_label": "Mitsraim"
+      "preferred_label": "Pute"
     },
     "rus": {
       "preferred_label": "Фут"
@@ -108,8 +114,8 @@
     }
   },
   "key_references": [
-    "26027010",
-    "26030005"
+    "26030005",
+    "26027010"
   ],
   "references": [
     "23066019",

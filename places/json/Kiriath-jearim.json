@@ -9,11 +9,11 @@
       "a9bba61"
     ],
     "tipnr": [
-      "Baale-judah|Kiriath-jearim@Jos.9.17-Jer",
       "Kiriath-jearim@Jos.9.17-Jer",
       "Baalah|Kiriath-jearim@Jos.9.17-Jer",
       "Kiriath-baal|Kiriath-jearim@Jos.9.17-Jer",
       "Kiriath-arim|Kiriath-jearim@Jos.9.17-Jer",
+      "Baale-judah|Kiriath-jearim@Jos.9.17-Jer",
       "Jaar|Kiriath-jearim@Jos.9.17-Jer"
     ],
     "vizbible": [
@@ -28,18 +28,18 @@
     "eng": {
       "preferred_label": "Kiriath-jearim",
       "alternate_labels": [
-        "Jaar",
-        "Kirjath",
-        "Baalah in Judah",
-        "Kiriath-Arim",
-        "Baalah",
-        "Kiriath-Baal",
-        "Kirjath-Baal",
-        "Baale of Judah",
-        "Baale-judah",
         "Kirjath-Jearim",
+        "Baale of Judah",
         "Kirjath-Arim",
-        "Kiriath"
+        "Baale-judah",
+        "Kiriath-Arim",
+        "Kiriath",
+        "Baalah in Judah",
+        "Kirjath",
+        "Kiriath-Baal",
+        "Jaar",
+        "Kirjath-Baal",
+        "Baalah"
       ],
       "descriptions": [
         {
@@ -56,6 +56,9 @@
     "fra": {
       "preferred_label": "Kirjath-Jearim"
     },
+    "hau": {
+      "preferred_label": "Kiriyat"
+    },
     "hin": {
       "preferred_label": "किर्यत्यारीम"
     },
@@ -63,7 +66,7 @@
       "preferred_label": "Kiryat-Yearim"
     },
     "por": {
-      "preferred_label": "Kiriath-jearim"
+      "preferred_label": "Quiriate-Jearim"
     },
     "spa": {
       "preferred_label": "Chiriath-jearim"
@@ -76,11 +79,11 @@
     }
   },
   "referred_to_as": [
-    "place:Kiriath-arim",
     "place:Baale-judah",
-    "place:Kiriath-baal",
+    "place:Kiriath-arim",
+    "place:Jaar",
     "place:Baalah.2",
-    "place:Jaar"
+    "place:Kiriath-baal"
   ],
   "tribal_area": "group:Judah",
   "associated_places": [
@@ -119,12 +122,12 @@
     }
   },
   "key_references": [
+    "13013006",
+    "10006002",
     "06018014",
     "06018015",
-    "13013006",
-    "06015009",
-    "10006002",
-    "06015010"
+    "06015010",
+    "06015009"
   ],
   "references": [
     "06009017",

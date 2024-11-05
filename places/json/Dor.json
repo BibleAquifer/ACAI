@@ -13,8 +13,8 @@
       "http://pleiades.stoa.org/places/678121"
     ],
     "tipnr": [
-      "Naphoth-dor|Dor@Jos.12.23-1Ch",
-      "Dor@Jos.12.23-1Ch"
+      "Dor@Jos.12.23-1Ch",
+      "Naphoth-dor|Dor@Jos.12.23-1Ch"
     ],
     "vizbible": [
       "recvyeVO2Ex1jYF7o"
@@ -28,11 +28,11 @@
     "eng": {
       "preferred_label": "Dor",
       "alternate_labels": [
-        "Naphath-dor",
-        "coast of Dor",
         "Naphoth-Dor",
+        "borders of Dor",
         "region of Dor",
-        "borders of Dor"
+        "Naphath-dor",
+        "coast of Dor"
       ],
       "descriptions": [
         {
@@ -46,7 +46,13 @@
     "arb": {
       "preferred_label": "دُوَرٍ"
     },
+    "cmn": {
+      "preferred_label": "多珥"
+    },
     "fra": {
+      "preferred_label": "Dor"
+    },
+    "hau": {
       "preferred_label": "Dor"
     },
     "hin": {
@@ -114,10 +120,10 @@
     }
   },
   "key_references": [
-    "06012023",
-    "07001027",
     "06011002",
-    "11004011"
+    "11004011",
+    "07001027",
+    "06012023"
   ],
   "references": [
     "06011002",

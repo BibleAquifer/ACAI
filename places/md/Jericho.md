@@ -16,7 +16,7 @@ Other information about Jericho (Old Testament):
 * Is located within the following region(s): 
 [Territory of Benjamin](TerritoryOfBenjamin.md). 
 * Is located near the following area(s): 
-[Jordan River](Jordan.md), [Jericho (New Testament)](Jericho.2.md), [Gilgal (of Judah)](Gilgal.4.md). 
+[Jordan River](Jordan.md), [Gilgal (near Jericho)](Gilgal.1.md), [Jericho (New Testament)](Jericho.2.md). 
 
 
 **OT Distribution of References**

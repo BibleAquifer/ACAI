@@ -11,7 +11,7 @@ Other information about Gibeath-elohim:
 
 
 * May refer to the same location as: 
-[Geba](Geba.md), [Gibeah (of Benjamin)](Gibeah.2.md). 
+[Geba](Geba.md), [Gibeah (of Benjamin)](Gibeah.1.md). 
 
 
 **OT Distribution of References**

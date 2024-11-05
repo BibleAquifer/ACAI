@@ -26,8 +26,8 @@
     "eng": {
       "preferred_label": "Water Gate",
       "alternate_labels": [
-        " Gate",
-        "Water"
+        "Water",
+        " Gate"
       ],
       "descriptions": [
         {
@@ -41,17 +41,20 @@
     "arb": {
       "preferred_label": "ٱلْمَاءِ"
     },
+    "cmn": {
+      "preferred_label": "水門"
+    },
     "fra": {
-      "preferred_label": "eaux"
+      "preferred_label": "porte des eaux"
+    },
+    "hau": {
+      "preferred_label": "Ruwa"
     },
     "hin": {
       "preferred_label": "जलफाटक"
     },
     "ind": {
       "preferred_label": "Air"
-    },
-    "por": {
-      "preferred_label": "das"
     },
     "rus": {
       "preferred_label": "ворот"
@@ -101,10 +104,10 @@
     }
   },
   "key_references": [
-    "16008016",
     "16008001",
+    "16012037",
     "16003026",
-    "16012037"
+    "16008016"
   ],
   "references": [
     "16003026",

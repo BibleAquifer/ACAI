@@ -1,0 +1,38 @@
+{
+  "id": "place:Ramah.7",
+  "primary_id": "place:Ramah.7",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Ramah.7",
+          "gloss": "Ramah (Postexilic)",
+          "description": "A town in the territory of Benjamin, after the exile."
+        }
+      ],
+      "preferred_label": "Ramah (Postexilic)",
+      "alternate_labels": [
+        "Ramah of Benjamin"
+      ]
+    }
+  },
+  "possibly_same_as": [
+    "place:Ramah.4"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "town"
+    ]
+  },
+  "key_references": [
+    "16011033"
+  ]
+}

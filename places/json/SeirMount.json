@@ -20,12 +20,12 @@
     "eng": {
       "preferred_label": "Mount Seir (of Edom)",
       "alternate_labels": [
-        "hill country of Seir",
-        "Edom",
         "Mount Seir",
-        "Seirites",
+        "Edom",
         "Edomites",
-        "mountain of Seir"
+        "mountain of Seir",
+        "Seirites",
+        "hill country of Seir"
       ],
       "descriptions": [
         {
@@ -39,17 +39,23 @@
     "arb": {
       "preferred_label": "سَعِيرَ"
     },
+    "cmn": {
+      "preferred_label": "西珥山"
+    },
     "fra": {
-      "preferred_label": "Séir"
+      "preferred_label": "montagne de Séir"
+    },
+    "hau": {
+      "preferred_label": "Seyir"
     },
     "hin": {
-      "preferred_label": "सेईर"
+      "preferred_label": "सेईर पर्वत"
     },
     "ind": {
       "preferred_label": "Seir"
     },
     "por": {
-      "preferred_label": "Seir"
+      "preferred_label": "Monte Seir"
     },
     "rus": {
       "preferred_label": "Сеиру"
@@ -98,8 +104,8 @@
     }
   },
   "key_references": [
-    "05001002",
-    "05002001"
+    "05002001",
+    "05001002"
   ],
   "references": [
     "01014006",

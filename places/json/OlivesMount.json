@@ -25,17 +25,17 @@
     "eng": {
       "preferred_label": "Mount of Olives",
       "alternate_labels": [
-        "mount Olivet",
-        "Olive Grove",
-        "Ascent of the Olives",
-        "Hill of Corruption",
-        "Mount",
-        "Mount of Corruption",
-        "Olivet",
         "Mountain of Destruction",
         "Ascent of the Mount of Olives",
         "Mount of Destruction",
-        "Olives"
+        "mount Olivet",
+        "Olives",
+        "Ascent of the Olives",
+        "Olivet",
+        "Olive Grove",
+        "Hill of Corruption",
+        "Mount",
+        "Mount of Corruption"
       ],
       "descriptions": [
         {
@@ -53,16 +53,19 @@
       "preferred_label": "橄欖山"
     },
     "fra": {
-      "preferred_label": "oliviers"
+      "preferred_label": "montagne des oliviers"
+    },
+    "hau": {
+      "preferred_label": "Zaitun"
     },
     "hin": {
-      "preferred_label": "जैतून"
+      "preferred_label": "जैतून पर्वत"
     },
     "ind": {
       "preferred_label": "Zaitun"
     },
     "por": {
-      "preferred_label": "das"
+      "preferred_label": "Monte das Oliveiras"
     },
     "rus": {
       "preferred_label": "Елеонскую"
@@ -114,14 +117,14 @@
     }
   },
   "key_references": [
+    "38014003",
+    "40021001",
+    "10015030",
+    "41013003",
     "42022039",
     "44001012",
-    "42019029",
-    "40021001",
     "41011001",
-    "10015030",
-    "38014003",
-    "41013003"
+    "42019029"
   ],
   "references": [
     "10015030",
