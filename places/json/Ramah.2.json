@@ -16,7 +16,7 @@
   "type": "place",
   "localizations": {
     "eng": {
-      "preferred_label": "Ramah (of the Negev)",
+      "preferred_label": "Ramah (of Naphtali)",
       "alternate_labels": [
         "Rama",
         "Ramah"
@@ -24,15 +24,18 @@
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Ramah.6",
-          "gloss": "Ramah (of the Negev)",
-          "description": "A town in the territory of Simeon; also known as Ramoth-Negev."
+          "article": "place:Ramah.3",
+          "gloss": "Ramah (of Naphtali)",
+          "description": "A fortified town in the territory of Naphtali."
         }
       ]
     }
   },
   "referred_to_as": [
     "place:Ramah.2"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -66,7 +69,7 @@
     }
   },
   "key_references": [
-    "06019008"
+    "06019036"
   ],
   "references": [
     "06018025",

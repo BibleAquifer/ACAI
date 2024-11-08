@@ -2,7 +2,7 @@
 **Dead Sea**. 
 A large body of salt water (literally "the sea of salt") located in the basin of the Jordan Valley, east of Judah; the Jordan River flows from the north into the northern part of this sea. The water is so salty that no living organism inhabits it. 
 Other forms include: 
-*Sea*, *Dead Sea Valley*, *Salt*, *Salt Sea*, *Sea of Arabah*, *Sea of the Arabah*, *sea of the plain*. 
+*Dead Sea Valley*, *Salt*, *Salt Sea*, *Sea*, *Sea of Arabah*, *Sea of the Arabah*, *sea of the plain*. 
 
 
 **OT Distribution of References**

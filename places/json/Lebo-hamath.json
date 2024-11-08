@@ -6,8 +6,8 @@
       "6709|Lebo-Hamath|TyndaleBibleDictionary"
     ],
     "ubsdbh": [
-      "002627001001000",
       "002372001001000",
+      "002627001001000",
       "002372003001000"
     ],
     "digital_atlas_roman_empire": [
@@ -22,21 +22,21 @@
   },
   "type": "place",
   "ubsdbh": [
-    "002627001001000",
     "002372001001000",
+    "002627001001000",
     "002372003001000"
   ],
   "localizations": {
     "eng": {
       "preferred_label": "Lebo-hamath",
       "alternate_labels": [
-        "go",
         "entrance of Hamath",
-        "entrance to Hamath",
-        "entering in of Hamath",
+        "Hamath",
         "Hamath-Zobah",
-        "Hemath",
-        "Hamath"
+        "entering in of Hamath",
+        "go",
+        "entrance to Hamath",
+        "Hemath"
       ],
       "descriptions": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     "fra": {
-      "preferred_label": "Hètlôn"
+      "preferred_label": "Hamath"
     },
     "spa": {
       "preferred_label": "Hamath"
@@ -71,9 +71,6 @@
     "por": {
       "preferred_label": "Lebo-Hamate"
     },
-    "rus": {
-      "preferred_label": "Емафа"
-    },
     "swh": {
       "preferred_label": "Hamathi"
     },
@@ -95,10 +92,10 @@
   "added_entry": false,
   "lemmas": {
     "he": [
-      "חֶתְלֹן",
       "חֲמָת",
       "ה",
-      "חֲמַת רַבָּה"
+      "חֲמַת רַבָּה",
+      "חֶתְלֹן"
     ]
   },
   "place_types": {
@@ -125,8 +122,8 @@
     }
   },
   "key_references": [
-    "04013021",
-    "11008065"
+    "11008065",
+    "04013021"
   ],
   "references": [
     "04013021",

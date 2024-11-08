@@ -41,7 +41,7 @@ Return to [Index](00-Index.md)
 
 * OpenBible.info: settlement, mountain, special, region
 
-* ACAI: region, nation
+* ACAI: nation, region
 
 
 

@@ -13,24 +13,22 @@
   "type": "place",
   "localizations": {
     "eng": {
-      "preferred_label": "Aphek (of Asher)",
+      "preferred_label": "Aphik",
       "alternate_labels": [
-        "Aphik",
         "Aphek"
       ],
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Aphek.1",
-          "gloss": "Aphek (of Asher)",
-          "description": "A town in the territory of Asher; also known as Aphik."
+          "article": "place:Aphik",
+          "gloss": "Aphik",
+          "description": "A town in the territory of Asher; also known as Aphek."
         }
       ]
     }
   },
   "referred_to_as": [
-    "place:Aphek.2",
-    "place:Aphik"
+    "place:Aphek.2"
   ],
   "subregion_of": [
     "place:TerritoryOfAsher"
@@ -63,8 +61,7 @@
     }
   },
   "key_references": [
-    "07001031",
-    "06019030"
+    "07001031"
   ],
   "references": [
     "06013004",

@@ -11,11 +11,11 @@
       "https://imperium.ahlfeldt.se/places/22328"
     ],
     "tipnr": [
-      "Pekod|Babylon@Gen.10.10-Rev",
       "Babylon@Gen.10.10-Rev",
-      "Babel|Babylon@Gen.10.10-Rev",
+      "Sheshak|Babylon@Gen.10.10-Rev",
+      "Pekod|Babylon@Gen.10.10-Rev",
       "Merathaim|Babylon@Gen.10.10-Rev",
-      "Sheshak|Babylon@Gen.10.10-Rev"
+      "Babel|Babylon@Gen.10.10-Rev"
     ],
     "vizbible": [
       "recpqKANUDcRgN4HU"
@@ -26,19 +26,19 @@
     "eng": {
       "preferred_label": "Babylon",
       "alternate_labels": [
-        "Sheshak",
-        "Babylonian",
-        "Desert by the Sea",
-        "Tyre",
-        "Babel",
-        "Pekod",
         "Wilderness of the Sea",
-        "Sheshach",
-        "[ ]",
         "wilderness by the Sea",
-        "Babylonia",
+        "Babel",
         "Merathaim",
-        "Babylonians"
+        "Sheshak",
+        "Sheshach",
+        "Babylonia",
+        "Babylonians",
+        "Babylonian",
+        "Tyre",
+        "Pekod",
+        "Desert by the Sea",
+        "[ ]"
       ],
       "descriptions": [
         {
@@ -71,7 +71,7 @@
       "preferred_label": "Babilônia"
     },
     "rus": {
-      "preferred_label": "Вавилона"
+      "preferred_label": "Вавилон"
     },
     "spa": {
       "preferred_label": "Babilonia"
@@ -134,15 +134,15 @@
     }
   },
   "key_references": [
-    "13009001",
-    "12020012",
-    "15007009",
-    "60005013",
-    "14036017",
-    "12017040",
-    "12024010",
     "14036006",
-    "12017024"
+    "15007009",
+    "14036017",
+    "12017024",
+    "13009001",
+    "60005013",
+    "12024010",
+    "12017040",
+    "12020012"
   ],
   "references": [
     "01010010",

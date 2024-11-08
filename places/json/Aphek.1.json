@@ -1,9 +1,9 @@
 {
-  "id": "place:Aphik",
-  "primary_id": "place:Aphik",
+  "id": "place:Aphek.1",
+  "primary_id": "place:Aphek.1",
   "alternate_sources": {
     "aquifer": [
-      "3657|Aphik|TyndaleBibleDictionary"
+      "3655|Aphek|TyndaleBibleDictionary"
     ]
   },
   "type": "place",
@@ -12,17 +12,17 @@
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Aphik",
-          "gloss": "Aphik",
-          "description": "A town in the territory of Asher; also known as Aphek."
+          "article": "place:Aphek.1",
+          "gloss": "Aphek (of Asher)",
+          "description": "A town in the territory of Asher; also known as Aphik."
         }
       ],
-      "preferred_label": "Aphik"
+      "preferred_label": "Aphek (of Asher)",
+      "alternate_labels": [
+        "Aphik"
+      ]
     }
   },
-  "referred_to_as": [
-    "place:Aphek.2"
-  ],
   "subregion_of": [
     "place:TerritoryOfAsher"
   ],
@@ -38,6 +38,7 @@
     ]
   },
   "key_references": [
+    "06019030",
     "07001031"
   ]
 }
