@@ -55,7 +55,7 @@ Return to [Index](00-Index.md)
 
 ### Place Types
 
-* ACAI: region, nation
+* ACAI: nation, region
 
 
 

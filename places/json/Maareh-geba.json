@@ -20,11 +20,11 @@
     "eng": {
       "preferred_label": "Maareh-geba",
       "alternate_labels": [
-        "west of Gibeah",
-        "meadows of Gibeah",
         "west of Geba",
-        "vicinity of Gibeah",
-        "plain of Geba"
+        "meadows of Gibeah",
+        "west of Gibeah",
+        "plain of Geba",
+        "vicinity of Gibeah"
       ],
       "descriptions": [
         {
@@ -53,15 +53,12 @@
     "ind": {
       "preferred_label": "menghadang"
     },
-    "rus": {
-      "preferred_label": "западной"
-    },
     "swh": {
       "preferred_label": "hata"
     }
   },
   "nearby_places": [
-    "place:Gibeah.2"
+    "place:Gibeah.1"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,

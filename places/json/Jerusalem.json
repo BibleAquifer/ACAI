@@ -18,18 +18,18 @@
     ],
     "tipnr": [
       "Forsaken|Jerusalem@Jos.10.1-Rev",
-      "Zion|Jerusalem@Jos.10.1-Rev",
-      "Jerusalem@Jos.10.1-Rev",
       "City_of_the_Lord|Jerusalem@Jos.10.1-Rev",
-      "Salem|Jerusalem@Jos.10.1-Rev",
-      "Lord_Is_There|Jerusalem@Jos.10.1-Rev",
-      "Hephzibah|Jerusalem@Jos.10.1-Rev",
       "Jebusite|Jerusalem@Jos.10.1-Rev",
       "Desolate|Jerusalem@Jos.10.1-Rev",
-      "Jebus|Jerusalem@Jos.10.1-Rev",
+      "Zion|Jerusalem@Jos.10.1-Rev",
       "Beulah|Jerusalem@Jos.10.1-Rev",
+      "Hephzibah|Jerusalem@Jos.10.1-Rev",
+      "Salem|Jerusalem@Jos.10.1-Rev",
+      "Lord_Is_There|Jerusalem@Jos.10.1-Rev",
+      "Ariel|Jerusalem@Jos.10.1-Rev",
       "Zion_Mount|Jerusalem@Jos.10.1-Rev",
-      "Ariel|Jerusalem@Jos.10.1-Rev"
+      "Jerusalem@Jos.10.1-Rev",
+      "Jebus|Jerusalem@Jos.10.1-Rev"
     ],
     "vizbible": [
       "recL1WV82pXaRBQ59"
@@ -43,29 +43,29 @@
     "eng": {
       "preferred_label": "Jerusalem",
       "alternate_labels": [
-        "Jerusalemites",
-        "Judah",
-        "Desolate",
-        "daughter of Judah",
-        "Hephzibah",
-        "Jebusite",
-        "The Lord Is There",
-        "Ariel",
-        "Mount Zion",
-        "Daughter Judah",
-        "city of Yahweh",
-        "City of God",
-        "Forsaken",
-        "Salem",
-        "Jebus",
         "Zion",
-        "Deserted",
-        "Married",
         "Jews",
+        "Daughter Judah",
+        "Deserted",
+        "Judah",
+        "Jerusalemites",
+        "Jebusite",
+        "Mount Zion",
+        "Forsaken",
+        "City of God",
         "City of the Lord",
+        "Desolate",
+        "My Delight Is in Her",
         "Sion",
+        "Ariel",
+        "The Lord Is There",
+        "Jebus",
+        "Married",
+        "Salem",
+        "Hephzibah",
+        "daughter of Judah",
         "Beulah",
-        "My Delight Is in Her"
+        "city of Yahweh"
       ],
       "descriptions": [
         {
@@ -77,7 +77,7 @@
       ]
     },
     "arb": {
-      "preferred_label": "أُورُشَلِيمَ"
+      "preferred_label": "أورشَلِيمَ"
     },
     "cmn": {
       "preferred_label": "耶路撒冷"
@@ -98,7 +98,7 @@
       "preferred_label": "Jerusalém"
     },
     "rus": {
-      "preferred_label": "Иерусалимский"
+      "preferred_label": "Иерусалим"
     },
     "spa": {
       "preferred_label": "Jerusalem"
@@ -111,18 +111,18 @@
     }
   },
   "referred_to_as": [
-    "place:CityOfTheLord",
+    "place:Hephzibah",
     "place:Zion",
-    "place:Jebusite",
-    "place:LordIsThere",
+    "place:Beulah",
+    "place:ZionMount",
     "place:Jebus",
     "place:Forsaken",
-    "place:Salem",
-    "place:Hephzibah",
-    "place:Desolate",
-    "place:Beulah",
     "place:Ariel",
-    "place:ZionMount"
+    "place:LordIsThere",
+    "place:Desolate",
+    "place:Salem",
+    "place:Jebusite",
+    "place:CityOfTheLord"
   ],
   "subregion_of": [
     "place:Judea"
@@ -163,26 +163,26 @@
     }
   },
   "key_references": [
-    "40021001",
-    "44008001",
-    "06018028",
-    "10005006",
-    "06015008",
-    "60002006",
     "26048035",
+    "06015008",
     "23029001",
-    "44002005",
-    "10006012",
-    "11008001",
+    "10005006",
+    "44008001",
     "40020017",
-    "01014018",
-    "42019028",
     "43004019",
-    "42019041",
-    "13011004",
-    "58007001",
+    "40021001",
     "42021020",
-    "41011001"
+    "10006012",
+    "60002006",
+    "42019028",
+    "41011001",
+    "01014018",
+    "13011004",
+    "06018028",
+    "11008001",
+    "58007001",
+    "44002005",
+    "42019041"
   ],
   "references": [
     "01014018",

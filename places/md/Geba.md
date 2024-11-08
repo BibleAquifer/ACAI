@@ -12,7 +12,7 @@ Other information about Geba:
 
 
 * May refer to the same location as: 
-[Gibeah (of Phinehas)](Gibeah.2.md). 
+[Gibeah (of Benjamin)](Gibeah.1.md). 
 * Is located within the following region(s): 
 [Territory of Benjamin](TerritoryOfBenjamin.md). 
 

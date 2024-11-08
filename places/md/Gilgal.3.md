@@ -1,19 +1,17 @@
-# Gilgal (of Judah)
-**Gilgal (of Judah)**. 
-A location near the northern boundary of the territory of Judah; also known as Geliloth. 
+# Gilgal (near Shechem)
+**Gilgal (near Shechem)**. 
+A location close to Shechem and the Oak of Moreh. 
 Other forms include: 
 *Gilgal*. 
 
 
 
 
-Other information about Gilgal (of Judah):
+Other information about Gilgal (near Shechem):
 
 
-* May refer to the same location as: 
-[Geliloth](Geliloth.md). 
-* Is located within the following region(s): 
-[Territory of Judah](TerritoryOfJudah.md). 
+* Is located near the following area(s): 
+[Shechem](Shechem.md), [Oak of Moreh](Moreh.md). 
 
 
 **OT Distribution of References**
@@ -23,11 +21,11 @@ Other information about Gilgal (of Judah):
 
 
 
-**Key References for Gilgal (of Judah)**: 
-JOS 15:7. 
+**Key References for Gilgal (near Shechem)**: 
+DEU 11:30. 
 
 
-In the Old Testament (BSB), words representing “Gilgal (of Judah)” are translated as 
+In the Old Testament (BSB), words representing “Gilgal (near Shechem)” are translated as 
 *Gilgal* (1x), *to Gilgal* (1x). 
 
 

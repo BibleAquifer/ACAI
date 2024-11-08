@@ -2,7 +2,7 @@
 **Mediterranean Sea**. 
 A large body of water located between southern Europe, northern Africa, and western Asia, which borders Palestine on the west. 
 Other forms include: 
-*Great Sea*, *Mediterranean*, *Philistia*, *Qere. Ketiv*, *Sea*, *Sea of the Philistines*, *Western Sea*, *border*, *the great sea*. 
+*Great( Sea)*, *Mediterranean*, *Philistia*, *Qere. Ketiv*, *Sea*, *Sea of the Philistines*, *Western Sea*, *border*, *the great sea*. 
 Mediterranean Sea is also referred to as: 
 [Philistines Sea](PhilistinesSea.md). 
 

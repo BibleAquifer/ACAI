@@ -15,7 +15,7 @@ Other information about Kedesh Naphtali:
 
 
 * May refer to the same location as: 
-[Kedesh (in Upper Galilee)](Kedesh.md), [Kedesh (of Judah)](Kedesh.3.md). 
+[Kedesh (in Upper Galilee)](Kedesh.md), [Kedesh (of Issachar)](Kedesh.3.md). 
 
 
 **OT Distribution of References**

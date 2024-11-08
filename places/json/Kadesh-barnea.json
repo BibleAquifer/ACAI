@@ -33,11 +33,11 @@
       "preferred_label": "Kadesh-barnea",
       "alternate_labels": [
         "Meribah-Kadesh",
-        "Meribath-kadesh",
         "En-Mishpat",
-        "Kadesh",
         "Waters of Meribah-kadesh",
-        "Kedesh"
+        "Kadesh",
+        "Kedesh",
+        "Meribath-kadesh"
       ],
       "descriptions": [
         {
@@ -67,7 +67,7 @@
       "preferred_label": "Cades-Barneia"
     },
     "rus": {
-      "preferred_label": "Кадесом"
+      "preferred_label": "Кадес-Варни"
     },
     "spa": {
       "preferred_label": "Cades"
@@ -80,8 +80,8 @@
     }
   },
   "referred_to_as": [
-    "place:Kedesh.2",
-    "place:En-mishpat"
+    "place:En-mishpat",
+    "place:Kedesh.2"
   ],
   "subregion_of": [
     "place:Zin"
@@ -115,10 +115,10 @@
     }
   },
   "key_references": [
-    "06015023",
     "05002014",
+    "04020016",
     "04013026",
-    "04020016"
+    "06015023"
   ],
   "references": [
     "01014007",

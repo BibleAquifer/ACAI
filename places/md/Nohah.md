@@ -18,7 +18,7 @@ Other information about Nohah:
 * Is located within the following region(s): 
 [Territory of Benjamin](TerritoryOfBenjamin.md). 
 * Is located near the following area(s): 
-[Gibeah (of Phinehas)](Gibeah.2.md). 
+[Gibeah (of Benjamin)](Gibeah.1.md). 
 
 
 **OT Distribution of References**

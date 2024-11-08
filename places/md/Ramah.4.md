@@ -1,17 +1,17 @@
-# Ramah (of Naphtali)
-**Ramah (of Naphtali)**. 
-A fortified town in the territory of Naphtali. 
+# Ramah (Hill)
+**Ramah (Hill)**. 
+A hill near Gibeah of Benjamin. 
 Other forms include: 
 *Ramah*. 
 
 
 
 
-Other information about Ramah (of Naphtali):
+Other information about Ramah (Hill):
 
 
-* Is located within the following region(s): 
-[Territory of Naphtali](TerritoryOfNaphtali.md). 
+* May refer to the same location as: 
+[Gibeah (of Benjamin)](Gibeah.1.md). 
 
 
 **OT Distribution of References**
@@ -21,11 +21,11 @@ Other information about Ramah (of Naphtali):
 
 
 
-**Key References for Ramah (of Naphtali)**: 
-JOS 19:36. 
+**Key References for Ramah (Hill)**: 
+1SA 22:6. 
 
 
-In the Old Testament (BSB), words representing “Ramah (of Naphtali)” are translated as 
+In the Old Testament (BSB), words representing “Ramah (Hill)” are translated as 
 *Ramah* (1x). 
 
 
@@ -52,7 +52,7 @@ Return to [Index](00-Index.md)
 
 * VizBible: City
 
-* ACAI: town
+* ACAI: hill
 
 
 

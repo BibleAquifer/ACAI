@@ -11,7 +11,7 @@ Other information about Ramah (Postexilic):
 
 
 * May refer to the same location as: 
-[Ramah (of Naphtali)](Ramah.4.md). 
+[Ramah (of Benjamin)](Ramah.3.md). 
 
 
 

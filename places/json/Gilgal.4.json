@@ -15,19 +15,22 @@
         {
           "source": "acai",
           "article": "place:Gilgal.4",
-          "gloss": "Gilgal (near Bethel)",
-          "description": "A location near Bethel associated with Elijah and Elisha."
+          "gloss": "Gilgal (of Judah)",
+          "description": "A location near the northern boundary of the territory of Judah; also known as Geliloth."
         }
       ],
-      "preferred_label": "Gilgal (near Bethel)",
+      "preferred_label": "Gilgal (of Judah)",
       "alternate_labels": [
+        "Geliloth",
         "Gilgal"
       ]
     }
   },
-  "nearby_places": [
-    "place:Adummim",
-    "place:Bethel"
+  "possibly_same_as": [
+    "place:Geliloth"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfJudah"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -41,7 +44,6 @@
     ]
   },
   "key_references": [
-    "12002001",
-    "12004038"
+    "06015007"
   ]
 }

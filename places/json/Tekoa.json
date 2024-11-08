@@ -26,12 +26,12 @@
     "eng": {
       "preferred_label": "Tekoa",
       "alternate_labels": [
-        "Tekoah",
-        "Wilderness of Tekoa",
-        "Tekoan",
-        "Tekoite",
         "Desert of Tekoa",
-        "Tekoites"
+        "Wilderness of Tekoa",
+        "Tekoah",
+        "Tekoite",
+        "Tekoites",
+        "Tekoan"
       ],
       "descriptions": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     "arb": {
-      "preferred_label": "تَقُوعَ"
+      "preferred_label": "تَقوعَ"
     },
     "cmn": {
       "preferred_label": "提哥亞"
@@ -64,7 +64,7 @@
       "preferred_label": "Tecoa"
     },
     "rus": {
-      "preferred_label": "Фекою"
+      "preferred_label": "Фекоа"
     },
     "spa": {
       "preferred_label": "Tecoa"
@@ -109,9 +109,9 @@
     }
   },
   "key_references": [
+    "16003005",
     "14020020",
-    "30001001",
-    "16003005"
+    "30001001"
   ],
   "references": [
     "10014002",

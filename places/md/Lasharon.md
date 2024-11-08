@@ -9,7 +9,7 @@ Other information about Lasharon:
 
 
 * May refer to the same location as: 
-[Aphek (of Asher)](Aphek.2.md), [Sharon (of Gad)](Sharon.md). 
+[Aphik](Aphek.2.md), [Sharon (of Gad)](Sharon.md). 
 * Is located within the following region(s): 
 [Canaan](Canaan.md). 
 

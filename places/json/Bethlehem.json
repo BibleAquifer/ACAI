@@ -12,10 +12,10 @@
       "https://imperium.ahlfeldt.se/places/28331"
     ],
     "tipnr": [
-      "Bethlehem@Gen.35.16-Jhn",
+      "Ephrath|Bethlehem@Gen.35.16-Jhn",
       "Ephrathah|Bethlehem@Gen.35.16-Jhn",
       "Lehem|Bethlehem@Gen.35.16-Jhn",
-      "Ephrath|Bethlehem@Gen.35.16-Jhn"
+      "Bethlehem@Gen.35.16-Jhn"
     ],
     "vizbible": [
       "rec81f3wE4gATsRRE"
@@ -26,17 +26,17 @@
     "eng": {
       "preferred_label": "Bethlehem (of Judah)",
       "alternate_labels": [
-        "Ephratah",
-        "Ephrathah",
+        "Beth-Lehem",
         "Beth-lehem Ephratah",
+        "Bethlehem Ephrathah",
         "Ephrath",
         "Lehem",
-        "Beth-Lehemite",
         "Beth-lehem-judah",
-        "Bethlehem Ephrathah",
+        "Beth-Lehemite",
+        "Ephratah",
+        "Ephrathah",
         "Jashubi-lehem",
-        "Bethlehem of Ephrathah",
-        "Beth-Lehem"
+        "Bethlehem of Ephrathah"
       ],
       "descriptions": [
         {
@@ -69,7 +69,7 @@
       "preferred_label": "Belém"
     },
     "rus": {
-      "preferred_label": "Вифлееме"
+      "preferred_label": "Вифлеем"
     },
     "spa": {
       "preferred_label": "Catah"
@@ -135,12 +135,12 @@
     }
   },
   "key_references": [
-    "09016001",
     "33005002",
     "40002001",
     "42002001",
-    "43007042",
-    "01035019"
+    "01035019",
+    "09016001",
+    "43007042"
   ],
   "references": [
     "01035016",
