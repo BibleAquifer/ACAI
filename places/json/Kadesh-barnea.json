@@ -32,12 +32,12 @@
     "eng": {
       "preferred_label": "Kadesh-barnea",
       "alternate_labels": [
-        "Meribah-Kadesh",
-        "En-Mishpat",
         "Waters of Meribah-kadesh",
-        "Kadesh",
         "Kedesh",
-        "Meribath-kadesh"
+        "Kadesh",
+        "Meribath-kadesh",
+        "Meribah-Kadesh",
+        "En-Mishpat"
       ],
       "descriptions": [
         {
@@ -80,8 +80,8 @@
     }
   },
   "referred_to_as": [
-    "place:En-mishpat",
-    "place:Kedesh.2"
+    "place:Kedesh.2",
+    "place:En-mishpat"
   ],
   "subregion_of": [
     "place:Zin"
@@ -115,8 +115,8 @@
     }
   },
   "key_references": [
-    "05002014",
     "04020016",
+    "05002014",
     "04013026",
     "06015023"
   ],

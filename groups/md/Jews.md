@@ -84,7 +84,7 @@ Return to [Index](00-Index.md)
 
 * JHN 10:24: “How long will You keep us in suspense If You are the Christ tell us plainly”
 
-* JHN 10:33: “We are not stoning You for any good work but for blasphemy because You who are a man declare Yourself to be God”
+* JHN 10:33: “We are not stoning You for any good work but for blasphemy because You who are a man make Yourself out to be God”
 
 * JHN 11:34: “Come and see Lord”
 

@@ -1,17 +1,17 @@
-# Gilgal (near Shechem)
-**Gilgal (near Shechem)**. 
-A location close to Shechem and the Oak of Moreh. 
+# Gilgal (near Jericho)
+**Gilgal (near Jericho)**. 
+A town close to Jericho where the Israelites first camped after crossing the Jordan River and set up twelve stones as a monument; it later became the location of a cultic center. 
 Other forms include: 
 *Gilgal*. 
 
 
 
 
-Other information about Gilgal (near Shechem):
+Other information about Gilgal (near Jericho):
 
 
 * Is located near the following area(s): 
-[Shechem](Shechem.md), [Oak of Moreh](Moreh.md). 
+[Jericho (Old Testament)](Jericho.md). 
 
 
 **OT Distribution of References**
@@ -21,11 +21,11 @@ Other information about Gilgal (near Shechem):
 
 
 
-**Key References for Gilgal (near Shechem)**: 
-DEU 11:30. 
+**Key References for Gilgal (near Jericho)**: 
+JOS 4:19, JOS 4:20, 1SA 7:17. 
 
 
-In the Old Testament (BSB), words representing “Gilgal (near Shechem)” are translated as 
+In the Old Testament (BSB), words representing “Gilgal (near Jericho)” are translated as 
 *Gilgal* (1x), *to Gilgal* (1x). 
 
 
@@ -52,7 +52,7 @@ Return to [Index](00-Index.md)
 
 * OpenBible.info: settlement
 
-* ACAI: settlement
+* ACAI: town
 
 
 

@@ -11,7 +11,7 @@ GEN 12:6, GEN 35:8, DEU 11:30.
 
 
 In the Old Testament (BSB), words representing “Oak” are translated as 
-*and the great tree* (1x), *the great tree* (1x), *the oak* (2x), *of the Oak* (1x), *the Oak* (2x), *near the Oaks* (2x), *by the Oaks* (1x), *Oak* (1x), *Allon-bachuth* (1x), *the oaks* (1x), *and oak* (1x), *oak He* (1x), *Of oaks* (1x), *oak* (1x), *as the oaks* (1x), *O oaks* (1x). 
+*and the great tree* (1x), *the great tree* (1x), *the oak* (2x), *of the Oak* (1x), *the Oak* (2x), *near the Oaks* (2x), *by the Oaks* (1x), *Oak* (1x), *Allon-bacuth* (1x), *the oaks* (1x), *and oak* (1x), *oak He* (1x), *Of oaks* (1x), *oak* (1x), *as the oaks* (1x), *O oaks* (1x). 
 
 
 
@@ -38,7 +38,7 @@ Return to [Index](00-Index.md)
 
 * Oak (JDG 9:37)
 
-* Allon-bachuth (GEN 35:8)
+* Allon-bacuth (GEN 35:8)
 
 * the oaks (ISA 2:13)
 

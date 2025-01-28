@@ -1,0 +1,40 @@
+{
+  "id": "place:Gibeah.3",
+  "primary_id": "place:Gibeah.3",
+  "type": "place",
+  "localizations": {
+    "eng": {
+      "descriptions": [
+        {
+          "source": "acai",
+          "article": "place:Gibeah.3",
+          "gloss": "Gibeah (of Phinehas)",
+          "description": "A hill or town in the hill country of Ephraim were Eleazar, son of Aaron, was buried."
+        }
+      ],
+      "preferred_label": "Gibeah (of Phinehas)",
+      "alternate_labels": [
+        "Gibeah of Phinehas",
+        "Hill of Phinehas"
+      ]
+    }
+  },
+  "subregion_of": [
+    "place:TerritoryOfEphraim"
+  ],
+  "mentioned_in_bible": true,
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "is_artifact": false,
+  "is_person": false,
+  "added_entry": false,
+  "place_types": {
+    "acai": [
+      "hill",
+      "town"
+    ]
+  },
+  "key_references": [
+    "06024033"
+  ]
+}

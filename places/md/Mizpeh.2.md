@@ -1,17 +1,17 @@
-# Mizpeh (of Judah)
-**Mizpeh (of Judah)**. 
-A town in the foothills of the territory of Judah. 
+# Mizpeh (of Benjamin)
+**Mizpeh (of Benjamin)**. 
+A town in the territory of Benjamin where Israel assembled after the atrocity that was committed in Gibeah; where Israel assembled during Samuel's leadership; residence of the governor Gedaliah after the destruction of Jerusalem. 
 Other forms include: 
 *Mizpah*, *Mizpeh*. 
 
 
 
 
-Other information about Mizpeh (of Judah):
+Other information about Mizpeh (of Benjamin):
 
 
 * Is located within the following region(s): 
-[Territory of Judah](TerritoryOfJudah.md). 
+[Territory of Benjamin](TerritoryOfBenjamin.md). 
 
 
 **OT Distribution of References**
@@ -21,11 +21,11 @@ Other information about Mizpeh (of Judah):
 
 
 
-**Key References for Mizpeh (of Judah)**: 
-JOS 15:38. 
+**Key References for Mizpeh (of Benjamin)**: 
+JOS 18:26. 
 
 
-In the Old Testament (BSB), words representing “Mizpeh (of Judah)” are translated as 
+In the Old Testament (BSB), words representing “Mizpeh (of Benjamin)” are translated as 
 *Mizpeh* (1x). 
 
 

@@ -4,7 +4,7 @@ A town in the territory of Asher; also known as Aphek.
 Other forms include: 
 *Aphek*. 
 Aphik is also referred to as: 
-[Aphik](Aphek.2.md). 
+[Aphek (of Asher)](Aphek.1.md), [Aphik](Aphek.2.md). 
 
 
 

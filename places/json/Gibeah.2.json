@@ -13,29 +13,35 @@
   "type": "place",
   "localizations": {
     "eng": {
-      "preferred_label": "Gibeah (of Phinehas)",
+      "preferred_label": "Gibeah (of Benjamin)",
       "alternate_labels": [
-        "Gibeathite",
-        "Geba",
         "Gibeon",
+        "Geba",
+        "Gibeathite",
         "Gibeonite",
         "Gibeah"
       ],
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Gibeah.3",
-          "gloss": "Gibeah (of Phinehas)",
-          "description": "A hill or town in the hill country of Ephraim were Eleazar, son of Aaron, was buried."
+          "article": "place:Gibeah.1",
+          "gloss": "Gibeah (of Benjamin)",
+          "description": "The hometown of King Saul, in the territory of Benjamin, where someone's concubine was raped by a large group of men (Judges 20:4–7); possibly to be identified with Geba."
         }
       ]
     }
   },
+  "possibly_same_as": [
+    "place:Geba"
+  ],
   "referred_to_as": [
     "place:Gibeah.2"
   ],
+  "nearby_places": [
+    "place:Ramah.3"
+  ],
   "subregion_of": [
-    "place:TerritoryOfEphraim"
+    "place:TerritoryOfBenjamin"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -48,8 +54,7 @@
       "settlement"
     ],
     "acai": [
-      "town",
-      "hill"
+      "town"
     ]
   },
   "geocoordinates": {
@@ -63,7 +68,9 @@
     }
   },
   "key_references": [
-    "06024033"
+    "09010026",
+    "23010029",
+    "09011004"
   ],
   "references": [
     "06018028",

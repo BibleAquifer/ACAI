@@ -33,7 +33,7 @@ GEN 46:11, EXO 6:16, NUM 3:17.
 
 
 In the Old Testament (BSB), words representing “Gershon” are translated as 
-*Gershon* (4x), *of Gershon were* (1x), *of Gershon* (2x), *From Gershon came* (1x), *were the Gershonite* (1x), *The Gershonite* (2x), *of the Gershonites* (4x), *of the Gershonite* (2x), *Then the Gershonites* (1x), *from the Gershonite* (1x), *the Gershonites* (1x), *and the Gershonites* (1x), *from Gershon* (1x), *of the Gershonites were given* (1x), *were given to the Gershonite* (1x), *Gershom* (2x), *of Gershom* (2x), *Of Gershom* (1x), *The Gershomites* (1x), *The Gershomites received the following* (1x), *from the Gershomites* (1x), *The Gershonites* (1x), *Gershonites* (1x), *the Gershonite* (2x), ** (1x). 
+*Gershon* (5x), *of Gershon were* (1x), *of Gershon* (2x), *From Gershon came* (1x), *were the Gershonite* (1x), *The Gershonite* (2x), *of the Gershonites* (4x), *of the Gershonite* (2x), *Then the Gershonites* (1x), *from the Gershonite* (1x), *the Gershonites* (1x), *and the Gershonites* (1x), *from Gershon* (1x), *of the Gershonites were given* (1x), *were given to the Gershonite* (1x), *Gershom* (1x), *of Gershom* (2x), *Of Gershom* (1x), *The Gershomites* (1x), *The Gershomites received the following* (1x), *from the Gershomites* (1x), *The Gershonites* (1x), *Gershonites* (1x), *the Gershonite* (2x), ** (1x). 
 
 
 
@@ -44,7 +44,7 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* Gershon (GEN 46:11; EXO 6:16; NUM 3:17; 1CH 5:27)
+* Gershon (GEN 46:11; EXO 6:16; NUM 3:17; 1CH 5:27; 1CH 23:6)
 
 * of Gershon were (EXO 6:17)
 
@@ -74,7 +74,7 @@ Return to [Index](00-Index.md)
 
 * were given to the Gershonite (JOS 21:33)
 
-* Gershom (1CH 6:1; 1CH 23:6)
+* Gershom (1CH 6:1)
 
 * of Gershom (1CH 6:2; 1CH 6:28)
 

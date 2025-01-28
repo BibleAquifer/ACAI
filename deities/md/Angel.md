@@ -4,11 +4,11 @@ An angel participating in a passage (acai).
 
 
 In the Old Testament (BSB), words representing “An Angel” are translated as 
-*So the angel* (2x), *Then the angel* (2x), *The angel* (2x), *But the angel* (2x), *And the angel* (2x), *the angel* (1x), *the LORD* (1x). 
+*So the angel* (2x), *Then the angel* (13x), *The angel* (4x), *But the angel* (2x), *And the angel* (7x), *the angel* (29x), *the LORD* (1x), *Now the angel* (2x), *angels* (3x), *the angels* (1x), *and the angel* (3x), *Just then the angel* (1x), *His angel* (2x), *and the angels* (1x), *messengers* (44x), *When the messengers* (3x), *There the angel* (1x), *an angel* (6x), *My angel* (2x), *the messengers* (7x), *the spies* (1x), *the men* (1x), *When the angel* (1x), ** (1x), *When* (1x), *angel of* (1x), *to the angel* (5x), *of the* (2x), *And when the angel* (1x), *to the messengers* (1x), *And when the messengers* (2x), *messengers back to* (1x), *Then a messenger* (1x), *as an angel* (1x), *envoys* (3x), *the messenger* (5x), *So the messenger* (1x), *The messenger* (2x), *just like the angel* (1x), *of the angel* (2x), *like the angel* (2x), *But when the angel* (1x), *At that time the angel* (2x), *and an angel* (1x), *a messenger* (4x), *The messengers* (1x), *So the messengers* (1x), *Then the messenger* (2x), *he* (1x), *when the messenger* (1x), *So the scouts* (1x), *When the messenger* (1x), *to* (1x), *your servants* (1x), *with the angel* (1x), *His messengers* (2x), *His angels* (3x), *as the angel* (3x), *all His angels* (1x), *messenger* (2x), *is a messenger* (1x), *to the envoys* (1x), *and their envoys* (1x), *the envoys* (1x), *like the messenger* (1x), *of His messengers* (1x), *and the Angel* (1x), *envoys who* (1x), *his envoys* (1x), *messengers will no* (1x), *angel who* (1x), *angel* (1x), *is the messenger* (1x), *My messenger* (1x). 
 
 
 In the New Testament (BSB), words representing “An Angel” are translated as 
-*angel* (5x), ** (1x). 
+*angel* (56x), ** (2x), *an angel* (20x), *angels* (61x), *messenger* (3x), *the angels* (8x), *of angels* (5x), *messengers* (2x), *of an angel* (2x), *the angel* (3x), *him* (2x), *as to* (1x), *a messenger* (1x), *by angels* (1x), *to angels* (1x), *spies* (1x), *Even angels* (1x), *with angels* (1x), *His* (1x), *of* (2x), *angel’s* (1x), *angel was* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -55,7 +55,7 @@ Return to [Index](00-Index.md)
 
 * JDG 13:3–5: “It is true that you are barren and have no children but you will conceive and give birth to a son Now please be careful not to drink wine or strong drink and not to eat anything unclean For behold you will conceive and give birth to a son And no razor shall touch his head because the boy will be a Nazirite to God from the womb and he will begin the deliverance of Israel from the hand of the Philistines”
 
-* JDG 13:11: “you the man who spoke to my wife I”
+* JDG 13:11: “you the man who spoke to my wife”
 
 * JDG 13:13–14: “Your wife is to do everything I told her She must not eat anything that comes from the vine nor drink any wine or strong drink nor eat anything unclean She must do everything I have commanded her”
 
@@ -239,25 +239,199 @@ Return to [Index](00-Index.md)
 
 * So the angel (GEN 16:9; JDG 13:13)
 
-* Then the angel (GEN 16:10; 2KI 1:15)
+* Then the angel (GEN 16:10; 2KI 1:15; NUM 22:24; JDG 6:11; JDG 6:21; JDG 6:21; 1CH 21:18; ISA 37:36; ZEC 1:12; ZEC 1:14; ZEC 3:6; ZEC 4:1; ZEC 5:5)
 
-* The angel (GEN 16:11; NUM 22:32)
+* The angel (GEN 16:11; NUM 22:32; JDG 13:3; PSA 34:8)
 
 * But the angel (NUM 22:35; 2KI 1:3)
 
-* And the angel (JDG 6:20; JDG 13:16)
+* And the angel (JDG 6:20; JDG 13:16; GEN 22:15; EXO 14:19; NUM 22:26; JDG 6:12; ZEC 1:9)
 
-* the angel (JDG 13:18)
+* the angel (JDG 13:18; GEN 31:11; GEN 48:16; NUM 22:23; NUM 22:25; NUM 22:27; NUM 22:31; NUM 22:34; JDG 5:23; JDG 6:22; JDG 6:22; JDG 13:17; JDG 13:20; JDG 13:21; 2SA 24:17; 1KI 19:7; 2KI 19:35; 1CH 21:16; 1CH 21:20; HOS 12:5; ZEC 1:11; ZEC 2:7; ZEC 3:1; ZEC 3:3; ZEC 4:4; ZEC 4:5; ZEC 5:10; ZEC 6:4; ZEC 6:5)
 
 * the LORD (ZEC 2:12)
+
+* Now the angel (GEN 16:7; JDG 2:1)
+
+* angels (GEN 19:1; GEN 28:12; PSA 78:49)
+
+* the angels (GEN 19:15)
+
+* and the angel (GEN 21:17; NUM 22:22; JDG 13:9)
+
+* Just then the angel (GEN 22:11)
+
+* His angel (GEN 24:7; GEN 24:40)
+
+* and the angels (GEN 32:2)
+
+* messengers (GEN 32:4; NUM 20:14; NUM 21:21; NUM 22:5; DEU 2:26; JOS 7:22; JDG 6:35; JDG 7:24; JDG 9:31; JDG 11:12; JDG 11:14; JDG 11:17; JDG 11:19; 1SA 6:21; 1SA 11:3; 1SA 11:7; 1SA 16:19; 1SA 19:11; 1SA 19:20; 1SA 19:20; 1SA 19:21; 1SA 19:21; 1SA 25:14; 1SA 25:42; 2SA 2:5; 2SA 3:12; 2SA 3:14; 2SA 3:26; 2SA 11:4; 2SA 12:27; 1KI 20:2; 2KI 1:2; 2KI 1:16; 2KI 14:8; 2KI 16:7; 1CH 19:2; 1CH 19:16; 2CH 35:21; NEH 6:3; ISA 18:2; ISA 37:9; EZK 23:16; EZK 23:40; EZK 30:9)
+
+* When the messengers (GEN 32:7; 1SA 11:4; 2KI 1:5)
+
+* There the angel (EXO 3:2)
+
+* an angel (EXO 23:20; EXO 33:2; NUM 20:16; 1KI 19:5; 1CH 21:15; 2CH 32:21)
+
+* My angel (EXO 23:23; EXO 32:34)
+
+* the messengers (NUM 24:12; 1SA 19:14; 1KI 20:9; 2KI 1:3; 2KI 19:14; 2CH 36:16; ISA 37:14)
+
+* the spies (JOS 6:17)
+
+* the men (JOS 6:25)
+
+* When the angel (JDG 2:4)
+
+*  (JDG 6:35)
+
+* When (JDG 11:13)
+
+* angel of (JDG 13:6)
+
+* to the angel (JDG 13:15; 2SA 24:16; 1CH 21:15; 1CH 21:27; ZEC 1:13)
+
+* of the (JDG 13:16; MAL 3:1)
+
+* And when the angel (JDG 13:21)
+
+* to the messengers (1SA 11:9)
+
+* And when the messengers (1SA 11:9; 1SA 19:16)
+
+* messengers back to (1SA 19:15)
+
+* Then a messenger (1SA 23:27)
+
+* as an angel (1SA 29:9)
+
+* envoys (2SA 5:11; 2KI 17:4; 1CH 14:1)
+
+* the messenger (2SA 11:19; 2SA 11:25; 2KI 6:33; ECC 5:5; HAG 1:13)
+
+* So the messenger (2SA 11:22)
+
+* The messenger (2SA 11:23; 2KI 9:18)
+
+* just like the angel (2SA 14:17)
+
+* of the angel (2SA 14:20; 1CH 21:30)
+
+* like the angel (2SA 19:28; ZEC 12:8)
+
+* But when the angel (2SA 24:16)
+
+* At that time the angel (2SA 24:16; 1CH 21:15)
+
+* and an angel (1KI 13:18)
+
+* a messenger (1KI 19:2; 2KI 5:10; JOB 1:14; JOB 33:23)
+
+* The messengers (1KI 20:5)
+
+* So the messengers (1KI 20:9)
+
+* Then the messenger (1KI 22:13; 2CH 18:12)
+
+* he (2KI 6:32)
+
+* when the messenger (2KI 6:32)
+
+* So the scouts (2KI 7:15)
+
+* When the messenger (2KI 10:8)
+
+* to (2KI 19:9)
+
+* your servants (2KI 19:23)
+
+* with the angel (1CH 21:12)
+
+* His messengers (2CH 36:15; PSA 104:4)
+
+* His angels (JOB 4:18; PSA 91:11; PSA 148:2)
+
+* as the angel (PSA 35:5; PSA 35:6; ZEC 3:5)
+
+* all His angels (PSA 103:20)
+
+* messenger (PRO 13:17; PRO 17:11)
+
+* is a messenger (PRO 16:14)
+
+* to the envoys (ISA 14:32)
+
+* and their envoys (ISA 30:4)
+
+* the envoys (ISA 33:7)
+
+* like the messenger (ISA 42:19)
+
+* of His messengers (ISA 44:26)
+
+* and the Angel (ISA 63:9)
+
+* envoys who (JER 27:3)
+
+* his envoys (EZK 17:15)
+
+* messengers will no (NAM 2:14)
+
+* angel who (ZEC 2:2)
+
+* angel (ZEC 2:7)
+
+* is the messenger (MAL 2:7)
+
+* My messenger (MAL 3:1)
 
 
 
 ### NT Instances (BSB)
 
-* angel (LUK 2:10; ACT 12:8; REV 5:2; REV 16:5; REV 17:7)
+* angel (LUK 2:10; ACT 12:8; REV 5:2; REV 16:5; REV 17:7; MAT 1:24; MAT 28:5; LUK 1:13; LUK 1:18; LUK 1:19; LUK 1:26; LUK 1:30; LUK 1:34; LUK 1:35; LUK 1:38; LUK 2:13; LUK 2:21; ACT 7:38; ACT 10:7; ACT 12:9; ACT 12:10; ACT 12:11; ACT 12:15; REV 2:8; REV 2:12; REV 3:14; REV 7:2; REV 8:3; REV 8:4; REV 8:5; REV 8:8; REV 8:10; REV 8:12; REV 9:1; REV 9:11; REV 9:13; REV 9:14; REV 10:1; REV 10:5; REV 10:7; REV 10:8; REV 10:9; REV 11:15; REV 14:6; REV 14:8; REV 14:9; REV 14:15; REV 14:17; REV 14:18; REV 14:19; REV 18:1; REV 18:21; REV 19:17; REV 22:6; REV 22:8; REV 22:16)
 
-*  (ACT 10:4)
+*  (ACT 10:4; GAL 3:19)
+
+* an angel (MAT 1:20; MAT 2:13; MAT 2:19; MAT 28:2; LUK 1:11; LUK 2:9; LUK 22:43; JHN 12:29; ACT 5:19; ACT 7:30; ACT 8:26; ACT 11:13; ACT 12:7; ACT 12:23; ACT 23:9; ACT 27:23; 2CO 11:14; GAL 1:8; GAL 4:14; REV 20:1)
+
+* angels (MAT 4:6; MAT 4:11; MAT 13:39; MAT 13:41; MAT 13:49; MAT 16:27; MAT 18:10; MAT 24:31; MAT 24:36; MAT 25:31; MAT 25:41; MRK 1:13; MRK 8:38; MRK 13:27; MRK 13:32; LUK 2:15; LUK 4:10; LUK 9:26; LUK 12:8; LUK 12:9; LUK 15:10; LUK 16:22; JHN 1:51; JHN 20:12; ACT 7:53; ACT 23:8; ROM 8:38; 1CO 6:3; 1CO 11:10; 2TH 1:7; 1TI 5:21; HEB 1:4; HEB 1:5; HEB 1:6; HEB 1:7; HEB 1:7; HEB 1:13; HEB 2:2; HEB 13:2; 2PE 2:11; REV 3:5; REV 5:11; REV 7:1; REV 7:2; REV 7:11; REV 8:2; REV 8:6; REV 8:13; REV 9:14; REV 9:15; REV 12:7; REV 12:7; REV 14:10; REV 15:1; REV 15:6; REV 15:7; REV 15:8; REV 16:1; REV 17:1; REV 21:9; REV 21:12)
+
+* messenger (MAT 11:10; MRK 1:2; LUK 7:27)
+
+* the angels (MAT 22:30; MRK 12:25; HEB 2:7; HEB 2:9; HEB 2:16; 2PE 2:4; JUD 1:6; REV 1:20)
+
+* of angels (MAT 26:53; LUK 24:23; 1CO 13:1; COL 2:18; HEB 12:22)
+
+* messengers (LUK 7:24; LUK 9:52)
+
+* of an angel (ACT 6:15; ACT 10:3)
+
+* the angel (ACT 7:35; REV 2:18; REV 3:7)
+
+* him (ACT 10:22; REV 12:9)
+
+* as to (1CO 4:9)
+
+* a messenger (2CO 12:7)
+
+* by angels (1TI 3:16)
+
+* to angels (HEB 2:5)
+
+* spies (JAS 2:25)
+
+* Even angels (1PE 1:12)
+
+* with angels (1PE 3:22)
+
+* His (REV 1:1)
+
+* of (REV 2:1; REV 3:1)
+
+* angel’s (REV 10:10)
+
+* angel was (REV 21:17)
 
 
 
@@ -425,7 +599,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* GEN 16:9; GEN 16:10; GEN 16:11; NUM 22:32; NUM 22:35; JDG 6:20; JDG 13:13; JDG 13:16; JDG 13:18; 2KI 1:3; 2KI 1:15; ZEC 2:12; LUK 2:10; ACT 10:4; ACT 12:8; REV 5:2; REV 16:5; REV 17:7
+* GEN 16:7; GEN 16:9; GEN 16:10; GEN 16:11; GEN 19:1; GEN 19:15; GEN 21:17; GEN 22:11; GEN 22:15; GEN 24:7; GEN 24:40; GEN 28:12; GEN 31:11; GEN 32:2; GEN 32:4; GEN 32:7; GEN 48:16; EXO 3:2; EXO 14:19; EXO 23:20; EXO 23:23; EXO 32:34; EXO 33:2; NUM 20:14; NUM 20:16; NUM 21:21; NUM 22:5; NUM 22:22; NUM 22:23; NUM 22:24; NUM 22:25; NUM 22:26; NUM 22:27; NUM 22:31; NUM 22:32; NUM 22:34; NUM 22:35; NUM 24:12; DEU 2:26; JOS 6:17; JOS 6:25; JOS 7:22; JDG 2:1; JDG 2:4; JDG 5:23; JDG 6:11; JDG 6:12; JDG 6:20; JDG 6:21; JDG 6:22; JDG 6:35; JDG 7:24; JDG 9:31; JDG 11:12; JDG 11:13; JDG 11:14; JDG 11:17; JDG 11:19; JDG 13:3; JDG 13:6; JDG 13:9; JDG 13:13; JDG 13:15; JDG 13:16; JDG 13:17; JDG 13:18; JDG 13:20; JDG 13:21; 1SA 6:21; 1SA 11:3; 1SA 11:4; 1SA 11:7; 1SA 11:9; 1SA 16:19; 1SA 19:11; 1SA 19:14; 1SA 19:15; 1SA 19:16; 1SA 19:20; 1SA 19:21; 1SA 23:27; 1SA 25:14; 1SA 25:42; 1SA 29:9; 2SA 2:5; 2SA 3:12; 2SA 3:14; 2SA 3:26; 2SA 5:11; 2SA 11:4; 2SA 11:19; 2SA 11:22; 2SA 11:23; 2SA 11:25; 2SA 12:27; 2SA 14:17; 2SA 14:20; 2SA 19:28; 2SA 24:16; 2SA 24:17; 1KI 13:18; 1KI 19:2; 1KI 19:5; 1KI 19:7; 1KI 20:2; 1KI 20:5; 1KI 20:9; 1KI 22:13; 2KI 1:2; 2KI 1:3; 2KI 1:5; 2KI 1:15; 2KI 1:16; 2KI 5:10; 2KI 6:32; 2KI 6:33; 2KI 7:15; 2KI 9:18; 2KI 10:8; 2KI 14:8; 2KI 16:7; 2KI 17:4; 2KI 19:9; 2KI 19:14; 2KI 19:23; 2KI 19:35; 1CH 14:1; 1CH 19:2; 1CH 19:16; 1CH 21:12; 1CH 21:15; 1CH 21:16; 1CH 21:18; 1CH 21:20; 1CH 21:27; 1CH 21:30; 2CH 18:12; 2CH 32:21; 2CH 35:21; 2CH 36:15; 2CH 36:16; NEH 6:3; JOB 1:14; JOB 4:18; JOB 33:23; PSA 34:8; PSA 35:5; PSA 35:6; PSA 78:49; PSA 91:11; PSA 103:20; PSA 104:4; PSA 148:2; PRO 13:17; PRO 16:14; PRO 17:11; ECC 5:5; ISA 14:32; ISA 18:2; ISA 30:4; ISA 33:7; ISA 37:9; ISA 37:14; ISA 37:36; ISA 42:19; ISA 44:26; ISA 63:9; JER 27:3; EZK 17:15; EZK 23:16; EZK 23:40; EZK 30:9; HOS 12:5; NAM 2:14; HAG 1:13; ZEC 1:9; ZEC 1:11; ZEC 1:12; ZEC 1:13; ZEC 1:14; ZEC 2:2; ZEC 2:7; ZEC 2:12; ZEC 3:1; ZEC 3:3; ZEC 3:5; ZEC 3:6; ZEC 4:1; ZEC 4:4; ZEC 4:5; ZEC 5:5; ZEC 5:10; ZEC 6:4; ZEC 6:5; ZEC 12:8; MAL 2:7; MAL 3:1; MAT 1:20; MAT 1:24; MAT 2:13; MAT 2:19; MAT 4:6; MAT 4:11; MAT 11:10; MAT 13:39; MAT 13:41; MAT 13:49; MAT 16:27; MAT 18:10; MAT 22:30; MAT 24:31; MAT 24:36; MAT 25:31; MAT 25:41; MAT 26:53; MAT 28:2; MAT 28:5; MRK 1:2; MRK 1:13; MRK 8:38; MRK 12:25; MRK 13:27; MRK 13:32; LUK 1:11; LUK 1:13; LUK 1:18; LUK 1:19; LUK 1:26; LUK 1:30; LUK 1:34; LUK 1:35; LUK 1:38; LUK 2:9; LUK 2:10; LUK 2:13; LUK 2:15; LUK 2:21; LUK 4:10; LUK 7:24; LUK 7:27; LUK 9:26; LUK 9:52; LUK 12:8; LUK 12:9; LUK 15:10; LUK 16:22; LUK 22:43; LUK 24:23; JHN 1:51; JHN 12:29; JHN 20:12; ACT 5:19; ACT 6:15; ACT 7:30; ACT 7:35; ACT 7:38; ACT 7:53; ACT 8:26; ACT 10:3; ACT 10:4; ACT 10:7; ACT 10:22; ACT 11:13; ACT 12:7; ACT 12:8; ACT 12:9; ACT 12:10; ACT 12:11; ACT 12:15; ACT 12:23; ACT 23:8; ACT 23:9; ACT 27:23; ROM 8:38; 1CO 4:9; 1CO 6:3; 1CO 11:10; 1CO 13:1; 2CO 11:14; 2CO 12:7; GAL 1:8; GAL 3:19; GAL 4:14; COL 2:18; 2TH 1:7; 1TI 3:16; 1TI 5:21; HEB 1:4; HEB 1:5; HEB 1:6; HEB 1:7; HEB 1:13; HEB 2:2; HEB 2:5; HEB 2:7; HEB 2:9; HEB 2:16; HEB 12:22; HEB 13:2; JAS 2:25; 1PE 1:12; 1PE 3:22; 2PE 2:4; 2PE 2:11; JUD 1:6; REV 1:1; REV 1:20; REV 2:1; REV 2:8; REV 2:12; REV 2:18; REV 3:1; REV 3:5; REV 3:7; REV 3:14; REV 5:2; REV 5:11; REV 7:1; REV 7:2; REV 7:11; REV 8:2; REV 8:3; REV 8:4; REV 8:5; REV 8:6; REV 8:8; REV 8:10; REV 8:12; REV 8:13; REV 9:1; REV 9:11; REV 9:13; REV 9:14; REV 9:15; REV 10:1; REV 10:5; REV 10:7; REV 10:8; REV 10:9; REV 10:10; REV 11:15; REV 12:7; REV 12:9; REV 14:6; REV 14:8; REV 14:9; REV 14:10; REV 14:15; REV 14:17; REV 14:18; REV 14:19; REV 15:1; REV 15:6; REV 15:7; REV 15:8; REV 16:1; REV 16:5; REV 17:1; REV 17:7; REV 18:1; REV 18:21; REV 19:17; REV 20:1; REV 21:9; REV 21:12; REV 21:17; REV 22:6; REV 22:8; REV 22:16
 
 
 

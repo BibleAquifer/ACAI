@@ -67,7 +67,7 @@ Return to [Index](00-Index.md)
 
 * JER 38:14: “I am going to ask you something Do not hide anything from me”
 
-* JER 38:16 (secret oath): “As surely as the LORD lives has given us this life I will not kill you nor will I deliver you into the hands of these men who are seeking your”
+* JER 38:16 (secret oath): “As surely as the LORD lives who has given us this life I will not kill you nor will I deliver you into the hands of these men who are seeking your”
 
 * JER 38:19: “I am afraid of the Jews who have deserted to the Chaldeans for the Chaldeans may deliver me into their hands to abuse me”
 

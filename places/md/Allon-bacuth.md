@@ -26,7 +26,7 @@ GEN 35:8.
 
 
 In the Old Testament (BSB), words representing “Allon-bachuth” are translated as 
-*Allon-bachuth* (1x). 
+*Allon-bacuth* (1x). 
 
 
 
@@ -37,7 +37,7 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* Allon-bachuth (GEN 35:8)
+* Allon-bacuth (GEN 35:8)
 
 
 

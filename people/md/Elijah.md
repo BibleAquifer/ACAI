@@ -99,7 +99,7 @@ Return to [Index](00-Index.md)
 
 * 1KI 19:20: “Please let me kiss my father and mother goodbye and then I will follow you”
 
-* 1KI 21:20–24: “I have found you out because you have sold yourself to do evil in the sight of the LORD This is what the LORD says calamity on you and consume your descendants I will cut off from Ahab every male in Israel both slave and free I will make your house like that of Jeroboam son of Nebat and like that of Baasha son of Ahijah because you have provoked My anger and caused Israel to sin And the LORD also speaks concerning Jezebel The dogs will devour Jezebel by the wall of Jezreel Anyone belonging to Ahab who dies in the city will be eaten by dogs and anyone who dies in the field will be eaten by the birds of the air”
+* 1KI 21:20–24: “I have found you out because you have sold yourself to do evil in the sight of the LORD This is what the LORD says I will bring calamity on you and consume your descendants I will cut off from Ahab every male in Israel both slave and free I will make your house like that of Jeroboam son of Nebat and like that of Baasha son of Ahijah because you have provoked My anger and caused Israel to sin And the LORD also speaks concerning Jezebel The dogs will devour Jezebel by the wall of Jezreel Anyone belonging to Ahab who dies in the city will be eaten by dogs and anyone who dies in the field will be eaten by the birds of the air”
 
 * 2KI 1:10: “If I am a man of God may fire come down from heaven and consume you and your fifty men”
 
