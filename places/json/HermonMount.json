@@ -13,11 +13,11 @@
       "https://imperium.ahlfeldt.se/places/41235"
     ],
     "tipnr": [
-      "Baal-gad|Hermon_Mount@Deu.3.8-Ezk",
-      "Baal-hamon|Hermon_Mount@Deu.3.8-Ezk",
-      "Baal-hermon|Hermon_Mount@Deu.3.8-Ezk",
       "Hermon_Mount@Deu.3.8-Ezk",
-      "Senir|Hermon_Mount@Deu.3.8-Ezk"
+      "Baal-hamon|Hermon_Mount@Deu.3.8-Ezk",
+      "Baal-gad|Hermon_Mount@Deu.3.8-Ezk",
+      "Senir|Hermon_Mount@Deu.3.8-Ezk",
+      "Baal-hermon|Hermon_Mount@Deu.3.8-Ezk"
     ],
     "vizbible": [
       "rec1ET3TBR0oBaWJu"
@@ -31,21 +31,21 @@
     "eng": {
       "preferred_label": "Mount Hermon",
       "alternate_labels": [
-        "Senir",
-        "Mount Baal-hermon",
-        "Lebanon",
         "Baal-Gad",
-        "Sirion",
-        "Baal-Hermon",
-        "Baal-Hamon",
-        "Hermon",
-        "slope",
-        "field",
-        "Sion",
         "Hermonites",
+        "Mount Siyon",
+        "Baal-Hamon",
+        "field",
+        "Mount Baal-hermon",
+        "Baal-Hermon",
+        "Sirion",
+        "Senir",
+        "Lebanon",
         "Mount Sirion",
-        "Mount Sion",
-        "Mount Siyon"
+        "Hermon",
+        "Sion",
+        "slope",
+        "Mount Sion"
       ],
       "descriptions": [
         {
@@ -85,10 +85,10 @@
     }
   },
   "referred_to_as": [
-    "place:Baal-hamon",
+    "place:Baal-gad",
     "place:Baal-hermon",
     "place:Senir",
-    "place:Baal-gad"
+    "place:Baal-hamon"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -122,9 +122,9 @@
     }
   },
   "key_references": [
-    "22004008",
-    "05003008",
     "05003009",
+    "05003008",
+    "22004008",
     "13005023"
   ],
   "references": [

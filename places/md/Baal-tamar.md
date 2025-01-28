@@ -9,7 +9,7 @@ Other information about Baal-tamar:
 
 
 * Is located near the following area(s): 
-[Gibeah (of Benjamin)](Gibeah.1.md), [Bethel (of Ephraim)](Bethel.md). 
+[Bethel (of Ephraim)](Bethel.md). 
 
 
 **OT Distribution of References**

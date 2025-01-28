@@ -5,15 +5,6 @@ Other forms include:
 *meadows of Gibeah*, *plain of Geba*, *vicinity of Gibeah*, *west of Geba*, *west of Gibeah*. 
 
 
-
-
-Other information about Maareh-geba:
-
-
-* Is located near the following area(s): 
-[Gibeah (of Benjamin)](Gibeah.1.md). 
-
-
 **OT Distribution of References**
 
 ▁▁▁▁▁▁█▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁

@@ -4,9 +4,9 @@
 Other forms include: 
 *Gilgal*, *house of Gilgal*. 
 Beth-gilgal is also referred to as: 
-[Gilgal (near Bethel)](Gilgal.2.md). 
+[Gilgal (of Judah)](Gilgal.2.md). 
 Beth-gilgal is a subentry. The primary entry is 
-[Gilgal (near Bethel)](Gilgal.2.md). 
+[Gilgal (of Judah)](Gilgal.2.md). 
 
 
 

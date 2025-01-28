@@ -1,6 +1,6 @@
 # Lebo-hamath
 **Lebo-hamath**. 
-= town, area; on Orontes river in Syria; capital of Aramean kingdom; its inhabitants were relocated to Samaria by the king of Assyria. 
+= town or village; at northern boundary of Israel. 
 Other forms include: 
 *Hamath*, *Hamath-Zobah*, *Hemath*, *entering in of Hamath*, *entrance of Hamath*, *entrance to Hamath*, *go*. 
 Lebo-hamath is also referred to as: 

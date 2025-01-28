@@ -255,7 +255,7 @@ Return to [Index](00-Index.md)
 
 * for I am (EZK 44:28)
 
-* beset (AMO 4:6)
+* afflicted (AMO 4:6)
 
 * the Lord (AMO 9:1)
 

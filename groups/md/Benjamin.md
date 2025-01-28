@@ -11,7 +11,7 @@ JDG 19:16, PSA 7:0.
 
 
 In the Old Testament (BSB), words representing “Tribe of Benjamin” are translated as 
-*from Benjamin* (3x), *of Benjamin* (42x), *of the Benjamites* (3x), *of the Benjamites drew near* (1x), *and Benjamin* (20x), *Concerning Benjamin* (1x), *Benjamin* (17x), *of Benjamin they gave* (1x), ** (2x), *the Benjamites* (17x), *their* (1x), *were Benjamites* (1x), *Meanwhile the Benjamites* (1x), *in Benjamin* (5x), *But the Benjamites* (1x), *they* (1x), *And the Benjamites* (1x), *The Benjamites* (3x), *Benjamites* (3x), *Then the Benjamites* (1x), *before Benjamin* (1x), *When the Benjamites* (1x), *swordsmen* (1x), *the other Benjamites* (1x), *to a Benjamite* (2x), *for Benjamin* (1x), *a Benjamite* (5x), *a powerful man* (1x), *and Ish-bosheth* (1x), *this Benjamite* (1x), *Benjamin in* (1x), *the Benjamite* (1x), *of Benjamin 180,000 chosen* (1x), *Benjamin as* (1x), *sons of Benjamin* (1x), *Other Benjamites* (1x), *over Benjamin* (1x), *and Benjamin 180,000 chosen* (1x), *settled in Benjamin* (1x), *the tribe of Benjamin named* (1x), *Benjamin and* (1x), *O Benjamin* (1x), *and Benjamin will possess* (1x). 
+*from Benjamin* (3x), *of Benjamin* (42x), *of the Benjamites* (3x), *of the Benjamites drew near* (1x), *and Benjamin* (20x), *Concerning Benjamin* (1x), *Benjamin* (17x), *of Benjamin they gave* (1x), ** (2x), *the Benjamites* (17x), *their* (1x), *were Benjamites* (1x), *Meanwhile the Benjamites* (1x), *in Benjamin* (5x), *But the Benjamites* (1x), *they* (1x), *And the Benjamites* (1x), *The Benjamites* (3x), *Benjamites* (3x), *Then the Benjamites* (1x), *before Benjamin* (1x), *When the Benjamites* (1x), *swordsmen* (1x), *the other Benjamites* (1x), *to a Benjamite* (2x), *for Benjamin* (1x), *a Benjamite* (6x), *and Ish-bosheth* (1x), *this Benjamite* (1x), *Benjamin in* (1x), *the Benjamite* (1x), *of Benjamin 180,000 chosen* (1x), *Benjamin as* (1x), *sons of Benjamin* (1x), *Other Benjamites* (1x), *over Benjamin* (1x), *and Benjamin 180,000 chosen* (1x), *settled in Benjamin* (1x), *the tribe of Benjamin named* (1x), *Benjamin and* (1x), *O Benjamin* (1x), *and Benjamin will possess* (1x). 
 
 
 In the New Testament (BSB), words representing “Tribe of Benjamin” are translated as 
@@ -98,9 +98,7 @@ Return to [Index](00-Index.md)
 
 * for Benjamin (JDG 21:15)
 
-* a Benjamite (1SA 4:12; 1SA 9:21; 2SA 19:17; 2SA 20:1; 1CH 27:12)
-
-* a powerful man (1SA 9:1)
+* a Benjamite (1SA 4:12; 1SA 9:1; 1SA 9:21; 2SA 19:17; 2SA 20:1; 1CH 27:12)
 
 * and Ish-bosheth (2SA 2:15)
 

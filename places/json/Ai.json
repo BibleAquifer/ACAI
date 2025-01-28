@@ -24,10 +24,10 @@
     "eng": {
       "preferred_label": "Ai (of Ephraim)",
       "alternate_labels": [
-        "Aiath",
-        "city",
-        "Ketiv. Qere",
         "Hai",
+        "Aiath",
+        "Ketiv. Qere",
+        "city",
         "Aija",
         "Ai"
       ],
@@ -78,8 +78,8 @@
     "place:Aiath"
   ],
   "referred_to_as": [
-    "place:Aija",
-    "place:Aiath"
+    "place:Aiath",
+    "place:Aija"
   ],
   "tribal_area": "group:Ephraim",
   "nearby_places": [
@@ -120,9 +120,9 @@
     }
   },
   "key_references": [
+    "06007001",
     "13007028",
     "16011031",
-    "06007001",
     "01012008",
     "23010028"
   ],

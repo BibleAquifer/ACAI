@@ -14,7 +14,7 @@ Other information about Kishion:
 
 
 * May refer to the same location as: 
-[Kedesh (of Judah)](Kedesh.2.md). 
+[Kedesh (of Issachar)](Kedesh.3.md). 
 * Is located within the following region(s): 
 [Territory of Issachar](TerritoryOfIssachar.md). 
 

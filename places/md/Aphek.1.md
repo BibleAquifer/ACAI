@@ -3,6 +3,8 @@
 A town in the territory of Asher; also known as Aphik. 
 Other forms include: 
 *Aphik*. 
+Aphek (of Asher) is also referred to as: 
+[Aphek (of Sharon)](Aphek.md). 
 
 
 

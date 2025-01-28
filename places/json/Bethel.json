@@ -10,10 +10,10 @@
     ],
     "tipnr": [
       "Luz|Bethel@Gen.12.8-Zec",
+      "Bochim|Bethel@Gen.12.8-Zec",
       "Bethel@Gen.12.8-Zec",
-      "El-bethel|Bethel@Gen.12.8-Zec",
       "Aven|Bethel@Gen.12.8-Zec",
-      "Bochim|Bethel@Gen.12.8-Zec"
+      "El-bethel|Bethel@Gen.12.8-Zec"
     ],
     "vizbible": [
       "recJK76HLZSOzxTWW"
@@ -24,14 +24,14 @@
     "eng": {
       "preferred_label": "Bethel (of Ephraim)",
       "alternate_labels": [
-        "wickedness",
-        "Aven",
-        "El-Beth-El",
-        "Beth-Elite",
+        "El-Bethel",
         "Beth-El",
+        "Aven",
+        "wickedness",
+        "Bochim",
         "House of God",
-        "Luz",
-        "Bochim"
+        "Beth-Elite",
+        "Luz"
       ],
       "descriptions": [
         {
@@ -68,11 +68,11 @@
     }
   },
   "referred_to_as": [
-    "place:Aven",
-    "place:El-bethel",
+    "place:Luz",
     "place:Bochim",
     "place:Beth-aven.2",
-    "place:Luz"
+    "place:Aven",
+    "place:El-bethel"
   ],
   "tribal_area": "group:Ephraim",
   "subregion_of": [
@@ -103,11 +103,11 @@
     }
   },
   "key_references": [
-    "28004015",
-    "01028019",
-    "28010005",
     "28005008",
+    "28004015",
     "28010008",
+    "28010005",
+    "01028019",
     "01012008"
   ],
   "references": [

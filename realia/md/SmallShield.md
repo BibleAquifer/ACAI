@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Small Shield” are translated as 
-*your* (1x), *He is the shield* (1x), *a shield* (1x), *the shield* (5x), *my shield* (1x), *is a shield* (3x), *Your shield* (3x), *small shields* (4x), *shield* (3x), *shields* (12x), *with a shield* (2x), *and the large* (1x), *with shields* (2x), *and shields* (1x), *are a shield* (1x), *My shield* (1x), *shield and* (1x), *and my shield* (2x), *and our shield* (1x), *the shields* (3x), *our shield* (2x), *of our shield* (1x), *and a shield* (1x), *and shield* (4x), *is my shield in* (1x), *He is a shield* (1x), *like a bandit* (2x), *your small and* (1x), *their shields* (3x), *all brandishing* (1x), *the bucklers* (1x), *The shields* (1x), *the quivers* (1x), *is a sun* (1x), *your pinnacles* (1x). 
+*your* (1x), *He is the shield* (1x), *a shield* (1x), *the shield* (5x), *my shield* (1x), *is a shield* (3x), *Your shield* (3x), *small shields* (4x), *shield* (3x), *shields* (12x), *with a shield* (2x), *and the large* (1x), *with shields* (2x), *and shields* (1x), *are a shield* (1x), *My shield* (1x), *shield and* (1x), *and my shield* (2x), *and our shield* (1x), *the shields* (3x), *our shield* (2x), *of our shield* (1x), *and a shield* (1x), *and shield* (4x), *is my shield in* (1x), *He is a shield* (1x), *like a bandit* (2x), *small and* (1x), *their shields* (3x), *all brandishing* (1x), *the bucklers* (1x), *The shields* (1x), *the quivers* (1x), *is a sun* (1x), *your pinnacles* (1x). 
 
 
 
@@ -75,7 +75,7 @@ Return to [Index](00-Index.md)
 
 * like a bandit (PRO 6:11; PRO 24:34)
 
-* your small and (JER 46:3)
+* small and (JER 46:3)
 
 * their shields (JER 46:9; EZK 27:10; EZK 27:11)
 

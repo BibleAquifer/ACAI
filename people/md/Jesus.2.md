@@ -90,7 +90,7 @@ Return to [Index](00-Index.md)
 
 * JDG 13:3–5: “It is true that you are barren and have no children but you will conceive and give birth to a son Now please be careful not to drink wine or strong drink and not to eat anything unclean For behold you will conceive and give birth to a son And no razor shall touch his head because the boy will be a Nazirite to God from the womb and he will begin the deliverance of Israel from the hand of the Philistines”
 
-* JDG 13:11: “you the man who spoke to my wife I”
+* JDG 13:11: “you the man who spoke to my wife”
 
 * JDG 13:13–14: “Your wife is to do everything I told her She must not eat anything that comes from the vine nor drink any wine or strong drink nor eat anything unclean She must do everything I have commanded her”
 
@@ -2230,7 +2230,7 @@ Return to [Index](00-Index.md)
 
 * on My behalf (JHN 10:25)
 
-* declare Yourself to be (JHN 10:33)
+* make Yourself out to be (JHN 10:33)
 
 * then what about the One whom the Father (JHN 10:36)
 

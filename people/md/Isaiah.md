@@ -63,7 +63,7 @@ Return to [Index](00-Index.md)
 
 * 2KI 20:15: “They have seen everything in my palace answered is nothing among my treasures that I did not show them”
 
-* 2KI 20:16–18: “Hear the word of the LORD The time will surely come when everything in your palace and all that your fathers have stored up until this day will be carried off to Babylon Nothing will be left says the LORD And some of your descendants your own flesh and blood to be eunuchs in the palace of the king of Babylon”
+* 2KI 20:16–18: “Hear the word of the LORD The time will surely come when everything in your palace and all that your fathers have stored up until this day will be carried off to Babylon Nothing will be left says the LORD And some of your descendants your own flesh and blood will be taken away to be eunuchs in the palace of the king of Babylon”
 
 * ISA 6:5: “Woe is me for I am ruined because I am a man of unclean lips dwelling among a people of unclean lips for my eyes have seen the King the LORD of Hosts”
 

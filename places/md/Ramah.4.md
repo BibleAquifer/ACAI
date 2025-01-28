@@ -1,17 +1,17 @@
-# Ramah (Hill)
-**Ramah (Hill)**. 
-A hill near Gibeah of Benjamin. 
+# Ramah (Postexilic)
+**Ramah (Postexilic)**. 
+A town in the territory of Benjamin, after the exile. 
 Other forms include: 
 *Ramah*. 
 
 
 
 
-Other information about Ramah (Hill):
+Other information about Ramah (Postexilic):
 
 
 * May refer to the same location as: 
-[Gibeah (of Benjamin)](Gibeah.1.md). 
+[Ramah (of Naphtali)](Ramah.3.md). 
 
 
 **OT Distribution of References**
@@ -21,11 +21,11 @@ Other information about Ramah (Hill):
 
 
 
-**Key References for Ramah (Hill)**: 
-1SA 22:6. 
+**Key References for Ramah (Postexilic)**: 
+NEH 11:33. 
 
 
-In the Old Testament (BSB), words representing “Ramah (Hill)” are translated as 
+In the Old Testament (BSB), words representing “Ramah (Postexilic)” are translated as 
 *Ramah* (1x). 
 
 
@@ -52,7 +52,7 @@ Return to [Index](00-Index.md)
 
 * VizBible: City
 
-* ACAI: hill
+* ACAI: town
 
 
 

@@ -902,13 +902,11 @@ Return to [Index](00-Index.md)
 
 * we (1SA 23:3; 1CH 29:13; 1CH 29:15; PSA 103:14)
 
-* And you (1SA 23:17)
+* And you (1SA 23:17; 1SA 24:19)
 
 * is (1SA 23:22)
 
 * You (1SA 24:18; 2SA 5:2; 2SA 12:7; 2SA 12:12; 1CH 11:2; 1CH 17:4)
-
-* have declared (1SA 24:19)
 
 * are you (1SA 26:14)
 

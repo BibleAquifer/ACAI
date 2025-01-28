@@ -3,7 +3,7 @@
 A town and cult center in the territory of Ephraim, near the border of Benjamin; also referred to as Beth-Aven, or simply Aven. 
 Located in the tribal area of [Tribe of Ephraim](../../../groups/md/acai/Ephraim.md). 
 Other forms include: 
-*Aven*, *Beth-El*, *Beth-Elite*, *Bochim*, *El-Beth-El*, *House of God*, *Luz*, *wickedness*. 
+*Aven*, *Beth-El*, *Beth-Elite*, *Bochim*, *El-Bethel*, *House of God*, *Luz*, *wickedness*. 
 Bethel (of Ephraim) is also referred to as: 
 [Aven](Aven.md), [Beth-aven (of Ephraim)](Beth-aven.2.md), [Bochim](Bochim.md), [El-bethel](El-bethel.md), [Luz (of Israel)](Luz.md). 
 

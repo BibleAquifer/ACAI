@@ -11,7 +11,7 @@ ISA 40:20, LUK 17:6.
 
 
 In the Old Testament (BSB), words representing “Mulberry” are translated as 
-*One bereft* (1x). 
+*One lacking* (1x). 
 
 
 In the New Testament (BSB), words representing “Mulberry” are translated as 
@@ -24,7 +24,7 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* One bereft (ISA 40:20)
+* One lacking (ISA 40:20)
 
 
 

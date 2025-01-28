@@ -1,17 +1,17 @@
-# Ramah (of Benjamin)
-**Ramah (of Benjamin)**. 
-A town in the territory of Benjamin, northwest of Jerusalem, where the prophetess Deborah would judge Israel (Judges 4:5). 
+# Ramah (of Naphtali)
+**Ramah (of Naphtali)**. 
+A fortified town in the territory of Naphtali. 
 Other forms include: 
 *Ramah*. 
 
 
 
 
-Other information about Ramah (of Benjamin):
+Other information about Ramah (of Naphtali):
 
 
 * Is located within the following region(s): 
-[Territory of Benjamin](TerritoryOfBenjamin.md). 
+[Territory of Naphtali](TerritoryOfNaphtali.md). 
 
 
 **OT Distribution of References**
@@ -21,11 +21,11 @@ Other information about Ramah (of Benjamin):
 
 
 
-**Key References for Ramah (of Benjamin)**: 
-JOS 18:25, JDG 4:5. 
+**Key References for Ramah (of Naphtali)**: 
+JOS 19:36. 
 
 
-In the Old Testament (BSB), words representing “Ramah (of Benjamin)” are translated as 
+In the Old Testament (BSB), words representing “Ramah (of Naphtali)” are translated as 
 *toward Ramah* (1x). 
 
 
@@ -61,8 +61,6 @@ Return to [Index](00-Index.md)
 * OpenBible.info: lat 33.111078; lon 35.310464
 
 * VizBible: lat 33.111078; lon 35.310464
-
-* Biblica Maps: lat 32.03962; lon 35.02353
 
 
 

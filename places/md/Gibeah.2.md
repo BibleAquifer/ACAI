@@ -1,19 +1,23 @@
-# Gibeah (of Phinehas)
-**Gibeah (of Phinehas)**. 
-A hill or town in the hill country of Ephraim were Eleazar, son of Aaron, was buried. 
+# Gibeah (of Benjamin)
+**Gibeah (of Benjamin)**. 
+The hometown of King Saul, in the territory of Benjamin, where someone's concubine was raped by a large group of men (Judges 20:4–7); possibly to be identified with Geba. 
 Other forms include: 
 *Geba*, *Gibeah*, *Gibeathite*, *Gibeon*, *Gibeonite*. 
-Gibeah (of Phinehas) is also referred to as: 
-[Gibeah (of Phinehas)](Gibeah.2.md). 
+Gibeah (of Benjamin) is also referred to as: 
+[Gibeah (of Benjamin)](Gibeah.2.md). 
 
 
 
 
-Other information about Gibeah (of Phinehas):
+Other information about Gibeah (of Benjamin):
 
 
+* May refer to the same location as: 
+[Geba](Geba.md). 
 * Is located within the following region(s): 
-[Territory of Ephraim](TerritoryOfEphraim.md). 
+[Territory of Benjamin](TerritoryOfBenjamin.md). 
+* Is located near the following area(s): 
+[Ramah (of Naphtali)](Ramah.3.md). 
 
 
 **OT Distribution of References**
@@ -23,11 +27,11 @@ Other information about Gibeah (of Phinehas):
 
 
 
-**Key References for Gibeah (of Phinehas)**: 
-JOS 24:33. 
+**Key References for Gibeah (of Benjamin)**: 
+1SA 10:26, 1SA 11:4, ISA 10:29. 
 
 
-In the Old Testament (BSB), words representing “Gibeah (of Phinehas)” are translated as 
+In the Old Testament (BSB), words representing “Gibeah (of Benjamin)” are translated as 
 *Gibeah* (10x), *at Gibeah* (9x), *in Gibeah* (8x), *in* (1x), *to Gibeah* (6x), *of Gibeah* (6x), *against Gibeah* (1x), *up to Gibeah* (1x), *on the hill* (2x), *from Gibeah* (2x), *the Gibeathite* (1x), *of* (1x). 
 
 
@@ -82,7 +86,7 @@ Return to [Index](00-Index.md)
 
 * OpenBible.info: settlement
 
-* ACAI: town, hill
+* ACAI: town
 
 
 

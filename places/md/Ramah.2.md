@@ -1,19 +1,10 @@
-# Ramah (of Naphtali)
-**Ramah (of Naphtali)**. 
-A fortified town in the territory of Naphtali. 
+# Ramah (of the Negev)
+**Ramah (of the Negev)**. 
+A town in the territory of Simeon; also known as Ramoth-Negev. 
 Other forms include: 
 *Rama*, *Ramah*. 
-Ramah (of Naphtali) is also referred to as: 
-[Ramah (of Naphtali)](Ramah.2.md). 
-
-
-
-
-Other information about Ramah (of Naphtali):
-
-
-* Is located within the following region(s): 
-[Territory of Naphtali](TerritoryOfNaphtali.md). 
+Ramah (of the Negev) is also referred to as: 
+[Ramah (of the Negev)](Ramah.2.md). 
 
 
 **OT Distribution of References**
@@ -28,15 +19,15 @@ Other information about Ramah (of Naphtali):
 
 
 
-**Key References for Ramah (of Naphtali)**: 
-JOS 19:36. 
+**Key References for Ramah (of the Negev)**: 
+JOS 19:8. 
 
 
-In the Old Testament (BSB), words representing “Ramah (of Naphtali)” are translated as 
+In the Old Testament (BSB), words representing “Ramah (of the Negev)” are translated as 
 *Ramah* (9x), *to* (1x), *Ramah and* (1x), *of Ramah* (3x), *trembles* (1x), *mourning and* (1x), *in Ramah* (1x). 
 
 
-In the New Testament (BSB), words representing “Ramah (of Naphtali)” are translated as 
+In the New Testament (BSB), words representing “Ramah (of the Negev)” are translated as 
 *Ramah* (1x). 
 
 

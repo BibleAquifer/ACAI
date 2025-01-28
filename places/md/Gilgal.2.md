@@ -1,19 +1,21 @@
-# Gilgal (near Bethel)
-**Gilgal (near Bethel)**. 
-A location near Bethel associated with Elijah and Elisha. 
+# Gilgal (of Judah)
+**Gilgal (of Judah)**. 
+A location near the northern boundary of the territory of Judah; also known as Geliloth. 
 Other forms include: 
 *Beth-Gilgal*, *Geliloth*, *Gibeath-Haaraloth*, *Gilgal*, *hill of the foreskins*, *house of Gilgal*. 
-Gilgal (near Bethel) is also referred to as: 
-[Beth-gilgal](Beth-gilgal.md), [Geliloth](Geliloth.md), [Gibeath-haaraloth](Gibeath-haaraloth.md), [Gilgal (near Bethel)](Gilgal.2.md). 
+Gilgal (of Judah) is also referred to as: 
+[Beth-gilgal](Beth-gilgal.md), [Geliloth](Geliloth.md), [Gibeath-haaraloth](Gibeath-haaraloth.md), [Gilgal (of Judah)](Gilgal.2.md). 
 
 
 
 
-Other information about Gilgal (near Bethel):
+Other information about Gilgal (of Judah):
 
 
-* Is located near the following area(s): 
-[Ascent of Adummim](Adummim.md), [Bethel (of Ephraim)](Bethel.md). 
+* May refer to the same location as: 
+[Geliloth](Geliloth.md). 
+* Is located within the following region(s): 
+[Territory of Judah](TerritoryOfJudah.md). 
 
 
 **OT Distribution of References**
@@ -23,11 +25,11 @@ Other information about Gilgal (near Bethel):
 
 
 
-**Key References for Gilgal (near Bethel)**: 
-2KI 2:1, 2KI 4:38. 
+**Key References for Gilgal (of Judah)**: 
+JOS 15:7. 
 
 
-In the Old Testament (BSB), words representing “Gilgal (near Bethel)” are translated as 
+In the Old Testament (BSB), words representing “Gilgal (of Judah)” are translated as 
 *Gilgal* (11x), *at Gilgal* (11x), *there at Gilgal* (1x), ** (2x), *Geliloth* (1x), *to Gilgal* (10x), *the LORD* (1x), *from Beth-gilgal* (1x), *appears at Gilgal* (1x), *in Gilgal* (1x), *Gilgal Bring* (1x). 
 
 

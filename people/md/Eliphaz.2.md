@@ -180,7 +180,7 @@ Return to [Index](00-Index.md)
 
 * argue (JOB 13:8)
 
-* like (JOB 13:9)
+* as you would deceive (JOB 13:9)
 
 * showed partiality (JOB 13:10)
 

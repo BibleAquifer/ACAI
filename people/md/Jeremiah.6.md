@@ -68,7 +68,7 @@ Return to [Index](00-Index.md)
 
 * JER 12:4 (quoting the wicked who live in the land): “cannot see what our end will”
 
-* JER 19:15: “This is what the LORD of Hosts the God of Israel says Behold on this city and on all the villages around it every disaster I have pronounced against them because they have stiffened their necks so as not to heed My”
+* JER 19:15: “This is what the LORD of Hosts the God of Israel says Behold I am about to bring on this city and on all the villages around it every disaster I have pronounced against them because they have stiffened their necks so as not to heed My”
 
 * JER 20:3–4: “The LORD does not call you Pashhur but Magor-missabib For this is what the LORD says I will make you a terror to yourself and to all your friends They will fall by the sword of their enemies before your very eyes And I will hand Judah over to the king of Babylon and he will carry them away to Babylon and put them to the sword”
 
