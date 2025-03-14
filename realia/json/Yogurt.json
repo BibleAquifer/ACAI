@@ -1,0 +1,89 @@
+{
+  "id": "realia:Yogurt",
+  "primary_id": "realia:Yogurt",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:9.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Food and Drink",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Yogurt",
+      "alternate_labels": [
+        "Curds"
+      ],
+      "descriptions": [
+        {
+          "description": "Yogurt is a semisolid food created when milk has been curdled by bacteria.",
+          "source": "acai",
+          "gloss": "Yogurt",
+          "article": "realia:Yogurt"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶמְאָה",
+      "חֵמָה"
+    ]
+  },
+  "key_references": [
+    "01018008",
+    "18020017",
+    "23007015"
+  ],
+  "references": [
+    "01018008",
+    "05032014",
+    "07005025",
+    "10017029",
+    "18020017",
+    "18029006",
+    "19055022",
+    "20030033",
+    "23007015",
+    "23007022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010180080021"
+      ],
+      [
+        "o050320140011"
+      ],
+      [
+        "o070050250081"
+      ],
+      [
+        "o100170290022"
+      ],
+      [
+        "o180200170072"
+      ],
+      [
+        "o180290060032"
+      ],
+      [
+        "o190550220021"
+      ],
+      [
+        "o200300330051"
+      ],
+      [
+        "o230070150011"
+      ],
+      [
+        "o230070220061"
+      ],
+      [
+        "o230070220081"
+      ]
+    ]
+  }
+}

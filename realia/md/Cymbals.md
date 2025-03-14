@@ -8,7 +8,7 @@ Two round metal discs that are struck together to make a loud clashing sound (ac
 
 
 In the Old Testament (BSB), words representing “Cymbals” are translated as 
-*cymbals* (5x), *and cymbals* (4x), *and with cymbals* (1x), *the cymbals* (1x), *with cymbals* (3x), *and lyres accompanied* (1x), *accompanied by cymbals* (1x). 
+*and cymbals* (4x), *cymbals* (5x), *and with cymbals* (1x), *the cymbals* (1x), *with cymbals* (3x), *and lyres accompanied* (1x), *accompanied by cymbals* (1x). 
 
 
 In the New Testament (BSB), words representing “Cymbals” are translated as 
@@ -21,9 +21,9 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* cymbals (1CH 13:8; 1CH 15:19; 2CH 5:13; PSA 150:5; PSA 150:5)
+* and cymbals (2SA 6:5; 1CH 15:16; 1CH 16:42; 1CH 25:1)
 
-* and cymbals (1CH 15:16; 1CH 16:42; 1CH 25:1; 2SA 6:5)
+* cymbals (1CH 13:8; 1CH 15:19; 2CH 5:13; PSA 150:5; PSA 150:5)
 
 * and with cymbals (1CH 15:28)
 

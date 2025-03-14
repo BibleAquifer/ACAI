@@ -10,11 +10,11 @@ GEN 4:21, 1KI 1:40, DAN 3:5.
 
 
 In the Old Testament (BSB), words representing “Flute” are translated as 
-*flutes* (2x), *and flutes* (1x), *the music of a flute going* (1x), *like a flute* (2x), *flute* (3x), *zither* (1x), ** (1x), *and flute* (2x), *of the flute* (1x). 
+*and flute* (2x), *flutes* (2x), *of the flute* (1x), *and my flute* (1x), ** (1x), *and flutes* (1x), *the music of a flute going* (1x), *like a flute* (2x), *flute* (3x), *zither* (1x). 
 
 
 In the New Testament (BSB), words representing “Flute” are translated as 
-*We played the flute* (2x), *the tune* (1x), *flute players* (1x), *of flute players* (1x), *the flute* (1x). 
+*flute players* (1x), *We played the flute* (2x), *the flute* (1x), *the tune* (1x), *of flute players* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -23,7 +23,15 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
+* and flute (GEN 4:21; PSA 150:4)
+
 * flutes (1SA 10:5; 1KI 1:40)
+
+* of the flute (JOB 21:12)
+
+* and my flute (JOB 30:31)
+
+*  (PSA 5:1)
 
 * and flutes (ISA 5:12)
 
@@ -35,25 +43,19 @@ Return to [Index](00-Index.md)
 
 * zither (DAN 3:7)
 
-*  (PSA 5:1)
-
-* and flute (GEN 4:21; PSA 150:4)
-
-* of the flute (JOB 21:12)
-
 
 
 ### NT Instances (BSB)
 
+* flute players (MAT 9:23)
+
 * We played the flute (MAT 11:17; LUK 7:32)
+
+* the flute (1CO 14:7)
 
 * the tune (1CO 14:7)
 
-* flute players (MAT 9:23)
-
 * of flute players (REV 18:22)
-
-* the flute (1CO 14:7)
 
 
 
@@ -67,7 +69,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* GEN 4:21; 1SA 10:5; 1KI 1:40; JOB 21:12; PSA 5:1; PSA 150:4; ISA 5:12; ISA 30:29; JER 48:36; DAN 3:5; DAN 3:7; DAN 3:10; DAN 3:15; MAT 9:23; MAT 11:17; LUK 7:32; 1CO 14:7; REV 18:22
+* GEN 4:21; 1SA 10:5; 1KI 1:40; JOB 21:12; JOB 30:31; PSA 5:1; PSA 150:4; ISA 5:12; ISA 30:29; JER 48:36; DAN 3:5; DAN 3:7; DAN 3:10; DAN 3:15; MAT 9:23; MAT 11:17; LUK 7:32; 1CO 14:7; REV 18:22
 
 
 

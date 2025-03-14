@@ -10,7 +10,7 @@ ISA 19:8, HAB 1:15, MAT 17:27.
 
 
 In the Old Testament (BSB), words representing “Fishhook” are translated as 
-*fishhooks* (1x). 
+*hooks and* (1x), *fishhooks* (1x). 
 
 
 In the New Testament (BSB), words representing “Fishhook” are translated as 
@@ -22,6 +22,8 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
+
+* hooks and (AMO 4:2)
 
 * fishhooks (AMO 4:2)
 

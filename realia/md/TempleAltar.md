@@ -10,9 +10,11 @@ EXO 27:1, EXO 30:28, LEV 1:9, 2CH 4:1.
 
 
 In the Old Testament (BSB), words representing “Temple Altar” are translated as 
-*altar at* (1x), *an altar* (33x), *on the altar* (27x), *the altar* (118x), *altar there* (2x), *altar atop* (1x), *My altar* (7x), *altar of* (6x), *altar must* (1x), *of the altar* (46x), *for the altar* (6x), *Then the altar* (1x), *and the altar* (10x), *their altars* (10x), *the altar’s* (1x), *and* (1x), *altar* (29x), *and it shall be* (1x), *it on the altar* (6x), *altar atop the* (1x), *from the altar* (1x), *it* (3x), *altar as a* (1x), *On the altar* (1x), *altar so* (1x), *and altar* (2x), *the altars* (14x), *from the bronze altar* (1x), *the altar They* (1x), *for its dedication* (1x), *altar so that* (1x), *altars* (13x), *on each altar* (3x), *and on each altar* (1x), *altar you* (1x), *an altar of* (1x), *Your altar* (3x), *and for the altar* (1x), *the Jordan* (1x), *altar other* (1x), *altar for ourselves but* (1x), *the altar Witness* (1x), *Baal’s altar* (1x), *in the* (1x), *the altar saying* (1x), *the* (1x), *altar in* (2x), *altar O* (1x), *altar this* (1x), *And the altar* (1x), ** (2x), *Your altars* (3x), *by the altar* (2x), *They smashed the altars* (2x), *the altar and* (1x), *the new altar* (1x), *of the new altar* (1x), *and altars* (3x), *and the altars* (1x), *altar to* (2x), *in fine linen* (1x), *and His altars* (1x), *near Your altars* (1x), *His altar* (1x), *your altars* (2x), *of the Altar* (1x), *And the altar was* (1x), *There was an altar* (1x), *their altars will be* (1x), *altars of* (1x), *the altar will* (1x), *fires on My altar* (1x). 
+*an altar* (33x), *on the altar* (27x), *the altar* (118x), *altar there* (2x), *altar atop* (1x), *My altar* (7x), *altar of* (6x), *altar must* (1x), *of the altar* (46x), *for the altar* (6x), *Then the altar* (1x), *and the altar* (10x), *their altars* (10x), *the altar’s* (1x), *and* (1x), *altar* (29x), *and it shall be* (1x), *it on the altar* (6x), *altar atop the* (1x), *from the altar* (1x), *it* (3x), *altar as a* (1x), *On the altar* (1x), *altar so* (1x), *and altar* (2x), *the altars* (14x), *from the bronze altar* (1x), *the altar They* (1x), *for its dedication* (1x), *altar so that* (1x), *altars* (13x), *on each altar* (3x), *and on each altar* (1x), *altar you* (1x), *an altar of* (1x), *Your altar* (3x), *and for the altar* (1x), *the Jordan* (1x), *altar other* (1x), *altar for ourselves but* (1x), *the altar Witness* (1x), *Baal’s altar* (1x), *in the* (1x), *the altar saying* (1x), *the* (1x), *altar in* (2x), *altar O altar this* (1x), *And the altar* (1x), ** (2x), *Your altars* (3x), *by the altar* (2x), *They smashed the altars* (2x), *the altar and* (1x), *the new altar* (1x), *of the new altar* (1x), *and altars* (3x), *and the altars* (1x), *altar to* (2x), *in fine linen* (1x), *and His altars* (1x), *altar at* (1x), *near Your altars* (1x), *His altar* (1x), *your altars* (2x), *of the Altar* (1x), *And the altar was* (1x), *There was an altar* (1x), *their altars will be* (1x), *altars of* (1x), *the altar will* (1x), *the table* (1x), *fires on My altar* (1x), *The table* (1x). 
 
 
+In the New Testament (BSB), words representing “Temple Altar” are translated as 
+*altar* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -20,8 +22,6 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
-
-* altar at (EZR 7:17)
 
 * an altar (GEN 8:20; GEN 12:7; GEN 12:8; GEN 13:18; GEN 26:25; GEN 33:20; GEN 35:1; GEN 35:3; GEN 35:7; EXO 17:15; EXO 20:24; EXO 20:25; EXO 24:4; EXO 32:5; DEU 27:5; JOS 8:30; JOS 22:11; JOS 22:16; JOS 22:23; JOS 22:29; JDG 6:24; JDG 21:4; 1SA 7:17; 1SA 14:35; 1SA 14:35; 2SA 24:18; 2SA 24:21; 2SA 24:25; 1KI 16:32; 1KI 18:32; 1CH 21:18; 1CH 21:26; ISA 19:19)
 
@@ -115,9 +115,7 @@ Return to [Index](00-Index.md)
 
 * altar in (1KI 8:31; 2CH 6:22)
 
-* altar O (1KI 13:2)
-
-* altar this (1KI 13:2)
+* altar O altar this (1KI 13:2)
 
 * And the altar (1KI 13:5)
 
@@ -145,6 +143,8 @@ Return to [Index](00-Index.md)
 
 * and His altars (2CH 32:12)
 
+* altar at (EZR 7:17)
+
 * near Your altars (PSA 84:4)
 
 * His altar (LAM 2:7)
@@ -163,7 +163,17 @@ Return to [Index](00-Index.md)
 
 * the altar will (AMO 3:14)
 
+* the table (MAL 1:7)
+
 * fires on My altar (MAL 1:10)
+
+* The table (MAL 1:12)
+
+
+
+### NT Instances (BSB)
+
+* altar (REV 11:1)
 
 
 
@@ -297,11 +307,11 @@ Return to [Index](00-Index.md)
 
 * on them (2KI 23:20)
 
+* before it (1CH 21:30)
+
 * Here (1CH 22:1)
 
 * as well as (1CH 22:1)
-
-* before it (1CH 21:30)
 
 * inquired of Him there (2CH 1:5)
 
@@ -327,7 +337,7 @@ Return to [Index](00-Index.md)
 
 * sides were (EZK 41:22)
 
-* is (EZK 41:22)
+* is (EZK 41:22; MAL 1:12)
 
 * it is constructed (EZK 43:18)
 
@@ -335,15 +345,19 @@ Return to [Index](00-Index.md)
 
 * the altar and make atonement for it (EZK 43:20)
 
+* is contemptible (MAL 1:7)
+
+* and as for its fruit (MAL 1:12)
+
+* its food (MAL 1:12)
+
 
 
 ### OT Subject Referents (BSB)
 
 * five (EXO 27:1)
 
-* square (EXO 30:2)
-
-* It is to be (EXO 30:2)
+* It is to be square (EXO 30:2)
 
 * so that they will be (EXO 30:29; EXO 30:29)
 
@@ -363,7 +377,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* GEN 8:20; GEN 12:7; GEN 12:8; GEN 13:4; GEN 13:18; GEN 22:9; GEN 26:25; GEN 33:20; GEN 35:1; GEN 35:3; GEN 35:7; EXO 17:15; EXO 20:24; EXO 20:25; EXO 20:26; EXO 21:14; EXO 24:4; EXO 24:6; EXO 27:1; EXO 27:5; EXO 27:6; EXO 27:7; EXO 28:43; EXO 29:12; EXO 29:13; EXO 29:16; EXO 29:18; EXO 29:20; EXO 29:21; EXO 29:25; EXO 29:36; EXO 29:37; EXO 29:38; EXO 29:44; EXO 30:1; EXO 30:18; EXO 30:20; EXO 30:27; EXO 30:28; EXO 31:8; EXO 31:9; EXO 32:5; EXO 34:13; EXO 35:15; EXO 35:16; EXO 37:25; EXO 38:1; EXO 38:3; EXO 38:4; EXO 38:7; EXO 38:30; EXO 39:38; EXO 39:39; EXO 40:5; EXO 40:6; EXO 40:7; EXO 40:10; EXO 40:26; EXO 40:29; EXO 40:30; EXO 40:32; EXO 40:33; LEV 1:5; LEV 1:7; LEV 1:8; LEV 1:9; LEV 1:11; LEV 1:12; LEV 1:13; LEV 1:15; LEV 1:16; LEV 1:17; LEV 2:2; LEV 2:8; LEV 2:9; LEV 2:12; LEV 3:2; LEV 3:5; LEV 3:8; LEV 3:11; LEV 3:13; LEV 3:16; LEV 4:7; LEV 4:10; LEV 4:18; LEV 4:19; LEV 4:25; LEV 4:26; LEV 4:30; LEV 4:31; LEV 4:34; LEV 4:35; LEV 5:9; LEV 5:12; LEV 6:2; LEV 6:3; LEV 6:5; LEV 6:6; LEV 6:7; LEV 6:8; LEV 7:2; LEV 7:5; LEV 7:31; LEV 8:11; LEV 8:15; LEV 8:16; LEV 8:19; LEV 8:21; LEV 8:24; LEV 8:28; LEV 8:30; LEV 9:7; LEV 9:8; LEV 9:9; LEV 9:10; LEV 9:12; LEV 9:13; LEV 9:14; LEV 9:17; LEV 9:18; LEV 9:20; LEV 9:24; LEV 10:12; LEV 14:20; LEV 16:12; LEV 16:18; LEV 16:20; LEV 16:25; LEV 16:33; LEV 17:6; LEV 17:11; LEV 21:23; LEV 22:22; NUM 3:26; NUM 3:31; NUM 4:11; NUM 4:13; NUM 4:14; NUM 4:26; NUM 5:25; NUM 5:26; NUM 7:1; NUM 7:10; NUM 7:11; NUM 7:84; NUM 7:88; NUM 17:3; NUM 17:4; NUM 17:11; NUM 18:3; NUM 18:5; NUM 18:7; NUM 18:17; NUM 23:1; NUM 23:2; NUM 23:4; NUM 23:14; NUM 23:29; NUM 23:30; DEU 7:5; DEU 12:3; DEU 12:27; DEU 16:21; DEU 26:4; DEU 27:5; DEU 27:6; DEU 33:10; JOS 8:30; JOS 8:31; JOS 9:27; JOS 22:10; JOS 22:11; JOS 22:16; JOS 22:19; JOS 22:23; JOS 22:26; JOS 22:28; JOS 22:29; JOS 22:34; JDG 2:2; JDG 6:24; JDG 6:25; JDG 6:26; JDG 6:28; JDG 6:30; JDG 6:31; JDG 6:32; JDG 13:20; JDG 21:4; 1SA 2:28; 1SA 2:33; 1SA 7:17; 1SA 14:35; 2SA 24:18; 2SA 24:21; 2SA 24:25; 1KI 1:50; 1KI 1:51; 1KI 1:53; 1KI 2:28; 1KI 2:29; 1KI 3:4; 1KI 6:20; 1KI 6:22; 1KI 7:48; 1KI 8:22; 1KI 8:31; 1KI 8:54; 1KI 8:64; 1KI 9:25; 1KI 12:32; 1KI 12:33; 1KI 13:1; 1KI 13:2; 1KI 13:3; 1KI 13:4; 1KI 13:5; 1KI 13:32; 1KI 16:32; 1KI 18:26; 1KI 18:30; 1KI 18:32; 1KI 18:35; 1KI 19:10; 1KI 19:14; 2KI 11:11; 2KI 11:18; 2KI 12:10; 2KI 16:10; 2KI 16:11; 2KI 16:12; 2KI 16:13; 2KI 16:14; 2KI 16:15; 2KI 18:22; 2KI 21:3; 2KI 21:4; 2KI 21:5; 2KI 23:9; 2KI 23:12; 2KI 23:15; 2KI 23:16; 2KI 23:17; 2KI 23:20; 1CH 6:34; 1CH 16:40; 1CH 21:18; 1CH 21:22; 1CH 21:26; 1CH 21:29; 1CH 22:1; 1CH 28:18; 2CH 1:5; 2CH 1:6; 2CH 4:1; 2CH 4:19; 2CH 5:12; 2CH 6:12; 2CH 6:22; 2CH 7:7; 2CH 7:9; 2CH 8:12; 2CH 14:2; 2CH 15:8; 2CH 23:10; 2CH 23:17; 2CH 26:16; 2CH 26:19; 2CH 28:24; 2CH 29:18; 2CH 29:19; 2CH 29:21; 2CH 29:22; 2CH 29:24; 2CH 29:27; 2CH 30:14; 2CH 31:1; 2CH 32:12; 2CH 33:3; 2CH 33:4; 2CH 33:5; 2CH 33:15; 2CH 33:16; 2CH 34:4; 2CH 34:5; 2CH 34:7; 2CH 35:16; EZR 3:2; EZR 3:3; EZR 7:17; NEH 10:35; PSA 26:6; PSA 43:4; PSA 51:21; PSA 84:4; PSA 118:27; ISA 6:6; ISA 17:8; ISA 19:19; ISA 27:9; ISA 36:7; ISA 56:7; ISA 60:7; JER 11:13; JER 17:1; JER 17:2; LAM 2:7; EZK 6:4; EZK 6:5; EZK 6:6; EZK 6:13; EZK 8:5; EZK 8:16; EZK 9:2; EZK 40:46; EZK 40:47; EZK 41:22; EZK 43:13; EZK 43:18; EZK 43:22; EZK 43:26; EZK 43:27; EZK 45:19; EZK 47:1; HOS 8:11; HOS 10:1; HOS 10:2; HOS 10:8; HOS 12:12; JOL 1:13; JOL 2:17; AMO 2:8; AMO 3:14; AMO 9:1; ZEC 9:15; ZEC 14:20; MAL 1:7; MAL 1:10; MAL 2:13
+* GEN 8:20; GEN 12:7; GEN 12:8; GEN 13:4; GEN 13:18; GEN 22:9; GEN 26:25; GEN 33:20; GEN 35:1; GEN 35:3; GEN 35:7; EXO 17:15; EXO 20:24; EXO 20:25; EXO 20:26; EXO 21:14; EXO 24:4; EXO 24:6; EXO 27:1; EXO 27:5; EXO 27:6; EXO 27:7; EXO 28:43; EXO 29:12; EXO 29:13; EXO 29:16; EXO 29:18; EXO 29:20; EXO 29:21; EXO 29:25; EXO 29:36; EXO 29:37; EXO 29:38; EXO 29:44; EXO 30:1; EXO 30:18; EXO 30:20; EXO 30:27; EXO 30:28; EXO 31:8; EXO 31:9; EXO 32:5; EXO 34:13; EXO 35:15; EXO 35:16; EXO 37:25; EXO 38:1; EXO 38:3; EXO 38:4; EXO 38:7; EXO 38:30; EXO 39:38; EXO 39:39; EXO 40:5; EXO 40:6; EXO 40:7; EXO 40:10; EXO 40:26; EXO 40:29; EXO 40:30; EXO 40:32; EXO 40:33; LEV 1:5; LEV 1:7; LEV 1:8; LEV 1:9; LEV 1:11; LEV 1:12; LEV 1:13; LEV 1:15; LEV 1:16; LEV 1:17; LEV 2:2; LEV 2:8; LEV 2:9; LEV 2:12; LEV 3:2; LEV 3:5; LEV 3:8; LEV 3:11; LEV 3:13; LEV 3:16; LEV 4:7; LEV 4:10; LEV 4:18; LEV 4:19; LEV 4:25; LEV 4:26; LEV 4:30; LEV 4:31; LEV 4:34; LEV 4:35; LEV 5:9; LEV 5:12; LEV 6:2; LEV 6:3; LEV 6:5; LEV 6:6; LEV 6:7; LEV 6:8; LEV 7:2; LEV 7:5; LEV 7:31; LEV 8:11; LEV 8:15; LEV 8:16; LEV 8:19; LEV 8:21; LEV 8:24; LEV 8:28; LEV 8:30; LEV 9:7; LEV 9:8; LEV 9:9; LEV 9:10; LEV 9:12; LEV 9:13; LEV 9:14; LEV 9:17; LEV 9:18; LEV 9:20; LEV 9:24; LEV 10:12; LEV 14:20; LEV 16:12; LEV 16:18; LEV 16:20; LEV 16:25; LEV 16:33; LEV 17:6; LEV 17:11; LEV 21:23; LEV 22:22; NUM 3:26; NUM 3:31; NUM 4:11; NUM 4:13; NUM 4:14; NUM 4:26; NUM 5:25; NUM 5:26; NUM 7:1; NUM 7:10; NUM 7:11; NUM 7:84; NUM 7:88; NUM 17:3; NUM 17:4; NUM 17:11; NUM 18:3; NUM 18:5; NUM 18:7; NUM 18:17; NUM 23:1; NUM 23:2; NUM 23:4; NUM 23:14; NUM 23:29; NUM 23:30; DEU 7:5; DEU 12:3; DEU 12:27; DEU 16:21; DEU 26:4; DEU 27:5; DEU 27:6; DEU 33:10; JOS 8:30; JOS 8:31; JOS 9:27; JOS 22:10; JOS 22:11; JOS 22:16; JOS 22:19; JOS 22:23; JOS 22:26; JOS 22:28; JOS 22:29; JOS 22:34; JDG 2:2; JDG 6:24; JDG 6:25; JDG 6:26; JDG 6:28; JDG 6:30; JDG 6:31; JDG 6:32; JDG 13:20; JDG 21:4; 1SA 2:28; 1SA 2:33; 1SA 7:17; 1SA 14:35; 2SA 24:18; 2SA 24:21; 2SA 24:25; 1KI 1:50; 1KI 1:51; 1KI 1:53; 1KI 2:28; 1KI 2:29; 1KI 3:4; 1KI 6:20; 1KI 6:22; 1KI 7:48; 1KI 8:22; 1KI 8:31; 1KI 8:54; 1KI 8:64; 1KI 9:25; 1KI 12:32; 1KI 12:33; 1KI 13:1; 1KI 13:2; 1KI 13:3; 1KI 13:4; 1KI 13:5; 1KI 13:32; 1KI 16:32; 1KI 18:26; 1KI 18:30; 1KI 18:32; 1KI 18:35; 1KI 19:10; 1KI 19:14; 2KI 11:11; 2KI 11:18; 2KI 12:10; 2KI 16:10; 2KI 16:11; 2KI 16:12; 2KI 16:13; 2KI 16:14; 2KI 16:15; 2KI 18:22; 2KI 21:3; 2KI 21:4; 2KI 21:5; 2KI 23:9; 2KI 23:12; 2KI 23:15; 2KI 23:16; 2KI 23:17; 2KI 23:20; 1CH 6:34; 1CH 16:40; 1CH 21:18; 1CH 21:22; 1CH 21:26; 1CH 21:29; 1CH 22:1; 1CH 28:18; 2CH 1:5; 2CH 1:6; 2CH 4:1; 2CH 4:19; 2CH 5:12; 2CH 6:12; 2CH 6:22; 2CH 7:7; 2CH 7:9; 2CH 8:12; 2CH 14:2; 2CH 15:8; 2CH 23:10; 2CH 23:17; 2CH 26:16; 2CH 26:19; 2CH 28:24; 2CH 29:18; 2CH 29:19; 2CH 29:21; 2CH 29:22; 2CH 29:24; 2CH 29:27; 2CH 30:14; 2CH 31:1; 2CH 32:12; 2CH 33:3; 2CH 33:4; 2CH 33:5; 2CH 33:15; 2CH 33:16; 2CH 34:4; 2CH 34:5; 2CH 34:7; 2CH 35:16; EZR 3:2; EZR 3:3; EZR 7:17; NEH 10:35; PSA 26:6; PSA 43:4; PSA 51:21; PSA 84:4; PSA 118:27; ISA 6:6; ISA 17:8; ISA 19:19; ISA 27:9; ISA 36:7; ISA 56:7; ISA 60:7; JER 11:13; JER 17:1; JER 17:2; LAM 2:7; EZK 6:4; EZK 6:5; EZK 6:6; EZK 6:13; EZK 8:5; EZK 8:16; EZK 9:2; EZK 40:46; EZK 40:47; EZK 41:22; EZK 43:13; EZK 43:18; EZK 43:22; EZK 43:26; EZK 43:27; EZK 45:19; EZK 47:1; HOS 8:11; HOS 10:1; HOS 10:2; HOS 10:8; HOS 12:12; JOL 1:13; JOL 2:17; AMO 2:8; AMO 3:14; AMO 9:1; ZEC 9:15; ZEC 14:20; MAL 1:7; MAL 1:10; MAL 1:12; MAL 2:13; REV 11:1
 
 
 

@@ -11,7 +11,7 @@ ISA 55:13, EZK 2:6, HOS 9:6.
 
 
 In the Old Testament (BSB), words representing “Nettle” are translated as 
-*the brier* (1x), *Thorns* (1x), *with thistles* (1x), *by thistles* (1x), *the nettles* (1x), *thistles* (1x), *briers* (1x), *of weeds* (1x). 
+*the nettles* (1x), *Thorns* (1x), *thistles* (1x), *with thistles* (1x), *the brier* (1x), *briers* (1x), *by thistles* (1x), *of weeds* (1x). 
 
 
 
@@ -22,19 +22,19 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* the brier (ISA 55:13)
+* the nettles (JOB 30:7)
 
 * Thorns (PRO 24:31)
 
-* with thistles (ISA 34:13)
-
-* by thistles (HOS 9:6)
-
-* the nettles (JOB 30:7)
-
 * thistles (PRO 24:31)
 
+* with thistles (ISA 34:13)
+
+* the brier (ISA 55:13)
+
 * briers (EZK 2:6)
+
+* by thistles (HOS 9:6)
 
 * of weeds (ZEP 2:9)
 

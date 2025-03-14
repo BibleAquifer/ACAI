@@ -11,7 +11,7 @@ Sandalwood is categorized under _Wild Trees and Shrubs_.
 
 
 In the Old Testament (BSB), words representing “Sandalwood” are translated as 
-*and algum* (1x), *algum* (1x), *the algum* (1x), *of almug* (1x), *the almug* (1x), *almug* (1x), *into the forest* (1x), *the forest* (8x), *is a forest* (1x), *to the forest* (2x), *in the forest* (7x), *the woods* (1x), *densest of* (1x), *of the forest* (7x), *and strips the forests* (1x), *from the forest* (3x), *a forest* (1x), *the forest prowl* (1x), *my groves* (1x), *of its forests* (2x), *In the thickets* (1x), *like a forest* (2x), *its forests* (1x), *forest He plants* (1x), *you forests* (1x), *in your forest* (1x), *a wooded* (2x), *her forest* (1x), *the forests* (1x), *thicket and the* (1x), *in a woodland* (1x), *forest* (1x). 
+*into the forest* (1x), *the forest* (8x), *is a forest* (1x), *to the forest* (2x), *in the forest* (7x), *of almug* (1x), *the almug* (1x), *almug* (1x), *the woods* (1x), *densest of* (1x), *of the forest* (7x), *and algum* (1x), *algum* (1x), *the algum* (1x), *and strips the forests* (1x), *from the forest* (3x), *a forest* (1x), *the forest prowl* (1x), *my groves* (1x), *of its forests* (2x), *In the thickets* (1x), *like a forest* (2x), *its forests* (1x), *forest He plants* (1x), *you forests* (1x), *in your forest* (1x), *a wooded* (2x), *her forest* (1x), *the forests* (1x), *thicket and the* (1x), *in a woodland* (1x), *forest* (1x). 
 
 
 
@@ -21,18 +21,6 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
-
-* and algum (2CH 2:7)
-
-* algum (2CH 9:10)
-
-* the algum (2CH 9:11)
-
-* of almug (1KI 10:11)
-
-* the almug (1KI 10:12)
-
-* almug (1KI 10:12)
 
 * into the forest (DEU 19:5)
 
@@ -44,11 +32,23 @@ Return to [Index](00-Index.md)
 
 * in the forest (2SA 18:6; 2SA 18:17; ISA 7:2; JER 12:8; EZK 15:2; EZK 34:25; AMO 3:4)
 
+* of almug (1KI 10:11)
+
+* the almug (1KI 10:12)
+
+* almug (1KI 10:12)
+
 * the woods (2KI 2:24)
 
 * densest of (2KI 19:23)
 
 * of the forest (1CH 16:33; PSA 50:10; PSA 96:12; SNG 2:3; ISA 56:9; EZK 15:6; MIC 5:7)
+
+* and algum (2CH 2:7)
+
+* algum (2CH 9:10)
+
+* the algum (2CH 9:11)
 
 * and strips the forests (PSA 29:9)
 

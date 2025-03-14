@@ -11,11 +11,11 @@ GEN 1:26, MAT 14:17, JHN 21:6.
 
 
 In the Old Testament (BSB), words representing “Fish” are translated as 
-*over the fish* (2x), *the fish* (8x), *The fish* (3x), *fish in* (1x), *fish* (4x), *and fish* (1x), *let the fish* (1x), *and the fish* (1x), *and caused their fish* (1x), *Like fish* (1x), *fish rot* (1x), *fish of many* (1x), *fish of the* (1x), *of the fish* (1x), *like the fish* (1x), *the fish of* (1x). 
+*over the fish* (2x), *the fish* (8x), *The fish* (3x), *fish in* (1x), *fish* (4x), *and fish* (1x), *of the Fish* (1x), *The Fish* (1x), *the Fish* (1x), *let the fish* (1x), *with fishing* (1x), *and the fish* (1x), *and caused their fish* (1x), *Like fish* (1x), *fish rot* (1x), *fish of many* (1x), *fish of the* (1x), *of the fish* (1x), *like the fish* (1x), *the fish of* (1x), *Fish Gate* (1x). 
 
 
 In the New Testament (BSB), words representing “Fish” are translated as 
-*creatures of the sea* (1x), *small fish* (3x), *a fish* (2x), *fish* (20x), ** (1x), *of fish* (1x), *instead* (1x), *great fish* (1x). 
+*a fish* (2x), *great fish* (1x), *fish* (20x), *small fish* (3x), ** (1x), *of fish* (1x), *instead* (1x), *creatures of the sea* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -36,7 +36,15 @@ Return to [Index](00-Index.md)
 
 * and fish (1KI 5:13)
 
+* of the Fish (2CH 33:14)
+
+* The Fish (NEH 3:3)
+
+* the Fish (NEH 12:39)
+
 * let the fish (JOB 12:8)
+
+* with fishing (JOB 40:31)
 
 * and the fish (PSA 8:9)
 
@@ -56,17 +64,19 @@ Return to [Index](00-Index.md)
 
 * the fish of (ZEP 1:3)
 
+* Fish Gate (ZEP 1:10)
+
 
 
 ### NT Instances (BSB)
 
-* creatures of the sea (JAS 3:7)
-
-* small fish (MAT 15:34; MRK 8:7; JHN 6:9)
-
 * a fish (MAT 7:10; LUK 11:11)
 
-* fish (MAT 14:17; MAT 14:19; MAT 15:36; MAT 17:27; MRK 6:41; MRK 6:41; MRK 6:43; LUK 5:9; LUK 9:13; LUK 9:16; LUK 24:42; JHN 21:6; JHN 21:8; JHN 21:11; 1CO 15:39; JHN 6:11; JHN 21:9; JHN 21:10; JHN 21:13; JHN 21:5)
+* great fish (MAT 12:40)
+
+* fish (MAT 14:17; MAT 14:19; MAT 15:36; MAT 17:27; MRK 6:41; MRK 6:41; MRK 6:43; LUK 5:9; LUK 9:13; LUK 9:16; LUK 24:42; JHN 6:11; JHN 21:5; JHN 21:6; JHN 21:8; JHN 21:9; JHN 21:10; JHN 21:11; JHN 21:13; 1CO 15:39)
+
+* small fish (MAT 15:34; MRK 8:7; JHN 6:9)
 
 *  (MRK 6:38)
 
@@ -74,17 +84,17 @@ Return to [Index](00-Index.md)
 
 * instead (LUK 11:11)
 
-* great fish (MAT 12:40)
+* creatures of the sea (JAS 3:7)
 
 
 
 ### NT Pronominal Referents (BSB)
 
-* them (MRK 8:7; MAT 14:18; LUK 9:16)
-
-* these (MRK 8:7)
+* them (MAT 14:18; MRK 8:7; LUK 9:16)
 
 * its (MAT 17:27)
+
+* these (MRK 8:7)
 
 *  (LUK 5:9; JHN 21:10)
 
@@ -114,7 +124,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* GEN 1:26; GEN 1:28; GEN 9:2; EXO 7:18; EXO 7:21; NUM 11:5; NUM 11:22; DEU 4:18; 1KI 5:13; NEH 13:16; JOB 12:8; PSA 8:9; PSA 105:29; ECC 9:12; ISA 50:2; EZK 29:4; EZK 29:5; EZK 38:20; EZK 47:9; EZK 47:10; HOS 4:3; JON 2:1; JON 2:2; JON 2:11; HAB 1:14; ZEP 1:3; MAT 7:10; MAT 12:40; MAT 14:17; MAT 14:19; MAT 15:34; MAT 15:36; MAT 17:27; MRK 6:38; MRK 6:41; MRK 6:43; MRK 8:7; MRK 16:18; LUK 5:6; LUK 5:9; LUK 9:13; LUK 9:16; LUK 11:11; LUK 24:42; JHN 6:9; JHN 6:11; JHN 21:5; JHN 21:6; JHN 21:8; JHN 21:9; JHN 21:10; JHN 21:11; JHN 21:13; 1CO 15:39; JAS 3:7
+* GEN 1:26; GEN 1:28; GEN 9:2; EXO 7:18; EXO 7:21; NUM 11:5; NUM 11:22; DEU 4:18; 1KI 5:13; 2CH 33:14; NEH 3:3; NEH 12:39; NEH 13:16; JOB 12:8; JOB 40:31; PSA 8:9; PSA 105:29; ECC 9:12; ISA 50:2; EZK 29:4; EZK 29:5; EZK 38:20; EZK 47:9; EZK 47:10; HOS 4:3; JON 2:1; JON 2:2; JON 2:11; HAB 1:14; ZEP 1:3; ZEP 1:10; MAT 7:10; MAT 12:40; MAT 14:17; MAT 14:19; MAT 15:34; MAT 15:36; MAT 17:27; MRK 6:38; MRK 6:41; MRK 6:43; MRK 8:7; MRK 16:18; LUK 5:6; LUK 5:9; LUK 9:13; LUK 9:16; LUK 11:11; LUK 24:42; JHN 6:9; JHN 6:11; JHN 21:5; JHN 21:6; JHN 21:8; JHN 21:9; JHN 21:10; JHN 21:11; JHN 21:13; 1CO 15:39; JAS 3:7
 
 
 

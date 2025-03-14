@@ -23,8 +23,8 @@
     "eng": {
       "preferred_label": "Bochim",
       "alternate_labels": [
-        "Bethel",
-        "Bokim"
+        "Bokim",
+        "Bethel"
       ],
       "descriptions": [
         {
@@ -68,6 +68,9 @@
   },
   "referred_to_as": [
     "place:Bethel"
+  ],
+  "nearby_places": [
+    "place:Gilgal.3"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,

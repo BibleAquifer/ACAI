@@ -8,7 +8,7 @@ EZK 27:6.
 
 
 In the Old Testament (BSB), words representing “Deck” are translated as 
-*your deck* (1x). 
+*lower* (1x), *your deck* (1x). 
 
 
 
@@ -19,13 +19,15 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
+* lower (GEN 6:16)
+
 * your deck (EZK 27:6)
 
 
 
 ### References (Whole Bible)
 
-* EZK 27:6
+* GEN 6:16; EZK 27:6
 
 
 

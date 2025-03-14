@@ -11,7 +11,7 @@ LEV 23:40, 2SA 5:23.
 
 
 In the Old Testament (BSB), words representing “Poplar” are translated as 
-*of poplar* (1x), *of willows of* (1x), *the willows* (2x), *of the Willows* (1x), *like willows* (1x), *poplar* (1x). 
+*of poplar* (1x), *of willows of* (1x), *of the balsam trees* (3x), *the balsam trees* (1x), *the willows* (2x), *of the Willows* (1x), *like willows* (1x), *poplar* (1x). 
 
 
 
@@ -25,6 +25,10 @@ Return to [Index](00-Index.md)
 * of poplar (GEN 30:37)
 
 * of willows of (LEV 23:40)
+
+* of the balsam trees (2SA 5:23; 2SA 5:24; 1CH 14:15)
+
+* the balsam trees (1CH 14:14)
 
 * the willows (JOB 40:22; PSA 137:2)
 
@@ -44,7 +48,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* GEN 30:37; LEV 23:40; JOB 40:22; PSA 137:2; ISA 15:7; ISA 44:4; HOS 4:13
+* GEN 30:37; LEV 23:40; 2SA 5:23; 2SA 5:24; 1CH 14:14; 1CH 14:15; JOB 40:22; PSA 137:2; ISA 15:7; ISA 44:4; HOS 4:13
 
 
 

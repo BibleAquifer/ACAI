@@ -14,6 +14,9 @@ the _Aquifer Concept Architecture for Information_, which itself is a part of th
 
 * Biblica/Clear-Bible's [Macula Hebrew](https://github.com/Clear-Bible/macula-hebrew)
 * Biblica/Clear-Bible's [Macula Greek](https://github.com/Clear-Bible/macula-greek)
+* United Bible Societies' _Plants and Trees in the Bible_ © United Bible Societies, 2025. Adapted from: _Each According to its Kind: Plants and Trees in the Bible_, 
+  by Robert Koops © 2012 United Bible Societies. Licensed CC-BY-SA 4.0. 
+  Available in the [UBS Open License](https://github.com/ubsicap/ubs-open-license/tree/main/flora-fauna-realia) git repo for data (English and Chinese)
 * United Bible Societies' _UBS Dictionary of Biblical Hebrew_ (UBSDBH) and _UBS Dictionary of the Greek New Testament_
   (UBSDGNT). See [SemanticDictionary.org](https://semanticdictionary.org/) for an implementation and the git repo
   [ubs-open-license](https://github.com/ubsicap/ubs-open-license) for data (English, French, Spanish, and Chinese). 

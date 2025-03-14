@@ -1,0 +1,95 @@
+{
+  "id": "realia:LargeShovel",
+  "primary_id": "realia:LargeShovel",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:4.4.6"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Religion",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Large Shovel",
+      "alternate_labels": [
+        "Scraper"
+      ],
+      "descriptions": [
+        {
+          "description": "The scraper was used to remove the refuse from the altar after a victim had been burned. It may have resembled a kind of shovel, with which the ashes could be lifted, or a kind of rake or hoe, with which they could be scraped into the bronze pot.",
+          "source": "acai",
+          "gloss": "Large Shovel",
+          "article": "realia:LargeShovel"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יָע"
+    ]
+  },
+  "key_references": [
+    "02027003",
+    "11007040",
+    "14004011"
+  ],
+  "references": [
+    "02027003",
+    "02038003",
+    "04004014",
+    "11007040",
+    "11007045",
+    "12025014",
+    "14004011",
+    "14004016",
+    "24052018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020270030042",
+        "o020270030043"
+      ],
+      [
+        "o020380030092"
+      ],
+      [
+        "o040040140152"
+      ],
+      [
+        "o110070400062"
+      ],
+      [
+        "o110070450042"
+      ],
+      [
+        "o120250140042"
+      ],
+      [
+        "o140040110062"
+      ],
+      [
+        "o140040160042"
+      ],
+      [
+        "o240520180042"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140040160092"
+      ],
+      [
+        "o140040170032"
+      ],
+      [
+        "o140040180052"
+      ]
+    ]
+  }
+}

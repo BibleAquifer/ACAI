@@ -18,22 +18,22 @@
   ],
   "localizations": {
     "eng": {
-      "preferred_label": "Ramah (Postexilic)",
+      "preferred_label": "Ramah (of Asher)",
       "alternate_labels": [
         "Ramah"
       ],
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Ramah.7",
-          "gloss": "Ramah (Postexilic)",
-          "description": "A town in the territory of Benjamin, after the exile."
+          "article": "place:Ramah.2",
+          "gloss": "Ramah (of Asher)",
+          "description": "A town in the territory of Asher."
         }
       ]
     }
   },
-  "possibly_same_as": [
-    "place:Ramah.3"
+  "subregion_of": [
+    "place:TerritoryOfAsher"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -63,7 +63,7 @@
     }
   },
   "key_references": [
-    "16011033"
+    "06019029"
   ],
   "references": [
     "06019036"

@@ -11,7 +11,7 @@ ISA 11:6, DAN 7:6, REV 13:2.
 
 
 In the Old Testament (BSB), words representing “Leopard” are translated as 
-*It was like a leopard* (1x), *of the leopards* (1x), *and the leopard* (1x), *A leopard* (1x), *or the leopard* (1x), *like a leopard* (1x), *than leopards* (1x). 
+*of the leopards* (1x), *and the leopard* (1x), *A leopard* (1x), *or the leopard* (1x), *It was like a leopard* (1x), *like a leopard* (1x), *than leopards* (1x). 
 
 
 In the New Testament (BSB), words representing “Leopard” are translated as 
@@ -24,8 +24,6 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* It was like a leopard (DAN 7:6)
-
 * of the leopards (SNG 4:8)
 
 * and the leopard (ISA 11:6)
@@ -33,6 +31,8 @@ Return to [Index](00-Index.md)
 * A leopard (JER 5:6)
 
 * or the leopard (JER 13:23)
+
+* It was like a leopard (DAN 7:6)
 
 * like a leopard (HOS 13:7)
 

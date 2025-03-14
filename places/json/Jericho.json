@@ -11,8 +11,8 @@
       "http://pleiades.stoa.org/places/687917"
     ],
     "tipnr": [
-      "Jericho@Num.22.1-Heb",
-      "City_of_Palms|Jericho@Num.22.1-Heb"
+      "City_of_Palms|Jericho@Num.22.1-Heb",
+      "Jericho@Num.22.1-Heb"
     ],
     "vizbible": [
       "recdMHFSmu222VnJG"
@@ -69,13 +69,14 @@
     }
   },
   "referred_to_as": [
-    "place:CityOfPalms.2",
-    "place:CityOfPalms"
+    "place:CityOfPalms",
+    "place:CityOfPalms.2"
   ],
   "tribal_area": "group:Benjamin",
   "nearby_places": [
     "place:Jordan",
-    "place:Jericho.2"
+    "place:Jericho.2",
+    "place:Gilgal.4"
   ],
   "subregion_of": [
     "place:TerritoryOfBenjamin"
@@ -116,15 +117,15 @@
     }
   },
   "key_references": [
-    "14028015",
-    "06006001",
-    "06003015",
-    "07001016",
-    "05034001",
     "06004019",
-    "04022001",
+    "14028015",
+    "05034003",
     "07003013",
-    "05034003"
+    "07001016",
+    "04022001",
+    "06006001",
+    "05034001",
+    "06003015"
   ],
   "references": [
     "04022001",

@@ -1,21 +1,14 @@
-# Ramah (of Asher)
-**Ramah (of Asher)**. 
-A town in the territory of Asher. 
+# Ramah (of the Negev)
+**Ramah (of the Negev)**. 
+A town in the territory of Simeon; also known as Ramoth-Negev. 
+Other forms include: 
+*Ramath-Negeb*, *Ramath-Negev*, *Ramoth-Negeb*, *Ramoth-Negev*. 
 
 
 
 
-Other information about Ramah (of Asher):
-
-
-* Is located within the following region(s): 
-[Territory of Asher](TerritoryOfAsher.md). 
-
-
-
-
-**Key References for Ramah (of Asher)**: 
-JOS 19:29. 
+**Key References for Ramah (of the Negev)**: 
+JOS 19:8. 
 
 
 

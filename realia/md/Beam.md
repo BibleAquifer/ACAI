@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Beam” are translated as 
-*and the rafters* (1x), *beams* (1x), *The beams* (1x), *and planks* (1x). 
+*with beams* (1x), *and planks* (1x), *beams* (1x), *and beams* (1x), *The beams* (1x), *and the rafters* (1x). 
 
 
 In the New Testament (BSB), words representing “Beam” are translated as 
@@ -29,13 +29,17 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* and the rafters (HAB 2:11)
+* with beams (1KI 6:9)
+
+* and planks (1KI 6:9)
 
 * beams (2CH 3:7)
 
+* and beams (2CH 34:11)
+
 * The beams (SNG 1:17)
 
-* and planks (1KI 6:9)
+* and the rafters (HAB 2:11)
 
 
 
@@ -51,7 +55,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* 1KI 6:9; 2CH 3:7; SNG 1:17; HAB 2:11; MAT 7:3; MAT 7:4; MAT 7:5; LUK 6:41; LUK 6:42
+* 1KI 6:9; 2CH 3:7; 2CH 34:11; SNG 1:17; HAB 2:11; MAT 7:3; MAT 7:4; MAT 7:5; LUK 6:41; LUK 6:42
 
 
 

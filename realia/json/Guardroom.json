@@ -1,0 +1,106 @@
+{
+  "id": "realia:Guardroom",
+  "primary_id": "realia:Guardroom",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:3.13.3.5.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Buildings and Structures",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Guardroom",
+      "descriptions": [
+        {
+          "description": "Ancient city gates were sometimes constructed with guardrooms on either side of the entrance. These usually came in sets of two, four, or six rooms.",
+          "source": "acai",
+          "gloss": "Guardroom",
+          "article": "realia:Guardroom"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תָּא"
+    ]
+  },
+  "key_references": [
+    "11014028",
+    "14012011",
+    "26040007"
+  ],
+  "references": [
+    "11014028",
+    "14012011",
+    "26040007",
+    "26040010",
+    "26040012",
+    "26040013",
+    "26040016",
+    "26040021",
+    "26040029",
+    "26040033",
+    "26040036"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o110140280111"
+      ],
+      [
+        "o140120110121"
+      ],
+      [
+        "o260400070013"
+      ],
+      [
+        "o260400070092"
+      ],
+      [
+        "o260400100012"
+      ],
+      [
+        "o260400120032"
+      ],
+      [
+        "o260400120103"
+      ],
+      [
+        "o260400130052"
+      ],
+      [
+        "o260400160042"
+      ],
+      [
+        "o260400210022",
+        "o260400210023"
+      ],
+      [
+        "o260400290022",
+        "o260400290023"
+      ],
+      [
+        "o260400330022",
+        "o260400330023"
+      ],
+      [
+        "o260400360021",
+        "o260400360022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260400100113"
+      ],
+      [
+        "o260400130063"
+      ]
+    ]
+  }
+}

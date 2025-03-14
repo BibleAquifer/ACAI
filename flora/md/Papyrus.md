@@ -11,7 +11,7 @@ EXO 2:3, JOB 8:11, ISA 18:2.
 
 
 In the Old Testament (BSB), words representing “Papyrus” are translated as 
-*of papyrus* (1x), *a papyrus* (1x), *Does papyrus* (1x), *in papyrus* (1x), *and papyrus* (1x). 
+*a papyrus* (1x), *Does papyrus* (1x), *of papyrus* (1x), *in papyrus* (1x), *and papyrus* (1x). 
 
 
 In the New Testament (BSB), words representing “Papyrus” are translated as 
@@ -24,11 +24,11 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* of papyrus (JOB 9:26)
-
 * a papyrus (EXO 2:3)
 
 * Does papyrus (JOB 8:11)
+
+* of papyrus (JOB 9:26)
 
 * in papyrus (ISA 18:2)
 

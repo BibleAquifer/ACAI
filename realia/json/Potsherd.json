@@ -1,0 +1,75 @@
+{
+  "id": "realia:Potsherd",
+  "primary_id": "realia:Potsherd",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:5.18.1.2.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Household",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Potsherd",
+      "descriptions": [
+        {
+          "description": "The potsherd was a piece of pottery that had broken.",
+          "source": "acai",
+          "gloss": "Potsherd",
+          "article": "realia:Potsherd"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶרֶשׂ"
+    ],
+    "el": [
+      "ὄστρακον"
+    ]
+  },
+  "key_references": [
+    "18002008",
+    "18041022",
+    "19022016",
+    "23030014",
+    "26023034"
+  ],
+  "references": [
+    "18002008",
+    "18041022",
+    "19022016",
+    "23030014",
+    "26023034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180020080031"
+      ],
+      [
+        "o180410220031"
+      ],
+      [
+        "o190220160022"
+      ],
+      [
+        "o230300140111"
+      ],
+      [
+        "o260230340051",
+        "o260230340052"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o180020080052"
+      ]
+    ]
+  }
+}

@@ -9,9 +9,9 @@
       "ac3d92d"
     ],
     "tipnr": [
-      "Tabor|Chesulloth@Jos.19.18-1Ch",
       "Chesulloth@Jos.19.18-1Ch",
-      "Chisloth-tabor|Chesulloth@Jos.19.18-1Ch"
+      "Chisloth-tabor|Chesulloth@Jos.19.18-1Ch",
+      "Tabor|Chesulloth@Jos.19.18-1Ch"
     ],
     "vizbible": [
       "recQ8DF0pj7A20FyQ"
@@ -22,10 +22,10 @@
     "eng": {
       "preferred_label": "Chesulloth",
       "alternate_labels": [
+        "Kesulloth",
         "Chisloth-tabor",
-        "Kisloth Tabor",
         "Tabor",
-        "Kesulloth"
+        "Kisloth Tabor"
       ],
       "descriptions": [
         {
@@ -71,8 +71,8 @@
     }
   },
   "referred_to_as": [
-    "place:Tabor",
-    "place:Chisloth-tabor"
+    "place:Chisloth-tabor",
+    "place:Tabor"
   ],
   "tribal_area": "group:Issachar",
   "subregion_of": [

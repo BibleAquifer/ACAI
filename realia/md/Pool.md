@@ -7,6 +7,8 @@ A large structure for collecting water (acai).
 2KI 20:20, ISA 22:9, JHN 5:2. 
 
 
+In the Old Testament (BSB), words representing “Pool” are translated as 
+*a reservoir* (1x). 
 
 
 In the New Testament (BSB), words representing “Pool” are translated as 
@@ -16,6 +18,12 @@ In the New Testament (BSB), words representing “Pool” are translated as
 Return to [Index](00-Index.md)
 
 ## More Information
+
+### OT Instances (BSB)
+
+* a reservoir (ISA 22:11)
+
+
 
 ### NT Instances (BSB)
 
@@ -37,7 +45,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* JHN 5:2; JHN 5:7; JHN 9:7
+* ISA 22:11; JHN 5:2; JHN 5:7; JHN 9:7
 
 
 

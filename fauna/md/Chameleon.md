@@ -13,7 +13,7 @@ LEV 11:30, LEV 11:31.
 
 
 In the Old Testament (BSB), words representing “Chameleon” are translated as 
-*and the chameleon* (1x), *land crawlers* (1x), *that crawls* (1x), *creature* (2x), *and bird* (1x), *crawling creature* (2x), *and birds* (1x), ** (1x), *creeping thing* (1x), *the gecko* (1x), *the monitor lizard* (1x), *the common lizard* (1x), *the skink* (1x), *reptiles* (1x), *crawling creatures* (1x), *of crawling creature* (1x), *and the creatures that crawl* (1x), *like creeping things* (1x). 
+*land crawlers* (1x), *that crawls* (1x), *creature* (2x), *and bird* (1x), *crawling creature* (2x), *and birds* (1x), ** (1x), *creeping thing* (1x), *the gecko* (1x), *the monitor lizard* (1x), *the common lizard* (1x), *the skink* (1x), *and the chameleon* (1x), *reptiles* (1x), *crawling creatures* (1x), *of crawling creature* (1x), *and the creatures that crawl* (1x), *like creeping things* (1x). 
 
 
 In the New Testament (BSB), words representing “Chameleon” are translated as 
@@ -25,8 +25,6 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
-
-* and the chameleon (LEV 11:30)
 
 * land crawlers (GEN 1:24)
 
@@ -51,6 +49,8 @@ Return to [Index](00-Index.md)
 * the common lizard (LEV 11:30)
 
 * the skink (LEV 11:30)
+
+* and the chameleon (LEV 11:30)
 
 * reptiles (1KI 5:13)
 

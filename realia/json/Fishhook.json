@@ -13,7 +13,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Fishing",
   "ubsdgnt": [
     "6.10"
   ],
@@ -41,7 +41,9 @@
   "non_biblical": false,
   "lemmas": {
     "he": [
-      "סִירָה"
+      "סִירָה",
+      "דּוּגָה",
+      "צֵן"
     ],
     "el": [
       "ἄγκιστρον"
@@ -58,6 +60,9 @@
   ],
   "explicit_instances": {
     "wlc": [
+      [
+        "o300040020122"
+      ],
       [
         "o300040020142"
       ]

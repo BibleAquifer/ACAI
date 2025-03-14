@@ -10,7 +10,7 @@ EXO 26:4, EXO 26:5, EXO 26:10.
 
 
 In the Old Testament (BSB), words representing “Loop” are translated as 
-*loops* (10x), *so that the loops* (2x), *through the loops* (1x), *clasps as well* (1x), *with the clasps* (1x), *clasps* (3x), *them* (1x), *the clasps* (1x), *its clasps* (2x), ** (1x). 
+*loops* (10x), *so that the loops* (2x), *clasps as well* (1x), *with the clasps* (1x), *clasps* (3x), *them* (1x), *through the loops* (1x), *the clasps* (1x), *its clasps* (2x), ** (1x). 
 
 
 
@@ -25,8 +25,6 @@ Return to [Index](00-Index.md)
 
 * so that the loops (EXO 26:5; EXO 36:12)
 
-* through the loops (EXO 26:11)
-
 * clasps as well (EXO 26:6)
 
 * with the clasps (EXO 26:6)
@@ -34,6 +32,8 @@ Return to [Index](00-Index.md)
 * clasps (EXO 26:11; EXO 36:13; EXO 36:18)
 
 * them (EXO 26:11)
+
+* through the loops (EXO 26:11)
 
 * the clasps (EXO 26:33)
 

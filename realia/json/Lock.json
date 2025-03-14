@@ -1,0 +1,99 @@
+{
+  "id": "realia:Lock",
+  "primary_id": "realia:Lock",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:3.1.2.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Buildings and Structures",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lock",
+      "descriptions": [
+        {
+          "description": "The lock was a device that fastened a door in such a way that it could only be opened by a special key.",
+          "source": "acai",
+          "gloss": "Lock",
+          "article": "realia:Lock"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כַּף",
+      "מַנְעוּל",
+      "נעל",
+      "סגר"
+    ],
+    "el": [
+      "κλεῖθρον",
+      "κλείω"
+    ]
+  },
+  "key_references": [
+    "07003023",
+    "10013017",
+    "43020019"
+  ],
+  "references": [
+    "07003023",
+    "07003024",
+    "07009051",
+    "10013017",
+    "10013018",
+    "22005005",
+    "40025010",
+    "42011007",
+    "43020019",
+    "43020026",
+    "44005023",
+    "44021030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070030230082"
+      ],
+      [
+        "o070030240091"
+      ],
+      [
+        "o070090510142"
+      ],
+      [
+        "o100130170122"
+      ],
+      [
+        "o100130180152"
+      ],
+      [
+        "o220050050121"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40025010018"
+      ],
+      [
+        "n42011007012"
+      ],
+      [
+        "n43020019013"
+      ],
+      [
+        "n43020026020"
+      ],
+      [
+        "n44005023006"
+      ],
+      [
+        "n44021030022"
+      ]
+    ]
+  }
+}

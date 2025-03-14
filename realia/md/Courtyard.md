@@ -9,6 +9,8 @@ Other forms include:
 EXO 27:9, EZK 40:17, MAT 26:58. 
 
 
+In the Old Testament (BSB), words representing “Courtyard” are translated as 
+*of the courtyard* (1x). 
 
 
 In the New Testament (BSB), words representing “Courtyard” are translated as 
@@ -18,6 +20,12 @@ In the New Testament (BSB), words representing “Courtyard” are translated as
 Return to [Index](00-Index.md)
 
 ## More Information
+
+### OT Instances (BSB)
+
+* of the courtyard (2CH 6:13)
+
+
 
 ### NT Instances (BSB)
 
@@ -45,7 +53,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* MAT 26:3; MAT 26:58; MAT 26:69; MRK 14:54; MRK 14:66; MRK 15:16; LUK 11:21; LUK 22:55; JHN 18:15; REV 11:2
+* 2CH 6:13; MAT 26:3; MAT 26:58; MAT 26:69; MRK 14:54; MRK 14:66; MRK 15:16; LUK 11:21; LUK 22:55; JHN 18:15; REV 11:2
 
 
 

@@ -10,9 +10,11 @@ EXO 25:31, EXO 25:32, EXO 37:17.
 
 
 In the Old Testament (BSB), words representing “Lampstand” are translated as 
-*and its buds* (2x), *each with buds* (2x), ** (9x), *with buds* (2x), *a bud* (2x), *under the* (1x), *bud under the* (1x), *The buds* (2x), *A bud* (1x), *a bud under* (1x), *and shaft* (2x), *branches* (5x), *branch* (4x), *a* (1x), *of branches* (2x), *and branches* (2x), *and* (1x). 
+*a lampstand* (1x), *It* (1x), *and shaft* (2x), *and its buds* (2x), *branches* (5x), *of the lampstand three on* (1x), ** (10x), *branch* (4x), *each with buds* (2x), *the lampstand* (12x), *And on the lampstand* (2x), *with buds* (2x), *a bud* (2x), *a* (1x), *under the* (1x), *of branches* (2x), *bud under the* (1x), *The buds* (2x), *and branches* (2x), *gold lampstand* (2x), *A bud* (1x), *and* (1x), *a bud under* (1x), *the lampstand as well* (1x), *lampstand* (4x), *of the lampstand* (2x), *the lampstands* (2x), *and a lamp* (1x), *lampstands* (3x), *of each lampstand* (5x). 
 
 
+In the New Testament (BSB), words representing “Lampstand” are translated as 
+*lampstand* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -21,47 +23,165 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
+* a lampstand (EXO 25:31)
+
+* It (EXO 25:31)
+
+* and shaft (EXO 25:31; EXO 37:17)
+
 * and its buds (EXO 25:31; EXO 37:17)
+
+* branches (EXO 25:32; EXO 25:33; EXO 25:35; EXO 37:18; EXO 37:19)
+
+* of the lampstand three on (EXO 25:32)
+
+*  (EXO 25:32; EXO 25:33; EXO 25:35; EXO 37:17; EXO 37:18; EXO 37:18; EXO 37:19; EXO 37:21; EXO 37:21; NUM 8:4)
+
+* branch (EXO 25:33; EXO 25:33; EXO 37:19; EXO 37:19)
 
 * each with buds (EXO 25:33; EXO 37:19)
 
-*  (EXO 25:33; EXO 37:19; EXO 25:32; EXO 25:32; EXO 25:35; EXO 37:18; EXO 37:18; EXO 37:21; EXO 37:21)
+* the lampstand (EXO 25:33; EXO 25:35; EXO 26:35; EXO 30:27; EXO 35:14; EXO 37:17; EXO 37:19; EXO 40:24; NUM 3:31; NUM 4:9; NUM 8:4; ZEC 4:11)
+
+* And on the lampstand (EXO 25:34; EXO 37:20)
 
 * with buds (EXO 25:34; EXO 37:20)
 
 * a bud (EXO 25:35; EXO 37:21)
 
+* a (EXO 25:35)
+
 * under the (EXO 25:35)
+
+* of branches (EXO 25:35; EXO 37:21)
 
 * bud under the (EXO 25:35)
 
 * The buds (EXO 25:36; EXO 37:22)
 
+* and branches (EXO 25:36; EXO 37:22)
+
+* gold lampstand (EXO 31:8; EXO 39:37)
+
 * A bud (EXO 37:21)
+
+* and (EXO 37:21)
 
 * a bud under (EXO 37:21)
 
-* and shaft (EXO 25:31; EXO 37:17)
+* the lampstand as well (EXO 40:4)
 
-* branches (EXO 25:32; EXO 25:33; EXO 25:35; EXO 37:18; EXO 37:19)
+* lampstand (LEV 24:4; 1CH 28:15; 2CH 13:11; ZEC 4:2)
 
-* branch (EXO 25:33; EXO 25:33; EXO 37:19; EXO 37:19)
+* of the lampstand (NUM 8:2; NUM 8:3)
 
-* a (EXO 25:35)
+* the lampstands (1KI 7:49; 2CH 4:20)
 
-* of branches (EXO 25:35; EXO 37:21)
+* and a lamp (2KI 4:10)
 
-* and branches (EXO 25:36; EXO 37:22)
+* lampstands (1CH 28:15; 2CH 4:7; JER 52:19)
 
-* and (EXO 37:21)
+* of each lampstand (1CH 28:15; 1CH 28:15; 1CH 28:15; 1CH 28:15; 1CH 28:15)
+
+
+
+### NT Instances (BSB)
+
+* lampstand (HEB 9:2)
 
 
 
 ### OT Pronominal Referents (BSB)
 
-* and branches (EXO 25:36; EXO 37:22)
+* its base (EXO 25:31; EXO 37:17; NUM 8:4)
+
+* and shaft (EXO 25:31; EXO 37:17)
+
+* its cups (EXO 25:31; EXO 37:17)
+
+* and its buds (EXO 25:31; EXO 37:17)
+
+* and petals (EXO 25:31; EXO 37:17)
+
+* of one piece (EXO 25:31)
+
+* from the sides (EXO 25:32; EXO 37:18)
+
+* three (EXO 25:32)
+
+*  (EXO 25:32; EXO 37:18; NUM 4:10; NUM 8:4; ZEC 4:2)
 
 * The buds (EXO 25:36; EXO 25:36; EXO 25:36; EXO 37:22; EXO 37:22; EXO 37:22)
+
+* and branches (EXO 25:36; EXO 25:36; EXO 37:22)
+
+* all (EXO 25:36)
+
+* lamps (EXO 25:37; 1CH 28:15; ZEC 4:2)
+
+* so that they (EXO 25:37)
+
+* front of it (EXO 25:37)
+
+* The wick trimmers (EXO 25:38)
+
+* and their trays (EXO 25:38)
+
+* The lampstand (EXO 25:39)
+
+* according to the pattern (EXO 25:40)
+
+* its utensils (EXO 30:27; EXO 31:8; EXO 39:37; NUM 4:10)
+
+* them (EXO 30:29; EXO 30:29)
+
+* with its accessories (EXO 35:14)
+
+* and lamps (EXO 35:14)
+
+* side (EXO 37:18)
+
+* with its row of lamps (EXO 39:37)
+
+* its lamps (EXO 40:4)
+
+* with its lamps (NUM 4:9)
+
+* wick trimmers (NUM 4:9)
+
+* and trays (NUM 4:9)
+
+* it (NUM 4:9)
+
+* the lamps (NUM 8:3; 2CH 13:11)
+
+* its blossoms (NUM 8:4)
+
+* and its lamps (1CH 28:15; 1CH 28:15)
+
+* according to their specifications (2CH 4:7)
+
+* and their lamps (2CH 4:20)
+
+* a solid gold (ZEC 4:2)
+
+* the top (ZEC 4:2)
+
+* beside it (ZEC 4:3)
+
+* are these (ZEC 4:4)
+
+* they are (ZEC 4:5)
+
+* left of (ZEC 4:11)
+
+
+
+### NT Pronominal Referents (BSB)
+
+* these things (HEB 9:5)
+
+* everything (HEB 9:6)
 
 
 
@@ -69,13 +189,15 @@ Return to [Index](00-Index.md)
 
 * that extend (EXO 25:33; EXO 25:35)
 
+* so that they will be (EXO 30:29)
+
 * that extended (EXO 37:19; EXO 37:21)
 
 
 
 ### References (Whole Bible)
 
-* EXO 25:31; EXO 25:32; EXO 25:33; EXO 25:34; EXO 25:35; EXO 25:36; EXO 37:17; EXO 37:18; EXO 37:19; EXO 37:20; EXO 37:21; EXO 37:22
+* EXO 25:31; EXO 25:32; EXO 25:33; EXO 25:34; EXO 25:35; EXO 25:36; EXO 26:35; EXO 30:27; EXO 31:8; EXO 35:14; EXO 37:17; EXO 37:18; EXO 37:19; EXO 37:20; EXO 37:21; EXO 37:22; EXO 39:37; EXO 40:4; EXO 40:24; LEV 24:4; NUM 3:31; NUM 4:9; NUM 8:2; NUM 8:3; NUM 8:4; 1KI 7:49; 2KI 4:10; 1CH 28:15; 2CH 4:7; 2CH 4:20; 2CH 13:11; JER 52:19; ZEC 4:2; ZEC 4:11; HEB 9:2
 
 
 

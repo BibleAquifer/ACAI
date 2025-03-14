@@ -1,0 +1,51 @@
+{
+  "id": "realia:Gong",
+  "primary_id": "realia:Gong",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:7.4.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Music",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gong",
+      "descriptions": [
+        {
+          "description": "The gong was a concave, platelike piece of metal that reverberated loudly when struck.",
+          "source": "acai",
+          "gloss": "Gong",
+          "article": "realia:Gong"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χαλκός"
+    ]
+  },
+  "key_references": [
+    "46013001"
+  ],
+  "references": [
+    "46013001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46013001015"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n46013001016"
+      ]
+    ]
+  }
+}

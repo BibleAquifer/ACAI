@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Animal Pen” are translated as 
-*and pens* (1x), *for* (2x), *stalls* (1x), *had a fattened* (1x), *are like fattened* (1x), *the stall* (1x), *stall* (1x), *are in the stalls* (1x). 
+*and pen them up* (1x), *and penned up* (1x), *had a fattened* (1x), *for* (2x), *stalls* (1x), *and pens* (1x), *are like fattened* (1x), *the stall* (1x), *are in the stalls* (1x), *stall* (1x). 
 
 
 In the New Testament (BSB), words representing “Animal Pen” are translated as 
@@ -23,21 +23,25 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* and pens (2CH 32:28)
+* and pen them up (1SA 6:7)
+
+* and penned up (1SA 6:10)
+
+* had a fattened (1SA 28:24)
 
 * for (1KI 5:6; 2CH 9:25)
 
 * stalls (2CH 32:28)
 
-* had a fattened (1SA 28:24)
+* and pens (2CH 32:28)
 
 * are like fattened (JER 46:21)
 
 * the stall (AMO 6:4)
 
-* stall (MAL 3:20)
-
 * are in the stalls (HAB 3:17)
+
+* stall (MAL 3:20)
 
 
 
@@ -55,7 +59,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* 1SA 28:24; 1KI 5:6; 2CH 9:25; 2CH 32:28; JER 46:21; AMO 6:4; HAB 3:17; MAL 3:20; LUK 13:15
+* 1SA 6:7; 1SA 6:10; 1SA 28:24; 1KI 5:6; 2CH 9:25; 2CH 32:28; JER 46:21; AMO 6:4; HAB 3:17; MAL 3:20; LUK 13:15
 
 
 

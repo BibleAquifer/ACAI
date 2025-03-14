@@ -30,13 +30,13 @@
     "eng": {
       "preferred_label": "Sea of Galilee",
       "alternate_labels": [
-        "Sea of Chinneroth",
-        "Sea of Chinnereth",
-        "Sea of Tiberias",
-        "Sea of Kinnereth",
         "Tiberias",
+        "Sea of Chinnereth",
+        "Chinneroth",
         "Kinnereth Sea",
-        "Chinneroth"
+        "Sea of Chinneroth",
+        "Sea of Kinnereth",
+        "Sea of Tiberias"
       ],
       "descriptions": [
         {
@@ -83,10 +83,10 @@
     }
   },
   "key_references": [
-    "41001016",
     "40004018",
-    "43006001",
-    "04034011"
+    "04034011",
+    "41001016",
+    "43006001"
   ],
   "references": [
     "04034011",

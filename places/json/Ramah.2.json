@@ -16,7 +16,7 @@
   "type": "place",
   "localizations": {
     "eng": {
-      "preferred_label": "Ramah (of the Negev)",
+      "preferred_label": "Ramah (Hill)",
       "alternate_labels": [
         "Rama",
         "Ramah"
@@ -24,13 +24,16 @@
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Ramah.6",
-          "gloss": "Ramah (of the Negev)",
-          "description": "A town in the territory of Simeon; also known as Ramoth-Negev."
+          "article": "place:Ramah.8",
+          "gloss": "Ramah (Hill)",
+          "description": "A hill near Gibeah of Benjamin."
         }
       ]
     }
   },
+  "possibly_same_as": [
+    "place:Gibeah.2"
+  ],
   "referred_to_as": [
     "place:Ramah.2"
   ],
@@ -48,7 +51,7 @@
       "City"
     ],
     "acai": [
-      "town"
+      "hill"
     ]
   },
   "geocoordinates": {
@@ -66,7 +69,7 @@
     }
   },
   "key_references": [
-    "06019008"
+    "09022006"
   ],
   "references": [
     "06018025",

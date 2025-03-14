@@ -9,6 +9,8 @@ Other forms include:
 MRK 5:4, LUK 8:29. 
 
 
+In the Old Testament (BSB), words representing “Fetter” are translated as 
+*with chains* (1x). 
 
 
 In the New Testament (BSB), words representing “Fetter” are translated as 
@@ -19,6 +21,12 @@ Return to [Index](00-Index.md)
 
 ## More Information
 
+### OT Instances (BSB)
+
+* with chains (LAM 3:7)
+
+
+
 ### NT Instances (BSB)
 
 * shackles (MRK 5:4; MRK 5:4; LUK 8:29)
@@ -27,7 +35,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* MRK 5:4; LUK 8:29
+* LAM 3:7; MRK 5:4; LUK 8:29
 
 
 

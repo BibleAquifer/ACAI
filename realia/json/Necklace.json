@@ -1,0 +1,129 @@
+{
+  "id": "realia:Necklace",
+  "primary_id": "realia:Necklace",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:10.5.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Personal",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Necklace",
+      "alternate_labels": [
+        "Chain",
+        "Cord"
+      ],
+      "descriptions": [
+        {
+          "description": "The necklace was a string, band, cord, or chain worn around the neck for ornamentation. Often jewels or other ornaments were attached to it.",
+          "source": "acai",
+          "gloss": "Necklace",
+          "article": "realia:Necklace"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "ara": [
+      "הַמְנִיךְ"
+    ],
+    "he": [
+      "חָרוּז",
+      "כּוּמָז",
+      "נְטִיפָה",
+      "עֲנָק",
+      "ענק",
+      "פָּתִיל",
+      "רָבִיד",
+      "שַׂהֲרוֹן"
+    ],
+    "el": [
+      "μανιάκης"
+    ]
+  },
+  "key_references": [
+    "01038018",
+    "22001010",
+    "23003018"
+  ],
+  "references": [
+    "01038018",
+    "01038025",
+    "01041042",
+    "02035022",
+    "04031050",
+    "07008026",
+    "19073006",
+    "20001009",
+    "22001010",
+    "22004009",
+    "23003018",
+    "23003019",
+    "26016011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010380180092",
+        "o010380180093"
+      ],
+      [
+        "o010380250193"
+      ],
+      [
+        "o010410420171"
+      ],
+      [
+        "o020350220122"
+      ],
+      [
+        "o040310500142"
+      ],
+      [
+        "o070080260132"
+      ],
+      [
+        "o070080260143"
+      ],
+      [
+        "o070080260222"
+      ],
+      [
+        "o190730060021",
+        "o190730060022"
+      ],
+      [
+        "o200010090062"
+      ],
+      [
+        "o220010100052"
+      ],
+      [
+        "o220040090091"
+      ],
+      [
+        "o230030180093"
+      ],
+      [
+        "o230030190012"
+      ],
+      [
+        "o260160110072"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010380250101"
+      ],
+      [
+        "o010380250212"
+      ]
+    ]
+  }
+}

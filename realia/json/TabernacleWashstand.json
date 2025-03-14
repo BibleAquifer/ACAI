@@ -1,0 +1,142 @@
+{
+  "id": "realia:TabernacleWashstand",
+  "primary_id": "realia:TabernacleWashstand",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:4.3.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Religion",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tabernacle Washstand",
+      "alternate_labels": [
+        "Basin",
+        "Bowl"
+      ],
+      "descriptions": [
+        {
+          "description": "The basin was a large copper pot that stood on a copper base. It was used by the priests to wash their hands and feet.",
+          "source": "acai",
+          "gloss": "Tabernacle Washstand",
+          "article": "realia:TabernacleWashstand"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כִּיּוֹר"
+    ]
+  },
+  "key_references": [
+    "02030018",
+    "02030028",
+    "03008011"
+  ],
+  "references": [
+    "02030018",
+    "02030028",
+    "02031009",
+    "02035016",
+    "02038008",
+    "02039039",
+    "02040007",
+    "02040011",
+    "02040030",
+    "03008011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020300180021"
+      ],
+      [
+        "o020300280082"
+      ],
+      [
+        "o020310090082"
+      ],
+      [
+        "o020350160152"
+      ],
+      [
+        "o020380080032"
+      ],
+      [
+        "o020390390152"
+      ],
+      [
+        "o020400070032"
+      ],
+      [
+        "o020400110032"
+      ],
+      [
+        "o020400300032"
+      ],
+      [
+        "o030080110142"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020300180043"
+      ],
+      [
+        "o020300180082"
+      ],
+      [
+        "o020300190042"
+      ],
+      [
+        "o020300280102"
+      ],
+      [
+        "o020300290022"
+      ],
+      [
+        "o020300290082"
+      ],
+      [
+        "o020310090102"
+      ],
+      [
+        "o020350160172"
+      ],
+      [
+        "o020380080062"
+      ],
+      [
+        "o020390390172"
+      ],
+      [
+        "o020400110052"
+      ],
+      [
+        "o020400110072"
+      ],
+      [
+        "o020400310022"
+      ],
+      [
+        "o030080110162"
+      ],
+      [
+        "o030080110173"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020300290032"
+      ]
+    ]
+  }
+}

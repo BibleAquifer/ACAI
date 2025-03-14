@@ -1,0 +1,102 @@
+{
+  "id": "realia:Bracelet",
+  "primary_id": "realia:Bracelet",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:10.5.2"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Personal",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bracelet",
+      "alternate_labels": [
+        "Anklet",
+        "Armlet"
+      ],
+      "descriptions": [
+        {
+          "description": "The bracelet/armlet was a piece of jewelry worn on the wrist/arm. It was round and made of metal.",
+          "source": "acai",
+          "gloss": "Bracelet",
+          "article": "realia:Bracelet"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֶצְעָדָה",
+      "עֶכֶס",
+      "צָמִיד",
+      "צְעָדָה"
+    ],
+    "el": [
+      "χλιδών",
+      "ψέλιον"
+    ]
+  },
+  "key_references": [
+    "01024022",
+    "23003018",
+    "26016011"
+  ],
+  "references": [
+    "01024022",
+    "01024030",
+    "01024047",
+    "04031050",
+    "10001010",
+    "23003018",
+    "23003020",
+    "26016011",
+    "26023042"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010240220131"
+      ],
+      [
+        "o010240300062"
+      ],
+      [
+        "o010240470203"
+      ],
+      [
+        "o040310500101"
+      ],
+      [
+        "o040310500112"
+      ],
+      [
+        "o100010100162"
+      ],
+      [
+        "o230030180072"
+      ],
+      [
+        "o230030200023"
+      ],
+      [
+        "o260160110041"
+      ],
+      [
+        "o260230420141"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010240220182"
+      ],
+      [
+        "o100010100203"
+      ]
+    ]
+  }
+}

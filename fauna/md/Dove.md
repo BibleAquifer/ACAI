@@ -11,11 +11,11 @@ GEN 8:8, LEV 5:11, MAT 3:16.
 
 
 In the Old Testament (BSB), words representing “Dove” are translated as 
-*a dove* (1x), *But the dove* (1x), *the dove* (2x), *the dove again* (1x), *pigeon* (2x), *pigeons one as* (1x), *pigeons* (5x), *come* (1x), *and* (1x), *like a dove* (3x), ** (1x), *of the dove* (1x), *are like doves* (3x), *O my dove* (1x), *my dove* (1x), *but my dove* (1x), *like doves* (3x), *dove calling out* (1x), *and like doves* (1x), *doves* (1x), *along with a turtledove* (1x), *a turtledove* (2x), *turtledoves* (5x), *the turtledoves* (1x), *or* (2x), *of Your dove* (1x), *of turtledoves* (1x), *The turtledove* (1x), *living* (1x). 
+*living* (1x), *a dove* (1x), *But the dove* (1x), *the dove* (2x), *the dove again* (1x), *along with a turtledove* (1x), *a turtledove* (2x), *pigeon* (2x), *turtledoves* (5x), *pigeons one as* (1x), *pigeons* (5x), *the turtledoves* (1x), *or* (2x), *come* (1x), *and* (1x), *like a dove* (3x), ** (1x), *of the dove* (1x), *of Your dove* (1x), *are like doves* (3x), *of turtledoves* (1x), *O my dove* (1x), *my dove* (1x), *but my dove* (1x), *like doves* (3x), *The turtledove* (1x), *dove calling out* (1x), *and like doves* (1x), *doves* (1x). 
 
 
 In the New Testament (BSB), words representing “Dove” are translated as 
-*a dove* (4x), *doves* (5x), *pigeons* (1x), *of turtledoves* (1x). 
+*a dove* (4x), *doves* (5x), *of turtledoves* (1x), *pigeons* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -23,6 +23,8 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
+
+* living (GEN 6:19)
 
 * a dove (GEN 8:8)
 
@@ -32,11 +34,21 @@ Return to [Index](00-Index.md)
 
 * the dove again (GEN 8:12)
 
+* along with a turtledove (GEN 15:9)
+
+* a turtledove (LEV 1:14; LEV 12:6)
+
 * pigeon (LEV 1:14; LEV 12:6)
+
+* turtledoves (LEV 5:7; LEV 5:11; LEV 12:8; LEV 14:22; NUM 6:10)
 
 * pigeons one as (LEV 5:7)
 
 * pigeons (LEV 5:11; LEV 12:8; LEV 14:22; LEV 14:30; NUM 6:10)
+
+* the turtledoves (LEV 14:30)
+
+* or (LEV 15:14; LEV 15:29)
 
 * come (LEV 15:14)
 
@@ -48,7 +60,11 @@ Return to [Index](00-Index.md)
 
 * of the dove (PSA 68:14)
 
+* of Your dove (PSA 74:19)
+
 * are like doves (SNG 1:15; SNG 4:1; SNG 5:12)
+
+* of turtledoves (SNG 2:12)
 
 * O my dove (SNG 2:14)
 
@@ -58,29 +74,13 @@ Return to [Index](00-Index.md)
 
 * like doves (ISA 59:11; ISA 60:8; EZK 7:16)
 
+* The turtledove (JER 8:7)
+
 * dove calling out (HOS 7:11)
 
 * and like doves (HOS 11:11)
 
 * doves (NAM 2:8)
-
-* along with a turtledove (GEN 15:9)
-
-* a turtledove (LEV 1:14; LEV 12:6)
-
-* turtledoves (LEV 5:7; LEV 5:11; LEV 12:8; LEV 14:22; NUM 6:10)
-
-* the turtledoves (LEV 14:30)
-
-* or (LEV 15:14; LEV 15:29)
-
-* of Your dove (PSA 74:19)
-
-* of turtledoves (SNG 2:12)
-
-* The turtledove (JER 8:7)
-
-* living (GEN 6:19)
 
 
 
@@ -90,13 +90,15 @@ Return to [Index](00-Index.md)
 
 * doves (MAT 10:16; MAT 21:12; MRK 11:15; JHN 2:14; JHN 2:16)
 
-* pigeons (LUK 2:24)
-
 * of turtledoves (LUK 2:24)
+
+* pigeons (LUK 2:24)
 
 
 
 ### OT Pronominal Referents (BSB)
+
+* of every (GEN 6:19)
 
 * her foot (GEN 8:9)
 
@@ -105,6 +107,18 @@ Return to [Index](00-Index.md)
 * her (GEN 8:9)
 
 * in her beak (GEN 8:11)
+
+* these (GEN 15:10)
+
+* each of them (GEN 15:10)
+
+* them (LEV 5:8; LEV 14:23; LEV 15:15)
+
+* And the priest will present them (LEV 12:7)
+
+* give them to (LEV 15:14)
+
+* to (LEV 15:29)
 
 * with shimmering (PSA 68:14)
 
@@ -152,21 +166,7 @@ Return to [Index](00-Index.md)
 
 * sing her praises (SNG 6:9)
 
-* these (GEN 15:10)
-
-* each of them (GEN 15:10)
-
-* them (LEV 5:8; LEV 14:23; LEV 15:15)
-
-* And the priest will present them (LEV 12:7)
-
-* give them to (LEV 15:14)
-
-* to (LEV 15:29)
-
 * of migration (JER 8:7)
-
-* of every (GEN 6:19)
 
 
 
@@ -174,9 +174,7 @@ Return to [Index](00-Index.md)
 
 * and she returned (GEN 8:9)
 
-* but this time (GEN 8:12)
-
-* she did not return (GEN 8:12)
+* but this time she did not return (GEN 8:12)
 
 * let me see (SNG 2:14)
 

@@ -1,0 +1,134 @@
+{
+  "id": "realia:PlainFlour",
+  "primary_id": "realia:PlainFlour",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:9.4.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Food and Drink",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Plain Flour",
+      "descriptions": [
+        {
+          "description": "Flour was the product of grinding kernels of grain. The grains most commonly used were wheat or barley.",
+          "source": "acai",
+          "gloss": "Plain Flour",
+          "article": "realia:PlainFlour"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קֶמַח"
+    ],
+    "el": [
+      "ἄλευρον"
+    ]
+  },
+  "key_references": [
+    "04005015",
+    "09001024",
+    "11005002"
+  ],
+  "references": [
+    "04005015",
+    "07006019",
+    "09001024",
+    "09028024",
+    "10017028",
+    "11005002",
+    "11017012",
+    "11017014",
+    "11017016",
+    "12004041",
+    "13012041",
+    "23047002",
+    "28008007",
+    "40013033",
+    "42013021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040050150131"
+      ],
+      [
+        "o070060190071"
+      ],
+      [
+        "o090010240091"
+      ],
+      [
+        "o090280240081"
+      ],
+      [
+        "o100170280072"
+      ],
+      [
+        "o110050020111"
+      ],
+      [
+        "o110170120131"
+      ],
+      [
+        "o110170140082"
+      ],
+      [
+        "o110170160022"
+      ],
+      [
+        "o120040410031"
+      ],
+      [
+        "o130120410151"
+      ],
+      [
+        "o230470020041"
+      ],
+      [
+        "o280080070121"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40013033017"
+      ],
+      [
+        "n42013021009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o040050150172"
+      ],
+      [
+        "o040050150212"
+      ],
+      [
+        "o040050150261"
+      ],
+      [
+        "o090280240103"
+      ],
+      [
+        "o280080070162"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40013033023"
+      ],
+      [
+        "n42013021015"
+      ]
+    ]
+  }
+}

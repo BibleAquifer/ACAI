@@ -1,6 +1,6 @@
 # Lebo-hamath
 **Lebo-hamath**. 
-= town or village; at northern boundary of Israel. 
+= town; located to the south of Hamath; northern border of Canaan. 
 Other forms include: 
 *Hamath*, *Hamath-Zobah*, *Hemath*, *entering in of Hamath*, *entrance of Hamath*, *entrance to Hamath*, *go*. 
 Lebo-hamath is also referred to as: 

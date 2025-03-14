@@ -10,7 +10,7 @@ ISA 29:3, EZK 4:2, EZK 26:9.
 
 
 In the Old Testament (BSB), words representing “Battering-Ram” are translated as 
-*with his axes* (1x), *rams around* (1x), *battering rams* (1x), *the battering rams* (1x), *of his battering rams* (1x). 
+*rams around* (1x), *battering rams* (1x), *the battering rams* (1x), *of his battering rams* (1x), *with his axes* (1x). 
 
 
 
@@ -21,8 +21,6 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* with his axes (EZK 26:9)
-
 * rams around (EZK 4:2)
 
 * battering rams (EZK 21:27)
@@ -30,6 +28,8 @@ Return to [Index](00-Index.md)
 * the battering rams (EZK 21:27)
 
 * of his battering rams (EZK 26:9)
+
+* with his axes (EZK 26:9)
 
 
 

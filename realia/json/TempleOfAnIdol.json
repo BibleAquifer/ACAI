@@ -10,7 +10,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Buildings and Structures",
   "ubsdgnt": [
     "7.19"
   ],
@@ -33,8 +33,20 @@
   "only_mentioned_in_apocrypha": false,
   "non_biblical": false,
   "lemmas": {
+    "he": [
+      "בַּיִת",
+      "מִקְדָּשׁ"
+    ],
     "el": [
-      "εἰδωλεῖον"
+      "εἰδωλεῖον",
+      "εἰδώλιον",
+      "ἱερόν",
+      "ἱερός",
+      "ναός",
+      "οἰκία",
+      "οἶκος",
+      "σκηνή",
+      "τέμενος"
     ]
   },
   "key_references": [
@@ -44,12 +56,26 @@
     "46008010"
   ],
   "references": [
+    "30007013",
+    "44007043",
+    "44019027",
     "46008010"
   ],
   "explicit_instances": {
     "SBLGNT": [
       [
+        "n44007043004"
+      ],
+      [
+        "n44019027019"
+      ],
+      [
         "n46008010010"
+      ]
+    ],
+    "wlc": [
+      [
+        "o300070130081"
       ]
     ]
   }

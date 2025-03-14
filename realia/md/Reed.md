@@ -10,7 +10,7 @@ EZK 40:3, EZK 40:5, EZK 42:16.
 
 
 In the Old Testament (BSB), words representing “Reed” are translated as 
-*and a measuring* (1x), *Now the length of the measuring* (1x), *With a measuring* (1x), ** (4x), *long* (5x), *rod* (7x), *deep* (1x), *and one rod* (1x), *rod deep* (1x), *a rod* (1x), *cubits* (4x). 
+*rod* (7x), *and a measuring* (1x), *Now the length of the measuring* (1x), *deep* (1x), *and one rod* (1x), *rod deep* (1x), ** (4x), *a rod* (1x), *With a measuring* (1x), *cubits* (4x), *long* (5x). 
 
 
 
@@ -21,17 +21,11 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
+* rod (EZK 40:3; EZK 40:5; EZK 40:5; EZK 40:5; EZK 40:6; EZK 40:7; EZK 42:16)
+
 * and a measuring (EZK 40:3)
 
 * Now the length of the measuring (EZK 40:5)
-
-* With a measuring (EZK 42:16)
-
-*  (EZK 42:16; EZK 40:8; EZK 42:18; EZK 42:19)
-
-* long (EZK 42:17; EZK 42:18; EZK 42:19; EZK 42:16; EZK 42:17)
-
-* rod (EZK 40:3; EZK 40:5; EZK 40:5; EZK 40:5; EZK 40:6; EZK 40:7; EZK 42:16)
 
 * deep (EZK 40:6)
 
@@ -39,9 +33,15 @@ Return to [Index](00-Index.md)
 
 * rod deep (EZK 40:7)
 
+*  (EZK 40:8; EZK 42:16; EZK 42:18; EZK 42:19)
+
 * a rod (EZK 41:8)
 
+* With a measuring (EZK 42:16)
+
 * cubits (EZK 42:16; EZK 42:17; EZK 42:18; EZK 42:19)
+
+* long (EZK 42:16; EZK 42:17; EZK 42:17; EZK 42:18; EZK 42:19)
 
 
 

@@ -1,0 +1,47 @@
+{
+  "id": "realia:Lid",
+  "primary_id": "realia:Lid",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:5.18.1.2.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Household",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lid",
+      "alternate_labels": [
+        "Cover"
+      ],
+      "descriptions": [
+        {
+          "description": "The lid was a cover made to fit tightly over the opening of a pot or jar. In some cases the lid was secured by tying it to the container.",
+          "source": "acai",
+          "gloss": "Lid",
+          "article": "realia:Lid"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צָמִיד"
+    ]
+  },
+  "key_references": [
+    "04019015"
+  ],
+  "references": [
+    "04019015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040190150061"
+      ]
+    ]
+  }
+}

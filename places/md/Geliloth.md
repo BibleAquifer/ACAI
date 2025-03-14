@@ -4,9 +4,9 @@ A location in the territory of Benjamin; also known as Gilgal.
 Other forms include: 
 *Gilgal*. 
 Geliloth is also referred to as: 
-[Gilgal (of Judah)](Gilgal.2.md). 
+[Gilgal (near Shechem)](Gilgal.2.md). 
 Geliloth is a subentry. The primary entry is 
-[Gilgal (of Judah)](Gilgal.2.md). 
+[Gilgal (near Shechem)](Gilgal.2.md). 
 
 
 
@@ -15,7 +15,7 @@ Other information about Geliloth:
 
 
 * May refer to the same location as: 
-[Gilgal (near Shechem)](Gilgal.4.md). 
+[Gilgal (near Bethel)](Gilgal.4.md). 
 
 
 **OT Distribution of References**

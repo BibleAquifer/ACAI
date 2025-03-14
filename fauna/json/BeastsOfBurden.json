@@ -1,0 +1,86 @@
+{
+  "id": "fauna:BeastsOfBurden",
+  "primary_id": "fauna:BeastsOfBurden",
+  "alternate_sources": {
+    "ubsfauna": [
+      "fauna:1.2"
+    ]
+  },
+  "type": "fauna",
+  "fauna_type": "Animals (General)",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beasts of Burden",
+      "descriptions": [
+        {
+          "source": "acai",
+          "gloss": "Beasts of Burden",
+          "description": "Animals that are ridden or made to carry loads. This includes donkeys, camels, horses, mules and oxen."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בְּהֵמָה",
+      "בְּעִיר"
+    ],
+    "el": [
+      "κτήνος"
+    ]
+  },
+  "key_references": [
+    "01045017",
+    "16002012",
+    "42010034"
+  ],
+  "references": [
+    "01045017",
+    "16002012",
+    "16002014",
+    "42010034",
+    "44023024",
+    "46015039",
+    "66018013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010450170121",
+        "o010450170122"
+      ],
+      [
+        "o160020120172"
+      ],
+      [
+        "o160020120222"
+      ],
+      [
+        "o160020140102"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42010034017"
+      ],
+      [
+        "n44023024001"
+      ],
+      [
+        "n46015039014"
+      ],
+      [
+        "n66018013020"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o160020120262"
+      ]
+    ]
+  }
+}

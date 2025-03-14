@@ -1,0 +1,59 @@
+{
+  "id": "realia:Tower.2",
+  "primary_id": "realia:Tower.2",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:3.14.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Buildings and Structures",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ziggurat",
+      "alternate_labels": [
+        "Tower"
+      ],
+      "descriptions": [
+        {
+          "description": "The ziggurat was a very high tower built for religious or ceremonial purposes. It had a staircase around its outside and a shrine at the top.",
+          "source": "acai",
+          "gloss": "Ziggurat",
+          "article": "realia:Tower.2"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִגְדָּל"
+    ]
+  },
+  "key_references": [
+    "01011004",
+    "01011005"
+  ],
+  "references": [
+    "01011004",
+    "01011005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010110040062"
+      ],
+      [
+        "o010110050072"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o010110040073"
+      ]
+    ]
+  }
+}

@@ -11,7 +11,7 @@ ISA 44:14.
 
 
 In the Old Testament (BSB), words representing “Laurel” are translated as 
-*and the* (1x). 
+*ruthless man* (1x), *and the* (1x). 
 
 
 
@@ -21,6 +21,8 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
+
+* ruthless man (PSA 37:35)
 
 * and the (ISA 44:14)
 
@@ -52,7 +54,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* ISA 44:14
+* PSA 37:35; ISA 44:14
 
 
 

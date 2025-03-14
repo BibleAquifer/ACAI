@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Pouch” are translated as 
-*the pouch of* (1x). 
+*with* (1x), *the pouch of* (1x), *his bag* (1x). 
 
 
 
@@ -21,13 +21,17 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
+* with (1SA 17:40)
+
 * the pouch of (1SA 17:40)
+
+* his bag (1SA 17:49)
 
 
 
 ### References (Whole Bible)
 
-* 1SA 17:40
+* 1SA 17:40; 1SA 17:49
 
 
 

@@ -1,0 +1,69 @@
+{
+  "id": "realia:BridalChamber",
+  "primary_id": "realia:BridalChamber",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:3.1.6.8"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Buildings and Structures",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bridal Chamber",
+      "alternate_labels": [
+        "Marriage Bed"
+      ],
+      "descriptions": [
+        {
+          "description": "The bridal chamber was the room to which a newly married couple retired together immediately after the wedding.",
+          "source": "acai",
+          "gloss": "Bridal Chamber",
+          "article": "realia:BridalChamber"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶדֶר",
+      "חֻפָּה"
+    ],
+    "el": [
+      "νυμφών",
+      "παστός"
+    ]
+  },
+  "key_references": [
+    "07015001",
+    "19019006",
+    "29002016"
+  ],
+  "references": [
+    "07015001",
+    "19019006",
+    "29002016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070150010162",
+        "o070150010163"
+      ],
+      [
+        "o190190060042",
+        "o190190060043"
+      ],
+      [
+        "o290020160132",
+        "o290020160133"
+      ],
+      [
+        "o290020160152",
+        "o290020160153"
+      ]
+    ]
+  }
+}

@@ -9,7 +9,7 @@ LEV 11:30.
 
 
 In the Old Testament (BSB), words representing “Gecko” are translated as 
-*the gecko* (1x). 
+*the gecko* (1x), *and the lizard* (1x). 
 
 
 
@@ -22,11 +22,19 @@ Return to [Index](00-Index.md)
 
 * the gecko (LEV 11:30)
 
+* and the lizard (PRO 30:28)
+
+
+
+### OT Pronominal Referents (BSB)
+
+* yet it (PRO 30:28)
+
 
 
 ### References (Whole Bible)
 
-* LEV 11:30
+* LEV 11:30; PRO 30:28
 
 
 

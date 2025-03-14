@@ -10,7 +10,7 @@ EZK 45:12, LUK 19:13, LUK 19:16, LUK 19:24.
 
 
 In the Old Testament (BSB), words representing “Mina” are translated as 
-*MENE* (3x), *minas* (1x), *silver* (2x), *of* (1x), *one mina* (1x). 
+*minas* (1x), *silver* (2x), *of* (1x), *one mina* (1x), *MENE MENE* (1x), *MENE* (1x). 
 
 
 In the New Testament (BSB), words representing “Mina” are translated as 
@@ -23,8 +23,6 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* MENE (DAN 5:25; DAN 5:25; DAN 5:26)
-
 * minas (1KI 10:17)
 
 * silver (EZR 2:69; NEH 7:71)
@@ -32,6 +30,10 @@ Return to [Index](00-Index.md)
 * of (NEH 7:70)
 
 * one mina (EZK 45:12)
+
+* MENE MENE (DAN 5:25)
+
+* MENE (DAN 5:26)
 
 
 

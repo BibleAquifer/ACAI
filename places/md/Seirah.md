@@ -51,7 +51,7 @@ Return to [Index](00-Index.md)
 
 * OpenBible.info: natural area, special
 
-* ACAI: town, geographical feature
+* ACAI: geographical feature, town
 
 
 

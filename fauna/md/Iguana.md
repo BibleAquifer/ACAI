@@ -13,7 +13,7 @@ LEV 11:30.
 
 
 In the Old Testament (BSB), words representing “Monitor” are translated as 
-*the monitor lizard* (1x), *land crawlers* (1x), *that crawls* (1x), *creature* (2x), *and bird* (1x), *crawling creature* (2x), *and birds* (1x), ** (1x), *creeping thing* (1x), *reptiles* (1x), *crawling creatures* (1x), *of crawling creature* (1x), *and the creatures that crawl* (1x), *like creeping things* (1x). 
+*land crawlers* (1x), *that crawls* (1x), *creature* (2x), *and bird* (1x), *crawling creature* (2x), *and birds* (1x), ** (1x), *creeping thing* (1x), *the monitor lizard* (1x), *reptiles* (1x), *crawling creatures* (1x), *of crawling creature* (1x), *and the creatures that crawl* (1x), *like creeping things* (1x). 
 
 
 In the New Testament (BSB), words representing “Monitor” are translated as 
@@ -25,8 +25,6 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
-
-* the monitor lizard (LEV 11:30)
 
 * land crawlers (GEN 1:24)
 
@@ -43,6 +41,8 @@ Return to [Index](00-Index.md)
 *  (GEN 8:17)
 
 * creeping thing (GEN 8:19)
+
+* the monitor lizard (LEV 11:30)
 
 * reptiles (1KI 5:13)
 

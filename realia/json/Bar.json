@@ -1,0 +1,116 @@
+{
+  "id": "realia:Bar",
+  "primary_id": "realia:Bar",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:3.15.2.3.5"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Buildings and Structures",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bar",
+      "alternate_labels": [
+        "Pole"
+      ],
+      "descriptions": [
+        {
+          "description": "Bars or poles made of acacia wood were passed through rings attached to the frames. The dimensions of these poles are not given, although Exodus 26:28 says that the center pole ran the entire length of the Tabernacle wall, that is, 30 cubits (15 meters; 50 feet) for the side walls and 10 cubits (5 meters; 16.5 feet) for the back wall.",
+          "source": "acai",
+          "gloss": "Bar",
+          "article": "realia:Bar"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בְּרִיחַ"
+    ]
+  },
+  "key_references": [
+    "02026026",
+    "02026027",
+    "04003036"
+  ],
+  "references": [
+    "02026026",
+    "02026027",
+    "02026028",
+    "02026029",
+    "02036031",
+    "02036032",
+    "02036033",
+    "02036034",
+    "02039033",
+    "02040018",
+    "04003036",
+    "04004031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020260260021"
+      ],
+      [
+        "o020260270021"
+      ],
+      [
+        "o020260270081"
+      ],
+      [
+        "o020260280013"
+      ],
+      [
+        "o020260290102"
+      ],
+      [
+        "o020260290132"
+      ],
+      [
+        "o020360310021"
+      ],
+      [
+        "o020360320021"
+      ],
+      [
+        "o020360320081"
+      ],
+      [
+        "o020360330032"
+      ],
+      [
+        "o020360340102"
+      ],
+      [
+        "o020360340132"
+      ],
+      [
+        "o020390330141",
+        "o020390330142"
+      ],
+      [
+        "o020400180131",
+        "o020400180132"
+      ],
+      [
+        "o040030360072",
+        "o040030360073"
+      ],
+      [
+        "o040040310102",
+        "o040040310103"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020360330052"
+      ]
+    ]
+  }
+}

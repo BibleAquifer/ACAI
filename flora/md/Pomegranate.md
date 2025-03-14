@@ -9,7 +9,7 @@ EXO 28:33, NUM 20:5, SNG 4:3.
 
 
 In the Old Testament (BSB), words representing “Pomegranate” are translated as 
-*pomegranates* (11x), *and pomegranates* (5x), ** (2x), *the pomegranates* (1x), *or pomegranates and there* (1x), *the pomegranate tree* (1x), *of pomegranates* (4x), *of pomegranate* (2x), *or the pomegranates* (1x), *the pomegranates are in bloom there I will* (1x), *of my pomegranates* (1x), *all* (1x), *its pomegranates was* (1x), *the pomegranate* (2x). 
+*pomegranates* (10x), *and pomegranates* (5x), ** (1x), *the pomegranates* (1x), *or pomegranates and there* (1x), *the pomegranate tree* (1x), *of pomegranates* (4x), *of pomegranate* (2x), *or the pomegranates* (1x), *the pomegranates are in bloom there I will* (1x), *of my pomegranates* (1x), *all* (1x), *its pomegranates was* (1x), *the pomegranate* (2x). 
 
 
 
@@ -20,11 +20,11 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* pomegranates (EXO 28:33; EXO 39:24; NUM 13:23; 1KI 7:20; 1KI 7:42; 2KI 25:17; 2CH 3:16; 2CH 4:13; JER 52:23; JER 52:23; 1KI 7:20)
+* pomegranates (EXO 28:33; EXO 39:24; NUM 13:23; 1KI 7:20; 1KI 7:42; 2KI 25:17; 2CH 3:16; 2CH 4:13; JER 52:23; JER 52:23)
 
 * and pomegranates (EXO 28:34; EXO 28:34; EXO 39:26; EXO 39:26; DEU 8:8)
 
-*  (EXO 39:25; 2KI 25:17)
+*  (EXO 39:25)
 
 * the pomegranates (EXO 39:25)
 

@@ -12,7 +12,7 @@ JHN 11:44, JHN 20:7, ACT 19:12.
 
 
 In the New Testament (BSB), words representing “Band of Cloth” are translated as 
-*in strips of linen* (1x), *a piece of cloth* (1x), *in a cloth* (1x), *cloth* (1x), *handkerchiefs* (1x). 
+*a piece of cloth* (1x), *in strips of linen* (1x), *in a cloth* (1x), *cloth* (1x), *handkerchiefs* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -21,9 +21,9 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* in strips of linen (JHN 11:44)
-
 * a piece of cloth (LUK 19:20)
+
+* in strips of linen (JHN 11:44)
 
 * in a cloth (JHN 11:44)
 

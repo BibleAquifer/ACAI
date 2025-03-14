@@ -13,7 +13,7 @@ JER 2:24, DAN 5:21.
 
 
 In the Old Testament (BSB), words representing “Wild Donkey” are translated as 
-*the wild donkeys* (2x), *the swift donkey* (1x), *like a juniper* (1x), *a wild donkey* (2x), *Does a wild donkey* (1x), *of a wild donkey* (1x), *like wild donkeys* (1x), *the wild donkey* (1x), *donkeys and a* (1x), *Wild donkeys* (1x), *like a wild donkey* (1x). 
+*a wild donkey* (2x), *Does a wild donkey* (1x), *of a wild donkey* (1x), *like wild donkeys* (1x), *the wild donkey* (1x), *the swift donkey* (1x), *the wild donkeys* (2x), *donkeys and a* (1x), *Wild donkeys* (1x), *like a juniper* (1x), *like a wild donkey* (1x). 
 
 
 
@@ -23,12 +23,6 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
-
-* the wild donkeys (DAN 5:21; PSA 104:11)
-
-* the swift donkey (JOB 39:5)
-
-* like a juniper (JER 48:6)
 
 * a wild donkey (GEN 16:12; JER 2:24)
 
@@ -40,9 +34,15 @@ Return to [Index](00-Index.md)
 
 * the wild donkey (JOB 39:5)
 
+* the swift donkey (JOB 39:5)
+
+* the wild donkeys (PSA 104:11; DAN 5:21)
+
 * donkeys and a (ISA 32:14)
 
 * Wild donkeys (JER 14:6)
+
+* like a juniper (JER 48:6)
 
 * like a wild donkey (HOS 8:9)
 

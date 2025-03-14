@@ -10,11 +10,11 @@ EXO 25:39, 1KI 10:14, MAT 25:15, REV 16:21.
 
 
 In the Old Testament (BSB), words representing “Talent” are translated as 
-*a talent* (5x), *from a talent* (1x), *talents* (27x), *one talent* (1x), ** (2x), *two talents of* (1x), *two talents* (2x), *and a talent* (2x), *of* (3x), *silver* (2x), *and* (2x). 
+*a talent* (5x), *from a talent* (1x), *talents* (26x), *talents one talent* (1x), ** (2x), *two talents of* (1x), *two talents* (2x), *and a talent* (2x), *of* (3x), *silver* (2x), *and* (2x). 
 
 
 In the New Testament (BSB), words representing “Talent” are translated as 
-*a hundred pounds each* (1x), *talents* (8x), ** (3x), *talent* (3x). 
+*talents* (8x), ** (3x), *talent* (3x), *a hundred pounds each* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -27,9 +27,9 @@ Return to [Index](00-Index.md)
 
 * from a talent (EXO 37:24)
 
-* talents (EXO 38:24; EXO 38:25; EXO 38:27; EXO 38:27; EXO 38:29; 1KI 9:14; 1KI 9:28; 1KI 10:10; 2KI 5:5; 2KI 15:19; 2KI 18:14; 2KI 18:14; 2KI 23:33; 1CH 19:6; 1CH 29:4; 1CH 29:4; 2CH 3:8; 2CH 9:9; 2CH 9:13; 2CH 25:9; 2CH 27:5; 2CH 36:3; EZR 8:26; EZR 8:26; EZR 8:26; EST 3:9; EZR 7:22)
+* talents (EXO 38:24; EXO 38:25; EXO 38:27; EXO 38:29; 1KI 9:14; 1KI 9:28; 1KI 10:10; 2KI 5:5; 2KI 15:19; 2KI 18:14; 2KI 18:14; 2KI 23:33; 1CH 19:6; 1CH 29:4; 1CH 29:4; 2CH 3:8; 2CH 9:9; 2CH 9:13; 2CH 25:9; 2CH 27:5; 2CH 36:3; EZR 7:22; EZR 8:26; EZR 8:26; EZR 8:26; EST 3:9)
 
-* one talent (EXO 38:27)
+* talents one talent (EXO 38:27)
 
 *  (1KI 10:14; 1CH 29:7)
 
@@ -49,13 +49,13 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* a hundred pounds each (REV 16:21)
-
 * talents (MAT 18:24; MAT 25:15; MAT 25:16; MAT 25:20; MAT 25:20; MAT 25:22; MAT 25:22; MAT 25:28)
 
 *  (MAT 25:20; MAT 25:20; MAT 25:22)
 
 * talent (MAT 25:24; MAT 25:25; MAT 25:28)
+
+* a hundred pounds each (REV 16:21)
 
 
 

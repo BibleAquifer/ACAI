@@ -72,9 +72,7 @@ Return to [Index](00-Index.md)
 
 * He lies (JOB 40:21)
 
-* Behemoth is unafraid (JOB 40:23)
-
-* he remains secure (JOB 40:23)
+* Behemoth is unafraid he remains secure (JOB 40:23)
 
 
 

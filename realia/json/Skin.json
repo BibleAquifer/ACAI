@@ -11,7 +11,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Clothing",
   "ubsdgnt": [
     "6.184",
     "6.187"
@@ -37,24 +37,33 @@
   "only_mentioned_in_apocrypha": false,
   "non_biblical": false,
   "lemmas": {
+    "he": [
+      "עוֹר"
+    ],
     "el": [
-      "δέρμα",
-      "μηλωτή"
+      "δέρμα",
+      "μηλωτή"
     ]
   },
   "key_references": [
     "58011037"
   ],
   "references": [
+    "33003003",
     "58011037"
   ],
   "explicit_instances": {
     "SBLGNT": [
       [
-        "n58011037012"
+        "n58011037009"
       ],
       [
-        "n58011037009"
+        "n58011037012"
+      ]
+    ],
+    "wlc": [
+      [
+        "o330030030053"
       ]
     ]
   }

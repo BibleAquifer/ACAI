@@ -14,8 +14,8 @@
       "http://pleiades.stoa.org/places/746815"
     ],
     "tipnr": [
-      "Horeb_Mount|Sinai_Mount@Exo.19.11-Gal",
-      "Sinai_Mount@Exo.19.11-Gal"
+      "Sinai_Mount@Exo.19.11-Gal",
+      "Horeb_Mount|Sinai_Mount@Exo.19.11-Gal"
     ],
     "vizbible": [
       "rec5Yu6987dc60uKz"
@@ -29,10 +29,10 @@
     "eng": {
       "preferred_label": "Mount Sinai",
       "alternate_labels": [
-        "Sina",
-        "Horeb",
         "Sinai",
-        "Mount Horeb"
+        "Sina",
+        "Mount Horeb",
+        "Horeb"
       ],
       "descriptions": [
         {
@@ -114,13 +114,13 @@
   },
   "key_references": [
     "02019016",
-    "48004024",
-    "05005002",
-    "02003001",
     "02024012",
     "02031018",
     "05028069",
-    "05001002"
+    "05001002",
+    "05005002",
+    "48004024",
+    "02003001"
   ],
   "references": [
     "02003001",

@@ -11,7 +11,7 @@ LEV 11:14, DEU 14:13, ISA 34:15.
 
 
 In the Old Testament (BSB), words representing “Black Kite” are translated as 
-*the kite* (1x), *of kite* (1x), *the birds of prey* (1x), *the red kite* (1x). 
+*the kite* (1x), *the red kite* (1x), *of kite* (1x), *the birds of prey* (1x). 
 
 
 
@@ -24,11 +24,11 @@ Return to [Index](00-Index.md)
 
 * the kite (LEV 11:14)
 
+* the red kite (DEU 14:13)
+
 * of kite (DEU 14:13)
 
 * the birds of prey (ISA 34:15)
-
-* the red kite (DEU 14:13)
 
 
 

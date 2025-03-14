@@ -11,7 +11,7 @@ DEU 12:15, PSA 42:2, HAB 3:19.
 
 
 In the Old Testament (BSB), words representing “Deer” are translated as 
-*or deer* (2x), *the deer* (1x), *or a deer* (1x), *deer* (1x), *As the deer* (1x), *stag* (1x), *young stag on* (1x), *on* (1x), *like a deer* (1x), *like deer* (1x), *is a doe* (1x), *like those of a deer* (3x), *doe bear* (1x), ** (1x), *the oaks* (1x), *doe* (1x), *does* (2x), *the doe* (1x). 
+*is a doe* (1x), *or deer* (2x), *the deer* (1x), *or a deer* (1x), *like those of a deer* (3x), *deer* (1x), *doe bear* (1x), ** (1x), *the oaks* (1x), *As the deer* (1x), *doe* (1x), *does* (2x), *stag* (1x), *young stag on* (1x), *on* (1x), *like a deer* (1x), *the doe* (1x), *like deer* (1x). 
 
 
 
@@ -22,15 +22,29 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
+* is a doe (GEN 49:21)
+
 * or deer (DEU 12:15; DEU 12:22)
 
 * the deer (DEU 14:5)
 
 * or a deer (DEU 15:22)
 
+* like those of a deer (2SA 22:34; PSA 18:34; HAB 3:19)
+
 * deer (1KI 5:3)
 
+* doe bear (JOB 39:1)
+
+*  (PSA 22:1)
+
+* the oaks (PSA 29:9)
+
 * As the deer (PSA 42:2)
+
+* doe (PRO 5:19)
+
+* does (SNG 2:7; SNG 3:5)
 
 * stag (SNG 2:9)
 
@@ -40,23 +54,9 @@ Return to [Index](00-Index.md)
 
 * like a deer (ISA 35:6)
 
-* like deer (LAM 1:6)
-
-* is a doe (GEN 49:21)
-
-* like those of a deer (2SA 22:34; PSA 18:34; HAB 3:19)
-
-* doe bear (JOB 39:1)
-
-*  (PSA 22:1)
-
-* the oaks (PSA 29:9)
-
-* doe (PRO 5:19)
-
-* does (SNG 2:7; SNG 3:5)
-
 * the doe (JER 14:5)
+
+* like deer (LAM 1:6)
 
 
 
@@ -78,8 +78,6 @@ Return to [Index](00-Index.md)
 
 ### OT Subject Referents (BSB)
 
-* that find (LAM 1:6)
-
 * set free (GEN 49:21)
 
 * that bears (GEN 49:21)
@@ -93,6 +91,8 @@ Return to [Index](00-Index.md)
 * they deliver (JOB 39:3)
 
 * deserts (JER 14:5)
+
+* that find (LAM 1:6)
 
 
 

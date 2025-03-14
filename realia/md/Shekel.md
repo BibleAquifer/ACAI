@@ -8,7 +8,7 @@ GEN 23:16, EXO 30:13, LEV 27:25, 1SA 17:5.
 
 
 In the Old Testament (BSB), words representing “Shekel” are translated as 
-*shekels* (43x), *shekel* (26x), *which weighs* (1x), *shekel and a* (1x), *a shekel* (1x), ** (1x), *silver* (1x), *to the shekel* (1x), *gerahs* (1x), *The* (1x), *will sell for a shekel* (3x), *sold for a shekel* (2x), *for a shekel* (1x), *from* (1x), *of a shekel* (1x), *of* (1x), *The shekel* (1x), *the shekel* (1x). 
+*shekels* (43x), *shekel* (26x), *which weighs* (1x), *shekel and a* (1x), *a shekel* (1x), ** (1x), *silver* (1x), *to the shekel* (1x), *gerahs* (1x), *The* (1x), *will sell for a shekel* (3x), *sold for a shekel* (2x), *for a shekel* (1x), *from* (1x), *of a shekel* (1x), *of* (1x), *The shekel* (1x), *TEKEL* (2x), *the shekel* (1x). 
 
 
 
@@ -53,6 +53,8 @@ Return to [Index](00-Index.md)
 
 * The shekel (EZK 45:12)
 
+* TEKEL (DAN 5:25; DAN 5:27)
+
 * the shekel (AMO 8:5)
 
 
@@ -83,7 +85,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* GEN 23:15; GEN 23:16; EXO 21:32; EXO 30:13; EXO 30:15; EXO 30:24; EXO 38:24; EXO 38:25; EXO 38:26; EXO 38:29; LEV 5:15; LEV 27:3; LEV 27:4; LEV 27:5; LEV 27:6; LEV 27:7; LEV 27:16; LEV 27:25; NUM 3:47; NUM 3:50; NUM 7:13; NUM 7:19; NUM 7:25; NUM 7:31; NUM 7:37; NUM 7:43; NUM 7:49; NUM 7:55; NUM 7:61; NUM 7:67; NUM 7:73; NUM 7:79; NUM 7:85; NUM 7:86; NUM 18:16; NUM 31:52; JOS 7:21; 1SA 9:8; 1SA 17:5; 1SA 17:7; 2SA 14:26; 2SA 24:24; 2KI 7:1; 2KI 7:16; 2KI 7:18; 2KI 15:20; 1CH 21:25; 2CH 3:9; NEH 5:15; NEH 10:33; JER 32:9; EZK 4:10; EZK 45:12; AMO 8:5
+* GEN 23:15; GEN 23:16; EXO 21:32; EXO 30:13; EXO 30:15; EXO 30:24; EXO 38:24; EXO 38:25; EXO 38:26; EXO 38:29; LEV 5:15; LEV 27:3; LEV 27:4; LEV 27:5; LEV 27:6; LEV 27:7; LEV 27:16; LEV 27:25; NUM 3:47; NUM 3:50; NUM 7:13; NUM 7:19; NUM 7:25; NUM 7:31; NUM 7:37; NUM 7:43; NUM 7:49; NUM 7:55; NUM 7:61; NUM 7:67; NUM 7:73; NUM 7:79; NUM 7:85; NUM 7:86; NUM 18:16; NUM 31:52; JOS 7:21; 1SA 9:8; 1SA 17:5; 1SA 17:7; 2SA 14:26; 2SA 24:24; 2KI 7:1; 2KI 7:16; 2KI 7:18; 2KI 15:20; 1CH 21:25; 2CH 3:9; NEH 5:15; NEH 10:33; JER 32:9; EZK 4:10; EZK 45:12; DAN 5:25; DAN 5:27; AMO 8:5
 
 
 

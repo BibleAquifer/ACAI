@@ -1,0 +1,110 @@
+{
+  "id": "realia:UrimAndThummim",
+  "primary_id": "realia:UrimAndThummim",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:4.9.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Religion",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Urim and Thummim",
+      "descriptions": [
+        {
+          "description": "The appearance of the Urim and Thummim is not described and so is not known.",
+          "source": "acai",
+          "gloss": "Urim and Thummim",
+          "article": "realia:UrimAndThummim"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אוּרִים",
+      "תָּמִים",
+      "תֻּמִּים"
+    ],
+    "el": [
+      "δῆλος",
+      "δήλωσις",
+      "ἀλήθεια"
+    ]
+  },
+  "key_references": [
+    "02028030",
+    "03008008",
+    "09014041"
+  ],
+  "references": [
+    "02028030",
+    "03008008",
+    "04027021",
+    "05033008",
+    "09014041",
+    "09028006",
+    "15002063",
+    "16007065"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020280300062"
+      ],
+      [
+        "o020280300062"
+      ],
+      [
+        "o030080080092"
+      ],
+      [
+        "o030080080092"
+      ],
+      [
+        "o040270210082"
+      ],
+      [
+        "o050330080042"
+      ],
+      [
+        "o050330080042",
+        "o050330080043"
+      ],
+      [
+        "o050330080043"
+      ],
+      [
+        "o090140410081"
+      ],
+      [
+        "o090280060102"
+      ],
+      [
+        "o150020630122"
+      ],
+      [
+        "o150020630122"
+      ],
+      [
+        "o160070650122"
+      ],
+      [
+        "o160070650122"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020280300092"
+      ],
+      [
+        "o020280300092"
+      ]
+    ]
+  }
+}

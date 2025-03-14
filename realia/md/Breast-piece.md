@@ -19,7 +19,7 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* and breastpiece (EXO 25:7; EXO 35:27; EXO 35:9)
+* and breastpiece (EXO 25:7; EXO 35:9; EXO 35:27)
 
 * a breastpiece (EXO 28:4; EXO 28:15)
 
@@ -41,10 +41,6 @@ Return to [Index](00-Index.md)
 
 ### OT Pronominal Referents (BSB)
 
-* edge (EXO 28:26; EXO 39:19)
-
-* The rings (EXO 28:28)
-
 *  (EXO 28:15)
 
 * it (EXO 28:15)
@@ -55,25 +51,25 @@ Return to [Index](00-Index.md)
 
 * on it (EXO 28:17; EXO 39:10)
 
+* edge (EXO 28:26; EXO 39:19)
+
+* The rings (EXO 28:28)
+
 * the rings (EXO 39:21)
 
 
 
 ### OT Subject Referents (BSB)
 
+* It must be square when folded over double (EXO 28:16)
+
 * is (EXO 28:28)
 
-* square (EXO 28:16)
-
-* It must be (EXO 28:16)
-
-* when folded over double (EXO 28:16; EXO 39:9)
-
-* was (EXO 39:21)
-
-* was square (EXO 39:9; EXO 39:9)
+* was square when folded over double (EXO 39:9)
 
 * wide (EXO 39:9)
+
+* was (EXO 39:21)
 
 
 

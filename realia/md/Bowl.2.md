@@ -9,6 +9,8 @@ Other forms include:
 MAT 26:23, REV 16:1, REV 16:17, REV 21:9. 
 
 
+In the Old Testament (BSB), words representing “Bowl” are translated as 
+*bowl* (1x). 
 
 
 In the New Testament (BSB), words representing “Bowl” are translated as 
@@ -18,6 +20,12 @@ In the New Testament (BSB), words representing “Bowl” are translated as
 Return to [Index](00-Index.md)
 
 ## More Information
+
+### OT Instances (BSB)
+
+* bowl (2KI 2:20)
+
+
 
 ### NT Instances (BSB)
 
@@ -37,7 +45,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* MAT 26:23; MRK 14:20; REV 5:8; REV 15:7; REV 16:1; REV 16:2; REV 16:3; REV 16:4; REV 16:8; REV 16:10; REV 16:12; REV 16:17; REV 17:1; REV 21:9
+* 2KI 2:20; MAT 26:23; MRK 14:20; REV 5:8; REV 15:7; REV 16:1; REV 16:2; REV 16:3; REV 16:4; REV 16:8; REV 16:10; REV 16:12; REV 16:17; REV 17:1; REV 21:9
 
 
 

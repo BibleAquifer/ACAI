@@ -11,7 +11,7 @@ DEU 12:15, 1KI 5:3, ISA 13:14.
 
 
 In the Old Testament (BSB), words representing “Gazelle” are translated as 
-*by the gazelles* (2x), *as they would a gazelle* (2x), *a gazelle* (2x), *the gazelle* (1x), *gazelle* (2x), *gazelles* (1x), *as gazelles* (1x), *like a gazelle* (1x), *gazelle or* (2x), *of a gazelle* (2x). 
+*as they would a gazelle* (2x), *a gazelle* (2x), *the gazelle* (1x), *gazelle* (2x), *gazelles* (1x), *as gazelles* (1x), *like a gazelle* (1x), *by the gazelles* (2x), *gazelle or* (2x), *of a gazelle* (2x). 
 
 
 
@@ -21,8 +21,6 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
-
-* by the gazelles (SNG 2:7; SNG 3:5)
 
 * as they would a gazelle (DEU 12:15; DEU 15:22)
 
@@ -37,6 +35,8 @@ Return to [Index](00-Index.md)
 * as gazelles (1CH 12:9)
 
 * like a gazelle (PRO 6:5)
+
+* by the gazelles (SNG 2:7; SNG 3:5)
 
 * gazelle or (SNG 2:17; SNG 8:14)
 

@@ -10,7 +10,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Transportation",
   "ubsdbh": [
     "004466001001000"
   ],
@@ -31,7 +31,8 @@
   "non_biblical": false,
   "lemmas": {
     "he": [
-      "מָשֹׁוט"
+      "מָשׁוֹט",
+      "שַׁיִט"
     ]
   },
   "key_references": [
@@ -39,11 +40,15 @@
     "26027029"
   ],
   "references": [
+    "23033021",
     "26027006",
     "26027029"
   ],
   "explicit_instances": {
     "wlc": [
+      [
+        "o230330210161"
+      ],
       [
         "o260270060041",
         "o260270060042"

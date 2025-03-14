@@ -1,6 +1,6 @@
 # Field of Blood
 **Field of Blood**. 
-red liquid that circulates in the arteries and veins of humans and animals. 
+land under cultivation or used for pasture. 
 Other forms include: 
 *Aceldama*, *Akel Dama*, *Akeldama*, *Blood*, *Field of*, *Field of Blood*, *Hakeldama*, *The field of blood*. 
 Field of Blood is also referred to as: 

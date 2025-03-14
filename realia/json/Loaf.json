@@ -1,0 +1,78 @@
+{
+  "id": "realia:Loaf",
+  "primary_id": "realia:Loaf",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:9.4.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Food and Drink",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Loaf",
+      "descriptions": [
+        {
+          "description": "The loaf was a unit of bread. The normal loaf was round and flat, about the size of a man's hand with fingers spread.",
+          "source": "acai",
+          "gloss": "Loaf",
+          "article": "realia:Loaf"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כִּכָּר",
+      "צְלִיל"
+    ]
+  },
+  "key_references": [
+    "02029023",
+    "07008005",
+    "09002036"
+  ],
+  "references": [
+    "02029023",
+    "07008005",
+    "09002036",
+    "09010003",
+    "13016003",
+    "20006026",
+    "24037021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020290230012"
+      ],
+      [
+        "o070080050061"
+      ],
+      [
+        "o090020360102"
+      ],
+      [
+        "o090100030241"
+      ],
+      [
+        "o130160030091"
+      ],
+      [
+        "o200060260061"
+      ],
+      [
+        "o240370210111"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020290240022"
+      ]
+    ]
+  }
+}

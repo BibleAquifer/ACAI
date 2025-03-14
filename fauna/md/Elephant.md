@@ -9,7 +9,7 @@ JOB 40:15.
 
 
 In the Old Testament (BSB), words representing “Elephant” are translated as 
-*Behemoth* (1x). 
+*of ivory* (4x), *ivory* (4x), *and the ivory* (1x), *Behemoth* (1x), *made of ivory* (1x), *inlaid with ivory* (2x). 
 
 
 
@@ -20,7 +20,17 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
+* of ivory (1KI 10:18; 2CH 9:17; PSA 45:9; AMO 3:15)
+
+* ivory (1KI 10:22; 2CH 9:21; SNG 5:14; EZK 27:15)
+
+* and the ivory (1KI 22:39)
+
 * Behemoth (JOB 40:15)
+
+* made of ivory (SNG 7:5)
+
+* inlaid with ivory (EZK 27:6; AMO 6:4)
 
 
 
@@ -70,15 +80,13 @@ Return to [Index](00-Index.md)
 
 * He lies (JOB 40:21)
 
-* Behemoth is unafraid (JOB 40:23)
-
-* he remains secure (JOB 40:23)
+* Behemoth is unafraid he remains secure (JOB 40:23)
 
 
 
 ### References (Whole Bible)
 
-* JOB 40:15; MRK 16:18
+* 1KI 10:18; 1KI 10:22; 1KI 22:39; 2CH 9:17; 2CH 9:21; JOB 40:15; PSA 45:9; SNG 5:14; SNG 7:5; EZK 27:6; EZK 27:15; AMO 3:15; AMO 6:4; MRK 16:18
 
 
 

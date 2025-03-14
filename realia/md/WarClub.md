@@ -6,9 +6,11 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “War Club” are translated as 
-*the clubs* (2x), *club My* (1x), *of slaughter* (1x), *A club* (1x). 
+*A club* (1x), *club My* (1x), *with a weapon of slaughter* (1x), *the clubs* (1x). 
 
 
+In the New Testament (BSB), words representing “War Club” are translated as 
+*clubs* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -17,13 +19,19 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* the clubs (EZK 39:9; EZK 39:9)
+* A club (JOB 41:21)
 
 * club My (JER 51:20)
 
-* of slaughter (EZK 9:2)
+* with a weapon of slaughter (EZK 9:2)
 
-* A club (JOB 41:21)
+* the clubs (EZK 39:9)
+
+
+
+### NT Instances (BSB)
+
+* clubs (LUK 22:52)
 
 
 
@@ -35,7 +43,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* JOB 41:21; JER 51:20; EZK 9:2; EZK 39:9
+* JOB 41:21; JER 51:20; EZK 9:2; EZK 39:9; LUK 22:52
 
 
 

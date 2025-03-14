@@ -1,17 +1,17 @@
-# Ramah (Postexilic)
-**Ramah (Postexilic)**. 
-A town in the territory of Benjamin, after the exile. 
+# Ramah (of Asher)
+**Ramah (of Asher)**. 
+A town in the territory of Asher. 
 Other forms include: 
 *Ramah*. 
 
 
 
 
-Other information about Ramah (Postexilic):
+Other information about Ramah (of Asher):
 
 
-* May refer to the same location as: 
-[Ramah (of Naphtali)](Ramah.3.md). 
+* Is located within the following region(s): 
+[Territory of Asher](TerritoryOfAsher.md). 
 
 
 **OT Distribution of References**
@@ -21,11 +21,11 @@ Other information about Ramah (Postexilic):
 
 
 
-**Key References for Ramah (Postexilic)**: 
-NEH 11:33. 
+**Key References for Ramah (of Asher)**: 
+JOS 19:29. 
 
 
-In the Old Testament (BSB), words representing “Ramah (Postexilic)” are translated as 
+In the Old Testament (BSB), words representing “Ramah (of Asher)” are translated as 
 *Ramah* (1x). 
 
 

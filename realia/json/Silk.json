@@ -13,7 +13,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Artisans",
   "ubsdbh": [
     "004484001001000"
   ],
@@ -37,7 +37,10 @@
   "non_biblical": false,
   "lemmas": {
     "he": [
-      "מֶשִׁי"
+      "מֶשִׁי"
+    ],
+    "el": [
+      "σιρικόν"
     ]
   },
   "key_references": [
@@ -46,7 +49,8 @@
   ],
   "references": [
     "26016010",
-    "26016013"
+    "26016013",
+    "66018012"
   ],
   "explicit_instances": {
     "wlc": [
@@ -55,6 +59,11 @@
       ],
       [
         "o260160130072"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n66018012015"
       ]
     ]
   }

@@ -1,0 +1,57 @@
+{
+  "id": "realia:Archives",
+  "primary_id": "realia:Archives",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:3.13.8"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Buildings and Structures",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Archives",
+      "alternate_labels": [
+        "Library"
+      ],
+      "descriptions": [
+        {
+          "description": "The library was a place for the storage of official or public documents.",
+          "source": "acai",
+          "gloss": "Archives",
+          "article": "realia:Archives"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "ara": [
+      "בֵ֨ית גְּנַז"
+    ],
+    "el": [
+      "βιβλιοθήκη",
+      "βιβλιοφυλάκιον"
+    ]
+  },
+  "key_references": [
+    "15005017",
+    "15006001"
+  ],
+  "references": [
+    "15005017",
+    "15006001"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150050170081",
+        "o150050170082"
+      ],
+      [
+        "o150060010072"
+      ]
+    ]
+  }
+}

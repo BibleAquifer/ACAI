@@ -15,19 +15,19 @@
         {
           "source": "acai",
           "article": "place:Gilgal.4",
-          "gloss": "Gilgal (near Shechem)",
-          "description": "A location close to Shechem and the Oak of Moreh."
+          "gloss": "Gilgal (near Bethel)",
+          "description": "A location near Bethel associated with Elijah and Elisha."
         }
       ],
-      "preferred_label": "Gilgal (near Shechem)",
+      "preferred_label": "Gilgal (near Bethel)",
       "alternate_labels": [
         "Gilgal"
       ]
     }
   },
   "nearby_places": [
-    "place:Shechem",
-    "place:Moreh"
+    "place:Adummim",
+    "place:Bethel"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -41,6 +41,7 @@
     ]
   },
   "key_references": [
-    "05011030"
+    "12002001",
+    "12004038"
   ]
 }

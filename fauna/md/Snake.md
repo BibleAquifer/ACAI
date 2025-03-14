@@ -13,11 +13,11 @@ GEN 3:1, 1CO 10:9, 2CO 11:3.
 
 
 In the Old Testament (BSB), words representing “Snake” are translated as 
-*Now the serpent* (1x), *the serpent* (4x), *serpent deceived* (1x), *a snake* (2x), *into a snake* (1x), *snakes* (3x), *the snakes* (1x), *snake* (3x), *at* (1x), *serpent* (4x), *of a snake* (2x), *like a snake* (2x), *by a snake* (2x), *the snake* (1x), *of the snake* (1x), *of the serpent* (1x), *among* (1x), ** (1x), *a serpent* (2x), *of serpents* (1x), *and serpent* (1x), *a viper* (1x). 
+*Now the serpent* (1x), *the serpent* (4x), *serpent deceived* (1x), *a snake* (2x), *a viper* (1x), ** (1x), *a serpent* (2x), *into a snake* (1x), *snakes* (3x), *the snakes* (1x), *snake* (3x), *at* (1x), *of serpents* (1x), *serpent* (4x), *of a snake* (2x), *and serpent* (1x), *like a snake* (2x), *by a snake* (2x), *the snake* (1x), *of the snake* (1x), *of the serpent* (1x), *among* (1x). 
 
 
 In the New Testament (BSB), words representing “Snake” are translated as 
-*a snake* (2x), *snakes* (5x), *snake* (1x), *serpent’s* (1x), *the* (1x), *serpent* (3x), *of vipers* (5x), *You snakes* (1x), *reptiles* (4x), *a viper* (1x). 
+*of vipers* (5x), *a snake* (2x), *snakes* (5x), *You snakes* (1x), *snake* (1x), *reptiles* (4x), *a viper* (1x), *serpent’s* (1x), *the* (1x), *serpent* (3x). 
 
 
 Return to [Index](00-Index.md)
@@ -42,6 +42,12 @@ Return to [Index](00-Index.md)
 
 * a snake (GEN 49:17; EXO 4:3)
 
+* a viper (GEN 49:17)
+
+*  (EXO 7:9)
+
+* a serpent (EXO 7:10; EXO 7:12)
+
 * into a snake (EXO 7:15)
 
 * snakes (NUM 21:6; DEU 8:15; PSA 140:4)
@@ -52,9 +58,13 @@ Return to [Index](00-Index.md)
 
 * at (NUM 21:9)
 
+* of serpents (DEU 32:33)
+
 * serpent (JOB 26:13; ISA 27:1; ISA 27:1; JER 46:22)
 
 * of a snake (PSA 58:5; PRO 30:19)
+
+* and serpent (PSA 91:13)
 
 * like a snake (PRO 23:32; MIC 7:17)
 
@@ -68,39 +78,29 @@ Return to [Index](00-Index.md)
 
 * among (JER 8:17)
 
-*  (EXO 7:9)
-
-* a serpent (EXO 7:10; EXO 7:12)
-
-* of serpents (DEU 32:33)
-
-* and serpent (PSA 91:13)
-
-* a viper (GEN 49:17)
-
 
 
 ### NT Instances (BSB)
+
+* of vipers (MAT 3:7; MAT 12:34; MAT 23:33; LUK 3:7; ROM 3:13)
 
 * a snake (MAT 7:10; LUK 11:11)
 
 * snakes (MAT 10:16; MRK 16:18; LUK 10:19; 1CO 10:9; REV 9:19)
 
+* You snakes (MAT 23:33)
+
 * snake (JHN 3:14)
+
+* reptiles (ACT 10:12; ACT 11:6; ROM 1:23; JAS 3:7)
+
+* a viper (ACT 28:3)
 
 * serpent’s (2CO 11:3)
 
 * the (REV 12:9)
 
 * serpent (REV 12:14; REV 12:15; REV 20:2)
-
-* of vipers (MAT 3:7; MAT 12:34; MAT 23:33; LUK 3:7; ROM 3:13)
-
-* You snakes (MAT 23:33)
-
-* reptiles (ACT 10:12; ACT 11:6; ROM 1:23; JAS 3:7)
-
-* a viper (ACT 28:3)
 
 
 
@@ -138,15 +138,15 @@ Return to [Index](00-Index.md)
 
 ### NT Pronominal Referents (BSB)
 
-*  (2CO 11:3)
-
-* his (REV 12:15)
-
 * you (MAT 23:34; MAT 23:35; MAT 23:36)
 
 * your (MAT 23:34)
 
 * everything (ACT 11:10)
+
+*  (2CO 11:3)
+
+* his (REV 12:15)
 
 
 
@@ -178,8 +178,6 @@ Return to [Index](00-Index.md)
 
 ### NT Subject Referents (BSB)
 
-* sweep (REV 12:15)
-
 * will you escape (MAT 23:33)
 
 *  (MAT 23:34)
@@ -195,6 +193,8 @@ Return to [Index](00-Index.md)
 * you murdered (MAT 23:35)
 
 * driven (ACT 28:3)
+
+* sweep (REV 12:15)
 
 
 

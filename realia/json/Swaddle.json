@@ -1,0 +1,74 @@
+{
+  "id": "realia:Swaddle",
+  "primary_id": "realia:Swaddle",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:6.16"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Clothing",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Swaddle",
+      "alternate_labels": [
+        "Cloth for Wrapping a Baby",
+        "Swaddling Cloth"
+      ],
+      "descriptions": [
+        {
+          "description": "The cloth for wrapping a baby was a kind of bandage about the width of a hand and several meters long. This strip of cloth was wrapped around a child from shoulders to feet.",
+          "source": "acai",
+          "gloss": "Swaddle",
+          "article": "realia:Swaddle"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חתל",
+      "חֲתֻלָּה"
+    ],
+    "el": [
+      "σπάργανον",
+      "σπαργανόω"
+    ]
+  },
+  "key_references": [
+    "18038009",
+    "26016004",
+    "42002007",
+    "42002012"
+  ],
+  "references": [
+    "18038009",
+    "26016004",
+    "42002007",
+    "42002012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180380090051",
+        "o180380090052"
+      ],
+      [
+        "o260160040152"
+      ],
+      [
+        "o260160040171"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n42002007009"
+      ],
+      [
+        "n42002012008"
+      ]
+    ]
+  }
+}

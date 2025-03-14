@@ -15,7 +15,7 @@ In the Old Testament (BSB), words representing “Reed” are translated as
 
 
 In the New Testament (BSB), words representing “Reed” are translated as 
-*or straw* (1x), *A reed* (2x), *reed* (1x), *a staff* (1x), *staff* (1x), *a reed* (2x), *with a staff* (1x), *pen* (1x), *a measuring rod* (1x), *rod* (2x). 
+*A reed* (2x), *reed* (1x), *a staff* (1x), *staff* (1x), *a reed* (2x), *with a staff* (1x), *or straw* (1x), *pen* (1x), *a measuring rod* (1x), *rod* (2x). 
 
 
 Return to [Index](00-Index.md)
@@ -62,8 +62,6 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* or straw (1CO 3:12)
-
 * A reed (MAT 11:7; LUK 7:24)
 
 * reed (MAT 12:20)
@@ -75,6 +73,8 @@ Return to [Index](00-Index.md)
 * a reed (MAT 27:48; MRK 15:36)
 
 * with a staff (MRK 15:19)
+
+* or straw (1CO 3:12)
 
 * pen (3JN 1:13)
 

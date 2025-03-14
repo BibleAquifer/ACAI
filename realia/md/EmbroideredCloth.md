@@ -10,7 +10,7 @@ EXO 26:1, EXO 27:16, EZK 27:7.
 
 
 In the Old Testament (BSB), words representing “Embroidered Cloth” are translated as 
-*embroidered* (3x), *an embroidered* (1x), *embroiderers* (1x), *was embroidered* (1x), *and embroiderer* (1x), *embroidered with* (1x), *of embroidered* (2x), *In colorful garments* (1x), *you in embroidered cloth* (1x), *and embroidered cloth* (1x), *your embroidered* (1x), *their embroidered* (1x), *Of embroidered* (1x), *embroidered work* (2x). 
+*embroidered and finely spun* (3x), *and fashion an embroidered* (1x), *embroiderers* (1x), *to the courtyard was embroidered* (1x), *and embroiderer* (1x), *embroidered with* (1x), *of embroidered* (2x), *In colorful garments* (1x), *you in embroidered cloth* (1x), *and embroidered cloth* (1x), *your embroidered* (1x), *their embroidered* (1x), *Of embroidered* (1x), *embroidered work* (2x). 
 
 
 
@@ -21,13 +21,13 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* embroidered (EXO 26:36; EXO 27:16; EXO 36:37)
+* embroidered and finely spun (EXO 26:36; EXO 27:16; EXO 36:37)
 
-* an embroidered (EXO 28:39)
+* and fashion an embroidered (EXO 28:39)
 
 * embroiderers (EXO 35:35)
 
-* was embroidered (EXO 38:18)
+* to the courtyard was embroidered (EXO 38:18)
 
 * and embroiderer (EXO 38:23)
 

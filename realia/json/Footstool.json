@@ -14,7 +14,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Household",
   "ubsdgnt": [
     "6.117"
   ],
@@ -34,8 +34,13 @@
   "only_mentioned_in_apocrypha": false,
   "non_biblical": false,
   "lemmas": {
+    "he": [
+      "הֲדֹם",
+      "רֶגֶל",
+      "כֶּבֶשׁ"
+    ],
     "el": [
-      "ὑποπόδιον"
+      "ὑποπόδιον"
     ]
   },
   "key_references": [
@@ -44,6 +49,7 @@
     "40005035"
   ],
   "references": [
+    "14009018",
     "40005035",
     "42020043",
     "44002035",
@@ -74,6 +80,11 @@
       ],
       [
         "n59002003027"
+      ]
+    ],
+    "wlc": [
+      [
+        "o140090180042"
       ]
     ]
   }

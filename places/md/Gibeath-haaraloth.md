@@ -4,9 +4,9 @@ literally: hill of the foreskins; = hill, located near Jericho; place where Josh
 Other forms include: 
 *Gilgal*, *Hill of the Foreskins*. 
 Gibeath-haaraloth is also referred to as: 
-[Gilgal (of Judah)](Gilgal.2.md). 
+[Gilgal (near Shechem)](Gilgal.2.md). 
 Gibeath-haaraloth is a subentry. The primary entry is 
-[Gilgal (of Judah)](Gilgal.2.md). 
+[Gilgal (near Shechem)](Gilgal.2.md). 
 
 
 

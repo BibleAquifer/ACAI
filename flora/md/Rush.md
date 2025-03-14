@@ -11,7 +11,7 @@ JOB 41:12, ISA 58:5, MRK 11:8.
 
 
 In the Old Testament (BSB), words representing “Rush” are translated as 
-*over burning reeds* (1x), *like a reed* (1x). 
+*over burning reeds* (1x), *and reed* (1x), ** (1x), *like a reed* (1x). 
 
 
 In the New Testament (BSB), words representing “Rush” are translated as 
@@ -26,6 +26,10 @@ Return to [Index](00-Index.md)
 
 * over burning reeds (JOB 41:12)
 
+* and reed (ISA 9:13)
+
+*  (ISA 19:15)
+
 * like a reed (ISA 58:5)
 
 
@@ -38,7 +42,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* JOB 41:12; ISA 58:5; MRK 11:8
+* JOB 41:12; ISA 9:13; ISA 19:15; ISA 58:5; MRK 11:8
 
 
 

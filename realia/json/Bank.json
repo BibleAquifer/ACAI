@@ -1,0 +1,62 @@
+{
+  "id": "realia:Bank",
+  "primary_id": "realia:Bank",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:1.6.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Commerce",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bank",
+      "alternate_labels": [
+        "Table"
+      ],
+      "descriptions": [
+        {
+          "description": "A small table was used by people for conducting money transactions. This was most likely a table at which someone could sit, not a low table where people reclined to eat.",
+          "source": "acai",
+          "gloss": "Bank",
+          "article": "realia:Bank"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "τράπεζα"
+    ]
+  },
+  "key_references": [
+    "40021012",
+    "41011015",
+    "42019023",
+    "43002015"
+  ],
+  "references": [
+    "40021012",
+    "41011015",
+    "42019023",
+    "43002015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40021012019"
+      ],
+      [
+        "n41011015022"
+      ],
+      [
+        "n42019023010"
+      ],
+      [
+        "n43002015025"
+      ]
+    ]
+  }
+}
