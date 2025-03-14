@@ -11,7 +11,7 @@ JDG 9:15, 1KI 5:13, ZEC 11:1.
 
 
 In the Old Testament (BSB), words representing “Cedar” are translated as 
-*cedar* (11x), *together with the cedar* (1x), *the cedar* (7x), *like cedars* (1x), *the cedars* (6x), *along with cedar* (2x), *of cedar* (9x), *that cedars* (1x), *regarding the cedar* (1x), *with cedar* (6x), *The cedar* (1x), *was cedar* (1x), *of trimmed cedar* (2x), *and cedar beams* (1x), *a cedar* (4x), *the* (2x), *to* (1x), *cedars* (3x), *like a cedar* (1x), *are cedars* (1x), *as the cedars* (1x), *with cedars* (1x), *and cedars* (1x), *or* (1x), *of your cedars* (1x), *in cedar* (1x), *in the cedars* (1x), *of the cedar* (1x), *cedar from* (1x), *The cedars* (1x), *your cedars* (1x), *with beams* (1x), *boards* (1x), *tallest cedars* (1x), *native tree* (1x). 
+*cedar* (11x), *together with the cedar* (1x), *the cedar* (7x), *like cedars* (1x), *the cedars* (6x), *along with cedar* (2x), *of cedar* (8x), *that cedars* (1x), *regarding the cedar* (1x), *with beams of cedar* (1x), *with cedar* (5x), *with cedar boards* (1x), *The cedar* (1x), *was cedar* (1x), *of trimmed cedar* (2x), *and cedar beams* (1x), *a cedar* (4x), *tallest cedars the* (1x), *to* (1x), *native tree* (1x), *cedars* (3x), *like a cedar* (1x), *are cedars* (1x), *as the cedars* (1x), *with cedars* (1x), *and cedars* (1x), *the* (1x), *or* (1x), *of your cedars* (1x), *in cedar* (1x), *in the cedars* (1x), *of the cedar* (1x), *cedar from* (1x), *The cedars* (1x), *your cedars* (1x). 
 
 
 
@@ -34,13 +34,17 @@ Return to [Index](00-Index.md)
 
 * along with cedar (2SA 5:11; 1CH 14:1)
 
-* of cedar (2SA 7:2; 2SA 7:7; 1KI 6:9; 1KI 6:10; 1KI 6:20; 1KI 7:2; 1CH 17:1; 1CH 17:6; SNG 8:9)
+* of cedar (2SA 7:2; 2SA 7:7; 1KI 6:9; 1KI 6:20; 1KI 7:2; 1CH 17:1; 1CH 17:6; SNG 8:9)
 
 * that cedars (1KI 5:20)
 
 * regarding the cedar (1KI 5:22)
 
-* with cedar (1KI 6:15; 1KI 6:16; 1KI 7:3; 1KI 7:7; 1KI 9:11; JER 22:14)
+* with beams of cedar (1KI 6:10)
+
+* with cedar (1KI 6:15; 1KI 7:3; 1KI 7:7; 1KI 9:11; JER 22:14)
+
+* with cedar boards (1KI 6:16)
 
 * The cedar (1KI 6:18)
 
@@ -52,9 +56,11 @@ Return to [Index](00-Index.md)
 
 * a cedar (2KI 14:9; 2CH 25:18; JOB 40:17; EZK 31:3)
 
-* the (2KI 19:23; ISA 37:24)
+* tallest cedars the (2KI 19:23)
 
 * to (2CH 2:2)
+
+* native tree (PSA 37:35)
 
 * cedars (PSA 80:11; PSA 148:9; ISA 41:19)
 
@@ -67,6 +73,8 @@ Return to [Index](00-Index.md)
 * with cedars (ISA 9:9)
 
 * and cedars (ISA 14:8)
+
+* the (ISA 37:24)
 
 * or (ISA 44:14)
 
@@ -83,14 +91,6 @@ Return to [Index](00-Index.md)
 * The cedars (EZK 31:8)
 
 * your cedars (ZEC 11:1)
-
-* with beams (1KI 6:10)
-
-* boards (1KI 6:16)
-
-* tallest cedars (2KI 19:23)
-
-* native tree (PSA 37:35)
 
 
 

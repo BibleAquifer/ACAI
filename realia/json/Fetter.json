@@ -10,7 +10,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Buildings and Structures",
   "ubsdgnt": [
     "6.17"
   ],
@@ -25,8 +25,13 @@
   "only_mentioned_in_apocrypha": false,
   "non_biblical": false,
   "lemmas": {
+    "he": [
+      "כֶּבֶל",
+      "נְחֹשֶׁת"
+    ],
     "el": [
-      "πέδη"
+      "πέδη",
+      "χειροπέδη"
     ]
   },
   "key_references": [
@@ -34,6 +39,7 @@
     "42008029"
   ],
   "references": [
+    "25003007",
     "41005004",
     "42008029"
   ],
@@ -47,6 +53,11 @@
       ],
       [
         "n42008029020"
+      ]
+    ],
+    "wlc": [
+      [
+        "o250030070062"
       ]
     ]
   }

@@ -21,15 +21,15 @@
     "eng": {
       "preferred_label": "Chaldea",
       "alternate_labels": [
-        "Chaldees",
-        "Babylon",
-        "Babylonians",
         "Chaldeans",
+        "Chaldees",
         "Babylonia",
-        "Chaldaeans",
-        "astrologers",
+        "Babylonian",
         "Chaldean",
-        "Babylonian"
+        "Babylon",
+        "Chaldaeans",
+        "Babylonians",
+        "astrologers"
       ],
       "descriptions": [
         {
@@ -72,10 +72,10 @@
     }
   },
   "referred_to_as": [
-    "place:Babylonia",
+    "place:Leb-kamai",
     "group:Astrologer",
     "group:Chaldea",
-    "place:Leb-kamai"
+    "place:Babylonia"
   ],
   "subregion_of": [
     "place:Mesopotamia"
@@ -95,8 +95,8 @@
     ]
   },
   "key_references": [
-    "01011031",
-    "24051024"
+    "24051024",
+    "01011031"
   ],
   "references": [
     "01011028",

@@ -58,7 +58,7 @@ Return to [Index](00-Index.md)
 
 * VizBible: City
 
-* ACAI: city, region
+* ACAI: region, city
 
 
 

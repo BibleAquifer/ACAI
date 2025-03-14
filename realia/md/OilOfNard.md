@@ -9,6 +9,8 @@ Other forms include:
 MRK 14:3, JHN 12:3. 
 
 
+In the Old Testament (BSB), words representing “Oil of Nard” are translated as 
+*with nard* (1x). 
 
 
 In the New Testament (BSB), words representing “Oil of Nard” are translated as 
@@ -19,6 +21,12 @@ Return to [Index](00-Index.md)
 
 ## More Information
 
+### OT Instances (BSB)
+
+* with nard (SNG 4:14)
+
+
+
 ### NT Instances (BSB)
 
 * nard (MRK 14:3; JHN 12:3)
@@ -27,7 +35,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* MRK 14:3; JHN 12:3
+* SNG 4:14; MRK 14:3; JHN 12:3
 
 
 

@@ -1,0 +1,61 @@
+{
+  "id": "realia:Ring",
+  "primary_id": "realia:Ring",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:3.15.2.3.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Buildings and Structures",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ring",
+      "descriptions": [
+        {
+          "description": "The frame walls of the Tabernacle were held together by a system of horizontal poles that were placed through rings attached to the individual frames. These rings were made of gold.",
+          "source": "acai",
+          "gloss": "Ring",
+          "article": "realia:Ring"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "טַבַּעַת"
+    ]
+  },
+  "key_references": [
+    "02026024",
+    "02026029",
+    "02036029",
+    "02036034"
+  ],
+  "references": [
+    "02026024",
+    "02026029",
+    "02036029",
+    "02036034"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020260240102"
+      ],
+      [
+        "o020260290061",
+        "o020260290062"
+      ],
+      [
+        "o020360290102"
+      ],
+      [
+        "o020360340061",
+        "o020360340062"
+      ]
+    ]
+  }
+}

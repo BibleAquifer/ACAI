@@ -4,7 +4,7 @@ A town in the wilderness of Zin, in the northern part of the Sinai Peninsula, wh
 Other forms include: 
 *En-Mishpat*, *Kadesh*, *Kedesh*, *Meribah-Kadesh*, *Meribath-kadesh*, *Waters of Meribah-kadesh*. 
 Kadesh-barnea is also referred to as: 
-[En-mishpat](En-mishpat.md), [Kedesh (of Judah)](Kedesh.2.md). 
+[En-mishpat](En-mishpat.md), [Kedesh (of Issachar)](Kedesh.2.md). 
 
 
 

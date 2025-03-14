@@ -1,0 +1,44 @@
+{
+  "id": "realia:Sistrum",
+  "primary_id": "realia:Sistrum",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:7.4.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Music",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sistrum",
+      "descriptions": [
+        {
+          "description": "The sistrum consisted of a frame carrying short wires on which small metal rings were threaded.",
+          "source": "acai",
+          "gloss": "Sistrum",
+          "article": "realia:Sistrum"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שָׁלִישׁ"
+    ]
+  },
+  "key_references": [
+    "09018006"
+  ],
+  "references": [
+    "09018006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090180060213"
+      ]
+    ]
+  }
+}

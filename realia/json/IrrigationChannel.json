@@ -1,0 +1,63 @@
+{
+  "id": "realia:IrrigationChannel",
+  "primary_id": "realia:IrrigationChannel",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:1.1.12"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Agriculture and Farming",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Irrigation Channel",
+      "alternate_labels": [
+        "Canal"
+      ],
+      "descriptions": [
+        {
+          "description": "The irrigation canal was a small channel cut into the rock or dug into the ground to transfer water from a larger source such as a river into a cultivated plot of ground.",
+          "source": "acai",
+          "gloss": "Irrigation Channel",
+          "article": "realia:IrrigationChannel"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְאֹר",
+      "נָהָר"
+    ],
+    "el": [
+      "διῶρυξ",
+      "ὑδραγωγός"
+    ]
+  },
+  "key_references": [
+    "02007019",
+    "02008001",
+    "23019006"
+  ],
+  "references": [
+    "02007019",
+    "02008001",
+    "23019006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020070190181",
+        "o020070190182"
+      ],
+      [
+        "o020080010152"
+      ],
+      [
+        "o230190060021"
+      ]
+    ]
+  }
+}

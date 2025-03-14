@@ -11,7 +11,7 @@ DEU 32:32, 2KI 4:39.
 
 
 In the Old Testament (BSB), words representing “Colocynth” are translated as 
-*gourds* (1x), *from the vine* (1x). 
+*from the vine of Sodom* (1x), *as many wild gourds* (1x). 
 
 
 
@@ -22,9 +22,9 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* gourds (2KI 4:39)
+* from the vine of Sodom (DEU 32:32)
 
-* from the vine (DEU 32:32)
+* as many wild gourds (2KI 4:39)
 
 
 

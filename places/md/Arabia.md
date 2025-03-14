@@ -127,7 +127,7 @@ Return to [Index](00-Index.md)
 
 * VizBible: Region
 
-* ACAI: peninsula, region
+* ACAI: region, peninsula
 
 
 

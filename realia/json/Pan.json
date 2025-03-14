@@ -1,0 +1,106 @@
+{
+  "id": "realia:Pan",
+  "primary_id": "realia:Pan",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:4.4.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Religion",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pan",
+      "alternate_labels": [
+        "Pail",
+        "Pot"
+      ],
+      "descriptions": [
+        {
+          "description": "The pot was a bronze container used to collect the ashes and animal remains that were on the altar after the sacrificial victim had been burned. The same implement could serve, in another context, as a simple, fairly large cooking pot.",
+          "source": "acai",
+          "gloss": "Pan",
+          "article": "realia:Pan"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סִיר"
+    ]
+  },
+  "key_references": [
+    "02027003",
+    "14004011",
+    "24052018"
+  ],
+  "references": [
+    "02027003",
+    "02038003",
+    "11007045",
+    "12025014",
+    "14004011",
+    "14004016",
+    "24052018",
+    "24052019",
+    "38014020",
+    "38014021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020270030021",
+        "o020270030022"
+      ],
+      [
+        "o020380030072"
+      ],
+      [
+        "o110070450022"
+      ],
+      [
+        "o120250140022"
+      ],
+      [
+        "o140040110042"
+      ],
+      [
+        "o140040160022"
+      ],
+      [
+        "o240520180022"
+      ],
+      [
+        "o240520190082"
+      ],
+      [
+        "o380140200102"
+      ],
+      [
+        "o380140210031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140040160092"
+      ],
+      [
+        "o140040170032"
+      ],
+      [
+        "o140040180052"
+      ],
+      [
+        "o380140210132"
+      ],
+      [
+        "o380140210152"
+      ]
+    ]
+  }
+}

@@ -13,6 +13,8 @@ In the Old Testament (BSB), words representing “Silk” are translated as
 *you with silk* (1x), *silk* (1x). 
 
 
+In the New Testament (BSB), words representing “Silk” are translated as 
+*silk* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -27,9 +29,15 @@ Return to [Index](00-Index.md)
 
 
 
+### NT Instances (BSB)
+
+* silk (REV 18:12)
+
+
+
 ### References (Whole Bible)
 
-* EZK 16:10; EZK 16:13
+* EZK 16:10; EZK 16:13; REV 18:12
 
 
 

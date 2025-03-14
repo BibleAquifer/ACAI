@@ -9,7 +9,7 @@ EXO 30:23, MAT 2:11, MRK 15:23.
 
 
 In the Old Testament (BSB), words representing “Myrrh” are translated as 
-*half* (1x), *myrrh for* (1x), *with myrrh* (5x), *of myrrh* (1x), *myrrh and* (1x), *my myrrh* (1x), *myrrh* (2x). 
+*liquid myrrh half* (1x), *myrrh for* (1x), *with myrrh* (5x), *of myrrh* (1x), *myrrh and* (1x), *my myrrh* (1x), *myrrh* (2x). 
 
 
 In the New Testament (BSB), words representing “Myrrh” are translated as 
@@ -22,7 +22,7 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* half (EXO 30:23)
+* liquid myrrh half (EXO 30:23)
 
 * myrrh for (EST 2:12)
 

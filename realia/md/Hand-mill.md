@@ -6,11 +6,11 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Hand-Mill” are translated as 
-*at millstones* (1x), *an upper* (1x), *an upper millstone* (2x), *millstone* (2x), *the hand mill* (1x), *on a handmill* (1x), *take a pair of millstones* (1x), *millstones* (1x), *of the millstones* (1x), *or even an upper millstone* (1x). 
+*the hand mill* (1x), *on a handmill* (1x), *take a pair of millstones* (1x), *or even an upper millstone* (1x), *an upper millstone* (2x), *millstone* (1x), *millstones* (1x), *of the millstones* (1x), *at millstones* (1x). 
 
 
 In the New Testament (BSB), words representing “Hand-Mill” are translated as 
-*a millstone* (1x), *mill* (1x), *of a millstone* (1x), *millstone* (2x). 
+*millstone* (3x), *mill* (1x), *a millstone* (1x), *of a millstone* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -19,43 +19,41 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* at millstones (LAM 5:13)
-
-* an upper (JDG 9:53)
-
-* an upper millstone (2SA 11:21; 2SA 11:21)
-
-* millstone (JOB 41:16; JDG 9:53)
-
 * the hand mill (EXO 11:5)
 
 * on a handmill (NUM 11:8)
 
 * take a pair of millstones (DEU 24:6)
 
+* or even an upper millstone (DEU 24:6)
+
+* an upper millstone (JDG 9:53; 2SA 11:21)
+
+* millstone (JOB 41:16)
+
 * millstones (ISA 47:2)
 
 * of the millstones (JER 25:10)
 
-* or even an upper millstone (DEU 24:6)
+* at millstones (LAM 5:13)
 
 
 
 ### NT Instances (BSB)
 
-* a millstone (LUK 17:2)
+* millstone (MAT 18:6; MRK 9:42; REV 18:21)
 
 * mill (MAT 24:41)
 
-* of a millstone (REV 18:22)
+* a millstone (LUK 17:2)
 
-* millstone (MAT 18:6; MRK 9:42)
+* of a millstone (REV 18:22)
 
 
 
 ### References (Whole Bible)
 
-* EXO 11:5; NUM 11:8; DEU 24:6; JDG 9:53; 2SA 11:21; JOB 41:16; ISA 47:2; JER 25:10; LAM 5:13; MAT 18:6; MAT 24:41; MRK 9:42; LUK 17:2; REV 18:22
+* EXO 11:5; NUM 11:8; DEU 24:6; JDG 9:53; 2SA 11:21; JOB 41:16; ISA 47:2; JER 25:10; LAM 5:13; MAT 18:6; MAT 24:41; MRK 9:42; LUK 17:2; REV 18:21; REV 18:22
 
 
 

@@ -1,21 +1,19 @@
-# Gilgal (of Judah)
-**Gilgal (of Judah)**. 
-A location near the northern boundary of the territory of Judah; also known as Geliloth. 
+# Gilgal (near Shechem)
+**Gilgal (near Shechem)**. 
+A location close to Shechem and the Oak of Moreh. 
 Other forms include: 
 *Beth-Gilgal*, *Geliloth*, *Gibeath-Haaraloth*, *Gilgal*, *hill of the foreskins*, *house of Gilgal*. 
-Gilgal (of Judah) is also referred to as: 
-[Beth-gilgal](Beth-gilgal.md), [Geliloth](Geliloth.md), [Gibeath-haaraloth](Gibeath-haaraloth.md), [Gilgal (of Judah)](Gilgal.2.md). 
+Gilgal (near Shechem) is also referred to as: 
+[Beth-gilgal](Beth-gilgal.md), [Geliloth](Geliloth.md), [Gibeath-haaraloth](Gibeath-haaraloth.md), [Gilgal (near Shechem)](Gilgal.2.md). 
 
 
 
 
-Other information about Gilgal (of Judah):
+Other information about Gilgal (near Shechem):
 
 
-* May refer to the same location as: 
-[Geliloth](Geliloth.md). 
-* Is located within the following region(s): 
-[Territory of Judah](TerritoryOfJudah.md). 
+* Is located near the following area(s): 
+[Shechem](Shechem.md), [Oak of Moreh](Moreh.md). 
 
 
 **OT Distribution of References**
@@ -25,11 +23,11 @@ Other information about Gilgal (of Judah):
 
 
 
-**Key References for Gilgal (of Judah)**: 
-JOS 15:7. 
+**Key References for Gilgal (near Shechem)**: 
+DEU 11:30. 
 
 
-In the Old Testament (BSB), words representing “Gilgal (of Judah)” are translated as 
+In the Old Testament (BSB), words representing “Gilgal (near Shechem)” are translated as 
 *Gilgal* (11x), *at Gilgal* (11x), *there at Gilgal* (1x), ** (2x), *Geliloth* (1x), *to Gilgal* (10x), *the LORD* (1x), *from Beth-gilgal* (1x), *appears at Gilgal* (1x), *in Gilgal* (1x), *Gilgal Bring* (1x). 
 
 

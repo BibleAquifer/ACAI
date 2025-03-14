@@ -1,0 +1,48 @@
+{
+  "id": "realia:TempleKitchen",
+  "primary_id": "realia:TempleKitchen",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:3.14.1.3"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Buildings and Structures",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Temple Kitchen",
+      "alternate_labels": [
+        "Rooms for Boiling Meat From Sacrifices"
+      ],
+      "descriptions": [
+        {
+          "description": "In Ezekiel's description of the Temple, special rooms were designated at the four corners of the outer court for boiling the meat from the sacrifices.",
+          "source": "acai",
+          "gloss": "Temple Kitchen",
+          "article": "realia:TempleKitchen"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בַּיִת",
+      "בשׁל"
+    ]
+  },
+  "key_references": [
+    "26046024"
+  ],
+  "references": [
+    "26046024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260460240041"
+      ]
+    ]
+  }
+}

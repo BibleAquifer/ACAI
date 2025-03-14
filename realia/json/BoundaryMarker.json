@@ -1,0 +1,67 @@
+{
+  "id": "realia:BoundaryMarker",
+  "primary_id": "realia:BoundaryMarker",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:3.7"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Buildings and Structures",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Boundary Marker",
+      "descriptions": [
+        {
+          "description": "Boundary markers were stones placed at the edges of property to show where one man's field ended and another man's field began.",
+          "source": "acai",
+          "gloss": "Boundary Marker",
+          "article": "realia:BoundaryMarker"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גְּבוּל",
+      "גְּבוּלָה"
+    ]
+  },
+  "key_references": [
+    "05019014",
+    "18024002",
+    "20022028"
+  ],
+  "references": [
+    "05019014",
+    "05027017",
+    "18024002",
+    "20022028",
+    "20023010",
+    "28005010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050190140031"
+      ],
+      [
+        "o050270170031"
+      ],
+      [
+        "o180240020011"
+      ],
+      [
+        "o200220280031"
+      ],
+      [
+        "o200230100031"
+      ],
+      [
+        "o280050100051"
+      ]
+    ]
+  }
+}

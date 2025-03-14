@@ -11,7 +11,7 @@ GEN 27:9, EXO 23:19, LUK 15:29.
 
 
 In the Old Testament (BSB), words representing “Kid” are translated as 
-*young goats* (2x), *of the young* (1x), *a young goat* (8x), *the young goat* (1x), *goat but* (1x), *took* (1x), *young goat* (1x), *the goat* (1x), *goats near the* (1x). 
+*young goats* (2x), *of the young* (1x), *a young goat* (8x), *the young goat* (1x), *goat but* (1x), *took* (1x), *young goat* (1x), *goats near the* (1x), *the goat* (1x). 
 
 
 In the New Testament (BSB), words representing “Kid” are translated as 
@@ -38,15 +38,15 @@ Return to [Index](00-Index.md)
 
 * young goat (1SA 16:20)
 
-* the goat (ISA 11:6)
-
 * goats near the (SNG 1:8)
+
+* the goat (ISA 11:6)
 
 
 
 ### NT Instances (BSB)
 
-* goats (MAT 25:33; MAT 25:32)
+* goats (MAT 25:32; MAT 25:33)
 
 * even a young goat (LUK 15:29)
 

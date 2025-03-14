@@ -10,11 +10,11 @@ GEN 18:9, EXO 33:7, NUM 24:5, 2CO 5:1.
 
 
 In the Old Testament (BSB), words representing “Tent” are translated as 
-*in tents* (4x), *his tent* (11x), *and tents* (1x), *of his tent* (2x), *into the tent* (2x), *in the tent* (2x), *to the tent* (8x), *her into the tent* (1x), *at home* (1x), *tent* (8x), *and then the tents* (1x), *for the tent* (4x), *of the tent* (3x), *the tent* (19x), *And the tent* (1x), *to their own tents* (1x), ** (1x), *to his own tent* (1x), *with its tent* (1x), *to join the tent* (1x), *over the tent* (1x), *to the Tent* (2x), *the Tent* (2x), *to their tents* (2x), *they prophesied in* (1x), *the tents* (3x), *of the Tent* (2x), *the Tent but* (1x), *in a tent* (1x), *already in the tent* (1x), *your tents* (2x), *in your tents* (1x), *tents* (2x), *their tents* (4x), *at the tent* (1x), *broke camp* (1x), *my tent* (2x), *in his tent* (1x), *her tent* (1x), *a tent* (3x), *of tent-dwelling* (1x), *and their tents* (1x), *tent so* (1x), *tent overturned* (1x), *by way of the caravan* (1x), *in his own tent* (1x), *with a tent* (1x), *the tabernacle* (1x), *its* (2x), *tents were intact* (1x), *in their dwellings* (1x), *the dwellings of the Hagrites* (1x), *Tent* (1x), *from tent* (1x), *tent for* (1x), *in their tents* (3x), *resound in the tents* (1x), *like the tents* (1x), *like a tent* (1x), *of your tent* (1x), *My tent* (1x), *on the tent* (1x). 
+*in tents* (5x), *his tent* (11x), *in the tents* (1x), *and tents* (1x), *and pitched his tent* (1x), *moved his tent* (1x), *of his tent* (2x), *into the tent* (2x), *in the tent* (2x), *to the tent* (8x), *her into the tent* (1x), *at home* (1x), *tent* (8x), *and then the tents* (1x), *for the tent* (4x), *of the tent* (3x), *the tent* (19x), *And the tent* (1x), *to their own tents* (1x), ** (1x), *to his own tent* (1x), *with its tent* (1x), *to join the tent* (1x), *over the tent* (1x), *to the Tent* (2x), *the Tent* (2x), *to their tents* (2x), *they prophesied in* (1x), *the tents* (3x), *of the Tent* (2x), *the Tent but* (1x), *in a tent* (1x), *already in the tent* (1x), *your tents* (2x), *your dwellings* (1x), *in your tents* (1x), *tents* (2x), *their tents* (4x), *at the tent* (1x), *broke camp* (1x), *my tent* (2x), *in his tent* (1x), *her tent* (1x), *a tent* (3x), *of tent-dwelling* (1x), *and their tents* (1x), *tent so* (1x), *tent overturned* (1x), *by way of the caravan* (1x), *in his own tent* (1x), *with a tent* (1x), *the tabernacle* (1x), *its* (2x), *in their tents* (4x), *were in their tents* (1x), *tents were intact* (1x), *in their dwellings* (1x), *the dwellings of the Hagrites* (1x), *Tent* (1x), *from tent* (1x), *tent for* (1x), *their dwellings* (1x), *resound in the tents* (1x), *like the tents* (1x), *of the* (1x), *will pitch his tent* (1x), *like a tent* (1x), *of your tent* (1x), *of your dwellings* (1x), *My tent* (1x), *his dwellings And* (1x), *on the tent* (1x), *tents among* (1x). 
 
 
 In the New Testament (BSB), words representing “Tent” are translated as 
-*shelters* (3x), *dwellings* (1x), *tabernacle* (1x), *tents* (1x), *tentmakers* (1x), *tent* (2x), *tent of my body* (1x), *this tent* (1x). 
+*shelters* (3x), *dwellings* (1x), *tabernacle* (1x), *tentmakers* (1x), *tent* (2x), *tents* (1x), *tent of my body* (1x), *this tent* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -23,11 +23,17 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* in tents (GEN 4:20; JER 35:7; JER 35:10; HOS 12:10)
+* in tents (GEN 4:20; 2SA 11:11; JER 35:7; JER 35:10; HOS 12:10)
 
-* his tent (GEN 9:21; GEN 12:8; GEN 13:3; GEN 26:25; GEN 31:25; GEN 33:19; GEN 35:21; LEV 14:8; JOS 7:24; JDG 4:11; NUM 25:8)
+* his tent (GEN 9:21; GEN 12:8; GEN 13:3; GEN 26:25; GEN 31:25; GEN 33:19; GEN 35:21; LEV 14:8; NUM 25:8; JOS 7:24; JDG 4:11)
+
+* in the tents (GEN 9:27)
 
 * and tents (GEN 13:5)
+
+* and pitched his tent (GEN 13:12)
+
+* moved his tent (GEN 13:18)
 
 * of his tent (GEN 18:1; GEN 18:2)
 
@@ -85,6 +91,8 @@ Return to [Index](00-Index.md)
 
 * your tents (NUM 24:5; DEU 16:7)
 
+* your dwellings (NUM 24:5)
+
 * in your tents (DEU 1:27)
 
 * tents (DEU 5:30; DAN 11:45)
@@ -121,6 +129,10 @@ Return to [Index](00-Index.md)
 
 * its (1KI 8:4; 2CH 5:5)
 
+* in their tents (1KI 20:12; PSA 69:26; PSA 106:25; JER 37:10)
+
+* were in their tents (1KI 20:16)
+
 * tents were intact (2KI 7:10)
 
 * in their dwellings (1CH 4:41)
@@ -133,19 +145,29 @@ Return to [Index](00-Index.md)
 
 * tent for (2CH 1:4)
 
-* in their tents (PSA 69:26; PSA 106:25; JER 37:10)
+* their dwellings (PSA 78:28)
 
 * resound in the tents (PSA 118:15)
 
 * like the tents (SNG 1:5)
 
+* of the (SNG 1:8)
+
+* will pitch his tent (ISA 13:20)
+
 * like a tent (ISA 40:22)
 
 * of your tent (ISA 54:2)
 
+* of your dwellings (ISA 54:2)
+
 * My tent (JER 10:20)
 
+* his dwellings And (JER 30:18)
+
 * on the tent (LAM 2:4)
+
+* tents among (EZK 25:4)
 
 
 
@@ -157,11 +179,11 @@ Return to [Index](00-Index.md)
 
 * tabernacle (ACT 7:43)
 
-* tents (HEB 11:9)
-
 * tentmakers (ACT 18:3)
 
 * tent (2CO 5:1; 2CO 5:4)
+
+* tents (HEB 11:9)
 
 * tent of my body (2PE 1:13)
 
@@ -255,9 +277,7 @@ Return to [Index](00-Index.md)
 
 * under our burdens (2CO 5:4)
 
-* we do not wish (2CO 5:4)
-
-* to be unclothed (2CO 5:4)
+* we do not wish to be unclothed (2CO 5:4)
 
 * clothed (2CO 5:4)
 
@@ -373,9 +393,7 @@ Return to [Index](00-Index.md)
 
 * we take captive (2CO 10:5)
 
-* will be (2CO 10:6)
-
-* to punish (2CO 10:6)
+* will be to punish (2CO 10:6)
 
 * we are (2CO 10:11)
 
@@ -383,9 +401,7 @@ Return to [Index](00-Index.md)
 
 * when present (2CO 10:11)
 
-* We do not dare (2CO 10:12)
-
-* to classify (2CO 10:12)
+* We do not dare to classify (2CO 10:12)
 
 * compare (2CO 10:12)
 
@@ -431,7 +447,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* GEN 4:20; GEN 9:21; GEN 12:8; GEN 13:3; GEN 13:5; GEN 18:1; GEN 18:2; GEN 18:6; GEN 18:9; GEN 18:10; GEN 24:67; GEN 25:27; GEN 26:25; GEN 31:25; GEN 31:33; GEN 31:34; GEN 33:19; GEN 35:21; EXO 18:7; EXO 26:7; EXO 26:9; EXO 26:11; EXO 26:12; EXO 26:13; EXO 26:14; EXO 26:36; EXO 31:7; EXO 33:7; EXO 33:8; EXO 33:9; EXO 33:10; EXO 33:11; EXO 35:11; EXO 36:14; EXO 36:18; EXO 36:19; EXO 36:37; EXO 39:33; EXO 39:38; EXO 40:19; LEV 14:8; NUM 3:25; NUM 9:17; NUM 11:10; NUM 11:24; NUM 11:26; NUM 12:5; NUM 12:10; NUM 16:26; NUM 16:27; NUM 18:3; NUM 18:4; NUM 19:14; NUM 19:18; NUM 24:5; NUM 25:8; DEU 1:27; DEU 5:30; DEU 11:6; DEU 16:7; DEU 31:15; JOS 3:14; JOS 7:21; JOS 7:22; JOS 7:23; JOS 7:24; JDG 4:11; JDG 4:17; JDG 4:18; JDG 4:20; JDG 4:21; JDG 5:24; JDG 6:5; JDG 7:13; JDG 8:11; 1SA 17:54; 2SA 6:17; 2SA 7:6; 2SA 16:22; 1KI 1:39; 1KI 2:28; 1KI 2:29; 1KI 2:30; 1KI 8:4; 2KI 7:7; 2KI 7:8; 2KI 7:10; 1CH 4:41; 1CH 5:10; 1CH 9:19; 1CH 9:23; 1CH 15:1; 1CH 16:1; 1CH 17:5; 2CH 1:4; 2CH 5:5; 2CH 14:14; PSA 69:26; PSA 78:60; PSA 106:25; PSA 118:15; SNG 1:5; ISA 38:12; ISA 40:22; ISA 54:2; JER 6:3; JER 10:20; JER 35:7; JER 35:10; JER 37:10; JER 49:29; LAM 2:4; DAN 11:45; HOS 12:10; HAB 3:7; MAT 17:4; MRK 9:5; LUK 9:33; LUK 16:9; ACT 7:43; ACT 18:3; 2CO 5:1; 2CO 5:4; HEB 11:9; 2PE 1:13; 2PE 1:14
+* GEN 4:20; GEN 9:21; GEN 9:27; GEN 12:8; GEN 13:3; GEN 13:5; GEN 13:12; GEN 13:18; GEN 18:1; GEN 18:2; GEN 18:6; GEN 18:9; GEN 18:10; GEN 24:67; GEN 25:27; GEN 26:25; GEN 31:25; GEN 31:33; GEN 31:34; GEN 33:19; GEN 35:21; EXO 18:7; EXO 26:7; EXO 26:9; EXO 26:11; EXO 26:12; EXO 26:13; EXO 26:14; EXO 26:36; EXO 31:7; EXO 33:7; EXO 33:8; EXO 33:9; EXO 33:10; EXO 33:11; EXO 35:11; EXO 36:14; EXO 36:18; EXO 36:19; EXO 36:37; EXO 39:33; EXO 39:38; EXO 40:19; LEV 14:8; NUM 3:25; NUM 9:17; NUM 11:10; NUM 11:24; NUM 11:26; NUM 12:5; NUM 12:10; NUM 16:26; NUM 16:27; NUM 18:3; NUM 18:4; NUM 19:14; NUM 19:18; NUM 24:5; NUM 25:8; DEU 1:27; DEU 5:30; DEU 11:6; DEU 16:7; DEU 31:15; JOS 3:14; JOS 7:21; JOS 7:22; JOS 7:23; JOS 7:24; JDG 4:11; JDG 4:17; JDG 4:18; JDG 4:20; JDG 4:21; JDG 5:24; JDG 6:5; JDG 7:13; JDG 8:11; 1SA 17:54; 2SA 6:17; 2SA 7:6; 2SA 11:11; 2SA 16:22; 1KI 1:39; 1KI 2:28; 1KI 2:29; 1KI 2:30; 1KI 8:4; 1KI 20:12; 1KI 20:16; 2KI 7:7; 2KI 7:8; 2KI 7:10; 1CH 4:41; 1CH 5:10; 1CH 9:19; 1CH 9:23; 1CH 15:1; 1CH 16:1; 1CH 17:5; 2CH 1:4; 2CH 5:5; 2CH 14:14; PSA 69:26; PSA 78:28; PSA 78:60; PSA 106:25; PSA 118:15; SNG 1:5; SNG 1:8; ISA 13:20; ISA 38:12; ISA 40:22; ISA 54:2; JER 6:3; JER 10:20; JER 30:18; JER 35:7; JER 35:10; JER 37:10; JER 49:29; LAM 2:4; EZK 25:4; DAN 11:45; HOS 12:10; HAB 3:7; MAT 17:4; MRK 9:5; LUK 9:33; LUK 16:9; ACT 7:43; ACT 18:3; 2CO 5:1; 2CO 5:4; HEB 11:9; 2PE 1:13; 2PE 1:14
 
 
 

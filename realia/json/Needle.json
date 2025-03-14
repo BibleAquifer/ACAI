@@ -14,7 +14,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Household",
   "ubsdgnt": [
     "6.215",
     "6.216"
@@ -40,9 +40,8 @@
   "non_biblical": false,
   "lemmas": {
     "el": [
-      "βελόνη",
-      "ῥαφίς",
-      "τρῆμα"
+      "βελόνη",
+      "ῥαφίς"
     ]
   },
   "key_references": [
@@ -58,16 +57,14 @@
   "explicit_instances": {
     "SBLGNT": [
       [
-        "n42018025007"
-      ],
-      [
         "n40019024010"
       ],
       [
         "n41010025008"
       ],
       [
-        "n42018025006"
+        "n42018025006",
+        "n42018025007"
       ]
     ]
   }

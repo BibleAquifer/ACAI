@@ -9,6 +9,15 @@ Bochim is a subentry. The primary entry is
 [Bethel (of Ephraim)](Bethel.md). 
 
 
+
+
+Other information about Bochim:
+
+
+* Is located near the following area(s): 
+[Gilgal (near Jericho)](Gilgal.3.md). 
+
+
 **OT Distribution of References**
 
 ▁▁▁▁▁▁█▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁

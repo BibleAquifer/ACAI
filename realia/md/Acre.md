@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Acre” are translated as 
-*an acre* (1x), *acres* (1x), *of land* (1x). 
+*an acre of land* (1x), *acres* (1x). 
 
 
 
@@ -21,11 +21,9 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* an acre (1SA 14:14)
+* an acre of land (1SA 14:14)
 
 * acres (ISA 5:10)
-
-* of land (1SA 14:14)
 
 
 

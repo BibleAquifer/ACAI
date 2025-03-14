@@ -11,7 +11,7 @@ EXO 15:27, LEV 23:40, JHN 12:13.
 
 
 In the Old Testament (BSB), words representing “Date Palm” are translated as 
-*and reed* (1x), ** (1x), *branches of* (1x), *and his branch* (1x), *both palm branch* (1x), *reed* (1x), *palm trees* (5x), *palm trees and* (1x), *of Palms* (4x), *and* (1x), *like a palm tree* (1x), *a palm tree* (1x), *the palm tree* (3x), *palm* (1x), *the Palm* (1x), *and palm trees* (7x), *with palm trees* (1x), *of water* (1x), *the water* (1x), *was decorated with palm trees* (1x), *it had palm trees* (1x), *were decorated with palm trees* (3x), *were alternating* (1x). 
+*palm trees* (5x), *branches of palm trees and* (1x), *of Palms* (4x), *the Palm* (1x), *and palm trees* (7x), *with palm trees* (1x), *and* (1x), *and his branch* (1x), *of water* (1x), *like a palm tree* (1x), *a palm tree* (1x), *the palm tree* (3x), *both palm branch* (1x), *and reed* (1x), *reed* (1x), ** (1x), *the water* (1x), *was decorated with palm trees* (1x), *it had palm trees* (1x), *were decorated with palm trees* (3x), *were alternating* (1x), *palm* (1x). 
 
 
 In the New Testament (BSB), words representing “Date Palm” are translated as 
@@ -24,33 +24,11 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* and reed (ISA 9:13)
-
-*  (ISA 19:15)
-
-* branches of (LEV 23:40)
-
-* and his branch (JOB 15:32)
-
-* both palm branch (ISA 9:13)
-
-* reed (ISA 19:15)
-
 * palm trees (EXO 15:27; NUM 33:9; 1KI 6:29; 1KI 6:32; 1KI 6:35)
 
-* palm trees and (LEV 23:40)
+* branches of palm trees and (LEV 23:40)
 
 * of Palms (DEU 34:3; JDG 1:16; JDG 3:13; 2CH 28:15)
-
-* and (NEH 8:15)
-
-* like a palm tree (PSA 92:13)
-
-* a palm tree (SNG 7:8)
-
-* the palm tree (SNG 7:9; EZK 41:19; EZK 41:19)
-
-* palm (JOL 1:12)
 
 * the Palm (JDG 4:5)
 
@@ -58,7 +36,25 @@ Return to [Index](00-Index.md)
 
 * with palm trees (2CH 3:5)
 
+* and (NEH 8:15)
+
+* and his branch (JOB 15:32)
+
 * of water (PSA 1:3)
+
+* like a palm tree (PSA 92:13)
+
+* a palm tree (SNG 7:8)
+
+* the palm tree (SNG 7:9; EZK 41:19; EZK 41:19)
+
+* both palm branch (ISA 9:13)
+
+* and reed (ISA 9:13)
+
+* reed (ISA 19:15)
+
+*  (ISA 19:15)
 
 * the water (EZK 19:10)
 
@@ -69,6 +65,8 @@ Return to [Index](00-Index.md)
 * were decorated with palm trees (EZK 40:31; EZK 40:34; EZK 40:37)
 
 * were alternating (EZK 41:18)
+
+* palm (JOL 1:12)
 
 
 

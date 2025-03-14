@@ -1,0 +1,84 @@
+{
+  "id": "realia:DoorOfTent",
+  "primary_id": "realia:DoorOfTent",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:3.2.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Buildings and Structures",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Door of Tent",
+      "alternate_labels": [
+        "Dividing Curtain"
+      ],
+      "descriptions": [
+        {
+          "description": "Curtains divided different parts of a large tent.",
+          "source": "acai",
+          "gloss": "Door of Tent",
+          "article": "realia:DoorOfTent"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "דֹּק",
+      "יְרִיעָה"
+    ],
+    "el": [
+      "αὐλαία"
+    ]
+  },
+  "key_references": [
+    "19104002",
+    "23040022",
+    "24004020"
+  ],
+  "references": [
+    "19104002",
+    "22001005",
+    "23040022",
+    "23054002",
+    "24004020",
+    "24010020",
+    "24049029",
+    "35003007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o191040020062"
+      ],
+      [
+        "o220010050082"
+      ],
+      [
+        "o230400220082"
+      ],
+      [
+        "o230540020042"
+      ],
+      [
+        "o240040200131",
+        "o240040200132"
+      ],
+      [
+        "o240100200141",
+        "o240100200142"
+      ],
+      [
+        "o240490290041",
+        "o240490290042"
+      ],
+      [
+        "o350030070071"
+      ]
+    ]
+  }
+}

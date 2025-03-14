@@ -12,7 +12,7 @@ JHN 2:6, JHN 2:7, JHN 4:28.
 
 
 In the New Testament (BSB), words representing “Stone Jar” are translated as 
-*water jars* (1x), *jars* (1x), *water jar* (1x). 
+*stone water jars* (1x), *jars* (1x), *water jar* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -21,7 +21,7 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* water jars (JHN 2:6)
+* stone water jars (JHN 2:6)
 
 * jars (JHN 2:7)
 

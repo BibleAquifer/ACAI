@@ -10,7 +10,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Food and Drink",
   "ubsdgnt": [
     "6.199"
   ],
@@ -30,6 +30,9 @@
   "only_mentioned_in_apocrypha": false,
   "non_biblical": false,
   "lemmas": {
+    "he": [
+      "מַמְתַקִּים"
+    ],
     "el": [
       "γλεῦκος"
     ]
@@ -38,12 +41,18 @@
     "44002013"
   ],
   "references": [
+    "16008010",
     "44002013"
   ],
   "explicit_instances": {
     "SBLGNT": [
       [
         "n44002013006"
+      ]
+    ],
+    "wlc": [
+      [
+        "o160080100071"
       ]
     ]
   }

@@ -10,7 +10,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Personal",
   "ubsdgnt": [
     "6.210"
   ],
@@ -33,8 +33,11 @@
   "only_mentioned_in_apocrypha": false,
   "non_biblical": false,
   "lemmas": {
+    "he": [
+      "נֵרְדְּ"
+    ],
     "el": [
-      "νάρδος"
+      "νάρδος"
     ]
   },
   "key_references": [
@@ -42,6 +45,7 @@
     "43012003"
   ],
   "references": [
+    "22004014",
     "41014003",
     "43012003"
   ],
@@ -52,6 +56,11 @@
       ],
       [
         "n43012003007"
+      ]
+    ],
+    "wlc": [
+      [
+        "o220040140011"
       ]
     ]
   }

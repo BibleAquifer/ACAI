@@ -1,0 +1,68 @@
+{
+  "id": "realia:Oil",
+  "primary_id": "realia:Oil",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:1.15.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Doctors and Medicine",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anointing Oil",
+      "alternate_labels": [
+        "Oil",
+        "Ointment"
+      ],
+      "descriptions": [
+        {
+          "description": "Ointment was oil extracted from the fruit of olive trees.",
+          "source": "acai",
+          "gloss": "Anointing Oil",
+          "article": "realia:Oil"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שֶׁמֶן"
+    ],
+    "el": [
+      "ἔλαιον"
+    ]
+  },
+  "key_references": [
+    "23001006",
+    "41006013",
+    "42010034",
+    "59005014"
+  ],
+  "references": [
+    "23001006",
+    "41006013",
+    "42010034",
+    "59005014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230010060182"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n41006013007"
+      ],
+      [
+        "n42010034008"
+      ],
+      [
+        "n59005014016"
+      ]
+    ]
+  }
+}

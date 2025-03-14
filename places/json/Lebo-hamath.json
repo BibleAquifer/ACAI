@@ -6,9 +6,9 @@
       "6709|Lebo-Hamath|TyndaleBibleDictionary"
     ],
     "ubsdbh": [
+      "002372003001000",
       "002627001001000",
-      "002372001001000",
-      "002372003001000"
+      "002372001001000"
     ],
     "digital_atlas_roman_empire": [
       "https://imperium.ahlfeldt.se/places/44506"
@@ -22,21 +22,21 @@
   },
   "type": "place",
   "ubsdbh": [
+    "002372003001000",
     "002627001001000",
-    "002372001001000",
-    "002372003001000"
+    "002372001001000"
   ],
   "localizations": {
     "eng": {
       "preferred_label": "Lebo-hamath",
       "alternate_labels": [
-        "go",
-        "Hamath-Zobah",
-        "entering in of Hamath",
         "Hamath",
+        "go",
         "entrance to Hamath",
+        "entering in of Hamath",
         "Hemath",
-        "entrance of Hamath"
+        "entrance of Hamath",
+        "Hamath-Zobah"
       ],
       "descriptions": [
         {
@@ -48,7 +48,7 @@
       ]
     },
     "fra": {
-      "preferred_label": "Hètlôn"
+      "preferred_label": "Levo-Hamath"
     },
     "spa": {
       "preferred_label": "Hamath"
@@ -92,8 +92,8 @@
   "added_entry": false,
   "lemmas": {
     "he": [
-      "חֶתְלֹן",
       "חֲמָת",
+      "חֶתְלֹן",
       "ה",
       "חֲמַת רַבָּה"
     ]

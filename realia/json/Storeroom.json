@@ -10,7 +10,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Buildings and Structures",
   "ubsdgnt": [
     "7.32"
   ],
@@ -33,8 +33,14 @@
   "only_mentioned_in_apocrypha": false,
   "non_biblical": false,
   "lemmas": {
+    "he": [
+      "בַּיִת",
+      "אָסֹף",
+      "אוֹצָר"
+    ],
     "el": [
-      "θησαυρός",
+      "ἀποδοχεῖον",
+      "θησαυρός",
       "ταμεῖον"
     ]
   },
@@ -44,6 +50,7 @@
     "42012024"
   ],
   "references": [
+    "24051016",
     "40013052",
     "42006045",
     "42012024"
@@ -58,6 +65,11 @@
       ],
       [
         "n42012024012"
+      ]
+    ],
+    "wlc": [
+      [
+        "o240510160153"
       ]
     ]
   }

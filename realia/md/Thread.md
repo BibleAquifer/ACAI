@@ -10,7 +10,7 @@ GEN 14:23, GEN 38:18, JOS 2:18.
 
 
 In the Old Testament (BSB), words representing “Thread” are translated as 
-*a thread* (1x), *cord* (5x), *like they were threads* (1x), *in circumference* (1x), *Moreover a cord* (1x), *ribbon* (1x), *and* (1x), *and your cord* (1x), *and staff* (1x), *with a cord* (2x), *threads from them* (1x), *fastened* (1x), *a strand* (1x). 
+*a thread* (1x), *and your cord* (1x), *and staff* (1x), *with a cord* (2x), *cord* (5x), *threads from them* (1x), *fastened* (1x), *a strand* (1x), *like they were threads* (1x), *in circumference* (1x), *Moreover a cord* (1x), *ribbon* (1x), *and* (1x). 
 
 
 
@@ -23,7 +23,19 @@ Return to [Index](00-Index.md)
 
 * a thread (GEN 14:23)
 
-* cord (JOS 2:18; EXO 28:37; EXO 39:31; NUM 15:38; EZK 40:3)
+* and your cord (GEN 38:18)
+
+* and staff (GEN 38:25)
+
+* with a cord (EXO 28:28; EXO 39:21)
+
+* cord (EXO 28:37; EXO 39:31; NUM 15:38; JOS 2:18; EZK 40:3)
+
+* threads from them (EXO 39:3)
+
+* fastened (NUM 19:15)
+
+* a strand (JDG 16:9)
 
 * like they were threads (JDG 16:12)
 
@@ -34,18 +46,6 @@ Return to [Index](00-Index.md)
 * ribbon (SNG 4:3)
 
 * and (JER 52:21)
-
-* and your cord (GEN 38:18)
-
-* and staff (GEN 38:25)
-
-* with a cord (EXO 28:28; EXO 39:21)
-
-* threads from them (EXO 39:3)
-
-* fastened (NUM 19:15)
-
-* a strand (JDG 16:9)
 
 
 
@@ -61,9 +61,9 @@ Return to [Index](00-Index.md)
 
 ### OT Subject Referents (BSB)
 
-* of three (ECC 4:12)
-
 * These will serve (NUM 15:39)
+
+* of three (ECC 4:12)
 
 
 

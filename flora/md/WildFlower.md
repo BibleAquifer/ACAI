@@ -13,7 +13,7 @@ MAT 6:28, LUK 12:27.
 
 
 In the New Testament (BSB), words representing “Wild Flower” are translated as 
-*a flower* (1x), *flower* (1x), *the flowers* (1x), *flowers* (1x), *lilies* (2x). 
+*lilies* (2x), *a flower* (1x), *flower* (1x), *the flowers* (1x), *flowers* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -21,6 +21,8 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### NT Instances (BSB)
+
+* lilies (MAT 6:28; LUK 12:27)
 
 * a flower (JAS 1:10)
 
@@ -30,15 +32,13 @@ Return to [Index](00-Index.md)
 
 * flowers (1PE 1:24)
 
-* lilies (MAT 6:28; LUK 12:27)
-
 
 
 ### NT Pronominal Referents (BSB)
 
-* beauty (JAS 1:11)
-
 * of these (MAT 6:29; LUK 12:27)
+
+* beauty (JAS 1:11)
 
 
 

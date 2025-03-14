@@ -13,7 +13,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Household",
   "ubsdgnt": [
     "7.74"
   ],
@@ -33,8 +33,11 @@
   "only_mentioned_in_apocrypha": false,
   "non_biblical": false,
   "lemmas": {
+    "he": [
+      "תַּנּוּר"
+    ],
     "el": [
-      "κλίβανος"
+      "κλίβανος"
     ]
   },
   "key_references": [
@@ -42,6 +45,7 @@
     "42012028"
   ],
   "references": [
+    "39003019",
     "40006030",
     "42012028"
   ],
@@ -52,6 +56,11 @@
       ],
       [
         "n42012028012"
+      ]
+    ],
+    "wlc": [
+      [
+        "o390030190062"
       ]
     ]
   }

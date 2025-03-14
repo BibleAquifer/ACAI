@@ -8,7 +8,7 @@ EZK 27:6, EZK 27:29.
 
 
 In the Old Testament (BSB), words representing “Oar” are translated as 
-*your oars* (1x), *the oars* (1x). 
+*with oars* (1x), *your oars* (1x), *the oars* (1x). 
 
 
 
@@ -19,6 +19,8 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
+* with oars (ISA 33:21)
+
 * your oars (EZK 27:6)
 
 * the oars (EZK 27:29)
@@ -27,7 +29,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* EZK 27:6; EZK 27:29
+* ISA 33:21; EZK 27:6; EZK 27:29
 
 
 

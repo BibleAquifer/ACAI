@@ -9,7 +9,7 @@ EST 1:6, ISA 19:9.
 
 
 In the Old Testament (BSB), words representing “Cotton” are translated as 
-*linen* (1x), *will turn pale* (1x), *Hangings of white* (1x). 
+*Hangings of white linen* (1x), *will turn pale* (1x). 
 
 
 
@@ -20,11 +20,9 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* linen (EST 1:6)
+* Hangings of white linen (EST 1:6)
 
 * will turn pale (ISA 19:9)
-
-* Hangings of white (EST 1:6)
 
 
 

@@ -8,7 +8,7 @@ EXO 31:18, EXO 32:15, DEU 9:10, DEU 10:4.
 
 
 In the Old Testament (BSB), words representing “Tablet” are translated as 
-*and* (1x), *the tablets* (10x), *tablets* (15x), *of* (1x), ** (2x), *The tablets* (1x), *like* (1x), *the* (2x), *which* (1x), *the tablet* (2x), *a tablet* (1x), *tablets of* (1x), *so* (1x). 
+*the tablets* (10x), *tablets* (15x), *of* (1x), ** (2x), *The tablets* (1x), *like* (1x), *the* (2x), *which* (1x), *the tablet* (2x), *and* (1x), *a tablet* (1x), *tablets of* (1x), *so* (1x). 
 
 
 In the New Testament (BSB), words representing “Tablet” are translated as 
@@ -20,8 +20,6 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
-
-* and (ISA 8:1)
 
 * the tablets (EXO 24:12; EXO 32:16; EXO 32:19; EXO 34:28; DEU 9:9; DEU 9:9; DEU 9:11; DEU 10:2; DEU 10:4; DEU 10:5)
 
@@ -41,6 +39,8 @@ Return to [Index](00-Index.md)
 
 * the tablet (PRO 3:3; PRO 7:3)
 
+* and (ISA 8:1)
+
 * a tablet (ISA 30:8)
 
 * tablets of (JER 17:1)
@@ -57,11 +57,9 @@ Return to [Index](00-Index.md)
 
 ### OT Pronominal Referents (BSB)
 
-* it (ISA 8:1)
+* front (EXO 32:15)
 
 * and (EXO 32:15)
-
-* front (EXO 32:15)
 
 *  (EXO 32:16; DEU 9:10)
 
@@ -84,6 +82,8 @@ Return to [Index](00-Index.md)
 * and you are to place them (DEU 10:2)
 
 * gave them (DEU 10:4)
+
+* it (ISA 8:1)
 
 
 

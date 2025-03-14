@@ -6,7 +6,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “To Saddle” are translated as 
-*saddled* (6x), *of saddled* (1x), *he saddled* (1x), *Saddle* (2x), *Then they saddled* (1x), *So they saddled it* (1x), *Then she saddled* (1x), *in the saddlebag* (1x), *saddle blankets* (2x). 
+*saddled* (6x), *in the saddlebag* (1x), *saddle* (1x), *saddle blankets* (2x), *of saddled* (1x), *he saddled* (1x), *Saddle* (2x), *Then they saddled* (1x), *So they saddled it* (1x), *Then she saddled* (1x), *in saddlecloths* (1x). 
 
 
 
@@ -18,6 +18,12 @@ Return to [Index](00-Index.md)
 ### OT Instances (BSB)
 
 * saddled (GEN 22:3; NUM 22:21; JDG 19:10; 2SA 19:27; 1KI 2:40; 1KI 13:23)
+
+* in the saddlebag (GEN 31:34)
+
+* saddle (LEV 15:9)
+
+* saddle blankets (JDG 5:10; JDG 5:10)
 
 * of saddled (2SA 16:1)
 
@@ -31,15 +37,19 @@ Return to [Index](00-Index.md)
 
 * Then she saddled (2KI 4:24)
 
-* in the saddlebag (GEN 31:34)
+* in saddlecloths (EZK 27:20)
 
-* saddle blankets (JDG 5:10; JDG 5:10)
+
+
+### OT Pronominal Referents (BSB)
+
+* on (LEV 15:9)
 
 
 
 ### References (Whole Bible)
 
-* GEN 22:3; GEN 31:34; NUM 22:21; JDG 5:10; JDG 19:10; 2SA 16:1; 2SA 17:23; 2SA 19:27; 1KI 2:40; 1KI 13:13; 1KI 13:23; 1KI 13:27; 2KI 4:24
+* GEN 22:3; GEN 31:34; LEV 15:9; NUM 22:21; JDG 5:10; JDG 19:10; 2SA 16:1; 2SA 17:23; 2SA 19:27; 1KI 2:40; 1KI 13:13; 1KI 13:23; 1KI 13:27; 2KI 4:24; EZK 27:20
 
 
 

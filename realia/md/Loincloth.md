@@ -10,7 +10,7 @@ GEN 3:7, JOB 12:18.
 
 
 In the Old Testament (BSB), words representing “Loincloth” are translated as 
-*a belt* (1x). 
+*coverings* (1x), *a belt* (1x). 
 
 
 
@@ -21,13 +21,15 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
+* coverings (GEN 3:7)
+
 * a belt (JOB 12:18)
 
 
 
 ### References (Whole Bible)
 
-* JOB 12:18
+* GEN 3:7; JOB 12:18
 
 
 

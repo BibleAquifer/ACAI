@@ -10,7 +10,7 @@ EXO 26:15, EXO 26:29, EXO 36:20, EXO 40:18.
 
 
 In the Old Testament (BSB), words representing “Frame” are translated as 
-*frames* (13x), *Each frame* (2x), ** (12x), *frame* (2x), *the frames* (5x), *frames two bases* (1x), *under* (1x), *for the frames* (2x), *for those* (4x), *of the frames* (2x), *and frames* (1x), *wide* (1x), *frames two* (1x), *each frame one* (1x), *its frames* (2x). 
+*frames* (13x), *Each frame* (2x), ** (12x), *frame* (2x), *the frames* (5x), *frames two bases* (1x), *under* (1x), *for the frames* (2x), *for those* (4x), *of the frames* (2x), *and frames* (1x), *wide* (1x), *frames two* (1x), *each frame one* (1x), *its frames* (2x), *your deck* (1x). 
 
 
 
@@ -51,6 +51,8 @@ Return to [Index](00-Index.md)
 
 * its frames (EXO 39:33; EXO 40:18)
 
+* your deck (EZK 27:6)
+
 
 
 ### OT Pronominal Referents (BSB)
@@ -87,7 +89,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* EXO 26:15; EXO 26:16; EXO 26:17; EXO 26:18; EXO 26:19; EXO 26:20; EXO 26:21; EXO 26:22; EXO 26:23; EXO 26:25; EXO 26:26; EXO 26:27; EXO 26:28; EXO 26:29; EXO 35:11; EXO 36:20; EXO 36:21; EXO 36:22; EXO 36:23; EXO 36:24; EXO 36:25; EXO 36:26; EXO 36:27; EXO 36:28; EXO 36:30; EXO 36:31; EXO 36:32; EXO 36:33; EXO 36:34; EXO 39:33; EXO 40:18; NUM 3:36; NUM 4:31
+* EXO 26:15; EXO 26:16; EXO 26:17; EXO 26:18; EXO 26:19; EXO 26:20; EXO 26:21; EXO 26:22; EXO 26:23; EXO 26:25; EXO 26:26; EXO 26:27; EXO 26:28; EXO 26:29; EXO 35:11; EXO 36:20; EXO 36:21; EXO 36:22; EXO 36:23; EXO 36:24; EXO 36:25; EXO 36:26; EXO 36:27; EXO 36:28; EXO 36:30; EXO 36:31; EXO 36:32; EXO 36:33; EXO 36:34; EXO 39:33; EXO 40:18; NUM 3:36; NUM 4:31; EZK 27:6
 
 
 

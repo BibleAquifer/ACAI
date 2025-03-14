@@ -10,7 +10,7 @@ GEN 24:14, JDG 7:19, JHN 2:6.
 
 
 In the Old Testament (BSB), words representing “Clay Jar” are translated as 
-*your jar* (1x), *with her jar* (2x), *her jar* (4x), *from your jar* (2x), *jar in the other* (1x), ** (1x), *the jars* (1x), *their jars* (1x), *in a jar* (1x), *The jar* (2x), *waterpots* (1x), *before the pitcher* (1x), *of jar* (1x), *jar* (1x), *wineskin* (2x), *his jars* (1x), *as jars* (1x), *jug* (2x), *that* (1x), *in a jug* (1x), *and the jug* (2x), *and a jar* (1x). 
+*your jar* (1x), *with her jar* (2x), *her jar* (4x), *from your jar* (2x), *jar in the other* (1x), ** (1x), *the jars* (1x), *their jars* (1x), *jug* (2x), *that* (1x), *in a jar* (1x), *in a jug* (1x), *The jar* (2x), *and the jug* (2x), *waterpots* (1x), *and a jar* (1x), *before the pitcher* (1x), *of jar* (1x), *jar* (1x), *wineskin* (2x), *his jars* (1x), *as jars* (1x). 
 
 
 In the New Testament (BSB), words representing “Clay Jar” are translated as 
@@ -39,11 +39,21 @@ Return to [Index](00-Index.md)
 
 * their jars (JDG 7:20)
 
+* jug (1SA 26:11; 1SA 26:12)
+
+* that (1SA 26:16)
+
 * in a jar (1KI 17:12)
+
+* in a jug (1KI 17:12)
 
 * The jar (1KI 17:14; 1KI 17:16)
 
+* and the jug (1KI 17:14; 1KI 17:16)
+
 * waterpots (1KI 18:34)
+
+* and a jar (1KI 19:6)
 
 * before the pitcher (ECC 12:6)
 
@@ -56,16 +66,6 @@ Return to [Index](00-Index.md)
 * his jars (JER 48:12)
 
 * as jars (LAM 4:2)
-
-* jug (1SA 26:11; 1SA 26:12)
-
-* that (1SA 26:16)
-
-* in a jug (1KI 17:12)
-
-* and the jug (1KI 17:14; 1KI 17:16)
-
-* and a jar (1KI 19:6)
 
 
 
@@ -83,9 +83,9 @@ Return to [Index](00-Index.md)
 
 ### OT Pronominal Referents (BSB)
 
-* in the dust (ISA 30:14)
-
 * by that (1KI 19:8)
+
+* in the dust (ISA 30:14)
 
 
 

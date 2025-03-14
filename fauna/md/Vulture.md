@@ -11,7 +11,7 @@ LEV 11:13, MAT 24:28, REV 8:13.
 
 
 In the Old Testament (BSB), words representing “Vulture” are translated as 
-*like the feathers of an eagle* (1x), *of an eagle* (4x), *eagles* (1x), *the eagle* (2x), *an eagle a nation* (1x), *As an eagle* (1x), *than eagles* (2x), *like an eagle* (1x), *Does the eagle* (1x), *like the eagle’s* (1x), *an eagle to* (1x), *vultures* (1x), *like eagles* (1x), *swoops down* (1x), *like the eagle* (2x), *An eagle* (2x), *than the eagles* (1x), *eagle* (2x), *as an eagle* (1x), *like a vulture* (1x), *the black vulture* (2x), *And the birds of prey* (1x), *bird of prey* (3x), *birds of prey* (1x), *The birds* (1x), *a bird of prey* (1x), *with other birds of prey* (1x), *bird and* (1x), *the bearded vulture* (2x), *the osprey* (2x). 
+*And the birds of prey* (1x), *eagles* (1x), *the eagle* (2x), *the bearded vulture* (2x), *the black vulture* (2x), *the osprey* (2x), *an eagle a nation* (1x), *As an eagle* (1x), *than eagles* (2x), *like an eagle* (1x), *bird of prey* (3x), *Does the eagle* (1x), *like the eagle’s* (1x), *an eagle to* (1x), *vultures* (1x), *of an eagle* (4x), *birds of prey* (1x), *The birds* (1x), *like eagles* (1x), *a bird of prey* (1x), *with other birds of prey* (1x), *swoops down* (1x), *like the eagle* (2x), *An eagle* (2x), *than the eagles* (1x), *eagle* (2x), *bird and* (1x), *like the feathers of an eagle* (1x), *as an eagle* (1x), *like a vulture* (1x). 
 
 
 In the New Testament (BSB), words representing “Vulture” are translated as 
@@ -30,13 +30,17 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* like the feathers of an eagle (DAN 4:30)
-
-* of an eagle (DAN 7:4; PRO 30:19; EZK 1:10; EZK 10:14)
+* And the birds of prey (GEN 15:11)
 
 * eagles (EXO 19:4)
 
 * the eagle (LEV 11:13; DEU 14:12)
+
+* the bearded vulture (LEV 11:13; DEU 14:12)
+
+* the black vulture (LEV 11:13; DEU 14:12)
+
+* the osprey (LEV 11:18; DEU 14:17)
 
 * an eagle a nation (DEU 28:49)
 
@@ -46,6 +50,8 @@ Return to [Index](00-Index.md)
 
 * like an eagle (JOB 9:26)
 
+* bird of prey (JOB 28:7; JER 12:9; JER 12:9)
+
 * Does the eagle (JOB 39:27)
 
 * like the eagle’s (PSA 103:5)
@@ -54,7 +60,17 @@ Return to [Index](00-Index.md)
 
 * vultures (PRO 30:17)
 
+* of an eagle (PRO 30:19; EZK 1:10; EZK 10:14; DAN 7:4)
+
+* birds of prey (ISA 18:6)
+
+* The birds (ISA 18:6)
+
 * like eagles (ISA 40:31)
+
+* a bird of prey (ISA 46:11)
+
+* with other birds of prey (JER 12:9)
 
 * swoops down (JER 48:40)
 
@@ -66,29 +82,13 @@ Return to [Index](00-Index.md)
 
 * eagle (EZK 17:3; EZK 17:7)
 
+* bird and (EZK 39:4)
+
+* like the feathers of an eagle (DAN 4:30)
+
 * as an eagle (MIC 1:16)
 
 * like a vulture (HAB 1:8)
-
-* the black vulture (LEV 11:13; DEU 14:12)
-
-* And the birds of prey (GEN 15:11)
-
-* bird of prey (JOB 28:7; JER 12:9; JER 12:9)
-
-* birds of prey (ISA 18:6)
-
-* The birds (ISA 18:6)
-
-* a bird of prey (ISA 46:11)
-
-* with other birds of prey (JER 12:9)
-
-* bird and (EZK 39:4)
-
-* the bearded vulture (LEV 11:13; DEU 14:12)
-
-* the osprey (LEV 11:18; DEU 14:17)
 
 
 
@@ -104,6 +104,8 @@ Return to [Index](00-Index.md)
 
 ### OT Pronominal Referents (BSB)
 
+*  (GEN 15:11)
+
 * and make his nest (JOB 39:27)
 
 * his eyes (JOB 39:29)
@@ -115,8 +117,6 @@ Return to [Index](00-Index.md)
 * toward him (EZK 17:6; EZK 17:7)
 
 * to him (EZK 17:7)
-
-*  (GEN 15:11)
 
 
 
@@ -132,6 +132,10 @@ Return to [Index](00-Index.md)
 
 * he spies (JOB 39:29)
 
+* Go gather (JER 12:9)
+
+* bring them (JER 12:9)
+
 * took away the (EZK 17:3)
 
 * He plucked off (EZK 17:4)
@@ -144,21 +148,15 @@ Return to [Index](00-Index.md)
 
 * and set it out (EZK 17:5)
 
+* so that he might water it (EZK 17:7)
+
 * be uprooted (EZK 17:9)
 
 * and stripped (EZK 17:9)
 
 * to pull (EZK 17:9)
 
-* so that he might water it (EZK 17:7)
-
 * to devour (HAB 1:8)
-
-* Go (JER 12:9)
-
-* gather (JER 12:9)
-
-* bring them (JER 12:9)
 
 
 

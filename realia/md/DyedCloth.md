@@ -10,7 +10,7 @@ EXO 25:5, EXO 35:23, JDG 5:30.
 
 
 In the Old Testament (BSB), words representing “Dyed Cloth” are translated as 
-*dyed red* (6x), *are red* (1x), *of dyed garments* (1x), *garments* (1x), *of embroidered* (1x). 
+*dyed red* (6x), *of dyed garments* (1x), *garments* (1x), *of embroidered* (1x), *are red* (1x). 
 
 
 
@@ -23,13 +23,13 @@ Return to [Index](00-Index.md)
 
 * dyed red (EXO 25:5; EXO 26:14; EXO 35:7; EXO 35:23; EXO 36:19; EXO 39:34)
 
-* are red (NAM 2:4)
-
 * of dyed garments (JDG 5:30)
 
 * garments (JDG 5:30)
 
 * of embroidered (JDG 5:30)
+
+* are red (NAM 2:4)
 
 
 

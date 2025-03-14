@@ -10,7 +10,7 @@ EXO 27:1, EXO 30:27, LEV 1:7, NUM 4:11.
 
 
 In the Old Testament (BSB), words representing “Tabernacle Altar” are translated as 
-*altar at* (1x), *an altar* (33x), *on the altar* (27x), *the altar* (118x), *altar there* (2x), *altar atop* (1x), *My altar* (7x), *altar of* (6x), *altar must* (1x), *of the altar* (46x), *for the altar* (6x), *Then the altar* (1x), *and the altar* (10x), *their altars* (10x), *the altar’s* (1x), *and* (1x), *altar* (29x), *and it shall be* (1x), *it on the altar* (6x), *altar atop the* (1x), *from the altar* (1x), *it* (3x), *altar as a* (1x), *On the altar* (1x), *altar so* (1x), *and altar* (2x), *the altars* (14x), *from the bronze altar* (1x), *the altar They* (1x), *for its dedication* (1x), *altar so that* (1x), *altars* (13x), *on each altar* (3x), *and on each altar* (1x), *altar you* (1x), *an altar of* (1x), *Your altar* (3x), *and for the altar* (1x), *the Jordan* (1x), *altar other* (1x), *altar for ourselves but* (1x), *the altar Witness* (1x), *Baal’s altar* (1x), *in the* (1x), *the altar saying* (1x), *the* (1x), *altar in* (2x), *altar O* (1x), *altar this* (1x), *And the altar* (1x), ** (2x), *Your altars* (3x), *by the altar* (2x), *They smashed the altars* (2x), *the altar and* (1x), *the new altar* (1x), *of the new altar* (1x), *and altars* (3x), *and the altars* (1x), *altar to* (2x), *in fine linen* (1x), *and His altars* (1x), *near Your altars* (1x), *His altar* (1x), *your altars* (2x), *of the Altar* (1x), *And the altar was* (1x), *There was an altar* (1x), *their altars will be* (1x), *altars of* (1x), *the altar will* (1x), *fires on My altar* (1x). 
+*an altar* (33x), *on the altar* (27x), *the altar* (118x), *altar there* (2x), *altar atop* (1x), *My altar* (7x), *altar of* (6x), *altar must* (1x), *the ledge* (1x), *of the altar* (46x), *for the altar* (6x), *Then the altar* (1x), *and the altar* (10x), *their altars* (10x), *the altar’s* (1x), *its ledge* (1x), *and* (1x), *altar* (29x), *and it shall be* (1x), *it on the altar* (6x), *altar atop the* (1x), *from the altar* (1x), *it* (3x), *altar as a* (1x), *On the altar* (1x), *altar so* (1x), *and altar* (2x), *the altars* (14x), *from the bronze altar* (1x), *the altar They* (1x), *for its dedication* (1x), *altar so that* (1x), *altars* (13x), *on each altar* (3x), *and on each altar* (1x), *altar you* (1x), *an altar of* (1x), *Your altar* (3x), *and for the altar* (1x), *the Jordan* (1x), *altar other* (1x), *altar for ourselves but* (1x), *the altar Witness* (1x), *Baal’s altar* (1x), *in the* (1x), *the altar saying* (1x), *the* (1x), *altar in* (2x), *altar O altar this* (1x), *And the altar* (1x), ** (2x), *Your altars* (3x), *by the altar* (2x), *They smashed the altars* (2x), *the altar and* (1x), *the new altar* (1x), *of the new altar* (1x), *and altars* (3x), *and the altars* (1x), *altar to* (2x), *in fine linen* (1x), *and His altars* (1x), *altar at* (1x), *near Your altars* (1x), *His altar* (1x), *your altars* (2x), *of the Altar* (1x), *And the altar was* (1x), *There was an altar* (1x), *their altars will be* (1x), *altars of* (1x), *the altar will* (1x), *fires on My altar* (1x). 
 
 
 
@@ -20,8 +20,6 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
-
-* altar at (EZR 7:17)
 
 * an altar (GEN 8:20; GEN 12:7; GEN 12:8; GEN 13:18; GEN 26:25; GEN 33:20; GEN 35:1; GEN 35:3; GEN 35:7; EXO 17:15; EXO 20:24; EXO 20:25; EXO 24:4; EXO 32:5; DEU 27:5; JOS 8:30; JOS 22:11; JOS 22:16; JOS 22:23; JOS 22:29; JDG 6:24; JDG 21:4; 1SA 7:17; 1SA 14:35; 1SA 14:35; 2SA 24:18; 2SA 24:21; 2SA 24:25; 1KI 16:32; 1KI 18:32; 1CH 21:18; 1CH 21:26; ISA 19:19)
 
@@ -39,6 +37,8 @@ Return to [Index](00-Index.md)
 
 * altar must (EXO 27:1)
 
+* the ledge (EXO 27:5)
+
 * of the altar (EXO 27:5; EXO 27:7; EXO 29:12; EXO 29:12; EXO 29:16; EXO 29:20; EXO 38:7; LEV 1:11; LEV 1:15; LEV 1:16; LEV 4:7; LEV 4:7; LEV 4:18; LEV 4:18; LEV 4:25; LEV 4:25; LEV 4:30; LEV 4:30; LEV 4:34; LEV 4:34; LEV 5:9; LEV 5:9; LEV 6:2; LEV 6:7; LEV 8:15; LEV 8:15; LEV 9:9; LEV 9:9; LEV 9:12; LEV 9:18; LEV 16:18; NUM 7:11; NUM 7:84; JOS 22:28; 1KI 1:50; 1KI 2:28; 2CH 7:9; 2CH 29:19; PSA 118:27; EZK 40:46; EZK 43:13; EZK 43:13; EZK 45:19; EZK 47:1; JOL 1:13; ZEC 9:15)
 
 * for the altar (EXO 27:6; EXO 38:4; NUM 7:88; 1CH 28:18; EZK 43:18; EZK 43:26)
@@ -50,6 +50,8 @@ Return to [Index](00-Index.md)
 * their altars (EXO 34:13; DEU 7:5; DEU 12:3; JDG 2:2; 2CH 34:5; JER 17:1; JER 17:2; EZK 6:13; HOS 10:2; HOS 10:8)
 
 * the altar’s (EXO 38:3)
+
+* its ledge (EXO 38:4)
 
 * and (EXO 38:30)
 
@@ -115,9 +117,7 @@ Return to [Index](00-Index.md)
 
 * altar in (1KI 8:31; 2CH 6:22)
 
-* altar O (1KI 13:2)
-
-* altar this (1KI 13:2)
+* altar O altar this (1KI 13:2)
 
 * And the altar (1KI 13:5)
 
@@ -144,6 +144,8 @@ Return to [Index](00-Index.md)
 * in fine linen (2CH 5:12)
 
 * and His altars (2CH 32:12)
+
+* altar at (EZR 7:17)
 
 * near Your altars (PSA 84:4)
 
@@ -297,11 +299,11 @@ Return to [Index](00-Index.md)
 
 * on them (2KI 23:20)
 
+* before it (1CH 21:30)
+
 * Here (1CH 22:1)
 
 * as well as (1CH 22:1)
-
-* before it (1CH 21:30)
 
 * inquired of Him there (2CH 1:5)
 
@@ -341,9 +343,7 @@ Return to [Index](00-Index.md)
 
 * five (EXO 27:1)
 
-* square (EXO 30:2)
-
-* It is to be (EXO 30:2)
+* It is to be square (EXO 30:2)
 
 * so that they will be (EXO 30:29; EXO 30:29)
 

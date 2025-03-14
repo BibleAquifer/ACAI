@@ -10,9 +10,11 @@ AMO 9:9, LUK 22:31.
 
 
 In the Old Testament (BSB), words representing “Sieve” are translated as 
-*a sieve but* (1x), *He comes to sift* (1x), *in a sieve* (1x). 
+*He comes to sift* (1x), *in a sieve* (1x), *a sieve but* (1x). 
 
 
+In the New Testament (BSB), words representing “Sieve” are translated as 
+*to sift* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -21,17 +23,23 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* a sieve but (AMO 9:9)
-
 * He comes to sift (ISA 30:28)
 
 * in a sieve (ISA 30:28)
+
+* a sieve but (AMO 9:9)
+
+
+
+### NT Instances (BSB)
+
+* to sift (LUK 22:31)
 
 
 
 ### References (Whole Bible)
 
-* ISA 30:28; AMO 9:9
+* ISA 30:28; AMO 9:9; LUK 22:31
 
 
 

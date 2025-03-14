@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Bit and Bridle” are translated as 
-*and My bit* (2x), *with bit* (1x), *a bridle* (1x), ** (1x), *and bridle* (1x), *He bridles* (1x). 
+*and My bit* (2x), ** (1x), *with bit* (1x), *and bridle* (1x), *a bridle* (1x), *He bridles* (1x). 
 
 
 In the New Testament (BSB), words representing “Bit and Bridle” are translated as 
@@ -25,13 +25,13 @@ Return to [Index](00-Index.md)
 
 * and My bit (2KI 19:28; ISA 37:29)
 
-* with bit (PSA 32:9)
-
-* a bridle (PRO 26:3)
-
 *  (JOB 41:5)
 
+* with bit (PSA 32:9)
+
 * and bridle (PSA 32:9)
+
+* a bridle (PRO 26:3)
 
 * He bridles (ISA 30:28)
 

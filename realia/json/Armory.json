@@ -1,0 +1,66 @@
+{
+  "id": "realia:Armory",
+  "primary_id": "realia:Armory",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:3.13.4"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Buildings and Structures",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Armory",
+      "alternate_labels": [
+        "Arsenal"
+      ],
+      "descriptions": [
+        {
+          "description": "An armory is a room or a building where many weapons are stored.",
+          "source": "acai",
+          "gloss": "Armory",
+          "article": "realia:Armory"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אוֹצָר",
+      "בַּיִת",
+      "כְּלִי",
+      "נֶשֶׁק"
+    ]
+  },
+  "key_references": [
+    "12020013",
+    "16003019",
+    "23039002",
+    "24050025"
+  ],
+  "references": [
+    "12020013",
+    "16003019",
+    "23039002",
+    "24050025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120200130071"
+      ],
+      [
+        "o160030190132"
+      ],
+      [
+        "o230390020061"
+      ],
+      [
+        "o240500250041",
+        "o240500250042"
+      ]
+    ]
+  }
+}

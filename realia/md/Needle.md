@@ -12,7 +12,7 @@ MAT 19:24, MRK 10:25, LUK 18:25.
 
 
 In the New Testament (BSB), words representing “Needle” are translated as 
-*of a needle* (2x), *needle* (1x), *the eye* (1x). 
+*of a needle* (1x), *needle* (1x), *the eye of a needle* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -21,11 +21,11 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* of a needle (LUK 18:25; MAT 19:24)
+* of a needle (MAT 19:24)
 
 * needle (MRK 10:25)
 
-* the eye (LUK 18:25)
+* the eye of a needle (LUK 18:25)
 
 
 

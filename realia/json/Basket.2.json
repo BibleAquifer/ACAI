@@ -1,0 +1,65 @@
+{
+  "id": "realia:Basket.2",
+  "primary_id": "realia:Basket.2",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:8.1.1"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Transportation",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Basket",
+      "alternate_labels": [
+        "Small Boat"
+      ],
+      "descriptions": [
+        {
+          "description": "The basket in Exodus 2:3 was a small boat made of papyrus reeds. Its exact size is not given, but it would have been large enough to hold a newborn baby.",
+          "source": "acai",
+          "gloss": "Basket",
+          "article": "realia:Basket.2"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תֵּבָה"
+    ]
+  },
+  "key_references": [
+    "02002003",
+    "02002005"
+  ],
+  "references": [
+    "02002003",
+    "02002005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020020030071"
+      ],
+      [
+        "o020020050142"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020020030093"
+      ],
+      [
+        "o020020030132"
+      ],
+      [
+        "o020020050203"
+      ]
+    ]
+  }
+}

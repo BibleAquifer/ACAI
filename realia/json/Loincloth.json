@@ -10,7 +10,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "other",
+  "realia_type": "Clothing",
   "ubsdbh": [
     "000220001001000"
   ],
@@ -34,7 +34,8 @@
   "non_biblical": false,
   "lemmas": {
     "he": [
-      "אֵזֹור"
+      "אֵזוֹר",
+      "חֲגוֹרָה"
     ]
   },
   "key_references": [
@@ -42,10 +43,14 @@
     "18012018"
   ],
   "references": [
+    "01003007",
     "18012018"
   ],
   "explicit_instances": {
     "wlc": [
+      [
+        "o010030070131"
+      ],
       [
         "o180120180051"
       ]

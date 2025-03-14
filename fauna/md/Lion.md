@@ -11,7 +11,7 @@ GEN 49:9, 1KI 13:24, REV 5:5.
 
 
 In the Old Testament (BSB), words representing “Lion” are translated as 
-*lion* (7x), *Like a lion* (2x), *lion’s cub* (1x), *the lion’s* (1x), *and in it* (1x), *from the lion’s* (1x), *of a lion* (6x), *a lion* (10x), *and the lion* (4x), *the lion* (3x), *to the lion* (1x), *The lion* (4x), *of lions* (4x), *like a lion* (13x), *like lions* (1x), *of the lion* (2x), *upon the* (1x), *Then the lookout* (1x), *lion roaring* (1x), ** (1x), *A lion* (2x), *lions* (10x), *of the lions* (4x), *the lions* (5x), *was like a lion* (1x), *Does a lion* (1x), *with their* (1x), *a young lion* (5x), *of the young lions* (3x), *of young lions* (1x), *like a young lion* (2x), *Young lions* (1x), *from these lions* (1x), *the young lion* (1x), *The young lions* (2x), *as a lion* (1x), *like young lions* (2x), *and young lion* (1x), *a young lion over* (1x), *the young lions* (1x), *its villages* (1x), *of a young lion* (1x), *and like a young lion* (1x), *a young lion growl* (1x), *lions I will* (1x), *A lioness* (1x), *for the lioness* (1x), *like a lioness* (3x), *a lion and* (1x), *of the lioness* (1x), *for a lioness* (1x), *is like that of a lion* (1x), *of lioness* (1x), *of a lioness* (1x), *and lioness* (1x), *The old lion* (1x), *and lion* (1x), *and the fierce lion* (1x), *am like a lion* (1x), *animal* (2x), *that a vicious* (1x), *A vicious* (1x), *animals* (2x), *of dangerous* (1x), *a lion So* (1x), *and whenever a lion* (1x), *than lions* (1x), *were lions* (1x), *with a lion* (1x), *Proud beasts* (1x), *they have pierced* (1x), *There is a lion* (1x), *A fierce lion* (1x), *by lions* (1x), *like lion* (1x), *lion hiding* (1x), *beasts* (3x), *and wild* (1x), *I send wild* (1x), *wild* (2x), *the lion two* (1x), *is the lions* (1x), *living* (1x). 
+*living* (1x), *that a vicious animal* (1x), *A vicious animal* (1x), *lion* (7x), *Like a lion* (2x), *like a lioness* (3x), *of dangerous animals* (1x), *like a lion* (13x), *a lion and* (1x), *lion’s cub* (1x), *a young lion* (3x), *the lion’s* (1x), *and in it* (1x), *from the lion’s* (1x), *a lion So* (1x), *and whenever a lion* (1x), *lions* (10x), *of the lion* (2x), *than lions* (1x), *of a lion* (6x), *a lion* (10x), *were lions* (1x), *the lions* (4x), *and the lion* (4x), *the lion* (2x), *to the lion* (1x), *The lion* (4x), *of lions* (4x), *with a lion* (1x), *and the fierce lion* (1x), *of the young lions* (3x), *The old lion* (1x), *of the lioness* (1x), *Proud beasts* (1x), *for a lioness* (1x), *of young lions* (1x), *like a young lion* (2x), *like lions* (1x), *they have pierced* (1x), *Young lions* (1x), *from these lions* (1x), *of the lions* (4x), *the young lion* (1x), *The young lions* (2x), *There is a lion* (1x), *A lion* (2x), *A fierce lion* (1x), *as a lion* (1x), *is like that of a lion* (1x), *like young lions* (2x), *and young lion* (1x), *upon the* (1x), *Then the lookout* (1x), *of lioness* (1x), *and lion* (1x), *lion roaring* (1x), *a young lion over* (1x), ** (1x), *by lions* (1x), *like lion* (1x), *lion hiding* (1x), *and wild beasts* (1x), *I send wild beasts* (1x), *wild beasts* (1x), *A lioness* (1x), *the young lions* (1x), *the lions a young lion* (1x), *wild animals* (1x), *its villages* (1x), *of a young lion* (1x), *was like a lion* (1x), *am like a lion* (1x), *and like a young lion* (1x), *of a lioness* (1x), *Does a lion* (1x), *a young lion growl* (1x), *the lion two* (1x), *is the lions* (1x), *the lion and lioness* (1x), *with their* (1x), *for the lioness* (1x), *lions I will* (1x). 
 
 
 In the New Testament (BSB), words representing “Lion” are translated as 
@@ -24,11 +24,27 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* lion (GEN 49:9; ECC 9:4; ISA 35:9; JOB 28:8; 1KI 10:19; PRO 28:15; EZK 22:25)
+* living (GEN 6:19)
+
+* that a vicious animal (GEN 37:20)
+
+* A vicious animal (GEN 37:33)
+
+* lion (GEN 49:9; 1KI 10:19; JOB 28:8; PRO 28:15; ECC 9:4; ISA 35:9; EZK 22:25)
 
 * Like a lion (GEN 49:9; ISA 38:13)
 
+* like a lioness (GEN 49:9; NUM 23:24; NUM 24:9)
+
+* of dangerous animals (LEV 26:6)
+
+* like a lion (NUM 23:24; NUM 24:9; JOB 10:16; PSA 7:3; PSA 10:9; PSA 17:12; JER 12:8; JER 25:38; JER 49:19; JER 50:44; HOS 11:10; HOS 13:8; MIC 5:7)
+
+* a lion and (DEU 33:20)
+
 * lion’s cub (DEU 33:22)
+
+* a young lion (JDG 14:5; EZK 19:3; EZK 19:5)
 
 * the lion’s (JDG 14:8)
 
@@ -36,13 +52,27 @@ Return to [Index](00-Index.md)
 
 * from the lion’s (JDG 14:9)
 
-* of a lion (2SA 17:10; EZK 1:10; EZK 10:14; JOL 1:6; PRO 19:12; PRO 20:2)
+* a lion So (JDG 14:18)
 
-* a lion (1KI 13:24; 1KI 20:36; 1KI 20:36; JER 5:6; EZK 32:2; PRO 30:30; HOS 13:7; 2SA 23:20; 1CH 11:22; AMO 5:19)
+* and whenever a lion (1SA 17:34)
+
+* lions (1SA 17:36; 1KI 7:36; 1KI 10:20; 2KI 17:25; 2KI 17:26; 2CH 9:19; DAN 6:17; DAN 6:20; DAN 6:21; ZEP 3:3)
+
+* of the lion (1SA 17:37; PSA 22:22)
+
+* than lions (2SA 1:23)
+
+* of a lion (2SA 17:10; PRO 19:12; PRO 20:2; EZK 1:10; EZK 10:14; JOL 1:6)
+
+* a lion (2SA 23:20; 1KI 13:24; 1KI 20:36; 1KI 20:36; 1CH 11:22; PRO 30:30; JER 5:6; EZK 32:2; HOS 13:7; AMO 5:19)
+
+* were lions (1KI 7:29)
+
+* the lions (1KI 7:29; PSA 57:5; EZK 19:2; DAN 6:25)
 
 * and the lion (1KI 13:24; 1KI 13:28; ISA 11:7; ISA 65:25)
 
-* the lion (1KI 13:25; NAM 2:12; PSA 91:13)
+* the lion (1KI 13:25; PSA 91:13)
 
 * to the lion (1KI 13:26)
 
@@ -50,125 +80,65 @@ Return to [Index](00-Index.md)
 
 * of lions (1CH 12:9; DAN 6:8; DAN 6:13; DAN 6:25)
 
-* like a lion (PSA 7:3; PSA 10:9; PSA 17:12; JER 12:8; JER 49:19; JER 50:44; HOS 11:10; MIC 5:7; JER 25:38; HOS 13:8; JOB 10:16; NUM 23:24; NUM 24:9)
+* with a lion (2CH 9:18)
 
-* like lions (PSA 22:14)
-
-* of the lion (PSA 22:22; 1SA 17:37)
-
-* upon the (ISA 15:9)
-
-* Then the lookout (ISA 21:8)
-
-* lion roaring (ISA 31:4)
-
-*  (JER 2:30)
-
-* A lion (JER 4:7; PRO 26:13)
-
-* lions (DAN 6:17; DAN 6:20; DAN 6:21; 1SA 17:36; 1KI 7:36; 1KI 10:20; 2KI 17:25; 2KI 17:26; 2CH 9:19; ZEP 3:3)
-
-* of the lions (DAN 6:23; DAN 6:28; PSA 58:7; SNG 4:8)
-
-* the lions (DAN 6:25; PSA 57:5; 1KI 7:29; EZK 19:2; EZK 19:6)
-
-* was like a lion (DAN 7:4)
-
-* Does a lion (AMO 3:4)
-
-* with their (NAM 2:12)
-
-* a young lion (JDG 14:5; EZK 19:3; EZK 19:5; EZK 19:6; JDG 14:5)
+* and the fierce lion (JOB 4:10)
 
 * of the young lions (JOB 4:10; NAM 2:12; ZEC 11:3)
+
+* The old lion (JOB 4:11)
+
+* of the lioness (JOB 4:11)
+
+* Proud beasts (JOB 28:8)
+
+* for a lioness (JOB 38:39)
 
 * of young lions (JOB 38:39)
 
 * like a young lion (PSA 17:12; MIC 5:7)
 
+* like lions (PSA 22:14)
+
+* they have pierced (PSA 22:17)
+
 * Young lions (PSA 34:11)
 
 * from these lions (PSA 35:17)
+
+* of the lions (PSA 58:7; SNG 4:8; DAN 6:23; DAN 6:28)
 
 * the young lion (PSA 91:13)
 
 * The young lions (PSA 104:21; JER 2:15)
 
+* There is a lion (PRO 22:13)
+
+* A lion (PRO 26:13; JER 4:7)
+
+* A fierce lion (PRO 26:13)
+
 * as a lion (PRO 28:1)
+
+* is like that of a lion (ISA 5:29)
 
 * like young lions (ISA 5:29; JER 51:38)
 
 * and young lion (ISA 11:6)
 
-* a young lion over (ISA 31:4)
+* upon the (ISA 15:9)
 
-* the young lions (EZK 19:2)
-
-* its villages (EZK 38:13)
-
-* of a young lion (EZK 41:19)
-
-* and like a young lion (HOS 5:14)
-
-* a young lion growl (AMO 3:4)
-
-* lions I will (NAM 2:14)
-
-* A lioness (EZK 19:2)
-
-* for the lioness (NAM 2:13)
-
-* like a lioness (GEN 49:9; NUM 23:24; NUM 24:9)
-
-* a lion and (DEU 33:20)
-
-* of the lioness (JOB 4:11)
-
-* for a lioness (JOB 38:39)
-
-* is like that of a lion (ISA 5:29)
+* Then the lookout (ISA 21:8)
 
 * of lioness (ISA 30:6)
 
-* of a lioness (JOL 1:6)
-
-* and lioness (NAM 2:12)
-
-* The old lion (JOB 4:11)
-
 * and lion (ISA 30:6)
 
-* and the fierce lion (JOB 4:10)
+* lion roaring (ISA 31:4)
 
-* am like a lion (HOS 5:14)
+* a young lion over (ISA 31:4)
 
-* animal (GEN 37:20; GEN 37:33)
-
-* that a vicious (GEN 37:20)
-
-* A vicious (GEN 37:33)
-
-* animals (LEV 26:6; EZK 34:25)
-
-* of dangerous (LEV 26:6)
-
-* a lion So (JDG 14:18)
-
-* and whenever a lion (1SA 17:34)
-
-* than lions (2SA 1:23)
-
-* were lions (1KI 7:29)
-
-* with a lion (2CH 9:18)
-
-* Proud beasts (JOB 28:8)
-
-* they have pierced (PSA 22:17)
-
-* There is a lion (PRO 22:13)
-
-* A fierce lion (PRO 26:13)
+*  (JER 2:30)
 
 * by lions (JER 50:17)
 
@@ -176,19 +146,47 @@ Return to [Index](00-Index.md)
 
 * lion hiding (LAM 3:10)
 
-* beasts (EZK 5:17; EZK 14:15; EZK 14:21)
+* and wild beasts (EZK 5:17)
 
-* and wild (EZK 5:17)
+* I send wild beasts (EZK 14:15)
 
-* I send wild (EZK 14:15)
+* wild beasts (EZK 14:21)
 
-* wild (EZK 14:21; EZK 34:25)
+* A lioness (EZK 19:2)
+
+* the young lions (EZK 19:2)
+
+* the lions a young lion (EZK 19:6)
+
+* wild animals (EZK 34:25)
+
+* its villages (EZK 38:13)
+
+* of a young lion (EZK 41:19)
+
+* was like a lion (DAN 7:4)
+
+* am like a lion (HOS 5:14)
+
+* and like a young lion (HOS 5:14)
+
+* of a lioness (JOL 1:6)
+
+* Does a lion (AMO 3:4)
+
+* a young lion growl (AMO 3:4)
 
 * the lion two (AMO 3:12)
 
 * is the lions (NAM 2:12)
 
-* living (GEN 6:19)
+* the lion and lioness (NAM 2:12)
+
+* with their (NAM 2:12)
+
+* for the lioness (NAM 2:13)
+
+* lions I will (NAM 2:14)
 
 
 
@@ -210,43 +208,9 @@ Return to [Index](00-Index.md)
 
 ### OT Pronominal Referents (BSB)
 
-* in a thicket (PSA 10:9)
-
-* my lord (ISA 21:8)
-
-* I (ISA 21:8; ISA 21:8)
-
-* my post (ISA 21:8)
-
-* prey and though (ISA 31:4; ISA 31:4)
-
-* it is (ISA 31:4; ISA 31:4)
-
-* from his thicket (JER 4:7)
-
-* prey (AMO 3:4)
-
-* its cubs (NAM 2:13)
-
-* for the lioness (NAM 2:13)
-
-* its dens (NAM 2:13)
-
-* and its lairs (NAM 2:13)
+* of every (GEN 6:19)
 
 * and he tore the lion apart (JDG 14:6)
-
-* their food (PSA 104:21)
-
-* their dens (PSA 104:22)
-
-* them (ISA 11:6)
-
-* their voices (JER 2:15)
-
-* in (AMO 3:4)
-
-* his den if (AMO 3:4)
 
 * after it (1SA 17:35)
 
@@ -264,23 +228,85 @@ Return to [Index](00-Index.md)
 
 * which are indeed (2KI 17:26)
 
-* of every (GEN 6:19)
+* in a thicket (PSA 10:9)
+
+* their food (PSA 104:21)
+
+* their dens (PSA 104:22)
+
+* them (ISA 11:6)
+
+* my lord I (ISA 21:8)
+
+* I my post (ISA 21:8)
+
+* prey and though (ISA 31:4; ISA 31:4)
+
+* it is (ISA 31:4; ISA 31:4)
+
+* their voices (JER 2:15)
+
+* from his thicket (JER 4:7)
+
+* prey (AMO 3:4)
+
+* in (AMO 3:4)
+
+* his den if (AMO 3:4)
+
+* its cubs (NAM 2:13)
+
+* for the lioness (NAM 2:13)
+
+* its dens (NAM 2:13)
+
+* and its lairs (NAM 2:13)
 
 
 
 ### OT Subject Referents (BSB)
 
+* at him (JDG 14:5)
+
+* and carried off (1SA 17:34)
+
+* If it reared up (1SA 17:35)
+
 * and killed him (1KI 13:24; 1KI 20:36)
 
 * or mauled (1KI 13:28)
+
+* killed some of (2KI 17:25)
+
+* had ever been made (2CH 9:19)
+
+* they crouch (JOB 38:40; JOB 38:40)
+
+* and lie (JOB 38:40; JOB 38:40)
 
 * greedy (PSA 17:12)
 
 * for prey (PSA 17:12)
 
+* lurking (PSA 17:12)
+
 * and maul (PSA 22:14)
 
 * that roar (PSA 22:14)
+
+* and hungry (PSA 34:11)
+
+* with ravenous beasts (PSA 57:5)
+
+* and seek (PSA 104:21)
+
+* and they withdraw (PSA 104:22)
+
+* they lie down (PSA 104:22)
+
+* Like a roaring (PRO 28:15)
+
+* to retreat (PRO 30:30)
 
 * a dead (ECC 9:4)
 
@@ -296,15 +322,27 @@ Return to [Index](00-Index.md)
 
 * destroy (ISA 65:25)
 
+* they have sounded (JER 2:15)
+
+* They have laid (JER 2:15)
+
 * a voracious lion (JER 2:30)
 
 * and a destroyer (JER 4:7)
 
 * one will come up (JER 49:19; JER 50:44)
 
+* and they will leave you childless (EZK 5:17)
+
+* to leave it childless (EZK 14:15)
+
+* is like a roaring (EZK 22:25)
+
 * hurt me (DAN 6:23)
 
 * and crushed (DAN 6:25)
+
+* has caught nothing (AMO 3:4)
 
 * it passes through (MIC 5:7; MIC 5:7)
 
@@ -315,50 +353,6 @@ Return to [Index](00-Index.md)
 * and strangled prey (NAM 2:13)
 
 * It filled (NAM 2:13)
-
-* at him (JDG 14:5)
-
-* they crouch (JOB 38:40; JOB 38:40)
-
-* and lie (JOB 38:40; JOB 38:40)
-
-* lurking (PSA 17:12)
-
-* and hungry (PSA 34:11)
-
-* and seek (PSA 104:21)
-
-* and they withdraw (PSA 104:22)
-
-* they lie down (PSA 104:22)
-
-* they have sounded (JER 2:15)
-
-* They have laid (JER 2:15)
-
-* has caught nothing (AMO 3:4)
-
-* with ravenous beasts (PSA 57:5)
-
-* to retreat (PRO 30:30)
-
-* and carried off (1SA 17:34)
-
-* If it reared up (1SA 17:35)
-
-* killed (2KI 17:25)
-
-* some of (2KI 17:25)
-
-* had ever been made (2CH 9:19)
-
-* Like a roaring (PRO 28:15)
-
-* and they will leave you childless (EZK 5:17)
-
-* to leave it childless (EZK 14:15)
-
-* is like a roaring (EZK 22:25)
 
 * are roaring (ZEP 3:3)
 

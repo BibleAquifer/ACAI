@@ -1,0 +1,60 @@
+{
+  "id": "realia:Wristband",
+  "primary_id": "realia:Wristband",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:6.14"
+    ]
+  },
+  "type": "realia",
+  "realia_type": "Clothing",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Wristband",
+      "alternate_labels": [
+        "Magic Charm"
+      ],
+      "descriptions": [
+        {
+          "description": "The wristband was a strip of sewn cloth worn on the wrist.",
+          "source": "acai",
+          "gloss": "Wristband",
+          "article": "realia:Wristband"
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כֶּסֶת"
+    ]
+  },
+  "key_references": [
+    "26013018",
+    "26013020"
+  ],
+  "references": [
+    "26013018",
+    "26013020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260130180081"
+      ],
+      [
+        "o260130200081",
+        "o260130200082"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260130200172"
+      ]
+    ]
+  }
+}

@@ -13,10 +13,10 @@
       "https://imperium.ahlfeldt.se/places/41235"
     ],
     "tipnr": [
-      "Hermon_Mount@Deu.3.8-Ezk",
-      "Baal-hamon|Hermon_Mount@Deu.3.8-Ezk",
-      "Baal-gad|Hermon_Mount@Deu.3.8-Ezk",
       "Senir|Hermon_Mount@Deu.3.8-Ezk",
+      "Baal-hamon|Hermon_Mount@Deu.3.8-Ezk",
+      "Hermon_Mount@Deu.3.8-Ezk",
+      "Baal-gad|Hermon_Mount@Deu.3.8-Ezk",
       "Baal-hermon|Hermon_Mount@Deu.3.8-Ezk"
     ],
     "vizbible": [
@@ -31,21 +31,21 @@
     "eng": {
       "preferred_label": "Mount Hermon",
       "alternate_labels": [
-        "Baal-Gad",
+        "field",
         "Hermonites",
         "Mount Siyon",
-        "Baal-Hamon",
-        "field",
-        "Mount Baal-hermon",
-        "Baal-Hermon",
         "Sirion",
-        "Senir",
-        "Lebanon",
+        "Baal-Gad",
         "Mount Sirion",
         "Hermon",
         "Sion",
-        "slope",
-        "Mount Sion"
+        "Baal-Hamon",
+        "Lebanon",
+        "Senir",
+        "Baal-Hermon",
+        "Mount Sion",
+        "Mount Baal-hermon",
+        "slope"
       ],
       "descriptions": [
         {
@@ -85,9 +85,9 @@
     }
   },
   "referred_to_as": [
-    "place:Baal-gad",
     "place:Baal-hermon",
     "place:Senir",
+    "place:Baal-gad",
     "place:Baal-hamon"
   ],
   "mentioned_in_bible": true,
@@ -122,10 +122,10 @@
     }
   },
   "key_references": [
+    "13005023",
     "05003009",
-    "05003008",
     "22004008",
-    "13005023"
+    "05003008"
   ],
   "references": [
     "05003008",
