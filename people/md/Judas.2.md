@@ -4,7 +4,7 @@ A New Testament disciple who betrayed Jesus (acai).
 Other forms include: 
 *Iscariot*, *Judas Iscariot*. 
 Roles include: 
-_Disciple_. 
+_Disciple_, _Disicple_. 
 Judas is also referred to as: 
 [Iscariot (Judas)](Iscariot.md). 
 

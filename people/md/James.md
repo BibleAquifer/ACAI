@@ -2,7 +2,7 @@
 **James**. 
 One of the twelve apostles of Jesus, brother of the apostle and evangelist John, and son of Zebedee. He was martyred for the Christian faith by King Herod Agrippa I (acai). 
 Roles include: 
-_Apostle_, _Disciple_. 
+_Apostle_, _Disciple_, _Martyr_. 
 
 
 

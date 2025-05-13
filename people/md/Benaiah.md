@@ -2,7 +2,7 @@
 **Benaiah**. 
 A warrior and military commander and priest during the reigns of King David and Solomon. He was the son of Jehoiada, the high priest (acai). 
 Roles include: 
-_Military Commander_, _Priest_, _Warrior_. 
+_Army Commander_, _Military Commander_, _Priest_, _Warrior_. 
 
 
 

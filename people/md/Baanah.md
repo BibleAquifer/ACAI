@@ -2,7 +2,7 @@
 **Baanah**. 
 A man, son of Rimmon, who murdered Saul's son Ish-Bosheth (acai). 
 Roles include: 
-_Military Commander_, _Warrior_. 
+_Military Commander_, _Solider_, _Warrior_. 
 
 
 

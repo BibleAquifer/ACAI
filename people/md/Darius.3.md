@@ -2,7 +2,7 @@
 **Darius**. 
 Darius was a Persian emperor during the time of Israelite exile and return of the Israelites. He was a son of Ahasuerus (acai). 
 Roles include: 
-_Emperor_. 
+_Emperor_, _King_, _Ruler_. 
 
 
 

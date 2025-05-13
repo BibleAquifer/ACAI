@@ -1,6 +1,8 @@
 # Joash
 **Joash**. 
 Father of the judge Gideon from the tribe of Manasseh, an Abierizite (acai). 
+Roles include: 
+_Leader_. 
 
 
 

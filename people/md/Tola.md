@@ -4,7 +4,7 @@ A son of the patriarch Issachar and father of: Uzzi, Rephaiah, Jeriel, Jahmai, I
 Other forms include: 
 *Tolaite*. 
 Roles include: 
-_Leader_, _Patriach_. 
+_Leader_, _Patriarch_. 
 Tola is also referred to as: 
 group:Tola (Group). 
 

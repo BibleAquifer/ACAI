@@ -39,7 +39,7 @@ Return to [Index](00-Index.md)
 
 * OpenBible.info: region
 
-* ACAI: region, province
+* ACAI: province, region
 
 
 

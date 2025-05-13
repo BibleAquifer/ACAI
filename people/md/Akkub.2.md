@@ -2,7 +2,7 @@
 **Akkub (Gatekeeper)**. 
 A gatekeeper after the return from the Babylonian exile (acai). 
 Roles include: 
-_Official_. 
+_Gatekeeper_, _Official_. 
 
 
 

@@ -2,7 +2,7 @@
 **Titus**. 
 A Gentile convert and close friend of the apostle Paul. A New Testament letter was written to him by the apostle Paul (acai). 
 Roles include: 
-_Church Leader_. 
+_Church Leader_, _Coworker of Paul_. 
 
 
 

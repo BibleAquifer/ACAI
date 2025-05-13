@@ -4,7 +4,7 @@ Father of Eliasaph, a chief of the tribe of Gad. Deuel lived during the time of 
 Other forms include: 
 *Reuel*. 
 Roles include: 
-_Leader_, _Patriarch_. 
+_Leader_, _Patriarch_, _Tribal Chief_. 
 Deuel is also referred to as: 
 [Reuel (Deuel)](Reuel.md). 
 

@@ -2,7 +2,7 @@
 **Amasa**. 
 A military leader who replaced Abner as general during the time of Israel’s united kingdom. He was a son of Jether and Abigail, who was King David’s sister (acai). 
 Roles include: 
-_Military Commander_, _Warrior_. 
+_Army Commander_, _Military Commander_, _Warrior_. 
 
 
 

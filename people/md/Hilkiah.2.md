@@ -2,7 +2,7 @@
 **Hilkiah**. 
 The high priest living during the reign of King Josiah, who found the book of the Law. He was a son of Shallum and the father of Azariah and Gemariah (acai). 
 Roles include: 
-_High Priest_. 
+_High Priest_, _Priest_. 
 
 
 

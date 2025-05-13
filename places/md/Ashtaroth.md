@@ -3,7 +3,7 @@
 A Levitical town in the territory of Manasseh, east of the Jordan River, assigned to the clan of Gershon; possibly to be identified with Beeshterah, Ashteroth-Karnaim, and Karnaim. It was the former residence of King Sihon of Heshbon and King Og of Bashan and conquered by the Israelites. 
 Located in the tribal area of [Tribe of Manasseh](../../../groups/md/acai/Manasseh.md). 
 Other forms include: 
-*Ashterathite*, *Astaroth*, *Beeshterah*. 
+*Ashterathite*, *Astaroth*, *Be Eshterah*. 
 Ashtaroth is also referred to as: 
 Ashtaroth (Group), [Beeshterah](Beeshterah.md). 
 

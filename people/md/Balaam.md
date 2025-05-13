@@ -2,7 +2,7 @@
 **Balaam**. 
 A non-Israelite prophet during the time of the Israel's leader Joshua. He was summoned by king Balak of Moab to curse Israel. Balaam's name became symbolic of people who are greedy for gain at the expense of other people (acai). 
 Roles include: 
-_Prophet_. 
+_Fortune-Teller_, _Prophet_. 
 
 
 

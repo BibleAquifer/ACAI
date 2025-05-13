@@ -2,7 +2,7 @@
 **Tychicus**. 
 One of the apostle Paul's fellow ministers and who served as a messenger to churches. He was from Asia Minor (acai). 
 Roles include: 
-_Church Leader_, _Missionary_. 
+_Church Leader_, _Missionary_, _Official_. 
 
 
 

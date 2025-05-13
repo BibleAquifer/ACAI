@@ -2,7 +2,7 @@
 **Canaan (Son of Ham)**. 
 The youngest son of Ham, and a grandson of Noah. Canaan is thought to be the ancestor of the Canaanites (acai). 
 Roles include: 
-_Leader_, _Patriarchl_. 
+_Leader_, _Patriarch_. 
 
 
 

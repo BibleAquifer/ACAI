@@ -2,7 +2,7 @@
 **Shemaiah (Jeremiah 29:24)**. 
 A false prophet living during the time of Jeremiah the prophet (acai). 
 Roles include: 
-_Prophet_. 
+_Priest_, _Prophet_. 
 
 
 

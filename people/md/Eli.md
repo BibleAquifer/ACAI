@@ -2,7 +2,7 @@
 **Eli**. 
 Priest at Shiloh who raised the prophet Samuel. He was father of Hophni and Phineas (acai). 
 Roles include: 
-_High Priest_. 
+_High Priest_, _Priest_. 
 
 
 

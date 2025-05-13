@@ -2,7 +2,7 @@
 **Ahira**. 
 The chief of the tribe of Naphtali during the time of Moses. He was a son of Enan (acai). 
 Roles include: 
-_Patriarch_. 
+_Patriarch_, _Tribal Chief_. 
 
 
 

@@ -4,7 +4,7 @@ Uriah was a priest during the time of King Ahaz of Judah appointed to build a ne
 Other forms include: 
 *Urijah*. 
 Roles include: 
-_Priest_. 
+_High Priest_, _Priest_. 
 
 
 

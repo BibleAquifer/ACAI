@@ -1,6 +1,8 @@
 # Manoah
 **Manoah**. 
 Father of the judge Samson (acai). 
+Roles include: 
+_Patriarch_. 
 
 
 

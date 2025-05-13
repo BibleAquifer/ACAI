@@ -2,7 +2,7 @@
 **Abner**. 
 Cousin and army commander of King Saul and his son Ish-Bosheth (acai). 
 Roles include: 
-_Military Commander_, _Royal Family Member_, _Warrior_. 
+_Commander_, _Military Commander_, _Royal Family Member_, _Warrior_. 
 
 
 

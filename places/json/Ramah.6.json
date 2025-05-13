@@ -14,19 +14,16 @@
         {
           "source": "acai",
           "article": "place:Ramah.6",
-          "gloss": "Ramah (of the Negev)",
-          "description": "A town in the territory of Simeon; also known as Ramoth-Negev."
+          "gloss": "Ramah (of Asher)",
+          "description": "A town in the territory of Asher."
         }
       ],
-      "preferred_label": "Ramah (of the Negev)",
-      "alternate_labels": [
-        "Ramath-Negev",
-        "Ramath-Negeb",
-        "Ramoth-Negeb",
-        "Ramoth-Negev"
-      ]
+      "preferred_label": "Ramah (of Asher)"
     }
   },
+  "subregion_of": [
+    "place:TerritoryOfAsher"
+  ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
   "non_biblical": false,
@@ -39,6 +36,6 @@
     ]
   },
   "key_references": [
-    "06019008"
+    "06019029"
   ]
 }

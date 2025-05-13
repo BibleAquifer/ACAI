@@ -1,6 +1,8 @@
 # Jehoiada
 **Jehoiada**. 
 Father of the military commander Benaiah, who served under the kings David and Solomon (acai). 
+Roles include: 
+_Army Commander_, _Warrior_. 
 
 
 

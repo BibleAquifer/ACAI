@@ -1,6 +1,8 @@
 # Chenaanah
 **Chenaanah**. 
 A man living during the time of the divided kingdom of Israel. He was the father of Zedekiah, a false prophet during the reign of Ahab (acai). 
+Roles include: 
+_False Prophet_. 
 
 
 

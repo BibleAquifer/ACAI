@@ -4,7 +4,7 @@ A Levite liturgical musical leader chosen by King David. He was also called the 
 Other forms include: 
 *Ethan*, *Jedithun*. 
 Roles include: 
-_Leader_, _Priest_. 
+_Leader_, _Priest_, _Singer_. 
 Jeduthun is also referred to as: 
 [Ethan (Jeduthun)](Ethan.3.md). 
 

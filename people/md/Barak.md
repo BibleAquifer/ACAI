@@ -4,7 +4,7 @@ A judge of Israel before the united kingdom, and son of Abinoam (acai).
 Other forms include: 
 *Bedan*. 
 Roles include: 
-_Judge_, _Military Commander_. 
+_Army Commander_, _Judge_, _Military Commander_. 
 
 
 

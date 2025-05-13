@@ -2,7 +2,7 @@
 **Seraiah**. 
 A man who came with Zerubbael during the return of the Israelites (acai). 
 Roles include: 
-_Priest_. 
+_Priest_, _Scribe_. 
 
 
 

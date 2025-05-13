@@ -2,7 +2,7 @@
 **Elizur**. 
 Son of Shedeur and chief of the tribe of Reuben during the time of the wilderness wandering of the Israelites (acai). 
 Roles include: 
-_Leader_, _Patriarch_. 
+_Leader_, _Patriarch_, _Tribal Chief_. 
 
 
 

@@ -4,7 +4,7 @@ Woman living at the time of the New Testament (tipnr-short).
 Other forms include: 
 *Priscilla*. 
 Roles include: 
-_Church Leader_, _Tentmaker_. 
+_Church Leader_, _Tent Maker_. 
 Prisca (Priscilla) is also referred to as: 
 [Priscilla](Priscilla.md). 
 Prisca (Priscilla) is a subentry. The primary entry is 

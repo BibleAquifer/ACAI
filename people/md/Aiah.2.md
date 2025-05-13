@@ -2,7 +2,7 @@
 **Aiah (Father of Rizpah)**. 
 Father of Saul's concubine Rizpah (acai). 
 Roles include: 
-_Royal Family Member_. 
+_Concubine_, _Royal Family Member_. 
 
 
 

@@ -4,7 +4,7 @@ A high priest during the time of King Joash. He was husband of Jehosheba and fat
 Other forms include: 
 *Barachiah*, *Barachias*, *Berekiah*. 
 Roles include: 
-_High Priest_. 
+_High Priest_, _Priest_. 
 Jehoiada is also referred to as: 
 [Barachiah (Jehoiada)](Barachiah.md). 
 

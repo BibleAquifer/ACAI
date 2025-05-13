@@ -2,7 +2,7 @@
 **Joab**. 
 King David’s nephew and chief of his army during Israel’s united kingdom. He was a son of Zeruiah and brother of Abishai and Asahel (acai). 
 Roles include: 
-_Military Commander_, _Royal Family Member_. 
+_Army Commander_, _Military Commander_, _Royal Family Member_. 
 
 
 

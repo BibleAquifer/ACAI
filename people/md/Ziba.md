@@ -2,7 +2,7 @@
 **Ziba**. 
 Servant of King Saul who assisted King David after Saul’s death (acai). 
 Roles include: 
-_Slave_. 
+_Servant_, _Slave_. 
 
 
 

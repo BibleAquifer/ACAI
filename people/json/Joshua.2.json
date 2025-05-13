@@ -9,9 +9,9 @@
       "132454|Joshua and Zerubbabel|BiblicaStudyNotesKeyTerms"
     ],
     "tipnr": [
-      "Hoshea|Joshua@Exo.17.9-Heb",
       "Joshua@Exo.17.9-Heb",
-      "Jeshua|Joshua@Exo.17.9-Heb"
+      "Jeshua|Joshua@Exo.17.9-Heb",
+      "Hoshea|Joshua@Exo.17.9-Heb"
     ],
     "vizbible": [
       "recLuZtSmAO6erIsc"
@@ -21,9 +21,11 @@
   "gender": "male",
   "father": "person:Nun",
   "roles": [
-    "Ruler",
+    "Tribal Chief",
+    "Warrior",
+    "Army Commander",
     "Military Commander",
-    "Warrior"
+    "Ruler"
   ],
   "tribe": "group:Ephraim",
   "related_places": {
@@ -35,11 +37,11 @@
     "eng": {
       "preferred_label": "Joshua (Son of Nun)",
       "alternate_labels": [
+        "Oshea",
         "Jesus",
         "Jehoshua",
-        "Oshea",
-        "Hoshea",
-        "Jeshua"
+        "Jeshua",
+        "Hoshea"
       ],
       "descriptions": [
         {

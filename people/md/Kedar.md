@@ -2,7 +2,7 @@
 **Kedar**. 
 A son of the patriarch Ishmael (acai). 
 Roles include: 
-_Leader_, _Patriarch_. 
+_Leader_, _Military Commander_, _Patriarch_. 
 
 
 

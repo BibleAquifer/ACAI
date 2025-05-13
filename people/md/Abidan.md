@@ -2,7 +2,7 @@
 **Abidan**. 
 Son of Gideoni, and the leader of the tribe of Benjamin during the time of Moses (acai). 
 Roles include: 
-_Patriarch_. 
+_Patriarch_, _Tribal Chief_. 
 
 
 

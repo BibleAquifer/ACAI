@@ -2,7 +2,7 @@
 **Mary**. 
 A disciple of Jesus who was among the myrhhbearing women. She was the mother of James and Joseph (Joses) (acai). 
 Roles include: 
-_Disciple_. 
+_Disciple_, _Relative of Jesus_. 
 
 
 

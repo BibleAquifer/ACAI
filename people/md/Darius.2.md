@@ -2,7 +2,7 @@
 **Darius**. 
 Darius was a Persian emperor during the time of Israelite exile and return of the Israelites. The prophets Haggai and Zechariah were active during his reign (acai). 
 Roles include: 
-_Emperor_. 
+_Emperor_, _King_. 
 
 
 

@@ -2,7 +2,7 @@
 **Zibeon**. 
 A son of Seir the Horite, brother of Lotan, Shobal, Anah, Dishon, Ezer, Dishan, and Timna, and father of Aiah and Anah (acai). 
 Roles include: 
-_Leader _. 
+_Leader_. 
 
 
 

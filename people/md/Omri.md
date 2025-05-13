@@ -2,7 +2,7 @@
 **Omri**. 
 Father of King Ahab and a ruler of the northern kingdom of Israel (acai). 
 Roles include: 
-_King_. 
+_King_, _Royal Family Member_. 
 
 
 

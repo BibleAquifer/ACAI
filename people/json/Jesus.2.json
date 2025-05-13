@@ -10,11 +10,11 @@
       "132092|Lord Jesus Christ|BiblicaStudyNotesKeyTerms"
     ],
     "tipnr": [
+      "Immanuel|Jesus@Mat.1.1-Rev",
+      "Christ|Jesus@Mat.1.1-Rev",
       "Lord|Jesus@Mat.1.1.1-Rev",
       "Messiah|Jesus@Mat.1.1-Rev",
-      "Jesus@Mat.1.1-Rev",
-      "Christ|Jesus@Mat.1.1-Rev",
-      "Immanuel|Jesus@Mat.1.1-Rev"
+      "Jesus@Mat.1.1-Rev"
     ],
     "vizbible": [
       "recgkFqZovgbr3pAi"
@@ -31,13 +31,13 @@
     "person:Jude"
   ],
   "roles": [
-    "Deity",
     "Messiah",
-    "Priest",
-    "Prophet",
-    "King",
     "Teacher",
-    "Carpenter"
+    "Prophet",
+    "Carpenter",
+    "King",
+    "Priest",
+    "Deity"
   ],
   "tribe": "group:Judah",
   "related_places": {
@@ -52,14 +52,14 @@
     "eng": {
       "preferred_label": "Jesus",
       "alternate_labels": [
-        "Emmanuel",
         "Christian",
-        "Immanuel",
-        "Jesus Christ",
-        "Christ Jesus",
-        "Lord",
         "Messiah",
-        "Christ"
+        "Christ Jesus",
+        "Emmanuel",
+        "Lord",
+        "Christ",
+        "Immanuel",
+        "Jesus Christ"
       ],
       "descriptions": [
         {

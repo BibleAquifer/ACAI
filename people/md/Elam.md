@@ -4,7 +4,7 @@ A man whose descendants are listed during the return of Israel from exile (acai)
 Other forms include: 
 *Olam*. 
 Roles include: 
-_Leader _. 
+_Leader_. 
 
 
 

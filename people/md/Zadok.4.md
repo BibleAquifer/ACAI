@@ -2,7 +2,7 @@
 **Zadok**. 
 Grandson of Ahitub, son of Meraioth, father of Shallum, and high proiest during the Israelite return from exile (acai). 
 Roles include: 
-_High Priest_. 
+_High Priest_, _Priest_. 
 
 
 

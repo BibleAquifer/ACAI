@@ -4,7 +4,7 @@ Ruler of Galilee and tetrarch during the time of Jesus. He was the son of King H
 Other forms include: 
 *Herod*. 
 Roles include: 
-_King_, _Royal Family Member_, _Ruler_. 
+_King_, _Royal Family Member_, _Ruler_, _Tetrarch_. 
 
 
 

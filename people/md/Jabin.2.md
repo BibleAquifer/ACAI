@@ -2,7 +2,7 @@
 **Jabin**. 
 A Canaanite king of Hazor who lived during the time of the Deborah the judge (acai). 
 Roles include: 
-_King_. 
+_King_, _Ruler_. 
 
 
 

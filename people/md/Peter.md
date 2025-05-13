@@ -4,7 +4,7 @@ He was chief of the twelve apostles of Jesus. Peter was the son of John and brot
 Other forms include: 
 *Bar-Jona*, *Bar-Jonah*, *Cephas*, *KJV= Peter*, *Simeon*, *Simon*, *Simon Peter*, *son of Jonah*. 
 Roles include: 
-_Apostle_, _Church Leader_. 
+_Apostle_, _Church Leader_, _Disciple_, _Fisherman_, _Martyr_. 
 Peter is also referred to as: 
 [Bar-jonah (Peter)](Bar-jonah.md), [Cephas (Peter)](Cephas.md), [Simeon (Peter)](Simeon.md), [Simon (Peter)](Simon.md). 
 

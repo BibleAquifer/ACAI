@@ -1,17 +1,19 @@
-# Gilgal (near Jericho)
-**Gilgal (near Jericho)**. 
-A town close to Jericho where the Israelites first camped after crossing the Jordan River and set up twelve stones as a monument; it later became the location of a cultic center. 
+# Gilgal (of Judah)
+**Gilgal (of Judah)**. 
+A location near the northern boundary of the territory of Judah; also known as Geliloth. 
 Other forms include: 
 *Gilgal*. 
 
 
 
 
-Other information about Gilgal (near Jericho):
+Other information about Gilgal (of Judah):
 
 
-* Is located near the following area(s): 
-[Jericho (Old Testament)](Jericho.md). 
+* May refer to the same location as: 
+[Geliloth](Geliloth.md). 
+* Is located within the following region(s): 
+[Territory of Judah](TerritoryOfJudah.md). 
 
 
 **OT Distribution of References**
@@ -21,11 +23,11 @@ Other information about Gilgal (near Jericho):
 
 
 
-**Key References for Gilgal (near Jericho)**: 
-JOS 4:19, JOS 4:20, 1SA 7:17. 
+**Key References for Gilgal (of Judah)**: 
+JOS 15:7. 
 
 
-In the Old Testament (BSB), words representing “Gilgal (near Jericho)” are translated as 
+In the Old Testament (BSB), words representing “Gilgal (of Judah)” are translated as 
 *Gilgal* (1x), *to Gilgal* (1x). 
 
 
@@ -52,7 +54,7 @@ Return to [Index](00-Index.md)
 
 * OpenBible.info: settlement
 
-* ACAI: town
+* ACAI: settlement
 
 
 

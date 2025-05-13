@@ -4,7 +4,7 @@ The successor of Moses who led the Israelites into Canaan. He was the son of Nun
 Other forms include: 
 *Hoshea*, *Jehoshua*, *Jeshua*, *Jesus*, *Oshea*. 
 Roles include: 
-_Military Commander_, _Ruler_, _Warrior_. 
+_Army Commander_, _Military Commander_, _Ruler_, _Tribal Chief_, _Warrior_. 
 Joshua (Son of Nun) is also referred to as: 
 [Hoshea (Joshua)](Hoshea.4.md), [Jeshua (Joshua)](Jeshua.8.md). 
 

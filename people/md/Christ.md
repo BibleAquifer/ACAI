@@ -4,7 +4,7 @@ Man living at the time of the New Testament (tipnr-short).
 Other forms include: 
 *Christ Jesus*, *Jesus*. 
 Roles include: 
-_God_, _Messiah_. 
+_Deity_, _God_, _Messiah_. 
 Christ (Jesus) is also referred to as: 
 [Jesus](Jesus.2.md). 
 Christ (Jesus) is a subentry. The primary entry is 

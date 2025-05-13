@@ -14,7 +14,7 @@ In the Old Testament (BSB), words representing “To Muzzle” are translated as
 
 
 In the New Testament (BSB), words representing “To Muzzle” are translated as 
-*Do not muzzle* (2x). 
+*Do not muzzle* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -31,7 +31,7 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* Do not muzzle (1CO 9:9; 1TI 5:18)
+* Do not muzzle (1CO 9:9)
 
 
 
@@ -45,7 +45,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* DEU 25:4; PSA 39:2; 1CO 9:9; 1TI 5:18
+* DEU 25:4; PSA 39:2; 1CO 9:9
 
 
 

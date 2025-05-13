@@ -2,7 +2,7 @@
 **Deborah**. 
 Deborah was a prophetess and judge of Israel, who advised Barak in battle. She lived during the time of the judges and was the wife of Lappidoth (acai). 
 Roles include: 
-_Judge_, _Military Commander_, _Prophet_. 
+_Judge_, _Military Commander_, _Prophet_, _Warrior_. 
 
 
 

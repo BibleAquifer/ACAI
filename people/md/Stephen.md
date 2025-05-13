@@ -2,7 +2,7 @@
 **Stephen**. 
 One of the first seven deacons of the church in Jerusalem, and the first Christian martyr (acai). 
 Roles include: 
-_Church Leader_. 
+_Church Leader_, _Disciple_, _Prophet_. 
 
 
 

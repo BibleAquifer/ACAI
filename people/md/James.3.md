@@ -2,7 +2,7 @@
 **James (Brother of Jesus)**. 
 Brother and apostle of Jesus and the leader of the early church in Jerusalem (acai). 
 Roles include: 
-_Apostle_, _Church Leader_, _Relative of Jesus_. 
+_Apostle_, _Apostlel Relative of Jesus_, _Church Leader_, _Relative of Jesus_. 
 
 
 

@@ -2,7 +2,7 @@
 **Benaiah**. 
 A musician and Levitical priest living during the time of the Israel's united kingdom (acai). 
 Roles include: 
-_Leader_, _Priest_. 
+_Leader_, _Priest_, _Singer_. 
 
 
 

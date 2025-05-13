@@ -15,22 +15,22 @@
   },
   "type": "place",
   "ubsdgnt": [
-    "1.95",
     "20.83",
-    "8.64"
+    "8.64",
+    "1.95"
   ],
   "localizations": {
     "eng": {
       "preferred_label": "Field of Blood",
       "alternate_labels": [
-        "Akeldama",
-        "Blood",
         "Hakeldama",
-        "Field of Blood",
-        "Aceldama",
+        "Field of",
         "The field of blood",
+        "Aceldama",
+        "Field of Blood",
         "Akel Dama",
-        "Field of"
+        "Blood",
+        "Akeldama"
       ]
     },
     "fra": {
@@ -72,8 +72,8 @@
   "added_entry": false,
   "lemmas": {
     "el": [
-      "ἀγρός",
-      "αἷμα"
+      "αἷμα",
+      "ἀγρός"
     ]
   },
   "place_types": {

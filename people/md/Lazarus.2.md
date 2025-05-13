@@ -2,7 +2,7 @@
 **Lazarus**. 
 A New Testament friend of Jesus from Bethany who was the brother of Mary and Martha. He was best known for being resurrected by Jesus after being dead for four days (acai). 
 Roles include: 
-_Disciple_. 
+_Disciple_, _Relative of Jesus_. 
 
 
 

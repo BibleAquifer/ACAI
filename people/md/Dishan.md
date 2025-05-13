@@ -2,7 +2,7 @@
 **Dishan**. 
 An Edomite and son of Seir, and a chief of the Horites (acai). 
 Roles include: 
-_Leader_, _Patriarch_. 
+_Leader_, _Patriarch_, _Tribal Chief_. 
 
 
 

@@ -2,7 +2,7 @@
 **Arioch**. 
 A captain of King Nebuchadnezzar’s guard living during the time of Israel's exile to Babylon (acai). 
 Roles include: 
-_Military Commander_. 
+_Captain_, _Military Commander_. 
 
 
 

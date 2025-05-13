@@ -2,7 +2,7 @@
 **Zadok**. 
 A son of Ahitub and father of Ahimaaz, he was the high priest who anointed Solomon as king (acai). 
 Roles include: 
-_High Priest_. 
+_High Priest_, _Priest_. 
 
 
 

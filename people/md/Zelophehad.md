@@ -2,7 +2,7 @@
 **Zelophehad**. 
 Zelophehad was a man from the tribe of Manasseh who lived during the time of Egypt and the wilderness. He fathered five daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah (acai). 
 Roles include: 
-_Leader_. 
+_Leader_, _Patriarch_. 
 
 
 

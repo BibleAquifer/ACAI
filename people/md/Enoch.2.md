@@ -4,7 +4,7 @@ Son of Jared and father of Methuselah. Enoch pleased God, so He took him to heav
 Other forms include: 
 *Henoch*. 
 Roles include: 
-_Patriarch _. 
+_Patriarch_. 
 
 
 

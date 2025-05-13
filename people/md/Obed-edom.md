@@ -3,6 +3,8 @@
 A Gittite in whose house the ark of the covenat was stored during King David's reign (acai). 
 Other forms include: 
 *Shimei*. 
+Roles include: 
+_Official_, _Priest_. 
 Obed-edom is also referred to as: 
 [Shimei (Obed-edom)](Shimei.md). 
 

@@ -1,4 +1,4 @@
-# ACAI Release: 2025-03-13
+# ACAI Release: 2025-05-13
 
 The ACAI project annotates information about people and places in the Bible. Specifically, it annotates the original languages at the word and phrase level for specific instances of people, places, and other entities. When used with a word-level alignment to a translation of the Bible (see Biblica's [Alignments](https://github.com/Clear-Bible/Alignments)) this information can be useful in all sorts of translation contexts.
 
@@ -30,7 +30,7 @@ Each record contains a `localizations` object that contains a `preferred_label` 
 
 # Included Data
 
-The data included in this release is a snapshot of the data as of 2025-03-13. It includes JSON files and Markdown files for each record. The Markdown files are generated from the JSON files (along with some Berean Standard Bible [text alignment data](https://github.com/Clear-Bible/Alignments)). They are only included as a visualization of the data within the JSON and not intended to direct or dictate how the JSON data should be used or rendered.
+The data included in this release is a snapshot of the data as of 2025-05-13. It includes JSON files and Markdown files for each record. The Markdown files are generated from the JSON files (along with some Berean Standard Bible [text alignment data](https://github.com/Clear-Bible/Alignments)). They are only included as a visualization of the data within the JSON and not intended to direct or dictate how the JSON data should be used or rendered.
 
 * [people ReadMe](people/README.md)
   * [Markdown Index](people/md/00-Index.md)
@@ -52,7 +52,7 @@ The data included in this release is a snapshot of the data as of 2025-03-13. It
 * Biblica/Clear-Bible's [Macula Greek](https://github.com/Clear-Bible/macula-greek)
 * Biblica/Clear-Bible's [speaker-quotations](https://github.com/Clear-Bible/speaker-quotations), an attempt to identify the original language words, in both the Old and New Testaments, translated as quotations (material using “double” and ‘single’ quotation marks) in various English Bibles. It also attempts to associate speakers with the quotations, where possible, using data from Faith Comes By Hearing.
 * United Bible Societies' _UBS Dictionary of Biblical Hebrew_ (UBSDBH) and _UBS Dictionary of the Greek New Testament_ (UBSDGNT). See [SemanticDictionary.org](https://semanticdictionary.org/) for an implementation and the git repo [ubs-open-license](https://github.com/ubsicap/ubs-open-license) for data (English, French, Spanish, and Chinese). Macula Hebrew and Greek encode domains and references from these resources at the word level for most OT and NT words.
-* United Bible Societies' _Thematic Lexicons_. The UBS recently (March 2025) issued their highly useful  _Thematic Lexicons_ under an open license. There are three Thematic Lexicons, one for _Flora_ (plants), one for _Fauna_ (animals), and one for _Realia_ (man-made things). These are available in the [ubs-open-license](https://github.com/ubsicap/ubs-open-license/tree/main/flora-fauna-realia) github repo.
+* United Bible Societies' _Thematic Lexicons_. The UBS recently (March 2025) issued their highly useful _Thematic Lexicons_ under an open license. There are three Thematic Lexicons, one for _Flora_ (plants), one for _Fauna_ (animals), and one for _Realia_ (man-made things). These are available in the [ubs-open-license](https://github.com/ubsicap/ubs-open-license/tree/main/flora-fauna-realia) github repo.
 * openbible.info [Bible Geocoding Data](https://github.com/openbibleinfo/Bible-Geocoding-Data)
 * Robert Rouse's [theographic-bible-metadata](https://github.com/robertrouse/theographic-bible-metadata) (aka [viz.bible](https://viz.bible))
 * [STEPBible](https://www.stepbible.org) [TIPNR](https://github.com/STEPBible/STEPBible-Data/blob/master/TIPNR%20-%20Translators%20Individualised%20Proper%20Names%20with%20all%20References%20-%20STEPBible.org%20CC%20BY.txt) 

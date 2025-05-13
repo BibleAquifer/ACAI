@@ -1,6 +1,6 @@
 # Raamah
 **Raamah**. 
-Grandson of the patriach ham, a son of Cush, and father of Sheba and Dedan (acai). 
+Grandson of the patriarch ham, a son of Cush, and father of Sheba and Dedan (acai). 
 Other forms include: 
 *Raama*. 
 Roles include: 

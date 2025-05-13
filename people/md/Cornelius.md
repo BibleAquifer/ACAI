@@ -2,7 +2,7 @@
 **Cornelius**. 
 A Roman officer (Centurion) whose family was baptized by the apostle Peter (acai). 
 Roles include: 
-_Disciple_, _Military Commander_. 
+_Army Commander_, _Disciple_, _Military Commander_. 
 
 
 

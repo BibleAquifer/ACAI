@@ -13,7 +13,7 @@ Other information about Ramah (Hill):
 
 
 * May refer to the same location as: 
-[Gibeah (of Benjamin)](Gibeah.2.md). 
+[Gibeah (of Phinehas)](Gibeah.2.md). 
 
 
 **OT Distribution of References**

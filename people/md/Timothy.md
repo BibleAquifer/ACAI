@@ -4,7 +4,7 @@ A Christian leader who lived during the time of the New Testament. Two letters o
 Other forms include: 
 *Timotheus*. 
 Roles include: 
-_Apostle_, _Church Leader_, _Missionary_. 
+_Apostle_, _Church Leader_, _Disciple_, _Missionary_. 
 
 
 

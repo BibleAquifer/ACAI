@@ -4,7 +4,7 @@ Son of the patriarch Noah's grandson Canaan and regarded as the founder of the H
 Other forms include: 
 *Hittite*, *of Heth*. 
 Roles include: 
-_Leader_, _Patriarch_. 
+_Founder of Group_, _Leader_, _Patriarch_. 
 Heth is also referred to as: 
 group:Hittite (Group). 
 

@@ -4,7 +4,7 @@ A man from the tribe of Judah, and a son of Uri. Bezalel was a skilled craftsman
 Other forms include: 
 *Bezaleel*. 
 Roles include: 
-_Carpenter_. 
+_Carpenter_, _Craftsman_. 
 
 
 

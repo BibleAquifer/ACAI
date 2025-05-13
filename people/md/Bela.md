@@ -1,6 +1,6 @@
 # Bela
 **Bela**. 
-A son of the patriach Benjamin and chief of the clan of the Belaites. He was father of Addar and Naaman (acai). 
+A son of the patriarch Benjamin and chief of the clan of the Belaites. He was father of Addar and Naaman (acai). 
 Other forms include: 
 *Belah*, *Belaite*. 
 Roles include: 

@@ -15,7 +15,7 @@ Other information about Bochim:
 
 
 * Is located near the following area(s): 
-[Gilgal (near Jericho)](Gilgal.3.md). 
+[Gilgal (of Judah)](Gilgal.3.md). 
 
 
 **OT Distribution of References**

@@ -2,7 +2,7 @@
 **Eliab**. 
 Son of Helon, who was the chief of the tribe of Zebulun during the wilderness wandering of the Israelites (acai). 
 Roles include: 
-_Leader_, _Patriarch_. 
+_Leader_, _Patriarch_, _Tribal Chief_. 
 
 
 

@@ -2,7 +2,7 @@
 **Aaron**. 
 Moses’s older brother, who served as the first high priest of Israel. He helped Moses lead the Israelites out of Egypt, speaking for Moses when they confronted Pharaoh. Aaron came from an important family in the Israelite tribe of Levi (acai). 
 Roles include: 
-_High Priest_, _Priest_. 
+_High Priest_, _Husband_, _Priest_. 
 
 
 

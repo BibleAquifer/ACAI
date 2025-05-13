@@ -19,34 +19,36 @@
   "type": "place",
   "localizations": {
     "eng": {
-      "preferred_label": "Gilgal (near Shechem)",
+      "preferred_label": "Gilgal (of Judah)",
       "alternate_labels": [
+        "hill of the foreskins",
+        "Gibeath-Haaraloth",
+        "Geliloth",
         "house of Gilgal",
         "Beth-Gilgal",
-        "Gibeath-Haaraloth",
-        "hill of the foreskins",
-        "Geliloth",
         "Gilgal"
       ],
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Gilgal.4",
-          "gloss": "Gilgal (near Shechem)",
-          "description": "A location close to Shechem and the Oak of Moreh."
+          "article": "place:Gilgal.3",
+          "gloss": "Gilgal (of Judah)",
+          "description": "A location near the northern boundary of the territory of Judah; also known as Geliloth."
         }
       ]
     }
   },
+  "possibly_same_as": [
+    "place:Geliloth"
+  ],
   "referred_to_as": [
     "place:Gilgal.2",
     "place:Geliloth",
     "place:Beth-gilgal",
     "place:Gibeath-haaraloth"
   ],
-  "nearby_places": [
-    "place:Shechem",
-    "place:Moreh"
+  "subregion_of": [
+    "place:TerritoryOfJudah"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -80,7 +82,7 @@
     }
   },
   "key_references": [
-    "05011030"
+    "06015007"
   ],
   "references": [
     "05011030",

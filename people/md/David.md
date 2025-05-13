@@ -2,7 +2,7 @@
 **David**. 
 Second king of Israel, and an ancestor of Jesus. He was Jesse’s youngest son and father of King Solomon (acai). 
 Roles include: 
-_King_, _Relative of Jesus_, _Shepherd _, _Warrior_. 
+_King_, _Psalmist_, _Relative of Jesus_, _Shepherd_, _Warrior_. 
 
 
 

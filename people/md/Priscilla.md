@@ -4,7 +4,7 @@ Christian disciple and wife of Aquila, who both were companions and fellow worke
 Other forms include: 
 *Prisca*. 
 Roles include: 
-_Church Leader_, _Disciple_, _Tentmaker_. 
+_Church Leader_, _Coworker of Paul_, _Disciple_, _Tent Maker_, _Tentmaker_. 
 Priscilla is also referred to as: 
 [Prisca (Priscilla)](Prisca.md). 
 

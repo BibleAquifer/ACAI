@@ -9,8 +9,8 @@
       "a32a4f8"
     ],
     "tipnr": [
-      "Chaldea@Gen.11.28-Act",
-      "astrologer|Chaldean@Gen.11.28"
+      "astrologer|Chaldean@Gen.11.28",
+      "Chaldea@Gen.11.28-Act"
     ],
     "wikidata": [
       "http://www.wikidata.org/entity/Q200969"
@@ -22,14 +22,14 @@
       "preferred_label": "Chaldea",
       "alternate_labels": [
         "Chaldeans",
-        "Chaldees",
-        "Babylonia",
-        "Babylonian",
+        "astrologers",
         "Chaldean",
-        "Babylon",
+        "Babylonia",
         "Chaldaeans",
-        "Babylonians",
-        "astrologers"
+        "Chaldees",
+        "Babylonian",
+        "Babylon",
+        "Babylonians"
       ],
       "descriptions": [
         {
@@ -72,10 +72,10 @@
     }
   },
   "referred_to_as": [
-    "place:Leb-kamai",
     "group:Astrologer",
     "group:Chaldea",
-    "place:Babylonia"
+    "place:Babylonia",
+    "place:Leb-kamai"
   ],
   "subregion_of": [
     "place:Mesopotamia"
@@ -95,8 +95,8 @@
     ]
   },
   "key_references": [
-    "24051024",
-    "01011031"
+    "01011031",
+    "24051024"
   ],
   "references": [
     "01011028",

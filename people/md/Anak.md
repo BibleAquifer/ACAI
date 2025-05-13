@@ -4,7 +4,7 @@ Ancestor of a race of giants in Canaan. He was the son of Arba (acai).
 Other forms include: 
 *Anakim*. 
 Roles include: 
-_Patriarch_. 
+_Group_, _Patriarch_. 
 Anak is also referred to as: 
 group:Anak (Group). 
 

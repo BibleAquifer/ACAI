@@ -2,7 +2,7 @@
 **Julius**. 
 A Roman centurion from the New Testament, first mentioned in Acts 27:1 (acai). 
 Roles include: 
-_Official_. 
+_Military Commander_. 
 
 
 

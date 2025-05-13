@@ -2,7 +2,7 @@
 **Ahithophel**. 
 An advisor of King David and David's son Absalom. Ahithophel was from Giloh (acai). 
 Roles include: 
-_Official_. 
+_Advisor_, _Official_. 
 
 
 

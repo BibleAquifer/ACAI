@@ -2,7 +2,7 @@
 **Ammishaddai**. 
 Father of Ahiezer, the chief of the tribe of Dan at the time of Israel’s wilderness wandering (acai). 
 Roles include: 
-_Patriarch_. 
+_Patriarch_, _Tribal Chief_. 
 
 
 

@@ -4,7 +4,7 @@ A Kenizzite and son of Jephunneh, brother of the warrior Caleb, and father of th
 Other forms include: 
 *Kenizzite*. 
 Roles include: 
-_Leader_. 
+_Leader_, _Military Commander_. 
 Kenaz is also referred to as: 
 group:Kenaz (Group). 
 

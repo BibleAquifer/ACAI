@@ -4,7 +4,7 @@ Woman living at the time of the Patriarchs (tipnr-short).
 Other forms include: 
 *Bashemath*, *Mahalath*. 
 Roles include: 
-_Wife_. 
+_Concubine_, _Wife_. 
 Basemath (Mahalath) is also referred to as: 
 [Mahalath](Mahalath.md). 
 Basemath (Mahalath) is a subentry. The primary entry is 

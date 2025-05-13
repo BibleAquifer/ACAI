@@ -2,7 +2,7 @@
 **Johanan**. 
 A son of Kareah and military officer from Judah who opposed Gedaliah the governor after the Israelite return from exile (acai). 
 Roles include: 
-_Military Commander_. 
+_Army Commander_, _Military Commander_. 
 
 
 

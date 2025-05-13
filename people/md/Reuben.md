@@ -4,7 +4,7 @@ The patriarch Jacob’s oldest son who founded the tribe of Reuben (acai).
 Other forms include: 
 *Reubenite*. 
 Roles include: 
-_Leader_, _Patriarch_. 
+_Leader_, _Matriarch_, _Patriarch_. 
 Reuben is also referred to as: 
 group:Reuben (Group). 
 

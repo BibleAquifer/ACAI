@@ -16,7 +16,7 @@
   "type": "place",
   "localizations": {
     "eng": {
-      "preferred_label": "Ramah (Hill)",
+      "preferred_label": "Ramah (of Naphtali)",
       "alternate_labels": [
         "Rama",
         "Ramah"
@@ -24,18 +24,18 @@
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Ramah.8",
-          "gloss": "Ramah (Hill)",
-          "description": "A hill near Gibeah of Benjamin."
+          "article": "place:Ramah.3",
+          "gloss": "Ramah (of Naphtali)",
+          "description": "A fortified town in the territory of Naphtali."
         }
       ]
     }
   },
-  "possibly_same_as": [
-    "place:Gibeah.2"
-  ],
   "referred_to_as": [
     "place:Ramah.2"
+  ],
+  "subregion_of": [
+    "place:TerritoryOfNaphtali"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -51,7 +51,7 @@
       "City"
     ],
     "acai": [
-      "hill"
+      "town"
     ]
   },
   "geocoordinates": {
@@ -69,7 +69,7 @@
     }
   },
   "key_references": [
-    "09022006"
+    "06019036"
   ],
   "references": [
     "06018025",

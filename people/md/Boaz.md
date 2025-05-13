@@ -4,7 +4,7 @@ Second husband of Ruth the Moabitess, and the great-grandfather of King David. H
 Other forms include: 
 *Booz*. 
 Roles include: 
-_Leader_, _Member of the Royal Family_, _Relative of Jesus_. 
+_Farmer_, _Kinsman-Redeemer_, _Leader_, _Member of the Royal Family_, _Relative of Jesus_. 
 
 
 

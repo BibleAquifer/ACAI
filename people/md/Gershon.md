@@ -4,7 +4,7 @@ One of the three sons of Levi. He was the founder of the Gershonite clan (acai).
 Other forms include: 
 *Gershom*, *Gershomite*, *Gershonite*. 
 Roles include: 
-_Leader_, _Patriarch_. 
+_Founder of Group_, _Leader_, _Patriarch_. 
 Gershon is also referred to as: 
 group:Gershon (Group). 
 

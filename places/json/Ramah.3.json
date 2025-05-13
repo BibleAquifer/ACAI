@@ -18,22 +18,22 @@
   ],
   "localizations": {
     "eng": {
-      "preferred_label": "Ramah (of Naphtali)",
+      "preferred_label": "Ramah (of Benjamin)",
       "alternate_labels": [
         "Ramah"
       ],
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Ramah.3",
-          "gloss": "Ramah (of Naphtali)",
-          "description": "A fortified town in the territory of Naphtali."
+          "article": "place:Ramah.1",
+          "gloss": "Ramah (of Benjamin)",
+          "description": "A town in the territory of Benjamin, northwest of Jerusalem, where the prophetess Deborah would judge Israel (Judges 4:5)."
         }
       ]
     }
   },
   "subregion_of": [
-    "place:TerritoryOfNaphtali"
+    "place:TerritoryOfBenjamin"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -60,10 +60,15 @@
     "vizbible": {
       "lat": "33.111078",
       "lon": "35.310464"
+    },
+    "biblica-maps": {
+      "lat": "32.03962",
+      "lon": "35.02353"
     }
   },
   "key_references": [
-    "06019036"
+    "07004005",
+    "06018025"
   ],
   "references": [
     "06019029"

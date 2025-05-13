@@ -2,7 +2,7 @@
 **Elishama**. 
 A son of Ammihud and chief of the tribe of Ephraim during the time of the wilderness wandering of the Israelites (acai). 
 Roles include: 
-_Leader_, _Patriarch_. 
+_Leader_, _Patriarch_, _Tribal Chief_. 
 
 
 

@@ -4,7 +4,7 @@ Apostle living at the time of the New Testament (tipnr-short).
 Other forms include: 
 *Peter*, *Simon Peter*. 
 Roles include: 
-_Apostle_, _Church Leader_. 
+_Apostle_, _Church Leader_, _Disciple_, _Fisherman_, _Martyr_. 
 Simon (Peter) is also referred to as: 
 [Peter](Peter.md). 
 Simon (Peter) is a subentry. The primary entry is 

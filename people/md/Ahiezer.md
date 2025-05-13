@@ -2,7 +2,7 @@
 **Ahiezer**. 
 The chief of the tribe of Dan during the time of Moses. Ahiezer was a son of Ammishaddai (acai). 
 Roles include: 
-_Patriarch_. 
+_Patriarch_, _Tribal Chief_. 
 
 
 

@@ -4,7 +4,7 @@ Caleb was a man from the tribe of Judah and son of Jephunneh. He was listed with
 Other forms include: 
 *Calebite*, *like his heart*. 
 Roles include: 
-_Leader_, _Warrior_. 
+_Leader_, _Spy_, _Warrior_. 
 Caleb is also referred to as: 
 group:Caleb (Group). 
 

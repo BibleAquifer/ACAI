@@ -4,7 +4,7 @@ Descendant of Manasseh, and the leader of one of the clans that settled west of 
 Other forms include: 
 *Abiezrite*, *Iezer*, *Iezerite*, *Jeezer*, *Jeezerites*. 
 Roles include: 
-_Patriarch_. 
+_Patriarch_, _Tribal Chief_. 
 Abiezer is also referred to as: 
 group:Abiezer (Group), group:Iezer (Group), [Iezer (Abiezer)](Iezer.md). 
 

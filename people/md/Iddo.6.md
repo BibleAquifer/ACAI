@@ -1,6 +1,8 @@
 # Iddo
 **Iddo**. 
 Grandfather of Zechariah the prophet and father of Berechiah who lived during the time of Israelite exile and return (acai). 
+Roles include: 
+_Prophet_. 
 
 
 

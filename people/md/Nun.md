@@ -4,7 +4,7 @@ Father of the Israelite leader Joshua (acai).
 Other forms include: 
 *Non*. 
 Roles include: 
-_Leader _, _Patriarch_. 
+_Leader_, _Patriarch_. 
 
 
 

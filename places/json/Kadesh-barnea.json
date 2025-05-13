@@ -17,8 +17,8 @@
       "https://pleiades.stoa.org/places/687868"
     ],
     "tipnr": [
-      "En-mishpat|Kadesh-barnea@Num.32.8-Psa",
-      "Kadesh-barnea@Num.32.8-Psa"
+      "Kadesh-barnea@Num.32.8-Psa",
+      "En-mishpat|Kadesh-barnea@Num.32.8-Psa"
     ],
     "vizbible": [
       "recVfy9PlsXdODNGL"
@@ -32,12 +32,12 @@
     "eng": {
       "preferred_label": "Kadesh-barnea",
       "alternate_labels": [
+        "Meribah-Kadesh",
         "En-Mishpat",
         "Waters of Meribah-kadesh",
-        "Kedesh",
-        "Meribah-Kadesh",
+        "Meribath-kadesh",
         "Kadesh",
-        "Meribath-kadesh"
+        "Kedesh"
       ],
       "descriptions": [
         {
@@ -80,8 +80,8 @@
     }
   },
   "referred_to_as": [
-    "place:Kedesh.2",
-    "place:En-mishpat"
+    "place:En-mishpat",
+    "place:Kedesh.2"
   ],
   "subregion_of": [
     "place:Zin"
@@ -115,10 +115,10 @@
     }
   },
   "key_references": [
-    "04013026",
-    "05002014",
     "04020016",
-    "06015023"
+    "04013026",
+    "06015023",
+    "05002014"
   ],
   "references": [
     "01014007",

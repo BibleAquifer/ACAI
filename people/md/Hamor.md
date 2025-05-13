@@ -4,7 +4,7 @@ A Hivite and father of Schechem who lived during the time of the patriarchs (aca
 Other forms include: 
 *Emmor*. 
 Roles include: 
-_Ruler_. 
+_Patriarch_, _Ruler_. 
 
 
 
