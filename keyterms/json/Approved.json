@@ -1,0 +1,88 @@
+{
+  "id": "keyterm:Approved",
+  "primary_id": "keyterm:Approved",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "87.7",
+    "73.4",
+    "30.115"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Approved",
+      "alternate_labels": [
+        "Regarded as Worthy",
+        "Respected"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Accepted as good and trustworthy after being carefully tested."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "aprobado"
+    },
+    "fra": {
+      "preferred_label": "approuvé"
+    },
+    "ind": {
+      "preferred_label": "tahan uji"
+    },
+    "por": {
+      "preferred_label": "aprovado"
+    },
+    "por-Br": {
+      "preferred_label": "aprovado"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δόκιμος"
+    ]
+  },
+  "key_references": [
+    "45014018",
+    "46011019",
+    "55002015",
+    "59001012"
+  ],
+  "references": [
+    "45014018",
+    "45016010",
+    "46011019",
+    "47010018",
+    "47013007",
+    "55002015",
+    "59001012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45014018012"
+      ],
+      [
+        "n45016010004"
+      ],
+      [
+        "n46011019011"
+      ],
+      [
+        "n47010018008"
+      ],
+      [
+        "n47013007014"
+      ],
+      [
+        "n55002015003"
+      ],
+      [
+        "n59001012007"
+      ]
+    ]
+  }
+}

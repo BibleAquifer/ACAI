@@ -10,7 +10,7 @@ JOB 19:24, ISA 8:1, JER 17:1.
 
 
 In the Old Testament (BSB), words representing “Stylus” are translated as 
-*stylus* (1x), *Maher-shalal-hash-baz* (1x), *engraved* (1x). 
+*Maher-shalal-hash-baz* (1x), *stylus* (1x), *engraved* (1x). 
 
 
 
@@ -21,9 +21,9 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* stylus (JOB 19:24)
-
 * Maher-shalal-hash-baz (ISA 8:1)
+
+* stylus (JOB 19:24)
 
 * engraved (JER 17:1)
 

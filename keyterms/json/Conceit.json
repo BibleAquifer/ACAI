@@ -1,0 +1,64 @@
+{
+  "id": "keyterm:Conceit",
+  "primary_id": "keyterm:Conceit",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.221",
+    "88.222"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Empty Conceit",
+      "alternate_labels": [
+        "Cheap Desire to Boast"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Feeling proud of yourself for no good reason or without real achievements."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "vanagloria"
+    },
+    "fra": {
+      "preferred_label": "vanité"
+    },
+    "ind": {
+      "preferred_label": "puji, pujian yang sia, sia"
+    },
+    "por": {
+      "preferred_label": "vanglória"
+    },
+    "por-Br": {
+      "preferred_label": "vanglória"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Conceited"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κενοδοξία",
+      "κενόδοξος"
+    ]
+  },
+  "references": [
+    "50002003",
+    "48005026"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n50002003006"
+      ],
+      [
+        "n48005026003"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "keyterm:GoodWorks",
+  "primary_id": "keyterm:DoGood",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.3"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Good Works",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Actions that are kind, helpful, and show doing what is right."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "bons ouevres"
+    },
+    "ind": {
+      "preferred_label": "perilaku baik"
+    },
+    "por-Br": {
+      "preferred_label": "boas obras"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:DoGood"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀγαθοποιΐα"
+    ]
+  },
+  "references": [
+    "60004019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n60004019017"
+      ]
+    ]
+  }
+}

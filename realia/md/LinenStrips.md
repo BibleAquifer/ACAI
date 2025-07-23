@@ -10,7 +10,7 @@ EXO 26:1, EXO 26:2, EXO 36:8, EXO 36:9.
 
 
 In the Old Testament (BSB), words representing “Linen Strips” are translated as 
-*of* (1x), *curtain* (13x), ** (8x), *the* (1x), *of the curtains* (4x), *the curtains* (4x), *curtains* (6x), *all* (2x), *into another* (1x), *curtain over* (1x), *of the corresponding curtain* (2x), *curtains will be* (1x), *curtains were* (1x), *and the other* (1x), *a tent* (2x), *like a tent* (1x), *like the curtains* (1x), *my curtains* (1x), *their tent curtains* (1x). 
+*of* (1x), *curtain* (13x), ** (8x), *the* (1x), *of the curtains* (4x), *the curtains* (4x), *curtains* (6x), *all* (2x), *into another* (1x), *curtain over* (1x), *of the corresponding curtain* (2x), *curtains will be* (1x), *curtains were* (1x), *and the other* (1x), *like a tent* (1x), *like the curtains* (1x), *my curtains* (1x), *their tent curtains* (1x). 
 
 
 
@@ -49,8 +49,6 @@ Return to [Index](00-Index.md)
 
 * and the other (EXO 36:16)
 
-* a tent (2SA 7:2; 1CH 17:1)
-
 * like a tent (PSA 104:2)
 
 * like the curtains (SNG 1:5)
@@ -81,7 +79,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* EXO 26:1; EXO 26:2; EXO 26:3; EXO 26:4; EXO 26:5; EXO 26:6; EXO 26:7; EXO 26:8; EXO 26:9; EXO 26:10; EXO 26:12; EXO 26:13; EXO 36:8; EXO 36:9; EXO 36:10; EXO 36:11; EXO 36:12; EXO 36:13; EXO 36:14; EXO 36:15; EXO 36:16; EXO 36:17; NUM 4:25; 2SA 7:2; 1CH 17:1; PSA 104:2; SNG 1:5; ISA 54:2; JER 10:20; JER 49:29
+* EXO 26:1; EXO 26:2; EXO 26:3; EXO 26:4; EXO 26:5; EXO 26:6; EXO 26:7; EXO 26:8; EXO 26:9; EXO 26:10; EXO 26:12; EXO 26:13; EXO 36:8; EXO 36:9; EXO 36:10; EXO 36:11; EXO 36:12; EXO 36:13; EXO 36:14; EXO 36:15; EXO 36:16; EXO 36:17; NUM 4:25; PSA 104:2; SNG 1:5; ISA 54:2; JER 10:20; JER 49:29
 
 
 

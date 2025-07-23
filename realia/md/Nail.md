@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Nail” are translated as 
-*to make the nails* (1x), *of the nails* (1x), *nails* (1x), *He nails it down* (1x), *and nails* (1x). 
+*to make the nails* (1x), *of the nails* (1x), *He nails it down* (1x), *and nails* (1x), *nails* (1x). 
 
 
 In the New Testament (BSB), words representing “Nail” are translated as 
@@ -27,11 +27,11 @@ Return to [Index](00-Index.md)
 
 * of the nails (2CH 3:9)
 
-* nails (ECC 12:11)
-
 * He nails it down (ISA 41:7)
 
 * and nails (JER 10:4)
+
+* nails (ECC 12:11)
 
 
 

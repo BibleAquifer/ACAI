@@ -1,0 +1,65 @@
+{
+  "id": "keyterm:Anoint.2",
+  "primary_id": "keyterm:Anointed",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "47.15"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anoint (Smear)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To rub or smear oil or special substances on someone or something."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "untar"
+    },
+    "fra": {
+      "preferred_label": "oindre ou étaler"
+    },
+    "ind": {
+      "preferred_label": "mengoleskan"
+    },
+    "por": {
+      "preferred_label": "untar"
+    },
+    "por-Br": {
+      "preferred_label": "ungir"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Anointed",
+    "keyterm:RubOn"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐπιχρίω",
+      "ἐγχρῖω"
+    ]
+  },
+  "references": [
+    "43009006",
+    "43009011",
+    "66003018"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43009006012"
+      ],
+      [
+        "n43009011011"
+      ],
+      [
+        "n66003018027"
+      ]
+    ]
+  }
+}

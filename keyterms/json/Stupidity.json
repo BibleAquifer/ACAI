@@ -1,0 +1,58 @@
+{
+  "id": "keyterm:Stupidity",
+  "primary_id": "keyterm:Stupidity",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "003370001001000",
+    "003372003001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stupidity (Folly)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Not having wisdom or good judgment, leading to unwise actions."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "necedad"
+    },
+    "fra": {
+      "preferred_label": "stupidité"
+    },
+    "ind": {
+      "preferred_label": "kebodohan"
+    },
+    "por": {
+      "preferred_label": "stupidity"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Stupidity.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כְּסִילוּת",
+      "כֶּסֶל"
+    ]
+  },
+  "references": [
+    "20009013",
+    "21007025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o200090130021"
+      ],
+      [
+        "o210070250111"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "keyterm:Highest",
+  "primary_id": "keyterm:Height",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "1.13"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Highest",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being the tallest or having the greatest height compared to everything else."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "alturas"
+    },
+    "fra": {
+      "preferred_label": "plus haut"
+    },
+    "ind": {
+      "preferred_label": "mahatinggi"
+    },
+    "por": {
+      "preferred_label": "altíssimo"
+    },
+    "por-Br": {
+      "preferred_label": "altíssimo"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Height"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὕψιστος"
+    ]
+  },
+  "references": [
+    "40021009",
+    "41011010",
+    "42002014",
+    "42019038"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40021009025"
+      ],
+      [
+        "n41011010012"
+      ],
+      [
+        "n42002014003"
+      ],
+      [
+        "n42019038015"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "keyterm:Leprosy",
+  "primary_id": "keyterm:InfectiousSkinDisease",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "23.161"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Leprosy",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A serious skin disease that made a person unclean and caused others to avoid them."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "lepra"
+    },
+    "fra": {
+      "preferred_label": "lèpre"
+    },
+    "ind": {
+      "preferred_label": "penyakit kusta"
+    },
+    "por": {
+      "preferred_label": "lepra"
+    },
+    "por-Br": {
+      "preferred_label": "lepra"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:InfectiousSkinDisease"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "λέπρα"
+    ]
+  },
+  "references": [
+    "40008003",
+    "41001042",
+    "42005013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40008003015"
+      ],
+      [
+        "n41001042007"
+      ],
+      [
+        "n42005013013"
+      ]
+    ]
+  }
+}

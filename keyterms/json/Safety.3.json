@@ -1,0 +1,53 @@
+{
+  "id": "keyterm:Safety.3",
+  "primary_id": "keyterm:Safety",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "000916001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Safety (Confidence)",
+      "alternate_labels": [
+        "Confidence",
+        "Trust"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Feeling sure and trusting that you are protected and everything will be fine."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "confianza"
+    },
+    "fra": {
+      "preferred_label": "securité"
+    },
+    "ind": {
+      "preferred_label": "keamanan"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Safety"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בִּטְחָה"
+    ]
+  },
+  "references": [
+    "23030015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230300150123"
+      ]
+    ]
+  }
+}

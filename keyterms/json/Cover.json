@@ -1,0 +1,52 @@
+{
+  "id": "keyterm:Cover",
+  "primary_id": "keyterm:Forgive",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "002715001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Cover (Forgive)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To hide someone’s wrong actions so they are forgiven and not punished."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "cubrir"
+    },
+    "fra": {
+      "preferred_label": "enduire"
+    },
+    "ind": {
+      "preferred_label": "menutupi"
+    },
+    "por": {
+      "preferred_label": "to cover, to forgive"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Forgive"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "טפל"
+    ]
+  },
+  "references": [
+    "18014017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180140170042"
+      ]
+    ]
+  }
+}

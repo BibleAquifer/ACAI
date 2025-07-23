@@ -10,11 +10,11 @@ NUM 15:38, DEU 22:12, MAT 9:20.
 
 
 In the Old Testament (BSB), words representing “Tassel” are translated as 
-*tassels* (1x), *each tassel* (1x), *tassels for* (1x), *on* (1x), *by the hair* (1x). 
+*tassels* (1x), *each tassel* (1x), *tassels for* (1x), *by the hair* (1x). 
 
 
 In the New Testament (BSB), words representing “Tassel” are translated as 
-*fringe* (3x), *tassels* (1x), *And* (1x). 
+*fringe* (3x), *And* (1x), *tassels* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -29,8 +29,6 @@ Return to [Index](00-Index.md)
 
 * tassels for (NUM 15:39)
 
-* on (DEU 22:12)
-
 * by the hair (EZK 8:3)
 
 
@@ -39,9 +37,9 @@ Return to [Index](00-Index.md)
 
 * fringe (MAT 9:20; MAT 14:36; LUK 8:44)
 
-* tassels (MAT 23:5)
-
 * And (MRK 6:56)
+
+* tassels (MAT 23:5)
 
 
 
@@ -59,7 +57,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* NUM 15:38; NUM 15:39; DEU 22:12; EZK 8:3; MAT 9:20; MAT 14:36; MAT 23:5; MRK 6:56; LUK 8:44
+* NUM 15:38; NUM 15:39; EZK 8:3; MAT 9:20; MAT 14:36; MAT 23:5; MRK 6:56; LUK 8:44
 
 
 

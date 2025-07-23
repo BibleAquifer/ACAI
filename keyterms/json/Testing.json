@@ -1,0 +1,65 @@
+{
+  "id": "keyterm:Testing",
+  "primary_id": "keyterm:Interpret",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "27.45",
+    "73.3"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Prove Genuine",
+      "alternate_labels": [
+        "Proving",
+        "Genuineness",
+        "Testing"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Checking carefully to see if something is real or true."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "calidad probada"
+    },
+    "fra": {
+      "preferred_label": "essai"
+    },
+    "ind": {
+      "preferred_label": "kemurnian"
+    },
+    "por": {
+      "preferred_label": "valor comprovado"
+    },
+    "por-Br": {
+      "preferred_label": "teste"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Interpret"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δοκιμιον"
+    ]
+  },
+  "references": [
+    "59001003",
+    "60001007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n59001003004"
+      ],
+      [
+        "n60001007003"
+      ]
+    ]
+  }
+}

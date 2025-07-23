@@ -1,0 +1,51 @@
+{
+  "id": "keyterm:Bitter",
+  "primary_id": "keyterm:Bitter",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "004432001001000",
+    "004432001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bitter (Thing)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Something with a sharp, unpleasant taste or something that causes sadness and pain."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "amargo"
+    },
+    "fra": {
+      "preferred_label": "chose amère"
+    },
+    "ind": {
+      "preferred_label": "pahit"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְרֹרָה"
+    ]
+  },
+  "references": [
+    "05032032",
+    "18013026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050320320111"
+      ],
+      [
+        "o180130260041"
+      ]
+    ]
+  }
+}

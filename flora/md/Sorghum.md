@@ -9,7 +9,7 @@ EZK 4:9.
 
 
 In the Old Testament (BSB), words representing “Sorghum” are translated as 
-*some of the fruit* (3x), *its fruit* (3x), *the fruit* (1x), *some of its fruit* (1x), *and the produce* (4x), *your produce* (1x), *the firstfruits* (1x), *as well as the produce* (2x), *the produce of* (1x), *the produce* (2x), *May its fruit trees* (1x), *and fruitful* (1x), *and the fruit* (1x), *produce* (1x), ** (1x), *and* (1x), *fruits of* (1x). 
+*and* (1x), *some of the fruit* (3x), *its fruit* (3x), *the fruit* (1x), *some of its fruit* (1x), *and the produce* (4x), *your produce* (1x), *the firstfruits* (1x), *as well as the produce* (2x), *the produce of* (1x), *the produce* (2x), *May its fruit trees* (1x), *and fruitful* (1x), *and the fruit* (1x), *produce* (1x), ** (1x), *fruits of* (1x). 
 
 
 
@@ -19,6 +19,8 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
+
+* and (EZK 4:9)
 
 * some of the fruit (GEN 4:3; NUM 13:20; DEU 1:25)
 
@@ -50,19 +52,17 @@ Return to [Index](00-Index.md)
 
 *  (JER 29:28)
 
-* and (EZK 4:9)
-
 * fruits of (MAL 3:11)
 
 
 
 ### OT Pronominal Referents (BSB)
 
-* Here is (NUM 13:27)
-
 * in (EZK 4:9)
 
 * into (EZK 4:9)
+
+* Here is (NUM 13:27)
 
 
 

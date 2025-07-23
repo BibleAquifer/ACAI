@@ -1,0 +1,40 @@
+{
+  "id": "keyterm:Prayer.2",
+  "primary_id": "keyterm:Pray",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "33.178"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Prayer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The act of talking to God, often to thank Him or ask for help."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Pray"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "εὐχη"
+    ]
+  },
+  "references": [
+    "59005015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n59005015003"
+      ]
+    ]
+  }
+}

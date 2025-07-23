@@ -1,0 +1,56 @@
+{
+  "id": "keyterm:Judge",
+  "primary_id": "keyterm:Judge",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "56.28"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Judge",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A person who leads a court and makes decisions or rulings in legal matters."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "juez"
+    },
+    "fra": {
+      "preferred_label": "juge"
+    },
+    "ind": {
+      "preferred_label": "hakim"
+    },
+    "por": {
+      "preferred_label": "juiz"
+    },
+    "por-Br": {
+      "preferred_label": "juiz"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δικαστής"
+    ]
+  },
+  "references": [
+    "44007027",
+    "44007035"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44007027014"
+      ],
+      [
+        "n44007035012"
+      ]
+    ]
+  }
+}

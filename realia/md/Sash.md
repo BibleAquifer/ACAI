@@ -8,7 +8,7 @@ EXO 28:4, EXO 29:9, ISA 22:21.
 
 
 In the Old Testament (BSB), words representing “Sash” are translated as 
-*and a sash* (1x), *sash* (2x), *sashes* (1x), *Wrap* (1x), *the sashes* (1x), *and the sash* (1x), *around him* (1x), *tied the sash* (1x), *around* (1x), *around them* (1x), *wrapped sashes* (1x), *He must tie* (1x), *and tie your sash* (1x). 
+*and a sash* (1x), *sash* (2x), *sashes* (1x), *the sashes* (1x), *and the sash* (1x), *tied the sash* (1x), *wrapped sashes* (1x), *and tie your sash* (1x). 
 
 
 
@@ -25,23 +25,13 @@ Return to [Index](00-Index.md)
 
 * sashes (EXO 28:40)
 
-* Wrap (EXO 29:9)
-
 * the sashes (EXO 29:9)
 
 * and the sash (EXO 39:29)
 
-* around him (LEV 8:7)
-
 * tied the sash (LEV 8:7)
 
-* around (LEV 8:7)
-
-* around them (LEV 8:13)
-
 * wrapped sashes (LEV 8:13)
-
-* He must tie (LEV 16:4)
 
 * and tie your sash (ISA 22:21)
 

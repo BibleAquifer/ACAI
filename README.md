@@ -1,4 +1,4 @@
-# ACAI Release: 2025-05-13
+# ACAI Release: 2025-07-23
 
 The ACAI project annotates information about people and places in the Bible. Specifically, it annotates the original languages at the word and phrase level for specific instances of people, places, and other entities. When used with a word-level alignment to a translation of the Bible (see Biblica's [Alignments](https://github.com/Clear-Bible/Alignments)) this information can be useful in all sorts of translation contexts.
 
@@ -12,7 +12,7 @@ This release of the ACAI data (the JSON and Markdown forms included here) is und
 
 # Identifiers
 
-Identifiers in the ACAI ecosystem consist of two parts. The first part represents the type of identifier (e.g. people, places, deities, groups, fauna, flora, realia). The second part is a unique identifier representing the specific record. For example, the identifier for **Aaron** as a person is `person:Aaron`.
+Identifiers in the ACAI ecosystem consist of two parts. The first part represents the type of identifier (e.g. people, places, deities, groups, fauna, flora, realia, keyterms). The second part is a unique identifier representing the specific record. For example, the identifier for **Aaron** as a person is `person:Aaron`.
 
 ## Primary Identifiers
 
@@ -30,7 +30,7 @@ Each record contains a `localizations` object that contains a `preferred_label` 
 
 # Included Data
 
-The data included in this release is a snapshot of the data as of 2025-05-13. It includes JSON files and Markdown files for each record. The Markdown files are generated from the JSON files (along with some Berean Standard Bible [text alignment data](https://github.com/Clear-Bible/Alignments)). They are only included as a visualization of the data within the JSON and not intended to direct or dictate how the JSON data should be used or rendered.
+The data included in this release is a snapshot of the data as of 2025-07-23. It includes JSON files and Markdown files for each record. The Markdown files are generated from the JSON files (along with some Berean Standard Bible [text alignment data](https://github.com/Clear-Bible/Alignments)). They are only included as a visualization of the data within the JSON and not intended to direct or dictate how the JSON data should be used or rendered.
 
 * [people ReadMe](people/README.md)
   * [Markdown Index](people/md/00-Index.md)
@@ -46,6 +46,8 @@ The data included in this release is a snapshot of the data as of 2025-05-13. It
   * [Markdown Index](flora/md/00-Index.md)
 * [realia ReadMe](realia/README.md)
   * [Markdown Index](realia/md/00-Index.md)
+* [keyterms ReadMe](keyterms/README.md)
+  * [Markdown Index](keyterms/md/00-Index.md)
 # Sources
 
 * Biblica/Clear-Bible's [Macula Hebrew](https://github.com/Clear-Bible/macula-hebrew)
@@ -53,11 +55,12 @@ The data included in this release is a snapshot of the data as of 2025-05-13. It
 * Biblica/Clear-Bible's [speaker-quotations](https://github.com/Clear-Bible/speaker-quotations), an attempt to identify the original language words, in both the Old and New Testaments, translated as quotations (material using “double” and ‘single’ quotation marks) in various English Bibles. It also attempts to associate speakers with the quotations, where possible, using data from Faith Comes By Hearing.
 * United Bible Societies' _UBS Dictionary of Biblical Hebrew_ (UBSDBH) and _UBS Dictionary of the Greek New Testament_ (UBSDGNT). See [SemanticDictionary.org](https://semanticdictionary.org/) for an implementation and the git repo [ubs-open-license](https://github.com/ubsicap/ubs-open-license) for data (English, French, Spanish, and Chinese). Macula Hebrew and Greek encode domains and references from these resources at the word level for most OT and NT words.
 * United Bible Societies' _Thematic Lexicons_. The UBS recently (March 2025) issued their highly useful _Thematic Lexicons_ under an open license. There are three Thematic Lexicons, one for _Flora_ (plants), one for _Fauna_ (animals), and one for _Realia_ (man-made things). These are available in the [ubs-open-license](https://github.com/ubsicap/ubs-open-license/tree/main/flora-fauna-realia) github repo.
+* United Bible Societies' _Key Term_ data from Paratext. This is used by permission.
 * openbible.info [Bible Geocoding Data](https://github.com/openbibleinfo/Bible-Geocoding-Data)
 * Robert Rouse's [theographic-bible-metadata](https://github.com/robertrouse/theographic-bible-metadata) (aka [viz.bible](https://viz.bible))
 * [STEPBible](https://www.stepbible.org) [TIPNR](https://github.com/STEPBible/STEPBible-Data/blob/master/TIPNR%20-%20Translators%20Individualised%20Proper%20Names%20with%20all%20References%20-%20STEPBible.org%20CC%20BY.txt) 
   * Patristic Text Archive [JSON/XML versions of TIPNR](https://github.com/PatristicTextArchive/tipnr_data) (with persons and places separated)
 * Copenhagen Alliance [versification-specification](https://github.com/Copenhagen-Alliance/versification-specification). Bible references within this data reflect the 'ORG' scheme specified by the Copenhagen Alliance. This means that Old Testament references assume the versification structure of the Hebrew Bible, and New Testament references assume the structure of the Greek New Testament. For use with translations, the references may need to be be converted to the Copenhagen Alliance 'ENG' scheme. The repo cited above has information and sample code for how to achieve that; if assistance is needed please contact us.
 
-Each of these sources are available as CC-BY-4.0 or CC-BY-SA-4.0 licensed data.
+Unless mentioned otherwise, each of these sources are available as CC-BY-4.0 or CC-BY-SA-4.0 licensed data.
 

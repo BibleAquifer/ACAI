@@ -1,0 +1,70 @@
+{
+  "id": "keyterm:LiveWith",
+  "primary_id": "keyterm:LiveWith",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "23.96"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Live With",
+      "alternate_labels": [
+        "Live Together"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To share a place and life with another person or people."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "vivir con"
+    },
+    "fra": {
+      "preferred_label": "vivre avec ou ensemble"
+    },
+    "ind": {
+      "preferred_label": "hidup (bersama)"
+    },
+    "por": {
+      "preferred_label": "viver com (alguém)"
+    },
+    "por-Br": {
+      "preferred_label": "viver com (alguém)"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "συζάω"
+    ]
+  },
+  "references": [
+    "45006008",
+    "47007003",
+    "55002011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45006008009"
+      ],
+      [
+        "n47007003017"
+      ],
+      [
+        "n55002011008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n55002014001"
+      ]
+    ]
+  }
+}

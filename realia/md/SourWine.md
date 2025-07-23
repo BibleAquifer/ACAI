@@ -9,8 +9,6 @@ Other forms include:
 MAT 27:48, LUK 23:36, JHN 19:29. 
 
 
-In the Old Testament (BSB), words representing “Sour Wine” are translated as 
-*or vinegar* (1x). 
 
 
 In the New Testament (BSB), words representing “Sour Wine” are translated as 
@@ -20,12 +18,6 @@ In the New Testament (BSB), words representing “Sour Wine” are translated as
 Return to [Index](00-Index.md)
 
 ## More Information
-
-### OT Instances (BSB)
-
-* or vinegar (PRO 25:20)
-
-
 
 ### NT Instances (BSB)
 
@@ -39,7 +31,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* PRO 25:20; MAT 27:48; MRK 15:36; LUK 23:36; JHN 19:29; JHN 19:30
+* MAT 27:48; MRK 15:36; LUK 23:36; JHN 19:29; JHN 19:30
 
 
 

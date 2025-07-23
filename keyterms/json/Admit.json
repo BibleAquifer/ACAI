@@ -1,0 +1,112 @@
+{
+  "id": "keyterm:Admit",
+  "primary_id": "keyterm:Repent",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "002792001002000",
+    "002792001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Admit",
+      "alternate_labels": [
+        "Confess",
+        "Acknowledge (One's Sins Before God)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To honestly tell God about your sins, whether alone or with others."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "confesar"
+    },
+    "fra": {
+      "preferred_label": "confesser"
+    },
+    "ind": {
+      "preferred_label": "mengaku"
+    },
+    "por": {
+      "preferred_label": "confess"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Repent"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "ידה"
+    ]
+  },
+  "key_references": [
+    "03005005",
+    "19032005",
+    "20028013",
+    "27009004"
+  ],
+  "references": [
+    "03005005",
+    "03016021",
+    "03026040",
+    "04005007",
+    "14030022",
+    "15010001",
+    "16001006",
+    "16009002",
+    "16009003",
+    "19032005",
+    "20028013",
+    "27009004",
+    "27009020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030050050062"
+      ],
+      [
+        "o030160210112"
+      ],
+      [
+        "o030260400012"
+      ],
+      [
+        "o040050070012"
+      ],
+      [
+        "o140300220192"
+      ],
+      [
+        "o150100010033",
+        "o150100010034"
+      ],
+      [
+        "o160010060222"
+      ],
+      [
+        "o160090020082"
+      ],
+      [
+        "o160090030121"
+      ],
+      [
+        "o190320050071"
+      ],
+      [
+        "o200280130052"
+      ],
+      [
+        "o270090040042"
+      ],
+      [
+        "o270090200052"
+      ]
+    ]
+  }
+}

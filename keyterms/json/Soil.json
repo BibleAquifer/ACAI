@@ -1,0 +1,67 @@
+{
+  "id": "keyterm:Soil",
+  "primary_id": "keyterm:Defilement",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "53.34",
+    "79.56"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Soil",
+      "alternate_labels": [
+        "Be Defiled (Pass.)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To make something dirty or unclean, often in a way that shows disrespect."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "contaminar"
+    },
+    "fra": {
+      "preferred_label": "souiller"
+    },
+    "ind": {
+      "preferred_label": "menodai"
+    },
+    "por": {
+      "preferred_label": "contaminar"
+    },
+    "por-Br": {
+      "preferred_label": "contaminar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Defilement"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μολύνω"
+    ]
+  },
+  "references": [
+    "46008007",
+    "66003004",
+    "66014004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46008007024"
+      ],
+      [
+        "n66003004009"
+      ],
+      [
+        "n66014004007"
+      ]
+    ]
+  }
+}

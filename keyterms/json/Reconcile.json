@@ -1,0 +1,116 @@
+{
+  "id": "keyterm:Reconcile",
+  "primary_id": "keyterm:Reconcile",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "40.1",
+    "40.2"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Reconcile",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To fix a broken relationship and become friends again."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "reconciliar"
+    },
+    "fra": {
+      "preferred_label": "réconcilier"
+    },
+    "ind": {
+      "preferred_label": "memperdamaikan"
+    },
+    "por": {
+      "preferred_label": "reconciliar"
+    },
+    "por-Br": {
+      "preferred_label": "reconciliar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Reconciled",
+    "keyterm:Reconciliation"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀποκαταλλάσσω",
+      "καταλλάσσω",
+      "συναλλάσσω",
+      "καταλλαγή",
+      "διαλλάσσω"
+    ]
+  },
+  "key_references": [
+    "40005024",
+    "45005010",
+    "47005018",
+    "49002016"
+  ],
+  "references": [
+    "44007026",
+    "45005010",
+    "45005011",
+    "45011015",
+    "46007011",
+    "47005018",
+    "47005019",
+    "47005020",
+    "49002016",
+    "51001020",
+    "40005024"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n49002016002"
+      ],
+      [
+        "n51001020004"
+      ],
+      [
+        "n45005010005"
+      ],
+      [
+        "n45005010016"
+      ],
+      [
+        "n46007011010"
+      ],
+      [
+        "n47005018008"
+      ],
+      [
+        "n47005019008"
+      ],
+      [
+        "n47005020014"
+      ],
+      [
+        "n44007026009"
+      ],
+      [
+        "n45005011020"
+      ],
+      [
+        "n45011015006"
+      ],
+      [
+        "n47005018019"
+      ],
+      [
+        "n47005019023"
+      ],
+      [
+        "n40005024012"
+      ]
+    ]
+  }
+}

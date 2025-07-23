@@ -11,7 +11,7 @@ Cypress is categorized under _Wild Trees and Shrubs_.
 
 
 In the Old Testament (BSB), words representing “Cypress” are translated as 
-*of gopher* (1x), *of wood instruments* (1x), *and cypress* (3x), *cypress boards* (1x), *were made of cypress* (1x), *its cypresses I* (2x), *cypress* (3x), *the cypresses* (3x), *are fragrant firs* (1x), *cypresses elms* (1x), *and boxwood* (2x), *the cypress* (1x), *its cypress elm* (1x), *cypress from* (1x), *inlaid with ivory* (1x), *and the spears of cypress* (1x), *O cypress* (1x). 
+*of wood instruments* (1x), *and cypress* (3x), *cypress boards* (1x), *were made of cypress* (1x), *its cypresses I* (2x), *cypress* (3x), *the cypresses* (3x), *cypresses* (1x), *the cypress* (1x), *its cypress* (1x), *cypress from* (1x), *and the spears of cypress* (1x), *O cypress* (1x), *are fragrant firs* (1x), *of gopher* (1x), *and boxwood* (2x), *inlaid with ivory* (1x). 
 
 
 
@@ -21,8 +21,6 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
-
-* of gopher (GEN 6:14)
 
 * of wood instruments (2SA 6:5)
 
@@ -38,23 +36,25 @@ Return to [Index](00-Index.md)
 
 * the cypresses (PSA 104:17; ISA 14:8; EZK 31:8)
 
-* are fragrant firs (SNG 1:17)
-
-* cypresses elms (ISA 41:19)
-
-* and boxwood (ISA 41:19; ISA 60:13)
+* cypresses (ISA 41:19)
 
 * the cypress (ISA 55:13)
 
-* its cypress elm (ISA 60:13)
+* its cypress (ISA 60:13)
 
 * cypress from (EZK 27:5)
-
-* inlaid with ivory (EZK 27:6)
 
 * and the spears of cypress (NAM 2:4)
 
 * O cypress (ZEC 11:2)
+
+* are fragrant firs (SNG 1:17)
+
+* of gopher (GEN 6:14)
+
+* and boxwood (ISA 41:19; ISA 60:13)
+
+* inlaid with ivory (EZK 27:6)
 
 
 
@@ -66,7 +66,7 @@ Return to [Index](00-Index.md)
 
 ### OT Subject Referents (BSB)
 
-* to adorn (ISA 60:13; ISA 60:13; ISA 60:13)
+* to adorn (ISA 60:13; ISA 60:13)
 
 * Wail (ZEC 11:2)
 

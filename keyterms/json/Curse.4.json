@@ -1,0 +1,71 @@
+{
+  "id": "keyterm:Curse.4",
+  "primary_id": "keyterm:Curse",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "003655001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Curse (Pronouncement Against)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A spoken statement asking for harm, damage, or destruction to come to someone or something."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "maldición"
+    },
+    "fra": {
+      "preferred_label": "imprécation"
+    },
+    "ind": {
+      "preferred_label": "kutukan"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Curse",
+    "keyterm:Curse.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְאֵרָה"
+    ]
+  },
+  "key_references": [
+    "05028020",
+    "20003033",
+    "39002002"
+  ],
+  "references": [
+    "05028020",
+    "20003033",
+    "20028027",
+    "39002002",
+    "39003009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050280200052"
+      ],
+      [
+        "o200030330011"
+      ],
+      [
+        "o200280270081"
+      ],
+      [
+        "o390020020182"
+      ],
+      [
+        "o390030090012"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "keyterm:YearOfAcquittance",
+  "primary_id": "keyterm:YearOfAcquittance",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "002851001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Year of Acquittance",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The 50th year when all land goes back to its first owners and slaves are set free, also called the Jubilee year."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "jubileo"
+    },
+    "fra": {
+      "preferred_label": "corne"
+    },
+    "ind": {
+      "preferred_label": "tahun pembebasan"
+    },
+    "por": {
+      "preferred_label": "year of acquittance"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יוֹבֵל"
+    ]
+  },
+  "key_references": [
+    "03025010",
+    "03025013",
+    "03025033",
+    "03025054"
+  ],
+  "references": [
+    "03025010",
+    "03025011",
+    "03025012",
+    "03025013",
+    "03025015",
+    "03025028",
+    "03025030",
+    "03025031",
+    "03025033",
+    "03025040",
+    "03025050",
+    "03025052",
+    "03025054",
+    "03027017",
+    "03027018",
+    "03027021",
+    "03027023",
+    "03027024",
+    "04036004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030250100111"
+      ],
+      [
+        "o030250110011"
+      ],
+      [
+        "o030250120021"
+      ],
+      [
+        "o030250130022"
+      ],
+      [
+        "o030250150042"
+      ],
+      [
+        "o030250280152"
+      ],
+      [
+        "o030250280172"
+      ],
+      [
+        "o030250300232"
+      ],
+      [
+        "o030250310153"
+      ],
+      [
+        "o030250330102"
+      ],
+      [
+        "o030250400072"
+      ],
+      [
+        "o030250500092"
+      ],
+      [
+        "o030250520072"
+      ],
+      [
+        "o030250540072"
+      ],
+      [
+        "o030270170032"
+      ],
+      [
+        "o030270180032"
+      ],
+      [
+        "o030270180172"
+      ],
+      [
+        "o030270210042"
+      ],
+      [
+        "o030270230092"
+      ],
+      [
+        "o030270240022"
+      ],
+      [
+        "o040360040032"
+      ]
+    ]
+  }
+}

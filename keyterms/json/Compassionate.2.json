@@ -1,0 +1,65 @@
+{
+  "id": "keyterm:Compassionate.2",
+  "primary_id": "keyterm:Compassionate",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.81"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Compassionate (NT)",
+      "alternate_labels": [
+        "Merciful"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing kindness and mercy to people who are suffering or in need."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "compasivo"
+    },
+    "fra": {
+      "preferred_label": "miséricordieux"
+    },
+    "ind": {
+      "preferred_label": "murah hati"
+    },
+    "por": {
+      "preferred_label": "compassivo"
+    },
+    "por-Br": {
+      "preferred_label": "compassivo"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Compassionate"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "οἰκτίρμων"
+    ]
+  },
+  "references": [
+    "42006036",
+    "59005011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42006036002"
+      ],
+      [
+        "n42006036007"
+      ],
+      [
+        "n59005011020"
+      ]
+    ]
+  }
+}

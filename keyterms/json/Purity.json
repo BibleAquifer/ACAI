@@ -1,0 +1,66 @@
+{
+  "id": "keyterm:Purity",
+  "primary_id": "keyterm:Pure",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "002662001001000",
+    "002662001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Purity",
+      "alternate_labels": [
+        "Cleanness"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being clean and free from dirt or anything that makes a person or thing unclean, either physically or in a special religious way."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "pureza"
+    },
+    "fra": {
+      "preferred_label": "clair"
+    },
+    "ind": {
+      "preferred_label": "kemurnian"
+    },
+    "por": {
+      "preferred_label": "purity"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Pure"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "טֹהַר"
+    ]
+  },
+  "references": [
+    "02024010",
+    "03012004",
+    "03012006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020240100122"
+      ],
+      [
+        "o030120040191",
+        "o030120040192"
+      ],
+      [
+        "o030120060031",
+        "o030120060032"
+      ]
+    ]
+  }
+}

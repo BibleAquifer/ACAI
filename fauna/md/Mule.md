@@ -13,7 +13,7 @@ Mule is categorized under _Mammals_.
 
 
 In the Old Testament (BSB), words representing “Mule” are translated as 
-*oil* (4x), *olive oil* (1x), *of oil* (1x), *and oil* (13x), *or oil* (2x), *his mule* (2x), *and as the mule* (1x), *The mule* (1x), *my own mule* (1x), *mule* (2x), *and mules* (5x), *of mules* (1x), *of olive trees* (1x), *oxen* (1x), *mules* (1x), *or mule* (1x), *on mules* (1x), *the* (1x), *and the oil fails* (1x), *oil and* (1x), *olives* (1x), *and* (1x), *anointed* (1x). 
+*his mule* (2x), *and as the mule* (1x), *The mule* (1x), *and mules* (5x), *of mules* (1x), *oxen* (1x), *mules* (1x), *or mule* (1x), *on mules* (1x), *my own mule* (1x), *mule* (2x), *oil* (4x), *olive oil* (1x), *of oil* (1x), *and oil* (13x), *or oil* (2x), *of olive trees* (1x), *the* (1x), *and the oil fails* (1x), *oil and* (1x), *olives* (1x), *and* (1x), *anointed* (1x). 
 
 
 
@@ -23,6 +23,28 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
+
+* his mule (2SA 13:29; 2SA 18:9)
+
+* and as the mule (2SA 18:9)
+
+* The mule (2SA 18:9)
+
+* and mules (1KI 10:25; 1KI 18:5; 2CH 9:24; EZK 27:14; ZEC 14:15)
+
+* of mules (2KI 5:17)
+
+* oxen (1CH 12:41)
+
+* mules (EZR 2:66)
+
+* or mule (PSA 32:9)
+
+* on mules (ISA 66:20)
+
+* my own mule (1KI 1:33)
+
+* mule (1KI 1:38; 1KI 1:44)
 
 * oil (EXO 27:20; LEV 24:2; DEU 8:8; 2CH 31:5)
 
@@ -34,29 +56,7 @@ Return to [Index](00-Index.md)
 
 * or oil (DEU 12:17; DEU 28:51)
 
-* his mule (2SA 13:29; 2SA 18:9)
-
-* and as the mule (2SA 18:9)
-
-* The mule (2SA 18:9)
-
-* my own mule (1KI 1:33)
-
-* mule (1KI 1:38; 1KI 1:44)
-
-* and mules (1KI 10:25; 1KI 18:5; 2CH 9:24; EZK 27:14; ZEC 14:15)
-
-* of mules (2KI 5:17)
-
 * of olive trees (2KI 18:32)
-
-* oxen (1CH 12:41)
-
-* mules (EZR 2:66)
-
-* or mule (PSA 32:9)
-
-* on mules (ISA 66:20)
 
 * the (JER 31:12)
 
@@ -84,9 +84,9 @@ Return to [Index](00-Index.md)
 
 ### OT Subject Referents (BSB)
 
-* burning (EXO 27:20; LEV 24:2)
-
 * come (PSA 32:9)
+
+* burning (EXO 27:20; LEV 24:2)
 
 
 

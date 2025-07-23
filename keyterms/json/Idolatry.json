@@ -1,0 +1,80 @@
+{
+  "id": "keyterm:Idolatry",
+  "primary_id": "keyterm:Idolatry",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.63"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Idolatry",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The act of worshiping idols or anything instead of God."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "idolatría"
+    },
+    "fra": {
+      "preferred_label": "idolâtrie"
+    },
+    "ind": {
+      "preferred_label": "penyembahan berhala"
+    },
+    "por": {
+      "preferred_label": "idolatria"
+    },
+    "por-Br": {
+      "preferred_label": "idolatria"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "εἰδωλολατρια"
+    ]
+  },
+  "references": [
+    "46010014",
+    "48005020",
+    "51003005",
+    "60004003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46010014007"
+      ],
+      [
+        "n48005020001"
+      ],
+      [
+        "n51003005019"
+      ],
+      [
+        "n60004003020"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n48005021007"
+      ],
+      [
+        "n48005021008"
+      ],
+      [
+        "n48005021016"
+      ],
+      [
+        "n60004004002"
+      ]
+    ]
+  }
+}

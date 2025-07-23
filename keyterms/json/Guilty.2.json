@@ -1,0 +1,59 @@
+{
+  "id": "keyterm:Guilty.2",
+  "primary_id": "keyterm:Sin",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "000753001001000",
+    "000753001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Guilty",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Having done something wrong and being responsible for it."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "culpable"
+    },
+    "fra": {
+      "preferred_label": "coupable"
+    },
+    "ind": {
+      "preferred_label": "bersalah"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Sin",
+    "keyterm:Sin.4"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אָשֵׁם"
+    ]
+  },
+  "references": [
+    "01042021",
+    "10014013",
+    "15010019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010420210061"
+      ],
+      [
+        "o100140130132"
+      ],
+      [
+        "o150100190052"
+      ]
+    ]
+  }
+}

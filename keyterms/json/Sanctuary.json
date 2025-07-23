@@ -1,0 +1,59 @@
+{
+  "id": "keyterm:Sanctuary",
+  "primary_id": "keyterm:Holy",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:3.15.2"
+    ]
+  },
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "7.18",
+    "88.24"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sanctuary",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A special holy place where God lives, like the tabernacle or the temple in Jerusalem."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "sanctuaire"
+    },
+    "ind": {
+      "preferred_label": "ruang kudus"
+    },
+    "por-Br": {
+      "preferred_label": "santuário"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Holy"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἅγιος"
+    ]
+  },
+  "references": [
+    "58008002",
+    "58009001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58008002002"
+      ],
+      [
+        "n58009001010"
+      ]
+    ]
+  }
+}

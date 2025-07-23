@@ -1,0 +1,117 @@
+{
+  "id": "keyterm:LiftUp",
+  "primary_id": "keyterm:LiftUp",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "004924001052000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Make an Oath",
+      "alternate_labels": [
+        "To Swear",
+        "To Lift Up (One's Hand)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To raise your hand and promise something seriously."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "alzar (la propia mano)"
+    },
+    "fra": {
+      "preferred_label": "levér (la main)"
+    },
+    "ind": {
+      "preferred_label": "angkat (satu tangan)"
+    },
+    "por": {
+      "preferred_label": "lift up (one's hand), to swear"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:BearTheConsequencesOf"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נשׂא"
+    ]
+  },
+  "key_references": [
+    "02006008",
+    "05032040",
+    "19106026",
+    "26020042"
+  ],
+  "references": [
+    "02006008",
+    "04014030",
+    "05032040",
+    "16009015",
+    "19106026",
+    "26020005",
+    "26020006",
+    "26020015",
+    "26020023",
+    "26020028",
+    "26020042",
+    "26036007",
+    "26044012",
+    "26047014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060080061"
+      ],
+      [
+        "o040140300071"
+      ],
+      [
+        "o050320400021"
+      ],
+      [
+        "o160090150181"
+      ],
+      [
+        "o191060260012"
+      ],
+      [
+        "o260200050102"
+      ],
+      [
+        "o260200050192"
+      ],
+      [
+        "o260200060031"
+      ],
+      [
+        "o260200150031"
+      ],
+      [
+        "o260200230031"
+      ],
+      [
+        "o260200280051"
+      ],
+      [
+        "o260200420131"
+      ],
+      [
+        "o260360070071"
+      ],
+      [
+        "o260440120141"
+      ],
+      [
+        "o260470140061"
+      ]
+    ]
+  }
+}

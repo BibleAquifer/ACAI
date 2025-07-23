@@ -1,0 +1,69 @@
+{
+  "id": "keyterm:SomethingDefinite",
+  "primary_id": "keyterm:SomethingDefinite",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "31.42",
+    "21.10"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Something Definite",
+      "alternate_labels": [
+        "Secure"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being sure about something so that it can be trusted and believed fully."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "seguro"
+    },
+    "fra": {
+      "preferred_label": "sans danger"
+    },
+    "ind": {
+      "preferred_label": "apa yang sebenarnya terjadi"
+    },
+    "por": {
+      "preferred_label": "seguro"
+    },
+    "por-Br": {
+      "preferred_label": "seguro"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀσφαλής",
+      "ἀσφαλως"
+    ]
+  },
+  "references": [
+    "44002036",
+    "44021034",
+    "44022030",
+    "58006019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44021034015"
+      ],
+      [
+        "n44022030007"
+      ],
+      [
+        "n58006019007"
+      ],
+      [
+        "n44002036001"
+      ]
+    ]
+  }
+}

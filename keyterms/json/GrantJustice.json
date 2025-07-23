@@ -1,0 +1,118 @@
+{
+  "id": "keyterm:GrantJustice",
+  "primary_id": "keyterm:GrantJustice",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "56.35",
+    "39.33",
+    "38.8"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Avenge",
+      "alternate_labels": [
+        "Grant Justice"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To make things right for someone who was treated unfairly."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "hacer justicia"
+    },
+    "fra": {
+      "preferred_label": "aider (quelqu'un) à obtenir justice"
+    },
+    "ind": {
+      "preferred_label": "menuntut pembalasan"
+    },
+    "por": {
+      "preferred_label": "fazer justiça"
+    },
+    "por-Br": {
+      "preferred_label": "fazer justiça"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Justice.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐκδικέω",
+      "ἐκδίκησις"
+    ]
+  },
+  "key_references": [
+    "42018003",
+    "42018007",
+    "45012019",
+    "66019002"
+  ],
+  "references": [
+    "42018003",
+    "42018005",
+    "42018007",
+    "42018008",
+    "42021022",
+    "44007024",
+    "45012019",
+    "47007011",
+    "53001008",
+    "58010030",
+    "60002014",
+    "66006010",
+    "66019002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42018003013"
+      ],
+      [
+        "n42018005010"
+      ],
+      [
+        "n45012019003"
+      ],
+      [
+        "n66006010017"
+      ],
+      [
+        "n66019002023"
+      ],
+      [
+        "n42018007008"
+      ],
+      [
+        "n42018008006"
+      ],
+      [
+        "n42021022003"
+      ],
+      [
+        "n44007024008"
+      ],
+      [
+        "n45012019013"
+      ],
+      [
+        "n47007011024"
+      ],
+      [
+        "n53001008005"
+      ],
+      [
+        "n58010030006"
+      ],
+      [
+        "n60002014008"
+      ]
+    ]
+  }
+}

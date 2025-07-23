@@ -1,0 +1,90 @@
+{
+  "id": "keyterm:SinceAllTime",
+  "primary_id": "keyterm:Always",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "67.25",
+    "67.133",
+    "67.143"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Since All Time",
+      "alternate_labels": [
+        "From All Ages Past",
+        "From the Beginning of Time"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A very long time from the start of the world up to now."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "desde siglos"
+    },
+    "fra": {
+      "preferred_label": "depuis toujours"
+    },
+    "ind": {
+      "preferred_label": "sejak purbakala"
+    },
+    "por": {
+      "preferred_label": "desde o princípio"
+    },
+    "por-Br": {
+      "preferred_label": "desde o princípio"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Always"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀπ ̓ αἰῶνος, (ἀπὸ) τῶν αἰώνων, ἐκ τοῦ αἰῶνος"
+    ]
+  },
+  "key_references": [
+    "42001070",
+    "44015018",
+    "49003009"
+  ],
+  "references": [
+    "42001070",
+    "43009032",
+    "44003021",
+    "44015018",
+    "49003009",
+    "49003011",
+    "51001026"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42001070008"
+      ],
+      [
+        "n43009032003"
+      ],
+      [
+        "n44003021019"
+      ],
+      [
+        "n44015018003"
+      ],
+      [
+        "n49003009013"
+      ],
+      [
+        "n49003011004"
+      ],
+      [
+        "n51001026007"
+      ]
+    ]
+  }
+}

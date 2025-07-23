@@ -1,0 +1,70 @@
+{
+  "id": "keyterm:OuterDarkness",
+  "primary_id": "keyterm:OuterDarkness",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "1.23"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Outer Darkness (Of Eternal Punishment)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A place of darkness and separation where those who do wrong are sent, away from God's good people."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "tinieblas de afuera (de castigo eterno)"
+    },
+    "fra": {
+      "preferred_label": "les ténèbres du dehors"
+    },
+    "ind": {
+      "preferred_label": "kertak"
+    },
+    "por-Br": {
+      "preferred_label": "escuridão exterior"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σκότος τὸ ἐξώτερον"
+    ]
+  },
+  "references": [
+    "40008012",
+    "40022013",
+    "40025030"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40008012009"
+      ],
+      [
+        "n40022013016"
+      ],
+      [
+        "n40025030008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40008012012"
+      ],
+      [
+        "n40022013019"
+      ],
+      [
+        "n40025030011"
+      ]
+    ]
+  }
+}

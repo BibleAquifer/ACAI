@@ -1,0 +1,83 @@
+{
+  "id": "keyterm:Atonement",
+  "primary_id": "keyterm:Atonement",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "003411001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Atonement",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Making things right with God by fixing or forgiving wrongs."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "expiación"
+    },
+    "fra": {
+      "preferred_label": "expiation"
+    },
+    "ind": {
+      "preferred_label": "penebusan dosa"
+    },
+    "por": {
+      "preferred_label": "atonement"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כִּפֻּרִים"
+    ]
+  },
+  "key_references": [
+    "02030010",
+    "03023027",
+    "03023028",
+    "04029011"
+  ],
+  "references": [
+    "02029036",
+    "02030010",
+    "02030016",
+    "03023027",
+    "03023028",
+    "03025009",
+    "04005008",
+    "04029011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020290360062"
+      ],
+      [
+        "o020300100092"
+      ],
+      [
+        "o020300160042"
+      ],
+      [
+        "o030230270072"
+      ],
+      [
+        "o030230280101"
+      ],
+      [
+        "o030250090092"
+      ],
+      [
+        "o040050080142"
+      ],
+      [
+        "o040290110072"
+      ]
+    ]
+  }
+}

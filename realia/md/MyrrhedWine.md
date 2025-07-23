@@ -10,7 +10,7 @@ MRK 15:23.
 
 
 In the New Testament (BSB), words representing “Myrrhed Wine” are translated as 
-*wine mixed with myrrh* (1x). 
+*wine* (1x), *mixed with myrrh* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -19,7 +19,9 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* wine mixed with myrrh (MRK 15:23)
+* wine (MRK 15:23)
+
+* mixed with myrrh (MRK 15:23)
 
 
 

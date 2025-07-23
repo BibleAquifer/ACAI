@@ -1,0 +1,68 @@
+{
+  "id": "keyterm:Engaged",
+  "primary_id": "keyterm:Engaged",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "34.74"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Be Engaged (To Marry)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To make a promise to marry someone in the future."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "estar comprometido en matrimonio"
+    },
+    "fra": {
+      "preferred_label": "être fiancé"
+    },
+    "ind": {
+      "preferred_label": "bertunangan"
+    },
+    "por": {
+      "preferred_label": "ter casamento contratado"
+    },
+    "por-Br": {
+      "preferred_label": "ficar noiva"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:PromiseInMarriage"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μνηστεύω",
+      "ἁρμόζω"
+    ]
+  },
+  "references": [
+    "40001018",
+    "42001027",
+    "42002005",
+    "47011002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40001018009"
+      ],
+      [
+        "n42001027003"
+      ],
+      [
+        "n42002005005"
+      ],
+      [
+        "n47011002006"
+      ]
+    ]
+  }
+}

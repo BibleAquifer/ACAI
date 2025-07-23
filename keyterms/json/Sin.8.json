@@ -1,0 +1,81 @@
+{
+  "id": "keyterm:Sin.8",
+  "primary_id": "keyterm:Sin",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.290"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sin (Wrongdoing)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "An action that breaks God's rules and does not follow what He wants."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "pecado"
+    },
+    "fra": {
+      "preferred_label": "péché"
+    },
+    "ind": {
+      "preferred_label": "dosa"
+    },
+    "por": {
+      "preferred_label": "pecado"
+    },
+    "por-Br": {
+      "preferred_label": "pecado"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Sin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἁμάρτημα"
+    ]
+  },
+  "references": [
+    "41003028",
+    "41003029",
+    "45003025",
+    "46006018"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41003028012"
+      ],
+      [
+        "n41003029020"
+      ],
+      [
+        "n45003025022"
+      ],
+      [
+        "n46006018005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n46006018006"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n45003025021"
+      ]
+    ]
+  }
+}

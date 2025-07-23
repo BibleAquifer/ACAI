@@ -1,0 +1,62 @@
+{
+  "id": "keyterm:Rule",
+  "primary_id": "keyterm:Decided",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "37.49"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Rule",
+      "alternate_labels": [
+        "Govern"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To be in charge and make decisions for people."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "juzgar"
+    },
+    "fra": {
+      "preferred_label": "juger"
+    },
+    "ind": {
+      "preferred_label": "menghakimi"
+    },
+    "por": {
+      "preferred_label": "julgar"
+    },
+    "por-Br": {
+      "preferred_label": "governar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Decided"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κρίνω"
+    ]
+  },
+  "references": [
+    "40019028",
+    "42022030"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40019028033"
+      ],
+      [
+        "n42022030020"
+      ]
+    ]
+  }
+}

@@ -7,8 +7,6 @@ A new, sweet wine that is still fermenting (acai).
 ACT 2:13. 
 
 
-In the Old Testament (BSB), words representing “Sweet Wine” are translated as 
-*what is sweet* (1x). 
 
 
 In the New Testament (BSB), words representing “Sweet Wine” are translated as 
@@ -19,12 +17,6 @@ Return to [Index](00-Index.md)
 
 ## More Information
 
-### OT Instances (BSB)
-
-* what is sweet (NEH 8:10)
-
-
-
 ### NT Instances (BSB)
 
 * on new wine (ACT 2:13)
@@ -33,7 +25,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* NEH 8:10; ACT 2:13
+* ACT 2:13
 
 
 

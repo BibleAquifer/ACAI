@@ -1,0 +1,87 @@
+{
+  "id": "keyterm:MemorialOrTokenPortion",
+  "primary_id": "keyterm:MemorialOrTokenPortion",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "000222001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Memorial Portion",
+      "alternate_labels": [
+        "Token Portion (of a Burnt Offering)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A small part of an offering burned on the altar to remind people that everything belongs to God."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "recordación"
+    },
+    "fra": {
+      "preferred_label": "partie commémorative ou symbolique"
+    },
+    "ind": {
+      "preferred_label": "bagian ingat, ingatan"
+    },
+    "por": {
+      "preferred_label": "memorial or token portion"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַזְכָּרָה"
+    ]
+  },
+  "key_references": [
+    "03002002",
+    "03002009",
+    "03002016"
+  ],
+  "references": [
+    "03002002",
+    "03002009",
+    "03002016",
+    "03005012",
+    "03006008",
+    "03024007",
+    "04005026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030020020181",
+        "o030020020182"
+      ],
+      [
+        "o030020090061",
+        "o030020090062"
+      ],
+      [
+        "o030020160041",
+        "o030020160042"
+      ],
+      [
+        "o030050120101",
+        "o030050120102"
+      ],
+      [
+        "o030060080171",
+        "o030060080172"
+      ],
+      [
+        "o030240070082"
+      ],
+      [
+        "o040050260061",
+        "o040050260062"
+      ]
+    ]
+  }
+}

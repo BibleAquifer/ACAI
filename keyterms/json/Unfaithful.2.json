@@ -1,0 +1,91 @@
+{
+  "id": "keyterm:Unfaithful.2",
+  "primary_id": "keyterm:Unfaithful",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "31.101",
+    "88.278"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Unfaithful",
+      "alternate_labels": [
+        "Adulterous"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Not staying loyal to your true beliefs or promises, like being untrue in a relationship."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "adultère"
+    },
+    "ind": {
+      "preferred_label": "tidak setia"
+    },
+    "por-Br": {
+      "preferred_label": "infiel"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Unfaithful"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μοιχαλίς"
+    ]
+  },
+  "key_references": [
+    "40012039",
+    "59004004",
+    "61002014"
+  ],
+  "references": [
+    "40012039",
+    "40016004",
+    "41008038",
+    "59004004",
+    "61002014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40012039009"
+      ],
+      [
+        "n40016004004"
+      ],
+      [
+        "n41008038015"
+      ],
+      [
+        "n59004004001"
+      ],
+      [
+        "n61002014004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n59004005016"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n59004004003"
+      ],
+      [
+        "n59004005002"
+      ]
+    ]
+  }
+}

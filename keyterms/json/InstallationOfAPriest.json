@@ -1,0 +1,99 @@
+{
+  "id": "keyterm:InstallationOfAPriest",
+  "primary_id": "keyterm:Priesthood",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "004017001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Installation of a Priest",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The official ceremony where a person becomes a priest."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "consagración sacerdotal"
+    },
+    "fra": {
+      "preferred_label": "installation d'un prêtre"
+    },
+    "ind": {
+      "preferred_label": "pentahbisan seorang imam"
+    },
+    "por": {
+      "preferred_label": "installation of a priest"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Priesthood"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִלּוּאִים"
+    ]
+  },
+  "key_references": [
+    "03008022",
+    "03008029",
+    "03008031",
+    "03008033"
+  ],
+  "references": [
+    "02029022",
+    "02029026",
+    "02029027",
+    "02029031",
+    "02029034",
+    "03007037",
+    "03008022",
+    "03008028",
+    "03008029",
+    "03008031",
+    "03008033"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020290220261"
+      ],
+      [
+        "o020290260052"
+      ],
+      [
+        "o020290270132"
+      ],
+      [
+        "o020290310032"
+      ],
+      [
+        "o020290340042"
+      ],
+      [
+        "o030070370073"
+      ],
+      [
+        "o030080220062"
+      ],
+      [
+        "o030080280101"
+      ],
+      [
+        "o030080290102"
+      ],
+      [
+        "o030080310202"
+      ],
+      [
+        "o030080330121",
+        "o030080330122"
+      ]
+    ]
+  }
+}

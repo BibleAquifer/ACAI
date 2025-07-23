@@ -1,0 +1,122 @@
+{
+  "id": "keyterm:Worship",
+  "primary_id": "keyterm:Worship",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.53"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Worship (Act)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Acting in a way that shows love, respect, and honor to God through prayers, songs, and rituals."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "adorar"
+    },
+    "fra": {
+      "preferred_label": "adorer"
+    },
+    "ind": {
+      "preferred_label": "sembah"
+    },
+    "por": {
+      "preferred_label": "adorar"
+    },
+    "por-Br": {
+      "preferred_label": "adorar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Worship.2",
+    "keyterm:Worship.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "εὐσεβέω",
+      "σεβάζομαι",
+      "σέβομαι"
+    ]
+  },
+  "key_references": [
+    "44013043",
+    "44017023",
+    "44018007",
+    "45001025"
+  ],
+  "references": [
+    "40015009",
+    "41007007",
+    "44013043",
+    "44013050",
+    "44016014",
+    "44017004",
+    "44017017",
+    "44017023",
+    "44018007",
+    "44018013",
+    "44019027",
+    "45001025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44017023019"
+      ],
+      [
+        "n45001025011"
+      ],
+      [
+        "n40015009003"
+      ],
+      [
+        "n41007007003"
+      ],
+      [
+        "n44013043011"
+      ],
+      [
+        "n44013050006"
+      ],
+      [
+        "n44016014009"
+      ],
+      [
+        "n44017004015"
+      ],
+      [
+        "n44017017011"
+      ],
+      [
+        "n44018007011"
+      ],
+      [
+        "n44018013010"
+      ],
+      [
+        "n44019027037"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44017023020"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n41007006013"
+      ]
+    ]
+  }
+}

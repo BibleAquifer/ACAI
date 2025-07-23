@@ -8,7 +8,7 @@ NUM 18:27, 2SA 24:18, MAT 3:12.
 
 
 In the Old Testament (BSB), words representing “Threshing Floor” are translated as 
-*from the threshing floor* (1x), *the threshing floor* (7x), *of the threshing floor* (1x), *threshing floor and* (1x), *produce of your threshing floor and* (1x), *on the threshing floor* (6x), *to the threshing floor* (4x), *the threshing floors* (1x), *your threshing floor* (1x), *at the threshing floor* (3x), *of this threshing floor* (1x), *to your threshing floor* (1x), *is like a threshing floor* (1x), *threshing floor* (1x), *The threshing floor* (1x), *from a threshing floor* (1x), *The threshing floors* (1x). 
+*the threshing floor* (7x), *from the threshing floor* (1x), *of the threshing floor* (1x), *threshing floor and* (1x), *produce of your threshing floor and* (1x), *on the threshing floor* (6x), *to the threshing floor* (4x), *the threshing floors* (1x), *your threshing floor* (1x), *at the threshing floor* (3x), *of this threshing floor* (1x), *to your threshing floor* (1x), *is like a threshing floor* (1x), *threshing floor* (1x), *The threshing floor* (1x), *from a threshing floor* (1x), *The threshing floors* (1x). 
 
 
 In the New Testament (BSB), words representing “Threshing Floor” are translated as 
@@ -21,9 +21,9 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* from the threshing floor (NUM 15:20)
+* the threshing floor (DAN 2:35; NUM 18:27; 2SA 24:16; 2SA 24:24; 2KI 6:27; 1CH 21:15; 1CH 21:21)
 
-* the threshing floor (NUM 18:27; 2SA 24:16; 2SA 24:24; 2KI 6:27; 1CH 21:15; 1CH 21:21; DAN 2:35)
+* from the threshing floor (NUM 15:20)
 
 * of the threshing floor (NUM 18:30)
 

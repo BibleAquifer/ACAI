@@ -1,0 +1,58 @@
+{
+  "id": "keyterm:SinAgainst",
+  "primary_id": "keyterm:Sin",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.298"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sin Against",
+      "alternate_labels": [
+        "Wrong"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To do something wrong to another person, which creates a moral responsibility to make it right."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "quedar comprometido"
+    },
+    "fra": {
+      "preferred_label": "tenu"
+    },
+    "ind": {
+      "preferred_label": "terikat pada sumpah"
+    },
+    "por": {
+      "preferred_label": "ter a obrigação de"
+    },
+    "por-Br": {
+      "preferred_label": "pecar contra"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Sin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὀφείλω"
+    ]
+  },
+  "references": [
+    "42011004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42011004012"
+      ]
+    ]
+  }
+}

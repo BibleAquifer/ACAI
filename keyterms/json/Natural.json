@@ -1,0 +1,81 @@
+{
+  "id": "keyterm:Natural",
+  "primary_id": "keyterm:Natural",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "41.41",
+    "79.5",
+    "79.2"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Natural",
+      "alternate_labels": [
+        "Physical"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Related to the physical world and living things, not spiritual or supernatural."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "natural"
+    },
+    "fra": {
+      "preferred_label": "non spirituel"
+    },
+    "ind": {
+      "preferred_label": "alamiah"
+    },
+    "por": {
+      "preferred_label": "natural"
+    },
+    "por-Br": {
+      "preferred_label": "natural"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ψυχικός"
+    ]
+  },
+  "key_references": [
+    "46002014",
+    "46015046",
+    "59003015"
+  ],
+  "references": [
+    "46002014",
+    "46015044",
+    "46015046",
+    "59003015",
+    "65001019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46002014001"
+      ],
+      [
+        "n46015044003"
+      ],
+      [
+        "n46015044010"
+      ],
+      [
+        "n46015046008"
+      ],
+      [
+        "n59003015010"
+      ],
+      [
+        "n65001019005"
+      ]
+    ]
+  }
+}

@@ -9,8 +9,6 @@ Other forms include:
 MAT 13:52, LUK 6:45, LUK 12:24. 
 
 
-In the Old Testament (BSB), words representing “Storeroom” are translated as 
-*from His storehouses* (1x). 
 
 
 In the New Testament (BSB), words representing “Storeroom” are translated as 
@@ -20,12 +18,6 @@ In the New Testament (BSB), words representing “Storeroom” are translated as
 Return to [Index](00-Index.md)
 
 ## More Information
-
-### OT Instances (BSB)
-
-* from His storehouses (JER 51:16)
-
-
 
 ### NT Instances (BSB)
 
@@ -39,7 +31,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* JER 51:16; MAT 13:52; LUK 6:45; LUK 12:24
+* MAT 13:52; LUK 6:45; LUK 12:24
 
 
 

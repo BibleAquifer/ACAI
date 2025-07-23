@@ -13,11 +13,11 @@ LEV 11:7, ISA 66:17, 2PE 2:22.
 
 
 In the Old Testament (BSB), words representing “Pig” are translated as 
-*the pig* (2x), *The boar* (1x), *in a pig’s* (1x), *of pigs* (1x), *pig’s* (1x), *and vermin* (1x). 
+*the pig* (2x), *in a pig’s* (1x), *of pigs* (1x), *pig’s* (1x), *and vermin* (1x), *The boar* (1x). 
 
 
 In the New Testament (BSB), words representing “Pig” are translated as 
-*swine* (1x), *of pigs* (4x), *pigs* (6x), *the pigs* (1x), *A sow* (1x). 
+*A sow* (1x), *swine* (1x), *of pigs* (4x), *pigs* (6x), *the pigs* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -28,8 +28,6 @@ Return to [Index](00-Index.md)
 
 * the pig (LEV 11:7; DEU 14:8)
 
-* The boar (PSA 80:14)
-
 * in a pig’s (PRO 11:22)
 
 * of pigs (ISA 65:4)
@@ -38,9 +36,13 @@ Return to [Index](00-Index.md)
 
 * and vermin (ISA 66:17)
 
+* The boar (PSA 80:14)
+
 
 
 ### NT Instances (BSB)
+
+* A sow (2PE 2:22)
 
 * swine (MAT 7:6)
 
@@ -49,8 +51,6 @@ Return to [Index](00-Index.md)
 * pigs (MAT 8:32; MRK 5:12; MRK 5:13; MRK 5:16; LUK 8:33; LUK 15:16)
 
 * the pigs (LUK 15:15)
-
-* A sow (2PE 2:22)
 
 
 
@@ -96,7 +96,9 @@ Return to [Index](00-Index.md)
 
 * they may trample (MAT 7:6)
 
-* then turn and tear you to pieces (MAT 7:6)
+* then turn and (MAT 7:6)
+
+* tear you to pieces (MAT 7:6)
 
 
 

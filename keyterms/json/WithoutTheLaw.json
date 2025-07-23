@@ -1,0 +1,58 @@
+{
+  "id": "keyterm:WithoutTheLaw",
+  "primary_id": "keyterm:Lawless",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "33.57"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Without the Law",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Living without following the rules given in the first five books of the Old Testament."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "sin ley"
+    },
+    "fra": {
+      "preferred_label": "adv. sans la loi juive"
+    },
+    "ind": {
+      "preferred_label": "tanpa hukum taurat"
+    },
+    "por": {
+      "preferred_label": "sem lei"
+    },
+    "por-Br": {
+      "preferred_label": "sem lei"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Lawless"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀνόμως"
+    ]
+  },
+  "references": [
+    "45002012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45002012003"
+      ],
+      [
+        "n45002012005"
+      ]
+    ]
+  }
+}

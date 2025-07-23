@@ -1,0 +1,70 @@
+{
+  "id": "keyterm:Conduct",
+  "primary_id": "keyterm:Behavior",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "41.3"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Conduct",
+      "alternate_labels": [
+        "Manner of Life"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The way a person behaves and lives every day."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "conducta"
+    },
+    "fra": {
+      "preferred_label": "façon d'être"
+    },
+    "ind": {
+      "preferred_label": "hidup"
+    },
+    "por": {
+      "preferred_label": "conduta"
+    },
+    "por-Br": {
+      "preferred_label": "conduta"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Behavior"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀναστροφή"
+    ]
+  },
+  "references": [
+    "48001013",
+    "49004022",
+    "58013007",
+    "59003013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n48001013005"
+      ],
+      [
+        "n49004022006"
+      ],
+      [
+        "n58013007017"
+      ],
+      [
+        "n59003013011"
+      ]
+    ]
+  }
+}

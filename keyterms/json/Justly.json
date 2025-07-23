@@ -1,0 +1,80 @@
+{
+  "id": "keyterm:Justly",
+  "primary_id": "keyterm:Just",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.15"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Justly",
+      "alternate_labels": [
+        "Righteously"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Acting in a right and fair way because it is deserved and correct."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "justamente"
+    },
+    "fra": {
+      "preferred_label": "avec raison"
+    },
+    "ind": {
+      "preferred_label": "balasan yang setimpal"
+    },
+    "por": {
+      "preferred_label": "com justiça"
+    },
+    "por-Br": {
+      "preferred_label": "justamente"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Deserved",
+    "keyterm:Just"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δικαίως"
+    ]
+  },
+  "key_references": [
+    "52002010",
+    "56002012",
+    "60002023"
+  ],
+  "references": [
+    "42023041",
+    "46015034",
+    "52002010",
+    "56002012",
+    "60002023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42023041004"
+      ],
+      [
+        "n46015034002"
+      ],
+      [
+        "n52002010009"
+      ],
+      [
+        "n56002012013"
+      ],
+      [
+        "n60002023012"
+      ]
+    ]
+  }
+}

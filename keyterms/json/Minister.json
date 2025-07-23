@@ -1,0 +1,109 @@
+{
+  "id": "keyterm:Minister",
+  "primary_id": "keyterm:Priesthood",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "35.22",
+    "53.13",
+    "35.25"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Minister",
+      "alternate_labels": [
+        "Give Service",
+        "Serve"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To serve others by doing helpful work or religious duties."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "servir"
+    },
+    "fra": {
+      "preferred_label": "servir"
+    },
+    "ind": {
+      "preferred_label": "melayani"
+    },
+    "por": {
+      "preferred_label": "servir"
+    },
+    "por-Br": {
+      "preferred_label": "servir"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Priesthood",
+    "keyterm:Service.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "λειτουργέω",
+      "λειτουργία",
+      "λειτουργικός",
+      "ἱεράτευμα",
+      "ἱερωσύνη",
+      "ἱερατεία",
+      "λατρεύω",
+      "λατρεία",
+      "ἱερατεύω",
+      "ἱερουργέω"
+    ]
+  },
+  "key_references": [
+    "42001023",
+    "44013002",
+    "50002017",
+    "58008006"
+  ],
+  "references": [
+    "42001023",
+    "44013002",
+    "45015027",
+    "47009012",
+    "50002017",
+    "50002030",
+    "58008006",
+    "58009021",
+    "58010011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44013002001"
+      ],
+      [
+        "n45015027020"
+      ],
+      [
+        "n58010011008"
+      ],
+      [
+        "n42001023008"
+      ],
+      [
+        "n47009012005"
+      ],
+      [
+        "n50002017009"
+      ],
+      [
+        "n50002030020"
+      ],
+      [
+        "n58008006005"
+      ],
+      [
+        "n58009021010"
+      ]
+    ]
+  }
+}

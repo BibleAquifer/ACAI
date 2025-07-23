@@ -1,0 +1,64 @@
+{
+  "id": "keyterm:Elect",
+  "primary_id": "keyterm:Chosen",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "37.103",
+    "30.101"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Elect",
+      "alternate_labels": [
+        "To Choose",
+        "To Select"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To carefully choose someone for a special role or purpose."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "nombrar"
+    },
+    "fra": {
+      "preferred_label": "nommer"
+    },
+    "ind": {
+      "preferred_label": "memilih"
+    },
+    "por": {
+      "preferred_label": "escolher"
+    },
+    "por-Br": {
+      "preferred_label": "escolher"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Chosen"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χειροτονέω"
+    ]
+  },
+  "references": [
+    "44014023",
+    "47008019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44014023001"
+      ],
+      [
+        "n47008019006"
+      ]
+    ]
+  }
+}

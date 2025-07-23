@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:Worship.2",
+  "primary_id": "keyterm:Worship",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.53"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Worship",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing love and respect to God through actions and feelings."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "venerar"
+    },
+    "fra": {
+      "preferred_label": "adorer"
+    },
+    "ind": {
+      "preferred_label": "menyembah"
+    },
+    "por": {
+      "preferred_label": "cultuar"
+    },
+    "por-Br": {
+      "preferred_label": "cultuar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Worship"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σεβάζομαι"
+    ]
+  },
+  "references": [
+    "45001025"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45001025011"
+      ]
+    ]
+  }
+}

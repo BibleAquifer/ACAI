@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Siege Tower” are translated as 
-*siege works* (2x), *their siege towers* (1x), *with towers* (1x). 
+*their siege towers* (1x), *with towers* (1x), *siege works* (2x). 
 
 
 
@@ -21,11 +21,11 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* siege works (DEU 20:20; ISA 29:3)
-
 * their siege towers (ISA 23:13)
 
 * with towers (ISA 29:3)
+
+* siege works (DEU 20:20; ISA 29:3)
 
 
 

@@ -1,0 +1,101 @@
+{
+  "id": "keyterm:Dedication",
+  "primary_id": "keyterm:Offering",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "002393001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Dedication (Ceremony)",
+      "alternate_labels": [
+        "Dedication Offering"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A special ceremony that sets a building apart for God's use and honors Him."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "dédicace"
+    },
+    "ind": {
+      "preferred_label": "peresmian (upacara)"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Offering"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֲנֻכָּה"
+    ],
+    "arc": [
+      "חֲנֻכָּה"
+    ]
+  },
+  "key_references": [
+    "04007010",
+    "14007009",
+    "15006016",
+    "16012027"
+  ],
+  "references": [
+    "04007010",
+    "04007011",
+    "04007084",
+    "04007088",
+    "14007009",
+    "15006016",
+    "15006017",
+    "16012027",
+    "19030001",
+    "27003002",
+    "27003003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040070100041"
+      ],
+      [
+        "o040070110142"
+      ],
+      [
+        "o040070840021"
+      ],
+      [
+        "o040070880171"
+      ],
+      [
+        "o140070090061"
+      ],
+      [
+        "o160120270013"
+      ],
+      [
+        "o160120270121"
+      ],
+      [
+        "o190300010031"
+      ],
+      [
+        "o150060160091"
+      ],
+      [
+        "o150060170022"
+      ],
+      [
+        "o270030020162"
+      ],
+      [
+        "o270030030132"
+      ]
+    ]
+  }
+}

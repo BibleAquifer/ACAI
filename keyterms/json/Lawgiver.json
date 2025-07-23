@@ -1,0 +1,65 @@
+{
+  "id": "keyterm:Lawgiver",
+  "primary_id": "keyterm:Lawgiver",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "33.340"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lawgiver",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A person who creates or gives laws for others to follow."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "legislador"
+    },
+    "fra": {
+      "preferred_label": "législateur"
+    },
+    "ind": {
+      "preferred_label": "pembuat hukum"
+    },
+    "por": {
+      "preferred_label": "legislador"
+    },
+    "por-Br": {
+      "preferred_label": "legislador"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "νομοθέτης"
+    ]
+  },
+  "references": [
+    "59004012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n59004012003"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n59004012007"
+      ],
+      [
+        "n59004012008"
+      ],
+      [
+        "n59004012010"
+      ]
+    ]
+  }
+}

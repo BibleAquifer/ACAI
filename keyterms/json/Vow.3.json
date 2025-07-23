@@ -1,0 +1,44 @@
+{
+  "id": "keyterm:Vow.3",
+  "primary_id": "keyterm:Vow",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "33.469"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Vow (Oath)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A promise to God to do something, with a serious warning that not keeping it will bring punishment from God."
+        }
+      ]
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Vow"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "εὐχη"
+    ]
+  },
+  "references": [
+    "44018018",
+    "44021023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44018018028"
+      ],
+      [
+        "n44021023011"
+      ]
+    ]
+  }
+}

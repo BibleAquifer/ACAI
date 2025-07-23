@@ -6,7 +6,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Threshing-Sledge” are translated as 
-*and the threshing sledges* (1x), *the threshing sledges* (1x), *like a threshing sledge* (1x), *with a sledge* (1x), *of a cart* (1x), *of the cart* (1x), *into a threshing sledge and sharp* (1x), *sledges of* (1x). 
+*like a threshing sledge* (1x), *with a sledge* (1x), *sledges of* (1x), *and the threshing sledges* (1x), *the threshing sledges* (1x), *into a threshing sledge* (1x), *of a cart* (1x), *of the cart* (1x). 
 
 
 
@@ -17,21 +17,21 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* and the threshing sledges (2SA 24:22)
-
-* the threshing sledges (1CH 21:23)
-
 * like a threshing sledge (JOB 41:22)
 
 * with a sledge (ISA 28:27)
 
+* sledges of (AMO 1:3)
+
+* and the threshing sledges (2SA 24:22)
+
+* the threshing sledges (1CH 21:23)
+
+* into a threshing sledge (ISA 41:15)
+
 * of a cart (ISA 28:27)
 
 * of the cart (ISA 28:28)
-
-* into a threshing sledge and sharp (ISA 41:15)
-
-* sledges of (AMO 1:3)
 
 
 

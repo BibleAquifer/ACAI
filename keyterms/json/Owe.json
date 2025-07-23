@@ -1,0 +1,85 @@
+{
+  "id": "keyterm:Owe",
+  "primary_id": "keyterm:Owe",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "57.219"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Owe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To need to pay or give something back because you received it before."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "deber"
+    },
+    "fra": {
+      "preferred_label": "devoir (qch) à [qqn]"
+    },
+    "ind": {
+      "preferred_label": "berhutang"
+    },
+    "por": {
+      "preferred_label": "ter dívida para com alguém"
+    },
+    "por-Br": {
+      "preferred_label": "dever"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὀφείλω"
+    ]
+  },
+  "key_references": [
+    "40018028",
+    "42007041",
+    "42016005",
+    "57001018"
+  ],
+  "references": [
+    "40018028",
+    "40018030",
+    "40018034",
+    "42007041",
+    "42016005",
+    "42016007",
+    "57001018"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40018028012"
+      ],
+      [
+        "n40018028024"
+      ],
+      [
+        "n40018030015"
+      ],
+      [
+        "n40018034015"
+      ],
+      [
+        "n42007041008"
+      ],
+      [
+        "n42016005014"
+      ],
+      [
+        "n42016007007"
+      ],
+      [
+        "n57001018007"
+      ]
+    ]
+  }
+}

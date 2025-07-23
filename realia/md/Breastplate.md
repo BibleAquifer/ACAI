@@ -13,8 +13,6 @@ In the Old Testament (BSB), words representing “Breastplate” are translated 
 *of his armor* (2x), *armor* (1x), *and armor* (1x), *like a breastplate* (1x). 
 
 
-In the New Testament (BSB), words representing “Breastplate” are translated as 
-*breastplates the colors of* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -33,15 +31,9 @@ Return to [Index](00-Index.md)
 
 
 
-### NT Instances (BSB)
-
-* breastplates the colors of (REV 9:17)
-
-
-
 ### References (Whole Bible)
 
-* 1KI 22:34; 2CH 18:33; 2CH 26:14; NEH 4:10; ISA 59:17; REV 9:17
+* 1KI 22:34; 2CH 18:33; 2CH 26:14; NEH 4:10; ISA 59:17
 
 
 

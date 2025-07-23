@@ -1,0 +1,177 @@
+{
+  "id": "keyterm:PracticeDivination",
+  "primary_id": "keyterm:PracticeDivination",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "006517001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Practice Divination",
+      "alternate_labels": [
+        "Be a Fortune-Teller"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To try to learn the future or hidden things by using special signs or objects, which the Bible says is wrong."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "practicar adivinación"
+    },
+    "fra": {
+      "preferred_label": "pratiquer le divination"
+    },
+    "ind": {
+      "preferred_label": "berlaku ramalan atau tenungan"
+    },
+    "por": {
+      "preferred_label": "practice divination"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קסם"
+    ]
+  },
+  "key_references": [
+    "05018010",
+    "09028008",
+    "26013009",
+    "33003007"
+  ],
+  "references": [
+    "05018010",
+    "05018014",
+    "06013022",
+    "09006002",
+    "09028008",
+    "12017017",
+    "23003002",
+    "23044025",
+    "24027009",
+    "24029008",
+    "26013009",
+    "26013023",
+    "26021026",
+    "26021028",
+    "26021034",
+    "26022028",
+    "33003006",
+    "33003007",
+    "33003011",
+    "38010002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050180100081"
+      ],
+      [
+        "o050180140111"
+      ],
+      [
+        "o060130220052"
+      ],
+      [
+        "o090060020043"
+      ],
+      [
+        "o090280080171"
+      ],
+      [
+        "o120170170072"
+      ],
+      [
+        "o230030020062"
+      ],
+      [
+        "o230440250042"
+      ],
+      [
+        "o240270090071",
+        "o240270090072"
+      ],
+      [
+        "o240290080142",
+        "o240290080143"
+      ],
+      [
+        "o260130090073"
+      ],
+      [
+        "o260130230071"
+      ],
+      [
+        "o260210260112"
+      ],
+      [
+        "o260210280042"
+      ],
+      [
+        "o260210340042"
+      ],
+      [
+        "o260220280072"
+      ],
+      [
+        "o330030060072"
+      ],
+      [
+        "o330030070042"
+      ],
+      [
+        "o330030110091"
+      ],
+      [
+        "o380100020053"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090280100122"
+      ],
+      [
+        "o240270090151"
+      ],
+      [
+        "o240270100031"
+      ],
+      [
+        "o240290090031"
+      ],
+      [
+        "o240290090082"
+      ],
+      [
+        "o330030070082"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o240270090182"
+      ],
+      [
+        "o240270100071"
+      ],
+      [
+        "o330030070052"
+      ],
+      [
+        "o380100020101"
+      ],
+      [
+        "o380100020121"
+      ]
+    ]
+  }
+}

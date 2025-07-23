@@ -1,0 +1,104 @@
+{
+  "id": "keyterm:HiredWorker",
+  "primary_id": "keyterm:HiredWorker",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "57.174"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hired Worker",
+      "alternate_labels": [
+        "Hired Person"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A person who is paid to work for someone else."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "jornalero"
+    },
+    "fra": {
+      "preferred_label": "travailleur employé"
+    },
+    "ind": {
+      "preferred_label": "orang upahan"
+    },
+    "por": {
+      "preferred_label": "empregado"
+    },
+    "por-Br": {
+      "preferred_label": "empregado"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μισθωτός",
+      "μίσθιος"
+    ]
+  },
+  "key_references": [
+    "41001020",
+    "42015019",
+    "43010012",
+    "43010013"
+  ],
+  "references": [
+    "41001020",
+    "42015017",
+    "42015019",
+    "43010012",
+    "43010013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41001020016"
+      ],
+      [
+        "n43010012002"
+      ],
+      [
+        "n43010013002"
+      ],
+      [
+        "n42015017007"
+      ],
+      [
+        "n42015019012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43010012007"
+      ],
+      [
+        "n43010012012"
+      ],
+      [
+        "n43010013007"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n43010012018"
+      ],
+      [
+        "n43010012022"
+      ],
+      [
+        "n43010013003"
+      ]
+    ]
+  }
+}

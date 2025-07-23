@@ -1,0 +1,79 @@
+{
+  "id": "keyterm:Profane.3",
+  "primary_id": "keyterm:Profane",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.115"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Profane (Person)",
+      "alternate_labels": [
+        "Irreligious"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A person who does not respect God and lives without following His ways."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "sacrílego"
+    },
+    "fra": {
+      "preferred_label": "vil"
+    },
+    "ind": {
+      "preferred_label": "omongan kosong"
+    },
+    "por": {
+      "preferred_label": "profano"
+    },
+    "por-Br": {
+      "preferred_label": "profano"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Profane"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βέβηλος"
+    ]
+  },
+  "key_references": [
+    "54001009",
+    "54006020",
+    "58012016"
+  ],
+  "references": [
+    "54001009",
+    "54004007",
+    "54006020",
+    "55002016",
+    "58012016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n54001009017"
+      ],
+      [
+        "n54004007003"
+      ],
+      [
+        "n54006020008"
+      ],
+      [
+        "n55002016003"
+      ],
+      [
+        "n58012016005"
+      ]
+    ]
+  }
+}

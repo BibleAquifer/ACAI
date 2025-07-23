@@ -1,0 +1,60 @@
+{
+  "id": "keyterm:Fearful",
+  "primary_id": "keyterm:Fear",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "25.255"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fearful",
+      "alternate_labels": [
+        "Terrifying"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Causing people to feel afraid or scared."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "craintif"
+    },
+    "ind": {
+      "preferred_label": "mengerikan"
+    },
+    "por-Br": {
+      "preferred_label": "terrível"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Fear"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "φοβερός"
+    ]
+  },
+  "references": [
+    "58010027",
+    "58010031",
+    "58012021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58010027001"
+      ],
+      [
+        "n58010031001"
+      ],
+      [
+        "n58012021003"
+      ]
+    ]
+  }
+}

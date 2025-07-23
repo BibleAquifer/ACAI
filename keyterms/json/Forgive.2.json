@@ -1,0 +1,89 @@
+{
+  "id": "keyterm:Forgive.2",
+  "primary_id": "keyterm:Forgive",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "003861001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Forgive (Wipe Out)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To completely remove or cancel sins, making them as if they never happened."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "borrar"
+    },
+    "fra": {
+      "preferred_label": "atteindre"
+    },
+    "ind": {
+      "preferred_label": "mengampuni"
+    },
+    "por": {
+      "preferred_label": "wipe out (sins), forgive"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Forgive"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מחה"
+    ]
+  },
+  "key_references": [
+    "19051003",
+    "23043025",
+    "23044022",
+    "24018023"
+  ],
+  "references": [
+    "16003037",
+    "19051003",
+    "19051011",
+    "19109014",
+    "23043025",
+    "23044022",
+    "24018023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160030370081"
+      ],
+      [
+        "o190510030061"
+      ],
+      [
+        "o190510110061"
+      ],
+      [
+        "o191090140091"
+      ],
+      [
+        "o230430250041"
+      ],
+      [
+        "o230440220011"
+      ],
+      [
+        "o240180230161"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o230430250031"
+      ]
+    ]
+  }
+}

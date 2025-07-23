@@ -1,0 +1,65 @@
+{
+  "id": "keyterm:Kindness.2",
+  "primary_id": "keyterm:Kindness",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.62"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kindness (Graciousness)",
+      "alternate_labels": [
+        "Forbearance",
+        "Graciousness"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing patience, gentleness, and grace to others, even when it is difficult."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "gentileza"
+    },
+    "fra": {
+      "preferred_label": "bonté"
+    },
+    "ind": {
+      "preferred_label": "kemurahan hati"
+    },
+    "por": {
+      "preferred_label": "bondade"
+    },
+    "por-Br": {
+      "preferred_label": "bondade"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Kindness"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐπιείκεια",
+      "φιλανθρωπία",
+      "χρηστότης"
+    ]
+  },
+  "references": [
+    "44024004",
+    "47010001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44024004015"
+      ],
+      [
+        "n47010001011"
+      ]
+    ]
+  }
+}

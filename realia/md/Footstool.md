@@ -7,8 +7,6 @@ A small piece of furniture used to rest one’s feet (acai).
 1CH 28:2, ISA 66:1, MAT 5:35. 
 
 
-In the Old Testament (BSB), words representing “Footstool” are translated as 
-*and a footstool* (1x). 
 
 
 In the New Testament (BSB), words representing “Footstool” are translated as 
@@ -18,12 +16,6 @@ In the New Testament (BSB), words representing “Footstool” are translated as
 Return to [Index](00-Index.md)
 
 ## More Information
-
-### OT Instances (BSB)
-
-* and a footstool (2CH 9:18)
-
-
 
 ### NT Instances (BSB)
 
@@ -39,7 +31,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* 2CH 9:18; MAT 5:35; LUK 20:43; ACT 2:35; ACT 7:49; HEB 1:13; HEB 10:13; JAS 2:3
+* MAT 5:35; LUK 20:43; ACT 2:35; ACT 7:49; HEB 1:13; HEB 10:13; JAS 2:3
 
 
 

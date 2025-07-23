@@ -11,7 +11,7 @@ EXO 10:4, JOL 1:4, MAT 3:4.
 
 
 In the Old Testament (BSB), words representing “Locust” are translated as 
-*locusts* (3x), *so that the locusts* (1x), *the locusts* (4x), *The locusts* (1x), *locust* (1x), *of locust* (1x), *katydid* (1x), *cricket* (1x), *or grasshopper* (1x), *like grasshoppers* (1x), *Swarms of locusts* (1x), *of locusts* (2x), *or locusts or grasshoppers* (1x), *locusts or* (1x), *grasshoppers or* (1x), *the locust* (1x), *like a locust* (2x), *to the grasshopper* (1x), *to the locust* (1x), *and the locusts* (1x), *young locusts* (1x), *the grasshopper* (1x), *of whirring* (1x), *as by locusts* (1x), *are like grasshoppers* (1x), *than locusts* (1x), *with locusts and* (1x), ** (1x), *What the devouring locust* (1x), *the swarming locust* (1x), *what the swarming locust* (1x), *the young locust* (1x), *and what the young locust* (1x), *the destroying locust* (1x), *locust the young* (1x), *locust the destroying* (1x), *locust and the* (1x), *devouring locust My great* (1x), *locust devoured* (1x), *swarms of locusts* (1x), *like a young locust* (1x), *like the young locust* (1x), *like the swarming locust* (1x), *The young locust* (1x), *are like the swarming locust* (1x), *like clouds of locusts* (1x). 
+*locusts* (3x), *so that the locusts* (1x), *the locusts* (4x), *The locusts* (1x), *locust* (1x), *of locust* (1x), *of locusts* (2x), *or locusts* (1x), *locusts or* (1x), *like a locust* (2x), *to the locust* (1x), *and the locusts* (1x), *than locusts* (1x), *the swarming locust* (1x), *what the swarming locust* (1x), *locust the young* (1x), *like the swarming locust* (1x), *are like the swarming locust* (1x), *What the devouring locust* (1x), *devouring locust My great* (1x), *locust devoured* (1x), *or grasshopper* (1x), *like grasshoppers* (1x), *the locust* (1x), *the grasshopper* (1x), *are like grasshoppers* (1x), *or grasshoppers* (1x), *grasshoppers or* (1x), *to the grasshopper* (1x), *as by locusts* (1x), *the destroying locust* (1x), *locust and the* (1x), *cricket* (1x), *young locusts* (1x), *with locusts and* (1x), ** (1x), *the young locust* (1x), *and what the young locust* (1x), *locust the destroying* (1x), *like a young locust* (1x), *like the young locust* (1x), *The young locust* (1x), *katydid* (1x), *Swarms of locusts* (1x), *of whirring* (1x), *swarms of locusts* (1x), *like clouds of locusts* (1x). 
 
 
 In the New Testament (BSB), words representing “Locust” are translated as 
@@ -36,83 +36,85 @@ Return to [Index](00-Index.md)
 
 * of locust (LEV 11:22)
 
-* katydid (LEV 11:22)
-
-* cricket (LEV 11:22)
-
-* or grasshopper (LEV 11:22)
-
-* like grasshoppers (NUM 13:33)
-
-* Swarms of locusts (DEU 28:42)
-
 * of locusts (JDG 6:5; ISA 33:4)
 
-* or locusts or grasshoppers (1KI 8:37)
+* or locusts (1KI 8:37)
 
 * locusts or (2CH 6:28)
 
-* grasshoppers or (2CH 6:28)
-
-* the locust (2CH 7:13)
-
 * like a locust (JOB 39:20; PSA 109:23)
-
-* to the grasshopper (PSA 78:46)
 
 * to the locust (PSA 78:46)
 
 * and the locusts (PSA 105:34)
 
-* young locusts (PSA 105:34)
-
-* the grasshopper (ECC 12:5)
-
-* of whirring (ISA 18:1)
-
-* as by locusts (ISA 33:4)
-
-* are like grasshoppers (ISA 40:22)
-
 * than locusts (JER 46:23)
-
-* with locusts and (JER 51:14)
-
-*  (JER 51:27)
-
-* What the devouring locust (JOL 1:4)
 
 * the swarming locust (JOL 1:4)
 
 * what the swarming locust (JOL 1:4)
 
-* the young locust (JOL 1:4)
-
-* and what the young locust (JOL 1:4)
-
-* the destroying locust (JOL 1:4)
-
 * locust the young (JOL 2:25)
 
-* locust the destroying (JOL 2:25)
+* like the swarming locust (NAM 3:15)
 
-* locust and the (JOL 2:25)
+* are like the swarming locust (NAM 3:17)
+
+* What the devouring locust (JOL 1:4)
 
 * devouring locust My great (JOL 2:25)
 
 * locust devoured (AMO 4:9)
 
-* swarms of locusts (AMO 7:1)
+* or grasshopper (LEV 11:22)
+
+* like grasshoppers (NUM 13:33)
+
+* the locust (2CH 7:13)
+
+* the grasshopper (ECC 12:5)
+
+* are like grasshoppers (ISA 40:22)
+
+* or grasshoppers (1KI 8:37)
+
+* grasshoppers or (2CH 6:28)
+
+* to the grasshopper (PSA 78:46)
+
+* as by locusts (ISA 33:4)
+
+* the destroying locust (JOL 1:4)
+
+* locust and the (JOL 2:25)
+
+* cricket (LEV 11:22)
+
+* young locusts (PSA 105:34)
+
+* with locusts and (JER 51:14)
+
+*  (JER 51:27)
+
+* the young locust (JOL 1:4)
+
+* and what the young locust (JOL 1:4)
+
+* locust the destroying (JOL 2:25)
 
 * like a young locust (NAM 3:15)
 
 * like the young locust (NAM 3:15)
 
-* like the swarming locust (NAM 3:15)
-
 * The young locust (NAM 3:16)
 
-* are like the swarming locust (NAM 3:17)
+* katydid (LEV 11:22)
+
+* Swarms of locusts (DEU 28:42)
+
+* of whirring (ISA 18:1)
+
+* swarms of locusts (AMO 7:1)
 
 * like clouds of locusts (NAM 3:17)
 
@@ -182,17 +184,17 @@ Return to [Index](00-Index.md)
 
 *  (2CH 6:28; 2CH 6:28)
 
-* to devour (2CH 7:13)
-
 * They devoured (PSA 105:35; PSA 105:35)
 
 * and consumed (PSA 105:35; PSA 105:35)
 
+* to devour (2CH 7:13)
+
+* and flies away (NAM 3:16)
+
 * the locusts had (AMO 7:2)
 
 * eaten (AMO 7:2)
-
-* and flies away (NAM 3:16)
 
 
 

@@ -1,0 +1,64 @@
+{
+  "id": "keyterm:Ransom",
+  "primary_id": "keyterm:Ransom",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "37.130"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ransom",
+      "alternate_labels": [
+        "Means of Release"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Something given to free a person from danger or punishment."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "rescate"
+    },
+    "fra": {
+      "preferred_label": "rançon"
+    },
+    "ind": {
+      "preferred_label": "tebusan"
+    },
+    "por": {
+      "preferred_label": "resgate"
+    },
+    "por-Br": {
+      "preferred_label": "resgate"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀντίλυτρον",
+      "λύτρον"
+    ]
+  },
+  "references": [
+    "40020028",
+    "41010045",
+    "54002006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n54002006004"
+      ],
+      [
+        "n40020028016"
+      ],
+      [
+        "n41010045017"
+      ]
+    ]
+  }
+}

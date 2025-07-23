@@ -1,0 +1,93 @@
+{
+  "id": "keyterm:Height",
+  "primary_id": "keyterm:Height",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "14.42",
+    "1.13"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Height",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "How tall something is from bottom to top."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "altura"
+    },
+    "fra": {
+      "preferred_label": "hauteur"
+    },
+    "ind": {
+      "preferred_label": "tempat yang tinggi"
+    },
+    "por": {
+      "preferred_label": "altura"
+    },
+    "por-Br": {
+      "preferred_label": "altura"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:High",
+    "keyterm:Highest"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὕψος",
+      "ὑψηλός",
+      "ὕψιστος"
+    ]
+  },
+  "key_references": [
+    "42001078",
+    "42019038",
+    "49004008",
+    "58001003"
+  ],
+  "references": [
+    "40021009",
+    "41011010",
+    "42001078",
+    "42002014",
+    "42019038",
+    "42024049",
+    "49004008",
+    "58001003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42001078012"
+      ],
+      [
+        "n42024049022"
+      ],
+      [
+        "n49004008005"
+      ],
+      [
+        "n58001003031"
+      ],
+      [
+        "n40021009025"
+      ],
+      [
+        "n41011010012"
+      ],
+      [
+        "n42002014003"
+      ],
+      [
+        "n42019038015"
+      ]
+    ]
+  }
+}

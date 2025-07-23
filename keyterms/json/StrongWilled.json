@@ -1,0 +1,74 @@
+{
+  "id": "keyterm:StrongWilled",
+  "primary_id": "keyterm:MightyOne",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "000045001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Strong-Willed",
+      "alternate_labels": [
+        "Brave",
+        "Stubborn"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Having a brave and determined heart that keeps going, even when it is hard or others disagree."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "valiente"
+    },
+    "fra": {
+      "preferred_label": "indomptable"
+    },
+    "ind": {
+      "preferred_label": "berani"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:MightyOne"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַבִּיר לֵב"
+    ]
+  },
+  "references": [
+    "19076006",
+    "23046012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190760060021"
+      ],
+      [
+        "o230460120031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o190760060052"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o190760060041"
+      ],
+      [
+        "o230460120011"
+      ]
+    ]
+  }
+}

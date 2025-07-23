@@ -1,0 +1,60 @@
+{
+  "id": "keyterm:PositionOfResponsibility",
+  "primary_id": "keyterm:PositionOfResponsibility",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "35.40",
+    "53.69"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Position of Responsibility",
+      "alternate_labels": [
+        "Position of Service"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A role where a person takes care of others and is trusted to make important decisions."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "oficio"
+    },
+    "fra": {
+      "preferred_label": "visitation (présence de dieu parmi les hommes)"
+    },
+    "ind": {
+      "preferred_label": "jabatan"
+    },
+    "por": {
+      "preferred_label": "ofício"
+    },
+    "por-Br": {
+      "preferred_label": "ofício"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐπισκοπή"
+    ]
+  },
+  "references": [
+    "44001020",
+    "54003001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44001020020"
+      ],
+      [
+        "n54003001006"
+      ]
+    ]
+  }
+}

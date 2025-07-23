@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:Verdict",
+  "primary_id": "keyterm:Verdict",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "56.26"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Verdict",
+      "alternate_labels": [
+        "Sentence"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "An official decision made by a judge or court about someone's guilt or innocence."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "sentencia"
+    },
+    "fra": {
+      "preferred_label": "sentence (de mort)"
+    },
+    "ind": {
+      "preferred_label": "hukuman"
+    },
+    "por": {
+      "preferred_label": "sentença"
+    },
+    "por-Br": {
+      "preferred_label": "veredicto"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀπόκριμα"
+    ]
+  },
+  "references": [
+    "47001009"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n47001009006"
+      ]
+    ]
+  }
+}

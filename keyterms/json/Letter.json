@@ -1,0 +1,104 @@
+{
+  "id": "keyterm:Letter",
+  "primary_id": "keyterm:Letter",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "33.50",
+    "33.35"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Letter (Document)",
+      "alternate_labels": [
+        "Writing",
+        "Scripture"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A written message or document sent to one or more people."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "letra"
+    },
+    "fra": {
+      "preferred_label": "lettre de l'alphabet"
+    },
+    "ind": {
+      "preferred_label": "tulisan"
+    },
+    "por": {
+      "preferred_label": "letra"
+    },
+    "por-Br": {
+      "preferred_label": "letra"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "γράμμα"
+    ]
+  },
+  "key_references": [
+    "43005047",
+    "45007006",
+    "47003006"
+  ],
+  "references": [
+    "43005047",
+    "45002027",
+    "45007006",
+    "47003006",
+    "47003007",
+    "55003015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43005047005"
+      ],
+      [
+        "n45002027013"
+      ],
+      [
+        "n45007006020"
+      ],
+      [
+        "n47003006009"
+      ],
+      [
+        "n47003006014"
+      ],
+      [
+        "n47003007008"
+      ],
+      [
+        "n55003015006"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n47003010006"
+      ],
+      [
+        "n47003011004"
+      ],
+      [
+        "n47003013022"
+      ],
+      [
+        "n55003015009"
+      ],
+      [
+        "n55003015011"
+      ]
+    ]
+  }
+}

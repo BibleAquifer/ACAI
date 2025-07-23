@@ -1,0 +1,156 @@
+{
+  "id": "keyterm:Disbelieve",
+  "primary_id": "keyterm:Disbelieve",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "31.39",
+    "31.97",
+    "31.105",
+    "31.89"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Disbelieve",
+      "alternate_labels": [
+        "Be Unfaithful"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To not accept something as true or to refuse to trust someone or something."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "no creer"
+    },
+    "fra": {
+      "preferred_label": "ne pas réussir ou refuser de croire"
+    },
+    "ind": {
+      "preferred_label": "tidak percaya"
+    },
+    "por": {
+      "preferred_label": "não crer"
+    },
+    "por-Br": {
+      "preferred_label": "não crer"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Unbelief"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀπιστέω",
+      "ἀπιστία"
+    ]
+  },
+  "key_references": [
+    "40013058",
+    "41006006",
+    "45003003",
+    "58003012"
+  ],
+  "references": [
+    "40013058",
+    "41006006",
+    "41009024",
+    "41016011",
+    "41016014",
+    "41016016",
+    "42024011",
+    "42024041",
+    "44028024",
+    "45003003",
+    "45004020",
+    "45011020",
+    "45011023",
+    "54001013",
+    "55002013",
+    "58003012",
+    "58003019",
+    "60002007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41016011009"
+      ],
+      [
+        "n41016016008"
+      ],
+      [
+        "n42024011011"
+      ],
+      [
+        "n42024041003"
+      ],
+      [
+        "n44028024009"
+      ],
+      [
+        "n45003003004"
+      ],
+      [
+        "n55002013002"
+      ],
+      [
+        "n60002007007"
+      ],
+      [
+        "n40013058009"
+      ],
+      [
+        "n41006006005"
+      ],
+      [
+        "n41009024012"
+      ],
+      [
+        "n41016014011"
+      ],
+      [
+        "n45003003008"
+      ],
+      [
+        "n45004020010"
+      ],
+      [
+        "n45011020003"
+      ],
+      [
+        "n45011023007"
+      ],
+      [
+        "n54001013015"
+      ],
+      [
+        "n58003012010"
+      ],
+      [
+        "n58003019008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n60002008007"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n60002008011"
+      ],
+      [
+        "n60002008015"
+      ]
+    ]
+  }
+}

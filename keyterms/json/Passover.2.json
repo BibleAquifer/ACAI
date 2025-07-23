@@ -1,0 +1,196 @@
+{
+  "id": "keyterm:Passover.2",
+  "primary_id": "keyterm:Passover",
+  "alternate_sources": {
+    "ubsflora": [
+      "fauna:2.31"
+    ]
+  },
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "51.6",
+    "4.27",
+    "51.7"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Passover",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A Jewish festival that celebrates when God saved the Israelites from slavery in Egypt."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "pascua"
+    },
+    "fra": {
+      "preferred_label": "pâque (fête)"
+    },
+    "ind": {
+      "preferred_label": "hari raya paskah"
+    },
+    "por": {
+      "preferred_label": "páscoa"
+    },
+    "por-Br": {
+      "preferred_label": "páscoa"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Passover",
+    "keyterm:PassoverLamb"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "πάσχα"
+    ]
+  },
+  "key_references": [
+    "40026002",
+    "42022007",
+    "43011055",
+    "58011028"
+  ],
+  "references": [
+    "40026002",
+    "40026017",
+    "40026018",
+    "40026019",
+    "41014001",
+    "41014012",
+    "41014014",
+    "41014016",
+    "42002041",
+    "42022001",
+    "42022007",
+    "42022008",
+    "42022011",
+    "42022013",
+    "42022015",
+    "43002013",
+    "43002023",
+    "43006004",
+    "43011055",
+    "43012001",
+    "43013001",
+    "43018028",
+    "43018039",
+    "43019014",
+    "44012004",
+    "46005007",
+    "58011028"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40026002007"
+      ],
+      [
+        "n40026017018"
+      ],
+      [
+        "n40026018026"
+      ],
+      [
+        "n40026019013"
+      ],
+      [
+        "n41014001004"
+      ],
+      [
+        "n41014012023"
+      ],
+      [
+        "n41014014019"
+      ],
+      [
+        "n41014016018"
+      ],
+      [
+        "n42002041013"
+      ],
+      [
+        "n42022001009"
+      ],
+      [
+        "n42022008011"
+      ],
+      [
+        "n42022011017"
+      ],
+      [
+        "n42022013010"
+      ],
+      [
+        "n42022015009"
+      ],
+      [
+        "n43002013005"
+      ],
+      [
+        "n43002023009"
+      ],
+      [
+        "n43006004005"
+      ],
+      [
+        "n43011055005"
+      ],
+      [
+        "n43011055018"
+      ],
+      [
+        "n43012001008"
+      ],
+      [
+        "n43013001006"
+      ],
+      [
+        "n43018028027"
+      ],
+      [
+        "n43018039011"
+      ],
+      [
+        "n43019014005"
+      ],
+      [
+        "n44012004016"
+      ],
+      [
+        "n58011028004"
+      ],
+      [
+        "n41014012009"
+      ],
+      [
+        "n42022007011"
+      ],
+      [
+        "n46005007015"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42022015007"
+      ],
+      [
+        "n42022016008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42022016011"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "keyterm:Deceit.4",
+  "primary_id": "keyterm:Deceit",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Deceit (Betrayal)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Breaking trust by lying or tricking someone, causing harm or betrayal."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "deception"
+    },
+    "ind": {
+      "preferred_label": "penipuan"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Deceit"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תַּרְמִית"
+    ]
+  },
+  "key_references": [
+    "19119118",
+    "24008005",
+    "24023026",
+    "36003013"
+  ],
+  "references": [
+    "19119118",
+    "24008005",
+    "24014014",
+    "24023026",
+    "36003013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o191191180071",
+        "o191191180072"
+      ],
+      [
+        "o240080050092"
+      ],
+      [
+        "o240140140212"
+      ],
+      [
+        "o240230260091"
+      ],
+      [
+        "o360030130131"
+      ]
+    ]
+  }
+}

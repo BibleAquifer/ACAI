@@ -1,0 +1,123 @@
+{
+  "id": "keyterm:Anoint.3",
+  "primary_id": "keyterm:Anointed",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "37.107"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anoint (Assign)",
+      "alternate_labels": [
+        "Assign",
+        "Appoint"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To choose and give someone a special job with God's blessing and power."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "ungir"
+    },
+    "fra": {
+      "preferred_label": "oindre"
+    },
+    "ind": {
+      "preferred_label": "mengurapi"
+    },
+    "por": {
+      "preferred_label": "ungir"
+    },
+    "por-Br": {
+      "preferred_label": "ungir"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Anointed",
+    "keyterm:Anointing"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χρίω",
+      "χρῖσμα"
+    ]
+  },
+  "key_references": [
+    "42004018",
+    "44010038",
+    "47001021",
+    "58001009"
+  ],
+  "references": [
+    "42004018",
+    "44004027",
+    "44010038",
+    "47001021",
+    "58001009",
+    "62002020",
+    "62002027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42004018007"
+      ],
+      [
+        "n44004027016"
+      ],
+      [
+        "n44010038006"
+      ],
+      [
+        "n47001021010"
+      ],
+      [
+        "n58001009008"
+      ],
+      [
+        "n62002020003"
+      ],
+      [
+        "n62002027004"
+      ],
+      [
+        "n62002027024"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42004021011"
+      ],
+      [
+        "n62002027005"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42004017016"
+      ],
+      [
+        "n42004017017"
+      ],
+      [
+        "n62002027031"
+      ],
+      [
+        "n62002027034"
+      ],
+      [
+        "n62002027038"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "keyterm:RoundDance",
+  "primary_id": "keyterm:RoundDance",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "003866001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Round Dance",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A dance where people move in a circle together."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "danza"
+    },
+    "fra": {
+      "preferred_label": "danse en rond"
+    },
+    "ind": {
+      "preferred_label": "tarian bulat"
+    },
+    "por": {
+      "preferred_label": "round dance"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מָחוֹל"
+    ]
+  },
+  "key_references": [
+    "19030012",
+    "19149003",
+    "19150004",
+    "24031013"
+  ],
+  "references": [
+    "19030012",
+    "19149003",
+    "19150004",
+    "24031004",
+    "24031013",
+    "25005015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190300120032"
+      ],
+      [
+        "o191490030032"
+      ],
+      [
+        "o191500040032"
+      ],
+      [
+        "o240310040102"
+      ],
+      [
+        "o240310130042"
+      ],
+      [
+        "o250050150061",
+        "o250050150062"
+      ]
+    ]
+  }
+}

@@ -10,7 +10,7 @@ JDG 4:18, ISA 21:5, EZK 27:24.
 
 
 In the Old Testament (BSB), words representing “Rug” are translated as 
-*with a blanket* (1x), *saddle blankets* (1x), *a carpet* (1x), *rugs* (1x). 
+*a carpet* (1x), *with a blanket* (1x). 
 
 
 
@@ -21,19 +21,15 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* with a blanket (JDG 4:18)
-
-* saddle blankets (JDG 5:10)
-
 * a carpet (ISA 21:5)
 
-* rugs (EZK 27:24)
+* with a blanket (JDG 4:18)
 
 
 
 ### References (Whole Bible)
 
-* JDG 4:18; JDG 5:10; ISA 21:5; EZK 27:24
+* JDG 4:18; ISA 21:5
 
 
 

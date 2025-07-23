@@ -1,0 +1,50 @@
+{
+  "id": "keyterm:Deceit.3",
+  "primary_id": "keyterm:Deceit",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "007940001001000",
+    "007940002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Deceit (Covert)",
+      "alternate_labels": [
+        "Betrayal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hiding the truth or lying to someone in a secret way to harm or betray them."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "deception"
+    },
+    "ind": {
+      "preferred_label": "penipuan"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Deceit"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תָּרְמָה"
+    ]
+  },
+  "references": [
+    "07009031"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o070090310052"
+      ]
+    ]
+  }
+}

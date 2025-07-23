@@ -1,0 +1,63 @@
+{
+  "id": "keyterm:Condemnation",
+  "primary_id": "keyterm:Condemn",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "56.31"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Condemnation (Penalty)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The state of being judged guilty and needing to face punishment."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "condena"
+    },
+    "fra": {
+      "preferred_label": "condamnation"
+    },
+    "ind": {
+      "preferred_label": "penghukuman"
+    },
+    "por": {
+      "preferred_label": "condenação"
+    },
+    "por-Br": {
+      "preferred_label": "condenação"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Condemn"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κατάκριμα"
+    ]
+  },
+  "references": [
+    "45005016",
+    "45005018",
+    "45008001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45005016016"
+      ],
+      [
+        "n45005018011"
+      ],
+      [
+        "n45008001004"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "keyterm:Wish",
+  "primary_id": "keyterm:Pray",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "25.6",
+    "33.178"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Wish",
+      "alternate_labels": [
+        "Pray"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To talk to God and ask for what you need or want."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "orar"
+    },
+    "fra": {
+      "preferred_label": "prier"
+    },
+    "ind": {
+      "preferred_label": "berharap"
+    },
+    "por": {
+      "preferred_label": "orar"
+    },
+    "por-Br": {
+      "preferred_label": "orar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Pray"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "εὔχομαι"
+    ]
+  },
+  "key_references": [
+    "47013007",
+    "47013009",
+    "59005016",
+    "64001002"
+  ],
+  "references": [
+    "44027029",
+    "47013007",
+    "47013009",
+    "59005016",
+    "64001002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44027029014"
+      ],
+      [
+        "n47013007001"
+      ],
+      [
+        "n47013009012"
+      ],
+      [
+        "n59005016007"
+      ],
+      [
+        "n64001002004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n47013010002"
+      ]
+    ]
+  }
+}

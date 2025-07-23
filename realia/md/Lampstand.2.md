@@ -8,7 +8,7 @@ EXO 25:31, EXO 26:35, NUM 8:4, REV 1:12.
 
 
 In the Old Testament (BSB), words representing “Lampstand” are translated as 
-*a lampstand* (1x), *It* (1x), *of the lampstand three on* (1x), ** (5x), *the lampstand* (13x), *And on the lampstand* (2x), *gold lampstand* (2x), *the lampstand as well* (1x), *lampstand* (4x), *of the lampstand* (2x), *the lampstands* (2x), *and a lamp* (1x), *lampstands* (3x), *of each lampstand* (5x). 
+*a lampstand* (1x), *It* (1x), *of the lampstand three on* (1x), ** (5x), *the lampstand* (12x), *And on the lampstand* (2x), *gold lampstand* (2x), *the lampstand as well* (1x), *lampstand* (4x), *of the lampstand* (2x), *the lampstands* (2x), *and a lamp* (1x), *lampstands* (3x), *of each lampstand* (5x). 
 
 
 In the New Testament (BSB), words representing “Lampstand” are translated as 
@@ -29,7 +29,7 @@ Return to [Index](00-Index.md)
 
 *  (EXO 25:32; EXO 37:17; EXO 37:18; EXO 37:18; NUM 8:4)
 
-* the lampstand (EXO 25:33; EXO 25:35; EXO 26:35; EXO 30:27; EXO 35:14; EXO 37:17; EXO 37:19; EXO 40:24; NUM 3:31; NUM 4:9; NUM 8:4; DAN 5:5; ZEC 4:11)
+* the lampstand (EXO 25:33; EXO 25:35; EXO 26:35; EXO 30:27; EXO 35:14; EXO 37:17; EXO 37:19; EXO 40:24; NUM 3:31; NUM 4:9; NUM 8:4; ZEC 4:11)
 
 * And on the lampstand (EXO 25:34; EXO 37:20)
 
@@ -81,7 +81,7 @@ Return to [Index](00-Index.md)
 
 * three (EXO 25:32)
 
-*  (EXO 25:32; EXO 37:18; NUM 4:10; NUM 8:4; ZEC 4:2)
+*  (EXO 25:32; EXO 37:18; NUM 4:10; NUM 8:4; ZEC 4:2; ZEC 4:5)
 
 * and branches (EXO 25:36)
 
@@ -171,7 +171,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* EXO 25:31; EXO 25:32; EXO 25:33; EXO 25:34; EXO 25:35; EXO 26:35; EXO 30:27; EXO 31:8; EXO 35:14; EXO 37:17; EXO 37:18; EXO 37:19; EXO 37:20; EXO 39:37; EXO 40:4; EXO 40:24; LEV 24:4; NUM 3:31; NUM 4:9; NUM 8:2; NUM 8:3; NUM 8:4; 1KI 7:49; 2KI 4:10; 1CH 28:15; 2CH 4:7; 2CH 4:20; 2CH 13:11; JER 52:19; DAN 5:5; ZEC 4:2; ZEC 4:11; MAT 5:15; MRK 4:21; LUK 8:16; LUK 11:33; HEB 9:2; REV 1:12; REV 1:13; REV 1:20; REV 2:1; REV 2:5; REV 11:4
+* EXO 25:31; EXO 25:32; EXO 25:33; EXO 25:34; EXO 25:35; EXO 26:35; EXO 30:27; EXO 31:8; EXO 35:14; EXO 37:17; EXO 37:18; EXO 37:19; EXO 37:20; EXO 39:37; EXO 40:4; EXO 40:24; LEV 24:4; NUM 3:31; NUM 4:9; NUM 8:2; NUM 8:3; NUM 8:4; 1KI 7:49; 2KI 4:10; 1CH 28:15; 2CH 4:7; 2CH 4:20; 2CH 13:11; JER 52:19; ZEC 4:2; ZEC 4:11; MAT 5:15; MRK 4:21; LUK 8:16; LUK 11:33; HEB 9:2; REV 1:12; REV 1:13; REV 1:20; REV 2:1; REV 2:5; REV 11:4
 
 
 

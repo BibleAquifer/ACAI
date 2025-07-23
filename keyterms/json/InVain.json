@@ -1,0 +1,71 @@
+{
+  "id": "keyterm:InVain",
+  "primary_id": "keyterm:Empty",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "89.53",
+    "89.64"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "In Vain",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Having no use or meaning; doing something without any result or purpose."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "en vano"
+    },
+    "fra": {
+      "preferred_label": "en vain"
+    },
+    "ind": {
+      "preferred_label": "sia, sia"
+    },
+    "por": {
+      "preferred_label": "em vão"
+    },
+    "por-Br": {
+      "preferred_label": "em vão"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Empty"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "εἰς κενὸν"
+    ]
+  },
+  "references": [
+    "47006001",
+    "48002002",
+    "50002016",
+    "52003005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n47006001007"
+      ],
+      [
+        "n48002002023"
+      ],
+      [
+        "n50002016013"
+      ],
+      [
+        "n50002016017"
+      ],
+      [
+        "n52003005021"
+      ]
+    ]
+  }
+}

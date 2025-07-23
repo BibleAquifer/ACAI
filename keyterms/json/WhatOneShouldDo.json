@@ -1,0 +1,63 @@
+{
+  "id": "keyterm:WhatOneShouldDo",
+  "primary_id": "keyterm:Debt",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "57.221",
+    "71.24"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "What One Should Do",
+      "alternate_labels": [
+        "Duty"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The right actions a person should take because they are responsible or expected to."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "deuda (deber)"
+    },
+    "fra": {
+      "preferred_label": "dette"
+    },
+    "ind": {
+      "preferred_label": "apa yang harus anda bayar"
+    },
+    "por": {
+      "preferred_label": "dever"
+    },
+    "por-Br": {
+      "preferred_label": "dever"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Debt"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὀφειλή"
+    ]
+  },
+  "references": [
+    "45013007",
+    "46007003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45013007004"
+      ],
+      [
+        "n46007003006"
+      ]
+    ]
+  }
+}

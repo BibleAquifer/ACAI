@@ -1,0 +1,47 @@
+{
+  "id": "keyterm:Offering.3",
+  "primary_id": "keyterm:Offering",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Offering (Special)",
+      "alternate_labels": [
+        "Contribution",
+        "Special Portion"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A special gift given to God, often as a sign of dedication or thanks."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "offrande"
+    },
+    "ind": {
+      "preferred_label": "persembahan"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Offering"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תְּרוּמִיָּה"
+    ]
+  },
+  "references": [
+    "26048012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o260480120031"
+      ]
+    ]
+  }
+}

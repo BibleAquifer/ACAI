@@ -24,7 +24,7 @@ Return to [Index](00-Index.md)
 
 * like aloes (NUM 24:6)
 
-* and aloes (PSA 45:9; SNG 4:14)
+* and aloes (SNG 4:14; PSA 45:9)
 
 * with aloes (PRO 7:17)
 

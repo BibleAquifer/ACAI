@@ -8,7 +8,7 @@ ISA 33:23, EZK 27:7, ACT 27:40.
 
 
 In the Old Testament (BSB), words representing “Sail” are translated as 
-*the sail* (1x), *your sail* (1x), *banner* (1x). 
+*your sail* (1x), *the sail* (1x), *banner* (1x). 
 
 
 In the New Testament (BSB), words representing “Sail” are translated as 
@@ -21,9 +21,9 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* the sail (ISA 33:23)
-
 * your sail (EZK 27:7)
+
+* the sail (ISA 33:23)
 
 * banner (EZK 27:7)
 

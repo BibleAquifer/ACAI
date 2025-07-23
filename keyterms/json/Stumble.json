@@ -1,0 +1,102 @@
+{
+  "id": "keyterm:Stumble",
+  "primary_id": "keyterm:Stumble",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "15.228",
+    "25.182",
+    "88.291"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stumble",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To hit your foot on something while walking and almost fall but catch your balance."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "tropezar"
+    },
+    "fra": {
+      "preferred_label": "intrans. trébucher"
+    },
+    "ind": {
+      "preferred_label": "tersandung"
+    },
+    "por": {
+      "preferred_label": "tropeçar"
+    },
+    "por-Br": {
+      "preferred_label": "tropeçar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Stumble.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "προσκόπτω",
+      "πταίω"
+    ]
+  },
+  "key_references": [
+    "43011009",
+    "45009032",
+    "45011011",
+    "59002010"
+  ],
+  "references": [
+    "43011009",
+    "43011010",
+    "45009032",
+    "45014021",
+    "45011011",
+    "59002010",
+    "59003002",
+    "61001010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43011009016"
+      ],
+      [
+        "n43011010008"
+      ],
+      [
+        "n45009032011"
+      ],
+      [
+        "n45014021015"
+      ],
+      [
+        "n45011011004"
+      ],
+      [
+        "n59002010007"
+      ],
+      [
+        "n59003002003"
+      ],
+      [
+        "n59003002010"
+      ],
+      [
+        "n61001010017"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n45011011008"
+      ]
+    ]
+  }
+}

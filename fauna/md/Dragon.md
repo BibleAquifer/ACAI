@@ -13,7 +13,7 @@ GEN 1:21, JOB 7:12, REV 12:3.
 
 
 In the Old Testament (BSB), words representing “Dragon” are translated as 
-*sea creatures* (1x), ** (1x), *a serpent* (2x), *of serpents* (1x), *Leviathan* (3x), *the monster of the deep* (1x), *with* (1x), *of the dragons* (1x), *of Leviathan* (1x), *and serpent* (1x), *and Leviathan* (1x), *great sea creatures* (1x), *serpent* (2x), *the dragon* (2x), *a monster he* (1x), *monster* (1x), *are like a monster* (1x). 
+*sea creatures* (1x), *the monster of the deep* (1x), *of the dragons* (1x), *great sea creatures* (1x), *the dragon* (2x), *a monster he* (1x), *monster* (1x), *are like a monster* (1x), ** (1x), *a serpent* (2x), *of serpents* (1x), *Leviathan* (3x), *with* (1x), *of Leviathan* (1x), *and serpent* (1x), *and Leviathan* (1x), *serpent* (2x). 
 
 
 In the New Testament (BSB), words representing “Dragon” are translated as 
@@ -28,29 +28,11 @@ Return to [Index](00-Index.md)
 
 * sea creatures (GEN 1:21)
 
-*  (EXO 7:9)
-
-* a serpent (EXO 7:10; EXO 7:12)
-
-* of serpents (DEU 32:33)
-
-* Leviathan (JOB 3:8; ISA 27:1; ISA 27:1)
-
 * the monster of the deep (JOB 7:12)
-
-* with (JOB 40:25)
 
 * of the dragons (PSA 74:13)
 
-* of Leviathan (PSA 74:14)
-
-* and serpent (PSA 91:13)
-
-* and Leviathan (PSA 104:26)
-
 * great sea creatures (PSA 148:7)
-
-* serpent (ISA 14:29; ISA 30:6)
 
 * the dragon (ISA 27:1; ISA 51:9)
 
@@ -59,6 +41,24 @@ Return to [Index](00-Index.md)
 * monster (EZK 29:3)
 
 * are like a monster (EZK 32:2)
+
+*  (EXO 7:9)
+
+* a serpent (EXO 7:10; EXO 7:12)
+
+* of serpents (DEU 32:33)
+
+* Leviathan (JOB 3:8; ISA 27:1; ISA 27:1)
+
+* with (JOB 40:25)
+
+* of Leviathan (PSA 74:14)
+
+* and serpent (PSA 91:13)
+
+* and Leviathan (PSA 104:26)
+
+* serpent (ISA 14:29; ISA 30:6)
 
 
 
@@ -73,6 +73,16 @@ Return to [Index](00-Index.md)
 ### OT Pronominal Referents (BSB)
 
 * them (GEN 1:22)
+
+* his rivers (EZK 29:3)
+
+* The (EZK 29:3)
+
+* Nile is mine I (EZK 29:3)
+
+* made (EZK 29:3)
+
+* it myself (EZK 29:3)
 
 * tie down his tongue with (JOB 40:25)
 
@@ -160,16 +170,6 @@ Return to [Index](00-Index.md)
 
 * dust (PSA 104:29)
 
-* his rivers (EZK 29:3)
-
-* The (EZK 29:3)
-
-* Nile is mine I (EZK 29:3)
-
-* made (EZK 29:3)
-
-* it myself (EZK 29:3)
-
 
 
 ### NT Pronominal Referents (BSB)
@@ -199,6 +199,10 @@ Return to [Index](00-Index.md)
 * and multiply (GEN 1:22)
 
 * and fill (GEN 1:22)
+
+* who lies (EZK 29:3)
+
+* says (EZK 29:3)
 
 * Will he beg (JOB 40:27)
 
@@ -240,10 +244,6 @@ Return to [Index](00-Index.md)
 
 * and flying (ISA 30:6)
 
-* who lies (EZK 29:3)
-
-* says (EZK 29:3)
-
 
 
 ### NT Subject Referents (BSB)
@@ -262,7 +262,9 @@ Return to [Index](00-Index.md)
 
 * he pursued (REV 12:13)
 
-* went to make (REV 12:17)
+* went (REV 12:17)
+
+* to make (REV 12:17)
 
 * the dragon stood (REV 12:18)
 

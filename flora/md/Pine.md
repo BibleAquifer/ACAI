@@ -11,7 +11,7 @@ ISA 44:14.
 
 
 In the Old Testament (BSB), words representing “Stone Pine” are translated as 
-*your high places* (2x), *their high places* (1x), *green* (9x), *on the high place* (1x), *to the high place* (5x), *from the high place* (3x), *on the high places* (10x), *high place* (1x), *a high place* (1x), *the high places he* (1x), *the high places who* (1x), *for the high places* (2x), *of the high places* (5x), *high places* (6x), *The high places* (6x), *the high places* (17x), *there* (3x), *places in* (1x), *in the shrines* (1x), *whose high places* (2x), *the high place* (2x), *ground it to* (1x), *and* (1x), *at the high place* (2x), *and high places* (1x), *His high places* (1x), *at the high places* (1x), *and set* (1x), *flourishing* (2x), *with their high places* (1x), *with fine* (1x), *and green* (1x), *The soft grass* (1x), *at its high places* (1x), *cypress or* (1x), *luxuriant* (1x), *tree* (1x), *a flourishing* (2x), *the green* (1x), *and the high places* (1x), *is this high place* (1x), *Bamah* (1x), *is the high place* (1x). 
+*cypress or* (1x), *your high places* (2x), *their high places* (1x), *green* (9x), *on the high place* (1x), *to the high place* (5x), *from the high place* (3x), *on the high places* (10x), *high place* (1x), *a high place* (1x), *the high places he* (1x), *the high places who* (1x), *for the high places* (2x), *of the high places* (5x), *high places* (6x), *The high places* (6x), *the high places* (17x), *there* (3x), *places in* (1x), *in the shrines* (1x), *whose high places* (2x), *the high place* (2x), *ground it to* (1x), *and* (1x), *at the high place* (2x), *and high places* (1x), *His high places* (1x), *at the high places* (1x), *and set* (1x), *flourishing* (2x), *with their high places* (1x), *with fine* (1x), *and green* (1x), *The soft grass* (1x), *at its high places* (1x), *luxuriant* (1x), *tree* (1x), *a flourishing* (2x), *the green* (1x), *and the high places* (1x), *is this high place* (1x), *Bamah* (1x), *is the high place* (1x). 
 
 
 
@@ -21,6 +21,8 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
+
+* cypress or (ISA 44:14)
 
 * your high places (LEV 26:30; EZK 6:3)
 
@@ -90,8 +92,6 @@ Return to [Index](00-Index.md)
 
 * at its high places (ISA 15:2)
 
-* cypress or (ISA 44:14)
-
 * luxuriant (ISA 57:5)
 
 * tree (JER 2:20)
@@ -112,8 +112,6 @@ Return to [Index](00-Index.md)
 
 ### OT Pronominal Referents (BSB)
 
-* the (1KI 3:4)
-
 * some of it (ISA 44:15)
 
 * he makes (ISA 44:15)
@@ -127,6 +125,8 @@ Return to [Index](00-Index.md)
 * its coals (ISA 44:19)
 
 * with the rest of it (ISA 44:19)
+
+* the (1KI 3:4)
 
 * and on them (EZK 16:16)
 

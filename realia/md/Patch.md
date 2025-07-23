@@ -14,7 +14,7 @@ In the Old Testament (BSB), words representing “Patch” are translated as
 
 
 In the New Testament (BSB), words representing “Patch” are translated as 
-*a patch cloth* (2x), *patch* (1x), *new piece* (1x), *a piece of cloth* (1x), *the patch* (1x). 
+*a patch* (2x), *a piece of cloth* (1x), *the patch* (1x), *cloth* (2x). 
 
 
 Return to [Index](00-Index.md)
@@ -29,15 +29,13 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* a patch cloth (MAT 9:16; MRK 2:21)
-
-* patch (MAT 9:16)
-
-* new piece (MRK 2:21)
+* a patch (MAT 9:16; MRK 2:21)
 
 * a piece of cloth (LUK 5:36)
 
 * the patch (LUK 5:36)
+
+* cloth (MAT 9:16; MRK 2:21)
 
 
 

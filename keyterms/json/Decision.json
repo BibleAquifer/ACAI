@@ -1,0 +1,68 @@
+{
+  "id": "keyterm:Decision",
+  "primary_id": "keyterm:Decision",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "56.21",
+    "27.3"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Decision",
+      "alternate_labels": [
+        "Verdict"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A choice made after careful thinking or judgment, often about what is right or fair."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "decisión"
+    },
+    "fra": {
+      "preferred_label": "décision"
+    },
+    "ind": {
+      "preferred_label": "keputusan"
+    },
+    "por": {
+      "preferred_label": "decisão"
+    },
+    "por-Br": {
+      "preferred_label": "decisão"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:ExamineThoroughly"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "διάγνωσις",
+      "διαγινώσκω"
+    ]
+  },
+  "references": [
+    "44023015",
+    "44024022",
+    "44025021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44025021011"
+      ],
+      [
+        "n44023015017"
+      ],
+      [
+        "n44024022018"
+      ]
+    ]
+  }
+}

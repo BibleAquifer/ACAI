@@ -1,0 +1,82 @@
+{
+  "id": "keyterm:Rescue",
+  "primary_id": "keyterm:Rescue",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "21.17",
+    "30.90"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Rescue",
+      "alternate_labels": [
+        "Deliver"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To save someone from danger or a harmful situation."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "liberar"
+    },
+    "fra": {
+      "preferred_label": "déliver"
+    },
+    "ind": {
+      "preferred_label": "melepaskan"
+    },
+    "por": {
+      "preferred_label": "libertar"
+    },
+    "por-Br": {
+      "preferred_label": "resgatar"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐξαιρέω"
+    ]
+  },
+  "key_references": [
+    "44007010",
+    "44007034",
+    "44026017",
+    "48001004"
+  ],
+  "references": [
+    "44007010",
+    "44007034",
+    "44012011",
+    "44023027",
+    "44026017",
+    "48001004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44007010002"
+      ],
+      [
+        "n44007034018"
+      ],
+      [
+        "n44012011019"
+      ],
+      [
+        "n44023027017"
+      ],
+      [
+        "n44026017001"
+      ],
+      [
+        "n48001004009"
+      ]
+    ]
+  }
+}

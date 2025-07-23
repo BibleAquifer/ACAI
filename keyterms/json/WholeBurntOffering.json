@@ -1,0 +1,70 @@
+{
+  "id": "keyterm:WholeBurntOffering",
+  "primary_id": "keyterm:Offering",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.24"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Whole Burnt Offering",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "An animal given to God by burning it completely on the altar as a sign of worship."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "holocausto"
+    },
+    "fra": {
+      "preferred_label": "holocauste entier"
+    },
+    "ind": {
+      "preferred_label": "korban bakaran"
+    },
+    "por": {
+      "preferred_label": "holocausto"
+    },
+    "por-Br": {
+      "preferred_label": "holocausto"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Offering"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὁλοκαύτωμα"
+    ]
+  },
+  "references": [
+    "41012033",
+    "58010006",
+    "58010008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41012033030"
+      ],
+      [
+        "n58010006001"
+      ],
+      [
+        "n58010008008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n58010008016"
+      ]
+    ]
+  }
+}

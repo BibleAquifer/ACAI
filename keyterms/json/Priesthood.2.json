@@ -1,0 +1,101 @@
+{
+  "id": "keyterm:Priesthood.2",
+  "primary_id": "keyterm:Priesthood",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.86"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Priesthood (Role)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The work and duties that a priest does to serve God and the people."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "sacerdocio"
+    },
+    "fra": {
+      "preferred_label": "sacerdoce"
+    },
+    "ind": {
+      "preferred_label": "imamat"
+    },
+    "por": {
+      "preferred_label": "sacerdócio"
+    },
+    "por-Br": {
+      "preferred_label": "sacerdócio"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Priesthood",
+    "keyterm:PriestlyOffice"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἱεράτευμα",
+      "ἱερωσύνη",
+      "ἱερατεία"
+    ]
+  },
+  "key_references": [
+    "58007005",
+    "58007024",
+    "60002005",
+    "60002009"
+  ],
+  "references": [
+    "42001009",
+    "58007005",
+    "58007011",
+    "58007012",
+    "58007024",
+    "60002005",
+    "60002009"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n60002005010"
+      ],
+      [
+        "n60002009006"
+      ],
+      [
+        "n58007011008"
+      ],
+      [
+        "n58007012004"
+      ],
+      [
+        "n58007024013"
+      ],
+      [
+        "n42001009005"
+      ],
+      [
+        "n58007005009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n58007011014"
+      ],
+      [
+        "n44024014003"
+      ],
+      [
+        "n44024016002"
+      ]
+    ]
+  }
+}

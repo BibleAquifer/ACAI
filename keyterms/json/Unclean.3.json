@@ -1,0 +1,106 @@
+{
+  "id": "keyterm:Unclean.3",
+  "primary_id": "keyterm:Defilement",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "53.39"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Unclean (Ritually Unacceptable)",
+      "alternate_labels": [
+        "Impure"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Not acceptable for religious use because of being ritually impure or due to the nature of the thing itself."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "impuro"
+    },
+    "fra": {
+      "preferred_label": "impur"
+    },
+    "ind": {
+      "preferred_label": "(roh) jahat"
+    },
+    "por": {
+      "preferred_label": "impuro"
+    },
+    "por-Br": {
+      "preferred_label": "impuro"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Defilement"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀκάθαρτος"
+    ]
+  },
+  "key_references": [
+    "44010014",
+    "44010028",
+    "47006017",
+    "66018002"
+  ],
+  "references": [
+    "42004033",
+    "44010014",
+    "44010028",
+    "44011008",
+    "46007014",
+    "47006017",
+    "49005005",
+    "66017004",
+    "66018002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42004033010"
+      ],
+      [
+        "n44010014013"
+      ],
+      [
+        "n44010028023"
+      ],
+      [
+        "n44011008008"
+      ],
+      [
+        "n46007014024"
+      ],
+      [
+        "n47006017011"
+      ],
+      [
+        "n49005005009"
+      ],
+      [
+        "n66017004028"
+      ],
+      [
+        "n66018002025"
+      ],
+      [
+        "n66018002030"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n49005005012"
+      ]
+    ]
+  }
+}

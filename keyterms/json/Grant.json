@@ -1,0 +1,161 @@
+{
+  "id": "keyterm:Grant",
+  "primary_id": "keyterm:Forgive",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "57.102",
+    "57.223",
+    "37.30",
+    "40.10"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hand Over",
+      "alternate_labels": [
+        "Forgive",
+        "Hand Over",
+        "Give Freely",
+        "Be Restored"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To freely give something to someone, often showing kindness or forgiveness."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "conceder el favor"
+    },
+    "fra": {
+      "preferred_label": "accorder"
+    },
+    "ind": {
+      "preferred_label": "mengaruniakan"
+    },
+    "por": {
+      "preferred_label": "conceder como favor"
+    },
+    "por-Br": {
+      "preferred_label": "conceder como favor"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Forgive"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χαρίζομαι"
+    ]
+  },
+  "key_references": [
+    "42007042",
+    "42007043",
+    "47002010",
+    "51003013"
+  ],
+  "references": [
+    "42007021",
+    "42007042",
+    "42007043",
+    "44003014",
+    "44025011",
+    "44025016",
+    "44027024",
+    "45008032",
+    "46002012",
+    "47002007",
+    "47002010",
+    "47012013",
+    "48003018",
+    "49004032",
+    "50001029",
+    "50002009",
+    "51002013",
+    "51003013",
+    "57001022"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42007021017"
+      ],
+      [
+        "n42007042006"
+      ],
+      [
+        "n42007043009"
+      ],
+      [
+        "n44003014012"
+      ],
+      [
+        "n44025011026"
+      ],
+      [
+        "n44025016009"
+      ],
+      [
+        "n44027024011"
+      ],
+      [
+        "n45008032022"
+      ],
+      [
+        "n46002012022"
+      ],
+      [
+        "n47002007005"
+      ],
+      [
+        "n47002010004"
+      ],
+      [
+        "n47002010010"
+      ],
+      [
+        "n47002010013"
+      ],
+      [
+        "n47012013018"
+      ],
+      [
+        "n48003018015"
+      ],
+      [
+        "n49004032006"
+      ],
+      [
+        "n49004032014"
+      ],
+      [
+        "n50001029003"
+      ],
+      [
+        "n50002009008"
+      ],
+      [
+        "n51002013018"
+      ],
+      [
+        "n51003013004"
+      ],
+      [
+        "n51003013016"
+      ],
+      [
+        "n57001022014"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n46002013001"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "keyterm:Prayer",
+  "primary_id": "keyterm:Pray",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "33.171"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Prayer",
+      "alternate_labels": [
+        "Supplication",
+        "Petition"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Asking God earnestly for help or needs because you trust He can provide."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "oración"
+    },
+    "fra": {
+      "preferred_label": "prière"
+    },
+    "ind": {
+      "preferred_label": "doa"
+    },
+    "por": {
+      "preferred_label": "oração"
+    },
+    "por-Br": {
+      "preferred_label": "súplica"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Pray"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δέησις"
+    ]
+  },
+  "key_references": [
+    "45010001",
+    "49006018",
+    "50001004",
+    "59005016"
+  ],
+  "references": [
+    "42001013",
+    "42002037",
+    "42005033",
+    "45010001",
+    "47001011",
+    "47009014",
+    "49006018",
+    "50001004",
+    "50001019",
+    "55001003",
+    "58005007",
+    "59005016",
+    "60003012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42001013013"
+      ],
+      [
+        "n42002037015"
+      ],
+      [
+        "n42005033012"
+      ],
+      [
+        "n45010001010"
+      ],
+      [
+        "n47001011007"
+      ],
+      [
+        "n47009014003"
+      ],
+      [
+        "n49006018005"
+      ],
+      [
+        "n49006018020"
+      ],
+      [
+        "n50001004004"
+      ],
+      [
+        "n50001004012"
+      ],
+      [
+        "n50001019012"
+      ],
+      [
+        "n55001003021"
+      ],
+      [
+        "n58005007008"
+      ],
+      [
+        "n59005016014"
+      ],
+      [
+        "n60003012010"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n59005016016"
+      ]
+    ]
+  }
+}

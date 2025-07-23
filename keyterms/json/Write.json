@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:Write",
+  "primary_id": "keyterm:Scripture",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "33.54"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Write",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To make letters, numbers, or words on a surface like paper using a pen or similar tool."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "escribir"
+    },
+    "fra": {
+      "preferred_label": "écrire"
+    },
+    "ind": {
+      "preferred_label": "menulis"
+    },
+    "por": {
+      "preferred_label": "escrever"
+    },
+    "por-Br": {
+      "preferred_label": "escrever"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Scripture"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "γράφω"
+    ]
+  },
+  "references": [
+    "42022037"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42022037007"
+      ]
+    ]
+  }
+}

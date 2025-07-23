@@ -1,0 +1,118 @@
+{
+  "id": "keyterm:Sin.2",
+  "primary_id": "keyterm:Sin",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "002213001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sin (Offense)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Doing wrong against God or others, whether by accident or on purpose, which may need to be made right."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "pecado"
+    },
+    "fra": {
+      "preferred_label": "péché"
+    },
+    "ind": {
+      "preferred_label": "dosa"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Sin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֵטְא"
+    ]
+  },
+  "key_references": [
+    "19051011",
+    "19103010",
+    "23001018",
+    "27009016"
+  ],
+  "references": [
+    "01041009",
+    "12010029",
+    "19051011",
+    "19103010",
+    "21010004",
+    "23001018",
+    "23038017",
+    "25003039",
+    "26023049",
+    "27009016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010410090081",
+        "o010410090082"
+      ],
+      [
+        "o120100290021"
+      ],
+      [
+        "o190510110032",
+        "o190510110033"
+      ],
+      [
+        "o191030100022",
+        "o191030100023"
+      ],
+      [
+        "o210100040121"
+      ],
+      [
+        "o230010180081",
+        "o230010180082"
+      ],
+      [
+        "o230380170161",
+        "o230380170162"
+      ],
+      [
+        "o250030390081",
+        "o250030390082"
+      ],
+      [
+        "o260230490042"
+      ],
+      [
+        "o270090160132",
+        "o270090160133"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o120100290133"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230010180111"
+      ],
+      [
+        "o230010180131"
+      ],
+      [
+        "o230010180161"
+      ]
+    ]
+  }
+}

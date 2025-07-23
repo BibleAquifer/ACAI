@@ -1,0 +1,127 @@
+{
+  "id": "keyterm:PronounceInnocent",
+  "primary_id": "keyterm:PronounceInnocent",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "004902001004000",
+    "004908001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pronounce Innocent",
+      "alternate_labels": [
+        "To Let Go Unpunished"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To say someone is not guilty and should not be punished."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "dejar sin castigo"
+    },
+    "fra": {
+      "preferred_label": "déclarer innocent"
+    },
+    "ind": {
+      "preferred_label": "ucapkan tidak bersalah"
+    },
+    "por": {
+      "preferred_label": "pronounce innocent"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נקה"
+    ]
+  },
+  "key_references": [
+    "02034007",
+    "04014018",
+    "24030011",
+    "24046028"
+  ],
+  "references": [
+    "02020007",
+    "02034007",
+    "04014018",
+    "05005011",
+    "11002009",
+    "18009028",
+    "18010014",
+    "19019013",
+    "24030011",
+    "24046028",
+    "29004021",
+    "34001003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020200070101"
+      ],
+      [
+        "o020340070082"
+      ],
+      [
+        "o020340070101"
+      ],
+      [
+        "o040140180092"
+      ],
+      [
+        "o040140180111"
+      ],
+      [
+        "o050050110101"
+      ],
+      [
+        "o110020090031",
+        "o110020090032"
+      ],
+      [
+        "o180090280071",
+        "o180090280072"
+      ],
+      [
+        "o180100140061",
+        "o180100140062"
+      ],
+      [
+        "o190190130051",
+        "o190190130052"
+      ],
+      [
+        "o240300110222"
+      ],
+      [
+        "o240300110241",
+        "o240300110242"
+      ],
+      [
+        "o240460280252"
+      ],
+      [
+        "o240460280271",
+        "o240460280272"
+      ],
+      [
+        "o290040210012"
+      ],
+      [
+        "o290040210041"
+      ],
+      [
+        "o340010030072"
+      ],
+      [
+        "o340010030091"
+      ]
+    ]
+  }
+}

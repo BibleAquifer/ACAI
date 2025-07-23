@@ -7,8 +7,6 @@ A room on a floor above the ground level (acai).
 MRK 14:15, LUK 22:12, ACT 1:13. 
 
 
-In the Old Testament (BSB), words representing “Upstairs Room” are translated as 
-*upper room* (1x). 
 
 
 In the New Testament (BSB), words representing “Upstairs Room” are translated as 
@@ -18,12 +16,6 @@ In the New Testament (BSB), words representing “Upstairs Room” are translate
 Return to [Index](00-Index.md)
 
 ## More Information
-
-### OT Instances (BSB)
-
-* upper room (DAN 6:11)
-
-
 
 ### NT Instances (BSB)
 
@@ -51,7 +43,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* DAN 6:11; MRK 14:15; LUK 22:12; ACT 1:13; ACT 9:37; ACT 9:39; ACT 20:8
+* MRK 14:15; LUK 22:12; ACT 1:13; ACT 9:37; ACT 9:39; ACT 20:8
 
 
 

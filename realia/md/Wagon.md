@@ -10,7 +10,7 @@ GEN 45:19, NUM 7:7, 1SA 6:7, 1CH 13:7.
 
 
 In the Old Testament (BSB), words representing “Wagon” are translated as 
-*wagons* (3x), *wagons that* (1x), *in the wagons* (1x), *wheels* (6x), *covered carts* (1x), *cart from every* (1x), *the carts* (1x), *carts* (2x), *cart* (4x), *to the cart* (2x), *the cart* (4x), *The cart* (1x), *of the wheels* (3x), *wheel* (3x), *The wheels* (1x), *the shields* (1x), *in the whirlwind* (1x), *the threshing wheel* (1x), *with cart* (1x), *their chariot wheels* (1x), *and the wheel of a cart* (1x), *Though the wheels of the cart* (1x), *and wagons* (2x), *of their wheels* (1x), *a wheel* (5x), *the wheels* (5x), *and the wheels* (1x), *was in the wheels* (2x), *wheelwork beneath* (1x), *the wheelwork* (1x), *And* (1x), *wheels gleamed like* (1x), ** (1x), *whirling wheels* (1x), *wheels did* (1x), *with the wheels* (2x), *a cart* (1x), *of the wheel* (1x). 
+*wheels* (6x), *of the wheels* (3x), *wheel* (3x), *The wheels* (1x), *the threshing wheel* (1x), *and the wheel* (1x), *a wheel* (5x), *the wheels* (5x), *and the wheels* (1x), *was in the wheels* (2x), *And* (1x), *wheels gleamed like* (1x), ** (1x), *wheels did* (1x), *with the wheels* (2x), *of the wheel* (1x), *Though the wheels* (1x), *in the whirlwind* (1x), *their chariot wheels* (1x), *of their wheels* (1x), *wheelwork beneath* (1x), *the wheelwork* (1x), *whirling wheels* (1x), *and wagons* (2x), *wagons* (3x), *wagons that* (1x), *in the wagons* (1x), *carts* (3x), *cart from every* (1x), *the carts* (1x), *cart* (4x), *to the cart* (2x), *the cart* (4x), *The cart* (1x), *the shields* (1x), *with cart* (1x), *a cart* (1x), *covered* (1x). 
 
 
 In the New Testament (BSB), words representing “Wagon” are translated as 
@@ -23,29 +23,7 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* wagons (GEN 45:19; GEN 45:21; EZK 26:10)
-
-* wagons that (GEN 45:27)
-
-* in the wagons (GEN 46:5)
-
 * wheels (EXO 14:25; 1KI 7:30; 1KI 7:32; 1KI 7:33; EZK 10:9; EZK 10:12)
-
-* covered carts (NUM 7:3)
-
-* cart from every (NUM 7:3)
-
-* the carts (NUM 7:6)
-
-* carts (NUM 7:7; NUM 7:8)
-
-* cart (1SA 6:7; 2SA 6:3; 2SA 6:3; 1CH 13:7)
-
-* to the cart (1SA 6:7; 1SA 6:10)
-
-* the cart (1SA 6:8; 1SA 6:11; 1SA 6:14; 1CH 13:7)
-
-* The cart (1SA 6:14)
 
 * of the wheels (1KI 7:32; EZK 1:16; EZK 3:13)
 
@@ -53,23 +31,9 @@ Return to [Index](00-Index.md)
 
 * The wheels (1KI 7:33)
 
-* the shields (PSA 46:10)
-
-* in the whirlwind (PSA 77:19)
-
 * the threshing wheel (PRO 20:26)
 
-* with cart (ISA 5:18)
-
-* their chariot wheels (ISA 5:28)
-
-* and the wheel of a cart (ISA 28:27)
-
-* Though the wheels of the cart (ISA 28:28)
-
-* and wagons (ISA 66:20; EZK 23:24)
-
-* of their wheels (JER 47:3)
+* and the wheel (ISA 28:27)
 
 * a wheel (EZK 1:16; EZK 1:16; EZK 10:6; EZK 10:10; EZK 10:10)
 
@@ -79,25 +43,61 @@ Return to [Index](00-Index.md)
 
 * was in the wheels (EZK 1:20; EZK 1:21)
 
-* wheelwork beneath (EZK 10:2)
-
-* the wheelwork (EZK 10:6)
-
 * And (EZK 10:9)
 
 * wheels gleamed like (EZK 10:9)
 
 *  (EZK 10:12)
 
-* whirling wheels (EZK 10:13)
-
 * wheels did (EZK 10:16)
 
 * with the wheels (EZK 10:19; EZK 11:22)
 
+* of the wheel (NAM 3:2)
+
+* Though the wheels (ISA 28:28)
+
+* in the whirlwind (PSA 77:19)
+
+* their chariot wheels (ISA 5:28)
+
+* of their wheels (JER 47:3)
+
+* wheelwork beneath (EZK 10:2)
+
+* the wheelwork (EZK 10:6)
+
+* whirling wheels (EZK 10:13)
+
+* and wagons (EZK 23:24; ISA 66:20)
+
+* wagons (EZK 26:10; GEN 45:19; GEN 45:21)
+
+* wagons that (GEN 45:27)
+
+* in the wagons (GEN 46:5)
+
+* carts (NUM 7:3; NUM 7:7; NUM 7:8)
+
+* cart from every (NUM 7:3)
+
+* the carts (NUM 7:6)
+
+* cart (1SA 6:7; 2SA 6:3; 2SA 6:3; 1CH 13:7)
+
+* to the cart (1SA 6:7; 1SA 6:10)
+
+* the cart (1SA 6:8; 1SA 6:11; 1SA 6:14; 1CH 13:7)
+
+* The cart (1SA 6:14)
+
+* the shields (PSA 46:10)
+
+* with cart (ISA 5:18)
+
 * a cart (AMO 2:13)
 
-* of the wheel (NAM 3:2)
+* covered (NUM 7:3)
 
 
 
@@ -110,10 +110,6 @@ Return to [Index](00-Index.md)
 ### OT Pronominal Referents (BSB)
 
 * driving (EXO 14:25)
-
-*  (NUM 7:3; EZK 10:16)
-
-* them (NUM 7:5; NUM 7:6)
 
 * their axles (1KI 7:33)
 
@@ -145,7 +141,11 @@ Return to [Index](00-Index.md)
 
 * all four (EZK 10:10)
 
+*  (EZK 10:16; NUM 7:3)
+
 * was in the wheels (EZK 10:17)
+
+* them (NUM 7:5; NUM 7:6)
 
 * full (AMO 2:13)
 
@@ -155,14 +155,6 @@ Return to [Index](00-Index.md)
 
 ### OT Subject Referents (BSB)
 
-* carry him back (GEN 45:27)
-
-* that they may be (NUM 7:5)
-
-* used (NUM 7:5)
-
-* and stopped (1SA 6:14)
-
 * they went (EZK 1:17)
 
 * pivoting (EZK 1:17)
@@ -170,6 +162,14 @@ Return to [Index](00-Index.md)
 * the wheels also stood still (EZK 10:17)
 
 * the wheels ascended (EZK 10:17)
+
+* carry him back (GEN 45:27)
+
+* that they may be (NUM 7:5)
+
+* used (NUM 7:5)
+
+* and stopped (1SA 6:14)
 
 
 

@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Anointing Flask” are translated as 
-*a flask* (1x), *of oil* (3x), *Fill your horn* (1x), *the horn* (2x), *flask* (1x), *the flask* (1x). 
+*a flask* (1x), *flask* (1x), *the flask* (1x), *Fill your horn* (1x), *the horn* (2x). 
 
 
 
@@ -23,15 +23,13 @@ Return to [Index](00-Index.md)
 
 * a flask (1SA 10:1)
 
-* of oil (1SA 10:1; 2KI 9:1; 2KI 9:3)
+* flask (2KI 9:1)
+
+* the flask (2KI 9:3)
 
 * Fill your horn (1SA 16:1)
 
 * the horn (1SA 16:13; 1KI 1:39)
-
-* flask (2KI 9:1)
-
-* the flask (2KI 9:3)
 
 
 

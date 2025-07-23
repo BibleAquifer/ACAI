@@ -1,0 +1,66 @@
+{
+  "id": "keyterm:Participate",
+  "primary_id": "keyterm:Partnership",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "34.4"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Participate",
+      "alternate_labels": [
+        "Become Partner With Someone"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To join in doing something together with others, showing a lasting connection."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "compartir"
+    },
+    "fra": {
+      "preferred_label": "prendre part à"
+    },
+    "ind": {
+      "preferred_label": "turut mengambil bagian"
+    },
+    "por": {
+      "preferred_label": "ser participante de"
+    },
+    "por-Br": {
+      "preferred_label": "ser participante de"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Partnership"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "συγκοινωνέω"
+    ]
+  },
+  "references": [
+    "49005011",
+    "50004014",
+    "66018004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n49005011003"
+      ],
+      [
+        "n50004014004"
+      ],
+      [
+        "n66018004017"
+      ]
+    ]
+  }
+}

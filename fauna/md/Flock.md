@@ -11,11 +11,11 @@ GEN 4:4, GEN 29:2, LUK 12:32.
 
 
 In the Old Testament (BSB), words representing “Flock” are translated as 
-*a keeper of sheep* (1x), *of his flock* (1x), *sheep* (50x), *flocks* (7x), *the herdsmen* (1x), *and the herdsmen* (1x), *your herdsmen* (1x), *and my herdsmen* (1x), *a goat* (4x), *from the flock* (5x), *is the lamb* (1x), *the lamb* (1x), *and* (3x), *But the herdsmen* (1x), *herdsmen* (1x), *the flock* (25x), *young goats* (1x), *goats* (8x), *flocks of sheep* (1x), *the sheep* (9x), *the flocks* (10x), ** (8x), *was a shepherdess* (1x), *your flocks* (7x), *goat* (4x), *male goats* (19x), *female goat* (2x), *So when the flocks* (1x), *they* (1x), *young that were* (1x), *the rest* (1x), *stock* (1x), *animals* (1x), *of the flock* (9x), *of the animals* (1x), *But if the animals* (1x), *where his flocks were* (1x), *flock* (9x), *males* (1x), *the females* (1x), *the males* (1x), *his sheep* (2x), *and goats* (4x), *of your flock* (2x), *for your flocks* (2x), *and these flocks are my flocks* (1x), *menservants* (1x), *well as the flocks and* (1x), *female goats* (1x), *herds* (1x), *the herds* (3x), *the animals* (1x), *their flocks* (5x), *and the flocks* (1x), *a young goat* (6x), *his sheepshearers* (1x), *my flock* (1x), *the young goat* (1x), *are shepherds* (3x), *detestable* (1x), *with their flocks* (2x), *pasture* (8x), *for the flocks* (3x), *has been my shepherd all* (1x), *the Shepherd* (2x), *and flocks* (9x), *And when some shepherds* (1x), *their flock* (1x), *the shepherds* (6x), *and with our flocks* (1x), *lamb for* (1x), *for a whole lamb* (1x), *lamb* (1x), *or the goats* (1x), *a lamb* (5x), *both flocks* (1x), *with a lamb* (2x), *your sheep and goats* (1x), *sheep and* (1x), *a sheep* (5x), *sheep or* (1x), *and your sheep* (1x), *or herds* (1x), *or sheep* (3x), *or the flock* (1x), *the flock from* (1x), *he is to* (1x), *is a goat* (1x), *goat as* (1x), *of the goat* (1x), *as* (1x), *or a goat* (1x), *a male goat* (2x), *the male goat* (1x), *for the goat* (1x), *the goat* (4x), *But the goat* (1x), *and some of the goat’s* (1x), *the goat’s* (1x), *The goat* (1x), *it* (1x), *and the goat* (1x), *or goats* (2x), *male goat* (28x), *or flock* (3x), *sin offering* (1x), *If all our flocks* (1x), *shepherds* (7x), *or* (2x), *and sheep* (5x), *like sheep* (5x), *shepherd* (9x), *sheepfolds* (1x), *for their flocks* (2x), *of your flocks* (5x), *or flocks* (1x), *your flock your* (1x), *or a sheep* (1x), *from your flock* (1x), *Your flock* (1x), *neither sheep* (1x), *taking* (1x), *or his sheep* (1x), *of the sheep* (1x), *of sheep* (4x), *is with the sheep* (1x), *young goat* (1x), *has been tending* (1x), *his shepherd’s bag* (1x), *some goat hair* (1x), *with the goat hair* (1x), *the sheepfolds* (1x), *your shepherds were* (1x), *our sheep* (1x), *one of his own sheep* (1x), *So* (1x), *small flocks of goats* (1x), *sheep without* (2x), *shepherd And* (1x), *there was pasture for their flocks* (1x), *2,000* (1x), *from their flocks* (1x), *And the* (1x), *the goats* (1x), *flocks and herds* (2x), *plus* (1x), *At the Sheep* (1x), *and the Sheep* (1x), *as the Sheep* (1x), *3,000* (1x), *like a flock* (6x), *sheep dogs* (1x), *for pasture* (1x), *camels* (1x), *is my shepherd* (1x), *as sheep* (2x), *Like sheep* (1x), *will be their shepherd* (1x), *of goats* (4x), *with flocks* (2x), *against the sheep* (1x), *from the sheepfolds* (1x), *O Shepherd* (1x), *the sheep of* (1x), *like flocks* (1x), *like lambs* (2x), *our flocks* (1x), *to your herds* (1x), *and the goats* (2x), *a he-goat* (1x), *flocks than* (1x), *Shepherd* (1x), *flocks of* (1x), *flock and graze* (1x), *is like a flock* (2x), *are like a flock* (2x), *like a sheep* (1x), *to the flocks* (1x), *is called* (1x), *pasture for flocks* (1x), *goats with* (1x), *like a shepherd’s* (1x), *He tends His flock* (1x), *My shepherd* (1x), *and find pasture* (1x), *like a lamb* (1x), *the shepherds of His flock* (1x), *for flocks* (1x), *and the leaders* (1x), *Shepherds* (1x), *and their flocks* (1x), *is the flock* (1x), *to you* (1x), *will drive away* (1x), *to the shepherds* (1x), *My flock* (9x), *of My flock* (1x), *you shepherds* (3x), *of the shepherds* (2x), *their pasture* (1x), *shepherd keeps his flock* (1x), *with the flocks* (1x), *for shepherds* (2x), *a shepherd* (4x), *their shepherds* (1x), *like the he-goats* (1x), *the shepherd* (1x), *and his flock* (1x), *that* (1x), *the shepherds of* (1x), *shepherds feed* (1x), *They were scattered* (1x), *and because My shepherds* (1x), *for My flock* (1x), *but fed* (1x), *instead* (1x), *As a shepherd sheep* (1x), *will tend My flock* (1x), *one sheep* (2x), *of the pasture* (1x), *Why must My flock* (1x), *are My flock the sheep* (1x), *Like the numerous flocks* (1x), *for sacrifices* (1x), *sheep shall be given* (1x), *from each flock* (1x), *along with a male goat* (1x), *his eyes* (1x), *Thus the goat* (1x), *The shaggy* (1x), *The herds* (1x), *the shepherds mourn* (1x), *shepherd snatches* (1x), *flock taste* (1x), *O watchtower of the flock* (1x), *among flocks of sheep* (1x), *or the feeding ground* (1x), *your shepherds* (1x), *though the sheep* (1x), *for sheep* (1x), *Herds* (1x), *as the flock* (1x), *of a shepherd* (1x), *shepherds and* (1x), *flock the* (1x), *flock marked* (1x), *Even their own shepherds* (1x), *My Shepherd* (1x), *and the sheep* (1x), *in his flock* (1x). 
+*a keeper* (1x), *of sheep* (7x), *of his flock* (1x), *sheep* (43x), *flocks* (8x), *the herdsmen* (1x), *and the herdsmen* (1x), *your herdsmen* (1x), *and my herdsmen* (1x), *a goat* (4x), *from the flock* (5x), *and* (3x), *But the herdsmen* (1x), *herdsmen* (1x), *the flock* (24x), *young goats* (1x), *goats* (8x), *the sheep* (10x), *the flocks* (9x), ** (8x), *was a shepherdess* (1x), *your flocks* (7x), *goat* (5x), *male goats* (21x), *female goat* (2x), *they* (1x), *young that were* (1x), *the rest* (1x), *stock* (1x), *animals* (1x), *of the flock* (6x), *of the animals* (1x), *But if the animals* (1x), *where his flocks were* (1x), *flock* (9x), *males* (1x), *the males* (1x), *his sheep* (2x), *and goats* (4x), *of your flock* (2x), *for your flocks* (2x), *and these flocks* (1x), *are my flocks* (1x), *menservants* (1x), *well as the flocks and* (1x), *female goats* (1x), *herds* (2x), *the herds* (3x), *the animals* (1x), *their flocks* (5x), *and the flocks* (1x), *a young goat* (7x), *his sheepshearers* (1x), *my flock* (1x), *the young goat* (1x), *are shepherds* (5x), *detestable* (2x), *with their flocks* (2x), *pasture* (8x), *for the flocks* (3x), *has been my shepherd all* (1x), *the Shepherd* (2x), *and flocks* (9x), *And when some shepherds* (1x), *their flock* (1x), *the shepherds* (7x), *and with our flocks* (1x), *or the goats* (1x), *a lamb* (1x), *both flocks* (1x), *your sheep and goats* (1x), *a sheep* (1x), *and your sheep* (1x), *or herds* (1x), *or the flock* (1x), *the flock from* (1x), *he is to* (1x), *is a goat* (1x), *goat as* (2x), *of the goat* (1x), *as* (2x), *or a goat* (1x), *a male goat* (3x), *the male goat* (1x), *for the goat* (1x), *the goat* (4x), *But the goat* (1x), *and some of the goat’s* (1x), *the goat’s* (1x), *The goat* (1x), *it* (1x), *and the goat* (1x), *or goats* (2x), *male goat* (50x), *or flock* (3x), *sin offering* (2x), *If all our flocks* (1x), *shepherds* (7x), *and sheep* (3x), *like sheep* (5x), *shepherd* (9x), *or sheep* (1x), *or* (1x), *sheepfolds* (1x), *for their flocks* (3x), *of your flocks* (5x), *or flocks* (1x), *your flock your* (1x), *from your flock* (1x), *Your flock* (1x), *taking* (1x), *of the sheep* (1x), *is with the sheep* (1x), *young goat* (1x), *has been tending* (1x), *his shepherd’s bag* (1x), *some goat hair* (1x), *with the goat hair* (1x), *the sheepfolds* (1x), *your shepherds were* (1x), *our sheep* (1x), *one of his own sheep* (1x), *So* (1x), *small flocks* (1x), *of goats* (5x), *sheep without* (2x), *shepherd And* (1x), *there was pasture* (1x), *2,000* (1x), *from their flocks* (1x), *And the* (1x), *the goats* (1x), *flocks and herds* (2x), *plus* (1x), *3,000* (1x), *like a flock* (6x), *sheep dogs* (1x), *for pasture* (1x), *camels* (1x), *is my shepherd* (1x), *as sheep* (2x), *Like sheep* (1x), *will be their shepherd* (1x), *with flocks* (2x), *against the sheep* (1x), *from the sheepfolds* (1x), *O Shepherd* (1x), *the sheep of* (1x), *like flocks* (1x), *like lambs* (2x), *our flocks* (1x), *to your herds* (1x), *and the goats* (2x), *a he-goat* (1x), *flocks than* (1x), *Shepherd* (1x), *flocks of* (1x), *flock and graze* (1x), *is like a flock* (2x), *are like a flock* (2x), *like a sheep* (1x), *to the flocks* (1x), *is called* (1x), *pasture for flocks* (1x), *goats with* (1x), *like a shepherd’s* (1x), *He tends* (1x), *His flock* (1x), *My shepherd* (1x), *and find pasture* (1x), *of His flock* (1x), *for flocks* (1x), *and the leaders* (1x), *Shepherds* (1x), *and their flocks* (1x), *is the flock* (1x), *to you* (1x), *will drive away* (1x), *to the shepherds* (1x), *of My flock* (1x), *you shepherds* (3x), *of the shepherds* (2x), *their pasture* (1x), *shepherd keeps his* (1x), *with the flocks* (1x), *for shepherds* (2x), *a shepherd* (4x), *their shepherds* (1x), *like the he-goats* (1x), *the shepherd* (1x), *and his flock* (1x), *that* (1x), *the shepherds of* (1x), *shepherds feed* (1x), *My flock* (9x), *They were scattered* (1x), *and because My shepherds* (1x), *for My flock* (1x), *but fed* (1x), *instead* (1x), *As a shepherd* (1x), *will tend* (1x), *of the pasture* (1x), *Why must My flock* (1x), *are My flock* (1x), *Like the numerous flocks* (1x), *for sacrifices* (1x), *from each flock* (1x), *along with a male goat* (2x), *his eyes* (1x), *Thus the goat* (1x), *The shaggy* (1x), *The herds* (1x), *the shepherds mourn* (1x), *shepherd snatches* (1x), *flock taste* (1x), *among flocks* (1x), *or the feeding ground* (1x), *your shepherds* (1x), *though the sheep* (1x), *for sheep* (1x), *Herds* (1x), *as the flock* (1x), *of a shepherd* (1x), *shepherds and* (1x), *flock the* (1x), *flock marked* (1x), *Even their own shepherds* (1x), *My Shepherd* (1x), *and the sheep* (1x), *in his flock* (1x). 
 
 
 In the New Testament (BSB), words representing “Flock” are translated as 
-*will be the shepherd* (1x), *a shepherd* (3x), *Shepherd* (5x), *flock* (7x), *shepherds* (4x), *flocks* (1x), *shepherding* (1x), *the shepherd* (2x), *shepherd* (4x), *Be shepherds* (2x), *tends a flock* (1x), *its* (1x), *to be pastors* (1x), *of goats* (2x), *goats* (1x), *goatskins* (1x), *Chief Shepherd* (1x), *but shepherding* (1x), *will be their shepherd* (1x). 
+*flock* (7x), *flocks* (1x), *a flock* (1x), *its* (1x), *will be the shepherd* (1x), *a shepherd* (3x), *Shepherd* (5x), *shepherds* (4x), *shepherding* (1x), *the shepherd* (2x), *shepherd* (4x), *Be shepherds* (2x), *tends* (1x), *to be pastors* (1x), *of goats* (2x), *goats* (1x), *goatskins* (1x), *Chief Shepherd* (1x), *but shepherding* (1x), *will be their shepherd* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -24,13 +24,15 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* a keeper of sheep (GEN 4:2)
+* a keeper (GEN 4:2)
+
+* of sheep (GEN 4:2; GEN 29:2; 1SA 15:14; 2CH 32:29; ISA 22:13; JOL 1:18; MIC 5:7)
 
 * of his flock (GEN 4:4)
 
-* sheep (GEN 12:16; GEN 20:14; GEN 21:27; GEN 24:35; GEN 29:9; GEN 29:10; GEN 29:10; GEN 30:32; GEN 33:13; EXO 22:3; NUM 31:36; NUM 31:43; DEU 14:26; DEU 22:1; JOS 6:21; JOS 7:24; 1SA 15:3; 1SA 15:15; 1SA 15:21; 1SA 17:15; 1SA 17:28; 1SA 17:34; 1SA 25:2; 1SA 25:4; 1SA 25:18; 2SA 12:2; 2SA 17:29; 2SA 24:17; 1KI 1:9; 1KI 5:3; 1KI 8:5; 2KI 5:26; 1CH 12:41; 1CH 21:17; 2CH 5:6; 2CH 7:5; 2CH 14:14; 2CH 15:11; 2CH 18:2; 2CH 29:33; 2CH 30:24; 2CH 30:24; PSA 8:8; PSA 119:176; ISA 7:21; ISA 43:23; JER 50:6; EZK 25:5; EZK 34:20; ZEC 10:2)
+* sheep (GEN 12:16; GEN 20:14; GEN 21:27; GEN 24:35; GEN 29:9; GEN 29:10; GEN 29:10; GEN 33:13; NUM 31:36; NUM 31:43; DEU 14:26; JOS 7:24; 1SA 15:15; 1SA 15:21; 1SA 17:15; 1SA 17:28; 1SA 17:34; 1SA 25:2; 1SA 25:4; 1SA 25:18; 2SA 12:2; 2SA 17:29; 2SA 24:17; 1KI 1:9; 1KI 5:3; 1KI 8:5; 2KI 5:26; 1CH 12:41; 1CH 21:17; 2CH 5:6; 2CH 7:5; 2CH 14:14; 2CH 15:11; 2CH 18:2; 2CH 29:33; 2CH 30:24; 2CH 30:24; PSA 8:8; ISA 7:21; JER 50:6; EZK 25:5; EZK 34:12; ZEC 10:2)
 
-* flocks (GEN 13:5; GEN 30:36; GEN 30:40; GEN 30:43; GEN 37:12; DEU 28:4; JOB 24:2)
+* flocks (GEN 13:5; GEN 29:2; GEN 30:36; GEN 30:40; GEN 30:43; GEN 37:12; DEU 28:4; JOB 24:2)
 
 * the herdsmen (GEN 13:7)
 
@@ -44,41 +46,33 @@ Return to [Index](00-Index.md)
 
 * from the flock (GEN 21:28; DEU 32:14; 1SA 17:34; EZR 10:19; AMO 6:4)
 
-* is the lamb (GEN 22:7)
-
-* the lamb (GEN 22:8)
-
 * and (GEN 26:14; NEH 5:18; EZK 34:8)
 
 * But the herdsmen (GEN 26:20)
 
 * herdsmen (GEN 26:20)
 
-* the flock (GEN 27:9; GEN 31:12; GEN 37:2; EXO 2:19; EXO 3:1; EXO 3:1; LEV 3:6; LEV 5:6; LEV 5:15; LEV 5:18; LEV 5:25; 1SA 17:20; 2SA 7:8; 1CH 17:7; JER 50:8; EZK 34:3; EZK 34:10; EZK 34:12; EZK 43:23; EZK 43:25; AMO 7:15; MIC 7:14; ZEC 11:7; ZEC 11:7; ZEC 11:17)
+* the flock (GEN 27:9; GEN 31:12; GEN 37:2; EXO 2:19; EXO 3:1; EXO 3:1; LEV 3:6; LEV 5:6; LEV 5:15; LEV 5:18; LEV 5:25; 1SA 17:20; 2SA 7:8; 1CH 17:7; JER 50:8; EZK 34:3; EZK 34:10; EZK 34:12; EZK 43:23; EZK 43:25; AMO 7:15; MIC 7:14; ZEC 11:7; ZEC 11:17)
 
 * young goats (GEN 27:9)
 
 * goats (GEN 27:16; GEN 30:33; LEV 16:7; LEV 16:8; 1SA 25:2; 2CH 17:11; PSA 66:15; EZK 39:18)
 
-* flocks of sheep (GEN 29:2)
+* the sheep (GEN 29:2; GEN 29:3; GEN 29:7; GEN 29:8; 1SA 16:11; JOB 1:16; PSA 79:13; PSA 95:7; JER 23:1; EZK 34:31)
 
-* the sheep (GEN 29:2; GEN 29:3; GEN 29:7; GEN 29:8; 1SA 16:11; JOB 1:16; PSA 79:13; PSA 95:7; JER 23:1)
+* the flocks (GEN 29:3; GEN 29:8; GEN 31:10; 1SA 27:9; 1SA 30:20; 1CH 27:31; ISA 60:7; JER 33:13; JOL 1:18)
 
-* the flocks (GEN 29:3; GEN 29:8; GEN 30:38; GEN 31:10; 1SA 27:9; 1SA 30:20; 1CH 27:31; ISA 60:7; JER 33:13; JOL 1:18)
-
-*  (GEN 29:6; NUM 15:11; NUM 31:32; NUM 31:37; DEU 14:4; 1SA 25:2; EZK 34:10; ZEC 11:15)
+*  (GEN 29:6; NUM 15:11; NUM 31:32; NUM 31:37; 1SA 25:2; ISA 32:14; EZK 34:10; ZEC 11:15)
 
 * was a shepherdess (GEN 29:9)
 
 * your flocks (GEN 30:31; GEN 30:32; GEN 45:10; EXO 10:24; EXO 12:32; ISA 61:5; JER 5:17)
 
-* goat (GEN 30:32; LEV 5:6; LEV 16:20; LEV 16:21)
+* goat (GEN 30:32; LEV 5:6; LEV 5:6; LEV 16:20; LEV 16:21)
 
-* male goats (GEN 30:35; GEN 32:15; LEV 16:5; NUM 7:17; NUM 7:23; NUM 7:29; NUM 7:35; NUM 7:41; NUM 7:47; NUM 7:53; NUM 7:59; NUM 7:65; NUM 7:71; NUM 7:77; NUM 7:83; NUM 7:88; 2CH 29:21; EZR 6:17; JER 51:40)
+* male goats (GEN 30:35; GEN 32:15; LEV 16:5; LEV 16:5; NUM 7:17; NUM 7:23; NUM 7:29; NUM 7:35; NUM 7:41; NUM 7:47; NUM 7:53; NUM 7:59; NUM 7:65; NUM 7:71; NUM 7:77; NUM 7:83; NUM 7:88; 2CH 29:21; EZR 6:17; EZR 6:17; JER 51:40)
 
 * female goat (GEN 30:35; NUM 15:27)
-
-* So when the flocks (GEN 30:38)
 
 * they (GEN 30:39)
 
@@ -90,7 +84,7 @@ Return to [Index](00-Index.md)
 
 * animals (GEN 30:40)
 
-* of the flock (GEN 30:41; JER 25:34; JER 25:35; JER 25:36; JER 49:20; JER 50:45; EZK 24:5; ZEC 11:7; ZEC 11:11)
+* of the flock (GEN 30:41; JER 25:34; JER 25:35; JER 25:36; EZK 24:5; ZEC 11:11)
 
 * of the animals (GEN 30:41)
 
@@ -98,11 +92,9 @@ Return to [Index](00-Index.md)
 
 * where his flocks were (GEN 31:4)
 
-* flock (GEN 31:8; GEN 31:8; EXO 2:16; LEV 22:21; NUM 15:3; JER 10:21; JER 13:17; JER 50:17; EZK 34:2)
+* flock (GEN 31:8; GEN 31:8; EXO 2:16; LEV 22:21; NUM 15:3; JER 10:21; JER 13:17; JER 31:10; EZK 34:2)
 
 * males (GEN 31:10)
-
-* the females (GEN 31:10)
 
 * the males (GEN 31:12)
 
@@ -114,7 +106,9 @@ Return to [Index](00-Index.md)
 
 * for your flocks (GEN 31:41; NUM 32:24)
 
-* and these flocks are my flocks (GEN 31:43)
+* and these flocks (GEN 31:43)
+
+* are my flocks (GEN 31:43)
 
 * menservants (GEN 32:6)
 
@@ -122,7 +116,7 @@ Return to [Index](00-Index.md)
 
 * female goats (GEN 32:15)
 
-* herds (GEN 32:17)
+* herds (GEN 32:17; GEN 32:17)
 
 * the herds (GEN 32:17; GEN 32:17; GEN 32:20)
 
@@ -132,7 +126,7 @@ Return to [Index](00-Index.md)
 
 * and the flocks (GEN 37:14)
 
-* a young goat (GEN 37:31; GEN 38:17; JDG 6:19; JDG 13:15; JDG 13:19; JDG 15:1)
+* a young goat (GEN 37:31; GEN 37:31; GEN 38:17; JDG 6:19; JDG 13:15; JDG 13:19; JDG 15:1)
 
 * his sheepshearers (GEN 38:12)
 
@@ -140,9 +134,9 @@ Return to [Index](00-Index.md)
 
 * the young goat (GEN 38:20)
 
-* are shepherds (GEN 46:32; GEN 47:3; ISA 56:11)
+* are shepherds (GEN 46:32; GEN 46:32; GEN 47:3; GEN 47:3; ISA 56:11)
 
-* detestable (GEN 46:34)
+* detestable (GEN 46:34; GEN 46:34)
 
 * with their flocks (GEN 47:1; HOS 5:6)
 
@@ -160,37 +154,23 @@ Return to [Index](00-Index.md)
 
 * their flock (EXO 2:17)
 
-* the shepherds (EXO 2:19; JER 10:21; JER 23:2; JER 25:35; EZK 34:2; EZK 34:10)
+* the shepherds (EXO 2:19; ISA 63:11; JER 10:21; JER 23:2; JER 25:35; EZK 34:2; EZK 34:10)
 
 * and with our flocks (EXO 10:9)
 
-* lamb for (EXO 12:3)
-
-* for a whole lamb (EXO 12:4)
-
-* lamb (EXO 12:5)
-
 * or the goats (EXO 12:5)
 
-* a lamb (EXO 12:21; LEV 5:7; LEV 12:8; 1SA 17:34; ISA 66:3)
+* a lamb (EXO 12:21)
 
 * both flocks (EXO 12:38)
 
-* with a lamb (EXO 13:13; EXO 34:20)
-
 * your sheep and goats (EXO 20:24)
 
-* sheep and (EXO 21:37)
-
-* a sheep (EXO 21:37; EXO 22:8; LEV 22:28; LEV 27:26; DEU 18:3)
-
-* sheep or (EXO 22:9)
+* a sheep (EXO 21:37)
 
 * and your sheep (EXO 22:29)
 
 * or herds (EXO 34:3)
-
-* or sheep (EXO 34:19; LEV 22:23; NUM 31:28)
 
 * or the flock (LEV 1:2)
 
@@ -200,15 +180,15 @@ Return to [Index](00-Index.md)
 
 * is a goat (LEV 3:12)
 
-* goat as (LEV 4:23)
+* goat as (LEV 4:23; LEV 4:23)
 
 * of the goat (LEV 4:24)
 
-* as (LEV 4:28)
+* as (LEV 4:28; LEV 4:28)
 
 * or a goat (LEV 7:23)
 
-* a male goat (LEV 9:3; EZK 43:25)
+* a male goat (LEV 9:3; LEV 9:3; EZK 43:25)
 
 * the male goat (LEV 9:15)
 
@@ -230,27 +210,29 @@ Return to [Index](00-Index.md)
 
 * or goats (LEV 22:19; PSA 50:9)
 
-* male goat (LEV 23:19; NUM 7:16; NUM 7:22; NUM 7:28; NUM 7:34; NUM 7:40; NUM 7:46; NUM 7:52; NUM 7:58; NUM 7:64; NUM 7:70; NUM 7:76; NUM 7:82; NUM 15:24; NUM 28:15; NUM 28:22; NUM 28:30; NUM 29:5; NUM 29:11; NUM 29:16; NUM 29:19; NUM 29:22; NUM 29:25; NUM 29:28; NUM 29:31; NUM 29:34; NUM 29:38; EZK 43:22)
+* male goat (LEV 23:19; LEV 23:19; NUM 7:16; NUM 7:16; NUM 7:22; NUM 7:22; NUM 7:28; NUM 7:28; NUM 7:34; NUM 7:34; NUM 7:40; NUM 7:40; NUM 7:46; NUM 7:46; NUM 7:52; NUM 7:52; NUM 7:58; NUM 7:58; NUM 7:64; NUM 7:64; NUM 7:70; NUM 7:70; NUM 7:76; NUM 7:76; NUM 7:82; NUM 7:82; NUM 15:24; NUM 15:24; NUM 28:15; NUM 28:15; NUM 28:22; NUM 28:30; NUM 28:30; NUM 29:5; NUM 29:5; NUM 29:11; NUM 29:11; NUM 29:16; NUM 29:16; NUM 29:19; NUM 29:19; NUM 29:22; NUM 29:25; NUM 29:25; NUM 29:28; NUM 29:31; NUM 29:34; NUM 29:38; EZK 43:22; EZK 43:22)
 
 * or flock (LEV 27:32; DEU 12:21; DEU 16:2)
 
-* sin offering (NUM 7:87)
+* sin offering (NUM 7:87; NUM 7:87)
 
 * If all our flocks (NUM 11:22)
 
 * shepherds (NUM 14:33; SNG 1:8; JER 3:15; JER 12:10; JER 23:4; MIC 5:4; ZEC 11:8)
 
-* or (NUM 15:11; NUM 31:30)
-
-* and sheep (NUM 22:40; 1SA 22:19; 1KI 1:19; 1KI 1:25; ISA 7:25)
+* and sheep (NUM 22:40; 1KI 1:19; 1KI 1:25)
 
 * like sheep (NUM 27:17; PSA 78:52; ISA 53:6; JER 12:3; MIC 2:12)
 
 * shepherd (NUM 27:17; 1SA 21:8; ISA 13:20; JER 49:19; JER 50:44; EZK 34:23; EZK 34:23; EZK 37:24; ZEC 11:17)
 
+* or sheep (NUM 31:28)
+
+* or (NUM 31:30)
+
 * sheepfolds (NUM 32:16)
 
-* for their flocks (NUM 32:36; 1CH 4:39)
+* for their flocks (NUM 32:36; 1CH 4:39; 1CH 4:41)
 
 * of your flocks (DEU 7:13; DEU 28:18; DEU 28:51; 1SA 8:17; PRO 27:23)
 
@@ -258,21 +240,13 @@ Return to [Index](00-Index.md)
 
 * your flock your (DEU 15:14)
 
-* or a sheep (DEU 17:1)
-
 * from your flock (DEU 18:4)
 
 * Your flock (DEU 28:31)
 
-* neither sheep (JDG 6:4)
-
 * taking (1SA 14:32)
 
-* or his sheep (1SA 14:34)
-
 * of the sheep (1SA 15:9)
-
-* of sheep (1SA 15:14; 2CH 32:29; ISA 22:13; JOL 1:18)
 
 * is with the sheep (1SA 16:19)
 
@@ -296,13 +270,15 @@ Return to [Index](00-Index.md)
 
 * So (1KI 8:63)
 
-* small flocks of goats (1KI 20:27)
+* small flocks (1KI 20:27)
+
+* of goats (1KI 20:27; PSA 50:13; PRO 27:27; SNG 4:1; SNG 6:5)
 
 * sheep without (1KI 22:17; 2CH 18:16)
 
 * shepherd And (1KI 22:17)
 
-* there was pasture for their flocks (1CH 4:41)
+* there was pasture (1CH 4:41)
 
 * 2,000 (1CH 5:21)
 
@@ -315,12 +291,6 @@ Return to [Index](00-Index.md)
 * flocks and herds (2CH 35:7; JER 31:12)
 
 * plus (2CH 35:7)
-
-* At the Sheep (NEH 3:1)
-
-* and the Sheep (NEH 3:32)
-
-* as the Sheep (NEH 12:39)
 
 * 3,000 (JOB 1:3)
 
@@ -339,8 +309,6 @@ Return to [Index](00-Index.md)
 * Like sheep (PSA 49:15)
 
 * will be their shepherd (PSA 49:15)
-
-* of goats (PSA 50:13; PRO 27:27; SNG 4:1; SNG 6:5)
 
 * with flocks (PSA 65:14; EZK 36:38)
 
@@ -388,15 +356,15 @@ Return to [Index](00-Index.md)
 
 * like a shepherd’s (ISA 38:12)
 
-* He tends His flock (ISA 40:11)
+* He tends (ISA 40:11)
+
+* His flock (ISA 40:11)
 
 * My shepherd (ISA 44:28)
 
 * and find pasture (ISA 49:9)
 
-* like a lamb (ISA 53:7)
-
-* the shepherds of His flock (ISA 63:11)
+* of His flock (ISA 63:11)
 
 * for flocks (ISA 65:10)
 
@@ -414,8 +382,6 @@ Return to [Index](00-Index.md)
 
 * to the shepherds (JER 23:1)
 
-* My flock (JER 23:2; EZK 34:6; EZK 34:8; EZK 34:10; EZK 34:10; EZK 34:11; EZK 34:12; EZK 34:17; EZK 34:22)
-
 * of My flock (JER 23:3)
 
 * you shepherds (JER 25:34; EZK 34:7; EZK 34:9)
@@ -424,7 +390,7 @@ Return to [Index](00-Index.md)
 
 * their pasture (JER 25:36)
 
-* shepherd keeps his flock (JER 31:10)
+* shepherd keeps his (JER 31:10)
 
 * with the flocks (JER 31:24)
 
@@ -446,6 +412,8 @@ Return to [Index](00-Index.md)
 
 * shepherds feed (EZK 34:2)
 
+* My flock (EZK 34:6; EZK 34:8; EZK 34:10; EZK 34:10; EZK 34:11; EZK 34:12; EZK 34:15; EZK 34:17; EZK 34:22)
+
 * They were scattered (EZK 34:6)
 
 * and because My shepherds (EZK 34:8)
@@ -456,27 +424,23 @@ Return to [Index](00-Index.md)
 
 * instead (EZK 34:8)
 
-* As a shepherd sheep (EZK 34:12)
+* As a shepherd (EZK 34:12)
 
-* will tend My flock (EZK 34:15)
-
-* one sheep (EZK 34:17; EZK 34:22)
+* will tend (EZK 34:15)
 
 * of the pasture (EZK 34:18)
 
 * Why must My flock (EZK 34:19)
 
-* are My flock the sheep (EZK 34:31)
+* are My flock (EZK 34:31)
 
 * Like the numerous flocks (EZK 36:38)
 
 * for sacrifices (EZK 36:38)
 
-* sheep shall be given (EZK 45:15)
-
 * from each flock (EZK 45:15)
 
-* along with a male goat (EZK 45:23)
+* along with a male goat (EZK 45:23; EZK 45:23)
 
 * his eyes (DAN 8:5)
 
@@ -492,9 +456,7 @@ Return to [Index](00-Index.md)
 
 * flock taste (JON 3:7)
 
-* O watchtower of the flock (MIC 4:8)
-
-* among flocks of sheep (MIC 5:7)
+* among flocks (MIC 5:7)
 
 * or the feeding ground (NAM 2:12)
 
@@ -528,17 +490,21 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
+* flock (MAT 26:31; JHN 10:16; LUK 12:32; ACT 20:28; ACT 20:29; 1PE 5:2; 1PE 5:3)
+
+* flocks (LUK 2:8)
+
+* a flock (1CO 9:7)
+
+* its (1CO 9:7)
+
 * will be the shepherd (MAT 2:6)
 
 * a shepherd (MAT 9:36; MAT 25:32; MRK 6:34)
 
 * Shepherd (MAT 26:31; MRK 14:27; JHN 21:16; HEB 13:20; 1PE 2:25)
 
-* flock (MAT 26:31; LUK 12:32; JHN 10:16; ACT 20:28; ACT 20:29; 1PE 5:2; 1PE 5:3)
-
 * shepherds (LUK 2:8; LUK 2:15; LUK 2:18; LUK 2:20)
-
-* flocks (LUK 2:8)
 
 * shepherding (LUK 17:7)
 
@@ -548,9 +514,7 @@ Return to [Index](00-Index.md)
 
 * Be shepherds (ACT 20:28; 1PE 5:2)
 
-* tends a flock (1CO 9:7)
-
-* its (1CO 9:7)
+* tends (1CO 9:7)
 
 * to be pastors (EPH 4:11)
 
@@ -580,37 +544,19 @@ Return to [Index](00-Index.md)
 
 * for us (GEN 26:22)
 
-* and came (GEN 30:38)
-
 * apart (GEN 30:40)
 
 * put them (GEN 30:40)
 
 * so that they would breed (GEN 30:41)
 
-* in separate (GEN 32:17)
-
 * are these before (GEN 32:18)
 
 * They (GEN 32:19)
 
+* in separate (GEN 32:17)
+
 * If they are driven hard (GEN 33:13)
-
-* the animals (EXO 12:6)
-
-*  (EXO 12:7; LEV 4:24; LEV 16:10; LEV 22:23; LEV 22:28; DEU 22:1; DEU 22:2; JOS 7:24; JOS 7:25; JOS 7:25; 1SA 30:20; EZK 27:21; ZEC 11:9)
-
-* its head (EXO 12:9; LEV 3:13)
-
-* legs (EXO 12:9)
-
-* and inner parts (EXO 12:9)
-
-* slaughters or (EXO 21:37)
-
-* it he (EXO 21:37)
-
-* This (EXO 22:8)
 
 * their mothers (EXO 22:29)
 
@@ -618,11 +564,15 @@ Return to [Index](00-Index.md)
 
 * he is to present (LEV 3:12)
 
+* its head (LEV 3:13)
+
 * it (LEV 3:13)
 
 * its blood (LEV 3:13; LEV 16:15)
 
 * And from (LEV 3:14)
+
+*  (LEV 4:24; LEV 16:10; JOS 7:24; JOS 7:25; JOS 7:25; 1SA 30:20; EZK 27:21)
 
 * It (LEV 4:24)
 
@@ -656,8 +606,6 @@ Return to [Index](00-Index.md)
 
 * its mother (LEV 22:27)
 
-* as its young (LEV 22:28)
-
 * the lambs (LEV 23:20)
 
 * you would eat (DEU 12:22)
@@ -665,16 +613,6 @@ Return to [Index](00-Index.md)
 * may eat it (DEU 12:22)
 
 * with it (DEU 16:3; DEU 16:3)
-
-* with (DEU 17:1)
-
-* is (DEU 17:1)
-
-* be sure to return it (DEU 22:1)
-
-* you are to take (DEU 22:2)
-
-* then you can return it (DEU 22:2)
 
 * brought them (1SA 15:15)
 
@@ -764,8 +702,6 @@ Return to [Index](00-Index.md)
 
 * to them (EZK 34:20)
 
-* with your horns (EZK 34:21)
-
 * over them (EZK 34:23)
 
 * their (EZK 34:23; EZK 34:24)
@@ -792,10 +728,6 @@ Return to [Index](00-Index.md)
 
 * of its pasture a noisy (MIC 2:12)
 
-* And you O watchtower of the flock (MIC 4:8)
-
-* sovereignty will (MIC 4:8)
-
 * their glory (ZEC 11:3)
 
 * buyers (ZEC 11:5)
@@ -820,6 +752,18 @@ Return to [Index](00-Index.md)
 
 ### NT Pronominal Referents (BSB)
 
+* your (LUK 12:32; LUK 12:33; LUK 12:34; LUK 12:34)
+
+* you (LUK 12:32; LUK 12:36; LUK 12:37)
+
+* yourselves (LUK 12:33)
+
+* dressed for service (LUK 12:35)
+
+* You (LUK 12:40)
+
+* which (ACT 20:28)
+
 * His (MAT 25:33; JHN 10:11)
 
 * their (LUK 2:8)
@@ -838,18 +782,6 @@ Return to [Index](00-Index.md)
 
 * they had received (LUK 2:17)
 
-* your (LUK 12:32; LUK 12:33; LUK 12:34; LUK 12:34)
-
-* you (LUK 12:32; LUK 12:36; LUK 12:37)
-
-* yourselves (LUK 12:33)
-
-* dressed for service (LUK 12:35)
-
-* You (LUK 12:40)
-
-* which (ACT 20:28)
-
 
 
 ### OT Subject Referents (BSB)
@@ -866,15 +798,9 @@ Return to [Index](00-Index.md)
 
 * and we will be fruitful (GEN 26:22)
 
-* or spotted (GEN 30:32; GEN 30:35; GEN 30:35)
-
-* These will be (GEN 30:32)
+* or spotted (GEN 30:35; GEN 30:35)
 
 * the rest (GEN 30:36)
-
-* to drink (GEN 30:38; GEN 30:38)
-
-* were in heat (GEN 30:38)
 
 * the stronger females (GEN 30:41)
 
@@ -886,31 +812,9 @@ Return to [Index](00-Index.md)
 
 * and drove them away (EXO 2:17)
 
-* You must (EXO 12:6)
-
-* it dies or (EXO 22:9)
-
-* injured or (EXO 22:9)
-
-* while (EXO 22:9)
-
 * Let them stay (EXO 22:29)
 
 * it had been burned up (LEV 10:16)
-
-* that has a deformed (LEV 22:23)
-
-* or stunted limb (LEV 22:23)
-
-* acceptable (LEV 22:23)
-
-* an animal whose testicles are bruised (LEV 22:24)
-
-* crushed (LEV 22:24)
-
-* torn (LEV 22:24)
-
-* or cut (LEV 22:24)
 
 * is born (LEV 22:27)
 
@@ -923,8 +827,6 @@ Return to [Index](00-Index.md)
 * would they have enough (NUM 11:22)
 
 * to make atonement (NUM 28:22; NUM 28:30; NUM 29:5)
-
-* to remain (DEU 22:2)
 
 * butchered (1SA 25:18)
 
@@ -940,8 +842,6 @@ Return to [Index](00-Index.md)
 
 * You who sit enthroned (PSA 80:2)
 
-* like a lost (PSA 119:176)
-
 * tens of thousands (PSA 144:13)
 
 * streaming down (SNG 4:1; SNG 6:5)
@@ -954,13 +854,7 @@ Return to [Index](00-Index.md)
 
 * they will pitch (JER 6:3)
 
-* Prepare (JER 6:4)
-
-* rise up (JER 6:4)
-
-* let us attack (JER 6:4; JER 6:4; JER 6:5; JER 6:5)
-
-* Rise up (JER 6:5)
+* let us attack (JER 6:4; JER 6:5; JER 6:4; JER 6:5)
 
 * and destroy (JER 6:5; JER 6:5)
 
@@ -971,6 +865,12 @@ Return to [Index](00-Index.md)
 * thoroughly as (JER 6:9; JER 6:9)
 
 * more like (JER 6:9; JER 6:9)
+
+* Prepare (JER 6:4)
+
+* rise up (JER 6:4)
+
+* Rise up (JER 6:5)
 
 * seek (JER 10:21; ZEC 11:16)
 
@@ -1006,9 +906,7 @@ Return to [Index](00-Index.md)
 
 * causing them to roam (JER 50:6)
 
-* is a scattered (JER 50:17)
-
-* feed themselves (EZK 34:2)
+* feed themselves (EZK 34:2; EZK 34:2)
 
 * You eat (EZK 34:3)
 
@@ -1046,14 +944,6 @@ Return to [Index](00-Index.md)
 
 * and drink (EZK 34:19)
 
-* you shove (EZK 34:21)
-
-* butting (EZK 34:21)
-
-* you have scattered (EZK 34:21)
-
-* and he will feed (EZK 34:23)
-
 * so that they may dwell (EZK 34:25)
 
 * and sleep (EZK 34:25)
@@ -1065,6 +955,8 @@ Return to [Index](00-Index.md)
 * They will dwell securely (EZK 34:28)
 
 * bear (EZK 34:29)
+
+* and he will feed (EZK 34:23)
 
 * or (JON 3:7)
 
@@ -1090,6 +982,18 @@ Return to [Index](00-Index.md)
 
 ### NT Subject Referents (BSB)
 
+* be afraid (LUK 12:32; LUK 2:10)
+
+* Sell (LUK 12:33)
+
+* give (LUK 12:33)
+
+* Provide (LUK 12:33)
+
+* understand (LUK 12:39)
+
+* you do not expect (LUK 12:40)
+
 * He will place (MAT 25:33)
 
 * residing in the fields (LUK 2:8)
@@ -1098,7 +1002,7 @@ Return to [Index](00-Index.md)
 
 * they were terrified (LUK 2:9)
 
-* be afraid behold (LUK 2:10)
+* behold (LUK 2:10)
 
 * You will find (LUK 2:12)
 
@@ -1106,7 +1010,7 @@ Return to [Index](00-Index.md)
 
 * see (LUK 2:15)
 
-* they hurried off (LUK 2:16)
+* they hurried off (LUK 2:16; LUK 2:16)
 
 * found (LUK 2:16)
 
@@ -1122,23 +1026,11 @@ Return to [Index](00-Index.md)
 
 * seen (LUK 2:20)
 
-* be afraid (LUK 12:32)
-
-* Sell (LUK 12:33)
-
-* give (LUK 12:33)
-
-* Provide (LUK 12:33)
-
-* understand (LUK 12:39)
-
-* you do not expect (LUK 12:40)
-
 
 
 ### References (Whole Bible)
 
-* GEN 4:2; GEN 4:4; GEN 12:16; GEN 13:5; GEN 13:7; GEN 13:8; GEN 15:9; GEN 20:14; GEN 21:27; GEN 21:28; GEN 22:7; GEN 22:8; GEN 24:35; GEN 26:14; GEN 26:20; GEN 27:9; GEN 27:16; GEN 29:2; GEN 29:3; GEN 29:6; GEN 29:7; GEN 29:8; GEN 29:9; GEN 29:10; GEN 30:31; GEN 30:32; GEN 30:33; GEN 30:35; GEN 30:36; GEN 30:38; GEN 30:39; GEN 30:40; GEN 30:41; GEN 30:42; GEN 30:43; GEN 31:4; GEN 31:8; GEN 31:10; GEN 31:12; GEN 31:19; GEN 31:38; GEN 31:41; GEN 31:43; GEN 32:6; GEN 32:8; GEN 32:15; GEN 32:17; GEN 32:20; GEN 33:13; GEN 34:28; GEN 37:2; GEN 37:12; GEN 37:14; GEN 37:31; GEN 38:12; GEN 38:13; GEN 38:17; GEN 38:20; GEN 45:10; GEN 46:32; GEN 46:34; GEN 47:1; GEN 47:3; GEN 47:4; GEN 47:17; GEN 48:15; GEN 49:24; GEN 50:8; EXO 2:16; EXO 2:17; EXO 2:19; EXO 3:1; EXO 9:3; EXO 10:9; EXO 10:24; EXO 12:3; EXO 12:4; EXO 12:5; EXO 12:21; EXO 12:32; EXO 12:38; EXO 13:13; EXO 20:24; EXO 21:37; EXO 22:3; EXO 22:8; EXO 22:9; EXO 22:29; EXO 34:3; EXO 34:19; EXO 34:20; LEV 1:2; LEV 1:10; LEV 3:6; LEV 3:12; LEV 4:23; LEV 4:24; LEV 4:28; LEV 5:6; LEV 5:7; LEV 5:15; LEV 5:18; LEV 5:25; LEV 7:23; LEV 9:3; LEV 9:15; LEV 10:16; LEV 12:8; LEV 16:5; LEV 16:7; LEV 16:8; LEV 16:9; LEV 16:10; LEV 16:15; LEV 16:18; LEV 16:20; LEV 16:21; LEV 16:22; LEV 16:26; LEV 16:27; LEV 17:3; LEV 22:19; LEV 22:21; LEV 22:23; LEV 22:27; LEV 22:28; LEV 23:19; LEV 27:26; LEV 27:32; NUM 7:16; NUM 7:17; NUM 7:22; NUM 7:23; NUM 7:28; NUM 7:29; NUM 7:34; NUM 7:35; NUM 7:40; NUM 7:41; NUM 7:46; NUM 7:47; NUM 7:52; NUM 7:53; NUM 7:58; NUM 7:59; NUM 7:64; NUM 7:65; NUM 7:70; NUM 7:71; NUM 7:76; NUM 7:77; NUM 7:82; NUM 7:83; NUM 7:87; NUM 7:88; NUM 11:22; NUM 14:33; NUM 15:3; NUM 15:11; NUM 15:24; NUM 15:27; NUM 18:17; NUM 22:40; NUM 27:17; NUM 28:15; NUM 28:22; NUM 28:30; NUM 29:5; NUM 29:11; NUM 29:16; NUM 29:19; NUM 29:22; NUM 29:25; NUM 29:28; NUM 29:31; NUM 29:34; NUM 29:38; NUM 31:28; NUM 31:30; NUM 31:32; NUM 31:36; NUM 31:37; NUM 31:43; NUM 32:16; NUM 32:24; NUM 32:36; DEU 7:13; DEU 8:13; DEU 12:6; DEU 12:17; DEU 12:21; DEU 14:4; DEU 14:23; DEU 14:26; DEU 15:14; DEU 15:19; DEU 16:2; DEU 17:1; DEU 18:3; DEU 18:4; DEU 22:1; DEU 28:4; DEU 28:18; DEU 28:31; DEU 28:51; DEU 32:14; JOS 6:21; JOS 7:24; JDG 5:16; JDG 6:4; JDG 6:19; JDG 13:15; JDG 13:19; JDG 15:1; 1SA 8:17; 1SA 14:32; 1SA 14:34; 1SA 15:3; 1SA 15:9; 1SA 15:14; 1SA 15:15; 1SA 15:21; 1SA 16:11; 1SA 16:19; 1SA 16:20; 1SA 17:15; 1SA 17:20; 1SA 17:28; 1SA 17:34; 1SA 17:40; 1SA 19:13; 1SA 19:16; 1SA 21:8; 1SA 22:19; 1SA 24:4; 1SA 25:2; 1SA 25:4; 1SA 25:7; 1SA 25:16; 1SA 25:18; 1SA 27:9; 1SA 30:20; 2SA 7:8; 2SA 12:2; 2SA 12:4; 2SA 17:29; 2SA 24:17; 1KI 1:9; 1KI 1:19; 1KI 1:25; 1KI 5:3; 1KI 8:5; 1KI 8:63; 1KI 20:27; 1KI 22:17; 2KI 5:26; 1CH 4:39; 1CH 4:40; 1CH 4:41; 1CH 5:21; 1CH 12:41; 1CH 17:7; 1CH 21:17; 1CH 27:31; 2CH 5:6; 2CH 7:5; 2CH 14:14; 2CH 15:11; 2CH 17:11; 2CH 18:2; 2CH 18:16; 2CH 29:21; 2CH 29:23; 2CH 29:33; 2CH 30:24; 2CH 31:6; 2CH 32:28; 2CH 32:29; 2CH 35:7; EZR 6:17; EZR 10:19; NEH 3:1; NEH 3:32; NEH 5:18; NEH 10:37; NEH 12:39; JOB 1:3; JOB 1:16; JOB 21:11; JOB 24:2; JOB 30:1; JOB 39:8; JOB 42:12; PSA 8:8; PSA 23:1; PSA 44:12; PSA 44:23; PSA 49:15; PSA 50:9; PSA 50:13; PSA 65:14; PSA 66:15; PSA 74:1; PSA 77:21; PSA 78:52; PSA 78:70; PSA 79:13; PSA 80:2; PSA 95:7; PSA 100:3; PSA 107:41; PSA 114:4; PSA 114:6; PSA 119:176; PSA 144:13; PRO 27:23; PRO 27:26; PRO 27:27; PRO 30:31; ECC 2:7; ECC 12:11; SNG 1:7; SNG 1:8; SNG 4:1; SNG 4:2; SNG 6:5; SNG 6:6; ISA 1:11; ISA 7:21; ISA 7:25; ISA 13:14; ISA 13:20; ISA 17:2; ISA 22:13; ISA 31:4; ISA 32:14; ISA 34:6; ISA 38:12; ISA 40:11; ISA 43:23; ISA 44:28; ISA 49:9; ISA 53:6; ISA 53:7; ISA 56:11; ISA 60:7; ISA 61:5; ISA 63:11; ISA 65:10; ISA 66:3; JER 2:8; JER 3:15; JER 3:24; JER 5:17; JER 6:3; JER 10:21; JER 12:3; JER 12:10; JER 13:17; JER 13:20; JER 22:22; JER 23:1; JER 23:2; JER 23:3; JER 23:4; JER 25:34; JER 25:35; JER 25:36; JER 31:10; JER 31:12; JER 31:24; JER 33:12; JER 33:13; JER 43:12; JER 49:19; JER 49:20; JER 49:29; JER 50:6; JER 50:8; JER 50:17; JER 50:44; JER 50:45; JER 51:23; JER 51:40; LAM 1:6; EZK 24:5; EZK 25:5; EZK 27:21; EZK 34:2; EZK 34:3; EZK 34:5; EZK 34:6; EZK 34:7; EZK 34:8; EZK 34:9; EZK 34:10; EZK 34:11; EZK 34:12; EZK 34:14; EZK 34:15; EZK 34:17; EZK 34:18; EZK 34:19; EZK 34:20; EZK 34:22; EZK 34:23; EZK 34:31; EZK 36:37; EZK 36:38; EZK 37:24; EZK 39:18; EZK 43:22; EZK 43:23; EZK 43:25; EZK 45:15; EZK 45:23; DAN 8:5; DAN 8:8; DAN 8:21; HOS 5:6; JOL 1:18; AMO 1:2; AMO 3:12; AMO 6:4; AMO 7:15; JON 3:7; MIC 2:12; MIC 4:8; MIC 5:4; MIC 5:7; MIC 7:14; NAM 2:12; NAM 3:18; HAB 3:17; ZEP 2:6; ZEP 2:14; ZEC 9:16; ZEC 10:2; ZEC 10:3; ZEC 11:3; ZEC 11:4; ZEC 11:5; ZEC 11:7; ZEC 11:8; ZEC 11:11; ZEC 11:15; ZEC 11:16; ZEC 11:17; ZEC 13:7; MAL 1:14; MAT 2:6; MAT 9:36; MAT 25:32; MAT 26:31; MRK 6:34; MRK 14:27; MRK 16:18; LUK 2:8; LUK 2:15; LUK 2:18; LUK 2:20; LUK 12:32; LUK 17:7; JHN 10:2; JHN 10:11; JHN 10:12; JHN 10:14; JHN 10:16; JHN 21:16; ACT 20:28; ACT 20:29; 1CO 9:7; EPH 4:11; HEB 9:12; HEB 9:13; HEB 10:4; HEB 11:37; HEB 13:20; 1PE 2:25; 1PE 5:2; 1PE 5:3; 1PE 5:4; JUD 1:12; REV 7:17
+* GEN 4:2; GEN 4:4; GEN 12:16; GEN 13:5; GEN 13:7; GEN 13:8; GEN 15:9; GEN 20:14; GEN 21:27; GEN 21:28; GEN 24:35; GEN 26:14; GEN 26:20; GEN 27:9; GEN 27:16; GEN 29:2; GEN 29:3; GEN 29:6; GEN 29:7; GEN 29:8; GEN 29:9; GEN 29:10; GEN 30:31; GEN 30:32; GEN 30:33; GEN 30:35; GEN 30:36; GEN 30:39; GEN 30:40; GEN 30:41; GEN 30:42; GEN 30:43; GEN 31:4; GEN 31:8; GEN 31:10; GEN 31:12; GEN 31:19; GEN 31:38; GEN 31:41; GEN 31:43; GEN 32:6; GEN 32:8; GEN 32:15; GEN 32:17; GEN 32:20; GEN 33:13; GEN 34:28; GEN 37:2; GEN 37:12; GEN 37:14; GEN 37:31; GEN 38:12; GEN 38:13; GEN 38:17; GEN 38:20; GEN 45:10; GEN 46:32; GEN 46:34; GEN 47:1; GEN 47:3; GEN 47:4; GEN 47:17; GEN 48:15; GEN 49:24; GEN 50:8; EXO 2:16; EXO 2:17; EXO 2:19; EXO 3:1; EXO 9:3; EXO 10:9; EXO 10:24; EXO 12:5; EXO 12:21; EXO 12:32; EXO 12:38; EXO 20:24; EXO 21:37; EXO 22:29; EXO 34:3; LEV 1:2; LEV 1:10; LEV 3:6; LEV 3:12; LEV 4:23; LEV 4:24; LEV 4:28; LEV 5:6; LEV 5:15; LEV 5:18; LEV 5:25; LEV 7:23; LEV 9:3; LEV 9:15; LEV 10:16; LEV 16:5; LEV 16:7; LEV 16:8; LEV 16:9; LEV 16:10; LEV 16:15; LEV 16:18; LEV 16:20; LEV 16:21; LEV 16:22; LEV 16:26; LEV 16:27; LEV 17:3; LEV 22:19; LEV 22:21; LEV 22:27; LEV 23:19; LEV 27:32; NUM 7:16; NUM 7:17; NUM 7:22; NUM 7:23; NUM 7:28; NUM 7:29; NUM 7:34; NUM 7:35; NUM 7:40; NUM 7:41; NUM 7:46; NUM 7:47; NUM 7:52; NUM 7:53; NUM 7:58; NUM 7:59; NUM 7:64; NUM 7:65; NUM 7:70; NUM 7:71; NUM 7:76; NUM 7:77; NUM 7:82; NUM 7:83; NUM 7:87; NUM 7:88; NUM 11:22; NUM 14:33; NUM 15:3; NUM 15:11; NUM 15:24; NUM 15:27; NUM 18:17; NUM 22:40; NUM 27:17; NUM 28:15; NUM 28:22; NUM 28:30; NUM 29:5; NUM 29:11; NUM 29:16; NUM 29:19; NUM 29:22; NUM 29:25; NUM 29:28; NUM 29:31; NUM 29:34; NUM 29:38; NUM 31:28; NUM 31:30; NUM 31:32; NUM 31:36; NUM 31:37; NUM 31:43; NUM 32:16; NUM 32:24; NUM 32:36; DEU 7:13; DEU 8:13; DEU 12:6; DEU 12:17; DEU 12:21; DEU 14:4; DEU 14:23; DEU 14:26; DEU 15:14; DEU 15:19; DEU 16:2; DEU 18:4; DEU 28:4; DEU 28:18; DEU 28:31; DEU 28:51; DEU 32:14; JOS 7:24; JDG 5:16; JDG 6:19; JDG 13:15; JDG 13:19; JDG 15:1; 1SA 8:17; 1SA 14:32; 1SA 15:9; 1SA 15:14; 1SA 15:15; 1SA 15:21; 1SA 16:11; 1SA 16:19; 1SA 16:20; 1SA 17:15; 1SA 17:20; 1SA 17:28; 1SA 17:34; 1SA 17:40; 1SA 19:13; 1SA 19:16; 1SA 21:8; 1SA 24:4; 1SA 25:2; 1SA 25:4; 1SA 25:7; 1SA 25:16; 1SA 25:18; 1SA 27:9; 1SA 30:20; 2SA 7:8; 2SA 12:2; 2SA 12:4; 2SA 17:29; 2SA 24:17; 1KI 1:9; 1KI 1:19; 1KI 1:25; 1KI 5:3; 1KI 8:5; 1KI 8:63; 1KI 20:27; 1KI 22:17; 2KI 5:26; 1CH 4:39; 1CH 4:40; 1CH 4:41; 1CH 5:21; 1CH 12:41; 1CH 17:7; 1CH 21:17; 1CH 27:31; 2CH 5:6; 2CH 7:5; 2CH 14:14; 2CH 15:11; 2CH 17:11; 2CH 18:2; 2CH 18:16; 2CH 29:21; 2CH 29:23; 2CH 29:33; 2CH 30:24; 2CH 31:6; 2CH 32:28; 2CH 32:29; 2CH 35:7; EZR 6:17; EZR 10:19; NEH 5:18; NEH 10:37; JOB 1:3; JOB 1:16; JOB 21:11; JOB 24:2; JOB 30:1; JOB 39:8; JOB 42:12; PSA 8:8; PSA 23:1; PSA 44:12; PSA 44:23; PSA 49:15; PSA 50:9; PSA 50:13; PSA 65:14; PSA 66:15; PSA 74:1; PSA 77:21; PSA 78:52; PSA 78:70; PSA 79:13; PSA 80:2; PSA 95:7; PSA 100:3; PSA 107:41; PSA 114:4; PSA 114:6; PSA 144:13; PRO 27:23; PRO 27:26; PRO 27:27; PRO 30:31; ECC 2:7; ECC 12:11; SNG 1:7; SNG 1:8; SNG 4:1; SNG 4:2; SNG 6:5; SNG 6:6; ISA 1:11; ISA 7:21; ISA 13:14; ISA 13:20; ISA 17:2; ISA 22:13; ISA 31:4; ISA 32:14; ISA 34:6; ISA 38:12; ISA 40:11; ISA 44:28; ISA 49:9; ISA 53:6; ISA 56:11; ISA 60:7; ISA 61:5; ISA 63:11; ISA 65:10; JER 2:8; JER 3:15; JER 3:24; JER 5:17; JER 6:3; JER 10:21; JER 12:3; JER 12:10; JER 13:17; JER 13:20; JER 22:22; JER 23:1; JER 23:2; JER 23:3; JER 23:4; JER 25:34; JER 25:35; JER 25:36; JER 31:10; JER 31:12; JER 31:24; JER 33:12; JER 33:13; JER 43:12; JER 49:19; JER 49:29; JER 50:6; JER 50:8; JER 50:44; JER 51:23; JER 51:40; LAM 1:6; EZK 24:5; EZK 25:5; EZK 27:21; EZK 34:2; EZK 34:3; EZK 34:5; EZK 34:6; EZK 34:7; EZK 34:8; EZK 34:9; EZK 34:10; EZK 34:11; EZK 34:12; EZK 34:14; EZK 34:15; EZK 34:17; EZK 34:18; EZK 34:19; EZK 34:22; EZK 34:23; EZK 34:31; EZK 36:37; EZK 36:38; EZK 37:24; EZK 39:18; EZK 43:22; EZK 43:23; EZK 43:25; EZK 45:15; EZK 45:23; DAN 8:5; DAN 8:8; DAN 8:21; HOS 5:6; JOL 1:18; AMO 1:2; AMO 3:12; AMO 6:4; AMO 7:15; JON 3:7; MIC 2:12; MIC 5:4; MIC 5:7; MIC 7:14; NAM 2:12; NAM 3:18; HAB 3:17; ZEP 2:6; ZEP 2:14; ZEC 9:16; ZEC 10:2; ZEC 10:3; ZEC 11:3; ZEC 11:4; ZEC 11:5; ZEC 11:7; ZEC 11:8; ZEC 11:11; ZEC 11:15; ZEC 11:16; ZEC 11:17; ZEC 13:7; MAL 1:14; MAT 2:6; MAT 9:36; MAT 25:32; MAT 26:31; MRK 6:34; MRK 14:27; MRK 16:18; LUK 2:8; LUK 2:15; LUK 2:18; LUK 2:20; LUK 12:32; LUK 17:7; JHN 10:2; JHN 10:11; JHN 10:12; JHN 10:14; JHN 10:16; JHN 21:16; ACT 20:28; ACT 20:29; 1CO 9:7; EPH 4:11; HEB 9:12; HEB 9:13; HEB 10:4; HEB 11:37; HEB 13:20; 1PE 2:25; 1PE 5:2; 1PE 5:3; 1PE 5:4; JUD 1:12; REV 7:17
 
 
 

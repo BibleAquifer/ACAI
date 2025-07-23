@@ -1,0 +1,166 @@
+{
+  "id": "keyterm:NewMoonFestival",
+  "primary_id": "keyterm:NewMoonFestival",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "002145001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "New Moon Festival",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A special celebration by the Israelites held when the new moon first appears, marking the start of a new month."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "luna nueva"
+    },
+    "fra": {
+      "preferred_label": "néoménies"
+    },
+    "ind": {
+      "preferred_label": "pesta bulan baru"
+    },
+    "por": {
+      "preferred_label": "new moon festival"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֹדֶשׁ"
+    ]
+  },
+  "key_references": [
+    "09020005",
+    "19081004",
+    "26046001",
+    "26046006"
+  ],
+  "references": [
+    "09020005",
+    "09020018",
+    "09020024",
+    "09020027",
+    "09020034",
+    "12004023",
+    "13023031",
+    "14002003",
+    "14008013",
+    "14031003",
+    "15003005",
+    "16010034",
+    "19081004",
+    "23001013",
+    "23001014",
+    "23066023",
+    "26045017",
+    "26046001",
+    "26046003",
+    "26046006",
+    "28002013",
+    "28005007",
+    "30008005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090200050061"
+      ],
+      [
+        "o090200180051"
+      ],
+      [
+        "o090200240052"
+      ],
+      [
+        "o090200270032"
+      ],
+      [
+        "o090200340102"
+      ],
+      [
+        "o120040230101"
+      ],
+      [
+        "o130230310062"
+      ],
+      [
+        "o140020030203"
+      ],
+      [
+        "o140080130083"
+      ],
+      [
+        "o140310030113"
+      ],
+      [
+        "o150030050053"
+      ],
+      [
+        "o160100340082"
+      ],
+      [
+        "o190810040022"
+      ],
+      [
+        "o230010130101"
+      ],
+      [
+        "o230010140011",
+        "o230010140012"
+      ],
+      [
+        "o230660230031"
+      ],
+      [
+        "o230660230042",
+        "o230660230043"
+      ],
+      [
+        "o260450170083"
+      ],
+      [
+        "o260460010192"
+      ],
+      [
+        "o260460030083"
+      ],
+      [
+        "o260460060022"
+      ],
+      [
+        "o280020130051",
+        "o280020130052"
+      ],
+      [
+        "o280050070091"
+      ],
+      [
+        "o300080050042"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090200260062"
+      ],
+      [
+        "o230660230043"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o230010140051"
+      ]
+    ]
+  }
+}

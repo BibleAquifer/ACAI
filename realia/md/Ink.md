@@ -7,8 +7,6 @@ A dark liquid used for writing or marking (acai).
 2CO 3:3, 2JN 1:12, 3JN 1:13. 
 
 
-In the Old Testament (BSB), words representing “Ink” are translated as 
-*in ink* (1x). 
 
 
 In the New Testament (BSB), words representing “Ink” are translated as 
@@ -18,12 +16,6 @@ In the New Testament (BSB), words representing “Ink” are translated as
 Return to [Index](00-Index.md)
 
 ## More Information
-
-### OT Instances (BSB)
-
-* in ink (JER 36:18)
-
-
 
 ### NT Instances (BSB)
 
@@ -35,7 +27,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* JER 36:18; 2CO 3:3; 2JN 1:12; 3JN 1:13
+* 2CO 3:3; 2JN 1:12; 3JN 1:13
 
 
 

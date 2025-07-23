@@ -1,0 +1,37 @@
+{
+  "id": "keyterm:UnableToHear",
+  "primary_id": "keyterm:UnableToHear",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Unable to Hear",
+      "alternate_labels": [
+        "Unwilling to Hear"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Not listening or not willing to listen, like having ears that do not hear well."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עָרֵל"
+    ]
+  },
+  "references": [
+    "24006010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240060100071"
+      ]
+    ]
+  }
+}

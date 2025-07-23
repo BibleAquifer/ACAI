@@ -9,7 +9,7 @@ EXO 16:31, NUM 11:7.
 
 
 In the Old Testament (BSB), words representing “Coriander” are translated as 
-*seed-bearing* (3x), *with seed* (2x), *seed* (8x), *is seed* (1x), *seed for* (1x), *like coriander seed* (1x), *the seed* (1x), *your seed* (3x), *to the seed required for it fifty shekels* (1x), *whether from the seed* (1x), *resembled coriander seed* (1x), *of grain* (1x), *and his seed* (1x), *the produce* (1x), *both the crop* (1x), *of your grain* (1x), *of seed* (3x), *your grain* (1x), *came the grain* (1x), *for the seed* (1x), *with the seed* (1x), *and* (1x), *crops* (1x), *some of the seed* (1x), *it in fertile* (1x), *The mountains* (1x). 
+*like coriander* (1x), *resembled coriander* (1x), *seed-bearing* (3x), *with seed* (2x), *seed* (10x), *is seed* (1x), *seed for* (1x), *the seed* (1x), *your seed* (3x), *to the seed required for it fifty shekels* (1x), ** (1x), *whether from the seed* (1x), *of grain* (1x), *and his seed* (1x), *the produce* (1x), *both the crop* (1x), *of your grain* (1x), *of seed* (3x), *your grain* (1x), *came the grain* (1x), *for the seed* (1x), *with the seed* (1x), *and* (1x), *crops* (1x), *some of the seed* (1x), *it in fertile* (1x), *The mountains* (1x). 
 
 
 
@@ -20,17 +20,19 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
+* like coriander (EXO 16:31)
+
+* resembled coriander (NUM 11:7)
+
 * seed-bearing (GEN 1:11; GEN 1:12; GEN 1:29)
 
 * with seed (GEN 1:11; GEN 1:12)
 
-* seed (GEN 1:29; GEN 47:19; LEV 11:37; DEU 28:38; ISA 55:10; JER 2:21; JER 35:7; HAG 2:19)
+* seed (GEN 1:29; GEN 47:19; EXO 16:31; LEV 11:37; NUM 11:7; DEU 28:38; ISA 55:10; JER 2:21; JER 35:7; HAG 2:19)
 
 * is seed (GEN 47:23)
 
 * seed for (GEN 47:24)
-
-* like coriander seed (EXO 16:31)
 
 * the seed (LEV 11:38)
 
@@ -38,9 +40,9 @@ Return to [Index](00-Index.md)
 
 * to the seed required for it fifty shekels (LEV 27:16)
 
-* whether from the seed (LEV 27:30)
+*  (LEV 27:16)
 
-* resembled coriander seed (NUM 11:7)
+* whether from the seed (LEV 27:30)
 
 * of grain (NUM 20:5)
 

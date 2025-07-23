@@ -1,0 +1,84 @@
+{
+  "id": "keyterm:Property",
+  "primary_id": "keyterm:DailyLife",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "57.18"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Property",
+      "alternate_labels": [
+        "Means"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Things that a person owns and uses to live and take care of their needs."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "biens"
+    },
+    "ind": {
+      "preferred_label": "harta"
+    },
+    "por-Br": {
+      "preferred_label": "propriedade"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:DailyLife"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βίος"
+    ]
+  },
+  "key_references": [
+    "41012044",
+    "42021004",
+    "62003017"
+  ],
+  "references": [
+    "41012044",
+    "42015012",
+    "42015030",
+    "42021004",
+    "62002016",
+    "62003017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41012044020"
+      ],
+      [
+        "n42015012021"
+      ],
+      [
+        "n42015030011"
+      ],
+      [
+        "n42021004020"
+      ],
+      [
+        "n62002016020"
+      ],
+      [
+        "n62003017006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42021004021"
+      ]
+    ]
+  }
+}

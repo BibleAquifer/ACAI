@@ -8,7 +8,7 @@ A metal covering for the head used by soldiers for protection in battle (acai).
 
 
 In the Old Testament (BSB), words representing “Helmet” are translated as 
-*helmet* (2x), *helmets* (1x), *is My helmet* (2x), *and the helmet* (1x), *with helmets on Polish* (1x), *and helmet* (1x), *and helmets* (2x). 
+*helmet* (2x), *helmets* (1x), *and the helmet* (1x), *with helmets on Polish* (1x), *and helmets* (2x), *is My helmet* (2x), *and helmet* (1x). 
 
 
 In the New Testament (BSB), words representing “Helmet” are translated as 
@@ -25,15 +25,15 @@ Return to [Index](00-Index.md)
 
 * helmets (2CH 26:14)
 
-* is My helmet (PSA 60:9; PSA 108:9)
-
 * and the helmet (ISA 59:17)
 
 * with helmets on Polish (JER 46:4)
 
-* and helmet (EZK 23:24)
-
 * and helmets (EZK 27:10; EZK 38:5)
+
+* is My helmet (PSA 60:9; PSA 108:9)
+
+* and helmet (EZK 23:24)
 
 
 

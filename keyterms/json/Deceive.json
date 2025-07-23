@@ -1,0 +1,95 @@
+{
+  "id": "keyterm:Deceive",
+  "primary_id": "keyterm:Deceit",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "006815002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Deceive",
+      "alternate_labels": [
+        "Betray"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To make someone believe something false or to trick them on purpose."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "engañar"
+    },
+    "fra": {
+      "preferred_label": "tromper"
+    },
+    "ind": {
+      "preferred_label": "menipu"
+    },
+    "por": {
+      "preferred_label": "deceit"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Deceit"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "רמה"
+    ]
+  },
+  "key_references": [
+    "01029025",
+    "06009022",
+    "09019017",
+    "20026019"
+  ],
+  "references": [
+    "01029025",
+    "06009022",
+    "09019017",
+    "09028012",
+    "10019027",
+    "13012018",
+    "20026019",
+    "25001019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010290250181",
+        "o010290250182"
+      ],
+      [
+        "o060090220081"
+      ],
+      [
+        "o090190170071",
+        "o090190170072"
+      ],
+      [
+        "o090280120141",
+        "o090280120142"
+      ],
+      [
+        "o100190270051",
+        "o100190270052"
+      ],
+      [
+        "o130120180182",
+        "o130120180183"
+      ],
+      [
+        "o200260190031"
+      ],
+      [
+        "o250010190041",
+        "o250010190042"
+      ]
+    ]
+  }
+}

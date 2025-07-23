@@ -1,0 +1,93 @@
+{
+  "id": "keyterm:WayOfTheLord",
+  "primary_id": "keyterm:TheWay",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "41.16",
+    "88.18",
+    "41.35"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Way of the Lord",
+      "alternate_labels": [
+        "Way of God"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The way God is and how God acts."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "chemin (de dieu)"
+    },
+    "ind": {
+      "preferred_label": "cara atau jalan allah"
+    },
+    "por-Br": {
+      "preferred_label": "maneira (do senhor"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:TheWay",
+    "keyterm:WayToLive"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὁδός"
+    ]
+  },
+  "key_references": [
+    "44018025",
+    "44018026",
+    "45011033",
+    "66015003"
+  ],
+  "references": [
+    "40022016",
+    "41012014",
+    "42020021",
+    "44013010",
+    "44018025",
+    "44018026",
+    "45011033",
+    "58003010",
+    "66015003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45011033017"
+      ],
+      [
+        "n66015003031"
+      ],
+      [
+        "n40022016018"
+      ],
+      [
+        "n41012014026"
+      ],
+      [
+        "n42020021020"
+      ],
+      [
+        "n44013010018"
+      ],
+      [
+        "n44018025005"
+      ],
+      [
+        "n44018026021"
+      ],
+      [
+        "n58003010019"
+      ]
+    ]
+  }
+}

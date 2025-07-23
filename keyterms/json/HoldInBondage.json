@@ -1,0 +1,95 @@
+{
+  "id": "keyterm:HoldInBondage",
+  "primary_id": "keyterm:EnticedToServe",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "005186001007000",
+    "005186001003000",
+    "005186001002000",
+    "005186001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hold in Bondage",
+      "alternate_labels": [
+        "Enslave"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To keep someone as a slave or under strict control."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "hacer servir"
+    },
+    "fra": {
+      "preferred_label": "tenir dans les liens"
+    },
+    "ind": {
+      "preferred_label": "memperbudak"
+    },
+    "por": {
+      "preferred_label": "hold in bondage"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:EnticedToServe"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עבד"
+    ]
+  },
+  "key_references": [
+    "02001013",
+    "02006005",
+    "23043023",
+    "24017004"
+  ],
+  "references": [
+    "02001013",
+    "02006005",
+    "14002017",
+    "14034033",
+    "23043023",
+    "23043024",
+    "24017004",
+    "26029018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020010130012"
+      ],
+      [
+        "o020060050101"
+      ],
+      [
+        "o140020170152"
+      ],
+      [
+        "o140340330162"
+      ],
+      [
+        "o230430230101",
+        "o230430230102"
+      ],
+      [
+        "o230430240111",
+        "o230430240112"
+      ],
+      [
+        "o240170040072",
+        "o240170040073"
+      ],
+      [
+        "o260290180281"
+      ]
+    ]
+  }
+}

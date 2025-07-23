@@ -1,0 +1,90 @@
+{
+  "id": "keyterm:Purification",
+  "primary_id": "keyterm:Pure",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "53.30",
+    "88.30"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Purification",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The process of becoming clean and acceptable by following special rules."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "purificación"
+    },
+    "fra": {
+      "preferred_label": "purification (rituelle)"
+    },
+    "ind": {
+      "preferred_label": "pentahiran"
+    },
+    "por": {
+      "preferred_label": "purificação"
+    },
+    "por-Br": {
+      "preferred_label": "purificação"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Pure",
+    "keyterm:Purify"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἁγνισμός",
+      "ἁγνίζω"
+    ]
+  },
+  "key_references": [
+    "44021024",
+    "59004008",
+    "60001022"
+  ],
+  "references": [
+    "43011055",
+    "44021024",
+    "44021026",
+    "44024018",
+    "59004008",
+    "60001022",
+    "62003003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44021026023"
+      ],
+      [
+        "n43011055020"
+      ],
+      [
+        "n44021024003"
+      ],
+      [
+        "n44021026012"
+      ],
+      [
+        "n44024018005"
+      ],
+      [
+        "n59004008011"
+      ],
+      [
+        "n60001022004"
+      ],
+      [
+        "n62003003010"
+      ]
+    ]
+  }
+}

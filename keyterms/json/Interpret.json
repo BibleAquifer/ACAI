@@ -1,0 +1,165 @@
+{
+  "id": "keyterm:Interpret",
+  "primary_id": "keyterm:Interpret",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "27.45",
+    "30.114",
+    "73.3"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Interpret",
+      "alternate_labels": [
+        "Examine",
+        "Test",
+        "Judge to Be Genuine",
+        "Approve"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To carefully examine something to understand it well and decide if it is real or true."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "discernir"
+    },
+    "fra": {
+      "preferred_label": "tester"
+    },
+    "ind": {
+      "preferred_label": "menilai"
+    },
+    "por": {
+      "preferred_label": "discernir"
+    },
+    "por-Br": {
+      "preferred_label": "provar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Testing"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δοκιμάζω",
+      "δοκιμιον"
+    ]
+  },
+  "key_references": [
+    "45012002",
+    "46003013",
+    "47013005",
+    "59001003"
+  ],
+  "references": [
+    "42012056",
+    "42014019",
+    "45002018",
+    "45012002",
+    "45014022",
+    "46003013",
+    "46011028",
+    "46016003",
+    "47008008",
+    "47013005",
+    "48006004",
+    "49005010",
+    "50001010",
+    "52002004",
+    "52005021",
+    "54003010",
+    "59001003",
+    "60001007",
+    "62004001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42012056010"
+      ],
+      [
+        "n42014019010"
+      ],
+      [
+        "n45002018006"
+      ],
+      [
+        "n45012002015"
+      ],
+      [
+        "n45014022018"
+      ],
+      [
+        "n46003013023"
+      ],
+      [
+        "n46011028001"
+      ],
+      [
+        "n46016003006"
+      ],
+      [
+        "n47008008016"
+      ],
+      [
+        "n47013005009"
+      ],
+      [
+        "n48006004005"
+      ],
+      [
+        "n49005010001"
+      ],
+      [
+        "n50001010003"
+      ],
+      [
+        "n52002004003"
+      ],
+      [
+        "n52002004019"
+      ],
+      [
+        "n52005021003"
+      ],
+      [
+        "n54003010004"
+      ],
+      [
+        "n60001007014"
+      ],
+      [
+        "n62004001007"
+      ],
+      [
+        "n59001003004"
+      ],
+      [
+        "n60001007003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n46016003009"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n46016003011"
+      ],
+      [
+        "n46016004010"
+      ]
+    ]
+  }
+}

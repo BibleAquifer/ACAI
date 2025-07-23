@@ -6,7 +6,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Bier” are translated as 
-*in a coffin* (1x), *the funeral bier* (1x), *chest* (2x), *in the chest* (2x), *the chest* (2x), *carriage* (1x). 
+*in a coffin* (1x), *chest* (2x), *in the chest* (2x), *the chest* (2x), *the funeral bier* (1x), *carriage* (1x). 
 
 
 In the New Testament (BSB), words representing “Bier” are translated as 
@@ -21,13 +21,13 @@ Return to [Index](00-Index.md)
 
 * in a coffin (GEN 50:26)
 
-* the funeral bier (2SA 3:31)
-
 * chest (2KI 12:10; 2CH 24:8)
 
 * in the chest (2KI 12:11; 2CH 24:10)
 
 * the chest (2CH 24:11; 2CH 24:11)
+
+* the funeral bier (2SA 3:31)
 
 * carriage (SNG 3:7)
 

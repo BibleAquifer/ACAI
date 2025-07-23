@@ -1,0 +1,63 @@
+{
+  "id": "keyterm:ServeAsAPriest",
+  "primary_id": "keyterm:Priesthood",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.85"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Serve as a Priest",
+      "alternate_labels": [
+        "Be a Priest"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To perform religious duties and lead worship as a priest."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "oficiar como sacerdote"
+    },
+    "fra": {
+      "preferred_label": "servir comme prêtre"
+    },
+    "ind": {
+      "preferred_label": "melakukan tugas keimaman"
+    },
+    "por": {
+      "preferred_label": "oficiar como sacerdote"
+    },
+    "por-Br": {
+      "preferred_label": "servir como sacerdote"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Priesthood"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἱερατεύω",
+      "ἱερουργέω"
+    ]
+  },
+  "references": [
+    "42001008",
+    "45015016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42001008005"
+      ],
+      [
+        "n45015016011"
+      ]
+    ]
+  }
+}

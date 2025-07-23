@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:SentenceOfCondemnation",
+  "primary_id": "keyterm:Condemn",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "56.31"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sentence of Condemnation",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "An official decision that someone is guilty and must be punished."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "condenación"
+    },
+    "fra": {
+      "preferred_label": "sentence"
+    },
+    "ind": {
+      "preferred_label": "hukuman"
+    },
+    "por": {
+      "preferred_label": "condenação"
+    },
+    "por-Br": {
+      "preferred_label": "sentença de condenação"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Condemn"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "καταδίκη"
+    ]
+  },
+  "references": [
+    "44025015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44025015018"
+      ]
+    ]
+  }
+}

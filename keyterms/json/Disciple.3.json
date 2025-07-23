@@ -1,0 +1,78 @@
+{
+  "id": "keyterm:Disciple.3",
+  "primary_id": "keyterm:Disciple",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "36.41"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Disciple (Female)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A woman who follows and learns from a teacher or leader."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "discípula"
+    },
+    "fra": {
+      "preferred_label": "femme disciple"
+    },
+    "ind": {
+      "preferred_label": "murid perempuan"
+    },
+    "por": {
+      "preferred_label": "discípula"
+    },
+    "por-Br": {
+      "preferred_label": "discípula"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Disciple"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μαθήτρια"
+    ]
+  },
+  "references": [
+    "44009036"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44009036006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44009036013"
+      ],
+      [
+        "n44009037008"
+      ],
+      [
+        "n44009037013"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44009036021"
+      ],
+      [
+        "n44009037007"
+      ]
+    ]
+  }
+}

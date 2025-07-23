@@ -21,23 +21,22 @@
   ],
   "localizations": {
     "eng": {
-      "preferred_label": "Gilgal (near Shechem)",
+      "preferred_label": "Gilgal (near Jericho)",
       "alternate_labels": [
         "Gilgal"
       ],
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Gilgal.4",
-          "gloss": "Gilgal (near Shechem)",
-          "description": "A location close to Shechem and the Oak of Moreh."
+          "article": "place:Gilgal.1",
+          "gloss": "Gilgal (near Jericho)",
+          "description": "A town close to Jericho where the Israelites first camped after crossing the Jordan River and set up twelve stones as a monument; it later became the location of a cultic center."
         }
       ]
     }
   },
   "nearby_places": [
-    "place:Shechem",
-    "place:Moreh"
+    "place:Jericho"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -50,7 +49,7 @@
       "settlement"
     ],
     "acai": [
-      "settlement"
+      "town"
     ]
   },
   "geocoordinates": {
@@ -68,7 +67,9 @@
     }
   },
   "key_references": [
-    "05011030"
+    "06004019",
+    "09007017",
+    "06004020"
   ],
   "references": [
     "12002001",

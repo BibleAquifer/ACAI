@@ -1,0 +1,86 @@
+{
+  "id": "keyterm:BringIn",
+  "primary_id": "keyterm:BringIn",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "90.93",
+    "15.194"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bring In (Carry)",
+      "alternate_labels": [
+        "Carry In",
+        "Cause To",
+        "Bring in To",
+        "Lead To"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To carry or lead something or someone into a place or situation."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "llevar a"
+    },
+    "fra": {
+      "preferred_label": "conduis"
+    },
+    "ind": {
+      "preferred_label": "membawa masuk"
+    },
+    "por-Br": {
+      "preferred_label": "trazer"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "εἰσφερω"
+    ]
+  },
+  "key_references": [
+    "40006013",
+    "42005018",
+    "42005019",
+    "58013011"
+  ],
+  "references": [
+    "40006013",
+    "42005018",
+    "42005019",
+    "42011004",
+    "42012011",
+    "54006007",
+    "58013011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40006013003"
+      ],
+      [
+        "n42005018014"
+      ],
+      [
+        "n42005019005"
+      ],
+      [
+        "n42011004016"
+      ],
+      [
+        "n42012011003"
+      ],
+      [
+        "n54006007003"
+      ],
+      [
+        "n58013011003"
+      ]
+    ]
+  }
+}

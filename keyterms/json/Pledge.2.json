@@ -1,0 +1,114 @@
+{
+  "id": "keyterm:Pledge.2",
+  "primary_id": "keyterm:Promise",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "000580001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Pledge",
+      "alternate_labels": [
+        "Promise"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A firm promise to do something or to keep a commitment."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "compromiso"
+    },
+    "fra": {
+      "preferred_label": "serment"
+    },
+    "ind": {
+      "preferred_label": "nazar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Pledge",
+    "keyterm:Promise"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אִסָּר"
+    ]
+  },
+  "key_references": [
+    "04030003",
+    "04030006",
+    "04030014"
+  ],
+  "references": [
+    "04030003",
+    "04030004",
+    "04030005",
+    "04030006",
+    "04030008",
+    "04030011",
+    "04030012",
+    "04030013",
+    "04030014",
+    "04030015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040300030101"
+      ],
+      [
+        "o040300040071"
+      ],
+      [
+        "o040300050052",
+        "o040300050053"
+      ],
+      [
+        "o040300050171"
+      ],
+      [
+        "o040300060092",
+        "o040300060093"
+      ],
+      [
+        "o040300080092",
+        "o040300080093"
+      ],
+      [
+        "o040300110071"
+      ],
+      [
+        "o040300120121"
+      ],
+      [
+        "o040300130123"
+      ],
+      [
+        "o040300140051"
+      ],
+      [
+        "o040300150161",
+        "o040300150162"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o040300130042"
+      ],
+      [
+        "o040300150202"
+      ],
+      [
+        "o040300160042"
+      ]
+    ]
+  }
+}

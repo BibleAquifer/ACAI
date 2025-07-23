@@ -1,0 +1,71 @@
+{
+  "id": "keyterm:Debt",
+  "primary_id": "keyterm:Debt",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "57.221",
+    "71.26",
+    "71.24"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Debt",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Something that a person must pay back or give to someone else."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "deuda"
+    },
+    "fra": {
+      "preferred_label": "dette"
+    },
+    "ind": {
+      "preferred_label": "utang"
+    },
+    "por": {
+      "preferred_label": "dívida"
+    },
+    "por-Br": {
+      "preferred_label": "dívida"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Obligation",
+    "keyterm:WhatOneShouldDo"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὀφειλή",
+      "ὀφείλημα"
+    ]
+  },
+  "references": [
+    "40018032",
+    "45004004",
+    "45013007",
+    "46007003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40018032013"
+      ],
+      [
+        "n45004004012"
+      ],
+      [
+        "n45013007004"
+      ],
+      [
+        "n46007003006"
+      ]
+    ]
+  }
+}

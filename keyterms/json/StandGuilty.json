@@ -1,0 +1,96 @@
+{
+  "id": "keyterm:StandGuilty",
+  "primary_id": "keyterm:Sin",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "002211002003000",
+    "002211002002000",
+    "002211002005000",
+    "002211002004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Stand Guilty",
+      "alternate_labels": [
+        "To Be at Fault",
+        "To Bring Guilt Upon",
+        "To Bear the Blame for (A Specific Action)",
+        "To Take Responsibility for (The Loss)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To be responsible for doing something wrong against God or others, leading to guilt that may need to be fixed or made right."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "declararse culpable"
+    },
+    "fra": {
+      "preferred_label": "être coupable"
+    },
+    "ind": {
+      "preferred_label": "bersalah"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Sin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חטא"
+    ]
+  },
+  "key_references": [
+    "01031039",
+    "01044032",
+    "21005005",
+    "23029021"
+  ],
+  "references": [
+    "01031039",
+    "01043009",
+    "01044032",
+    "02005016",
+    "05024004",
+    "21005005",
+    "23029021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010310390061",
+        "o010310390062"
+      ],
+      [
+        "o010430090112"
+      ],
+      [
+        "o010440320132"
+      ],
+      [
+        "o020050160122"
+      ],
+      [
+        "o050240040211"
+      ],
+      [
+        "o210050050052"
+      ],
+      [
+        "o230290210011"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o210050050141"
+      ]
+    ]
+  }
+}

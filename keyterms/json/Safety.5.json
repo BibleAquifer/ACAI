@@ -1,0 +1,142 @@
+{
+  "id": "keyterm:Safety.5",
+  "primary_id": "keyterm:Safety",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "003668001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Safety (State)",
+      "alternate_labels": [
+        "Confidence",
+        "Trust"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A condition where you feel secure and confident that no harm will come to you."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "confianza"
+    },
+    "fra": {
+      "preferred_label": "securité"
+    },
+    "ind": {
+      "preferred_label": "keamanan"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Safety"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מִבְטָח"
+    ]
+  },
+  "key_references": [
+    "19071005",
+    "20014026",
+    "23032018",
+    "24017007"
+  ],
+  "references": [
+    "18008014",
+    "18018014",
+    "18031024",
+    "19040005",
+    "19065006",
+    "19071005",
+    "20014026",
+    "20021022",
+    "20022019",
+    "20025019",
+    "23032018",
+    "24002037",
+    "24017007",
+    "24048013",
+    "26029016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180080140061",
+        "o180080140062"
+      ],
+      [
+        "o180180140031",
+        "o180180140032"
+      ],
+      [
+        "o180310240071",
+        "o180310240072"
+      ],
+      [
+        "o190400050061",
+        "o190400050062"
+      ],
+      [
+        "o190650060061"
+      ],
+      [
+        "o190710050061",
+        "o190710050062"
+      ],
+      [
+        "o200140260031"
+      ],
+      [
+        "o200210220071",
+        "o200210220072"
+      ],
+      [
+        "o200220190031",
+        "o200220190032"
+      ],
+      [
+        "o200250190051"
+      ],
+      [
+        "o230320180061"
+      ],
+      [
+        "o240020370112",
+        "o240020370113"
+      ],
+      [
+        "o240170070081",
+        "o240170070082"
+      ],
+      [
+        "o240480130101",
+        "o240480130102"
+      ],
+      [
+        "o260290160062"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o240020370142"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o200250190061"
+      ],
+      [
+        "o260290160071"
+      ]
+    ]
+  }
+}

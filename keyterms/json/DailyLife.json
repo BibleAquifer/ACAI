@@ -1,0 +1,118 @@
+{
+  "id": "keyterm:DailyLife",
+  "primary_id": "keyterm:DailyLife",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "41.18",
+    "57.18"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Daily Life",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The regular activities and behavior people do each day."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "vie quotidienne"
+    },
+    "ind": {
+      "preferred_label": "hidup"
+    },
+    "por-Br": {
+      "preferred_label": "vida diária"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Live",
+    "keyterm:MannerOfLife",
+    "keyterm:Property"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βίος",
+      "βιόω",
+      "βίωσις"
+    ]
+  },
+  "key_references": [
+    "42008014",
+    "42015012",
+    "54002002",
+    "62002016"
+  ],
+  "references": [
+    "41012044",
+    "42008014",
+    "42008043",
+    "42015012",
+    "42015030",
+    "42021004",
+    "44026004",
+    "54002002",
+    "55002004",
+    "60004002",
+    "62002016",
+    "62003017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42008014019"
+      ],
+      [
+        "n55002004006"
+      ],
+      [
+        "n42008043015"
+      ],
+      [
+        "n54002002013"
+      ],
+      [
+        "n60004002013"
+      ],
+      [
+        "n44026004004"
+      ],
+      [
+        "n41012044020"
+      ],
+      [
+        "n42015012021"
+      ],
+      [
+        "n42015030011"
+      ],
+      [
+        "n42021004020"
+      ],
+      [
+        "n62002016020"
+      ],
+      [
+        "n62003017006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42021004021"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44026004012"
+      ]
+    ]
+  }
+}

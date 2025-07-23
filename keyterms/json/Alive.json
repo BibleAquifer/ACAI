@@ -1,0 +1,90 @@
+{
+  "id": "keyterm:Alive",
+  "primary_id": "keyterm:Alive",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "23.92",
+    "23.89"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Make Alive",
+      "alternate_labels": [
+        "Give Life"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To bring someone or something to life or keep them living."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "dar vida"
+    },
+    "fra": {
+      "preferred_label": "faire vivre"
+    },
+    "ind": {
+      "preferred_label": "menghidupkan"
+    },
+    "por-Br": {
+      "preferred_label": "dar vida"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Preserve"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ζῳοποιέω",
+      "ζῳογονέω"
+    ]
+  },
+  "key_references": [
+    "43005021",
+    "45008011",
+    "47003006",
+    "54006013"
+  ],
+  "references": [
+    "42017033",
+    "43005021",
+    "45004017",
+    "45008011",
+    "46015036",
+    "47003006",
+    "54006013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43005021009"
+      ],
+      [
+        "n43005021016"
+      ],
+      [
+        "n45004017014"
+      ],
+      [
+        "n45008011020"
+      ],
+      [
+        "n46015036006"
+      ],
+      [
+        "n47003006019"
+      ],
+      [
+        "n42017033014"
+      ],
+      [
+        "n54006013007"
+      ]
+    ]
+  }
+}

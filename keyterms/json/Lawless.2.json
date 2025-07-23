@@ -1,0 +1,114 @@
+{
+  "id": "keyterm:Lawless.2",
+  "primary_id": "keyterm:Lawless",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.140",
+    "11.42",
+    "33.57"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lawless",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Living without following the rules and not obeying laws."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "malfaiteur"
+    },
+    "ind": {
+      "preferred_label": "pemberontak"
+    },
+    "por-Br": {
+      "preferred_label": "sem lei"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Lawless",
+    "keyterm:WithoutTheLaw"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἄνομος",
+      "ἀνόμως"
+    ]
+  },
+  "key_references": [
+    "45002012",
+    "54001009",
+    "61002008"
+  ],
+  "references": [
+    "42022037",
+    "44002023",
+    "45002012",
+    "46009021",
+    "53002008",
+    "54001009",
+    "61002008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42022037015"
+      ],
+      [
+        "n44002023012"
+      ],
+      [
+        "n46009021007"
+      ],
+      [
+        "n53002008005"
+      ],
+      [
+        "n54001009008"
+      ],
+      [
+        "n61002008015"
+      ],
+      [
+        "n45002012003"
+      ],
+      [
+        "n45002012005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n53002008006"
+      ],
+      [
+        "n53002009001"
+      ],
+      [
+        "n53002010019"
+      ],
+      [
+        "n53002011005"
+      ],
+      [
+        "n53002011013"
+      ],
+      [
+        "n54001009002"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n53002010015"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "keyterm:Merciful",
+  "primary_id": "keyterm:Mercy",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.77"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Merciful",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing kindness and care to people who are suffering or in need."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "misericordioso"
+    },
+    "fra": {
+      "preferred_label": "compatissant"
+    },
+    "ind": {
+      "preferred_label": "murah hati"
+    },
+    "por": {
+      "preferred_label": "misericordioso"
+    },
+    "por-Br": {
+      "preferred_label": "misericordioso"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Mercy"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐλεήμων",
+      "ἵλεως"
+    ]
+  },
+  "references": [
+    "40005007",
+    "58002017",
+    "58008012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40005007003"
+      ],
+      [
+        "n58002017009"
+      ],
+      [
+        "n58008012002"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40005007005"
+      ]
+    ]
+  }
+}

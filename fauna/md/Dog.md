@@ -13,11 +13,11 @@ JDG 7:5, MAT 15:26, LUK 16:21.
 
 
 In the Old Testament (BSB), words representing “Dog” are translated as 
-*even a dog* (1x), *to the dogs* (1x), *or male* (1x), *a dog* (3x), *dog* (4x), *of a dog* (1x), *by dogs* (3x), *dogs licked* (1x), *also the dogs will* (1x), *The dogs* (1x), *and the dogs* (1x), *a mere dog* (1x), *the dogs* (3x), ** (1x), *dogs* (2x), *of wild dogs* (1x), *like dogs* (2x), *of your dogs* (1x), *As a dog* (1x), *Like ravenous dogs* (1x), *is like one who breaks a dog’s* (1x). 
+*even a dog* (1x), *to the dogs* (1x), *a dog* (3x), *dog* (4x), *of a dog* (1x), *by dogs* (3x), *dogs licked* (1x), *also the dogs will* (1x), *The dogs* (1x), *and the dogs* (1x), *a mere dog* (1x), *the dogs* (3x), ** (1x), *dogs* (2x), *of wild dogs* (1x), *like dogs* (2x), *of your dogs* (1x), *As a dog* (1x), *Like ravenous dogs* (1x), *is like one who breaks a dog’s* (1x). 
 
 
 In the New Testament (BSB), words representing “Dog” are translated as 
-*dogs* (8x), *A dog* (1x). 
+*dogs* (6x), *A dog* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -29,8 +29,6 @@ Return to [Index](00-Index.md)
 * even a dog (EXO 11:7)
 
 * to the dogs (EXO 22:30)
-
-* or male (DEU 23:19)
 
 * a dog (JDG 7:5; 1SA 17:43; PRO 26:17)
 
@@ -72,7 +70,7 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* dogs (MAT 7:6; MAT 15:26; MAT 15:27; MRK 7:27; MRK 7:28; LUK 16:21; PHP 3:2; REV 22:15)
+* dogs (MAT 15:26; MAT 15:27; MRK 7:27; MRK 7:28; MAT 7:6; LUK 16:21)
 
 * A dog (2PE 2:22)
 
@@ -100,7 +98,7 @@ Return to [Index](00-Index.md)
 
 ### NT Pronominal Referents (BSB)
 
-* their (MAT 7:6; MAT 15:27)
+* their (MAT 15:27; MAT 7:6)
 
 * its (2PE 2:22)
 
@@ -122,7 +120,9 @@ Return to [Index](00-Index.md)
 
 * satisfied (ISA 56:11)
 
-* with discernment (ISA 56:11)
+* with (ISA 56:11)
+
+* discernment (ISA 56:11)
 
 * let me get (ISA 56:12)
 
@@ -136,7 +136,9 @@ Return to [Index](00-Index.md)
 
 * they may trample (MAT 7:6)
 
-* then turn and tear you to pieces (MAT 7:6)
+* then turn and (MAT 7:6)
+
+* tear you to pieces (MAT 7:6)
 
 * came (LUK 16:21)
 
@@ -144,7 +146,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* EXO 11:7; EXO 22:30; DEU 23:19; JDG 7:5; 1SA 17:43; 1SA 24:15; 2SA 3:8; 2SA 9:8; 2SA 16:9; 1KI 14:11; 1KI 16:4; 1KI 21:19; 1KI 21:23; 1KI 21:24; 1KI 22:38; 2KI 8:13; 2KI 9:10; 2KI 9:36; JOB 30:1; PSA 22:17; PSA 22:21; PSA 59:7; PSA 59:15; PSA 68:24; PRO 26:11; PRO 26:17; ECC 9:4; ISA 56:10; ISA 56:11; ISA 66:3; JER 15:3; MAT 7:6; MAT 15:26; MAT 15:27; MRK 7:27; MRK 7:28; MRK 16:18; LUK 16:21; PHP 3:2; 2PE 2:22; REV 22:15
+* EXO 11:7; EXO 22:30; JDG 7:5; 1SA 17:43; 1SA 24:15; 2SA 3:8; 2SA 9:8; 2SA 16:9; 1KI 14:11; 1KI 16:4; 1KI 21:19; 1KI 21:23; 1KI 21:24; 1KI 22:38; 2KI 8:13; 2KI 9:10; 2KI 9:36; JOB 30:1; PSA 22:17; PSA 22:21; PSA 59:7; PSA 59:15; PSA 68:24; PRO 26:11; PRO 26:17; ECC 9:4; ISA 56:10; ISA 56:11; ISA 66:3; JER 15:3; MAT 7:6; MAT 15:26; MAT 15:27; MRK 7:27; MRK 7:28; MRK 16:18; LUK 16:21; 2PE 2:22
 
 
 

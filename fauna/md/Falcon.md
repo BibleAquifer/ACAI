@@ -11,7 +11,7 @@ LEV 11:14, LEV 11:16, JOB 39:26.
 
 
 In the Old Testament (BSB), words representing “Falcon” are translated as 
-*of falcon* (1x), *of hawk* (2x), *the falcon* (1x), *falcon’s* (1x), *Does the hawk* (1x). 
+*of falcon* (1x), *the falcon* (1x), *falcon’s* (1x), *of hawk* (2x), *Does the hawk* (1x). 
 
 
 
@@ -24,11 +24,11 @@ Return to [Index](00-Index.md)
 
 * of falcon (LEV 11:14)
 
-* of hawk (LEV 11:16; DEU 14:15)
-
 * the falcon (DEU 14:13)
 
 * falcon’s (JOB 28:7)
+
+* of hawk (LEV 11:16; DEU 14:15)
 
 * Does the hawk (JOB 39:26)
 

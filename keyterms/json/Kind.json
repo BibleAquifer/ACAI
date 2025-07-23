@@ -1,0 +1,111 @@
+{
+  "id": "keyterm:Kind",
+  "primary_id": "keyterm:Kindness",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.67",
+    "88.10"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Be Kind",
+      "alternate_labels": [
+        "Act Kindly"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To do something good and helpful for someone else out of kindness."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "actuar con bondad"
+    },
+    "fra": {
+      "preferred_label": "être aimable"
+    },
+    "ind": {
+      "preferred_label": "murah hati"
+    },
+    "por": {
+      "preferred_label": "agir com bondade"
+    },
+    "por-Br": {
+      "preferred_label": "agir com bondade"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Kindness"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χρηστεύομαι",
+      "χρηστότης"
+    ]
+  },
+  "key_references": [
+    "48005022",
+    "49002007",
+    "51003012",
+    "56003004"
+  ],
+  "references": [
+    "45002004",
+    "45003012",
+    "45011022",
+    "46013004",
+    "47006006",
+    "48005022",
+    "49002007",
+    "51003012",
+    "56003004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46013004004"
+      ],
+      [
+        "n45002004005"
+      ],
+      [
+        "n45003012008"
+      ],
+      [
+        "n45011022003"
+      ],
+      [
+        "n45011022015"
+      ],
+      [
+        "n45011022020"
+      ],
+      [
+        "n47006006008"
+      ],
+      [
+        "n48005022011"
+      ],
+      [
+        "n49002007015"
+      ],
+      [
+        "n51003012012"
+      ],
+      [
+        "n56003004004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n48005023005"
+      ]
+    ]
+  }
+}

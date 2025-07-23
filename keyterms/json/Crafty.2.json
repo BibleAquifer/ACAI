@@ -1,0 +1,89 @@
+{
+  "id": "keyterm:Crafty.2",
+  "primary_id": "keyterm:Crafty",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "005677002001000",
+    "005677002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Be Crafty",
+      "alternate_labels": [
+        "Prudent",
+        "Cunning"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To be clever and careful, using smart or tricky ways to achieve a goal."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "prudente"
+    },
+    "fra": {
+      "preferred_label": "s'amonceler"
+    },
+    "ind": {
+      "preferred_label": "cerdik"
+    },
+    "por": {
+      "preferred_label": "be (or: act) crafty"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Crafty"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "ערם"
+    ]
+  },
+  "key_references": [
+    "09023022",
+    "18005013",
+    "19083004"
+  ],
+  "references": [
+    "09023022",
+    "18005013",
+    "19083004",
+    "20015005",
+    "20019025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090230220181"
+      ],
+      [
+        "o090230220191"
+      ],
+      [
+        "o180050130032",
+        "o180050130033"
+      ],
+      [
+        "o190830040031"
+      ],
+      [
+        "o200150050071"
+      ],
+      [
+        "o200190250041"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o180050130032"
+      ]
+    ]
+  }
+}

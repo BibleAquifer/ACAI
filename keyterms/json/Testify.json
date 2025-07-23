@@ -1,0 +1,82 @@
+{
+  "id": "keyterm:Testify",
+  "primary_id": "keyterm:Declare",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "33.223",
+    "33.319"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Testify",
+      "alternate_labels": [
+        "Address Solemnly",
+        "Insist",
+        "Urge"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To speak seriously and firmly about something you know or believe to be true."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "testificar"
+    },
+    "fra": {
+      "preferred_label": "témoigner"
+    },
+    "ind": {
+      "preferred_label": "bersaksi"
+    },
+    "por": {
+      "preferred_label": "testemunhar"
+    },
+    "por-Br": {
+      "preferred_label": "testemunhar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Declare"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μαρτύρομαι"
+    ]
+  },
+  "key_references": [
+    "44020026",
+    "44026022",
+    "52002012"
+  ],
+  "references": [
+    "44020026",
+    "44026022",
+    "48005003",
+    "49004017",
+    "52002012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44020026002"
+      ],
+      [
+        "n44026022013"
+      ],
+      [
+        "n48005003001"
+      ],
+      [
+        "n49004017005"
+      ],
+      [
+        "n52002012006"
+      ]
+    ]
+  }
+}

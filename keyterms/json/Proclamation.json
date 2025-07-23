@@ -1,0 +1,94 @@
+{
+  "id": "keyterm:Proclamation",
+  "primary_id": "keyterm:Proclaim",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "33.258"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Proclamation",
+      "alternate_labels": [
+        "Preaching"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The message that is shared with others, often about God and what He wants."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "proclamación"
+    },
+    "fra": {
+      "preferred_label": "ce qui est prêché"
+    },
+    "ind": {
+      "preferred_label": "pemberitaan"
+    },
+    "por": {
+      "preferred_label": "proclamação"
+    },
+    "por-Br": {
+      "preferred_label": "proclamação"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Proclaim"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κήρυγμα"
+    ]
+  },
+  "key_references": [
+    "46001021",
+    "46015014",
+    "55004017"
+  ],
+  "references": [
+    "40012041",
+    "42011032",
+    "46001021",
+    "46002004",
+    "46015014",
+    "55004017",
+    "56001003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40012041018"
+      ],
+      [
+        "n42011032018"
+      ],
+      [
+        "n46001021024"
+      ],
+      [
+        "n46002004007"
+      ],
+      [
+        "n46015014009"
+      ],
+      [
+        "n55004017013"
+      ],
+      [
+        "n56001003009"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n56001003010"
+      ]
+    ]
+  }
+}

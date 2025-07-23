@@ -1,0 +1,145 @@
+{
+  "id": "keyterm:VoluntaryOffering",
+  "primary_id": "keyterm:Offering",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "004649001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Voluntary Offering",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A gift given freely to show love or thanks to God without being required."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "(ofrenda) voluntaria"
+    },
+    "fra": {
+      "preferred_label": "offrande volontaire"
+    },
+    "ind": {
+      "preferred_label": "pemberian sukarela"
+    },
+    "por": {
+      "preferred_label": "voluntary offering"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Offering"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נְדָבָה"
+    ]
+  },
+  "key_references": [
+    "02035029",
+    "03007016",
+    "04015003",
+    "15003005"
+  ],
+  "references": [
+    "02035029",
+    "02036003",
+    "03007016",
+    "03022018",
+    "03022021",
+    "03022023",
+    "03023038",
+    "04015003",
+    "04029039",
+    "05012006",
+    "05012017",
+    "05016010",
+    "14031014",
+    "15001004",
+    "15003005",
+    "15008028",
+    "19119108",
+    "26046012",
+    "30004005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020350290201"
+      ],
+      [
+        "o020360030201"
+      ],
+      [
+        "o030070160041"
+      ],
+      [
+        "o030220180251",
+        "o030220180252"
+      ],
+      [
+        "o030220210102"
+      ],
+      [
+        "o030220230051"
+      ],
+      [
+        "o030230380111",
+        "o030230380112"
+      ],
+      [
+        "o040150030102"
+      ],
+      [
+        "o040290390072",
+        "o040290390073"
+      ],
+      [
+        "o050120060112",
+        "o050120060113"
+      ],
+      [
+        "o050120170162",
+        "o050120170163"
+      ],
+      [
+        "o050160100071"
+      ],
+      [
+        "o140310140081"
+      ],
+      [
+        "o150010040172"
+      ],
+      [
+        "o150030050121"
+      ],
+      [
+        "o150080280101"
+      ],
+      [
+        "o191191080011"
+      ],
+      [
+        "o260460120041"
+      ],
+      [
+        "o260460120081"
+      ],
+      [
+        "o300040050051"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o050120180062"
+      ]
+    ]
+  }
+}

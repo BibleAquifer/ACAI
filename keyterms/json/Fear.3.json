@@ -1,0 +1,108 @@
+{
+  "id": "keyterm:Fear.3",
+  "primary_id": "keyterm:Fear",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "003809001001000",
+    "003809001002000",
+    "003809001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fear (Awe)",
+      "alternate_labels": [
+        "Awe"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A deep respect and wonder that makes someone feel small before God's greatness."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "temor"
+    },
+    "fra": {
+      "preferred_label": "crainte"
+    },
+    "ind": {
+      "preferred_label": "takut"
+    },
+    "por": {
+      "preferred_label": "fear"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Fear"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מוֹרָא"
+    ]
+  },
+  "key_references": [
+    "05004034",
+    "05011025",
+    "19076012",
+    "23008013"
+  ],
+  "references": [
+    "01009002",
+    "05004034",
+    "05011025",
+    "05026008",
+    "05034012",
+    "19076012",
+    "23008012",
+    "23008013",
+    "24032021",
+    "39001006",
+    "39002005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010090020012",
+        "o010090020013"
+      ],
+      [
+        "o050040340183"
+      ],
+      [
+        "o050110250062",
+        "o050110250063"
+      ],
+      [
+        "o050260080083"
+      ],
+      [
+        "o050340120052"
+      ],
+      [
+        "o190760120092"
+      ],
+      [
+        "o230080120111",
+        "o230080120112"
+      ],
+      [
+        "o230080130071",
+        "o230080130072"
+      ],
+      [
+        "o240320210143"
+      ],
+      [
+        "o390010060151",
+        "o390010060152"
+      ],
+      [
+        "o390020050081"
+      ]
+    ]
+  }
+}

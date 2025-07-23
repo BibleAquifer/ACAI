@@ -11,11 +11,11 @@ EXO 16:24, ISA 14:11, MRK 9:48.
 
 
 In the Old Testament (BSB), words representing “Worm” are translated as 
-*with maggots* (1x), *any maggots* (1x), *worms* (1x), *with worms* (1x), *and to the worm* (1x), *and worms* (2x), *the worm* (1x), *who is but a maggot* (1x), *who is but a worm* (1x), *am a worm* (1x), *Maggots* (1x), *you worm* (1x), *their worm* (1x), *a worm* (1x). 
+*any maggots* (1x), *with worms* (1x), *and to the worm* (1x), *and worms* (2x), *the worm* (1x), *who is but a maggot* (1x), *Maggots* (1x), *with maggots* (1x), *worms* (1x), *who is but a worm* (1x), *am a worm* (1x), *you worm* (1x), *their worm* (1x), *a worm* (1x). 
 
 
 In the New Testament (BSB), words representing “Worm” are translated as 
-*never* (1x), *eaten by worms* (1x). 
+*eaten by worms* (1x), *never* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -24,11 +24,7 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* with maggots (EXO 16:20)
-
 * any maggots (EXO 16:24)
-
-* worms (DEU 28:39)
 
 * with worms (JOB 7:5)
 
@@ -40,11 +36,15 @@ Return to [Index](00-Index.md)
 
 * who is but a maggot (JOB 25:6)
 
+* Maggots (ISA 14:11)
+
+* with maggots (EXO 16:20)
+
+* worms (DEU 28:39)
+
 * who is but a worm (JOB 25:6)
 
 * am a worm (PSA 22:7)
-
-* Maggots (ISA 14:11)
 
 * you worm (ISA 41:14)
 
@@ -56,9 +56,9 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* never (MRK 9:48)
-
 * eaten by worms (ACT 12:23)
+
+* never (MRK 9:48)
 
 
 

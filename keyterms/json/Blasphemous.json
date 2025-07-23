@@ -1,0 +1,70 @@
+{
+  "id": "keyterm:Blasphemous",
+  "primary_id": "keyterm:Blasphemous",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "33.402",
+    "33.403"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Blasphemous",
+      "alternate_labels": [
+        "Slanderous",
+        "Blasphemer",
+        "Slanderer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing disrespect or insulting God or others by speaking badly about them."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "blasfemo"
+    },
+    "fra": {
+      "preferred_label": "qui parle contre dieu"
+    },
+    "ind": {
+      "preferred_label": "hujat"
+    },
+    "por": {
+      "preferred_label": "blasfemo"
+    },
+    "por-Br": {
+      "preferred_label": "blasfemo"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βλάσφημος"
+    ]
+  },
+  "references": [
+    "44006011",
+    "54001013",
+    "55003002",
+    "61002011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44006011010"
+      ],
+      [
+        "n54001013004"
+      ],
+      [
+        "n55003002009"
+      ],
+      [
+        "n61002011012"
+      ]
+    ]
+  }
+}

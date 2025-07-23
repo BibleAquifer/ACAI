@@ -1,0 +1,50 @@
+{
+  "id": "keyterm:Redeemed",
+  "primary_id": "keyterm:Redeem",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "005780001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Let Be Redeemed",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To save a person or animal from death or slavery by giving something else instead."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "permitir rescatar"
+    },
+    "fra": {
+      "preferred_label": "laisser faire racheter"
+    },
+    "ind": {
+      "preferred_label": "membiarkan/mengizinkan (seseorang) ditebus"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Redeem"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "פדה"
+    ]
+  },
+  "references": [
+    "02021008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020210080092",
+        "o020210080093"
+      ]
+    ]
+  }
+}

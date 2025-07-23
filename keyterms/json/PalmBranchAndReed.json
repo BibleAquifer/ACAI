@@ -1,0 +1,52 @@
+{
+  "id": "keyterm:PalmBranchAndReed",
+  "primary_id": "keyterm:PalmBranchAndReed",
+  "alternate_sources": {
+    "ubsflora": [
+      "flora:2.5"
+    ]
+  },
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "003396001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Palm Branch and Reed",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A phrase that shows all kinds of people, from important to humble, using symbols of a strong palm branch and a weak reed."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "rameau et roseau"
+    },
+    "ind": {
+      "preferred_label": "cabang dan ranting kelapa, semua orang"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כִּפָּה וְאַגְמוֹן"
+    ]
+  },
+  "references": [
+    "23009013",
+    "23019015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230090130061"
+      ],
+      [
+        "o230190150091"
+      ]
+    ]
+  }
+}

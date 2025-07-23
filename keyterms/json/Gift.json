@@ -1,0 +1,58 @@
+{
+  "id": "keyterm:Gift",
+  "primary_id": "keyterm:Favor",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "57.103",
+    "88.66"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gift (Favor)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Something given freely and generously, showing kindness or favor without expecting anything in return."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "cadeau"
+    },
+    "ind": {
+      "preferred_label": "hadiah"
+    },
+    "por-Br": {
+      "preferred_label": "dádiva"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Favor"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χάρις"
+    ]
+  },
+  "references": [
+    "44024027",
+    "45004004",
+    "46016003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44024027012"
+      ],
+      [
+        "n45004004009"
+      ],
+      [
+        "n46016003013"
+      ]
+    ]
+  }
+}

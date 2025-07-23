@@ -1,0 +1,115 @@
+{
+  "id": "keyterm:Righteous",
+  "primary_id": "keyterm:Just",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "006128001004000",
+    "006128001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Make Righteous",
+      "alternate_labels": [
+        "Pronounce Just"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To declare someone as right or good before God."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "hacer justicia"
+    },
+    "fra": {
+      "preferred_label": "justifier"
+    },
+    "ind": {
+      "preferred_label": "membenarkan"
+    },
+    "por": {
+      "preferred_label": "make righteous"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Just"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צדק"
+    ]
+  },
+  "key_references": [
+    "02023007",
+    "11008032",
+    "19082003",
+    "23053011"
+  ],
+  "references": [
+    "02023007",
+    "05025001",
+    "10015004",
+    "11008032",
+    "14006023",
+    "18027005",
+    "19082003",
+    "20017015",
+    "23005023",
+    "23050008",
+    "23053011",
+    "27012003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020230070101"
+      ],
+      [
+        "o050250010102"
+      ],
+      [
+        "o100150040162",
+        "o100150040163"
+      ],
+      [
+        "o110080320133"
+      ],
+      [
+        "o140060230143"
+      ],
+      [
+        "o180270050041"
+      ],
+      [
+        "o190820030061"
+      ],
+      [
+        "o200170150011"
+      ],
+      [
+        "o230050230011"
+      ],
+      [
+        "o230500080021",
+        "o230500080022"
+      ],
+      [
+        "o230530110061"
+      ],
+      [
+        "o270120030052"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o200170150082"
+      ]
+    ]
+  }
+}

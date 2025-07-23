@@ -1,0 +1,87 @@
+{
+  "id": "keyterm:Straight",
+  "primary_id": "keyterm:Straightness",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "003184001005000",
+    "003184001010000",
+    "003184001006000",
+    "003184001008000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Be Straight",
+      "alternate_labels": [
+        "Make Straight (One's Way)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To live or act in a clear and honest way, fixing problems to follow the right path."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "enderezar"
+    },
+    "fra": {
+      "preferred_label": "aller droit devant"
+    },
+    "ind": {
+      "preferred_label": "lurus"
+    },
+    "por": {
+      "preferred_label": "be straight"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Straightness"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "ישׁר"
+    ]
+  },
+  "key_references": [
+    "19119128",
+    "20003006",
+    "23045013"
+  ],
+  "references": [
+    "19005009",
+    "19119128",
+    "20003006",
+    "20011005",
+    "20015021",
+    "23045013",
+    "35002004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190050090071"
+      ],
+      [
+        "o191191280061"
+      ],
+      [
+        "o200030060051"
+      ],
+      [
+        "o200110050031"
+      ],
+      [
+        "o200150210071"
+      ],
+      [
+        "o230450130061"
+      ],
+      [
+        "o350020040041"
+      ]
+    ]
+  }
+}

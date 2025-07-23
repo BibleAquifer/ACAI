@@ -1,0 +1,92 @@
+{
+  "id": "keyterm:Good.3",
+  "primary_id": "keyterm:Good",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "22.40",
+    "65.25",
+    "88.68",
+    "88.9"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Good (Useful)",
+      "alternate_labels": [
+        "Kind",
+        "Easy"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being helpful, kind, and pleasant, making things easier or better."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "bueno"
+    },
+    "fra": {
+      "preferred_label": "aimable"
+    },
+    "ind": {
+      "preferred_label": "baik"
+    },
+    "por": {
+      "preferred_label": "bom"
+    },
+    "por-Br": {
+      "preferred_label": "bom"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Good"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χρηστός"
+    ]
+  },
+  "key_references": [
+    "40011030",
+    "45002004",
+    "49004032",
+    "60002003"
+  ],
+  "references": [
+    "40011030",
+    "42005039",
+    "42006035",
+    "45002004",
+    "46015033",
+    "49004032",
+    "60002003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40011030005"
+      ],
+      [
+        "n42005039011"
+      ],
+      [
+        "n42006035024"
+      ],
+      [
+        "n45002004017"
+      ],
+      [
+        "n46015033005"
+      ],
+      [
+        "n49004032004"
+      ],
+      [
+        "n60002003004"
+      ]
+    ]
+  }
+}

@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Plumb Line” are translated as 
-*and the plumb line* (1x), *the level* (1x), *true to plumb* (1x), *with a plumb line* (1x), *A plumb line* (1x), *a plumb line* (1x), *the plumb line* (1x). 
+*true to plumb* (1x), *with a plumb line* (1x), *A plumb line* (1x), *a plumb line* (1x), *the plumb line* (1x), *and the plumb line* (1x), *the level* (1x). 
 
 
 
@@ -21,10 +21,6 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* and the plumb line (2KI 21:13)
-
-* the level (ISA 28:17)
-
 * true to plumb (AMO 7:7)
 
 * with a plumb line (AMO 7:7)
@@ -34,6 +30,10 @@ Return to [Index](00-Index.md)
 * a plumb line (AMO 7:8)
 
 * the plumb line (ZEC 4:10)
+
+* and the plumb line (2KI 21:13)
+
+* the level (ISA 28:17)
 
 
 

@@ -1,0 +1,80 @@
+{
+  "id": "keyterm:Justify",
+  "primary_id": "keyterm:Just",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "006128001002000",
+    "006128001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Justify",
+      "alternate_labels": [
+        "Vindicate"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing that someone is right or innocent, often by proving their actions are fair or acceptable."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "justificar"
+    },
+    "fra": {
+      "preferred_label": "justifier"
+    },
+    "ind": {
+      "preferred_label": "membenarkan"
+    },
+    "por": {
+      "preferred_label": "justify"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Just"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צדק"
+    ]
+  },
+  "key_references": [
+    "18032002",
+    "24003011",
+    "26016051"
+  ],
+  "references": [
+    "18032002",
+    "18033032",
+    "24003011",
+    "26016051",
+    "26016052"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180320020131",
+        "o180320020132"
+      ],
+      [
+        "o180330320081",
+        "o180330320082"
+      ],
+      [
+        "o240030110041"
+      ],
+      [
+        "o260160510102"
+      ],
+      [
+        "o260160520192",
+        "o260160520193"
+      ]
+    ]
+  }
+}

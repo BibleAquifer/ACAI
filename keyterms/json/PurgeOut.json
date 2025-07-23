@@ -1,0 +1,62 @@
+{
+  "id": "keyterm:PurgeOut",
+  "primary_id": "keyterm:Pure",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "79.50"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Purge Out",
+      "alternate_labels": [
+        "Cleanse"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To remove all dirt or bad things to make something clean."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "limpiar"
+    },
+    "fra": {
+      "preferred_label": "nettoyer"
+    },
+    "ind": {
+      "preferred_label": "membuang kejahatan"
+    },
+    "por": {
+      "preferred_label": "limpar"
+    },
+    "por-Br": {
+      "preferred_label": "purgar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Pure"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐκκαθαίρω"
+    ]
+  },
+  "references": [
+    "46005007",
+    "55002021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46005007001"
+      ],
+      [
+        "n55002021004"
+      ]
+    ]
+  }
+}

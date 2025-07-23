@@ -1,0 +1,57 @@
+{
+  "id": "keyterm:Safe",
+  "primary_id": "keyterm:Safety",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "000913001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Safe",
+      "alternate_labels": [
+        "Secure",
+        "Confident"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Feeling protected and sure that nothing bad will happen."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "confiado"
+    },
+    "fra": {
+      "preferred_label": "sûr"
+    },
+    "ind": {
+      "preferred_label": "hati teguh"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Safety"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בָּטוּחַ"
+    ]
+  },
+  "references": [
+    "19112007",
+    "23026003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o191120070071"
+      ],
+      [
+        "o230260030081"
+      ]
+    ]
+  }
+}

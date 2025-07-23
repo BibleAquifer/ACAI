@@ -1,0 +1,60 @@
+{
+  "id": "keyterm:Gracious",
+  "primary_id": "keyterm:Favor",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "002377001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gracious",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing kindness and goodwill to others, often to make them feel welcomed and loved."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "gracia"
+    },
+    "fra": {
+      "preferred_label": "bienveillantes"
+    },
+    "ind": {
+      "preferred_label": "ketulusan hati"
+    },
+    "por": {
+      "preferred_label": "gracious"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Favor"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֵן"
+    ]
+  },
+  "references": [
+    "19045003",
+    "20022011",
+    "21010012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190450030051"
+      ],
+      [
+        "o200220110051"
+      ],
+      [
+        "o210100120041"
+      ]
+    ]
+  }
+}

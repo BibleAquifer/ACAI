@@ -82,7 +82,7 @@ Return to [Index](00-Index.md)
 
 * OpenBible.info: settlement
 
-* ACAI: town, hill
+* ACAI: hill, town
 
 
 

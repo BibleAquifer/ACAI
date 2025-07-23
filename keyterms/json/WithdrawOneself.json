@@ -1,0 +1,100 @@
+{
+  "id": "keyterm:WithdrawOneself",
+  "primary_id": "keyterm:WithdrawOneself",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "004715001003000",
+    "004715001001000",
+    "004715001005000",
+    "004715001004000",
+    "004715001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Withdraw Oneself",
+      "alternate_labels": [
+        "Separate Oneself",
+        "Abstain From"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To stay away from others or choose not to join in certain activities."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "apartarse"
+    },
+    "fra": {
+      "preferred_label": "se retirer"
+    },
+    "ind": {
+      "preferred_label": "menghindarkan diri"
+    },
+    "por": {
+      "preferred_label": "withdraw oneself"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נזר"
+    ]
+  },
+  "key_references": [
+    "04006002",
+    "04006003",
+    "04006005",
+    "04006012"
+  ],
+  "references": [
+    "03015031",
+    "03022002",
+    "04006002",
+    "04006003",
+    "04006005",
+    "04006006",
+    "04006012",
+    "26014007",
+    "28009010",
+    "38007003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030150310012"
+      ],
+      [
+        "o030220020062"
+      ],
+      [
+        "o040060020152"
+      ],
+      [
+        "o040060030031"
+      ],
+      [
+        "o040060050141"
+      ],
+      [
+        "o040060060031",
+        "o040060060032"
+      ],
+      [
+        "o040060120012"
+      ],
+      [
+        "o260140070102"
+      ],
+      [
+        "o280090100142"
+      ],
+      [
+        "o380070030141"
+      ]
+    ]
+  }
+}

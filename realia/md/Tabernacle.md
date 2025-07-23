@@ -9,23 +9,15 @@ Other forms include:
 EXO 25:9, EXO 29:42, NUM 9:15, HEB 9:2. 
 
 
-In the Old Testament (BSB), words representing “Tabernacle” are translated as 
-*the sanctuary and* (1x). 
 
 
 In the New Testament (BSB), words representing “Tabernacle” are translated as 
-*the holy* (1x), *holy* (2x), *tabernacle* (7x), *tent* (1x), *sanctuary* (2x), ** (1x), *A tabernacle* (1x), *was a room* (1x), *room* (1x), *Holy* (1x), *tabernacle those who* (1x), *the* (1x), *dwelling place* (1x). 
+*the holy* (1x), *holy* (2x), ** (1x), *sanctuary* (2x), *tabernacle* (7x), *tent* (1x), *A tabernacle* (1x), *was a room* (1x), *room* (1x), *tabernacle those who* (1x), *the* (1x), *dwelling place* (1x). 
 
 
 Return to [Index](00-Index.md)
 
 ## More Information
-
-### OT Instances (BSB)
-
-* the sanctuary and (NUM 18:5)
-
-
 
 ### NT Instances (BSB)
 
@@ -33,21 +25,19 @@ Return to [Index](00-Index.md)
 
 * holy (ACT 6:13; ACT 21:28)
 
-* tabernacle (ACT 7:44; HEB 8:2; HEB 8:5; HEB 9:8; HEB 9:11; HEB 9:21; HEB 13:10)
-
-* tent (ACT 15:16)
+*  (HEB 9:1)
 
 * sanctuary (HEB 8:2; HEB 9:24)
 
-*  (HEB 9:1)
+* tabernacle (ACT 7:44; HEB 8:2; HEB 8:5; HEB 9:8; HEB 9:11; HEB 9:21; HEB 13:10)
+
+* tent (ACT 15:16)
 
 * A tabernacle (HEB 9:2)
 
 * was a room (HEB 9:3)
 
 * room (HEB 9:6)
-
-* Holy (HEB 9:8)
 
 * tabernacle those who (REV 13:6)
 
@@ -91,7 +81,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* NUM 18:5; MAT 24:15; ACT 6:13; ACT 7:44; ACT 15:16; ACT 21:28; HEB 8:2; HEB 8:5; HEB 9:1; HEB 9:2; HEB 9:3; HEB 9:6; HEB 9:8; HEB 9:11; HEB 9:21; HEB 9:24; HEB 13:10; REV 13:6; REV 15:5; REV 21:3
+* MAT 24:15; ACT 6:13; ACT 7:44; ACT 15:16; ACT 21:28; HEB 8:2; HEB 8:5; HEB 9:1; HEB 9:2; HEB 9:3; HEB 9:6; HEB 9:8; HEB 9:11; HEB 9:21; HEB 9:24; HEB 13:10; REV 13:6; REV 15:5; REV 21:3
 
 
 

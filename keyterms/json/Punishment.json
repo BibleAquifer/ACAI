@@ -1,0 +1,53 @@
+{
+  "id": "keyterm:Punishment",
+  "primary_id": "keyterm:Punishment",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "002218001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Punishment",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A penalty given to someone because of doing something wrong."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "castigo"
+    },
+    "fra": {
+      "preferred_label": "punition"
+    },
+    "ind": {
+      "preferred_label": "hukuman"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חַטָּאת"
+    ]
+  },
+  "references": [
+    "25004006",
+    "38014019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o250040060052"
+      ],
+      [
+        "o380140190031"
+      ],
+      [
+        "o380140190052"
+      ]
+    ]
+  }
+}

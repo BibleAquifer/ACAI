@@ -1,0 +1,97 @@
+{
+  "id": "keyterm:BreadOfDisplay",
+  "primary_id": "keyterm:BreadOfDisplay",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:4.3.5.1"
+    ]
+  },
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "003565001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bread of Display",
+      "alternate_labels": [
+        "Bread of the Presence",
+        "Sacred Bread"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Special bread kept on a table in the temple as a symbol of God's presence."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "pan de la proposición"
+    },
+    "fra": {
+      "preferred_label": "pain d'offrande"
+    },
+    "ind": {
+      "preferred_label": "roti sajian"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "לֶחֶם פָּנִים"
+    ]
+  },
+  "key_references": [
+    "02025030",
+    "09021007",
+    "14004019"
+  ],
+  "references": [
+    "02025030",
+    "02035013",
+    "02039036",
+    "09021007",
+    "11007048",
+    "14004019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020250300041"
+      ],
+      [
+        "o020350130091"
+      ],
+      [
+        "o020390360071"
+      ],
+      [
+        "o090210070121"
+      ],
+      [
+        "o110070480161"
+      ],
+      [
+        "o140040190151"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o090210070212"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o090210070142"
+      ],
+      [
+        "o090210070172"
+      ]
+    ]
+  }
+}

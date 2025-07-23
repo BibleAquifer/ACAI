@@ -1,0 +1,123 @@
+{
+  "id": "keyterm:Idol",
+  "primary_id": "keyterm:Idol",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:4.6"
+    ]
+  },
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "000421001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Idol",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "An object that people wrongly worship as a god but has no real power."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "ídolo"
+    },
+    "fra": {
+      "preferred_label": "rien"
+    },
+    "ind": {
+      "preferred_label": "(patung) berhala"
+    },
+    "por": {
+      "preferred_label": "literally: nought"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אֱלִיל"
+    ]
+  },
+  "key_references": [
+    "03019004",
+    "19096005",
+    "23002008",
+    "35002018"
+  ],
+  "references": [
+    "03019004",
+    "03026001",
+    "13016026",
+    "19096005",
+    "19097007",
+    "23002008",
+    "23002018",
+    "23002020",
+    "23010010",
+    "23010011",
+    "23019001",
+    "23019003",
+    "23031007",
+    "26030013",
+    "35002018"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030190040042"
+      ],
+      [
+        "o030260010041"
+      ],
+      [
+        "o130160260051"
+      ],
+      [
+        "o190960050051"
+      ],
+      [
+        "o190970070062"
+      ],
+      [
+        "o230020080031"
+      ],
+      [
+        "o230020180013"
+      ],
+      [
+        "o230020200061"
+      ],
+      [
+        "o230020200091"
+      ],
+      [
+        "o230100100052"
+      ],
+      [
+        "o230100110053",
+        "o230100110054"
+      ],
+      [
+        "o230190010121"
+      ],
+      [
+        "o230190030092"
+      ],
+      [
+        "o230310070061"
+      ],
+      [
+        "o230310070082"
+      ],
+      [
+        "o260300130081"
+      ],
+      [
+        "o350020180161"
+      ]
+    ]
+  }
+}

@@ -50,7 +50,7 @@ Return to [Index](00-Index.md)
 
 * OpenBible.info: region, settlement
 
-* ACAI: town, plain
+* ACAI: plain, town
 
 
 

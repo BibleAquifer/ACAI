@@ -1,0 +1,91 @@
+{
+  "id": "keyterm:Idle",
+  "primary_id": "keyterm:Idle",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "30.44",
+    "72.21",
+    "42.46",
+    "88.248",
+    "65.36"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Useless",
+      "alternate_labels": [
+        "Idle",
+        "Lazy",
+        "Useless",
+        "Careless",
+        "Ineffective"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Not working or acting, often avoiding work or careful thought."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "inútil"
+    },
+    "fra": {
+      "preferred_label": "désoeuvré"
+    },
+    "ind": {
+      "preferred_label": "sia, sia"
+    },
+    "por": {
+      "preferred_label": "inútil"
+    },
+    "por-Br": {
+      "preferred_label": "inútil"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀργός"
+    ]
+  },
+  "key_references": [
+    "40020003",
+    "54005013",
+    "59002020"
+  ],
+  "references": [
+    "40012036",
+    "40020003",
+    "40020006",
+    "54005013",
+    "59002020",
+    "61001008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40012036007"
+      ],
+      [
+        "n40020003012"
+      ],
+      [
+        "n40020006018"
+      ],
+      [
+        "n54005013004"
+      ],
+      [
+        "n54005013012"
+      ],
+      [
+        "n59002020013"
+      ],
+      [
+        "n61001008008"
+      ]
+    ]
+  }
+}

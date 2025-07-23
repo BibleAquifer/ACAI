@@ -1,0 +1,88 @@
+{
+  "id": "keyterm:HaveMercy.2",
+  "primary_id": "keyterm:Mercy",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.80"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Show Mercy",
+      "alternate_labels": [
+        "Show Compassion"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being kind and caring toward others, especially when they need help or forgiveness."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "tener compasión"
+    },
+    "fra": {
+      "preferred_label": "avoir compassion de"
+    },
+    "ind": {
+      "preferred_label": "bermurah hati"
+    },
+    "por": {
+      "preferred_label": "ter compaixão"
+    },
+    "por-Br": {
+      "preferred_label": "ter compaixão"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Mercy",
+    "keyterm:Mercy.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "οἰκτίρω",
+      "οἰκτιρμός"
+    ]
+  },
+  "key_references": [
+    "45009015",
+    "45012001",
+    "51003012"
+  ],
+  "references": [
+    "45009015",
+    "45012001",
+    "47001003",
+    "50002001",
+    "51003012",
+    "58010028"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45009015010"
+      ],
+      [
+        "n45009015013"
+      ],
+      [
+        "n45012001007"
+      ],
+      [
+        "n47001003014"
+      ],
+      [
+        "n50002001019"
+      ],
+      [
+        "n51003012011"
+      ],
+      [
+        "n58010028006"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "keyterm:Plan",
+  "primary_id": "keyterm:Plan",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "003841001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Plan",
+      "alternate_labels": [
+        "Purpose",
+        "Device",
+        "Scheme"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "An idea or decision about what to do in the future."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "propósito"
+    },
+    "fra": {
+      "preferred_label": "réflexion"
+    },
+    "ind": {
+      "preferred_label": "rencana"
+    },
+    "por": {
+      "preferred_label": "plan"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְזִמָּה"
+    ]
+  },
+  "key_references": [
+    "18042002",
+    "19139020",
+    "20024008",
+    "24051011"
+  ],
+  "references": [
+    "18021027",
+    "18042002",
+    "19010002",
+    "19010004",
+    "19021012",
+    "19037007",
+    "19139020",
+    "20012002",
+    "20014017",
+    "20024008",
+    "24011015",
+    "24023020",
+    "24030024",
+    "24051011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180210270042"
+      ],
+      [
+        "o180420020091"
+      ],
+      [
+        "o190100020062"
+      ],
+      [
+        "o190100040091",
+        "o190100040092"
+      ],
+      [
+        "o190210120061"
+      ],
+      [
+        "o190370070111"
+      ],
+      [
+        "o191390200032"
+      ],
+      [
+        "o200120020061"
+      ],
+      [
+        "o200140170061"
+      ],
+      [
+        "o200240080051"
+      ],
+      [
+        "o240110150052",
+        "o240110150053"
+      ],
+      [
+        "o240230200091"
+      ],
+      [
+        "o240300240101"
+      ],
+      [
+        "o240510110141",
+        "o240510110142"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o240230200142"
+      ],
+      [
+        "o240300240152"
+      ]
+    ]
+  }
+}

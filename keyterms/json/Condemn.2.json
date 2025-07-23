@@ -1,0 +1,157 @@
+{
+  "id": "keyterm:Condemn.2",
+  "primary_id": "keyterm:Condemn",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "56.31",
+    "14.66"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Condemn (Judge as Guilty)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To decide that someone is guilty and deserves punishment."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "condenar"
+    },
+    "fra": {
+      "preferred_label": "condamner"
+    },
+    "ind": {
+      "preferred_label": "menghukum"
+    },
+    "por": {
+      "preferred_label": "condenar"
+    },
+    "por-Br": {
+      "preferred_label": "condenar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Condemn",
+    "keyterm:Condemnation",
+    "keyterm:Condemnation.2",
+    "keyterm:SentenceOfCondemnation"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "καταδικάζω",
+      "κατακρίνω",
+      "κατάκριμα",
+      "κατάκρισις",
+      "καταδίκη"
+    ]
+  },
+  "key_references": [
+    "40012037",
+    "42006037",
+    "45008001",
+    "45008034"
+  ],
+  "references": [
+    "40012007",
+    "40012037",
+    "40020018",
+    "40027003",
+    "41010033",
+    "41014064",
+    "41016016",
+    "42006037",
+    "43008010",
+    "44025015",
+    "45002001",
+    "45005016",
+    "45005018",
+    "45008001",
+    "45008003",
+    "45008034",
+    "45014023",
+    "46011032",
+    "47003009",
+    "47007003",
+    "58011007",
+    "59005006",
+    "61002006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40012007013"
+      ],
+      [
+        "n40012037012"
+      ],
+      [
+        "n42006037010"
+      ],
+      [
+        "n59005006001"
+      ],
+      [
+        "n40020018016"
+      ],
+      [
+        "n40027003008"
+      ],
+      [
+        "n41010033018"
+      ],
+      [
+        "n41014064010"
+      ],
+      [
+        "n41016016009"
+      ],
+      [
+        "n43008010021"
+      ],
+      [
+        "n45002001016"
+      ],
+      [
+        "n45008003025"
+      ],
+      [
+        "n45008034003"
+      ],
+      [
+        "n45014023006"
+      ],
+      [
+        "n46011032011"
+      ],
+      [
+        "n58011007018"
+      ],
+      [
+        "n61002006008"
+      ],
+      [
+        "n45005016016"
+      ],
+      [
+        "n45005018011"
+      ],
+      [
+        "n45008001004"
+      ],
+      [
+        "n47003009006"
+      ],
+      [
+        "n47007003002"
+      ],
+      [
+        "n44025015018"
+      ]
+    ]
+  }
+}

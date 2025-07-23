@@ -1,0 +1,71 @@
+{
+  "id": "keyterm:Innocence",
+  "primary_id": "keyterm:Innocence",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "004906001002000",
+    "004906001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Innocence",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being free from guilt or wrong behavior."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "inocencia"
+    },
+    "fra": {
+      "preferred_label": "propreté"
+    },
+    "ind": {
+      "preferred_label": "tidak bersalah"
+    },
+    "por": {
+      "preferred_label": "innocence"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נִקָּיוֹן"
+    ]
+  },
+  "key_references": [
+    "01020005",
+    "19026006",
+    "19073013"
+  ],
+  "references": [
+    "01020005",
+    "19026006",
+    "19073013",
+    "28008005",
+    "30004006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010200050153"
+      ],
+      [
+        "o190260060022"
+      ],
+      [
+        "o190730130062"
+      ],
+      [
+        "o280080050111"
+      ],
+      [
+        "o300040060051"
+      ]
+    ]
+  }
+}

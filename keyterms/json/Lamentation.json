@@ -1,0 +1,154 @@
+{
+  "id": "keyterm:Lamentation",
+  "primary_id": "keyterm:Lamentation",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "006454001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lamentation",
+      "alternate_labels": [
+        "Elegy"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A sad song or poem that expresses deep sorrow or mourning."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "lamentación"
+    },
+    "fra": {
+      "preferred_label": "lamentation"
+    },
+    "ind": {
+      "preferred_label": "ratapan"
+    },
+    "por": {
+      "preferred_label": "lamentation"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קִינָה"
+    ]
+  },
+  "key_references": [
+    "10001017",
+    "24009019",
+    "26019001",
+    "30005001"
+  ],
+  "references": [
+    "10001017",
+    "14035025",
+    "24007029",
+    "24009009",
+    "24009019",
+    "26002010",
+    "26019001",
+    "26019014",
+    "26026017",
+    "26027002",
+    "26027032",
+    "26028012",
+    "26032002",
+    "26032016",
+    "30005001",
+    "30008010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100010170042"
+      ],
+      [
+        "o140350250092",
+        "o140350250093"
+      ],
+      [
+        "o140350250212"
+      ],
+      [
+        "o240070290071"
+      ],
+      [
+        "o240090090091"
+      ],
+      [
+        "o240090190151"
+      ],
+      [
+        "o260020100101"
+      ],
+      [
+        "o260190010031"
+      ],
+      [
+        "o260190140141"
+      ],
+      [
+        "o260190140172"
+      ],
+      [
+        "o260260170031"
+      ],
+      [
+        "o260270020071"
+      ],
+      [
+        "o260270320041"
+      ],
+      [
+        "o260280120041"
+      ],
+      [
+        "o260320020041"
+      ],
+      [
+        "o260320160011"
+      ],
+      [
+        "o300050010091"
+      ],
+      [
+        "o300080100062"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o140350250143"
+      ],
+      [
+        "o140350250183"
+      ],
+      [
+        "o260190140151"
+      ],
+      [
+        "o260320160033"
+      ],
+      [
+        "o260320160072"
+      ],
+      [
+        "o260320160142"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o260190140162"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "keyterm:CompleteCertainty",
+  "primary_id": "keyterm:Complete",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "31.45"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Complete Certainty",
+      "alternate_labels": [
+        "Full Assurance",
+        "Full Confidence"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A strong feeling of being fully sure that something is true and will definitely happen."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "convicción"
+    },
+    "fra": {
+      "preferred_label": "plénitude de la foi"
+    },
+    "ind": {
+      "preferred_label": "keyakinan iman yang teguh"
+    },
+    "por-Br": {
+      "preferred_label": "convicção plena"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Complete",
+    "keyterm:FullyAssured"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "πληροφορία",
+      "πληροφορέω"
+    ]
+  },
+  "references": [
+    "51004012",
+    "58006011",
+    "58010022"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58006011011"
+      ],
+      [
+        "n58010022006"
+      ],
+      [
+        "n51004012020"
+      ]
+    ]
+  }
+}

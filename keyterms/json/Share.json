@@ -1,0 +1,91 @@
+{
+  "id": "keyterm:Share",
+  "primary_id": "keyterm:Share",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "57.98",
+    "42.16",
+    "9.15"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Share",
+      "alternate_labels": [
+        "Participate"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To give part of what you have and take part together with others in something important."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "compartir"
+    },
+    "fra": {
+      "preferred_label": "partager"
+    },
+    "ind": {
+      "preferred_label": "beroleh bagian"
+    },
+    "por": {
+      "preferred_label": "compartilhar"
+    },
+    "por-Br": {
+      "preferred_label": "compartilhar"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κοινωνέω"
+    ]
+  },
+  "key_references": [
+    "45012013",
+    "48006006",
+    "50004015",
+    "60004013"
+  ],
+  "references": [
+    "45012013",
+    "45015027",
+    "48006006",
+    "50004015",
+    "54005022",
+    "58002014",
+    "60004013",
+    "63001011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45012013005"
+      ],
+      [
+        "n45015027012"
+      ],
+      [
+        "n48006006001"
+      ],
+      [
+        "n50004015018"
+      ],
+      [
+        "n54005022006"
+      ],
+      [
+        "n58002014005"
+      ],
+      [
+        "n60004013003"
+      ],
+      [
+        "n63001011006"
+      ]
+    ]
+  }
+}

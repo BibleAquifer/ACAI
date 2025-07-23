@@ -1,0 +1,87 @@
+{
+  "id": "keyterm:Discretion",
+  "primary_id": "keyterm:Discretion",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "003841001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Discretion",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The ability to make wise and careful choices."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "discreción"
+    },
+    "fra": {
+      "preferred_label": "discrétion"
+    },
+    "ind": {
+      "preferred_label": "kebijaksanaan"
+    },
+    "por": {
+      "preferred_label": "discretion"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מְזִמָּה"
+    ]
+  },
+  "key_references": [
+    "20001004",
+    "20002011",
+    "20003021",
+    "20005002"
+  ],
+  "references": [
+    "20001004",
+    "20002011",
+    "20003021",
+    "20005002",
+    "20008012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o200010040062"
+      ],
+      [
+        "o200020110011"
+      ],
+      [
+        "o200030210072"
+      ],
+      [
+        "o200050020021"
+      ],
+      [
+        "o200080120061"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o200020120012"
+      ],
+      [
+        "o200020160012"
+      ],
+      [
+        "o200030210031"
+      ],
+      [
+        "o200030220012"
+      ]
+    ]
+  }
+}

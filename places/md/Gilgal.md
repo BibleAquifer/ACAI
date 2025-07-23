@@ -45,7 +45,7 @@ Return to [Index](00-Index.md)
 
 * OpenBible.info: region, settlement
 
-* ACAI: town, region
+* ACAI: region, town
 
 
 

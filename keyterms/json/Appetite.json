@@ -1,0 +1,46 @@
+{
+  "id": "keyterm:Appetite",
+  "primary_id": "keyterm:Appetite",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "002233001006000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Appetite",
+      "alternate_labels": [
+        "Hunger"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A feeling of hunger or desire to eat food."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "appétit"
+    },
+    "ind": {
+      "preferred_label": "nafsu makan"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חַיָּה"
+    ]
+  },
+  "references": [
+    "18038039"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180380390042"
+      ]
+    ]
+  }
+}

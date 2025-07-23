@@ -1,0 +1,81 @@
+{
+  "id": "keyterm:Divine",
+  "primary_id": "keyterm:Divine",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "12.13",
+    "12.14"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Divine",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Relates to being like God or coming from God."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "divino"
+    },
+    "fra": {
+      "preferred_label": "divin"
+    },
+    "ind": {
+      "preferred_label": "ilahi"
+    },
+    "por": {
+      "preferred_label": "divino"
+    },
+    "por-Br": {
+      "preferred_label": "divino"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Divinity",
+    "keyterm:Godhead"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "θεῖος",
+      "θειότης",
+      "θεότης"
+    ]
+  },
+  "key_references": [
+    "44017029",
+    "45001020",
+    "51002009",
+    "61001003"
+  ],
+  "references": [
+    "44017029",
+    "45001020",
+    "51002009",
+    "61001003",
+    "61001004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44017029020"
+      ],
+      [
+        "n61001003005"
+      ],
+      [
+        "n61001004014"
+      ],
+      [
+        "n45001020018"
+      ],
+      [
+        "n51002009009"
+      ]
+    ]
+  }
+}

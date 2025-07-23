@@ -1,0 +1,95 @@
+# Kingdom
+**Kingdom**. 
+A place ruled by a king or by God, and the power or authority to rule over it (acai). 
+Other forms include: 
+*Reign*, *Rule*. 
+
+
+**Key References for Kingdom**: 
+MAT 6:10, LUK 17:20, ROM 14:17, REV 11:15. 
+
+
+
+
+In the New Testament (BSB), words representing “Kingdom” are translated as 
+*kingdom* (139x), *kingdoms* (3x), *of* (3x), *a kingdom* (5x), *it* (2x), *of the kingdom* (1x), *kingship* (2x), *the kingdom* (4x), *God* (1x), *rules* (1x). 
+
+
+Return to [Index](00-Index.md)
+
+## More Information
+
+### NT Instances (BSB)
+
+* kingdom (MAT 3:2; MAT 4:17; MAT 4:23; MAT 5:3; MAT 5:10; MAT 5:19; MAT 5:19; MAT 5:20; MAT 6:10; MAT 6:33; MAT 7:21; MAT 8:11; MAT 8:12; MAT 9:35; MAT 10:7; MAT 11:11; MAT 11:12; MAT 12:25; MAT 12:26; MAT 12:28; MAT 13:11; MAT 13:19; MAT 13:24; MAT 13:31; MAT 13:33; MAT 13:38; MAT 13:41; MAT 13:43; MAT 13:44; MAT 13:45; MAT 13:47; MAT 13:52; MAT 16:19; MAT 16:28; MAT 18:1; MAT 18:3; MAT 18:4; MAT 18:23; MAT 19:12; MAT 19:14; MAT 19:23; MAT 19:24; MAT 20:21; MAT 21:31; MAT 21:43; MAT 22:2; MAT 23:13; MAT 24:7; MAT 24:7; MAT 24:14; MAT 25:34; MAT 26:29; MRK 1:15; MRK 4:11; MRK 4:26; MRK 4:30; MRK 6:23; MRK 9:1; MRK 9:47; MRK 10:14; MRK 10:15; MRK 10:23; MRK 10:24; MRK 10:25; MRK 11:10; MRK 12:34; MRK 13:8; MRK 13:8; MRK 14:25; MRK 15:43; LUK 1:33; LUK 4:43; LUK 6:20; LUK 7:28; LUK 8:1; LUK 8:10; LUK 9:2; LUK 9:11; LUK 9:27; LUK 9:60; LUK 9:62; LUK 10:9; LUK 10:11; LUK 11:2; LUK 11:17; LUK 11:18; LUK 11:20; LUK 12:31; LUK 12:32; LUK 13:18; LUK 13:20; LUK 13:28; LUK 13:29; LUK 14:15; LUK 17:20; LUK 17:20; LUK 17:21; LUK 18:16; LUK 18:17; LUK 18:24; LUK 18:25; LUK 18:29; LUK 19:11; LUK 21:10; LUK 21:10; LUK 21:31; LUK 22:16; LUK 22:18; LUK 22:30; LUK 23:51; JHN 3:3; JHN 3:5; JHN 18:36; JHN 18:36; ACT 1:6; ACT 8:12; ACT 14:22; ACT 19:8; ACT 20:25; ACT 28:23; ACT 28:31; ROM 14:17; 1CO 4:20; 1CO 15:24; EPH 5:5; COL 1:13; COL 4:11; 1TH 2:12; 2TI 4:1; 2TI 4:18; HEB 1:8; HEB 12:28; JAS 2:5; 2PE 1:11; REV 1:9; REV 11:15; REV 12:10; REV 16:10; REV 17:17)
+
+* kingdoms (MAT 4:8; LUK 4:5; HEB 11:33)
+
+* of (MAT 20:1; MAT 25:1; ACT 1:3)
+
+* a kingdom (MRK 3:24; LUK 22:29; REV 1:6; REV 5:10; REV 17:12)
+
+* it (MRK 3:24; JHN 18:36)
+
+* of the kingdom (LUK 16:16)
+
+* kingship (LUK 19:12; LUK 19:15)
+
+* the kingdom (1CO 6:9; 1CO 6:10; 1CO 15:50; GAL 5:21)
+
+* God (2TH 1:5)
+
+* rules (REV 17:18)
+
+
+
+### NT Pronominal Referents (BSB)
+
+* their (MAT 4:8; LUK 4:6)
+
+* this (MAT 4:9; LUK 21:12)
+
+* to it (MAT 11:12)
+
+* itself (MAT 12:25; MRK 3:24; LUK 11:17)
+
+* its (MAT 21:43)
+
+* these are (MAT 24:8)
+
+* it (MRK 3:24; MRK 4:30; MRK 10:15; LUK 13:18; LUK 16:16; LUK 18:17)
+
+* These are (MRK 13:8)
+
+* are (2TH 1:5)
+
+*  (JAS 2:5)
+
+
+
+### NT Subject Referents (BSB)
+
+* divided (MAT 12:25; LUK 11:17)
+
+* given (MAT 21:43)
+
+* prepared (MAT 25:34)
+
+* stand (MRK 3:24)
+
+* coming (MRK 11:10)
+
+* It is (LUK 13:19; LUK 13:21)
+
+* appear (LUK 19:11)
+
+* plunged into darkness (REV 16:10)
+
+
+
+### References (Whole Bible)
+
+* MAT 3:2; MAT 4:8; MAT 4:17; MAT 4:23; MAT 5:3; MAT 5:10; MAT 5:19; MAT 5:20; MAT 6:10; MAT 6:33; MAT 7:21; MAT 8:11; MAT 8:12; MAT 9:35; MAT 10:7; MAT 11:11; MAT 11:12; MAT 12:25; MAT 12:26; MAT 12:28; MAT 13:11; MAT 13:19; MAT 13:24; MAT 13:31; MAT 13:33; MAT 13:38; MAT 13:41; MAT 13:43; MAT 13:44; MAT 13:45; MAT 13:47; MAT 13:52; MAT 16:19; MAT 16:28; MAT 18:1; MAT 18:3; MAT 18:4; MAT 18:23; MAT 19:12; MAT 19:14; MAT 19:23; MAT 19:24; MAT 20:1; MAT 20:21; MAT 21:31; MAT 21:43; MAT 22:2; MAT 23:13; MAT 24:7; MAT 24:14; MAT 25:1; MAT 25:34; MAT 26:29; MRK 1:15; MRK 3:24; MRK 4:11; MRK 4:26; MRK 4:30; MRK 6:23; MRK 9:1; MRK 9:47; MRK 10:14; MRK 10:15; MRK 10:23; MRK 10:24; MRK 10:25; MRK 11:10; MRK 12:34; MRK 13:8; MRK 14:25; MRK 15:43; LUK 1:33; LUK 4:5; LUK 4:43; LUK 6:20; LUK 7:28; LUK 8:1; LUK 8:10; LUK 9:2; LUK 9:11; LUK 9:27; LUK 9:60; LUK 9:62; LUK 10:9; LUK 10:11; LUK 11:2; LUK 11:17; LUK 11:18; LUK 11:20; LUK 12:31; LUK 12:32; LUK 13:18; LUK 13:20; LUK 13:28; LUK 13:29; LUK 14:15; LUK 16:16; LUK 17:20; LUK 17:21; LUK 18:16; LUK 18:17; LUK 18:24; LUK 18:25; LUK 18:29; LUK 19:11; LUK 19:12; LUK 19:15; LUK 21:10; LUK 21:31; LUK 22:16; LUK 22:18; LUK 22:29; LUK 22:30; LUK 23:51; JHN 3:3; JHN 3:5; JHN 18:36; ACT 1:3; ACT 1:6; ACT 8:12; ACT 14:22; ACT 19:8; ACT 20:25; ACT 28:23; ACT 28:31; ROM 14:17; 1CO 4:20; 1CO 6:9; 1CO 6:10; 1CO 15:24; 1CO 15:50; GAL 5:21; EPH 5:5; COL 1:13; COL 4:11; 1TH 2:12; 2TH 1:5; 2TI 4:1; 2TI 4:18; HEB 1:8; HEB 11:33; HEB 12:28; JAS 2:5; 2PE 1:11; REV 1:6; REV 1:9; REV 5:10; REV 11:15; REV 12:10; REV 16:10; REV 17:12; REV 17:17; REV 17:18
+
+
+

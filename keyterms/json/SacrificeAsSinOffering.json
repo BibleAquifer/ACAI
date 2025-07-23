@@ -1,0 +1,66 @@
+{
+  "id": "keyterm:SacrificeAsSinOffering",
+  "primary_id": "keyterm:Offering",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "002211002010000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sacrifice (Ritual)",
+      "alternate_labels": [
+        "To Sacrifice as Sin-Offering",
+        "To Present a Sin-Offering"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Giving an offering to God to ask for forgiveness and remove guilt."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "sacrificar como ofrenda por el pecado"
+    },
+    "fra": {
+      "preferred_label": "sacrifier"
+    },
+    "ind": {
+      "preferred_label": "berkorban sebagai korban penghapus dosa"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Offering"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חטא"
+    ]
+  },
+  "references": [
+    "02029036",
+    "03006019",
+    "03009015",
+    "14029024"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020290360072"
+      ],
+      [
+        "o030060190022"
+      ],
+      [
+        "o030090150122",
+        "o030090150123"
+      ],
+      [
+        "o140290240032"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "keyterm:FixedAllowance",
+  "primary_id": "keyterm:Decree",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "002494001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fixed Allowance",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A set amount given to someone on a regular basis."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "asignación fija"
+    },
+    "fra": {
+      "preferred_label": "loi"
+    },
+    "ind": {
+      "preferred_label": "tunjangan tetap"
+    },
+    "por": {
+      "preferred_label": "fixed allowance"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Decree"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֹק"
+    ]
+  },
+  "references": [
+    "01047022"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010470220071"
+      ],
+      [
+        "o010470220131",
+        "o010470220132"
+      ]
+    ]
+  }
+}

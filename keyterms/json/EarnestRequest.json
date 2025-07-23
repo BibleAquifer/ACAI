@@ -1,0 +1,58 @@
+{
+  "id": "keyterm:EarnestRequest",
+  "primary_id": "keyterm:AskFor",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "33.168"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Earnest Request",
+      "alternate_labels": [
+        "Appeal"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Asking for something seriously and with respect, showing deep care."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "ruego"
+    },
+    "fra": {
+      "preferred_label": "encouragement"
+    },
+    "ind": {
+      "preferred_label": "meminta dan mendesak"
+    },
+    "por": {
+      "preferred_label": "pedido"
+    },
+    "por-Br": {
+      "preferred_label": "pedido"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:AskFor"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "παράκλησις"
+    ]
+  },
+  "references": [
+    "47008004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n47008004003"
+      ]
+    ]
+  }
+}

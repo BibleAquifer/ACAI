@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:Shadow",
+  "primary_id": "keyterm:Semblance",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "006209001003000",
+    "006209001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Shadow",
+      "alternate_labels": [
+        "Phantom"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Something that looks like the real thing but has no real substance or body."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "ombre"
+    },
+    "ind": {
+      "preferred_label": "bayangan"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Semblance"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צֶלֶם"
+    ]
+  },
+  "references": [
+    "19039007",
+    "19073020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190390070022"
+      ],
+      [
+        "o190730200051",
+        "o190730200052"
+      ]
+    ]
+  }
+}

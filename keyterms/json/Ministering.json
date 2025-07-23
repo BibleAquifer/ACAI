@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:Ministering",
+  "primary_id": "keyterm:Priesthood",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "35.24"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ministering",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing care and help to others through acts of service."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "servidor"
+    },
+    "fra": {
+      "preferred_label": "en fonction"
+    },
+    "ind": {
+      "preferred_label": "melayani"
+    },
+    "por": {
+      "preferred_label": "servidor"
+    },
+    "por-Br": {
+      "preferred_label": "ministrando"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Priesthood"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "λειτουργικός"
+    ]
+  },
+  "references": [
+    "58001014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58001014004"
+      ]
+    ]
+  }
+}

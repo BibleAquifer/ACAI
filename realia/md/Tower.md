@@ -10,7 +10,7 @@ ISA 5:2, MAT 21:33.
 
 
 In the Old Testament (BSB), words representing “Tower” are translated as 
-*with a tower* (1x), *and the tower* (3x), *the Tower of Eder* (1x), *tower* (5x), *the tower* (2x), *in the tower* (3x), *of the tower* (1x), *tower he* (1x), *entrance* (1x), *Great* (1x), *and towers* (2x), *towers* (2x), *in* (1x), *the towers* (1x), *towers on it* (1x), *the Tower* (1x), *and the Tower* (1x), *her towers* (2x), *tower of* (1x), *is like the tower* (2x), *is like a tower* (1x), *are like towers* (1x), *a watchtower* (1x), *when the towers* (1x), *your towers* (1x), *in your towers* (1x), *O watchtower of the flock* (1x). 
+*with a tower* (1x), *and the tower* (3x), *tower* (5x), *the tower* (2x), *in the tower* (3x), *of the tower* (1x), *tower he* (1x), *entrance* (1x), *and towers* (2x), *towers* (2x), *in* (1x), *the towers* (1x), *towers on it* (1x), *her towers* (2x), *tower of* (1x), *is like the tower* (2x), *is like a tower* (1x), *are like towers* (1x), *a watchtower* (1x), *when the towers* (1x), *your towers* (1x), *in your towers* (1x), *the Tower* (1x), *and the Tower* (1x), *Great* (1x). 
 
 
 In the New Testament (BSB), words representing “Tower” are translated as 
@@ -27,8 +27,6 @@ Return to [Index](00-Index.md)
 
 * and the tower (GEN 11:5; NEH 3:25; NEH 3:26)
 
-* the Tower of Eder (GEN 35:21)
-
 * tower (JDG 8:9; JDG 9:51; NEH 3:27; PRO 18:10; ISA 2:15)
 
 * the tower (JDG 8:17; 2KI 9:17)
@@ -41,8 +39,6 @@ Return to [Index](00-Index.md)
 
 * entrance (JDG 9:52)
 
-* Great (2SA 22:51)
-
 * and towers (2CH 14:6; 2CH 27:4)
 
 * towers (2CH 26:9; ISA 33:18)
@@ -52,10 +48,6 @@ Return to [Index](00-Index.md)
 * the towers (2CH 26:15)
 
 * towers on it (2CH 32:5)
-
-* the Tower (NEH 3:1)
-
-* and the Tower (NEH 12:39)
 
 * her towers (PSA 48:13; EZK 26:4)
 
@@ -75,7 +67,11 @@ Return to [Index](00-Index.md)
 
 * in your towers (EZK 27:11)
 
-* O watchtower of the flock (MIC 4:8)
+* the Tower (NEH 3:1)
+
+* and the Tower (NEH 12:39)
+
+* Great (2SA 22:51)
 
 
 
@@ -93,8 +89,6 @@ Return to [Index](00-Index.md)
 
 * that reaches (GEN 11:4)
 
-* in that (GEN 35:22)
-
 * the (JDG 9:52)
 
 * set it on fire (JDG 9:52)
@@ -102,10 +96,6 @@ Return to [Index](00-Index.md)
 * and he fortified them (2CH 26:9)
 
 * on it (SNG 4:4)
-
-* And you O watchtower of the flock (MIC 4:8)
-
-* sovereignty will (MIC 4:8)
 
 
 
@@ -125,7 +115,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* GEN 11:4; GEN 11:5; GEN 35:21; JDG 8:9; JDG 8:17; JDG 9:46; JDG 9:47; JDG 9:49; JDG 9:51; JDG 9:52; 2SA 22:51; 2KI 9:17; 2CH 14:6; 2CH 26:9; 2CH 26:10; 2CH 26:15; 2CH 27:4; 2CH 32:5; NEH 3:1; NEH 3:25; NEH 3:26; NEH 3:27; NEH 12:39; PSA 48:13; PSA 61:4; PRO 18:10; SNG 4:4; SNG 7:5; SNG 8:10; ISA 2:15; ISA 5:2; ISA 30:25; ISA 33:18; EZK 26:4; EZK 26:9; EZK 27:11; MIC 4:8; MAT 21:33; MRK 12:1; LUK 13:4; LUK 14:28
+* GEN 11:4; GEN 11:5; JDG 8:9; JDG 8:17; JDG 9:46; JDG 9:47; JDG 9:49; JDG 9:51; JDG 9:52; 2SA 22:51; 2KI 9:17; 2CH 14:6; 2CH 26:9; 2CH 26:10; 2CH 26:15; 2CH 27:4; 2CH 32:5; NEH 3:1; NEH 3:25; NEH 3:26; NEH 3:27; NEH 12:39; PSA 48:13; PSA 61:4; PRO 18:10; SNG 4:4; SNG 7:5; SNG 8:10; ISA 2:15; ISA 5:2; ISA 30:25; ISA 33:18; EZK 26:4; EZK 26:9; EZK 27:11; MAT 21:33; MRK 12:1; LUK 13:4; LUK 14:28
 
 
 

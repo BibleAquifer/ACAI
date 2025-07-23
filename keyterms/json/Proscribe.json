@@ -1,0 +1,85 @@
+{
+  "id": "keyterm:Proscribe",
+  "primary_id": "keyterm:Proscribe",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "002542001004000",
+    "002542001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Set Apart for God",
+      "alternate_labels": [
+        "Devote to God",
+        "Proscribe"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To fully dedicate a person, animal, or thing to God, often by destroying them or setting them apart for God's use."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "consagrar a dios"
+    },
+    "fra": {
+      "preferred_label": "détruire complètement"
+    },
+    "ind": {
+      "preferred_label": "dikhususkan untuk tuhan"
+    },
+    "por": {
+      "preferred_label": "to proscribe"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חרם"
+    ]
+  },
+  "key_references": [
+    "03027028",
+    "03027029",
+    "06006018",
+    "23034002"
+  ],
+  "references": [
+    "02022019",
+    "03027028",
+    "03027029",
+    "06006018",
+    "15010008",
+    "23034002",
+    "33004013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020220190031"
+      ],
+      [
+        "o030270280051"
+      ],
+      [
+        "o030270290041"
+      ],
+      [
+        "o060060180071"
+      ],
+      [
+        "o150100080101"
+      ],
+      [
+        "o230340020111",
+        "o230340020112"
+      ],
+      [
+        "o330040130152"
+      ]
+    ]
+  }
+}

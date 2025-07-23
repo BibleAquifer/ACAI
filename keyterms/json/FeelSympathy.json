@@ -1,0 +1,103 @@
+{
+  "id": "keyterm:FeelSympathy",
+  "primary_id": "keyterm:Affection",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "25.49"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Feel Sympathy",
+      "alternate_labels": [
+        "Feel Compassion"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To care deeply and feel kindness toward someone who is suffering or in need."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "conmoverse desde las entrañas"
+    },
+    "fra": {
+      "preferred_label": "être animé de pitié ou de compassion"
+    },
+    "ind": {
+      "preferred_label": "tergerak hati oleh belas kasihan"
+    },
+    "por": {
+      "preferred_label": "compadecer, se de"
+    },
+    "por-Br": {
+      "preferred_label": "compadecer, se de"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Affection"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σπλαγχνίζομαι"
+    ]
+  },
+  "key_references": [
+    "40009036",
+    "41006034",
+    "42010033"
+  ],
+  "references": [
+    "40009036",
+    "40014014",
+    "40015032",
+    "40018027",
+    "40020034",
+    "41006034",
+    "41008002",
+    "41009022",
+    "42007013",
+    "42010033",
+    "42015020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40009036005"
+      ],
+      [
+        "n40014014007"
+      ],
+      [
+        "n40015032009"
+      ],
+      [
+        "n40018027001"
+      ],
+      [
+        "n40020034001"
+      ],
+      [
+        "n41006034007"
+      ],
+      [
+        "n41008002001"
+      ],
+      [
+        "n41009022020"
+      ],
+      [
+        "n42007013006"
+      ],
+      [
+        "n42010033010"
+      ],
+      [
+        "n42015020019"
+      ]
+    ]
+  }
+}

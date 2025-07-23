@@ -1,0 +1,108 @@
+{
+  "id": "keyterm:Carnal",
+  "primary_id": "keyterm:Carnal",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "79.4",
+    "41.42",
+    "26.8",
+    "9.13",
+    "79.1"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Carnal",
+      "alternate_labels": [
+        "Fleshly"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Relating to human desires that come from the body, especially strong physical wants."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "carnal"
+    },
+    "fra": {
+      "preferred_label": "appartenant à ce monde"
+    },
+    "ind": {
+      "preferred_label": "manusia"
+    },
+    "por": {
+      "preferred_label": "carnal"
+    },
+    "por-Br": {
+      "preferred_label": "(coisa) material ou carnal"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Material"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σάρκινος",
+      "σαρκικός"
+    ]
+  },
+  "key_references": [
+    "45007014",
+    "46003001",
+    "46003003",
+    "60002011"
+  ],
+  "references": [
+    "45007014",
+    "45015027",
+    "46003001",
+    "46003003",
+    "46009011",
+    "47001012",
+    "47003003",
+    "47010004",
+    "58007016",
+    "60002011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45007014010"
+      ],
+      [
+        "n46003001011"
+      ],
+      [
+        "n47003003024"
+      ],
+      [
+        "n58007016006"
+      ],
+      [
+        "n45015027019"
+      ],
+      [
+        "n46003003003"
+      ],
+      [
+        "n46003003013"
+      ],
+      [
+        "n46009011012"
+      ],
+      [
+        "n47001012022"
+      ],
+      [
+        "n47010004008"
+      ],
+      [
+        "n60002011009"
+      ]
+    ]
+  }
+}

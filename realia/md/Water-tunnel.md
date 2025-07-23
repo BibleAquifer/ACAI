@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Water-Tunnel” are translated as 
-*must use the water shaft* (1x), *by the aqueduct* (2x), *and the tunnel* (1x), *of the aqueduct* (1x). 
+*must use the water shaft* (1x). 
 
 
 
@@ -23,17 +23,11 @@ Return to [Index](00-Index.md)
 
 * must use the water shaft (2SA 5:8)
 
-* by the aqueduct (2KI 18:17; ISA 36:2)
-
-* and the tunnel (2KI 20:20)
-
-* of the aqueduct (ISA 7:3)
-
 
 
 ### References (Whole Bible)
 
-* 2SA 5:8; 2KI 18:17; 2KI 20:20; ISA 7:3; ISA 36:2
+* 2SA 5:8
 
 
 

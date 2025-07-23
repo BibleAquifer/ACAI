@@ -1,0 +1,100 @@
+{
+  "id": "keyterm:Partake",
+  "primary_id": "keyterm:Partake",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "57.6",
+    "23.2",
+    "34.32",
+    "34.31"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Partake",
+      "alternate_labels": [
+        "Participate",
+        "Belong To"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To join in sharing something, like food or being part of a group."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "participar"
+    },
+    "fra": {
+      "preferred_label": "prendre part (à qqch)"
+    },
+    "ind": {
+      "preferred_label": "dapatkan bagian"
+    },
+    "por": {
+      "preferred_label": "participar"
+    },
+    "por-Br": {
+      "preferred_label": "participar"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μετέχω"
+    ]
+  },
+  "key_references": [
+    "46009010",
+    "46010017",
+    "46010021",
+    "58002014"
+  ],
+  "references": [
+    "46009010",
+    "46009012",
+    "46010017",
+    "46010021",
+    "46010030",
+    "58002014",
+    "58005013",
+    "58007013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46009010023"
+      ],
+      [
+        "n46009012006"
+      ],
+      [
+        "n46010017016"
+      ],
+      [
+        "n46010021013"
+      ],
+      [
+        "n46010030004"
+      ],
+      [
+        "n58002014012"
+      ],
+      [
+        "n58005013004"
+      ],
+      [
+        "n58007013008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n58005013011"
+      ]
+    ]
+  }
+}
