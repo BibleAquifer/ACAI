@@ -1,0 +1,62 @@
+{
+  "id": "keyterm:Tax",
+  "primary_id": "keyterm:Tax",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "57.179"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tax",
+      "alternate_labels": [
+        "Revenue"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Money paid to the government to help run the country."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "tributo"
+    },
+    "fra": {
+      "preferred_label": "fin"
+    },
+    "ind": {
+      "preferred_label": "cukai"
+    },
+    "por": {
+      "preferred_label": "tributo"
+    },
+    "por-Br": {
+      "preferred_label": "tributo"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "τέλος"
+    ]
+  },
+  "references": [
+    "40017025",
+    "45013007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40017025024"
+      ],
+      [
+        "n45013007012"
+      ],
+      [
+        "n45013007014"
+      ]
+    ]
+  }
+}

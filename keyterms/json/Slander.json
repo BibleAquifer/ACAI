@@ -1,0 +1,142 @@
+{
+  "id": "keyterm:Slander",
+  "primary_id": "keyterm:Blaspheme",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "33.401",
+    "33.400"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Blasphemy",
+      "alternate_labels": [
+        "Slander"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Speaking harmful and untrue words about someone or God that damage their reputation."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "blasfemia"
+    },
+    "fra": {
+      "preferred_label": "paroles contre dieu"
+    },
+    "ind": {
+      "preferred_label": "hujat"
+    },
+    "por": {
+      "preferred_label": "blasfêmia"
+    },
+    "por-Br": {
+      "preferred_label": "blasfêmia"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Blaspheme"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βλασφημία"
+    ]
+  },
+  "key_references": [
+    "40012031",
+    "41003028",
+    "49004031",
+    "65001009"
+  ],
+  "references": [
+    "40012031",
+    "40015019",
+    "40026065",
+    "41003028",
+    "41007022",
+    "41014064",
+    "42005021",
+    "43010033",
+    "49004031",
+    "51003008",
+    "54006004",
+    "65001009",
+    "66002009",
+    "66013001",
+    "66013005",
+    "66013006",
+    "66017003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40012031008"
+      ],
+      [
+        "n40012031016"
+      ],
+      [
+        "n40015019013"
+      ],
+      [
+        "n40026065019"
+      ],
+      [
+        "n41003028015"
+      ],
+      [
+        "n41007022008"
+      ],
+      [
+        "n41014064003"
+      ],
+      [
+        "n42005021015"
+      ],
+      [
+        "n43010033013"
+      ],
+      [
+        "n49004031010"
+      ],
+      [
+        "n51003008011"
+      ],
+      [
+        "n54006004015"
+      ],
+      [
+        "n65001009019"
+      ],
+      [
+        "n66002009013"
+      ],
+      [
+        "n66013001027"
+      ],
+      [
+        "n66013005008"
+      ],
+      [
+        "n66013006007"
+      ],
+      [
+        "n66017003017"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n40015020001"
+      ],
+      [
+        "n41007023002"
+      ]
+    ]
+  }
+}

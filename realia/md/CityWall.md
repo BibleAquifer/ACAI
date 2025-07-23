@@ -7,8 +7,6 @@ A strong permanent wall built around a city for protection (acai).
 JOS 6:20, NEH 2:17, REV 21:14. 
 
 
-In the Old Testament (BSB), words representing “City Wall” are translated as 
-*a wall* (1x). 
 
 
 In the New Testament (BSB), words representing “City Wall” are translated as 
@@ -18,12 +16,6 @@ In the New Testament (BSB), words representing “City Wall” are translated as
 Return to [Index](00-Index.md)
 
 ## More Information
-
-### OT Instances (BSB)
-
-* a wall (PSA 18:30)
-
-
 
 ### NT Instances (BSB)
 
@@ -45,7 +37,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* PSA 18:30; ACT 9:25; 2CO 11:33; HEB 11:30; REV 21:12; REV 21:14; REV 21:15; REV 21:17; REV 21:18; REV 21:19
+* ACT 9:25; 2CO 11:33; HEB 11:30; REV 21:12; REV 21:14; REV 21:15; REV 21:17; REV 21:18; REV 21:19
 
 
 

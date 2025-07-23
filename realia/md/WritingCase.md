@@ -10,7 +10,7 @@ JER 36:18, EZK 9:2, 3JN 1:13.
 
 
 In the Old Testament (BSB), words representing “Writing Case” are translated as 
-*in ink* (1x), *who had a writing kit* (1x), *who had the writing kit* (1x), *with the writing kit at his side* (1x). 
+*in ink* (1x), *who had a writing kit* (1x), *who had the writing kit* (1x), *with the writing kit* (1x). 
 
 
 
@@ -27,7 +27,7 @@ Return to [Index](00-Index.md)
 
 * who had the writing kit (EZK 9:3)
 
-* with the writing kit at his side (EZK 9:11)
+* with the writing kit (EZK 9:11)
 
 
 

@@ -1,0 +1,64 @@
+{
+  "id": "keyterm:Certification",
+  "primary_id": "keyterm:Certification",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "73.9"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Certification",
+      "alternate_labels": [
+        "Validation",
+        "Proof",
+        "Evidence of Genuineness"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Something that shows or proves that something is real or true."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "sello"
+    },
+    "fra": {
+      "preferred_label": "preuve"
+    },
+    "ind": {
+      "preferred_label": "meterai"
+    },
+    "por": {
+      "preferred_label": "selo"
+    },
+    "por-Br": {
+      "preferred_label": "selo"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σφραγίς"
+    ]
+  },
+  "references": [
+    "46009002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46009002012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n46009003008"
+      ]
+    ]
+  }
+}

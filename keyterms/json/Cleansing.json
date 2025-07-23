@@ -1,0 +1,88 @@
+{
+  "id": "keyterm:Cleansing",
+  "primary_id": "keyterm:Cleanse.2",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "53.28"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cleansing (NT)",
+      "alternate_labels": [
+        "Purification"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The act of making something clean by removing ritual dirt or impurity."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "purificación"
+    },
+    "fra": {
+      "preferred_label": "nettoyage"
+    },
+    "ind": {
+      "preferred_label": "pentahiran"
+    },
+    "por": {
+      "preferred_label": "purificação"
+    },
+    "por-Br": {
+      "preferred_label": "purificação"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Cleanse.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "καθαρισμός"
+    ]
+  },
+  "key_references": [
+    "42002022",
+    "42005014",
+    "43002006",
+    "58001003"
+  ],
+  "references": [
+    "41001044",
+    "42002022",
+    "42005014",
+    "43002006",
+    "43003025",
+    "58001003",
+    "61001009"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41001044018"
+      ],
+      [
+        "n42002022007"
+      ],
+      [
+        "n42005014017"
+      ],
+      [
+        "n43002006009"
+      ],
+      [
+        "n43003025011"
+      ],
+      [
+        "n58001003021"
+      ],
+      [
+        "n61001009012"
+      ]
+    ]
+  }
+}

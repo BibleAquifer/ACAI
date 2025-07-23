@@ -11,7 +11,7 @@ GEN 24:10, EZR 2:67, MAT 19:24.
 
 
 In the Old Testament (BSB), words representing “Camel” are translated as 
-*and camels* (4x), *camels* (13x), *he made the camels* (1x), *your camels* (2x), *for your camels* (2x), *his camels* (1x), *the camels* (6x), *for the camels* (1x), *and the camels* (1x), *to the camels* (1x), *her camel* (1x), *of her camel* (1x), *Their camels* (2x), *The camel* (1x), *the camel* (1x), *and their camels* (2x), *of their camels* (2x), *with camels* (2x), *camel loads* (1x), *250,000* (1x), *and* (1x), *yoke* (1x), *camels and* (1x), *of* (1x), *on camels* (1x), *of camels* (2x), *young camels* (1x), *young she-camel* (1x), *their camels for themselves* (1x), *for camels* (1x). 
+*young camels* (1x), *young she-camel* (1x), *and camels* (4x), *camels* (13x), *he made the camels* (1x), *your camels* (2x), *for your camels* (2x), *his camels* (1x), *the camels* (6x), *for the camels* (1x), *and the camels* (1x), *to the camels* (1x), *her camel* (1x), *of her camel* (1x), *Their camels* (2x), *The camel* (1x), *the camel* (1x), *and their camels* (2x), *of their camels* (2x), *with camels* (2x), *camel loads* (1x), *250,000* (1x), *and* (1x), *yoke* (1x), *camels and* (1x), *of* (1x), *on camels* (1x), *of camels* (2x), *their camels for themselves* (1x), *for camels* (1x). 
 
 
 In the New Testament (BSB), words representing “Camel” are translated as 
@@ -23,6 +23,10 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
+
+* young camels (ISA 60:6)
+
+* young she-camel (JER 2:23)
 
 * and camels (GEN 12:16; GEN 30:43; 2CH 14:14; ISA 66:20)
 
@@ -76,10 +80,6 @@ Return to [Index](00-Index.md)
 
 * of camels (ISA 30:6; ISA 60:6)
 
-* young camels (ISA 60:6)
-
-* young she-camel (JER 2:23)
-
 * their camels for themselves (JER 49:29)
 
 * for camels (EZK 25:5)
@@ -97,6 +97,10 @@ Return to [Index](00-Index.md)
 
 
 ### OT Pronominal Referents (BSB)
+
+* and all (ISA 60:6)
+
+* galloping here and there (JER 2:23)
 
 * with their young (GEN 32:16)
 
@@ -118,13 +122,13 @@ Return to [Index](00-Index.md)
 
 * took them away They (JOB 1:17)
 
-* and all (ISA 60:6)
-
-* galloping here and there (JER 2:23)
-
 
 
 ### OT Subject Referents (BSB)
+
+* bearing (ISA 60:6; 2CH 9:1)
+
+* galloping here and there (JER 2:23)
 
 * they have had enough (GEN 24:19)
 
@@ -135,10 +139,6 @@ Return to [Index](00-Index.md)
 * milk (GEN 32:16)
 
 * have a divided (DEU 14:7)
-
-* bearing (2CH 9:1; ISA 60:6)
-
-* galloping here and there (JER 2:23)
 
 
 

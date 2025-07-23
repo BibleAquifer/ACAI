@@ -1,0 +1,57 @@
+{
+  "id": "keyterm:Raise.2",
+  "primary_id": "keyterm:Resurrection",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "23.95"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Be Raised (Resurrected)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To bring someone back to life after they have died."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "ressusciter"
+    },
+    "ind": {
+      "preferred_label": "membangkitkan (dari maut)"
+    },
+    "por-Br": {
+      "preferred_label": "ressuscitar (dos mortos)"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Resurrection"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "συνεγείρω"
+    ]
+  },
+  "references": [
+    "49002006",
+    "51002012",
+    "51003001"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n49002006002"
+      ],
+      [
+        "n51002012009"
+      ],
+      [
+        "n51003001003"
+      ]
+    ]
+  }
+}

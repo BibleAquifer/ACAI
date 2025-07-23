@@ -1,0 +1,90 @@
+{
+  "id": "keyterm:Selection",
+  "primary_id": "keyterm:Chosen",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "30.92",
+    "30.93"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Selection",
+      "alternate_labels": [
+        "Elect",
+        "Election"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Choosing someone or something special from several options because they are preferred."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "elección"
+    },
+    "fra": {
+      "preferred_label": "élection"
+    },
+    "ind": {
+      "preferred_label": "pilihan"
+    },
+    "por": {
+      "preferred_label": "eleição"
+    },
+    "por-Br": {
+      "preferred_label": "seleção"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Chosen"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐκλογή"
+    ]
+  },
+  "key_references": [
+    "44009015",
+    "45009011",
+    "45011005",
+    "52001004"
+  ],
+  "references": [
+    "44009015",
+    "45009011",
+    "45011005",
+    "45011007",
+    "45011028",
+    "52001004",
+    "61001010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44009015010"
+      ],
+      [
+        "n45009011013"
+      ],
+      [
+        "n45011005010"
+      ],
+      [
+        "n45011007011"
+      ],
+      [
+        "n45011028011"
+      ],
+      [
+        "n52001004007"
+      ],
+      [
+        "n61001010010"
+      ]
+    ]
+  }
+}

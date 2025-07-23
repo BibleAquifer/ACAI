@@ -1,0 +1,99 @@
+{
+  "id": "keyterm:Justice.2",
+  "primary_id": "keyterm:GrantJustice",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "56.35",
+    "39.33",
+    "38.8"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Vengeance",
+      "alternate_labels": [
+        "Justice",
+        "Punishment"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Giving back punishment to someone who has done wrong, to make things fair again."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "venganza"
+    },
+    "fra": {
+      "preferred_label": "rendu de la justice"
+    },
+    "ind": {
+      "preferred_label": "pembalasan"
+    },
+    "por": {
+      "preferred_label": "vingança"
+    },
+    "por-Br": {
+      "preferred_label": "justiça"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:GrantJustice"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐκδίκησις"
+    ]
+  },
+  "key_references": [
+    "42018007",
+    "45012019",
+    "53001008",
+    "58010030"
+  ],
+  "references": [
+    "42018007",
+    "42018008",
+    "42021022",
+    "44007024",
+    "45012019",
+    "47007011",
+    "53001008",
+    "58010030",
+    "60002014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42018007008"
+      ],
+      [
+        "n42018008006"
+      ],
+      [
+        "n42021022003"
+      ],
+      [
+        "n44007024008"
+      ],
+      [
+        "n45012019013"
+      ],
+      [
+        "n47007011024"
+      ],
+      [
+        "n53001008005"
+      ],
+      [
+        "n58010030006"
+      ],
+      [
+        "n60002014008"
+      ]
+    ]
+  }
+}

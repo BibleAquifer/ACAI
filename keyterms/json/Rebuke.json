@@ -1,0 +1,123 @@
+{
+  "id": "keyterm:Rebuke",
+  "primary_id": "keyterm:Command",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "33.331",
+    "33.419"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Rebuke",
+      "alternate_labels": [
+        "Denounce"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To speak firmly to show that someone's behavior is wrong."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "dénoncer"
+    },
+    "ind": {
+      "preferred_label": "menegor"
+    },
+    "por-Br": {
+      "preferred_label": "repreender"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Command"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐπιτιμάω"
+    ]
+  },
+  "key_references": [
+    "40008026",
+    "41008033",
+    "42017003",
+    "55004002"
+  ],
+  "references": [
+    "40008026",
+    "40016022",
+    "40019013",
+    "40020031",
+    "41001025",
+    "41008032",
+    "41008033",
+    "41010013",
+    "41010048",
+    "42009055",
+    "42017003",
+    "42018015",
+    "42018039",
+    "42019039",
+    "42023040",
+    "55004002",
+    "65001009"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40008026010"
+      ],
+      [
+        "n40016022007"
+      ],
+      [
+        "n40019013015"
+      ],
+      [
+        "n40020031004"
+      ],
+      [
+        "n41001025002"
+      ],
+      [
+        "n41008032012"
+      ],
+      [
+        "n41008033009"
+      ],
+      [
+        "n41010013011"
+      ],
+      [
+        "n41010048002"
+      ],
+      [
+        "n42009055003"
+      ],
+      [
+        "n42017003008"
+      ],
+      [
+        "n42018015014"
+      ],
+      [
+        "n42018039004"
+      ],
+      [
+        "n42019039012"
+      ],
+      [
+        "n42023040005"
+      ],
+      [
+        "n55004002008"
+      ],
+      [
+        "n65001009022"
+      ]
+    ]
+  }
+}

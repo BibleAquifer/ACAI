@@ -1,0 +1,67 @@
+{
+  "id": "keyterm:Reconciliation",
+  "primary_id": "keyterm:Reconcile",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "40.1"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Reconciliation",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The process of fixing a broken friendship and becoming close again."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "reconciliación"
+    },
+    "fra": {
+      "preferred_label": "étant réconcilié avec dieu"
+    },
+    "ind": {
+      "preferred_label": "pendamaian"
+    },
+    "por": {
+      "preferred_label": "reconciliação"
+    },
+    "por-Br": {
+      "preferred_label": "reconciliação"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Reconcile"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "καταλλαγή"
+    ]
+  },
+  "references": [
+    "45005011",
+    "45011015",
+    "47005018",
+    "47005019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45005011020"
+      ],
+      [
+        "n45011015006"
+      ],
+      [
+        "n47005018019"
+      ],
+      [
+        "n47005019023"
+      ]
+    ]
+  }
+}

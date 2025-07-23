@@ -1,0 +1,115 @@
+{
+  "id": "keyterm:Visitation",
+  "primary_id": "keyterm:Visitation",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Visitation",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A special time when God comes to see or help people."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "visitación"
+    },
+    "fra": {
+      "preferred_label": "compte"
+    },
+    "ind": {
+      "preferred_label": "penghukuman"
+    },
+    "por": {
+      "preferred_label": "visitation"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "פְּקֻדָּה"
+    ]
+  },
+  "key_references": [
+    "23010003",
+    "24023012",
+    "26009001"
+  ],
+  "references": [
+    "04016029",
+    "23010003",
+    "24008012",
+    "24010015",
+    "24011023",
+    "24023012",
+    "24046021",
+    "24048044",
+    "24050027",
+    "24051018",
+    "26009001",
+    "28009007",
+    "33007004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040160290072"
+      ],
+      [
+        "o230100030041"
+      ],
+      [
+        "o240080120161",
+        "o240080120162"
+      ],
+      [
+        "o240100150061",
+        "o240100150062"
+      ],
+      [
+        "o240110230121",
+        "o240110230122"
+      ],
+      [
+        "o240230120151",
+        "o240230120152"
+      ],
+      [
+        "o240460210201",
+        "o240460210202"
+      ],
+      [
+        "o240480440191",
+        "o240480440192"
+      ],
+      [
+        "o240500270121",
+        "o240500270122"
+      ],
+      [
+        "o240510180061",
+        "o240510180062"
+      ],
+      [
+        "o260090010071"
+      ],
+      [
+        "o280090070032"
+      ],
+      [
+        "o330070040071",
+        "o330070040072"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o260090010092"
+      ]
+    ]
+  }
+}

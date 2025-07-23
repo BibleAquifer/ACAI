@@ -22,7 +22,7 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* the screech owl (LEV 11:16; LEV 11:16; DEU 14:15; DEU 14:15)
+* the screech owl (LEV 11:16; DEU 14:15; LEV 11:16; DEU 14:15)
 
 
 

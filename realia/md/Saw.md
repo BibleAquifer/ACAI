@@ -11,8 +11,6 @@ In the Old Testament (BSB), words representing “Saw” are translated as
 *a saw* (1x). 
 
 
-In the New Testament (BSB), words representing “Saw” are translated as 
-*they were sawed in two* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -25,12 +23,6 @@ Return to [Index](00-Index.md)
 
 
 
-### NT Instances (BSB)
-
-* they were sawed in two (HEB 11:37)
-
-
-
 ### OT Pronominal Referents (BSB)
 
 * who saws with it (ISA 10:15)
@@ -39,7 +31,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* ISA 10:15; HEB 11:37
+* ISA 10:15
 
 
 

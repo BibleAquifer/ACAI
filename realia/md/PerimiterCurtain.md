@@ -10,7 +10,7 @@ EXO 27:9, EXO 38:9, NUM 3:26.
 
 
 In the Old Testament (BSB), words representing “Perimiter Curtain” are translated as 
-*make curtains* (1x), *there are to be curtains* (1x), *The curtains* (2x), *Make the curtains* (1x), *and the curtains* (1x), *the curtains* (6x), *and had curtains* (2x), *And the curtains* (1x), *his sling in hand* (1x), *with a sling* (1x), *from a sling* (1x), ** (1x), *and slingstones* (1x), *slingstones* (1x), *with slingstones* (1x). 
+*make curtains* (1x), *there are to be curtains* (1x), *The curtains* (2x), *Make the curtains* (1x), *and the curtains* (1x), *the curtains* (6x), *and had curtains* (2x), *And the curtains* (1x). 
 
 
 
@@ -37,20 +37,6 @@ Return to [Index](00-Index.md)
 
 * And the curtains (EXO 38:15)
 
-* his sling in hand (1SA 17:40)
-
-* with a sling (1SA 17:50)
-
-* from a sling (1SA 25:29)
-
-*  (1KI 6:34)
-
-* and slingstones (2CH 26:14)
-
-* slingstones (JOB 41:20)
-
-* with slingstones (ZEC 9:15)
-
 
 
 ### OT Pronominal Referents (BSB)
@@ -71,7 +57,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* EXO 27:9; EXO 27:11; EXO 27:12; EXO 27:14; EXO 27:15; EXO 35:17; EXO 38:9; EXO 38:12; EXO 38:14; EXO 38:15; EXO 38:16; EXO 38:18; EXO 39:40; NUM 3:26; NUM 4:26; 1SA 17:40; 1SA 17:50; 1SA 25:29; 1KI 6:34; 2CH 26:14; JOB 41:20; ZEC 9:15
+* EXO 27:9; EXO 27:11; EXO 27:12; EXO 27:14; EXO 27:15; EXO 35:17; EXO 38:9; EXO 38:12; EXO 38:14; EXO 38:15; EXO 38:16; EXO 38:18; EXO 39:40; NUM 3:26; NUM 4:26
 
 
 

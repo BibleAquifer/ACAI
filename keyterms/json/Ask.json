@@ -1,0 +1,101 @@
+{
+  "id": "keyterm:Ask",
+  "primary_id": "keyterm:AskFor",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "33.170"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Ask (Beg)",
+      "alternate_labels": [
+        "Beg",
+        "Pray"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To urgently ask for something because you really need it."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "rogar"
+    },
+    "fra": {
+      "preferred_label": "demander"
+    },
+    "ind": {
+      "preferred_label": "minta"
+    },
+    "por": {
+      "preferred_label": "rogar"
+    },
+    "por-Br": {
+      "preferred_label": "orar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:AskFor"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δέομαι"
+    ]
+  },
+  "key_references": [
+    "42010002",
+    "44004031",
+    "44008024",
+    "52003010"
+  ],
+  "references": [
+    "40009038",
+    "42010002",
+    "42021036",
+    "42022032",
+    "44004031",
+    "44008022",
+    "44008024",
+    "44008034",
+    "44010002",
+    "52003010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40009038001"
+      ],
+      [
+        "n42010002013"
+      ],
+      [
+        "n42021036006"
+      ],
+      [
+        "n42022032003"
+      ],
+      [
+        "n44004031002"
+      ],
+      [
+        "n44008022009"
+      ],
+      [
+        "n44008024006"
+      ],
+      [
+        "n44008034008"
+      ],
+      [
+        "n44010002017"
+      ],
+      [
+        "n52003010005"
+      ]
+    ]
+  }
+}

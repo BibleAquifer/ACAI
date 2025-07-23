@@ -22,16 +22,16 @@
       "preferred_label": "Judea",
       "alternate_labels": [
         "Galilee",
-        "Jewish",
-        "Judaea",
-        "Judean",
-        "of Judea",
-        "Jewish leaders",
-        "Judah",
         "Jews",
-        "Judeans",
+        "Judean",
+        "Jewish",
         "Jewry",
-        "Juda"
+        "Judeans",
+        "Judah",
+        "Juda",
+        "of Judea",
+        "Judaea",
+        "Jewish leaders"
       ],
       "descriptions": [
         {
@@ -77,9 +77,9 @@
     }
   },
   "referred_to_as": [
-    "group:Judea",
     "place:TerritoryOfJudah",
-    "place:Judea.2"
+    "place:Judea.2",
+    "group:Judea"
   ],
   "associated_places": [
     "place:TerritoryOfJudah"
@@ -118,16 +118,16 @@
   },
   "key_references": [
     "42007017",
+    "42001065",
+    "44015001",
+    "42004044",
+    "41010001",
+    "15005008",
     "44008001",
     "44001008",
-    "41010001",
-    "42004044",
     "15009009",
-    "15005008",
-    "43007001",
     "40003001",
-    "42001065",
-    "44015001"
+    "43007001"
   ],
   "references": [
     "15009009",

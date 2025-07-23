@@ -8,7 +8,7 @@ GEN 25:29, 2KI 4:38, 2KI 4:40.
 
 
 In the Old Testament (BSB), words representing “Stew” are translated as 
-*some stew* (2x), *stew* (2x), *and the broth* (1x), *the broth* (1x), *of stew* (1x), *the stew* (1x), *of pigs* (1x), *the spices* (1x). 
+*some stew* (2x), *stew* (2x), *of stew* (1x), *the stew* (1x). 
 
 
 
@@ -23,17 +23,9 @@ Return to [Index](00-Index.md)
 
 * stew (GEN 25:34; HAG 2:12)
 
-* and the broth (JDG 6:19)
-
-* the broth (JDG 6:20)
-
 * of stew (2KI 4:39)
 
 * the stew (2KI 4:40)
-
-* of pigs (ISA 65:4)
-
-* the spices (EZK 24:10)
 
 
 
@@ -55,7 +47,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* GEN 25:29; GEN 25:34; JDG 6:19; JDG 6:20; 2KI 4:38; 2KI 4:39; 2KI 4:40; ISA 65:4; EZK 24:10; HAG 2:12
+* GEN 25:29; GEN 25:34; 2KI 4:38; 2KI 4:39; 2KI 4:40; HAG 2:12
 
 
 

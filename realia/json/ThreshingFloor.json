@@ -17,7 +17,7 @@
     ]
   },
   "type": "realia",
-  "realia_type": "Agriculture and Farming",
+  "realia_type": "other",
   "ubsdgnt": [
     "7.65"
   ],
@@ -41,11 +41,9 @@
   "only_mentioned_in_apocrypha": false,
   "non_biblical": false,
   "lemmas": {
-    "ara": [
-      "אִדְּרֵי"
-    ],
     "he": [
-      "גֹּרֶן"
+      "אִדַּר",
+      "גֹּרֶן"
     ],
     "el": [
       "ἅλων"
@@ -95,6 +93,9 @@
   ],
   "explicit_instances": {
     "wlc": [
+      [
+        "o270020350121"
+      ],
       [
         "o040150200071"
       ],
@@ -179,9 +180,6 @@
       ],
       [
         "o240510330102"
-      ],
-      [
-        "o270020350121"
       ],
       [
         "o280090010151"

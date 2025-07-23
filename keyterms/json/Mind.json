@@ -1,0 +1,76 @@
+{
+  "id": "keyterm:Mind",
+  "primary_id": "keyterm:Mind",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "26.15"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Mind",
+      "alternate_labels": [
+        "Thoughtful Planning"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The ability to plan carefully and wisely for the future."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "modo de pensar"
+    },
+    "fra": {
+      "preferred_label": "manière de pensée"
+    },
+    "ind": {
+      "preferred_label": "pikiran"
+    },
+    "por": {
+      "preferred_label": "modo de pensar"
+    },
+    "por-Br": {
+      "preferred_label": "modo de pensar"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "φρόνημα"
+    ]
+  },
+  "references": [
+    "45008006",
+    "45008007",
+    "45008027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45008006003"
+      ],
+      [
+        "n45008006009"
+      ],
+      [
+        "n45008007003"
+      ],
+      [
+        "n45008027009"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n45008007015"
+      ],
+      [
+        "n45008007018"
+      ]
+    ]
+  }
+}

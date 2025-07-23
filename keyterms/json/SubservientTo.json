@@ -1,0 +1,58 @@
+{
+  "id": "keyterm:SubservientTo",
+  "primary_id": "keyterm:SubservientTo",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "37.3"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Subservient To",
+      "alternate_labels": [
+        "Controlled By"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being completely controlled or ruled by someone or something else."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "esclavo"
+    },
+    "fra": {
+      "preferred_label": "esclave"
+    },
+    "ind": {
+      "preferred_label": "menjadi hamba"
+    },
+    "por": {
+      "preferred_label": "escravo"
+    },
+    "por-Br": {
+      "preferred_label": "subserviente a"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δοῦλος"
+    ]
+  },
+  "references": [
+    "45006019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45006019015"
+      ],
+      [
+        "n45006019030"
+      ]
+    ]
+  }
+}

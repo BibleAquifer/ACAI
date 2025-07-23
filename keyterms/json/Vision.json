@@ -1,0 +1,100 @@
+{
+  "id": "keyterm:Vision",
+  "primary_id": "keyterm:Vision",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "004356001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Vision",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A supernatural experience where a person sees a message from God or a future event."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "visión"
+    },
+    "fra": {
+      "preferred_label": "vision"
+    },
+    "ind": {
+      "preferred_label": "penglihatan"
+    },
+    "por": {
+      "preferred_label": "vision"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מַרְאָה"
+    ]
+  },
+  "key_references": [
+    "04012006",
+    "26001001",
+    "27010007"
+  ],
+  "references": [
+    "01046002",
+    "04012006",
+    "09003015",
+    "26001001",
+    "26008003",
+    "26040002",
+    "26043003",
+    "27010007",
+    "27010008",
+    "27010016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010460020042"
+      ],
+      [
+        "o040120060092"
+      ],
+      [
+        "o090030150142"
+      ],
+      [
+        "o260010010161"
+      ],
+      [
+        "o260080030172"
+      ],
+      [
+        "o260400020012"
+      ],
+      [
+        "o260430030122"
+      ],
+      [
+        "o270100070062"
+      ],
+      [
+        "o270100070142"
+      ],
+      [
+        "o270100080062"
+      ],
+      [
+        "o270100160162"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o270100080082"
+      ]
+    ]
+  }
+}

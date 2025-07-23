@@ -9,8 +9,6 @@ Other forms include:
 MRK 1:7, LUK 3:16, JHN 1:27. 
 
 
-In the Old Testament (BSB), words representing “Strap” are translated as 
-*strap* (1x). 
 
 
 In the New Testament (BSB), words representing “Strap” are translated as 
@@ -20,12 +18,6 @@ In the New Testament (BSB), words representing “Strap” are translated as
 Return to [Index](00-Index.md)
 
 ## More Information
-
-### OT Instances (BSB)
-
-* strap (ISA 5:27)
-
-
 
 ### NT Instances (BSB)
 
@@ -37,7 +29,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* ISA 5:27; MRK 1:7; LUK 3:16; JHN 1:27; ACT 22:25
+* MRK 1:7; LUK 3:16; JHN 1:27; ACT 22:25
 
 
 

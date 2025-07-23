@@ -1,0 +1,79 @@
+{
+  "id": "keyterm:Good.2",
+  "primary_id": "keyterm:Good",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.1",
+    "57.109"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Goodness",
+      "alternate_labels": [
+        "Goodness",
+        "Good Act"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Having qualities that are right, kind, and helpful to others."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": " bueno"
+    },
+    "fra": {
+      "preferred_label": "bonté"
+    },
+    "ind": {
+      "preferred_label": "kebaikan"
+    },
+    "por": {
+      "preferred_label": "bondade"
+    },
+    "por-Br": {
+      "preferred_label": "bom"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Good"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀγαθωσύνη"
+    ]
+  },
+  "references": [
+    "45015014",
+    "48005022",
+    "49005009",
+    "53001011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45015014015"
+      ],
+      [
+        "n48005022012"
+      ],
+      [
+        "n49005009008"
+      ],
+      [
+        "n53001011020"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n48005023005"
+      ]
+    ]
+  }
+}

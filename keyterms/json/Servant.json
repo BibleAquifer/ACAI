@@ -1,0 +1,77 @@
+{
+  "id": "keyterm:Servant",
+  "primary_id": "keyterm:Servant",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "35.23"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Minister (Role)",
+      "alternate_labels": [
+        "Public Servant",
+        "Priestly Minister"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A person who helps others by doing special work or service."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "servidor público"
+    },
+    "fra": {
+      "preferred_label": "serviteur"
+    },
+    "ind": {
+      "preferred_label": "pelayan"
+    },
+    "por": {
+      "preferred_label": "servidor público"
+    },
+    "por-Br": {
+      "preferred_label": "servo"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "λειτουργός"
+    ]
+  },
+  "key_references": [
+    "45013006",
+    "45015016",
+    "58008002"
+  ],
+  "references": [
+    "45013006",
+    "45015016",
+    "50002025",
+    "58001007",
+    "58008002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45013006007"
+      ],
+      [
+        "n45015016005"
+      ],
+      [
+        "n50002025016"
+      ],
+      [
+        "n58001007015"
+      ],
+      [
+        "n58008002003"
+      ]
+    ]
+  }
+}

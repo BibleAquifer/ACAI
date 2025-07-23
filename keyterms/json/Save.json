@@ -1,0 +1,100 @@
+{
+  "id": "keyterm:Save",
+  "primary_id": "keyterm:Salvation",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "23.136",
+    "21.19"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Save (Rescue)",
+      "alternate_labels": [
+        "Cure"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To fully rescue someone from danger or sickness."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "sanar"
+    },
+    "fra": {
+      "preferred_label": "amener sain et sauf"
+    },
+    "ind": {
+      "preferred_label": "menyembuhkan"
+    },
+    "por": {
+      "preferred_label": "curar"
+    },
+    "por-Br": {
+      "preferred_label": "salvar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Salvation"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "διασῳζω"
+    ]
+  },
+  "key_references": [
+    "44027043",
+    "44027044",
+    "44028001",
+    "60003020"
+  ],
+  "references": [
+    "40014036",
+    "42007003",
+    "44023024",
+    "44027043",
+    "44027044",
+    "44028001",
+    "44028004",
+    "60003020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40014036015"
+      ],
+      [
+        "n42007003016"
+      ],
+      [
+        "n44023024008"
+      ],
+      [
+        "n44027043005"
+      ],
+      [
+        "n44027044020"
+      ],
+      [
+        "n44028001002"
+      ],
+      [
+        "n44028004023"
+      ],
+      [
+        "n60003020021"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42007004016"
+      ]
+    ]
+  }
+}

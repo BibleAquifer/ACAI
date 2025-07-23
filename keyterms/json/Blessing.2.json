@@ -1,0 +1,113 @@
+{
+  "id": "keyterm:Blessing.2",
+  "primary_id": "keyterm:Bless",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "88.70",
+    "33.470",
+    "33.356"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Blessing (Content)",
+      "alternate_labels": [
+        "Praise"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The good words or promises given when someone is blessed."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "bendición"
+    },
+    "fra": {
+      "preferred_label": "bénédiction"
+    },
+    "ind": {
+      "preferred_label": "berkat"
+    },
+    "por": {
+      "preferred_label": "bênção"
+    },
+    "por-Br": {
+      "preferred_label": "bênção"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Bless"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "εὐλογία"
+    ]
+  },
+  "key_references": [
+    "46010016",
+    "48003014",
+    "49001003",
+    "60003009"
+  ],
+  "references": [
+    "45015029",
+    "46010016",
+    "48003014",
+    "49001003",
+    "58006007",
+    "58012017",
+    "59003010",
+    "60003009",
+    "66005012",
+    "66005013",
+    "66007012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45015029009"
+      ],
+      [
+        "n46010016004"
+      ],
+      [
+        "n48003014006"
+      ],
+      [
+        "n49001003016"
+      ],
+      [
+        "n58006007021"
+      ],
+      [
+        "n58012017009"
+      ],
+      [
+        "n59003010006"
+      ],
+      [
+        "n60003009018"
+      ],
+      [
+        "n66005012024"
+      ],
+      [
+        "n66005013036"
+      ],
+      [
+        "n66007012004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n58012017020"
+      ]
+    ]
+  }
+}

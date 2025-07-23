@@ -1,0 +1,102 @@
+{
+  "id": "keyterm:SoundWisdom",
+  "primary_id": "keyterm:SoundWisdom",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sound Wisdom",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Good, clear thinking that helps people make right choices and live well."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "sabiduría"
+    },
+    "fra": {
+      "preferred_label": "saine sagesse"
+    },
+    "ind": {
+      "preferred_label": "hikmat"
+    },
+    "por": {
+      "preferred_label": "sound wisdom"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תּוּשִׁיָּה"
+    ]
+  },
+  "key_references": [
+    "18026003",
+    "20002007",
+    "20003021",
+    "23028029"
+  ],
+  "references": [
+    "18005012",
+    "18006013",
+    "18011006",
+    "18012016",
+    "18026003",
+    "20002007",
+    "20003021",
+    "20008014",
+    "20018001",
+    "23028029",
+    "33006009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180050120071"
+      ],
+      [
+        "o180060130052"
+      ],
+      [
+        "o180110060072"
+      ],
+      [
+        "o180120160032"
+      ],
+      [
+        "o180260030052"
+      ],
+      [
+        "o200020070041"
+      ],
+      [
+        "o200030210061"
+      ],
+      [
+        "o200080140032"
+      ],
+      [
+        "o200180010051"
+      ],
+      [
+        "o230280290101"
+      ],
+      [
+        "o330060090052"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o200030210031"
+      ],
+      [
+        "o200030220012"
+      ]
+    ]
+  }
+}

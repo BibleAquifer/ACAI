@@ -11,7 +11,7 @@ JDG 8:7, ISA 17:13, HOS 9:6.
 
 
 In the Old Testament (BSB), words representing “Thistle” are translated as 
-*and thistles* (2x), *and briers* (3x), *and thickets* (1x), *A thistle* (2x), *the thistle* (2x), *then let briers* (1x), *like tumbleweed* (1x), *Like a thorn* (1x), *the thorns* (1x), *like tumbleweeds* (1x), *and thorns will overrun* (1x). 
+*and briers* (3x), *and thistles* (2x), *and thickets* (1x), *the thistle* (2x), *A thistle* (2x), *then let briers* (1x), *Like a thorn* (1x), *the thorns* (1x), *and thorns will overrun* (1x), *like tumbleweed* (1x), *like tumbleweeds* (1x). 
 
 
 In the New Testament (BSB), words representing “Thistle” are translated as 
@@ -24,27 +24,27 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* and thistles (GEN 3:18; HOS 10:8)
-
 * and briers (JDG 8:7; JDG 8:16; ISA 34:13)
+
+* and thistles (GEN 3:18; HOS 10:8)
 
 * and thickets (1SA 13:6)
 
-* A thistle (2KI 14:9; 2CH 25:18)
-
 * the thistle (2KI 14:9; 2CH 25:18)
 
-* then let briers (JOB 31:40)
+* A thistle (2KI 14:9; 2CH 25:18)
 
-* like tumbleweed (PSA 83:14)
+* then let briers (JOB 31:40)
 
 * Like a thorn (PRO 26:9)
 
 * the thorns (SNG 2:2)
 
-* like tumbleweeds (ISA 17:13)
-
 * and thorns will overrun (HOS 9:6)
+
+* like tumbleweed (PSA 83:14)
+
+* like tumbleweeds (ISA 17:13)
 
 
 

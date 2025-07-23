@@ -1,0 +1,74 @@
+{
+  "id": "keyterm:Register",
+  "primary_id": "keyterm:Register",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "33.42"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Register",
+      "alternate_labels": [
+        "Put on a Census List"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To write down a person's name on a list, often during a counting of people."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "inscribir"
+    },
+    "fra": {
+      "preferred_label": "s'enregisrer"
+    },
+    "ind": {
+      "preferred_label": "mendaftarkan"
+    },
+    "por": {
+      "preferred_label": "inscrever"
+    },
+    "por-Br": {
+      "preferred_label": "inscrever"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀπογράφω"
+    ]
+  },
+  "references": [
+    "42002001",
+    "42002003",
+    "42002005",
+    "58012023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42002001012"
+      ],
+      [
+        "n42002003004"
+      ],
+      [
+        "n42002005001"
+      ],
+      [
+        "n58012023004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42002002001"
+      ]
+    ]
+  }
+}

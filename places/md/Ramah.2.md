@@ -1,19 +1,10 @@
-# Ramah (Hill)
-**Ramah (Hill)**. 
-A hill near Gibeah of Benjamin. 
+# Ramah (of the Negev)
+**Ramah (of the Negev)**. 
+A town in the territory of Simeon; also known as Ramoth-Negev. 
 Other forms include: 
 *Rama*, *Ramah*. 
-Ramah (Hill) is also referred to as: 
-[Ramah (Hill)](Ramah.2.md). 
-
-
-
-
-Other information about Ramah (Hill):
-
-
-* May refer to the same location as: 
-[Gibeah (of Phinehas)](Gibeah.2.md). 
+Ramah (of the Negev) is also referred to as: 
+[Ramah (of the Negev)](Ramah.2.md). 
 
 
 **OT Distribution of References**
@@ -28,15 +19,15 @@ Other information about Ramah (Hill):
 
 
 
-**Key References for Ramah (Hill)**: 
-1SA 22:6. 
+**Key References for Ramah (of the Negev)**: 
+JOS 19:8. 
 
 
-In the Old Testament (BSB), words representing “Ramah (Hill)” are translated as 
+In the Old Testament (BSB), words representing “Ramah (of the Negev)” are translated as 
 *Ramah* (9x), *to* (1x), *Ramah and* (1x), *of Ramah* (3x), *trembles* (1x), *mourning and* (1x), *in Ramah* (1x). 
 
 
-In the New Testament (BSB), words representing “Ramah (Hill)” are translated as 
+In the New Testament (BSB), words representing “Ramah (of the Negev)” are translated as 
 *Ramah* (1x). 
 
 
@@ -79,7 +70,7 @@ Return to [Index](00-Index.md)
 
 * VizBible: City
 
-* ACAI: hill
+* ACAI: town
 
 
 

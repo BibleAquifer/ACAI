@@ -1,0 +1,53 @@
+{
+  "id": "keyterm:CovenantOfSalt",
+  "primary_id": "keyterm:Covenant",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "001185001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Covenant of Salt",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A special agreement meant to last forever, symbolized by salt because it preserves and does not spoil."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "pacto de sal"
+    },
+    "fra": {
+      "preferred_label": "alliance consacrée par le sel"
+    },
+    "ind": {
+      "preferred_label": "perjanjian garam"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Covenant"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "בְּרִית מֶלַח"
+    ]
+  },
+  "references": [
+    "04018019",
+    "14013005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040180190161"
+      ],
+      [
+        "o140130050161"
+      ]
+    ]
+  }
+}

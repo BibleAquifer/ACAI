@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Sheath” are translated as 
-*from its sheath* (4x), *its sheath* (2x), *your sheath* (1x), *against* (1x). 
+*its sheath* (2x), *from its sheath* (4x), *your sheath* (1x), *against* (1x). 
 
 
 In the New Testament (BSB), words representing “Sheath” are translated as 
@@ -23,9 +23,9 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* from its sheath (1SA 17:51; 2SA 20:8; EZK 21:8; EZK 21:10)
-
 * its sheath (1CH 21:27; EZK 21:35)
+
+* from its sheath (1SA 17:51; 2SA 20:8; EZK 21:8; EZK 21:10)
 
 * your sheath (JER 47:6)
 

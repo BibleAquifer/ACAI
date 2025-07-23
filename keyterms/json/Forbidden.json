@@ -1,0 +1,34 @@
+{
+  "id": "keyterm:Forbidden",
+  "primary_id": "keyterm:Forbidden",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Forbidden",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Something that is not allowed or stopped, like fruit that should not be eaten."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עָרֵל"
+    ]
+  },
+  "references": [
+    "03019023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030190230171"
+      ]
+    ]
+  }
+}

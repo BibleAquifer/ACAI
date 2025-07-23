@@ -1,0 +1,58 @@
+{
+  "id": "keyterm:HalfAMile",
+  "primary_id": "keyterm:HalfAMile",
+  "alternate_sources": {
+    "ubsrealia": [
+      "realia:11.4.2.4"
+    ]
+  },
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "81.28"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sabbath Journey",
+      "alternate_labels": [
+        "Half a Mile",
+        "One Kilometer"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The farthest distance a person was allowed to travel on the Sabbath, about half a mile or one kilometer."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "medio kilómetro"
+    },
+    "fra": {
+      "preferred_label": "à une demi, heure de marche"
+    },
+    "ind": {
+      "preferred_label": "seperjalanan sabat"
+    },
+    "por-Br": {
+      "preferred_label": "half a mile"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σαββάτου ὁδός"
+    ]
+  },
+  "references": [
+    "44001012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44001012014"
+      ]
+    ]
+  }
+}

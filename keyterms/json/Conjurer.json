@@ -1,0 +1,53 @@
+{
+  "id": "keyterm:Conjurer",
+  "primary_id": "keyterm:Conjurer",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "000762001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Conjurer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A person who uses magic or tries to predict the future."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "mago"
+    },
+    "fra": {
+      "preferred_label": "prestidigitateur"
+    },
+    "ind": {
+      "preferred_label": "tukang sihir"
+    },
+    "por": {
+      "preferred_label": "conjurer"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַשָּׁף"
+    ]
+  },
+  "references": [
+    "27001020",
+    "27002002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o270010200152"
+      ],
+      [
+        "o270020020053"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:Live",
+  "primary_id": "keyterm:DailyLife",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "41.18"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Live (Verb)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To carry on with everyday actions and make choices in daily life."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "vivir"
+    },
+    "fra": {
+      "preferred_label": "vivre"
+    },
+    "ind": {
+      "preferred_label": "hidup"
+    },
+    "por": {
+      "preferred_label": "viver"
+    },
+    "por-Br": {
+      "preferred_label": "viver"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:DailyLife"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βιόω"
+    ]
+  },
+  "references": [
+    "60004002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n60004002013"
+      ]
+    ]
+  }
+}

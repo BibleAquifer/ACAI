@@ -11,7 +11,7 @@ EXO 25:6, EST 2:12, ISA 39:2.
 
 
 In the Old Testament (BSB), words representing “Balsam Tree” are translated as 
-*spices* (15x), *500* (1x), *fragrant cinnamon* (1x), *fragrant cane* (1x), *as well as spices* (1x), *were spices* (1x), *and the* (2x), *and spices* (1x), *the spices* (1x), *then with perfumes and* (1x), *of its spices* (1x), *my spice* (1x), *of spice* (1x), *of spices* (1x), *fragrance* (1x). 
+*of spice* (1x), *of spices* (1x), *spices* (15x), *500* (1x), *fragrant cinnamon* (1x), *fragrant cane* (1x), *as well as spices* (1x), *were spices* (1x), *and the* (2x), *and spices* (1x), *the spices* (1x), *then with perfumes and* (1x), *of its spices* (1x), *my spice* (1x), *fragrance* (1x). 
 
 
 
@@ -22,7 +22,11 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* spices (EXO 25:6; EXO 35:8; 1KI 10:2; 1KI 10:10; 1KI 10:25; 2CH 9:1; 2CH 9:9; 2CH 9:9; 2CH 9:24; 2CH 16:14; 2CH 32:27; SNG 4:10; SNG 4:14; SNG 8:14; EZK 27:22)
+* of spice (SNG 5:13)
+
+* of spices (SNG 6:2)
+
+* spices (SNG 8:14; EXO 25:6; EXO 35:8; 1KI 10:2; 1KI 10:10; 1KI 10:25; 2CH 9:1; 2CH 9:9; 2CH 9:9; 2CH 9:24; 2CH 16:14; 2CH 32:27; SNG 4:10; SNG 4:14; EZK 27:22)
 
 * 500 (EXO 30:23)
 
@@ -45,10 +49,6 @@ Return to [Index](00-Index.md)
 * of its spices (SNG 4:16)
 
 * my spice (SNG 5:1)
-
-* of spice (SNG 5:13)
-
-* of spices (SNG 6:2)
 
 * fragrance (ISA 3:24)
 

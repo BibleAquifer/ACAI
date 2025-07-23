@@ -1,0 +1,147 @@
+{
+  "id": "keyterm:Testimony.2",
+  "primary_id": "keyterm:BearWitness",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "33.262",
+    "33.264"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Testimony (Content)",
+      "alternate_labels": [
+        "Witness",
+        "Evidence",
+        "Proof",
+        "Opportunity to Testify"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The words or story someone gives to show what they have seen or know."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "testimonio"
+    },
+    "fra": {
+      "preferred_label": "témoignage"
+    },
+    "ind": {
+      "preferred_label": "kesaksian"
+    },
+    "por": {
+      "preferred_label": "testemunho"
+    },
+    "por-Br": {
+      "preferred_label": "testemunho"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:BearWitness"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μαρτύριον"
+    ]
+  },
+  "key_references": [
+    "40024014",
+    "42021013",
+    "44004033",
+    "66015005"
+  ],
+  "references": [
+    "40008004",
+    "40010018",
+    "40024014",
+    "41001044",
+    "41006011",
+    "41013009",
+    "42005014",
+    "42009005",
+    "42021013",
+    "44004033",
+    "44007044",
+    "46001006",
+    "47001012",
+    "53001010",
+    "54002006",
+    "55001008",
+    "58003005",
+    "59005003",
+    "66015005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40008004023"
+      ],
+      [
+        "n40010018011"
+      ],
+      [
+        "n40024014013"
+      ],
+      [
+        "n41001044024"
+      ],
+      [
+        "n41006011022"
+      ],
+      [
+        "n41013009022"
+      ],
+      [
+        "n42005014023"
+      ],
+      [
+        "n42009005020"
+      ],
+      [
+        "n42021013004"
+      ],
+      [
+        "n44004033006"
+      ],
+      [
+        "n44007044004"
+      ],
+      [
+        "n46001006003"
+      ],
+      [
+        "n47001012008"
+      ],
+      [
+        "n53001010017"
+      ],
+      [
+        "n54002006008"
+      ],
+      [
+        "n55001008005"
+      ],
+      [
+        "n58003005013"
+      ],
+      [
+        "n59005003013"
+      ],
+      [
+        "n66015005012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n54002007002"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "keyterm:Peaceful",
+  "primary_id": "keyterm:Peace",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "25.249"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Peaceful",
+      "alternate_labels": [
+        "Peace-Loving"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being calm inside and not feeling worried or upset."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "pacífico"
+    },
+    "fra": {
+      "preferred_label": "paisible"
+    },
+    "ind": {
+      "preferred_label": "pendamai"
+    },
+    "por": {
+      "preferred_label": "pacífico"
+    },
+    "por-Br": {
+      "preferred_label": "pacífico"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Peace"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "εἰρηνικός"
+    ]
+  },
+  "references": [
+    "58012011",
+    "59003017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58012011017"
+      ],
+      [
+        "n59003017010"
+      ]
+    ]
+  }
+}

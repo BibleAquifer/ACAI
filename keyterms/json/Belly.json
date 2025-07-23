@@ -1,0 +1,59 @@
+{
+  "id": "keyterm:Belly",
+  "primary_id": "keyterm:Belly",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "26.11"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Internal Organs",
+      "alternate_labels": [
+        "Belly",
+        "Insides"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The inside parts of the body used for digesting food, like the stomach and intestines."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "estómago"
+    },
+    "fra": {
+      "preferred_label": "estomac"
+    },
+    "ind": {
+      "preferred_label": "perut"
+    },
+    "por": {
+      "preferred_label": "estômago"
+    },
+    "por-Br": {
+      "preferred_label": "estômago"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Affection"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κοιλία"
+    ]
+  },
+  "references": [
+    "43007038"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43007038012"
+      ]
+    ]
+  }
+}

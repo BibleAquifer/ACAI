@@ -1,0 +1,60 @@
+{
+  "id": "keyterm:RegardAsHappy",
+  "primary_id": "keyterm:RegardAsHappy",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "25.120"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Regard as Happy",
+      "alternate_labels": [
+        "Consider Blessed",
+        "Call Blessed"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To see someone as happy or lucky because of good things happening to them."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "considerar dichoso"
+    },
+    "fra": {
+      "preferred_label": "considérer chanceux ou heureux"
+    },
+    "ind": {
+      "preferred_label": "menyebut berbahagia"
+    },
+    "por": {
+      "preferred_label": "considerar feliz"
+    },
+    "por-Br": {
+      "preferred_label": "considerar feliz"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μακαρίζω"
+    ]
+  },
+  "references": [
+    "42001048",
+    "59005011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42001048014"
+      ],
+      [
+        "n59005011002"
+      ]
+    ]
+  }
+}

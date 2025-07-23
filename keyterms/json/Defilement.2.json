@@ -1,0 +1,67 @@
+{
+  "id": "keyterm:Defilement.2",
+  "primary_id": "keyterm:Defilement",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.259"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Defilement (Stained)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being made dirty or stained by something evil or wrong."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "corrupción"
+    },
+    "fra": {
+      "preferred_label": "corruption"
+    },
+    "ind": {
+      "preferred_label": "pencemaran"
+    },
+    "por": {
+      "preferred_label": "corrupção"
+    },
+    "por-Br": {
+      "preferred_label": "contaminação"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Defilement"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "μιασμός",
+      "μίασμα"
+    ]
+  },
+  "references": [
+    "61002010",
+    "61002020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n61002010008"
+      ],
+      [
+        "n61002020005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n61002020016"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "keyterm:Redeem.6",
+  "primary_id": "keyterm:Liberation",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "37.128"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Redeem (from Slavery)",
+      "alternate_labels": [
+        "Deliver",
+        "Liberate"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To set someone free, like freeing a slave."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "liberar"
+    },
+    "fra": {
+      "preferred_label": "racheter"
+    },
+    "ind": {
+      "preferred_label": "membebaskan"
+    },
+    "por": {
+      "preferred_label": "libertar"
+    },
+    "por-Br": {
+      "preferred_label": "libertar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Liberation"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "λυτρόω"
+    ]
+  },
+  "references": [
+    "42024021",
+    "56002014",
+    "60001018"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42024021009"
+      ],
+      [
+        "n56002014007"
+      ],
+      [
+        "n60001018008"
+      ]
+    ]
+  }
+}

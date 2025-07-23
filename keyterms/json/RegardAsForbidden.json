@@ -1,0 +1,37 @@
+{
+  "id": "keyterm:RegardAsForbidden",
+  "primary_id": "keyterm:RegardAsForbidden",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Regard as Forbidden",
+      "alternate_labels": [
+        "Consider Unclean"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To think of something as not allowed or ritually unclean."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "ערל"
+    ]
+  },
+  "references": [
+    "03019023"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030190230092"
+      ]
+    ]
+  }
+}

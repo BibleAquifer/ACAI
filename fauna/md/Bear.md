@@ -11,7 +11,7 @@ Bear is categorized under _Mammals_.
 
 
 In the Old Testament (BSB), words representing “Bear” are translated as 
-*living* (1x), *that a vicious animal* (1x), *A vicious animal* (1x), *of dangerous animals* (1x), *or a bear* (1x), *bears* (1x), *the bear* (1x), *bear* (2x), *female bears* (1x), *a bear* (3x), *with the bear* (1x), *like bears* (1x), *a bear lying* (1x), *and wild beasts* (1x), *I send wild beasts* (1x), *wild beasts* (1x), *wild animals* (1x), *Like a bear* (1x). 
+*or a bear* (1x), *bears* (1x), *the bear* (1x), *bear* (2x), *female bears* (1x), *a bear* (3x), *with the bear* (1x), *like bears* (1x), *a bear lying* (1x), *Like a bear* (1x), *living* (1x), *animal* (2x), *that a vicious* (1x), *A vicious* (1x), *animals* (2x), *of dangerous* (1x), *beasts* (3x), *and wild* (1x), *I send wild* (1x), *wild* (2x). 
 
 
 In the New Testament (BSB), words representing “Bear” are translated as 
@@ -23,14 +23,6 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
-
-* living (GEN 6:19)
-
-* that a vicious animal (GEN 37:20)
-
-* A vicious animal (GEN 37:33)
-
-* of dangerous animals (LEV 26:6)
 
 * or a bear (1SA 17:34)
 
@@ -50,15 +42,27 @@ Return to [Index](00-Index.md)
 
 * a bear lying (LAM 3:10)
 
-* and wild beasts (EZK 5:17)
-
-* I send wild beasts (EZK 14:15)
-
-* wild beasts (EZK 14:21)
-
-* wild animals (EZK 34:25)
-
 * Like a bear (HOS 13:8)
+
+* living (GEN 6:19)
+
+* animal (GEN 37:20; GEN 37:33)
+
+* that a vicious (GEN 37:20)
+
+* A vicious (GEN 37:33)
+
+* animals (LEV 26:6; EZK 34:25)
+
+* of dangerous (LEV 26:6)
+
+* beasts (EZK 5:17; EZK 14:15; EZK 14:21)
+
+* and wild (EZK 5:17)
+
+* I send wild (EZK 14:15)
+
+* wild (EZK 14:21; EZK 34:25)
 
 
 
@@ -69,8 +73,6 @@ Return to [Index](00-Index.md)
 
 
 ### OT Pronominal Referents (BSB)
-
-* of every (GEN 6:19)
 
 * after it (1SA 17:35)
 
@@ -87,6 +89,8 @@ Return to [Index](00-Index.md)
 * of them (1SA 17:36)
 
 * their young (ISA 11:7)
+
+* of every (GEN 6:19)
 
 
 

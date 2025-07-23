@@ -9,7 +9,7 @@ JOB 39:13, LAM 4:3.
 
 
 In the Old Testament (BSB), words representing “Ostrich” are translated as 
-*the ostrich* (4x), *of ostriches* (1x), *of the ostrich* (1x), *Ostriches* (1x), *for ostriches* (1x), *and the ostriches* (1x), *and ostriches* (1x), *like* (1x), *an ostrich* (1x), *inlaid with ivory* (1x), *like an ostrich* (1x). 
+*an ostrich* (2x), *of the ostrich* (1x), *the ostrich* (4x), *of ostriches* (2x), *Ostriches* (2x), *for ostriches* (2x), *the ostriches* (1x), *like* (2x), *and* (1x), *and ostriches* (1x), *inlaid with ivory* (1x). 
 
 
 
@@ -20,27 +20,27 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* the ostrich (LEV 11:16; LEV 11:16; DEU 14:15; DEU 14:15)
-
-* of ostriches (JOB 30:29)
+* an ostrich (LAM 4:3; MIC 1:8)
 
 * of the ostrich (JOB 39:13)
 
-* Ostriches (ISA 13:21)
+* the ostrich (LEV 11:16; DEU 14:15; LEV 11:16; DEU 14:15)
 
-* for ostriches (ISA 34:13)
+* of ostriches (JOB 30:29; JOB 30:29)
 
-* and the ostriches (ISA 43:20)
+* Ostriches (ISA 13:21; ISA 13:21)
+
+* for ostriches (ISA 34:13; ISA 34:13)
+
+* the ostriches (ISA 43:20)
+
+* like (LAM 4:3; MIC 1:8)
+
+* and (ISA 43:20)
 
 * and ostriches (JER 50:39)
 
-* like (LAM 4:3)
-
-* an ostrich (LAM 4:3)
-
 * inlaid with ivory (EZK 27:6)
-
-* like an ostrich (MIC 1:8)
 
 
 
@@ -80,7 +80,9 @@ Return to [Index](00-Index.md)
 
 * harshly (JOB 39:16)
 
-* spreads her wings she laughs (JOB 39:18)
+* spreads her wings (JOB 39:18)
+
+* she laughs (JOB 39:18)
 
 * will lack (ISA 34:16)
 

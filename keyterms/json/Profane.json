@@ -1,0 +1,114 @@
+{
+  "id": "keyterm:Profane",
+  "primary_id": "keyterm:Profane",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.115"
+  ],
+  "ubsdbh": [
+    "002267001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Profane",
+      "alternate_labels": [
+        "Ordinary",
+        "Common"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Something that is ordinary or common and does not need special religious cleansing."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "profano"
+    },
+    "fra": {
+      "preferred_label": "contraire de saint: profane"
+    },
+    "ind": {
+      "preferred_label": "biasa"
+    },
+    "por": {
+      "preferred_label": "opposite of holy: profane"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Profane.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֹל"
+    ],
+    "el": [
+      "βέβηλος"
+    ]
+  },
+  "key_references": [
+    "03010010",
+    "26022026",
+    "54001009",
+    "58012016"
+  ],
+  "references": [
+    "03010010",
+    "09021005",
+    "09021006",
+    "26022026",
+    "26042020",
+    "26044023",
+    "26048015",
+    "54001009",
+    "54004007",
+    "54006020",
+    "55002016",
+    "58012016"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030100100052"
+      ],
+      [
+        "o090210050081"
+      ],
+      [
+        "o090210060211"
+      ],
+      [
+        "o260220260082"
+      ],
+      [
+        "o260420200172"
+      ],
+      [
+        "o260440230062"
+      ],
+      [
+        "o260480150101"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n54001009017"
+      ],
+      [
+        "n54004007003"
+      ],
+      [
+        "n54006020008"
+      ],
+      [
+        "n55002016003"
+      ],
+      [
+        "n58012016005"
+      ]
+    ]
+  }
+}

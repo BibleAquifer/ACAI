@@ -1,0 +1,77 @@
+{
+  "id": "keyterm:EternalFire",
+  "primary_id": "keyterm:EternalFire",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "2.3"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Eternal Fire",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A symbolic fire that represents never-ending punishment in hell."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "fuego eterno"
+    },
+    "fra": {
+      "preferred_label": "feu éternel"
+    },
+    "ind": {
+      "preferred_label": "api kekal"
+    },
+    "por": {
+      "preferred_label": "fogo eterno"
+    },
+    "por-Br": {
+      "preferred_label": "fogo eterno"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:FuryOfFire",
+    "keyterm:PunishmentOfEternalFire"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "πῦρ τὸ αἰώνιον",
+      "πῦρ ζῆλος",
+      "πυρὸς αἰωνίου δίκη"
+    ]
+  },
+  "references": [
+    "40018008",
+    "40025041",
+    "58010027",
+    "65001007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40018008038"
+      ],
+      [
+        "n40025041014"
+      ],
+      [
+        "n58010027007"
+      ],
+      [
+        "n65001007022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40025041018"
+      ]
+    ]
+  }
+}

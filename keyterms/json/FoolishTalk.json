@@ -1,0 +1,76 @@
+{
+  "id": "keyterm:FoolishTalk",
+  "primary_id": "keyterm:Foolish",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "33.376"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Foolish Talk",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Talking without meaning or sense, often wasting time or not saying anything important."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "palabrería vacía"
+    },
+    "fra": {
+      "preferred_label": "bavardages impies"
+    },
+    "ind": {
+      "preferred_label": "omongan yang kosong"
+    },
+    "por": {
+      "preferred_label": "palavreado oco ou vazio"
+    },
+    "por-Br": {
+      "preferred_label": "palavreado oco ou vazio"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Foolish"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κενοφωνία"
+    ]
+  },
+  "references": [
+    "54006020",
+    "55002016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n54006020009"
+      ],
+      [
+        "n55002016004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n55002017004"
+      ],
+      [
+        "n55002017009"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n55002016009"
+      ]
+    ]
+  }
+}

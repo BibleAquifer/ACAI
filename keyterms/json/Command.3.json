@@ -1,0 +1,110 @@
+{
+  "id": "keyterm:Command.3",
+  "primary_id": "keyterm:Command",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "33.69"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Command (Request)",
+      "alternate_labels": [
+        "To Bid",
+        "To Request"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To ask someone to do something, sometimes strongly, using words like 'say,' 'speak,' or 'tell.'"
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "decir"
+    },
+    "fra": {
+      "preferred_label": "prescrire"
+    },
+    "ind": {
+      "preferred_label": "mengatakan"
+    },
+    "por-Br": {
+      "preferred_label": "comandar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Command"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "εἶπον"
+    ]
+  },
+  "key_references": [
+    "40008008",
+    "40020021",
+    "42007007",
+    "51004017"
+  ],
+  "references": [
+    "40004003",
+    "40008008",
+    "40010027",
+    "40020021",
+    "40021005",
+    "40022004",
+    "41016007",
+    "42004003",
+    "42007007",
+    "42010040",
+    "42012013",
+    "51004017",
+    "66022017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40004003012"
+      ],
+      [
+        "n40008008018"
+      ],
+      [
+        "n40010027007"
+      ],
+      [
+        "n40020021009"
+      ],
+      [
+        "n40021005001"
+      ],
+      [
+        "n40022004006"
+      ],
+      [
+        "n41016007003"
+      ],
+      [
+        "n42004003011"
+      ],
+      [
+        "n42007007009"
+      ],
+      [
+        "n42010040023"
+      ],
+      [
+        "n42012013009"
+      ],
+      [
+        "n51004017002"
+      ],
+      [
+        "n66022017012"
+      ]
+    ]
+  }
+}

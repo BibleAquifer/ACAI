@@ -1,0 +1,63 @@
+{
+  "id": "keyterm:Preserve",
+  "primary_id": "keyterm:Alive",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "23.89",
+    "23.92"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Preserve Life",
+      "alternate_labels": [
+        "Give Life"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To keep someone or something alive and safe."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "mantener la vida"
+    },
+    "fra": {
+      "preferred_label": "sauver la vie"
+    },
+    "ind": {
+      "preferred_label": "berikan hidup"
+    },
+    "por": {
+      "preferred_label": "preservar a vida"
+    },
+    "por-Br": {
+      "preferred_label": "preservar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Alive"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ζῳογονέω"
+    ]
+  },
+  "references": [
+    "42017033",
+    "54006013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42017033014"
+      ],
+      [
+        "n54006013007"
+      ]
+    ]
+  }
+}

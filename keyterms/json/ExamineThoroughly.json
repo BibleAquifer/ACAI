@@ -1,0 +1,64 @@
+{
+  "id": "keyterm:ExamineThoroughly",
+  "primary_id": "keyterm:Decision",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "27.3",
+    "56.21"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Examine Thoroughly",
+      "alternate_labels": [
+        "Determine",
+        "Decide a Case"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To carefully gather all important details before making a clear decision, especially in legal matters."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "investigar"
+    },
+    "fra": {
+      "preferred_label": "étudier"
+    },
+    "ind": {
+      "preferred_label": "menerima"
+    },
+    "por": {
+      "preferred_label": "investigar"
+    },
+    "por-Br": {
+      "preferred_label": "examinar minuciosamente"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Decision"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "διαγινώσκω"
+    ]
+  },
+  "references": [
+    "44023015",
+    "44024022"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44023015017"
+      ],
+      [
+        "n44024022018"
+      ]
+    ]
+  }
+}

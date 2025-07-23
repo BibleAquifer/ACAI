@@ -1,0 +1,62 @@
+{
+  "id": "keyterm:Offering.4",
+  "primary_id": "keyterm:Offering",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.16"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Offering (Voluntary)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A gift freely given to God during worship to show devotion and love."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "ofrenda"
+    },
+    "fra": {
+      "preferred_label": "offrande"
+    },
+    "ind": {
+      "preferred_label": "persembahan"
+    },
+    "por": {
+      "preferred_label": "oferta"
+    },
+    "por-Br": {
+      "preferred_label": "oferta"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Offering"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "προσφορά"
+    ]
+  },
+  "references": [
+    "58010008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58010008006"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n58010008016"
+      ]
+    ]
+  }
+}

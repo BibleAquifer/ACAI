@@ -15,9 +15,9 @@
       "http://pleiades.stoa.org/places/707498"
     ],
     "tipnr": [
-      "Elishah|Cyprus@Num.24.24-Act",
       "Cyprus@Num.24.24-Act",
-      "Kittim|Cyprus@Num.24.24-Act"
+      "Kittim|Cyprus@Num.24.24-Act",
+      "Elishah|Cyprus@Num.24.24-Act"
     ],
     "vizbible": [
       "receEjvf5hXhkgVuZ"
@@ -31,12 +31,12 @@
     "eng": {
       "preferred_label": "Cyprus",
       "alternate_labels": [
-        "western coastlands",
+        "Elishah",
+        "Chittim",
+        "Cypriot",
         "Cyprian",
         "Kittim",
-        "Cypriot",
-        "Elishah",
-        "Chittim"
+        "western coastlands"
       ],
       "descriptions": [
         {
@@ -121,8 +121,8 @@
     }
   },
   "key_references": [
-    "44011019",
-    "26027006"
+    "26027006",
+    "44011019"
   ],
   "references": [
     "04024024",

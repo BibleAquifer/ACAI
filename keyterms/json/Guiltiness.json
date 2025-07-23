@@ -1,0 +1,145 @@
+{
+  "id": "keyterm:Guiltiness",
+  "primary_id": "keyterm:Sin",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "000755001001000",
+    "000755001002000",
+    "000755002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Guiltiness",
+      "alternate_labels": [
+        "Guilt",
+        "Guilt-Offering",
+        "Gift of Restitution",
+        "Gift of Atonement"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being responsible for doing something wrong or a special offering given to make up for that wrong."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "culpa"
+    },
+    "fra": {
+      "preferred_label": "culpabilité"
+    },
+    "ind": {
+      "preferred_label": "korban penebus salah"
+    },
+    "por": {
+      "preferred_label": "guiltiness"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Guilt.2",
+    "keyterm:Sin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַשְׁמָה"
+    ]
+  },
+  "key_references": [
+    "03004003",
+    "03005024",
+    "13021003",
+    "19069006"
+  ],
+  "references": [
+    "03004003",
+    "03005024",
+    "03005026",
+    "03022016",
+    "13021003",
+    "14024018",
+    "14028010",
+    "14028013",
+    "14033023",
+    "15009006",
+    "15009007",
+    "15009013",
+    "15009015",
+    "15010010",
+    "15010019",
+    "19069006",
+    "30008014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030040030052"
+      ],
+      [
+        "o030050240181",
+        "o030050240182"
+      ],
+      [
+        "o030050260132"
+      ],
+      [
+        "o030220160041"
+      ],
+      [
+        "o130210030222"
+      ],
+      [
+        "o140240180172",
+        "o140240180173"
+      ],
+      [
+        "o140280100151"
+      ],
+      [
+        "o140280130092"
+      ],
+      [
+        "o140280130181",
+        "o140280130182"
+      ],
+      [
+        "o140280130211"
+      ],
+      [
+        "o140330230121"
+      ],
+      [
+        "o150090060142",
+        "o150090060143"
+      ],
+      [
+        "o150090070042"
+      ],
+      [
+        "o150090130073",
+        "o150090130074"
+      ],
+      [
+        "o150090150132",
+        "o150090150133"
+      ],
+      [
+        "o150100100131"
+      ],
+      [
+        "o150100190091",
+        "o150100190092"
+      ],
+      [
+        "o190690060052",
+        "o190690060053"
+      ],
+      [
+        "o300080140022"
+      ]
+    ]
+  }
+}

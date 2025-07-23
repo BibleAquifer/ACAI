@@ -1,0 +1,104 @@
+{
+  "id": "keyterm:Kindness.4",
+  "primary_id": "keyterm:Kindness",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.67",
+    "88.10"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Kindness (Benevolence)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "An action that helps others and shows good will."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "bondad"
+    },
+    "fra": {
+      "preferred_label": "bonté"
+    },
+    "ind": {
+      "preferred_label": "kemurahan"
+    },
+    "por": {
+      "preferred_label": "bondade"
+    },
+    "por-Br": {
+      "preferred_label": "bondade"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Kind",
+    "keyterm:Kindness"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χρηστότης"
+    ]
+  },
+  "key_references": [
+    "45002004",
+    "45011022",
+    "48005022",
+    "56003004"
+  ],
+  "references": [
+    "45002004",
+    "45003012",
+    "45011022",
+    "47006006",
+    "48005022",
+    "49002007",
+    "51003012",
+    "56003004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45002004005"
+      ],
+      [
+        "n45003012008"
+      ],
+      [
+        "n45011022003"
+      ],
+      [
+        "n45011022015"
+      ],
+      [
+        "n45011022020"
+      ],
+      [
+        "n47006006008"
+      ],
+      [
+        "n48005022011"
+      ],
+      [
+        "n49002007015"
+      ],
+      [
+        "n51003012012"
+      ],
+      [
+        "n56003004004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n48005023005"
+      ]
+    ]
+  }
+}

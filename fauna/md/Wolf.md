@@ -40,7 +40,7 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* wolves (MAT 7:15; MAT 10:16; LUK 10:3; ACT 20:29)
+* wolves (MAT 10:16; LUK 10:3; MAT 7:15; ACT 20:29)
 
 * wolf (JHN 10:12; JHN 10:12)
 

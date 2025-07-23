@@ -1,0 +1,135 @@
+{
+  "id": "keyterm:DeclareGuilty",
+  "primary_id": "keyterm:DeclareGuilty",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "006945001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Declare Guilty",
+      "alternate_labels": [
+        "To Condemn as Guilty"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To say that someone has done wrong or broken the law, either by people or before God."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "declarar culpable"
+    },
+    "fra": {
+      "preferred_label": "condamner comme coupable"
+    },
+    "ind": {
+      "preferred_label": "menyatakan bersalah"
+    },
+    "por": {
+      "preferred_label": "to declare guilty"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "רשׁע"
+    ]
+  },
+  "key_references": [
+    "02022008",
+    "05025001",
+    "18034017",
+    "20017015"
+  ],
+  "references": [
+    "02022008",
+    "05025001",
+    "11008032",
+    "18009020",
+    "18010002",
+    "18015006",
+    "18032003",
+    "18034017",
+    "18034029",
+    "18040008",
+    "19037033",
+    "19094021",
+    "20012002",
+    "20017015",
+    "23050009",
+    "23054017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020220080271",
+        "o020220080272"
+      ],
+      [
+        "o050250010132"
+      ],
+      [
+        "o110080320082"
+      ],
+      [
+        "o180090200041",
+        "o180090200042"
+      ],
+      [
+        "o180100020051",
+        "o180100020052"
+      ],
+      [
+        "o180150060011",
+        "o180150060012"
+      ],
+      [
+        "o180320030102"
+      ],
+      [
+        "o180340170081"
+      ],
+      [
+        "o180340290041"
+      ],
+      [
+        "o180400080041",
+        "o180400080042"
+      ],
+      [
+        "o190370330061",
+        "o190370330062"
+      ],
+      [
+        "o190940210071"
+      ],
+      [
+        "o200120020071"
+      ],
+      [
+        "o200170150032"
+      ],
+      [
+        "o230500090081",
+        "o230500090082"
+      ],
+      [
+        "o230540170121"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020220080313"
+      ],
+      [
+        "o200170150082"
+      ]
+    ]
+  }
+}

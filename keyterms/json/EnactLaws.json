@@ -1,0 +1,67 @@
+{
+  "id": "keyterm:EnactLaws",
+  "primary_id": "keyterm:EnactLaws",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "33.339"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Enact Laws",
+      "alternate_labels": [
+        "Be Enacted (Pass.)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To make a law official and put it into use."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "dar leyes"
+    },
+    "fra": {
+      "preferred_label": "faire la loi"
+    },
+    "ind": {
+      "preferred_label": "menerima taurat"
+    },
+    "por": {
+      "preferred_label": "dar leis"
+    },
+    "por-Br": {
+      "preferred_label": "estabelecer lei"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:GivingOfALaw"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "νομοθετέω",
+      "νομοθεσία"
+    ]
+  },
+  "references": [
+    "45009004",
+    "58007011",
+    "58008006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58007011015"
+      ],
+      [
+        "n58008006016"
+      ],
+      [
+        "n45009004015"
+      ]
+    ]
+  }
+}

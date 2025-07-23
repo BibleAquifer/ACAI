@@ -1,0 +1,120 @@
+{
+  "id": "keyterm:Redemption.2",
+  "primary_id": "keyterm:Redeem",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "001247001001000",
+    "001247001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Redemption (Right)",
+      "alternate_labels": [
+        "Right of Redemption"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The act or right to rescue a person or property by paying a price."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "rescate"
+    },
+    "fra": {
+      "preferred_label": "rachat"
+    },
+    "ind": {
+      "preferred_label": "penebusan"
+    },
+    "por": {
+      "preferred_label": "redemption"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Redeem"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גְּאֻלָּה"
+    ]
+  },
+  "key_references": [
+    "03025024",
+    "08004006",
+    "24032007",
+    "26011015"
+  ],
+  "references": [
+    "03025024",
+    "03025026",
+    "03025029",
+    "03025031",
+    "03025032",
+    "03025048",
+    "03025051",
+    "03025052",
+    "08004006",
+    "08004007",
+    "24032007",
+    "24032008",
+    "26011015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030250240041"
+      ],
+      [
+        "o030250260111",
+        "o030250260112"
+      ],
+      [
+        "o030250290091",
+        "o030250290092"
+      ],
+      [
+        "o030250290161",
+        "o030250290162"
+      ],
+      [
+        "o030250310121"
+      ],
+      [
+        "o030250320061"
+      ],
+      [
+        "o030250480031"
+      ],
+      [
+        "o030250510071",
+        "o030250510072"
+      ],
+      [
+        "o030250520141",
+        "o030250520142"
+      ],
+      [
+        "o080040060161",
+        "o080040060162"
+      ],
+      [
+        "o080040070052"
+      ],
+      [
+        "o240320070182"
+      ],
+      [
+        "o240320080272"
+      ],
+      [
+        "o260110150061",
+        "o260110150062"
+      ]
+    ]
+  }
+}

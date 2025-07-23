@@ -15,9 +15,9 @@
       "http://pleiades.stoa.org/places/727172"
     ],
     "tipnr": [
+      "river|Nile@Gen.41.1-Zec",
       "canals|Nile@Gen.41.1-Zec",
-      "Nile@Gen.41.1-Zec",
-      "river|Nile@Gen.41.1-Zec"
+      "Nile@Gen.41.1-Zec"
     ],
     "vizbible": [
       "rec1RMZhQrrzq5oHJ"
@@ -31,11 +31,11 @@
     "eng": {
       "preferred_label": "Nile River",
       "alternate_labels": [
-        "River",
-        "canals",
-        "Shihor",
         "Sihor",
+        "Shihor",
+        "River",
         "rivers",
+        "canals",
         "Nile"
       ],
       "descriptions": [
@@ -114,8 +114,8 @@
     }
   },
   "key_references": [
-    "02007015",
-    "02002005"
+    "02002005",
+    "02007015"
   ],
   "references": [
     "01041001",

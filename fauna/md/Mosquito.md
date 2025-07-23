@@ -11,7 +11,7 @@ EXO 8:12, ISA 51:6, MAT 23:24.
 
 
 In the Old Testament (BSB), words representing “Mosquito” are translated as 
-*swarms of gnats* (1x), *This they did* (1x), *gnats* (4x), *tried* (1x), *And the gnats* (1x), ** (1x). 
+*gnats* (4x), *And the gnats* (1x), *swarms of gnats* (1x), ** (1x), *This they did* (1x), *tried* (1x). 
 
 
 In the New Testament (BSB), words representing “Mosquito” are translated as 
@@ -24,17 +24,17 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* swarms of gnats (EXO 8:12)
-
-* This they did (EXO 8:13)
-
 * gnats (EXO 8:13; EXO 8:13; EXO 8:14; PSA 105:31)
-
-* tried (EXO 8:14)
 
 * And the gnats (EXO 8:14)
 
+* swarms of gnats (EXO 8:12)
+
 *  (ISA 51:6)
+
+* This they did (EXO 8:13)
+
+* tried (EXO 8:14)
 
 
 

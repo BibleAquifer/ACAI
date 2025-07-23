@@ -1,0 +1,60 @@
+{
+  "id": "keyterm:TaxOffice",
+  "primary_id": "keyterm:TaxOffice",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "57.183"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tax Office",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A place where people paid money to sell their goods in a town."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "oficina de impuestos"
+    },
+    "fra": {
+      "preferred_label": "bureau de perception"
+    },
+    "ind": {
+      "preferred_label": "rumah cukai"
+    },
+    "por": {
+      "preferred_label": "coletoria"
+    },
+    "por-Br": {
+      "preferred_label": "coletoria"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "τελώνιον"
+    ]
+  },
+  "references": [
+    "40009009",
+    "41002014",
+    "42005027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40009009011"
+      ],
+      [
+        "n41002014011"
+      ],
+      [
+        "n42005027013"
+      ]
+    ]
+  }
+}

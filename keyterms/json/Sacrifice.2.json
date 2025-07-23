@@ -1,0 +1,84 @@
+{
+  "id": "keyterm:Sacrifice.2",
+  "primary_id": "keyterm:Offering",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.19",
+    "20.72"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sacrifice (Act)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Giving something valuable, often an animal, to God as a sign of worship or forgiveness."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "sacrificar"
+    },
+    "fra": {
+      "preferred_label": "massacrer"
+    },
+    "ind": {
+      "preferred_label": "mempersembahkan"
+    },
+    "por": {
+      "preferred_label": "sacrificar"
+    },
+    "por-Br": {
+      "preferred_label": "sacrificar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Offering"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "θύω"
+    ]
+  },
+  "key_references": [
+    "41014012",
+    "42022007",
+    "46005007"
+  ],
+  "references": [
+    "41014012",
+    "42022007",
+    "44014013",
+    "44014018",
+    "46005007",
+    "46010020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41014012010"
+      ],
+      [
+        "n42022007009"
+      ],
+      [
+        "n44014013022"
+      ],
+      [
+        "n44014018010"
+      ],
+      [
+        "n46005007017"
+      ],
+      [
+        "n46010020004"
+      ],
+      [
+        "n46010020009"
+      ]
+    ]
+  }
+}

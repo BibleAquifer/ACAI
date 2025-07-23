@@ -9,8 +9,6 @@ Other forms include:
 LUK 2:7, LUK 10:34, LUK 10:35. 
 
 
-In the Old Testament (BSB), words representing “Inn” are translated as 
-*lodge* (1x). 
 
 
 In the New Testament (BSB), words representing “Inn” are translated as 
@@ -20,12 +18,6 @@ In the New Testament (BSB), words representing “Inn” are translated as
 Return to [Index](00-Index.md)
 
 ## More Information
-
-### OT Instances (BSB)
-
-* lodge (JER 9:1)
-
-
 
 ### NT Instances (BSB)
 
@@ -55,7 +47,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* JER 9:1; LUK 2:7; LUK 10:34; LUK 10:35; ACT 28:15
+* LUK 2:7; LUK 10:34; LUK 10:35; ACT 28:15
 
 
 

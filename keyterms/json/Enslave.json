@@ -1,0 +1,108 @@
+{
+  "id": "keyterm:Enslave",
+  "primary_id": "keyterm:EnticedToServe",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "87.82",
+    "37.27",
+    "37.24"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Enslave",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To make someone become a slave and force them to obey."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "esclavizar"
+    },
+    "fra": {
+      "preferred_label": "asservir"
+    },
+    "ind": {
+      "preferred_label": "diperbudak"
+    },
+    "por": {
+      "preferred_label": "escravizar"
+    },
+    "por-Br": {
+      "preferred_label": "escravizar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:EnticedToServe",
+    "keyterm:GainControlOver"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δουλόω",
+      "καταδουλόω"
+    ]
+  },
+  "key_references": [
+    "44007006",
+    "45006018",
+    "48004003",
+    "61002019"
+  ],
+  "references": [
+    "44007006",
+    "45006018",
+    "45006022",
+    "46007015",
+    "46009019",
+    "47011020",
+    "48002004",
+    "48004003",
+    "56002003",
+    "61002019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44007006016"
+      ],
+      [
+        "n45006018006"
+      ],
+      [
+        "n45006022007"
+      ],
+      [
+        "n46007015008"
+      ],
+      [
+        "n46009019008"
+      ],
+      [
+        "n48004003013"
+      ],
+      [
+        "n56002003011"
+      ],
+      [
+        "n61002019015"
+      ],
+      [
+        "n47011020006"
+      ],
+      [
+        "n48002004019"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n44007007014"
+      ]
+    ]
+  }
+}

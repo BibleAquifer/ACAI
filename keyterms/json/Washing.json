@@ -1,0 +1,78 @@
+{
+  "id": "keyterm:Washing",
+  "primary_id": "keyterm:Baptism",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.31",
+    "53.41"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Washing (Ritual)",
+      "alternate_labels": [
+        "Baptism"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A special washing with water to make people or things clean for religious purposes."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "lavamiento ritual"
+    },
+    "fra": {
+      "preferred_label": "lavement rituel"
+    },
+    "ind": {
+      "preferred_label": "membersihkan diri"
+    },
+    "por": {
+      "preferred_label": "ablução ritual"
+    },
+    "por-Br": {
+      "preferred_label": "(ritual) lavagem"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Baptism"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βαπτισμός"
+    ]
+  },
+  "references": [
+    "41007004",
+    "51002012",
+    "58006002",
+    "58009010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41007004016"
+      ],
+      [
+        "n51002012005"
+      ],
+      [
+        "n58006002001"
+      ],
+      [
+        "n58009010008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n51002012007"
+      ]
+    ]
+  }
+}

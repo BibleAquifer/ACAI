@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:Agitation",
+  "primary_id": "keyterm:Agitation",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "005411002001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Agitation",
+      "alternate_labels": [
+        "Shock",
+        "Alarm",
+        "Rage"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A strong feeling of upset that can show as anger, fear, or alarm in people or God."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "angustia"
+    },
+    "fra": {
+      "preferred_label": "épouvantable confusion"
+    },
+    "ind": {
+      "preferred_label": "gelisah"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עִיר"
+    ]
+  },
+  "references": [
+    "24015008",
+    "28011009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o240150080161"
+      ],
+      [
+        "o280110090182"
+      ]
+    ]
+  }
+}

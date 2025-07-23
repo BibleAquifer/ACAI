@@ -1,0 +1,88 @@
+{
+  "id": "keyterm:Salvation.6",
+  "primary_id": "keyterm:Salvation",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "21.28",
+    "21.29",
+    "21.30"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Salvation (Means)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The way or method God uses to save people from sin and death."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "salvación"
+    },
+    "fra": {
+      "preferred_label": "salut"
+    },
+    "ind": {
+      "preferred_label": "keselamatan"
+    },
+    "por": {
+      "preferred_label": "salvação"
+    },
+    "por-Br": {
+      "preferred_label": "salvação"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Salvation",
+    "keyterm:Saving"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σωτήριον",
+      "σωτήριος"
+    ]
+  },
+  "key_references": [
+    "42002030",
+    "44028028",
+    "49006017",
+    "56002011"
+  ],
+  "references": [
+    "42002030",
+    "42003006",
+    "44028028",
+    "49006017",
+    "56002011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42002030007"
+      ],
+      [
+        "n42003006006"
+      ],
+      [
+        "n44028028011"
+      ],
+      [
+        "n49006017005"
+      ],
+      [
+        "n56002011007"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42002031001"
+      ]
+    ]
+  }
+}

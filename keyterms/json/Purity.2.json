@@ -1,0 +1,118 @@
+{
+  "id": "keyterm:Purity.2",
+  "primary_id": "keyterm:Pure",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "002663001001000",
+    "002663001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Purity (Ceremonial)",
+      "alternate_labels": [
+        "Cleanness"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The state of being clean and acceptable according to special religious rules."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "purificación"
+    },
+    "fra": {
+      "preferred_label": "purification"
+    },
+    "ind": {
+      "preferred_label": "kemurnian"
+    },
+    "por": {
+      "preferred_label": "purity"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Pure"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "טָהֳרָה"
+    ]
+  },
+  "key_references": [
+    "03012004",
+    "03013007",
+    "03014002",
+    "26044026"
+  ],
+  "references": [
+    "03012004",
+    "03012005",
+    "03013007",
+    "03013035",
+    "03014002",
+    "03014023",
+    "03014032",
+    "03015013",
+    "04006009",
+    "13023028",
+    "14030019",
+    "16012045",
+    "26044026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030120040071"
+      ],
+      [
+        "o030120050141"
+      ],
+      [
+        "o030130070102",
+        "o030130070103"
+      ],
+      [
+        "o030130350071",
+        "o030130350072"
+      ],
+      [
+        "o030140020061",
+        "o030140020062"
+      ],
+      [
+        "o030140230052",
+        "o030140230053"
+      ],
+      [
+        "o030140320112",
+        "o030140320113"
+      ],
+      [
+        "o030150130092",
+        "o030150130093"
+      ],
+      [
+        "o040060090131",
+        "o040060090132"
+      ],
+      [
+        "o130230280141"
+      ],
+      [
+        "o140300190102"
+      ],
+      [
+        "o160120450052"
+      ],
+      [
+        "o260440260021",
+        "o260440260022"
+      ]
+    ]
+  }
+}

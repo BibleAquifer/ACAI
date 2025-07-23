@@ -1,0 +1,86 @@
+{
+  "id": "keyterm:FeastOfTabernacles",
+  "primary_id": "keyterm:FeastOfTabernacles",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "005061001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Feast of Tabernacles",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A yearly Jewish festival that celebrates God's protection and provision, where people live in small shelters to remember how God cared for them in the wilderness."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "enramada"
+    },
+    "fra": {
+      "preferred_label": "fourré"
+    },
+    "ind": {
+      "preferred_label": "pesta pondok daun"
+    },
+    "por": {
+      "preferred_label": "feast of tabernacles"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סֻכָּה"
+    ]
+  },
+  "key_references": [
+    "03023034",
+    "05016013",
+    "38014016"
+  ],
+  "references": [
+    "03023034",
+    "05016013",
+    "05016016",
+    "05031010",
+    "14008013",
+    "15003004",
+    "38014016",
+    "38014018",
+    "38014019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030230340132"
+      ],
+      [
+        "o050160130022"
+      ],
+      [
+        "o050160160192"
+      ],
+      [
+        "o050310100122"
+      ],
+      [
+        "o140080130182"
+      ],
+      [
+        "o150030040042"
+      ],
+      [
+        "o380140160202"
+      ],
+      [
+        "o380140180232"
+      ],
+      [
+        "o380140190142"
+      ]
+    ]
+  }
+}

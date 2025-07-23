@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:WayOfLife.2",
+  "primary_id": "keyterm:TheWay",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "41.10"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Way of Life",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The usual way a person lives, including their habits and actions."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "manera"
+    },
+    "fra": {
+      "preferred_label": "manière"
+    },
+    "ind": {
+      "preferred_label": "hidup"
+    },
+    "por": {
+      "preferred_label": "maneira"
+    },
+    "por-Br": {
+      "preferred_label": "maneira"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:TheWay"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "τρόπος"
+    ]
+  },
+  "references": [
+    "58013005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58013005003"
+      ]
+    ]
+  }
+}

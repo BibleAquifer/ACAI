@@ -1,0 +1,78 @@
+{
+  "id": "keyterm:Holy.6",
+  "primary_id": "keyterm:Holy",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "53.46",
+    "33.290",
+    "88.24"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Holy (Devout)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing strong faith and good moral behavior that reflects God's character."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "santo"
+    },
+    "fra": {
+      "preferred_label": "saint"
+    },
+    "ind": {
+      "preferred_label": "kudus"
+    },
+    "por": {
+      "preferred_label": "santo"
+    },
+    "por-Br": {
+      "preferred_label": "santo"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Holy"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὅσιος"
+    ]
+  },
+  "key_references": [
+    "44002027",
+    "44013034",
+    "56001008"
+  ],
+  "references": [
+    "44002027",
+    "44013034",
+    "44013035",
+    "54002008",
+    "56001008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44002027012"
+      ],
+      [
+        "n44013034018"
+      ],
+      [
+        "n44013035009"
+      ],
+      [
+        "n54002008010"
+      ],
+      [
+        "n56001008006"
+      ]
+    ]
+  }
+}

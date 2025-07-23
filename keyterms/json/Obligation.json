@@ -1,0 +1,56 @@
+{
+  "id": "keyterm:Obligation",
+  "primary_id": "keyterm:Debt",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "57.221",
+    "71.26"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Obligation",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A duty or responsibility that someone must do because they promised or it is required."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "deuda"
+    },
+    "fra": {
+      "preferred_label": "un dû"
+    },
+    "ind": {
+      "preferred_label": "kewajiban"
+    },
+    "por": {
+      "preferred_label": "dívida"
+    },
+    "por-Br": {
+      "preferred_label": "dívida"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Debt"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὀφείλημα"
+    ]
+  },
+  "references": [
+    "45004004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45004004012"
+      ]
+    ]
+  }
+}

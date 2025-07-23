@@ -1,0 +1,115 @@
+{
+  "id": "keyterm:Inherit",
+  "primary_id": "keyterm:Dispossess",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "003132001001000",
+    "003132001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Inherit",
+      "alternate_labels": [
+        "Possess"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To receive land or other things from someone, usually after they die."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "heredar"
+    },
+    "fra": {
+      "preferred_label": "hériter"
+    },
+    "ind": {
+      "preferred_label": "mewarisi"
+    },
+    "por": {
+      "preferred_label": "inherit"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Dispossess"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "ירשׁ"
+    ]
+  },
+  "key_references": [
+    "01015004",
+    "03020024",
+    "04027011",
+    "19025013"
+  ],
+  "references": [
+    "01015003",
+    "01015004",
+    "01015007",
+    "01015008",
+    "01021010",
+    "03020024",
+    "03025046",
+    "04027011",
+    "04036008",
+    "07018007",
+    "19025013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010150030111"
+      ],
+      [
+        "o010150040071",
+        "o010150040072"
+      ],
+      [
+        "o010150040151",
+        "o010150040152"
+      ],
+      [
+        "o010150070142",
+        "o010150070143"
+      ],
+      [
+        "o010150080071",
+        "o010150080072"
+      ],
+      [
+        "o010210100101"
+      ],
+      [
+        "o030200240041"
+      ],
+      [
+        "o030200240102"
+      ],
+      [
+        "o030250460052"
+      ],
+      [
+        "o040270110122"
+      ],
+      [
+        "o040360080031"
+      ],
+      [
+        "o040360080151"
+      ],
+      [
+        "o070180070211"
+      ],
+      [
+        "o190250130051"
+      ]
+    ]
+  }
+}

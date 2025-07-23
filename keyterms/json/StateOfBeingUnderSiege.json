@@ -1,0 +1,130 @@
+{
+  "id": "keyterm:StateOfBeingUnderSiege",
+  "primary_id": "keyterm:StateOfBeingUnderSiege",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "004297002001000",
+    "004297001001000",
+    "004297002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Under Siege (State)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A situation where a place or group is surrounded and attacked, unable to get help or supplies."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "sitio"
+    },
+    "fra": {
+      "preferred_label": "état d'être en état de siège"
+    },
+    "ind": {
+      "preferred_label": "keadaan dikepung"
+    },
+    "por": {
+      "preferred_label": "state of being under siege"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מָצוֹר"
+    ]
+  },
+  "key_references": [
+    "05028053",
+    "12025002",
+    "24052005",
+    "26004002"
+  ],
+  "references": [
+    "05020019",
+    "05028053",
+    "05028055",
+    "05028057",
+    "12024010",
+    "12025002",
+    "14032010",
+    "19031022",
+    "24010017",
+    "24019009",
+    "24052005",
+    "26004002",
+    "26004003",
+    "26004007",
+    "26004008",
+    "26005002",
+    "33004014",
+    "34003014",
+    "38012002"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050200190292"
+      ],
+      [
+        "o050280530122"
+      ],
+      [
+        "o050280550122"
+      ],
+      [
+        "o050280570132"
+      ],
+      [
+        "o120240100122"
+      ],
+      [
+        "o120250020032"
+      ],
+      [
+        "o140320100112"
+      ],
+      [
+        "o190310220081"
+      ],
+      [
+        "o240100170062"
+      ],
+      [
+        "o240190090122"
+      ],
+      [
+        "o240520050032"
+      ],
+      [
+        "o260040020031"
+      ],
+      [
+        "o260040030182"
+      ],
+      [
+        "o260040070021"
+      ],
+      [
+        "o260040080131",
+        "o260040080132"
+      ],
+      [
+        "o260050020082"
+      ],
+      [
+        "o330040140051"
+      ],
+      [
+        "o340030140021"
+      ],
+      [
+        "o380120020152"
+      ]
+    ]
+  }
+}

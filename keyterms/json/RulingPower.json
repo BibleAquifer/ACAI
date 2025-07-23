@@ -1,0 +1,72 @@
+{
+  "id": "keyterm:RulingPower",
+  "primary_id": "keyterm:Ability",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "12.44",
+    "37.52"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Lordship",
+      "alternate_labels": [
+        "Ruling Power",
+        "Authority"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A special power from God that controls what happens and guides people."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "señorío"
+    },
+    "fra": {
+      "preferred_label": "puissance (angélique) (censée avoir un certain contrôle sur le destin des hommes)"
+    },
+    "ind": {
+      "preferred_label": "kerajaan"
+    },
+    "por": {
+      "preferred_label": "soberania"
+    },
+    "por-Br": {
+      "preferred_label": "ruling power"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Ability"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κυριότης"
+    ]
+  },
+  "references": [
+    "49001021",
+    "51001016",
+    "61002010",
+    "65001008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n49001021009"
+      ],
+      [
+        "n51001016022"
+      ],
+      [
+        "n61002010011"
+      ],
+      [
+        "n65001008009"
+      ]
+    ]
+  }
+}

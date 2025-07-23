@@ -10,8 +10,6 @@ Creeping Animal is categorized under _Snakes and Lizards_.
 LEV 5:2, DEU 32:24, ROM 1:23. 
 
 
-In the Old Testament (BSB), words representing “Creeping Animal” are translated as 
-*crawling creature* (1x). 
 
 
 In the New Testament (BSB), words representing “Creeping Animal” are translated as 
@@ -22,21 +20,9 @@ Return to [Index](00-Index.md)
 
 ## More Information
 
-### OT Instances (BSB)
-
-* crawling creature (LEV 22:5)
-
-
-
 ### NT Instances (BSB)
 
 * reptiles (ACT 10:12; ACT 11:6; ROM 1:23; JAS 3:7)
-
-
-
-### OT Pronominal Referents (BSB)
-
-* or (LEV 22:5)
 
 
 
@@ -48,7 +34,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* LEV 22:5; ACT 10:12; ACT 11:6; ROM 1:23; JAS 3:7
+* ACT 10:12; ACT 11:6; ROM 1:23; JAS 3:7
 
 
 

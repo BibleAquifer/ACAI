@@ -1,0 +1,69 @@
+{
+  "id": "keyterm:SinPreviously",
+  "primary_id": "keyterm:Sin",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.293"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sin Previously",
+      "alternate_labels": [
+        "Do Wrong in the Past"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Having done wrong against God's will at an earlier time."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "pecar anteriormente"
+    },
+    "fra": {
+      "preferred_label": "pécher précédemment ou dans le passé"
+    },
+    "ind": {
+      "preferred_label": "melakukan dosa pada masa yang lampau"
+    },
+    "por": {
+      "preferred_label": "pecar antes"
+    },
+    "por-Br": {
+      "preferred_label": "pecar antes"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Sin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "προαμαρτάνω"
+    ]
+  },
+  "references": [
+    "47012021",
+    "47013002"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n47012021016"
+      ],
+      [
+        "n47013002012"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n47012021028"
+      ]
+    ]
+  }
+}

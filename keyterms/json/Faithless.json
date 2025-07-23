@@ -1,0 +1,159 @@
+{
+  "id": "keyterm:Faithless",
+  "primary_id": "keyterm:Unfaithful",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "31.98",
+    "31.106",
+    "11.19"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Faithless",
+      "alternate_labels": [
+        "Unbelieving"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Not believing or refusing to trust God or His promises."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "incrédulo"
+    },
+    "fra": {
+      "preferred_label": "infidèle"
+    },
+    "ind": {
+      "preferred_label": "tidak percaya"
+    },
+    "por": {
+      "preferred_label": "incrédulo"
+    },
+    "por-Br": {
+      "preferred_label": "incrédulo"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Unfaithful"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἄπιστος",
+      "μοιχαλίς"
+    ]
+  },
+  "key_references": [
+    "40017017",
+    "42009041",
+    "46007014",
+    "66021008"
+  ],
+  "references": [
+    "40017017",
+    "41009019",
+    "42009041",
+    "42012046",
+    "43020027",
+    "46007013",
+    "46007014",
+    "46007015",
+    "46014022",
+    "46014023",
+    "47004004",
+    "47006014",
+    "47006015",
+    "54005008",
+    "56001015",
+    "66021008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40017017008"
+      ],
+      [
+        "n41009019008"
+      ],
+      [
+        "n42009041008"
+      ],
+      [
+        "n42012046027"
+      ],
+      [
+        "n43020027029"
+      ],
+      [
+        "n46007013007"
+      ],
+      [
+        "n46007014006"
+      ],
+      [
+        "n46007014015"
+      ],
+      [
+        "n46007015004"
+      ],
+      [
+        "n46014022018"
+      ],
+      [
+        "n46014023018"
+      ],
+      [
+        "n47004004012"
+      ],
+      [
+        "n47006014004"
+      ],
+      [
+        "n47006015012"
+      ],
+      [
+        "n54005008016"
+      ],
+      [
+        "n56001015009"
+      ],
+      [
+        "n66021008005"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n47006017005"
+      ],
+      [
+        "n66021008022"
+      ],
+      [
+        "n59004005016"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n46007015006"
+      ],
+      [
+        "n46014023020"
+      ],
+      [
+        "n59004004003"
+      ],
+      [
+        "n59004005002"
+      ]
+    ]
+  }
+}

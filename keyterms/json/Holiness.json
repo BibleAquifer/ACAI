@@ -1,0 +1,90 @@
+{
+  "id": "keyterm:Holiness",
+  "primary_id": "keyterm:Holy",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.25",
+    "53.45"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Holiness",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being pure and special because of God's presence and goodness."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "santidad"
+    },
+    "fra": {
+      "preferred_label": "sainteté"
+    },
+    "ind": {
+      "preferred_label": "kekudusan"
+    },
+    "por": {
+      "preferred_label": "santidade"
+    },
+    "por-Br": {
+      "preferred_label": "santidade"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Holy"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἁγιότης",
+      "ἁγιωσύνη",
+      "ὁσιότης"
+    ]
+  },
+  "key_references": [
+    "42001075",
+    "45001004",
+    "47007001",
+    "49004024"
+  ],
+  "references": [
+    "42001075",
+    "45001004",
+    "47007001",
+    "49004024",
+    "52003013",
+    "58012010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58012010021"
+      ],
+      [
+        "n45001004009"
+      ],
+      [
+        "n47007001016"
+      ],
+      [
+        "n52003013009"
+      ],
+      [
+        "n42001075002"
+      ],
+      [
+        "n49004024013"
+      ],
+      [
+        "n42001075002"
+      ],
+      [
+        "n49004024013"
+      ]
+    ]
+  }
+}

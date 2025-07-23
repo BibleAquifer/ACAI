@@ -1,0 +1,63 @@
+{
+  "id": "keyterm:HaveMercy",
+  "primary_id": "keyterm:Forgive",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.75",
+    "40.9"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Have Mercy",
+      "alternate_labels": [
+        "Forgive"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being kind and forgiving toward someone who has done wrong or is in trouble."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "expiar"
+    },
+    "fra": {
+      "preferred_label": "provoquer la rémission pour"
+    },
+    "ind": {
+      "preferred_label": "mengasihani"
+    },
+    "por": {
+      "preferred_label": "expiar"
+    },
+    "por-Br": {
+      "preferred_label": "expiar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Forgive"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἱλάσκομαι"
+    ]
+  },
+  "references": [
+    "42018013",
+    "58002017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42018013023"
+      ],
+      [
+        "n58002017020"
+      ]
+    ]
+  }
+}

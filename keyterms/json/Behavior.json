@@ -1,0 +1,99 @@
+{
+  "id": "keyterm:Behavior",
+  "primary_id": "keyterm:Behavior",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "41.3"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Behavior",
+      "alternate_labels": [
+        "Conduct"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The way a person acts or carries out their daily life that others can see."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "conducta"
+    },
+    "fra": {
+      "preferred_label": "manière de vivre"
+    },
+    "ind": {
+      "preferred_label": "kelakuan"
+    },
+    "por": {
+      "preferred_label": "conduta"
+    },
+    "por-Br": {
+      "preferred_label": "conduta"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Conduct",
+    "keyterm:ConductOneself"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀγωγή",
+      "ἀναστροφή",
+      "ἀναστρέφω"
+    ]
+  },
+  "key_references": [
+    "48001013",
+    "49004022",
+    "54003015",
+    "59003013"
+  ],
+  "references": [
+    "48001013",
+    "49002003",
+    "49004022",
+    "54003015",
+    "55003010",
+    "58013007",
+    "58013018",
+    "59003013",
+    "61002018"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n55003010008"
+      ],
+      [
+        "n48001013005"
+      ],
+      [
+        "n49004022006"
+      ],
+      [
+        "n58013007017"
+      ],
+      [
+        "n59003013011"
+      ],
+      [
+        "n49002003006"
+      ],
+      [
+        "n54003015011"
+      ],
+      [
+        "n58013018014"
+      ],
+      [
+        "n61002018016"
+      ]
+    ]
+  }
+}

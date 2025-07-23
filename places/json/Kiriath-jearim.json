@@ -9,12 +9,12 @@
       "a9bba61"
     ],
     "tipnr": [
-      "Baale-judah|Kiriath-jearim@Jos.9.17-Jer",
-      "Kiriath-arim|Kiriath-jearim@Jos.9.17-Jer",
-      "Jaar|Kiriath-jearim@Jos.9.17-Jer",
-      "Kiriath-jearim@Jos.9.17-Jer",
+      "Kiriath-baal|Kiriath-jearim@Jos.9.17-Jer",
       "Baalah|Kiriath-jearim@Jos.9.17-Jer",
-      "Kiriath-baal|Kiriath-jearim@Jos.9.17-Jer"
+      "Jaar|Kiriath-jearim@Jos.9.17-Jer",
+      "Baale-judah|Kiriath-jearim@Jos.9.17-Jer",
+      "Kiriath-jearim@Jos.9.17-Jer",
+      "Kiriath-arim|Kiriath-jearim@Jos.9.17-Jer"
     ],
     "vizbible": [
       "recVYcDguYN6bVqxy"
@@ -28,18 +28,18 @@
     "eng": {
       "preferred_label": "Kiriath-jearim",
       "alternate_labels": [
-        "Kiriath-Arim",
         "Kirjath-Baal",
         "Kirjath-Arim",
+        "Kirjath-Jearim",
+        "Kiriath-Arim",
         "Baalah",
-        "Baale-judah",
-        "Baale of Judah",
         "Kiriath",
-        "Jaar",
         "Kiriath-Baal",
+        "Baale of Judah",
+        "Jaar",
         "Baalah in Judah",
-        "Kirjath",
-        "Kirjath-Jearim"
+        "Baale-judah",
+        "Kirjath"
       ],
       "descriptions": [
         {
@@ -79,11 +79,11 @@
     }
   },
   "referred_to_as": [
-    "place:Baale-judah",
     "place:Kiriath-baal",
+    "place:Baale-judah",
     "place:Jaar",
-    "place:Kiriath-arim",
-    "place:Baalah.2"
+    "place:Baalah.2",
+    "place:Kiriath-arim"
   ],
   "tribal_area": "group:Judah",
   "associated_places": [
@@ -122,12 +122,12 @@
     }
   },
   "key_references": [
-    "06018014",
     "06015009",
+    "06015010",
     "13013006",
-    "06018015",
     "10006002",
-    "06015010"
+    "06018014",
+    "06018015"
   ],
   "references": [
     "06009017",

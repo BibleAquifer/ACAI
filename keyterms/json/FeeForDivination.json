@@ -1,0 +1,83 @@
+{
+  "id": "keyterm:FeeForDivination",
+  "primary_id": "keyterm:FeeForDivination",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "006518001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fee for Divination",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Something given to a person who predicts the future as payment for their service."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "prix pour une divination"
+    },
+    "ind": {
+      "preferred_label": "upah penenung"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Oracle.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קֶסֶם"
+    ]
+  },
+  "key_references": [
+    "05018010",
+    "24014014",
+    "26013023"
+  ],
+  "references": [
+    "04022007",
+    "04023023",
+    "05018010",
+    "09015023",
+    "12017017",
+    "24014014",
+    "26013006",
+    "26013023",
+    "26021026"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040220070062"
+      ],
+      [
+        "o040230230061"
+      ],
+      [
+        "o050180100091"
+      ],
+      [
+        "o090150230031"
+      ],
+      [
+        "o120170170081"
+      ],
+      [
+        "o240140140172"
+      ],
+      [
+        "o260130060032"
+      ],
+      [
+        "o260130230052"
+      ],
+      [
+        "o260210260121"
+      ]
+    ]
+  }
+}

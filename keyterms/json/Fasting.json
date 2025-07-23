@@ -1,0 +1,82 @@
+{
+  "id": "keyterm:Fasting",
+  "primary_id": "keyterm:Fast",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.65",
+    "51.11",
+    "23.31"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fasting",
+      "alternate_labels": [
+        "Abstaining"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The practice of not eating food for a period of time to focus on prayer and drawing closer to God."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "ayuno"
+    },
+    "fra": {
+      "preferred_label": "jeûne"
+    },
+    "ind": {
+      "preferred_label": "puasa"
+    },
+    "por": {
+      "preferred_label": "jejum"
+    },
+    "por-Br": {
+      "preferred_label": "jejum"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Fast"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "νηστεία"
+    ]
+  },
+  "key_references": [
+    "42002037",
+    "44014023",
+    "44027009",
+    "47006005"
+  ],
+  "references": [
+    "42002037",
+    "44014023",
+    "44027009",
+    "47006005",
+    "47011027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42002037013"
+      ],
+      [
+        "n44014023009"
+      ],
+      [
+        "n44027009015"
+      ],
+      [
+        "n47006005012"
+      ],
+      [
+        "n47011027012"
+      ]
+    ]
+  }
+}

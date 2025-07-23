@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:Authority.3",
+  "primary_id": "keyterm:Authority.2",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "37.42"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Authority (Right)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The right or power to give orders and be obeyed."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "mandato"
+    },
+    "fra": {
+      "preferred_label": "commandement"
+    },
+    "ind": {
+      "preferred_label": "kewibawaan"
+    },
+    "por": {
+      "preferred_label": "mandato"
+    },
+    "por-Br": {
+      "preferred_label": "mandato"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Authority.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐπιταγή"
+    ]
+  },
+  "references": [
+    "56002015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n56002015009"
+      ]
+    ]
+  }
+}

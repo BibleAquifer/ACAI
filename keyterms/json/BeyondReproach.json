@@ -1,0 +1,68 @@
+{
+  "id": "keyterm:BeyondReproach",
+  "primary_id": "keyterm:BeyondReproach",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "33.415"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Beyond Reproach",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Something or someone that is so good and honest that no one can find fault with them."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "intachable"
+    },
+    "fra": {
+      "preferred_label": "au, dessus de toute critique"
+    },
+    "ind": {
+      "preferred_label": "tidak bercela"
+    },
+    "por": {
+      "preferred_label": "irrepreensível"
+    },
+    "por-Br": {
+      "preferred_label": "irrepreensível"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:WithoutFault"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀκατάγνωστος",
+      "ἀνεπίλημπτος"
+    ]
+  },
+  "references": [
+    "54003002",
+    "54005007",
+    "54006014",
+    "56002008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n56002008003"
+      ],
+      [
+        "n54003002005"
+      ],
+      [
+        "n54005007005"
+      ],
+      [
+        "n54006014006"
+      ]
+    ]
+  }
+}

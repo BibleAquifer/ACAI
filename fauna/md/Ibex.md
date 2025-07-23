@@ -13,7 +13,7 @@ DEU 14:5, 1SA 24:3, JOB 39:1.
 
 
 In the Old Testament (BSB), words representing “Ibex” are translated as 
-*the wild goat* (1x), *of the Wild Goats* (1x), *give* (1x), *are for the wild goats* (1x), *fawn* (1x). 
+*the wild goat* (1x), *give* (1x), *are for the wild goats* (1x), *fawn* (1x). 
 
 
 
@@ -25,8 +25,6 @@ Return to [Index](00-Index.md)
 ### OT Instances (BSB)
 
 * the wild goat (DEU 14:5)
-
-* of the Wild Goats (1SA 24:3)
 
 * give (JOB 39:1)
 
@@ -62,7 +60,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* DEU 14:5; 1SA 24:3; JOB 39:1; PSA 104:18; PRO 5:19
+* DEU 14:5; JOB 39:1; PSA 104:18; PRO 5:19
 
 
 

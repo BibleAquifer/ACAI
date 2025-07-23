@@ -10,7 +10,7 @@ Other forms include:
 
 
 In the Old Testament (BSB), words representing “Coat of Mail” are translated as 
-*coat of mail* (1x), *weighing* (1x), *in armor* (1x), *armor* (1x), *and armor* (1x). 
+*of mail* (1x), *coat* (1x), *weighing* (1x), *in armor* (1x). 
 
 
 
@@ -21,15 +21,13 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* coat of mail (1SA 17:5)
+* of mail (1SA 17:5)
+
+* coat (1SA 17:5)
 
 * weighing (1SA 17:5)
 
 * in armor (1SA 17:38)
-
-* armor (2CH 26:14)
-
-* and armor (NEH 4:10)
 
 
 
@@ -43,7 +41,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* 1SA 17:5; 1SA 17:38; 2CH 26:14; NEH 4:10
+* 1SA 17:5; 1SA 17:38
 
 
 

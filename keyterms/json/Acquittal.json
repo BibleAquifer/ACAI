@@ -1,0 +1,63 @@
+{
+  "id": "keyterm:Acquittal",
+  "primary_id": "keyterm:Acquit",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "34.46",
+    "56.34"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Acquittal",
+      "alternate_labels": [
+        "Setting Free"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The act of declaring someone not guilty and setting them free from blame."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "justificación"
+    },
+    "fra": {
+      "preferred_label": "introduisant dans une bonne relation avec dieu"
+    },
+    "ind": {
+      "preferred_label": "pembenaran"
+    },
+    "por": {
+      "preferred_label": "justificação"
+    },
+    "por-Br": {
+      "preferred_label": "absolvição"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Acquit"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δικαίωσις"
+    ]
+  },
+  "references": [
+    "45004025",
+    "45005018"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45004025011"
+      ],
+      [
+        "n45005018021"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "keyterm:Guilty.3",
+  "primary_id": "keyterm:Sin",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "006945001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Considered Guilty",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being seen as responsible for breaking a law or rule by God or people."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "ser culpable"
+    },
+    "fra": {
+      "preferred_label": "être injuste"
+    },
+    "ind": {
+      "preferred_label": "bersalah"
+    },
+    "por": {
+      "preferred_label": "to be guilty"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Sin",
+    "keyterm:Sin.5"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "רשׁע"
+    ]
+  },
+  "references": [
+    "18009029",
+    "18010007",
+    "18010015"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180090290021"
+      ],
+      [
+        "o180100070051"
+      ],
+      [
+        "o180100150021"
+      ]
+    ]
+  }
+}

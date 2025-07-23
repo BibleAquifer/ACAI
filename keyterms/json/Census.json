@@ -1,0 +1,56 @@
+{
+  "id": "keyterm:Census",
+  "primary_id": "keyterm:Census",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "33.43"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Census",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "An official count of people in a group or area."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "censo"
+    },
+    "fra": {
+      "preferred_label": "enregistrement"
+    },
+    "ind": {
+      "preferred_label": "pendaftaran"
+    },
+    "por": {
+      "preferred_label": "recenseamento"
+    },
+    "por-Br": {
+      "preferred_label": "censo"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀπογραφή"
+    ]
+  },
+  "references": [
+    "42002002",
+    "44005037"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42002002002"
+      ],
+      [
+        "n44005037011"
+      ]
+    ]
+  }
+}

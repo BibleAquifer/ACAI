@@ -1,0 +1,62 @@
+{
+  "id": "keyterm:Spiritually",
+  "primary_id": "keyterm:Ability",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "12.21",
+    "26.10",
+    "33.17"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Spiritually",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "In a way that relates to a person's inner life or connection with God."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "espiritualmente"
+    },
+    "fra": {
+      "preferred_label": "adv. religieux"
+    },
+    "ind": {
+      "preferred_label": "secara rohani"
+    },
+    "por": {
+      "preferred_label": "espiritualmente"
+    },
+    "por-Br": {
+      "preferred_label": "espiritualmente"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Ability",
+    "keyterm:Spiritual"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "πνευματικῶς"
+    ]
+  },
+  "references": [
+    "46002014",
+    "66011008"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46002014020"
+      ],
+      [
+        "n66011008014"
+      ]
+    ]
+  }
+}

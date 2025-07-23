@@ -1,0 +1,65 @@
+{
+  "id": "keyterm:Sin.4",
+  "primary_id": "keyterm:Sin",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "002216001001000",
+    "000753001001000",
+    "000753001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sin (Guilty)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being guilty of doing wrong to God or others, either on purpose or by mistake."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "pecado"
+    },
+    "fra": {
+      "preferred_label": "péché"
+    },
+    "ind": {
+      "preferred_label": "dosa"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Guilty.2",
+    "keyterm:Sin"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֶטְאָה",
+      "אָשֵׁם"
+    ]
+  },
+  "references": [
+    "04015028",
+    "01042021",
+    "10014013",
+    "15010019"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040150280062"
+      ],
+      [
+        "o010420210061"
+      ],
+      [
+        "o100140130132"
+      ],
+      [
+        "o150100190052"
+      ]
+    ]
+  }
+}

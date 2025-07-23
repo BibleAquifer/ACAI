@@ -1,0 +1,87 @@
+{
+  "id": "keyterm:Service.3",
+  "primary_id": "keyterm:Priesthood",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.13",
+    "35.22",
+    "35.25"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Service (Role)",
+      "alternate_labels": [
+        "Priestly Service",
+        "Divine Service"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A job or role in helping others, either in everyday life or during religious ceremonies."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "servicio"
+    },
+    "fra": {
+      "preferred_label": "service"
+    },
+    "ind": {
+      "preferred_label": "tugas (jabatan)"
+    },
+    "por": {
+      "preferred_label": "serviço"
+    },
+    "por-Br": {
+      "preferred_label": "serviço"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Priesthood"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "λειτουργία"
+    ]
+  },
+  "key_references": [
+    "42001023",
+    "47009012",
+    "58008006",
+    "58009021"
+  ],
+  "references": [
+    "42001023",
+    "47009012",
+    "50002017",
+    "50002030",
+    "58008006",
+    "58009021"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42001023008"
+      ],
+      [
+        "n47009012005"
+      ],
+      [
+        "n50002017009"
+      ],
+      [
+        "n50002030020"
+      ],
+      [
+        "n58008006005"
+      ],
+      [
+        "n58009021010"
+      ]
+    ]
+  }
+}

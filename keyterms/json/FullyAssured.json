@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:FullyAssured",
+  "primary_id": "keyterm:Complete",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "31.45"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Be Fully Assured",
+      "alternate_labels": [
+        "Be Fully Convinced"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being completely sure that something is true and having no doubt."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "cumplir"
+    },
+    "fra": {
+      "preferred_label": "être totalement assuré"
+    },
+    "ind": {
+      "preferred_label": "berkeyakinan penuh"
+    },
+    "por-Br": {
+      "preferred_label": "convencer plenamente"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Complete"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "πληροφορέω"
+    ]
+  },
+  "references": [
+    "51004012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n51004012020"
+      ]
+    ]
+  }
+}

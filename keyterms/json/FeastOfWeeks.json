@@ -1,0 +1,75 @@
+{
+  "id": "keyterm:FeastOfWeeks",
+  "primary_id": "keyterm:FeastOfWeeks",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "007153001002000",
+    "007153001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Feast of Weeks",
+      "alternate_labels": [
+        "Feast of Firstfruits"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A Jewish holiday held seven weeks after Passover to celebrate the first harvest of crops and thank God for His blessings."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "semana"
+    },
+    "fra": {
+      "preferred_label": "semaine"
+    },
+    "ind": {
+      "preferred_label": "pesta atau hari raya tujuh minggu"
+    },
+    "por": {
+      "preferred_label": "feast of weeks"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שָׁבֻעוֹת"
+    ]
+  },
+  "key_references": [
+    "02034022",
+    "05016010",
+    "05016016"
+  ],
+  "references": [
+    "02034022",
+    "04028026",
+    "05016010",
+    "05016016",
+    "14008013"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020340220021"
+      ],
+      [
+        "o040280260072",
+        "o040280260073"
+      ],
+      [
+        "o050160100031"
+      ],
+      [
+        "o050160160172"
+      ],
+      [
+        "o140080130162"
+      ]
+    ]
+  }
+}

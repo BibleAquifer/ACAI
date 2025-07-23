@@ -1,0 +1,68 @@
+{
+  "id": "keyterm:PassoverLamb",
+  "primary_id": "keyterm:Passover",
+  "alternate_sources": {
+    "ubsflora": [
+      "fauna:2.31"
+    ]
+  },
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "4.27"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Passover Lamb",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A lamb chosen and eaten during the Passover festival to remember how the Israelites were saved in Egypt."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "(cordero de) pascua"
+    },
+    "fra": {
+      "preferred_label": "pâque (fête)"
+    },
+    "ind": {
+      "preferred_label": "domba paskah"
+    },
+    "por": {
+      "preferred_label": "(cordeiro da) páscoa"
+    },
+    "por-Br": {
+      "preferred_label": "(cordeiro da) páscoa"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Passover"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "πάσχα"
+    ]
+  },
+  "references": [
+    "41014012",
+    "42022007",
+    "46005007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41014012009"
+      ],
+      [
+        "n42022007011"
+      ],
+      [
+        "n46005007015"
+      ]
+    ]
+  }
+}

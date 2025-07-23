@@ -1,0 +1,66 @@
+{
+  "id": "keyterm:Hallow",
+  "primary_id": "keyterm:Holy",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.27"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Hallow",
+      "alternate_labels": [
+        "Regard as Holy"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To treat something as holy and show deep respect for it."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "sanctifier"
+    },
+    "ind": {
+      "preferred_label": "menguduskan"
+    },
+    "por-Br": {
+      "preferred_label": "santificar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Holy"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἁγιάζω",
+      "ἁγιότης",
+      "ἁγιωσύνη",
+      "ὁσιότης",
+      "ἅγιος",
+      "ὁσίως",
+      "ὅσιος"
+    ]
+  },
+  "references": [
+    "40006009",
+    "42011002",
+    "60003015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40006009011"
+      ],
+      [
+        "n42011002008"
+      ],
+      [
+        "n60003015005"
+      ]
+    ]
+  }
+}

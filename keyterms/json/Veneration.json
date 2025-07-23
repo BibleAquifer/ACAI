@@ -1,0 +1,58 @@
+{
+  "id": "keyterm:Veneration",
+  "primary_id": "keyterm:GodlyReverence",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.1"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Veneration",
+      "alternate_labels": [
+        "Piety"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing deep respect and devotion to God and spiritual beings."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "veneración"
+    },
+    "fra": {
+      "preferred_label": "religion"
+    },
+    "ind": {
+      "preferred_label": "beribadah"
+    },
+    "por": {
+      "preferred_label": "adoração"
+    },
+    "por-Br": {
+      "preferred_label": "adoração"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:GodlyReverence"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "θρησκεία"
+    ]
+  },
+  "references": [
+    "51002018"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n51002018008"
+      ]
+    ]
+  }
+}

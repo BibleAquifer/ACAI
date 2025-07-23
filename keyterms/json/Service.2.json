@@ -1,0 +1,78 @@
+{
+  "id": "keyterm:Service.2",
+  "primary_id": "keyterm:Serve",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.14"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Service (Rites)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Religious ceremonies and rituals done as part of worship."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "servicio"
+    },
+    "fra": {
+      "preferred_label": "culte"
+    },
+    "ind": {
+      "preferred_label": "bakti"
+    },
+    "por": {
+      "preferred_label": "culto"
+    },
+    "por-Br": {
+      "preferred_label": "culto"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Priesthood",
+    "keyterm:Serve"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "λατρεία"
+    ]
+  },
+  "key_references": [
+    "45009004",
+    "45012001",
+    "58009001",
+    "58009006"
+  ],
+  "references": [
+    "43016002",
+    "45009004",
+    "45012001",
+    "58009001",
+    "58009006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n43016002013"
+      ],
+      [
+        "n45009004018"
+      ],
+      [
+        "n45012001022"
+      ],
+      [
+        "n58009001007"
+      ],
+      [
+        "n58009006016"
+      ]
+    ]
+  }
+}

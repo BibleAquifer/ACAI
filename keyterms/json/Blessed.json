@@ -1,0 +1,88 @@
+{
+  "id": "keyterm:Blessed",
+  "primary_id": "keyterm:Bless",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "33.362"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Blessed",
+      "alternate_labels": [
+        "Worthy of Praise"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Deserving praise or being honored for good qualities or actions."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "bendito"
+    },
+    "fra": {
+      "preferred_label": "béni"
+    },
+    "ind": {
+      "preferred_label": "terpuji"
+    },
+    "por": {
+      "preferred_label": "bendito"
+    },
+    "por-Br": {
+      "preferred_label": "bendito"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Bless"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "εὐλογητός"
+    ]
+  },
+  "key_references": [
+    "42001068",
+    "47001003",
+    "49001003",
+    "60001003"
+  ],
+  "references": [
+    "42001068",
+    "45001025",
+    "45009005",
+    "47001003",
+    "47011031",
+    "49001003",
+    "60001003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42001068001"
+      ],
+      [
+        "n45001025021"
+      ],
+      [
+        "n45009005017"
+      ],
+      [
+        "n47001003001"
+      ],
+      [
+        "n47011031011"
+      ],
+      [
+        "n49001003001"
+      ],
+      [
+        "n60001003001"
+      ]
+    ]
+  }
+}

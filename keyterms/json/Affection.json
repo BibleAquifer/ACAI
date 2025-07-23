@@ -1,0 +1,158 @@
+{
+  "id": "keyterm:Affection",
+  "primary_id": "keyterm:Affection",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "25.49",
+    "25.54",
+    "26.11",
+    "25.50"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Affection",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A feeling of love or strong liking toward someone or something."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "entrañas"
+    },
+    "fra": {
+      "preferred_label": "ses sentiments ou son être les plus profonds"
+    },
+    "ind": {
+      "preferred_label": "rahmat"
+    },
+    "por": {
+      "preferred_label": "compaixão"
+    },
+    "por-Br": {
+      "preferred_label": "compaixão"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Belly",
+    "keyterm:FeelSympathy"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σπλάγχνον",
+      "σπλαγχνίζομαι",
+      "κοιλία"
+    ]
+  },
+  "key_references": [
+    "40009036",
+    "41006034",
+    "42015020",
+    "50001008"
+  ],
+  "references": [
+    "40009036",
+    "40014014",
+    "40015032",
+    "40018027",
+    "40020034",
+    "41006034",
+    "41008002",
+    "41009022",
+    "42001078",
+    "42007013",
+    "42010033",
+    "42015020",
+    "43007038",
+    "47006012",
+    "47007015",
+    "50001008",
+    "50002001",
+    "51003012",
+    "57001007",
+    "57001012",
+    "57001020",
+    "62003017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42001078002"
+      ],
+      [
+        "n47006012009"
+      ],
+      [
+        "n47007015003"
+      ],
+      [
+        "n50001008011"
+      ],
+      [
+        "n50002001017"
+      ],
+      [
+        "n51003012010"
+      ],
+      [
+        "n57001007013"
+      ],
+      [
+        "n57001012009"
+      ],
+      [
+        "n57001020011"
+      ],
+      [
+        "n62003017019"
+      ],
+      [
+        "n40009036005"
+      ],
+      [
+        "n40014014007"
+      ],
+      [
+        "n40015032009"
+      ],
+      [
+        "n40018027001"
+      ],
+      [
+        "n40020034001"
+      ],
+      [
+        "n41006034007"
+      ],
+      [
+        "n41008002001"
+      ],
+      [
+        "n41009022020"
+      ],
+      [
+        "n42007013006"
+      ],
+      [
+        "n42010033010"
+      ],
+      [
+        "n42015020019"
+      ],
+      [
+        "n43007038012"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42001078007"
+      ]
+    ]
+  }
+}

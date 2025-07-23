@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:Divinity",
+  "primary_id": "keyterm:Divine",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "12.13"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Divinity",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Having the qualities or nature of God."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "divinidad"
+    },
+    "fra": {
+      "preferred_label": "divinité"
+    },
+    "ind": {
+      "preferred_label": "keilahian"
+    },
+    "por": {
+      "preferred_label": "divindade"
+    },
+    "por-Br": {
+      "preferred_label": "divindade"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Divine"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "θειότης"
+    ]
+  },
+  "references": [
+    "45001020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45001020018"
+      ]
+    ]
+  }
+}

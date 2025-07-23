@@ -13,7 +13,7 @@ LEV 11:29, LEV 11:30.
 
 
 In the Old Testament (BSB), words representing “Lizard” are translated as 
-*land crawlers* (1x), *that crawls* (1x), *creature* (2x), *and bird* (1x), *crawling creature* (2x), *and birds* (1x), ** (1x), *creeping thing* (1x), *of great lizard* (1x), *the gecko* (1x), *the monitor lizard* (1x), *the common lizard* (1x), *the skink* (1x), *and the chameleon* (1x), *reptiles* (1x), *crawling creatures* (1x), *of crawling creature* (1x), *and the creatures that crawl* (1x), *like creeping things* (1x). 
+*the common lizard* (1x), *of great lizard* (1x), *land crawlers* (1x), *that crawls* (1x), *creature* (2x), *and bird* (1x), *crawling creature* (2x), *and birds* (1x), ** (1x), *creeping thing* (1x), *the gecko* (1x), *the monitor lizard* (1x), *the skink* (1x), *and the chameleon* (1x), *reptiles* (1x), *crawling creatures* (1x), *of crawling creature* (1x), *and the creatures that crawl* (1x), *like creeping things* (1x). 
 
 
 In the New Testament (BSB), words representing “Lizard” are translated as 
@@ -25,6 +25,10 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
+
+* the common lizard (LEV 11:30)
+
+* of great lizard (LEV 11:29)
 
 * land crawlers (GEN 1:24)
 
@@ -42,13 +46,9 @@ Return to [Index](00-Index.md)
 
 * creeping thing (GEN 8:19)
 
-* of great lizard (LEV 11:29)
-
 * the gecko (LEV 11:30)
 
 * the monitor lizard (LEV 11:30)
-
-* the common lizard (LEV 11:30)
 
 * the skink (LEV 11:30)
 
@@ -74,6 +74,8 @@ Return to [Index](00-Index.md)
 
 ### OT Pronominal Referents (BSB)
 
+* any kind (LEV 11:29)
+
 * according to their kinds And (GEN 1:24)
 
 * according to its kind (GEN 1:25)
@@ -81,8 +83,6 @@ Return to [Index](00-Index.md)
 *  (GEN 6:7; GEN 6:20; GEN 7:14; HAB 1:14)
 
 * of every kind (GEN 6:20)
-
-* any kind (LEV 11:29)
 
 
 

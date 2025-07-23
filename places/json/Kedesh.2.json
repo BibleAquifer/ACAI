@@ -18,7 +18,7 @@
   ],
   "localizations": {
     "eng": {
-      "preferred_label": "Kedesh (of Issachar)",
+      "preferred_label": "Kedesh (of Judah)",
       "alternate_labels": [
         "Kishion",
         "Kedesh"
@@ -26,21 +26,22 @@
       "descriptions": [
         {
           "source": "acai",
-          "article": "place:Kedesh.3",
-          "gloss": "Kedesh (of Issachar)",
-          "description": "A Levitical town in the territory of Issachar, assigned to the clan of Gershon; possibly to be identified with Kishion."
+          "article": "place:Kedesh.2",
+          "gloss": "Kedesh (of Judah)",
+          "description": "A town in the southern territory of Judah, near the border of Edom; also known as En Mishpat, Kadesh, and Kadesh-Barnea."
         }
       ]
     }
   },
-  "possibly_same_as": [
+  "referred_to_as": [
+    "place:Kadesh-barnea",
     "place:Kishion"
   ],
-  "referred_to_as": [
-    "place:Kishion"
+  "nearby_places": [
+    "place:Edom"
   ],
   "subregion_of": [
-    "place:TerritoryOfIssachar"
+    "place:TerritoryOfJudah"
   ],
   "mentioned_in_bible": true,
   "only_mentioned_in_apocrypha": false,
@@ -70,7 +71,7 @@
     }
   },
   "key_references": [
-    "13006057"
+    "06015023"
   ],
   "references": [
     "13006057"

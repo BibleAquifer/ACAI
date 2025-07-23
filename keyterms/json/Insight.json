@@ -1,0 +1,121 @@
+{
+  "id": "keyterm:Insight",
+  "primary_id": "keyterm:Insight",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Insight",
+      "alternate_labels": [
+        "Sense"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A clear and deep understanding of a situation or truth."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "entendimiento"
+    },
+    "fra": {
+      "preferred_label": "discernement"
+    },
+    "ind": {
+      "preferred_label": "kebijakan"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "שֶׂכֶל"
+    ]
+  },
+  "key_references": [
+    "19111010",
+    "20003004",
+    "20016022",
+    "27008025"
+  ],
+  "references": [
+    "09025003",
+    "13022012",
+    "13026014",
+    "14002011",
+    "14030022",
+    "15008018",
+    "16008008",
+    "18017004",
+    "19111010",
+    "20003004",
+    "20012008",
+    "20013015",
+    "20016022",
+    "20019011",
+    "20023009",
+    "27008025"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o090250030091"
+      ],
+      [
+        "o130220120051"
+      ],
+      [
+        "o130260140082"
+      ],
+      [
+        "o140020110201"
+      ],
+      [
+        "o140300220081"
+      ],
+      [
+        "o150080180081"
+      ],
+      [
+        "o160080080071"
+      ],
+      [
+        "o180170040042"
+      ],
+      [
+        "o191110100051"
+      ],
+      [
+        "o200030040032"
+      ],
+      [
+        "o200120080021",
+        "o200120080022"
+      ],
+      [
+        "o200130150011"
+      ],
+      [
+        "o200160220031"
+      ],
+      [
+        "o200190110011"
+      ],
+      [
+        "o200230090072"
+      ],
+      [
+        "o270080250021",
+        "o270080250022"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o200160220042"
+      ]
+    ]
+  }
+}

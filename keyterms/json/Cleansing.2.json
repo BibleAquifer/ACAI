@@ -1,0 +1,56 @@
+{
+  "id": "keyterm:Cleansing.2",
+  "primary_id": "keyterm:Cleanse.2",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "002218001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cleansing (OT)",
+      "alternate_labels": [
+        "Purification"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A special ritual that removes guilt or uncleanness from a person or thing."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "limpieza"
+    },
+    "fra": {
+      "preferred_label": "purification"
+    },
+    "ind": {
+      "preferred_label": "pembersihan"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Cleanse.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חַטָּאת"
+    ]
+  },
+  "references": [
+    "04008007",
+    "04019009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040080070081"
+      ],
+      [
+        "o040190090191"
+      ]
+    ]
+  }
+}

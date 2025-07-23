@@ -1,0 +1,90 @@
+{
+  "id": "keyterm:Tumors",
+  "primary_id": "keyterm:Tumors",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "002684001001000",
+    "002684001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tumors",
+      "alternate_labels": [
+        "Ulcers",
+        "Body Sores"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Swelling or sores inside the body that cause pain and weakness, often from serious infections."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "tumor"
+    },
+    "fra": {
+      "preferred_label": "tumeurs"
+    },
+    "ind": {
+      "preferred_label": "tumor"
+    },
+    "por": {
+      "preferred_label": "hemorrhoid"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "טְחֹרִים"
+    ]
+  },
+  "key_references": [
+    "05028027",
+    "09005006",
+    "09005009",
+    "09006004"
+  ],
+  "references": [
+    "05028027",
+    "09005006",
+    "09005009",
+    "09005012",
+    "09006004",
+    "09006005",
+    "09006011",
+    "09006017"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050280270063"
+      ],
+      [
+        "o090050060102"
+      ],
+      [
+        "o090050090221"
+      ],
+      [
+        "o090050120072"
+      ],
+      [
+        "o090060040131"
+      ],
+      [
+        "o090060050041",
+        "o090060050042"
+      ],
+      [
+        "o090060110141",
+        "o090060110142"
+      ],
+      [
+        "o090060170021"
+      ]
+    ]
+  }
+}

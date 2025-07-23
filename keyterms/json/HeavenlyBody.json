@@ -1,0 +1,56 @@
+{
+  "id": "keyterm:HeavenlyBody",
+  "primary_id": "keyterm:Body.3",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "1.26",
+    "1.8"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Heavenly Body (Sky)",
+      "alternate_labels": [
+        "Celestial Body"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A bright object in the sky like the sun, moon, stars, or planets."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "corps célestes"
+    },
+    "ind": {
+      "preferred_label": "sorgawi"
+    },
+    "por-Br": {
+      "preferred_label": "corpo celestial"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Body.3"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἐπουράνιος"
+    ]
+  },
+  "references": [
+    "46015040"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n46015040003"
+      ],
+      [
+        "n46015040012"
+      ]
+    ]
+  }
+}

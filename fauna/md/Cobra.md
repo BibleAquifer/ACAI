@@ -13,7 +13,7 @@ ISA 11:8, JER 8:17, ROM 3:13.
 
 
 In the Old Testament (BSB), words representing “Cobra” are translated as 
-*of cobras* (3x), *a cobra* (1x), *and cobra* (1x), *like a viper* (1x), *the cobra’s* (1x), *the viper’s* (1x), *a viper* (1x), *of vipers* (1x), *that* (1x). 
+*of cobras* (3x), *a cobra* (1x), *and cobra* (1x), *the cobra’s* (1x), *like a viper* (1x), *the viper’s* (1x), *a viper* (1x), *of vipers* (1x), *that* (1x). 
 
 
 In the New Testament (BSB), words representing “Cobra” are translated as 
@@ -32,9 +32,9 @@ Return to [Index](00-Index.md)
 
 * and cobra (PSA 91:13)
 
-* like a viper (PRO 23:32)
-
 * the cobra’s (ISA 11:8)
+
+* like a viper (PRO 23:32)
 
 * the viper’s (ISA 11:8)
 
@@ -48,7 +48,7 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* of vipers (MAT 12:34; ROM 3:13)
+* of vipers (ROM 3:13; MAT 12:34)
 
 * a viper (ACT 28:3)
 

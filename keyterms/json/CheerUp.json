@@ -1,0 +1,86 @@
+{
+  "id": "keyterm:CheerUp",
+  "primary_id": "keyterm:CheerUp",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "25.156"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Cheer Up",
+      "alternate_labels": [
+        "Have Courage",
+        "Be Cheerful",
+        "Be Courageous"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To be brave and hopeful when facing hard or scary situations."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "tener valor"
+    },
+    "fra": {
+      "preferred_label": "courage! prends courage! bon courage!"
+    },
+    "ind": {
+      "preferred_label": "percayalah"
+    },
+    "por": {
+      "preferred_label": "ter bom ânimo"
+    },
+    "por-Br": {
+      "preferred_label": "ter bom ânimo"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "θαρσέω"
+    ]
+  },
+  "key_references": [
+    "40014027",
+    "43016033",
+    "44023011"
+  ],
+  "references": [
+    "40009002",
+    "40009022",
+    "40014027",
+    "41006050",
+    "41010049",
+    "43016033",
+    "44023011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40009002019"
+      ],
+      [
+        "n40009022009"
+      ],
+      [
+        "n40014027008"
+      ],
+      [
+        "n41006050016"
+      ],
+      [
+        "n41010049014"
+      ],
+      [
+        "n43016033015"
+      ],
+      [
+        "n44023011010"
+      ]
+    ]
+  }
+}

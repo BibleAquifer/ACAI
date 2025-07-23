@@ -1,0 +1,100 @@
+{
+  "id": "keyterm:Stubborn",
+  "primary_id": "keyterm:Stubborn",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "006617001010000",
+    "006617001008000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Stubborn (Rebellious)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Refusing to obey or change, like someone who holds their head stiff and will not listen."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "terco"
+    },
+    "fra": {
+      "preferred_label": "têtu"
+    },
+    "ind": {
+      "preferred_label": "tegar tengkuk"
+    },
+    "por": {
+      "preferred_label": "literally: stiff, necked"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Stubborn.2"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "קְשֵׁה־עֹרֶף",
+      "עָרֵל"
+    ]
+  },
+  "key_references": [
+    "02032009",
+    "05009006",
+    "24009025",
+    "26044007"
+  ],
+  "references": [
+    "02032009",
+    "02033003",
+    "02033005",
+    "02034009",
+    "05009006",
+    "05009013",
+    "05031027",
+    "03026041",
+    "24009025",
+    "26044007",
+    "26044009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020320090111"
+      ],
+      [
+        "o020330030121"
+      ],
+      [
+        "o020330050111"
+      ],
+      [
+        "o020340090141"
+      ],
+      [
+        "o050090060161"
+      ],
+      [
+        "o050090130111"
+      ],
+      [
+        "o050310270082"
+      ],
+      [
+        "o030260410142"
+      ],
+      [
+        "o240090250251"
+      ],
+      [
+        "o260440070062"
+      ],
+      [
+        "o260440090102"
+      ]
+    ]
+  }
+}

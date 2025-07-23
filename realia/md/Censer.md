@@ -9,8 +9,6 @@ Other forms include:
 LEV 16:12, NUM 16:17, REV 8:3. 
 
 
-In the Old Testament (BSB), words representing “Censer” are translated as 
-*had a censer* (1x). 
 
 
 In the New Testament (BSB), words representing “Censer” are translated as 
@@ -20,12 +18,6 @@ In the New Testament (BSB), words representing “Censer” are translated as
 Return to [Index](00-Index.md)
 
 ## More Information
-
-### OT Instances (BSB)
-
-* had a censer (EZK 8:11)
-
-
 
 ### NT Instances (BSB)
 
@@ -41,7 +33,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* EZK 8:11; REV 8:3; REV 8:5
+* REV 8:3; REV 8:5
 
 
 

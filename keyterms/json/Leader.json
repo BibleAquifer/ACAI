@@ -1,0 +1,93 @@
+{
+  "id": "keyterm:Leader",
+  "primary_id": "keyterm:Leader",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "000331001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Leader",
+      "alternate_labels": [
+        "Chief"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A person who guides or gives direction to others."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "poderoso"
+    },
+    "fra": {
+      "preferred_label": "térébinthe"
+    },
+    "ind": {
+      "preferred_label": "pemimpin"
+    },
+    "por": {
+      "preferred_label": "mighty"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אַיִל"
+    ]
+  },
+  "key_references": [
+    "02015015",
+    "12024015",
+    "26017013"
+  ],
+  "references": [
+    "02015015",
+    "12024015",
+    "26017013",
+    "26031011",
+    "26032021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020150150051"
+      ],
+      [
+        "o120240150151"
+      ],
+      [
+        "o260170130111"
+      ],
+      [
+        "o260310110031"
+      ],
+      [
+        "o260320210031"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o020150150072"
+      ],
+      [
+        "o020150160022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o020150160071"
+      ],
+      [
+        "o260310110061"
+      ]
+    ]
+  }
+}

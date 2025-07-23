@@ -1,0 +1,52 @@
+{
+  "id": "keyterm:FellowshipMeal",
+  "primary_id": "keyterm:FellowshipMeal",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "23.28"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fellowship Meal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A shared meal where early Christians showed love and care for one another."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "ágape"
+    },
+    "fra": {
+      "preferred_label": "amour (principalement l'amour chrétien)"
+    },
+    "ind": {
+      "preferred_label": "perjamuan kasih"
+    },
+    "por": {
+      "preferred_label": "ágape"
+    },
+    "por-Br": {
+      "preferred_label": "ágape"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀγάπη"
+    ]
+  },
+  "references": [
+    "65001012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n65001012006"
+      ]
+    ]
+  }
+}

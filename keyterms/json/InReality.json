@@ -1,0 +1,54 @@
+{
+  "id": "keyterm:InReality",
+  "primary_id": "keyterm:InReality",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "70.7",
+    "8.2"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "In Reality",
+      "alternate_labels": [
+        "Really"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Something that is real and not just a symbol or idea."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "en réalité"
+    },
+    "ind": {
+      "preferred_label": "secara jasmaniah"
+    },
+    "por-Br": {
+      "preferred_label": "orporalmente"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Body.3",
+    "keyterm:InBody"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σωματικῶς"
+    ]
+  },
+  "references": [
+    "51002009"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n51002009010"
+      ]
+    ]
+  }
+}

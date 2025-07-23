@@ -1,0 +1,59 @@
+{
+  "id": "keyterm:Respect.2",
+  "primary_id": "keyterm:Fear",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "53.59"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Respect",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing care and honor towards someone because of who they are or what they have done."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "respeto"
+    },
+    "fra": {
+      "preferred_label": "crainte"
+    },
+    "ind": {
+      "preferred_label": "ketakutan"
+    },
+    "por": {
+      "preferred_label": "respeito"
+    },
+    "por-Br": {
+      "preferred_label": "respeito"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Fear"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "φόβος"
+    ]
+  },
+  "references": [
+    "60002018",
+    "60003016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n60002018006"
+      ],
+      [
+        "n60003016005"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": "keyterm:MightyWork",
+  "primary_id": "keyterm:Ability",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "76.7",
+    "76.1"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Miracle",
+      "alternate_labels": [
+        "Mighty Work"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "An act of great power that shows God's power and helps people believe."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "milagro"
+    },
+    "fra": {
+      "preferred_label": "puissance"
+    },
+    "ind": {
+      "preferred_label": "kekuasaan"
+    },
+    "por": {
+      "preferred_label": "milagre"
+    },
+    "por-Br": {
+      "preferred_label": "milagre"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Ability"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δύναμις"
+    ]
+  },
+  "key_references": [
+    "41006005",
+    "44002022",
+    "46012010",
+    "58002004"
+  ],
+  "references": [
+    "40007022",
+    "40011020",
+    "40011021",
+    "40011023",
+    "40013054",
+    "40013058",
+    "40014002",
+    "41006002",
+    "41006005",
+    "41006014",
+    "41009039",
+    "42010013",
+    "42019037",
+    "44002022",
+    "44008013",
+    "44019011",
+    "46012010",
+    "46012028",
+    "46012029",
+    "47012012",
+    "48003005",
+    "53002009",
+    "58002004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40007022025"
+      ],
+      [
+        "n40011020011"
+      ],
+      [
+        "n40011021015"
+      ],
+      [
+        "n40011023017"
+      ],
+      [
+        "n40013054025"
+      ],
+      [
+        "n40013058005"
+      ],
+      [
+        "n40014002020"
+      ],
+      [
+        "n41006002027"
+      ],
+      [
+        "n41006005007"
+      ],
+      [
+        "n41006014026"
+      ],
+      [
+        "n41009039013"
+      ],
+      [
+        "n42010013015"
+      ],
+      [
+        "n42019037028"
+      ],
+      [
+        "n44002022017"
+      ],
+      [
+        "n44008013017"
+      ],
+      [
+        "n44019011001"
+      ],
+      [
+        "n46012010003"
+      ],
+      [
+        "n46012028017"
+      ],
+      [
+        "n46012029012"
+      ],
+      [
+        "n47012012017"
+      ],
+      [
+        "n48003005009"
+      ],
+      [
+        "n53002009011"
+      ],
+      [
+        "n58002004010"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42019037026"
+      ],
+      [
+        "n44002022022"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n40011021017"
+      ],
+      [
+        "n40011023019"
+      ],
+      [
+        "n42010013017"
+      ],
+      [
+        "n44019011005"
+      ]
+    ]
+  }
+}

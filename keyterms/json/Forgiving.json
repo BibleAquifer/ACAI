@@ -1,0 +1,46 @@
+{
+  "id": "keyterm:Forgiving",
+  "primary_id": "keyterm:Forgive",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Forgiving",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Willing to pardon someone and stop being angry about what they did wrong."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "perdonador"
+    },
+    "fra": {
+      "preferred_label": "prêt à pardonner"
+    },
+    "ind": {
+      "preferred_label": "memaafkan"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Forgive"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סַלָּח"
+    ]
+  },
+  "references": [
+    "19086005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190860050052"
+      ]
+    ]
+  }
+}

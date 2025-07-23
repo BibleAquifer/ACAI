@@ -9,8 +9,6 @@ Other forms include:
 GEN 6:14, GEN 7:1, GEN 8:4, 1PE 3:20. 
 
 
-In the Old Testament (BSB), words representing “Boat” are translated as 
-*the ark* (1x). 
 
 
 In the New Testament (BSB), words representing “Boat” are translated as 
@@ -20,12 +18,6 @@ In the New Testament (BSB), words representing “Boat” are translated as
 Return to [Index](00-Index.md)
 
 ## More Information
-
-### OT Instances (BSB)
-
-* the ark (GEN 9:18)
-
-
 
 ### NT Instances (BSB)
 
@@ -45,7 +37,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* GEN 9:18; MAT 24:38; LUK 17:27; HEB 11:7; 1PE 3:20
+* MAT 24:38; LUK 17:27; HEB 11:7; 1PE 3:20
 
 
 

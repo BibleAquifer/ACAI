@@ -1,0 +1,79 @@
+{
+  "id": "keyterm:Merciless",
+  "primary_id": "keyterm:Merciless",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.82"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Merciless",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Not showing any kindness or pity to others, especially those who are suffering."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "despiadado"
+    },
+    "fra": {
+      "preferred_label": "sans pitié"
+    },
+    "ind": {
+      "preferred_label": "tidak mengenal belas kasihan"
+    },
+    "por": {
+      "preferred_label": "inclemente"
+    },
+    "por-Br": {
+      "preferred_label": "inclemente"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀνελεήμων",
+      "ἀνέλεος"
+    ]
+  },
+  "references": [
+    "45001031",
+    "59002013"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45001031004"
+      ],
+      [
+        "n59002013004"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n45001032010"
+      ],
+      [
+        "n45001032017"
+      ],
+      [
+        "n45002001019"
+      ],
+      [
+        "n45002002014"
+      ],
+      [
+        "n45002003010"
+      ],
+      [
+        "n45002003014"
+      ]
+    ]
+  }
+}

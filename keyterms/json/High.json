@@ -1,0 +1,58 @@
+{
+  "id": "keyterm:High",
+  "primary_id": "keyterm:Height",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "1.13"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "High (Vertical Distance)",
+      "alternate_labels": [
+        "Tall"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Having a great vertical distance from the bottom to the top."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "alto"
+    },
+    "fra": {
+      "preferred_label": "haut"
+    },
+    "ind": {
+      "preferred_label": "tinggi"
+    },
+    "por": {
+      "preferred_label": "alto"
+    },
+    "por-Br": {
+      "preferred_label": "alto"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Height"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὑψηλός"
+    ]
+  },
+  "references": [
+    "58001003"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58001003031"
+      ]
+    ]
+  }
+}

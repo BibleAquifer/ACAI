@@ -1,0 +1,93 @@
+{
+  "id": "keyterm:ShowToBeRight",
+  "primary_id": "keyterm:Just",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.16"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Justify (Vindicate)",
+      "alternate_labels": [
+        "Prove to Be Right"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To prove that something is fair, honest, or true."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "montrer comme droite"
+    },
+    "ind": {
+      "preferred_label": "membenarkan"
+    },
+    "por-Br": {
+      "preferred_label": "mostrar que está certo"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Acquit",
+    "keyterm:Just"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "δικαιόω"
+    ]
+  },
+  "key_references": [
+    "40011019",
+    "42016015",
+    "45003004",
+    "54003016"
+  ],
+  "references": [
+    "40011019",
+    "42007035",
+    "42010029",
+    "42016015",
+    "45003004",
+    "54003016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40011019021"
+      ],
+      [
+        "n42007035002"
+      ],
+      [
+        "n42010029004"
+      ],
+      [
+        "n42016015007"
+      ],
+      [
+        "n45003004016"
+      ],
+      [
+        "n54003016013"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42016015008"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n45003004013"
+      ]
+    ]
+  }
+}

@@ -9,10 +9,10 @@
       "aa5cc66"
     ],
     "tipnr": [
-      "Ephraim_Mount|Ebal_Mount@Deu.11.29-Jer",
-      "Zalmon|Ebal_Mount@Deu.11.29-Jer",
       "Ebal_Mount@Deu.11.29-Jer",
-      "Zalmon_Mount|Ebal_Mount@Deu.11.29-Jer"
+      "Zalmon_Mount|Ebal_Mount@Deu.11.29-Jer",
+      "Ephraim_Mount|Ebal_Mount@Deu.11.29-Jer",
+      "Zalmon|Ebal_Mount@Deu.11.29-Jer"
     ],
     "vizbible": [
       "rec2YUNAEJFFfYOXk"
@@ -26,10 +26,10 @@
     "eng": {
       "preferred_label": "Mount Ebal",
       "alternate_labels": [
-        "Ebal",
+        "Mount Zalmon",
         "Zalmon",
         "Mount Ephraim",
-        "Mount Zalmon"
+        "Ebal"
       ],
       "descriptions": [
         {
@@ -110,9 +110,9 @@
     }
   },
   "key_references": [
-    "05011029",
     "06008030",
-    "05027013"
+    "05027013",
+    "05011029"
   ],
   "references": [
     "05011029",

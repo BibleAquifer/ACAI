@@ -1,0 +1,87 @@
+{
+  "id": "keyterm:Justice.3",
+  "primary_id": "keyterm:Judgment",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "56.25",
+    "30.110"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Justice (Administrative)",
+      "alternate_labels": [
+        "Fairness"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Making sure rules are followed and fair decisions are made for everyone."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "justicia"
+    },
+    "fra": {
+      "preferred_label": "jugement"
+    },
+    "ind": {
+      "preferred_label": "hukum"
+    },
+    "por": {
+      "preferred_label": "justiça"
+    },
+    "por-Br": {
+      "preferred_label": "justiça"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Judgment"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κρίσις"
+    ]
+  },
+  "key_references": [
+    "40012018",
+    "40023023",
+    "43016011"
+  ],
+  "references": [
+    "40012018",
+    "40012020",
+    "40023023",
+    "42011042",
+    "43016011"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40012018023"
+      ],
+      [
+        "n40012020016"
+      ],
+      [
+        "n40023023024"
+      ],
+      [
+        "n42011042019"
+      ],
+      [
+        "n43016011003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42011042025"
+      ]
+    ]
+  }
+}

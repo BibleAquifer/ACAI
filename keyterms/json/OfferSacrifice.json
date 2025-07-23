@@ -1,0 +1,103 @@
+{
+  "id": "keyterm:OfferSacrifice",
+  "primary_id": "keyterm:Offering",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "57.80"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Offer Sacrifice",
+      "alternate_labels": [
+        "Make an Offering"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To give something to God as part of a religious ceremony."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "ofrecer"
+    },
+    "fra": {
+      "preferred_label": "offrir"
+    },
+    "ind": {
+      "preferred_label": "persembahan"
+    },
+    "por": {
+      "preferred_label": "oferecer"
+    },
+    "por-Br": {
+      "preferred_label": "oferecer sacrifício"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Offering"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "προσφέρω"
+    ]
+  },
+  "key_references": [
+    "41001044",
+    "44021026",
+    "58009014",
+    "58011017"
+  ],
+  "references": [
+    "41001044",
+    "42005014",
+    "44021026",
+    "58005003",
+    "58009014",
+    "58009025",
+    "58009028",
+    "58010002",
+    "58010008",
+    "58011017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41001044015"
+      ],
+      [
+        "n42005014014"
+      ],
+      [
+        "n44021026026"
+      ],
+      [
+        "n58005003013"
+      ],
+      [
+        "n58009014012"
+      ],
+      [
+        "n58009025004"
+      ],
+      [
+        "n58009028006"
+      ],
+      [
+        "n58010002005"
+      ],
+      [
+        "n58010008019"
+      ],
+      [
+        "n58011017002"
+      ],
+      [
+        "n58011017010"
+      ]
+    ]
+  }
+}

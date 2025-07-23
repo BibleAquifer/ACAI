@@ -1,0 +1,123 @@
+{
+  "id": "keyterm:Oath.3",
+  "primary_id": "keyterm:Oath",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "33.463"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Oath (NT)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A promise that calls on God to punish someone if what they say is not true."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "juramento"
+    },
+    "fra": {
+      "preferred_label": "serment"
+    },
+    "ind": {
+      "preferred_label": "sumpah"
+    },
+    "por": {
+      "preferred_label": "juramento"
+    },
+    "por-Br": {
+      "preferred_label": "juramento"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Oath"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὁρκωμοσία",
+      "ὅρκος"
+    ]
+  },
+  "key_references": [
+    "40005033",
+    "42001073",
+    "58006016",
+    "59005012"
+  ],
+  "references": [
+    "40005033",
+    "40014007",
+    "40014009",
+    "40026072",
+    "41006026",
+    "42001073",
+    "44002030",
+    "58006016",
+    "58006017",
+    "58007020",
+    "58007021",
+    "58007028",
+    "59005012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58007020006"
+      ],
+      [
+        "n58007020011"
+      ],
+      [
+        "n58007021004"
+      ],
+      [
+        "n58007028013"
+      ],
+      [
+        "n40005033014"
+      ],
+      [
+        "n40014007003"
+      ],
+      [
+        "n40014009007"
+      ],
+      [
+        "n40026072005"
+      ],
+      [
+        "n41006026008"
+      ],
+      [
+        "n42001073001"
+      ],
+      [
+        "n44002030007"
+      ],
+      [
+        "n58006016015"
+      ],
+      [
+        "n58006017018"
+      ],
+      [
+        "n59005012017"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42001073002"
+      ],
+      [
+        "n58006017002"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "keyterm:WayToLive",
+  "primary_id": "keyterm:TheWay",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "41.16",
+    "88.18",
+    "41.35"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "(Metaphorical) Way to Live",
+      "alternate_labels": [
+        "Path"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The correct path people should follow to live their lives the way God wants."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "mode de vie"
+    },
+    "ind": {
+      "preferred_label": "(khiasan) cara atau jalan untuk hidup"
+    },
+    "por-Br": {
+      "preferred_label": "(metafórica) maneira de viver"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:TheWay"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ὁδός"
+    ]
+  },
+  "key_references": [
+    "44018025",
+    "44018026",
+    "58003010"
+  ],
+  "references": [
+    "40022016",
+    "41012014",
+    "42020021",
+    "44013010",
+    "44018025",
+    "44018026",
+    "58003010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40022016018"
+      ],
+      [
+        "n41012014026"
+      ],
+      [
+        "n42020021020"
+      ],
+      [
+        "n44013010018"
+      ],
+      [
+        "n44018025005"
+      ],
+      [
+        "n44018026021"
+      ],
+      [
+        "n58003010019"
+      ]
+    ]
+  }
+}

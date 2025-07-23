@@ -1,0 +1,53 @@
+{
+  "id": "keyterm:Redemption",
+  "primary_id": "keyterm:Redeem",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "001241001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Redemption (Deliverance)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The act of saving or rescuing someone from trouble or danger."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": " redención "
+    },
+    "fra": {
+      "preferred_label": "libération?"
+    },
+    "ind": {
+      "preferred_label": "penebusan"
+    },
+    "por": {
+      "preferred_label": "redemption"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Redeem"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גְּאוּלִים"
+    ]
+  },
+  "references": [
+    "23063004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230630040061",
+        "o230630040062"
+      ]
+    ]
+  }
+}

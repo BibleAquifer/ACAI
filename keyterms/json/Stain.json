@@ -1,0 +1,101 @@
+{
+  "id": "keyterm:Stain",
+  "primary_id": "keyterm:Stain",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "001245002004000",
+    "001245002001000",
+    "001245002002000",
+    "001245002003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Defile",
+      "alternate_labels": [
+        "Pollute",
+        "Stain"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To make something unclean or dirty, especially in a moral or spiritual way."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "contaminar"
+    },
+    "fra": {
+      "preferred_label": "souiller"
+    },
+    "ind": {
+      "preferred_label": "membuat noda"
+    },
+    "por": {
+      "preferred_label": "stain"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "גאל"
+    ]
+  },
+  "key_references": [
+    "23059003",
+    "23063003",
+    "25004014",
+    "36003001"
+  ],
+  "references": [
+    "15002062",
+    "16007064",
+    "23059003",
+    "23063003",
+    "25004014",
+    "27001008",
+    "36003001",
+    "39001007",
+    "39001012"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o150020620072"
+      ],
+      [
+        "o160070640072"
+      ],
+      [
+        "o230590030031"
+      ],
+      [
+        "o230630030181"
+      ],
+      [
+        "o250040140041"
+      ],
+      [
+        "o270010080071"
+      ],
+      [
+        "o270010080171"
+      ],
+      [
+        "o360030010032"
+      ],
+      [
+        "o390010070051"
+      ],
+      [
+        "o390010070081",
+        "o390010070082"
+      ],
+      [
+        "o390010120071"
+      ]
+    ]
+  }
+}

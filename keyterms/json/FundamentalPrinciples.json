@@ -1,0 +1,109 @@
+{
+  "id": "keyterm:FundamentalPrinciples",
+  "primary_id": "keyterm:FundamentalPrinciples",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "58.19",
+    "12.43",
+    "2.1"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fundamental Principles",
+      "alternate_labels": [
+        "Elementary Principles",
+        "Fundamentals",
+        "Elements"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The basic truths or rules that form the foundation of something."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "elemento"
+    },
+    "fra": {
+      "preferred_label": "éléments (de ce que le monde est fait)"
+    },
+    "ind": {
+      "preferred_label": "roh, roh dunia"
+    },
+    "por": {
+      "preferred_label": "elementos"
+    },
+    "por-Br": {
+      "preferred_label": "elementos"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "στοιχεῖα"
+    ]
+  },
+  "key_references": [
+    "48004003",
+    "51002020",
+    "58005012",
+    "61003010"
+  ],
+  "references": [
+    "48004003",
+    "48004009",
+    "51002008",
+    "51002020",
+    "58005012",
+    "61003010",
+    "61003012"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n48004003009"
+      ],
+      [
+        "n48004009018"
+      ],
+      [
+        "n51002008021"
+      ],
+      [
+        "n51002020007"
+      ],
+      [
+        "n58005012017"
+      ],
+      [
+        "n61003010013"
+      ],
+      [
+        "n61003012016"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n48004009019"
+      ],
+      [
+        "n61003011001"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n61003010015"
+      ],
+      [
+        "n61003012017"
+      ]
+    ]
+  }
+}

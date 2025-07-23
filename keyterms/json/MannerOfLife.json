@@ -1,0 +1,66 @@
+{
+  "id": "keyterm:MannerOfLife",
+  "primary_id": "keyterm:DailyLife",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "41.18"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Manner of Life",
+      "alternate_labels": [
+        "Conduct",
+        "Way of Living"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The way a person lives and behaves every day."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "manera de vivir"
+    },
+    "fra": {
+      "preferred_label": "mode de vie"
+    },
+    "ind": {
+      "preferred_label": "cara hidup"
+    },
+    "por": {
+      "preferred_label": "maneira de viver"
+    },
+    "por-Br": {
+      "preferred_label": "modo de vida"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:DailyLife"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βίωσις"
+    ]
+  },
+  "references": [
+    "44026004"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44026004004"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n44026004012"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "keyterm:Semblance",
+  "primary_id": "keyterm:Semblance",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "006209001002000",
+    "006209001003000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Likeness",
+      "alternate_labels": [
+        "Semblance"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A group of qualities that show what someone is like."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "ressemblance"
+    },
+    "ind": {
+      "preferred_label": "menurut gambar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Shadow"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "צֶלֶם"
+    ]
+  },
+  "key_references": [
+    "01001026",
+    "01001027",
+    "01005003",
+    "19073020"
+  ],
+  "references": [
+    "01001026",
+    "01001027",
+    "01005003",
+    "01009006",
+    "19039007",
+    "19073020"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010010260052",
+        "o010010260053"
+      ],
+      [
+        "o010010270052",
+        "o010010270053"
+      ],
+      [
+        "o010010270062"
+      ],
+      [
+        "o010050030082",
+        "o010050030083"
+      ],
+      [
+        "o010090060082"
+      ],
+      [
+        "o190390070022"
+      ],
+      [
+        "o190730200051",
+        "o190730200052"
+      ]
+    ]
+  }
+}

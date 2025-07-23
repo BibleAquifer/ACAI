@@ -1,0 +1,67 @@
+{
+  "id": "keyterm:TributeTax",
+  "primary_id": "keyterm:TributeTax",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "57.182"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Tribute Tax",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A payment made by one nation to another to show respect and acknowledge their authority."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "impuesto"
+    },
+    "fra": {
+      "preferred_label": "taxe"
+    },
+    "ind": {
+      "preferred_label": "pajak"
+    },
+    "por": {
+      "preferred_label": "imposto"
+    },
+    "por-Br": {
+      "preferred_label": "imposto"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "φόρος"
+    ]
+  },
+  "references": [
+    "42020022",
+    "42023002",
+    "45013006",
+    "45013007"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42020022004"
+      ],
+      [
+        "n42023002014"
+      ],
+      [
+        "n45013006005"
+      ],
+      [
+        "n45013007007"
+      ],
+      [
+        "n45013007009"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:Bless.3",
+  "primary_id": "keyterm:Bless",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "33.470"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Bless (Request Favor)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To ask God to give special help or good things to someone."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "bendecir"
+    },
+    "fra": {
+      "preferred_label": "bénir"
+    },
+    "ind": {
+      "preferred_label": "memberkati"
+    },
+    "por": {
+      "preferred_label": "abençoar"
+    },
+    "por-Br": {
+      "preferred_label": "abençoar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Bless"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κατευλογέω"
+    ]
+  },
+  "references": [
+    "41010016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n41010016004"
+      ]
+    ]
+  }
+}

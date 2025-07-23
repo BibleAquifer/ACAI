@@ -1,0 +1,53 @@
+{
+  "id": "keyterm:FixedQuota",
+  "primary_id": "keyterm:Decree",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "002494001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Fixed Quota",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A specific amount that must be reached as a standard."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "cuota obligatoria"
+    },
+    "fra": {
+      "preferred_label": "part"
+    },
+    "ind": {
+      "preferred_label": "kuota/jumlah tetap"
+    },
+    "por": {
+      "preferred_label": "fixed quota"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Decree"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֹק"
+    ]
+  },
+  "references": [
+    "02005014"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020050140141",
+        "o020050140142"
+      ]
+    ]
+  }
+}

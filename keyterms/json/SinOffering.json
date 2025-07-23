@@ -1,0 +1,49 @@
+{
+  "id": "keyterm:SinOffering",
+  "primary_id": "keyterm:Offering",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "002215001002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sin Offering (Guilt Removal)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A sacrifice offered to remove guilt from a wrong done against God, whether it was done on purpose or by mistake."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "ofrenda por el pecado"
+    },
+    "fra": {
+      "preferred_label": "sacrifice pour le péché"
+    },
+    "ind": {
+      "preferred_label": "korban penghapus dosa"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Offering"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חֲטָאָה"
+    ]
+  },
+  "references": [
+    "19040007"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o190400070092"
+      ]
+    ]
+  }
+}

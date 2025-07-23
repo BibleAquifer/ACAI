@@ -1,0 +1,80 @@
+{
+  "id": "keyterm:Incantations",
+  "primary_id": "keyterm:Incantations",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "003462001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Incantations",
+      "alternate_labels": [
+        "Sorceries"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Magic words or spells used to try to control or change things."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "hechicería"
+    },
+    "fra": {
+      "preferred_label": "incantations"
+    },
+    "ind": {
+      "preferred_label": "mantera"
+    },
+    "por": {
+      "preferred_label": "incantations"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "כֶּשֶׁף"
+    ]
+  },
+  "key_references": [
+    "23047009",
+    "23047012",
+    "33005011"
+  ],
+  "references": [
+    "12009022",
+    "23047009",
+    "23047012",
+    "33005011",
+    "34003004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o120090220162",
+        "o120090220163"
+      ],
+      [
+        "o230470090141",
+        "o230470090142"
+      ],
+      [
+        "o230470120051",
+        "o230470120052"
+      ],
+      [
+        "o330050110021"
+      ],
+      [
+        "o340030040071"
+      ],
+      [
+        "o340030040122",
+        "o340030040123"
+      ]
+    ]
+  }
+}

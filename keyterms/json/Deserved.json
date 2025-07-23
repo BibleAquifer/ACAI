@@ -1,0 +1,89 @@
+{
+  "id": "keyterm:Deserved",
+  "primary_id": "keyterm:Just",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.15"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Deserved",
+      "alternate_labels": [
+        "Just"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Rightly earned or fair because of actions or reasons."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "justo"
+    },
+    "fra": {
+      "preferred_label": "juste"
+    },
+    "ind": {
+      "preferred_label": "balasan yang setimpal"
+    },
+    "por": {
+      "preferred_label": "justo"
+    },
+    "por-Br": {
+      "preferred_label": "merecido"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Just",
+    "keyterm:Justly"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἔνδικος",
+      "δικαίως"
+    ]
+  },
+  "key_references": [
+    "42023041",
+    "45003008",
+    "58002002"
+  ],
+  "references": [
+    "42023041",
+    "45003008",
+    "46015034",
+    "52002010",
+    "56002012",
+    "58002002",
+    "60002023"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n45003008022"
+      ],
+      [
+        "n58002002016"
+      ],
+      [
+        "n42023041004"
+      ],
+      [
+        "n46015034002"
+      ],
+      [
+        "n52002010009"
+      ],
+      [
+        "n56002012013"
+      ],
+      [
+        "n60002023012"
+      ]
+    ]
+  }
+}

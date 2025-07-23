@@ -1,0 +1,78 @@
+{
+  "id": "keyterm:OutOfFreeWill",
+  "primary_id": "keyterm:OutOfFreeWill",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "004649001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Out of Free Will",
+      "alternate_labels": [
+        "Willing"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Doing something because you choose to, not because you are forced."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "voluntariamente"
+    },
+    "fra": {
+      "preferred_label": "utilisé comme adverbe: empressement"
+    },
+    "ind": {
+      "preferred_label": "sukarela"
+    },
+    "por": {
+      "preferred_label": "out of free will"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "נְדָבָה"
+    ]
+  },
+  "key_references": [
+    "14035008",
+    "19068010",
+    "19110003",
+    "28014005"
+  ],
+  "references": [
+    "05023024",
+    "14035008",
+    "19054008",
+    "19068010",
+    "19110003",
+    "28014005"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050230240091"
+      ],
+      [
+        "o140350080022"
+      ],
+      [
+        "o190540080012"
+      ],
+      [
+        "o190680100021"
+      ],
+      [
+        "o191100030021"
+      ],
+      [
+        "o280140050041"
+      ]
+    ]
+  }
+}

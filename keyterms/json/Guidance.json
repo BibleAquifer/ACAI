@@ -1,0 +1,71 @@
+{
+  "id": "keyterm:Guidance",
+  "primary_id": "keyterm:Guidance",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Guidance",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Help and advice that shows the right way to go or what to do."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "plan"
+    },
+    "fra": {
+      "preferred_label": "conseils"
+    },
+    "ind": {
+      "preferred_label": "bimbingan"
+    },
+    "por": {
+      "preferred_label": "guidance"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "תַּחְבּוּלָה"
+    ]
+  },
+  "key_references": [
+    "20001005",
+    "20011014",
+    "20024006"
+  ],
+  "references": [
+    "18037012",
+    "20001005",
+    "20011014",
+    "20012005",
+    "20020018",
+    "20024006"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o180370120051"
+      ],
+      [
+        "o200010050061"
+      ],
+      [
+        "o200110140021"
+      ],
+      [
+        "o200120050041"
+      ],
+      [
+        "o200200180043"
+      ],
+      [
+        "o200240060022"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "keyterm:UnableToSpeakWell",
+  "primary_id": "keyterm:UnableToSpeakWell",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Unable to Speak Well",
+      "alternate_labels": [
+        "Not Eloquent"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Having difficulty speaking clearly or expressing ideas well."
+        }
+      ]
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "עֲרַל שְׂפָתָיִם"
+    ]
+  },
+  "references": [
+    "02006012",
+    "02006030"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o020060120161"
+      ],
+      [
+        "o020060300071"
+      ]
+    ]
+  }
+}

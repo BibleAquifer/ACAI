@@ -1,0 +1,160 @@
+{
+  "id": "keyterm:Friendship",
+  "primary_id": "keyterm:Friendship",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "25.33",
+    "25.103"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Friendship",
+      "alternate_labels": [
+        "Affection"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A close and caring relationship between people who like and trust each other."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "amistad"
+    },
+    "fra": {
+      "preferred_label": "amour"
+    },
+    "ind": {
+      "preferred_label": "persahabatan"
+    },
+    "por": {
+      "preferred_label": "amizade"
+    },
+    "por-Br": {
+      "preferred_label": "amizade"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Love.5"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "φιλία",
+      "φιλέω"
+    ]
+  },
+  "key_references": [
+    "43015019",
+    "43021015",
+    "59004004",
+    "66003019"
+  ],
+  "references": [
+    "40006005",
+    "40010037",
+    "40023006",
+    "42020046",
+    "43005020",
+    "43011003",
+    "43011036",
+    "43012025",
+    "43015019",
+    "43016027",
+    "43020002",
+    "43021015",
+    "43021016",
+    "43021017",
+    "46016022",
+    "56003015",
+    "59004004",
+    "66003019",
+    "66022015"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n59004004006"
+      ],
+      [
+        "n40006005010"
+      ],
+      [
+        "n40010037002"
+      ],
+      [
+        "n40010037014"
+      ],
+      [
+        "n40023006001"
+      ],
+      [
+        "n42020046011"
+      ],
+      [
+        "n43005020004"
+      ],
+      [
+        "n43011003011"
+      ],
+      [
+        "n43011036007"
+      ],
+      [
+        "n43012025002"
+      ],
+      [
+        "n43015019011"
+      ],
+      [
+        "n43016027005"
+      ],
+      [
+        "n43016027010"
+      ],
+      [
+        "n43020002014"
+      ],
+      [
+        "n43021015023"
+      ],
+      [
+        "n43021016016"
+      ],
+      [
+        "n43021017007"
+      ],
+      [
+        "n43021017017"
+      ],
+      [
+        "n43021017029"
+      ],
+      [
+        "n46016022004"
+      ],
+      [
+        "n56003015009"
+      ],
+      [
+        "n66003019004"
+      ],
+      [
+        "n66022015018"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43012025005"
+      ],
+      [
+        "n56003015017"
+      ]
+    ]
+  }
+}

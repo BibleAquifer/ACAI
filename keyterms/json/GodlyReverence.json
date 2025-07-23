@@ -1,0 +1,63 @@
+{
+  "id": "keyterm:GodlyReverence",
+  "primary_id": "keyterm:GodlyReverence",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "53.1"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Godly Reverence",
+      "alternate_labels": [
+        "Piety"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing deep respect and devotion to God through belief and actions."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "piedad"
+    },
+    "fra": {
+      "preferred_label": "religion"
+    },
+    "ind": {
+      "preferred_label": "yang beribadah"
+    },
+    "por": {
+      "preferred_label": "piedade"
+    },
+    "por-Br": {
+      "preferred_label": "reverência a deus"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Veneration"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "θεοσέβεια",
+      "θρησκεία"
+    ]
+  },
+  "references": [
+    "51002018",
+    "54002010"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n54002010006"
+      ],
+      [
+        "n51002018008"
+      ]
+    ]
+  }
+}

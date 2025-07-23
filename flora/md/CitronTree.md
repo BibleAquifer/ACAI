@@ -11,7 +11,7 @@ LEV 23:40, REV 18:12.
 
 
 In the Old Testament (BSB), words representing “Citron” are translated as 
-*majestic trees the* (1x). 
+*majestic trees* (1x). 
 
 
 In the New Testament (BSB), words representing “Citron” are translated as 
@@ -24,7 +24,7 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
-* majestic trees the (LEV 23:40)
+* majestic trees (LEV 23:40)
 
 
 

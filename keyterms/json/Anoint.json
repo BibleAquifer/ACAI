@@ -1,0 +1,109 @@
+{
+  "id": "keyterm:Anoint",
+  "primary_id": "keyterm:Anointed",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "47.14"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anoint (Pour)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To pour oil or perfume on a person's body, usually on the head, as part of a special ceremony."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "ungir"
+    },
+    "fra": {
+      "preferred_label": "oindre"
+    },
+    "ind": {
+      "preferred_label": "meminyaki"
+    },
+    "por": {
+      "preferred_label": "ungir"
+    },
+    "por-Br": {
+      "preferred_label": "ungir"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Anointed"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἀλείφω",
+      "ἐπιχρίω",
+      "ἐγχρῖω",
+      "χρίω",
+      "χρῖσμα"
+    ]
+  },
+  "key_references": [
+    "41006013",
+    "42007038",
+    "43011002",
+    "59005014"
+  ],
+  "references": [
+    "40006017",
+    "41006013",
+    "41016001",
+    "42007038",
+    "42007046",
+    "43011002",
+    "43012003",
+    "59005014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40006017004"
+      ],
+      [
+        "n41006013006"
+      ],
+      [
+        "n41016001019"
+      ],
+      [
+        "n42007038029"
+      ],
+      [
+        "n42007046006"
+      ],
+      [
+        "n42007046010"
+      ],
+      [
+        "n43011002005"
+      ],
+      [
+        "n43012003010"
+      ],
+      [
+        "n59005014014"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n43011002016"
+      ],
+      [
+        "n42004021011"
+      ],
+      [
+        "n62002027005"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "keyterm:Desecrate",
+  "primary_id": "keyterm:Defilement",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "53.33"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Desecrate",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To treat something holy in a disrespectful or unclean way."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "profanar"
+    },
+    "fra": {
+      "preferred_label": "profaner"
+    },
+    "ind": {
+      "preferred_label": "melanggar hukum"
+    },
+    "por": {
+      "preferred_label": "profanar"
+    },
+    "por-Br": {
+      "preferred_label": "profanar"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Defilement"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βεβηλόω"
+    ]
+  },
+  "references": [
+    "40012005",
+    "44024006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40012005017"
+      ],
+      [
+        "n44024006006"
+      ]
+    ]
+  }
+}

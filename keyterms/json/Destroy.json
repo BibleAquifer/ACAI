@@ -1,0 +1,120 @@
+{
+  "id": "keyterm:Destroy",
+  "primary_id": "keyterm:Destroy",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "20.31"
+  ],
+  "ubsdbh": [
+    "003861001005000",
+    "003861001003000",
+    "003861001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Destroy",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To completely ruin or put an end to something."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "borrar"
+    },
+    "fra": {
+      "preferred_label": "atteindre"
+    },
+    "ind": {
+      "preferred_label": "menghancurkan"
+    },
+    "por": {
+      "preferred_label": "wipe (out), destroy"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Destruction"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "מחה"
+    ],
+    "el": [
+      "ἀπώλεια"
+    ]
+  },
+  "key_references": [
+    "01006007",
+    "01007023",
+    "40007013",
+    "43017012"
+  ],
+  "references": [
+    "01006007",
+    "01007004",
+    "01007023",
+    "02017014",
+    "07021017",
+    "12021013",
+    "26006006",
+    "40007013",
+    "43017012",
+    "50003019",
+    "53002003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o010060070031"
+      ],
+      [
+        "o010070040132"
+      ],
+      [
+        "o010070230012"
+      ],
+      [
+        "o010070230172"
+      ],
+      [
+        "o020170140131"
+      ],
+      [
+        "o020170140141"
+      ],
+      [
+        "o070210170061"
+      ],
+      [
+        "o120210130112"
+      ],
+      [
+        "o120210130151"
+      ],
+      [
+        "o120210130181"
+      ],
+      [
+        "o260060060162"
+      ]
+    ],
+    "SBLGNT": [
+      [
+        "n40007013018"
+      ],
+      [
+        "n43017012027"
+      ],
+      [
+        "n50003019004"
+      ],
+      [
+        "n53002003024"
+      ]
+    ]
+  }
+}

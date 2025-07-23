@@ -1,0 +1,55 @@
+{
+  "id": "keyterm:SabbathRest",
+  "primary_id": "keyterm:Sabbath",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "67.185"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Sabbath Rest",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A time set apart to rest and worship God, showing trust in Him."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "descanso sabático"
+    },
+    "fra": {
+      "preferred_label": "le repos du sabbat"
+    },
+    "ind": {
+      "preferred_label": "istirahat sabat"
+    },
+    "por": {
+      "preferred_label": "repouso (como num dia de sábado)"
+    },
+    "por-Br": {
+      "preferred_label": "repouso (como num dia de sábado)"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Sabbath"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "σαββατισμός"
+    ]
+  },
+  "references": [
+    "58004009"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n58004009003"
+      ]
+    ]
+  }
+}

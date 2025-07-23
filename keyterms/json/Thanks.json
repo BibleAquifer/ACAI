@@ -1,0 +1,125 @@
+{
+  "id": "keyterm:Thanks",
+  "primary_id": "keyterm:Favor",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "25.89",
+    "33.350",
+    "88.66"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Gratitude",
+      "alternate_labels": [
+        "Thanksgiving",
+        "Gratitude",
+        "Credit"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Showing or saying you are happy and grateful for what someone has done."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "remerciment"
+    },
+    "ind": {
+      "preferred_label": "terima kasih"
+    },
+    "por-Br": {
+      "preferred_label": "ação de graças"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Favor"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χάρις"
+    ]
+  },
+  "key_references": [
+    "45007025",
+    "46015057",
+    "47009015",
+    "51003016"
+  ],
+  "references": [
+    "42006032",
+    "42006033",
+    "42006034",
+    "42017009",
+    "45006017",
+    "45007025",
+    "46010030",
+    "46015057",
+    "47002014",
+    "47008016",
+    "47009015",
+    "51003016",
+    "55001003",
+    "58012028",
+    "60002020"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42006032009"
+      ],
+      [
+        "n42006033009"
+      ],
+      [
+        "n42006034010"
+      ],
+      [
+        "n42017009003"
+      ],
+      [
+        "n45006017001"
+      ],
+      [
+        "n45007025001"
+      ],
+      [
+        "n46010030003"
+      ],
+      [
+        "n46015057004"
+      ],
+      [
+        "n47002014004"
+      ],
+      [
+        "n47008016001"
+      ],
+      [
+        "n47009015001"
+      ],
+      [
+        "n51003016021"
+      ],
+      [
+        "n55001003001"
+      ],
+      [
+        "n58012028006"
+      ],
+      [
+        "n60002020016"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n58012028008"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "keyterm:Forgiveness",
+  "primary_id": "keyterm:Forgive",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "localizations": {
+    "eng": {
+      "preferred_label": "Forgiveness (Pardon)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "When someone chooses to pardon another person and not punish them for their mistake."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "perdón"
+    },
+    "fra": {
+      "preferred_label": "pardon"
+    },
+    "ind": {
+      "preferred_label": "pengampunan"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Forgive"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "סְלִיחָה"
+    ]
+  },
+  "references": [
+    "16009017",
+    "19130004",
+    "27009009"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o160090170191"
+      ],
+      [
+        "o191300040032"
+      ],
+      [
+        "o270090090043"
+      ]
+    ]
+  }
+}

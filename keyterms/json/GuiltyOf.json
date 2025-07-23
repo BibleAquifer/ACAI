@@ -1,0 +1,84 @@
+{
+  "id": "keyterm:GuiltyOf",
+  "primary_id": "keyterm:Sin",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "002214001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Guilty Of",
+      "alternate_labels": [
+        "Deserving Blame for (A Specific Sinful Action)"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Being responsible for a particular wrong action that may need to be made right or punished."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "culpable de"
+    },
+    "fra": {
+      "preferred_label": "coupable de"
+    },
+    "ind": {
+      "preferred_label": "menanggung kesalahan"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Sin",
+    "keyterm:Sin.6"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חַטָּא"
+    ]
+  },
+  "references": [
+    "04017003",
+    "09015018",
+    "11001021"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040170030032"
+      ],
+      [
+        "o090150180082"
+      ],
+      [
+        "o110010210111"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o040170030053"
+      ],
+      [
+        "o090150180122"
+      ],
+      [
+        "o090150180152"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o040170030131"
+      ],
+      [
+        "o040170040092"
+      ]
+    ]
+  }
+}

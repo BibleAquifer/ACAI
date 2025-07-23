@@ -1,0 +1,49 @@
+{
+  "id": "keyterm:TakingRefuge",
+  "primary_id": "keyterm:Refuge",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "002415001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Taking Refuge",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Going to a safe place to find protection and help."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "refugio"
+    },
+    "fra": {
+      "preferred_label": "prendre refuge"
+    },
+    "ind": {
+      "preferred_label": "berlindung"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Refuge"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חָסוּת"
+    ]
+  },
+  "references": [
+    "23030003"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o230300030063"
+      ]
+    ]
+  }
+}

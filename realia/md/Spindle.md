@@ -10,7 +10,7 @@ EXO 26:1, EXO 36:8, EXO 39:29, PRO 31:19.
 
 
 In the Old Testament (BSB), words representing “Spindle” are translated as 
-*finely spun linen* (1x), *and finely spun* (6x), *of finely spun* (7x), *with finely spun linen* (2x), *and with finely spun* (2x), *were made of finely spun* (1x), *and finely spun linen* (1x), *on a staff* (1x), *to the distaff* (1x), *the spindle* (1x). 
+*to the distaff* (1x), *on a staff* (1x), *the spindle* (1x), *finely spun linen* (1x), *and finely spun* (6x), *of finely spun* (7x), *with finely spun linen* (2x), *and with finely spun* (2x), *were made of finely spun* (1x), *and finely spun linen* (1x). 
 
 
 
@@ -20,6 +20,12 @@ Return to [Index](00-Index.md)
 ## More Information
 
 ### OT Instances (BSB)
+
+* to the distaff (PRO 31:19)
+
+* on a staff (2SA 3:29)
+
+* the spindle (PRO 31:19)
 
 * finely spun linen (EXO 26:1)
 
@@ -34,12 +40,6 @@ Return to [Index](00-Index.md)
 * were made of finely spun (EXO 38:16)
 
 * and finely spun linen (EXO 39:24)
-
-* on a staff (2SA 3:29)
-
-* to the distaff (PRO 31:19)
-
-* the spindle (PRO 31:19)
 
 
 

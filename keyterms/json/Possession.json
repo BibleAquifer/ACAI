@@ -1,0 +1,112 @@
+{
+  "id": "keyterm:Possession",
+  "primary_id": "keyterm:Possess",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "003134001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Possession",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Something that belongs to a person or group."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "posesión"
+    },
+    "fra": {
+      "preferred_label": "possession"
+    },
+    "ind": {
+      "preferred_label": "milik"
+    },
+    "por": {
+      "preferred_label": "possession"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Possess"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יְרֻשָּׁה"
+    ]
+  },
+  "key_references": [
+    "05002005",
+    "06001015",
+    "19061006",
+    "24032008"
+  ],
+  "references": [
+    "05002005",
+    "05002009",
+    "05002012",
+    "05002019",
+    "05003020",
+    "06001015",
+    "06012006",
+    "06012007",
+    "07021017",
+    "14020011",
+    "19061006",
+    "24032008"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o050020050141"
+      ],
+      [
+        "o050020090171"
+      ],
+      [
+        "o050020090241"
+      ],
+      [
+        "o050020120161",
+        "o050020120162"
+      ],
+      [
+        "o050020190171"
+      ],
+      [
+        "o050020190221"
+      ],
+      [
+        "o050030200212",
+        "o050030200213"
+      ],
+      [
+        "o060010150191",
+        "o060010150192"
+      ],
+      [
+        "o060120060111"
+      ],
+      [
+        "o060120070251"
+      ],
+      [
+        "o070210170021"
+      ],
+      [
+        "o140200110072",
+        "o140200110073"
+      ],
+      [
+        "o190610060071"
+      ],
+      [
+        "o240320080252"
+      ]
+    ]
+  }
+}

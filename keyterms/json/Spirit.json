@@ -1,0 +1,135 @@
+{
+  "id": "keyterm:Spirit",
+  "primary_id": "keyterm:Spirit",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdbh": [
+    "000175002001000",
+    "000175002002000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Necromancer",
+      "alternate_labels": [
+        "Necromancy"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A person who talks with the spirits of the dead or the spirit of someone who has died."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "espíritu"
+    },
+    "fra": {
+      "preferred_label": "outre (du vin)"
+    },
+    "ind": {
+      "preferred_label": "ahli nujum"
+    },
+    "por": {
+      "preferred_label": "spirit"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "אוֹב"
+    ]
+  },
+  "key_references": [
+    "03019031",
+    "05018011",
+    "09028007",
+    "12021006"
+  ],
+  "references": [
+    "03019031",
+    "03020006",
+    "03020027",
+    "05018011",
+    "09028003",
+    "09028007",
+    "09028008",
+    "09028009",
+    "12021006",
+    "12023024",
+    "13010013",
+    "14033006",
+    "23008019",
+    "23019003",
+    "23029004"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o030190310042"
+      ],
+      [
+        "o030200060052"
+      ],
+      [
+        "o030200270071"
+      ],
+      [
+        "o050180110041"
+      ],
+      [
+        "o090280030122"
+      ],
+      [
+        "o090280070081"
+      ],
+      [
+        "o090280070191"
+      ],
+      [
+        "o090280080202"
+      ],
+      [
+        "o090280090142"
+      ],
+      [
+        "o120210060081"
+      ],
+      [
+        "o120230240032"
+      ],
+      [
+        "o130100130152"
+      ],
+      [
+        "o140330060131"
+      ],
+      [
+        "o230080190062"
+      ],
+      [
+        "o230190030132"
+      ],
+      [
+        "o230290040082"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "wlc": [
+      [
+        "o030190310102"
+      ],
+      [
+        "o030200060092"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "wlc": [
+      [
+        "o120230240141"
+      ]
+    ]
+  }
+}

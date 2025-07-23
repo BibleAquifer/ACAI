@@ -12,7 +12,7 @@ LUK 23:56, JHN 19:39, JHN 19:40.
 
 
 In the New Testament (BSB), words representing “Aloes” are translated as 
-*spices* (3x), *perfumes* (1x), *the spices* (1x), *a mixture of myrrh* (1x), *aloes* (1x). 
+*aloes* (1x), *spices* (3x), *the spices* (1x), *a mixture* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -21,15 +21,13 @@ Return to [Index](00-Index.md)
 
 ### NT Instances (BSB)
 
-* spices (MRK 16:1; LUK 23:56; JHN 19:40)
+* aloes (JHN 19:39)
 
-* perfumes (LUK 23:56)
+* spices (MRK 16:1; LUK 23:56; JHN 19:40)
 
 * the spices (LUK 24:1)
 
-* a mixture of myrrh (JHN 19:39)
-
-* aloes (JHN 19:39)
+* a mixture (JHN 19:39)
 
 
 

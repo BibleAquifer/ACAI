@@ -1,0 +1,64 @@
+{
+  "id": "keyterm:PollTax",
+  "primary_id": "keyterm:PollTax",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdgnt": [
+    "57.180"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Poll Tax",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A tax that every adult man must pay to the government."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "tributo"
+    },
+    "fra": {
+      "preferred_label": "taxe"
+    },
+    "ind": {
+      "preferred_label": "pajak"
+    },
+    "por": {
+      "preferred_label": "tributo"
+    },
+    "por-Br": {
+      "preferred_label": "tributo"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "κῆνσος"
+    ]
+  },
+  "references": [
+    "40017025",
+    "40022017",
+    "40022019",
+    "41012014"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40017025026"
+      ],
+      [
+        "n40022017009"
+      ],
+      [
+        "n40022019006"
+      ],
+      [
+        "n41012014032"
+      ]
+    ]
+  }
+}

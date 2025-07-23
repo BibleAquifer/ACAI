@@ -1,0 +1,102 @@
+{
+  "id": "keyterm:Resentment",
+  "primary_id": "keyterm:Resentment",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.162"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Resentment",
+      "alternate_labels": [
+        "Jealousy"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A strong feeling of anger and unhappiness when someone feels treated unfairly or envies another person."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "celo"
+    },
+    "fra": {
+      "preferred_label": "jalousie"
+    },
+    "ind": {
+      "preferred_label": "iri hati"
+    },
+    "por": {
+      "preferred_label": "zelo"
+    },
+    "por-Br": {
+      "preferred_label": "ressentimento"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ζῆλος"
+    ]
+  },
+  "key_references": [
+    "44005017",
+    "44013045",
+    "48005020",
+    "59003016"
+  ],
+  "references": [
+    "44005017",
+    "44013045",
+    "45013013",
+    "46003003",
+    "47012020",
+    "48005020",
+    "59003014",
+    "59003016"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n44005017016"
+      ],
+      [
+        "n44013045008"
+      ],
+      [
+        "n45013013017"
+      ],
+      [
+        "n46003003009"
+      ],
+      [
+        "n47012020020"
+      ],
+      [
+        "n48005020005"
+      ],
+      [
+        "n59003014003"
+      ],
+      [
+        "n59003016003"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n48005021007"
+      ],
+      [
+        "n48005021008"
+      ],
+      [
+        "n48005021016"
+      ]
+    ]
+  }
+}

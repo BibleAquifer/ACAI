@@ -1,0 +1,102 @@
+{
+  "id": "keyterm:Baptist",
+  "primary_id": "keyterm:Baptist",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.42"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Baptist",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A person who performs baptism, especially John the Baptist who baptized Jesus and others."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "bautista"
+    },
+    "fra": {
+      "preferred_label": "baptiste [jean]"
+    },
+    "ind": {
+      "preferred_label": "pembaptis"
+    },
+    "por": {
+      "preferred_label": "batista"
+    },
+    "por-Br": {
+      "preferred_label": "batista"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "βαπτιστής"
+    ]
+  },
+  "key_references": [
+    "40003001",
+    "40011011",
+    "41008028",
+    "42007020"
+  ],
+  "references": [
+    "40003001",
+    "40011011",
+    "40011012",
+    "40014002",
+    "40014008",
+    "40016014",
+    "40017013",
+    "41006025",
+    "41008028",
+    "42007020",
+    "42007033",
+    "42009019"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n40003001009"
+      ],
+      [
+        "n40011011012"
+      ],
+      [
+        "n40011012007"
+      ],
+      [
+        "n40014002010"
+      ],
+      [
+        "n40014008018"
+      ],
+      [
+        "n40016014008"
+      ],
+      [
+        "n40017013009"
+      ],
+      [
+        "n41006025022"
+      ],
+      [
+        "n41008028009"
+      ],
+      [
+        "n42007020010"
+      ],
+      [
+        "n42007033005"
+      ],
+      [
+        "n42009019007"
+      ]
+    ]
+  }
+}

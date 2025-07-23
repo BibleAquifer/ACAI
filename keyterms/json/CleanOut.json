@@ -1,0 +1,57 @@
+{
+  "id": "keyterm:CleanOut",
+  "primary_id": "keyterm:CleanOut",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "79.51"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Clean Out",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To remove dirt or unwanted things completely, making something fully clean."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "limpiar"
+    },
+    "fra": {
+      "preferred_label": "nettoyer"
+    },
+    "ind": {
+      "preferred_label": "bersihkan"
+    },
+    "por": {
+      "preferred_label": "limpar"
+    },
+    "por-Br": {
+      "preferred_label": "limpar"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "διακαθαίρω",
+      "διακαθαρίζω"
+    ]
+  },
+  "references": [
+    "40003012",
+    "42003017"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42003017008"
+      ],
+      [
+        "n40003012009"
+      ]
+    ]
+  }
+}

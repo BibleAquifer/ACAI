@@ -10,11 +10,11 @@ GEN 4:21, 2SA 6:5, PSA 150:3, REV 14:2.
 
 
 In the Old Testament (BSB), words representing “Lyre” are translated as 
-*by harps* (1x), *stringed instruments* (1x), *and harps* (2x), *and lyres* (1x), *harps* (5x), *were to play the harps* (1x), *of harps* (1x), *They were to play the harps* (1x), *by* (1x), *with harps* (1x), *with ten strings* (1x), *O harp* (2x), *with the harp* (2x), *harp* (5x), *on a harp* (1x), *and harp* (1x), *of your harps* (2x), *zither* (3x), *lyre* (1x), *and* (1x), *on the harp* (1x). 
+*by harps* (1x), *stringed instruments* (1x), *and harps* (2x), *and lyres* (1x), *harps* (5x), *were to play the harps* (1x), *of harps* (1x), *They were to play the harps* (1x), *by* (1x), *with harps* (1x), *with ten strings* (1x), *O harp* (2x), *with the harp* (2x), *harp* (5x), *on a harp* (1x), *and harp* (1x), *of your harps* (2x), *on the harp* (1x), *and* (1x), *zither* (3x), *lyre* (1x). 
 
 
 In the New Testament (BSB), words representing “Lyre” are translated as 
-*harp* (1x), *the tune* (1x), *a harp* (1x), *harpists strumming* (1x), *harps* (2x), *of harpists* (1x). 
+*harp* (1x), *a harp* (1x), *harps* (2x), *the tune* (1x), *strumming* (1x), *harpists* (1x), *of harpists* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -57,13 +57,13 @@ Return to [Index](00-Index.md)
 
 * of your harps (ISA 14:11; AMO 5:23)
 
-* zither (DAN 3:5; DAN 3:10; DAN 3:15)
-
-* lyre (DAN 3:7)
+* on the harp (AMO 6:5)
 
 * and (DAN 3:7)
 
-* on the harp (AMO 6:5)
+* zither (DAN 3:5; DAN 3:10; DAN 3:15)
+
+* lyre (DAN 3:7)
 
 
 
@@ -71,13 +71,15 @@ Return to [Index](00-Index.md)
 
 * harp (1CO 14:7)
 
-* the tune (1CO 14:7)
-
 * a harp (REV 5:8)
 
-* harpists strumming (REV 14:2)
-
 * harps (REV 14:2; REV 15:2)
+
+* the tune (1CO 14:7)
+
+* strumming (REV 14:2)
+
+* harpists (REV 14:2)
 
 * of harpists (REV 18:22)
 

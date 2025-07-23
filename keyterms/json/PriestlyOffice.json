@@ -1,0 +1,62 @@
+{
+  "id": "keyterm:PriestlyOffice",
+  "primary_id": "keyterm:Priesthood",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "53.86"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Priestly Office",
+      "alternate_labels": [
+        "Priesthood"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The special job of a priest to lead worship and help people connect with God."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "oficio sacerdotal"
+    },
+    "fra": {
+      "preferred_label": "prêtrise"
+    },
+    "ind": {
+      "preferred_label": "jabatan imam"
+    },
+    "por": {
+      "preferred_label": "ofício sacerdotal"
+    },
+    "por-Br": {
+      "preferred_label": "ofício sacerdotal"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Priesthood"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "ἱερατεία"
+    ]
+  },
+  "references": [
+    "42001009",
+    "58007005"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42001009005"
+      ],
+      [
+        "n58007005009"
+      ]
+    ]
+  }
+}

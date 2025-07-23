@@ -1,0 +1,73 @@
+{
+  "id": "keyterm:ShowKindnessTowards",
+  "primary_id": "keyterm:Favor",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdgnt": [
+    "88.66"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Show Kindness Towards",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To be kind and caring to someone, showing them grace and goodness."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "llenar de gracia"
+    },
+    "fra": {
+      "preferred_label": "accorder librement"
+    },
+    "ind": {
+      "preferred_label": "dikaruniai"
+    },
+    "por": {
+      "preferred_label": "dar gratuitamente"
+    },
+    "por-Br": {
+      "preferred_label": "demonstrar bondade para com"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Favor"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χαριτόω"
+    ]
+  },
+  "references": [
+    "42001028",
+    "49001006"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n42001028007"
+      ],
+      [
+        "n49001006008"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n42001028011"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n42001028006"
+      ]
+    ]
+  }
+}

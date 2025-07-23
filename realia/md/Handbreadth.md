@@ -10,7 +10,7 @@ EXO 25:25, 1KI 7:26, EZK 43:13.
 
 
 In the Old Testament (BSB), words representing “Handbreadth” are translated as 
-*handbreadth wide and* (1x), *a handbreadth wide* (1x), *It was a handbreadth* (2x), *as handbreadths* (1x), *and a handbreadth* (2x), *handbreadth long* (1x). 
+*It was a handbreadth* (2x), *handbreadth wide and* (1x), *a handbreadth wide* (1x), *and a handbreadth* (2x), *handbreadth long* (1x), *as handbreadths* (1x). 
 
 
 
@@ -21,17 +21,17 @@ Return to [Index](00-Index.md)
 
 ### OT Instances (BSB)
 
+* It was a handbreadth (1KI 7:26; 2CH 4:5)
+
 * handbreadth wide and (EXO 25:25)
 
 * a handbreadth wide (EXO 37:12)
 
-* It was a handbreadth (1KI 7:26; 2CH 4:5)
-
-* as handbreadths (PSA 39:6)
-
 * and a handbreadth (EZK 40:5; EZK 43:13)
 
 * handbreadth long (EZK 40:43)
+
+* as handbreadths (PSA 39:6)
 
 
 

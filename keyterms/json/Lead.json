@@ -1,0 +1,73 @@
+{
+  "id": "keyterm:Lead",
+  "primary_id": "keyterm:Lead",
+  "type": "keyterm",
+  "keyterm_type": "miscellaneous",
+  "ubsdbh": [
+    "003035001001000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "To Lead",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "To guide or show the way by going in front."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "conduire"
+    },
+    "ind": {
+      "preferred_label": "memimpin"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "יצא ובוא"
+    ]
+  },
+  "key_references": [
+    "04027017",
+    "05031002",
+    "09018013",
+    "11003007"
+  ],
+  "references": [
+    "04027017",
+    "05031002",
+    "06014011",
+    "09018013",
+    "09018016",
+    "11003007",
+    "14001010"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o040270170021"
+      ],
+      [
+        "o050310020122"
+      ],
+      [
+        "o060140110143"
+      ],
+      [
+        "o090180130082"
+      ],
+      [
+        "o090180160091"
+      ],
+      [
+        "o110030070161"
+      ],
+      [
+        "o140010100062"
+      ]
+    ]
+  }
+}

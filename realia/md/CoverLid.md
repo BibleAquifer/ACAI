@@ -11,8 +11,6 @@ In the Old Testament (BSB), words representing “Cover Lid” are translated as
 *a mercy seat* (2x), *of the mercy seat* (3x), *made* (1x), *the mercy seat* (13x), *and mercy seat* (1x), ** (1x), *mercy seat* (2x), *and the mercy seat* (1x), *the mercy seat on* (1x), *of it* (1x), *for the mercy seat* (1x). 
 
 
-In the New Testament (BSB), words representing “Cover Lid” are translated as 
-*mercy seat* (1x). 
 
 
 Return to [Index](00-Index.md)
@@ -45,12 +43,6 @@ Return to [Index](00-Index.md)
 
 
 
-### NT Instances (BSB)
-
-* mercy seat (HEB 9:5)
-
-
-
 ### OT Pronominal Referents (BSB)
 
 * long (EXO 25:17; EXO 37:6)
@@ -65,7 +57,7 @@ Return to [Index](00-Index.md)
 
 ### References (Whole Bible)
 
-* EXO 25:17; EXO 25:18; EXO 25:19; EXO 25:20; EXO 25:21; EXO 25:22; EXO 26:34; EXO 30:6; EXO 31:7; EXO 35:12; EXO 37:6; EXO 37:7; EXO 37:8; EXO 37:9; EXO 39:35; EXO 40:20; LEV 16:2; LEV 16:13; LEV 16:14; LEV 16:15; NUM 7:89; 1CH 28:11; HEB 9:5
+* EXO 25:17; EXO 25:18; EXO 25:19; EXO 25:20; EXO 25:21; EXO 25:22; EXO 26:34; EXO 30:6; EXO 31:7; EXO 35:12; EXO 37:6; EXO 37:7; EXO 37:8; EXO 37:9; EXO 39:35; EXO 40:20; LEV 16:2; LEV 16:13; LEV 16:14; LEV 16:15; NUM 7:89; 1CH 28:11
 
 
 

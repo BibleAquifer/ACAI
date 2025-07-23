@@ -13,7 +13,7 @@ Other information about Gibeah (of Benjamin):
 * Is located within the following region(s): 
 [Territory of Benjamin](TerritoryOfBenjamin.md). 
 * Is located near the following area(s): 
-[Ramah (of Benjamin)](Ramah.1.md). 
+[Ramah (of Naphtali)](Ramah.3.md). 
 
 
 

@@ -1,0 +1,52 @@
+{
+  "id": "keyterm:Community",
+  "primary_id": "keyterm:Community",
+  "type": "keyterm",
+  "keyterm_type": "attributes",
+  "ubsdbh": [
+    "002233001004000"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Community",
+      "alternate_labels": [
+        "Band",
+        "Group"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A group of people who are connected by family or relationships and live or work together."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "communauté"
+    },
+    "ind": {
+      "preferred_label": "kelompok orang"
+    }
+  },
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "he": [
+      "חַיָּה"
+    ]
+  },
+  "references": [
+    "10023011",
+    "19068011"
+  ],
+  "explicit_instances": {
+    "wlc": [
+      [
+        "o100230110082"
+      ],
+      [
+        "o190680110011",
+        "o190680110012"
+      ]
+    ]
+  }
+}

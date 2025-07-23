@@ -1,0 +1,85 @@
+{
+  "id": "keyterm:Anointing",
+  "primary_id": "keyterm:Anointed",
+  "type": "keyterm",
+  "keyterm_type": "rituals",
+  "ubsdgnt": [
+    "37.107"
+  ],
+  "localizations": {
+    "eng": {
+      "preferred_label": "Anointing (Act)",
+      "alternate_labels": [
+        "Appointment"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "The act of giving someone a special job with God's blessing and power."
+        }
+      ]
+    },
+    "spa": {
+      "preferred_label": "unción"
+    },
+    "fra": {
+      "preferred_label": "onction"
+    },
+    "ind": {
+      "preferred_label": "pengurapan"
+    },
+    "por": {
+      "preferred_label": "unção"
+    },
+    "por-Br": {
+      "preferred_label": "unção"
+    }
+  },
+  "referred_to_as": [
+    "keyterm:Anointed"
+  ],
+  "only_mentioned_in_apocrypha": false,
+  "non_biblical": false,
+  "lemmas": {
+    "el": [
+      "χρῖσμα"
+    ]
+  },
+  "references": [
+    "62002020",
+    "62002027"
+  ],
+  "explicit_instances": {
+    "SBLGNT": [
+      [
+        "n62002020003"
+      ],
+      [
+        "n62002027004"
+      ],
+      [
+        "n62002027024"
+      ]
+    ]
+  },
+  "pronominal_referents": {
+    "SBLGNT": [
+      [
+        "n62002027005"
+      ]
+    ]
+  },
+  "subject_referents": {
+    "SBLGNT": [
+      [
+        "n62002027031"
+      ],
+      [
+        "n62002027034"
+      ],
+      [
+        "n62002027038"
+      ]
+    ]
+  }
+}
