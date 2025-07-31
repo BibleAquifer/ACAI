@@ -4,7 +4,7 @@ The ACAI project annotates information about people and places in the Bible. Spe
 
 ACAI also contains information about those entities including a preferred label, description, and information about relationships with other entities.
 
-As you encounter issues or have questions, please contact Rick Brannan at rick.brannan@biblionexus.org.
+As you encounter issues or have questions, please contact Rick Brannan at rickb@missionmutual.org.
 
 # License
 
