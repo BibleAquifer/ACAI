@@ -10,6 +10,8 @@ As you encounter issues or have questions, please contact Rick Brannan at rickb@
 
 This release of the ACAI data (the JSON and Markdown forms included here) is under a Creative Commons CC-BY-SA 4.0 license. See [LICENSE.md](LICENSE.md) for more details.
 
+The ACAI data is Copyright 2025 Mission Mutual.
+
 # Identifiers
 
 Identifiers in the ACAI ecosystem consist of two parts. The first part represents the type of identifier (e.g. people, places, deities, groups, fauna, flora, realia, keyterms). The second part is a unique identifier representing the specific record. For example, the identifier for **Aaron** as a person is `person:Aaron`.
