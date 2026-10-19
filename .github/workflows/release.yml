@@ -1,0 +1,83 @@
+name: Release
+
+# Manual only. Run from main. dry_run (the default) prints the release notes to the job
+# summary and creates nothing.
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Release date as YYYY-MM-DD (today, UTC, if blank)"
+        required: false
+        default: ""
+      dry_run:
+        description: "Preview only: show the notes, create no tag or release"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Require main
+        env:
+          REF: ${{ github.ref }}
+        run: |
+          [ "$REF" = "refs/heads/main" ] || { echo "Releases must be cut from main (got $REF)"; exit 1; }
+
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Validate records
+        run: python3 -I .github/scripts/validate.py
+
+      - name: Choose tag and previous release
+        env:
+          DATE_INPUT: ${{ inputs.date }}
+        run: |
+          DATE="${DATE_INPUT:-$(date -u +%F)}"
+          [[ "$DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]] || { echo "Bad date: $DATE"; exit 1; }
+          TAG="v$DATE"
+          N=2
+          while git rev-parse -q --verify "refs/tags/$TAG" >/dev/null; do
+            TAG="v$DATE-$N"; N=$((N + 1))
+          done
+          PREV="$(gh release list --exclude-drafts --exclude-pre-releases --limit 1 --json tagName --jq '.[0].tagName')"
+          [ -n "$PREV" ] || { echo "No previous release found"; exit 1; }
+          echo "TAG=$TAG" >> "$GITHUB_ENV"
+          echo "PREV=$PREV" >> "$GITHUB_ENV"
+          echo "Release $TAG (previous: $PREV)"
+
+      - name: Build release notes
+        run: |
+          gh api "repos/$GITHUB_REPOSITORY/releases/generate-notes" \
+            -f tag_name="$TAG" -f target_commitish="$GITHUB_SHA" -f previous_tag_name="$PREV" \
+            --jq .body > "$RUNNER_TEMP/generated.md"
+          python3 -I .github/scripts/release_notes.py --prev "$PREV" \
+            --template .github/release-template.md --generated "$RUNNER_TEMP/generated.md" \
+            > "$RUNNER_TEMP/notes.md"
+
+      - name: Preview (dry run)
+        if: ${{ inputs.dry_run }}
+        run: |
+          {
+            echo "### Dry run: would create \`$TAG\` (previous \`$PREV\`) at \`$GITHUB_SHA\`"
+            echo
+            cat "$RUNNER_TEMP/notes.md"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Create release
+        if: ${{ !inputs.dry_run }}
+        run: |
+          gh release create "$TAG" --target "$GITHUB_SHA" --title "ACAI Release ${TAG#v}" \
+            --notes-file "$RUNNER_TEMP/notes.md" --latest
