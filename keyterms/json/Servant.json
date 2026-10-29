@@ -30,10 +30,10 @@
       "preferred_label": "pelayan"
     },
     "por": {
-      "preferred_label": "servidor público"
-    },
-    "por-Br": {
-      "preferred_label": "servo"
+      "preferred_label": "servo",
+      "alternate_labels": [
+        "servidor público"
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

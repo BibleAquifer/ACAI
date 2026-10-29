@@ -29,10 +29,10 @@
       "preferred_label": "hukuman"
     },
     "por": {
-      "preferred_label": "sentença"
-    },
-    "por-Br": {
-      "preferred_label": "veredicto"
+      "preferred_label": "veredicto",
+      "alternate_labels": [
+        "sentença"
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

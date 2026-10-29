@@ -26,10 +26,10 @@
       "preferred_label": "pendaftaran"
     },
     "por": {
-      "preferred_label": "recenseamento"
-    },
-    "por-Br": {
-      "preferred_label": "censo"
+      "preferred_label": "censo",
+      "alternate_labels": [
+        "recenseamento"
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

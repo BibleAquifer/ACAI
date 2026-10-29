@@ -31,10 +31,10 @@
       "preferred_label": "baik"
     },
     "por": {
-      "preferred_label": "bom"
-    },
-    "por-Br": {
-      "preferred_label": "honesto"
+      "preferred_label": "honesto",
+      "alternate_labels": [
+        "bom"
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

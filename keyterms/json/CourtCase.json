@@ -37,10 +37,10 @@
       "preferred_label": "pengadilan"
     },
     "por": {
-      "preferred_label": "tribunal de justiça"
-    },
-    "por-Br": {
-      "preferred_label": "processo judicial"
+      "preferred_label": "processo judicial",
+      "alternate_labels": [
+        "tribunal de justiça"
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,
