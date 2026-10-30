@@ -22,19 +22,160 @@
       ]
     },
     "spa": {
-      "preferred_label": "bueno"
+      "preferred_label": "bueno",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tener un buen carácter moral y hacer lo que es correcto."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "bien"
+      "preferred_label": "honnête",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Avoir un bon caractère moral et faire ce qui est juste."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "baik"
+      "preferred_label": "baik",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Memiliki karakter moral yang baik dan melakukan apa yang benar."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "bom"
+      "preferred_label": "honesto",
+      "alternate_labels": [
+        "bom"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ter bom caráter moral e fazer o que é certo."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "honesto"
+    "apd": {
+      "preferred_label": "أمين",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "عندو أخلاق كويسة وبيعمل الحاجة الصاح."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "صَالِحٌ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "التحلي بخلق وأدب رفيع وفعل ما هو صواب."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "ona",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fasin blong gat gudfala fasin mo mekem samting we i stret."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Mai Gaskiya",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kasancewa da kyakkyawan hali na ɗabi'a da aikata abin da yake daidai."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "ईमानदार",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अच्छा नैतिक चरित्र रखना और जो उचित है वही करना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ikwu eziokwu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Inwe ezi agwa na ime ihe ziri ezi."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "इमानदार",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "असल नैतिक चरित्र भएको र जे सही छ त्यो गर्ने।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "честный",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Обладание высокими моральными качествами и совершение правильных поступков."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Mnyofu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kuwa na tabia njema ya kimaadili na kutenda yaliyo sawa."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "stretpela pasin",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "I gat gutpela pasin na save mekim ol stretpela samting."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Lương thiện",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Có phẩm hạnh đạo đức tốt và làm điều đúng đắn."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "诚实",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "具备良好道德品格并做正确的事。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "誠實正直",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "具有良好的道德品格，並且行事正直。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

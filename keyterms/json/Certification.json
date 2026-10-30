@@ -22,19 +22,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "sello"
+      "preferred_label": "certificación",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Algo que muestra o demuestra que algo es auténtico o verdadero."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "preuve"
+      "preferred_label": "attestation",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ce qui montre ou prouve que quelque chose est réel ou vrai."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "meterai"
+      "preferred_label": "pengesahan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sesuatu yang menunjukkan atau membuktikan bahwa sesuatu itu nyata atau benar."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "selo"
+      "preferred_label": "confirmação",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Algo que demonstra ou comprova que algo é real ou verdadeiro."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "selo"
+    "apd": {
+      "preferred_label": "إثبات",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حاجة بتوضح أو تثبت إنو الشيء دا حقيقي أو صح."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "شهادة تزكية",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "شيء يظهر أو يثبت أن أمرًا ما حقيقي أو صادق."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "pruf",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan samting we i soemaot o pruvum se wan samting i tru o i ril."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Shaidar tabbatarwa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wani abu da yake nuna ko tabbatar da cewa wani abu na gaske ne ko gaskiya ne."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "प्रमाणन",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ऐसी कोई बात जो यह दिखाती या प्रमाणित करती है कि कोई बात वास्तविक या सत्य है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ihe akaebe nkwado",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ihe na-egosi ma ọ bụ na-anwapụta na ihe bụ nke ezie ma ọ bụ nke bụ eziokwu."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "प्रमाणीकरण",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै कुरा वास्तविक वा सत्य हो भनी देखाउने वा प्रमाणित गर्ने प्रमाण।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Свидетельство",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "То, что показывает или доказывает подлинность или истинность чего-либо."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Uthibitisho",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kitu kinachoonyesha au kuthibitisha kwamba jambo fulani ni halisi au kweli."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "samting bilong pruvim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela samting i soim o pruvim olsem wanpela samting em i tru o em i samting tru."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Sự chứng thực",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Điều chứng minh hoặc xác nhận rằng một sự việc là có thật hay đúng sự thật."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "凭证",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "表明或证明某事物真实有效的事物。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "證明",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "表明或證明某事為真實或有效的事物。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

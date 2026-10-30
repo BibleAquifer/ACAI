@@ -21,19 +21,160 @@
       ]
     },
     "spa": {
-      "preferred_label": "servidor público"
+      "preferred_label": "ministro (función)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Persona que ayuda a otros realizando una labor o servicio especial."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "serviteur"
+      "preferred_label": "ministre (rôle)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Personne qui aide les autres en accomplissant un travail ou un service particulier."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "pelayan"
+      "preferred_label": "pelayan (peran)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Seseorang yang menolong orang lain dengan melakukan pekerjaan atau pelayanan khusus."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "servidor público"
+      "preferred_label": "ministro (função)",
+      "alternate_labels": [
+        "servidor público"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma pessoa que ajuda outros realizando um trabalho ou serviço especial."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "servo"
+    "apd": {
+      "preferred_label": "خادم (دور)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "زول بيساعد غيرو بإنو يعمل خدمة أو عمل خاص."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "خادِم (دَوْر)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "شَخْصٌ يُساعِدُ الآخَرينَ بِأَداءِ عَمَلٍ أَوْ خِدْمَةٍ خاصَّةٍ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "man blong wok (wok)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan man we i givhan long ol narafala man taem hem i mekem wan spesel wok o seves blong olgeta."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Mai hidima (Matsayi)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mutumin da yake taimakon wasu ta wurin yin wani aiki na musamman ko hidima."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "सेवक (भूमिका)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "एक व्यक्ति जो विशेष कार्य या सेवा करके दूसरों की सहायता करता है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Onye ozi (Ọrụ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mmadụ nke na-enyere ndị ọzọ aka site nʼịrụ ọrụ pụrụ iche ma ọ bụ ije ozi."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "सेवक (भूमिका)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै विशेष काम वा सेवा गरेर अरूलाई सहायता गर्ने व्यक्ति।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Служитель (роль)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Человек, который помогает другим, выполняя особый труд или служение."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Mhudumu (Wajibu)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mtu anayewasaidia wengine kwa kufanya kazi au huduma maalumu."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "wokman (wok)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela man i save helpim ol arapela long rot bilong mekim wanpela spesel wok o sevis."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Người hầu việc (vai trò)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Người giúp đỡ người khác bằng cách thực hiện công việc hoặc sự phục vụ đặc biệt."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "仆人（职分）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "通过从事特别工作或服务来帮助他人的人。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "僕役（職份）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "藉由承擔特殊工作或職責來幫助他人的人。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

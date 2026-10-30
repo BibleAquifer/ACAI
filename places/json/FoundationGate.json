@@ -35,25 +35,157 @@
       ]
     },
     "arb": {
-      "preferred_label": "ٱلْأَسَاسِ"
+      "preferred_label": "بَابُ ٱلْأَسَاسِ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "بَابٌ فِي أُورُشَلِيمَ، رُبَّمَا كَانَ يُؤَدِّي مِنْ قَصْرِ ٱلْمَلِكِ إِلَى ٱلْهَيْكَلِ؛ وَهُوَ ٱسْمٌ آخَرُ لِبَابِ سُورٍ."
+        }
+      ]
     },
-    "cmn": {
-      "preferred_label": "基址門"
+    "zhs": {
+      "preferred_label": "基址门",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "耶路撒冷的一座门，可能通往王宫至圣殿；是苏珥门的别名。"
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "porte de Jesod"
+      "preferred_label": "porte de Jesod",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Porte de Jérusalem, menant peut-être du palais royal au temple ; autre nom pour la porte de Sur."
+        }
+      ]
     },
     "hau": {
-      "preferred_label": "ukunku"
+      "preferred_label": "Ƙofar Harsashi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wata ƙofa a Urushalima, wadda wataƙila take kaiwa daga fadar sarki zuwa haikali; wani suna kuma na Ƙofar Sur."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "Dasar"
+      "preferred_label": "Pintu Gerbang Dasar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pintu gerbang di Yerusalem, kemungkinan menghubungkan istana raja ke bait suci; nama lain untuk Pintu Gerbang Sur."
+        }
+      ]
     },
     "spa": {
-      "preferred_label": "del"
+      "preferred_label": "Puerta de los Cimientos",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Puerta de Jerusalén que posiblemente conducía desde el palacio real hasta el templo; otro nombre para la puerta de Sur."
+        }
+      ]
     },
     "swh": {
-      "preferred_label": "msingi"
+      "preferred_label": "Lango la Msingi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Lango katika Yerusalemu, ambalo huenda lilitoka kwenye jumba la mfalme kuelekea hekaluni; jina jingine la Lango la Suri."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "باب الأساس",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "باب في أورشليم، جايز كان بيودي من القصر الملكي لبيت الله؛ اسم تاني لباب سور."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Doa blong Faondesen",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan doa long Jerusalem, we maet i lidim man aot long haos blong king i go long haos blong God; narafala nem blong hem Doa blong Sur."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "नींव का फाटक",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "यरूशलेम का एक फाटक, जो संभवतः राजभवन से मंदिर की ओर ले जाता था; सूर फाटक का दूसरा नाम।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ọnụ Ụzọ Ama Ntọala",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ọnụ ụzọ ama dị na Jerusalem, nke nwere ike ịbụ na o si nʼobí eze na-eduga nʼụlọnsọ ukwu; aha ọzọ a na-akpọ Ọnụ Ụzọ Ama Sua."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "जगको ढोका",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "यरूशलेमको एउटा ढोका, सम्भवतः राजमहलबाट मन्दिरतिर जाने ढोका; सुर ढोकाको अर्को नाम।"
+        }
+      ]
+    },
+    "por": {
+      "preferred_label": "Porta do Alicerce",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma porta em Jerusalém, possivelmente conduzindo do palácio real ao templo; outro nome para o Portão de Sur."
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Ворота Иесод",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ворота в Иерусалиме, возможно, ведущие из царского дворца в храм; другое название ворот Сур."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Dua Bilong Jesot",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela dua long Jerusalem, ating em dua bilong i go long haus bilong king i go long tempel; narapela nem bilong en em Dua Bilong Sur."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Cổng Giê-sốt",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một cổng ở Giê-ru-sa-lem, có thể dẫn từ cung điện hoàng gia đến đền thờ; một tên gọi khác của Cổng Su-rơ."
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "基址門",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "耶路撒冷的一座門，可能從王宮通往聖殿；是蘇珥門的別名。"
+        }
+      ]
     }
   },
   "referred_to_as": [

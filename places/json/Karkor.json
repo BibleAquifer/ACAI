@@ -32,37 +32,157 @@
       ]
     },
     "fra": {
-      "preferred_label": "Karkor"
+      "preferred_label": "Karkor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Localité située à l’est du Jourdain, où Gédéon attaqua les rois madianites Zébach et Tsalmunna."
+        }
+      ]
     },
     "spa": {
-      "preferred_label": "estaban"
+      "preferred_label": "Carcor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Un lugar al este del río Jordán, donde Gedeón atacó a los reyes madianitas Zeba y Zalmuna."
+        }
+      ]
     },
     "arb": {
-      "preferred_label": "فِي"
+      "preferred_label": "قَرْقَر",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "موقع شرقي نهر الأردن، حيث هاجم جِدْعُون ملِكَيْ مِدْيَان زَبَح وصَلْمُنَّاع."
+        }
+      ]
     },
-    "cmn": {
-      "preferred_label": "加各"
+    "zhs": {
+      "preferred_label": "加各",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "约旦河东边的一处地点，基甸曾在此击溃米甸王西巴和撒慕拿。"
+        }
+      ]
     },
     "hau": {
-      "preferred_label": "Karkor"
+      "preferred_label": "Karkor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wani wuri a gabashin Kogin Urdun, inda Gideyon ya kai wa sarakunan Midiyan Zeba da Zalmunna hari."
+        }
+      ]
     },
     "hin": {
-      "preferred_label": "कर्कोर"
+      "preferred_label": "कर्कोर",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "यरदन नदी के पूर्व का एक स्थान, जहाँ गिदोन ने मिद्यानी राजाओं जेबह और सल्मुन्ना पर आक्रमण किया था।"
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "Karkor"
+      "preferred_label": "Karkor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sebuah lokasi di sebelah timur Sungai Yordan, tempat Gideon menyerang raja-raja Midian, Zebah dan Salmuna."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "Carcor"
+      "preferred_label": "Carcor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Um local a leste do rio Jordão, onde Gideão atacou os reis midianitas Zeba e Zalmuna."
+        }
+      ]
     },
     "rus": {
-      "preferred_label": "Каркор"
+      "preferred_label": "Каркор",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Местность к востоку от реки Иордан, где Гедеон напал на мадиамских царей Зевея и Салмана."
+        }
+      ]
     },
     "swh": {
-      "preferred_label": "katika"
+      "preferred_label": "Karkori",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mahali mashariki mwa Mto Yordani, ambapo Gideoni aliwashambulia wafalme wa Midiani, Zeba na Salmuna."
+        }
+      ]
     },
     "tpi": {
-      "preferred_label": "Karkor"
+      "preferred_label": "Karkor",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela ples long hap is bilong Wara Jordan, em ples Gedeon i bin pait long ol king bilong Midian, em Seba na Salmuna."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "قرقر",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "مكان شرق نهر الأردن، هجم فيهو جدعون على ملوك مديان زبح وصلمناع."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Kakoro",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan ples long is long Jodan Reva, we Gidion i faetem tufala king blong Midian ya Seba mo Jalmuna long hem."
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Kako",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Otu ebe dị nʼọwụwa anyanwụ Osimiri Jọdan, ebe Gidiọn wakporo ndị eze Midia bụ Zeba na Zalmuna."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "कर्कोर",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "यर्दन नदीको पूर्वतर्फको एउटा ठाउँ, जहाँ गिदोनले मिद्यानी राजाहरू जेबह र सल्मुन्नामाथि आक्रमण गरे।"
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Ca-co",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một địa danh ở phía đông sông Giô-đanh, nơi Ghê-đê-ôn tấn công các vua Ma-đi-an là Xê-bách và Xanh-mu-na."
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "加各",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "位於約旦河以東的一個地點，基甸在此擊潰了米甸王西巴和撒慕拿。"
+        }
+      ]
     }
   },
   "mentioned_in_bible": true,

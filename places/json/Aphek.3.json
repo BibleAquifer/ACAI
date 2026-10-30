@@ -35,37 +35,157 @@
       ]
     },
     "fra": {
-      "preferred_label": "Aphek"
+      "preferred_label": "Aphek (d'Aram)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Une ville d'Aram (Syrie) où Ben-Hadad monta pour combattre Israël."
+        }
+      ]
     },
     "spa": {
-      "preferred_label": "Aphec"
+      "preferred_label": "Afec (de Aram)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Población en Aram (Siria) adonde Ben-hadad fue a luchar contra Israel."
+        }
+      ]
     },
     "arb": {
-      "preferred_label": "أَفِيقَ"
+      "preferred_label": "أَفِيق (أرام)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "بلدة في أرام (سورية) حيث صعد بنهدد لمحاربة إسرائيل."
+        }
+      ]
     },
-    "cmn": {
-      "preferred_label": "亞弗革"
+    "zhs": {
+      "preferred_label": "亚弗 (亚兰)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "亚兰（叙利亚）境内的一座城镇，便·哈达曾前去那里攻打以色列。"
+        }
+      ]
     },
     "hau": {
-      "preferred_label": "Afek"
+      "preferred_label": "Afek (na Aram)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wani gari a Aram (Siriya) inda Ben-Hadad ya tafi don yaƙi da Isra’ila."
+        }
+      ]
     },
     "hin": {
-      "preferred_label": "अपेक"
+      "preferred_label": "अपेक (अराम का)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अराम (सीरिया) का एक नगर जहाँ बेन्हदद इस्राएल से लड़ने गया था।"
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "Afek"
+      "preferred_label": "Afek (di Aram)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sebuah kota di Aram (Siria) tempat Benhadad pergi untuk berperang melawan Israel."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "Afeca"
+      "preferred_label": "Afeque (de Arã)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma cidade em Arã (Síria) onde Ben-Hadade foi lutar contra Israel."
+        }
+      ]
     },
     "rus": {
-      "preferred_label": "Афек"
+      "preferred_label": "Афек (в Араме)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Город в Араме (Сирии), куда Венадад отправился воевать против Израиля."
+        }
+      ]
     },
     "swh": {
-      "preferred_label": "Afeki"
+      "preferred_label": "Afeki (ya Aramu)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mji huko Aramu (Shamu) ambapo Ben-Hadadi alienda kupigana dhidi ya Israeli."
+        }
+      ]
     },
     "tpi": {
-      "preferred_label": "Afek"
+      "preferred_label": "Afek (bilong Aram)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela taun long Aram (Siria) em Ben-Hadat i bin go pait long ol Israel long en."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "أفيق (آرام)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "بلدة في آرام (سوريا) حيث ذهب بنهدد لمحاربة إسرائيل."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Afek (blong Aram)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan taon long Aram (Siria) we Ben-hadad i go long hem blong mekem faet agensim Isrel."
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Afek (nke Aram)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Obodo dị na Aram (Siria) ebe Ben-Hedad gara ibuso Izrel agha."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "अपेक (अरामको)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अराम (सिरिया) को एउटा सहर, जहाँ बेन-हदद इस्राएलको विरुद्धमा लड्न गएका थिए।"
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "A-phéc (thuộc A-ram)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một thị trấn ở A-ram (Si-ri), nơi Bên-Ha-đát kéo đến giao chiến với Ít-ra-ên."
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "亞弗（亞蘭）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "亞蘭（敘利亞）境內的一座城鎮，便‧哈達曾前往該地與以色列交戰。"
+        }
+      ]
     }
   },
   "subregion_of": [

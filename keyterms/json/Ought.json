@@ -22,19 +22,160 @@
       ]
     },
     "spa": {
-      "preferred_label": "deber"
+      "preferred_label": "obligado",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Algo que es necesario hacer porque es correcto o está requerido por la ley o las normas."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "sois obligé"
+      "preferred_label": "être obligé",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Quelque chose que l'on doit faire parce que c'est juste ou exigé par la loi ou des règles."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "wajib"
+      "preferred_label": "wajib",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sesuatu yang harus Anda lakukan karena hal itu benar atau diwajibkan oleh hukum atau peraturan."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "dever"
+      "preferred_label": "obrigado",
+      "alternate_labels": [
+        "dever"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Algo que você precisa fazer porque é o certo ou porque é exigido pela lei ou por regras."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "ser necessário"
+    "apd": {
+      "preferred_label": "ملزم",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حاجة لازم تعملها لأنها صح أو مطلوبة بالقانون أو القواعد."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "مُلْتَزِم",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "شَيْءٌ يَنْبَغِي عَلَيْكَ فِعْلُهُ لِأَنَّهُ صَوَابٌ أَوْ يُوجِبُهُ ٱلنَّامُوسُ أَوِ ٱلْقَوَاعِدُ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "mas mekem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan samting we yu mas mekem from we i stret no loa no ol rul oli talem se yu mas mekem."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Wajibi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wani abu da ya wajaba ka yi domin yana da kyau ko kuma doka ko ƙa’idodi sun buƙace shi."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "बाध्य",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुछ ऐसा जिसे करने की आवश्यकता हो क्योंकि यह सही है या कानून या नियमों द्वारा अपेक्षित है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "ịkwesị ime",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ihe ị kwesịrị ime nʼihi na o ziri ezi ma ọ bụ nʼihi na iwu ma ọ bụ ụkpụrụ chọrọ ya."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "कर्तव्य हुनु",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै कुरा ठीक भएको वा नियम वा कानुनअनुसार आवश्यक भएकाले तपाईंले गर्नुपर्ने काम वा दायित्व।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "должен",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "То, что необходимо сделать, потому что это правильно или требуется законом либо правилами."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kupasa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kitu unachopaswa kufanya kwa sababu ni sawa au kinatakiwa na sheria au kanuni."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "mas mekim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela samting yu mas mekim bikos em i stret o lo o rul i tok yu mas mekim."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Bổn phận",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Điều bạn cần phải làm vì điều đó là đúng hoặc do luật pháp hay các quy định đòi hỏi."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "应当",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "指因出于正当理由或法律、规章要求而必须做某事。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "本分",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "因著合宜、律法或規條的要求而應當去做某事。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

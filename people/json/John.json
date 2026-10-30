@@ -53,37 +53,157 @@
       ]
     },
     "fra": {
-      "preferred_label": "Jean"
+      "preferred_label": "Jean (le Baptiste)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Un prophète connu sous le nom de Baptiste et précurseur, qui a baptisé Jésus. Il était le fils du prêtre Zacharie et d'Élisabeth."
+        }
+      ]
     },
     "spa": {
-      "preferred_label": "Juan"
+      "preferred_label": "Juan (el Bautista)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Profeta conocido como el Bautista y precursor, que bautizó a Jesús. Era hijo del sacerdote Zacarías y de Elisabet."
+        }
+      ]
     },
     "arb": {
-      "preferred_label": "يوحَنَّا"
+      "preferred_label": "يُوحَنَّا (ٱلْمَعْمَدَانُ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "نَبِيٌّ عُرِفَ بِٱلْمَعْمَدَانِ وَٱلسَّابِقِ، عَمَّدَ يَسُوعَ. كَانَ ٱبْنَ ٱلْكَاهِنِ زَكَرِيَّا مِنْ أَلِيصَابَاتَ."
+        }
+      ]
     },
-    "cmn": {
-      "preferred_label": "約翰"
+    "zhs": {
+      "preferred_label": "约翰 (施洗者)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "被称为施洗者和先锋的先知，曾为耶稣施洗。他是祭司撒迦利亚和伊利莎白的儿子。"
+        }
+      ]
     },
     "hau": {
-      "preferred_label": "Yohanna"
+      "preferred_label": "Yohanna (Mai Baftisma)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wani annabi da aka sani da Mai Baftisma kuma Mai share hanya, wanda ya yi wa Yesu baftisma. Shi ɗan firist Zakariya ne ta wurin Elizabet."
+        }
+      ]
     },
     "hin": {
-      "preferred_label": "यूहन्ना"
+      "preferred_label": "यूहन्ना (बपतिस्मा देनेवाला)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "बपतिस्मा देनेवाला और अग्रदूत के रूप में जाना जाने वाला एक भविष्यद्वक्ता, जिसने यीशु को बपतिस्मा दिया। वह याजक जकर्याह और एलीशिबा का पुत्र था।"
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "Yohanes"
+      "preferred_label": "Yohanes (Pembaptis)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Seorang nabi yang dikenal sebagai Pembaptis dan Perintis, yang membaptis Yesus. Ia adalah putra dari imam Zakharia dan Elisabet."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "João"
+      "preferred_label": "João (o Batista)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Um profeta conhecido como o Batista e Precursor, que batizou Jesus. Ele era filho do sacerdote Zacarias com Elisabete."
+        }
+      ]
     },
     "rus": {
-      "preferred_label": "Иоанн"
+      "preferred_label": "Иоанн (Креститель)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Пророк, известный как Креститель и Предтеча, крестивший Иисуса. Сын священника Захарии и Елисаветы."
+        }
+      ]
     },
     "swh": {
-      "preferred_label": "Yohana"
+      "preferred_label": "Yohana (Mbatizaji)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Nabii anayejulikana kama Mbatizaji na Mtangulizi, aliyembatiza Yesu. Alikuwa mwana wa kuhani Zekaria na Elisabeti."
+        }
+      ]
     },
     "tpi": {
-      "preferred_label": "Jon"
+      "preferred_label": "Jon (man bilong givim baptais)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela profet ol i save kolim man bilong givim baptais, em i bin baptaisim Jisas. Em i pikinini man bilong pris Sekaraia wantaim Elisabet."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "يوحنا (المعمدان)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "نبي معروف بالمعمدان والسابق، عمّد يسوع. كان ولد الكاهن زكريا من أليصابات."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Jon (Baptaes)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan profet we oli save hem olsem Jon Baptaes, we i baptaesem Jisas. Hem i pikinini boe blong pris ya Sekaraea wetem Elisabet."
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Jọn (Omee Baptizim)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Onye amụma a maara dị ka Omee Baptizim na Onye Bu Ụzọ, onye mere Jisọs baptizim. Ọ bụ nwa onye nchụaja Zekaraya na Elizabet."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "यूहन्‍ना (बप्‍तिस्‍मा दिने)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "बप्‍तिस्‍मा दिने र अग्रदूतको रूपमा चिनिने एक अगमवक्ता, जसले येशूलाई बप्‍तिस्‍मा दिए। उनी पुजारी जकरिया र एलिशिबाका छोरा थिए।"
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Giăng (Báp-tít)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một tiên tri được gọi là người làm báp-têm (Báp-tít) và là người dọn đường, đã làm báp-têm cho Chúa Giê-xu. Ông là con trai của thầy tế lễ Xa-cha-ri với Ê-li-sa-bét."
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "約翰（施洗約翰）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "被稱為施洗者和先鋒的先知，曾為耶穌施洗。他是祭司撒迦利亞和以利沙伯的兒子。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

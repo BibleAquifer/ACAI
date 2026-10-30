@@ -17,19 +17,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "recaudador de impuestos"
+      "preferred_label": "recaudador de impuestos",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Persona que recauda dinero de la gente para entregarlo al gobierno."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "collecteur d'impôt"
+      "preferred_label": "publicain",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Personne qui perçoit de l'argent auprès de la population pour le remettre au gouvernement."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "pemungut cukai"
+      "preferred_label": "pemungut cukai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Seseorang yang mengumpulkan uang dari orang-orang untuk diserahkan kepada pemerintah."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "cobrador de impostos"
+      "preferred_label": "cobrador de impostos",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pessoa que cobra dinheiro do povo para entregar ao governo."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "cobrador de impostos"
+    "apd": {
+      "preferred_label": "جابي ضرايب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "زول بيجمع القروش من الناس عشان يسلمها للحكومة."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "عشّار",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "شخص يجمع الأموال من الناس لتقديمها إلى الحكومة."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "man blong tekem mane blong takis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan man we i stap tekem mane long ol man blong givim i go long gavman."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Mai karɓar haraji",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mutumin da yake karɓar kuɗi daga hannun mutane domin bayarwa ga gwamnati."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "चुंगी लेनेवाला",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "वह व्यक्ति जो सरकार को देने के लिए लोगों से धन (कर) वसूल करता है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Onye ọna ụtụ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Onye na-anata ego nʼaka ndị mmadụ iji nye ya gọọmentị."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "कर उठाउने",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "सरकारलाई बुझाउन मानिसहरूबाट पैसा उठाउने व्यक्ति।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Мытарь",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Человек, собирающий деньги с людей для передачи государству."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Mtoza ushuru",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mtu anayekusanya fedha kutoka kwa watu ili kuzitoa kwa serikali."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "man bilong kisim takis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela man i save kisim mani takis long ol manmeri bilong givim long gavman."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "người thu thuế",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Người thu tiền của dân chúng để nộp cho chính quyền."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "税吏",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "向民众收钱交给政府的人。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "稅吏",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "向人民收取稅款以繳納給政府的人。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

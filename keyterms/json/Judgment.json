@@ -30,19 +30,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "juicio"
+      "preferred_label": "juicio",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Decisión que toma un juez en un tribunal sobre si alguien es culpable o no y cuál debe ser el castigo."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "jugement"
+      "preferred_label": "jugement",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Une décision prise par un juge dans un tribunal pour déterminer si quelqu'un est coupable ou non et quelle devrait être la punition."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "penghakiman"
+      "preferred_label": "penghakiman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Keputusan yang dibuat oleh hakim di pengadilan mengenai apakah seseorang bersalah atau tidak dan hukuman apa yang patut dijatuhkan."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "juízo"
+      "preferred_label": "Juízo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Decisão tomada por um juiz em um tribunal sobre a culpa de alguém e a punição cabível."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "juízo"
+    "apd": {
+      "preferred_label": "دينونة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "قرار بيصدرو القاضي في المحكمة بخصوص إذا الزول مذنب أو لأ، ونوع العقوبة المفروض تكون شنو."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "دَينونَة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "قَرارٌ يُصدِرُهُ قاضٍ في مَحكَمَةٍ بِشَأنِ ما إِذا كانَ شَخصٌ ما مُذنِبًا أَم لا، وَما يَنبَغي أَن تَكونَ عَلَيهِ العُقوبَةُ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Wok blong jajem man",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan desisen we wan jaj i mekem insaed long kot long saed blong sipos wan man i gilti o no, mo wanem panis we hem i mas kasem."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Hukunci",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Shawarar da alƙali ya yanke a kotu game da ko wani yana da laifi ko ba shi da shi, da kuma hukuncin da ya kamata a yi masa."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "न्याय",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अदालत में किसी न्यायी द्वारा किया गया यह निर्णय कि कोई दोषी है या नहीं, और उसे क्या सजा मिलनी चाहिए।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ikpe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mkpebi onye ikpe mere n'ụlọ ikpe banyere ma mmadụ ọ mara ikpe ka ọ bụ na ọ maghị, na ihe ahụhụ ya kwesịrị ịbụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "न्याय",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कोही दोषी छ कि छैन र त्यसलाई के सजाय हुनुपर्छ भन्‍ने बारेमा अदालतमा न्यायाधीशले गरेको निर्णय।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Суд",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Решение, принимаемое судьей в суде, о том, виновен ли кто-то или нет, и каким должно быть наказание."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Hukumu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uamuzi unaotolewa na mwamuzi katika mahakama kuhusu iwapo mtu ana hatia au la na adhabu inayopaswa kutolewa."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Kot",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Disisen hetman bilong kot i mekim long kot long man i gat asua o nogat, na wanem hevi o pe nogut em i mas kisim."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Sự phán xét",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Quyết định do quan tòa đưa ra tại phiên tòa về việc ai đó có tội hay không và mức hình phạt tương ứng."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "审判",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "法官在法庭上就某人是否有罪以及应受何种惩罚所作的裁决。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "審判",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "法官在法庭上就某人是否有罪以及應受何種懲罰所作的判決。"
+        }
+      ]
     }
   },
   "referred_to_as": [

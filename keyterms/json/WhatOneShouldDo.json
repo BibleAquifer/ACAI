@@ -21,19 +21,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "deuda (deber)"
+      "preferred_label": "deber",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Las acciones correctas que una persona debe realizar porque tiene la responsabilidad o se espera que lo haga."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "dette"
+      "preferred_label": "devoir",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Les actions justes qu'une personne devrait accomplir en raison de ses responsabilités ou de ce qui est attendu d'elle."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "apa yang harus anda bayar"
+      "preferred_label": "kewajiban",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tindakan benar yang patut dilakukan seseorang karena hal itu merupakan tanggung jawab atau kewajibannya."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "dever"
+      "preferred_label": "dever",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "As ações corretas que uma pessoa deve realizar por ter a responsabilidade ou o dever de agir assim."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "dever"
+    "apd": {
+      "preferred_label": "الواجب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "الأفعال الصح البيفترض الزول يعملها لانو مسؤول أو متوقع منه يعملها."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "ما يَنْبَغِي فِعْلُهُ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "الأَفْعالُ الصّائِبَةُ الَّتِي يَنْبَغِي لِلْمَرْءِ القِيامُ بِها لِأَنَّهُ مَسْؤولٌ عَنْها أَو مُتَوَقَّعَةٌ مِنْهُ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Samting we man i mas mekem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ol stret samting we wan man i mas mekem from we hem i responsibol no oli ekspektem hem blong mekem."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Abin da ya kamata mutum yă yi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ayyukan da suka dace mutum yă aikata saboda yana da hakki ko ana sa ran hakan daga gare shi."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "कर्तव्य",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "वे सही कार्य जो किसी व्यक्ति को करने चाहिए क्योंकि वह उत्तरदायी है या उससे ऐसी अपेक्षा की जाती है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ihe mmadụ kwesịrị ime",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Omume ziri ezi mmadụ kwesịrị ime nʼihi na ọ bụ ọrụ dịịrị ya ma ọ bụ ihe a na-atụ anya nʼaka ya."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "कर्तव्य",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "जिम्मेवार वा अपेक्षित भएका कारण कुनै व्यक्तिले गर्नुपर्ने सही कामहरू।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Долг",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Правильные действия, которые человеку надлежит совершать в силу возложенной на него ответственности или долга."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Wajibu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Matendo sahihi ambayo mtu anapaswa kuyatenda kwa sababu anawajibika au anatarajiwa kufanya hivyo."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Wok man i mas mekim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ol stretpela pasin man i mas mekim long wanem em i wok o asua bilong em long mekim olsem."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Bổn phận",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Những hành động đúng đắn mà một người nên làm vì có trách nhiệm hoặc được kỳ vọng phải làm."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "本分",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "一个人因负有责任或被期望而应当采取的正当行动。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "所當盡的本分",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "人出於責任或應盡之分而應當採取的正當行動。"
+        }
+      ]
     }
   },
   "referred_to_as": [

@@ -22,16 +22,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "ser o llegar a ser impuro"
+      "preferred_label": "ser impuro",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ser o llegar a ser ceremonialmente impuro, ya sea por accidente, por elección propia o porque otros lo declaren así."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "être ou devenir impur"
+      "preferred_label": "être impur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Être ou devenir rituellement impur, que ce soit par accident, par choix ou par déclaration d'autrui."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "menjadi najis"
+      "preferred_label": "menjadi najis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Menjadi atau berada dalam keadaan tidak tahir secara ritual/upacara, baik karena ketidaksengajaan, pilihan, atau karena dinyatakan demikian oleh orang lain."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "be (or: become"
+      "preferred_label": "ficar impuro",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Estar ou tornar-se cerimonialmente impuro, seja por acidente, escolha ou por declaração de outros."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "يكون نجس",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "تكون أو تصبح نجس طقسياً، سواء بالصدفة، أو بالاختيار، أو بإعلان الآخرين عن ذلك."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "تَنَجَّسَ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "أَنْ يَكُونَ الشَّخْصُ أَوْ يَصِيرَ نَجِسًا طَقْسِيًّا، إِمَّا عَرَضًا، أَوْ بِاخْتِيَارِهِ، أَوْ بِإِعْلَانِ الْآخَرِينَ ذَلِكَ عَلَيْهِ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "stap doti long fes blong God",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fasin blong stap doti no kam doti long fes blong God folem ol kastom mo loa blong wosip, maet from rong aksen, no чоes blong man, no narafala man i talemaot se i olsem."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Zama marar tsarki",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kasancewa ko zama marar tsarki bisa ƙa’idar addini, ko ta hanyar haɗari, zaɓi, ko kuma ta hanyar wasu sun furta haka."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "अशुद्ध होना",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "संयोगवश, अपनी इच्छा से, या दूसरों द्वारा ऐसा घोषित किए जाने पर विधिवत या रीतिगत रूप से अशुद्ध होना या बन जाना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ịbụ onye na-adịghị ọcha",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ịdị ma ọ bụ ịghọ onye na-adịghị ọcha n'ememe okpukpe, site n'ihe mberede, nhọrọ, ma ọ bụ site n'ndị ọzọ ikwupụta ya otú ahụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "अशुद्ध हुनु",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "दुर्घटना, छनोट वा अरूले त्यसो घोषणा गरेको कारणले धार्मिक वा विधिपूर्वक अशुद्ध हुनु वा बन्‍नु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Быть нечистым",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Быть или становиться церемониально нечистым случайно, по собственному выбору или по объявлению таковым со стороны других."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kuwa Najisi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kuwa au kufanyika mwenye unajisi wa kiibada, iwe kwa bahati mbaya, kwa hiari, au kwa wengine kutangaza hivyo."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Kamap doti",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "I stap o kamap doti long pasin bilong lotu, em long rot bilong rong, long laik bilong man yet, o long arapela man i tokaut olsem em i doti."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Bị ô uế",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ở trong tình trạng hoặc trở nên ô uế theo nghi lễ, do vô tình, do tự chọn, hoặc do người khác tuyên bố như vậy."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "不洁净",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "由于意外、选择或被他人宣布而在礼仪上不洁净或变为不洁净。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "不潔淨",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "在禮儀上成為或處於不潔淨的狀態，可能是出於意外、出於選擇，或是由他人宣告如此。"
+        }
+      ]
     }
   },
   "referred_to_as": [

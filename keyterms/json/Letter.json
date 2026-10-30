@@ -22,19 +22,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "letra"
+      "preferred_label": "carta (documento)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mensaje escrito o documento enviado a una o más personas."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "lettre de l'alphabet"
+      "preferred_label": "lettre (écrit)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Message ou document écrit envoyé à une ou plusieurs personnes."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "tulisan"
+      "preferred_label": "surat (dokumen)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pesan atau dokumen tertulis yang dikirimkan kepada satu atau beberapa orang."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "letra"
+      "preferred_label": "carta (documento)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma mensagem escrita ou documento enviado a uma ou mais pessoas."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "letra"
+    "apd": {
+      "preferred_label": "جواب (وثيقة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "رسالة مكتوبة أو وثيقة بتترسل لزول واحد أو أكتر من زول."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "رِسَالَة (وَثِيقَة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "رِسَالَةٌ مَكْتُوبَةٌ أَوْ وَثِيقَةٌ تُوَجَّهُ إِلَى شَخْصٍ أَوْ أَكْثَرَ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "leta (pepa)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan mesej we oli raetemdaon no wan dotipepa we oli sanem i go long wan man no plante man."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Wasiƙa (Takarda)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Saƙo ko takarda a rubuce da aka aika wa mutum ɗaya ko fiye da haka."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "पत्र (दस्तावेज़)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "एक लिखित संदेश या दस्तावेज़ जो एक या अधिक व्यक्तियों को भेजा जाता है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Akwụkwọ ozi (Ihe e dere ede)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ozi ma ọ bụ akwụkwọ e dere ede e zigara otu onye ma ọ bụ ọtụtụ mmadụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "पत्र (कागजात)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "एक वा धेरै मानिसहरूलाई पठाइएको लिखित सन्देश वा कागजात।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Письмо (документ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Письменное послание или документ, отправленный одному или нескольким людям."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Barua (Waraka)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ujumbe ulioandikwa au waraka uliotumwa kwa mtu mmoja au zaidi."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Pas (Dokumen)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela tok ol i raitim long pepa o buk na salim i go long wanpela o planti manmeri."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Thư từ (Văn tự)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một thông điệp hoặc tài liệu bằng văn bản được gửi cho một hoặc nhiều người."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "书信 (公文)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "发送给一人或多人的书面信息或文书。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "書信（文件）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "寄給一人或多人的書面信息或文件。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

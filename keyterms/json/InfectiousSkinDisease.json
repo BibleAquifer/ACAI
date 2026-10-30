@@ -21,13 +21,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "enfermedad infecciosa de la piel"
+      "preferred_label": "enfermedad infecciosa de la piel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Enfermedad de la piel causada por gérmenes que puede transmitirse a otros, incluidas enfermedades como la psoriasis, el favo y el leucoderma."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "lèpre"
+      "preferred_label": "maladie de peau contagieuse",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Maladie de la peau causée par des germes et transmissible à autrui, comprenant des affections telles que le psoriasis, le favus et le leucoderme."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "penyakit kulit menular"
+      "preferred_label": "penyakit kulit menular",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Penyakit kulit yang disebabkan oleh kuman yang dapat menular kepada orang lain, termasuk penyakit seperti psoriasis, favus, dan leukoderma."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "مرض جلدي معدي",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "مرض جلدي بتسببه الجراثيم وممكن يعدي الناس التانيين، وبيشمل أمراض زي الصدفية، وقرع الراس، والبرص."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "مَرَضٌ جِلْدِيٌّ مُعْدٍ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "مَرَضٌ جِلْدِيٌّ تُسَبِّبُهُ الجَراثيمُ ويُمْكِنُ أن يَنْتَقِلَ إلى الآخَرِينَ، ويَشْمَلُ أمْراضًا مِثْلَ الصَّدَفِيَّةِ، والقَرَعِ، والبَهَقِ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "rabis sik blong skin",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan sik long skin we i kamaot long ol jem mo i save pas long ol narafala man, we i kavremap ol sik olsem psoriasaes, favas, mo leukodema."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Cutar fatar jiki",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Cutar fatar jiki da ƙwayoyin cuta ke haifarwa wadda za ta iya yaɗuwa ga wasu, ciki har da cututtuka kamar psoriasis, favus, da leucoderma."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "संक्रामक त्वचा रोग",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "रोगाणुओं के कारण होने वाला त्वचा का एक रोग जो दूसरों में फैल सकता है, जिसमें सोरायसिस, फ़ेवस और श्वेतकुष्ठ जैसी बीमारियाँ शामिल हैं।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ọrịa akpụkpọ anụ ahụ na-efe efe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ọrịa akpụkpọ anụ ahụ nje na-akpata nke nwere ike ibunye ndị ọzọ, gụnyere ọrịa dịka psoriasis, favus, na leucoderma."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "सरुवा छालाको रोग",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अरूमा सर्न सक्ने कीटाणुहरूका कारण छालामा हुने रोग, जसमा सोरायसिस, चायाँ र दुबी जस्ता रोगहरू पर्छन्।"
+        }
+      ]
+    },
+    "por": {
+      "preferred_label": "doença infecciosa da pele",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma doença de pele causada por germes que pode se espalhar para outras pessoas, incluindo doenças como psoríase, favo e leucodermia."
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "заразная кожная болезнь",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Кожное заболевание, вызываемое микробами и способное передаваться другим людям, включая такие болезни, как псориаз, парша и лейкодермия."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Ugonjwa wa Ngozi wa Kuambukiza",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ugonjwa wa ngozi unaosababishwa na viini ambao unaweza kuenea kwa wengine, ikiwa ni pamoja na magonjwa kama psoriasis, favasi, na lukoderma."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Sik bilong skin",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sik bilong skin ol jem i save givim na inap go long ol arapela manmeri, olsem sik lepra na ol arapela kain sik sua bilong skin."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Bệnh ngoài da truyền nhiễm",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Bệnh ngoài da do vi trùng gây ra có thể lây lan sang người khác, bao gồm các bệnh như vảy nến, chốc đầu favus và bệnh bạch biến."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "传染性皮肤病",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "由病菌引起且能传染给他人的皮肤病，包括像银屑病（牛皮癣）、黄癣和白癜风等疾病。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "傳染性皮膚病",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "由病菌引起且可傳染給他人的皮膚病，包括牛皮癬、黃癬和白癜風等疾病。"
+        }
+      ]
     }
   },
   "referred_to_as": [

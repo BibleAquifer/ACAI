@@ -23,13 +23,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "culpa"
+      "preferred_label": "culpa (estado)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sentirse responsable de haber hecho algo malo contra Dios o contra otros, lo cual puede requerir enmendar las cosas."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "culpabilité"
+      "preferred_label": "culpabilité (état)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fait de se sentir responsable d'avoir commis une faute contre Dieu ou son prochain, ce qui peut nécessiter une réparation."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "kesalahan"
+      "preferred_label": "kesalahan (keadaan)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Merasa bertanggung jawab karena melakukan sesuatu yang salah terhadap Allah atau orang lain, yang mungkin memerlukan perbaikan keadaan."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "ذنب (حالة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "الإحساس بالمسؤولية عن عمل غلط ضد الله أو الناس، والشي دا ممكن يحتاج لتصحيح."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "ذَنْب (حَالَة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ٱلشُّعُورُ بِٱلْمَسْؤُولِيَّةِ عَنِ ٱرْتِكَابِ خَطَأٍ ضِدَّ ٱللهِ أَوْ ضِدَّ ٱلْآخَرِينَ، مِمَّا قَدْ يَسْتَوْجِبُ إِصْلَاحَ ٱلْأَمْرِ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Fasin blong gat fol (Kondisen)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fasin blong harem se yu gat fol from we yu mekem wan samting i rong agens long God no narafala man, we maet i nidim blong mekem i kam stret bakegen."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Laifi (Hali)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Jin laifin yin wani abu ba daidai ba ga Allah ko ga wasu, wanda yana iya buƙatar a gyara al’amura."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "दोष (अवस्था)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "परमेश्वर या दूसरों के विरुद्ध कुछ गलत करने का उत्तरदायित्व महसूस करना, जिसके लिए सुधार करने की आवश्यकता हो सकती है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ikpe ọmụma (Ọnọdụ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Inwe mmetụta na a na-aza ajụjụ maka ime ihe na-ezighị ezi megide Chineke maọbụ ndị ọzọ, bụ nke nwere ike ịdị mkpa ime ka ihe guzozie."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "दोष (अवस्था)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "परमेश्वर वा अरू मानिसहरूको विरुद्धमा केही गलत काम गरेकोमा आफू जिम्मेवार भएको महसुस हुनु, जसको निम्ति सुधार वा समाधान आवश्यक हुन सक्छ।"
+        }
+      ]
+    },
+    "por": {
+      "preferred_label": "culpa (estado)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sentir-se responsável por fazer algo errado contra Deus ou contra o próximo, o que pode exigir reparação."
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Вина (состояние)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Сознание своей ответственности за совершенный против Бога или ближних проступок, которое может требовать исправления ситуации."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Hatia (Hali)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kujihisi kuwajibika kwa kutenda kosa dhidi ya Mungu au wengine, jambo ambalo linaweza kuhitaji kurekebisha mambo."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Gat asua (Skel bilong bel)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tingting i pilim olsem yu bin mekim rong long ai bilong God o long ol arapela manmeri, na ating yu mas stretim dispela samting."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Ý thức phạm tội (trạng thái)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Cảm giác chịu trách nhiệm về việc làm sai trái đối với Đức Chúa Trời hoặc người khác, có thể cần phải sửa chữa sai lầm."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "罪咎 (状态)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "因对上帝或他人做错事而感到负有责任的状态，这种状态可能需要予以纠正或弥补。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "有罪 (狀態)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "自覺對得罪上帝或他人之錯事負有責任，可能需要彌補或挽回的狀態。"
+        }
+      ]
     }
   },
   "referred_to_as": [

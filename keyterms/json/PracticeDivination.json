@@ -20,16 +20,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "practicar adivinación"
+      "preferred_label": "practicar adivinación",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Intentar conocer el futuro o cosas ocultas mediante el uso de señales u objetos especiales, lo cual la Biblia condena."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "pratiquer le divination"
+      "preferred_label": "pratiquer la divination",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tenter de connaître l'avenir ou des choses cachées à l'aide de signes ou d'objets particuliers, ce que la Bible réprouve."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "berlaku ramalan atau tenungan"
+      "preferred_label": "menenung",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mencoba mencari tahu masa depan atau hal-hal tersembunyi dengan menggunakan tanda-tanda atau benda-benda khusus, yang dinyatakan salah oleh Alkitab."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "practice divination"
+      "preferred_label": "praticar adivinhação",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tentar conhecer o futuro ou coisas ocultas usando sinais ou objetos especiais, o que a Bíblia diz ser errado."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "يمارس العرافة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "محاولة معرفة المستقبل أو الحاجات المستخبية باستعمال علامات أو حاجات خاصة، والشي دا الكتاب المقدس بيقول عليهو غلط."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "يَعْرِف عِرَافَةً",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "محاولة معرفة المستقبل أو الأمور الخفية باستخدام علامات أو أشياء خاصة، وهو ما يُبيّن الكتاب المقدس أنه باطل وخاطئ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Mekem Wok Blong Kleva",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Blong traem faenemaot fiuja no ol samting we oli haed tru long ol spesel saen no samting, we Baebol i talem se i rong."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Yin duba",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ƙoƙarin sanin nan gaba ko ɓoyayyun abubuwa ta wurin yin amfani da alamu na musamman ko abubuwa, wanda Littafi Mai Tsarki ya ce ba daidai ba ne."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "भावी कहना",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "विशेष चिन्हों या वस्तुओं का उपयोग करके भविष्य या छिपी हुई बातों को जानने का प्रयास करना, जिसे बाइबल गलत बताती है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ịgba afa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ịgbalị ịmata ọdịnihu ma ọ bụ ihe zoro ezo site nʼiji ihe ịrịba ama pụrụ iche ma ọ bụ ihe ụfọdụ, nke Baịbụl na-ekwu na ọ dị njọ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "जोखना हेर्नु",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "विशेष चिन्ह वा वस्तुहरू प्रयोग गरेर भविष्य वा गुप्त कुराहरू पत्ता लगाउने कोसिस गर्नु, जसलाई बाइबलले गलत भनेको छ।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Гадать",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Пытаться узнать будущее или сокрытое с помощью особых знаков или предметов, что Библия называет предосудительным."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kufanya uaguzi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kujaribu kujua mambo ya baadaye au mambo yaliyofichika kwa kutumia ishara au vitu maalum, jambo ambalo Biblia inasema ni kosa."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Mekim Pasin Glasman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Traim long save long samting bai kamap bihain o ol hait samting long rot bilong ol spesel sain o samting, em Baibel i tok dispela pasin i no stret."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Bói khoa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tìm cách biết trước tương lai hoặc những điều kín giấu bằng cách sử dụng các dấu hiệu hoặc vật dụng đặc biệt, điều mà Kinh Thánh xem là sai trái."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "行占卜",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "通过使用特殊的征兆或物品来试图了解未来或隐秘的事，圣经指明这是错误的。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "占卜",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "透過特殊的徵兆或物品嘗試探知未來或隱祕之事，聖經指責這是錯誤的行徑。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

@@ -23,19 +23,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "invocar"
+      "preferred_label": "invocar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Dirigirse a alguien por su nombre o pedirle ayuda."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "appeler"
+      "preferred_label": "invoquer",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "S’adresser à quelqu’un par son nom ou demander son aide."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "berdoa"
+      "preferred_label": "berseru",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Menyebut nama seseorang atau memohon pertolongan mereka."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "invocar"
+      "preferred_label": "invocar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Falar com alguém pelo nome ou pedir a ajuda dessa pessoa."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "invocar"
+    "apd": {
+      "preferred_label": "يدعو باسم",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "تنادي زول باسمه أو تطلب مساعدته."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "دَعَا",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "مُنَادَاةُ شَخْصٍ بِاسْمِهِ أَوْ طَلَبُ عَوْنِهِ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "singaot long nem blong",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Blong toktok long wan man long nem blong hem o askem hem blong i givhan."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Kira bisa suna",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kiran wani da sunansa ko neman taimakonsa."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "नाम लेना",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "किसी का नाम लेकर पुकारना या उनसे सहायता माँगना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ịkpọku",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ịkpọ onye ọ bụla nʼaha ma ọ bụ ịrịọ maka enyemaka ya."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "पुकार्नु",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कसैलाई नाउँ लिएर बोल्नु वा उसको सहायता माग्नु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "призывать",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Обращаться к кому-либо по имени или просить его о помощи; призывать."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kuliitia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kusema na mtu kwa jina lake au kuomba msaada wake."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Singaut long",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tolkamap long wanpela man long nem bilong em o singaut long em i helpim yu."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Kêu cầu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Gọi danh ai đó hoặc cầu xin sự giúp đỡ của họ."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "求告",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "指名对某人说话或寻求其帮助。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "求告",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "指名對某人說話或向其求助。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

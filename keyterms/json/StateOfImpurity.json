@@ -21,16 +21,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "menstruación"
+      "preferred_label": "estado de impureza",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Condición de estar impuro o manchado, lo cual a menudo hace que una persona o cosa no sea aceptable para Dios o para las actividades religiosas."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "impureté"
+      "preferred_label": "état d'impureté",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Condition d'une personne ou d'une chose qui est souillée ou impure, ce qui la rend souvent inacceptable pour Dieu ou pour les activités religieuses."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "najis"
+      "preferred_label": "keadaan najis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Keadaan cemar atau kotor, yang sering kali membuat seseorang atau sesuatu tidak dapat diterima oleh Allah atau dalam kegiatan keagamaan."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "state of impurity"
+      "preferred_label": "estado de impureza",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Condição de impureza ou contaminação, que muitas vezes torna uma pessoa ou coisa inaceitável para Deus ou para atividades religiosas."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "حالة النجاسة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حالة بتاعة نجاسة أو وسخ، غالباً بتخلي الزول أو الحاجة ما مقبولين عند الله أو في الممارسات الدينية."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "حالة نجاسة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حالة الدنس أو عدم الطهارة، والتي غالبًا ما تجعل الشخص أو الشيء غير مقبول أمام الله أو في الممارسات الدينية."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Situesen blong stap doti",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Situesen we wan man no samting i stap doti, we plante taem i mekem se hem i no klin long fes blong God no long ol kastom wosip."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Yanayin Ƙazanta",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Yanayin zama marar tsarki ko mai tabo, wanda sau da yawa yakan sa mutum ko abu ya zama ba karɓaɓɓe ba ga Allah ko ga ayyukan addini."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "अशुद्धता की अवस्था",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अशुद्ध या कलंकित होने की अवस्था, जिसके कारण प्रायः कोई व्यक्ति या वस्तु परमेश्वर या धार्मिक कार्यों के लिए स्वीकार्य नहीं रह जाती।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ọnọdụ nke adịghị ọcha",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ọnọdụ nke ịdị rụrụ arụ maọbụ nke nwere ntụpọ, nke na-emekarị ka mmadụ maọbụ ihe ghara ịbụ nke a na-anabata maka Chineke maọbụ maka emume okpukpe."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "अशुद्धताको अवस्था",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अशुद्ध वा दूषित भएको अवस्था, जसले प्रायः कुनै व्यक्ति वा वस्तुलाई परमेश्‍वर वा धार्मिक गतिविधिहरूका निम्ति अयोग्य बनाउँछ।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Состояние нечистоты",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Состояние ритуальной или нравственной нечистоты, часто делающее человека или предмет неприемлемым для Бога или религиозных обрядов."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Hali ya Unajisi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hali ya kuwa najisi au kutiwa madoa, ambayo mara nyingi humfanya mtu au kitu kutokubalika kwa Mungu au katika shughuli za kidini."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "I stap doti",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Taim manmeri o samting i kamap doti, we i mekim em i no stret long ai bilong God o long ol wok lotu."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Tình trạng ô uế",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tình trạng không thanh sạch hoặc bị hoen ố, thường khiến cho một người hoặc một vật không được Đức Chúa Trời chấp nhận hoặc không thể tham gia các hoạt động tôn giáo."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "不洁净的状态",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "不洁净或被玷污的状态，往往使人或物不蒙上帝接纳或无法参与宗教活动。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "不潔的狀態",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "處於不潔淨或受沾染的狀態，常導致人或物在上帝眼中或宗教活動中不蒙悅納。"
+        }
+      ]
     }
   },
   "referred_to_as": [

@@ -25,16 +25,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "suerte"
+      "preferred_label": "suerte (objeto)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pequeño objeto marcado, como una piedra o un pedazo de cerámica, utilizado para tomar una decisión."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "destin"
+      "preferred_label": "sort (objet)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Un petit objet marqué, comme un caillou ou un morceau de poterie, utilisé pour prendre une décision."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "undi"
+      "preferred_label": "undi (benda)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Benda kecil bertanda, seperti kerikil atau pecahan tembikar, yang digunakan untuk mengambil keputusan."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "lot"
+      "preferred_label": "sorte (objeto)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pequeno objeto marcado, como uma pedra ou caco de cerâmica, usado para tomar uma decisão."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "قرعة (حاجة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حاجة صغيرة معلّمة، زي حصوة أو شقفة فخار، بيستعملوها عشان يتخذوا بيها قرار (قرعة)."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "قرعة (أداة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "أداة صغيرة مميزة بعلامة، كحصاة أو قطعة فخار، تُستخدَم لاتخاذ قرار."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Spesel Ston (Samting)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan smol samting we oli makem, olsem wan ston no pisi doti kenu, we oli yusum blong mekem wan desisen."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Ƙuri'a (Abin Yanke Shawara)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wani ƙaramin abu mai alama, kamar tsakuwa ko ɓangaren yumbu, da ake amfani da shi wajen yanke shawara."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "चिट्ठी (वस्तु)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "निर्णय लेने के लिए उपयोग की जाने वाली एक छोटी चिह्नित वस्तु, जैसे कंकड़ या मिट्टी के बर्तन का टुकड़ा।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Nza (Ihe)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Obere ihe a kara akara, dị ka obere nkume ma ọ bụ iberibe ite, nke a na-eji eme mkpebi."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "चिट्ठा (वस्तु)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "निर्णय लिन प्रयोग गरिने ढुङ्गा वा माटाको टुक्राजस्तो सानो चिन्ह लगाइएको वस्तु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Жребий (предмет)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Небольшой предмет с меткой (например, камешек или черепок), используемый для принятия решения."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kura (Kitu)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kitu kidogo chenye alama, kama kokoto au kipande cha kigae, kinachotumiwa kufanya uamuzi."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Sat (Samting)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela liklik samting i gat mak long en, olsem liklik ston o hap graun sospen, ol i save yusim bilong mekim disisen o makim samting."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Thăm (vật dụng)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một vật nhỏ có dấu hiệu nhận biết, chẳng hạn như sỏi hoặc mảnh gốm, được dùng để đưa ra quyết định."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "签（物品）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "一种带标记的小物件，如鹅卵石或陶片，用于做决定。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "鬮（物件）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "一種用來做決定的帶有標記的小物件，例如卵石或陶片。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

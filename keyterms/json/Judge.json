@@ -17,19 +17,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "juez"
+      "preferred_label": "juez",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Persona que preside un tribunal y toma decisiones o dictámenes en asuntos legales."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "juge"
+      "preferred_label": "juge",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Une personne qui préside un tribunal et prend des décisions ou rend des ordonnances en matière juridique."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "hakim"
+      "preferred_label": "hakim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Seseorang yang memimpin pengadilan dan membuat keputusan atau ketetapan dalam perkara hukum."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "juiz"
+      "preferred_label": "Juiz",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pessoa que preside um tribunal e toma decisões ou determinações em questões legais."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "juiz"
+    "apd": {
+      "preferred_label": "قاضي",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "زول بيقود محكمة وبياخد قرارات وأحكام في قضايا قانونية."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "قاضٍ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "شَخصٌ يَتَرَأَّسُ مَحكَمَةً وَيَتَّخِذُ قَراراتٍ أَو أَحكامًا في مَسائِلَ قانونِيَّةٍ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Jaj",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan man we i lidim wan kot mo i mekem ol desisen o rul long ol mata blong loa."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Alƙali",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mutumin da yake jagorantar kotu kuma yake yanke shawara ko hukunci a kan al’amuran shari’a."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "न्यायी",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "वह व्यक्ति जो अदालत का संचालन करता है और कानूनी मामलों में निर्णय या फैसला देता है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Onye ikpe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Onye na-edu ụlọ ikpe ma na-eme mkpebi ma ọ bụ na-enye ikpe n'okwu gbasara iwu."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "न्यायाधीश",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अदालतको नेतृत्व गर्ने र कानुनी मामिलाहरूमा निर्णय वा फैसला सुनाउने व्यक्ति।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Судья",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Человек, который руководит судом и принимает решения или постановления по правовым вопросам."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Mwamuzi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mtu anayeongoza mahakama na kufanya maamuzi au kutoa hukumu katika masuala ya kisheria."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Hetman bilong Kot",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela man i save bosim kot na mekim ol disisen o stretim ol tok long lo."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Quan tòa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Người chủ trì một phiên tòa và đưa ra các quyết định hoặc phán quyết trong các vấn đề pháp lý."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "审判官",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "主持法庭并在法律事务中作出决定或裁决的人。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "審判官／法官",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "主持法庭並在法律事務中做出決定或裁決的人。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

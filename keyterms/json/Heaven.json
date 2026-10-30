@@ -26,19 +26,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "cielo"
+      "preferred_label": "cielo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "El firmamento o cielo visible sobre la tierra, incluidos el sol, la luna y las estrellas."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "cieux [également employé pour dieu pour éviter la mention du nom sacré]"
+      "preferred_label": "ciel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Le ciel au-dessus de la terre, y compris le soleil, la lune et les étoiles."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "sorga"
+      "preferred_label": "langit",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Langit di atas bumi, termasuk matahari, bulan, dan bintang-bintang."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "céu"
+      "preferred_label": "céu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "O céu acima da terra, incluindo o sol, a lua e as estrelas."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "céu"
+    "apd": {
+      "preferred_label": "سما",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "السما الفوق الأرض، بما فيها الشمس والقمر والنجوم."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "سماء",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "السماء فوق الأرض، بما في ذلك الشمس والقمر والنجوم."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Skae",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Skae antap long wol, we i gat san, mun, mo ol sta long hem."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Sama",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sararin sama da ke bisa duniya, har da rana, wata, da taurari."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "आकाश",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "पृथ्वी के ऊपर का आकाश, जिसमें सूर्य, चंद्रमा और तारे शामिल हैं।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Eluigwe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Eluigwe dị nʼelu ụwa, gụnyere anyanwụ, ọnwa, na kpakpando niile."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "आकाश / स्वर्ग",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "सूर्य, चन्द्रमा र ताराहरू लगायत पृथ्वीमाथिको आकाश वा स्वर्ग।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Небо",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Небо над землей, включая солнце, луну и звезды."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Mbingu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Anga iliyo juu ya dunia, ikijumuisha jua, mwezi na nyota."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "skai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Skai o heven antap long graun, em i karamapim san, mun, na ol sta tu."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Trời",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Bầu trời phía trên mặt đất, bao gồm mặt trời, mặt trăng và các ngôi sao."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "天",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "地上的天空，包括太阳、月亮和星星。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "天",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "地之上的天空，包括太陽、月亮和星宿。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

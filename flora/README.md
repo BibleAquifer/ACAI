@@ -57,7 +57,7 @@ and the referent data information can only be considered to be an initial draft.
 
 ## JSON Schema Documentation
 
-This documentation represents the current (as of 2024-06-20) schema and is based on the Python dataclasses used 
+This documentation represents the current (as of 2026-10-30) schema and is based on the Python dataclasses used 
 while processing the place-specific data. We will do our best to keep this up to date, but there may be discrepancies.
 
 ### AcaiFloraEntry
@@ -70,7 +70,7 @@ while processing the place-specific data. We will do our best to keep this up to
 <tr><td>type</td><td>string</td><td>for flora, `flora` is the only valid type</td></tr>
 <tr><td>ubsdbg</td><td>list</td><td>a list of domain.article (##.##) strings representing the UBSDBG annotation</td></tr>
 <tr><td>ubsdbh</td><td>list</td><td>a list of strings representing the article identifier(s) from UBSDBH</td></tr>
-<tr><td>localizations</td><td>dict[str, dict[str, list]]</td><td>an object for collecting strings and other structures by language for localization purposes. This is where `preferred_label`, `alternate_labels`, and `description` are collected.</td></tr>
+<tr><td>localizations</td><td>dict[str, dict[str, list]]</td><td>an object for collecting strings by language for localization purposes, keyed by ISO 639-3 code (`eng` is the source language). Each language holds a `preferred_label`, an optional list of `alternate_labels`, and a list of `descriptions` (each with a `source` and a `description`).</td></tr>
 <tr><td>referred_to_as</td><td>list</td><td>a list of `id` for other entities that are considered functionally equivalent</td></tr>
 <tr><td>only_mentioned_in_apocrypha</td><td>bool</td><td>If `TRUE` this group is only mentioned in the apocryphal portions of the Bible (note: here "apocrypha" are the apocryphal books of the protestant edition of the NRSV with apocyrpha).</td></tr>
 <tr><td>non_biblical</td><td>bool</td><td>If `TRUE` there is no mention whatever of this group in the Bible.</td></tr>

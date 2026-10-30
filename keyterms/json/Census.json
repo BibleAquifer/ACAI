@@ -17,19 +17,160 @@
       ]
     },
     "spa": {
-      "preferred_label": "censo"
+      "preferred_label": "censo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Recuento oficial de personas en un grupo o área."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "enregistrement"
+      "preferred_label": "recensement",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Dénombrement officiel des personnes d’un groupe ou d’une région."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "pendaftaran"
+      "preferred_label": "sensus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Penghitungan resmi jumlah orang dalam suatu kelompok atau wilayah."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "recenseamento"
+      "preferred_label": "censo",
+      "alternate_labels": [
+        "recenseamento"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma contagem oficial de pessoas em um grupo ou região."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "censo"
+    "apd": {
+      "preferred_label": "تعداد سكاني",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "عدّ رسمي للناس في جماعة أو منطقة معينة."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "إحصاء",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "إحصاء رسمي للأشخاص في جماعة أو منطقة ما."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "kaon blong ol man",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wok blong kaontem ol man long wan grup o wan eria."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Ƙidaya",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ƙididdigar mutane a hukumance a cikin wata ƙungiya ko yanki."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "जनगणना",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "किसी समूह या क्षेत्र में लोगों की एक आधिकारिक गणना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ọnụọgụgụ ndị mmadụ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ọnụọgụgụ a na-agụ ndị mmadụ nʼusoro ọchịchị nʼime otu ma ọ bụ nʼotu mpaghara."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "जनगणना",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै समूह वा क्षेत्रका मानिसहरूको आधिकारिक गणना वा जनसङ्ख्याको लेखाजोखा।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Перепись",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Официальный подсчёт людей в группе или местности."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Sensa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hesabu rasmi ya watu katika kundi au eneo."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "kaunim bilong ol manmeri",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wok bilong kauntim namba bilong ol manmeri long wanpela lain o eria."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Kiểm tra dân số",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Việc kiểm kê, thống kê chính thức số dân trong một nhóm hoặc một khu vực."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "人口普查",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "对一个群体或区域内人口的官方统计。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "人口普查",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "對某個群體或地區內人口的官方統計。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

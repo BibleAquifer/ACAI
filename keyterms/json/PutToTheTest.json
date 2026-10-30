@@ -22,19 +22,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "tentar"
+      "preferred_label": "poner a prueba",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Comprobar o examinar cuidadosamente a alguien o algo para saber cómo es realmente, o hacer que alguien cometa un error."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "mis à l'essai"
+      "preferred_label": "mettre à l'épreuve",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Vérifier ou examiner soigneusement quelqu'un ou quelque chose afin de savoir ce qu'il en est réellement, ou amener quelqu'un à commettre une faute."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "mencobai"
+      "preferred_label": "mencobai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Memeriksa atau menguji seseorang atau sesuatu secara saksama untuk mengetahui keadaan mereka yang sebenarnya, atau menyebabkan seseorang melakukan kesalahan."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "tentar"
+      "preferred_label": "pôr à prova",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Verificar ou examinar cuidadosamente alguém ou algo para saber como realmente é, ou fazer com que alguém cometa um erro."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "tentar"
+    "apd": {
+      "preferred_label": "يجرّب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "فحص أو اختبار زول أو شي بدقة عشان تعرف حقيقته، أو توريط زول عشان يغلط."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "يُجَرَّب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "أَنْ يَفْحَصَ أَوْ يَخْتَبِرَ شَخْصًا أَوْ شَيْئًا بِعِنَايَةٍ لِمَعْرِفَةِ حَقِيقَتِهِ، أَوْ أَنْ يَدْفَعَ شَخْصًا إِلَى ارْتِكَابِ خَطَأٍ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "traem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sekem o jekem gud wan man o samting blong faenemaot tru fasin blong hem, o traem mekem wan man i mekem mastik."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Gwada",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Bincika ko gwada wani ko wani abu da kyau don sanin ainihin yadda yake, ko kuma sa wani ya yi kuskure."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "परीक्षा लेना",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "किसी व्यक्ति या वस्तु की वास्तविकता जानने के लिए उनकी बारीकी से जाँच या परख करना, अथवा किसी से भूल या पाप करवाने की चेष्टा करना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Inwa ọnwụnwa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Iji nlezianya nyochaa ma ọ bụ nwalee mmadụ ma ọ bụ ihe iji mata etu ha dị nʼezie, ma ọ bụ ime ka mmadụ mehie."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "परीक्षा गर्नु",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कसैलाई वा कुनै थोकलाई तिनीहरू वास्तवमा कस्ता छन् भनी जान्न ध्यानपूर्वक जाँच्नु वा परीक्षा गर्नु, अथवा कसैलाई गल्ती गर्न लगाउनु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Подвергать испытанию",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Тщательно проверять или испытывать кого-либо или что-либо, чтобы узнать истинную сущность, либо склонять кого-либо ко греху или ошибке."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kujaribiwa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kumchunguza au kumpima mtu au kitu kwa makini ili kujua jinsi walivyo hasa, au kumfanya mtu akosee."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "traim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Skelim gut o traim man o samting bilong save long trupela pasin bilong en, o mekim man i mekim rong."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Thử thách",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Cẩn thận kiểm tra hoặc thử nghiệm một người hoặc đồ vật để biết bản chất thực sự của họ, hoặc khiến ai đó phạm sai lầm."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "试探",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "仔细查验或考查某人或某物以探明其实际本质，或使某人犯错。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "試探",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "仔細察看或檢驗某人某事以了解其真相，或引誘某人犯錯。"
+        }
+      ]
     }
   },
   "referred_to_as": [

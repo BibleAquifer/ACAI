@@ -17,19 +17,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "condena"
+      "preferred_label": "condena (pena)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "El estado de ser juzgado culpable y tener que afrontar un castigo."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "condamnation"
+      "preferred_label": "condamnation (peine)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "L'état d'être jugé coupable et d'avoir à subir une punition."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "penghukuman"
+      "preferred_label": "penghukuman (hukuman)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Keadaan dinyatakan bersalah dan harus menghadapi hukuman."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "condenação"
+      "preferred_label": "condenação (penalidade)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "O estado de ser julgado culpado e ter de enfrentar punição."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "condenação"
+    "apd": {
+      "preferred_label": "إدانة (عقوبة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حالة الحكم على الزول بإنو مذنب ولازم يواجه العقوبة."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "دَيْنُونَة (عُقُوبَة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حَالَةُ الْحُكْمِ عَلَى الْمَرْءِ بِأَنَّهُ مُذْنِبٌ وَمُطَالَبٌ بِمُوَاجَهَةِ الْعِقَابِ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Panis (Panis we kot i givim)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fasin no taem we kot i jajem finis se man i gat fol mo i mas kasem panis."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Hukunci (Horo)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Halin kasancewa an yanke wa hukuncin laifi kuma dole a fuskanci horo."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "दंड की आज्ञा (दंड)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "दोषी ठहराए जाने और दंड भुगतने की अवस्था।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ikpe ọmụma (ahụhụ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ọnọdụ nke ịbụ onye ikpe mara na onye kwesịrị ịnata ahụhụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "दण्डाज्ञा (दण्ड)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "दोषी ठहरिएर दण्ड भोग्नुपर्ने अवस्था।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Осуждение (наказание)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Состояние признанного виновным и подлежащего наказанию."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Hukumu ya Adhabu (Adhabu)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hali ya kupatikana na hatia na kuhitaji kupokea au kukabili adhabu."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Stap aninit long strafe (Strafe)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kisim kot pinis na i stap aninit long asua na strafe."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Sự kết án (hình phạt)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tình trạng bị phán định là có tội và phải đối diện với hình phạt."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "定罪 (刑罚)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "被判定有罪并须承担惩罚的状态。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "定罪 (刑罰)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "被判定有罪並須承受刑罰的狀態。"
+        }
+      ]
     }
   },
   "referred_to_as": [

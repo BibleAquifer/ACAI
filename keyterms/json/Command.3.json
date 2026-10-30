@@ -21,16 +21,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "decir"
+      "preferred_label": "mandar (pedir)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pedir a alguien que haga algo, a veces con firmeza, usando palabras como «decir», «hablar» o «mandar»."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "prescrire"
+      "preferred_label": "ordonner (demander)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Demander à quelqu’un de faire quelque chose, parfois avec insistance, en employant des mots comme « dire », « parler » ou « ordonner »."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "mengatakan"
+      "preferred_label": "memerintahkan (meminta)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Meminta seseorang melakukan sesuatu, terkadang dengan tegas, menggunakan kata-kata seperti 'berkata', 'berbicara', atau 'mengatakan'."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "comandar"
+    "por": {
+      "preferred_label": "ordenar (pedido)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pedir a alguém que faça algo, às vezes com veemência, usando palavras como 'dizer', 'falar' ou 'mandar'."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "أمر (طلب)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "طلب من زول إنه يعمل حاجة، وأحياناً بشدة، باستعمال كلمات زي 'قول' أو 'اتكلم'."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "يأمر (طلب)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "أن تطلب من شخص ما أن يفعل شيئًا، أحيانًا بشدة، باستخدام كلمات مثل «قال» أو «تكلم» أو «أخبر»."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Talem (Askem)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Blong askem long wan man blong i mekem wan samting, samtaem wetem strong tok, taem oli yusum ol tok olsem 'talem'."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Umarci (Roƙo)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Roƙon wani ya yi wani abu, a wasu lokuta da ƙarfi, ta yin amfani da kalmomi kamar 'ce,' 'yi magana,' ko 'faɗa.'"
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "आज्ञा देना (अनुरोध)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "'कहना', 'बोलना' या 'बताना' जैसे शब्दों का उपयोग करते हुए किसी से कुछ करने का आग्रह करना, कभी-कभी दृढ़तापूर्वक।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Inye iwu (Arịrịọ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ịgwa mmadụ ka o mee ihe, mgbe ụfọdụ nʼụzọ siri ike, na-eji okwu dị ka 'ikwu,' 'ikwu okwu,' ma ọ bụ 'ịgwa.'"
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "आज्ञा गर्नु (अनुरोध)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "'भन्नु' वा 'बोल्नु' जस्ता शब्दहरू प्रयोग गरेर कसैलाई केही गर्न आग्रह वा अनुरोध गर्नु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "повелевать (просить)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Просить кого-либо сделать что-либо, порой настойчиво, используя такие слова, как «сказать», «молвить» или «велеть»."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kuamuru (Ombi)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kumwomba mtu afanye jambo fulani, wakati mwingine kwa msisitizo, kwa kutumia maneno kama 'kusema' au 'kuagiza'."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Givim tok (Askim)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pasin bilong tokim wanpela man long mekim wanpela samting, sampela taim strong, long rot bilong yusim ol tok olsem 'mekim tok' o 'tokim'."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Truyền bảo (Yêu cầu)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Yêu cầu ai đó làm điều gì đó, đôi khi một cách mạnh mẽ, bằng cách dùng những từ như 'nói', 'phán' hoặc 'bảo'."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "吩咐 (请求)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "要求某人做某事，有时带有较强的语气，使用如“说”、“讲”或“吩咐”等词语。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "吩咐 (請求)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "要求某人做某事，有時語氣強烈，使用如「說」、「講」或「告訴」等字眼。"
+        }
+      ]
     }
   },
   "referred_to_as": [

@@ -41,37 +41,157 @@
       ]
     },
     "fra": {
-      "preferred_label": "Claude"
+      "preferred_label": "Claude (Lysias)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Claude Lysias était un officier romain à Jérusalem, mentionné dans le Nouveau Testament."
+        }
+      ]
     },
     "spa": {
-      "preferred_label": "Claudio"
+      "preferred_label": "Claudio (Lisias)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Claudio Lisias fue un oficial romano en Jerusalén mencionado en el Nuevo Testamento."
+        }
+      ]
     },
     "arb": {
-      "preferred_label": "كلودِيوس"
+      "preferred_label": "كُلُودِيُوس (لِيسِيَاس)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "كان كُلُودِيُوس لِيسِيَاس قائدًا رومانيًا في أورشليم مذكورًا في العهد الجديد."
+        }
+      ]
     },
-    "cmn": {
-      "preferred_label": "克勞第"
+    "zhs": {
+      "preferred_label": "革老狄（吕西亚）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "克劳狄·吕西亚是《新约》中提到的一位驻耶路撒冷的罗马军官。"
+        }
+      ]
     },
     "hau": {
-      "preferred_label": "Kalaudiyus"
+      "preferred_label": "Kalaudiyus (Lisiyas)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kalaudiyus Lisiyas wani babban hafsan soja ne na Roma a Urushalima da aka ambata a Sabon Alkawari."
+        }
+      ]
     },
     "hin": {
-      "preferred_label": "क्लौदियुस"
+      "preferred_label": "क्लौदियुस (लूसियास)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "क्लौदियुस लूसियास यरूशलेम में एक रोमी अधिकारी था जिसका उल्लेख नए नियम में मिलता है।"
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "Klaudius"
+      "preferred_label": "Klaudius (Lisias)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Klaudius Lisias adalah seorang perwira Romawi di Yerusalem yang disebutkan dalam Perjanjian Baru."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "Cláudio"
+      "preferred_label": "Cláudio (Lísias)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Cláudio Lísias foi um oficial romano em Jerusalém mencionado no Novo Testamento."
+        }
+      ]
     },
     "rus": {
-      "preferred_label": "Клавдий"
+      "preferred_label": "Клавдий (Лисий)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Клавдий Лисий — римский военачальник (тысяченачальник) в Иерусалиме, упомянутый в Новом Завете."
+        }
+      ]
     },
     "swh": {
-      "preferred_label": "Klaudio"
+      "preferred_label": "Klaudio (Lisia)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Klaudio Lisia alikuwa ofisa wa Kirumi huko Yerusalemu aliyetajwa katika Agano Jipya."
+        }
+      ]
     },
     "tpi": {
-      "preferred_label": "Klodius"
+      "preferred_label": "Klodius (Lisias)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Klodius Lisias em i wanpela ofisa bilong Rom long Jerusalem ol i kolim nem bilong en long Nupela Testamen."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "كلاوديوس (ليسياس)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "كلاوديوس ليسياس كان ضابط روماني في أورشليم مذكور في العهد الجديد."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Klodias (Lisias)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Klodias Lisias i wan ofisa blong Rom long Jerusalem we oli tokbaot hem long Niutesteman."
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Klọdiọs (Lisias)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Klọdiọs Lisias bụ onye ọchịagha Rom nọ na Jeruselem nke a kpọtụrụ aha nʼỌgbụgba Ndụ Ọhụrụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "क्लाउडियस (लुसियस)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "क्लाउडियस लुसियस नयाँ नियममा उल्लेख गरिएका यरूशलेमका एक रोमी अधिकारी थिए ।"
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Cơ-lốt (Ly-si-a)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Cơ-lốt Ly-si-a là một sĩ quan La Mã ở Giê-ru-sa-lem được nhắc đến trong Tân Ước."
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "克勞第（呂西亞）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "克勞第‧呂西亞是《新約》中提及的駐耶路撒冷羅馬軍官。"
+        }
+      ]
     }
   },
   "referred_to_as": [

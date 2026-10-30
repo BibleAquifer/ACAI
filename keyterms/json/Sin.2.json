@@ -17,13 +17,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "pecado"
+      "preferred_label": "pecado (ofensa)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hacer el mal contra Dios o contra otros, ya sea por accidente o a propósito, lo cual puede requerir reparación."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "péché"
+      "preferred_label": "péché (offense)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fait de commettre le mal contre Dieu ou son prochain, involontairement ou délibérément, et qui peut nécessiter une réparation."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "dosa"
+      "preferred_label": "dosa (pelanggaran)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Melakukan kesalahan terhadap Allah atau sesama, baik tanpa sengaja maupun sengaja, yang mungkin perlu diperbaiki."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "خطية (إساءة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "فعل الغلط ضد الله أو ضد الناس التانيين، سواء كان بالغلط أو بالقصد، وممكن يحتاج تصليح."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "خَطِيئَة (إِسَاءَة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "فِعلُ الشَّرِّ ضِدَّ اللهِ أَوْ ضِدَّ الآخَرِينَ، سَوَاءٌ عَن طَرِيقِ الخَطَأِ أَم عَمْدًا، وَمَا قَد يَحتَاجُ إِلَى تَصوِيبٍ أَوْ كَفَّارَةٍ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "sin (rong)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fasin blong mekem samting we i rong agensem God no ol narafala man, nomata i hapen olsem aksiden no long tingting blong man nomo, we maet i nidim blong stretem bakegen."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Zunubi (Laifi)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Yin abin da ba daidai ba a gaban Allah ko ga wasu, ko da cikin kuskure ne ko da gangan, wanda kuma zai iya buƙatar a gyara."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "पाप (अपराध)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "परमेश्वर या दूसरों के विरुद्ध गलत काम करना, चाहे अनजाने में या जानबूझकर, जिसे ठीक करने की आवश्यकता हो सकती है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Mmehie (Mmejọ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ime ihe ọjọọ megide Chineke ma ọ bụ ndị ọzọ, ma ọ bụ site na mberede ma ọ bụ site nʼama ama, nke pụrụ ịchọ ka e mee ka o dozie."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "पाप (अपराध)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "परमेश्‍वर वा अरूविरुद्ध जानीजानी वा अनजानमा गरिएको गलत काम, जसलाई सच्याउन आवश्यक हुन सक्छ।"
+        }
+      ]
+    },
+    "por": {
+      "preferred_label": "pecado (ofensa)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Praticar o mal contra Deus ou contra o próximo, seja por acidente ou de propósito, o que pode requerer reparação."
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Грех (проступок)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Совершение неправды против Бога или других людей, случайно или намеренно, требующее исправления."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Dhambi (Kosa)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kutenda kosa dhidi ya Mungu au wengine, iwe kwa bahati mbaya au kwa kukusudia, jambo ambalo linaweza kuhitaji kurekebishwa."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "sin (rong)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mekim pasin i no stret long ai bilong God o long ol arapela man, maski man i tingting long mekim o em i rong nating, em samting i nidim stretim."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Tội lỗi (Lỗi lầm)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Làm điều sai trái chống lại Đức Chúa Trời hoặc người khác, dù vô tình hay cố ý, là điều có thể cần phải được sửa đổi cho đúng."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "罪 (过犯)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "得罪上帝或他人的过犯，无论是无心还是有意，可能都需要予以补偿或纠正。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "罪（過犯）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "無論是無意還是故意，做出得罪上帝或他人的錯事，可能需要予以彌補或挽回。"
+        }
+      ]
     }
   },
   "referred_to_as": [

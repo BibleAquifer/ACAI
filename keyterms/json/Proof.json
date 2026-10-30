@@ -20,19 +20,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "prueba"
+      "preferred_label": "prueba",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Algo que demuestra con claridad que algo es verdad."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "foi"
+      "preferred_label": "preuve",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ce qui montre clairement que quelque chose est vrai."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "bukti"
+      "preferred_label": "bukti",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sesuatu yang dengan jelas menunjukkan bahwa sesuatu itu benar."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "prova"
+      "preferred_label": "prova",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Algo que mostra claramente que uma coisa é verdadeira."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "prova"
+    "apd": {
+      "preferred_label": "إثبات / برهان",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حاجة بتبيّن وتوضح إنو في حاجة صحيحة."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "بُرْهَان",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "شَيْءٌ يُبَيِّنُ بِوُضُوحٍ أَنَّ أَمْرًا مَا صَحِيحٌ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "pruf",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan samting we i soemaot klia se wan samting i tru."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Tabbaci",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wani abu da yake nunawa a sarari cewa wani abu gaskiya ne."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "प्रमाण",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ऐसी कोई बात जो स्पष्ट रूप से यह दर्शाती है कि कुछ सत्य है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ihe akaebe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ihe na-egosi nʼụzọ doro anya na ihe bụ eziokwu."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "प्रमाण",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै कुरा सत्य हो भनी स्पष्ट रूपमा देखाउने कुरा।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "доказательство",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "То, что ясно свидетельствует об истинности чего-либо."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Uthibitisho",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kitu kinachoonyesha wazi kwamba jambo fulani ni kweli."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "samting bilong soim em i tru",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela samting i kamapim klia olsem wanpela samting em i tru."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Bằng chứng",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Điều gì đó chỉ ra một cách rõ ràng rằng điều gì là đúng sự thật."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "凭证",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "能清楚表明某事为真的事物。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "憑證",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "清楚表明某事屬實的憑據或事物。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

@@ -17,19 +17,160 @@
       ]
     },
     "spa": {
-      "preferred_label": "investigación"
+      "preferred_label": "investigación",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Proceso de examinar con cuidado algo para averiguar la verdad."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "audience préliminaire"
+      "preferred_label": "enquête",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Le processus consistant à examiner attentivement quelque chose pour découvrir la vérité."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "pemeriksaan"
+      "preferred_label": "penyelidikan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Proses menyelidiki sesuatu dengan teliti untuk mencari tahu kebenaran."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "interrogatório"
+      "preferred_label": "investigação",
+      "alternate_labels": [
+        "interrogatório"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "O processo de averiguar cuidadosamente algo para descobrir a verdade."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "investigação"
+    "apd": {
+      "preferred_label": "تحقيق",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "عملية البحث والتدقيق في الشي بعناية لمعرفة الحقيقة."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "فحص",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "عملية التقصي والبحث الدقيق في أمر ما لمعرفة الحقيقة."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "wok blong lukaotem trutok",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fasin blong jekem mo luklukgud long wan samting blong faenemaot trutok."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Bincike",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hanyar bincika wani abu da kyau domin gano gaskiya."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "जाँच-पड़ताल",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "सच्चाई का पता लगाने के लिए किसी बात की सावधानीपूर्वक छानबीन करने की प्रक्रिया।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Nnyocha",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Usoro nke iji nlezianya na-enyocha ihe iji chọpụta eziokwu."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "छानबिन",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "सत्य पत्ता लगाउन कुनै कुरालाई ध्यानपूर्वक खोजतलास गर्ने प्रक्रिया।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Исследование",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Процесс тщательного расследования или изучения чего-либо с целью выяснения истины."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Uchunguzi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mchakato wa kuchunguza jambo fulani kwa makini ili kugundua ukweli."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "painimaut",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wok o pasin bilong glasim na painimaut gut ol samting bilong save long tok i tru."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "sự tra xét",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Quá trình xem xét kỹ lưỡng một điều gì đó để tìm ra sự thật."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "查究",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "仔细探查某事以查明真相的过程。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "查究",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "仔細探究某事以查明真相的過程。"
+        }
+      ]
     }
   },
   "referred_to_as": [

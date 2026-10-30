@@ -28,32 +28,158 @@
         }
       ]
     },
-    "cmn": {
-      "preferred_label": "革‧夏納欣"
+    "zhs": {
+      "preferred_label": "革·夏纳欣",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "沿海平原上的一个地点，工匠在此定居；由犹大支派西莱雅的儿子约押所建立。"
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "vallée des ouvriers"
+      "preferred_label": "vallée des ouvriers",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Un lieu situé dans la plaine côtière, où des artisans se sont installés ; fondé par un homme nommé Joab, fils de Seraja, de la tribu de Juda."
+        }
+      ]
     },
     "hau": {
-      "preferred_label": "sana’a"
+      "preferred_label": "Ge-Harashim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wani wuri ne a filin bakin teku inda masu sana'a suka zauna; wani mutum mai suna Yowab, ɗan Serahiya, na kabilar Yahuda ne ya kafa shi."
+        }
+      ]
     },
     "hin": {
-      "preferred_label": "गेहराशीम"
+      "preferred_label": "गेहराशीम",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "तटीय मैदान का एक स्थान, जहाँ कारीगर बसे थे; इसकी स्थापना यहूदा गोत्र के सरायाह के पुत्र योआब नामक व्यक्ति ने की थी।"
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "Lembah"
+      "preferred_label": "Lembah Tukang-tukang",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sebuah lokasi di dataran pantai, tempat para pengrajin menetap; didirikan oleh seorang pria bernama Yoab, anak Seraya, dari suku Yehuda."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "vale dos Artífices"
+      "preferred_label": "Ge-Harasim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Um local na planície costeira onde artesãos se estabeleceram; fundado por um homem chamado Joabe, filho de Seraías, da tribo de Judá."
+        }
+      ]
     },
     "spa": {
-      "preferred_label": "valle"
+      "preferred_label": "valle de Carisín",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Lugar en la llanura costera donde se establecieron artesanos; fundado por un hombre llamado Joab, hijo de Seraías, de la tribu de Judá."
+        }
+      ]
     },
     "swh": {
-      "preferred_label": "Ge-harashimu"
+      "preferred_label": "Ge-Harashimu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mahali katika nchi tambarare ya pwani, ambapo mafundi walikaa; palianzishwa na mtu aliyeitwa Yoabu, mwana wa Seraya, wa kabila la Yuda."
+        }
+      ]
     },
     "tpi": {
-      "preferred_label": "Wokman"
+      "preferred_label": "Ples Daun Bilong Ol Wokman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela hap i stap long stretpela graun klostu long solwara, em ples ol saveman bilong wokim ol samting i bin stap long en; em wanpela man nem bilong en Joap, pikinini man bilong Seraia, bilong lain Juda, i bin kamapim."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "جي حراشيم",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "مكان في السهل الساحلي، سكنوا فيه أصحاب الحرف؛ أسسه راجل اسمه يوآب، ولد سرايا، من قبيلة يهوذا."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "وَادِي ٱلصُّنَّاعِ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "موقع في السهل الساحلي استقر فيه الحرفيون؛ أسسه رجل اسمه يوآب بن سرايا من سبط يهوذا."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Geharasim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan ples long flatples klosap long solwota we ol man blong wok long han oli bin go stap long hem; wan man nem blong hem Joab, we i pikinini blong Seraea blong laen blong Juda, i bin statem ples ya."
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ge Harashim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ebe dị na mbara ala dị nʼụsọ osimiri, ebe ndị nka biri; nke nwoke a na-akpọ Joab, nwa Seraịa, onye ebo Juda hiwere."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "गे-हरशीम",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "तटीय मैदानको एक ठाउँ, जहाँ कारीगरहरू बसोबास गर्थे; यहूदा कुलका सरायाहका छोरा योआब नाम गरेका मानिसद्वारा स्थापित।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Ге-Харашим",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Местность на прибрежной равнине, где поселились ремесленники; основана человеком по имени Иоав, сыном Сераии, из колена Иуды."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Ghê Ha-ra-sim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một địa điểm trên đồng bằng ven biển, nơi các thợ thủ công định cư; do một người tên là Giô-áp, con trai của Sê-ra-gia, thuộc bộ tộc Giu-đa thành lập."
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "革‧夏納欣",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "位於沿海平原的一處地點，工匠在此定居；由猶大支派西萊雅的兒子、名叫約押的人所建。"
+        }
+      ]
     }
   },
   "mentioned_in_bible": true,

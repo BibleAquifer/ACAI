@@ -20,19 +20,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "jornalero"
+      "preferred_label": "jornalero",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Persona a la que se le paga por trabajar para otra."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "travailleur employé"
+      "preferred_label": "ouvrier agricole",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Personne qui est payée pour travailler pour quelqu’un d’autre."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "orang upahan"
+      "preferred_label": "orang upahan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Orang yang dibayar untuk bekerja bagi orang lain."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "empregado"
+      "preferred_label": "trabalhador contratado",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma pessoa paga para trabalhar para outra."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "empregado"
+    "apd": {
+      "preferred_label": "عامل بأجرة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "زول بدفعوا ليهو أجر عشان يشتغل لي زول تاني."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "أجير",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "شخص يتقاضى أجرًا مقابل العمل لدى شخص آخر."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Man blong wok we oli pem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan man we oli pem hem blong hem i wok blong wan narafala man."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Ɗan haya",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mutumin da ake biya don yin aiki ga wani."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "मजदूर",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "वह व्यक्ति जिसे किसी अन्य के लिए काम करने के बदले भुगतान किया जाता है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Onye e goro ọrụ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Onye a na-akwụ ụgwọ ka ọ rụọrọ onye ọzọ ọrụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "भाडाको नोकर",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अरू कसैको निम्ति काम गर्न ज्याला वा भाडा दिइएको व्यक्ति।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Наемник",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Человек, получающий плату за работу на кого-то другого."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Mtu wa kuajiriwa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mtu anayelipwa kufanya kazi kwa ajili ya mtu mwingine."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "wokman i kisim pe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela man o meri narapela man i baim em long mekim wok."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Người làm thuê",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Người được trả tiền để làm việc cho người khác."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "雇工",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "受雇为他人工作的人。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "雇工",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "受雇為他人工作並領取報酬的人。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

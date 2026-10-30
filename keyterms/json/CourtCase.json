@@ -28,19 +28,160 @@
       ]
     },
     "spa": {
-      "preferred_label": "tribunal de justicia"
+      "preferred_label": "caso judicial",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Proceso legal en el que un juez o tribunal decide sobre un litigio."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "tribunal"
+      "preferred_label": "procès",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Procédure juridique au cours de laquelle un différend est tranché par un juge ou un tribunal."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "pengadilan"
+      "preferred_label": "perkara pengadilan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Proses hukum saat perselisihan diputuskan oleh hakim atau pengadilan."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "tribunal de justiça"
+      "preferred_label": "processo judicial",
+      "alternate_labels": [
+        "tribunal de justiça"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Um processo jurídico em que uma disputa é decidida por um juiz ou tribunal."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "processo judicial"
+    "apd": {
+      "preferred_label": "قضية في المحكمة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "إجراء قانوني بيفصل فيهو قاضي أو محكمة في نزاع."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "دعوى قضائية",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "إجراء قانوني يفصل فيه قاضٍ أو محكمة في نزاع ما."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "bisnes blong kot",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan proses long kot we wan jaj o kot i stretem wan trabol o rao."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Shari’a",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tsari na shari’a inda alƙali ko kotu take yanke hukunci a kan wata ƙara ko rigima."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "मुकदमा",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "एक कानूनी प्रक्रिया जिसमें किसी विवाद का निर्णय किसी न्यायाधीश या अदालत द्वारा किया जाता है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ikpe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Usoro gbasara iwu ebe onye ikpe ma ọ bụ ụlọikpe na-ekpebi esemokwu."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "मुद्दा",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "न्यायाधीश वा अदालतद्वारा कुनै विवादको फैसला गरिने कानुनी प्रक्रिया।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Судебное дело",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Судебный процесс, при котором спор разрешается судьей или судом."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kesi ya Mahakamani",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mchakato wa kisheria ambapo mgogoro huamuliwa na hakimu au mahakama."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "kot",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela pasin bilong lo we jais o kot i save harim na skelim wanpela kros o tok i kamap."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Vụ kiện",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một tiến trình pháp lý trong đó một vụ tranh chấp được phân xử bởi một thẩm phán hoặc tòa án."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "诉讼案件",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "由法官或法庭裁决争议的诉讼程序。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "訴訟案件",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "由審判官或法庭裁決爭端的法律訴訟程序。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

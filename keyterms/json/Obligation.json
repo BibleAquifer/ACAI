@@ -18,19 +18,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "deuda"
+      "preferred_label": "obligación",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Un deber o responsabilidad que alguien debe cumplir porque lo prometió o porque es obligatorio."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "un dû"
+      "preferred_label": "obligation",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Un devoir ou une responsabilité que l'on doit accomplir parce qu'on l'a promis ou que cela est exigé."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "kewajiban"
+      "preferred_label": "kewajiban",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Suatu tugas atau tanggung jawab yang harus dilakukan seseorang karena mereka telah berjanji atau karena hal itu dituntut."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "dívida"
+      "preferred_label": "obrigação",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Um dever ou responsabilidade que alguém deve cumprir por ter prometido ou por ser exigido."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "dívida"
+    "apd": {
+      "preferred_label": "واجب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "واجب أو مسؤولية لازم الزول يسويها عشان وعد بيها أو مطلوبة منه."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "وَاجِب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "وَاجِبٌ أَوْ مَسْؤُولِيَّةٌ يَجِبُ عَلَى الشَّخْصِ أَدَاؤُهَا لِأَنَّهُ وَعَدَ بِهَا أَوْ لِأَنَّهَا مَطْلُوبَةٌ مِنْهُ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "duti",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan wok no duti we wan man i mas mekem from we hem i promes finis no from we loa i askem."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Hakki",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wajibi ko nauyi da ya hau kan mutum dole yă yi saboda ya yi alkawari ko kuma wajibi ne."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "बाध्यता",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "एक कर्तव्य या उत्तरदायित्व जिसे किसी को पूरा करना होता है क्योंकि उसने वादा किया है या यह अनिवार्य है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ibu ọrụ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ọrụ ma ọ bụ ibu ọrụ mmadụ aghaghị ịrụ nʼihi na o kwere nkwa ma ọ bụ na a chọrọ ya nʼaka ya."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "बाध्यता",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "प्रतिज्ञा गरिएको वा आवश्यक भएकाले कसैले गर्नै पर्ने कर्तव्य वा जिम्मेवारी।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Обязательство",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Долг или ответственность, которые человек должен исполнить, потому что он дал обещание или это требуется."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Wajibu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wajibu au jukumu ambalo mtu lazima alifanye kwa sababu aliahidi au linatakiwa."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "wok i stap long han",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela wok o hevi man i mas mekim long wanem em i bin mekim promis o lo i makim em long mekim."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Nghĩa vụ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Bổn phận hoặc trách nhiệm mà một người phải làm vì đã hứa hoặc do bị đòi buộc."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "本分",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "某人因曾承诺或因被要求而必须履行的职责或责任。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "義務",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "因承諾或要求而必須履行的義務或責任。"
+        }
+      ]
     }
   },
   "referred_to_as": [

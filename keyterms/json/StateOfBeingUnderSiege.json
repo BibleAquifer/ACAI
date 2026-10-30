@@ -19,16 +19,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "sitio"
+      "preferred_label": "bajo asedio (estado)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Situación en la que un lugar o grupo está rodeado y atacado, sin posibilidad de recibir ayuda o suministros."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "état d'être en état de siège"
+      "preferred_label": "état de siège (état)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Situation dans laquelle une localité ou un groupe est encerclé et attaqué, incapable de recevoir de l'aide ou du ravitaillement."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "keadaan dikepung"
+      "preferred_label": "terkepung (keadaan)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Suatu keadaan ketika sebuah tempat atau kelompok dikepung dan diserang, tidak dapat memperoleh bantuan atau perbekalan."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "state of being under siege"
+      "preferred_label": "sob cerco (estado)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Situação em que um lugar ou grupo é cercado e atacado, incapaz de receber ajuda ou suprimentos."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "تحت الحصار (حالة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حالة بكون فيها مكان أو جماعة محاصرين ومهاجمين، وما قادرين يلقوا مساعدة أو إمدادات."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "تحت الحصار (حالة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حالة يكون فيها مكان أو جماعة محاصرًا ومهاجمًا، دون القدرة على تلقي مساعدة أو إمدادات."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Ples we oli blokem (Situesen)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan situesen we ol enemi oli kam raonem wan ples no grup mo atakem olgeta, we oli no save kasem help no kakae."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Kewaye (Hali)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Yanayin da aka kewaye wuri ko ƙungiya aka kuma kai musu hari, ba tare da sun sami damar samun taimako ko kayan abinci ba."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "घिराव (अवस्था)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ऐसी स्थिति जिसमें किसी स्थान या समूह को घेर लिया जाता है और उस पर आक्रमण किया जाता है, जिससे सहायता या आपूर्ति प्राप्त नहीं हो पाती।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Nnọchigide (Ọnọdụ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ọnọdụ ebe a gbara ebe maọbụ otu mmadụ gburugburu ma na-alụso ha agha, nʼenweghị ike inweta enyemaka maọbụ ihe oriri."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "घेराबन्दीमा (अवस्था)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै स्थान वा समूहलाई घेरा हालिएको र आक्रमण गरिएको, तथा सहायता वा आपूर्ति प्राप्त गर्न नसक्ने अवस्था।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "В осаде (состояние)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Положение, при котором место или группа людей окружены и атакованы, не имея возможности получить помощь или припасы."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kuzingirwa (Hali)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hali ambayo mahali au kundi limezungukwa na kushambuliwa, likiwa haliwezi kupata msaada au mahitaji."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "I stap long banis bilong birua (hevi)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Bikpela hevi taim ol birua i banisim na paitim wanpela taun o lain manmeri, na ol i no inap kisim helpim o kaikai."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Bị vây hãm (Tình trạng)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tình trạng một nơi chốn hay một nhóm người bị bao vây và tấn công, không thể nhận được sự giúp đỡ hay tiếp tế."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "被围困 (状态)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "某个地方或群体被包围攻打、无法获得援助或补给的状态。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "被圍困 (狀態)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "某地或群體被包圍和攻擊，無法獲得救援或物資的處境。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

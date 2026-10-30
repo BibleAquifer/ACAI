@@ -57,37 +57,157 @@
       ]
     },
     "fra": {
-      "preferred_label": "Jacques"
+      "preferred_label": "Jacques",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "L'un des douze apôtres de Jésus, frère de l'apôtre et évangéliste Jean, et fils de Zébédée. Il est mort martyr pour la foi chrétienne sous le roi Hérode Agrippa Ier."
+        }
+      ]
     },
     "spa": {
-      "preferred_label": "Jacobo"
+      "preferred_label": "Jacobo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uno de los doce apóstoles de Jesús, hermano del apóstol y evangelista Juan, e hijo de Zebedeo. Murió como mártir por la fe cristiana a manos del rey Herodes Agripa I."
+        }
+      ]
     },
     "arb": {
-      "preferred_label": "يَعْقوبَ"
+      "preferred_label": "يَعْقوب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "أحد رسل يسوع الاثني عشر، وأخو يوحنا الرسول والإنجيلي، وابن زبدي. استُشهد في سبيل الإيمان المسيحي على يد الملك هيرودس أغريباس الأول."
+        }
+      ]
     },
-    "cmn": {
-      "preferred_label": "半尼其"
+    "zhs": {
+      "preferred_label": "雅各",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "耶稣的十二使徒之一，使徒兼布道者约翰的兄弟，西庇太的儿子。他因基督信仰被希律·亚基帕一世杀害殉道。"
+        }
+      ]
     },
     "hau": {
-      "preferred_label": "Yaƙub"
+      "preferred_label": "Yaƙub",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ɗaya daga cikin manzannin Yesu goma sha biyu, ɗan’uwan manzo kuma mai bishara Yohanna, kuma ɗan Zebedi. Sarki Hirudus Agaribas I ya kashe shi saboda bangaskiyar Kirista."
+        }
+      ]
     },
     "hin": {
-      "preferred_label": "याकूब"
+      "preferred_label": "याकूब",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "यीशु के बारह प्रेरितों में से एक, प्रेरित और सुसमाचार प्रचारक यूहन्ना का भाई, और जब्दी का पुत्र। वह मसीही विश्वास के कारण राजा हेरोदेस अग्रिप्पा प्रथम द्वारा शहीद किया गया था।"
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "Yakobus"
+      "preferred_label": "Yakobus",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Salah satu dari dua belas rasul Yesus, saudara dari rasul dan penginjil Yohanes, serta anak Zebedeus. Ia mati martir demi iman Kristen di tangan Raja Herodes Agripa I."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "Tiago"
+      "preferred_label": "Tiago",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Um dos doze apóstolos de Jesus, irmão do apóstolo e evangelista João e filho de Zebedeu. Ele foi martirizado pela fé cristã pelo rei Herodes Agripa I."
+        }
+      ]
     },
     "rus": {
-      "preferred_label": "Иаков"
+      "preferred_label": "Иаков",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Один из двенадцати апостолов Иисуса, брат апостола и евангелиста Иоанна и сын Зеведея. Принял мученическую смерть за христианскую веру от царя Ирода Агриппы I."
+        }
+      ]
     },
     "swh": {
-      "preferred_label": "Yakobo"
+      "preferred_label": "Yakobo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mmoja wa mitume kumi na wawili wa Yesu, ndugu yake mtume na mwinjilisti Yohana, na mwana wa Zebedayo. Aliuawa kwa ajili ya imani ya Kikristo na Mfalme Herode Agripa I."
+        }
+      ]
     },
     "tpi": {
-      "preferred_label": "Jems"
+      "preferred_label": "Jems",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela bilong ol 12-pela aposel bilong Jisas, brata bilong aposel na man bilong autim gutnius Jon, na pikinini man bilong Sebedi. King Herot Agripa I i bin kilim em i dai bicos long bilip bilong en long Krais."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "يعقوب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "واحد من رسل يسوع الاثنا عشر، أخو الرسول والمبشر يوحنا، وولد زبدي. استشهد في سبيل الإيمان المسيحي على يد الملك هيرودس أغريباس الأول."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Jemes",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan long ol twelf aposol blong Jisas, brata blong aposol mo evaenjelis Jon, mo pikinini boe blong Sebedi. King Herod Agripa I i kilim hem i ded from bilif blong hem long Kraes."
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Jemis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Otu nʼime ndị ozi iri na abụọ nke Jizọs, nwanne onyeozi na onye mgbasa ozi ọma bụ Jọn, na nwa Zebedi. Eze Herọd Agripa nke Mbụ gburu ya nʼihi okwukwe Kraịst."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "याकूब",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "येशूका बाह्र प्रेरितहरूमध्ये एक, प्रेरित तथा सुसमाचार प्रचारक यूहन्‍नाका भाइ र जब्दियाका छोरा। राजा हेरोद अग्रिप्पा प्रथमद्वारा उनलाई ख्रीष्टियन विश्वासका निम्ति सहिद बनाइएको थियो।"
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Gia-cơ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một trong mười hai sứ đồ của Chúa Giê-xu, anh/em của sứ đồ và trước giả sách Phúc Âm Giăng, và là con trai của Xê-bê-đê. Ông đã tử vì đạo cho đức tin Cơ Đốc dưới thời Vua Hê-rốt Ạc-ríp-ba I."
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "雅各",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "耶穌十二使徒之一，使徒兼傳福音者約翰的兄弟，西庇太的兒子。他為了基督信仰被希律·亞基帕一世王殺害殉道。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

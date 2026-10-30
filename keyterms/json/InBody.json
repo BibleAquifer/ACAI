@@ -21,19 +21,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "corporal"
+      "preferred_label": "corporal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Relacionado con el cuerpo físico."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "physiquement"
+      "preferred_label": "corporel",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Qui se rapporte au corps physique."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "dalam rupa"
+      "preferred_label": "jasmani",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Berhubungan dengan tubuh jasmani."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "corporal"
+      "preferred_label": "corporal",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Relativo ao corpo físico."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "corporal"
+    "apd": {
+      "preferred_label": "جسدي",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "عنده علاقة بالجسم المادي."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "جَسَدِيّ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ما يخص الجسد المادي."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "long bodi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Samting we i joen wetem bodi blong man."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Na jiki",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Abin da ya shafi jiki na zahiri."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "शारीरिक",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "भौतिक शरीर से संबंध रखने वाला।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Nke anụ ahụ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Inwe ihe jikọrọ ya na ahụ nkịtị."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "शारीरिक",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "भौतिक शरीरसँग सम्बन्धित।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Телесный",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Относящийся к физическому телу."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kimwili",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kuhusu mwili wa kimwili."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "bilong bodi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Samting i bilong skin o bodi bilong man."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Thuộc về thân thể",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Liên quan đến thân thể vật lý."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "身体上的",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "与肉身或身体有关的。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "身體的",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "與肉體或身體有關的。"
+        }
+      ]
     }
   },
   "referred_to_as": [

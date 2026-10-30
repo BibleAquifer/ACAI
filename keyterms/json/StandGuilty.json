@@ -26,13 +26,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "declararse culpable"
+      "preferred_label": "ser culpable",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ser responsable de hacer algo malo contra Dios o contra otros, lo cual genera una culpa que puede requerir ser reparada o enmendada."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "être coupable"
+      "preferred_label": "être coupable",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Être responsable d'une mauvaise action commise contre Dieu ou autrui, entraînant une culpabilité qui doit être réparée ou rectifiée."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "bersalah"
+      "preferred_label": "bersalah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Bertanggung jawab atas kesalahan yang diperbuat terhadap Allah atau orang lain, yang menimbulkan rasa bersalah yang mungkin perlu diperbaiki atau diselesaikan."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "يكون مذنب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "يكون مسؤول عن عمل حاجة غلط ضد الله أو الناس، وده بيجيب ذنب ممكن يحتاج يتصلح أو يتعوض."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "أن يصير مذنبًا",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "تحمّل مسؤولية ارتكاب خطأ ضد الله أو الآخرين، مما يؤدي إلى ذنب قد يحتاج إلى إصلاح أو تكفير."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Karem panis blong rong",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fasin blong karem fol no panis from wan rong we man i mekem agensel long God no narafala man, we i lidim i go long rong we maet man i mas stretem."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Kasancewa Mai Alhaki",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ɗaukar alhakin yin wani abu ba daidai ba a gaban Allah ko ga wasu, wanda ke kaiwa ga laifi da ke buƙatar a gyara ko a rama."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "अपराधी ठहरना",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "परमेश्वर या दूसरों के विरुद्ध कुछ बुरा करने के लिए उत्तरदायी होना, जिससे ऐसा दोष उत्पन्न हो जिसे सुधारने या ठीक करने की आवश्यकता हो।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ịbụ onye ikpe mara",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ịbụ onye kpatara ime ihe ọjọọ megide Chineke maọbụ ndị ọzọ, nke na-eweta ikpe ọmụma nke a pụrụ ịdị mkpa idozi maọbụ mee ka ọ dị mma."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "दोषी ठहरिनु",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "परमेश्‍वर वा अरू विरुद्ध कुनै खराब काम गरेकोमा जिम्मेवार हुनु, जसले समाधान गर्नुपर्ने वा ठीक पार्नुपर्ने दोष ल्याउँछ।"
+        }
+      ]
+    },
+    "por": {
+      "preferred_label": "ser culpado",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ser responsável por fazer algo errado contra Deus ou contra o próximo, resultando em culpa que precisa ser reparada ou corrigida."
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Быть виновным",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Нести ответственность за совершение дурного поступка против Бога или других людей, что влечет за собой вину, требующую исправления или возмещения."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kuwa na Hatia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kuwajibika kwa kutenda kosa dhidi ya Mungu au wengine, jambo linaloleta hatia inayoweza kuhitaji kurekebishwa au kufanyiwa fidia."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "I gat asua",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "I gat asua long mekim wanpela pasin i no stret long ai bilong God o bilong ol arapela manmeri, we i bringim hevi bilong sin em man i mas stretim."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Mang tội",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Chịu trách nhiệm về việc làm điều sai trái đối với Đức Chúa Trời hoặc người khác, dẫn đến tội lỗi có thể cần phải sửa chữa hoặc đền bù."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "担罪",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "对向神或向他人所犯的过错负有责任，从而背负罪咎，可能需要赔偿或补赎。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "擔罪",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "對得罪上帝或他人的過錯負有責任，因而承擔罪責，可能需要彌補或糾正。"
+        }
+      ]
     }
   },
   "referred_to_as": [

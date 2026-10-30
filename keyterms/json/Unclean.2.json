@@ -18,16 +18,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "impuro"
+      "preferred_label": "impuro (contaminado ritualmente)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Estar ritualmente contaminado y no tener permitido participar en las ceremonias religiosas."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "impur"
+      "preferred_label": "impur (rituellement souillé)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Être rituellement souillé et interdit de participation aux cérémonies religieuses."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "najis"
+      "preferred_label": "najis (tercemar secara ritual)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kondisi najis secara ritual dan tidak diperbolehkan mengambil bagian dalam upacara keagamaan."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "unclean"
+      "preferred_label": "impuro (ritualmente contaminado)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Estar ritualmente contaminado e impedido de participar de cerimônias religiosas."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "نجس (متنجس طقسياً)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "الحالة حقت النجاسة الطقسية والزول ما بكون مسموح ليهو يشارك في الطقوس الدينية."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "نَجِسٌ (مُلَوَّثٌ طَقْسِيًّا)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "كَوْنُ الشَّيْءِ أَوْ الشَّخْصِ نَجِسًا طَقْسِيًّا وَغَيْرَ مَسْمُوحٍ لَهُ بِالْمُشَارَكَةِ فِي الشَّعَائِرِ الدِّينِيَّةِ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "No klin (doti long saed blong kastom mo skul)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fasin blong stap doti long kastom no skul mo i no stret blong tekpat long ol lafet mo wosip blong God."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Marar Tsarki (Ƙazantacce a Al'ada)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kasancewa marar tsarki a al'ada da kuma rashin izinin shiga hidimomin addini."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "अशुद्ध (अनुष्ठानिक रूप से दूषित)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अनुष्ठानिक रूप से अपवित्र होना और धार्मिक अनुष्ठानों में भाग लेने की अनुमति न होना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Na-adịghị ọcha (Emerụrụ nʼEmume)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ịdị arụrụ arụ nʼusoro emume na anabataghị isonye nʼemume okpukpe."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "अशुद्ध (धार्मिक रूपमा अशुद्ध पारिएको)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "धार्मिक विधिअनुसार अशुद्ध भएको र धार्मिक अनुष्ठानहरूमा सहभागी हुन अनुमति नभएको अवस्था।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Нечистый (ритуально оскверненный)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ритуально оскверненный и не допускаемый к участию в религиозных церемониях."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Najisi (Aliyetiwa Unajisi Kiibada)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kuwa najisi kiibada na kutoruhusiwa kushiriki katika sherehe za kidini."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Doti (Long Ai Bilong God)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "I stap doti long ai bilong God na lo bilong lotu i tambuim em long mekim ol pasin bilong lotu."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "ô uế (bị ô uế theo nghi lễ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Bị nhơ bẩn về mặt nghi lễ và không được phép tham gia vào các nghi lễ tôn giáo."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "不洁净 (礼仪上沾染污秽)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "在礼仪上不洁净，不得参与宗教仪式。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "不潔淨（禮儀上受沾染）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "在禮儀上不潔，且不准參與宗教禮儀。"
+        }
+      ]
     }
   },
   "referred_to_as": [

@@ -21,19 +21,160 @@
       ]
     },
     "spa": {
-      "preferred_label": "lavamiento ritual"
+      "preferred_label": "lavamiento (ritual)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Lavado especial con agua para purificar a personas o cosas con fines religiosos."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "lavement rituel"
+      "preferred_label": "lavage (rituel)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Un lavage spécial avec de l'eau pour purifier des personnes ou des objets à des fins religieuses."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "membersihkan diri"
+      "preferred_label": "pembasuhan (ritual)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pembasuhan khusus dengan air untuk mentahirkan orang atau benda demi tujuan keagamaan."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "ablução ritual"
+      "preferred_label": "purificação ritual",
+      "alternate_labels": [
+        "ablução ritual"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma lavagem especial com água para purificar pessoas ou coisas para fins religiosos."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "(ritual) lavagem"
+    "apd": {
+      "preferred_label": "غسيل (طقسي)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "غسيل خاص بالموية عشان يخلّي الناس أو الحاجات طاهرة لأغراض دينية."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "غَسْل (طَقْسِيّ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "غَسْلٌ خاصٌّ بِالماءِ لِتَطْهِيرِ النّاسِ أَوِ الأَشْياءِ لأَغْراضٍ دِينِيَّةٍ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Waswas (long wosip)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan spesel fasin blong wasem man no samting wetem wota blong mekem olgeta oli klin long fes blong God no long wosip."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Wankewa (Al’adar Addini)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wankewa ta musamman da ruwa don tsarkake mutane ko abubuwa domin dalilai na addini."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "प्रक्षालन (धार्मिक विधि)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "धार्मिक उद्देश्यों के लिए लोगों या वस्तुओं को शुद्ध करने हेतु पानी से किया जाने वाला एक विशेष प्रक्षालन।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ịsa ahụ (Emume)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ịsa ahụ ma ọ bụ ihe pụrụ iche e ji mmiri mee iji mee ka ndị mmadụ ma ọ bụ ihe dị ọcha maka ebumnuche nke okpukpe."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "धुलाइ (धार्मिक विधि)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "मानिसहरू वा वस्तुहरूलाई धार्मिक प्रयोजनका निम्ति शुद्ध पार्न पानीले गरिने विशेष धुलाइ।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Омовение (ритуальное)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Особое омовение водой для очищения людей или предметов в религиозных целях."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kuosha (Kisakramenti)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uoshaji maalum kwa maji ili kuwafanya watu au vitu kuwa safi kwa madhumuni ya kidini."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Waswas (Wok Lotu)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela kain waswas i mekim manmeri o ol samting i kamap klin long ai bilong God long mekim ol bikpela wok lotu."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Tẩy lễ (Nghi thức)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Việc dùng nước tẩy rửa đặc biệt để làm cho người hoặc vật trở nên tinh sạch vì mục đích tôn giáo."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "洗礼 (礼仪)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "一种为宗教目的用水洗净人或物的特别洁净仪式。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "濯洗（儀式）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "為了宗教目的用水進行的特別洗滌，使人或物成為潔淨。"
+        }
+      ]
     }
   },
   "referred_to_as": [

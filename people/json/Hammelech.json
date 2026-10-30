@@ -40,28 +40,157 @@
       ]
     },
     "arb": {
-      "preferred_label": "ٱلْمَلِك"
+      "preferred_label": "ٱلْمَلِك",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "الملك (هَمِّلِك)، يُشار إليه بلقب «الملك»، كان رجلاً عاش في عهد المملكة المنقسمة، ذُكر أول مرة في إرميا 36: 26، وكان والد يرحمئيل وملكيّا."
+        }
+      ]
     },
-    "cmn": {
-      "preferred_label": "哈米勒"
+    "zhs": {
+      "preferred_label": "哈米勒",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "哈米勒（也被指为“王”）是一名生活在王国分裂时期的男子，首次提及于耶利米书36:26，是耶拉篾和玛基雅的父亲。"
+        }
+      ]
     },
     "hau": {
-      "preferred_label": "sarki"
+      "preferred_label": "Hammelek",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hammelek, wanda kuma ake kira 'sarki', wani mutum ne da ya rayu a lokacin rabuwar masarauta, wanda aka fara ambatonsa a Irmiya 36:26, kuma shi ne mahaifin Yerameyel da Malkiya."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "raja"
+      "preferred_label": "Hamelekh",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hamelekh, yang juga dirujuk sebagai 'sang raja', adalah seorang laki-laki yang hidup pada masa kerajaan terpecah, pertama kali disebutkan dalam Yeremia 36:26, dan merupakan ayah dari Yerahmeel dan Malkia."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "Hameleque"
+      "preferred_label": "Hameleque",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hameleque, também referido como \\\"o rei\\\", foi um homem que viveu durante a época do reino dividido, mencionado pela primeira vez em Jeremias 36:26, e era o pai de Jerameel e Malquias."
+        }
+      ]
     },
     "spa": {
-      "preferred_label": "rey"
+      "preferred_label": "Hamelec",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hamelec, al que también se hace referencia como «el rey», fue un hombre que vivió durante la época del reino dividido, mencionado por primera vez en Jeremías 36:26, y fue el padre de Jerameel y Malquías."
+        }
+      ]
     },
     "swh": {
-      "preferred_label": "Mfalme"
+      "preferred_label": "Hameleki",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hameleki, anayejulikana pia kama 'mfalme', alikuwa mwanamume aliyeishi wakati wa ufalme uliogawanyika, anayetajwa kwa mara ya kwanza katika Yeremia 36:26, naye alikuwa baba yao Yerameeli na Malkiya."
+        }
+      ]
     },
     "tpi": {
-      "preferred_label": "king"
+      "preferred_label": "Hamelek",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hamelek (em 'king'), em i wanpela man i bin stap long taim bilong kingdom i brukbruk, em Baibel i kolim pastaim long Jeremaia 36:26, na em i papa bilong Jeramel na Malkia."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "هملِك",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "هملِك، والبيشار ليه كمان بـ «الملك»، كان راجل عايش في زمن المملكة المقسومة، اتذكر أول مرة في إرميا 36: 26، وكان أبو يرحمئيل وملكيّا."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Hamelek",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hamelek, we oli talem tu se 'king', hem i wan man we i laef long taem blong dividet kingdom, we faswan tokbaot hem i stap long Jeremaea 36:26, mo hem i papa blong Jeramehel mo Malkia."
+        }
+      ]
+    },
+    "fra": {
+      "preferred_label": "Hammélec",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hammélec, également désigné comme « le roi », était un homme vivant à l’époque du royaume divisé, mentionné pour la première fois dans Jérémie 36:26, et père de Jerachmeel et de Malkija."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "हम्मेलेक",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "हम्मेलेक (जिसे 'राजा' भी कहा गया है) विभाजित राज्य के समय का एक व्यक्ति था, जिसका उल्लेख पहली बार यिर्मयाह 36:26 में मिलता है, और वह यरहमेल तथा मल्किय्याह का पिता था।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Hamelek",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hamelek, nke a na-akpọkwa 'eze', bụ nwoke biri nʼoge alaeze kewara ekewa, nke a kpọtụrụ aha na mbụ nʼime Jeremaya 36:26, ma bụrụ nna Jerameel na Malkija."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "हम्मेलक",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "हम्मेलक, जसलाई 'राजा' पनि भनिन्छ, विभाजित राज्यको समयमा बाँचेका एक व्यक्ति थिए, जसको पहिलो पटक यर्मिया ३६:२६ मा उल्लेख गरिएको छ, र तिनी यरहमेल र मल्कियाहका पिता थिए।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Гаммелех",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Гаммелех (буквально «царь») — человек, живший во времена разделённого царства, впервые упомянутый в Иеремии 36:26; отец Иерамеила и Малхии."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Ham-mê-léc",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ham-mê-léc, cũng được gọi là 'vua' (trong tiếng Hê-bơ-rơ là hammelech, nghĩa là nhà vua), là một người sống vào thời kỳ vương quốc phân chia, được nhắc đến lần đầu trong Giê-rê-mi 36:26, và là cha của Giê-rác-mê-ên cùng Manh-ki-gia."
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "哈米勒",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "哈米勒（亦作「王」）是生活在王國分裂時期的一名男子，在耶利米書 36:26 中首次被提及，是耶拉篾和瑪基雅的父親。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

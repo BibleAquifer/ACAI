@@ -21,16 +21,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "preguntar"
+      "preferred_label": "pedir (solicitar)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Decir que se quiere o necesita algo, o hacer una pregunta."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "demande"
+      "preferred_label": "demander (requête)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Dire que l’on désire ou que l’on a besoin de quelque chose, ou poser une question."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "meminta"
+      "preferred_label": "meminta (meminta)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mengatakan bahwa Anda menginginkan atau membutuhkan sesuatu, atau mengajukan pertanyaan."
+        }
+      ]
     },
-    "por-Br": {
-      "preferred_label": "perguntar"
+    "por": {
+      "preferred_label": "pedir (solicitar)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Dizer que deseja ou precisa de algo, ou fazer uma pergunta."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "سأل (طلب)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "إنك تقول إنك داير أو محتاج حاجة، أو تسأل سؤال."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "سُؤَال (طَلَب)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "أَنْ تَقُولَ إِنَّكَ تُرِيدُ شَيْئًا أَوْ تَحْتَاجُ إِلَيْهِ، أَوْ أَنْ تَطْرَحَ سُؤَالًا."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Askem (Rikwes)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Blong talem se yu wantem o nidim wan samting o blong askem wan kwestin."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Tambaya (Roƙo)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Faɗin cewa kana so ko kana bukatar wani abu, ko kuma yin tambaya."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "माँगना (निवेदन करना)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "यह कहना कि आपको किसी चीज़ की ज़रूरत या चाह है, अथवा कोई प्रश्न पूछना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ịrịọ (Arịrịọ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ikwu na ị chọrọ ma ọ bụ chọọ otu ihe, ma ọ bụ ịjụ ajụjụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "माग्नु (अनुरोध गर्नु)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "आफूलाई केही चाहिएको छ भनी बताउनु वा प्रश्‍न सोध्नु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Просить (спрашивать)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Говорить о том, что вам что-то нужно или хочется, либо задавать вопрос."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kuuliza (Kuomba)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kusema kwamba unataka au unahitaji kitu, au kuuliza swali."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "askim (singautim)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Long tokaut olsem yu laikim o nidim wanpela samting o long askim wanpela kwesten."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Xin (Yêu cầu)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Nói rằng bạn muốn hoặc cần điều gì đó, hoặc đặt một câu hỏi."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "求（请求）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "表示想要或需要某物，或者提出问题。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "求（請求）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "表示你想要或需要某樣事物，或是提出詢問。"
+        }
+      ]
     }
   },
   "referred_to_as": [
