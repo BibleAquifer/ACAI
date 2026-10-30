@@ -28,7 +28,9 @@ In most applications (“where are all the places ‘Abraham’ occurs in the Bi
 
 # Descriptions
 
-Each record contains a `localizations` object that contains a `preferred_label` and a `description`. The `description` is a curated, free-text description of the entity. The JSON records support localization and in the future may have material in languages beside English.
+Each record contains a `localizations` object that contains a `preferred_label` and a `description`. The `description` is a curated, free-text description of the entity. <!-- LOCALIZATIONS -->
+The JSON records support localization. Localized strings are kept under `localizations`, keyed by ISO 639-3 code, and each language can hold a `preferred_label`, `alternate_labels` and `descriptions`. Languages in this data besides English: Arabic (`arb`), Bislama (`bis`), Chinese (Simplified) (`zhs`), Chinese (Traditional) (`zht`), French (`fra`), Hausa (`hau`), Hindi (`hin`), Igbo (`ibo`), Indonesian (`ind`), Nepali (`nep`), Portuguese (`por`), Russian (`rus`), Spanish (`spa`), Sudanese Arabic (`apd`), Swahili (`swh`), Tok Pisin (`tpi`), Vietnamese (`vie`). Chinese is stored as `zhs` (Simplified) and `zht` (Traditional).
+<!-- END LOCALIZATIONS -->
 
 # Included Data
 

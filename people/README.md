@@ -84,7 +84,7 @@ and the referent data information can only be considered to be an initial draft.
 
 ## JSON Schema Documentation
 
-This documentation represents the current (as of 2024-01-22) schema and is based on the Python dataclasses used 
+This documentation represents the current (as of 2026-10-30) schema and is based on the Python dataclasses used 
 while processing the place-specific data. We will do our best to keep this up to date, but there may be discrepancies.
 
 ### AcaiPersonEntry
@@ -105,7 +105,7 @@ while processing the place-specific data. We will do our best to keep this up to
 <tr><td>related_places</td><td>dict[str, list]</td><td>a dictionary listing places related to the person, with `str` indicating the reason of relation (supported include `birth_place` and `death_place`) with a list of relevant `place:` ids.</td></tr>
 <tr><td>ubsdbg</td><td>list</td><td>a list of domain.article (##.##) strings representing the UBSDBG annotation</td></tr>
 <tr><td>ubsdbh</td><td>list</td><td>a list of strings representing the article identifier(s) from UBSDBH</td></tr>
-<tr><td>localizations</td><td>dict[str, dict[str, list]]</td><td>an object for collecting strings and other structures by language for localization purposes. This is where `preferred_label`, `alternate_labels`, and `description` are collected.</td></tr>
+<tr><td>localizations</td><td>dict[str, dict[str, list]]</td><td>an object for collecting strings by language for localization purposes, keyed by ISO 639-3 code (`eng` is the source language). Each language holds a `preferred_label`, an optional list of `alternate_labels`, and a list of `descriptions` (each with a `source` and a `description`).</td></tr>
 <tr><td>referred_to_as</td><td>list</td><td>a list of `id` for people that are considered functionally equivalent</td></tr>
 <tr><td>possibly_same_as</td><td>list</td><td>a list of `id` for people that may be the same. This is less sure that `referred_to_as`.</td></tr>
 <tr><td>mentioned_in_bible</td><td>bool</td><td>If `TRUE` this person is mentioned in the Bible (note: "Bible" includes the canon of the protestant edition of the NRSV with apocrypha).</td></tr>
