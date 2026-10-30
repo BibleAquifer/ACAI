@@ -17,18 +17,159 @@
       ]
     },
     "spa": {
-      "preferred_label": "condenación"
+      "preferred_label": "sentencia de condenación",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Decisión oficial de que alguien es culpable y debe ser castigado."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "sentence"
+      "preferred_label": "sentence de condamnation",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Décision officielle déclarant qu'une personne est coupable et doit être punie."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "hukuman"
+      "preferred_label": "hukuman penghukuman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Keputusan resmi bahwa seseorang bersalah dan harus dihukum."
+        }
+      ]
     },
     "por": {
       "preferred_label": "sentença de condenação",
       "alternate_labels": [
         "condenação"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma decisão oficial de que alguém é culpado e deve ser punido."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "حُكُم إدانة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "قرار رسمي بإنو زول مُذنب ولازم يتعاقب."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "حُكْمُ دَيْنونَةٍ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "قَرارٌ رَسْميٌّ بِأَنَّ شَخْصًا ما مُذْنِبٌ ويَجِبُ عِقابُهُ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "jajmen blong panis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan ofisel desisen we i soemaot se wan man i gat fol mo i mas kasem panis."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Hukuncin laifi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hukunci na a hukumance cewa wani yana da laifi kuma dole a hukunta shi."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "दंड की आज्ञा",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "एक औपचारिक निर्णय कि कोई दोषी है और उसे दंड मिलना चाहिए।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ikpe ọmụma",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mkpebi ikpe e mere nʼụzọ iwu kwadoro na mmadụ nwere ikpe ọmụma ma ga-anata ahụhụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "दण्डको आज्ञा",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कोही दोषी छ र सजाय पाउनुपर्छ भन्‍ने आधिकारिक निर्णय।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Осуждение",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Официальное решение о том, что кто-то виновен и должен быть наказан."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Hukumu ya Adhabu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uamuzi rasmi kwamba mtu ana hatia na anapaswa kuadhibiwa."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "kot i givim panisman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kot i mekim disisen olsem wanpela man i gat asua na em i mas kisim panisman."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Bản án kết tội",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Phán quyết chính thức rằng ai đó có tội và phải bị trừng phạt."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "定罪判决",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "判定某人有罪且必须受罚的官方判决。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "定罪的判決",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "判定某人有罪且必須受罰的正式判決。"
+        }
       ]
     }
   },

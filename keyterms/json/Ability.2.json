@@ -53,18 +53,159 @@
       ]
     },
     "spa": {
-      "preferred_label": "poder"
+      "preferred_label": "capacidad (poder)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "La fuerza o poder que alguien tiene para hacer algo o controlar una situación."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "puissance"
+      "preferred_label": "puissance (pouvoir)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Force ou pouvoir qu'a une personne de faire quelque chose ou de maîtriser une situation."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "kuasa"
+      "preferred_label": "kemampuan (kuasa)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kekuatan atau daya yang dimiliki seseorang untuk melakukan sesuatu atau mengendalikan suatu situasi."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "habilidade",
+      "preferred_label": "capacidade (poder)",
       "alternate_labels": [
         "poder"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A força ou poder que alguém tem para fazer algo ou controlar uma situação."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "قدرة (قوة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "القوة أو القدرة العند الزول عشان يعمل حاجة أو يتحكم في موقف."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "قُدْرَة (قُوَّة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "القوة أو المقدرة التي يمتلكها شخص ما لفعل شيء أو للسيطرة على موقف."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Paoa (Strong)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Paoa o strong we wan man i gat blong mekem wan samting o blong kontrolem wan samting."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Iko (Ƙarfi)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ƙarfi ko ikon da wani yake da shi na yin wani abu ko na mallake wani yanayi."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "सामर्थ्य (शक्ति)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "किसी कार्य को करने या किसी परिस्थिति को नियंत्रित करने के लिए किसी के पास जो बल या शक्ति होती है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ike (Ikike)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ike ma ọ bụ ikike mmadụ nwere ime ihe ma ọ bụ ịchịkwa ọnọdụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "क्षमता (शक्ति)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै काम गर्ने वा कुनै परिस्थितिलाई नियन्त्रण गर्ने कसैसँग भएको बल वा शक्ति।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Сила (власть)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Сила или власть, которой обладает кто-либо, чтобы совершить действие или контролировать ситуацию."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Uwezo (Nguvu)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Nguvu au uwezo alio nao mtu wa kufanya jambo fulani au kutawala hali fulani."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Strong (Pawa)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Strong wanpela i gat bilong mekim wanpela samting o bilong bosim wanpela hevi o sindaun."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Năng lực (Quyền năng)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sức mạnh hoặc quyền năng mà một người có để làm điều gì đó hoặc kiểm soát một tình huống."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "能力 (力量)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "某人做某事或控制某种局面所具有的力量或能力。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "能力（力量）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "某人做某事或掌控局勢所擁有的力量或能力。"
+        }
       ]
     }
   },

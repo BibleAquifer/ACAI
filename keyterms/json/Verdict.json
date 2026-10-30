@@ -20,18 +20,159 @@
       ]
     },
     "spa": {
-      "preferred_label": "sentencia"
+      "preferred_label": "sentencia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Decisión oficial tomada por un juez o tribunal acerca de la culpabilidad o inocencia de alguien."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "sentence (de mort)"
+      "preferred_label": "verdict",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Décision officielle prise par un juge ou un tribunal concernant la culpabilité ou l'innocence de quelqu'un."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "hukuman"
+      "preferred_label": "putusan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Keputusan resmi yang dibuat oleh hakim atau pengadilan mengenai bersalah atau tidaknya seseorang."
+        }
+      ]
     },
     "por": {
       "preferred_label": "veredicto",
       "alternate_labels": [
         "sentença"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma decisão oficial tomada por um juiz ou tribunal a respeito da culpa ou inocência de alguém."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "حكم",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "قرار رسمي يصدرو قاضي أو محكمة بخصوص إدانة شخص أو براءتو."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "حُكْم",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "قرار رسمي يصدره قاضٍ أو محكمة بشأن إدانة شخص ما أو براءته."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "desisen blong kot",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan ofisol desisen we wan jaj no wan kot i mekem long saed blong fasin blong man se hem i gilti no i no gat fols."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Yanke hukunci",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hukunci na hukuma da alƙali ko kotu ta yanke game da laifin wani ko rashin laifinsa."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "फैसला",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "किसी व्यक्ति के दोष या निर्दोषता के विषय में किसी न्यायाधीश या न्यायालय द्वारा किया गया आधिकारिक निर्णय।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Mkpebi ikpe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mkpebi iwu nke onye ikpe ma ọ bụ ụlọ ikpe mere banyere ikpe mara mmadụ ma ọ bụ na aka ya dị ọcha."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "फैसला",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै व्यक्तिको दोष वा निर्दोषताको बारेमा न्यायाधीश वा अदालतद्वारा गरिएको आधिकारिक निर्णय।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Приговор",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Официальное решение, вынесенное судьей или судом относительно виновности или невиновности человека."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Uamuzi wa Mahakama",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uamuzi rasmi unaotolewa na hakimu au mahakama kuhusu hatia au kutokuwa na hatia kwa mtu."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "tok kot",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ofisel disisen bilong jas o kot bilong makim olsem wanpela man i gat asua o i no gat asua."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Bản án",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Phán quyết chính thức của quan tòa hoặc tòa án về việc ai đó có tội hay vô tội."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "判决",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "法官或法庭就某人有罪或无罪作出的正式判决。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "判決",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "法官或法庭就某人有罪或無罪所作出的正式判決。"
+        }
       ]
     }
   },

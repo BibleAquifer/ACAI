@@ -26,16 +26,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "medio kilómetro"
+      "preferred_label": "camino de un día de reposo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "La distancia máxima que se le permitía viajar a una persona en el día de reposo, aproximadamente medio kilómetro o un kilómetro."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "à une demi, heure de marche"
+      "preferred_label": "chemin d’un sabbat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Distance maximale qu’une personne était autorisée à parcourir le jour du sabbat, soit environ un kilomètre."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "seperjalanan sabat"
+      "preferred_label": "seperjalanan Sabat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Jarak terjauh yang diizinkan bagi seseorang untuk bepergian pada hari Sabat, sekitar setengah mil atau satu kilometer."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "half a mile"
+      "preferred_label": "caminho de um sábado",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "A distância máxima que uma pessoa tinha permissão de percorrer no sábado, cerca de um quilômetro ou meia milha."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "سفر يوم السبت",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "أبعد مسافة كان مسموح للزول يسافرها في يوم السبت، حوالي نص ميل ولا كيلومتر واحد."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "سفر سبت",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "أقصى مسافة كان يُسمح للشخص بقطعها في يوم السبت، وهي نحو نصف ميل أو كيلومتر واحد."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Wokbaot long Sabat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Longfala rod we wan man i gat raet blong wokbaot long Sabat, we i olsem wan kilomita o haf mael."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Tafiyar Asabbaci",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mafi nisan da aka yarda mutum ya yi tafiya a ranar Asabbaci, wajen rabin mil ko kilomita ɗaya."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "सब्त के दिन की यात्रा",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "सब्त के दिन किसी व्यक्ति को यात्रा करने की अनुमति दी गई अधिकतम दूरी, जो लगभग आधा मील या एक किलोमीटर थी।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ije nke ụbọchị Izuike",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ebe kachasị anya e kwere ka mmadụ gaa nʼụbọchị Izuike, ihe dị ka ọkara maịl ma ọ bụ otu kilomita."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "शबाथको यात्रा",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "शबाथको दिनमा कुनै व्यक्तिलाई यात्रा गर्न अनुमति दिइएको सबैभन्दा टाढाको दूरी, लगभग आधा माइल वा एक किलोमिटर।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "путь субботнего дня",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Наибольшее расстояние, которое разрешалось пройти человеку в субботу, около полумили или одного километра."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Mwendo wa siku ya Sabato",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Umbali mrefu zaidi ambao mtu aliruhusiwa kusafiri katika siku ya Sabato, takriban nusu maili au kilomita moja."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Wokabaut Bilong Sabat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Longpela rot wanpela man inap wokabaut long de Sabat, inap olsem wanpela kilomita o hap mail."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Đường đi một ngày Sa-bát",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Quãng đường xa nhất mà một người được phép đi lại trong ngày Sa-bát, khoảng nửa dặm hoặc một cây số."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "安息日可走的路程",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "安息日允许人出行的最远距离，大约半英里或一公里。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "安息日可走的路程",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "安息日允許人行走的最遠距離，大約半英里或一公里。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

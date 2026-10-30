@@ -23,16 +23,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "aprobado"
+      "preferred_label": "aprobado",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Aceptado como bueno y digno de confianza tras ser probado cuidadosamente."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "approuvé"
+      "preferred_label": "approuvé",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Reconnu comme bon et digne de confiance après avoir été soigneusement mis à l’épreuve."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "tahan uji"
+      "preferred_label": "tahan uji",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Diterima sebagai baik dan dapat dipercaya setelah diuji dengan saksama."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "aprovado"
+      "preferred_label": "aprovado",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Aceito como bom e confiável após ter sido cuidadosamente testado."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "مُزكّى",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "مقبول كصالح وجدير بالثقة بعد امتحانه بعناية."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "مُزَكًّى",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "مَقْبولٌ بِوَصْفِهِ صالِحًا وَجَديرًا بِالثِّقَةِ بَعْدَ اخْتِبارِهِ بِعِنايَةٍ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "stret long fes blong God",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "We oli akseptem se i gud mo oli save trastem afta we oli jekem gud."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Yardajje",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanda aka yarda da shi a matsayin mai kyau kuma abin dogara bayan an gwada shi sosai."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "ग्रहणयोग्य",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "बारीकी से जांचे जाने के बाद अच्छा और भरोसेमंद स्वीकार किया गया।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Onye a nabatara",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Onye a nabatara dị ka onye dị mma ma kwesị ntụkwasị obi mgbe a nwalere ya nke ọma."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "स्वीकृत",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "जाँच गरिसकेपछि असल र विश्‍वासयोग्य भनी स्वीकार गरिएको।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "испытанный",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Признанный добрым и надежным после тщательного испытания."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kukubaliwa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kukubalika kuwa mwema na anayeaminika baada ya kujaribiwa kwa makini."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "man God i laikim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ol i traim pinis na lukim em i gutpela na em i man tru bilong bilip long en."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "được chấp thuận",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Được chấp nhận là tốt đẹp và đáng tin cậy sau khi đã được thử nghiệm kỹ càng."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "经得起考验",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "经过仔细考验而被接纳为良善且值得信赖。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "蒙稱許",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "經受嚴格考驗後，被認可為良善且值得信賴。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

@@ -17,18 +17,159 @@
       ]
     },
     "spa": {
-      "preferred_label": "deber"
+      "preferred_label": "deber",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tener la necesidad de pagar o devolver algo porque se recibió anteriormente."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "devoir (qch) à [qqn]"
+      "preferred_label": "devoir",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Avoir besoin de payer ou de rendre quelque chose parce qu'on l'a reçu auparavant."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "berhutang"
+      "preferred_label": "berutang",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Keharusan untuk membayar atau mengembalikan sesuatu karena telah menerimanya sebelumnya."
+        }
+      ]
     },
     "por": {
       "preferred_label": "dever",
       "alternate_labels": [
         "ter dívida para com alguém"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Precisar pagar ou devolver algo porque você recebeu isso anteriormente."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "مديون",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "تكون محتاج تدفع أو ترجّع حاجة لأنك أخدتها قبل كدا."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "مَدْيُون",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "أَنْ يَكُونَ عَلَيْكَ دَيْنٌ يَلْزَمُكَ سَدَادُهُ أَوْ إِرْجَاعُ شَيْءٍ أَخَذْتَهُ مِنْ قَبْلُ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "gat kaon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fasin blong mas pem no givimbak wan samting from we yu bin karem fastaem."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Bin bashi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Bukatar biya ko mayar da wani abu saboda ka karɓe shi a dā."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "कर्जदार होना",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "किसी चीज़ का भुगतान करने या वापस लौटाने की आवश्यकता होना क्योंकि आपने इसे पहले प्राप्त किया था।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "ijide ụgwọ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ịdị mkpa ịkwụghachi ma ọ bụ inyeghachi ihe nʼihi na ị natara ya na mbụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "ऋणी हुनु",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "पहिले प्राप्त गरिसकिएकाले तिर्न वा फिर्ता दिन बाँकी रहनु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "быть должным",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Необходимость заплатить или вернуть что-либо, потому что вы получили это ранее."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kudaiwa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kuhitaji kulipa au kurudisha kitu kwa sababu ulikipokea hapo awali."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "gat dinau",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wok bilong bekim o givim bek wanpela samting bikos yu bin kisim bipo."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Mắc nợ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Cần phải trả hoặc hoàn lại một điều gì đó vì trước đây bạn đã nhận."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "欠",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "指因先前领受过而需要偿还或归还某物。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "虧欠",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "因先前領受而需要償還或歸還某些事物。"
+        }
       ]
     }
   },

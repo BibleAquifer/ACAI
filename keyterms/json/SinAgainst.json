@@ -20,18 +20,159 @@
       ]
     },
     "spa": {
-      "preferred_label": "quedar comprometido"
+      "preferred_label": "pecar contra",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hacer algo malo a otra persona, lo cual genera la responsabilidad moral de repararlo."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "tenu"
+      "preferred_label": "pécher contre",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Faire du tort à une autre personne, ce qui crée la responsabilité morale de réparer cette faute."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "terikat pada sumpah"
+      "preferred_label": "berbuat dosa terhadap",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Melakukan sesuatu yang salah terhadap orang lain, yang menimbulkan tanggung jawab moral untuk memperbaikinya."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "pecar contra",
+      "preferred_label": "Pecar contra",
       "alternate_labels": [
         "ter a obrigação de"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fazer algo de errado contra outra pessoa, gerando a responsabilidade moral de reparar o erro."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "يغلط في حق",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "عمل حاجة غلط ضد زول تاني، وده بيعمل مسؤولية أدبية عشان تتصلّح."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "أَخْطَأَ بِحَقِّ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ارْتِكابُ أَمْرٍ خاطِئٍ بِحَقِّ شَخْصٍ آخَرَ، مِمَّا يُوجِدُ مَسْؤوليَّةً أَدَبيَّةً لِإِصْلاحِهِ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Mekem Sin Agensim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mekem wan samting we i rong agensim wan narafala man, we i mekem se man i gat wok blong stretim bakegen."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Yin Zunubi Ga",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Yin wani abu ba daidai ba ga wani mutum, wanda ke jawo hakkin ɗabi’a na a gyara shi."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "के विरुद्ध पाप करना",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "किसी अन्य व्यक्ति के प्रति कुछ गलत करना, जिससे उसे ठीक करने का नैतिक उत्तरदायित्व बनता है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Imehie Megide",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ime ihe na-ezighị ezi megide onye ọzọ, nke na-eweta ọrụ dịịrị mmadụ ime ka ihe ahụ dị mma."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "विरुद्धमा पाप गर्नु",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै अर्को व्यक्तिप्रति कुनै खराब काम गर्नु, जसले त्यसलाई ठीक पार्ने नैतिक दायित्व सिर्जना गर्दछ।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Согрешить против",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Причинить зло другому человеку, что порождает моральную ответственность загладить вину."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kukosea",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kumtendea mtu mwingine jambo baya, jambo linalozua wajibu wa kimaadili wa kulirekebisha."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Mekim Rong Long",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mekim wanpela rong long narapela manmeri, em i save kamapim asua na wok bilong stretim dispela rong."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Phạm tội cùng",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Làm điều sai trái đối với một người khác, gây nên trách nhiệm đạo đức phải bồi thường hoặc sửa sai."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "得罪",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "指冒犯或亏负他人，从而产生需要予以赔补或挽回的道德责任。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "得罪",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "對他人做出不當的行為，從而產生道德責任需要予以彌補。"
+        }
       ]
     }
   },

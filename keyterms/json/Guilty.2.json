@@ -18,13 +18,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "culpable"
+      "preferred_label": "culpable",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Haber hecho algo malo y ser responsable de ello."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "coupable"
+      "preferred_label": "coupable",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Qui a commis une mauvaise action et en porte la responsabilité."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "bersalah"
+      "preferred_label": "bersalah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Telah melakukan sesuatu yang salah dan bertanggung jawab atas hal tersebut."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "مذنب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "كون الزول عمل حاجة غلط وبقى مسؤول عنها."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "مُذْنِب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "مَنْ ٱرْتَكَبَ خَطَأً وَتَحَمَّلَ مَسْؤُولِيَّتَهُ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Gat fol",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "We i bin mekem wan samting i rong mo i karem fol from."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Mai laifi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kasancewa da alhakin aikata wani abu da ba daidai ba."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "दोषी",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुछ गलत किया होना और उसके लिए उत्तरदायी होना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ikpe mara",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ime ihe na-ezighị ezi na ịbụ onye na-aza ajụjụ maka ya."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "दोषी",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै गलत काम गरेको र त्यसको निम्ति जिम्मेवार भएको।"
+        }
+      ]
+    },
+    "por": {
+      "preferred_label": "culpado",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ter feito algo errado e ser responsável por isso."
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Виновный",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Совершивший проступок и несущий за него ответственность."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Mwenye hatia",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kuwa ametenda kosa na kuwajibika kwalo."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Gat rong",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "I bin mekim wanpela samting i no stret na i gat asua long dispela pasin."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Có tội",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Đã làm điều sai trái và phải chịu trách nhiệm về điều đó."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "有罪的",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "做了错事并对此负有责任。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "有罪的",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "犯了錯並對其負有責任。"
+        }
+      ]
     }
   },
   "referred_to_as": [

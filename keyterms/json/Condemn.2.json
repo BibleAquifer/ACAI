@@ -18,16 +18,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "condenar"
+      "preferred_label": "condenar (declarar culpable)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Determinar que alguien es culpable y merece castigo."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "condamner"
+      "preferred_label": "condamner (juger coupable)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Décider que quelqu'un est coupable et mérite d'être puni."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "menghukum"
+      "preferred_label": "menghukum (menyatakan bersalah)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Memutuskan bahwa seseorang bersalah dan patut dihukum."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "condenar"
+      "preferred_label": "condenar (julgar culpado)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Decidir que alguém é culpado e merece punição."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "يدين (الحكم بالذنب)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "أن يتقرر إنو الزول مدان وبيستحق العقاب."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "يَدِينُ (يَحْكُمُ بِٱلذَّنْبِ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "الْحُكْمُ بِأَنَّ شَخْصًا مَا مُذْنِبٌ وَيَسْتَحِقُّ الْعِقَابَ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Jajem se i mas panis (Jajem se i gat fol)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Blong disaed se wan man i gat fol mo i mas kasem panis."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Hukunta (Yanke wa Laifi)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Yanke shawara cewa wani yana da laifi kuma ya cancanci hukunci."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "दोषी ठहराना (दोषी निर्णय करना)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "यह निर्णय करना कि कोई व्यक्ति दोषी है और दंड पाने के योग्य है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ịma ikpe (ikpe ikpe dị ka onye nwere mmehie)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ikwu na mmadụ nwere ikpe ma kwesịkwa ịnata ahụhụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "दोषी ठहराउनु (दोषी ठहर गर्नु)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कोही दोषी छ र दण्ड पाउन योग्य छ भनी ठहर गर्नु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Осуждать (признавать виновным)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Признавать кого-либо виновным и заслуживающим наказания."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Hukumu (Kupata na Hatia)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kutoa uamuzi kwamba mtu ana hatia na anastahili adhabu."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Kotim na makim bilong kisim strafe (Skelim olsem i gat asua)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tingting na tokaut olsem wanpela man i gat asua o rong na i stret long kisim strafe."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Kết tội (phán quyết có tội)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Phán quyết rằng một người nào đó có tội và đáng bị trừng phạt."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "定罪 (判定有罪)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "判定某人有罪并应当受罚。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "定罪 (判定有罪)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "判定某人有罪並應受懲罰。"
+        }
+      ]
     }
   },
   "referred_to_as": [

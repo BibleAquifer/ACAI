@@ -17,13 +17,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "castigo"
+      "preferred_label": "castigo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pena impuesta a alguien por haber hecho algo malo."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "punition"
+      "preferred_label": "punition",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Peine infligée à quelqu'un pour avoir commis une faute."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "hukuman"
+      "preferred_label": "hukuman",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hukuman yang diberikan kepada seseorang karena melakukan sesuatu yang salah."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "عقاب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "عقوبة بتتعطى لزول عشان عمل حاجة غلط."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "عقاب",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "عقوبة تُفرض على شخص بسبب ارتكابه خطأً."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "panis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan panis we man i kasem from we hem i mekem wan samting we i rong."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Hukunci",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hukuncin da ake yi wa wani saboda ya aikata wani abu marar kyau."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "दंड",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुछ गलत करने के कारण किसी को दिया जाने वाला दंड।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ahụhụ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ahụhụ e nyere mmadụ nʼihi ime ihe ọjọọ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "दण्ड",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "गलत काम गरेको कारण कसैलाई दिइने सजाय वा दण्ड।"
+        }
+      ]
+    },
+    "por": {
+      "preferred_label": "punição",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma penalidade aplicada a alguém por ter feito algo errado."
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Наказание",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Возмездие или кара, налагаемая на кого-либо за совершенный проступок."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Adhabu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Adhabu anayopewa mtu kwa sababu ya kufanya kosa."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Kisim hevi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela hevi o pe manmeri i kisim bikos ol i bin mekim rong."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Hình phạt",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hình phạt dành cho ai đó vì đã làm điều sai trái."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "惩罚",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "因做错事而受到的惩罚或处罚。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "懲罰",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "因某人做了錯事而給予的懲戒或處罰。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

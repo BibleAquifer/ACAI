@@ -22,16 +22,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "tumor"
+      "preferred_label": "tumores",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hinchazones o llagas en el cuerpo que causan dolor y debilidad, a menudo debidas a infecciones graves."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "tumeurs"
+      "preferred_label": "tumeurs",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Enflures ou plaies à l'intérieur du corps qui provoquent douleur et faiblesse, souvent dues à de graves infections."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "tumor"
+      "preferred_label": "borok",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pembengkakan atau bisul di tubuh yang menimbulkan rasa sakit dan kelemahan, sering kali akibat infeksi serius."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "hemorrhoid"
+      "preferred_label": "tumores",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Inchaço ou feridas no interior do corpo que causam dor e fraqueza, muitas vezes decorrentes de infecções graves."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "أورام",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ورم أو دمامل جوة الجسم بتسبب ألم وضعف، وغالباً بتكون من التهابات شديدة."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "بواسير",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "تورمات أو قروح داخل الجسم تسبب ألمًا وضعفًا، وغالبًا ما تنجم عن التهابات خطيرة."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "ol boela we i solap",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Solap o soa insaed long bodi we i mekem man i harem nogud mo i slak, we plante taem i kamaot from ol sik we oli stap spolem bodi."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Marurai",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kumburi ko gyambuna a jiki da suke haifar da ciwo da rauni, sau da yawa daga cututtuka masu tsanani."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "गिलटियाँ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "शरीर के भीतर होने वाली सूजन या घाव जो दर्द और कमजोरी का कारण बनते हैं, जो अक्सर गंभीर संक्रमणों से होते हैं।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Etuto",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ọzịza ma ọ bụ ọnya dị nʼime ahụ nke na-akpata mgbu na ike ọgwụgwụ, na-esikarị nʼọrịa dị oké njọ pụta."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "गिर्खा",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "प्रायः गम्भीर सङ्क्रमणका कारण शरीरभित्र वा बाहिर देखिने सुजन वा घाउ, जसले पीडा र कमजोरी निम्त्याउँछ।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Наросты",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Опухоли, язвы или наросты на теле, вызывающие боль и слабость, часто возникающие вследствие тяжелых заболеваний."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Majipu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uvimbe au vidonda ndani ya mwili vinavyosababisha maumivu na udhaifu, mara nyingi kutokana na maambukizi makubwa."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Ol buk nogut",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ol buk o sua i save kamap insait o long skin bilong bodi na givim bikpela pen na mekim bodi i slek, planti taim em i kamap long ol bikpela sik."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "khối u",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Chỗ sưng phồng hoặc lở loét bên trong cơ thể gây đau đớn và suy nhược, thường do nhiễm trùng nặng."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "肿瘤",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "体内引起的疼痛和虚弱的肿块或疮，通常源于严重感染。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "痔瘡",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "體內引起疼痛和虛弱的腫脹或潰瘡，通常由嚴重感染引起。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

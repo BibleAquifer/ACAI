@@ -22,18 +22,159 @@
       ]
     },
     "spa": {
-      "preferred_label": "escritura"
+      "preferred_label": "escrito (sustancia)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Los escritos sagrados del Antiguo Testamento o una parte específica de esos escritos."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "scripture"
+      "preferred_label": "Écritures (substance)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Les écrits sacrés de l'Ancien Testament ou une partie spécifique de ces écrits."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "kitab suci"
+      "preferred_label": "Kitab Suci (Zat)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tulisan-tulisan suci dalam Perjanjian Lama atau bagian tertentu dari tulisan-tulisan tersebut."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "escrito",
+      "preferred_label": "Escrituras (substância)",
       "alternate_labels": [
         "escritura"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Os escritos sagrados no Antigo Testamento ou uma parte específica desses escritos."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "المكتوب (كلام مكتوب)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "الكتابات المقدسة في العهد القديم، ولا جزء معين من الكتابات دي."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "مَكْتُوب (مَادَّة)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ٱلْكِتَابَاتُ ٱلْمُقَدَّسَةُ فِي ٱلْعَهْدِ ٱلْقَدِيمِ أَوْ جُزْءٌ مُعَيَّنٌ مِنْ تِلْكَ ٱلْكِتَابَاتِ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Ol Tok blong Baebol (Raeting)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ol tabu raeting long Olfala Testeman o wan spesifik haf blong ol raeting ya."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Nassi (Abin da aka rubuta)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tsarkakan rubuce-rubuce na Tsohon Alkawari ko kuma wani ɓangare na musamman na waɗancan rubuce-rubuce."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "पवित्रशास्त्र (लिखित)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "पुराने नियम के पवित्र लेख या उन लेखों का कोई विशिष्ट भाग।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Akwụkwọ Nsọ (Ihe a kwadebere)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ihe odide nsọ dị na Agba Ochie ma ọ bụ akụkụ a kapịrị ọnụ nke ihe odide ndị ahụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "धर्मशास्त्र (लेखोट)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "पुरानो नियमका पवित्र लेखहरू वा ती लेखहरूको कुनै निश्चित भाग।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Писание (текст)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Священные тексты Ветхого Завета или определенная часть этих писаний."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Maandiko (Asili)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Maandiko matakatifu katika Agano la Kale au sehemu maalum ya maandiko hayo."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "buk bilong God (samting i stap)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ol buk holi bilong Olpela Testamen o wanpela hap bilong ol dispela rait."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Kinh Thánh (chữ viết)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Các trước tác thánh trong Cựu Ước hoặc một phần cụ thể của các trước tác đó."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "经卷 (实体)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "旧约圣经中的神圣著作，或这些著作的某一部分。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "經卷（實體）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "舊約聖經中的神聖著作，或這些著作中的某個特定部分。"
+        }
       ]
     }
   },

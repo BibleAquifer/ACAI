@@ -30,16 +30,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "nombre"
+      "preferred_label": "nombre",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Palabra que se usa para identificar a una persona, objeto o grupo, indicando quién o qué es."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "nom"
+      "preferred_label": "nom",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mot servant à identifier une personne, un objet ou un groupe, indiquant qui ou ce qu'il est."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "nama"
+      "preferred_label": "nama",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kata yang digunakan untuk mengenali seseorang, benda, atau kelompok, yang menunjukkan siapa atau apakah mereka."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "nome"
+      "preferred_label": "nome",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Palavra usada para identificar uma pessoa, objeto ou grupo, revelando quem ou o que são."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "اسم",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "كلمة بتستعمل عشان تحدد شخص أو شي أو جماعة، وتبين منو هم أو شنو هم."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "اسم",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "كلمة تُستخدم لتعريف شخص أو شيء أو جماعة، وتُبين هويته أو ماهيته."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Nem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan tok we yumi yusum blong singaotem wan man, samting, o grup, we i soemaot huia o wanem samting ya."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Suna",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kalmar da ake amfani da ita don gane mutum, abu, ko rukuni, tana nuna ko su waye ko kuma me suke."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "नाम",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "किसी व्यक्ति, वस्तु या समूह की पहचान के लिए प्रयुक्त एक शब्द, जो यह दर्शाता है कि वे कौन या क्या हैं।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Aha",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Okwu e ji mara onye, ihe, ma ọ bụ otu, na-egosi onye ha bụ ma ọ bụ ihe ha bụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "नाउँ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै व्यक्ति, वस्तु वा समूहको पहिचान गर्न र तिनीहरू को वा के हुन् भनी देखाउन प्रयोग गरिने शब्द।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Имя",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Слово, используемое для обозначения человека, предмета или группы и указывающее на то, кем или чем они являются."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Jina",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Neno linalotumiwa kumtambulisha mtu, kitu, au kikundi, likionyesha wao ni nani au kitu hicho ni nini."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Nem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela tok ol i yusim bilong makim wanpela manmeri, samting, o grup, na i soim ol i husat o wanem samting."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Tên (Danh)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một từ dùng để xác định một người, đồ vật hoặc nhóm, cho biết họ hoặc vật đó là ai hay là gì."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "名字",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "用来识别一个人、物体或群体，表明其身份或本质的词语。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "名",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "用來識別個人、事物或群體，以表明其身份或本質的詞語。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

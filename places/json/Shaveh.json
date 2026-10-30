@@ -36,28 +36,157 @@
       ]
     },
     "arb": {
-      "preferred_label": "شَوَى"
+      "preferred_label": "عمق شوى",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "وادٍ بالقرب من شاليم التقى فيه إبراهيم بملكي صادق (تكوين 14: 17)؛ ويُعرف أيضًا بعمق الملك."
+        }
+      ]
     },
     "zhs": {
-      "preferred_label": "沙微谷"
+      "preferred_label": "沙微谷",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "撒冷附近的一处山谷，亚伯拉罕曾在此处遇见麦基洗德（创世记 14:17）；也被称为王谷。"
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "vallée de Schavé"
+      "preferred_label": "vallée de Schavé",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Une vallée près de Salem où Abraham rencontra Melchisédek (Genèse 14.17) ; également connue sous le nom de vallée du roi."
+        }
+      ]
     },
     "hau": {
-      "preferred_label": "Shabe"
+      "preferred_label": "Kwarin Shabe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wani kwari kusa da Salem inda Ibrahim ya sadu da Melkisedek (Farawa 14:17); an kuma san shi da Kwarin Sarki."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "Syawe"
+      "preferred_label": "Lembah Syawe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sebuah lembah dekat Salem tempat Abraham bertemu Melkisedek (Kejadian 14:17); juga dikenal sebagai Lembah Raja."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "Vale de Savé"
+      "preferred_label": "Vale de Savé",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Um vale próximo a Salém onde Abraão se encontrou com Melquisedeque (Gênesis 14:17); também conhecido como o Vale do Rei."
+        }
+      ]
     },
     "spa": {
-      "preferred_label": "Shave"
+      "preferred_label": "Valle de Save",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Un valle cerca de Salem donde Abraham se encontró con Melquisedec (Génesis 14:17); también conocido como el valle del Rey."
+        }
+      ]
     },
     "swh": {
-      "preferred_label": "Shawe"
+      "preferred_label": "Bonde la Shawe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Bonde karibu na Salemu ambapo Abrahamu alikutana na Melkizedeki (Mwanzo 14:17); pia linajulikana kama Bonde la Mfalme."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "وادي شاوى",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "وادي قريب من ساليم قابل فيه إبراهيم ملكي صادق (تكوين 14: 17)؛ ومعروف كمان بوادي الملك."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Vali blong Sabe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan vali klosap long Salem we Ebraham i mitim Melkisedek long hem (Jenesis 14:17); we oli save long hem tu olsem Vali blong King."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "शावे की तराई",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "शालेम के निकट एक तराई जहाँ इब्राहीम की भेंट मेल्कीसेदेक से हुई थी (उत्पत्ति 14:17); इसे राजा की तराई भी कहा जाता है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ndagwurugwu Shave",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ndagwurugwu dị nso na Selẹm ebe Ebreham zutere Melkizedek (Jenesis 14:17); nke a makwaara dị ka Ndagwurugwu Eze."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "शावेको उपत्यका",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "सालेमनजिकैको एउटा उपत्यका जहाँ अब्राहामले मल्कीसेदेकलाई भेटेका थिए (उत्पत्ति १४:१७); राजाको उपत्यका भनेर पनि चिनिन्छ।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "долина Шаве",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Долина близ Салима, где Авраам встретил Мелхиседека (Бытие 14:17); также известная как Царская долина."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Ples Daun Save",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela ples daun klostu long Salem we Abraham i bin bungim Melkisedek (Stat 14:17); ol i save kolim tu olsem Ples Stret Bilong King."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Thung lũng Sa-ve",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một thung lũng gần Sa-lem nơi Áp-ra-ham gặp Mên-chi-xê-đéc (Sáng Thế Ký 14:17); cũng được gọi là Thung Lũng Của Vua."
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "沙微谷",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "位於撒冷附近的一個山谷，亞伯拉罕曾在此遇見麥基洗德（創世記 14:17）；又稱為王谷。"
+        }
+      ]
     }
   },
   "referred_to_as": [

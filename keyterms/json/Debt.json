@@ -19,16 +19,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "deuda"
+      "preferred_label": "deuda",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Algo que una persona debe devolver o pagar a otra."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "dette"
+      "preferred_label": "dette",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Chose qu'une personne doit rembourser ou donner à quelqu'un d'autre."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "utang"
+      "preferred_label": "utang",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sesuatu yang harus dibayar kembali atau diberikan seseorang kepada orang lain."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "dívida"
+      "preferred_label": "dívida",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Algo que uma pessoa deve pagar de volta ou entregar a outra pessoa."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "دَين",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حاجة لازم الزول يسددها أو يرجعها لزول تاني."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "دَيْن",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "شيء يجب على الشخص أن يرده أو يدفعه لشخص آخر."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Kaon",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan samting we man i mas pem bakegen no givim long narafala man."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Bashi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wani abu da dole mutum ya biya ko ya mayar wa wani."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "कर्ज",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ऐसी कोई बात जिसे किसी व्यक्ति को वापस चुकाना या किसी अन्य को देना होता है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ụgwọ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ihe mmadụ ji ụgwọ nke ọ ga-akwụghachi maọbụ nye onye ọzọ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "ऋण",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कसैले अर्को व्यक्तिलाई फिर्ता दिनुपर्ने वा बुझाउनुपर्ने कुरा।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "долг",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "То, что человек должен вернуть или отдать другому."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Deni",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kitu ambacho mtu lazima alipe au ampe mtu mwingine."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Dina",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela samting man i mas bekim o givim i go long narapela man."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Nợ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Điều mà một người phải hoàn trả hoặc trao cho người khác."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "债务",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "一个人必须偿还或归还给他人的东西。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "債務",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "一個人必須償還或歸還給他人的事物。"
+        }
+      ]
     }
   },
   "referred_to_as": [

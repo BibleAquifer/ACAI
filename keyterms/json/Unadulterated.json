@@ -20,16 +20,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "no adulterada"
+      "preferred_label": "no adulterado",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Completamente puro y no mezclado con ninguna otra cosa."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "sans mélange"
+      "preferred_label": "pur",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Complètement pur et sans mélange avec quoi que ce soit d'autre."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "murni"
+      "preferred_label": "murni",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Benar-benar murni dan tidak bercampur dengan apa pun."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "não adulterado"
+      "preferred_label": "não adulterado",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Completamente puro e não misturado com nada mais."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "صافي ما مغشوش",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حاجة نقية خالص وما مخلوطة بي أي شي تاني."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "عَدِيمُ الْغِشِّ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "نَقِيٌّ تَمَامًا وَغَيْرُ مَشُوبٍ بِأَيِّ شَيْءٍ آخَرَ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Klin gud we i no miks",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Samting we i klin gud olgeta mo i no miks wetem narafala samting nating."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Marar Gaɓo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mai tsarki sarai wanda ba a haɗa shi da wani abu dabam ba."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "अमिश्रित",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "पूरी तरह शुद्ध और किसी अन्य चीज़ से अमिश्रित।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Agwaghị agwa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ịdị ọcha kpamkpam na-agwaghị ihe ọbụla ọzọ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "मिसावट नभएको",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "पूर्ण रूपमा शुद्ध र अरू कुनै कुरा नमिसिएको।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Чистый",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Абсолютно чистый и не смешанный ни с чем другим."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Isiyoghushiwa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Safi kabisa na isiyochanganywa na kitu kingine chochote."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Klin Olgeta",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Klin olgeta na ol i no miksim wantaim wanpela narapela samting."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "không pha tạp",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hoàn toàn tinh khiết và không bị pha tạp bất cứ thứ gì khác."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "纯净",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "纯全且不掺杂任何杂质。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "純全無雜質",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "全然純淨，未摻雜任何其他雜質。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

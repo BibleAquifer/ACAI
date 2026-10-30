@@ -28,18 +28,159 @@
       ]
     },
     "spa": {
-      "preferred_label": "vacío"
+      "preferred_label": "vano",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Que no tiene nada adentro o que carece de valor o resultado."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "vide"
+      "preferred_label": "vide",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "N'avoir rien à l'intérieur ou être dépourvu de valeur ou d'effet."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "hampa"
+      "preferred_label": "hampa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tidak memiliki apa-apa di dalamnya atau tidak memiliki nilai maupun hasil apa pun."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "vazia",
+      "preferred_label": "vazio",
       "alternate_labels": [
         "vazio"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Não ter nada dentro ou ser desprovido de qualquer valor ou resultado."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "فاضي",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ما فيهو أي شي جواهو، أو خالي من أي فايدة أو نتيجة."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "باطل",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "خلو الشيء من أي محتوى بداخله أو افتقاره لأي قيمة أو نتيجة."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Blong nating nomo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "We i no gat wan samting long hem no i no gat eni impoten samting no frut blong hem."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Banza",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kasancewa ba kome a ciki ko rashin wata fa’ida ko sakamako."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "व्यर्थ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "भीतर कुछ न होना या किसी मूल्य अथवा परिणाम का अभाव होना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ihe efu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Enweghị ihe ọ bụla nʼime ma ọ bụ enweghị uru ma ọ bụ nsonaazụ ọ bụla."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "व्यर्थ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "भित्र केही नभएको वा कुनै मूल्य वा परिणाम नभएको (खोक्रो वा व्यर्थ)।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Тщетный",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Не имеющий ничего внутри или лишенный какой-либо ценности или результата."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Bure",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kutokuwa na chochote ndani au kukosa thamani au matokeo yoyote."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Samting nating",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "I no gat wanpela samting i stap insait long en, o i no gat gutpela pe o samting i kamap long en."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Hư không",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Không có gì bên trong hoặc thiếu đi giá trị hay kết quả."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "虚空",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "里面毫无所有，或缺乏任何价值及结果。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "徒然",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "裡面毫無內容，或缺乏任何價值或成效。"
+        }
       ]
     }
   },

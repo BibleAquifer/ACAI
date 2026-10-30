@@ -20,18 +20,159 @@
       ]
     },
     "spa": {
-      "preferred_label": "limpiar"
+      "preferred_label": "purgar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Eliminar toda la suciedad o las cosas malas para dejar algo limpio."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "nettoyer"
+      "preferred_label": "purger",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Enlever toute saleté ou mauvaise chose pour rendre quelque chose pur."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "membuang kejahatan"
+      "preferred_label": "membersihkan sampai tuntas",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Menyingkirkan segala kotoran atau hal buruk untuk menjadikannya bersih."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "purgar",
+      "preferred_label": "expurgar",
       "alternate_labels": [
         "limpar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Remover toda sujeira ou coisas más para tornar algo limpo."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "يطهر تماماً",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "إزالة كل الوساخة أو الحاجات البطالة عشان الشي يبقى نضيف."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "يُنَقِّي",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "إزالة كل دنس أو أمور رديئة لجعل الشيء طاهرًا ونظيفًا."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "tekemaot doti blong mekem i klin",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tekemaot evri doti no samting nogud blong mekem wan samting i kam klin."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Kawar da",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kawar da dukan datti ko munanan abubuwa domin a mayar da abu mai tsarki."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "निकाल फेंकना",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "किसी वस्तु को शुद्ध करने के लिए सारी गंदगी या बुरी बातों को निकाल फेंकना या दूर करना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Sachapụ kpamkpam",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Iwepụ unyi niile ma ọ bụ ihe ọjọọ iji mee ka ihe dị ọcha."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "शुद्ध पार्नु",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै कुरालाई शुद्ध पार्नका लागि सबै फोहोर वा खराब कुराहरू हटाउनु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "очищать",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Удалять всякую грязь или дурное, чтобы сделать что-либо чистым."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Ondoa kabisa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kuondoa uchafu wote au vitu vibaya ili kufanya kitu kuwa safi."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Rausim olgeta samting nogut",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pasin bilong rausim olgeta doti o ol samting nogut bilong mekim wanpela samting i kamap klin."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Tẩy trừ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Loại bỏ mọi điều nhơ bẩn hoặc xấu xa để làm cho một điều gì đó trở nên thanh sạch."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "除净",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "清除所有污秽或有害之物，以使某物洁净。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "除淨",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "除淨一切污垢或壞事，使之變得潔淨。"
+        }
       ]
     }
   },

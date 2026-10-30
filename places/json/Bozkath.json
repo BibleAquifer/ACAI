@@ -35,37 +35,157 @@
       ]
     },
     "fra": {
-      "preferred_label": "Botskath"
+      "preferred_label": "Botskath",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ville située dans les contreforts du territoire de Juda ; ville d’origine de Jedida, mère de Josias."
+        }
+      ]
     },
     "spa": {
-      "preferred_label": "Boscath"
+      "preferred_label": "Boscat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Un pueblo en las laderas del territorio de Judá; hogar de Jedida, madre de Josías."
+        }
+      ]
     },
     "arb": {
-      "preferred_label": "بَصْقَة"
+      "preferred_label": "بُصْقَة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "بلدة في سفوح تلال أرض يهوذا؛ موطن يديدة أم يوشيا."
+        }
+      ]
     },
     "zhs": {
-      "preferred_label": "波斯加"
+      "preferred_label": "波斯加",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "犹大领地丘陵地带的一座城镇；是约西亚的母亲耶底大的家乡。"
+        }
+      ]
     },
     "hau": {
-      "preferred_label": "Bozkat"
+      "preferred_label": "Bozkat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wani gari ne a kwaruruka na ƙasar Yahuda; garinsu Yedida, mahaifiyar Yosiya."
+        }
+      ]
     },
     "hin": {
-      "preferred_label": "बोस्कत"
+      "preferred_label": "बोस्कत",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "यहूदा के क्षेत्र की तराई का एक नगर; योशिय्याह की माता यदीदा का गृह-नगर।"
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "Bozkat"
+      "preferred_label": "Bozkat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sebuah kota di daerah kaki bukit di wilayah Yehuda; kampung halaman Yedida, ibu Yosia."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "Bozcate"
+      "preferred_label": "Bozcate",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma cidade na Sefelá (planície costeira) do território de Judá; terra natal de Jedida, mãe de Josias."
+        }
+      ]
     },
     "rus": {
-      "preferred_label": "Воцкаф"
+      "preferred_label": "Боцкафа",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Город в предгорьях удела Иуды; родина Иедиды, матери Иосии."
+        }
+      ]
     },
     "swh": {
-      "preferred_label": "Bozkathi"
+      "preferred_label": "Boskathi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mji ulioko katika sehemu ya vilima ya eneo la Yuda; mji wa nyumbani kwa Yedida, mama yake Yosia."
+        }
+      ]
     },
     "tpi": {
-      "preferred_label": "Boskat"
+      "preferred_label": "Boskat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela taun long ol liklik maunten bilong graun bilong Juda; asples bilong Jedida, mama bilong Josaia."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "بصقة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "بلدة في سفوح تلال أرض يهوذا؛ موطن يديدة أم يوشيا."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Boskat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan taon long ol hil long graon blong Juda; ples blong Jedida, mama blong Josaea."
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Bozkat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Otu obodo dị nʼugwu nta ndị dị nʼókèala Juda; ebe obibi Jedida, nne Josaya."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "बोस्कत",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "यहूदाको क्षेत्रको पहाडी फेदीमा रहेको एउटा सहर; योशियाहकी आमा यदीदाको जन्मस्थान।"
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Bốt-cát",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một thị trấn ở vùng đồi chân núi thuộc lãnh thổ Giu-đa; quê hương của Giê-đi-đa, mẹ vua Giô-si-a."
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "波斯加",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "猶大境內山麓丘陵地區的一座城鎮；約西亞的母親耶底大的家鄉。"
+        }
+      ]
     }
   },
   "tribal_area": "group:Judah",

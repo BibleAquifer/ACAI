@@ -20,16 +20,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "mandamiento"
+      "preferred_label": "mandamiento",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Regla dada por alguien con autoridad que debe ser obedecida."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "commandement"
+      "preferred_label": "commandement",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Règle donnée par une autorité et devant être respectée."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "perintah"
+      "preferred_label": "perintah",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Aturan yang diberikan oleh seseorang yang berwenang yang harus ditaati."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "mandamento"
+      "preferred_label": "mandamento",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Uma regra dada por alguém com autoridade que deve ser seguida."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "وصية",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حكم أو وصية بيديها زول عنده سلطة ولازم تتبعها الناس."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "وَصِيَّة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "قاعِدَةٌ يُصْدِرُها شَخْصٌ ذو سُلْطَةٍ ويَجِبُ اتِّباعُها."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Loa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan loa o rul we wan man wetem atoriti i givim we ol man oli mas obei long hem."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Umarni",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Dokar da wani mai iko ya bayar wadda dole ne a bi ta."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "आज्ञा",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अधिकार रखनेवाले किसी व्यक्ति द्वारा दिया गया नियम जिसका पालन किया जाना चाहिए।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Iwu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Iwu nke onye nwere ikike nyere nke a ghaghị idebe ma ọ bụ na-eso."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "आज्ञा",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अधिकार भएको व्यक्तिद्वारा दिइएको नियम जसलाई पालन गर्नुपर्छ।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Заповедь",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Правило, данное кем-то, обладающим властью, которому необходимо следовать."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Amri",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sheria au kanuni inayotolewa na mtu mwenye mamlaka ambayo lazima ifuatwe."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Lo",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela lo em wanpela man i gat bikpela namba i bin givim na ol i mas bihainim."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Điều răn",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Một quy tắc được ban ra bởi một đấng hoặc người có thẩm quyền mà người khác phải tuân giữ."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "诫命",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "由掌权者颁布的、必须遵守的规条。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "誡命",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "由具權柄者所頒布、必須遵守的規定。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

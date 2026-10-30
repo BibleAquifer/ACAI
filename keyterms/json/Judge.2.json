@@ -30,18 +30,159 @@
       ]
     },
     "spa": {
-      "preferred_label": "decidir"
+      "preferred_label": "juzgar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pensar con detenimiento y tomar una decisión o formarse una opinión sobre algo o alguien."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "juger"
+      "preferred_label": "juger",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Réfléchir attentivement et prendre une décision ou se forger une opinion sur quelque chose ou quelqu'un."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "menghakimi"
+      "preferred_label": "menghakimi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Memikirkan masak-masak dan membuat keputusan atau membentuk pendapat mengenai sesuatu atau seseorang."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "julgar",
+      "preferred_label": "Julgar",
       "alternate_labels": [
         "decidir"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pensar cuidadosamente e tomar uma decisão ou formar uma opinião sobre algo ou alguém."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "يدين",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "التفكير بي عناية واتخاذ قرار أو تكوين رأي عن زول أو حاجة."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "دانَ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "التَّفكيرُ بِتَأنٍّ وَاتِّخاذُ قَرارٍ أَو تَكوينُ رَأيٍ بِشَأنِ شَيءٍ ما أَو شَخصٍ ما."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Jajem",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Blong tingting gud mo mekem wan desisen o gat wan tingting long saed blong wan samting o wan man."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Yin Shari’a",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Yin tunani da kyau don yanke shawara ko kuma kafa ra’ayi a kan wani abu ko wani."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "न्याय करना / दोष लगाना",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "किसी बात या व्यक्ति के बारे में गहराई से सोचना और निर्णय लेना या राय बनाना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ikpe ikpe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ịtụgharị uche nke ọma na ime mkpebi ma ọ bụ inwe echiche banyere ihe ma ọ bụ mmadụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "न्याय गर्नु",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "केही कुरा वा कसैको बारेमा ध्यान दिएर सोच्‍नु र निर्णय गर्नु वा राय बनाउनु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Судить",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Тщательно обдумывать и принимать решение или формировать мнение о чем-либо или о ком-либо."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kuhukumu",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kufikiri kwa makini na kufanya uamuzi au kuwa na maoni kuhusu kitu au mtu fulani."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Skelim Man",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tingting gut na mekim disisen o skelim wanpela samting o wanpela manmeri."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Xét đoán",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Suy xét cẩn thận và đưa ra quyết định hoặc hình thành ý kiến về một sự việc hay một người nào đó."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "审判/论断",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "仔细思考并对某事或某人作出决定或形成观点。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "審判／論斷",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "仔細思考並對某事或某人做出決定或形成看法。"
+        }
       ]
     }
   },

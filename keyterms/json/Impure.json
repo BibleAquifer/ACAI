@@ -22,16 +22,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "ordinaria"
+      "preferred_label": "impuro",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Que no es limpio o aceptable en el sentido religioso, ya sea por suciedad o por ser naturalmente impuro."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "commun"
+      "preferred_label": "souillé",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Qui n'est pas pur ou acceptable sur le plan religieux, soit à cause d'une souillure, soit parce qu'il est naturellement impur."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "najis"
+      "preferred_label": "najis",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tidak bersih atau tidak dapat diterima secara agamawi, baik karena kotoran maupun karena secara alami najis."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "imundo"
+      "preferred_label": "impuro",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Não limpo ou inaceitável de modo religioso, seja por sujeira ou por ser impuro por natureza."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "دنس",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ما نظيف أو ما مقبول بطريقة دينية، إما بسبب وسخ أو عشانه نجس بطبيعته."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "دَنِس",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "غير طاهر أو غير مقبول دينيًا، إما بسبب الدنس أو لكونه نجسًا بطبيعته."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "doti",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "I no klin no i no stret folem kastom mo fasin blong wosip, maet from doti no from we i tabu blong tajem no kakae folem loa."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Marar tsarki",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Marar tsarki ko marar karɓuwa bisa ga addini, ko dai saboda ƙazanta ko kuma saboda a asali ba shi da tsarki."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "अपवित्र",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "धार्मिक दृष्टि से शुद्ध या स्वीकार्य न होना, चाहे गंदगी के कारण या प्राकृतिक रूप से अपवित्र होने के कारण।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Na-adịghị ọcha",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Nke na-adịghị ọcha ma ọ bụ nke a na-anabataghị n'ụzọ nke okpukpe, ma ọ bụ n'ihi unyi ma ọ bụ n'ihi na o rụrụ arụ n'onwe ya."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "अशुद्ध",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "फोहोरको कारण वा स्वाभाविक रूपमा अशुद्ध भएकाले धार्मिक रूपमा शुद्ध वा स्वीकार्य नभएको।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Скверный",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Не являющийся чистым или приемлемым с религиозной точки зрения из-за загрязнения либо своей нечистой природы."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Najisi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Siyo safi au lisilokubalika kidini, ama kwa sababu ya uchafu au kwa sababu ni najisi kiasili."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "i no klin",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "I no klin o i no stret long ai bilong God long sait bilong lotu, em bikos em i doti o em i tambu long lo bilong lotu."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Không tinh sạch",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Không thanh sạch hoặc không được chấp nhận về mặt tôn giáo, hoặc do bụi bẩn hoặc do bản chất ô uế theo nghi lễ."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "不洁净的",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "在宗教礼仪上不洁净或不可接受的，或因污垢，或因其本质上就是不洁的。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "不潔淨",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "在宗教禮儀上不潔或不蒙悅納，無論是因為污穢或本質上的不潔淨。"
+        }
+      ]
     }
   },
   "referred_to_as": [

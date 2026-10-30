@@ -20,16 +20,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "impuro"
+      "preferred_label": "impuro (inaceptable ritualmente)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "No aceptable para el uso religioso por ser ritualmente impuro o debido a la naturaleza misma de la cosa."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "impur"
+      "preferred_label": "impur (rituellement inadmissible)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Non recevable pour un usage religieux en raison d'une impureté rituelle ou de la nature même de la chose."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "(roh) jahat"
+      "preferred_label": "haram (tidak dapat diterima secara ritual)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tidak dapat diterima untuk penggunaan keagamaan karena najis secara ritual atau karena hakikat dari hal itu sendiri."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "impuro"
+      "preferred_label": "impuro (ritualmente inaceitável)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Não aceitável para uso religioso por estar ritualmente impuro ou devido à própria natureza da coisa."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "نجس (غير مقبول طقسياً)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ما مقبول للاستعمال الديني بسبب النجاسة الطقسية أو بطبيعة الشي نفسو."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "نَجِسٌ (غَيْرُ مَقْبُولٍ طَقْسِيًّا)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "غَيْرُ مَقْبُولٍ لِلِاسْتِخْدَامِ الدِّينِيِّ بِسَبَبِ نَجَاسَتِهِ طَقْسِيًّا أَوْ بِسَبَبِ طَبِيعَةِ الشَّيْءِ نَفْسِهِ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "No klin (no stret long saed blong kastom mo skul)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Samting we i no stret blong yusum long wosip blong God from we i doti long kastom no skul, no from fasin blong samting ya nomo."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Marar Tsarki (Marar Karɓuwa a Al'ada)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Rashin karɓuwa ga aikin addini saboda rashin tsarki a al'ada ko kuma saboda ainihin yanayin abin da kansa."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "अशुद्ध (अनुष्ठानिक रूप से अस्वीकार्य)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "अनुष्ठानिक रूप से अशुद्ध होने के कारण या स्वयं वस्तु की प्रकृति के कारण धार्मिक उपयोग के लिए अस्वीकार्य होना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Na-adịghị ọcha (A Na-anabataghị nʼEmume)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Nke a na-anabataghị maka iji mee ihe nʼokpukpe nʼihi ịbụ nke na-adịghị ọcha nʼusoro emume maọbụ nʼihi ọdịdị nke ihe ahụ nʼonwe ya."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "अशुद्ध (धार्मिक रूपमा अस्वीकार्य)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "धार्मिक विधिअनुसार अशुद्ध भएको कारणले वा त्यस थोकको आफ्नै प्रकृतिका कारण धार्मिक प्रयोगका लागि ग्रहणयोग्य नभएको।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Нечистый (ритуально неприемлемый)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Неприемлемый для религиозного использования из-за ритуальной нечистоты или по самой своей природе."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Najisi (Kutokubalika Kiibada)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kutokubalika kwa matumizi ya kidini kwa sababu ya kuwa najisi kiibada au kutokana na asili ya kitu chenyewe."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "I No Klin (Tambu Long Ai Bilong God)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "I no inap long mekim wok lotu long en bikos em i no klin long ai bilong God o bikos long pasin bilong dispela samting yet."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "ô uế (không thể chấp nhận theo nghi lễ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Không được chấp nhận để dùng trong tôn giáo vì bị ô uế theo nghi lễ hoặc do bản chất tự nhiên của vật ấy."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "不洁净 (礼仪上不可接纳)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "因在礼仪上不洁或由于事物本身的性质，而不被宗教用途所接纳。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "不潔淨（禮儀上不可接納）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "因禮儀上不潔淨，或因事物本身的性質，以致不可用於宗教用途。"
+        }
+      ]
     }
   },
   "referred_to_as": [

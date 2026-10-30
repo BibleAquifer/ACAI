@@ -21,18 +21,159 @@
       ]
     },
     "spa": {
-      "preferred_label": "rogar"
+      "preferred_label": "pedir (rogar)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pedir algo con urgencia por necesitarlo de verdad."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "demander"
+      "preferred_label": "demander (supplier)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Demander instamment quelque chose parce qu’on en a un besoin réel."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "minta"
+      "preferred_label": "memohon (memohon)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Meminta sesuatu dengan sangat mendesak karena Anda benar-benar membutuhkannya."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "orar",
+      "preferred_label": "suplicar (implorar)",
       "alternate_labels": [
         "rogar"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pedir urgentemente por algo por ter muita necessidade disso."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "طلب (شحد)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "إنك تطلب حاجة بإلحاح شديد عشان محتاج ليها شديد."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "سُؤَال (تَوَسُّل)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "أَنْ تَطْلُبَ شَيْئًا بِإِلْحَاحٍ لِحَاجَتِكَ ٱلْمَاسَّةِ إِلَيْهِ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Askem strong (Krae)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Blong askem strong wan samting from we yu nidim hem tumas."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Roƙo (Maganƙara)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Roƙon wani abu da gaggawa saboda kana tsananin bukatarsa."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "माँगना (विनती करना)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "किसी चीज़ की अत्यंत आवश्यकता होने के कारण उसके लिए आग्रहपूर्वक याचना करना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ịrịọ (Ịrịọsi Ike)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ịrịọsi ihe ike ike nʼihi na ị chọrọ ya nʼezie."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "माग्नु (गुहार माग्नु)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै थोकको साँच्चै खाँचो परेको हुनाले त्यसको निम्ति तुरुन्तै वा उत्कटतापूर्वक माग्नु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Просить (умолять)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Настойчиво просить о чем-то из-за острой нужды в этом."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Kuomba (Kusihi)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kuomba kitu kwa uharaka au msisitizo kwa sababu unakihitaji sana."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "askim (beten strong)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Long askim strong long wanpela samting long wanem yu nidim tru."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Xin (Cầu xin)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Khẩn thiết xin điều gì đó vì bạn thực sự cần nó."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "求（恳求）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "因确实需要而迫切地请求某事。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "求（哀求）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "因真正需要某事物而懇切地請求。"
+        }
       ]
     }
   },

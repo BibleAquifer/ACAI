@@ -20,16 +20,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "víspera del sábado"
+      "preferred_label": "víspera del sábado",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "El día inmediatamente anterior al día de reposo, dedicado a prepararse para ese día especial de descanso."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "le jour avant le sabbat"
+      "preferred_label": "veille du sabbat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Jour qui précède immédiatement le sabbat, consacré aux préparatifs de ce jour spécial de repos."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "hari persiapan (sebelum sabat)"
+      "preferred_label": "hari sebelum Sabat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hari tepat sebelum hari Sabat, yang digunakan untuk bersiap-siap menyambut hari perhentian khusus tersebut."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "véspera do sábado"
+      "preferred_label": "véspera do sábado",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "O dia imediatamente anterior ao sábado, usado para a preparação para esse dia especial de descanso."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "اليوم القبل السبت",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "اليوم القبل يوم السبت طوالي، والبيستعملوه عشان يجهزو ليوم الراحة المخصوص ده."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "يوم الاستعداد للسبت",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "اليوم الذي يسبق السبت مباشرة، وكان يُستخدَم للاستعداد ليوم الراحة الخاص."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Dei bifo long Sabat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Dei ya we i stap stret bifo long Sabat, we ol man oli yusum blong rerem ol samting from spesel dei ya blong spel."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Ranar Shirye-shiryen Asabbaci",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ranar da take dab da Asabbaci, wadda ake amfani da ita wajen shirye-shiryen wannan rana ta musamman ta hutawa."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "सब्त से एक दिन पहले",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "सब्त के ठीक पहले का दिन, जिसका उपयोग विश्राम के उस विशेष दिन की तैयारी करने के लिए किया जाता था।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ụbọchị tupu Ụbọchị Izuike",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ụbọchị na-ebute Ụbọchị Izuike ụzọ kpọmkwem, nke a na-eji akwadebe maka ụbọchị pụrụ iche nke izuike ahụ."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "शबाथको अघिल्लो दिन",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "शबाथको ठिक अघिल्लो दिन, जुन विशेष विश्रामको दिनको निम्ति तयारी गर्न प्रयोग गरिन्थ्यो।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "день перед субботой",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "День непосредственно перед субботой, используемый для подготовки к особому дню покоя."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Siku Kabla ya Sabato",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Siku iliyotangulia mara moja kabla ya Sabato, iliyotumiwa kujiandaa kwa ajili ya siku hiyo maalum ya mapumziko."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "De bilong redi paslain long Sabat",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "De i stap paslain tru long Sabat, em ol i save yusim bilong redi long dispela de bilong malolo."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Ngày trước ngày Sa-bát",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ngày ngay trước ngày Sa-bát, dùng để chuẩn bị cho ngày nghỉ đặc biệt này."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "安息日前日",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "安息日前的一天，用来为这一特殊的安息之日做准备。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "安息日的前一日",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "安息日前的一天，用來為這特別的安息之日作準備。"
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

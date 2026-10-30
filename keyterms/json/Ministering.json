@@ -17,18 +17,159 @@
       ]
     },
     "spa": {
-      "preferred_label": "servidor"
+      "preferred_label": "ministerio",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mostrar cuidado y ayuda a los demás mediante actos de servicio."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "en fonction"
+      "preferred_label": "ministère",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Prendre soin des autres et leur venir en aide par des actes de service."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "melayani"
+      "preferred_label": "pelayanan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Menunjukkan kepedulian dan pertolongan kepada sesama melalui tindakan pelayanan."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "ministrando",
+      "preferred_label": "ministração",
       "alternate_labels": [
         "servidor"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Demonstrar cuidado e prestar ajuda a outros por meio de atos de serviço."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "خدمة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "إظهار الاهتمام ومساعدة الآخرين من خلال أعمال الخدمة."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "خدمة",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "إظهار الرعاية والمساعدة للآخرين من خلال أعمال الخدمة."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Wok blong givhan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Fasin blong soemaot lav mo kea mo givhan long ol narafala man tru long ol wok blong sevis."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Hidima",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Nuna kulawa da taimako ga wasu ta wurin ayyukan hidima."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "परिचर्या",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "सेवा के कार्यों के माध्यम से दूसरों के प्रति परवाह और सहायता प्रकट करना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ije ozi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Igosipụta nlekọta na inyere ndị ọzọ aka site nʼọrụ ije ozi."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "सेवाकार्य",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "सेवाका कार्यहरूद्वारा अरूप्रति हेरचाह र सहायता देखाउनु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Служение",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Проявление заботы и помощи другим через дела служения."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Huduma",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kuonyesha kujali na msaada kwa wengine kupitia matendo ya huduma."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Wok bilong helpim",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Lukautim na helpim ol arapela long rot bilong mekim ol wok bilong helpim ol."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Sự phục vụ",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Thể hiện sự quan tâm và giúp đỡ người khác qua các hành động phục vụ."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "服事工作",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "通过服事的行动向他人表达关爱与帮助。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "服事",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "藉著服事的行動向他人表達關懷與幫助。"
+        }
       ]
     }
   },

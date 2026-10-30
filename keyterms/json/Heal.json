@@ -34,18 +34,159 @@
       ]
     },
     "spa": {
-      "preferred_label": "servir"
+      "preferred_label": "sanar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Hacer que alguien se recupere ayudándolo o cuidándolo."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "guérir"
+      "preferred_label": "guérir",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Rétablir la santé de quelqu'un en l'aidant ou en prenant soin de lui."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "menyembuhkan"
+      "preferred_label": "menyembuhkan",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Membuat seseorang sembuh kembali dengan menolong atau merawat mereka."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "sarar",
+      "preferred_label": "curar",
       "alternate_labels": [
         "servir"
+      ],
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Tornar alguém são novamente, ajudando ou cuidando da pessoa."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "يشفي",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "تخلي الزول يطيب ويرجع كويس بمساعدتو أو الاهتمام بيهو."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "يَشْفي",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "إِعادَةُ الشَّخْصِ إِلى الصِّحَّةِ والعافِيَةِ بِمُساعَدَتِهِ أَوْ رِعايَتِهِ."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Mekem i gud bakegen",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mekem wan sikman i gud bakegen tru long helpem no kea long hem."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Warkar",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mayar da wani ya warke ta wurin taimaka masa ko kula da shi."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "चंगा करना",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "किसी की सहायता या देखभाल करके उसे फिर से स्वस्थ करना।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Ịgwọ ọrịa",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ime ka mmadụ dịghachi mma site nʼinyere ya aka ma ọ bụ ilekọta ya."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "निको पार्नु",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "मद्दत गरेर वा हेरचाह गरेर कसैलाई फेरि निको वा स्वस्थ बनाउनु।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Исцелять",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Возвращение кому-либо здоровья посредством помощи или заботы."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Ponya",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kumfanya mtu awe mzima tena kwa kumsaidia au kumtunza."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Mekim i orait",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mekim sikman i kamap orait gen long rot bilong helpim na lukautim em."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Chữa lành",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Làm cho ai đó khỏe mạnh trở lại bằng cách giúp đỡ hoặc chăm sóc họ."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "医治",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "通过帮助或照料使人康复。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "醫治",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "透過幫助或照料使人恢復健康。"
+        }
       ]
     }
   },

@@ -24,16 +24,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "testimonio"
+      "preferred_label": "testimonio",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Algo que demuestra o prueba que un hecho es verdadero, ayudando a otros a recordarlo o creerlo."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "témoin"
+      "preferred_label": "témoignage",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ce qui montre ou prouve qu'un fait est vrai, aidant les autres à s'en souvenir ou à y croire."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "saksi"
+      "preferred_label": "saksi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Sesuatu yang menunjukkan atau membuktikan bahwa suatu fakta adalah benar, yang membantu orang lain mengingat atau mempercayainya."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "witness"
+      "preferred_label": "testemunho",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Algo que demonstra ou comprova a verdade de um fato, ajudando outros a lembrar ou a crer nisso."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "شاهد",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "حاجة بتبيّن أو بتثبت إن الحقيقة صحيحة، وبتساعد الناس يتذكروا أو يصدقوا."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "شَاهِد",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "شيء يُظهر أو يثبت حقيقة أمر ما، ويساعد الآخرين على التذكر أو التصديق."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Pruf",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan samting we i soemaot no i pruvum se wan samting i tru, we i givhan long ol narafala man blong tingbaot no bilif long hem."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Shaida",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wani abu da yake nuna ko tabbatar da cewa wata gaskiya ce, yana taimaka wa wasu su tuna ko su gaskata."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "गवाही",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "ऐसी कोई बात जो दर्शाती या प्रमाणित करती है कि कोई तथ्य सत्य है, जिससे दूसरों को उसे स्मरण रखने या विश्वास करने में सहायता मिलती है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Akaebe",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Ihe na-egosi ma ọ bụ na-eme ka o doo anya na otu ihe bụ eziokwu, na-enyere ndị ọzọ aka icheta ma ọ bụ kwere ya."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "साक्षी",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "कुनै तथ्य सत्य हो भनी देखाउने वा प्रमाणित गर्ने कुरा, जसले अरूलाई सम्झन वा विश्‍वास गर्न मद्दत गर्दछ।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Свидетельство",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Нечто, показывающее или доказывающее истинность факта, помогая другим помнить или верить в это."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Shahidi",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Kitu kinachoonyesha au kuthibitisha kwamba ukweli fulani ni thabiti, kikiwasaidia wengine kukumbuka au kuamini."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Witnes",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela samting i soim o pruvim olsem wanpela samting em i tru, na i helpim ol arapela long tingim o bilip long en."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Bằng chứng",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Điều gì đó bày tỏ hoặc chứng minh một sự thật, giúp người khác ghi nhớ hoặc tin tưởng."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "证据",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "表明或证明某一事实属实的事物，有助于他人记住或相信该事实。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "見證",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "表明或證明某事屬實、幫助他人記念或相信的事物。"
+        }
+      ]
     }
   },
   "referred_to_as": [

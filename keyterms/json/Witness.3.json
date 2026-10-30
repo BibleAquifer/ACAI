@@ -21,16 +21,157 @@
       ]
     },
     "spa": {
-      "preferred_label": "testigo"
+      "preferred_label": "testigo (persona)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Persona que declara lo que ha visto o cree, a veces incluso entregando su vida por ello."
+        }
+      ]
     },
     "fra": {
-      "preferred_label": "témoin"
+      "preferred_label": "témoin (personne)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Personne qui raconte ce qu'elle a vu ou ce qu'elle croit, allant parfois jusqu'à donner sa vie pour cela."
+        }
+      ]
     },
     "ind": {
-      "preferred_label": "saksi"
+      "preferred_label": "saksi (orang)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Seseorang yang menceritakan apa yang telah dilihat atau dipercayainya, terkadang bahkan menyerahkan nyawanya demi hal itu."
+        }
+      ]
     },
     "por": {
-      "preferred_label": "testemunha"
+      "preferred_label": "testemunha (pessoa)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Pessoa que relata o que viu ou naquilo em que crê, às vezes até entregando a própria vida por isso."
+        }
+      ]
+    },
+    "apd": {
+      "preferred_label": "شاهد (شخص)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "زول بيحكي باللي شافه أو باللي بيؤمن بيه، وساعات حتى بيضحي بحياته عشان كده."
+        }
+      ]
+    },
+    "arb": {
+      "preferred_label": "شَاهِد (شَخْص)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "شخص يخبر بما رأى أو بما يؤمن به، ويضحي أحيانًا بحياته في سبيل ذلك."
+        }
+      ]
+    },
+    "bis": {
+      "preferred_label": "Witnes (Man)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wan man we i stap talemaot samting we hem i luk no we hem i bilif long hem, we samtaem hem i save givim laef blong hem from tu."
+        }
+      ]
+    },
+    "hau": {
+      "preferred_label": "Shaida (Mutum)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mutumin da yake faɗin abin da ya gani ko yake gaskatawa, a wasu lokutan har da sadaukar da ransa domin hakan."
+        }
+      ]
+    },
+    "hin": {
+      "preferred_label": "गवाह (व्यक्ति)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "वह व्यक्ति जो बताता है कि उसने क्या देखा है या किस पर विश्वास करता है, कभी-कभी इसके लिए अपने प्राण भी दे देता है।"
+        }
+      ]
+    },
+    "ibo": {
+      "preferred_label": "Onye akaebe (Mmadụ)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Onye na-akọ ihe ọ hụrụ ma ọ bụ ihe o kweere na ya, mgbe ụfọdụ ọbụna na-atụfu ndụ ya nʼihi ya."
+        }
+      ]
+    },
+    "nep": {
+      "preferred_label": "साक्षी (व्यक्ति)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "आफूले देखेको वा विश्‍वास गरेको कुरा बताउने व्यक्ति, कहिलेकाहीँ यसको निम्ति आफ्नो प्राणसमेत दिने।"
+        }
+      ]
+    },
+    "rus": {
+      "preferred_label": "Свидетель (человек)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Человек, рассказывающий о том, что видел или во что верит, иногда даже отдающий за это жизнь."
+        }
+      ]
+    },
+    "swh": {
+      "preferred_label": "Shahidi (Mtu)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Mtu anayeeleza mambo aliyoyaona au anayoamini, wakati mwingine hata akitoa uhai wake kwa ajili ya hayo."
+        }
+      ]
+    },
+    "tpi": {
+      "preferred_label": "Witnes (Man)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Wanpela manmeri i save autim tok long samting em i bin lukim o bilip long en, na sampela taim em i save givim laip bilong em tu bilong dispela."
+        }
+      ]
+    },
+    "vie": {
+      "preferred_label": "Nhân chứng (Con người)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "Người thuật lại những gì mình đã thấy hoặc tin, đôi khi thậm chí hi sinh cả tính mạng vì điều đó."
+        }
+      ]
+    },
+    "zhs": {
+      "preferred_label": "见证人 (人)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "讲述自己所见或所信之事的人，有时甚至为此献出生命。"
+        }
+      ]
+    },
+    "zht": {
+      "preferred_label": "見證人（人）",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "講述自己所見或所信之人，有時甚至為此犧牲生命。"
+        }
+      ]
     }
   },
   "referred_to_as": [
