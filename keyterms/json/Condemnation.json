@@ -168,6 +168,15 @@
           "description": "被判定有罪並須承受刑罰的狀態。"
         }
       ]
+    },
+    "fas": {
+      "preferred_label": "محکومیت (مجازات)",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "وضعیت مجرم شناخته شدن و نیاز به روبرو شدن با مجازات."
+        }
+      ]
     }
   },
   "referred_to_as": [
