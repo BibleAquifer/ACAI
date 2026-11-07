@@ -165,6 +165,15 @@
           "description": "經文上下文中提及之人的親屬。"
         }
       ]
+    },
+    "fas": {
+      "preferred_label": "خویشاوندان",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "خویشاوندی از شخصی که در سیاق متن به او اشاره شده است."
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

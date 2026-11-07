@@ -165,6 +165,15 @@
           "description": "在經文事件中參與的宗教官員或領袖。"
         }
       ]
+    },
+    "fas": {
+      "preferred_label": "مقام مذهبی",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "یک مقام مذهبی حاضر در یک بخش از متن."
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,

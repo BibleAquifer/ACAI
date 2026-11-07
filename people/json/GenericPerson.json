@@ -165,6 +165,15 @@
           "description": "在經文中出現的人物。"
         }
       ]
+    },
+    "fas": {
+      "preferred_label": "یک شخص",
+      "descriptions": [
+        {
+          "source": "acai",
+          "description": "شخصی که در یک متن حضور دارد."
+        }
+      ]
     }
   },
   "only_mentioned_in_apocrypha": false,
